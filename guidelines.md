@@ -1,5 +1,5 @@
 ---
-source-git-commit: 72af899fe787f16d79d878c59e5e193b457cefad
+source-git-commit: 648e8068125cca090a5f31a44c3795755a2b996f
 translation-type: tm+mt
 
 ---
@@ -35,13 +35,13 @@ De uitzonderingen op deze regel zijn op de versienota&#39;s van toepassing waar 
 
 Alle ideeën die u eventueel nodig hebt om de documentatie te verbeteren, zijn welkom als bijdragen. Opmerkingen, problemen en intrekkingsverzoeken zijn echter alleen bedoeld voor *bijdragen* . Zij zijn niet bedoeld om worden gebruikt om uw vragen over te beantwoorden hoe te om Dynamische Klassiek van Media te gebruiken, uw project uit te voeren, of technische problemen op te lossen.
 
-Vragen over het gebruik van Dynamic Media Classic of technische fouten die u mogelijk hebt, moeten via het normale supportproces worden gerapporteerd.
+Vragen over het gebruik van Dynamic Media Classic of technische fouten die u mogelijk hebt, moeten worden gerapporteerd via de [Experience Cloud Enterprise Support-portal](https://helpx.adobe.com/contact/enterprise-support.ec.html) of worden besproken in de [Experience Cloud-community](https://forums.adobe.com/community/experience-cloud/marketing-cloud/experience-manager).
 
-***De bijdragen van de documentatie zijn geen vervanging voor de steun*** van Adobe en om het even welke dergelijke bijdragen die antwoorden op steun-verwante vragen zoeken zullen worden verworpen.
+***De bijdragen van de documentatie zijn geen vervanging voor de klantenservice*** van Adobe en dergelijke bijdragen die antwoorden op supportgerelateerde vragen zoeken, zullen worden afgewezen.
 
 ### Bijdragen moeten duidelijk verwijzen naar betrokken documentatiepagina&#39;s.
 
-Als u een probleemmelding maakt om verbeteringen in de documentatie voor te stellen, moet u koppelingen naar de betreffende pagina&#39;s opnemen. Als u een probleemmelding maakt met de koppeling **Deze pagina bewerken** op een documentatiepagina, wordt de probleemmelding automatisch gemaakt met een koppeling naar de pagina.
+Als u een probleem maakt om verbeteringen in de documentatie voor te stellen, moet u koppelingen naar de betrokken pagina&#39;s opnemen. Als u een probleemmelding maakt met de koppeling **Deze pagina bewerken** op een documentatiepagina, wordt de probleemmelding automatisch gemaakt met een koppeling naar de pagina.
 
 Dit is niet van toepassing op trekkingsverzoeken aangezien trekkingsverzoeken door hun aard verwijzen naar de betrokken pagina(&#39;s).
 
