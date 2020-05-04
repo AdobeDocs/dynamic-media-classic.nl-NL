@@ -9,7 +9,7 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
 discoiquuid: b2bc3bf9-e313-481a-8670-c3bedde21b1a
 translation-type: tm+mt
-source-git-commit: 684950586bf9b1df897ac46b52d84a21f4cb4120
+source-git-commit: e37612b066909fdba486bd72ee4ae3712294f50a
 
 ---
 
@@ -49,6 +49,17 @@ Deze lijst maakt een lijst van de formaten van het activadossier die het het Pub
 
 Ondersteuning voor TAR- en ZIP-upload bevat een selectievakje om aan te geven of u de bestanden wilt uitpakken.
 
+### Niet-ondersteunde afbeeldingsindelingen in Dynamic Media {#unsupported-image-formats-dynamic-media}
+
+In de volgende lijst worden de subtypen beschreven van bestandsindelingen voor rasterafbeeldingen die *niet* worden ondersteund in Dynamic Media.
+
+* PNG-bestanden met een IDAT-segmentgrootte groter dan 100 MB.
+* PSB-bestanden.
+* PSD-bestanden met een andere kleurruimte dan CMYK, RGB, Grijswaarden of Bitmap worden niet ondersteund. DuoTone-, Lab- en Geïndexeerde kleurruimten worden niet ondersteund.
+* PSD-bestanden met een bitdiepte groter dan 16.
+* TIFF-bestanden met zwevende-kommagegevens.
+* TIFF-bestanden met LAB-kleurruimte.
+
 ### Elementen {#asset-types}
 
 Voor optimale resultaten met het Dynamic Media Classic-platform moet u de aanbevolen bestandsindelingen en -grootten gebruiken. In deze tabel worden de elementtypen weergegeven, waarvan sommige de aanbevolen indelingen en bestandsgrootten hebben voor veelgebruikte elementen.
@@ -58,7 +69,7 @@ Voor optimale resultaten met het Dynamic Media Classic-platform moet u de aanbev
 | Audio | Invoergeluidsindelingen voor audio-elementen zijn AAC, HE-AAC, AC3, WAV, WMA, AIFF, MP3. U kunt audio naar de volgende indelingen transcoderen: MP3, AAC en HE-AAC. |
 | Afbeeldingen (voor Afbeeldingsgrootte, Zoomen, Afbeeldingssets, Spin-sets) | Afbeeldingen moeten ten minste 2000 pixels groot zijn; De meeste afbeeldingen hebben een grootte van 1500 tot 2500 pixels in de langste afmeting. Het wordt aanbevolen afbeeldingen zonder verlies in te stellen, zoals TIFF- en PNG-bestanden. Als u een JPEG-afbeelding gebruikt, gebruikt u de instellingen voor de hoogste kwaliteit. GIF-bestanden met animatie worden op dezelfde manier verwerkt als andere statische inhoud. |
 | eCatalogs | Gebruik PDF-bestanden met hoge resolutie die zijn gemaakt in Adobe® Acrobat® of een Creative Suite-toepassing die zijn opgeslagen als bestanden die klaar zijn voor gebruik op de drukpers. PDF&#39;s bevatten alle benodigde lettertypen, afbeeldingen, maskers en grafische elementen waarnaar wordt verwezen, zoals enkele pagina&#39;s, spreads met twee pagina&#39;s of in een indeling met meerdere pagina&#39;s. Volgorde uw pagina&#39;s door de dossiers in alfanumerieke orde te noemen. Plaats alle PDF&#39;s voor uw eCatalog in één map, zodat u ze eenvoudig kunt uploaden. U kunt opties voor uitsnijden selecteren bij het uploaden om het bijsnijdgebied van PDF&#39;s te verwijderen, zoals snijtekens, registratiedoelen of kleurenbalken. De meeste PDF-bestanden die klaar zijn voor drukken bevinden zich in de CMYK-kleurruimte. Het is daarom belangrijk dat u het CMYK ICC-kleurprofiel opgeeft dat wordt gebruikt bij uw PDF-bestanden. |
-| Sjablonen | Een gelaagde afbeelding of lay-outontwerp dat tekst, afbeeldingen en lagen kan bevatten. Afbeeldingslagen, tekstreeksen en kenmerken, zoals kleur en grootte, kunnen worden geparametriseerd zodat variabele gegevens kunnen worden aangepast. Afbeeldingsvereisten voor gebruik in sjablonen zijn gelijk aan die voor andere afbeeldingen. Bereid uw afbeeldingen voor in Photoshop of een ander beeldbewerkingsprogramma. Sla elke afbeelding op als een afgevlakt transparant bestand in de TIFF- of PNG-indeling. Zorg ervoor dat de afbeeldingsresolutie geschikt is voor het verwachte gebruik. Afbeeldingen die u wilt afdrukken, moeten 300 ppi zijn. |
+| Sjablonen | Een gelaagde afbeelding of lay-outontwerp dat tekst, afbeeldingen en lagen kan bevatten. Afbeeldingslagen, tekstreeksen en kenmerken, zoals kleur en grootte, kunnen worden geparametereerd zodat variabele gegevens kunnen worden aangepast. Afbeeldingsvereisten voor gebruik in sjablonen zijn gelijk aan die voor andere afbeeldingen. Bereid uw afbeeldingen voor in Photoshop of een ander beeldbewerkingsprogramma. Sla elke afbeelding op als een afgevlakt transparant bestand in de TIFF- of PNG-indeling. Zorg ervoor dat de afbeeldingsresolutie geschikt is voor het verwachte gebruik. Afbeeldingen die u wilt afdrukken, moeten 300 ppi zijn. |
 | Video&#39;s | Dynamic Media Classic ondersteunt videobestanden die zijn opgeslagen in de OGV- en MP4-indeling. U kunt bestanden uploaden naar MP4-indeling.Zie [Ondersteunde bestandsindelingen](#supported-static-file-formats). |
 | Lettertypen | Geüpload TrueType, Type1 (alleen Windows), OpenType-lettertypen en PhotoFonts |
 | Afbeeldingen | Afbeeldingen en gelaagde afbeeldingsbestanden. |
@@ -114,7 +125,7 @@ In de meeste gevallen kan de bestandsnaam van een element hetzelfde zijn als het
 
 | Item | Bestandsnaam | Element-id |
 |--- |--- |--- |
-| 896649 | 896649,jpg | 896649 |
+| 896649 | 896649.jpg | 896649 |
 | 48A3_2X | 48A3_2X.tif | 48A3_2X |
 
 ### Maporganisatie en -structuur {#folder-organization-and-structure}
@@ -212,7 +223,7 @@ Bij het uploaden van bestanden kunt u uit de volgende opties kiezen in het dialo
 
    * **Overschrijf in een willekeurige map dezelfde naam voor basiselementen, ongeacht de extensie** . Deze optie is beschikbaar als u op het tabblad **FROM DESKTOP** of op het tabblad **VIA FTP** hebt geselecteerd. Selecteer deze optie als u wilt dat de bestanden die u uploadt, bestaande bestanden met dezelfde naam vervangen. Deze optie is ook beschikbaar op de Upload pagina. De naam van deze optie kan verschillen, afhankelijk van de instellingen in **Toepassingsinstellingen > Algemene instellingen > Uploaden naar toepassing > Afbeeldingen** overschrijven.
 
-   * **ZIP- of tekstbestanden bij uploaden** decomprimeren — Beschikbaar als u op het tabblad **VANUIT BUREAUBLAD** of **VIA FTP** hebt geselecteerd.
+   * **ZIP- of tekstbestanden bij uploaden** decomprimeren — Beschikbaar als u op het tabblad **VANUIT BUREAUBLAD** of op het tabblad **VIA FTP** hebt geselecteerd.
 Selecteer deze optie als u automatisch alle bestanden uit het geüploade ZIP- of TAR-bestand wilt extraheren. Deze optie is ook beschikbaar in het dialoogvenster Taakopties.
 
    * **Inclusief submappen** — alleen beschikbaar als u het tabblad **VIA FTP** hebt geselecteerd.
