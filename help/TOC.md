@@ -5,9 +5,9 @@ audience: end-user
 user-guide-title: Dynamic Media Classic Help
 index: y
 translation-type: tm+mt
-source-git-commit: 7739d61eac6ca4d278e88d570e9890a67669bcb8
+source-git-commit: 2ba41733263b9b186c45e97e6b2350aeb2b400ac
 workflow-type: tm+mt
-source-wordcount: '726'
+source-wordcount: '723'
 ht-degree: 1%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 1%
 # Dynamic Media Classic Help {#using}
 
 + [Dynamic Media Classic Documentation Home](home.md)
-+ [Nieuwe Dynamic Media Classic-gebruikersinterface die in de eerste helft van 2020 wordt geïntroduceerd](new-ui-2020.md)
++ [NIEUWE Dynamic Media Classic-aanmeldervaring beschikbaar op 30 juni 2020](new-ui-2020.md)
 + [Dynamic Media-nieuwsbrief van Experience League](dynamic-media-newsletter.md)
 + Introductie van Adobe Dynamic Media Classic {#intro}
    + [Info over Dynamic Media Classic](introduction.md)
