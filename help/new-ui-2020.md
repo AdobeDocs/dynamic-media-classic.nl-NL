@@ -7,7 +7,7 @@ contentOwner: rbrough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
 translation-type: tm+mt
-source-git-commit: 36d716d080cf9afde2361d8fce1c9123bb085bf1
+source-git-commit: 718067c87239044a827c66f72f7a2d0a476a23f6
 workflow-type: tm+mt
 source-wordcount: '981'
 ht-degree: 0%
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 ## _Laatst bijgewerkt op 7 mei 2020_
 
-Op 30 juni 2020 krijgen Dynamic Media klassieke gebruikers toegang tot een nieuwe aanmeldingservaring die niet langer afhankelijk is van Adobe Flash-technologie in de browser. Lees de volgende Veelgestelde Vragen om meer te leren.
+Op 30 juni 2020 hebben Dynamic Media klassieke gebruikers toegang tot een nieuwe aanmeldervaring die niet langer afhankelijk is van Adobe Flash-technologie in de browser. Lees de volgende Veelgestelde Vragen om meer te leren.
 
 ### **_Wanneer browsers stoppen met het ondersteunen van Adobe Flash op 31 december 2020, zullen er gevolgen zijn voor Dynamic Media Classic (voorheen Scene7)?_**
 
