@@ -10,7 +10,10 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/setup
 discoiquuid: 6314e7b7-5bde-4fe2-8674-e4fc525d4d1c
 translation-type: tm+mt
-source-git-commit: a1722c15d3c049f05959d895e85297d47d730872
+source-git-commit: df0c2897b9fceddde648be53b23e25b13388d6b9
+workflow-type: tm+mt
+source-wordcount: '1209'
+ht-degree: 1%
 
 ---
 
@@ -32,25 +35,6 @@ Hiermee worden uw accountnaam, naam, gebruikersnaam (e-mailadres) en toegewezen 
 ### Desktopversie
 
 Klik installeren nu om de Desktopversie van het Publiceren Scene7 Systeem op uw lokale harde aandrijving te installeren. U kunt ook op Nu opnieuw installeren klikken om de bureaubladversie opnieuw te installeren.
-
-### Illustrator-plug-in voor web-to-print
-
-Op computers met Windows 7 of 8 moet u beheerdersrechten hebben en u aanmelden als beheerder in Windows om de insteekmodule Adobe Illustrator voor web-to-print te installeren. Nadat u de plug-in hebt geïnstalleerd, is deze beschikbaar in Adobe Illustrator.
-
-De insteekmodule wordt ondersteund voor de volgende Adobe Illustrator-versies:
-
-* Adobe Illustrator 18 in Adobe Creative Cloud 2014.
-* Adobe Illustrator 17 in Adobe Creative Cloud.
-* Adobe Illustrator 16 in Adobe Creative Suite 6.
-
-Ondersteunde Adobe Illustrator-platforms bevatten het volgende:
-
-* Apple Mac OS X 10.7 of hoger.
-* Windows 8, 32 en 64 bits.
-* Windows 7, 32 en 64 bits.
-* Windows XP, 32-bits en 64-bits (alleen voor Adobe Illustrator 16 in Adobe Creative Suite 6).
-
-Zie ook [Sjabloonpublicatie](quick-start-template-publishing.md).
 
 ## De insteekmodule installeren op uw lokale vaste schijf
 
@@ -138,7 +122,6 @@ Zie ook Door [de gebruiker gedefinieerde velden](application-setup.md#user_defin
       * Bevat ten minste één hoofdletter
       * Bevat minstens één getal
       * Bevat ten minste een van de volgende speciale tekens: #$&amp;-_:{}
-
 * **Wachtwoord opnieuw typen**
    * Voer het nieuwe wachtwoord opnieuw in om te bevestigen dat u het correct invoert.
 * **Wachtwoordvervaldatum**
