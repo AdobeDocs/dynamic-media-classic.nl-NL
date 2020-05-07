@@ -5,7 +5,10 @@ description: Dynamic Media Classic - overzicht
 seo-description: Dynamic Media Classic - overzicht
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
 translation-type: tm+mt
-source-git-commit: 1c11dd719e5da1d166f43e0ab9b490464c74645f
+source-git-commit: df0c2897b9fceddde648be53b23e25b13388d6b9
+workflow-type: tm+mt
+source-wordcount: '245'
+ht-degree: 0%
 
 ---
 
@@ -19,7 +22,6 @@ Welkom bij Adobe Dynamic Media Classic (voorheen Scene7), het toonaangevende pub
 * Mediaportaal: Zelf-servermilieu die poortgebruikers van beheerder-gecontroleerde &quot;meningen&quot;in Dynamische Klassieke activa van Media voorzien voor gemakkelijke toegang om te uploaden, te doorbladeren, te zoeken, voorproef, en de uitvoer van activa.
 * eVideo: Definitieve video&#39;s uploaden in elke gewenste indeling, beheren, bewerken, hotspots en videosjablonen maken, publiceren en streamen naar configureerbare videoviewers
 * Visuele configuraties: Technologie voor rendering in realtime om online visuele configuratie mogelijk te maken voor personalisatie- en aanpassingseffecten, zoals real-time rendering van kleurenstructuren, oppervlakken, patronen, monogrammen en gravures in productafbeeldingen of scènes.
-* Web-to-Print: Compositietechnologie en -framework in realtime om aangepaste web-to-print oplossingen mogelijk te maken voor het maken van aangepaste en gepersonaliseerde documenten.
 * Doel: e-mail en afdrukken: Lever visueel gerichte, gepersonaliseerde e-mailcampagnes verbonden aan klantenprofiel, product, en kanaalgegevensbestanden.
 
 ## Belangrijke bronnen
@@ -35,7 +37,6 @@ Welkom bij Adobe Dynamic Media Classic (voorheen Scene7), het toonaangevende pub
 * [Snel starten: Staalsets](/help/quick-start-swatch-sets.md)
 * [Snel starten: Klassieke doelintegratie](/help/quick-start-target-classic-integration.md)
 * [Snel starten: Grondbeginselen van sjablonen](/help/quick-start-template-basics.md)
-* [Snel starten: Sjabloon publiceren](/help/quick-start-template-publishing.md)
 * [Snel starten: Video](/help/quick-start-video.md)
 * [Snel starten: Zoomen](/help/quick-start-zoom.md)
 
