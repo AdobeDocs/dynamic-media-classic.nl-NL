@@ -5,7 +5,10 @@ audience: end-user
 user-guide-title: Dynamic Media Classic Help
 index: y
 translation-type: tm+mt
-source-git-commit: 94432c916b175845e341bd4beb6d2cc96f613142
+source-git-commit: 7739d61eac6ca4d278e88d570e9890a67669bcb8
+workflow-type: tm+mt
+source-wordcount: '726'
+ht-degree: 1%
 
 ---
 
@@ -127,16 +130,6 @@ source-git-commit: 94432c916b175845e341bd4beb6d2cc96f613142
    + [Sjablonen publiceren](publishing-templates.md)
    + [Een sjabloon koppelen aan een webpagina](linking-template-web-page.md)
    + [Inhoudswijzigingen beheren](content-variations.md)
-+ Sjabloon publiceren {#template-publishing}
-   + [Snel starten: Sjabloon publiceren](quick-start-template-publishing.md)
-   + [De eerste sjabloon maken in Adobe Illustrator](create-initial-template-illustrator.md)
-   + [Bestanden uploaden voor Sjabloonpublicatie](upload-files-template-publishing.md)
-   + [Variabiliteit definiëren: Parameterization versus DOM manipulatie](defining-variability-parameterization-versus-dom.md)
-   + [Een sjabloon in Dynamic Media Classic parametereren](parameterizing-template-scene7.md)
-   + [Sjabloonkenmerken voorvertonen en bijwerken](preview-update-template-attributes.md)
-   + [DOM-manipulatie](dom-manipulation.md)
-   + [Een FXG-sjabloon koppelen aan een webpagina](linking-fxg-template-web-page.md)
-   + [Een PDF-document maken](creating-pdf-document.md)
 + Video {#video}
    + [Snel starten: Video](quick-start-video.md)
    + [Beste praktijken: De HTML5-videoviewer gebruiken](best-practice-using-html5-video.md)
