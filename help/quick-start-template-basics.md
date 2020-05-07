@@ -10,7 +10,10 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/template_basics
 discoiquuid: dd0fbb39-3f6a-496b-a9b6-63b11dcb823a
 translation-type: tm+mt
-source-git-commit: e3c64b90e0af0129571a21b132477c0c86d06405
+source-git-commit: df0c2897b9fceddde648be53b23e25b13388d6b9
+workflow-type: tm+mt
+source-wordcount: '786'
+ht-degree: 0%
 
 ---
 
@@ -18,10 +21,6 @@ source-git-commit: e3c64b90e0af0129571a21b132477c0c86d06405
 # Snel starten: Grondbeginselen van sjablonen{#quick-start-template-basics}
 
 De basis van sjablonen wordt dynamisch gemaakt en adresseerbare gelaagde afbeeldingsbestanden, zoals gelaagde bestanden, in beeldbewerkingstoepassingen zoals Adobe Photoshop. In tegenstelling tot een statisch bestand met lagen, zoals een PSD-bestand, kan een sjabloon parameters bevatten. Aan de hand van parameters kunnen de verschillende aspecten van de afbeelding worden benaderd en aangepast.
-
->[!NOTE]
->
->U kunt ook sjablonen maken op basis van lay-outontwerpen met behulp van Sjabloonpublicatie en bestanden uit Adobe Illustrator en Adobe InDesign. Zie [Sjabloonpublicatie](quick-start-template-publishing.md) .
 
 Een sjabloon kan een willekeurig aantal afbeeldingslagen en tekstlagen bevatten. U kunt een statisch bestand met lagen, zoals een gelaagd PSD-bestand, omzetten in een sjabloon en sjablonen maken in Dynamic Media Classic. U kunt tekstlagen in sjablonen maken met lettertypen die u naar SPS hebt geüpload. Nadat u tekst aan een sjabloon hebt toegevoegd, kunt u deze opmaken door de uitvulling, lettertypen, tekengrootte en kleur ervan te wijzigen.
 
