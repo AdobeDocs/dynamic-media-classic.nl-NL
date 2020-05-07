@@ -10,7 +10,10 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/getting_started
 discoiquuid: 86f72d31-19aa-4077-a746-2badb53b02ec
 translation-type: tm+mt
-source-git-commit: 6fff3699f8a08af433df3f3a7790a11bf9d05b00
+source-git-commit: df0c2897b9fceddde648be53b23e25b13388d6b9
+workflow-type: tm+mt
+source-wordcount: '459'
+ht-degree: 0%
 
 ---
 
@@ -34,7 +37,5 @@ Dynamic Media Classic biedt veel gereedschappen voor het maken van rijke media. 
 * **Staalsets** bieden een interactieve winkelervaring waarin gebruikers producten in verschillende kleuren en patronen kunnen bekijken. U kunt zoomen, meerdere weergaven en kleurstalen combineren voor een geïntegreerde weergave. Zie [Snel starten: Staalsets](/help/quick-start-swatch-sets.md).
 
 * **Sjabloongrondbeginselen** Gegevensgestuurde sjablonen maken waarin lettertypen, afbeeldingen en afbeeldingen worden gecombineerd voor monogramming, online-personalisatie en promoties. Bijvoorbeeld, laag verkoop of andere promotionele grafiek op productbeelden of plaats de namen van klanten op T-shirts of koffiemugs. Klanten kunnen hun namen zien in e-mailberichten of gedrukte brochures die u hen stuurt. Zie [Snel starten: Basisprincipes](/help/quick-start-template-basics.md)van sjablonen.
-
-* **Sjabloonpublicatie** Maak professioneel gemerkte afdrukinhoud die uw klanten, klanten en medewerkers eenvoudig kunnen aanpassen en aanpassen. U kunt de inhoud en merkidentiteit van uw bedrijf tijdens het publicatieproces behouden. Eindgebruikers kunnen de afdrukinhoud aanpassen, maar alleen het gedeelte van de inhoud dat u ze toestaat aan te passen. Persoonlijke stilstaande beelden, visitekaartjes, posters, wenskaarten, labels, cheques, geschenken, kleding, kalenders, plakboeken en fotoalbums zijn voorbeelden van aangepaste afdrukproducten die u kunt leveren. Ondernemingen kunnen een gemeenschappelijke merkidentiteit in hun handtekening handhaven die voor verschillende regio&#39;s, franchises, winkels, en bijkantoren kan worden aangepast. Zie [Snel starten: Sjabloonpublicatie](/help/quick-start-template-publishing.md).
 
 * **Met Zoomdoelen** kunnen klanten inzoomen, uitzoomen en afbeeldingen pannen met de configureerbare viewers die bij Dynamic Media Classic worden geleverd. Klanten kunnen snel en interactief productdetails met een hoge resolutie bekijken. Zie [Snel starten: Zoomen](/help/quick-start-zoom.md).
