@@ -9,7 +9,10 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
 discoiquuid: b2bc3bf9-e313-481a-8670-c3bedde21b1a
 translation-type: tm+mt
-source-git-commit: e37612b066909fdba486bd72ee4ae3712294f50a
+source-git-commit: d5dcc67200b636cafcf1c87b2ecdfb2271b7b9a2
+workflow-type: tm+mt
+source-wordcount: '3867'
+ht-degree: 0%
 
 ---
 
@@ -52,6 +55,8 @@ Ondersteuning voor TAR- en ZIP-upload bevat een selectievakje om aan te geven of
 ### Niet-ondersteunde afbeeldingsindelingen in Dynamic Media {#unsupported-image-formats-dynamic-media}
 
 In de volgende lijst worden de subtypen beschreven van bestandsindelingen voor rasterafbeeldingen die *niet* worden ondersteund in Dynamic Media.
+
+Zie ook Niet-ondersteunde bestandsindelingen [detecteren voor dynamische media](https://helpx.adobe.com/experience-manager/kb/detect-unsupported-assets-for-dynamic-media.html).
 
 * PNG-bestanden met een IDAT-segmentgrootte groter dan 100 MB.
 * PSB-bestanden.
@@ -223,7 +228,7 @@ Bij het uploaden van bestanden kunt u uit de volgende opties kiezen in het dialo
 
    * **Overschrijf in een willekeurige map dezelfde naam voor basiselementen, ongeacht de extensie** . Deze optie is beschikbaar als u op het tabblad **FROM DESKTOP** of op het tabblad **VIA FTP** hebt geselecteerd. Selecteer deze optie als u wilt dat de bestanden die u uploadt, bestaande bestanden met dezelfde naam vervangen. Deze optie is ook beschikbaar op de Upload pagina. De naam van deze optie kan verschillen, afhankelijk van de instellingen in **Toepassingsinstellingen > Algemene instellingen > Uploaden naar toepassing > Afbeeldingen** overschrijven.
 
-   * **ZIP- of tekstbestanden bij uploaden** decomprimeren — Beschikbaar als u op het tabblad **VANUIT BUREAUBLAD** of op het tabblad **VIA FTP** hebt geselecteerd.
+   * **ZIP- of tekstbestanden bij uploaden** decomprimeren — Beschikbaar als u op het tabblad **VANUIT BUREAUBLAD** of **VIA FTP** hebt geselecteerd.
 Selecteer deze optie als u automatisch alle bestanden uit het geüploade ZIP- of TAR-bestand wilt extraheren. Deze optie is ook beschikbaar in het dialoogvenster Taakopties.
 
    * **Inclusief submappen** — alleen beschikbaar als u het tabblad **VIA FTP** hebt geselecteerd.
