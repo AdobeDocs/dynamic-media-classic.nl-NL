@@ -1,15 +1,15 @@
 ---
-title: Nieuwe Dynamic Media Classic-gebruikersinterface die in de eerste helft van 2020 wordt geïntroduceerd
-seo-title: Nieuwe Dynamic Media Classic-gebruikersinterface die in de eerste helft van 2020 wordt geïntroduceerd
-description: De dynamische Klassieke gebruikers van Media kunnen verwachten verfrist van hun gebruikersinterface in de eerste helft van 2020. De ervaring levert een bijgewerkte aanmelding met koppelingen naar waardevolle bronnen. Bovendien is deze update niet langer afhankelijk van Adobe Flash-technologie in de browser.
-seo-description: De dynamische Klassieke gebruikers van Media kunnen verwachten verfrist van hun gebruikersinterface in de eerste helft van 2020. De ervaring levert een bijgewerkte aanmelding met koppelingen naar waardevolle bronnen. Bovendien is deze update niet langer afhankelijk van Adobe Flash-technologie in de browser.
+title: Nieuwe Dynamic Media Classic-aanmeldervaring beschikbaar op 30 juni 2020
+seo-title: Nieuwe Dynamic Media Classic op 30 juni 2020
+description: De dynamische Klassieke gebruikers van Media kunnen verwachten verfrist van hun gebruikersinterface 30 Juni, 2020. De ervaring levert een bijgewerkte aanmelding met koppelingen naar waardevolle bronnen. Bovendien is deze update niet langer afhankelijk van Adobe Flash-technologie in de browser.
+seo-description: Dynamic Media Classic-gebruikers kunnen verwachten dat hun gebruikersinterface op 30 juni 2020 wordt vernieuwd. De ervaring levert een bijgewerkte aanmelding met koppelingen naar waardevolle bronnen. Bovendien is deze update niet langer afhankelijk van Adobe Flash-technologie in de browser.
 contentOwner: rbrough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
 translation-type: tm+mt
-source-git-commit: 718067c87239044a827c66f72f7a2d0a476a23f6
+source-git-commit: 3fa61a14b21b7cdc6c71d43d5ad9fd84c1ee89b4
 workflow-type: tm+mt
-source-wordcount: '981'
+source-wordcount: '965'
 ht-degree: 0%
 
 ---
