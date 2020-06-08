@@ -5,9 +5,9 @@ audience: end-user
 user-guide-title: Dynamic Media Classic Help
 index: y
 translation-type: tm+mt
-source-git-commit: 3fa61a14b21b7cdc6c71d43d5ad9fd84c1ee89b4
+source-git-commit: 46285648da0e4c53c9ce08fc088705853e6a3a46
 workflow-type: tm+mt
-source-wordcount: '725'
+source-wordcount: '719'
 ht-degree: 1%
 
 ---
@@ -31,7 +31,6 @@ ht-degree: 1%
    + [Trainingsvideo&#39;s](training-videos.md)
 + Aan de slag {#getting-started}
    + [Overzicht van het Adobe Dynamic Media Classic-platform](scene7-platform-overview.md)
-   + [Het gebruiken van Scene7 het Publiceren de Desktopversie van het Systeem](using-scene7-publishing-system-desktop.md)
    + [Media Portal](media-portal.md)
    + [In- en uitloggen](signing-out.md)
    + [Basisbeginselen van navigatie](navigation-basics.md)
