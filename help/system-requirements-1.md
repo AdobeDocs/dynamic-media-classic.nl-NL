@@ -10,16 +10,19 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/media_portal
 discoiquuid: 43df059d-7c4d-481a-978a-ca4c74e604b4
 translation-type: tm+mt
-source-git-commit: a1722c15d3c049f05959d895e85297d47d730872
+source-git-commit: 1c4fdd6493d36be91ed015f019f5d4205d5cae41
+workflow-type: tm+mt
+source-wordcount: '96'
+ht-degree: 0%
 
 ---
 
 
 # Systeemvereisten voor Media Portal {#system-requirements}
 
-Voor de beste ervaring die Dynamische Media Classic Portaal van Media gebruikt, zorg ervoor dat uw systeem aan de volgende systeemvereisten en aanbevelingen voldoet:
+Voor de beste ervaring die Dynamic Media Classic Portaal van Media gebruikt, zorg ervoor dat uw systeem aan de volgende systeemvereisten en aanbevelingen voldoet:
 
-* Microsoft® Windows® 7 of hoger of Mac OS X 10.6 of hoger Macintosh® Intel-processor vereist.
+* Microsoft® Windows® 7 of hoger of MacOS X 10.6 of hoger Macintosh® Intel-processor vereist.
 * 3 GB RAM of hoger vereist (4 GB of hoger aanbevolen).
 * Kleurenmonitor.
 * Videokaart met ondersteuning voor True Color bij een resolutie van 1280 x 1024 of hoger.
