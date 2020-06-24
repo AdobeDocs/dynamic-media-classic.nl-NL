@@ -10,14 +10,17 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/ecatalogs
 discoiquuid: 140640f2-3ca4-4b6c-a240-5f01be87fa9c
 translation-type: tm+mt
-source-git-commit: e3c64b90e0af0129571a21b132477c0c86d06405
+source-git-commit: 74238f90f45f0fb9a4566915a20a1d41dfb69fe1
+workflow-type: tm+mt
+source-wordcount: '679'
+ht-degree: 0%
 
 ---
 
 
 # Een eCatalog koppelen aan een webpagina{#linking-an-ecatalog-to-a-web-page}
 
-Uw websites en toepassingen hebben via URL-tekenreeksen of ingesloten code toegang tot de inhoud van Dynamic Media Image Server, inclusief eCatalogs. Deze URL-tekenreeksen worden geactiveerd tijdens het publicatieproces. Om het koord URL of de ingebedde code voor uw eCatalog in uw Web-pagina&#39;s en toepassingen te plaatsen, kopieert u het van het het Publiceren Scene7 Systeem.
+Uw websites en toepassingen hebben via URL-tekenreeksen of ingesloten code toegang tot de inhoud van de Dynamic Media Image Server, inclusief eCatalogs. Deze URL-tekenreeksen worden geactiveerd tijdens het publicatieproces. Om het koord URL of de ingebedde code voor uw eCatalog in uw Web-pagina&#39;s en toepassingen te plaatsen, kopieert u het van het het Publiceren Scene7 Systeem.
 
 >[!NOTE]
 >
@@ -46,7 +49,7 @@ Uw websites en toepassingen hebben via URL-tekenreeksen of ingesloten code toega
 
 De meest gebruikelijke manier om een eCatalog in te voeren is een verbinding in de vorm van een eCatalog duimnagelomslag op uw Web-pagina te plaatsen. Werk samen met uw IT-team om ervoor te zorgen dat de eCatalog wordt gestart in een schoon, gecentreerd pop-upvenster. Vraag uw IT-team om de werkbalk en adresbalk in de browser niet weer te geven.
 
-Zie [HTML5 eCatalog Viewer insluiten in de Adobe Viewer Reference Guide](https://marketing.adobe.com/resources/help/en_US/s7/viewers_ref/c_html5_20_ecatalog_viewer_about.html)voor meer informatie en codevoorbeelden.
+Zie [HTML5 eCatalog Viewer insluiten in de Adobe Viewer Reference Guide](https://docs.adobe.com/content/help/en/dynamic-media-developer-resources/library/viewers-aem-assets-dmc/ecatalog/c-html5-20-ecatalog-viewer-about.html)voor meer informatie en codevoorbeelden.
 
 ## De insluitcode van een eCatalog-viewer kopiëren {#copying-the-embed-code-of-an-ecatalog-viewer}
 
