@@ -10,11 +10,14 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/introducing_adobe_scene7
 discoiquuid: 51806e89-c402-40d5-8a38-c28506790604
 translation-type: tm+mt
-source-git-commit: a1722c15d3c049f05959d895e85297d47d730872
+source-git-commit: 74238f90f45f0fb9a4566915a20a1d41dfb69fe1
+workflow-type: tm+mt
+source-wordcount: '55'
+ht-degree: 0%
 
 ---
 
 
 # Nieuwe functies {#what-s-new}
 
-Raadpleeg de [Dynamic Media Classic Release Notes](https://marketing.adobe.com/resources/help/en_US/s7/release_notes/index.html)voor meer informatie over de nieuwste Adobe Dynamic Media Classic-release, inclusief nieuwe functies, verbeteringen en oplossingen.
+Raadpleeg de Klassieke opmerkingen bij de release [Dynamic Media voor meer informatie over de nieuwste Adobe Dynamic Media Classic-release, inclusief nieuwe functies, verbeteringen en oplossingen](https://docs.adobe.com/content/help/en/dynamic-media-developer-resources/release-notes/s7rn2017.html).
