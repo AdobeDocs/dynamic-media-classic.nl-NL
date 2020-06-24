@@ -10,7 +10,10 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/video
 discoiquuid: 6cef541b-e9df-48eb-9a16-ca3e1f07238e
 translation-type: tm+mt
-source-git-commit: 6fff3699f8a08af433df3f3a7790a11bf9d05b00
+source-git-commit: 74238f90f45f0fb9a4566915a20a1d41dfb69fe1
+workflow-type: tm+mt
+source-wordcount: '1444'
+ht-degree: 0%
 
 ---
 
@@ -21,11 +24,11 @@ Adobe Dynamic Media Classic Video is een end-to-end oplossing waarmee u eenvoudi
 
 Op een mobiel iOS-apparaat detecteert het bijvoorbeeld een bandbreedte zoals 3G, 4G of Wi-Fi. Vervolgens wordt automatisch de naar rechts gecodeerde video geselecteerd bij de verschillende bitsnelheden van de video in de adaptieve videoset. De video wordt gestreamd naar desktops, mobiele apparaten of tablets.
 
-Bovendien wordt de videokwaliteit automatisch dynamisch geschakeld als de netwerkomstandigheden veranderen op het bureaublad of op het mobiele apparaat. Ook, als een klant volledig-schermwijze op een Desktop ingaat, antwoordt de Adaptieve VideoReeks door een betere resolutie te gebruiken, daardoor verbeterend de het bekijken van de klant ervaring. Het gebruik van Adaptieve videosets biedt u de best mogelijke weergave voor klanten die Dynamic Media Classic-video afspelen op meerdere schermen en apparaten.
+Bovendien wordt de videokwaliteit automatisch dynamisch geschakeld als de netwerkomstandigheden veranderen op het bureaublad of op het mobiele apparaat. Ook, als een klant volledig-schermwijze op een Desktop ingaat, antwoordt de Adaptieve VideoReeks door een betere resolutie te gebruiken, daardoor verbeterend de het bekijken van de klant ervaring. Het gebruik van Adaptieve videosets biedt u de best mogelijke weergave voor klanten die Dynamic Media Klassieke video op meerdere schermen en apparaten afspelen.
 
 De logica die een videospeler gebruikt om te bepalen welke gecodeerde video moet worden afgespeeld of tijdens het afspelen moet worden geselecteerd, is gebaseerd op het volgende algoritme:
 
-1. Videospeler laadt het eerste videofragment op basis van de bitsnelheid die het dichtst bij de waarde ligt die is ingesteld voor de beginbitsnelheid in de speler zelf.
+1. Videospeler laadt het eerste videofragment op basis van de bitsnelheid die het dichtst bij de waarde ligt die is ingesteld voor de &#39;initiële bitsnelheid&#39; in de speler zelf.
 1. De videospelerschakelaars die op veranderingen in de bandbreedtesnelheid worden gebaseerd die de volgende criteria gebruiken:
 
    1. De speler kiest de hoogste bandbreedtestroom onder of gelijk aan de geschatte bandbreedte.
@@ -33,9 +36,9 @@ De logica die een videospeler gebruikt om te bepalen welke gecodeerde video moet
 
 Zie de logica van het algoritme op [https://android.googlesource.com/platform/frameworks/av/+/master/media/libstagefright/httplive/LiveSession.cpp](https://android.googlesource.com/platform/frameworks/av/+/master/media/libstagefright/httplive/LiveSession.cpp) voor technische informatie over het.
 
-Dynamische media Classic ondersteunt het volgende voor het beheer van afzonderlijke video- en adaptieve videosets:
+Voor het beheren van enige video en Adaptieve videosets biedt Dynamic Media Classic ondersteuning voor het volgende:
 
-* Video uploaden van diverse ondersteunde video-indelingen en audio-indelingen en video coderen naar MP4 H.264-indeling, zodat deze op meerdere schermen kan worden afgespeeld. U kunt vooraf gedefinieerde Dynamische Media Classic adaptieve videovoorinstellingen, voorinstellingen voor één videocodering gebruiken of uw eigen codering aanpassen om de kwaliteit en grootte van de video te bepalen.
+* Video uploaden van diverse ondersteunde video-indelingen en audio-indelingen en video coderen naar MP4 H.264-indeling, zodat deze op meerdere schermen kan worden afgespeeld. U kunt vooraf gedefinieerde Dynamic Media gebruiken Klassieke aangepaste videovoorinstellingen, voorinstellingen voor één videocodering of uw eigen codering aanpassen om de kwaliteit en de grootte van de video te bepalen.
 
    Wanneer een adaptieve videoset wordt gegenereerd, bevat deze MP4-video&#39;s.
 
@@ -52,7 +55,7 @@ Dynamische media Classic ondersteunt het volgende voor het beheer van afzonderli
 
    Adaptieve videostreaming wordt ondersteund op verschillende iOS-platforms.
 
-   Raadpleeg de nieuwste ondersteuning in de naslaggids voor [Adobe Viewers](https://marketing.adobe.com/resources/help/en_US/s7/viewers_ref/).
+   Raadpleeg de nieuwste ondersteuning in de naslaggids voor [Adobe Viewers](https://docs.adobe.com/content/help/en/dynamic-media-developer-resources/library/home.html).
 
    Dynamic Media Classic ondersteunt het afspelen van mobiele video voor MP4 H.264-video. U vindt Blackberry-apparaten die deze video-indeling ondersteunen op de volgende website:
 
@@ -62,7 +65,7 @@ Dynamische media Classic ondersteunt het volgende voor het beheer van afzonderli
 
    Zie [Ondersteunde video-indelingen op Windows Phone](https://msdn.microsoft.com/en-us/library/ff462087(v=vs.92).aspx).
 
-* Speel de video terug gebruikend Dynamische Media Klassieke Kijker vooraf instelt, met inbegrip van het volgende:
+* Speel de video terug gebruikend Dynamic Media Klassieke Kijker vooraf instelt, met inbegrip van het volgende:
 
    * Afzonderlijke videoviewers.
    * Gemengde Media-viewers die zowel video- als afbeeldingsinhoud combineren.
@@ -78,7 +81,7 @@ De volgende stapsgewijze workflowbeschrijving is ontworpen om u te helpen snel a
 
 U kunt adaptieve videosets uploaden en genereren aan de hand van een van de volgende twee scenario&#39;s:
 
-* **Upload vooraf gecodeerde video** Als uw video&#39;s reeds buiten Dynamische Klassiek van Media werden gecodeerd, klik **Upload** op de Globale bar van de Navigatie om MP4 videodossiers direct aan het Publiceren Scene7 Systeem te doorbladeren en te uploaden. Klik vervolgens op **Samenstellen > Adaptieve videosets**. Blader naar uw videobestanden. Sleep de gewenste videobestanden naar de tabel Adaptive Video Set en sla deze op.
+* **Upload vooraf gecodeerde video** Als uw video&#39;s reeds buiten Dynamic Media Classic werden gecodeerd, klik **Upload** op de Globale bar van de Navigatie om MP4 videodossiers direct aan het het Publiceren Scene7 Systeem te doorbladeren en te uploaden. Klik vervolgens op **Samenstellen > Adaptieve videosets**. Blader naar uw videobestanden. Sleep de gewenste videobestanden naar de tabel Adaptive Video Set en sla deze op.
 * **Upload hoofdbronvideo** Als uw video&#39;s niet worden gecodeerd, klik **Upload** op de Globale bar van de Navigatie om hoofdvideobrondossiers (niet-MP4) te uploaden en Scene7 het Publiceren Systeem te hebben codeert hen aan MP4 dossiers voor u. Selecteer **Adaptieve video** onder Opties voor video uploaden.
 
    Met deze voorkeursoptie kunt u een adaptieve videoset maken die automatisch de juiste coderingsvoorinstelling op de video toepast, ongeacht of deze 16:9 of 4:3 is, zodat deze overeenkomt met de afmetingen van de video die u hebt geüpload. Wanneer u de uploadtaak verzendt, wordt automatisch een adaptieve videoset gemaakt die drie videocoderingen in de juiste hoogte-breedteverhouding bevat.
@@ -107,7 +110,7 @@ U kunt de video afspelen op het voorvertoningsscherm. U kunt ook verschillende v
 
 **Optioneel**
 
-Aanpassing van voorinstellingen viewer - Dynamische media Klassiek biedt vooraf gedefinieerde Viewer-voorinstellingen voor het afleveren van video. Deze voorinstellingen bepalen de vormgeving van de viewer en de werking van de afspeelbesturingselementen. Beheerders kunnen voorinstellingen voor viewers toevoegen en beheren via de pagina Voorinstellingen voor viewer om de videoviewer aan te passen. Om deze pagina, in de hoger-juiste hoek van het het Publiceren Scene7 Systeem te openen, klik Opstelling > de Voorinstellingen van de Kijker. De pagina Voorinstellingen viewer bevat opdrachten voor het toevoegen, bewerken, verwijderen en activeren van voorinstellingen van viewers.
+Aanpassing voorinstelling viewer - Dynamic Media Klassiek biedt vooraf gedefinieerde Viewer-voorinstellingen voor het afleveren van video. Deze voorinstellingen bepalen de vormgeving van de viewer en de werking van de afspeelbesturingselementen. Beheerders kunnen voorinstellingen voor viewers toevoegen en beheren via de pagina Voorinstellingen voor viewer om de videoviewer aan te passen. Om deze pagina, in de hoger-juiste hoek van het het Publiceren Scene7 Systeem te openen, klik Opstelling > de Voorinstellingen van de Kijker. De pagina Voorinstellingen viewer bevat opdrachten voor het toevoegen, bewerken, verwijderen en activeren van voorinstellingen van viewers.
 
 Zie [Werken met voorinstellingen](previewing-videos-video-viewer.md#working_with_video_viewer_presets)voor videoviewers.
 
@@ -123,7 +126,7 @@ Als u video wilt integreren in uw website, kunt u een van de volgende handelinge
 
    >[!NOTE]
    >
-   >URL&#39;s worden pas geactiveerd nadat u de video of de adaptieve videoset hebt gepubliceerd.
+   >URL&#39;s worden alleen geactiveerd nadat u de video of de adaptieve videoset hebt gepubliceerd.
 
 * Geef de video weer die is ingesloten op de webpagina. Gebruik in dat geval de functie Code insluiten.
 
