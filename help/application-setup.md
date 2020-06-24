@@ -10,7 +10,10 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/setup
 discoiquuid: ae2d1895-a437-4463-bfac-3960c8027551
 translation-type: tm+mt
-source-git-commit: 8216ac64ba418987c7f5ed84c4cb957189645bd9
+source-git-commit: 74238f90f45f0fb9a4566915a20a1d41dfb69fe1
+workflow-type: tm+mt
+source-wordcount: '11115'
+ht-degree: 3%
 
 ---
 
@@ -29,23 +32,23 @@ Klik op de algemene navigatiebalk om de pagina Algemene instellingen toepassing 
 
 ### Servers
 
-Dynamische Media Classic levert automatisch de toegewezen servers voor uw bedrijf bij het maken van uw account. Deze servers worden gebruikt om URL-tekenreeksen voor uw website en toepassingen samen te stellen. Deze URL-aanroepen gelden specifiek voor uw account.
+Bij de verwezenlijking van de rekening, verstrekt de Klassieke Dynamic Media automatisch de toegewezen servers voor uw bedrijf. Deze servers worden gebruikt om URL-tekenreeksen voor uw website en toepassingen samen te stellen. Deze URL-aanroepen gelden specifiek voor uw account.
 
 Zie ook De service [Beveiligd testen](testing-assets-making-them-public.md#testing_the_secure_testing_service)testen.
 
-**Gepubliceerde servernaam** Deze server is de live CDN-server die wordt gebruikt in alle door het systeem gegenereerde URL-aanroepen die specifiek zijn voor uw account. Wijzig deze servernaam alleen als u hiervoor instructies hebt gekregen van een Dynamic Media Classic-supporttechnicus.
+**Gepubliceerde servernaam** Deze server is de live CDN-server die wordt gebruikt in alle door het systeem gegenereerde URL-aanroepen die specifiek zijn voor uw account. Wijzig deze servernaam alleen als u hiervoor de instructie hebt gekregen van een technicus voor klassieke ondersteuning van Dynamic Media.
 
-**Naam** oorspronkelijke server Deze server wordt alleen gebruikt voor het testen van de kwaliteit. Wijzig deze servernaam alleen als een technicus van de Dynamic Media Classic hiervoor de instructie heeft gegeven.
+**Naam** oorspronkelijke server Deze server wordt alleen gebruikt voor het testen van de kwaliteit. Wijzig deze servernaam alleen als een Dynamic Media Classic-supporttechnicus hiervoor de instructie heeft gegeven.
 
-**AGM de Naam** van de Server Deze server wordt gebruikt voor Web-aan-Druk malplaatjes. Deze server wordt op bedrijfsbrede basis geplaatst. Wijzig deze servernaam alleen als een technicus van de Dynamic Media Classic hiervoor de instructie heeft gegeven.
+**AGM de Naam** van de Server Deze server wordt gebruikt voor Web-aan-Druk malplaatjes. Deze server wordt op bedrijfsbrede basis geplaatst. Wijzig deze servernaam alleen als een Dynamic Media Classic-supporttechnicus hiervoor de instructie heeft gegeven.
 
-**Test&amp;Target Server Name** Your Test&amp;Target URL, tot en met .com. Voor instructies over het verkrijgen van dit URL, zie het Integreren van Dynamische Media Klassiek met Doel Klassiek.
+**Test&amp;Target Server Name** Your Test&amp;Target URL, tot en met .com. Zie Dynamic Media Classic integreren met Target Classic voor instructies voor het verkrijgen van deze URL.
 
-**iOS Streaming Server noemt** de URL naar uw Dynamic Media Classic iOS streaming server. Deze server levert streaming video aan op iOS gebaseerde apparaten gebruikend het protocol van HTTP.
+**iOS Streaming Server noem** de URL naar uw Dynamic Media Classic iOS streaming server. Deze server levert streaming video aan op iOS gebaseerde apparaten gebruikend het protocol van HTTP.
 
-**De naam** van de progressieve Videoserver van de VideoServer URL aan uw Dynamische Klassieke progressieve videoserver van Media. Deze server levert progressieve video gebruikend het protocol van HTTP.
+**De naam** van de progressieve Videoserver van de VideoServer URL aan uw Dynamic Media Klassieke progressieve videoserver. Deze server levert progressieve video gebruikend het protocol van HTTP.
 
-**URL tonen voor niet-gepubliceerde elementen** Selecteer deze optie als u met Dynamic Media Classic een URL wilt weergeven wanneer u een voorvertoning van een element weergeeft, ongeacht of dit is gepubliceerd of niet. Als het element niet is gepubliceerd, werkt de URL niet. U kunt de URL echter ook gebruiken voor plannings- of organisatorische doeleinden.
+**URL tonen voor niet-gepubliceerde elementen** Selecteer deze optie als u wilt dat Dynamic Media Classic een URL weergeeft wanneer een voorvertoning van een element wordt weergegeven, ongeacht of dit is gepubliceerd of niet. Als het element niet is gepubliceerd, werkt de URL niet. U kunt de URL echter ook gebruiken voor plannings- of organisatorische doeleinden.
 
 **AIR-installatie** toestaan Selecteer deze optie als u wilt dat gebruikers de desktopversie van Scene7 Publishing System kunnen downloaden naar hun lokale vaste schijf. De gebruikers installeren de toepassing van het gebied van de Versie van de Desktop van het Persoonlijke scherm van de Opstelling.
 
@@ -75,7 +78,7 @@ Zie [Opnieuw gepubliceerde elementen en CDN-vertragingen](publishing-files.md#re
 
 **Bladeren**
 
-**Met Projecten** tonen bepaalt u of Projecten beschikbaar zijn als een manier om uw dynamische media klassieke middelen te ordenen. Zie Uw werk organiseren met Projecten.
+**Met Projecten** tonen bepaalt u of Projecten beschikbaar zijn als een manier om uw Dynamic Media Klassieke elementen te ordenen. Zie Uw werk organiseren met Projecten.
 
 **Voorbeeldvideo-inhoud** tonen De weergave van eVideo-voorbeeldinhoud in- of uitschakelen.
 
@@ -97,11 +100,11 @@ Er zijn bepaalde acties in het menu Opbouwen die alleen werken, of optioneel wer
 
 >[Opmerking]
 >
->Als u geen het Publiceren Scene7 Systeem gebruikte om uw videoactiva te uploaden en te coderen, toont de Dynamische Klassiek van Media al uw individuele gecodeerde video&#39;s, zelfs als deze optie wordt geschrapt.
+>Als u geen het Publiceren Scene7 Systeem gebruikte om uw videoactiva te uploaden en te coderen, toont de Classic van Dynamic Media al uw individuele gecodeerde video&#39;s, zelfs als deze optie wordt geschrapt.
 
 **Knop** Submappen vernieuwen inschakelen of uitschakelen van de weergave van de knop Submappen vernieuwen.
 
-**Dynamic Media Classic FTP-account**
+**Klassieke FTP-account voor Dynamic Media**
 
 **Server** geeft uw FTP-accountserver weer.
 
@@ -109,7 +112,7 @@ Er zijn bepaalde acties in het menu Opbouwen die alleen werken, of optioneel wer
 
 **Uploaden naar toepassing**
 
-**Met de optie Afbeeldingen** overschrijven via Dynamic Media Classic kunnen twee bestanden niet dezelfde naam hebben. Scene7 het Publiceren van identiteitskaart van het Systeem van elk punt (het beeldnaam minus filename uitbreiding) moet uniek zijn. Vanwege deze regel heeft het dialoogvenster Uploaden een optie Overschrijven. Het exacte effect van deze optie is afhankelijk van de opgegeven optie Afbeeldingen overschrijven. Met deze opties geeft u op hoe vervangende afbeeldingen worden geüpload: of ze de oorspronkelijke afbeeldingen vervangen of dubbele afbeeldingen worden. Dubbele afbeeldingen krijgen de naam &quot;-1&quot;. (De naam van bijvoorbeeld stoel.tif wordt gewijzigd in stoel-1.tif). Deze opties zijn van toepassing op afbeeldingen die naar een andere map zijn geüpload dan het origineel of afbeeldingen met een andere bestandsnaamextensie dan het origineel (zoals JPG, TIF of PNG). (Zie De optie Afbeeldingen overschrijven gebruiken.)
+**Met de optie Afbeeldingen** Dynamic Media overschrijven staat u niet toe dat twee bestanden dezelfde naam hebben. Scene7 het Publiceren van identiteitskaart van het Systeem van elk punt (het beeldnaam minus filename uitbreiding) moet uniek zijn. Vanwege deze regel heeft het dialoogvenster Uploaden een optie Overschrijven. Het exacte effect van deze optie is afhankelijk van de opgegeven optie Afbeeldingen overschrijven. Met deze opties geeft u op hoe vervangende afbeeldingen worden geüpload: of ze de oorspronkelijke afbeeldingen vervangen of dubbele afbeeldingen worden. Dubbele afbeeldingen krijgen de naam &quot;-1&quot;. (De naam van bijvoorbeeld stoel.tif wordt gewijzigd in stoel-1.tif). Deze opties zijn van toepassing op afbeeldingen die naar een andere map zijn geüpload dan het origineel of afbeeldingen met een andere bestandsnaamextensie dan het origineel (zoals JPG, TIF of PNG). (Zie De optie Afbeeldingen overschrijven gebruiken.)
 
 **Overschrijven in huidige map, dezelfde naam/extensie voor basisafbeelding**
 
@@ -127,7 +130,7 @@ Vereist dat de vervangende afbeelding dezelfde bestandsnaamextensie heeft als de
 
 Deze optie is de meest inclusieve vervangingsregel. U kunt een vervangende afbeelding uploaden naar een andere map dan het origineel, een bestand met een andere bestandsnaamextensie uploaden en het oorspronkelijke bestand vervangen. Als het oorspronkelijke bestand zich in een andere map bevindt, bevindt de vervangende afbeelding zich in de nieuwe map waarnaar het is geüpload.
 
-**Met Publiceren** behouden wordt opgegeven of een vervangende afbeelding die is geüpload naar Dynamic Media Classic, de instelling Klaar voor publicatie behoudt van de afbeelding die wordt vervangen of de instelling wordt opgegeven bij het uploaden.
+**Met Publiceren** behouden wordt opgegeven of een vervangende afbeelding die naar Dynamic Media Classic is geüpload, de instelling Klaar voor publicatie behoudt van de afbeelding die wordt vervangen of de instelling bij het uploaden wordt opgegeven.
 
 **Met Standaardkleurprofielen** geeft u de kleurprofielen op die worden toegepast als onderdeel van de standaardopties voor kleurprofiel wanneer u CMYK-afbeeldingen toevoegt.
 
@@ -147,17 +150,17 @@ Deze optie is de meest inclusieve vervangingsregel. U kunt een vervangende afbee
 
 Met Dynamic Media Classic kunnen twee bestanden niet dezelfde naam hebben. Scene7 het Publiceren van identiteitskaart van het Systeem van elk punt (het beeldnaam minus filename uitbreiding) moet uniek zijn. Vanwege deze regel bevat het dialoogvenster Uploaden opties voor het overschrijven van afbeeldingen. Het nauwkeurige effect van deze optie hangt van het plaatsen voor de Interne Montages van het Systeem van Scene7 van elk bedrijf af.
 
-Als u eerder afbeeldingen hebt geüpload en vervolgens de originele bestanden hebt gewijzigd (of deze hebt vervangen), bepaalt de gekozen optie Overschrijven hoe de afbeeldingen worden vervangen door Dynamic Media Classic. Er wordt geen informatie over de afbeelding gewijzigd, maar de oude wordt vervangen door de nieuwe afbeelding. Als de map ook afbeeldingen bevat die nog niet in Dynamic Media Classic staan, worden deze afbeeldingen toegevoegd.
+Als u eerder afbeeldingen hebt geüpload en vervolgens de originele bestanden hebt gewijzigd (of deze hebt vervangen), bepaalt de gekozen optie Overschrijven hoe de afbeeldingen worden vervangen door Dynamic Media Klassiek. Er wordt geen informatie over de afbeelding gewijzigd, maar de oude wordt vervangen door de nieuwe afbeelding. Als de map ook afbeeldingen bevat die nog niet in Dynamic Media Classic staan, worden deze afbeeldingen toegevoegd.
 
-Gebruik deze optie als de afbeeldingen die u hebt geüpload op een of andere manier zijn gewijzigd (de afbeelding is gewijzigd), maar de verwijzing naar de afbeelding ongewijzigd blijft. Overschrijven is ook handig bij het uploaden en rippen van Adobe® PDF&#39;s. Als u wilt instellen hoe de afbeelding wordt ** gerangschikt door Dynamic Media Classic, past u de ICC-kleurprofielopties in het dialoogvenster Uploaden aan en uploadt u deze opnieuw met de functie Overschrijven.
+Gebruik deze optie als de afbeeldingen die u hebt geüpload op een of andere manier zijn gewijzigd (de afbeelding is gewijzigd), maar de verwijzing naar de afbeelding ongewijzigd blijft. Overschrijven is ook handig bij het uploaden en rippen van Adobe® PDF&#39;s. Als u wilt perfectioneren hoe Dynamic Media Klassiek de afbeelding *ript* , past u de ICC-kleurprofielopties in het dialoogvenster Uploaden aan en uploadt u deze opnieuw met de functie Overschrijven.
 
-De dynamische media Klassieke IDs die worden gebruikt om tot beelden van de productieservers toegang te hebben worden afgeleid uit de beeldfilenames. Het gebruik van hoofdletters en kleine letters in de bestandsnaam is belangrijk, zowel voor de vervanging van bestaande bestanden als voor de Dynamic Media Classic-id&#39;s die worden gebruikt om de afbeelding te openen. Zorg ervoor dat het gebruik van hoofdletters en kleine letters in bestandsnamen correct is voordat u het bestand uploadt naar Dynamic Media Classic om te voorkomen dat dynamische media-klassieke id&#39;s worden gebruikt die alleen verschillen voor dezelfde afbeelding.
+De klassieke id&#39;s van Dynamic Media die worden gebruikt om toegang te krijgen tot afbeeldingen van de productieservers, zijn afgeleid van de bestandsnamen van de afbeelding. Het gebruik van hoofdletters en kleine letters in de bestandsnaam is belangrijk, zowel voor de vervanging van bestaande bestanden als voor de klassieke Dynamic Media-id&#39;s die worden gebruikt om de afbeelding te openen. Zorg ervoor dat het gebruik van hoofdletters en kleine letters in bestandsnamen correct is voordat u bestanden uploadt naar Dynamic Media Classic. Zo voorkomt u klassieke id&#39;s van Dynamic Media die alleen verschillen in hoofdletters en kleine letters voor dezelfde afbeelding.
 
 Als u deze optie uitschakelt, worden alle afbeeldingen met dezelfde bestandsnamen als bestaande afbeeldingen behandeld als duplicaten en worden ze niet toegevoegd.
 
 ## Voorinstellingen afbeelding {#image-presets}
 
-Het scherm Voorinstellingen afbeelding is bedoeld voor het maken en bewerken van voorinstellingen afbeelding. Met Voorinstellingen voor afbeeldingen kunt u via Dynamic Media Classic afbeeldingen met verschillende grootten van dezelfde hoofdafbeelding dynamisch leveren. Elke voorinstelling voor afbeeldingen vertegenwoordigt een vooraf gedefinieerde verzameling opdrachten voor het vergroten of verkleinen en opmaken van afbeeldingen. Wanneer u een voorinstelling voor afbeeldingen maakt, kiest u een grootte voor het leveren van de afbeelding. U kiest ook opmaakopdrachten, zodat de weergave van de afbeelding wordt geoptimaliseerd wanneer de afbeelding wordt geleverd voor weergave.
+Het scherm Voorinstellingen afbeelding is bedoeld voor het maken en bewerken van voorinstellingen afbeelding. Met voorinstellingen voor afbeeldingen kunnen Dynamic Media Classic afbeeldingen in verschillende formaten van dezelfde hoofdafbeelding leveren. Elke voorinstelling voor afbeeldingen vertegenwoordigt een vooraf gedefinieerde verzameling opdrachten voor het vergroten of verkleinen en opmaken van afbeeldingen. Wanneer u een voorinstelling voor afbeeldingen maakt, kiest u een grootte voor het leveren van de afbeelding. U kiest ook opmaakopdrachten, zodat de weergave van de afbeelding wordt geoptimaliseerd wanneer de afbeelding wordt geleverd voor weergave.
 
 Beheerders kunnen voorinstellingen maken voor het exporteren van elementen. Gebruikers kunnen bij het exporteren van afbeeldingen een voorinstelling kiezen. Hiermee worden de afbeeldingen ook opnieuw opgemaakt volgens de specificaties die de beheerder heeft opgegeven.
 
@@ -266,7 +269,7 @@ Zie ook [ICC-profielen](icc-profiles.md#icc_profiles).
 
 **URL-modifiers** Als u liever de URL-modifiers opgeeft die uw voorinstelling voor afbeeldingen definiëren in plaats van de instellingen, voert u hier de modifiers in.
 
-**URL** van voorbeeldafbeelding bevat de &quot;onbewerkte&quot; URL-tekenreeks die de Dynamic Media Image Server gebruikt om afbeeldingen te leveren met de voorinstelling voor afbeeldingen die u toevoegt of bewerkt. Deze URL-tekenreeks codeert alle indelingsinstellingen die u selecteert in het scherm Voorinstelling toevoegen of Voorinstelling bewerken.
+**URL** van het Beeld van de steekproef maakt een lijst van het &quot;ruwe&quot;koord URL dat de Server van het Beeld van Dynamic Media gebruikt om beelden met het Beeld te leveren vooraf instelt u toevoegt of uitgeeft. Deze URL-tekenreeks codeert alle indelingsinstellingen die u selecteert in het scherm Voorinstelling toevoegen of Voorinstelling bewerken.
 
 ### Een afbeeldingsvoorinstelling bewerken, verwijderen of deactiveren {#editing-removing-or-deactivating-an-image-preset}
 
@@ -297,7 +300,7 @@ Als u een coderingsvoorinstelling wilt kiezen, klikt u rechtsonder op de pagina 
 
 >[!NOTE]
 >
->Met uitzondering van &quot;Adaptieve video&quot;, die standaard is ingeschakeld, ziet u mogelijk niet alle andere aangepaste video- of videocoderingsvoorinstellingen in het dialoogvenster Opties voor uploaden. Dynamische media Klassieke beheerders bepalen welke videocoderingsvoorinstellingen zichtbaar zijn in het dialoogvenster Taakopties uploaden.
+>Met uitzondering van &quot;Adaptieve video&quot;, die standaard is ingeschakeld, ziet u mogelijk niet alle andere aangepaste video- of videocoderingsvoorinstellingen in het dialoogvenster Opties voor uploaden. Dynamic Media Klassieke beheerders bepalen welke videocoderingsvoorinstellingen zichtbaar zijn in het dialoogvenster Taakopties uploaden.
 
 * Kies een van de volgende adaptieve videocodering of voorinstellingen voor één codering:
 
@@ -339,7 +342,7 @@ Nadat u op Uploaden **starten** hebt geklikt, wordt het originele hoofdvideobest
 
 De volgende parameters van de coderingsvoorinstellingsopties zijn beschikbaar:
 
-**Doelverbindingssnelheid** De internetverbindingssnelheid van de beoogde eindgebruiker.
+**Target-verbindingssnelheid** De internetverbindingssnelheid van de beoogde eindgebruiker.
 
 **Achtervoegsel** van gecodeerd bestand Het achtervoegsel dat voor identificatiedoeleinden aan het gecodeerde videobestand is gekoppeld.
 
@@ -373,7 +376,7 @@ Zie [Informatie over vooraf ingestelde coderingsopties](application-setup.md#abo
 
 **Voorinstellingen voor Adaptieve videocodering (16:9 of 4:3)**
 
-|  | Naam/knopinfotekst coderen | Doelverbindingssnelheid (Kbps) | Achtervoegsel van gecodeerd bestand | Videogegevenssnelheid (Kbps) | Breedte/Hoogte (pixels) | Fps | Audiobitsnelheid (kbps) | Aanbevelingen |
+|  | Naam/knopinfotekst coderen | Target-verbindingssnelheid (Kbps) | Achtervoegsel van gecodeerd bestand | Videogegevenssnelheid (Kbps) | Breedte/Hoogte (pixels) | Fps | Audiobitsnelheid (kbps) | Aanbevelingen |
 |--- |--- |--- |--- |--- |--- |--- |--- |--- |
 | 1 | 16:9, 512 x 288, mobiel (iPhone, iPad, Android), (400 Kbps) | 500 | _Mobile_512x288_400K | 400 | 512x288 | Gelijk aan bron | 64 | Lage resolutie, 3G |
 | 2 | 4:3, 384 x 288 px, mobiel (iPhone, iPad, Android), (400 Kbps) | 500 | _Mobile_384x288_400K | 400 | 384x288 | Gelijk aan bron | 64 | Lage resolutie, 3G |
@@ -394,7 +397,7 @@ Zie [Informatie over de coderingsvoorinstellingsopties](application-setup.md#abo
 
 **H264 Main 3.2 - Audio AAC, MP4-bestandsextensie**
 
-|  | Naam/knopinfotekst coderen | Doelverbindingssnelheid (Kbps) | Achtervoegsel van gecodeerd bestand | Videogegevenssnelheid (Kbps) | Breedte/Hoogte (pixels) | Fps | Audiobitsnelheid (Kbps) | Aanbevelingen |
+|  | Naam/knopinfotekst coderen | Target-verbindingssnelheid (Kbps) | Achtervoegsel van gecodeerd bestand | Videogegevenssnelheid (Kbps) | Breedte/Hoogte (pixels) | Fps | Audiobitsnelheid (Kbps) | Aanbevelingen |
 |--- |--- |--- |--- |--- |--- |--- |--- |--- |
 | 1 | 16:9, 480 x 270 (400 Kbps) | 500 | _480x270_400K | 400 | 480x270 | Gelijk aan bron | 64 | Lage breedbeeldresolutie |
 | 2 | 16:9, 640 x 360 (800 Kbps) | 900 | _640x360_800K | 800 | 640x360 | Gelijk aan bron | 80 | Gemiddelde breedbeeldresolutie |
@@ -407,7 +410,7 @@ Zie [Informatie over de coderingsvoorinstellingsopties](application-setup.md#abo
 
 **OGG Theora Vorbis - OGV-bestandsextensie**
 
-|  | Naam/knopinfotekst coderen | Doelverbindingssnelheid (Kbps) | Achtervoegsel van gecodeerd bestand | Videogegevenssnelheid (Kbps) | Breedte/Hoogte (pixels) | Fps | Audiobitsnelheid (Kbps) | Aanbevelingen |
+|  | Naam/knopinfotekst coderen | Target-verbindingssnelheid (Kbps) | Achtervoegsel van gecodeerd bestand | Videogegevenssnelheid (Kbps) | Breedte/Hoogte (pixels) | Fps | Audiobitsnelheid (Kbps) | Aanbevelingen |
 |--- |--- |--- |--- |--- |--- |--- |--- |--- |
 | 1 | 16:9, 480 x 270 (400 Kbps), OGG | 500 | _OGG_480x270_400K | 400 | 480x270 | Gelijk aan bron | 64 | Lage breedbeeldresolutie |
 | 2 | 16:9, 640 x 360 (800 Kbps), OGG | 900 | _OGG_640x360_800K | 800 | 640x360 | Gelijk aan bron | 80 | Gemiddelde breedbeeldresolutie |
@@ -426,7 +429,7 @@ Zie [Informatie over de coderingsvoorinstellingsopties](application-setup.md#abo
 
 **H264 Baseline 2.1 - Audio AAC, MP4-bestandsextensie**
 
-|  | Naam/knopinfotekst coderen | Doelverbindingssnelheid (Kbps) | Achtervoegsel van gecodeerd bestand | Videobitsnelheid (Kbps) | Pixelbreedte/-hoogte | Fps | Audiobitsnelheid (Kbps) | Aanbevelingen |
+|  | Naam/knopinfotekst coderen | Target-verbindingssnelheid (Kbps) | Achtervoegsel van gecodeerd bestand | Videobitsnelheid (Kbps) | Pixelbreedte/-hoogte | Fps | Audiobitsnelheid (Kbps) | Aanbevelingen |
 |--- |--- |--- |--- |--- |--- |--- |--- |--- |
 | 1 | 16:9, 512 x 288, mobiel (400 Kbps) | 500 | _Mobile_512x288_400K | 400 | 512x288 | Gelijk aan bron | 64 | Lage resolutie, 3G |
 | 2 | 16:9, 512 x 288, mobiel (600 Kbps) | 700 | _Mobile_512x288_600K | 600 | 512x288 | Gelijk aan bron | 64 | Normale resolutie, 3G |
@@ -449,13 +452,13 @@ Een *voorinstelling* voor viewers is een verzameling instellingen die bepalen ho
 
 U kunt het beste Dynamic Media Classic HTML5-videoviewers gebruiken. De voorinstellingen die worden gebruikt in HTML5-videoviewers zijn robuuste videospelers. Door de combinatie in één speler van de capaciteit om de playbackcomponenten te ontwerpen gebruikend HTML5 en CSS, ingebedde playback te hebben, en adaptieve en progressieve het stromen te gebruiken afhankelijk van het vermogen van browser, breidt u het bereik van uw rijke media inhoud tot Desktop, tablet, en mobiele gebruikers uit, en verzekert een gestroomlijnde videoervaring.
 
-Zie [Informatie over HTML5 Viewers](https://marketing.adobe.com/resources/help/en_US/s7/viewers_ref/c_html5_viewers_about.html) in de Adobe Viewers Reference Guide.
+Zie [Informatie over HTML5 Viewers](hhttps://docs.adobe.com/content/help/en/dynamic-media-developer-resources/library/viewers-for-aem-assets-only/c-html5-aem-asset-viewers.html) in de Adobe Viewers Reference Guide.
 
 Zie [Dynamic Media Classic Viewer Preset-compatibiliteitsmatrix](application-setup.md#scene7_viewer_preset_compatibility_matrix).
 
 Zie [Beste praktijken: De HTML5-videoviewer](best-practice-using-html5-video.md#best_practice_using_the_html5_video_viewer)gebruiken.
 
-Afhankelijk van de viewer kunt u communityfuncties toevoegen. De communautaire eigenschappen omvatten een Embed knoop, E-mail knoop, de knoop van de Verbinding, en de knoop van de Plaats van het Bezoek. Met deze knoppen kunnen gebruikers die de viewer gebruiken de viewer delen met anderen of de dynamische Media Classic-website openen.
+Afhankelijk van de viewer kunt u communityfuncties toevoegen. De communautaire eigenschappen omvatten een Embed knoop, E-mail knoop, de knoop van de Verbinding, en de knoop van de Plaats van het Bezoek. Met deze knoppen kunnen gebruikers die de viewer gebruiken de viewer delen met anderen of de klassieke website van Dynamic Media openen.
 
 Zie ook [Adobe Viewers Reference Library Examples](https://landing.adobe.com/en/na/dynamic-media/ctir-2755/live-demos.html).
 
@@ -477,7 +480,7 @@ Beheerders kunnen de volgende typen voorinstellingen voor viewers maken en aanpa
 
 **De Vastgestelde Kijker** van de Rotatie verstrekt veelvoudige meningen van een beeld zodat kunnen de gebruikers het voorwerp draaien om de verschillende kanten en de hoeken te onderzoeken.
 
-**In de videoviewer** worden video&#39;s weergegeven met de resolutieafmetingen van het bronbestand of een aangepaste grootte. Dynamic Media Classic wordt geleverd met veel vooraf gedefinieerde voorinstellingen voor de viewer voor het afspelen van video. Als u een beheerder bent, kunt u aangepaste voorinstellingen voor de video-viewer maken. Er zijn meer dan een dozijn verschillende instellingen voor het configureren van de video-viewer. U kunt de grootte, de voor- en achtergrondkleur, video- en audiobesturingselementen, de voortgangsbalk, de skin van de gebruikersinterface, de sociale functies en de Help configureren.
+**In de videoviewer** worden video&#39;s weergegeven met de resolutieafmetingen van het bronbestand of een aangepaste grootte. Dynamic Media Classic wordt geleverd met veel vooraf gedefinieerde voorinstellingen voor viewers voor het afspelen van video. Als u een beheerder bent, kunt u aangepaste voorinstellingen voor de video-viewer maken. Er zijn meer dan een dozijn verschillende instellingen voor het configureren van de video-viewer. U kunt de grootte, de voor- en achtergrondkleur, video- en audiobesturingselementen, de voortgangsbalk, de skin van de gebruikersinterface, de sociale functies en de Help configureren.
 
 **Zoomviewers** bieden u de keuze uit drie typen zoomviewers:
 
@@ -495,13 +498,13 @@ Als de hoofdafbeelding bijvoorbeeld 350 x 350 pixels groot is, met een zoomfacto
 
 Raadpleeg de volgende website met veelgestelde vragen voor meer informatie over deze belangrijke wijziging: [https://docs.adobe.com/content/docs/en/aem/6-1/administer/integration/marketing-cloud/scene7/flash-eol.html](https://docs.adobe.com/content/docs/en/aem/6-1/administer/integration/marketing-cloud/scene7/flash-eol.html).
 
-In de volgende tabel worden de momenteel beschikbare Dynamische Media Classic Viewer-voorinstellingen weergegeven. In de tabel wordt ook aangegeven of de viewer compatibel is met mobiele en desktopapparaten en welke technologie voor elke viewer wordt gebruikt.
+In de volgende tabel worden de momenteel beschikbare Dynamic Media van de Klassieke Viewer-voorinstellingen weergegeven. In de tabel wordt ook aangegeven of de viewer compatibel is met mobiele en desktopapparaten en welke technologie voor elke viewer wordt gebruikt.
 
 Zie ook [Adobe Viewers Reference Library Examples](https://landing.adobe.com/en/na/dynamic-media/ctir-2755/live-demos.html).
 
 Voor informatie over ondersteunde webbrowsers en besturingssysteemversies voor Viewers kunt u de Opmerkingen bij de release Viewers bekijken.
 
-Zie Opmerkingen bij de release [Adobe Viewers Reference](https://marketing.adobe.com/resources/help/en_US/s7/viewers_ref/).
+Zie Opmerkingen bij de release [Adobe Viewers Reference](https://docs.adobe.com/content/help/en/dynamic-media-developer-resources/library/home.html).
 
 |  | Viewertechnologie | Desktop | Apple iPhone | Apple iPad | Android Smartphone | Android-tablet |
 |--- |--- |--- |--- |--- |--- |--- |
@@ -542,7 +545,7 @@ Zie Opmerkingen bij de release [Adobe Viewers Reference](https://marketing.adobe
 
 Dynamic Media Classic ondersteunt het afspelen van mobiele video voor MP4 H.264-video.
 
-* U vindt Blackberry-apparaten die deze video-indeling ondersteunen op de volgende locatie: Ondersteunde video-indelingen op Blackberry [](https://developer.blackberry.com/devzone/develop/supported_media/bb10_media_support.html)
+* U vindt Blackberry-apparaten die deze video-indeling ondersteunen op de volgende locatie: [Ondersteunde video-indelingen op Blackberry](https://developer.blackberry.com/devzone/develop/supported_media/bb10_media_support.html)
 * U kunt ook Windows-apparaten vinden die deze video-indeling ondersteunen, op de volgende locatie:[Ondersteunde video-indelingen op Windows Phone](https://docs.microsoft.com/en-us/previous-versions/windows/apps/ff462087(v=vs.105)?redirectedfrom=MSDN)
 
 |  | Viewertechnologie | Desktop | Apple iPhone | Apple iPad | Android Smartphone | Android-tablet | Blackberry Smartphone | Windows-telefoon |
@@ -644,7 +647,7 @@ Zie Een HTML5 Viewer-voorinstelling [](application-setup.md#exporting_an_html5_v
 
 U kunt een bestaande HTML5 Viewer-voorinstelling exporteren en gebruiken als basis voor het maken van een nieuwe HTML5 Viewer-voorinstelling. Deze exportoptie is handig omdat u de viewer niet helemaal opnieuw hoeft te maken. In plaats daarvan exporteert u een voorinstelling die er zo uitziet en zich dicht bij u gedraagt. Vervolgens kunt u deze voorinstelling als uitgangspunt gebruiken om ontwerpaanpassingen aan te brengen.
 
-Merk op dat alle standaard, uit-van-doos vooraf ingestelde CSS dossiers van de Kijker in SPS relatieve beelddienende wegen gebruiken die aan activa richten die op `Scene7SharedAssets`worden gevestigd. Hieronder ziet u bijvoorbeeld een relatief pad naar een afbeeldingselement in een CSS-bestand met een Viewer-voorinstelling op `Scene7SharedAsset`: Als u echter CSS-bestanden van de viewer op uw eigen site host, moet u dit relatieve afbeeldingspad oplossen door in uw eigen omgeving een expliciet pad naar de afbeeldingsserver te gebruiken. `.s7videoviewer .s7fullscreenbutton[state][selected] { background-image: url(/is/image/Scene7SharedAssets/FullScreenButton_dark_sprite?scl=1&fmt=png-alpha); }` Als u het relatieve pad boven naar een expliciet pad wilt bijwerken, ziet het er ter illustratie als volgt uit, waar `https://s7d1.scene7.com` het directe pad naar de afbeeldingsserver zich bevindt: `https://s7d1.scene7.com/is/image/Scene7SharedAssets/FullScreenButton_dark_sprite?scl=1&fmt=png-alpha`
+Merk op dat alle standaard, uit-van-doos vooraf ingestelde CSS dossiers van de Kijker in SPS relatieve beelddienende wegen gebruiken die aan activa richten die op `Scene7SharedAssets`worden gevestigd. Hieronder ziet u bijvoorbeeld een relatief pad naar een afbeeldingselement in een CSS-bestand met een Viewer-voorinstelling op `Scene7SharedAsset`: `.s7videoviewer .s7fullscreenbutton[state][selected] { background-image: url(/is/image/Scene7SharedAssets/FullScreenButton_dark_sprite?scl=1&fmt=png-alpha); }`Als u echter CSS-bestanden van de viewer op uw eigen site host, moet u deze relatieve afbeeldingspad oplossen door in uw eigen omgeving een expliciet pad naar de afbeeldingsserver te gebruiken. Als u het relatieve pad boven naar een expliciet pad wilt bijwerken, ziet het er ter illustratie als volgt uit, waar `https://s7d1.scene7.com` het directe pad naar de afbeeldingsserver zich bevindt: `https://s7d1.scene7.com/is/image/Scene7SharedAssets/FullScreenButton_dark_sprite?scl=1&fmt=png-alpha`
 
 **Een voorinstelling voor een HTML5-viewer exporteren**
 
@@ -671,7 +674,7 @@ https://s7d1.scene7.com/is/image/Scene7SharedAssets/FullScreenButton_dark_sprite
 
    Zie Bestanden [uploaden](uploading-files.md#uploading_files).
 
-1. Publiceer het CSS-bestand naar de Dynamic Media Image Server.
+1. Publiceer het CSS dossier aan de Server van het Beeld van Dynamic Media.
 
    Zie Bestanden [](publishing-files.md#publishing_files)publiceren.
 
@@ -681,7 +684,7 @@ https://s7d1.scene7.com/is/image/Scene7SharedAssets/FullScreenButton_dark_sprite
 
 ### Viewer-voorinstellingen activeren of deactiveren {#activating-or-deactivating-viewer-presets}
 
-Als u een URL wilt maken voor het weergeven van elementen, opent u de vervolgkeuzelijst Voorinstellingen in het dialoogvenster Voorvertoning, selecteert u een voorinstelling voor de viewer en klikt u op URL kopiëren (zie De URL van een voorinstelling [voor de viewer](application-setup.md#copying_the_url_of_a_viewer_preset)kopiëren). Deze lijst Voorinstellingen bevat voorinstellingen voor viewers die beheerders toevoegen en beheren in het scherm Voorinstellingen viewer. Alle actieve voorinstellingen voor de eCatalog-viewer worden bijvoorbeeld weergegeven in de vervolgkeuzelijst Voorinstellingen in het dialoogvenster Voorvertoning wanneer een gebruiker een voorvertoning van een eCatalog weergeeft.
+Als u een URL wilt maken voor het weergeven van elementen, opent u de vervolgkeuzelijst Voorinstellingen in het dialoogvenster Voorvertoning, selecteert u een voorinstelling voor de viewer en klikt u op URL kopiëren (zie De URL van een voorinstelling [voor de viewer](application-setup.md#copying_the_url_of_a_viewer_preset)kopiëren). Deze lijst met voorinstellingen bevat voorinstellingen voor viewers die beheerders toevoegen en beheren in het scherm Voorinstellingen viewer. Alle actieve voorinstellingen voor de eCatalog-viewer worden bijvoorbeeld weergegeven in de vervolgkeuzelijst Voorinstellingen in het dialoogvenster Voorvertoning wanneer een gebruiker een voorvertoning van een eCatalog weergeeft.
 
 Tenzij u de Viewer-voorinstellingen in het scherm Voorinstellingen viewer deactiveert, kan de vervolgkeuzelijst Voorinstellingen in het dialoogvenster Voorvertoning vol raken.
 
@@ -918,7 +921,7 @@ Er zijn twee elementen beschikbaar voor definitie, Identieke en Basisnaam. Met d
 
 ### Een voorinstelling voor een batchset maken {#creating-a-batch-set-preset}
 
-Dynamic Media Classic gebruikt voorinstellingen voor batchsets om elementen die veel voorkomende informatie of inhoud bevatten, te ordenen in sets afbeeldingen die worden weergegeven in viewers. De vooraf ingestelde batchrecepten worden automatisch uitgevoerd naast de importtaken voor elementen die u in Dynamic Media Classic plant.
+Bij Dynamic Media Classic worden voorinstellingen in batchsets gebruikt om elementen die algemene informatie of inhoud delen, te ordenen in sets afbeeldingen die worden weergegeven in viewers. De vooraf ingestelde recepten voor batchsets worden automatisch uitgevoerd naast de importtaken voor elementen die u in Dynamic Media Classic plant.
 
 Met Voorinstelling Batchset kunt u voorinstellingen voor batchsets maken, bewerken en beheren. U kunt zoveel voorinstellingen voor batchsets maken als nodig zijn om alle taken voor het opnemen van elementen die u nodig hebt, te kunnen uitvoeren. Er zijn twee vormen van vooraf ingestelde batch-definities: een voor een standaardnaamgevingsconventie die u hebt ingesteld en een conventie voor aangepaste naamgevingsconventies die u direct maakt.
 
@@ -940,8 +943,8 @@ Zie ook Een voorinstelling voor een batchset [maken voor het automatisch generer
    * If you are using a default naming convention that you previously set up under Application Setup > Batch Set Presets > Default Naming, expand **Asset Naming Conventions**, and then in the File Naming drop-down list, click **Default**.
    * To define a naming convention as you set up the preset, expand **Asset Naming Conventions**, and then in the File Naming drop-down list, click **Custom**.
 
-1. Definieer bij Volgorde de volgorde voor de afbeeldingen nadat de set is gegroepeerd in Dynamic Media Classic. Uw elementen worden standaard alfanumeriek geordend. U kunt echter een door komma&#39;s gescheiden lijst met reguliere expressies gebruiken om de volgorde te definiëren.
-1. Geef bij Naamgeving instellen en Creatieconcept het achtervoegsel of het voorvoegsel op van de basisnaam die u in de Naamgevingsconventie voor middelen hebt gedefinieerd. Definieer ook waar de afbeeldingsset wordt gemaakt in de structuur van de map Dynamic Media Classic.
+1. Definieer bij Volgorde de volgorde voor de afbeeldingen nadat de set is gegroepeerd in Classic Dynamic Media. Uw elementen worden standaard alfanumeriek geordend. U kunt echter een door komma&#39;s gescheiden lijst met reguliere expressies gebruiken om de volgorde te definiëren.
+1. Geef bij Naamgeving instellen en Creatieconcept het achtervoegsel of het voorvoegsel op van de basisnaam die u in de Naamgevingsconventie voor middelen hebt gedefinieerd. Definieer ook waar de afbeeldingsset wordt gemaakt in de Classic-mapstructuur van Dynamic Media.
 
    Als u grote aantallen afbeeldingssets definieert, kunt u deze beter apart houden van de mappen die de elementen zelf bevatten. Vele klanten creëren een omslag van de Reeksen van het Beeld en leiden de toepassing om partij te plaatsen geproduceerde reeksen hier.
 
@@ -1014,7 +1017,7 @@ Wanneer de spinset wordt geüpload en gepubliceerd, activeert u de naam van het 
    >[!NOTE]
    Als de combinatie van reguliere rij- en kolomexpressies de positie van het element binnen de multidimensionale spinsetarray niet kan bepalen, wordt dat element niet toegevoegd aan de set en wordt een fout geregistreerd.
 
-1. Geef bij Naamgeving instellen en Creatieconcept het achtervoegsel of het voorvoegsel op van de basisnaam die u in de Naamgevingsconventie voor middelen hebt gedefinieerd. Definieer ook waar de afbeeldingsset wordt gemaakt in de structuur van de map Dynamic Media Classic.
+1. Geef bij Naamgeving instellen en Creatieconcept het achtervoegsel of het voorvoegsel op van de basisnaam die u in de Naamgevingsconventie voor middelen hebt gedefinieerd. Definieer ook waar de afbeeldingsset wordt gemaakt in de Classic-mapstructuur van Dynamic Media.
 
    Als u grote aantallen afbeeldingssets definieert, kunt u deze beter apart houden van de mappen die de elementen zelf bevatten. Vele klanten creëren een omslag van de Reeksen van het Beeld en leiden de toepassing om partij te plaatsen geproduceerde reeksen hier.
 
