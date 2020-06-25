@@ -2,23 +2,24 @@
 cloud: experience-cloud
 product: dynamic media classic
 audience: end-user
-user-guide-title: Dynamic Media Classic Help
+user-guide-title: Dynamic Media Klassieke Help
 index: y
 translation-type: tm+mt
-source-git-commit: 46285648da0e4c53c9ce08fc088705853e6a3a46
+source-git-commit: c554e643d287680c34a3b0e79c8dfd7c306a0111
 workflow-type: tm+mt
-source-wordcount: '719'
+source-wordcount: '730'
 ht-degree: 1%
 
 ---
 
 
-# Dynamic Media Classic Help {#using}
+# Dynamic Media Klassieke Help {#using}
 
-+ [Dynamic Media Classic Documentation Home](home.md)
-+ [NIEUWE Dynamic Media Classic-aanmeldervaring beschikbaar op 30 juni 2020](new-ui-2020.md)
-+ [Dynamic Media-nieuwsbrief van Experience League](dynamic-media-newsletter.md)
-+ Introductie van Adobe Dynamic Media Classic {#intro}
++ [Dynamic Media Klassieke Documentatie Home](home.md)
++ [Zelfstudie over best practices](https://docs.adobe.com/content/help/en/experience-manager-learn/dynamic-media-classic-tutorial/overview.html)
++ [NIEUWE Dynamic Media Klassieke aanmeldingservaring beschikbaar op 30 juni 2020](new-ui-2020.md)
++ [Dynamic Media Nieuwsbrief van Experience League](dynamic-media-newsletter.md)
++ Inleiding tot Adobe Dynamic Media Classic {#intro}
    + [Info over Dynamic Media Classic](introduction.md)
    + [Bronnen voor ontwikkelaars](developer-resources.md)
    + [Nieuwe functies](whats-new.md)
@@ -30,7 +31,7 @@ ht-degree: 1%
    + [Populaire bronnen](popular-resources.md)
    + [Trainingsvideo&#39;s](training-videos.md)
 + Aan de slag {#getting-started}
-   + [Overzicht van het Adobe Dynamic Media Classic-platform](scene7-platform-overview.md)
+   + [Overzicht van Adobe Dynamic Media Classic-platform](scene7-platform-overview.md)
    + [Media Portal](media-portal.md)
    + [In- en uitloggen](signing-out.md)
    + [Basisbeginselen van navigatie](navigation-basics.md)
@@ -148,16 +149,16 @@ ht-degree: 1%
    + [Snel starten: Dynamic Media Classic integreren met Adobe Analytics](quick-start-integrating-scene7-analytics.md)
    + [Aanmelden bij Adobe Analytics](log-analytics.md)
    + [Adobe Analytics-rapporten configureren](configuring-analytics-reports.md)
-   + [Een viewer van instrumenten voorzien met de Adobe Analytics Instrumentation Kit](instrumenting-viewer-using-analytics-instrumentation.md)
+   + [Een viewer besturen met de Adobe Analytics Instrumentation Kit](instrumenting-viewer-using-analytics-instrumentation.md)
    + [Adobe Analytics-tracking uitschakelen](disabling-analytics-tracking.md)
    + [De integratie testen door een Adobe Analytics-rapport te bekijken](testing-integration-viewing-analytics-report.md)
-   + [Adobe Analytics Video Reports inschakelen](enabling-analytics-video-reports.md)
-   + [Configuratiegegevens van Adobe Analytics publiceren](publishing-analytics-configuration-information.md)
-+ Klassieke doelintegratie {#target-classic}
-   + [Snel starten: Klassieke doelintegratie](quick-start-target-classic-integration.md)
+   + [Adobe Analytics-videorapporten inschakelen](enabling-analytics-video-reports.md)
+   + [Adobe Analytics-configuratiegegevens publiceren](publishing-analytics-configuration-information.md)
++ Target Classic integratie {#target-classic}
+   + [Snel starten: Target Classic integratie](quick-start-target-classic-integration.md)
    + [Adobe Dynamic Media Classic integreren met Adobe Target Classic](integrating-scene7-target-classic.md)
    + [Een aanbiedingsset maken](creating-offer-set.md)
-   + [Aanbiedingsets overslaan naar Adobe Target Classic](pushing-offer-sets-target-classic.md)
+   + [Aanbiedingen overslaan op Adobe Target Classic](pushing-offer-sets-target-classic.md)
 + Door de gebruiker gegenereerde inhoud {#user-generated-content}
    + [Door de gebruiker gegenereerde inhoud](about-ugc.md)
    + [Geüploade elementen verwijderen](deleting-uploaded-asset.md)
