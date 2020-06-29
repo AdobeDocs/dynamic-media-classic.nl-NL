@@ -5,9 +5,9 @@ audience: end-user
 user-guide-title: Dynamic Media Klassieke Help
 index: y
 translation-type: tm+mt
-source-git-commit: c554e643d287680c34a3b0e79c8dfd7c306a0111
+source-git-commit: d3870442babfbcc14734b4e31f9989f5e5837049
 workflow-type: tm+mt
-source-wordcount: '730'
+source-wordcount: '731'
 ht-degree: 1%
 
 ---
@@ -17,14 +17,14 @@ ht-degree: 1%
 
 + [Dynamic Media Klassieke Documentatie Home](home.md)
 + [Zelfstudie over best practices](https://docs.adobe.com/content/help/en/experience-manager-learn/dynamic-media-classic-tutorial/overview.html)
-+ [NIEUWE Dynamic Media Klassieke aanmeldingservaring beschikbaar op 30 juni 2020](new-ui-2020.md)
++ [NIEUWE Dynamic Media Klassiek aanmelden nu beschikbaar](new-ui-2020.md)
 + [Dynamic Media Nieuwsbrief van Experience League](dynamic-media-newsletter.md)
 + Inleiding tot Adobe Dynamic Media Classic {#intro}
+   + [Adobe Dynamic Media Classic-bureaubladtoepassing - Nu beschikbaar](dynamic-media-classic-desktop-app.md)
    + [Info over Dynamic Media Classic](introduction.md)
    + [Bronnen voor ontwikkelaars](developer-resources.md)
    + [Nieuwe functies](whats-new.md)
    + [Systeemvereisten](system-requirements.md)
-   + [Adobe Dynamic Media Classic-bureaubladtoepassing binnenkort beschikbaar!](dynamic-media-classic-desktop-app.md)
    + [Ondersteuning](support.md)
    + [Help voor Dynamic Media Classic Media Portal](help-scene7-media-portal.md)
    + [Adobe Training Services](training-services.md)
