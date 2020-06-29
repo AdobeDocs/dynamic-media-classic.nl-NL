@@ -1,20 +1,20 @@
 ---
-title: Nieuwe Dynamic Media Klassiek aanmelden nu beschikbaar
-seo-title: Nieuwe Dynamic Media Klassieke desktop-app nu beschikbaar
+title: Adobe Dynamic Media Classic-bureaubladtoepassing
+seo-title: Adobe Dynamic Media Classic-bureaubladtoepassing
 description: Klassieke gebruikers van Dynamic Media kunnen nu een volledige vernieuwing van de gebruikersinterface ervaren. De ervaring biedt een bijgewerkte aanmelding met koppelingen naar waardevolle bronnen. Bovendien is deze update niet langer afhankelijk van Adobe Flash-technologie in de browser.
 contentOwner: rbrough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
 translation-type: tm+mt
-source-git-commit: 42d2a6e5d1a4b33149043eed590137ea826fe146
+source-git-commit: d3870442babfbcc14734b4e31f9989f5e5837049
 workflow-type: tm+mt
-source-wordcount: '1114'
+source-wordcount: '1107'
 ht-degree: 0%
 
 ---
 
 
-# Nieuwe Dynamic Media Klassieke inlogervaring is nu beschikbaar {#new-ui-2020}
+# Adobe Dynamic Media Classic Desktop-app - Nu beschikbaar {#new-ui-2020}
 
 Zie [Adobe Dynamic Media Classic-bureaubladtoepassing](/help/dynamic-media-classic-desktop-app.md) om de systeemvereisten te controleren, de nieuwe app te downloaden en installeren en u vervolgens aan te melden.
 
