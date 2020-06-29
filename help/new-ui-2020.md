@@ -6,9 +6,9 @@ contentOwner: rbrough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
 translation-type: tm+mt
-source-git-commit: c554e643d287680c34a3b0e79c8dfd7c306a0111
+source-git-commit: 42d2a6e5d1a4b33149043eed590137ea826fe146
 workflow-type: tm+mt
-source-wordcount: '1137'
+source-wordcount: '1114'
 ht-degree: 0%
 
 ---
@@ -26,8 +26,6 @@ Klassieke gebruikers van Dynamic Media hebben nu toegang tot een nieuwe aanmelde
 
 Adobe Flash Player was een insteekmodule voor webbrowsers die webbrowsers de inhoud laten gebruiken die op het Adobe Flash-platform is ontwikkeld. De webgebruikersinterface van Dynamic Media Classic (momenteel gelabeld [!DNL Scene7 Publishing System] [!DNL SPS] of in het product) vereist Adobe Flash Player. Wanneer Adobe Flash op 31 december 2020 wordt afgekeurd, kunnen klanten van Dynamic Media Classic zich niet meer aanmelden bij de webgebruikersinterface. Daarom heeft Adobe klanten een bureaubladtoepassing ter vervanging van de browserervaring geleverd.
 
-Zie [Adobe Dynamic Media Classic-bureaubladtoepassing](/help/dynamic-media-classic-desktop-app.md) om de systeemvereisten te controleren, de nieuwe app te downloaden en installeren en u vervolgens aan te melden.
-
 ### **_Hoe kan ik de nieuwe bureaubladtoepassing openen?_**
 
 De nieuwe bureaubladtoepassing is beschikbaar als een `.dmg` installatieprogramma voor MacOS of als een `.exe` installatieprogramma voor Windows.
@@ -44,7 +42,7 @@ Nadat u de desktop-app hebt gedownload, geïnstalleerd en gestart, wordt u een v
 >
 >Er kan slechts één exemplaar van de bureaubladtoepassing tegelijk worden geïnstalleerd en geactiveerd.
 
-### **_What if I am using the Dynamic Media Classic APIs to access the product and do not sign in through the web user interface?_**
+### **_Wat als ik Dynamic Media Klassieke APIs gebruik om tot het product toegang te hebben en niet binnen door het Webgebruikersinterface te ondertekenen?_**
 
 De onderliggende API&#39;s voor Dynamic Media Classic zijn niet gewijzigd.
 
@@ -52,11 +50,11 @@ De onderliggende API&#39;s voor Dynamic Media Classic zijn niet gewijzigd.
 
 Nee. Klassieke klanten van Dynamic Media hoeven geen integratie van derden te migreren of te wijzigen om de nieuwe desktop-app te gebruiken.
 
-### **_Does this change affect my automation scripts?_**
+### **_Heeft deze wijziging invloed op mijn automatiseringsscripts?_**
 
-Nee. There is no impact to automation scripts. The new desktop app acts and behaves in a way that is similar to the browser-based experience that you are already familiar with.
+Nee. Automatiseringsscripts zijn niet van invloed. De nieuwe bureaubladtoepassing werkt en gedraagt zich op een manier die vergelijkbaar is met de browserervaring die u al kent.
 
-### **_Will the new Dynamic Media Classic desktop app work on Macs and personal computers?_**
+### **_Werken de nieuwe Dynamic Media Classic desktop-app op computers en Mac&#39;s?_**
 
 Ja. De nieuwe desktop-app is een oplossing voor meerdere platforms en werkt op computers en pc&#39;s. Linux wordt *niet* ondersteund.
 
@@ -74,7 +72,7 @@ Nee, de AIR-technologie waarop de nieuwe Dynamic Media Classic-bureaubladtoepass
 
 ### **_Zijn er beperkingen op het aantal bestanden dat via een lokale computer naar Dynamic Media Classic kan worden geüpload?_**
 
-Als u de nieuwe Klassieke bureaublad-app Dynamic Media in Windows gebruikt, kunt u maximaal 150 bestanden tegelijk uploaden via het **[!UICONTROL Upload]** dialoogvenster. This limitation will be addressed before the end of 2020. There are *no* upload restrictions on the macOS platform.
+Als u de nieuwe Klassieke bureaublad-app Dynamic Media in Windows gebruikt, kunt u maximaal 150 bestanden tegelijk uploaden via het **[!UICONTROL Upload]** dialoogvenster. Deze beperking zal vóór eind 2020 worden aangepakt. Er zijn *geen* uploadbeperkingen voor het macOS-platform.
 
 ### **_Vereist de nieuwe Dynamic Media Klassieke Desktop app een nieuwe SKU? Is er sprake van licentiekosten?_**
 
