@@ -8,7 +8,7 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/introducing_adobe_dynamic_media_classic
 translation-type: tm+mt
-source-git-commit: 59116a685629cfd788c32fb5082f35d90e66fb5a
+source-git-commit: 37f9a42b89ad1ade0aa7f8fc542b03c930bd9c27
 workflow-type: tm+mt
 source-wordcount: '641'
 ht-degree: 0%
@@ -26,7 +26,7 @@ Deze nieuwe app is nu beschikbaar voor Windows en macOS.
 >
 >We raden u aan de nieuwe Adobe Dynamic Media Classic-bureaubladtoepassing tegen 1 oktober 2020 te installeren. Zo hebt u een vloeiende overgang voordat Adobe Flash Player op 31 december 2020 wordt vervangen. Op die datum, zult u niet meer aan de browser versie van de Klassieke gebruikersinterface van Adobe Dynamic Media kunnen het programma openen, die als het Publiceren Scene7 Systeem in het product wordt geëtiketteerd.
 
-Raadpleeg de veelgestelde vragen voor de [nieuwe klassieke Dynamic Media-aanmeldervaring die nu beschikbaar](/help/new-ui-2020.md)is.
+Raadpleeg de veelgestelde vragen voor de [nieuwe klassieke Dynamic Media-aanmeldervaring die nu beschikbaar is.](/help/new-ui-2020.md)
 
 ## Systeemvereisten voor Adobe Dynamic Media Classic-bureaubladtoepassing {#system-requirements-dmc-app}
 
@@ -40,8 +40,8 @@ De Adobe Dynamic Media Classic-bureaubladtoepassing is compatibel met de volgend
 
 1. Download het nieuwste installatieprogramma voor de Adobe Dynamic Media Classic-bureaubladtoepassing.
 
-   * macOS (.dmg) - [Downloaden](http://download.macromedia.com/dynamic-media-classic/20.20.1/adobe-dynamic-media-classic-20.20.1.dmg).
-   * Windows (.exe) - [Downloaden](lhttp://download.macromedia.com/dynamic-media-classic/20.20.1/adobe-dynamic-media-classic-20.20.1.exe).
+   * [macOS (.dmg) - Download.](http://download.macromedia.com/dynamic-media-classic/20.20.1/adobe-dynamic-media-classic-20.20.1.dmg)
+   * [Windows (.exe) - Downloaden.](lhttp://download.macromedia.com/dynamic-media-classic/20.20.1/adobe-dynamic-media-classic-20.20.1.exe)
 
 1. Voer een van de volgende handelingen uit op basis van het installatieprogramma dat u hebt gedownload.
 
@@ -87,7 +87,7 @@ De Adobe Dynamic Media Classic-bureaubladtoepassing is compatibel met de volgend
 
 **_Ik kan het deelvenster Media Cart niet zien op de landingspagina van Dynamic Media Classic._**<br> Tik in Dynamic Media Classic **[!UICONTROL Setup > Personal Setup]**. Controleer of in de sectie Browser de optie **[!UICONTROL Show MediaPortal Features]** is geselecteerd (ingeschakeld). Tik op **[!UICONTROL Save > Close]**.
 
-**_De publicatiestatus (groene indicator) van een element wordt niet correct weergegeven._**<br> In browser UI, was re-login aan UI vereist om de correcte publicatiestaat van activa te zien. In de bureaubladtoepassing is een **[!UICONTROL Refresh]** pictogram op de werkbalk toegevoegd, rechts van de **[!UICONTROL Select None]** knop. Tik op het **[!UICONTROL Refresh]** pictogram om de laatste status van alle elementen op de opgegeven pagina weer te geven. U hoeft zich niet opnieuw aan te melden, zoals in de gebruikersinterface van de browser.
+**_De publicatiestatus (groene indicator) van een element wordt niet correct weergegeven._**<br> In browser UI, was re-login aan UI vereist om de correcte publicatiestaat van activa te zien. In de bureaubladtoepassing is een pictogram op de werkbalk toegevoegd, rechts van de **[!UICONTROL Refresh]** **[!UICONTROL Select None]** knop. Tik op het **[!UICONTROL Refresh]** pictogram om de laatste status van alle elementen op de opgegeven pagina weer te geven. U hoeft zich niet opnieuw aan te melden, zoals in de gebruikersinterface van de browser.
 
 ![Pictogram](/help/assets/refresh-icon.png)*Vernieuwen vernieuwen*
 
