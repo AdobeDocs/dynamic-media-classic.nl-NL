@@ -8,7 +8,7 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/introducing_adobe_dynamic_media_classic
 translation-type: tm+mt
-source-git-commit: 37f9a42b89ad1ade0aa7f8fc542b03c930bd9c27
+source-git-commit: f2b8c8a5bdac38a48157c6eaa80cd09692ee2259
 workflow-type: tm+mt
 source-wordcount: '641'
 ht-degree: 0%
@@ -47,18 +47,18 @@ De Adobe Dynamic Media Classic-bureaubladtoepassing is compatibel met de volgend
 
    * **Voor MacOS** - Sleep het bestand naar het **[!UICONTROL Drag & drop to install]** dialoogvenster **[!UICONTROL Adobe Dynamic Media Classic]** en zet het neer op **[!UICONTROL Applications]**.
 
-      ![Installatie van slepen en neerzetten op MacOS](/help/assets/dragondrop-install.png)
+      ![Installatie van slepen en neerzetten op MacOS](/help/assets/dragondrop-install1.png)
 
    * Tik in de **[!UICONTROL Applications]** map op het pictogram Adobe Dynamic Media Classic.
    * Tik in het dialoogvenster **[!UICONTROL Open]** om de Adobe Dynamic Media Classic-bureaubladtoepassing te openen.
 
-      ![Gedownloade app openen](/help/assets/open-dmclassicapp.png)
+      ![Gedownloade app openen](/help/assets/open-dmclassicapp1.png)
 
    * **Voor Windows** - Voer het binaire bestand van het installatieprogramma uit en volg de aanwijzingen op het scherm om de bureaubladtoepassing te installeren.
 
 1. Wanneer u de toepassing opent, wordt de nieuwe pagina Aanmelden bij Adobe Dynamic Media Classic weergegeven:
 
-   ![Dynamic Media Klassiek aanmelden](/help/assets/dmclassic-login.png)
+   ![Dynamic Media Klassiek aanmelden](/help/assets/dmclassic-login1.png)
 
 1. Gebruik dezelfde referenties als uw browserreferenties om u aan te melden bij Adobe Dynamic Media Classic.
 
@@ -80,15 +80,15 @@ De Adobe Dynamic Media Classic-bureaubladtoepassing is compatibel met de volgend
 * Selecteer in de Klassieke app Dynamic Media het nieuwe bedrijf in de vervolgkeuzelijst met bedrijven.
 * Tik op het moment dat het pop-upvenster verschijnt **[!UICONTROL OK]** om u af te melden en de app te sluiten.
 
-   ![Start de app opnieuw om het nieuwe bedrijf te gebruiken](/help/assets/dmclassic-new-company.png)
+   ![Start de app opnieuw om het nieuwe bedrijf te gebruiken](/help/assets/dmclassic-new-company1.png)
 * Start Dynamic Media Classic opnieuw en meld u vervolgens op de gebruikelijke wijze aan om met het nieuwe bedrijf te werken.
 
 ## Tips en trucs
 
 **_Ik kan het deelvenster Media Cart niet zien op de landingspagina van Dynamic Media Classic._**<br> Tik in Dynamic Media Classic **[!UICONTROL Setup > Personal Setup]**. Controleer of in de sectie Browser de optie **[!UICONTROL Show MediaPortal Features]** is geselecteerd (ingeschakeld). Tik op **[!UICONTROL Save > Close]**.
 
-**_De publicatiestatus (groene indicator) van een element wordt niet correct weergegeven._**<br> In browser UI, was re-login aan UI vereist om de correcte publicatiestaat van activa te zien. In de bureaubladtoepassing is een pictogram op de werkbalk toegevoegd, rechts van de **[!UICONTROL Refresh]** **[!UICONTROL Select None]** knop. Tik op het **[!UICONTROL Refresh]** pictogram om de laatste status van alle elementen op de opgegeven pagina weer te geven. U hoeft zich niet opnieuw aan te melden, zoals in de gebruikersinterface van de browser.
+**_De publicatiestatus (groene indicator) van een element wordt niet correct weergegeven._**<br> In browser UI, was re-login aan UI vereist om de correcte publicatiestaat van activa te zien. In de bureaubladtoepassing is een **[!UICONTROL Refresh]** pictogram op de werkbalk toegevoegd, rechts van de **[!UICONTROL Select None]** knop. Tik op het **[!UICONTROL Refresh]** pictogram om de laatste status van alle elementen op de opgegeven pagina weer te geven. U hoeft zich niet opnieuw aan te melden, zoals in de gebruikersinterface van de browser.
 
-![Pictogram](/help/assets/refresh-icon.png)*Vernieuwen vernieuwen*
+![Pictogram](/help/assets/refresh-icon1.png)*Vernieuwen vernieuwen*
 
 **_Ik zie geen voorinstellingen voor batchsets werken in de bureaubladtoepassing._**<br> Tik op **[!UICONTROL Upload > Job Options > Batch Set Presets]**. Zorg ervoor dat de betreffende functie **[!UICONTROL Batch Set Preset]** is ingeschakeld. Klik op **[!UICONTROL Save and Submit upload]**.
