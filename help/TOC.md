@@ -5,9 +5,9 @@ audience: end-user
 user-guide-title: Dynamic Media Klassieke Help
 index: y
 translation-type: tm+mt
-source-git-commit: d3870442babfbcc14734b4e31f9989f5e5837049
+source-git-commit: b034ef968788ff6cdd95aa261302017307df120d
 workflow-type: tm+mt
-source-wordcount: '731'
+source-wordcount: '732'
 ht-degree: 1%
 
 ---
@@ -20,8 +20,8 @@ ht-degree: 1%
 + [NIEUWE Dynamic Media Klassiek aanmelden nu beschikbaar](new-ui-2020.md)
 + [Dynamic Media Nieuwsbrief van Experience League](dynamic-media-newsletter.md)
 + Inleiding tot Adobe Dynamic Media Classic {#intro}
-   + [Adobe Dynamic Media Classic-bureaubladtoepassing - Nu beschikbaar](dynamic-media-classic-desktop-app.md)
-   + [Info over Dynamic Media Classic](introduction.md)
+   + [Adobe Dynamic Media Classic Desktop-app - Nu beschikbaar](dynamic-media-classic-desktop-app.md)
+   + [Info over Dynamic Media Classic Help](introduction.md)
    + [Bronnen voor ontwikkelaars](developer-resources.md)
    + [Nieuwe functies](whats-new.md)
    + [Systeemvereisten](system-requirements.md)
