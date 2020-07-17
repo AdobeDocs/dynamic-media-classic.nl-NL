@@ -8,9 +8,9 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/introducing_adobe_dynamic_media_classic
 translation-type: tm+mt
-source-git-commit: 8858ca1482b8a33e3294df345bc2e5fc34483e07
+source-git-commit: 88f73056803a34ef2748b19eafbe7d50933b4d6a
 workflow-type: tm+mt
-source-wordcount: '646'
+source-wordcount: '679'
 ht-degree: 0%
 
 ---
@@ -72,6 +72,10 @@ De Adobe Dynamic Media Classic-bureaubladtoepassing is compatibel met de volgend
 
 1. Post login UI, zult u het vertrouwde browser ervaring UI opmerken. U kunt uw dagelijkse activiteiten op de gebruikelijke wijze nu uitvoeren op de interface van de bureaubladtoepassing.
 
+## Video-doorloop bij gebruik van Dynamic Media Classic Desktop App
+
+Bekijk een [videodemo over het gebruiken van de Klassieke App](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/dynamic-media/dynamic-media-classic-desktop-application.html) van de Desktop van Dynamic Media (Lengte: 2 minuten en 36 seconden).
+
 ## Bekende beperkingen in Dynamic Media Classic
 
 **_Alleen van toepassing op Windows: is er een beperking op het aantal bestanden dat kan worden geüpload via de interface van de bureaubladtoepassing?_**<br> Ja, er kunnen maximaal 150 bestanden tegelijk worden geüpload via de interface van de bureaubladtoepassing.
@@ -87,7 +91,7 @@ De Adobe Dynamic Media Classic-bureaubladtoepassing is compatibel met de volgend
 
 **_Ik kan het deelvenster Media Cart niet zien op de landingspagina van Dynamic Media Classic._**<br> Tik in Dynamic Media Classic **[!UICONTROL Setup > Personal Setup]**. Controleer of in de sectie Browser de optie **[!UICONTROL Show MediaPortal Features]** is geselecteerd (ingeschakeld). Tik op **[!UICONTROL Save > Close]**.
 
-**_De publicatiestatus (groene indicator) van een element wordt niet correct weergegeven._**<br> In browser UI, was re-login aan UI vereist om de correcte publicatiestaat van activa te zien. In de bureaubladtoepassing is een pictogram op de werkbalk toegevoegd, rechts van de **[!UICONTROL Refresh]** **[!UICONTROL Select None]** knop. Tik op het **[!UICONTROL Refresh]** pictogram om de laatste status van alle elementen op de opgegeven pagina weer te geven. U hoeft zich niet opnieuw aan te melden, zoals in de gebruikersinterface van de browser.
+**_De publicatiestatus (groene indicator) van een element wordt niet correct weergegeven._**<br> In browser UI, was re-login aan UI vereist om de correcte publicatiestaat van activa te zien. In de bureaubladtoepassing is een **[!UICONTROL Refresh]** pictogram op de werkbalk toegevoegd, rechts van de **[!UICONTROL Select None]** knop. Tik op het **[!UICONTROL Refresh]** pictogram om de laatste status van alle elementen op de opgegeven pagina weer te geven. U hoeft zich niet opnieuw aan te melden, zoals in de gebruikersinterface van de browser.
 
 ![Pictogram](/help/assets/refresh-icon1.png)*Vernieuwen vernieuwen*
 
