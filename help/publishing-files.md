@@ -6,24 +6,27 @@ seo-description: Leer hoe u bestanden publiceert.
 uuid: cdcf519b-4c1e-430b-b43a-2f20f75071b1
 contentOwner: admin
 content-type: reference
-products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
+products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/upload_and_publish_assets
 discoiquuid: 39099bc0-9228-46f0-9bee-3542059f4695
 translation-type: tm+mt
-source-git-commit: 917ba4469b5ef22e62c572f80008e470dccdebe4
+source-git-commit: 1df4f88ef856160ee06c43dc6ec430df122f2408
+workflow-type: tm+mt
+source-wordcount: '1657'
+ht-degree: 0%
 
 ---
 
 
 # Bestanden publiceren {#publishing-files}
 
-U publiceert uw elementen naar Dynamic Media Image Servers. U kunt elementen eenmalig publiceren of ervoor zorgen dat Dynamic Media Classic elementen volgens een terugkerend schema publiceert. Nadat uw elementen zijn gepubliceerd, kunt u ze ter beschikking stellen. U kunt de vraag URL van het het Publiceren Scene7 Systeem kopiëren en hen toevoegen aan uw website of toepassing.
+U publiceert uw middelen aan de Servers van het Beeld van Dynamic Media. U kunt elementen eenmalig publiceren of ervoor zorgen dat Dynamic Media Klassiek elementen volgens een terugkerend schema publiceert. Nadat uw elementen zijn gepubliceerd, kunt u ze ter beschikking stellen. U kunt de URL-aanroepen van Dynamic Media Classic kopiëren en toevoegen aan uw website of toepassing.
 
-Scene7 het Publiceren Systeem steunt nu de levering van alle beelden en video over HTTP/2. Dit wil zeggen dat er een gepubliceerde URL of insluitcode voor de afbeelding of video beschikbaar is om te worden geïntegreerd met elke toepassing die een gehoste element accepteert. Dat gepubliceerde element wordt vervolgens geleverd via het HTTP/2-protocol. Deze leveringsmethode verbetert de manier waarop browsers en servers communiceren, waardoor u betere responstijd en laadtijden van al uw Dynamic Media Classic-middelen krijgt. Zie [HTTP2 Veelgestelde vragen](https://docs.adobe.com/content/docs/en/aem/6-2/administer/integration/marketing-cloud/scene7/http2faq.html)over het leveren van inhoud.
+Dynamic Media Classic ondersteunt nu de levering van alle afbeeldingen en video via HTTP/2. Dit wil zeggen dat er een gepubliceerde URL of insluitcode voor de afbeelding of video beschikbaar is om te worden geïntegreerd met elke toepassing die een gehoste element accepteert. Dat gepubliceerde element wordt vervolgens geleverd via het HTTP/2-protocol. Deze methode van levering verbetert de manier browsers en servers communiceren, die voor betere reactie en ladingstijden van al uw Dynamic Media Klassieke activa toestaan. Zie [HTTP2 Veelgestelde vragen](https://docs.adobe.com/content/docs/en/aem/6-2/administer/integration/marketing-cloud/scene7/http2faq.html)over het leveren van inhoud.
 
 ## Publiceren na uploaden {#publish-after-uploading}
 
-Activa in een gepubliceerde of niet-gepubliceerde status. Standaard worden alle elementen die u uploadt naar Dynamic Media Classic, automatisch gemarkeerd voor publicatie.
+Activa in een gepubliceerde of niet-gepubliceerde status. Door gebrek, worden om het even welke activa die u in Dynamic Media Klassiek uploadt automatisch duidelijk voor publicatie.
 
 Zie de [PDF](/help/assets/rendering-instant-publish-notification.pdf)voor direct publiceren voor meer informatie.
 
@@ -62,7 +65,7 @@ Maak een publicatietaak om elementen te publiceren die u naar Dynamic Media Clas
 
 1. Klik op **Publiceren** verzenden.
 
-SPS sporen publiceren banen op de pagina van Banen. U kunt publicatietaken op die pagina controleren.
+De Klassieke sporen van Dynamic Media publiceren banen op de pagina van Banen. U kunt publicatietaken op die pagina controleren.
 
 >[!NOTE]
 >
@@ -78,7 +81,7 @@ Als u wilt dat de publicatietaak op een latere datum plaatsvindt, selecteert u h
 
 Maak een terugkerende publicatietaak door de optie Terugkeren op de pagina Publiceren te selecteren.
 
-Kies vervolgens een optie voor Herhalen (Dagelijks, Wekelijks, Maandelijks of Aangepast) om te declareren wanneer de publicatietaak moet worden herhaald. Dynamic Media Classic biedt kalendergereedschappen voor het plannen van de terugkerende publicatietaak. U kunt de optie Aangepast kiezen en een regel in het vak Regel invoeren om een aangepast taakinterval te beschrijven.
+Kies vervolgens een optie voor Herhalen (Dagelijks, Wekelijks, Maandelijks of Aangepast) om te declareren wanneer de publicatietaak moet worden herhaald. Dynamic Media Classic presenteert kalendergereedschappen voor het plannen van de terugkerende publicatietaak. U kunt de optie Aangepast kiezen en een regel in het vak Regel invoeren om een aangepast taakinterval te beschrijven.
 
 Zie Tijdinterval [voor aangepaste uploads of publicatietaken](checking-job-files.md#creating_a_custom_upload_or_publish_job_time_interval)maken.
 
@@ -92,7 +95,7 @@ U kunt de Geavanceerde opties weergeven op de pagina Publiceren en deze opties k
 
 * **Publiceren naar** Kies een servertype om elementen alleen naar een specifieke server te publiceren, niet naar alle servers.
 
-* **Standaard publiceert** SPS alleen elementen die nieuw zijn en nog niet eerder zijn gepubliceerd (de optie Nieuw sinds laatste publicatie). U kunt echter Volledig publiceren kiezen om ook elementen te publiceren die zijn bijgewerkt of gewijzigd sinds ze voor het laatst zijn gepubliceerd. Kies Volledige gegevens zonder zoekgegevens als u een eCatalog publiceert en u wilt dat lezers deze op trefwoorden kunnen doorzoeken.
+* **Publiceren** Standaard publiceert Dynamic Media Classic alleen elementen die nieuw zijn en nog niet eerder zijn gepubliceerd (de optie Nieuw sinds laatste publicatie). U kunt echter Volledig publiceren kiezen om ook elementen te publiceren die zijn bijgewerkt of gewijzigd sinds ze voor het laatst zijn gepubliceerd. Kies Volledige gegevens zonder zoekgegevens als u een eCatalog publiceert en u wilt dat lezers deze op trefwoorden kunnen doorzoeken.
 
 * **Taak uitvoeren als** Kies een gebruikersnaam in de lijst. U kunt taken sorteren op gebruikersnaam op de pagina Taken. Als u een naam kiest, koppelt u een publicatietaak aan een gebruiker.
 
@@ -148,11 +151,11 @@ De laatste datum waarop een element is gepubliceerd, wordt weergegeven in de ged
 
 ## Hergepubliceerde elementen en CDN-vertragingen {#republished-assets-and-cdn-delays}
 
-De dynamische Klassieke activa van Media worden verdeeld op het netwerk van de inhoudslevering (CDN). CDN is een systeem van computerservers die samen samenwerken om inhoud, vooral grote media inhoud, aan eind te leveren - gebruikers. In het CDN-systeem wordt webinhoud opgeslagen in webcaches via internet (het zogenaamde Edge-cachenetwerk). De inhoud van het Web wordt geleverd van deze Webgeheime voorgeheugens aan eind - gebruikers voor snellere leveringen.
+Dynamic Media Klassieke activa worden verdeeld op het netwerk van de inhoudslevering (CDN). CDN is een systeem van computerservers die samen samenwerken om inhoud, vooral grote media inhoud, aan eind te leveren - gebruikers. In het CDN-systeem wordt webinhoud opgeslagen in webcaches via internet (het zogenaamde Edge-cachenetwerk). De inhoud van het Web wordt geleverd van deze Webgeheime voorgeheugens aan eind - gebruikers voor snellere leveringen.
 
 De eerste keer dat iemand een webpagina downloadt, worden de elementen geleverd aan een CDN-webcaeserver. Ze worden opgeslagen op deze server, zodat dezelfde inhoud in de cache sneller kan worden geleverd wanneer iemand in hetzelfde gebied de webpagina weer opent. De inhoud wordt sneller geleverd, omdat deze zich dichter bij de eindgebruiker bevindt. CDN zorgt voor snellere webpaginaweergaven. Het vermindert bandbreedteeisen op de centrale server omdat de inhoud van het netwerk van het randgeheime voorgeheugen, niet van een centrale server in elke instantie wordt geleverd.
 
-Nieuw gepubliceerde Dynamic Media Classic-inhoud is direct beschikbaar voor de eindgebruiker en vult snel het netwerk met de Edge-cache. Nieuwe opnieuw gepubliceerde inhoud (afbeeldingen met exact dezelfde naam als afbeeldingen die eerder naar een afbeeldingsserver zijn gepubliceerd) wordt echter maximaal tien uur niet op de CDN bijgewerkt. In plaats daarvan, zien de eindgebruikers wat in een Webgeheime voorgeheugen op het netwerk CDN is. Daarom kunnen uw Dynamic Media Classic opnieuw gepubliceerde middelen tien uur lang niet aan eindgebruikers worden weergegeven.
+Nieuw gepubliceerde Dynamic Media Klassieke inhoud is onmiddellijk beschikbaar aan het eind - gebruiker en bevolkt snel het netwerk van het randgeheime voorgeheugen. Nieuwe opnieuw gepubliceerde inhoud (afbeeldingen met exact dezelfde naam als afbeeldingen die eerder naar een afbeeldingsserver zijn gepubliceerd) wordt echter maximaal tien uur niet op de CDN bijgewerkt. In plaats daarvan, zien de eindgebruikers wat in een Webgeheime voorgeheugen op het netwerk CDN is. Daarom kunnen uw Dynamic Media Klassieke opnieuw gepubliceerde middelen tien uur lang niet aan eindgebruikers lijken.
 
 Als u wilt dat de nieuw gepubliceerde afbeeldingselementen sneller beschikbaar zijn dan de vertraging van tien uur, kunt u webcaches op CDN leegmaken. Als u deze webcaches leegmaakt, wordt oude inhoud uit CDN-webcaches verwijderd en vervangen door de laatst gepubliceerde elementen.
 
