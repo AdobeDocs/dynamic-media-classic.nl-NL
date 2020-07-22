@@ -6,13 +6,13 @@ seo-description: Leer hoe u zoomviewers kunt koppelen aan uw webpagina's.
 uuid: cd350ea4-267e-4a8a-aed8-7553df86b438
 contentOwner: admin
 content-type: reference
-products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
+products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/zoom
 discoiquuid: df5471c1-ccda-4dd4-a7f1-5b9193b41f98
 translation-type: tm+mt
-source-git-commit: 74238f90f45f0fb9a4566915a20a1d41dfb69fe1
+source-git-commit: 1df4f88ef856160ee06c43dc6ec430df122f2408
 workflow-type: tm+mt
-source-wordcount: '674'
+source-wordcount: '673'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Zoomviewers koppelen aan uw webpagina&#39;s{#linking-zoom-viewers-to-your-web-pages}
 
-Via URL-tekenreeksen of ingesloten code krijgen uw websites en toepassingen via URL-tekenreeksen toegang tot inhoud van de Dynamic Media Image Server, inclusief hoofdafbeeldingen en bijbehorende zoomdoelen, en Voorinstellingen van de zoomviewer. Deze URL-tekenreeksen worden geactiveerd tijdens het publicatieproces. Om deze koorden URL of de ingebedde code in uw Web-pagina&#39;s en toepassingen te plaatsen, kopieert u hen van het het Publiceren Scene7 Systeem.
+Via URL-tekenreeksen of ingesloten code krijgen uw websites en toepassingen via URL-tekenreeksen toegang tot de inhoud van de Dynamic Media Image Server, inclusief master afbeeldingen en de bijbehorende zoomdoelen en Voorinstellingen van de zoomviewer. Deze URL-tekenreeksen worden geactiveerd tijdens het publicatieproces. Als u deze URL-tekenreeksen of de ingesloten code op uw webpagina&#39;s en toepassingen wilt plaatsen, kopieert u deze vanuit Dynamic Media Classic.
 
 >[!NOTE]
 >
