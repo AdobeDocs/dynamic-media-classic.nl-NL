@@ -6,13 +6,13 @@ seo-description: Een inleiding en Snel aan Video beginnen om u te helpen snel aa
 uuid: bf0ecf87-a1f2-4e83-8041-df5192dd26a1
 contentOwner: admin
 content-type: reference
-products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
+products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/video
 discoiquuid: 6cef541b-e9df-48eb-9a16-ca3e1f07238e
 translation-type: tm+mt
-source-git-commit: 74238f90f45f0fb9a4566915a20a1d41dfb69fe1
+source-git-commit: 1df4f88ef856160ee06c43dc6ec430df122f2408
 workflow-type: tm+mt
-source-wordcount: '1444'
+source-wordcount: '1443'
 ht-degree: 0%
 
 ---
@@ -28,7 +28,7 @@ Bovendien wordt de videokwaliteit automatisch dynamisch geschakeld als de netwer
 
 De logica die een videospeler gebruikt om te bepalen welke gecodeerde video moet worden afgespeeld of tijdens het afspelen moet worden geselecteerd, is gebaseerd op het volgende algoritme:
 
-1. Videospeler laadt het eerste videofragment op basis van de bitsnelheid die het dichtst bij de waarde ligt die is ingesteld voor de &#39;initiële bitsnelheid&#39; in de speler zelf.
+1. Videospeler laadt het eerste videofragment op basis van de bitsnelheid die het dichtst bij de waarde ligt die is ingesteld voor de beginbitsnelheid in de speler zelf.
 1. De videospelerschakelaars die op veranderingen in de bandbreedtesnelheid worden gebaseerd die de volgende criteria gebruiken:
 
    1. De speler kiest de hoogste bandbreedtestroom onder of gelijk aan de geschatte bandbreedte.
@@ -42,7 +42,7 @@ Voor het beheren van enige video en Adaptieve videosets biedt Dynamic Media Clas
 
    Wanneer een adaptieve videoset wordt gegenereerd, bevat deze MP4-video&#39;s.
 
-   `**Note:**` Stramien-/bronvideo&#39;s en andere bronopmaakvideo worden *niet* toegevoegd aan een adaptieve videoset.
+   `**Note:**` Master/bronvideo&#39;s en andere bronopmaakvideo worden *niet* toegevoegd aan een adaptieve videoset.
 
 * Video-ondertiteling in de viewers Univeral_HTML5_Video, Universal_HTML5_MixedMedia_donker en Universal_HTML5_MixedMedia_light en de navigatie in videohoofdstukken in de viewers Univeral_HTML5_Video, Universal_HTML5_MixedMedia_donker en Universal_HTML5_MixedMedia_light.
 
@@ -81,14 +81,16 @@ De volgende stapsgewijze workflowbeschrijving is ontworpen om u te helpen snel a
 
 U kunt adaptieve videosets uploaden en genereren aan de hand van een van de volgende twee scenario&#39;s:
 
-* **Upload vooraf gecodeerde video** Als uw video&#39;s reeds buiten Dynamic Media Classic werden gecodeerd, klik **Upload** op de Globale bar van de Navigatie om MP4 videodossiers direct aan het het Publiceren Scene7 Systeem te doorbladeren en te uploaden. Klik vervolgens op **Samenstellen > Adaptieve videosets**. Blader naar uw videobestanden. Sleep de gewenste videobestanden naar de tabel Adaptive Video Set en sla deze op.
-* **Upload hoofdbronvideo** Als uw video&#39;s niet worden gecodeerd, klik **Upload** op de Globale bar van de Navigatie om hoofdvideobrondossiers (niet-MP4) te uploaden en Scene7 het Publiceren Systeem te hebben codeert hen aan MP4 dossiers voor u. Selecteer **Adaptieve video** onder Opties voor video uploaden.
+* **Vooraf gecodeerde video**&#39;s uploadenAls uw video&#39;s al buiten Dynamic Media Classic zijn gecodeerd, klikt u op 
+**Upload** naar de algemene navigatiebalk om door MP4-videobestanden te bladeren en deze rechtstreeks te uploaden naar Dynamic Media Classic. Klik vervolgens op **Samenstellen > Adaptieve videosets**. Blader naar uw videobestanden. Sleep de gewenste videobestanden naar de tabel Adaptive Video Set en sla deze op.
+* **master bronvideo**&#39;s uploaden Als uw video&#39;s niet zijn gecodeerd, klikt u op 
+**Upload** naar de algemene navigatiebalk om master videobronbestanden (niet-MP4) te uploaden en deze via Dynamic Media Classic naar MP4-bestanden te coderen. Selecteer **Adaptieve video** onder Opties voor video uploaden.
 
    Met deze voorkeursoptie kunt u een adaptieve videoset maken die automatisch de juiste coderingsvoorinstelling op de video toepast, ongeacht of deze 16:9 of 4:3 is, zodat deze overeenkomt met de afmetingen van de video die u hebt geüpload. Wanneer u de uploadtaak verzendt, wordt automatisch een adaptieve videoset gemaakt die drie videocoderingen in de juiste hoogte-breedteverhouding bevat.
 
    Of vouw in hetzelfde dialoogvenster Taakopties onder Opties voor EVideo de voorinstellingen **voor** Single Encoding uit en selecteer de gewenste voorinstellingen voor videocodering op het **bureaublad**, **Mobiel (iPhone, iPad, Android)** en **Tablet (iPad, Android)** , zodat u de MP4-bestanden maakt.
 
-* U kunt een hoofdvideo ook opnieuw verwerken met de functie Opnieuw verwerken. De zojuist gecodeerde video&#39;s worden toegevoegd aan de bestaande adaptieve videoset.
+* U kunt een master video ook opnieuw verwerken met de functie Opnieuw verwerken. De zojuist gecodeerde video&#39;s worden toegevoegd aan de bestaande adaptieve videoset.
 
 Zie Video&#39;s [uploaden en coderen](uploading-encoding-videos.md#uploading_and_encoding_videos).
 
@@ -110,7 +112,7 @@ U kunt de video afspelen op het voorvertoningsscherm. U kunt ook verschillende v
 
 **Optioneel**
 
-Aanpassing voorinstelling viewer - Dynamic Media Klassiek biedt vooraf gedefinieerde Viewer-voorinstellingen voor het afleveren van video. Deze voorinstellingen bepalen de vormgeving van de viewer en de werking van de afspeelbesturingselementen. Beheerders kunnen voorinstellingen voor viewers toevoegen en beheren via de pagina Voorinstellingen voor viewer om de videoviewer aan te passen. Om deze pagina, in de hoger-juiste hoek van het het Publiceren Scene7 Systeem te openen, klik Opstelling > de Voorinstellingen van de Kijker. De pagina Voorinstellingen viewer bevat opdrachten voor het toevoegen, bewerken, verwijderen en activeren van voorinstellingen van viewers.
+Aanpassing voorinstelling viewer - Dynamic Media Klassiek biedt vooraf gedefinieerde Viewer-voorinstellingen voor het afleveren van video. Deze voorinstellingen bepalen de vormgeving van de viewer en de werking van de afspeelbesturingselementen. Beheerders kunnen voorinstellingen voor viewers toevoegen en beheren via de pagina Voorinstellingen voor viewer om de videoviewer aan te passen. Klik in de rechterbovenhoek van Dynamic Media Classic op Instellen > Voorinstellingen viewer om deze pagina te openen. De pagina Voorinstellingen viewer bevat opdrachten voor het toevoegen, bewerken, verwijderen en activeren van voorinstellingen van viewers.
 
 Zie [Werken met voorinstellingen](previewing-videos-video-viewer.md#working_with_video_viewer_presets)voor videoviewers.
 
@@ -126,7 +128,7 @@ Als u video wilt integreren in uw website, kunt u een van de volgende handelinge
 
    >[!NOTE]
    >
-   >URL&#39;s worden alleen geactiveerd nadat u de video of de adaptieve videoset hebt gepubliceerd.
+   >URL&#39;s worden pas geactiveerd nadat u de video of de adaptieve videoset hebt gepubliceerd.
 
 * Geef de video weer die is ingesloten op de webpagina. Gebruik in dat geval de functie Code insluiten.
 
