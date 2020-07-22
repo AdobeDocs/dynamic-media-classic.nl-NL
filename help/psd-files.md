@@ -6,20 +6,23 @@ seo-description: Leer hoe u met PSD-bestanden werkt.
 uuid: 5836b660-6bca-46e7-ab39-1a31d1e0cff2
 contentOwner: admin
 content-type: reference
-products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
+products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/master_files
 discoiquuid: 4086e3db-5aca-41a0-8f15-302afbf67ddb
 translation-type: tm+mt
-source-git-commit: a1722c15d3c049f05959d895e85297d47d730872
+source-git-commit: 1df4f88ef856160ee06c43dc6ec430df122f2408
+workflow-type: tm+mt
+source-wordcount: '1030'
+ht-degree: 1%
 
 ---
 
 
 # Werken met PSD-bestanden {#working-with-psd-files}
 
-PSD (Photoshop-documentbestanden) wordt meestal gebruikt in Dynamic Media Classic om sjablonen te maken. Wanneer u een PSD-bestand uploadt, kunt u automatisch vanuit het bestand een klassieke sjabloon voor dynamische media maken (selecteer de optie Sjabloon maken in het scherm Uploaden).
+PSD (Photoshop-documentbestanden) wordt meestal gebruikt in Dynamic Media Classic om sjablonen te maken. Wanneer u een PSD-bestand uploadt, kunt u automatisch vanuit het bestand een klassieke sjabloon voor Dynamic Media maken (selecteer de optie Sjabloon maken in het scherm Uploaden).
 
-SPS leidt tot veelvoudige beelden van een Psd- dossier met lagen als u het dossier gebruikt om een malplaatje tot stand te brengen; er wordt één afbeelding voor elke laag gemaakt.
+Met Dynamic Media Classic maakt u meerdere afbeeldingen van een PSD-bestand met lagen als u het bestand gebruikt om een sjabloon te maken. er wordt één afbeelding voor elke laag gemaakt.
 
 ## Opties voor uploaden naar PSD {#psd-upload-options}
 
@@ -47,7 +50,7 @@ Als u wilt bijsnijden op basis van transparantie, geeft u 0 op voor het bijsnijd
 
 **De oorspronkelijke kleurruimte** behouden blijft de oorspronkelijke kleurruimte van de afbeelding.
 
-**Kies Aangepast van > naar** om de menu&#39;s te openen, zodat u de optie Omzetten van en Omzetten in kleurruimte kunt kiezen. U kunt een standaard Photoshop-kleurruimte kiezen of een kleurruimte die u naar SPS hebt geüpload. Zie ICC-profielen.
+**Kies Aangepast van > naar** om de menu&#39;s te openen, zodat u de optie Omzetten van en Omzetten in kleurruimte kunt kiezen. U kunt een standaard Photoshop-kleurruimte kiezen of een kleurruimte die u naar Dynamic Media Classic hebt geüpload. Zie ICC-profielen.
 
 **Met Lagen** behouden worden de lagen in de PSD (indien aanwezig) verdeeld over afzonderlijke elementen. De elementlagen blijven gekoppeld aan de PSD. U kunt deze weergeven door het PSD-bestand te openen in de gedetailleerde weergave en het deelvenster Lagen te selecteren. Zie Lagen weergeven en bewerken in een PSD-bestand.
 
@@ -57,7 +60,7 @@ Als u wilt bijsnijden op basis van transparantie, geeft u 0 op voor het bijsnijd
 
 **Lagen uitbreiden naar achtergrondgrootte** breidt de grootte van uitgesneden afbeeldingslagen uit tot de grootte van de achtergrondlaag.
 
-**Lagen met een laagnaam** in het PSD-bestand worden geüpload als afzonderlijke afbeeldingen. Kies een optie om deze beelden in het het Publiceren Scene7 Systeem te noemen:
+**Lagen met een laagnaam** in het PSD-bestand worden geüpload als afzonderlijke afbeeldingen. Kies een optie om deze afbeeldingen een naam te geven in Dynamic Media Classic:
 
 **De naam** van de laag noemt de beelden na hun laagnamen in het Psd- dossier. Een laag met de naam Prijscode in het oorspronkelijke PSD-bestand wordt bijvoorbeeld een afbeelding met de naam Prijscode. Als de laagnamen in het PSD-bestand echter standaardnamen van Photoshop-lagen zijn (Achtergrond, Laag 1, Laag 2, enzovoort), krijgen de afbeeldingen een naam na hun laagnummers in het PSD-bestand en niet na hun standaardlaagnamen.
 
@@ -69,7 +72,7 @@ Als u wilt bijsnijden op basis van transparantie, geeft u 0 op voor het bijsnijd
 
 ## Lagen weergeven en bewerken in een PSD-bestand {#viewing-and-editing-layers-in-a-psd-file}
 
-Als u bij het uploaden van de PSD de optie Lagen behouden hebt geselecteerd, worden de afzonderlijke lagen door Dynamic Media Classic bijgesneden in elementen. U kunt de elementlagen die bij een PSD-bestand horen weergeven en bewerken door het bestand te openen in het deelvenster Bladeren in de gedetailleerde weergave.
+Als u tijdens het uploaden van de PSD de optie Lagen behouden hebt geselecteerd, worden de afzonderlijke lagen door Dynamic Media Classic bijgesneden in elementen. U kunt de elementlagen die bij een PSD-bestand horen weergeven en bewerken door het bestand te openen in het deelvenster Bladeren in de gedetailleerde weergave.
 
 1. Dubbelklik op het volledige PSD-bestand in het deelvenster Bladeren om het te openen in de gedetailleerde weergave.
 
