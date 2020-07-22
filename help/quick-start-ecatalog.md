@@ -6,11 +6,14 @@ seo-description: Een inleiding en Snel Begin aan eCatalogi om u te helpen snel m
 uuid: 1ec41927-3df6-4845-8d9d-bb92cf6dca08
 contentOwner: admin
 content-type: reference
-products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
+products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/ecatalogs
 discoiquuid: 781dacd0-ef0c-42b7-92e0-12791994874d
 translation-type: tm+mt
-source-git-commit: 6fff3699f8a08af433df3f3a7790a11bf9d05b00
+source-git-commit: 1df4f88ef856160ee06c43dc6ec430df122f2408
+workflow-type: tm+mt
+source-wordcount: '1429'
+ht-degree: 0%
 
 ---
 
@@ -39,9 +42,9 @@ Als onderdeel van het maken van uw eCatalog kunt u pagina&#39;s of paginaspread 
 
 >[!NOTE]
 >
->Als u een gebruiker van de wijze AEM Dynamische Media - Scene7 bent en eCatalogs wilt gebruiken, zult u de `pdfbrochure` waarde in CRXDE Lite moeten uitgeven. Klik hiertoe in AEM op **[!UICONTROL Tools > General > CRXDE Lite]**. Navigeer in de navigatiestructuur van het linkerdeelvenster naar `/conf/global/settings/cloudconfigs/dmscene7/jcr:content/mimeTypes/application_pdf`.
+>Als u een AEM Dynamic Media - Scene7 wijzegebruiker bent en eCatalogs wilt gebruiken, zult u de `pdfbrochure` waarde in CRXDE Lite moeten uitgeven. Klik hiertoe in AEM op **[!UICONTROL Tools > General > CRXDE Lite]**. Navigeer in de navigatiestructuur van het linkerdeelvenster naar `/conf/global/settings/cloudconfigs/dmscene7/jcr:content/mimeTypes/application_pdf`.
 Selecteer de **[!UICONTROL Properties]** rij in het rechterondervenster op het `jobParam` tabblad. Stel de waarde in voor `pdfbrochure` van `false` naar `true`. Zoals `pdfbrochure=true`in de upper-left hoek van de pagina van CRXDE Lite, klik **[!UICONTROL Save All]**.
-U kunt nu eCatalogs in SPS ontwerpen.
+U kunt nu eCatalogs ontwerpen in Dynamic Media Classic.
 
 **Snel starten**
 
@@ -49,7 +52,7 @@ Deze eCatalog Quick Start is ontworpen om u te helpen snel aan de slag te gaan m
 
 **1. De PDF-bestanden uploaden**
 
-Adobe PDF-bestanden zijn meestal de bron van een eCatalog. PDF-bestanden bevatten meestal CMYK-afbeeldingen, omdat ze moeten worden afgedrukt. Het het Publiceren Scene7 Systeem ontdekt deze beelden en zet hen om gebruikend een standaard CMYK kleurenprofiel. Het is echter mogelijk dat u een aangepast kleurprofiel moet uploaden en gebruiken.
+Adobe PDF-bestanden zijn meestal de bron van een eCatalog. PDF-bestanden bevatten meestal CMYK-afbeeldingen, omdat ze moeten worden afgedrukt. Met Dynamic Media Classic worden deze afbeeldingen gedetecteerd en omgezet met een standaard CMYK-kleurprofiel. Het is echter mogelijk dat u een aangepast kleurprofiel moet uploaden en gebruiken.
 
 Klik op Uploaden op de algemene navigatiebalk om PDF-bestanden of -afbeeldingen voor uw eCatalog te uploaden. U kunt bestanden uploaden vanaf uw bureaublad of via FTP; FTP wordt aanbevolen als u veel bestanden of bestanden van meer dan 100 MB uploadt.
 
@@ -65,7 +68,7 @@ Selecteer op het tabblad Order Pages een knop Indeling (1 omhoog, 2 omhoog of Aa
 
 Als u pagina&#39;s wilt toevoegen, selecteert u een map in de elementenbibliotheek en sleept u PDF- of afbeeldingsbestanden van de map naar het scherm Pagina&#39;s bestellen. In plaats van de standaardpaginanummers kunt u aangepaste paginanamen opgeven of een groot aantal paginanamen importeren.
 
-Klik **[!UICONTROL Save]**, ga een naam voor uw eCatalog in, kies een omslag SPS voor het opslaan, en klik **[!UICONTROL Save]**. Elke keer dat u de paginavolgorde wijzigt of uw eCatalog bewerkt, slaat u de wijzigingen op door op **[!UICONTROL Save]** te klikken.
+Klik **[!UICONTROL Save]**, ga een naam voor uw eCatalog in, kies een Klassieke omslag van Dynamic Media om het op te slaan, en klik **[!UICONTROL Save]**. Elke keer dat u de paginavolgorde wijzigt of uw eCatalog bewerkt, slaat u de wijzigingen op door op **[!UICONTROL Save]** te klikken.
 
 Zie [Een eCatalog](creating-ecatalog.md)maken.
 
@@ -87,7 +90,7 @@ Zie Inhoud [van deelvenster Info](info-panel-content.md#managing-info-panel-cont
 
 **4. Voorinstellingen eCatalog-viewer instellen**
 
-Eindgebruikers zien uw eCatalog in de eCatalogKijker. Beheerders kunnen de eCatalog-viewer configureren. U kunt de contourkleur wijzigen en een nieuwe skin selecteren om uw eCatalog van een merk te voorzien. Dynamic Media Classic wordt geleverd met verschillende voorinstellingen voor de eCatalog-viewer met &#39;best practices&#39;. U kunt een van deze voorinstellingen kiezen voor de weergave van uw eCatalogs. Als beheerder kunt u ook zelf een voorinstelling voor een eCatalog-viewer maken.
+Eindgebruikers zien uw eCatalog in de eCatalogKijker. Beheerders kunnen de eCatalog-viewer configureren. U kunt de contourkleur wijzigen en een nieuwe skin selecteren om uw eCatalog van een merk te voorzien. Dynamic Media Classic wordt geleverd met verschillende voorinstellingen voor de eCatalog Viewer met &#39;best practices&#39;. U kunt een van deze voorinstellingen kiezen voor de weergave van uw eCatalogs. Als beheerder kunt u ook zelf een voorinstelling voor een eCatalog-viewer maken.
 
 Als u een voorinstelling voor een eCatalog-viewer wilt maken, klikt u op de algemene navigatiebalk **[!UICONTROL Setup]** en kiest u **[!UICONTROL Viewer Presets]**. Klik vervolgens op **[!UICONTROL Add]** een platform en klik op **[!UICONTROL eCatalog > Viewer]**.
 
@@ -105,7 +108,7 @@ Zie Een [voorbeeld van eCatalogi weergeven in de eCatalog-viewer](previewing-eca
 
 **6. ECatalog en bijbehorende PDF&#39;s publiceren**
 
-Als u uw eCatalog en de bijbehorende PDF publiceert, wordt deze op Dynamic Media Image Servers geplaatst, zodat deze op uw website en toepassing kan worden geleverd. Als deel van het het publiceren proces, activeert het het Publiceren Scene7 Systeem het koord URL voor uw eCatalog. Gebruik deze URL om de eCatalog van Dynamische Servers van het Beeld van Media aan uw website of toepassing te roepen.
+Als u uw eCatalog en de bijbehorende PDF publiceert, wordt deze op Dynamic Media Image Servers geplaatst, zodat deze op uw website en toepassing kan worden geleverd. Als onderdeel van het publicatieproces activeert Dynamic Media Classic de URL-tekenreeks voor uw eCatalog. Gebruik deze URL om de eCatalog van de Servers van het Beeld van Dynamic Media aan uw website of toepassing te roepen.
 
 Nadat u uw eCatalog en PDF hebt gemarkeerd voor publicatie in het deelvenster Bladeren, selecteert u de knop Publiceren op de algemene navigatiebalk om een publicatie te starten. Klik in het scherm Publiceren op **[!UICONTROL Start Publish]**.
 
@@ -113,7 +116,7 @@ Zie E-catalogi en bijbehorende PDF&#39;s [publiceren](publishing-ecatalogs-assoc
 
 **7. Een eCatalog koppelen aan een webpagina**
 
-Dynamic Media Classic activeert de URL-bijschrifttekenreeks die nodig is voor de weergave van uw eCatalog wanneer u deze publiceert naar Dynamic Media Image Servers. U kunt deze URL-tekenreeks kopiëren vanuit het voorvertoningsscherm en het deelvenster Bladeren (in de gedetailleerde weergave) door URL&#39;s te selecteren in het deelvenster. Nadat u de URL-tekenreeks hebt gekopieerd, is deze beschikbaar voor uw websites en toepassingen.
+De Klassieke van Dynamic Media activeert het URL callout koord noodzakelijk voor het tonen van uw eCatalog wanneer u het aan de Servers van het Beeld van Dynamic Media publiceert. U kunt deze URL-tekenreeks kopiëren vanuit het voorvertoningsscherm en het deelvenster Bladeren (in de gedetailleerde weergave) door URL&#39;s te selecteren in het deelvenster. Nadat u de URL-tekenreeks hebt gekopieerd, is deze beschikbaar voor uw websites en toepassingen.
 
 Werk samen met uw IT-team om de koppeling naar de eCatalog op de juiste plaats op uw webpagina te plaatsen. Wanneer gebruikers op de koppeling klikken, wordt de eCatalog-viewer weergegeven en kunnen gebruikers door uw eCatalog bladeren.
 
