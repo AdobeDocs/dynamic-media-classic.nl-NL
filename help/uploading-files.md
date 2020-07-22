@@ -6,12 +6,12 @@ seo-description: Leer hoe u bestanden kunt uploaden.
 uuid: b3025f84-4f28-4276-bc9c-f0c0c2a26e12
 contentOwner: admin
 content-type: reference
-products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
+products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 discoiquuid: b2bc3bf9-e313-481a-8670-c3bedde21b1a
 translation-type: tm+mt
-source-git-commit: d5dcc67200b636cafcf1c87b2ecdfb2271b7b9a2
+source-git-commit: 1df4f88ef856160ee06c43dc6ec430df122f2408
 workflow-type: tm+mt
-source-wordcount: '3867'
+source-wordcount: '3855'
 ht-degree: 0%
 
 ---
@@ -19,15 +19,15 @@ ht-degree: 0%
 
 # Bestanden uploaden{#uploading-files}
 
-Alvorens u activa dossiers aan het het Publiceren Scene7 Systeem uploadt, zorg ervoor dat de activa dossiers correct worden genoemd, en dat uw omslagstructuur opstelling en georganiseerd is zoals u wilt. U kunt bestanden uploaden vanaf een door Dynamic Media Classic geleverde FTP-site of rechtstreeks vanaf uw computer of netwerk. Dynamic Media Classic biedt opties voor het optimaliseren van bestanden terwijl u deze uploadt. Als u de Desktoptoepassing van het Publiceren van het Systeem van Adobe Scene7 installeerde, kunt u dossiers en omslagen uploaden door hen rechtstreeks van uw Desktop te slepen. (Zie Algemene instellingen [van toepassing](application-setup.md#general_settings).)
+Voordat u elementbestanden uploadt naar Dynamic Media Classic, moet u controleren of de elementbestanden een juiste naam hebben en of de mapstructuur op de gewenste manier is ingesteld en ingedeeld. U kunt bestanden uploaden vanaf een via de klassieke Dynamic Media geleverde FTP-site of rechtstreeks vanaf uw computer of netwerk. Dynamic Media Classic biedt opties voor het optimaliseren van bestanden terwijl u deze uploadt. Als u Adobe Dynamic Media Classic-bureaubladtoepassing hebt geïnstalleerd, kunt u bestanden en mappen uploaden door deze rechtstreeks vanaf uw bureaublad te slepen. (Zie Algemene instellingen [van toepassing](application-setup.md#general_settings).)
 
 ## Elementen en mappen voorbereiden voor uploaden {#preparing-your-assets-and-folders-for-uploading}
 
-Alvorens activa aan het het Publiceren Scene7 Systeem te uploaden, zorg ervoor dat zij in het juiste formaat en de grootte zijn. U moet ook de dynamische Klassieke regels van Media voor het noemen van activa in acht nemen. Door een maporganisatie en -structuur voor de bestanden in te stellen, zorgt u ervoor dat u bestanden gemakkelijk kunt vinden en ermee kunt werken.
+Voordat u elementen uploadt naar Dynamic Media Classic, moet u ervoor zorgen dat deze de juiste indeling en grootte hebben. U moet ook de Klassieke regels van Dynamic Media voor het noemen van activa in acht nemen. Door een maporganisatie en -structuur voor de bestanden in te stellen, zorgt u ervoor dat u bestanden gemakkelijk kunt vinden en ermee kunt werken.
 
 ### Ondersteunde bestandsindelingen {#supported-asset-file-formats}
 
-Deze lijst maakt een lijst van de formaten van het activadossier die het het Publiceren Scene7 Systeem steunt. Raadpleeg [www.adobe.com/go/learn_s7_cameraraw_en voor informatie over ondersteunde Camera Raw-bestanden](https://www.adobe.com/go/learn_s7_cameraraw_en).
+Deze lijst maakt een lijst van de formaten van het elementendossier die Dynamic Media Klassiek steunt. Raadpleeg [www.adobe.com/go/learn_s7_cameraraw_en voor informatie over ondersteunde Camera Raw-bestanden](https://www.adobe.com/go/learn_s7_cameraraw_en).
 
 | Indelingen voor elementbestanden | Beschrijving |
 |--- |--- |
@@ -43,7 +43,7 @@ Deze lijst maakt een lijst van de formaten van het activadossier die het het Pub
 | PDF | PDF |
 | Photoshop | PSD, FXG en Camera Raw |
 | PostScript | EPS, PS |
-| Dynamische media Klassieke afbeelding ontwerpen | VNC, VNT, VNW |
+| Dynamic Media Klassieke afbeelding ontwerpen | VNC, VNT, VNW |
 | SVG | SVG, SVGX |
 | TAR | TAR |
 | Video | 3GP, AVI, M2P, M2T, M2TS, M2V, M4V, MOV, MP4, MPEG, MPG, MTS, OGV, TS, VOB, WMV/ASF |
@@ -56,7 +56,7 @@ Ondersteuning voor TAR- en ZIP-upload bevat een selectievakje om aan te geven of
 
 In de volgende lijst worden de subtypen beschreven van bestandsindelingen voor rasterafbeeldingen die *niet* worden ondersteund in Dynamic Media.
 
-Zie ook Niet-ondersteunde bestandsindelingen [detecteren voor dynamische media](https://helpx.adobe.com/experience-manager/kb/detect-unsupported-assets-for-dynamic-media.html).
+Zie ook Niet-ondersteunde bestandsindelingen [detecteren voor Dynamic Media](https://helpx.adobe.com/experience-manager/kb/detect-unsupported-assets-for-dynamic-media.html).
 
 * PNG-bestanden met een IDAT-segmentgrootte groter dan 100 MB.
 * PSB-bestanden.
@@ -90,7 +90,7 @@ Voor optimale resultaten met het Dynamic Media Classic-platform moet u de aanbev
 
 >[!NOTE]
 >
->Wanneer u afbeeldingsbestanden en PDF&#39;s uploadt naar SPS, worden deze bronbestanden door het systeem geconverteerd naar P-TIFF (Pyramid TIFF)-bestanden. Deze P-TIFFs zijn de dossiers die later aan de Dynamische Servers van het Beeld van Media worden gepubliceerd. Dynamic Media Classic gebruikt de bestandsindeling Piramid Tiff omdat deze diverse zoomverhoudingen bevat waarmee snel kan worden ingezoomd bij weergave met een Dynamic Media Classic Zoom Viewer.
+>Wanneer u afbeeldingsbestanden en PDF-bestanden uploadt naar Dynamic Media Classic, worden deze bronbestanden door het systeem geconverteerd naar P-TIFF-bestanden (Pyramid TIFF). Deze P-TIFFs zijn de dossiers die later aan de Servers van het Beeld van Dynamic Media worden gepubliceerd. Dynamic Media Classic gebruikt de Piramid Tiff-bestandsindeling omdat deze diverse zoomverhoudingen bevat waarmee snel kan worden ingezoomd bij weergave met een Klassieke zoomviewer voor Dynamic Media.
 
 ### Ondersteunde statische bestandsindelingen {#supported-static-file-formats}
 
@@ -102,7 +102,7 @@ De volgende bestandstypen kunnen worden gepubliceerd:
 * Audiobestanden
 * CSS
 * JavaScript (wanneer het bedrijf met zijn eigen domein wordt gevormd)
-* Hoofdvideo
+* Master video
 * PDF (als PDF specifiek is gemarkeerd voor publiceren na uploaden, om levering van alle PDF&#39;s voor bestaande eCatalog/PDF-workflow te voorkomen)
 * PrX-video
 * SVG
@@ -113,13 +113,13 @@ Dynamic Media Classic biedt geen optie om een voorbeeld-URL van statische inhoud
 
 ### Bestandsnaamvereisten {#filename-requirements}
 
-Omdat bestandsextensies tijdens het uploaden worden verwijderd uit bestandsnamen, staat het systeem niet toe dat bestanden dezelfde hoofdnaam hebben. In het Dynamic Media Classic-systeem wordt de bestandsnaam van het element min de bestandsextensie de element-id voor het element. Daarom kunnen geen twee elementen dezelfde naam hebben.
+Omdat bestandsextensies tijdens het uploaden worden verwijderd uit bestandsnamen, staat het systeem niet toe dat bestanden dezelfde hoofdnaam hebben. In het Klassieke systeem van Dynamic Media wordt de naam van het element minus de bestandsnaamextensie de element-id voor het element. Daarom kunnen geen twee elementen dezelfde naam hebben.
 
 Zorg ervoor dat alle gebruikers in uw bedrijf deze regels voor het benoemen van bestanden begrijpen:
 
 * Element-id&#39;s met dezelfde exacte naam zijn niet toegestaan in het systeem.
 * Namen van element-id zijn hoofdlettergevoelig.
-* Als beste praktijken, zorg ervoor dat activa IDs geen lege ruimten (bijvoorbeeld, zwarte jasje.tif en blauw jpg) bevat. Met Dynamic Media Classic ASCII worden lege spaties in elementnamen gecodeerd wanneer elementnamen worden gebruikt om URL-tekenreeksen samen te stellen. Deze ASCII-codes zijn moeilijk leesbaar, waardoor het lezen van URL&#39;s moeilijker kan worden.
+* Als beste praktijken, zorg ervoor dat activa IDs geen lege ruimten (bijvoorbeeld, zwarte jasje.tif en blauw jpg) bevat. Dynamic Media Klassieke ASCII codeert lege ruimten in activanamen wanneer het activa namen gebruikt om koorden te construeren URL. Deze ASCII-codes zijn moeilijk leesbaar, waardoor het lezen van URL&#39;s moeilijker kan worden.
 * Taalspecifieke tekens zijn toegestaan in bestandsnamen. De volgende tekens zijn echter niet toegestaan in bestandsnamen:
 
    \ ; / ? : @ &amp; = + $ , * &quot; &lt; > | &#39; { } %
@@ -135,12 +135,12 @@ In de meeste gevallen kan de bestandsnaam van een element hetzelfde zijn als het
 
 ### Maporganisatie en -structuur {#folder-organization-and-structure}
 
-Organiseer en structureer omslagen en subfolders voor uw inhoud in het het Publiceren Scene7 Systeem alvorens u uw inhoud aan het systeem uploadt. Het plannen op deze manier heeft twee belangrijke voordelen:
+Organiseer en structureer mappen en submappen voor uw inhoud in Dynamic Media Classic voordat u uw inhoud uploadt naar het systeem. Het plannen op deze manier heeft twee belangrijke voordelen:
 
-* Wanneer u de inhoud via FTP uploadt naar SPS, kunt u het systeem de opdracht geven de mapstructuur tijdens het uploaden te repliceren. Op deze manier wordt uw inhoud in dezelfde mappen en submappen in SPS geordend als op uw computer of netwerk. (Als u de mapstructuur in SPS wilt repliceren, selecteert u de optie Submappen opnemen wanneer u elementen uploadt via FTP.)
+* Wanneer u de inhoud via FTP uploadt naar Dynamic Media Classic, kunt u het systeem de mapstructuur laten repliceren tijdens het uploaden. Op deze manier wordt uw inhoud in dezelfde mappen en submappen in Dynamic Media Classic geordend als op uw computer of netwerk. (Als u de mapstructuur wilt repliceren in Dynamic Media Classic, selecteert u de optie Submappen opnemen wanneer u elementen uploadt via FTP.)
 * Het is veel moeilijker om mappen in het systeem opnieuw te ordenen nadat bestanden zijn geüpload dan met een zorgvuldig overwogen mapstructuur te beginnen.
 
-De omslag-noemende benadering en de structuur u voor het opslaan van uw inhoud op het het Publiceren Scene7 Systeem kiest hangt van de behoeften van uw organisatie af. Hier volgen enkele voorbeelden van mapstructuren:
+De gekozen benadering en structuur voor het benoemen van mappen voor het opslaan van uw inhoud op de klassieke Dynamic Media zijn afhankelijk van de behoeften van uw organisatie. Hier volgen enkele voorbeelden van mapstructuren:
 
 **Op SKU gebaseerde** mappen krijgen een naam op basis van SKU&#39;s of itemnummers. Er worden bijvoorbeeld aparte mappen gemaakt voor alle reeksen 0, 20 en 30 cijfers.
 
@@ -154,21 +154,19 @@ De omslag-noemende benadering en de structuur u voor het opslaan van uw inhoud o
 
 U kunt afzonderlijke bestanden uploaden vanaf het bureaublad of mappen uploaden via FTP. Als u meer dan 100 MB bestanden wilt uploaden of volledige mappen en submappen wilt uploaden, selecteert u het tabblad **VIA FTP** .
 
-Als u de het Publiceren Scene7 de Desktoptoepassing van het Systeem installeerde, kunt u dossiers en omslagen van uw Desktop aan de omslag van de bestemmingsupload direct slepen.
+Dynamic Media Classic stuurt u een e-mailbericht om te bevestigen wanneer uw uploadtaak begint en eindigt en om u op de hoogte te stellen van eventuele problemen.
 
-Het het Publiceren Scene7 Systeem verzendt u een e-mailbericht om te bevestigen wanneer uw uploadbaan begint en beëindigt, en u van om het even welke problemen op de hoogte te brengen.
-
-Tijdens (of direct na) een grote uploadtaak kunnen sommige nieuwe items het bericht &quot;Afbeelding nog niet geoptimaliseerd&quot; weergeven. Dit bericht wordt weergegeven omdat de bestanden nog niet volledig zijn verwerkt en aan SPS zijn toegevoegd. U kunt deze bestanden later optimaliseren. (Zie Bestanden [optimaliseren](application-setup.md#optimize_files).)
+Tijdens (of direct na) een grote uploadtaak kunnen sommige nieuwe items het bericht &quot;Afbeelding nog niet geoptimaliseerd&quot; weergeven. Dit bericht wordt weergegeven omdat de bestanden nog niet volledig zijn verwerkt en aan Dynamic Media Classic zijn toegevoegd. U kunt deze bestanden later optimaliseren. (Zie Bestanden [optimaliseren](application-setup.md#optimize_files).)
 
 ### Bestanden uploaden via het tabblad FROM DESKTOP {#upload-files-using-sps-desktop-application}
 
-Met de Scene7 Publishing System Desktop-toepassing kunt u bestanden en mappen uploaden door te slepen.
+Met de Klassieke Desktop-toepassing Dynamic Media kunt u bestanden en mappen uploaden door te slepen.
 
-1. In de Scene7 het Publiceren toepassing van de Desktop van het Systeem, op de Globale bar van de Navigatie, **uploadt** de klik.
+1. Klik in de toepassing Dynamic Media Classic Desktop op de algemene navigatiebalk op **Uploaden**.
 1. Klik op het tabblad **FROM DESKTOP** op de pagina Uploaden.
 1. Klik links op de pagina Uploaden in het gebied Bestanden **selecteren voor uploaden** op **Bladeren** om de bestanden of mappen te selecteren die u wilt uploaden en klik vervolgens op **Openen**.
 1. Navigeer rechts van de pagina Uploaden in het gebied **Mapdoel** kiezen naar een doelmap waaraan u de geüploade bestanden of mappen wilt toevoegen.
-1. (Optioneel) Geef onder aan de uploadpagina in het veld **Taaknaam** de nieuwe naam van de uploadtaak op. Of, kunt u eenvoudig de standaard, systeem-geproduceerde naam gebruiken die SPS verstrekt. De baan en andere upload en het publiceren banen worden geregistreerd op de pagina van Banen, waar u de status van banen kunt controleren.
+1. (Optioneel) Geef onder aan de uploadpagina in het veld **Taaknaam** de nieuwe naam van de uploadtaak op. Of u kunt gewoon de standaardnaam gebruiken die door het systeem wordt gegenereerd en die door Dynamic Media Classic wordt verschaft. De baan en andere upload en het publiceren banen worden geregistreerd op de pagina van Banen, waar u de status van banen kunt controleren.
 Zie [Taakbestanden](checking-job-files.md#checking_job_files)controleren.
 1. (Optioneel) Selecteer onder aan de pagina Uploaden de optie **Publiceren na uploaden** als u de elementen die u uploadt automatisch wilt publiceren.
 Wanneer u bestanden publiceert, worden deze naar live servers verzonden. URL&#39;s voor deze bestanden kunnen vervolgens worden gebruikt op externe websites en toepassingen. Deze optie is ook beschikbaar in het dialoogvenster Taakopties.
@@ -180,16 +178,16 @@ De naam van deze optie kan verschillen, afhankelijk van de instellingen in **Toe
 
 1. Klik op **Opslaan** in het dialoogvenster Taakopties uploaden.
 1. Klik in de rechterbenedenhoek van de pagina Uploaden op **Uploaden**verzenden.
-Klik op **Taken** op de algemene navigatiebalk om de voortgang van het uploaden te zien. U kunt blijven werkend in het Publiceren Scene7 Systeem en op elk ogenblik terugkeren naar de pagina van Banen om een lopende baan te herzien. Als u een uploadtaak die wordt uitgevoerd wilt annuleren, selecteert u **Annuleren** naast de duur.
+Klik op **Taken** op de algemene navigatiebalk om de voortgang van het uploaden te zien. U kunt blijven werken in Dynamic Media Klassiek en op elk ogenblik terugkeren naar de pagina van Banen om een lopende baan te herzien. Als u een uploadtaak die wordt uitgevoerd wilt annuleren, selecteert u **Annuleren** naast de duur.
 
 ### Bestanden uploaden via het tabblad VIA FTP {#upload-files-using-via-ftp}
 
-1. Meld u aan bij de Dynamic Media Classic FTP-site die specifiek is voor uw specifieke regio. Gebruik de FTP-gebruikersnaam en het wachtwoord die u van de beheerder hebt ontvangen.
+1. Meld u aan bij de klassieke FTP-site van Dynamic Media die specifiek is voor uw specifieke regio. Gebruik de FTP-gebruikersnaam en het wachtwoord die u van de beheerder hebt ontvangen.
 1. Klik in Dynamic Media Classic op de algemene navigatiebalk op **Uploaden**.
 1. Klik op het tabblad **VIA FTP** op de pagina Uploaden.
 1. Kies links op de pagina Uploaden in het gebied FTP-map **kiezen voor uploaden** een FTP-map waaruit u bestanden wilt uploaden.
-1. Op de rechterkant van de Upload pagina, in het **Choose gebied van de Bestemming** van de Omslag SPS, kies een bestemmingsomslag in het het Publiceren Scene7 Systeem.
-1. (Optioneel) Geef onder aan de uploadpagina in het veld **Taaknaam** de nieuwe naam van de uploadtaak op. Of, kunt u eenvoudig de standaard, systeem-geproduceerde naam gebruiken die SPS verstrekt. De baan en andere upload en het publiceren banen worden geregistreerd op de pagina van Banen, waar u de status van banen kunt controleren.
+1. Kies rechts van de pagina Uploaden in het gebied Doel **van map Adobe Dynamic Media** kiezen een doelmap in Klassiek Dynamic Media.
+1. (Optioneel) Geef onder aan de uploadpagina in het veld **Taaknaam** de nieuwe naam van de uploadtaak op. Of u kunt gewoon de standaardnaam gebruiken die door het systeem wordt gegenereerd en die door Dynamic Media Classic wordt verschaft. De baan en andere upload en het publiceren banen worden geregistreerd op de pagina van Banen, waar u de status van banen kunt controleren.
 Zie [Taakbestanden](checking-job-files.md#checking_job_files)controleren.
 1. (Optioneel) Selecteer onder aan de pagina Uploaden de optie **Publiceren na uploaden** als u de elementen die u uploadt automatisch wilt publiceren.
 Wanneer u bestanden publiceert, worden deze naar live servers verzonden. URL&#39;s voor deze bestanden kunnen vervolgens worden gebruikt op externe websites en toepassingen. Deze optie is ook beschikbaar in het dialoogvenster Taakopties.
@@ -203,7 +201,7 @@ De naam van deze optie kan verschillen, afhankelijk van de instellingen in **Toe
 1. Klik op **Opslaan** in het dialoogvenster Taakopties uploaden.
 1. Klik in de rechterbenedenhoek van de pagina Uploaden op **Uploaden** verzenden.
 
-   Klik op **Taken** op de algemene navigatiebalk om de voortgang van het uploaden te zien. De pagina van Banen toont u de vooruitgang van het uploaden. U kunt blijven werkend in het Publiceren Scene7 Systeem en op elk ogenblik terugkeren naar de pagina van Banen om een lopende baan te herzien.
+   Klik op **Taken** op de algemene navigatiebalk om de voortgang van het uploaden te zien. De pagina van Banen toont u de vooruitgang van het uploaden. U kunt blijven werken in Dynamic Media Klassiek en op elk ogenblik terugkeren naar de pagina van Banen om een lopende baan te herzien.
 
 Als u een uploadtaak die wordt uitgevoerd wilt annuleren, klikt u op **Annuleren** naast de duur.
 
@@ -232,7 +230,7 @@ Bij het uploaden van bestanden kunt u uit de volgende opties kiezen in het dialo
 Selecteer deze optie als u automatisch alle bestanden uit het geüploade ZIP- of TAR-bestand wilt extraheren. Deze optie is ook beschikbaar in het dialoogvenster Taakopties.
 
    * **Inclusief submappen** — alleen beschikbaar als u het tabblad **VIA FTP** hebt geselecteerd.
-Selecteer deze optie als u submappen wilt uploaden van de map die u wilt uploaden. De namen van de map en de submappen die u uploadt, worden automatisch ingevoerd in SPS.
+Selecteer deze optie als u submappen wilt uploaden van de map die u wilt uploaden. De namen van de map en de submappen die u uploadt, worden automatisch ingevoerd in Dynamic Media Classic.
 
    * **Metagegevensbestanden** verwerken — Alleen beschikbaar als u op het tabblad **VIA FTP** hebt geselecteerd. Selecteer deze optie als u een door tabs gescheiden of XML-bestand wilt uploaden om metagegevens aan meerdere elementen toe te voegen.
 Zie Metagegevens [importeren (via FTP)](viewing-adding-exporting-metadata.md#import-metadata).
@@ -252,11 +250,11 @@ Zie Metagegevens [importeren (via FTP)](viewing-adding-exporting-metadata.md#imp
 
       * **Tolerantie** — Sleep de schuifregelaar om een tolerantie tussen 0 en 1 op te geven.
 
-* **KLEURPROFIELOPTIES** — Kies een kleurconversie wanneer u geoptimaliseerde bestanden maakt die worden gebruikt voor dynamische dynamische levering via Dynamic Media Classic:
+* **KLEURPROFIELOPTIES** — Kies een kleurconversie wanneer u geoptimaliseerde bestanden maakt die worden gebruikt voor Dynamic Media Klassieke dynamische levering:
 
    * **Standaardkleurbehoud** — Behoudt de kleuren van de bronafbeelding wanneer de afbeeldingen kleurruimtegegevens bevatten; er is geen kleurconversie. In bijna alle afbeeldingen van vandaag is het juiste kleurprofiel al ingesloten. Als een CMYK-bronafbeelding echter geen ingesloten kleurprofiel bevat, worden de kleuren omgezet in de kleurruimte sRGB (standaard rood-groen-blauw). sRGB is de aanbevolen kleurruimte voor het weergeven van afbeeldingen op webpagina&#39;s.
 
-   * **Behoud de originele kleurruimte** — Behoudt de oorspronkelijke kleuren zonder kleurconversie op het punt van inname in Scene7 Publishing System. Voor afbeeldingen zonder een ingesloten kleurprofiel wordt de vereiste kleurconversie voor het verwerken van aanvragen voor de afbeelding uitgevoerd met de standaardkleurprofielen die zijn geconfigureerd in de Publicatie-instellingen. Deze kleurprofielen worden mogelijk niet uitgelijnd met de kleur in de bestanden die met deze optie zijn gemaakt. Daarom wordt u aangeraden de optie Standaardkleurbehoud te gebruiken.
+   * **Oorspronkelijke kleurruimte** behouden — Behoudt de oorspronkelijke kleuren zonder kleurconversie op het punt van opname in Dynamic Media Classic. Voor afbeeldingen zonder een ingesloten kleurprofiel wordt de vereiste kleurconversie voor het verwerken van aanvragen voor de afbeelding uitgevoerd met de standaardkleurprofielen die zijn geconfigureerd in de Publicatie-instellingen. Deze kleurprofielen worden mogelijk niet uitgelijnd met de kleur in de bestanden die met deze optie zijn gemaakt. Daarom wordt u aangeraden de optie Standaardkleurbehoud te gebruiken.
 
    * **Aangepast van > naar** — opent menu&#39;s zodat u een optie kunt kiezen voor Omzetten van en Omzetten in kleurruimte. Deze geavanceerde optie negeert alle kleurinformatie die in het bronbestand is ingesloten. Selecteer deze optie alleen als alle afbeeldingen die u verzendt onjuiste of ontbrekende kleurprofielgegevens bevatten.
 
