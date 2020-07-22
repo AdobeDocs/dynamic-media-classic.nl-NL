@@ -6,18 +6,21 @@ seo-description: Een inleiding en Snel Begin aan het Portaal van Media om u te h
 uuid: 0dbd6146-b392-4e03-955b-0b323b654b9f
 contentOwner: admin
 content-type: reference
-products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
+products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/media_portal
 discoiquuid: 1385a092-0b2c-4e05-ad1e-ce3685022300
 translation-type: tm+mt
-source-git-commit: a1722c15d3c049f05959d895e85297d47d730872
+source-git-commit: 1df4f88ef856160ee06c43dc6ec430df122f2408
+workflow-type: tm+mt
+source-wordcount: '709'
+ht-degree: 1%
 
 ---
 
 
 # Snel starten: Media Portal{#quick-start-media-portal}
 
-Met Media Portal kunnen bedrijven eenvoudig goedgekeurde creatieve middelen aanschaffen, beheren en distribueren aan externe partners en kanalen en interne zakelijke gebruikers. Deze browser-gebaseerde, &quot;zelf-server&quot;milieu voorziet de gebruikers van het Portaal van Media van beheerder-gecontroleerde &quot;meningen&quot;in Dynamische Klassieke activa van Media voor gemakkelijke toegang tot, doorbladeren, onderzoek, voorproef, en de uitvoeractiva in collectief-goedgekeurd formaat.
+Met Media Portal kunnen bedrijven eenvoudig goedgekeurde creatieve middelen aanschaffen, beheren en distribueren aan externe partners en kanalen en interne zakelijke gebruikers. Deze browser-gebaseerde, &quot;zelf-dient&quot;milieu voorziet de gebruikers van het Portaal van Media van beheerder-gecontroleerde &quot;meningen&quot;in Dynamic Media Klassieke activa voor gemakkelijke toegang tot, doorbladeren, onderzoek, voorproef, en de uitvoeractiva in collectief-goedgekeurd formaat.
 
 Als beheerder, controleert u hoe de gebruikers, tot activa in het Portaal van Media bekijken en toegang hebben en gebruiken. Bovendien kunt u de interface van het Portaal van Media aanpassen om uw website en merk aan te passen. U kunt lettertype, lettertypekleur en tekengrootte opgeven en ook branding-elementen, zoals logo&#39;s, opnemen in de Media Portal-interface.
 
@@ -45,7 +48,7 @@ Zie Gebruikers van Media Portal [toevoegen en beheren](adding-media-portal-users
 
 **4. FTP-accounts beheren**
 
-U kunt de afzonderlijke rekeningen van FTP hebben die met het Portaal van Media worden geassocieerd en aan een specifieke omslag in uw Scene7 het Publiceren van de rekening van het Systeem in kaart gebracht. Dit soort functionaliteit betekent dat u gebruikers kunt toestaan om digitale middelen in uw account te uploaden met behulp van afzonderlijke FTP-accounts.
+U kunt aparte FTP-accounts hebben die zijn gekoppeld aan Media Portal en zijn toegewezen aan een specifieke map in uw Classic-account voor Dynamic Media. Dit soort functionaliteit betekent dat u gebruikers kunt toestaan om digitale middelen in uw account te uploaden met behulp van afzonderlijke FTP-accounts.
 
 Zie [FTP-accounts](ftp-accounts.md#managing_ftp_accounts)beheren.
 
@@ -57,7 +60,7 @@ Zie Gebruikersrollen [van](media-portal-user-roles.md#media_portal_user_roles)Me
 
 **5. Exportopties opgeven**
 
-Gebruikers van Media Portal kunnen tijdens het exporteren van bestanden de bestanden opnieuw opmaken en originele hoofdbestanden exporteren, als u ze hiervoor toestemming geeft. Als beheerder bepaalt u hoe gebruikers bestanden exporteren.
+Gebruikers van Media Portal kunnen tijdens het exporteren van bestanden de bestanden opnieuw opmaken en oorspronkelijke master bestanden exporteren, als u ze hiervoor toestemming geeft. Als beheerder bepaalt u hoe gebruikers bestanden exporteren.
 
 Zie Exportopties [opgeven die beschikbaar zijn voor gebruikers](specifying-export-options-available-media.md#specifying_export_options_available_to_media_portal_users)van Media Portal.
 
