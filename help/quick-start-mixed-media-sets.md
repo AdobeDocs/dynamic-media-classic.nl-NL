@@ -6,11 +6,14 @@ seo-description: Een inleiding en Snel Begin aan Gemengde Reeksen van Media om u
 uuid: 0ef033d5-b053-4d7c-b1e1-1980f899fd88
 contentOwner: admin
 content-type: reference
-products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
+products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/mixed_media_sets
 discoiquuid: 2708d077-94fc-4045-8992-ad3589ed9cfd
 translation-type: tm+mt
-source-git-commit: a1722c15d3c049f05959d895e85297d47d730872
+source-git-commit: 1df4f88ef856160ee06c43dc6ec430df122f2408
+workflow-type: tm+mt
+source-wordcount: '649'
+ht-degree: 6%
 
 ---
 
@@ -23,13 +26,13 @@ Voorinstellingen voor gemengde mediaset voor viewers bevatten gemeenschapsopties
 
 **Snel starten**
 
-Dit Gemengde Snel Begin van de Plaatsen van Media wordt ontworpen om snel met de Gemengde Geplaatste technieken van Media in Dynamische Klassiek van Media in gebruik te worden.
+Dit Gemengde Snel Begin van de Plaatsen van Media wordt ontworpen om snel met Gemengde Media in Dynamic Media Klassiek in werking te stellen.
 
 **1. Afbeeldingen, staalbestanden en video&#39;s uploaden**
 
 Begin door de beelden, de staaldossiers, en de video&#39;s voor uw Gemengde Reeksen van Media te uploaden. Omdat gebruikers kunnen inzoomen op afbeeldingen in de viewer voor gemengde mediasets, moet u rekening houden met zoomen wanneer u afbeeldingen kiest. Zorg ervoor dat de afbeeldingen ten minste 2000 pixels groot zijn in de grootste dimensie.
 
-Klik uploaden op de Globale bar van de Navigatie om dossiers van uw computer aan een omslag op het het Publiceren Scene7 Systeem te uploaden.
+Klik op Uploaden op de algemene navigatiebalk om bestanden van uw computer te uploaden naar een map op Dynamic Media Classic.
 
 Zie [Uw bestanden](uploading-files.md#uploading-your-files)uploaden.
 
@@ -61,7 +64,7 @@ Zie Een [voorvertoning van een element](previewing-asset.md#previewing-an-asset)
 
 **6. Een gemengde mediaset publiceren**
 
-Wanneer u een gemengde mediaset publiceert, wordt deze op Dynamic Media Classic-servers geplaatst en wordt de URL-tekenreeks geactiveerd.
+Als u een gemengde mediaset publiceert, wordt deze op Dynamic Media Classic-servers geplaatst en wordt de URL-tekenreeks geactiveerd.
 
 De gemengde Reeksen van Media vereisen dat u aan **Videoserver** en ook aan de Server **van het** Beeld publiceert. U gebruikt de **Videoserver** om de daadwerkelijke video&#39;s te publiceren die u voor het publiceren merkte. En, gebruikt u de Server **van het** Beeld om verwante activa, zoals videoduimnagels, te publiceren en informatie voor om het even welke Aangepaste VideoReeks te plaatsen.
 
@@ -69,6 +72,6 @@ Zie Een gemengde mediaset [publiceren](publishing-mixed-media-set.md#publishing-
 
 **7. Een gemengde mediaset koppelen aan een webpagina**
 
-De dynamische Klassieke Media activeert URL vraag voor Gemengde Reeksen van Media nadat u hen publiceert. U kunt deze URL&#39;s kopiëren vanuit het voorvertoningsscherm.
+Dynamic Media Classic activeert URL-aanroepen voor gemengde mediasets nadat u deze publiceert. U kunt deze URL&#39;s kopiëren vanuit het voorvertoningsscherm.
 
 Selecteer de gemengde Mediaset en klik op Voorvertoning. Selecteer in het voorvertoningsscherm een voorinstelling voor een gemengde mediaset voor de viewer en klik op de knop URL kopiëren. Zie Een gemengde mediaset [koppelen aan een webpagina](linking-mixed-media-set-web.md#linking-a-mixed-media-set-to-a-web-page).
