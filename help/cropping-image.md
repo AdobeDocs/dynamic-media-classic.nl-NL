@@ -6,24 +6,27 @@ seo-description: Leer hoe u een afbeelding uitsnijdt.
 uuid: 84f199de-cbfc-4d06-877f-6e9148e82e15
 contentOwner: admin
 content-type: reference
-products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
+products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/master_files
 discoiquuid: 99dfa476-4f11-4569-a27e-a76ed7787674
 translation-type: tm+mt
-source-git-commit: b8d245bfc8375966af314ed95e81a519c5ee6c24
+source-git-commit: 1df4f88ef856160ee06c43dc6ec430df122f2408
+workflow-type: tm+mt
+source-wordcount: '556'
+ht-degree: 0%
 
 ---
 
 
 # Een afbeelding uitsnijden{#cropping-an-image}
 
-U kunt beelden in het het Publiceren Scene7 Systeem bijsnijden. Het systeem behoudt informatie over afbeeldingen die zijn uitgesneden, zodat u ze in hun oorspronkelijke staat kunt herstellen. U kunt ook een afbeelding uitsnijden en de bijgesneden versie onder een andere naam opslaan.
+U kunt afbeeldingen uitsnijden in de klassieke Dynamic Media. Het systeem behoudt informatie over afbeeldingen die zijn uitgesneden, zodat u ze in hun oorspronkelijke staat kunt herstellen. U kunt ook een afbeelding uitsnijden en de bijgesneden versie onder een andere naam opslaan.
 
 U kunt een afbeelding uitsnijden om witruimte rondom de afbeelding te verwijderen of een gedeelte van de afbeelding uit te snijden.
 
 >[!NOTE]
 >
->Nadat u de afbeelding hebt uitgesneden, kunt u op de knop Opslaan als klikken en een bijgesneden versie van de afbeelding onder een andere naam opslaan. Kies in het venster Opslaan als de optie Opslaan als nieuw stramien om een tweede kopie van de afbeelding op te slaan. Kies Opslaan als optelweergave van stramien om het origineel en de bijgesneden versie onder een andere naam op te slaan. Kies Origineel vervangen om het oorspronkelijke bestand te verwijderen waaruit u de afbeelding hebt bijgesneden. Voer vervolgens een naam voor de afbeelding in en selecteer de knop Verzenden.
+>Nadat u de afbeelding hebt uitgesneden, kunt u op de knop Opslaan als klikken en een bijgesneden versie van de afbeelding onder een andere naam opslaan. Kies in het venster Opslaan als de optie Opslaan als nieuw om een tweede kopie van de afbeelding op te slaan. Kies Opslaan als optelweergave van Master om het origineel en de bijgesneden versie onder een andere naam op te slaan. Kies Origineel vervangen om het originele bestand te verwijderen waaruit u de afbeelding hebt bijgesneden. Voer vervolgens een naam voor de afbeelding in en selecteer de knop Verzenden.
 
 ## Uitsnijden om witruimte rondom een afbeelding te verwijderen {#crop-to-remove-white-space-around-an-image}
 
