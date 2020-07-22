@@ -6,11 +6,14 @@ seo-description: Leer hoe u in de gedetailleerde weergave werkt.
 uuid: cb62f765-9b7f-4a53-8206-99afae2fb80d
 contentOwner: admin
 content-type: reference
-products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
+products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/managing_assets
 discoiquuid: eaa214ff-d1ef-4691-9148-d01bf243c810
 translation-type: tm+mt
-source-git-commit: 52f51c59bcc03444e5e751b7b33d20bed9aaaddb
+source-git-commit: 1df4f88ef856160ee06c43dc6ec430df122f2408
+workflow-type: tm+mt
+source-wordcount: '577'
+ht-degree: 5%
 
 ---
 
@@ -51,7 +54,7 @@ Als u elementen nauwkeurig wilt bekijken, voorvertonen of bewerken, kunt u deze 
 
 ## Informatie ophalen in de gedetailleerde weergave {#getting-information-in-detail-view}
 
-De gedetailleerde weergave biedt informatie over een element of bestand. Hier wordt deze informatie over een object getoond: de omslag waar het wordt opgeslagen, zijn filename, de datum het punt werd geupload aan het Publiceren Scene7 Systeem, en zijn het publiceren geschiedenis. U kunt metagegevens ook weergeven en bewerken en trefwoorden voor een element toevoegen in de gedetailleerde weergave.
+De gedetailleerde weergave biedt informatie over een element of bestand. Hier wordt deze informatie over een object getoond: de map waarin het is opgeslagen, de bestandsnaam, de datum waarop het item is geüpload naar Dynamic Media Classic en de publicatiegeschiedenis. U kunt metagegevens ook weergeven en bewerken en trefwoorden voor een element toevoegen in de gedetailleerde weergave.
 
 U kunt een element-URL opvragen in de gedetailleerde weergave. de URL is echter pas actief wanneer u het element publiceert. Voor afbeeldingen bevat de gedetailleerde weergave ook een lijst met samengestelde en afgeleide elementen en metagegevens, zoals zoomdoelen en Afbeeldingssets.
 
