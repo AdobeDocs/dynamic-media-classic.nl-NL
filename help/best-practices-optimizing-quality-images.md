@@ -6,11 +6,11 @@ seo-description: Leer de beste werkwijzen voor het optimaliseren van de kwalitei
 uuid: 102e83fe-ee2a-443b-ba92-6ad5cc3daef0
 contentOwner: admin
 content-type: reference
-products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
+products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/master_files
 discoiquuid: 8164466e-2520-482a-88ec-6191fdc77ea3
 translation-type: tm+mt
-source-git-commit: 707afa544ffcea8885631c9fca8b432bc7af6860
+source-git-commit: 1df4f88ef856160ee06c43dc6ec430df122f2408
 workflow-type: tm+mt
 source-wordcount: '1527'
 ht-degree: 3%
@@ -22,14 +22,14 @@ ht-degree: 3%
 
 Het optimaliseren van de beeldkwaliteit kan een tijdrovend proces zijn omdat veel factoren bijdragen tot het renderen van acceptabele resultaten. Het resultaat is deels subjectief omdat individuen de beeldkwaliteit anders waarnemen. Gestructureerde experimenten zijn essentieel.
 
-Dynamic Media Classic bevat meer dan 100 opdrachten voor het bedienen van afbeeldingen voor het afstemmen en optimaliseren van afbeeldingen en het renderen van resultaten. De volgende richtlijnen kunnen u helpen het proces stroomlijnen en goede resultaten snel bereiken gebruikend sommige essentiële bevelen en beste praktijken.
+Dynamic Media Klassiek bevat meer dan 100 opdrachten voor het weergeven en optimaliseren van afbeeldingen en het renderen van resultaten. De volgende richtlijnen kunnen u helpen het proces stroomlijnen en goede resultaten snel bereiken gebruikend sommige essentiële bevelen en beste praktijken.
 
 Zie ook [Slimme beeldverwerking](https://helpx.adobe.com/experience-manager/6-3/assets/using/imaging-faq.html).
 
 ## Aanbevolen werkwijzen voor afbeeldingsindeling (&amp;fmt=) {#best-practices-for-image-format-fmt}
 
 * JPG of PNG zijn de beste keuze om afbeeldingen van goede kwaliteit en met beheerbare grootte en gewicht te leveren.
-* Als er geen indelingsopdracht in de URL is opgegeven, wordt bij Dynamische mediabeeldweergave standaard JPG gebruikt voor levering.
+* Als er geen indelingsopdracht in de URL is opgegeven, wordt bij Dynamic Media Image Serving standaard JPG voor levering gebruikt.
 * JPG wordt met een verhouding van 10:1 gecomprimeerd en levert doorgaans kleinere afbeeldingsbestanden op. PNG wordt gecomprimeerd met een verhouding van ongeveer 2:1, behalve in sommige gevallen, bijvoorbeeld wanneer afbeeldingen een lege achtergrond bevatten. PNG-bestanden zijn doorgaans echter groter dan JPG-bestanden.
 * JPG maakt gebruik van compressie met verlies. Dit betekent dat afbeeldingselementen (pixels) tijdens compressie verloren gaan. PNG gebruikt daarentegen compressie zonder verlies.
 * In JPG worden foto&#39;s vaak gecomprimeerd met een hogere kwaliteit dan in synthetische afbeeldingen met scherpe randen en contrast.
@@ -39,7 +39,7 @@ Als beste manier voor beeldformaat, begin met het gemeenschappelijkste plaatsen 
 
 ## Aanbevolen werkwijzen voor afbeeldingsgrootte {#best-practices-for-image-size}
 
-Dynamisch verkleinen van de afbeeldingsgrootte is een van de meest voorkomende taken die Dynamic Media Image Serving uitvoert. Hierbij moet u de grootte opgeven en desgewenst ook welke downsamplingmodus wordt gebruikt om de schaal van de afbeelding te verkleinen.
+Het dynamisch reduceren van de afbeeldingsgrootte is een van de meest voorkomende taken die worden uitgevoerd door de Dynamic Media van Beeldserver. Hierbij moet u de grootte opgeven en desgewenst ook welke downsamplingmodus wordt gebruikt om de schaal van de afbeelding te verkleinen.
 
 * Voor beeldgrootte, is de beste en meest ongecompliceerde benadering gebruik `&wid=<value>` en `&hei=<value>` of enkel `&hei=<value>`. Met deze parameters wordt de afbeeldingsbreedte automatisch ingesteld op basis van de hoogte-breedteverhouding.
 * `&resMode=<value>` regelt het algoritme dat wordt gebruikt voor downsampling. Beginnen met `&resMode=sharp2`. Deze waarde biedt de beste afbeeldingskwaliteit. Terwijl het gebruiken van de downsampling waarde sneller `=bilin` is, resulteert het vaak in aliasing van artefacten.
@@ -50,11 +50,11 @@ U kunt het beste de grootte van afbeeldingen, het gebruik `&wid=<value>&hei=<val
 
 Het verscherpen van afbeeldingen is het meest complexe aspect van het beheren van afbeeldingen op uw website en er worden veel fouten gemaakt. Neem de tijd om meer te leren over hoe verscherpen en onscherp maskeren werken in Dynamic Media Classic door naar de volgende nuttige bronnen te verwijzen:
 
-Best practices white paper [Sharpening images in Adobe Scene7 Publishing System en op Image Server](/help/assets/s7_sharpening_images.pdf).
+Best practices white paper [Sharpening images in Adobe Dynamic Media Classic en op Image Server](/help/assets/s7_sharpening_images.pdf).
 
 Zie ook Een afbeelding [verscherpen met een onscherp masker](https://helpx.adobe.com/photoshop/atv/cs6-tutorials/sharpening-an-image-with-unsharp-mask.html).
 
-Met Dynamic Media Classic kunt u afbeeldingen verscherpen bij opname, bij levering of beide. In de meeste gevallen moet u de afbeeldingen echter verscherpen met slechts één methode, maar niet met beide. Wanneer u afbeeldingen verscherpt bij levering, op een URL, krijgt u doorgaans de beste resultaten.
+Met Dynamic Media Classic kunt u afbeeldingen verscherpen bij inname, bij levering of beide. In de meeste gevallen moet u de afbeeldingen echter verscherpen met slechts één methode, maar niet met beide. Wanneer u afbeeldingen verscherpt bij levering, op een URL, krijgt u doorgaans de beste resultaten.
 
 U kunt twee methoden voor het verscherpen van afbeeldingen gebruiken:
 
@@ -73,11 +73,11 @@ U kunt twee methoden voor het verscherpen van afbeeldingen gebruiken:
          Deze parameter bepaalt hoe verschillend de verscherpte pixels van het omringende gebied moeten zijn alvorens zij als randpixels worden beschouwd en het filter deze scherper maakt. Met Drempel voorkomt u te veel verscherpte gebieden met vergelijkbare kleuren, zoals huidskleuren. Als u bijvoorbeeld een drempelwaarde van 12 instelt, worden kleine variaties in de helderheid van de huidskleur genegeerd om &quot;ruis&quot; te voorkomen, terwijl randcontrast nog steeds wordt toegevoegd aan gebieden met hoog contrast, zoals waar de wimpers de huid raken.
       Zie de volgende bronnen voor meer informatie over de manier waarop u deze drie parameters instelt, inclusief aanbevolen procedures voor gebruik met het filter:
 
-      Dynamic Media Classic Help-onderwerp over het [verscherpen van een afbeelding](https://help.adobe.com/en_US/scene7/using/WS389B162D-2981-41e5-9253-15D22D2ECBC8.html).
+      Dynamic Media Klassieke Help-onderwerp over het [verscherpen van een afbeelding](https://help.adobe.com/en_US/scene7/using/WS389B162D-2981-41e5-9253-15D22D2ECBC8.html).
 
       Best practices white paper [Sharpening images in Adobe Scene7 Publishing System en op Image Server](/help/assets/s7_sharpening_images.pdf).
 
-   * Met Dynamic Media Classic kunt u ook een vierde parameter beheren: monochroom ( `0,1`). Deze parameter bepaalt of onscherp maskeren wordt toegepast op elke kleurcomponent afzonderlijk met behulp van de waarde `0` of op de helderheid/intensiteit van de afbeelding met behulp van de waarde `1`.
+   * Met Dynamic Media Classic kunt u ook een vierde parameter instellen: monochroom ( `0,1`). Deze parameter bepaalt of onscherp maskeren wordt toegepast op elke kleurcomponent afzonderlijk met behulp van de waarde `0` of op de helderheid/intensiteit van de afbeelding met behulp van de waarde `1`.
 
 
 Als beste praktijken, begin met de onscherpe parameter van de maskerstraal. De volgende instellingen voor Straal kunt u gebruiken:
@@ -127,7 +127,7 @@ Als de verscherpingsresultaten nog steeds niet bevredigend zijn, vergroot u de s
 
 Tijdens het experimenteren kunt u ook de volgende algemene suggesties gebruiken om uw workflow te optimaliseren:
 
-* Probeer uit en test verschillende parameters in echt - tijd, of direct op Dynamische Klassieke URL van Media of gebruikend de het Publiceren Scene7 functionaliteit van het Systeem van de Beeldaanpassing die voorproeven in real time voor aanpassingsverrichtingen verstrekt.
-* Houd er rekening mee dat u de opdrachten Dynamische mediabeeldverwerking in een voorinstelling kunt groeperen. Een voorinstelling voor afbeeldingen is in feite URL-opdrachtmacro&#39;s met aangepaste namen voor voorinstellingen, zoals `$thumb_low$` en `&product_high$`. De naam van de aangepaste voorinstelling in een URL-pad roept deze voorinstellingen aan. Met deze functionaliteit kunt u opdrachten en kwaliteitsinstellingen voor verschillende gebruikspatronen van afbeeldingen op uw website beheren en de totale lengte van URL&#39;s verkorten.
-* Dynamic Media Classic biedt ook geavanceerdere manieren om de afbeeldingskwaliteit af te stemmen, zoals het toepassen van verscherpende afbeeldingen bij opname. Voor geavanceerde gebruiksgevallen waarin dit een optie kan zijn om de renderresultaten verder te perfectioneren en te optimaliseren, kan Adobe Professional Services u helpen met aangepaste inzichten en aanbevolen procedures.
+* Probeer verschillende parameters in real time uit en test, of direct op een Klassieke URL van Dynamic Media of het gebruiken van de de afbeeldingsaanpassingsfunctionaliteit van de Klassiek van Dynamic Media die voorproeven in real time voor aanpassingsverrichtingen verstrekt.
+* Houd er rekening mee dat u de opdrachten voor het leveren van Dynamic Media-afbeeldingen kunt groeperen in een voorinstelling voor afbeeldingen. Een voorinstelling voor afbeeldingen is in feite URL-opdrachtmacro&#39;s met aangepaste namen voor voorinstellingen, zoals `$thumb_low$` en `&product_high$`. De naam van de aangepaste voorinstelling in een URL-pad roept deze voorinstellingen aan. Met deze functionaliteit kunt u opdrachten en kwaliteitsinstellingen voor verschillende gebruikspatronen van afbeeldingen op uw website beheren en de totale lengte van URL&#39;s verkorten.
+* Met Dynamic Media Classic kunt u de afbeeldingskwaliteit verder perfectioneren, bijvoorbeeld door bij opname scherpere afbeeldingen toe te passen. Voor geavanceerde gebruiksgevallen waarin dit een optie kan zijn om de renderresultaten verder te perfectioneren en te optimaliseren, kan Adobe Professional Services u helpen met aangepaste inzichten en aanbevolen procedures.
 
