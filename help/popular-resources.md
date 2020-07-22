@@ -7,9 +7,9 @@ uuid: a2ef0e50-056c-4528-96d8-343c24f944a2
 contentOwner: Rick Brough
 discoiquuid: 094f1894-59f9-4e66-aa0a-1e0c4d7cc452
 translation-type: tm+mt
-source-git-commit: 74238f90f45f0fb9a4566915a20a1d41dfb69fe1
+source-git-commit: 1df4f88ef856160ee06c43dc6ec430df122f2408
 workflow-type: tm+mt
-source-wordcount: '566'
+source-wordcount: '568'
 ht-degree: 2%
 
 ---
@@ -34,10 +34,10 @@ ht-degree: 2%
 * [Maximaliseer uw investeringsrendement](https://adobecustomersuccess.adobeconnect.com/p5ar3hfrrec/?launcher=false&amp;fcsContent=true&amp;pbMode=normal&amp;proto=true) - Leer de beste praktijken in de branche om rijke media over uw plaatsen en mobiele apps te leveren. In dit webinar geven wij voorbeelden en demonstraties die u tonen hoe te om video efficiënt over apparaten te leveren, dynamisch creatief in uw marketing campagnes te leveren, en omzetting te verhogen door om het even welk beeld, stijlgids, of kijkboek te maken shoppable.
 * [Versnel uw levenscyclus](https://adobecustomersuccess.adobeconnect.com/p88ducm9pqv/) van de levering van inhoud - Dit webinar geeft u een inleiding en een demonstratie van de Activa van de Adobe Experience Manager - op bestelling, het platform van de volgende generatie voor rijk mediabeheer en levering. Leer hoe u samen kunt werken en middelen kunt delen tussen creatieve en marketingteams om de processen voor het beoordelen van bedrijfsmiddelen te stroomlijnen; aanbevolen procedures voor het efficiënt beheren van metagegevens van bedrijfsmiddelen, zodat u eenvoudig middelen kunt vinden, gebruiken, hergebruiken en delen, en hoe u interactieve multimedia-ervaringen met verschillende kanalen kunt bieden.
 * [Ontwerpen voor mobiele optimalisatie](https://adobecustomersuccess.adobeconnect.com/p6oqd3wydif/?launcher=false&amp;fcsContent=true&amp;pbMode=normal&amp;proto=true) - Gebruik Dynamic Media Classic om op efficiënte wijze geavanceerde media aan alle apparaten te leveren. In dit webinar leert u hoe u beeldbewerking en videoweergave kunt ontwerpen en aanbieden die effectief zijn voor verschillende mobiele apps en responsieve sites.
-* [Hoe Adobe Dynamic Media Classic SEO](/help/assets/s7_seo.pdf) ondersteunt - Zoekprogramma&#39;s maken het nu mogelijk naar websites en afbeeldingen te zoeken. SPS steunt pogingen om beelden te maken meer zoekmachine-vriendelijker zodat meer verkeer aan de website van de gebruiker van de Klassieke Dynamic Media wordt gedreven. In dit PDF-bestand worden de achtergrond en implementatieaanbevelingen gegeven om dat te bewerkstelligen.
+* [Hoe Adobe Dynamic Media Classic SEO](/help/assets/s7_seo.pdf) ondersteunt - Zoekprogramma&#39;s maken het nu mogelijk naar websites en afbeeldingen te zoeken. Dynamic Media Classic ondersteunt pogingen om afbeeldingen gebruiksvriendelijker te maken, zodat meer verkeer wordt geleid naar de website van de Klassieke gebruiker van Dynamic Media. In dit PDF-bestand worden de achtergrond en implementatieaanbevelingen gegeven om dat te bewerkstelligen.
 * [Met Dynamic Media Classic maximaliseert u uw vakantie-conversie](https://adobecustomersuccess.adobeconnect.com/p32n1yr85c9/?proto=true) . Deze webinar leert u hoe u geautomatiseerde workflows instelt om inhoud van gecontroleerde mappen op te halen en automatisch centrifuges en video&#39;s te maken. U leert ook hoe u wijzigingen snel kunt beheren en afbeeldingen kunt bijwerken.
 * [Aanbevolen werkwijzen voor interactieve ervaringen met Dynamic Media Classic](https://seminars.adobeconnect.com/p7wb8ej3u6d/) - Deze webinar leert u hoe u inhoud uit en in Dynamic Media Classic ophaalt en hoe u voorinstellingen voor afbeeldingen instelt voor optimale prestaties en ervaring. U leert ook over viewervoorinstellingen en cacheconfiguraties.
-* [Tips en trucs voor responsief ontwerp](https://offers.adobe.com/en/na/marketing/landings/_40458_responsive_design_live_on_demand_webinar.html) - Deze webinar leert u praktische tips over hoe u uw mobiele strategie kunt verbeteren. Bekijk praktijkvoorbeelden van responsief ontwerp in actie. Maak één hoofdelement dat op meerdere apparaten werkt en verhoog de mobiele prestaties door de resolutie van afbeeldingen of de richting van afbeeldingen voor staande of liggende schermen dynamisch te wijzigen. Leer hoe u afbeeldingen dynamisch uitsnijdt, schaalt of vergroot of verkleint.
+* [Tips en trucs voor responsief ontwerp](https://offers.adobe.com/en/na/marketing/landings/_40458_responsive_design_live_on_demand_webinar.html) - Deze webinar leert u praktische tips over hoe u uw mobiele strategie kunt verbeteren. Bekijk praktijkvoorbeelden van responsief ontwerp in actie. Maak één master element dat op meerdere apparaten werkt en verhoog de mobiele prestaties door de resolutie van afbeeldingen of de richting van afbeeldingen voor staande of liggende schermen dynamisch te wijzigen. Leer hoe u afbeeldingen dynamisch uitsnijdt, schaalt of vergroot of verkleint.
 
 ## Klassieke training voor Dynamic Media
 
