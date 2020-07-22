@@ -3,11 +3,11 @@ title: Dynamic Media Klassieke technische documentatie
 seo-title: Technische documentatie en zelfhulp voor Adobe Dynamic Media Classic
 description: Dynamic Media Klassieke technische documentatie
 seo-description: 'Technische documentatie, opmerkingen bij de release en zelfhulp voor Adobe Dynamic Media Classic, voorheen Scene 7 '
-products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
+products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 translation-type: tm+mt
-source-git-commit: 2fb7e34b734dba1e0bd1d150580d7d6c74ee1b79
+source-git-commit: 1df4f88ef856160ee06c43dc6ec430df122f2408
 workflow-type: tm+mt
-source-wordcount: '667'
+source-wordcount: '669'
 ht-degree: 1%
 
 ---
@@ -33,7 +33,7 @@ Zie [Veelgestelde vragen](new-ui-2020.md). Nieuwe updates vanaf 7 mei 2020.
 * [Dynamic Media Maandelijkse nieuwsbrief](dynamic-media-newsletter.md)
 * [Hulplijn: Beste praktijken voor het Gebruiken van Dynamic Media Klassiek](https://www.adobe.com/content/dam/www/us/en/marketing/experience-manager-assets/dynamic-media/adobe-dynamic-media-classic-best-practices-guide.pdf)
 * [Hulplijn: Handleiding met aanbevolen procedures voor het verscherpen van afbeeldingen](/help/assets/s7_sharpening_images.pdf)
-* [Hulplijn: Hoe Adobe Dynamic Media Classic SEO](/help/assets/s7_seo.pdf) ondersteunt - Zoekprogramma&#39;s maken het nu mogelijk naar websites en afbeeldingen te zoeken. SPS steunt pogingen om beelden onderzoekend-motor vriendschappelijk te maken zodat meer verkeer naar de website van de gebruiker van de Klassieke Dynamic Media wordt gedreven. In deze handleiding in PDF vindt u de achtergrond en aanbevelingen voor de implementatie.
+* [Hulplijn: Hoe Adobe Dynamic Media Classic SEO](/help/assets/s7_seo.pdf) ondersteunt - Zoekprogramma&#39;s maken het nu mogelijk naar websites en afbeeldingen te zoeken. Dynamic Media Classic ondersteunt pogingen om afbeeldingen zo gebruiksvriendelijk te maken dat meer verkeer wordt geleid naar de website van de gebruiker van de Dynamic Media Classic. In deze handleiding in PDF vindt u de achtergrond en aanbevelingen voor de implementatie.
 * [Webinar: Best practices voor responsief ontwerp](http://offers.adobe.com/en/na/marketing/landings/_40458_responsive_design_live_on_demand_webinar.html) - Leer praktische tips voor het verbeteren van uw mobiele strategie. Bekijk praktijkvoorbeelden van responsief ontwerp in actie. Maak één master element dat op meerdere apparaten werkt en verhoog de mobiele prestaties door de resolutie van afbeeldingen of de richting van afbeeldingen voor staande of liggende schermen dynamisch te wijzigen. Leer hoe u afbeeldingen dynamisch uitsnijdt, schaalt of vergroot of verkleint.
 * [Webinar: Beste praktijken leveren Interactieve Ervaringen met Dynamic Media Klassiek](http://seminars.adobeconnect.com/p7wb8ej3u6d/) - Leer hoe te om inhoud in en uit Dynamic Media Klassiek te krijgen en hoe te om beeldvoorinstellingen voor optimale prestaties en ervaring te plaatsen. U leert ook over viewervoorinstellingen en cacheconfiguraties.
 * [Webinar: Maximaliseer uw investeringsrendement](https://adobecustomersuccess.adobeconnect.com/p5ar3hfrrec/?launcher=false&amp;fcsContent=true&amp;pbMode=normal&amp;proto=true) voor bedrijfsmiddelen - Leer de beste praktijken van de industrie om rijke media over uw plaatsen en mobiele apps te leveren. In dit webinar geven wij voorbeelden en demonstraties die u tonen hoe te om video efficiënt over apparaten te leveren, dynamisch creatief in uw marketing campagnes te leveren, en omzetting te verhogen door om het even welk beeld, stijlgids, of kijkboek te maken shoppable.
