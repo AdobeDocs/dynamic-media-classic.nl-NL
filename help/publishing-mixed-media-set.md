@@ -6,22 +6,25 @@ seo-description: Leer hoe u een gemengde mediaset publiceert.
 uuid: 4172347c-7bb3-468d-bda2-fd1c26ccab85
 contentOwner: admin
 content-type: reference
-products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
+products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/mixed_media_sets
 discoiquuid: 4e8694f7-c1b5-4d45-a18b-2b9494db1757
 translation-type: tm+mt
-source-git-commit: a1722c15d3c049f05959d895e85297d47d730872
+source-git-commit: 1df4f88ef856160ee06c43dc6ec430df122f2408
+workflow-type: tm+mt
+source-wordcount: '258'
+ht-degree: 0%
 
 ---
 
 
 # Een gemengde mediaset publiceren{#publishing-a-mixed-media-set}
 
-Maak een publicatietaak om een gemengde mediaset te publiceren die u hebt gemarkeerd voor publiceren naar Dynamic Media Classic Video Server en Image Server. Dynamic Media Classic biedt geavanceerde publicatieopties voor het publiceren naar specifieke servers en opties voor het opnieuw publiceren van elementen die al zijn gepubliceerd.
+Creeer publiceerbaan om een Gemengde Reeks te publiceren van Media die u voor publiceren aan de Klassieke Server van de Video van Dynamic Media en de Server van het Beeld hebt gemerkt. Dynamic Media Classic biedt geavanceerde publicatieopties voor het publiceren naar specifieke servers en opties voor het opnieuw publiceren van elementen die al zijn gepubliceerd.
 
 ***opmerking **: De gemengde Reeksen van Media vereisen dat u aan**Videoserver **en ook aan de Server**van het **Beeld publiceert. U gebruikt de**Videoserver **om de daadwerkelijke video&#39;s te publiceren die u voor het publiceren merkte. En, gebruikt u de Server**van het **Beeld om verwante activa, zoals videoduimnagels, te publiceren en informatie voor om het even welke Aangepaste VideoReeks te plaatsen.*
 
-De sporen van het Systeem van Scene7 publiceren banen op het scherm van Banen.
+De Klassieke sporen van Dynamic Media publiceren banen op het scherm van Banen.
 
 Zie [Publiceren](publishing-files.md#publishing_files).
 
