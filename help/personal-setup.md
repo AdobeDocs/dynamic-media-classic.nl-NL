@@ -2,17 +2,17 @@
 title: Persoonlijke instelling
 seo-title: Persoonlijke instelling
 description: 'null'
-seo-description: Alle gebruikers kunnen montages op het Persoonlijke scherm van de Opstelling van Dynamische Klassieke Media veranderen.
+seo-description: Alle gebruikers kunnen montages op het Persoonlijke scherm van de Opstelling van Dynamic Media Klassiek veranderen.
 uuid: 29cb825a-f158-4a1e-9d5f-7636ee411b6e
 contentOwner: admin
 content-type: reference
-products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
+products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/setup
 discoiquuid: 6314e7b7-5bde-4fe2-8674-e4fc525d4d1c
 translation-type: tm+mt
-source-git-commit: df0c2897b9fceddde648be53b23e25b13388d6b9
+source-git-commit: 1df4f88ef856160ee06c43dc6ec430df122f2408
 workflow-type: tm+mt
-source-wordcount: '1209'
+source-wordcount: '1194'
 ht-degree: 1%
 
 ---
@@ -24,7 +24,7 @@ Alle gebruikers kunnen montages op het Persoonlijke scherm van de Opstelling ver
 
 >[!NOTE]
 >
->Het Persoonlijke scherm van de Opstelling maakt een lijst van welke gebruikersrol u in het het Publiceren Scene7 Systeem hebt: Bedrijfsbeheerder, beheerder of gebruiker.
+>Het Persoonlijke scherm van de Opstelling maakt een lijst van welke gebruikersrol u in Dynamic Media Klassiek hebt: Bedrijfsbeheerder, beheerder of gebruiker.
 
 De Persoonlijke montages van de Opstelling controleren het standaardgedrag van het Browse Comité, hoe u e-mail, en wachtwoordmontages ontvangt. Vergeet niet op Opslaan te klikken nadat u deze instellingen hebt gewijzigd.
 
@@ -34,11 +34,11 @@ Hiermee worden uw accountnaam, naam, gebruikersnaam (e-mailadres) en toegewezen 
 
 ### Desktopversie
 
-Klik installeren nu om de Desktopversie van het Publiceren Scene7 Systeem op uw lokale harde aandrijving te installeren. U kunt ook op Nu opnieuw installeren klikken om de bureaubladversie opnieuw te installeren.
+Klik op Nu installeren om de bureaubladversie van Dynamic Media Classic op uw lokale vaste schijf te installeren. U kunt ook op Nu opnieuw installeren klikken om de bureaubladversie opnieuw te installeren.
 
 ## De insteekmodule installeren op uw lokale vaste schijf
 
-1. Voor de Persoonlijke pagina van de Opstelling in het Publiceren Scene7 Systeem, onder Insteekmodule van de Illustrator voor Web-aan-Druk, klik nu **** Download om het **Insteekmodule van de Illustrator voor Web-aan-Print.zip** dossier te downloaden.
+1. Voor de Persoonlijke pagina van de Opstelling in de Klassieke Dynamic Media, onder de Plug-in van de Illustrator voor Web-aan-Druk, klik **Download nu** om het **Plug-in van de Illustrator voor Web-aan-Print.zip** dossier te downloaden.
 1. Decomprimeer het ZIP-bestand naar een tijdelijke map.
 
    Er wordt een Lees mij-bestand opgenomen in de hoofdmap van het uitgevouwen bestand om u aanvullende informatie over de insteekmodule te geven.
@@ -83,8 +83,6 @@ U kunt de plug-in nu gebruiken in Adobe Illustrator.
    * Hiermee geeft u een laag met een schaakbordpatroon achter afbeeldingen weer, zodat u de transparante gebieden van een afbeelding met een alfakanaal gemakkelijk kunt zien.
 * **Bestandsgrootte tonen**
    * Hiermee geeft u de bestandsgrootte van een element weer wanneer u bladert.
-* **Bevestigen bij verlaten van SPS**
-   * Toont een bevestigingsvenster alvorens u het Publiceren Scene7 Systeem weggaat.
 * **UDF&#39;s opnemen in zoekopdracht**
    * Deze optie is uitgeschakeld (standaard) om de systeemprestaties te verbeteren voor de meeste metagegevenszoekopdrachten die u uitvoert.
 
@@ -106,7 +104,7 @@ Zie ook Door [de gebruiker gedefinieerde velden](application-setup.md#user_defin
 ## E-mail
 
 * **E-mailopties**
-   * Kies hoe u via Dynamic Media Classic via e-mail op de hoogte moet worden gebracht wanneer het uploaden en publiceren van taken is voltooid. U kunt berichten voor het voltooien van een taak alleen ontvangen als er waarschuwingen of fouten zijn opgetreden.
+   * Kies hoe u Dynamic Media Classic u per e-mail op de hoogte wilt brengen wanneer het uploaden en het publiceren banen worden voltooid. U kunt berichten voor het voltooien van een taak alleen ontvangen als er waarschuwingen of fouten zijn opgetreden.
 * **E-mailbereik**
    * Hiermee bepaalt u of u alle taken per e-mail voor uw bedrijf ontvangt of alleen e-mail over uploads en publicatietaken die u hebt gestart.
 * **E-mailtypen**
