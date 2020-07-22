@@ -6,11 +6,14 @@ seo-description: Leer hoe u een voorvertoning van een element kunt weergeven.
 uuid: 4a01be21-e37f-4d79-9220-f4e177e9179a
 contentOwner: admin
 content-type: reference
-products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
+products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/managing_assets
 discoiquuid: 17d0bfd6-fc62-4ed6-8a51-7ac1a6bb96cc
 translation-type: tm+mt
-source-git-commit: 8216ac64ba418987c7f5ed84c4cb957189645bd9
+source-git-commit: 1df4f88ef856160ee06c43dc6ec430df122f2408
+workflow-type: tm+mt
+source-wordcount: '1023'
+ht-degree: 0%
 
 ---
 
@@ -56,7 +59,7 @@ Voor een bepaald viewerplatform kunt u in het venster Lijst met viewers visueel 
    * Klik rechts van de werkbalk boven het middelenvenster op Lijstweergave. Selecteer één element in het venster Middelen en klik vervolgens rechts van de miniatuurafbeelding op Voorvertoning > Viewer List.
    * Klik rechts van de werkbalk boven het middelenvenster op Gedetailleerde weergave. Klik op Voorvertoning > Viewer List op dezelfde werkbalk.
 
-1. (Optioneel) Klik in het venster Viewer List op de **naam** of het type **** Platform van de kolomkop om de kolom in op- of aflopende volgorde te sorteren.
+1. (Optioneel) Klik in het venster Viewer List op de kolomkop **Naam** of het type **** Platform om de kolom in op- of aflopende volgorde te sorteren.
 1. Klik in het venster Viewer List onder de kolom Acties van de tabel op Voorvertoning om te zien hoe het element wordt weergegeven voor een geselecteerde viewer en platformtype.
 
    Sluit de weergegeven voorvertoning om terug te keren naar het venster Viewer List.
