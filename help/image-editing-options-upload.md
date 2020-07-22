@@ -6,11 +6,14 @@ seo-description: Meer informatie over de opties voor het bewerken van afbeelding
 uuid: 0912ae6f-41c9-41b5-94d1-e266face782e
 contentOwner: admin
 content-type: reference
-products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
+products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/master_files
 discoiquuid: d3f21cdf-2cb3-46e8-955a-b8daf0b233bc
 translation-type: tm+mt
-source-git-commit: 917ba4469b5ef22e62c572f80008e470dccdebe4
+source-git-commit: 1df4f88ef856160ee06c43dc6ec430df122f2408
+workflow-type: tm+mt
+source-wordcount: '1144'
+ht-degree: 0%
 
 ---
 
@@ -56,7 +59,7 @@ Kies een optie bij Kleurprofiel om een kleurruimte voor de afbeelding te selecte
 
 * **De oorspronkelijke kleurruimte** behouden
 
-* **Kies Aangepast van > naar** om de menu&#39;s te openen, zodat u de optie Omzetten van en Omzetten in kleurruimte kunt kiezen. U kunt een standaard Photoshop-kleurruimte kiezen of een kleurruimte die u naar SPS hebt geüpload.
+* **Kies Aangepast van > naar** om de menu&#39;s te openen, zodat u de optie Omzetten van en Omzetten in kleurruimte kunt kiezen. U kunt een standaard Photoshop-kleurruimte kiezen of een kleurruimte die u naar Dynamic Media Classic hebt geüpload.
 
 Zie [ICC-profielen](icc-profiles.md#icc_profiles).
 
@@ -74,7 +77,7 @@ Stel onder Onscherp masker de gewenste opties in. De instellingsopties worden in
 
 | Onscherpe maskeropties | Beschrijving |
 |--- |--- |
-| Hoeveelheid | Hiermee bepaalt u de hoeveelheid contrast die wordt toegepast op de randpixels.<br><br>Beschouw het als de intensiteit van het effect. Het belangrijkste verschil tussen de waarden voor Onscherp masker in SPS en de waarden voor de hoeveelheid in Adobe Photoshop is dat Photoshop een bereik van 1% tot 500% heeft. In SPS is het waardebereik 0,0 tot 5,0. Een waarde van 5,0 in SPS is het ruwe equivalent van 500% in Photoshop; een waarde van 0,9 komt overeen met 90% enzovoort. |
+| Hoeveelheid | Hiermee bepaalt u de hoeveelheid contrast die wordt toegepast op de randpixels.<br><br>Beschouw het als de intensiteit van het effect. Het belangrijkste verschil tussen de waarden voor Onscherp masker in Dynamic Media Classic en de waarden voor de hoeveelheid in Adobe Photoshop is dat Photoshop een bereik van 1% tot 500% heeft. In Dynamic Media Classic is het waardebereik 0,0 tot 5,0. Een waarde van 5,0 in Dynamic Media Classic is het ruwe equivalent van 500% in Photoshop; een waarde van 0,9 komt overeen met 90% enzovoort. |
 | Straal | Hiermee bepaalt u de straal van het effect. <br><br>Het waardebereik is 0-250. Het effect wordt op alle pixels in een afbeelding uitgevoerd en wordt vanuit alle pixels in alle richtingen uitgestraald. De straal wordt gemeten in pixels. Als u bijvoorbeeld een vergelijkbaar verscherpingseffect wilt toepassen op een afbeelding van 2000 x 2000 pixels en een afbeelding van 500 x 500 pixels, stelt u een straal in van twee pixels op de afbeelding van 2000 x 2000 pixels en een straalwaarde van één pixel op de afbeelding van 500 x 500 pixels. Een hogere waarde wordt gebruikt voor een afbeelding met meer pixels. |
 | Drempel | Drempel is een contrastbereik dat wordt genegeerd wanneer het filter Onscherp masker wordt toegepast. Dit is belangrijk, zodat er geen &#39;ruis&#39; wordt toegevoegd aan een afbeelding wanneer dit filter wordt gebruikt. Het waardebereik is 0-255. Dit is het aantal helderheidsstappen in een grijswaardenafbeelding. 0=zwart, 128=50% grijs en 255=wit.<br><br>Een drempelwaarde van 12 negeert bijvoorbeeld kleine variaties door de helderheid van de huidskleur om ruis te voorkomen, maar voegt toch randcontrast toe aan contrasterende gebieden, zoals waar de wimpers de huid raken.<br><br>Als u bijvoorbeeld een foto van iemands gezicht hebt, heeft het filter Onscherp masker invloed op de contrasterende delen van de afbeelding, zoals waar de wimpers en de huid elkaar raken om een duidelijk contrastgebied te maken en op de zachte huid zelf. Zelfs de meest vloeiende skin vertoont subtiele wijzigingen in helderheidswaarden. Als u geen drempelwaarde gebruikt, accentueert het filter deze subtiele veranderingen in huidpixel. Er wordt op zijn beurt een lawaai en een ongewenst effect gecreëerd terwijl het contrast op de wimpers wordt verhoogd, waardoor de scherpte wordt vergroot.<br><br>Om dit probleem te voorkomen, wordt een drempelwaarde geïntroduceerd die het filter vertelt om pixels te negeren die het contrast niet drastisch wijzigen, zoals een vloeiende skin. <br><br>Let op de structuur naast de ritssluiters in de afbeelding die u eerder hebt weergegeven. Ruis in de afbeelding wordt weergegeven omdat de drempelwaarden te laag waren om de ruis te onderdrukken. |
 | Monochroom | Selecteer deze optie om de helderheid (intensiteit) van een afbeelding zonder scherp masker te wijzigen.<br><br>Schakel deze optie uit als u elke kleurcomponent afzonderlijk wilt ontscherpen. |
