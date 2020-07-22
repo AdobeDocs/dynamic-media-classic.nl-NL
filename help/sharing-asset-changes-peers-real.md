@@ -6,18 +6,21 @@ seo-description: Leer hoe u wijzigingen in elementen in real-time kunt delen met
 uuid: 13fa4f6e-66bf-4682-96a9-0e7040706f53
 contentOwner: admin
 content-type: reference
-products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
+products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/managing_assets
 discoiquuid: ca7c8a7f-76f4-4a25-8c36-617a029e55be
 translation-type: tm+mt
-source-git-commit: a1722c15d3c049f05959d895e85297d47d730872
+source-git-commit: 1df4f88ef856160ee06c43dc6ec430df122f2408
+workflow-type: tm+mt
+source-wordcount: '280'
+ht-degree: 0%
 
 ---
 
 
 # Elementwijzigingen delen met peers in real-time{#sharing-asset-changes-with-peers-in-real-time}
 
-Met veelvoudige exemplaren van Dynamic Media Classic die op één of meerdere computers in het zelfde bedrijf lopen, worden de volgende acties van om het even welke Dynamische Klassieke cliënt van Media bijgewerkt in real time met alle peer cliënten:
+Met veelvoudige exemplaren van Dynamic Media Klassiek die op één of meerdere computers in het zelfde bedrijf lopen, worden de volgende acties van om het even welke Klassieke cliënt van Dynamic Media bijgewerkt in real time met alle peer cliënten:
 
 * Een element bewerken (builder, afbeeldingseditor, enz.)
 * De naam van een element wijzigen
