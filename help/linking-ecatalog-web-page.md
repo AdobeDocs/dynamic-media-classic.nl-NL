@@ -6,13 +6,13 @@ seo-description: Leer hoe u een eCatalog koppelt aan een webpagina.
 uuid: 90098a90-180b-477a-8533-24a52a93200b
 contentOwner: admin
 content-type: reference
-products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
+products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/ecatalogs
 discoiquuid: 140640f2-3ca4-4b6c-a240-5f01be87fa9c
 translation-type: tm+mt
-source-git-commit: 74238f90f45f0fb9a4566915a20a1d41dfb69fe1
+source-git-commit: 1df4f88ef856160ee06c43dc6ec430df122f2408
 workflow-type: tm+mt
-source-wordcount: '679'
+source-wordcount: '678'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Een eCatalog koppelen aan een webpagina{#linking-an-ecatalog-to-a-web-page}
 
-Uw websites en toepassingen hebben via URL-tekenreeksen of ingesloten code toegang tot de inhoud van de Dynamic Media Image Server, inclusief eCatalogs. Deze URL-tekenreeksen worden geactiveerd tijdens het publicatieproces. Om het koord URL of de ingebedde code voor uw eCatalog in uw Web-pagina&#39;s en toepassingen te plaatsen, kopieert u het van het het Publiceren Scene7 Systeem.
+Uw websites en toepassingen hebben via URL-tekenreeksen of ingesloten code toegang tot de inhoud van de Dynamic Media Image Server, inclusief eCatalogs. Deze URL-tekenreeksen worden geactiveerd tijdens het publicatieproces. Als u de URL-tekenreeks of ingesloten code voor uw eCatalog in uw webpagina&#39;s en toepassingen wilt plaatsen, kopieert u deze uit Dynamic Media Classic.
 
 >[!NOTE]
 >
