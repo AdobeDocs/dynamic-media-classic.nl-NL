@@ -6,18 +6,21 @@ seo-description: Leer hoe u elementen van Afbeeldingssets voorbereidt voor uploa
 uuid: ea90643f-f52f-43cd-8a74-ebffc78ab717
 contentOwner: admin
 content-type: reference
-products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
+products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/image_sets
 discoiquuid: c341f5ea-aa7b-4749-975d-68a45c6fa77c
 translation-type: tm+mt
-source-git-commit: a1722c15d3c049f05959d895e85297d47d730872
+source-git-commit: 1df4f88ef856160ee06c43dc6ec430df122f2408
+workflow-type: tm+mt
+source-wordcount: '160'
+ht-degree: 0%
 
 ---
 
 
 # Afbeeldingsset-elementen voorbereiden voor uploaden{#preparing-image-set-assets-for-upload}
 
-Alvorens de beelden te uploaden u voor de Reeksen van het Beeld aan het het Publiceren Scene7 Systeem nodig hebt, zorg ervoor dat de beelden de juiste grootte en formaat zijn.
+Voordat u de afbeeldingen die u nodig hebt voor Afbeeldingssets uploadt naar Dynamic Media Klassiek, moet u ervoor zorgen dat de afbeeldingen de juiste grootte en indeling hebben.
 
 Als u een Afbeeldingsset met meerdere weergaven wilt maken, hebt u afbeeldingen nodig die een item vanuit verschillende gezichtspunten weergeven of verschillende aspecten van hetzelfde item weergeven. Het doel is om de belangrijke kenmerken van een item te benadrukken, zodat gebruikers een volledig beeld hebben van hoe het eruit ziet of werkt.
 
