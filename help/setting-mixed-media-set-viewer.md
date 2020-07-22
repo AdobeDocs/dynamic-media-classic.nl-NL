@@ -6,11 +6,14 @@ seo-description: Leer hoe u een voorinstelling voor een gemengde mediaset voor d
 uuid: d5bf1840-e453-445d-bebc-84889b29f3c8
 contentOwner: admin
 content-type: reference
-products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
+products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/mixed_media_sets
 discoiquuid: 8029aad8-d696-4d7c-99e2-3b08edb68181
 translation-type: tm+mt
-source-git-commit: 6fff3699f8a08af433df3f3a7790a11bf9d05b00
+source-git-commit: 1df4f88ef856160ee06c43dc6ec430df122f2408
+workflow-type: tm+mt
+source-wordcount: '611'
+ht-degree: 0%
 
 ---
 
@@ -26,6 +29,7 @@ U kunt alle of sommige gemeenschapseigenschappen in de Gemengde Kijker van de Da
 
    * Klik op **Toevoegen** om een nieuwe voorinstelling te maken. Kies in het dialoogvenster Voorinstelling viewer toevoegen een platform, kies de viewer voor gemengde mediaset en klik op **Toevoegen**.
    * Als u een voorinstelling voor een gemengde mediaset wilt bewerken, selecteert u deze voorinstelling en klikt u op **Bewerken**.
+
    Het scherm Configure Viewer wordt geopend.
 
 1. Typ een naam in het vak Naam voorinstelling voor de voorinstelling voor de gemengde mediaset van de viewer.
@@ -53,11 +57,14 @@ U kunt alle of sommige gemeenschapseigenschappen in de Gemengde Kijker van de Da
 
    * **E-mail** Klik op Aan om een e-mailknop in de viewer in te schakelen. Wanneer gebruikers op de knop E-mail klikken terwijl ze de set bekijken, wordt een e-mail met de koppeling naar de set geopend.
 
-   * **Klik op Live insluiten**. Typ in het vak Label van knop insluiten de naam die u wilt weergeven in de viewer voor de knop Insluiten. Klik desgewenst op **Bladeren** om een aangepaste skin voor de knop te zoeken en te selecteren.
+   * **Klik op Live insluiten**. Typ in het vak Label van knop insluiten de naam die u wilt weergeven in de viewer voor de knop Insluiten. Klik desgewenst op 
+**Blader** naar een aangepaste skin voor de knop en selecteer deze.
 
-   * **Klik op Live als koppeling**. Typ in het vak Label van koppelingsknop de naam die u wilt weergeven in de viewer voor de koppelingsknop. Klik desgewenst op **Bladeren** om een aangepaste skin voor de knop te zoeken en te selecteren.
+   * **Klik op Live als koppeling**. Typ in het vak Label van koppelingsknop de naam die u wilt weergeven in de viewer voor de koppelingsknop. Klik desgewenst op 
+**Blader** naar een aangepaste skin voor de knop en selecteer deze.
 
-   * **Ga naar** Klik op **Live**. Typ in het vak Label van bezoekknop de naam die u in de viewer voor de bezoekknop wilt weergeven. Typ in het vak Bezoek-URL de URL naar de website die u wilt openen wanneer op de koppeling wordt geklikt.
+   * **Bezoek** klikken 
+**Live**. Typ in het vak Label van bezoekknop de naam die u in de viewer voor de bezoekknop wilt weergeven. Typ in het vak Bezoek-URL de URL naar de website die u wilt openen wanneer op de koppeling wordt geklikt.
 
 1. Geef desgewenst andere opties op. Als u een beschrijving van een optie wilt zien, klikt u op het pictogram Info Tip naast de optie.
 
