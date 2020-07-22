@@ -5,12 +5,15 @@ description: 'null'
 seo-description: Leer hoe u de inhoud van het deelvenster Info in Afbeeldingssets beheert.
 uuid: ed7b4344-f180-41fc-a95a-62a9767dc056
 contentOwner: rbrough
-products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
+products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 content-type: reference
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/image_sets
 discoiquuid: ba5d1fb1-af54-471c-a471-853ace7f72fd
 translation-type: tm+mt
-source-git-commit: d5bf894d56687561c93ef08762bc19d3597225e6
+source-git-commit: 1df4f88ef856160ee06c43dc6ec430df122f2408
+workflow-type: tm+mt
+source-wordcount: '776'
+ht-degree: 0%
 
 ---
 
@@ -19,7 +22,7 @@ source-git-commit: d5bf894d56687561c93ef08762bc19d3597225e6
 
 Naast het gebruiken van de tekst van de Kaart van het Beeld voor uw omvergooien in de Reeksen van het Beeld, kunt u een informatiepaneel gebruiken om grotere hoeveelheden het omvergooientekst, met inbegrip van verbindingen toe te voegen. U kunt het InfoPanel ook beheren door getimed caching te gebruiken en inhoudsupdates te plannen.
 
-U kunt uw opstelling InfoPanel en gegevens beheren gebruikend de volgende eigenschappen in het Publiceren Scene7 Systeem:
+U kunt uw opstelling InfoPanel en gegevens beheren gebruikend de volgende eigenschappen in Dynamic Media Klassiek:
 
 * In het deelvenster InfoPanel Setup kunt u de sjabloon opgeven die wordt gebruikt voor het weergeven van de tekst in het deelvenster Info, een standaardreactie voor fouten en het aantal uren dat de informatie in de cache wordt opgeslagen. Bovendien kunt u specificeren of de Reeks van het Beeld automatisch wordt gepubliceerd.
 * In het deelvenster InfoPanel-gegevensinvoer kunt u een CSV-bestand opgeven met de tekst die u wilt weergeven in de rollovertekst van het deelvenster Info en kunt u tijdstippen voor het bijwerken van de gegevens opgeven.
@@ -38,7 +41,7 @@ U kunt een van de drie vooraf ingestelde reactiesjablonen selecteren om tekst we
    * Selecteer Standaard als u het standaardantwoord wilt gebruiken. De XML voor het sjabloonontwerp wordt grijs weergegeven in het tekstvak Gebruikerssjabloon.
    * Selecteer Aangepast om uw eigen reactiesjabloon te maken. Typ de XML-definitie van de sjabloon in het tekstvak Gebruikerssjabloon. U kunt de standaardsjabloon die al in het tekstvak is gedefinieerd, gebruiken als basis voor uw eigen reactie.
 
-1. (Optioneel) Typ in het vak Standaardreactie de tekst die u wilt weergeven als bij Dynamische media Classic een fout optreedt bij het ophalen van informatie voor een afbeeldingskaart. Als het systeem bijvoorbeeld een bedrijfsnaam en een naam van een afbeeldingsset ontvangt, maar geen rollover-id, wordt dit bericht voor de gebruiker weergegeven.
+1. (Optioneel) Typ in het vak Standaardreactie de tekst die u wilt weergeven als bij Dynamic Media Classic een fout optreedt bij het ophalen van informatie voor een afbeeldingskaart. Als het systeem bijvoorbeeld een bedrijfsnaam en een naam van een afbeeldingsset ontvangt, maar geen rollover-id, wordt dit bericht voor de gebruiker weergegeven.
 1. In het de tekstgebied van TTL van de Reactie, ga het aantal uren in dat u wilt wachten alvorens de gegevens in het voorgeheugen onder te brengen.
 
    * Stel een lager getal in als de gegevens regelmatig worden bijgewerkt.
