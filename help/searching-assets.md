@@ -6,18 +6,21 @@ seo-description: Leer hoe u middelen kunt zoeken.
 uuid: 058209bc-bac4-4d5c-8261-e242a543beaf
 contentOwner: admin
 content-type: reference
-products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
+products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/managing_assets
 discoiquuid: effef4e7-37c5-42e2-9266-ecd026cad628
 translation-type: tm+mt
-source-git-commit: a1722c15d3c049f05959d895e85297d47d730872
+source-git-commit: 1df4f88ef856160ee06c43dc6ec430df122f2408
+workflow-type: tm+mt
+source-wordcount: '1407'
+ht-degree: 0%
 
 ---
 
 
 # Elementen zoeken{#searching-assets}
 
-Om van dossieractiva in het Publiceren Scene7 Systeem de plaats te bepalen, kunt u activa door type bekijken, activa in het Browse Comité sorteren, een eenvoudig onderzoek voeren, een geavanceerd onderzoek voeren, en filter voor activa.
+Als u bestandselementen wilt zoeken in Dynamic Media Classic, kunt u elementen op type weergeven, elementen in het deelvenster Bladeren sorteren, een eenvoudige zoekopdracht uitvoeren, een geavanceerde zoekopdracht uitvoeren en naar elementen filteren.
 
 >[!NOTE]
 >
@@ -50,7 +53,7 @@ Een eenvoudige zoekopdracht uitvoeren:
 
 >[!NOTE]
 >
->Dynamic Media Classic zoekt naar tracks. Als u een zoekopdracht nogmaals wilt uitvoeren, selecteert u de knop Zoeken en kiest u de naam van een zoekopdracht onder aan het menu Zoeken.
+>Dynamic Media Classic volgt zoekopdrachten. Als u een zoekopdracht nogmaals wilt uitvoeren, selecteert u de knop Zoeken en kiest u de naam van een zoekopdracht onder aan het menu Zoeken.
 
 ## Een geavanceerde zoekopdracht uitvoeren {#conducting-an-advanced-search}
 
