@@ -6,18 +6,21 @@ seo-description: Leer hoe u sjabloonbestanden kunt uploaden.
 uuid: e19979b5-3f41-49c5-99aa-107ede3be98c
 contentOwner: admin
 content-type: reference
-products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
+products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/template_basics
 discoiquuid: 75658717-5c39-473e-9d32-718d00706310
 translation-type: tm+mt
-source-git-commit: a1722c15d3c049f05959d895e85297d47d730872
+source-git-commit: 1df4f88ef856160ee06c43dc6ec430df122f2408
+workflow-type: tm+mt
+source-wordcount: '293'
+ht-degree: 1%
 
 ---
 
 
 # Sjabloonbestanden uploaden{#uploading-template-files}
 
-Upload de dossiers u voor uw malplaatje in het het Publiceren Scene7 Systeem nodig hebt alvorens u begint bouwend het malplaatje. U kunt sjablonen maken op basis van een Adobe® Photoshop® PSD- of afbeeldingsbestand. TIFF- en PNG-afbeeldingen worden aanbevolen, omdat hierdoor transparantie mogelijk is.
+Upload de bestanden die u voor uw sjabloon nodig hebt naar Dynamic Media Classic voordat u de sjabloon gaat maken. U kunt sjablonen maken op basis van een Adobe® Photoshop® PSD- of afbeeldingsbestand. TIFF- en PNG-afbeeldingen worden aanbevolen, omdat hierdoor transparantie mogelijk is.
 
 >[!NOTE]
 >
@@ -27,7 +30,7 @@ U kunt sjablonen maken van Adobe Photoshop PSD-bestanden of afbeeldingsbestanden
 
 Zie Bestanden [uploaden](uploading-files.md#uploading_files)voor gedetailleerde instructies over het uploaden van bestanden. Houd rekening met het volgende wanneer u sjabloonbestanden uploadt:
 
-* Als u een PSD-bestand uploadt, kunt u er een sjabloon van maken. Met Dynamic Media Classic wordt voor elke laag in de PSD een aparte afbeelding gemaakt. Selecteer Photoshop-opties in het dialoogvenster Taakopties uploaden, selecteer de optie Lagen behouden en selecteer de optie Sjabloon maken. Kies vervolgens een optie in het menu Laagnaamgeving voor de naamgeving van de afbeeldingen die door Dynamic Media Classic worden gemaakt op basis van lagen in de PSD. Zie [Uploadopties](psd-files.md#psd_upload_options)voor PSD.
+* Als u een PSD-bestand uploadt, kunt u er een sjabloon van maken. Met Dynamic Media Klassiek wordt voor elke laag in de PSD een aparte afbeelding gemaakt. Selecteer Photoshop-opties in het dialoogvenster Taakopties uploaden, selecteer de optie Lagen behouden en selecteer de optie Sjabloon maken. Kies vervolgens een optie in het menu Laagnaamgeving waarmee u de afbeeldingen kunt benoemen die in de klassieke Dynamic Media op basis van lagen in de PSD worden gemaakt. Zie [Uploadopties](psd-files.md#psd_upload_options)voor PSD.
 * Als u afbeeldingen uploadt, kunt u een masker maken op basis van het uitknippad. Deze optie is van toepassing op afbeeldingen die zijn gemaakt met beeldbewerkingstoepassingen waarin een uitknippad is gemaakt. Selecteer Beeldbewerkingsopties in het dialoogvenster Taakopties uploaden en selecteer de optie Masker maken van uitknippad. Zie Opties voor het bewerken van [afbeeldingen tijdens het uploaden](image-editing-options-upload.md#image-editing-options-at-upload).
 
 >[!MORELIKETHIS]
