@@ -6,9 +6,9 @@ contentOwner: rbrough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
 translation-type: tm+mt
-source-git-commit: d3870442babfbcc14734b4e31f9989f5e5837049
+source-git-commit: a3cd7494663337d55fa9b26b6ebe550791d32c7c
 workflow-type: tm+mt
-source-wordcount: '1107'
+source-wordcount: '1126'
 ht-degree: 0%
 
 ---
@@ -40,7 +40,7 @@ Nadat u de desktop-app hebt gedownload, geïnstalleerd en gestart, wordt u een v
 
 >[!IMPORTANT]
 >
->Er kan slechts één exemplaar van de bureaubladtoepassing tegelijk worden geïnstalleerd en geactiveerd.
+>Er kan slechts één exemplaar van de bureaubladtoepassing tegelijk op een bepaalde computer worden geïnstalleerd *en* geactiveerd. Er geldt echter geen beperking voor het aantal installaties dat u op verschillende computers kunt installeren.
 
 ### **_Wat als ik Dynamic Media Klassieke APIs gebruik om tot het product toegang te hebben en niet binnen door het Webgebruikersinterface te ondertekenen?_**
 
