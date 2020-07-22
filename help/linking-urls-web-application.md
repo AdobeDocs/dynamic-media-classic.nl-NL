@@ -6,20 +6,23 @@ seo-description: Leer hoe u URL's aan uw webtoepassing koppelt.
 uuid: 1179bdd3-9b39-47f9-945d-1c1ca186bf96
 contentOwner: admin
 content-type: reference
-products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
+products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/image_sizing
 discoiquuid: 71299640-676d-49b7-841d-6118f31044e8
 translation-type: tm+mt
-source-git-commit: e3c64b90e0af0129571a21b132477c0c86d06405
+source-git-commit: 1df4f88ef856160ee06c43dc6ec430df122f2408
+workflow-type: tm+mt
+source-wordcount: '841'
+ht-degree: 0%
 
 ---
 
 
 # URL&#39;s koppelen aan uw webtoepassing{#linking-urls-to-your-web-application}
 
-Uw websites en toepassingen hebben via URL-tekenreeksen toegang tot inhoud van Dynamic Media Image Server. Nadat u een afbeelding hebt gepubliceerd, activeert Dynamic Media Classic een URL-tekenreeks die verwijst naar de voorinstelling Afbeelding op Dynamic Media Image Servers. U kunt deze URL&#39;s voor testdoeleinden in een webbrowser plakken.
+Uw websites en toepassingen hebben via URL-tekenreeksen toegang tot de inhoud van de Dynamic Media Image Server. Nadat u een afbeelding hebt gepubliceerd, activeert Dynamic Media Classic een URL-tekenreeks die verwijst naar de voorinstelling Afbeelding op Dynamic Media Afbeeldingsservers. U kunt deze URL&#39;s voor testdoeleinden in een webbrowser plakken.
 
-Om deze koorden URL in uw Web-pagina&#39;s en toepassingen te plaatsen, kopieer hen van het het Publiceren Scene7 Systeem. Als u een URL-tekenreeks wilt ophalen die is gegenereerd met een voorinstelling voor afbeelding, gaat u naar het voorvertoningsscherm of het deelvenster Bladeren (in de gedetailleerde weergave).
+Als u deze URL-tekenreeksen wilt plaatsen in uw webpagina&#39;s en toepassingen, kopieert u deze vanuit Dynamic Media Classic. Als u een URL-tekenreeks wilt ophalen die is gegenereerd met een voorinstelling voor afbeelding, gaat u naar het voorvertoningsscherm of het deelvenster Bladeren (in de gedetailleerde weergave).
 
 ## Een URL met voorinstellingen afbeelding verkrijgen {#obtaining-an-image-preset-url}
 
@@ -50,11 +53,11 @@ U kunt een URL-tekenreeks die is gegenereerd door een voorinstelling voor afbeel
 
 ## Over URL-tekenreeksen met voorinstellingen afbeelding {#about-image-preset-url-strings}
 
-Een URL-aanroep voor Afbeeldingsgrootte tot Dynamische Media Image Servers heeft de volgende basissyntaxis:
+Een URL-aanroep voor Afbeeldingsgrootte tot Dynamic Media Image Servers heeft de volgende basissyntaxis:
 
 *pad*/*naam van afbeeldingsserver*/*accountnaam*/*afbeeldingsnaam*?*modifier1*&amp;*modifier2*&amp;..
 
-In een URL van een Dynamic Media Image Server worden instructies aan de server voor het weergeven van de afbeelding weergegeven na het vraagteken (?). Deze URL-aanroep levert bijvoorbeeld een afbeelding met de naam &quot;backpack&quot; met een breedte van 250 pixels:
+In een Server URL van het Beeld van Dynamic Media, verschijnen de instructies aan de server voor het tonen van het beeld na het vraagteken (?). Deze URL-aanroep levert bijvoorbeeld een afbeelding met de naam &quot;backpack&quot; met een breedte van 250 pixels:
 
 ```as3
 https://s7d1.scene7.com/is/image/S7learn/backpack?wid=250
@@ -72,11 +75,11 @@ In een URL-tekenreeks die is gegenereerd met een voorinstelling voor afbeelding,
 https://s7d1.scene7.com/is/image/S7learn/backpack?$Large$
 ```
 
-Namen van voorinstellingen voor afbeeldingen in URL&#39;s worden ingesloten door dollartekens ($). Wanneer een server van het Beeld van het Beeld van de Dynamische Media het Vooraf ingestelde gedeelte van URL ( `Large` in dit geval) ontmoet, gebruikend de grootte en het formatteren instructies die door de &quot;Grote&quot;Vooraf ingestelde Beeld worden bepaald.
+Namen van voorinstellingen voor afbeeldingen in URL&#39;s worden ingesloten door dollartekens ($). Wanneer een server van het Beeld van Dynamic Media het Beeld ontmoet vooraf ingestelde gedeelte van URL ( `Large` in dit geval), gebruikend de grootte en het formatteren instructies die door de &quot;Grote&quot;Vooraf ingestelde Beeld worden bepaald.
 
 ## Dynamische afbeeldingen toevoegen aan uw webpagina {#adding-dynamic-images-to-your-web-page}
 
-Als u dynamische afbeeldingen aan uw webpagina wilt toevoegen, wordt de `<IMG>` tag in de HTML-webpaginacode doorgaans gewijzigd met de tekenreeks Dynamic Media Classic URL om een aanvraag in te dienen bij Dynamic Media Image Servers. Met deze tekenreeks wordt de afbeelding gemaakt met de grootte en opmaakspecificaties die zijn gedefinieerd in de voorinstelling voor afbeelding.
+Als u dynamische afbeeldingen aan uw webpagina wilt toevoegen, wordt de `<IMG>` tag in de HTML-webpaginacode doorgaans gewijzigd met de klassieke URL-tekenreeks Dynamic Media om een aanvraag in te dienen bij Dynamic Media Image Servers. Met deze tekenreeks wordt de afbeelding gemaakt met de grootte en opmaakspecificaties die zijn gedefinieerd in de voorinstelling voor afbeelding.
 
 Bijvoorbeeld, in plaats van de typische vraag om een statische beeld zoals te openen
 
@@ -84,10 +87,10 @@ Bijvoorbeeld, in plaats van de typische vraag om een statische beeld zoals te op
 img src="/company_images/products/backpack_thumbnail.jpg"
 ```
 
-u gebruikt nu de `<IMG>`tag om de verwijzing naar een statische afbeelding te vervangen door een voorinstellingenaanroep van Afbeelding naar het dynamische Media Classic-platform. Een steekproefvraag kijkt als dit:
+U gebruikt nu de `<IMG>`tag om de verwijzing naar een statische afbeelding te vervangen door een voorinstellingenaanroep van afbeelding naar het klassieke Dynamic Media-platform. Een steekproefvraag kijkt als dit:
 
 ```as3
 img src="https://s7d2.scene7.com/is/image/S7learn/backpack_trns?$thumbnail$”
 ```
 
-In dit voorbeeld &quot;kijkt de Dynamische Server van het Beeld van Media omhoog&quot;de definitie van `$thumbnail$` en produceert dynamisch het aangewezen beeld met de het rangschikken en het formatteren specificaties die door het Vooraf ingestelde `thumbnail`Beeld worden bepaald. In een URL-tekenreeks worden alle items behalve de bestandsnaam van de productafbeelding ( `backpack_trns` in dit geval) doorgaans voor de paginasjabloon vastgezet. Het enige element dat automatisch in het paginasjabloon van uw handelsserver wordt opgenomen is IPS identiteitskaart of naam van het beeld.
+In dit voorbeeld, &quot;kijkt de Server van het Beeld van Dynamic Media omhoog&quot;de definitie van `$thumbnail$` en produceert dynamisch het aangewezen beeld met de het rangschikken en het formatteren specificaties die door het Vooraf ingestelde `thumbnail`Beeld worden bepaald. In een URL-tekenreeks worden alle items behalve de bestandsnaam van de productafbeelding ( `backpack_trns` in dit geval) doorgaans voor de paginasjabloon vastgezet. Het enige element dat automatisch in het paginasjabloon van uw handelsserver wordt opgenomen is IPS identiteitskaart of naam van het beeld.
