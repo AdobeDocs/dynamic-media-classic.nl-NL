@@ -6,11 +6,14 @@ seo-description: Leer hoe u voorinstellingen voor afbeeldingen maakt en inschake
 uuid: 62cfc6fa-da91-4c42-a3ed-10956384d633
 contentOwner: admin
 content-type: reference
-products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
+products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/media_portal
 discoiquuid: 84257b2a-681c-4fe9-a6e5-3633c1d61d8c
 translation-type: tm+mt
-source-git-commit: 75f006fd81b0fe2dad5479cdd98e45eaada46b2a
+source-git-commit: 1df4f88ef856160ee06c43dc6ec430df122f2408
+workflow-type: tm+mt
+source-wordcount: '258'
+ht-degree: 0%
 
 ---
 
@@ -19,7 +22,7 @@ source-git-commit: 75f006fd81b0fe2dad5479cdd98e45eaada46b2a
 
 Wanneer gebruikers afbeeldingselementen exporteren met gebruik van Media Portal, kunnen zij een voorinstelling voor afbeelding kiezen in het dialoogvenster Geselecteerde elementen exporteren. Een voorinstelling voor afbeeldingen is een verzameling vooraf gedefinieerde instellingen die de grootte, afbeeldingskwaliteit, indeling, resolutie en andere aspecten van de weergave van een afbeelding tijdens het exporteren wijzigen.
 
-Beheerders van Media Portal kunnen voorinstellingen voor afbeeldingen maken om te bepalen hoe afbeeldingen opnieuw worden opgemaakt wanneer ze worden geëxporteerd. De Vooraf instelt van het beeld herformatteert beelden aan de specificaties van uw bedrijf wanneer de gebruikers beelden van het het Publiceren Scene7 Systeem uitvoeren. Gebruikers kunnen de afbeeldingen niet alleen opnieuw opmaken, maar naar de exacte specificaties van een voorinstelling voor afbeeldingen exporteren.
+Beheerders van Media Portal kunnen voorinstellingen voor afbeeldingen maken om te bepalen hoe afbeeldingen opnieuw worden opgemaakt wanneer ze worden geëxporteerd. Met Voorinstellingen voor afbeeldingen kunt u afbeeldingen opnieuw opmaken volgens de specificaties van uw bedrijf wanneer gebruikers afbeeldingen exporteren uit de Dynamic Media Classic. Gebruikers kunnen de afbeeldingen niet alleen opnieuw opmaken, maar naar de exacte specificaties van een voorinstelling voor afbeeldingen exporteren.
 
 Bij het exporteren van afbeeldingselementen gelden de volgende beperkingen:
 
@@ -29,7 +32,7 @@ Bij het exporteren van afbeeldingselementen gelden de volgende beperkingen:
 
 >[!NOTE]
 >
->Deze beperkingen gelden alleen voor het exporteren van afgeleide afbeeldingselementen, niet voor het exporteren van hoofdbestanden.
+>Deze beperkingen gelden alleen voor het exporteren van afgeleide afbeeldingselementen, niet voor het exporteren van master bestanden.
 
 Zie Voorinstellingen voor [afbeeldingen](application-setup.md#image_presets)voor informatie over het maken van voorinstellingen voor afbeeldingen.
 
