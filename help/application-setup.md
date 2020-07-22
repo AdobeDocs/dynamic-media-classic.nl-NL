@@ -6,13 +6,13 @@ seo-description: Leer hoe u het toepassingsgebied van Dynamic Media Classic inst
 uuid: 3e2f1d30-8f33-4a9d-bbe4-e8c3dbc968f8
 contentOwner: admin
 content-type: reference
-products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
+products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/setup
 discoiquuid: ae2d1895-a437-4463-bfac-3960c8027551
 translation-type: tm+mt
-source-git-commit: 74238f90f45f0fb9a4566915a20a1d41dfb69fe1
+source-git-commit: 7c9b1976ced6ef5ad48b624b99aeeffed380168a
 workflow-type: tm+mt
-source-wordcount: '11115'
+source-wordcount: '10977'
 ht-degree: 3%
 
 ---
@@ -24,7 +24,7 @@ U kunt de pagina&#39;s van de Opstelling van de Toepassing gebruiken om algemene
 
 >[!NOTE]
 >
->Slechts kunnen de beheerders van het Systeem Scene7 het Publiceren montages op de pagina&#39;s van de Opstelling van de Toepassing veranderen.
+>Alleen Dynamic Media Klassieke beheerders kunnen instellingen op de pagina&#39;s van de Setup van de Toepassing wijzigen.
 
 ## Algemene instellingen {#general-settings}
 
@@ -36,119 +36,113 @@ Bij de verwezenlijking van de rekening, verstrekt de Klassieke Dynamic Media aut
 
 Zie ook De service [Beveiligd testen](testing-assets-making-them-public.md#testing_the_secure_testing_service)testen.
 
-**Gepubliceerde servernaam** Deze server is de live CDN-server die wordt gebruikt in alle door het systeem gegenereerde URL-aanroepen die specifiek zijn voor uw account. Wijzig deze servernaam alleen als u hiervoor de instructie hebt gekregen van een technicus voor klassieke ondersteuning van Dynamic Media.
+* **Gepubliceerde de Naam** van de Server - Deze server is de levende server CDN die in alle systeem-geproduceerde URL vraag specifiek voor uw rekening wordt gebruikt. Wijzig deze servernaam alleen als u hiervoor de instructie hebt gekregen van een technicus voor klassieke ondersteuning van Dynamic Media.
 
-**Naam** oorspronkelijke server Deze server wordt alleen gebruikt voor het testen van de kwaliteit. Wijzig deze servernaam alleen als een Dynamic Media Classic-supporttechnicus hiervoor de instructie heeft gegeven.
+* **Naam** oorspronkelijke server - Deze server wordt alleen gebruikt voor het testen van de kwaliteit. Wijzig deze servernaam alleen als een Dynamic Media Classic-supporttechnicus hiervoor de instructie heeft gegeven.
 
-**AGM de Naam** van de Server Deze server wordt gebruikt voor Web-aan-Druk malplaatjes. Deze server wordt op bedrijfsbrede basis geplaatst. Wijzig deze servernaam alleen als een Dynamic Media Classic-supporttechnicus hiervoor de instructie heeft gegeven.
+<!-- **AGM Server Name** This server is used for Web-to-Print templates. This server is set on a company-wide basis. Do not change this server name unless instructed to do so by a Dynamic Media Classic support technician. -->
 
-**Test&amp;Target Server Name** Your Test&amp;Target URL, tot en met .com. Zie Dynamic Media Classic integreren met Target Classic voor instructies voor het verkrijgen van deze URL.
+* **&amp;Target-servernaam** testen - uw test&amp;Target-URL, tot en met .com. Zie Integreren [!DNL Dynamic Media Classic] met [!DNL Target Standard/Premium].
 
-**iOS Streaming Server noem** de URL naar uw Dynamic Media Classic iOS streaming server. Deze server levert streaming video aan op iOS gebaseerde apparaten gebruikend het protocol van HTTP.
+<!-- **Test Publish Context Server Name** -->
 
-**De naam** van de progressieve Videoserver van de VideoServer URL aan uw Dynamic Media Klassieke progressieve videoserver. Deze server levert progressieve video gebruikend het protocol van HTTP.
+* **iOS-streamingservernaam** - De URL naar uw [!DNL Dynamic Media Classic] iOS-streamingserver. Deze server levert streaming video aan op iOS gebaseerde apparaten gebruikend het protocol van HTTP.
 
-**URL tonen voor niet-gepubliceerde elementen** Selecteer deze optie als u wilt dat Dynamic Media Classic een URL weergeeft wanneer een voorvertoning van een element wordt weergegeven, ongeacht of dit is gepubliceerd of niet. Als het element niet is gepubliceerd, werkt de URL niet. U kunt de URL echter ook gebruiken voor plannings- of organisatorische doeleinden.
+* **Naam** van progressieve videoserver - De URL naar uw [!DNL Dynamic Media Classic] progressieve videoserver. Deze server levert progressieve video gebruikend het protocol van HTTP.
 
-**AIR-installatie** toestaan Selecteer deze optie als u wilt dat gebruikers de desktopversie van Scene7 Publishing System kunnen downloaden naar hun lokale vaste schijf. De gebruikers installeren de toepassing van het gebied van de Versie van de Desktop van het Persoonlijke scherm van de Opstelling.
+* **URL tonen voor niet-gepubliceerde elementen** [!DNL Dynamic Media Classic] - Selecteer deze optie als u een URL wilt weergeven wanneer u een voorbeeld van een element weergeeft, ongeacht of het is gepubliceerd of niet. Als het element niet is gepubliceerd, werkt de URL niet. U kunt de URL echter ook gebruiken voor plannings- of organisatorische doeleinden.
 
-AIR-gebruikers moeten hun bestaande toepassing handmatig verwijderen en opnieuw installeren vanaf de webversie van Scene7 Publishing System (in Personal Settings). Na deze eenmalige herinstallatie, wordt u ertoe aangezet om te bevorderen wanneer de server een nieuwere versie van het het Publiceren Scene7 Systeem AIR heeft. Scene7 het Publiceren Systeem is geïntegreerd met het Kader van de Update van de Toepassing dat het verbeteringsproces stroomlijnt.
+<!-- **Allow AIR install** Select this option to allow users to download Dynamic Media Classic desktop version to their local hard drives. Users install the application from the Desktop Version area of the Personal Setup screen. -->
 
-**CDN-validatiesjabloon** geeft de sjabloon op die wordt gebruikt voor het ongeldig maken van de CDN-cache (Content Delivery Network).
+<!-- AIR users must manually uninstall their existing app and reinstall from the web version of Dynamic Media Classic (in Personal Settings). After this one-time reinstallation, you are prompted to upgrade whenever the server has a newer version of Dynamic Media Classic AIR. Dynamic Media Classic is integrated with the Application Update Framework which streamlines the upgrade process. -->
 
-Stel bijvoorbeeld dat u een URL voor een afbeelding (inclusief voorinstellingen of wijzigingstoetsen) opgeeft die verwijst `<ID>`in plaats van een specifieke afbeelding-id, zoals in het volgende voorbeeld:
+* **CDN-validatiesjabloon** - Geeft de sjabloon op die wordt gebruikt voor het ongeldig maken van de CDN-cache (Content Delivery Network).
 
-`https://sample.scene7.com/is/image/Company/<ID>?$s7product$`
+   Stel bijvoorbeeld dat u een URL voor een afbeelding (inclusief voorinstellingen of wijzigingstoetsen) opgeeft die verwijst `<ID>`in plaats van een specifieke afbeelding-id, zoals in het volgende voorbeeld:
 
-Als het Malplaatje enkel bevat `<ID>`, dan vult SPS in `https://<server>/is/image`, waar `<server>` is de Publish Naam van de Server die in Algemene Montages wordt bepaald.
+   `https://sample.scene7.com/is/image/Company/<ID>?$s7product$`
 
-Als u CDN invalidate Template instelt, een afbeelding met de naam Backpack_B selecteert en vervolgens klikt op **Bestand** > **CDN** ongeldig maken, wordt de volgende gegenereerde URL in de interface CDN invalidate gegenereerd:
+   Als het Malplaatje enkel bevat `<ID>`, dan vult de Klassieke van Dynamic Media in `https://<server>/is/image`, waar `<server>` is de Publish Naam van de Server die in Algemene Montages wordt bepaald.
 
-`https://sample.scene7.com/is/image/Company/Backpack_B?$s7product$`
+   Als u CDN invalidate Template instelt, een afbeelding met de naam Backpack_B selecteert en vervolgens klikt op **Bestand** > **CDN** ongeldig maken, wordt de volgende gegenereerde URL in de interface CDN invalidate gegenereerd:
 
-Klik in de keuzelijst URL op **Doorgaan** om de cache voor die specifieke URL-aanroep van de afbeelding te wissen. U kunt ook URL&#39;s toevoegen door deze in de keuzelijst URL te typen of te plakken. u hoeft de sjabloon niet vooraf in te stellen.
+   `https://sample.scene7.com/is/image/Company/Backpack_B?$s7product$`
 
-Nadat u uw Malplaatje van de Invalidatie CDN hebt geselecteerd, en een ongeldig CDN verzoek gemaakt, zal een indicator in het gebruikersinterface verschijnen die u een schatting geeft van hoe lang het zal duren om het geheime voorgeheugen te ontruimen.
+   Klik in de keuzelijst URL op **Doorgaan** om de cache voor die specifieke URL-aanroep van de afbeelding te wissen. U kunt ook URL&#39;s toevoegen door deze in de keuzelijst URL te typen of te plakken. u hoeft de sjabloon niet vooraf in te stellen.
 
-Als er meerdere afbeeldingen zijn geselecteerd in SPS wanneer u op **Bestand** > CDN **ongeldig maken** klikt, wordt er naar elke afbeelding verwezen in de opgeslagen sjabloon-URL. Daarom kunt u CDN bepalen ongeldig Malplaatje dat van verwijzingen voorziet elke URL die op uw Website (zoals productdetail, onderzoeksresultaten, etc.) van verwijzingen voorziet. Wanneer u vervolgens een of meer afbeeldingen selecteert om ongeldig te worden gemaakt door het cachegeheugen, vullen de URL&#39;s automatisch de interface in.
+   Nadat u uw Malplaatje van de Invalidatie CDN hebt geselecteerd, en een ongeldig CDN verzoek gemaakt, zal een indicator in het gebruikersinterface verschijnen die u een schatting geeft van hoe lang het zal duren om het geheime voorgeheugen te ontruimen.
 
-Zie [Inhoud in cache plaatsen](scene7-platform-overview.md#content_caching).
+   Als er meerdere afbeeldingen zijn geselecteerd in Dynamic Media Classic wanneer u klikt op **Bestand** > CDN **ongeldig maken**, wordt er naar elke afbeelding verwezen in de opgeslagen sjabloon-URL. Daarom kunt u CDN bepalen ongeldig Malplaatje dat van verwijzingen voorziet elke URL die op uw Website (zoals productdetail, onderzoeksresultaten, etc.) van verwijzingen voorziet. Wanneer u vervolgens een of meer afbeeldingen selecteert om ongeldig te worden gemaakt door het cachegeheugen, vullen de URL&#39;s automatisch de interface in.
 
-Zie [Opnieuw gepubliceerde elementen en CDN-vertragingen](publishing-files.md#republished_assets_and_cdn_delays).
+   Zie [Inhoud in cache plaatsen](dmc-platform-overview.md#content_caching).
 
-**Bladeren**
+   Zie [Opnieuw gepubliceerde elementen en CDN-vertragingen](publishing-files.md#republished_assets_and_cdn_delays).
 
-**Met Projecten** tonen bepaalt u of Projecten beschikbaar zijn als een manier om uw Dynamic Media Klassieke elementen te ordenen. Zie Uw werk organiseren met Projecten.
+### Bladeren
 
-**Voorbeeldvideo-inhoud** tonen De weergave van eVideo-voorbeeldinhoud in- of uitschakelen.
+* **Projecten** tonen - Hiermee bepaalt u of Projecten beschikbaar zijn om uw Dynamic Media Klassieke middelen te organiseren. Zie Uw werk organiseren met Projecten.
 
-**Gegenereerde inhoud** in mappen weergeven. Hiermee wordt de inhoud weergegeven die uit een element is gegenereerd. Wanneer een PDF-bestand bijvoorbeeld tijdens het uploaden wordt gerasterd, maakt Dynamic Media Classic één afbeelding voor elke pagina in de oorspronkelijke PDF. Als Gegenereerde inhoud tonen is geselecteerd, wordt elke afbeelding die tijdens het uploaden van de oorspronkelijke PDF is gegenereerd, samen met de PDF weergegeven in de map waarnaar de PDF is geüpload.
+* **Voorbeeldvideo-inhoud** tonen - De weergave van eVideo-voorbeeldinhoud in- of uitschakelen.
 
-**Gecodeerde video** &#39;s standaard uitgeschakeld tonen.
+* **Gegenereerde inhoud** tonen - In mappen wordt de inhoud weergegeven die uit een element is gegenereerd. Wanneer een PDF-bestand bijvoorbeeld tijdens het uploaden wordt gerasterd, maakt Dynamic Media Classic één afbeelding voor elke pagina in de oorspronkelijke PDF. Als Gegenereerde inhoud tonen is geselecteerd, wordt elke afbeelding die tijdens het uploaden van de oorspronkelijke PDF is gegenereerd, samen met de PDF weergegeven in de map waarnaar de PDF is geüpload.
 
-Als u snel naar video&#39;s in het Scene7 Publishing System wilt zoeken en browsen zonder door talrijke gecodeerde derivaten van dezelfde video te navigeren, laat u deze optie uitgeschakeld (de standaardinstelling). Alleen de Master Video-miniatuur, de bronvideo die u hebt geüpload en gebruikt om alle afgeleiden te maken, en de bovenliggende Adaptive Video Set-miniatuur, die alle onderliggende afgeleiden van de gecodeerde videoset bevat, worden weergegeven in de gebruikersinterface.
+* **Gecodeerde video** &#39;s tonen - Standaard uitgeschakeld (uit).
 
-U kunt echter wel toegang krijgen tot individuele gecodeerde video&#39;s via de hoofdvideo of de adaptieve videoset. Dubbelklik hiertoe op de miniatuurafbeelding van de video om de gedetailleerde weergave te openen. Klik vervolgens op **Gecodeerde video** &#39;s in het rechterdeelvenster om alle onderliggende video&#39;s te openen.
+   Als u snel naar video&#39;s in Dynamic Media Classic wilt zoeken en deze wilt zoeken zonder door een groot aantal gecodeerde derivaten van dezelfde video te navigeren, schakelt u deze optie uit (standaard). Alleen de Master Video-miniatuur, de bronvideo die u hebt geüpload en gebruikt om alle afgeleiden te maken, en de bovenliggende Adaptive Video Set-miniatuur, die alle onderliggende afgeleiden van de gecodeerde videoset bevat, worden weergegeven in de gebruikersinterface.
 
-U kunt ook **Bestand > Opnieuw verwerken** gebruiken om meer gecodeerde &#39;onderliggende&#39; video&#39;s rechtstreeks vanuit een adaptieve videoset te maken. Scene7 het Publiceren Systeem vindt automatisch de &quot;ouder&quot;HoofdVideo van de Aangepaste VideoReeks en gebruikt dat als bronvideo voor transcodering. Wanneer u de nieuwe individuele gecodeerde video&#39;s opslaat, worden deze echter niet weergegeven wanneer u doorzoekt of bladert. Ze zijn echter nog steeds toegankelijk via het tabblad Gecodeerde video&#39;s in de gedetailleerde weergave.
+   U kunt echter wel toegang krijgen tot individuele gecodeerde video&#39;s uit de Master video of de adaptieve videoset. Dubbelklik hiertoe op de miniatuurafbeelding van de video om de gedetailleerde weergave te openen. Klik vervolgens op **Gecodeerde video** &#39;s in het rechterdeelvenster om alle onderliggende video&#39;s te openen.
 
-Zie Video [](uploading-encoding-videos.md#uploading_and_encoding_videos)uploaden en transcoderen.
+   U kunt ook **Bestand > Opnieuw verwerken** gebruiken om meer gecodeerde &#39;onderliggende&#39; video&#39;s rechtstreeks vanuit een adaptieve videoset te maken. Met Dynamic Media Classic wordt automatisch de &quot;bovenliggende&quot; Master video van de adaptieve videoret gevonden en wordt die gebruikt als de bronvideo voor transcodering. Wanneer u de nieuwe individuele gecodeerde video&#39;s opslaat, worden deze echter niet weergegeven wanneer u doorzoekt of bladert. Ze zijn echter nog steeds toegankelijk via het tabblad Gecodeerde video&#39;s in de gedetailleerde weergave.
 
-Selecteer Gecodeerde video&#39;s **** tonen als u wilt doorgaan met de toegang tot al uw gecodeerde video-derivaten tijdens het zoeken en bladeren.
+   Zie Video [](uploading-encoding-videos.md#uploading_and_encoding_videos)uploaden en transcoderen.
 
-Er zijn bepaalde acties in het menu Opbouwen die alleen werken, of optioneel werken, met afzonderlijke video&#39;s. Met deze functie is het nodig om alle gecodeerde video-derivaten weer te geven waaruit u kunt kiezen, ongeacht de manier waarop u Gecodeerde video&#39;s **tonen instelt**. De acties van de Bouwstijl die de **Show Coded Video** plaatsen met voeten treden omvatten de Aangepaste **VideoReeksen**, en **eCatalogs**.
+   Selecteer Gecodeerde video&#39;s **** tonen als u wilt doorgaan met de toegang tot al uw gecodeerde video-derivaten tijdens het zoeken en bladeren.
 
->[Opmerking]
->
->Als u geen het Publiceren Scene7 Systeem gebruikte om uw videoactiva te uploaden en te coderen, toont de Classic van Dynamic Media al uw individuele gecodeerde video&#39;s, zelfs als deze optie wordt geschrapt.
+   Er zijn bepaalde acties in het menu Opbouwen die alleen werken, of optioneel werken, met afzonderlijke video&#39;s. Met deze functie is het nodig om alle gecodeerde video-derivaten weer te geven waaruit u kunt kiezen, ongeacht de manier waarop u Gecodeerde video&#39;s **tonen instelt**. De acties van de Bouwstijl die de **Show Coded Video** plaatsen met voeten treden omvatten de Aangepaste **VideoReeksen**, en **eCatalogs**.
 
-**Knop** Submappen vernieuwen inschakelen of uitschakelen van de weergave van de knop Submappen vernieuwen.
+   >[Opmerking]
+   >
+   >Als u Dynamic Media Classic niet hebt gebruikt om uw video-elementen te uploaden en te coderen, toont Dynamic Media Classic al uw individuele gecodeerde video&#39;s, zelfs als deze optie is uitgeschakeld.
 
-**Klassieke FTP-account voor Dynamic Media**
+* **Knop** Submappen vernieuwen tonen - De weergave van de knop Submappen vernieuwen in- of uitschakelen.
 
-**Server** geeft uw FTP-accountserver weer.
+### Klassieke FTP-account voor Dynamic Media
 
-**Gebruikersnaam** geeft de gebruikersnaam van uw FTP-account weer.
+* **Server** - Hier wordt de FTP-accountserver weergegeven.
 
-**Uploaden naar toepassing**
+* **Gebruikersnaam** - Hier wordt de gebruikersnaam van uw FTP-account weergegeven.
 
-**Met de optie Afbeeldingen** Dynamic Media overschrijven staat u niet toe dat twee bestanden dezelfde naam hebben. Scene7 het Publiceren van identiteitskaart van het Systeem van elk punt (het beeldnaam minus filename uitbreiding) moet uniek zijn. Vanwege deze regel heeft het dialoogvenster Uploaden een optie Overschrijven. Het exacte effect van deze optie is afhankelijk van de opgegeven optie Afbeeldingen overschrijven. Met deze opties geeft u op hoe vervangende afbeeldingen worden geüpload: of ze de oorspronkelijke afbeeldingen vervangen of dubbele afbeeldingen worden. Dubbele afbeeldingen krijgen de naam &quot;-1&quot;. (De naam van bijvoorbeeld stoel.tif wordt gewijzigd in stoel-1.tif). Deze opties zijn van toepassing op afbeeldingen die naar een andere map zijn geüpload dan het origineel of afbeeldingen met een andere bestandsnaamextensie dan het origineel (zoals JPG, TIF of PNG). (Zie De optie Afbeeldingen overschrijven gebruiken.)
+### Uploaden naar toepassing
 
-**Overschrijven in huidige map, dezelfde naam/extensie voor basisafbeelding**
+* **Afbeeldingen** overschrijven - In Dynamic Media Classic kunnen twee bestanden niet dezelfde naam hebben. De klassieke Dynamic Media-id van elk item (de afbeeldingsnaam minus de bestandsextensie) moet uniek zijn. Vanwege deze regel heeft het dialoogvenster Uploaden een optie Overschrijven. Het exacte effect van deze optie is afhankelijk van de opgegeven optie Afbeeldingen overschrijven. Met deze opties geeft u op hoe vervangende afbeeldingen worden geüpload: of ze de oorspronkelijke afbeeldingen vervangen of dubbele afbeeldingen worden. Dubbele afbeeldingen krijgen de naam &quot;-1&quot;. (De naam van bijvoorbeeld stoel.tif wordt gewijzigd in stoel-1.tif). Deze opties zijn van toepassing op afbeeldingen die naar een andere map zijn geüpload dan het origineel of afbeeldingen met een andere bestandsnaamextensie dan het origineel (zoals JPG, TIF of PNG). (Zie De optie Afbeeldingen overschrijven gebruiken.)
 
-Deze optie is de strengste regel voor vervanging. Hiervoor moet u de vervangende afbeelding uploaden naar dezelfde map als het origineel en moet de vervangende afbeelding dezelfde bestandsnaamextensie hebben als het origineel. Als niet aan deze vereisten wordt voldaan, wordt een dubbel gecreeerd.
+   * **Overschrijven in huidige map, dezelfde naam/extensie** voor basisafbeeldingen - Deze optie is de strengste regel voor vervanging. Hiervoor moet u de vervangende afbeelding uploaden naar dezelfde map als het origineel en moet de vervangende afbeelding dezelfde bestandsnaamextensie hebben als het origineel. Als niet aan deze vereisten wordt voldaan, wordt een dubbel gecreeerd.
 
-**Overschrijven in huidige map, dezelfde naam van basiselement, ongeacht de extensie**
+   * **Overschrijven in de huidige map, dezelfde naam van het basiselement, ongeacht de extensie** - Vereist dat u de vervangende afbeelding uploadt naar dezelfde map als het origineel, maar de extensie van de bestandsnaam kan afwijken van het origineel. bijvoorbeeld stoel.tif vervangt stoel.jpg.
 
-U moet de vervangende afbeelding uploaden naar dezelfde map als het origineel, maar de bestandsnaamextensie kan afwijken van het origineel. bijvoorbeeld stoel.tif vervangt stoel.jpg.
+   * **Overschrijven in een map, dezelfde naam/extensie** voor basiselementen - Vereist dat de vervangende afbeelding dezelfde bestandsnaamextensie heeft als de oorspronkelijke afbeelding (bijvoorbeeld stoel.jpg moet stoel.jpg vervangen, niet stoel.tif). U kunt de vervangende afbeelding echter naar een andere map uploaden dan het origineel. De bijgewerkte afbeelding staat in de nieuwe map; kan het bestand niet meer vinden op de oorspronkelijke locatie
 
-**Overschrijven in een willekeurige map, dezelfde naam/extensie van basiselement**
+   * **Overschrijven in elke map, dezelfde naam van het basiselement, ongeacht de extensie** . Deze optie is de meest inclusieve vervangingsregel. U kunt een vervangende afbeelding uploaden naar een andere map dan het origineel, een bestand met een andere bestandsnaamextensie uploaden en het oorspronkelijke bestand vervangen. Als het oorspronkelijke bestand zich in een andere map bevindt, bevindt de vervangende afbeelding zich in de nieuwe map waarnaar het is geüpload.
 
-Vereist dat de vervangende afbeelding dezelfde bestandsnaamextensie heeft als de oorspronkelijke afbeelding (bijvoorbeeld stoel.jpg moet de naam stoel.jpg vervangen, niet stoel.tif). U kunt de vervangende afbeelding echter naar een andere map uploaden dan het origineel. De bijgewerkte afbeelding staat in de nieuwe map; kan het bestand niet meer vinden op de oorspronkelijke locatie
+* **Publiceren** behouden - Geeft op of een vervangende afbeelding die is geüpload naar Dynamic Media Classic, de instelling Klaar voor publicatie behoudt van de afbeelding die wordt vervangen of dat de instelling wordt opgegeven bij het uploaden.
 
-**Overschrijven in een willekeurige map, dezelfde naam van basiselement, ongeacht de extensie**
+* **Standaardkleurprofielen** - Hiermee geeft u de kleurprofielen op die worden toegepast als onderdeel van de standaardopties voor kleurprofiel wanneer u CMYK-afbeeldingen toevoegt.
 
-Deze optie is de meest inclusieve vervangingsregel. U kunt een vervangende afbeelding uploaden naar een andere map dan het origineel, een bestand met een andere bestandsnaamextensie uploaden en het oorspronkelijke bestand vervangen. Als het oorspronkelijke bestand zich in een andere map bevindt, bevindt de vervangende afbeelding zich in de nieuwe map waarnaar het is geüpload.
+* **Standaardopties** voor uploaden - Hiermee opent u het dialoogvenster Opties voor uploaden. Hier kunt u de standaardopties voor uploaden opgeven. Zie Opties voor uploaden voor informatie over deze opties.
 
-**Met Publiceren** behouden wordt opgegeven of een vervangende afbeelding die naar Dynamic Media Classic is geüpload, de instelling Klaar voor publicatie behoudt van de afbeelding die wordt vervangen of de instelling bij het uploaden wordt opgegeven.
+### Afbeeldingskaarteditor, naar toepassing
 
-**Met Standaardkleurprofielen** geeft u de kleurprofielen op die worden toegepast als onderdeel van de standaardopties voor kleurprofiel wanneer u CMYK-afbeeldingen toevoegt.
+* **Standaard HREF** voor afbeeldingstoewijzing - Hiermee definieert u de standaard-URL die wordt gebruikt voor de href-kolom voor afbeeldingstoewijzing. Deze URL is de standaard-URL die u ziet wanneer u nieuwe afbeeldingen met hyperlinks maakt.
 
-**Met Standaardopties** voor uploaden wordt het dialoogvenster Opties voor uploaden geopend, waarin u de standaardopties voor uploaden kunt opgeven. Zie Opties voor uploaden voor informatie over deze opties.
+* **Standaardsjabloon** voor afbeelding toewijzen - Definieert standaard JavaScript voor de href-sjabloon voor afbeeldingstoewijzing. U kunt hier aangepaste code instellen die wordt uitgevoerd wanneer u op een afbeelding met hyperlinks klikt.
 
-**Afbeeldingskaarteditor, naar toepassing**
+### Overige instellingen, naar toepassing
 
-**Standaard HREF** voor afbeeldingstoewijzing definieert de standaard-URL die wordt gebruikt voor de href-kolom voor afbeeldingstoewijzing. Deze URL is de standaard-URL die u ziet wanneer u nieuwe afbeeldingen met hyperlinks maakt.
-
-**Standaardsjabloon** voor afbeelding toewijzen definieert standaard JavaScript voor de href-sjabloon voor afbeeldingstoewijzing. U kunt hier aangepaste code instellen die wordt uitgevoerd wanneer u op een afbeelding met hyperlinks klikt.
-
-**Overige instellingen, naar toepassing**
-
-**Waarschuwingen** in de prullenbak kunnen automatisch binnen zeven dagen worden verwijderd. Selecteer &quot;E-mails verzenden voordat de prullenmand automatisch wordt verwijderd&quot; als u wilt dat meldingen worden verzonden naar bedrijfsbeheerders wanneer elementen in de prullenmand vier dagen verwijderd zijn van definitieve verwijdering. Zie De map Prullenbak beheren.
+* **Waarschuwingen** van prullenmand kunnen worden opgeschoond - Elementen in de prullenmand worden automatisch binnen zeven dagen verwijderd. Selecteer &quot;E-mails verzenden voordat de prullenmand automatisch wordt verwijderd&quot; als u wilt dat meldingen worden verzonden naar bedrijfsbeheerders wanneer elementen in de prullenmand vier dagen verwijderd zijn van definitieve verwijdering. Zie De map Prullenbak beheren.
 
 ## De optie Afbeeldingen overschrijven gebruiken {#using-the-overwrite-images-option}
 
-Met Dynamic Media Classic kunnen twee bestanden niet dezelfde naam hebben. Scene7 het Publiceren van identiteitskaart van het Systeem van elk punt (het beeldnaam minus filename uitbreiding) moet uniek zijn. Vanwege deze regel bevat het dialoogvenster Uploaden opties voor het overschrijven van afbeeldingen. Het nauwkeurige effect van deze optie hangt van het plaatsen voor de Interne Montages van het Systeem van Scene7 van elk bedrijf af.
+Met Dynamic Media Classic kunnen twee bestanden niet dezelfde naam hebben. De klassieke Dynamic Media-id van elk item (de afbeeldingsnaam minus de bestandsextensie) moet uniek zijn. Vanwege deze regel bevat het dialoogvenster Uploaden opties voor het overschrijven van afbeeldingen. Het exacte effect van deze optie is afhankelijk van een instelling voor de Klassieke interne instellingen van de Dynamic Media van elk bedrijf.
 
 Als u eerder afbeeldingen hebt geüpload en vervolgens de originele bestanden hebt gewijzigd (of deze hebt vervangen), bepaalt de gekozen optie Overschrijven hoe de afbeeldingen worden vervangen door Dynamic Media Klassiek. Er wordt geen informatie over de afbeelding gewijzigd, maar de oude wordt vervangen door de nieuwe afbeelding. Als de map ook afbeeldingen bevat die nog niet in Dynamic Media Classic staan, worden deze afbeeldingen toegevoegd.
 
@@ -160,7 +154,7 @@ Als u deze optie uitschakelt, worden alle afbeeldingen met dezelfde bestandsname
 
 ## Voorinstellingen afbeelding {#image-presets}
 
-Het scherm Voorinstellingen afbeelding is bedoeld voor het maken en bewerken van voorinstellingen afbeelding. Met voorinstellingen voor afbeeldingen kunnen Dynamic Media Classic afbeeldingen in verschillende formaten van dezelfde hoofdafbeelding leveren. Elke voorinstelling voor afbeeldingen vertegenwoordigt een vooraf gedefinieerde verzameling opdrachten voor het vergroten of verkleinen en opmaken van afbeeldingen. Wanneer u een voorinstelling voor afbeeldingen maakt, kiest u een grootte voor het leveren van de afbeelding. U kiest ook opmaakopdrachten, zodat de weergave van de afbeelding wordt geoptimaliseerd wanneer de afbeelding wordt geleverd voor weergave.
+Het scherm Voorinstellingen afbeelding is bedoeld voor het maken en bewerken van voorinstellingen afbeelding. Met voorinstellingen voor afbeeldingen kunnen Dynamic Media Klassiek afbeeldingen dynamisch leveren in verschillende formaten van dezelfde master afbeelding. Elke voorinstelling voor afbeeldingen vertegenwoordigt een vooraf gedefinieerde verzameling opdrachten voor het vergroten of verkleinen en opmaken van afbeeldingen. Wanneer u een voorinstelling voor afbeeldingen maakt, kiest u een grootte voor het leveren van de afbeelding. U kiest ook opmaakopdrachten, zodat de weergave van de afbeelding wordt geoptimaliseerd wanneer de afbeelding wordt geleverd voor weergave.
 
 Beheerders kunnen voorinstellingen maken voor het exporteren van elementen. Gebruikers kunnen bij het exporteren van afbeeldingen een voorinstelling kiezen. Hiermee worden de afbeeldingen ook opnieuw opgemaakt volgens de specificaties die de beheerder heeft opgegeven.
 
@@ -257,7 +251,7 @@ Zie Een afbeelding [verscherpen](sharpening-image.md#sharpening_an_image)voor me
 
 **Kleur** kies de volgende opties:
 
-**Uitvoerkleurprofiel** Selecteer Standaard gebruiken of een van de ICC-kleurprofielen die beschikbaar zijn op het Publishing System Scene7.
+**Uitvoerkleurprofiel** Selecteer Standaard gebruiken of een van de ICC-kleurprofielen die beschikbaar zijn in de klassieke Dynamic Media.
 
 Zie ook [ICC-profielen](icc-profiles.md#icc_profiles).
 
@@ -278,11 +272,11 @@ Zie ook [ICC-profielen](icc-profiles.md#icc_profiles).
 
    * Klik op **Bewerken** en geef nieuwe opties op in het dialoogvenster Voorinstelling bewerken.
    * Klik op **Verwijderen** om de voorinstelling uit de lijst te verwijderen.
-   * Hef de selectie van de Actieve controledoos naast een vooraf ingestelde naam op om het uit het volledige Scene7 het Publiceren de gebruikersinterface van het Systeem voor gebruikers te verwijderen MediaPortal.
+   * Schakel het selectievakje Actief naast de naam van een voorinstelling uit als u deze wilt verwijderen uit de volledige klassieke gebruikersinterface van Dynamic Media voor MediaPortal-gebruikers.
 
 ## Aangepaste videovoorinstellingen activeren of deactiveren {#activating-or-deactivating-adaptive-video-presets}
 
-Dynamic Media Classic biedt voorinstellingen voor adaptieve videocodering. Het is een hoofdlijst met voorinstellingen waarmee zowel voorinstellingen voor 16:9 adaptieve video als voor 4:3 adaptieve video in één groep worden gecombineerd. Deze vooraf gedefinieerde voorinstellingen weerspiegelen de meest gangbare coderingsinstellingen en zijn geoptimaliseerd voor afspelen op mobiele doelapparaten, tablets en desktops.
+Dynamic Media Classic biedt voorinstellingen voor adaptieve videocodering. Het is een master lijst met voorinstellingen die zowel voorinstellingen voor 16:9 adaptieve video als voor 4:3 adaptieve video in één groep verenigt. Deze vooraf gedefinieerde voorinstellingen weerspiegelen de meest gangbare coderingsinstellingen en zijn geoptimaliseerd voor afspelen op mobiele doelapparaten, tablets en desktops.
 
 Alleen coderingsvoorinstellingen voor Adaptieve video worden standaard geactiveerd (ingeschakeld of ingeschakeld). U kunt het desgewenst deactiveren. Inactieve adaptieve videovoorinstellingen worden niet als een selecteerbare optie weergegeven in de sectie eVideo van het dialoogvenster Taakopties uploaden.
 
@@ -290,7 +284,7 @@ Zie Video&#39;s [uploaden en coderen](uploading-encoding-videos.md#uploading_and
 
 **Aangepaste videovoorinstellingen activeren of deactiveren**
 
-1. In de hoger-juiste hoek van het het Publiceren Scene7 Systeem, klik **Opstelling** > de Opstelling **van de** Toepassing > **Video vooraf instelt** > **Aanpassings Video vooraf instelt**.
+1. Klik in de rechterbovenhoek van Dynamic Media Classic op **Instellen** > **Toepassingsinstelling** > **Voorinstellingen** video > **Voorinstellingen** voor adaptieve video.
 1. Schakel op de pagina Voorinstellingen adaptieve video het selectievakje naast de naam van een voorinstelling uit om de voorinstelling te verwijderen uit de lijst EVideo-opties in het dialoogvenster Taakopties uploaden.
 1. Klik op **Sluiten**.
 
@@ -336,7 +330,7 @@ Als u een coderingsvoorinstelling wilt kiezen, klikt u rechtsonder op de pagina 
    * Kies een coderingsvoorinstelling op basis van de resolutiegrootte en de bandbreedte waarmee u de video wilt afspelen.
    * U kunt Adaptieve videocodering en een of meer coderingsvoorinstellingen per video selecteren. U kunt bijvoorbeeld een bestand coderen voor zowel desktop als mobiel in één uploadtaak.
 
-Nadat u op Uploaden **starten** hebt geklikt, wordt het originele hoofdvideobestand geüpload en worden gecodeerde bestanden gegenereerd vanuit het hoofdbestand.
+Nadat u op Uploaden **starten** hebt geklikt, wordt het originele master videobestand geüpload en worden gecodeerde bestanden gegenereerd vanuit het master bestand.
 
 ### Voorinstellingsopties voor codering {#about-encoding-preset-options}
 
@@ -370,7 +364,7 @@ Een coderingsvoorinstelling die werkt met een willekeurige hoogte-breedteverhoud
 
 ### Adaptieve videocodering (16:9 of 4:3), videovoorinstellingen {#adaptive-video-encoding-or-video-presets}
 
-Deze aangepaste videocoderingsvoorinstellingen combineren een reeks afzonderlijke coderingsvoorinstellingen die automatisch voor u worden geselecteerd op basis van de hoogte-breedteverhouding van de video die u hebt geüpload. Als u bijvoorbeeld een 4:3-video uploadt, wordt deze automatisch gecodeerd met alle vijf voorinstellingen van 4:3 die zich in de lijst met hoofdvoorinstellingen in de optie **Adaptieve videocodering (16:9 of 4:3)** bevinden.
+Deze aangepaste videocoderingsvoorinstellingen combineren een reeks afzonderlijke coderingsvoorinstellingen die automatisch voor u worden geselecteerd op basis van de hoogte-breedteverhouding van de video die u hebt geüpload. Als u bijvoorbeeld een 4:3-video uploadt, wordt deze automatisch gecodeerd met alle vijf voorinstellingen van 4:3 die zich in de lijst met master voorinstellingen in de optie **Adaptieve videocodering (16:9 of 4:3)** bevinden.
 
 Zie [Informatie over vooraf ingestelde coderingsopties](application-setup.md#about_encoding_preset_options)voor informatie over parameters voor coderingsopties.
 
@@ -446,7 +440,7 @@ Zie [Informatie over de coderingsvoorinstellingsopties](application-setup.md#abo
 
 >[!NOTE]
 >
->**Bericht** bij einde levensduur van Flash-viewers - Vanaf 31 januari 2017 wordt de ondersteuning voor het Flash-viewerplatform officieel beëindigd door het Adobe Scene7 Publishing System. Raadpleeg de volgende website met veelgestelde vragen voor meer informatie over deze belangrijke wijziging: [https://docs.adobe.com/content/docs/en/aem/6-1/administer/integration/marketing-cloud/scene7/flash-eol.html](https://docs.adobe.com/content/docs/en/aem/6-1/administer/integration/marketing-cloud/scene7/flash-eol.html).
+>**Bericht** bij einde levensduur van Flash-viewers - Vanaf 31 januari 2017 wordt ondersteuning voor het Flash-viewerplatform door Adobe Dynamic Media Classic officieel beëindigd. Raadpleeg de volgende website met veelgestelde vragen voor meer informatie over deze belangrijke wijziging: [https://docs.adobe.com/content/docs/en/aem/6-1/administer/integration/marketing-cloud/scene7/flash-eol.html](https://docs.adobe.com/content/docs/en/aem/6-1/administer/integration/marketing-cloud/scene7/flash-eol.html).
 
 Een *voorinstelling* voor viewers is een verzameling instellingen die bepalen hoe gebruikers multimedia-elementen op hun computerschermen en mobiele apparaten weergeven. Als beheerder kunt u Viewer-voorinstellingen maken. Er zijn instellingen beschikbaar voor een array met viewerconfiguratieopties. U kunt bijvoorbeeld de weergavegrootte, het zoomgedrag, de kleurenschema&#39;s, de randen en de lettertypen van de viewer wijzigen.
 
@@ -494,7 +488,7 @@ Als de hoofdafbeelding bijvoorbeeld 350 x 350 pixels groot is, met een zoomfacto
 
 ### Dynamic Media Classic Viewer Preset-compatibiliteitsmatrix {#scene-viewer-preset-compatibility-matrix}
 
-**Eindbericht** voor Flash-viewers: Vanaf 31 januari 2017 is de ondersteuning voor het Flash-viewerplatform door het Adobe Scene7 Publishing System officieel beëindigd.
+**Eindbericht** voor Flash-viewers: Vanaf 31 januari 2017 is de ondersteuning voor het Flash-viewerplatform door Adobe Dynamic Media Classic officieel beëindigd.
 
 Raadpleeg de volgende website met veelgestelde vragen voor meer informatie over deze belangrijke wijziging: [https://docs.adobe.com/content/docs/en/aem/6-1/administer/integration/marketing-cloud/scene7/flash-eol.html](https://docs.adobe.com/content/docs/en/aem/6-1/administer/integration/marketing-cloud/scene7/flash-eol.html).
 
@@ -613,7 +607,7 @@ Zie Een HTML5 Viewer-voorinstelling [](application-setup.md#exporting_an_html5_v
 
 **Viewer-voorinstellingen toevoegen en bewerken**
 
-1. In de hoger-juiste hoek van het het Publiceren Scene7 Systeem, klik **Opstelling** > de Voorinstellingen **van de** Kijker.
+1. Klik in de rechterbovenhoek van Dynamic Media Classic op **Instellen** > Voorinstellingen **viewer**.
 
    U kunt filteren op de lijst met voorinstellingen. Als u bijvoorbeeld alleen voorinstellingen voor videoviewers wilt weergeven, selecteert u Video-viewer in het vervolgkeuzemenu Viewers op de werkbalk direct boven de tabel.
 
@@ -647,7 +641,7 @@ Zie Een HTML5 Viewer-voorinstelling [](application-setup.md#exporting_an_html5_v
 
 U kunt een bestaande HTML5 Viewer-voorinstelling exporteren en gebruiken als basis voor het maken van een nieuwe HTML5 Viewer-voorinstelling. Deze exportoptie is handig omdat u de viewer niet helemaal opnieuw hoeft te maken. In plaats daarvan exporteert u een voorinstelling die er zo uitziet en zich dicht bij u gedraagt. Vervolgens kunt u deze voorinstelling als uitgangspunt gebruiken om ontwerpaanpassingen aan te brengen.
 
-Merk op dat alle standaard, uit-van-doos vooraf ingestelde CSS dossiers van de Kijker in SPS relatieve beelddienende wegen gebruiken die aan activa richten die op `Scene7SharedAssets`worden gevestigd. Hieronder ziet u bijvoorbeeld een relatief pad naar een afbeeldingselement in een CSS-bestand met een Viewer-voorinstelling op `Scene7SharedAsset`: `.s7videoviewer .s7fullscreenbutton[state][selected] { background-image: url(/is/image/Scene7SharedAssets/FullScreenButton_dark_sprite?scl=1&fmt=png-alpha); }`Als u echter CSS-bestanden van de viewer op uw eigen site host, moet u deze relatieve afbeeldingspad oplossen door in uw eigen omgeving een expliciet pad naar de afbeeldingsserver te gebruiken. Als u het relatieve pad boven naar een expliciet pad wilt bijwerken, ziet het er ter illustratie als volgt uit, waar `https://s7d1.scene7.com` het directe pad naar de afbeeldingsserver zich bevindt: `https://s7d1.scene7.com/is/image/Scene7SharedAssets/FullScreenButton_dark_sprite?scl=1&fmt=png-alpha`
+Houd er rekening mee dat alle standaard CSS-bestanden met voorinstellingen voor viewers in Dynamic Media Classic relatieve paden gebruiken die verwijzen naar elementen op `Scene7SharedAssets`de Classic. Hieronder ziet u bijvoorbeeld een relatief pad naar een afbeeldingselement in een CSS-bestand met een Viewer-voorinstelling op `Scene7SharedAsset`: `.s7videoviewer .s7fullscreenbutton[state][selected] { background-image: url(/is/image/Scene7SharedAssets/FullScreenButton_dark_sprite?scl=1&fmt=png-alpha); }`Als u echter CSS-bestanden van de viewer op uw eigen site host, moet u deze relatieve afbeeldingspad oplossen door in uw eigen omgeving een expliciet pad naar de afbeeldingsserver te gebruiken. Als u het relatieve pad boven naar een expliciet pad wilt bijwerken, ziet het er ter illustratie als volgt uit, waar `https://s7d1.scene7.com` het directe pad naar de afbeeldingsserver zich bevindt: `https://s7d1.scene7.com/is/image/Scene7SharedAssets/FullScreenButton_dark_sprite?scl=1&fmt=png-alpha`
 
 **Een voorinstelling voor een HTML5-viewer exporteren**
 
@@ -670,7 +664,7 @@ https://s7d1.scene7.com/is/image/Scene7SharedAssets/FullScreenButton_dark_sprite
    Na het exporteren krijgt u een CSS-bestand. Download en decomprimeer het bestand.
 
 1. Open het CSS-bestand in een CSS-editor, breng de wijzigingen aan en sla het bestand op.
-1. Upload het CSS dossier aan het Publiceren Scene7 Systeem.
+1. Upload het CSS-bestand naar Dynamic Media Classic.
 
    Zie Bestanden [uploaden](uploading-files.md#uploading_files).
 
@@ -684,7 +678,7 @@ https://s7d1.scene7.com/is/image/Scene7SharedAssets/FullScreenButton_dark_sprite
 
 ### Viewer-voorinstellingen activeren of deactiveren {#activating-or-deactivating-viewer-presets}
 
-Als u een URL wilt maken voor het weergeven van elementen, opent u de vervolgkeuzelijst Voorinstellingen in het dialoogvenster Voorvertoning, selecteert u een voorinstelling voor de viewer en klikt u op URL kopiëren (zie De URL van een voorinstelling [voor de viewer](application-setup.md#copying_the_url_of_a_viewer_preset)kopiëren). Deze lijst met voorinstellingen bevat voorinstellingen voor viewers die beheerders toevoegen en beheren in het scherm Voorinstellingen viewer. Alle actieve voorinstellingen voor de eCatalog-viewer worden bijvoorbeeld weergegeven in de vervolgkeuzelijst Voorinstellingen in het dialoogvenster Voorvertoning wanneer een gebruiker een voorvertoning van een eCatalog weergeeft.
+Als u een URL wilt maken voor het weergeven van elementen, opent u de vervolgkeuzelijst Voorinstellingen in het dialoogvenster Voorvertoning, selecteert u een voorinstelling voor de viewer en klikt u op URL kopiëren (zie De URL van een voorinstelling [voor de viewer](application-setup.md#copying_the_url_of_a_viewer_preset)kopiëren). Deze lijst Voorinstellingen bevat voorinstellingen voor viewers die beheerders toevoegen en beheren in het scherm Voorinstellingen viewer. Alle actieve voorinstellingen voor de eCatalog-viewer worden bijvoorbeeld weergegeven in de vervolgkeuzelijst Voorinstellingen in het dialoogvenster Voorvertoning wanneer een gebruiker een voorvertoning van een eCatalog weergeeft.
 
 Tenzij u de Viewer-voorinstellingen in het scherm Voorinstellingen viewer deactiveert, kan de vervolgkeuzelijst Voorinstellingen in het dialoogvenster Voorvertoning vol raken.
 
@@ -706,12 +700,15 @@ De URL wordt naar het klembord gekopieerd. U kunt deze desgewenst gebruiken in d
 
    * Klik op **Rasterweergave**. Dubbelklik in het deelvenster Asset Browse op één element om dit te openen in de gedetailleerde weergave. Klik in de URL&#39;s en in het deelvenster Code insluiten aan de rechterkant op URL **** kopiëren rechts van de gewenste viewer.
    * Klik op **Rasterweergave**. Selecteer één element in het deelvenster Asset Browse en klik vervolgens onder de miniatuurafbeelding op **Voorvertoning** > **Viewer List**.
+
    Klik op URL **** kopiëren onder de kolom Handelingen van de tabel in de Viewer List.
 
    * Klik op **Lijstweergave**. Selecteer één element in het deelvenster Asset Browse en klik vervolgens rechts van de miniatuurafbeelding op **Voorvertoning** > **Viewer List**.
+
    Klik op URL **** kopiëren onder de kolom Handelingen van de tabel in de Viewer List.
 
    * Klik op **Rasterweergave**, **Lijstweergave** of **Gedetailleerde weergave**. Klik op dezelfde werkbalk op **Voorvertoning** > **Viewer List**.
+
    Klik op URL **** kopiëren onder de kolom Handelingen van de tabel in de Viewer List.
 
 ### De insluitcode van een viewervoorinstelling kopiëren {#copying-the-embed-code-of-a-viewer-preset}
@@ -727,12 +724,15 @@ Het bewerken van de code is niet toegestaan in het dialoogvenster Code insluiten
 
    * Klik op **Rasterweergave**. Dubbelklik in het deelvenster Asset Browse op één element om dit te openen in de gedetailleerde weergave. Klik in het deelvenster URL&#39;s aan de rechterkant op Code **** insluiten.
    * Klik op **Rasterweergave**. Selecteer één element in het deelvenster Asset Browse en klik vervolgens onder de miniatuurafbeelding op **Voorvertoning** > **Viewer List**.
+
    Klik op de pagina Viewer List onder de kolom Acties van de tabel op Code **** insluiten.
 
    * Klik op **Lijstweergave**. Selecteer één element in het deelvenster Asset Browse en klik vervolgens rechts van de miniatuurafbeelding op **Voorvertoning** > **Viewer List**.
+
    Klik op de pagina Viewer List onder de kolom Acties van de tabel op Code **** insluiten.
 
    * Klik op **Rasterweergave**, **Lijstweergave** of **Gedetailleerde weergave**. Klik op dezelfde werkbalk op **Voorvertoning** > **Viewer List**.
+
    Klik op de pagina Viewer List onder de kolom Acties van de tabel op Code **** insluiten.
 
 1. Klik in het dialoogvenster Code insluiten op **Kopiëren naar klembord**.
@@ -740,7 +740,7 @@ Het bewerken van de code is niet toegestaan in het dialoogvenster Code insluiten
 
 ## Standaardviewers configureren {#configuring-default-viewers}
 
-U kunt Standaardkijkers gebruiken om de standaardkijker te vormen die met activa wordt geassocieerd wanneer u Voorproef in het Publiceren Scene7 Systeem gebruikt. U kunt de standaardvoorbeeldervaring instellen voor de volgende elementtypen:
+U kunt Standaardviewers gebruiken om de standaardviewer te configureren die aan een element is gekoppeld wanneer u Voorvertoning in Dynamic Media Klassiek gebruikt. U kunt de standaardvoorbeeldervaring instellen voor de volgende elementtypen:
 
 * Afbeelding
 * Video
@@ -816,9 +816,9 @@ Maak een voorinstelling voor metagegevens voor elke set waarden voor metagegeven
 
 ## Door gebruiker gedefinieerde velden {#user-defined-fields}
 
-Een beheerder van Media Portal of een Beheerder van het Bedrijf kan douane, user-defined meta-gegevensgebieden tot stand brengen. De gebieden van de douane kunnen u helpen activa in het het Publiceren Scene7 Systeem organiseren. U kunt de velden desgewenst als Actief markeren. Als deze optie is ingeschakeld, worden de namen van deze aangepaste metagegevensvelden weergegeven in het deelvenster Metagegevens in de gedetailleerde weergave. Gebruikers kunnen informatie invoeren in door de gebruiker gedefinieerde metagegevensvelden om elementen te beschrijven. Gebruikers kunnen ook een door de gebruiker gedefinieerd metagegevensveld als criterium gebruiken bij zoekopdrachten.
+Een beheerder van Media Portal of een Beheerder van het Bedrijf kan douane, user-defined meta-gegevensgebieden tot stand brengen. Met aangepaste velden kunt u elementen ordenen in Dynamic Media Classic. U kunt de velden desgewenst als Actief markeren. Als deze optie is ingeschakeld, worden de namen van deze aangepaste metagegevensvelden weergegeven in het deelvenster Metagegevens in de gedetailleerde weergave. Gebruikers kunnen informatie invoeren in door de gebruiker gedefinieerde metagegevensvelden om elementen te beschrijven. Gebruikers kunnen ook een door de gebruiker gedefinieerd metagegevensveld als criterium gebruiken bij zoekopdrachten.
 
-Een effectief gebruik van door de gebruiker gedefinieerde metagegevensvelden is het vertragen van de activeringstijd van een element voor een specifieke opstart of verkoop. U definieert een veld voor activering op basis van het type *Date*. Vervolgens kunt u met het deelvenster **Metagegevens** in de weergave **Details** of **Bestand** > Info **** bewerken opgeven wanneer het element wordt geactiveerd. Scene7 het Publiceren Systeem controleert de publicatiestatus van activa, en publicatiegeschiedenis. Als de publicatie niet binnen de activeringstijd valt, wordt de status Niet gepubliceerd weergegeven.
+Een effectief gebruik van door de gebruiker gedefinieerde metagegevensvelden is het vertragen van de activeringstijd van een element voor een specifieke opstart of verkoop. U definieert een veld voor activering op basis van het type *Date*. Vervolgens kunt u met het deelvenster **Metagegevens** in de weergave **Details** of **Bestand** > Info **** bewerken opgeven wanneer het element wordt geactiveerd. De Klassieke controles van Dynamic Media de publicatiestatus van een activa, en de publicatiegeschiedenis. Als de publicatie niet binnen de activeringstijd valt, wordt de status Niet gepubliceerd weergegeven.
 
 >[!NOTE]
 >
@@ -880,9 +880,9 @@ Klik op **Instellingen** > **Toepassingsinstelling** > **Metagegevens** > **Door
 
 ## Bestanden optimaliseren {#optimize-files}
 
-Aangezien u dossiers aan het het Publiceren Scene7 Systeem uploadt, optimaliseert het systeem hen voor opslag en het publiceren. Als het uploadproces wordt onderbroken, kunnen sommige afbeeldingen echter niet worden geoptimaliseerd. In dit geval wordt het bericht &quot;Afbeelding nog niet geoptimaliseerd&quot; weergegeven. U kunt deze bestanden echter optimaliseren als u een beheerder bent.
+Wanneer u bestanden uploadt naar de Dynamic Media Classic, worden deze geoptimaliseerd voor opslag en publicatie. Als het uploadproces wordt onderbroken, kunnen sommige afbeeldingen echter niet worden geoptimaliseerd. In dit geval wordt het bericht &quot;Afbeelding nog niet geoptimaliseerd&quot; weergegeven. U kunt deze bestanden echter optimaliseren als u een beheerder bent.
 
-Het Publiceren Scene7 Systeem zoekt door uw dossiers en optimaliseert slechts die beelden die niet volledig eerder werden geoptimaliseerd.
+Met Dynamic Media Classic doorzoekt u uw bestanden en optimaliseert u alleen de afbeeldingen die nog niet volledig zijn geoptimaliseerd.
 
 1. Kies **Opstelling** > de Opstelling **van de** Toepassing, en selecteer dan **Optimize Dossiers**.
 1. Voer gegevens in voor de optimalisatietaak en klik op **Verzenden**.
@@ -891,7 +891,7 @@ Het Publiceren Scene7 Systeem zoekt door uw dossiers en optimaliseert slechts di
 
 ## Voorinstellingen batchset {#batch-set-presets}
 
-Gebruik de batch-set voorinstellingen om automatisch afbeeldingssets of centrifuges te maken terwijl een taak wordt uitgevoerd om elementen te uploaden naar het Scene7 Publishing System.
+Met de voorinstellingen voor batchsets kunt u automatisch afbeeldingssets of centrifuges maken terwijl een taak wordt uitgevoerd om elementen te uploaden naar Dynamic Media Classic.
 
 De beheerders van het bedrijf bepalen eerst noemende overeenkomsten voor de activa die zij samen in een reeks willen groeperen. Vervolgens kunt u een voorinstelling voor een vaste set maken waarin naar deze afbeeldingen wordt verwezen. Elke voorinstelling is een op zichzelf staande verzameling instructies met een unieke naam die definieert hoe de set moet worden samengesteld met afbeeldingen die overeenkomen met de gedefinieerde naamgevingsconventies in het vooraf ingestelde recept.
 
@@ -936,7 +936,7 @@ Zie ook Een voorinstelling voor een batchset [maken voor het automatisch generer
 1. Typ in het veld Naam voorinstelling in het deelvenster Details een naam voor de voorinstelling.
 1. Selecteer een type voorinstelling in het keuzemenu Type batch.
 
-   Als u automatisch een 2D-reeks met draaien wilt genereren, selecteert u **Meerdere-asets** in de vervolgkeuzelijst Type batch.
+   Als u automatisch een 2D-set met draaien wilt genereren, selecteert u **Meerdere-asets** voor centrifuge in de vervolgkeuzelijst Type batch.
 
 1. Voer een van de volgende handelingen uit:
 
