@@ -6,18 +6,21 @@ seo-description: Leer hoe u lettertypen in Dynamic Media Classic kunt gebruiken.
 uuid: bddec9c2-8530-4bbd-8db7-1562a347e482
 contentOwner: admin
 content-type: reference
-products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
+products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/support_files
 discoiquuid: 97cecd6a-30aa-44fe-a611-fd71b02fd5ae
 translation-type: tm+mt
-source-git-commit: d5bf894d56687561c93ef08762bc19d3597225e6
+source-git-commit: 1df4f88ef856160ee06c43dc6ec430df122f2408
+workflow-type: tm+mt
+source-wordcount: '429'
+ht-degree: 0%
 
 ---
 
 
 # Lettertypen{#fonts}
 
-In sommige gevallen, vereist het het Publiceren Scene7 Systeem u om een doopvontdossier te uploaden om tekst in een bepaald doopvont in te gaan of terug te geven. Als u bijvoorbeeld een bepaald lettertype voor tekst op een sjabloonlaag wilt gebruiken, uploadt u het lettertypebestand. Upload het lettertypebestand om de paginanummers van de eCatalog Viewer in een bepaald lettertype weer te geven.
+In sommige gevallen vereist Dynamic Media Classic dat u een lettertypebestand uploadt om tekst in een bepaald lettertype in te voeren of te renderen. Als u bijvoorbeeld een bepaald lettertype voor tekst op een sjabloonlaag wilt gebruiken, uploadt u het lettertypebestand. Upload het lettertypebestand om de paginanummers van de eCatalog Viewer in een bepaald lettertype weer te geven.
 
 Dynamic Media Classic ondersteunt de volgende lettertypen:
 
@@ -27,7 +30,7 @@ Dynamic Media Classic ondersteunt de volgende lettertypen:
 * OpenType-/PostScript-lettertypen
 * PhotoFonts
 
-Nadat een lettertypebestand is geüpload, kunt u de bijbehorende SPS-id, lettertypenaam en informatie typen in het scherm Info bewerken.
+Nadat een lettertypebestand is geüpload, kunt u de klassieke id van het Dynamic Media, de lettertypenaam en de typegegevens wijzigen in het scherm Info bewerken.
 
 >[!NOTE]
 >
@@ -35,7 +38,7 @@ Nadat een lettertypebestand is geüpload, kunt u de bijbehorende SPS-id, lettert
 
 ## Fontbestanden uploaden {#uploading-font-files}
 
-Upload doopvontdossiers met de zelfde technieken u gebruikt om andere dossiers te uploaden. U kunt lettertypebestanden in elke SPS-map opslaan. Zie [Uw bestanden](uploading-files.md#uploading_your_files)uploaden.
+Upload doopvontdossiers met de zelfde technieken u gebruikt om andere dossiers te uploaden. U kunt lettertypebestanden opslaan in elke klassieke map van Dynamic Media. Zie [Uw bestanden](uploading-files.md#uploading_your_files)uploaden.
 
 ## Informatie over lettertypebestanden bewerken {#editing-font-file-information}
 
