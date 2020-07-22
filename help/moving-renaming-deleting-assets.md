@@ -6,11 +6,14 @@ seo-description: Leer hoe u elementen verplaatst, hernoemt en verwijdert.
 uuid: deff6521-0ad0-4db9-b4e0-e3211ff97740
 contentOwner: admin
 content-type: reference
-products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
+products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/managing_assets
 discoiquuid: 1c9e29f0-3083-4d22-a439-2a01faf59683
 translation-type: tm+mt
-source-git-commit: d5bf894d56687561c93ef08762bc19d3597225e6
+source-git-commit: 1df4f88ef856160ee06c43dc6ec430df122f2408
+workflow-type: tm+mt
+source-wordcount: '573'
+ht-degree: 0%
 
 ---
 
@@ -37,7 +40,7 @@ De naam van een element wijzigen:
    * Selecteer de naam, typ een nieuwe naam en druk op Enter of klik buiten de naam.
    * Kies Bestand > Naam wijzigen. De naam van het element wordt gemarkeerd. Voer een nieuwe naam in en druk op Enter.
 
-Ben zeker dat u niet de naam van een bestaand het Publiceren Scene7 de activa van het Systeem ingaat.
+Zorg ervoor dat u de naam van een bestaand Dynamic Media Klassiek element niet invoert.
 
 ## Elementen verwijderen {#delete-assets}
 
@@ -58,13 +61,13 @@ Wanneer u een element verwijdert, worden ook alle elementen die ervan zijn afgel
 
 >[!NOTE]
 >
->Dynamic Media Classic raadt u aan elementbestanden te overschrijven in plaats van ze te verwijderen als het verwijderen van een elementbestand ertoe strekt het bestand te vervangen door een ander bestand met dezelfde naam.
+>In Dynamic Media Classic wordt aangeraden elementbestanden te overschrijven in plaats van ze te verwijderen als het verwijderen van een elementbestand ertoe leidt dat het bestand met dezelfde naam wordt vervangen door een ander bestand.
 
 ## Meerdere elementen met een tekstbestand verwijderen {#delete-multiple-assets-with-a-text-file}
 
-Als u veel elementen tegelijk wilt verwijderen uit de hele elementenbibliotheek, kunt u de elementen die u wilt verwijderen in een tekstbestand weergeven en de lijst naar Dynamic Media Classic verzenden.
+Als u veel elementen tegelijk wilt verwijderen in de Middelenbibliotheek, kunt u de elementen die u wilt verwijderen, in een tekstbestand weergeven en de lijst naar Dynamic Media Klassiek verzenden.
 
-Creeer de lijst van het Publiceren Scene7 Systeem IDs en bewaar het als tekst (.txt) dossier. Elke identiteitskaart van het Uitgevers Scene7 Systeem moet op zijn eigen lijn (die door een harde terugkeer wordt gevolgd) zijn.
+Maak een lijst met klassieke id&#39;s voor Dynamic Media en sla deze op als tekstbestand (.txt). Elke klassieke Dynamic Media-id moet op een eigen regel staan (gevolgd door een harde return).
 
 Nadat u de lijst hebt gemaakt, voert u de volgende stappen uit om elementen te verwijderen:
 
@@ -72,7 +75,7 @@ Nadat u de lijst hebt gemaakt, voert u de volgende stappen uit om elementen te v
 1. Blader in de lijst Elementen verwijderen of typ het pad naar het tekstbestand met de lijst met elementen die u wilt verwijderen.
 1. Klik op de knop Verwijderen.
 
-Wanneer u activa met een tekstdossier schrapt, als om het even welke het Publiceren Scene7 identiteitskaart van het Systeem niet op de lijst is, wordt een bericht getoond latend u weet dat de Dynamische Klassiek van Media &quot;Onbekwaam is om deze ingangen in uw lijst te bevestigen:&quot;samen met de lijst van ingangen. Dynamic Media Classic genereert echter geen fout op het taakscherm.
+Wanneer u elementen met een tekstbestand verwijdert en er geen Dynamic Media Classic-id in de lijst staat, wordt een bericht weergegeven met de mededeling dat Dynamic Media Classic &quot;Kan deze items in de lijst niet valideren:&quot; is, samen met de lijst met items. Dynamic Media Classic genereert echter geen fout op het taakscherm.
 
 >[!MORELIKETHIS]
 >
