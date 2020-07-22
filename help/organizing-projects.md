@@ -6,11 +6,14 @@ seo-description: Leer hoe u uw werk kunt organiseren met Projecten.
 uuid: bd2b1792-e2d9-4a15-90c1-8ef2cf632867
 contentOwner: admin
 content-type: reference
-products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
+products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/managing_assets
 discoiquuid: 036dfc1f-8317-4887-a6e1-d8f2cb61819c
 translation-type: tm+mt
-source-git-commit: 6fff3699f8a08af433df3f3a7790a11bf9d05b00
+source-git-commit: 1df4f88ef856160ee06c43dc6ec430df122f2408
+workflow-type: tm+mt
+source-wordcount: '487'
+ht-degree: 0%
 
 ---
 
@@ -25,7 +28,7 @@ U kunt een project maken wanneer u bestanden uploadt of projecten maakt in het d
 
 >[!NOTE]
 >
->Dynamic Media Classic raadt u aan elementen te ordenen met metagegevens in plaats van met Projecten. Zie Metagegevens [](viewing-adding-exporting-metadata.md)weergeven, toevoegen en exporteren.
+>In Dynamic Media Classic wordt aangeraden elementen te ordenen met metagegevens in plaats van met Projecten. Zie Metagegevens [](viewing-adding-exporting-metadata.md)weergeven, toevoegen en exporteren.
 
 >[!NOTE]
 >
@@ -33,7 +36,7 @@ U kunt een project maken wanneer u bestanden uploadt of projecten maakt in het d
 
 ## Een projectmap maken {#creating-a-project-folder}
 
-U kunt een omslag van het Project tot stand brengen die in de Bibliotheek van Middelen begint of wanneer u dossiers aan het het Publiceren Scene7 Systeem uploadt:
+U kunt een projectmap maken die begint in de elementenbibliotheek of wanneer u bestanden uploadt naar Dynamic Media Classic:
 
 * **In de Bibliotheek** van Activa scrolt aan de bodem van de Bibliotheek van Activa, aan de sectie van Projecten, en selecteert de Add knoop van het Project. Voer vervolgens een naam in voor het project.
 
@@ -49,13 +52,13 @@ Volg deze instructies om een projectmap weer te geven, te verwijderen en een and
 
 * **Door inhoud** bladeren Selecteer de naam van de map in de Asset Library. De bijbehorende elementen worden weergegeven in het deelvenster Bladeren.
 
-* **Het schrappen van de omslagen** van het Project selecteer de omslag van het Project en selecteer dan de Remove knoop van het Project. Het schrappen van activa van een omslag van het Project schrapt hen niet van het Publiceren Scene7 Systeem; de elementen blijven in de oorspronkelijke mappen waarin ze zijn opgeslagen.
+* **Het schrappen van de omslagen** van het Project selecteer de omslag van het Project en selecteer dan de Remove knoop van het Project. Als u elementen verwijdert uit een projectmap, worden deze niet verwijderd uit Dynamic Media Classic. de elementen blijven in de oorspronkelijke mappen waarin ze zijn opgeslagen.
 
 * **Als u de naam van projectmappen** wijzigt, dubbelklikt u op de naam van de map in het deelvenster Elementen en voert u vervolgens een nieuwe naam in.
 
 ## Elementen toevoegen aan een projectmap {#adding-assets-to-a-project-folder}
 
-U kunt beelden aan een omslag van het Project toevoegen die in het Browse Comité begint of wanneer u dossiers aan het het Publiceren Scene7 Systeem uploadt:
+U kunt afbeeldingen toevoegen aan een projectmap die begint in het deelvenster Bladeren of wanneer u bestanden uploadt naar Classic Dynamic Media:
 
 * **Selecteer de elementen in het deelvenster** Bladeren en sleep ze naar een projectmap. U kunt ook Bestand > Toevoegen aan project kiezen, een naam voor een projectmap selecteren in het dialoogvenster Project selecteren en de knop Verzenden selecteren.
 
