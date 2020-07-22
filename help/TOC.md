@@ -5,9 +5,9 @@ audience: end-user
 user-guide-title: Dynamic Media Klassieke Help
 index: y
 translation-type: tm+mt
-source-git-commit: b034ef968788ff6cdd95aa261302017307df120d
+source-git-commit: 38f5cf5264f9775a225d354ed9dc2f6caee236f2
 workflow-type: tm+mt
-source-wordcount: '732'
+source-wordcount: '736'
 ht-degree: 1%
 
 ---
@@ -26,12 +26,12 @@ ht-degree: 1%
    + [Nieuwe functies](whats-new.md)
    + [Systeemvereisten](system-requirements.md)
    + [Ondersteuning](support.md)
-   + [Help voor Dynamic Media Classic Media Portal](help-scene7-media-portal.md)
+   + [Help voor Dynamic Media Classic Media Portal](help-dmc-media-portal.md)
    + [Adobe Training Services](training-services.md)
    + [Populaire bronnen](popular-resources.md)
    + [Trainingsvideo&#39;s](training-videos.md)
 + Aan de slag {#getting-started}
-   + [Overzicht van Adobe Dynamic Media Classic-platform](scene7-platform-overview.md)
+   + [Overzicht van Adobe Dynamic Media Classic-platform](dmc-platform-overview.md)
    + [Media Portal](media-portal.md)
    + [In- en uitloggen](signing-out.md)
    + [Basisbeginselen van navigatie](navigation-basics.md)
@@ -70,15 +70,15 @@ ht-degree: 1%
    + [Elementen verplaatsen, hernoemen en verwijderen](moving-renaming-deleting-assets.md)
    + [Werken in de gedetailleerde weergave ](detail-view.md)
    + [Metagegevens weergeven, toevoegen en exporteren](viewing-adding-exporting-metadata.md)
-   + [Het uitvoeren van activa van het Publiceren Scene7 Systeem](exporting-assets-scene7-publishing-system.md)
+   + [Elementen exporteren vanuit Dynamic Media Classic](exporting-assets-from-dmc.md)
    + [Elementwijzigingen delen met peers in real-time](sharing-asset-changes-peers-real.md)
    + [Elementen afdrukken](printing-assets.md)
    + [De map Prullenbak beheren](trash-folder.md)
    + [Uw werk organiseren met projecten](organizing-projects.md)
 + Afbeeldingsgrootte {#image-sizing}
    + [Snel starten: Afbeeldingsgrootte](quick-start-image-sizing.md)
-   + [Stramienafbeeldingen uploaden](uploading-master-images.md)
-   + [Stramienafbeeldingen publiceren](publishing-master-images.md)
+   + [master afbeeldingen uploaden](uploading-master-images.md)
+   + [master afbeeldingen publiceren](publishing-master-images.md)
    + [Voorinstellingen afbeelding instellen](setting-image-presets.md)
    + [URL&#39;s koppelen aan uw webtoepassing](linking-urls-web-application.md)
 + Zoomen {#zoom}
@@ -146,7 +146,7 @@ ht-degree: 1%
    + [Een gemengde mediaset publiceren](publishing-mixed-media-set.md)
    + [Een gemengde mediaset koppelen aan een webpagina](linking-mixed-media-set-web.md)
 + Adobe Analytics-instrumentatiekit {#analytics-kit}
-   + [Snel starten: Dynamic Media Classic integreren met Adobe Analytics](quick-start-integrating-scene7-analytics.md)
+   + [Snel starten: Dynamic Media Classic integreren met Adobe Analytics](quick-start-integrating-dmc-analytics.md)
    + [Aanmelden bij Adobe Analytics](log-analytics.md)
    + [Adobe Analytics-rapporten configureren](configuring-analytics-reports.md)
    + [Een viewer besturen met de Adobe Analytics Instrumentation Kit](instrumenting-viewer-using-analytics-instrumentation.md)
@@ -154,17 +154,17 @@ ht-degree: 1%
    + [De integratie testen door een Adobe Analytics-rapport te bekijken](testing-integration-viewing-analytics-report.md)
    + [Adobe Analytics-videorapporten inschakelen](enabling-analytics-video-reports.md)
    + [Adobe Analytics-configuratiegegevens publiceren](publishing-analytics-configuration-information.md)
-+ Target Classic integratie {#target-classic}
-   + [Snel starten: Target Classic integratie](quick-start-target-classic-integration.md)
-   + [Adobe Dynamic Media Classic integreren met Adobe Target Classic](integrating-scene7-target-classic.md)
++ Target Standard/Premium-integratie {#target-classic}
+   + [Snel starten: Target Standard/Premium-integratie](quick-start-target-integration.md)
+   + [Adobe Dynamic Media Classic integreren met Adobe Target Standard/Premium](integrating-dmc-with-target.md)
    + [Een aanbiedingsset maken](creating-offer-set.md)
-   + [Aanbiedingen overslaan op Adobe Target Classic](pushing-offer-sets-target-classic.md)
+   + [Aanbiedingssets worden ingesteld op Adobe Target Standard/Premium](pushing-offer-sets-target.md)
 + Door de gebruiker gegenereerde inhoud {#user-generated-content}
    + [Door de gebruiker gegenereerde inhoud](about-ugc.md)
    + [Geüploade elementen verwijderen](deleting-uploaded-asset.md)
    + [Schijfgebruiksgegevens ophalen](getting-disk-usage-information.md)
    + [Een afbeeldingselement of een vectorelement uploaden](uploading-image-asset-or-vector.md)
-+ Hoofdbestanden {#master-files}
++ Master bestanden {#master-files}
    + [Aanbevolen procedures voor het optimaliseren van de kwaliteit van uw afbeeldingen](best-practices-optimizing-quality-images.md)
    + [Afbeeldingen bewerken](editing-images.md)
    + [Afbeeldingskaarten maken](creating-image-maps.md)
