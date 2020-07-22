@@ -6,10 +6,10 @@ seo-description: Meer informatie over de bronnen voor ontwikkelaars die beschikb
 uuid: 97702f33-fb9c-4ba7-9c42-757dec7e6645
 contentOwner: admin
 content-type: reference
-products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
+products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 discoiquuid: a802ead0-401e-4600-aedf-e6414f7983e1
 translation-type: tm+mt
-source-git-commit: 74238f90f45f0fb9a4566915a20a1d41dfb69fe1
+source-git-commit: 1df4f88ef856160ee06c43dc6ec430df122f2408
 workflow-type: tm+mt
 source-wordcount: '287'
 ht-degree: 6%
@@ -19,14 +19,14 @@ ht-degree: 6%
 
 # Bronnen voor ontwikkelaars{#developer-resources}
 
-Dynamic Media Classic verstrekt documentatie voor de recentste belangrijkste versie van elke Dynamic Media Klassieke softwaremodule. De documenten van de module zijn beschikbaar voor de Authoring van het Beeld, Scene7 het Publiceren Systeem, de Server van het Beeld en het Teruggeven van het Beeld, en Kijkers.
+Dynamic Media Classic verstrekt documentatie voor de recentste belangrijkste versie van elke Dynamic Media Klassieke softwaremodule. De documenten van de module zijn beschikbaar voor de Authoring van het Beeld, Klassieke Dynamic Media, de Server van het Beeld en het Teruggeven van het Beeld, en Kijkers.
 
 De nota&#39;s van de versie zijn ook beschikbaar voor sommige modules. Opmerkingen bij de release bevatten informatie over de release, zoals verbeteringen, nieuwe functionaliteit, tips voor het oplossen van problemen en bekende onopgeloste problemen. Opmerkingen bij de release bevatten ook interactieve voorbeelden van functies voor veelzijdige media en hoe u deze kunt activeren. Daarnaast bieden Release Notes installatie- en configuratieinstructies voor clients met gelicentieerde software.
 
 De Gidsen van de verwijzing aan het Serven van het Beeld en het Teruggeven van het Beeld, en de Kijkers beschrijven de protocollen van http voor deze servermodules. Websiteontwikkelaars die Dynamic Media Klassieke rich media voor een website of aangepaste toepassing verder willen aanpassen en benutten, kunnen deze handleidingen gebruiken. Dynamic Media Classic gaat ervan uit dat de lezer bekend is met de bureaubladtoepassing, de algemene normen en conventies voor http-protocollen en de standaardterminologie voor beeldbewerking.
 
 
-**Scene7 het Publiceren Systeem API**
+**Dynamic Media Classic API**
 
 | Document | Webadres |
 |--- |--- |
