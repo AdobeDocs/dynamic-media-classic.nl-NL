@@ -8,7 +8,7 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/introducing_adobe_dynamic_media_classic
 translation-type: tm+mt
-source-git-commit: 9f541bf3a6f364029df868215953b14c15ae474c
+source-git-commit: 1df4f88ef856160ee06c43dc6ec430df122f2408
 workflow-type: tm+mt
 source-wordcount: '678'
 ht-degree: 0%
@@ -24,7 +24,7 @@ Deze nieuwe app is nu beschikbaar voor Windows en macOS.
 
 >[!IMPORTANT]
 >
->We raden u aan de nieuwe Adobe Dynamic Media Classic-bureaubladtoepassing tegen 1 oktober 2020 te installeren. Zo hebt u een vloeiende overgang voordat Adobe Flash Player op 31 december 2020 wordt vervangen. Op die datum, zult u niet meer aan de browser versie van de Klassieke gebruikersinterface van Adobe Dynamic Media kunnen het programma openen, die als het Publiceren Scene7 Systeem in het product wordt geëtiketteerd.
+>We raden u aan de nieuwe Adobe Dynamic Media Classic-bureaubladtoepassing tegen 1 oktober 2020 te installeren. Zo hebt u een vloeiende overgang voordat Adobe Flash Player op 31 december 2020 wordt vervangen. Op die datum kunt u zich niet meer aanmelden bij de browserversie van de Adobe Dynamic Media Classic-gebruikersinterface, die in het product als Dynamic Media Classic wordt aangeduid.
 
 Raadpleeg de veelgestelde vragen voor de [nieuwe klassieke Dynamic Media-aanmeldervaring die nu beschikbaar is.](/help/new-ui-2020.md)
 
