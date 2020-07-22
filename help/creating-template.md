@@ -6,11 +6,14 @@ seo-description: Leer hoe u een sjabloon maakt in Dynamic Media Classic.
 uuid: c762224b-7c6c-4434-bada-c26570079645
 contentOwner: admin
 content-type: reference
-products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
+products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/template_basics
 discoiquuid: 8f7093da-d215-4337-ac95-69f0a5bf8648
 translation-type: tm+mt
-source-git-commit: d5bf894d56687561c93ef08762bc19d3597225e6
+source-git-commit: 1df4f88ef856160ee06c43dc6ec430df122f2408
+workflow-type: tm+mt
+source-wordcount: '3441'
+ht-degree: 0%
 
 ---
 
@@ -21,7 +24,7 @@ Als u een sjabloon wilt maken, klikt u op Samenstellen > Grondbeginselen van sja
 
 >[!NOTE]
 >
->Als u een malplaatje uitgeeft dat in een vroegere versie van het Publiceren Scene7 Systeem wordt gecreeerd, kunt u de herinnering bij het bewaren ontvangen vragend &quot;wilt u een canvaslaag toevoegen?&quot; Kies Nee als u geen nieuwe basislaag wilt toevoegen. Als u per ongeluk Ja hebt gekozen, verwijdert u de opties &quot;&amp;allowCanvasPrompt&quot; en &quot;&amp;layer=0&quot; in de URL en drukt u op Enter of Return.
+>Als u een sjabloon bewerkt die in een eerdere versie van Dynamic Media Classic is gemaakt, wordt u mogelijk gevraagd of u een canvaslaag wilt toevoegen als u dit opslaat? Kies Nee als u geen nieuwe basislaag wilt toevoegen. Als u per ongeluk Ja hebt gekozen, verwijdert u de opties &quot;&amp;allowCanvasPrompt&quot; en &quot;&amp;layer=0&quot; in de URL en drukt u op Enter of Return.
 
 ## De oorspronkelijke sjabloon maken {#creating-the-initial-template}
 
@@ -50,7 +53,7 @@ U kunt een sjabloon maken op basis van een bestaande sjabloon. Open de sjabloon,
 1. Klik op **Opslaan**.
 1. Selecteer een map waarin u de sjabloon wilt opslaan, voer een naam voor de sjabloon in en klik op **Verzenden**.
 
-   Dynamische media Klassiek verkleint afbeeldingen indien nodig om deze op het canvas te passen, het gebied op het scherm Sjabloon voor het definiëren van uw sjabloon.
+   Met Dynamic Media Classic worden afbeeldingen zo nodig verkleind om ze op het canvas te passen, het gebied op het scherm Sjabloon waarin u de sjabloon definieert.
 
 ## Een sjabloonset bewerken {#editing-a-template-set}
 
@@ -99,7 +102,7 @@ Gebruik de volgende gereedschappen in het scherm Sjabloon om sjablonen te maken:
 
 **Teksteditor v4.3 en Teksteditor v4.2** U kunt kiezen of u de meest recente en meest complete teksteditor, Text Editor v4.3 of de vorige teksteditor, Text Editor v4.2, wilt gebruiken. Bij het maken van nieuwe sjablonen is Teksteditor v4.3 standaard geselecteerd. Als u oudere sjablonen bewerkt, is Teksteditor v4.2 standaard geselecteerd. Teksteditor v4.3 biedt momenteel geen ondersteuning voor tekstomloop, dus wanneer u oudere sjablonen bewerkt die tekstomloop gebruiken, gebruikt u Teksteditor v4.2 om de kwaliteit van de sjabloon volledig intact te houden. Als uw oudere sjabloon geen tekstomloop gebruikt, kunt u Teksteditor v4.3 kiezen om gebruik te maken van de vele nieuwe functies die deze biedt, zoals Marges verhogen, Marges verlagen, Tekst in hoofdletters instellen en Tekst passend maken kopiëren.
 
-***opmerking **: Teksteditor v4.2 wordt uiteindelijk verwijderd als een optie in Dynamic Media Classic. Het wordt daarom aanbevolen om teksteditor 4.3 zo veel mogelijk te gebruiken. De optie Tekstomloop wordt opgenomen in een toekomstige versie van de Teksteditor.*
+***opmerking **: De Redacteur van de tekst v4.2 zal uiteindelijk als optie in Dynamic Media Klassiek worden verwijderd, zodat wordt geadviseerd dat u de Redacteur van de Tekst 4.3 wanneer mogelijk gebruikt. De optie Tekstomloop wordt opgenomen in een toekomstige versie van de Teksteditor.*
 
 **Designer en Developer** Selecteer de optie die uw rol het beste beschrijft.
 
@@ -117,7 +120,7 @@ Gebruik de volgende gereedschappen in het scherm Sjabloon om sjablonen te maken:
 
 >[!NOTE]
 >
->Zo nodig worden afbeeldingen door Dynamic Media Classic verkleind, zodat ze op het canvas passen wanneer u een afbeeldingslaag maakt.
+>Zo nodig verkleint u met Dynamic Media Klassiek de afbeeldingen, zodat deze op het canvas passen wanneer u een afbeeldingslaag maakt.
 
 ## Een tekstlaag maken {#creating-a-text-layer}
 
@@ -138,7 +141,7 @@ Ga als volgt te werk om tekst in een tekstlaag op te maken:
 1. Selecteer in het tekstvak de tekst die u wilt opmaken. U kunt alle tekst, delen van de tekst en afzonderlijke tekens selecteren.
 1. Geef een van deze opmaakopties op en klik op Toepassen.
 
-   **Lettertype** Kies een lettertype in het menu Lettertype. Als een doopvont u wilt niet op het menu verschijnt, kunt u het in het het Publiceren Scene7 Systeem uploaden. Zie Lettertypen.
+   **Lettertype** Kies een lettertype in het menu Lettertype. Als het gewenste lettertype niet in het menu staat, kunt u het lettertype uploaden naar de klassieke Dynamic Media. Zie Lettertypen.
 
    **Tekengrootte** Kies een tekengrootte in het menu, typ een specifieke grootte in het vak of klik op de pijl-omhoog of -omlaag om de grootte met twee punten te vergroten of te verkleinen.
 
@@ -240,7 +243,7 @@ Lagen moeten klein genoeg zijn om op het canvas te passen. U kunt de grootte van
 
 >[!NOTE]
 >
->Dynamische media Klassiek raadt u aan een voorinstelling voor afbeeldingen te maken die de exacte grootte van de sjabloon heeft. Als u de grootte van de voorinstelling Afbeelding afstemt op de sjabloongrootte, weet u zeker dat de uiteindelijke uitvoergrootte en de verscherpingsopties voor de sjabloon correct zijn ingesteld. Nadat u deze voorinstelling voor afbeelding hebt gemaakt, kunt u deze kiezen in het menu Voorinstelling toepassen op het scherm Sjabloonvoorvertoning. Het scherm toont u hoe het beeld eruit ziet wanneer het van de server wordt geleverd. Zie [Voorinstellingen](setting-image-presets.md#setting_up_image_presets)afbeelding instellen.
+>Klassieke Dynamic Media raadt u aan een voorinstelling voor afbeeldingen te maken die de exacte grootte van de sjabloon heeft. Als u de grootte van de voorinstelling Afbeelding afstemt op de sjabloongrootte, weet u zeker dat de uiteindelijke uitvoergrootte en de verscherpingsopties voor de sjabloon correct zijn ingesteld. Nadat u deze voorinstelling voor afbeelding hebt gemaakt, kunt u deze kiezen in het menu Voorinstelling toepassen op het scherm Sjabloonvoorvertoning. Het scherm toont u hoe het beeld eruit ziet wanneer het van de server wordt geleverd. Zie [Voorinstellingen](setting-image-presets.md#setting_up_image_presets)afbeelding instellen.
 
 **De grootte van een laag wijzigen**
 
@@ -290,7 +293,7 @@ Als u een achtergrondkleur, dekking en overvloeimodus voor een laag of het canva
 
 ## Schaduw- en gloedeffecten gebruiken op lagen {#using-shadow-and-glow-effects-on-layers}
 
-U kunt een schaduw of gloed op een laag toepassen. De schaduw of gloed wordt toegepast op de omtrek van de laag en wordt naar binnen of naar buiten uitgebreid, afhankelijk van de optie voor schaduw of gloed die u kiest. Als uw malplaatje met een Psd- dossier met schaduw en gloedeffecten voortkwam, kunt u deze gevolgen in het het Publiceren Scene7 Systeem aanpassen.
+U kunt een schaduw of gloed op een laag toepassen. De schaduw of gloed wordt toegepast op de omtrek van de laag en wordt naar binnen of naar buiten uitgebreid, afhankelijk van de optie voor schaduw of gloed die u kiest. Als uw sjabloon is gemaakt met een PSD-bestand met schaduw- en gloedeffecten, kunt u deze effecten aanpassen in Dynamic Media Classic.
 
 Nadat u een schaduw- of gloedeffect hebt toegepast, kunt u de grootte, kleur, dekking en positie aanpassen in het gedeelte Laageigenschappen van het scherm Sjabloon.
 
