@@ -6,18 +6,21 @@ seo-description: Leer hoe u een afbeelding aanpast
 uuid: c052acd3-e8c1-4134-ad21-b9c41578097f
 contentOwner: admin
 content-type: reference
-products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
+products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/master_files
 discoiquuid: 47a23980-2886-4da3-ab2d-6cd50e00d188
 translation-type: tm+mt
-source-git-commit: 32f5e03766466ceaafe58780e9e80dbdd4a0c3dd
+source-git-commit: 1df4f88ef856160ee06c43dc6ec430df122f2408
+workflow-type: tm+mt
+source-wordcount: '554'
+ht-degree: 0%
 
 ---
 
 
 # Een afbeelding aanpassen{#adjusting-an-image}
 
-Dynamische media Klassiek biedt verschillende opdrachten voor het aanpassen van de weergave van een afbeelding. U kunt een afbeelding spiegelen, roteren, vervagen, de kleurbalans wijzigen en inkleuren. Wanneer u met deze opdrachten experimenteert, kunt u de effecten van de opdrachten op de afbeelding zien waarmee u werkt.
+Klassieke Dynamic Media biedt verschillende opdrachten voor het aanpassen van de weergave van een afbeelding. U kunt een afbeelding spiegelen, roteren, vervagen, de kleurbalans wijzigen en inkleuren. Wanneer u met deze opdrachten experimenteert, kunt u de effecten van de opdrachten op de afbeelding zien waarmee u werkt.
 
 Zie ook Een alias [maken voor een afbeelding](adjusting-image.md#creating_an_alias_for_an_image).
 
@@ -38,29 +41,29 @@ Zie ook Een alias [maken voor een afbeelding](adjusting-image.md#creating_an_ali
 
       Selecteer Origineel **vervangen in de vervolgkeuzelijst en klik op** Opslaan ****.
 
-   * Als u de afbeelding wilt opslaan als een nieuwe hoofdafbeelding, klikt u op **Opslaan als**.
+   * Als u de afbeelding wilt opslaan als een nieuwe master afbeelding, klikt u op **Opslaan als**.
 
-      Selecteer **Opslaan als nieuw stramien** in de vervolgkeuzelijst.
+      Selecteer **Opslaan als nieuw master** in de vervolgkeuzelijst.
 
-      Selecteer in de keuzelijst **Mapnaam** de map waarin u de nieuwe hoofdafbeelding wilt opslaan.
+      Selecteer in de keuzelijst **Mapnaam** de map waarin u de nieuwe master afbeelding wilt opslaan.
 
       Klik op **Opslaan**.
 
-   * De afbeelding opslaan als een aanvullende weergave van de hoofdafbeelding. u kunt een alias voor het tot stand brengen. Klik op **Opslaan als**.
+   * De afbeelding opslaan als een aanvullende weergave van de master afbeelding. u kunt een alias voor het tot stand brengen. Klik op **Opslaan als**.
 
-      Klik in het dialoogvenster **Opslaan als** in de vervolgkeuzelijst op **Opslaan als extra weergave van het stramien**.
+      Klik in de vervolgkeuzelijst in het dialoogvenster **Opslaan als** op **Opslaan als aanvullende weergave van master**.
 
-      Selecteer in de keuzelijst **Mapnaam** de map waarin u de nieuwe hoofdafbeelding wilt opslaan.
+      Selecteer in de keuzelijst **Mapnaam** de map waarin u de nieuwe master afbeelding wilt opslaan.
 
       Klik op **Opslaan**.
 
 ## Een alias voor een afbeelding maken {#creating-an-alias-for-an-image}
 
-Wanneer u een afbeelding hebt aangepast, kunt u deze opslaan als een extra weergave van de hoofdafbeelding. Hiertoe kunt u een alias voor de afbeelding maken met de functie **Opslaan als extra weergave van de stramienfunctie** .
+Als u een afbeelding hebt aangepast, kunt u deze opslaan als een extra weergave van de master afbeelding. Hiertoe kunt u een alias voor de afbeelding maken met de functie **Opslaan als extra weergave van de master** functie.
 
 1. Klik in de rasterweergave of de lijstweergave in de vervolgkeuzelijst **Bewerken** naast een afbeelding waarvoor u een alias wilt maken op **Aanpassen**.
 1. In the lower-right corner of the page, click **Save As**.
-1. Klik in de vervolgkeuzelijst in het dialoogvenster **Opslaan als** op **Opslaan als weergave voor toevoeging aan het stramien**.
+1. Klik in het dialoogvenster **Opslaan als** in de vervolgkeuzelijst op **Opslaan als extra weergave van master**.
 1. Selecteer in de lijst **Mapnaam** de map waarin u de alias-afbeelding wilt opslaan.
 1. Typ in het veld **Bestandsnaam** de naam die u voor de alias wilt gebruiken.
 1. Klik op **Opslaan**.
