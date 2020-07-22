@@ -2,22 +2,25 @@
 title: Een centrifugeerset koppelen aan een webpagina
 seo-title: Een centrifugeerset koppelen aan een webpagina
 description: 'null'
-seo-description: Leer hoe u een centrifugeset aan een webpagina koppelt.
+seo-description: Leer hoe u een centrifugeset koppelt aan een webpagina.
 uuid: d3c5773e-60c4-4e8b-9c48-e1e3eb8028d0
 contentOwner: admin
 content-type: reference
-products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
+products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/spin_sets
 discoiquuid: 651b21ef-e322-4e6d-8e37-45ffd56f7a58
 translation-type: tm+mt
-source-git-commit: e3c64b90e0af0129571a21b132477c0c86d06405
+source-git-commit: 1df4f88ef856160ee06c43dc6ec430df122f2408
+workflow-type: tm+mt
+source-wordcount: '723'
+ht-degree: 0%
 
 ---
 
 
 # Een centrifugeerset koppelen aan een webpagina{#linking-a-spin-set-to-a-web-page}
 
-Websites en toepassingen hebben via URL-tekenreeksen of ingesloten code toegang tot de inhoud van Dynamic Media Image Server, inclusief de inhoud van de Spin-sets. Deze URL-tekenreeksen worden geactiveerd tijdens het publicatieproces. Om het koord URL of bedt code voor uw Vastgestelde Spin in uw Web-pagina&#39;s en toepassingen te plaatsen, kopieert u het van het het Publiceren Scene7 Systeem.
+Websites en toepassingen hebben via URL-tekenreeksen of ingesloten code toegang tot de inhoud van de Dynamic Media Image Server, inclusief de spellingsets. Deze URL-tekenreeksen worden geactiveerd tijdens het publicatieproces. Als u de URL-tekenreeks of de insluitcode voor de desbetreffende centrifugeset op uw webpagina&#39;s en toepassingen wilt plaatsen, kopieert u deze uit Dynamic Media Classic.
 
 >[!NOTE]
 >
@@ -44,7 +47,7 @@ Websites en toepassingen hebben via URL-tekenreeksen of ingesloten code toegang 
 
 ## URL&#39;s van centrifuges toevoegen aan uw webpagina {#adding-spin-set-urls-to-your-web-page}
 
-De Reeksen van de draaien worden opgesteld als alle gezoemkijkers, door middel van een dynamische pagina (ASPIS of JSP) die de Reeks van de Draai in een gezoemvenster toont. Voor de URL-aanroep naar het Dynamic Media Classic-platform geldt hetzelfde protocol voor de zoomviewer. De naam van de voorinstelling voor de viewer is echter afhankelijk van de voorinstelling die de beheerder heeft gedefinieerd als de standaardvoorinstelling voor de voorinstelling voor de voorinstelling van de centrifuge. Het volgende niet-live URL-syntaxisvoorbeeld bevat bijvoorbeeld een naam voor een voorinstelling die wordt aangeroepen `viewer.jsp` en de SKU-parameter is nu de naam van de spellingset:
+De Reeksen van de draaien worden opgesteld als alle gezoemkijkers, door middel van een dynamische pagina (ASPIS of JSP) die de Reeks van de Draai in een gezoemvenster toont. De URL-aanroep naar het klassieke Dynamic Media-platform volgt hetzelfde protocol op de zoomviewer. De naam van de voorinstelling voor de viewer is echter afhankelijk van de voorinstelling die de beheerder heeft gedefinieerd als de standaardvoorinstelling voor de voorinstelling voor de voorinstelling van de centrifuge. Het volgende niet-live URL-syntaxisvoorbeeld bevat bijvoorbeeld een naam voor een voorinstelling die wordt aangeroepen `viewer.jsp` en de SKU-parameter is nu de naam van de spellingset:
 
 ```as3
 https://sample.scene7.com/s7ondemand/spin/viewer.jsp?company=S7Web&sku=backpack_spin
