@@ -6,11 +6,14 @@ seo-description: Leer hoe u een stalenset maakt.
 uuid: 250b3525-310d-4481-b0bc-f9057e823e0b
 contentOwner: admin
 content-type: reference
-products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
+products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/swatch_sets
 discoiquuid: 631d2b2d-9e69-4b96-8392-17e00a1a8de0
 translation-type: tm+mt
-source-git-commit: 75f006fd81b0fe2dad5479cdd98e45eaada46b2a
+source-git-commit: 1df4f88ef856160ee06c43dc6ec430df122f2408
+workflow-type: tm+mt
+source-wordcount: '706'
+ht-degree: 0%
 
 ---
 
@@ -24,7 +27,10 @@ Stel dat u afbeeldingen van uiteinden met verschillende kleurrekeningen wilt wee
 ## Een stalenset maken {#create}
 
 Wanneer u een set maakt, heeft de optie **Publiceren na opslaan** op de volgende manieren invloed op de set en stelt u leden in:
-| De optie Publiceren na opslaan is geselecteerd voordat u het bestand opslaat?|Staat van set na opslaan|Staat van set-leden na opslaan||—|—|—||Ja|Gepubliceerd|Gepubliceerd||Nee|Niet gepubliceerd|Leden instellen behouden hun gepubliceerde of niet-gepubliceerde status.|
+| De optie Publiceren na opslaan is geselecteerd voordat u het bestand opslaat?|Staat van set na opslaan|Staat van set-leden na opslaan|
+|— |— |— |
+|Ja|Gepubliceerd|Gepubliceerd|
+|Nee|Niet gepubliceerd|Leden instellen behouden hun gepubliceerde of niet-gepubliceerde status.|
 
 Zie ook [Elementen](publishing-files.md#manually_publishing_assets) handmatig publiceren en [elementen](publishing-files.md#manually_unpublishing_assets)handmatig verwijderen.
 
