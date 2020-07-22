@@ -6,11 +6,14 @@ seo-description: Leer hoe u hoofdstukmarkeringen aan een video kunt toevoegen.
 uuid: 4e1e6daf-afc6-49d9-ac90-183fe2a903b2
 contentOwner: admin
 content-type: reference
-products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
+products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/video
 discoiquuid: 8bc5e552-2abb-41f0-89d2-bdf3ae5d96c2
 translation-type: tm+mt
-source-git-commit: 32f5e03766466ceaafe58780e9e80dbdd4a0c3dd
+source-git-commit: 1df4f88ef856160ee06c43dc6ec430df122f2408
+workflow-type: tm+mt
+source-wordcount: '625'
+ht-degree: 0%
 
 ---
 
@@ -55,7 +58,7 @@ Zie [WebVTT: De indeling](https://dev.w3.org/html5/webvtt/)Webvideoteksttracks.
 
 **Hoofdstukmarkeringen aan video toevoegen**
 
-1. Gebruikend een eenvoudige tekstredacteur buiten het Publiceren Scene7 Systeem, creeer uw videohoofdstukdossier.
+1. Maak met een eenvoudige teksteditor buiten Dynamic Media Classic het videohoofdbestand.
 
    >[!NOTE]
    >
@@ -65,7 +68,7 @@ Zie [WebVTT: De indeling](https://dev.w3.org/html5/webvtt/)Webvideoteksttracks.
 
    Over het algemeen wilt u het hoofdstuk VTT-bestand dezelfde naam geven als het videobestand en dit bestand toevoegen met `chapters`. Hierdoor kunt u het genereren van video-URL&#39;s automatiseren met behulp van uw bestaande systeem voor webcontentbeheer.
 
-1. In het Publiceren Scene7 Systeem, upload uw WebVTT hoofdstukdossier.
+1. Upload het WebVTT-hoofdstukbestand in Dynamic Media Classic.
 
    Zie Bestanden [uploaden](uploading-files.md#uploading_files).
 
