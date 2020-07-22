@@ -6,38 +6,41 @@ seo-description: Een inleiding en Snel aan de Grootte van het Beeld beginnen om 
 uuid: 6c4ad4b7-549d-4daa-b6b9-5997a8427af8
 contentOwner: admin
 content-type: reference
-products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
+products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/image_sizing
 discoiquuid: dcaa9b21-b925-4dbb-865e-7918cdbda50c
 translation-type: tm+mt
-source-git-commit: e3c64b90e0af0129571a21b132477c0c86d06405
+source-git-commit: 1df4f88ef856160ee06c43dc6ec430df122f2408
+workflow-type: tm+mt
+source-wordcount: '851'
+ht-degree: 0%
 
 ---
 
 
 # Snel starten: Afbeeldingsgrootte{#quick-start-image-sizing}
 
-Afbeeldingsgrootte heeft betrekking op de mogelijkheid van Dynamic Media Classic om meerdere afgeleide afbeeldingen te maken op basis van één afbeelding met hoge resolutie. In plaats van handmatig meerdere afbeeldingen voor uw website of toepassing te maken, bijvoorbeeld een miniatuur en een afbeelding in een vergrote weergave, geeft u één hoofdafbeelding op. Met Dynamic Media Classic worden alle gewijzigde afbeeldingen op dezelfde manier gegenereerd als u ze aanvraagt. Het dynamisch leveren van afbeeldingen op basis van één hoofdafbeelding heeft veel voordelen:
+Afbeeldingsgrootte heeft betrekking op de mogelijkheid van Dynamic Media Classic om meerdere afgeleide afbeeldingen te maken op basis van één afbeelding met hoge resolutie. In plaats van handmatig meerdere afbeeldingen voor uw website of toepassing te maken, bijvoorbeeld een miniatuur en een afbeelding in een vergrote weergave, geeft u één master afbeelding op. Met Dynamic Media Classic worden alle gewijzigde afbeeldingen op dezelfde manier gegenereerd als u ze aanvraagt. Het dynamisch leveren van afbeeldingen op basis van één master afbeelding heeft veel voordelen:
 
-* U hoeft niet handmatig meerdere exemplaren van de afbeelding met verschillende grootten te maken. U levert één hoofdafbeelding aan Dynamic Media Classic en Dynamic Media Classic genereert derivaten van verschillende grootte van de hoofdafbeelding.
+* U hoeft niet handmatig meerdere exemplaren van de afbeelding met verschillende grootten te maken. U levert één master afbeelding aan Dynamic Media Klassiek en Dynamic Media Klassiek genereert derivaten van verschillende grootte van de master afbeelding.
 * U kunt de grootte van een afbeeldingstype snel wijzigen op uw website of in de toepassing. Als u bijvoorbeeld alle miniatuurafbeeldingen wilt wijzigen, kunt u de voorinstelling &quot;miniatuurafbeelding&quot; wijzigen. Een voorinstelling voor afbeeldingen, die lijkt op een macro, is een verzameling kenmerken voor grootte en opmaak. U kunt de voorinstelling &quot;miniatuurafbeelding&quot; wijzigen om de grootte van alle miniatuurafbeeldingen te wijzigen op de hele website of in de toepassing.
 * U hoeft de stramienen en alle verschillende derivaten niet intern of extern te beheren in een van uw systemen voor inhoud of middelenbeheer.
 
-![U kunt meerdere afgeleide afbeeldingen maken met verschillende grootten van hetzelfde hoofdbestand met hoge resolutie.](/help/assets/is_derivative_sizes_popup.png)
+![U kunt meerdere afgeleide afbeeldingen maken met een verschillende grootte en hetzelfde master bestand met hoge resolutie.](/help/assets/is_derivative_sizes_popup.png)
 
 **Snel starten**
 
-Dit Beeld dat Snel Begin rangschikt van het Beeld wordt ontworpen om u te helpen snel met de technieken van de Grootte van het Beeld in het het Publiceren Scene7 Systeem opduiken. Voer de stappen 1 tot en met 5 uit. Na elke stap is een kruisverwijzing waar u meer informatie kunt vinden als u die nodig hebt.
+Deze Snel starten met afbeeldingsgrootte is ontworpen om u te helpen snel aan de slag te gaan met technieken voor afbeeldingsgrootte in Dynamic Media Classic. Voer de stappen 1 tot en met 5 uit. Na elke stap is een kruisverwijzing waar u meer informatie kunt vinden als u die nodig hebt.
 
-**1. Stramienafbeeldingen uploaden**
+**1. master afbeeldingen uploaden**
 
-Begin door uw hoofdbeelden aan het het Publiceren Scene7 Systeem te uploaden. Met betrekking tot de grootte raadt Dynamic Media Classic u aan afbeeldingen te gebruiken die de grootst mogelijke grootte hebben die u op uw website of toepassing wilt gebruiken. Als u bijvoorbeeld wilt dat gebruikers in- of uitzoomen op afbeeldingen, uploadt u afbeeldingen die minstens 2000 pixels groot zijn. Dynamic Media Classic ondersteunt veel bestandsindelingen voor afbeeldingen, maar het wordt aanbevolen afbeeldingen zonder verlies in de indeling TIFF en PNG te gebruiken.
+Begin door uw master afbeeldingen naar Dynamic Media Classic te uploaden. Met betrekking tot de grootte raadt Dynamic Media Classic u aan afbeeldingen te gebruiken die de grootst mogelijke grootte hebben die u op uw website of toepassing wilt gebruiken. Als u bijvoorbeeld wilt dat gebruikers in- of uitzoomen op afbeeldingen, uploadt u afbeeldingen die minstens 2000 pixels groot zijn. Dynamic Media Classic ondersteunt veel bestandsindelingen voor afbeeldingen, maar afbeeldingen zonder verlies van TIFF- en PNG-indeling worden aanbevolen.
 
-Selecteer de Upload knoop op de Globale bar van de Navigatie om dossiers van uw computer aan een omslag op het het Publiceren Scene7 Systeem te uploaden. Zie [Stramienafbeeldingen](uploading-master-images.md#uploading_master_images)uploaden.
+Selecteer de knop Uploaden op de algemene navigatiebalk om bestanden van uw computer te uploaden naar een map op Dynamic Media Classic. Zie master afbeeldingen [uploaden](uploading-master-images.md#uploading_master_images).
 
 **2. Voorinstellingen afbeelding instellen**
 
-Net als bij een macro is een voorinstelling voor afbeeldingen een verzameling vooraf gedefinieerde opdrachten voor grootte en opmaak die onder een naam zijn opgeslagen. Met een voorinstelling voor afbeeldingen bepaalt u de grootte en de opmaak van de afbeeldingen die worden geleverd op de dynamische mediageleveranciers. U kunt de Voorinstellingen van het beeld op uw plaatsen als u de status van de bedrijfbeheerder hebt. Dynamic Media Classic wordt ook geleverd met standaardvoorinstellingen voor afbeeldingen en u kunt deze gebruiken om afbeeldingen dynamisch te leveren.
+Net als bij een macro is een voorinstelling voor afbeeldingen een verzameling vooraf gedefinieerde opdrachten voor grootte en opmaak die onder een naam zijn opgeslagen. Met een voorinstelling voor afbeeldingen bepaalt u de grootte en opmaak van afbeeldingen die worden geleverd op basis van Dynamic Media Image Servers. U kunt de Voorinstellingen van het beeld op uw plaatsen als u de status van de bedrijfbeheerder hebt. Dynamic Media Classic wordt ook geleverd met standaardvoorinstellingen voor afbeeldingen en u kunt deze gebruiken om afbeeldingen dynamisch te leveren.
 
 Als u een voorinstelling voor afbeeldingen wilt maken (als u een beheerder bent), kiest u Instellen > Toepassing instellen. Voor het scherm van de Opstelling, toon de opties van de Opstelling van de Toepassing en kies Beeld vooraf instelt. Klik vervolgens op **Toevoegen** of **Bewerken** om een voorinstelling voor afbeeldingen te maken.
 
@@ -53,17 +56,17 @@ Experimenteer met de verschillende voorinstellingen voor afbeeldingen. Bekijk ho
 
 Zie Een [voorvertoning weergeven van een afbeeldingselement op basis van de voorinstelling](previewing-asset.md#previewing_an_image_asset_based_on_its_image_preset)voor afbeeldingen.
 
-**4. Stramienafbeeldingen publiceren**
+**4. master afbeeldingen publiceren**
 
-Het publiceren van uw hoofdafbeeldingsbestanden heeft twee essentiële doelen:
+Het publiceren van master afbeeldingsbestanden heeft twee essentiële doelen:
 
-* Uw hoofdafbeeldingen publiceren naar Dynamic Media Image Servers, zodat afbeeldingen dynamisch kunnen worden geleverd aan uw website en toepassing.
-* Met Publiceren activeert u de URL-tekenreeksen voor het aanroepen van afbeeldingen van Dynamic Media Image Servers naar uw website of toepassing. Na publicatie kunt u waar nodig de door Dynamic Media Classic gegenereerde URL&#39;s kopiëren en plaatsen op uw website of toepassing.
+* Uw master afbeeldingen publiceren naar Dynamic Media Image Servers, zodat afbeeldingen dynamisch kunnen worden geleverd aan uw website en toepassing.
+* Met Publiceren activeert u de URL-tekenreeksen voor het aanroepen van afbeeldingen van Dynamic Media Image Servers naar uw website of toepassing. Na publicatie kunt u waar nodig de door de Dynamic Media gegenereerde URL&#39;s kopiëren en plaatsen in uw website of toepassing.
 
-Selecteer de knop Publiceren op de algemene navigatiebalk om een publicatie te starten. Selecteer in het scherm Publiceren de knop Publiceren starten. Zie Stramienafbeeldingen [](publishing-master-images.md#publishing_master_images)publiceren.
+Selecteer de knop Publiceren op de algemene navigatiebalk om een publicatie te starten. Selecteer in het scherm Publiceren de knop Publiceren starten. Zie master afbeeldingen [publiceren](publishing-master-images.md#publishing_master_images).
 
 **5. URL&#39;s koppelen aan uw webtoepassing**
 
-Met Dynamic Media Classic worden URL-bijschrifttekenreeksen voor afbeeldingen gemaakt. Wanneer u afbeeldingen publiceert naar Dynamic Media Image Servers, worden de URL&#39;s actief. U kunt deze URL-tekenreeksen kopiëren vanuit het deelvenster Bladeren (in de gedetailleerde weergave) of het scherm Voorvertoning. Nadat u de URL-tekenreeksen hebt gekopieerd, kunt u deze gebruiken in uw website en toepassingen. De URL voor afbeeldingsgrootte vervangt de verwijzing naar een statische afbeeldingsnaam in de webpaginacode. De URL verwijst naar de naam van een hoofdafbeelding, die door de database wordt vervangen voor elke nieuwe afbeelding die moet worden weergegeven.
+Met Dynamic Media Classic maakt u URL-bijschrifttekenreeksen voor afbeeldingen. Wanneer u afbeeldingen publiceert naar Dynamic Media Image Servers, worden de URL&#39;s actief. U kunt deze URL-tekenreeksen kopiëren vanuit het deelvenster Bladeren (in de gedetailleerde weergave) of het scherm Voorvertoning. Nadat u de URL-tekenreeksen hebt gekopieerd, kunt u deze gebruiken in uw website en toepassingen. De URL voor afbeeldingsgrootte vervangt de verwijzing naar een statische afbeeldingsnaam in de webpaginacode. De URL verwijst naar een master afbeeldingsnaam die door de database wordt vervangen voor elke nieuwe afbeelding die moet worden weergegeven.
 
-URL-tekenreeksen die zijn gegenereerd met Voorinstellingen afbeelding bevatten de naam van een voorinstelling voor afbeeldingen. Deze naam staat in dollartekens (`$`). Dit `$thumbnail$` kan bijvoorbeeld de voorinstelling Afbeelding zijn die is ontworpen om stramienafbeeldingen met een miniatuurgrootte weer te geven. Zie URL&#39;s [koppelen aan uw webtoepassing](linking-urls-web-application.md#linking_urls_to_your_web_application).
+URL-tekenreeksen die zijn gegenereerd met Voorinstellingen afbeelding bevatten de naam van een voorinstelling voor afbeeldingen. Deze naam staat in dollartekens (`$`). Dit `$thumbnail$` kan bijvoorbeeld de voorinstelling Afbeelding zijn die is ontworpen om master afbeeldingen met een miniatuurgrootte weer te geven. Zie URL&#39;s [koppelen aan uw webtoepassing](linking-urls-web-application.md#linking_urls_to_your_web_application).
