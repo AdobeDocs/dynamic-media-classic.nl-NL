@@ -2,22 +2,25 @@
 title: Basisbeginselen van navigatie
 seo-title: Basisbeginselen van navigatie
 description: 'null'
-seo-description: Meer informatie over navigatie in de gebruikersinterface van Dynamic Media Classic.
+seo-description: Meer informatie over navigeren in de gebruikersinterface van Dynamic Media Classic.
 uuid: ee143695-e42d-479d-b907-fe61ef6cfc0f
 contentOwner: admin
 content-type: reference
-products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
+products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/getting_started
 discoiquuid: 825b8949-f961-4ef9-828c-07349013d40d
 translation-type: tm+mt
-source-git-commit: e3c64b90e0af0129571a21b132477c0c86d06405
+source-git-commit: 1df4f88ef856160ee06c43dc6ec430df122f2408
+workflow-type: tm+mt
+source-wordcount: '612'
+ht-degree: 0%
 
 ---
 
 
 # Basisbeginselen van navigatie{#navigation-basics}
 
-Het het Publiceren Scene7 scherm van het Systeem omvat drie belangrijke gebieden: De globale bar van de Navigatie, de Bibliotheek van Activa, en doorbladert Comité/bouwt Comité.
+Het klassieke scherm Dynamic Media bevat drie belangrijke gebieden: De globale bar van de Navigatie, de Bibliotheek van Activa, en doorbladert Comité/bouwt Comité.
 
 ![Basisbeginselen van navigatie](/help/assets/gs_navigation_basics_popup_popup.png)
 
@@ -27,17 +30,17 @@ De algemene navigatiebalk, die zich boven aan het scherm bevindt, bevat knoppen 
 
 **Selecteer Bedrijf** kiezen het bedrijf u van het menu wilt toegang hebben. Deze knop is niet beschikbaar als u met één bedrijf werkt.
 
-**Upload** opent het Upload scherm zodat kunt u dossiers van uw computer of netwerk aan SPS uploaden. U kunt bestanden uploaden vanaf uw bureaublad of via FTP. Zie Bestanden uploaden.
+**Upload** opent het Upload scherm zodat kunt u dossiers van uw computer of netwerk aan Dynamic Media Klassiek uploaden. U kunt bestanden uploaden vanaf uw bureaublad of via FTP. Zie Bestanden uploaden.
 
 **Bouwstijl** Kies een bouwsteentaak van het menu. Het deelvenster Samenstellen wordt geopend, zodat u een elementtype kunt maken.
 
-**Publiceren** opent het scherm Publiceren zodat u rijke media activa aan de Dynamische Servers van het Beeld van Media en de rest van de Dynamische Klassieke infrastructuur van Media SAAS kunt publiceren. Zie Publiceren.
+**Publiceren** Hiermee opent u het scherm Publiceren, zodat u rich media-elementen kunt publiceren naar Dynamic Media Image Servers en de overige Dynamic Media Classic SAAS Infrastructure. Zie Publiceren.
 
 **Taken** opent het scherm van Banen zodat kunt u verslagen van upload onderzoeken en banen publiceren.
 
 **Met Recent** wordt het scherm Recente activiteiten geopend, zodat u de namen van onlangs gewijzigde middelen en recente upload- en publicatietaken kunt bekijken.
 
-**De opstelling** opent het scherm van de Opstelling zodat kunt u opstelling of beleidsopties kiezen om uw gebruik van Dynamische Klassieke Media te optimaliseren. Zie Instellen.
+**De opstelling** opent het scherm van de Opstelling zodat kunt u opstelling of beleidsopties kiezen om uw gebruik van Dynamic Media Klassiek te optimaliseren. Zie Instellen.
 
 **Help** Een Help-optie kiezen:
 
@@ -51,7 +54,7 @@ De algemene navigatiebalk, die zich boven aan het scherm bevindt, bevat knoppen 
 
 **Help > Ondersteuning** vertelt u hoe u technische ondersteuning kunt krijgen van Dynamic Media Classic.
 
-**Het teken uit** gaat het het Publiceren Scene7 Systeem weg.
+**Afmelden** sluit Dynamic Media Klassiek af.
 
 ## Assetbibliotheek {#asset-library}
 
