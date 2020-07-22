@@ -6,11 +6,14 @@ seo-description: Leer hoe u afbeeldingen met hyperlinks maakt.
 uuid: 0dcc4956-006e-4a74-9d6a-6d4bb23790ce
 contentOwner: admin
 content-type: reference
-products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
+products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/master_files
 discoiquuid: 4eddf983-38cb-4f00-b3be-85c20bdd6f69
 translation-type: tm+mt
-source-git-commit: 32f5e03766466ceaafe58780e9e80dbdd4a0c3dd
+source-git-commit: 1df4f88ef856160ee06c43dc6ec430df122f2408
+workflow-type: tm+mt
+source-wordcount: '2444'
+ht-degree: 0%
 
 ---
 
@@ -39,6 +42,7 @@ Wanneer u Afbeeldingen met hyperlinks maakt, kunt u een van de volgende handelin
    * Als u met een afbeelding werkt in de rasterweergave of lijstweergave, klikt u in de vervolgkeuzelijst Bewerken op **Afbeeldingskaart**. U kunt de afbeelding ook openen in de gedetailleerde weergave en vervolgens op **Afbeeldingskaart** boven de afbeelding klikken.
    * Als u werkt met een SpinSet in de rasterweergave of lijstweergave, klikt u op **Bewerken**. U kunt het ook openen in de gedetailleerde weergave en vervolgens op **Bewerken** klikken. Selecteer een afbeeldingselement en klik op **Afbeeldingskaart**.
    * Als u met een eCatalog, in de Mening van het Net, de Mening van de Lijst, de Mening van het Detail werkt, klik **uitgeven**. Klik op het tabblad **Pagina&#39;s** toewijzen.
+
    ![](assets/ma_image_map.png)
 
 1. Teken een rechthoekige of veelhoekige (veelzijdige) afbeelding met hyperlinks:
@@ -47,9 +51,9 @@ Wanneer u Afbeeldingen met hyperlinks maakt, kunt u een van de volgende handelin
 
    **Veelhoekkaart** Selecteer het gereedschap Veelhoekafbeelding met hyperlinks en klik op punten op de rand van het gebied van de afbeelding dat u wilt insluiten. Gebruik de schuifregelaar voor veelhoekdichtheid om de puntdichtheid in de veelhoek te variëren. De oorspronkelijke dichtheid wordt onthouden als u andere kaarten selecteert. Als een punt wordt toegevoegd, verwijderd of verplaatst in de veelhoek, gaat de oorspronkelijke dichtheid verloren en wordt de schuifregelaar ingesteld op de maximale waarde.
 
-1. Voer desgewenst een naam voor de afbeelding met hyperlinks in de lijst Afbeeldingskaart in. Nadat u een Kaart van het Beeld tekent, wijst de Dynamische Klassiek van Media het een naam toe.
+1. Voer desgewenst een naam voor de afbeelding met hyperlinks in de lijst Afbeeldingskaart in. Nadat u een Kaart van het Beeld tekent, wijst de Classic van Dynamic Media het een naam toe.
 
-   Als u de naam wilt maken, voegt Dynamic Media Classic een volgnummer toe aan de naam van de afbeeldings- of eCatalog-pagina waarmee u werkt. U kunt een naam van uw keuze invoeren.
+   Om de naam te maken, voegt de Klassieke Dynamic Media een opeenvolgend aantal aan de naam van het beeld of de eCatalogpagina toe u met werkt. U kunt een naam van uw keuze invoeren.
 
 1. Als u wilt dat gebruikers een nieuwe webpagina openen wanneer zij op Afbeeldingskaart klikken, voert u de URL in de lijst Afbeeldingskaart in.
 
@@ -63,7 +67,7 @@ Wanneer u Afbeeldingen met hyperlinks maakt, kunt u een van de volgende handelin
 1. (Optioneel) Voer een van de volgende handelingen uit:
 
    * Klik op Voorvertoning om een voorvertoning van afbeeldingen met hyperlinks weer te geven.
-   * Als u een afbeelding met hyperlinks of veelhoekpunt wilt verwijderen, selecteert u een vorm in de afbeelding en klikt u op Verwijderen. Of klik voor een eCatalog op het tabblad Order Pages op Kaarten wissen om de afbeeldingen met hyperlinks van alle pagina&#39;s te verwijderen.
+   * Als u een afbeelding met hyperlinks of een veelhoekpunt wilt verwijderen, selecteert u een vorm in de afbeelding en klikt u op Verwijderen. Of klik voor een eCatalog op het tabblad Order Pages op Kaarten wissen om de afbeeldingen met hyperlinks van alle pagina&#39;s te verwijderen.
    * Als u een afbeelding met hyperlinks tijdelijk uit een afbeelding, een afbeelding in een SpinSet of een eCatalog-pagina wilt verwijderen zonder deze te verwijderen, schakelt u de desbetreffende optie Op in de lijst Afbeeldingskaart uit.
 
 1. Klik op Opslaan.
@@ -120,7 +124,7 @@ Het kopiëren van afbeeldingen met hyperlinks in een eCatalog is bijvoorbeeld ee
 
 ## Een sjabloon gebruiken om JavaScript en URL&#39;s in te voeren {#using-a-template-to-enter-javascript-and-urls}
 
-U kunt een URL-sjabloon (ook wel een Href-sjabloon genoemd) definiëren om het invoeren van URL&#39;s voor afbeeldingen met hyperlinks eenvoudiger en efficiënter te maken. Definieer een URL-sjabloon als de meeste URL&#39;s van de Afbeeldingskaart een gemeenschappelijke, vaste indeling hebben. Door het gedeelte van URL in te voeren dat als malplaatje URL vast is, moet u niet dit gedeelte van URL ingaan telkens als u een Kaart van het Beeld creeert. Uw URL-sjabloon kan ook JavaScript-opdrachten, -padnamen en -parameters bevatten. Standaard bevat de URL-sjabloon een eigen, dynamische, klassieke JavaScript-handler voor media die de afbeelding in een nieuw venster opent. `loadProduct`
+U kunt een URL-sjabloon (ook wel een Href-sjabloon genoemd) definiëren om het invoeren van URL&#39;s voor afbeeldingen met hyperlinks eenvoudiger en efficiënter te maken. Definieer een URL-sjabloon als de meeste URL&#39;s van de Afbeeldingskaart een gemeenschappelijke, vaste indeling hebben. Door het gedeelte van URL in te voeren dat als malplaatje URL vast is, moet u niet dit gedeelte van URL ingaan telkens als u een Kaart van het Beeld creeert. Uw URL-sjabloon kan ook JavaScript-opdrachten, -padnamen en -parameters bevatten. Standaard bevat de URL-sjabloon een merkgebonden Dynamic Media Classic JavaScript-handler met de naam `loadProduct` waarmee de afbeelding in een nieuw venster wordt geopend.
 
 >[!NOTE]
 >
@@ -140,7 +144,7 @@ U plaatst alle waarden die niet tussen Afbeeldingen met hyperlinks veranderen in
 * URL-waarde: `product.htm`
 * Werkelijke URL gegenereerd: `javascript:loadProduct(‘https://www.examplesitehere.com/product.html);void(0);`
 
-Standaard bevat de URL-sjabloon een eigen, dynamische, klassieke JavaScript-handler voor media die een nieuw venster met de URL-bestemming opent. `loadProduct` U kunt echter elke JavaScript-code gebruiken om deze JavaScript-handler te vervangen of een van de volgende Dynamic Media Classic-handlers gebruiken:
+Standaard bevat de URL-sjabloon een merkgebonden Dynamic Media Classic JavaScript-handler met de naam `loadProduct` waarmee een nieuw venster met de URL-bestemming wordt geopend. U kunt echter elke JavaScript-code gebruiken om deze JavaScript-handler te vervangen of een van de volgende klassieke Dynamic Media-handlers gebruiken:
 
 * `loadProductCW`
 
@@ -200,7 +204,7 @@ Raadpleeg de Help bij InDesign of Acrobat voor meer informatie.
 1. Selecteer de tekst, het kader of de afbeelding die u in de Afbeeldingskaart wilt maken.
 1. Klik in het deelvenster Hyperlinks op Nieuwe hyperlink in het deelvenstermenu.
 1. Kies in het dialoogvenster Nieuwe hyperlink de optie URL in het menu Koppelen naar.
-1. Typ of plak de product-id in het vak URL en klik op OK. (Dynamic Media Classic voltooit de URL met behulp van de URL-sjabloon Afbeeldingskaart.)
+1. Typ of plak de product-id in het vak URL en klik op OK. (Met Dynamic Media Klassiek wordt de URL voltooid met de sjabloon URL van afbeelding met hyperlinks.)
 
    >[!NOTE]
    >
@@ -220,7 +224,7 @@ Raadpleeg de Help bij InDesign of Acrobat voor meer informatie.
 
 1. Klik in het vak Koppelingseigenschappen op Handelingen.
 1. Selecteer Een webkoppeling openen in het menu Handeling selecteren en klik op Toevoegen.
-1. Typ de product-id voor de afbeelding met hyperlinks in het vak URL bewerken en klik op OK. (Dynamic Media Classic voltooit de URL met de URL-sjabloon voor de afbeeldingskaart.)
+1. Typ de product-id voor de afbeelding met hyperlinks in het vak URL bewerken en klik op OK. (Met Dynamic Media Classic wordt de URL voltooid met de URL-sjabloon voor de afbeeldingskaart.)
 1. Herhaal stap 1 tot en met 7 voor alle afbeeldingen met hyperlinks die u wilt maken.
 1. Sla het bestand op.
 1. Upload de PDF naar Dynamic Media Classic en selecteer Koppelingen extraheren uit de PDF-opties.
