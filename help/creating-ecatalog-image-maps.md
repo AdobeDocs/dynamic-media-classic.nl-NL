@@ -6,11 +6,14 @@ seo-description: Leer hoe u eCatalog-afbeeldingen met hyperlinks maakt.
 uuid: 943ad3f7-a885-4bc2-88cb-77083384bdf8
 contentOwner: admin
 content-type: reference
-products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
+products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/ecatalogs
 discoiquuid: 4cf63359-63b5-4da7-9498-335d91b4776c
 translation-type: tm+mt
-source-git-commit: 6fff3699f8a08af433df3f3a7790a11bf9d05b00
+source-git-commit: 1df4f88ef856160ee06c43dc6ec430df122f2408
+workflow-type: tm+mt
+source-wordcount: '1496'
+ht-degree: 0%
 
 ---
 
@@ -31,7 +34,7 @@ Voor eCatalogi, tekent u Kaarten van het Beeld op het lusje van de Pagina&#39;s 
    * **Rechthoekige kaart** Selecteer het gereedschap Rechthoekafbeelding met hyperlinks en sleep op de pagina om de rechthoek te maken.
 
    * **Veelhoekkaart** Selecteer het gereedschap Veelhoekafbeelding met hyperlinks en klik zo vaak als nodig is rond de omtrek van de afbeelding. Terwijl u klikt, tekent Dynamic Media Classic de randen van de afbeelding met hyperlinks.
-   Nadat u een Kaart van het Beeld tekent, wijst de Dynamische Klassieke Media het een naam in de Kaart van het Beeld lijst toe. Als u de naam wilt vormen, voegt Dynamic Media Classic een volgnummer toe aan de naam van de eCatalog-pagina waarin u werkt.
+   Nadat u een Kaart van het Beeld tekent, wijst de Klassiek van Dynamic Media het een naam in de Lijst van de Kaart van het Beeld toe. Om de naam te vormen, voegt de Klassiek van Dynamic Media een opeenvolgend aantal aan de naam van de eCatalog pagina toe waarin u werkt.
 
 1. (Optioneel) Geef in de keuzelijst Afbeelding met hyperlinks onder de kolom Naam een nieuwe naam op voor de afbeelding met hyperlinks. Plaats geen lege spaties in de naam die u invoert.
 1. U kunt gebruikers een nieuwe webpagina laten openen door op de afbeelding met hyperlinks te klikken. Voer in de URL-kolom in de lijst Afbeeldingskaart de URL van de webpagina in.
@@ -80,7 +83,8 @@ Ga als volgt te werk om eCatalog Image Maps te bewerken:
 
    Zie De positie, vorm en grootte van afbeeldingen met hyperlinks [aanpassen](creating-image-maps.md#adjusting_the_position_shape_and_size_of_image_maps).
 
-* **Verwijderen van Afbeeldingskaarten** Selecteer het gereedschap Pannen, klik op de afbeelding met hyperlinks om deze te selecteren en klik vervolgens op **Verwijderen**.
+* **Afbeeldingskaarten verwijderen** Selecteer het gereedschap Pannen, klik op de afbeelding met hyperlinks om deze te selecteren en klik vervolgens op 
+**Verwijderen**.
 
    Als u alle afbeeldingen met hyperlinks uit een eCatalog wilt verwijderen, klikt u op het tabblad **Pagina&#39;s** ordenen en klikt u vervolgens op **Kaarten** wissen.
 
@@ -128,7 +132,7 @@ Ga als volgt te werk om Image Map-gegevens voor door u gemaakte afbeeldingen met
 
 ## Afbeeldingen met hyperlinks kopiëren naar een andere eCatalogus {#copying-image-maps-between-ecatalogs}
 
-U kunt alle afbeeldingen met hyperlinks in een eCatalog kopiëren naar een andere eCatalog. Het kopiëren van Afbeeldingen met hyperlinks op deze manier is een handige methode voor het kopiëren van afbeeldingen met hyperlinks tussen vertalingen in vreemde talen van dezelfde eCatalog. Dynamic Media Classic raadt u aan om eCatalogs met hetzelfde aantal pagina&#39;s en dezelfde afbeeldingen te kopiëren, anders lukt het niet om het kopiëren te voltooien.
+U kunt alle afbeeldingen met hyperlinks in een eCatalog kopiëren naar een andere eCatalog. Het kopiëren van Afbeeldingen met hyperlinks op deze manier is een handige methode voor het kopiëren van afbeeldingen met hyperlinks tussen vertalingen in vreemde talen van dezelfde eCatalog. Het kopiëren is alleen gelukt als Dynamic Media Classic het kopiëren tussen eCatalogi aanbeveelt met hetzelfde aantal pagina&#39;s en dezelfde afbeeldingen.
 
 >[!NOTE]
 >
@@ -140,4 +144,4 @@ Ga als volgt te werk om alle afbeeldingen met hyperlinks in een eCatalog naar ee
 1. Klik op Kaarten kopiëren op het tabblad Order Pages.
 1. Selecteer in het dialoogvenster Element selecteren de eCatalog waar u de Afbeeldingskaarten wilt kopiëren en klik vervolgens op Selecteren.
 
-Met Dynamic Media Classic wordt een waarschuwingsbericht weergegeven als de eCatalog voor het doel (de eCatalogus waarnaar u Afbeeldingen met hyperlinks kopieert) een ander aantal pagina&#39;s of afbeeldingen van een andere grootte heeft. Ondanks de waarschuwing kunt u op Doorgaan klikken om de afbeeldingen met hyperlinks te kopiëren.
+Met Dynamic Media Klassiek wordt een waarschuwingsbericht weergegeven als de eCatalog (de eCatalog waarnaar u Afbeeldingen met hyperlinks kopieert) een ander aantal pagina&#39;s of afbeeldingen van een andere grootte heeft. Ondanks de waarschuwing kunt u op Doorgaan klikken om de afbeeldingen met hyperlinks te kopiëren.
