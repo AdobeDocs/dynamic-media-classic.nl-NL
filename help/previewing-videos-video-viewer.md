@@ -6,11 +6,14 @@ seo-description: Leer hoe u video's kunt voorvertonen in een videoviewer.
 uuid: 7ab4e805-6e5d-461b-bd99-5e09b9ced950
 contentOwner: admin
 content-type: reference
-products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
+products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/video
 discoiquuid: 6a2e6df1-9186-42e2-9b85-01f132936c72
 translation-type: tm+mt
-source-git-commit: a1722c15d3c049f05959d895e85297d47d730872
+source-git-commit: 1df4f88ef856160ee06c43dc6ec430df122f2408
+workflow-type: tm+mt
+source-wordcount: '774'
+ht-degree: 0%
 
 ---
 
@@ -39,19 +42,19 @@ Zie Voorinstellingen [van viewers](application-setup.md#adding_and_editing_viewe
 
 >[!NOTE]
 >
->Dynamic Media Classic biedt een handige methode voor het voorvertonen van MP4-video op het bureaublad. Gebruik deze methode om mobiele inhoud op het bureaublad voor te vertonen zonder deze fysiek te testen op mobiele apparaten. Houd er echter rekening mee dat wat u in de voorvertoning op het bureaublad ziet, er niet realistisch uitziet hoe het afspelen op het mobiele apparaat eruitziet. Als u een voorvertoning wilt bekijken van de weergave en het afspelen van video op een mobiel apparaat, gaat u naar het voorvertoningsscherm en selecteert u de URL kopiëren. Vervolgens voert u die URL in de webbrowser van een mobiel apparaat in. Zie Video [distribueren naar websites en mobiele sites](deploying-video-websites-mobile-sites.md#deploying_video_to_your_websites_and_mobile_sites)voor meer informatie.
+>Dynamic Media Classic biedt een handige methode voor het voorvertonen van MP4-video op het bureaublad. Met deze methode kunt u mobiele inhoud voorvertonen op het bureaublad zonder deze fysiek te testen op mobiele apparaten. Houd er echter rekening mee dat wat u in de voorvertoning op het bureaublad ziet, er niet realistisch uitziet hoe het afspelen op het mobiele apparaat eruitziet. Als u een voorvertoning wilt bekijken van de weergave en het afspelen van video op een mobiel apparaat, gaat u naar het voorvertoningsscherm en selecteert u de URL kopiëren. Vervolgens voert u die URL in de webbrowser van een mobiel apparaat in. Zie Video [distribueren naar websites en mobiele sites](deploying-video-websites-mobile-sites.md#deploying_video_to_your_websites_and_mobile_sites)voor meer informatie.
 
 ## Werken met voorinstellingen voor videoviewers {#working-with-video-viewer-presets}
 
 Gebruikers bekijken video&#39;s in de Video-viewer. Hoe de VideoKijker zich gedraagt, hoe het kijkt, en hoe zijn playbackcontroles werken hangt van de Kijker af vooraf ingesteld u voor het spelen van de video kiest. Kies een voorinstelling voor de viewer op het voorvertoningsscherm. Nadat u een voorinstelling hebt gekozen, kunt u de URL of de insluitcode voor het afspelen van de video opvragen met de door u gekozen voorinstelling voor de viewer.
 
-Dynamic Media Classic wordt geleverd met veel vooraf gedefinieerde voorinstellingen voor de viewer voor het afspelen van video. Als u een beheerder bent, kunt u aangepaste voorinstellingen voor de viewer maken. Er zijn meer dan een dozijn verschillende instellingen voor het configureren van de video-viewer. U kunt de grootte, kleur, video- en audiobesturingselementen, voortgangsbalk, skin voor de gebruikersinterface en sociale functies configureren.
+De Klassieke van Dynamic Media komt met vele vooraf bepaalde Kijker vooraf instelt voor het spelen van video, en als u een beheerder bent, kunt u de Voorinstellingen van de douaneKijker tot stand brengen. Er zijn meer dan een dozijn verschillende instellingen voor het configureren van de video-viewer. U kunt de grootte, kleur, video- en audiobesturingselementen, voortgangsbalk, skin voor de gebruikersinterface en sociale functies configureren.
 
 Zie ook Video&#39;s [voorvertonen in een videoviewer](previewing-videos-video-viewer.md#previewing_videos_in_a_video_viewer).
 
 ### Een voorinstelling voor een videoviewer toevoegen of bewerken {#adding-or-editing-a-video-viewer-preset}
 
-U kunt Viewer-voorinstellingen gebruiken om verschillende viewertypen en hun vooraf gedefinieerde instellingen weer te geven. U kunt ook uw eigen aangepaste voorinstellingen voor viewers toevoegen en bewerken of bestaande voorinstellingen voor viewers bewerken die bij Scene7 Publishing System worden geleverd.
+U kunt Viewer-voorinstellingen gebruiken om verschillende viewertypen en hun vooraf gedefinieerde instellingen weer te geven. U kunt ook uw eigen aangepaste voorinstellingen voor viewers toevoegen en bewerken of bestaande voorinstellingen voor viewers bewerken die bij Dynamic Media Classic worden geleverd.
 
 In Viewer-voorinstellingen kunt u voorinstellingen van viewers activeren, filteren, sorteren en voorvertonen.
 
@@ -59,7 +62,7 @@ Zie Voorinstellingen [van viewer](application-setup.md#viewer_presets).
 
 **Een voorinstelling voor een videoviewer toevoegen of bewerken**
 
-1. In de hoger-juiste hoek van het het Publiceren Scene7 Systeem, klik **Opstelling** > de Voorinstellingen **van de** Kijker.
+1. Klik in de rechterbovenhoek van Dynamic Media Classic op **Instellen** > Voorinstellingen **viewer**.
 
    Als u alleen voorinstellingen voor videoviewers wilt weergeven, selecteert u Video-viewer in de vervolgkeuzelijst Viewers die u opent op de werkbalk direct boven de tabel.
 
