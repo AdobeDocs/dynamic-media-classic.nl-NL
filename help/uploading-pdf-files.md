@@ -6,10 +6,13 @@ seo-description: Leer hoe u de PDF-bestanden uploadt die aan een eCatalog zijn g
 uuid: 9e178bb2-ac09-427a-b61a-aad4e87a5837
 contentOwner: admin
 content-type: reference
-products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
+products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 discoiquuid: 0097cba5-c886-4115-bc35-7ae7a500202f
 translation-type: tm+mt
-source-git-commit: 6fff3699f8a08af433df3f3a7790a11bf9d05b00
+source-git-commit: 1df4f88ef856160ee06c43dc6ec430df122f2408
+workflow-type: tm+mt
+source-wordcount: '701'
+ht-degree: 0%
 
 ---
 
@@ -20,13 +23,13 @@ Adobe PDF-bestanden zijn doorgaans de bron voor een eCatalog; deze bestanden bev
 
 ## PDF-bestanden voorbereiden {#preparing-your-pdf-files}
 
-Bereid uw Pdf- dossiers voor alvorens hen aan het het Publiceren Scene7 Systeem te uploaden:
+PDF-bestanden voorbereiden voordat u ze uploadt naar Dynamic Media Classic:
 
 * Plaats alle bestanden in dezelfde map op uw computer of netwerk, zodat u de bestanden gemakkelijker kunt uploaden.
 * Geef de bestanden een naam in alfanumerieke volgorde op pagina. Door de pagina&#39;s te ordenen, kunt u de pagina&#39;s gemakkelijker in de juiste volgorde plaatsen nadat de bestanden zijn geüpload.
 * Controleer de PDF-pagina&#39;s om te zien of deze snijtekens, registratiedoelen of kleurenbalken bevatten. Deze markeringen bepalen waar het papier moet worden geknipt wanneer documenten worden afgedrukt. deze moeten worden verwijderd voordat uw eCatalog op het web wordt geplaatst. Dynamic Media Classic biedt opties voor het uitsnijden van markeringen wanneer u PDF-bestanden uploadt.
 * Als u wilt dat viewers in uw eCatalog zoeken op trefwoorden, controleert u of uw PDF-bestanden zijn samengevoegd. U kunt zoekwoorden niet extraheren uit samengevoegde PDF-bestanden. Als u wilt weten of een PDF is afgevlakt, selecteert u de tekst in de PDF. Als u geen tekst kunt selecteren, wordt de PDF afgevlakt en kunnen de gebruikers niet op sleutelwoord in uw eCatalog zoeken.
-* PDF-bestanden bevatten meestal CMYK-afbeeldingen, omdat ze moeten worden afgedrukt. Standaard kunnen deze CMYK-afbeeldingen door SPS op intelligente wijze worden gedetecteerd en omgezet met een intern CMYK-kleurprofiel. Als u echter een aangepast kleurprofiel wilt gebruiken om CMYK-afbeeldingen om te zetten, kunt u dat doen.
+* PDF-bestanden bevatten meestal CMYK-afbeeldingen, omdat ze moeten worden afgedrukt. Standaard kunnen Dynamic Media Classic deze CMYK-afbeeldingen op intelligente wijze detecteren en omzetten met een intern CMYK-kleurprofiel. Als u echter een aangepast kleurprofiel wilt gebruiken om CMYK-afbeeldingen om te zetten, kunt u dat doen.
 
    Zie [ICC-profielen](icc-profiles.md#icc_profiles).
 
@@ -46,7 +49,7 @@ Selecteer de bestanden die u wilt uploaden en selecteer de volgende *aanbevolen 
 
 * **Resolutie** Dynamic Media Classic raadt 150 pixels per inch aan.
 
-* **De Klassiek van de Media van de Kleurruimte** Dynamische adviseert het kiezen automatisch ontdekt. Gewoonlijk worden PDF&#39;s die voor afdrukuitvoer zijn gemaakt, in CMYK weergegeven. PDF&#39;s voor onlineweergave zijn RGB. Als een PDF beide kleurruimten gebruikt, kunt u een specifieke kleurruimte selecteren door forceren als RGB of forceren als CMYK te kiezen. PDF&#39;s gebruiken beide kleurruimten, bijvoorbeeld wanneer paginaafbeeldingen een CMYK-kleurruimte gebruiken, maar afbeeldingen RGB. Als u een ICC-profiel hebt geüpload, wordt de naam ervan weergegeven in het menu Kleurruimte en kunt u het daar kiezen.
+* **Klassieke kleurruimte**-Dynamic Media raadt u aan Automatisch detecteren te kiezen. Gewoonlijk worden PDF&#39;s die voor afdrukuitvoer zijn gemaakt, in CMYK weergegeven. PDF&#39;s voor onlineweergave zijn RGB. Als een PDF beide kleurruimten gebruikt, kunt u een specifieke kleurruimte selecteren door forceren als RGB of forceren als CMYK te kiezen. PDF&#39;s gebruiken beide kleurruimten, bijvoorbeeld wanneer paginaafbeeldingen een CMYK-kleurruimte gebruiken, maar afbeeldingen RGB. Als u een ICC-profiel hebt geüpload, wordt de naam ervan weergegeven in het menu Kleurruimte en kunt u het daar kiezen.
 
    Zie [ICC-profielen](icc-profiles.md#icc_profiles).
 
@@ -56,7 +59,7 @@ Selecteer de bestanden die u wilt uploaden en selecteer de volgende *aanbevolen 
 
 * **De oorspronkelijke kleurruimte** behouden
 
-* **Kies Aangepast van > naar** om de menu&#39;s te openen, zodat u de optie Omzetten van en Omzetten in kleurruimte kunt kiezen. U kunt een standaard Photoshop-kleurruimte kiezen of een kleurruimte die u naar SPS hebt geüpload.
+* **Kies Aangepast van > naar** om de menu&#39;s te openen, zodat u de optie Omzetten van en Omzetten in kleurruimte kunt kiezen. U kunt een standaard Photoshop-kleurruimte kiezen of een kleurruimte die u naar Dynamic Media Classic hebt geüpload.
 
 Zie [ICC-profielen](icc-profiles.md#icc_profiles).
 
