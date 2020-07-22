@@ -6,11 +6,14 @@ seo-description: Meer informatie over het toevoegen en beheren van gebruikers va
 uuid: 96d4103c-6428-4ce1-b9e4-231599304f27
 contentOwner: admin
 content-type: reference
-products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
+products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/media_portal
 discoiquuid: 5e933045-ce1a-41b9-ba8b-2151c396b7a2
 translation-type: tm+mt
-source-git-commit: 32f5e03766466ceaafe58780e9e80dbdd4a0c3dd
+source-git-commit: 1df4f88ef856160ee06c43dc6ec430df122f2408
+workflow-type: tm+mt
+source-wordcount: '1032'
+ht-degree: 0%
 
 ---
 
@@ -105,7 +108,7 @@ U kunt de namen en e-mailadressen van gebruikers van het Portaal van Media in ee
 
 ## Het welkome e-mailbericht voor gebruikers van Media Portal instellen {#setting-up-the-welcome-e-mail-message-for-media-portal-users}
 
-U kunt een welkome e-mail verzenden wanneer u nieuwe gebruikers van het Portaal van Media, medewerkers, en medewerker-gebruikers toevoegt. U kunt dit e-mailbericht vormen of Dynamische Media Klassiek vertellen om het niet te verzenden.
+U kunt een welkome e-mail verzenden wanneer u nieuwe gebruikers van het Portaal van Media, medewerkers, en medewerker-gebruikers toevoegt. U kunt dit e-mailbericht vormen of Dynamic Media Klassiek vertellen om het niet te verzenden.
 
 1. Kies **Setup** > **Application Setup** > **Administration Setup** > **User Administration**.
 1. Klik in het scherm Gebruikersbeheerinstellingen op **E-mailinstellingen**.
@@ -113,9 +116,9 @@ U kunt een welkome e-mail verzenden wanneer u nieuwe gebruikers van het Portaal 
 
    **Schakel deze optie uit als u nieuwe gebruikers niet per e-mail wilt laten weten dat u hen hebt aangemeld.**
 
-   **Het standaardwachtwoord** gaat een tijdelijk wachtwoord voor nieuwe gebruikers in, of laat het gebied leeg om Dynamische Klassiek van Media te hebben willekeurige wachtwoorden produceren. Gebruikers wordt gevraagd wachtwoorden te wijzigen wanneer zij zich voor het eerst aanmelden.
+   **Het standaardwachtwoord** gaat een tijdelijk wachtwoord voor nieuwe gebruikers in, of laat het gebied leeg om Dynamic Media te hebben Klassiek willekeurige wachtwoorden produceren. Gebruikers wordt gevraagd wachtwoorden te wijzigen wanneer zij zich voor het eerst aanmelden.
 
-   **Vervangings-URL** Voer een andere URL in dan de standaard als uw gebruikers via een andere URL toegang krijgen tot Dynamic Media Classic.
+   **Vervangings-URL** Voer een andere URL in dan de standaard als uw gebruikers Dynamic Media Klassiek benaderen via een andere URL.
 
 ## Andere taken voor gebruikersbeheer {#other-user-management-tasks}
 
@@ -129,6 +132,6 @@ Beginnend op het scherm van de Opstelling van het Beleid van de Gebruiker, kunt 
 
 **Gebruikersgegevens** bewerken Voer actuele informatie over een gebruiker in. Zie Gebruikersgegevens bewerken.
 
-**Creeer user-defined gebieden** creëren douane, user-defined meta-gegevensgebieden om activa in het het Publiceren Scene7 Systeem te helpen organiseren. De velden kunnen desgewenst ook worden geactiveerd of gedeactiveerd.
+**Maak door de gebruiker gedefinieerde velden** Maak aangepaste, door de gebruiker gedefinieerde metagegevensvelden voor het ordenen van elementen in de Dynamic Media Klassiek. De velden kunnen desgewenst ook worden geactiveerd of gedeactiveerd.
 
 Zie Door [de gebruiker gedefinieerde velden](application-setup.md#user_defined_fields).
