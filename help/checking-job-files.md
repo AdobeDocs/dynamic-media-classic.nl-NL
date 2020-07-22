@@ -6,18 +6,21 @@ seo-description: Leer hoe u taakbestanden kunt controleren.
 uuid: 8241a894-3014-4a5c-96ef-71f3aaa3716a
 contentOwner: admin
 content-type: reference
-products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
+products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/upload_and_publish_assets
 discoiquuid: d53ae5dd-8daf-4d87-b9a6-3039bad30538
 translation-type: tm+mt
-source-git-commit: d5bf894d56687561c93ef08762bc19d3597225e6
+source-git-commit: 1df4f88ef856160ee06c43dc6ec430df122f2408
+workflow-type: tm+mt
+source-wordcount: '1602'
+ht-degree: 0%
 
 ---
 
 
 # Taakbestanden controleren{#checking-job-files}
 
-Om dossieruploads aan het het Publiceren Scene7 Systeem en dossiers te controleren u aan Dynamische Klassieke servers van Media publiceert, biedt SPS de pagina van Banen aan. U kunt het uploaden en publiceren banen op de pagina van Banen herzien, de status van banen controleren, en het annuleren van het publiceren banen van deze pagina. U kunt ook uploads en publicatietaken plannen.
+Om het dossier te controleren uploadt aan de Klassieke Dynamic Media en dossiers u aan de Klassieke servers van Dynamic Media publiceert, biedt de Klassieke Dynamic Media de pagina van Banen aan. U kunt het uploaden en publiceren banen op de pagina van Banen herzien, de status van banen controleren, en het annuleren van het publiceren banen van deze pagina. U kunt ook uploads en publicatietaken plannen.
 
 Wanneer u elementen uploadt, wordt een draaiend pictogram weergegeven naast het menu Taken. Dit geeft aan dat een taak wordt uitgevoerd en dat het aantal bestanden in uitvoering is. U kunt op het pictogram klikken om meer informatie over de actieve taak weer te geven.
 
@@ -67,7 +70,7 @@ Gebruik deze technieken om taken te sorteren of uw weergave van het tabblad Hist
 
 ## Een rapport met taakdetails weergeven, kopiëren of afdrukken {#viewing-copying-or-printing-a-job-details-report}
 
-Dubbelklik op de naam van een rapport op de pagina Taken om de pagina Taakdetails te openen. Deze pagina bevat een samenvattingsrapport over de bestanden in de taak. Klik het Detail van de Mening om SPS identiteitskaart van een ingang, bestemmingspad, en statusinformatie te zien. Als u een PDF- of PostScript-bestand hebt geüpload waarvoor fonts vereist zijn die niet beschikbaar zijn in SPS, worden in het rapport de ontbrekende fonts weergegeven.
+Dubbelklik op de naam van een rapport op de pagina Taken om de pagina Taakdetails te openen. Deze pagina bevat een samenvattingsrapport over de bestanden in de taak. Klik het Detail van de Mening om de Klassieke identiteitskaart van de Dynamic Media van een ingang, bestemmingspad, en statusinformatie te zien. Als u een PDF- of PostScript-bestand hebt geüpload waarvoor fonts vereist zijn die niet beschikbaar zijn in Dynamic Media Classic, worden in het rapport de ontbrekende fonts vermeld.
 
 U kunt deze gegevens naar het klembord kopiëren.
 
