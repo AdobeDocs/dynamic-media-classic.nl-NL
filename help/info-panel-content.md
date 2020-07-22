@@ -6,11 +6,14 @@ seo-description: Leer hoe u de inhoud van het deelvenster Info in eCatalogs behe
 uuid: 5aa634f9-0874-4bb5-a3d9-8ce4d5577941
 contentOwner: admin
 content-type: reference
-products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
+products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/ecatalogs
 discoiquuid: be277831-77cc-4011-ae30-e75c18eec99b
 translation-type: tm+mt
-source-git-commit: d5bf894d56687561c93ef08762bc19d3597225e6
+source-git-commit: 1df4f88ef856160ee06c43dc6ec430df122f2408
+workflow-type: tm+mt
+source-wordcount: '875'
+ht-degree: 1%
 
 ---
 
@@ -19,7 +22,7 @@ source-git-commit: d5bf894d56687561c93ef08762bc19d3597225e6
 
 Naast het gebruiken van de tekst van de Kaart van het Beeld voor uw rollovers in eCatalogs, kunt u een Comité van Info gebruiken om grotere hoeveelheden het omvergooientekst, met inbegrip van verbindingen toe te voegen. U kunt het InfoPanel ook beheren door getimed caching te gebruiken en inhoudsupdates te plannen.
 
-U kunt de opstelling en de gegevens van InfoPanel beheren gebruikend de volgende eigenschappen in Dynamische Klassiek van Media:
+U kunt uw opstelling InfoPanel en gegevens beheren gebruikend de volgende eigenschappen in Dynamic Media Klassiek:
 
 * In het deelvenster InfoPanel Setup kunt u de sjabloon opgeven die wordt gebruikt om de tekst in het deelvenster Info weer te geven, een standaardreactie voor fouten en het aantal uren dat de informatie in de cache wordt opgeslagen. Bovendien kunt u opgeven of de eCatalogs automatisch worden gepubliceerd.
 * In het deelvenster InfoPanel-gegevens kunt u een CSV-bestand opgeven met de tekst die u wilt weergeven in de rollovertekst van InfoPanel en kunt u de tijd voor het bijwerken van de gegevens plannen.
@@ -43,7 +46,7 @@ U kunt een van de drie vooraf ingestelde reactiesjablonen selecteren om tekst we
    * Selecteer een voorinstelling in het menu Reactiesjabloon. De XML voor het sjabloonontwerp wordt weergegeven in het vak Sjabloon gebruiker.
    * Selecteer Aangepast om uw eigen reactiesjabloon te maken. Typ de XML-definitie van de sjabloon in het vak Sjabloon gebruiker. U kunt de vooraf ingestelde malplaatjes als basis voor uw gebruiken.
 
-1. (Optioneel) Typ in het vak Standaardreactie de tekst die u wilt weergeven als bij Dynamische media Classic een fout optreedt bij het ophalen van informatie voor een afbeeldingskaart. Als het systeem bijvoorbeeld een bedrijfsnaam en een eCatalog-naam ontvangt, maar geen rollover-id, wordt dit bericht voor de gebruiker weergegeven.
+1. (Optioneel) Typ in het vak Standaardreactie de tekst die u wilt weergeven als bij Dynamic Media Classic een fout optreedt bij het ophalen van informatie voor een afbeeldingskaart. Als het systeem bijvoorbeeld een bedrijfsnaam en een eCatalog-naam ontvangt, maar geen rollover-id, wordt dit bericht voor de gebruiker weergegeven.
 1. Voer in het vak TTL-antwoord het aantal uren in dat u wilt wachten voordat u de gegevens in cache plaatst:
 
    * Stel een lager getal in als de gegevens vaak gedurende een dag worden bijgewerkt.
