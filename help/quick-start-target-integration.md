@@ -10,15 +10,15 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/target_classic_integration
 discoiquuid: f8c25768-cf59-45ec-8193-522404191d57
 translation-type: tm+mt
-source-git-commit: 38f5cf5264f9775a225d354ed9dc2f6caee236f2
+source-git-commit: 1ed0c74e3d2c94b22daa2fe2ac5c2a051e6768bc
 workflow-type: tm+mt
-source-wordcount: '478'
+source-wordcount: '481'
 ht-degree: 0%
 
 ---
 
 
-# Snel starten: Target Standard/Premium-integratie{#quick-start-target-integration}
+# Snel starten: Adobe Target Standard/Premium-integratie{#quick-start-target-integration}
 
 Met Adobe Target Standard/Premium wordt de controle rechtstreeks bij de marketers gelegd om snel en voortdurend meerdere A/B- en multivariate-tests uit te voeren, de doeltreffendheid te meten en de relevantie van online-inhoud te vergroten door segmentatie, doelgerichtheid en geautomatiseerde personalisatie.
 
@@ -34,7 +34,7 @@ Gebruik Target Standard/Premium HTML-aanbiedingen voor een betere aanpassing van
 
 Deze snelle start is ontworpen om snel aan de slag te gaan met Target Standard/Premium HTML-aanbiedingen. Voer stap 1 tot en met 3 uit. Na elke stap is een verwijzing naar een onderwerprubriek waar u meer informatie kunt vinden.
 
-**1. Voer de Target Standard/Premium-URL in het scherm Algemene instellingen van toepassing in.**
+**1. Voer de Adobe Target Standard/Premium-URL in het scherm Algemene instellingen van toepassing in.**
 
 Dynamic Media Classic heeft uw Target Standard/Premium-URL nodig om te integreren met Target Standard/Premium. Kopieer het gedeelte van uw Target Standard/Premium-URL tot en met *.com* en voer deze in het scherm Algemene instellingen van Dynamic Media toepassing in. Zie [Dynamic Media Classic integreren met Target Standard/Premium](integrating-dmc-with-target.md#integrating-dmc-with-target).
 
@@ -44,12 +44,12 @@ Gebruik een geparametriseerde sjabloon of afbeeldingen om een aanbiedingsset te 
 
 Als u een aanbieding met een sjabloon wilt maken, klikt u op **Toevoegen en voorvertonen**. Wijzig parameterwaarden in het scherm Toevoegen en voorvertoning.
 
-Als u een aanbieding met afbeeldingen wilt maken, sleept u de afbeeldingen naar het scherm Test&amp;Target Offerset. Klik op **Voorvertoning** om een voorinstelling voor afbeeldingen of alle afbeeldingen in de set met aanbiedingen te kiezen.
+Als u een aanbieding met afbeeldingen wilt maken, sleept u de afbeeldingen naar het scherm Test&amp;Target Offerset. Klik op **Voorvertoning** om een voorinstelling voor afbeeldingen of alle afbeeldingen in de aanbiedingsset te kiezen.
 
 Sla de aangeboden set op nadat u deze hebt gemaakt.
 
 Zie Een [aanbiedingsset](creating-offer-set.md#creating_an_offer_set)maken.
 
-**3. Push the aanbieding set to Target Standard/Premium**
+**3. Push the aanbieding set to Adobe Target Standard/Premium**
 
 Klik in het scherm Testi&amp;Target-aanbiedingsset op **Push-aanbiedingen** en voer uw aanmeldingsgegevens in het dialoogvenster Testen en Target aanmelden in. Zie [Pushing-aanbiedingen instellen op Target Standard/Premium](pushing-offer-sets-target.md#pushing_offer_sets_to_target).
