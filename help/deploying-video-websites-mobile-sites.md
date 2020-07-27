@@ -6,18 +6,21 @@ seo-description: Leer hoe u video implementeert op uw websites en mobiele sites.
 uuid: 22bb4402-c0ab-4df0-89b9-99707d111927
 contentOwner: admin
 content-type: reference
-products: SG_EXPERIENCEMANAGER/Dynamic-Media-Scene-7
+products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/video
 discoiquuid: 0d006314-c4cc-4f6c-a51c-6075bb445e39
 translation-type: tm+mt
-source-git-commit: 32f5e03766466ceaafe58780e9e80dbdd4a0c3dd
+source-git-commit: 1df4f88ef856160ee06c43dc6ec430df122f2408
+workflow-type: tm+mt
+source-wordcount: '1689'
+ht-degree: 1%
 
 ---
 
 
 # Video gebruiken op uw websites en mobiele sites{#deploying-video-to-your-websites-and-mobile-sites}
 
-Websites, mobiele sites en bureaubladtoepassingen hebben via URL-tekenreeksen of ingesloten code toegang tot Dynamic Media Classic-serverinhoud, zoals video. Dynamic Media Classic activeert deze URL-tekenreeksen tijdens het publicatieproces. Om het koord URL of bedt code voor uw video in uw Web-pagina&#39;s, mobiele pagina&#39;s, en Desktoptoepassingen te plaatsen, kopieer het van het het Publiceren Scene7 Systeem.
+Websites, mobiele sites en bureaubladtoepassingen hebben via URL-tekenreeksen of ingesloten code toegang tot Dynamic Media Klassieke serverinhoud, waaronder video. Dynamic Media Classic activeert deze URL-tekenreeksen tijdens het publicatieproces. Als u de URL-tekenreeks of de insluitcode voor uw video wilt plaatsen in uw webpagina&#39;s, mobiele pagina&#39;s en bureaubladtoepassingen, kopieert u deze uit Dynamic Media Classic.
 
 >[!NOTE]
 >
@@ -25,7 +28,7 @@ Websites, mobiele sites en bureaubladtoepassingen hebben via URL-tekenreeksen of
 
 ## Video publiceren {#publishing-video}
 
-Wanneer u een video publiceert, kunnen Dynamic Media Classic Servers video&#39;s leveren aan uw website, mobiele site of toepassing.
+Als u een video publiceert, kunnen Dynamic Media Classic Servers video leveren aan uw website, mobiele site of toepassing.
 
 Er zijn twee verschillende methoden waarmee u video kunt publiceren:
 
@@ -37,7 +40,7 @@ Er zijn twee verschillende methoden waarmee u video kunt publiceren:
 
    Als u video&#39;s niet meteen wilt publiceren, kunt u de video&#39;s op elk gewenst moment handmatig publiceren.
 
-Nadat u video&#39;s publiceert, activeert het het Publiceren Scene7 Systeem de koorden URL voor uw HTML- pagina of toepassingscode.
+Nadat u video&#39;s publiceert, activeert Dynamic Media Classic de URL-tekenreeksen voor uw HTML-pagina of toepassingscode.
 
 **Video publiceren**
 
@@ -109,7 +112,7 @@ Zie ook Een video-URL [koppelen aan een mobiele site of website](deploying-video
 
 ### Insluitcode implementeren voor het gebruik van HTML5-video met MP4-video-elementen {#implementing-embed-code-for-using-html-video-with-mp-video-assets}
 
-Als u de Dynamic Media Classic HTML5-videospeler niet gebruikt, maar in plaats daarvan de native HTML5- `<video>` tag met MP4-video-elementen wilt gebruiken, kunt u het volgende voorbeeld van de ingesloten code gebruiken:
+Als u de Dynamic Media Classic HTML5-videospeler niet gebruikt, maar in plaats daarvan de native HTML5- `<video>` tag wilt gebruiken met MP4-video-elementen, kunt u het volgende voorbeeld van de ingesloten code gebruiken:
 
 ```as3
 <video poster="S7 video thumbnail URL" controls> 
@@ -133,15 +136,16 @@ Als u de Dynamic Media Classic HTML5-videospeler niet gebruikt, maar in plaats d
 
 ## Video implementeren met een externe videospeler {#deploying-video-using-a-third-party-video-player}
 
-Als u een videospeler van derden of een aangepaste ingebouwde videospeler in plaats van een Dynamic Media Classic-videoviewer gebruikt, kunt u de directe video-URL verkrijgen die geschikt is voor videostreaming met meerdere bitsnelheden van HLS of progressief downloaden.
+Als u een videospeler van derden of een aangepaste ingebouwde videospeler in plaats van een klassieke videoviewer van Dynamic Media gebruikt, kunt u de directe video-URL verkrijgen die geschikt is voor videostreaming met meerdere bitsnelheden van HLS of progressief downloaden.
 
 **Video implementeren met een externe videospeler**
 
-1. In het Publiceren Scene7 Systeem, op de Globale bar van de Navigatie, klik **Opstelling** > de Opstelling **van de** Toepassing > **Algemene Montages**.
+1. Klik in Dynamic Media Classic op de algemene navigatiebalk op **Instellingen** > **Toepassingsinstelling** > **Algemene instellingen**.
 1. Voer afhankelijk van het type URL dat u wilt gebruiken een van de volgende taken uit:
 * Een directe URL voor HLS-streaming video (multi-bitsnelheid) genereren
 
-   Voor de pagina van de Montages **van de Algemene** Toepassing, in de groep van **Servers** , op het **Gepubliceerde de tekstgebied van de Naam** van de Server, construeert direct URL gebruikend de volgende syntaxis: Stel `server/is/content/company/folder/filename.m3u8``https://s7d9.scene7.com/.` bijvoorbeeld dat de naam van de gepubliceerde server de syntaxis in stap 2 gebruikt, de directe URL er als volgt uitziet:
+   Voor de pagina van de Montages **van de Algemene** Toepassing, in de groep van **Servers** , op het **Gepubliceerde de tekstgebied van de Naam** van de Server, construeert direct URL gebruikend de volgende syntaxis: `server/is/content/company/folder/filename.m3u8`
+Stel dat de naam van de gepubliceerde server de syntaxis in stap 2 gebruikt, de directe URL er als volgt uitziet: `https://s7d9.scene7.com/.`
    `https://s7d9.scene7.com/is/content/GeoRetail/AdobeRIA-AVS.m3u8`
 
 * Een directe URL voor HLS-streaming video (enkele bitsnelheid) genereren
@@ -153,18 +157,19 @@ Stel dat de naam van de HLS-streamingserver `https://s7mbrstream.scene7.com/hls-
 
 * Een direct progressieve video-URL genereren
 
-   Construct u op de pagina Algemene instellingen **van** toepassing in de groep **Servers** in het tekstveld Naam **van** progressieve videoclip de directe eVideo-URL met behulp van de volgende syntaxis: Stel `server/company/folder/filename`dat de naam van de progressieve videoserver `https://s7d9.scene7.com/is/content/`is. Met de syntaxis in stap 2 kan de directe URL er als volgt uitzien:
+   Construct u op de pagina Algemene instellingen **van** toepassing in de groep **Servers** in het tekstveld Naam **van** progressieve videoclip de directe eVideo-URL met behulp van de volgende syntaxis: `server/company/folder/filename`
+Stel dat de naam van de progressieve videoserver `https://s7d9.scene7.com/is/content/`is. Met de syntaxis in stap 2 kan de directe URL er als volgt uitzien:
    `https://s7d9.scene7.com/e2/GeoRetail/SourceVideo/outdoors.mp4`
 
 ## Werken met videominiaturen {#working-with-video-thumbnails}
 
-Met Dynamic Media Classic worden miniaturen voor gecodeerde video&#39;s en vooraf gecodeerde video&#39;s gegenereerd. U kunt videominiaturen gebruiken zoals elk afbeeldingselement. Bovendien kunt u URLs voor de videoduimnagels verkrijgen die de Dynamische Klassieke Media deze URLs buiten SPS produceert en opstelt. U kunt bijvoorbeeld de miniaturen in zoekresultaten, verwante videobestanden en videoafspeellijsten op een website implementeren.
+Met Dynamic Media Classic worden miniaturen voor gecodeerde video&#39;s en vooraf gecodeerde video&#39;s gegenereerd. U kunt videominiaturen gebruiken zoals elk afbeeldingselement. Bovendien kunt u URLs voor de videoduimnagels verkrijgen die de Klassieke Dynamic Media produceert en deze URLs buiten Klassieke Dynamic Media opstelt. U kunt bijvoorbeeld de miniaturen in zoekresultaten, verwante videobestanden en videoafspeellijsten op een website implementeren.
 
 Miniaturen worden gegenereerd op basis van het eerste heterogene frame (niet een volledig zwart frame, of een helemaal wit frame enzovoort) van de video.
 
 ### URL&#39;s met videominiaturen ophalen {#obtaining-video-thumbnail-urls}
 
-Dynamic Media Classic genereert automatisch videominiaturen tijdens het uploadproces. De miniaturen worden weergegeven in de lijstweergave en de rasterweergave van het deelvenster Bladeren.
+Met Dynamic Media Classic worden automatisch videominiaturen tijdens het uploaden gegenereerd. De miniaturen worden weergegeven in de lijstweergave en de rasterweergave van het deelvenster Bladeren.
 
 Als u URL&#39;s voor videominiaturen wilt genereren, voert u een publicatiebewerking uit.
 
@@ -174,7 +179,7 @@ Na publicatie kunt u videominiaturen-URL&#39;s opvragen in de gedetailleerde wee
 
 ### Posterframes wijzigen in videoviewers {#modifying-poster-frames-in-video-viewers}
 
-Het *posterframe* is het eerste frame dat in videoviewers wordt weergegeven voordat de video wordt afgespeeld. Dynamic Media Classic gebruikt videominiaturen als posterframes.
+Het *posterframe* is het eerste frame dat in videoviewers wordt weergegeven voordat de video wordt afgespeeld. In de klassieke Dynamic Media worden videominiaturen als posterframes gebruikt.
 
 U kunt afbeeldingsaanpassingen toepassen op het posterframe. U kunt bijvoorbeeld het posterframe uitsnijden of transparant maken. Als u het posterframe wilt wijzigen, opent u het configuratiescherm voor de videoviewer en voert u modifiers in de sectie Modifiers voor posterafbeelding in.
 
