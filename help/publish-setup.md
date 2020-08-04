@@ -9,9 +9,9 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 discoiquuid: cba59093-28b6-4490-b838-d942b72ad1ec
 translation-type: tm+mt
-source-git-commit: 1df4f88ef856160ee06c43dc6ec430df122f2408
+source-git-commit: 5622464ae7ae9cd47b7674449c7d1f7897bf4319
 workflow-type: tm+mt
-source-wordcount: '2397'
+source-wordcount: '2403'
 ht-degree: 0%
 
 ---
@@ -37,7 +37,7 @@ Wijzig deze instellingen alleen met de hulp van een Dynamic Media Classic-onders
 
 **Catalogusbeheer** Deze instellingen bepalen hoe Dynamic Media Klassiek en de catalogus op elkaar inwerken. In tegenstelling tot de meeste Webservers, gaan de vraag van de Server URL van het Beeld van Dynamic Media naar manifest-of catalogusdossier eerder dan een beelddossier juist. Het catalogusbestand (dat niet moet worden verward met een eCatalog) bevat een lijst met alle inhoud die naar de afbeeldingsserver is gepubliceerd, samen met het pad naar elke afbeelding. Als u een Digimarc-id hebt, voert u uw gebruikersgegevens in het gedeelte Digimarc-gebruikersinfo in.
 
-**Kenmerken** aanvragen Deze instellingen leggen limieten op aan afbeeldingen die van de server kunnen worden geleverd.
+**Kenmerken** aanvragen Deze instellingen leggen limieten op aan afbeeldingen die van de server kunnen worden geleverd. Het *maximum* is bijvoorbeeld **[!UICONTROL Reply Image Size Limit]** 5000 en **[!UICONTROL Width]** **[!UICONTROL Height]** 5000.
 
 **Standaardaanvraagkenmerken** Deze instellingen hebben betrekking op de standaardweergave van afbeeldingen.
 
@@ -54,7 +54,7 @@ Wijzig deze instellingen alleen met de hulp van een Dynamic Media Classic-onders
 Als u bijvoorbeeld een nationaal merk bent dat in verschillende landen verkoopt, kunt u ervoor zorgen dat elk land zijn eigen landspecifieke viewer heeft. Voor deze functionaliteit geeft u een tekenreeks voor de landinstellingenkaart op. Vervolgens bewerkt u de knopinfo-tekst in de voorinstelling van een viewer door de vertaalde tekstreeksen toe te voegen voor de gewenste taal.
 
 >[!NOTE]
-> Als u Localization Support-opties wilt instellen, neemt u contact op met de Klassieke Technische ondersteuning van Adobe Dynamic Media of stuurt u een e-mail naar s7support@adobe.com met het verzoek om hulp bij de installatie.
+> Als u Localization Support-opties wilt instellen, neemt u contact op met de Klassieke Technische ondersteuning van Adobe Dynamic Media of stuurt u een e-mail naar s7support@adobe.com om hulp bij de installatie te vragen.
 
 Zie **Overwegingen bij het instellen van lokalisatie van middelen** voor meer informatie over het instellen van [lokalisatieondersteuning](publish-setup.md#considerations_when_setting_up_localization_of_assets).
 
