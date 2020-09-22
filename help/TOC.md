@@ -1,33 +1,33 @@
 ---
 cloud: experience-cloud
-product: dynamic media classic
+product: Adobe Dynamic Media Classic
 audience: end-user
-user-guide-title: Dynamic Media Klassieke Help
+user-guide-title: Adobe Dynamic Media Classic Guide
 index: y
 translation-type: tm+mt
-source-git-commit: 1ed0c74e3d2c94b22daa2fe2ac5c2a051e6768bc
+source-git-commit: 17e152e3768f527a9db2eadb664ca420778372ae
 workflow-type: tm+mt
-source-wordcount: '737'
+source-wordcount: '739'
 ht-degree: 1%
 
 ---
 
 
-# Dynamic Media Klassieke Help {#using}
+# Adobe Dynamic Media Classic Guide {#using}
 
-+ [Dynamic Media Klassieke Documentatie Home](home.md)
++ [Adobe Dynamic Media Classic Guide](home.md)
 + [Zelfstudie over best practices](https://docs.adobe.com/content/help/en/experience-manager-learn/dynamic-media-classic-tutorial/overview.html)
-+ [NIEUWE Dynamic Media Klassiek aanmelden nu beschikbaar](new-ui-2020.md)
-+ [Dynamic Media Nieuwsbrief van Experience League](dynamic-media-newsletter.md)
-+ Inleiding tot Adobe Dynamic Media Classic {#intro}
-   + [Adobe Dynamic Media Classic Desktop-app - Nu beschikbaar](dynamic-media-classic-desktop-app.md)
++ [NEW Dynamic Media Classic-ervaring nu beschikbaar](new-ui-2020.md)
++ [Dynamic Media-nieuwsbrief van Experience League](dynamic-media-newsletter.md)
++ Introductie van Adobe Dynamic Media Classic {#intro}
+   + [Adobe Dynamic Media Classic-bureaubladtoepassing - Nu beschikbaar](dynamic-media-classic-desktop-app.md)
    + [Info over Dynamic Media Classic Help](introduction.md)
    + [Bronnen voor ontwikkelaars](developer-resources.md)
    + [Nieuwe functies](whats-new.md)
    + [Systeemvereisten](system-requirements.md)
    + [Ondersteuning](support.md)
    + [Help voor Dynamic Media Classic Media Portal](help-dmc-media-portal.md)
-   + [Adobe Training Services](training-services.md)
+   + [Adobe Training](training-services.md)
    + [Populaire bronnen](popular-resources.md)
    + [Trainingsvideo&#39;s](training-videos.md)
 + Aan de slag {#getting-started}
@@ -77,8 +77,8 @@ ht-degree: 1%
    + [Uw werk organiseren met projecten](organizing-projects.md)
 + Afbeeldingsgrootte {#image-sizing}
    + [Snel starten: Afbeeldingsgrootte](quick-start-image-sizing.md)
-   + [master afbeeldingen uploaden](uploading-master-images.md)
-   + [master afbeeldingen publiceren](publishing-master-images.md)
+   + [Master afbeeldingen uploaden](uploading-master-images.md)
+   + [Master afbeeldingen publiceren](publishing-master-images.md)
    + [Voorinstellingen afbeelding instellen](setting-image-presets.md)
    + [URL&#39;s koppelen aan uw webtoepassing](linking-urls-web-application.md)
 + Zoomen {#zoom}
@@ -149,14 +149,14 @@ ht-degree: 1%
    + [Snel starten: Dynamic Media Classic integreren met Adobe Analytics](quick-start-integrating-dmc-analytics.md)
    + [Aanmelden bij Adobe Analytics](log-analytics.md)
    + [Adobe Analytics-rapporten configureren](configuring-analytics-reports.md)
-   + [Een viewer besturen met de Adobe Analytics Instrumentation Kit](instrumenting-viewer-using-analytics-instrumentation.md)
+   + [Een viewer van instrumenten voorzien met de Adobe Analytics Instrumentation Kit](instrumenting-viewer-using-analytics-instrumentation.md)
    + [Adobe Analytics-tracking uitschakelen](disabling-analytics-tracking.md)
-   + [De integratie testen door een Adobe Analytics-rapport te bekijken](testing-integration-viewing-analytics-report.md)
+   + [Integratie testen door een Adobe Analytics-rapport te bekijken](testing-integration-viewing-analytics-report.md)
    + [Adobe Analytics-videorapporten inschakelen](enabling-analytics-video-reports.md)
    + [Adobe Analytics-configuratiegegevens publiceren](publishing-analytics-configuration-information.md)
 + Adobe Target Standard/Premium-integratie {#target-classic}
    + [Snel starten: Adobe Target Standard/Premium-integratie](quick-start-target-integration.md)
-   + [Dynamic Media Klassiek integreren met Adobe Target Standard/Premium](integrating-dmc-with-target.md)
+   + [Dynamic Media Classic integreren met Adobe Target Standard/Premium](integrating-dmc-with-target.md)
    + [Een aanbiedingsset maken](creating-offer-set.md)
    + [Aanbiedingssets worden ingesteld op Adobe Target Standard/Premium](pushing-offer-sets-target.md)
 + Door de gebruiker gegenereerde inhoud {#user-generated-content}
