@@ -10,10 +10,10 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/introducing_adobe_scene7
 discoiquuid: 05e443b2-ac15-4d87-859a-271699593304
 translation-type: tm+mt
-source-git-commit: a77f7544b5b29cb73afcee2c250b6f22af08c249
+source-git-commit: df88ca77d3f9c40c59d796e6854942b93cef5729
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '187'
+ht-degree: 4%
 
 ---
 
@@ -30,7 +30,7 @@ De technische steunaanbiedingen worden ontworpen om aan de behoeften van om het 
 | Ondersteunde gebruikers | Tot tien gebruikers per organisatie kunnen worden aangewezen als ondersteunde gebruikers, die zaken kunnen openen met de klantenservice. |
 | Sociale ondersteuning | Zie de veelgestelde vragen op [https://helpx.adobe.com/contact/enterprise-support.ec.html](https://helpx.adobe.com/nl/contact/enterprise-support.ec.html). |
 | Gratis live webtraining en videozelfstudies | Opgenomen. |
-| E-mailondersteuning | <ul><li>VS/Canada: s7support@adobe.com</li> <li>Japan: s7support_jp@adobe.com</li><li>Europa/Midden-Oosten/Afrika: s7intsupport@adobe.com</li></ul> |
+| Een draagtas maken | [https://helpx.adobe.com/enterprise/admin-guide.html/enterprise/using/support-for-experience-cloud.ug.html](https://helpx.adobe.com/enterprise/admin-guide.html/enterprise/using/support-for-experience-cloud.ug.html) |
 | Telefonische ondersteuning | <ul><li>VS/Canada: (800) 898-9743, (800)497-033, (408)454-5910 </li> <li>Japan: +81-3-6743-9632 </li><li>VK: +44 (0)20 35641782</li><li>Duitsland: +49 (0)69 51709005</li><li>Frankrijk: +33 157324085</li><li>Nederland: +31 (0)20 2035138 (ondersteuning in het Engels)</li></ul> |
 
 Neem deze informatie op wanneer u problemen aan Technische ondersteuning rapporteert:
