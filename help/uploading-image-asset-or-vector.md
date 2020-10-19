@@ -9,9 +9,9 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 discoiquuid: de21dca9-99fe-4183-b647-debfe112fda4
 translation-type: tm+mt
-source-git-commit: 1df4f88ef856160ee06c43dc6ec430df122f2408
+source-git-commit: df88ca77d3f9c40c59d796e6854942b93cef5729
 workflow-type: tm+mt
-source-wordcount: '1522'
+source-wordcount: '1536'
 ht-degree: 0%
 
 ---
@@ -23,9 +23,9 @@ Voordat u een afbeeldingselement kunt uploaden, vraagt u eerst om een sleutel vo
 
 ## Een gedeelde geheime sleutel aanvragen {#requesting-a-shared-secret-key}
 
-Vraag om een sleutel *van* gedeeld geheim door een e-mail naar Scene 7 Technische Steun in s7support@adobe.com te verzenden.
+Vraag een *gedeelde geheime sleutel* door de Admin Console te [gebruiken om een steungeval tot stand te brengen.](https://helpx.adobe.com/enterprise/admin-guide.html/enterprise/using/support-for-experience-cloud.ug.html) In uw steungeval, verzoek om een gedeelde geheime sleutel.
 
-Geef in het e-mailbericht de bedrijfsnaam op die u wilt gebruiken om afbeeldingselementen te uploaden. Nadat u de sleutel van Dynamic Media Klassiek ontvangt, bewaar het plaatselijk voor toekomstig gebruik.
+Geef in het e-mailbericht de bedrijfsnaam op die u wilt gebruiken om afbeeldingselementen te uploaden. Nadat u de sleutel van Dynamische Media Klassiek ontvangt, bewaar het plaatselijk voor toekomstig gebruik.
 
 ## Het uploadtoken ophalen {#retrieving-the-upload-token}
 
@@ -39,7 +39,7 @@ Het uploadtoken is een alfanumerieke tekenreeks die alleen voor een bepaalde hoe
 * Vector
    `https://s7ugc1.scene7.com/ugc/vector?op=get_uploadtoken&shared_secret=2d19f60e-890a-4e79-a1a5-9ac2875429b9`In dit voorbeeld is de sleutel voor gedeeld geheim `2d19f60e-890a-4e79-a1a5-9ac2875429b9`
 
-Standaard verloopt het uploadtoken vijf minuten (300 seconden) nadat u het hebt opgehaald. Als u meer tijd wilt aanvragen, neemt u `expires` de URL op en neemt u de hoeveelheid tijd op die u nodig hebt in seconden. Met de volgende voorbeeld-URL van de afbeelding wordt bijvoorbeeld een uploadtoken opgehaald dat 1800 seconden geldig is:
+Standaard verloopt het uploadtoken vijf minuten (300 seconden) nadat u het hebt opgehaald. Als u meer tijd wilt aanvragen, neemt u `expires` de URL op en neemt u de hoeveelheid tijd op die u nodig hebt in seconden. Met de volgende voorbeeldafbeelding haalt u bijvoorbeeld een uploadtoken op dat 1800 seconden geldig is:
 
 ```as3
 https://s7ugc1.scene7.com/ugc/image?op=get_uploadtoken&shared_secret=fece4b21-87ee-47fc-9b99-2e29b78b602&expires=1800
@@ -195,7 +195,7 @@ Verzend het element dat u wilt uploaden als multipart/form-post terwijl u de ove
 
 >[!NOTE]
 >
->U moet het element dat u wilt uploaden verzenden als het enige veld in een POST-aanvraag met meerdere delen.
+>U moet het te uploaden element verzenden als het enige veld in een aanvraag voor een multipart-POST.
 
 **Voorbeeld-URL:**
 
@@ -386,7 +386,7 @@ Verzend het element dat u wilt uploaden als multipart/form-post terwijl u de ove
 
 >[!NOTE]
 >
->U moet het element dat u wilt uploaden verzenden als het enige veld in een POST-aanvraag met meerdere delen.
+>U moet het te uploaden element verzenden als het enige veld in een aanvraag voor een multipart-POST.
 
 **Voorbeeld-URL:**
 
