@@ -1,11 +1,18 @@
 ---
-source-git-commit: 648e8068125cca090a5f31a44c3795755a2b996f
+source-git-commit: 9168ecfc0871874c71f9338e27a48e04aea47804
+workflow-type: tm+mt
 translation-type: tm+mt
+source-wordcount: '155'
+ht-degree: 0%
 
 ---
 # Adobe Dynamic Media Classic-documentatie
 
-Dit is de opslagplaats voor de dynamische documentatie van Media Classic van Adobe.
+| EXL-PR | EXL | Voorvertoning | Activeren | Gepubliceerd | Help |
+|--- |--- |--- |--- |--- |--- |
+| [![Status samenstellen](https://docs.ci.corp.adobe.com/view/exl-pr/job/dynamic-media-classic.en_pr-exl/badge/icon)](https://docs.ci.corp.adobe.com/view/exl-pr/job/dynamic-media-classic.en_pr-exl/lastBuild/) | [![Status samenstellen](https://docs.ci.corp.adobe.com/view/exl-pr/job/dynamic-media-classic.en_exl/lastBuild/badge/icon)](https://docs.ci.corp.adobe.com/view/exl-pr/job/dynamic-media-classic.en_exl/lastBuild/lastBuild) | [Voorbeeld-URL](https://experienceleague.corp.adobe.com/docs/dynamic-media-classic/using/home.html?lang=en) | [activate-exl](https://docs.ci.corp.adobe.com/job/activate-exl/build/) | [Live URL](https://experienceleague.adobe.com/docs/dynamic-media-classic/using/home.html?lang=en) | [Ontwerphandleiding](https://experienceleague.adobe.com/docs/authoring-guide-exl/using/home.html?lang=en) |
+
+Dit is de opslagplaats voor Adobe Dynamic Media Classic-documentatie.
 
 Uw bijdragen aan de documentatie zijn welkom. Zie de volgende bronnen:
 
