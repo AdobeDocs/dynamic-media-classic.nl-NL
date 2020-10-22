@@ -8,9 +8,9 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/introducing_adobe_dynamic_media_classic
 translation-type: tm+mt
-source-git-commit: 3f79517399e9f242149b66c1b71f6cca26bdb37d
+source-git-commit: e6deebcd9acd2125629f65d1d21171f5ac2ce696
 workflow-type: tm+mt
-source-wordcount: '1382'
+source-wordcount: '1381'
 ht-degree: 0%
 
 ---
@@ -45,7 +45,7 @@ Adobe Dynamic Media Classic-bureaubladtoepassing is compatibel met de volgende b
 
 Zie ook:
 
-* [Download en installeer de nieuwste Adobe Dynamic Media Classic-bureaubladtoepassing op Mac of Windows](#installation-dmc-app)
+* [Download en stil de nieuwste Adobe Dynamic Media Classic-bureaubladtoepassing op de Mac](#install-silent-mac-dmc-app)
 * [Download en stil de nieuwste Adobe Dynamic Media Classic-bureaubladtoepassing in Windows](#install-silent-windows-dmc-app)
 
 1. Verwijder eventuele oudere versies van Dynamic Media Classic-bureaubladtoepassingen op uw systeem.
@@ -143,7 +143,7 @@ Het bevel dat u gebruikt is voor een basisMSI stille installatie. Het Dynamic Me
 Zie ook:
 
 * [Download en installeer de nieuwste Adobe Dynamic Media Classic-bureaubladtoepassing op Mac of Windows](#installation-dmc-app)
-* [Download en stil de nieuwste Adobe Dynamic Media Classic-bureaubladtoepassing in Windows](#install-silent-windows-dmc-app)
+* [Download en stil de nieuwste Adobe Dynamic Media Classic-bureaubladtoepassing op MacOS](#install-silent-mac-dmc-app)
 
 U kunt als volgt de nieuwste versie van de Adobe Dynamic Media Classic-bureaubladtoepassing op Windows downloaden en *stil* plaatsen:
 
