@@ -8,7 +8,7 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/introducing_adobe_dynamic_media_classic
 translation-type: tm+mt
-source-git-commit: bc79edcdb378fab906df851971acd33f8af18105
+source-git-commit: bfe4bc1898e781780202dc311b643dc7a4c7b146
 workflow-type: tm+mt
 source-wordcount: '1381'
 ht-degree: 0%
@@ -58,13 +58,13 @@ Zie ook:
 
    De nieuwste versie is 20.20.2 beschikbaar op de volgende website:
 
-   * [macOS (.DMG) - Download.](http://download.macromedia.com/dynamic-media-classic/20.20.2/adobe-dynamic-media-classic-20.20.2.dmg)
-   * [Windows (.EXE) - Downloaden.](http://download.macromedia.com/dynamic-media-classic/20.20.2/adobe-dynamic-media-classic-20.20.2.exe)
+   * [macOS (.DMG) - Download.](https://download.macromedia.com/dynamic-media-classic/20.20.2/adobe-dynamic-media-classic-20.20.2.dmg)
+   * [Windows (.EXE) - Downloaden.](https://download.macromedia.com/dynamic-media-classic/20.20.2/adobe-dynamic-media-classic-20.20.2.exe)
 
    GA (Algemene Beschikbaarheid) versie was 20.20.1 beschikbaar op het volgende:
 
-   * [macOS (.DMG) - Download.](http://download.macromedia.com/dynamic-media-classic/20.20.1/adobe-dynamic-media-classic-20.20.1.dmg)
-   * [Windows (.EXE) - Downloaden.](http://download.macromedia.com/dynamic-media-classic/20.20.1/adobe-dynamic-media-classic-20.20.1.exe)
+   * [macOS (.DMG) - Download.](https://download.macromedia.com/dynamic-media-classic/20.20.1/adobe-dynamic-media-classic-20.20.1.dmg)
+   * [Windows (.EXE) - Downloaden.](https://download.macromedia.com/dynamic-media-classic/20.20.1/adobe-dynamic-media-classic-20.20.1.exe)
 
 
 
@@ -111,7 +111,7 @@ U kunt als volgt de nieuwste versie van de Adobe Dynamic Media Classic-bureaubla
 
 1. Download het nieuwste installatieprogramma voor de Adobe Dynamic Media Classic-bureaubladtoepassing voor macOS.
 
-   * [macOS (.DMG) - Download.](http://download.macromedia.com/dynamic-media-classic/20.20.1/adobe-dynamic-media-classic-20.20.2.dmg)
+   * [macOS (.DMG) - Download.](https://download.macromedia.com/dynamic-media-classic/20.20.2/adobe-dynamic-media-classic-20.20.2.dmg)
 
 1. Koppel het gedownloade beeld van de Schijf (.DMG) aan een montageselocatie gebruikend het volgende bevel:
 
@@ -151,7 +151,7 @@ U kunt als volgt de nieuwste versie van de Adobe Dynamic Media Classic-bureaubla
 
 1. Download het nieuwste installatieprogramma voor de Adobe Dynamic Media Classic-bureaubladtoepassing.
 
-   * [Windows (.EXE) - Downloaden.](http://download.macromedia.com/dynamic-media-classic/20.20.1/adobe-dynamic-media-classic-20.20.2.exe)
+   * [Windows (.EXE) - Downloaden.](https://download.macromedia.com/dynamic-media-classic/20.20.2/adobe-dynamic-media-classic-20.20.2.exe)
 
 1. Voer het installatieprogramma in recordmodus uit met de volgende opdracht:
 
