@@ -10,7 +10,7 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/managing_assets
 discoiquuid: 553c95fc-0a41-4f06-af50-a62bc1438149
 translation-type: tm+mt
-source-git-commit: 1df4f88ef856160ee06c43dc6ec430df122f2408
+source-git-commit: 9424b392f85536dc75083d0ade255e4824755ed1
 workflow-type: tm+mt
 source-wordcount: '535'
 ht-degree: 0%
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # De map Prullenbak beheren{#managing-the-trash-folder}
 
-Items die u uit Dynamic Media Classic verwijdert, worden naar de map Prullenbak verplaatst. Ze blijven zeven dagen in deze map totdat ze worden hersteld of permanent worden verwijderd. U kunt verwijderde items controleren door het prullenbakpictogram onder aan de Asset Library te selecteren en items in de map Prullenbak weer te geven.
+Items die u verwijdert uit Dynamic Media Classic, worden verplaatst naar de map Prullenbak. Ze blijven zeven dagen in deze map totdat ze worden hersteld of permanent worden verwijderd. U kunt verwijderde items controleren door het prullenbakpictogram onder aan de Asset Library te selecteren en items in de map Prullenbak weer te geven.
 
 Alle gebruikers kunnen items in de map met prullenmand terugzetten naar de mappen waaruit ze zijn verwijderd. Alle gebruikers kunnen ook de prullenmand leeg maken met alle inhoud ervan.
 
@@ -28,19 +28,19 @@ Als u items verwijdert uit de map Prullenbak, worden items definitief verwijderd
 
 >[!NOTE]
 >
->Elementen die naar de map Prullenmand zijn verplaatst, worden nog steeds geregistreerd bij Dynamic Media Classic. Als u een bestand probeert te uploaden dat dezelfde naam heeft als een verwijderd bestand in de map met prullenmand, behandelt Dynamic Media Classic het element dat u wilt uploaden als een gedupliceerd element. Er wordt dan een nummer aan de naam toegevoegd.
+>Elementen die naar de map Prullenmand zijn verplaatst, worden nog steeds geregistreerd op Dynamic Media Classic. Als u een bestand probeert te uploaden dat dezelfde naam heeft als een verwijderd bestand in de map met prullenmand, behandelt Dynamic Media Classic het element dat u wilt uploaden als een gedupliceerd element. Er wordt dan een nummer aan de naam toegevoegd.
 
 ## De map Prullenbak {#about-the-trash-folder}
 
 Als u een item in een map verwijdert, wordt het item in de map Prullenbak geplaatst. Het volgende gebeurt wanneer u een item verwijdert en naar de map Prullenbak verplaatst:
 
-* Hoewel het item uit de klassieke mappen van Dynamic Media is verwijderd, kan de id niet aan een ander element worden toegewezen zolang het zich in de prullenmand bevindt. Als u een element probeert te uploaden met dezelfde naam als een bestand in de map Prullenmand, voegt Dynamic Media Classic een cijfer toe aan de naam van het element.
+* Hoewel het item is verwijderd uit de dynamische Media Classic-mappen, kan de id niet worden toegewezen aan een ander element zolang het zich in de prullenmand bevindt. Als u een element probeert te uploaden met dezelfde naam als een bestand in de map Prullenbak, voegt Dynamic Media Classic een cijfer toe aan de naam van het element.
 * Het item kan niet worden gepubliceerd. Zelfs als het item was gemarkeerd voor publicatie toen u het wist, wordt het niet gepubliceerd.
 * Het item blijft in de map met prullenmand staan totdat het is hersteld, zeven dagen zijn verstreken of totdat iemand de opdracht Leeg de prullenmand heeft gekozen. Na zeven dagen verwijdert een automatische opschoonbewerking het item definitief.
 
 ## Elementen herstellen vanuit de map Prullenmand {#restoring-assets-from-the-trash-folder}
 
-De persoon die een middel heeft verwijderd, hoeft dit niet te herstellen. iedereen kan middelen herstellen vanuit de map Prullenmand. Elementen die worden hersteld, worden geplaatst in de mappen waaruit ze zijn verwijderd. Als deze mappen niet meer bestaan, maakt Dynamic Media Classic ze opnieuw en worden de herstelde elementen in de opnieuw gemaakte mappen geplaatst.
+De persoon die een middel heeft verwijderd, hoeft dit niet te herstellen. iedereen kan middelen herstellen vanuit de map Prullenmand. Elementen die worden hersteld, worden geplaatst in de mappen waaruit ze zijn verwijderd. Als deze mappen niet meer bestaan, worden ze opnieuw gemaakt door Dynamic Media Classic en worden de herstelde elementen in de opnieuw gemaakte mappen geplaatst.
 
 Ga als volgt te werk om middelen van de map Prullenbak te herstellen naar de mappen waaruit ze zijn verwijderd:
 
