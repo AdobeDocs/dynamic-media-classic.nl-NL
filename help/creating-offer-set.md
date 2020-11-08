@@ -10,7 +10,7 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/target_integration
 discoiquuid: 59b6437d-c21e-4929-9291-3032dbb34565
 translation-type: tm+mt
-source-git-commit: 1df4f88ef856160ee06c43dc6ec430df122f2408
+source-git-commit: 9424b392f85536dc75083d0ade255e4824755ed1
 workflow-type: tm+mt
 source-wordcount: '1210'
 ht-degree: 0%
@@ -28,11 +28,11 @@ U kunt elk van de volgende soorten aanbiedingen maken:
 
 Klik voor sjablonen op **Toevoegen en Voorvertoning** en stel de gewenste parameters in. De andere typen aanbiedingssets bevatten geen parameters, maar u kunt deze nog steeds aanpassen door op **Voorvertoning** te klikken en de beschikbare voorinstellingen te wijzigen.
 
-Dynamic Media Classic biedt tools voor bewerking en het maken van aanbiedingssets.
+Dynamic Media Classic biedt hulpprogramma&#39;s voor het bewerken en maken van aanbiedingssets.
 
 >[!NOTE]
 >
->Voordat u een set aanbiedingen maakt, moet u alle elementen publiceren die u wilt gebruiken voor de set Dynamic Media Classic. Zie [Elementen](publishing-files.md#manually_publishing_assets) handmatig publiceren en [elementen](publishing-files.md#manually_unpublishing_assets)handmatig verwijderen.
+>Voordat u een aanbiedingsset maakt, moet u alle elementen publiceren die u wilt gebruiken voor de set op Dynamic Media Classic. Zie [Elementen](publishing-files.md#manually_publishing_assets) handmatig publiceren en [elementen](publishing-files.md#manually_unpublishing_assets)handmatig verwijderen.
 
 ## Soorten aanbiedingen {#types-of-offer-sets}
 
@@ -58,9 +58,9 @@ Zie ook [Elementen](publishing-files.md#manually_publishing_assets) handmatig pu
 **Een aanbieding maken die is ingesteld met een geparametriseerde sjabloon**
 
 1. Selecteer de sjabloon of banner.
-1. Klik op **Samenstellen** > **Aanbiedingsset** testen en Target testen.
+1. Klik op **Genereren** > **Test&amp;Target-set**.
 
-   Op de pagina Testi&amp;Target-aanbiedingsset vindt u de aanbiedingen in de aangeboden set. Het eerste item in de lijst is het object.
+   De pagina met de pagina Set voorstellen voor test&amp;doelaanbiedingen wordt weergegeven in de aangeboden set. Het eerste item in de lijst is het object.
 
 1. Selecteer het object en klik op **Toevoegen en voorvertonen**.
 
@@ -69,13 +69,13 @@ Zie ook [Elementen](publishing-files.md#manually_publishing_assets) handmatig pu
 1. Wijzig parameterwaarden om de aanbieding te maken. Voer bijvoorbeeld andere tekst in een tekstveld in, wijzig de grootte van een laag, verander een afbeelding door een andere of kies een andere voorinstelling voor de viewer.
 1. Klik op **Opslaan** of **Opslaan als** om het voorstel op te slaan als onderdeel van de set met aanbiedingen.
 
-   Op de pagina Testi&amp;Target Offerteset worden de aanbiedingen weergegeven die u hebt gemaakt.
+   Op de pagina Set Test&amp;Target-voorstellen staan de aanbiedingen die u hebt gemaakt.
 
 1. Herhaal stap 3 tot en met 5 om meer aanbiedingen voor de set te maken.
 1. Als u klaar bent, controleert u of **Publiceren na opslaan** is geselecteerd (standaard) in de rechterbenedenhoek van de pagina.
 1. Klik op **Sluiten**, voer een naam in voor de aanbiedingsset en klik op **Opslaan**.
 
-Druk op de aanbieding op Target Standard/Premium voordat u de pagina Set Test&amp;Target-aanbiedingen sluit. Zie Aanbiedingsets [Pushing to Test&amp;Target](pushing-offer-sets-target.md#pushing_offer_sets_to_target).
+Voordat u de pagina Set Test&amp;Target-aanbiedingen sluit, drukt u op de aanbieding die is ingesteld op Target Standard/Premium. Zie Aanbiedingsets [Pushing to Test&amp;Target](pushing-offer-sets-target.md#pushing_offer_sets_to_target).
 
 ## Een set aanbiedingen maken met afbeeldingen of video&#39;s {#creating-an-offer-set-with-images-or-videos}
 
@@ -90,9 +90,9 @@ Zie ook [Elementen](publishing-files.md#manually_publishing_assets) handmatig pu
 
 **Een set aanbiedingen maken met afbeeldingen of video&#39;s**
 
-1. Stel afbeeldingen of video&#39;s samen voor de ingestelde aanbieding. Start in het scherm Test&amp;Target Offset of in de rasterweergave of lijstweergave en gebruik een van de volgende methoden:
+1. Stel afbeeldingen of video&#39;s samen voor de ingestelde aanbieding. Begin in het Test&amp;Target Vastgestelde scherm van de Aanbieding of in de Mening van het Net of de Mening van de Lijst en gebruik één van de volgende methodes:
 
-   * **Scherm** Klikken testen en Target-aanbod instellen **[!UICONTROL Build > Test&Target Offer Set]**. Sleep afbeeldingen of video&#39;s naar het scherm. Als u video&#39;s of afbeeldingen van verschillende grootten wilt maken, sleept u in meerdere exemplaren van de afbeelding of video en stelt u elke grootte afzonderlijk in.
+   * **Scherm** Klikken instellen voor &amp;doelaanbieding testen **[!UICONTROL Build > Test&Target Offer Set]**. Sleep afbeeldingen of video&#39;s naar het scherm. Als u video&#39;s of afbeeldingen van verschillende grootten wilt maken, sleept u in meerdere exemplaren van de afbeelding of video en stelt u elke grootte afzonderlijk in.
 
    * **De raster- of lijstweergave** Selecteer de afbeeldingen of video&#39;s en klik op **[!UICONTROL Build > Test&Target Offer Set]**.
 
@@ -101,12 +101,12 @@ Zie ook [Elementen](publishing-files.md#manually_publishing_assets) handmatig pu
    * Kies een voorinstelling om het uiterlijk en de grootte van de afbeelding of video te wijzigen.
    * Klik op het selectievakje Voorinstellingen op alle selecteren om de voorinstelling die u hebt gekozen, toe te passen op alle aanbiedingen in de aanbiedingsset.
 
-   Klik op **Opslaan** om de wijzigingen in de afbeelding of het videoaanbod op te slaan. Klik vervolgens op **Sluiten** om terug te keren naar de pagina Set Test&amp;Target-aanbiedingen.
+   Klik op **Opslaan** om de wijzigingen in de afbeelding of het videoaanbod op te slaan. Klik vervolgens op **Sluiten** om terug te keren naar de pagina Set Test&amp;Target-voorstellen.
 
 1. Nadat u alle aanbiedingen voor de aanbiedingsset hebt gemaakt en de voorinstellingen voor afbeeldingen hebt gekozen, controleert u of **Publiceren na opslaan** is geselecteerd (standaard).
 1. Klik op **Opslaan** en voer een naam in voor de aanbiedingsset en klik op **Opslaan**.
 
-Druk voordat u de pagina Set Test&amp;Target-aanbiedingen sluit op Target Standard/Premium. Zie Aanbiedingsets [Pushing to Test&amp;Target](pushing-offer-sets-target.md#pushing_offer_sets_to_target).
+Voordat u de pagina Set Test&amp;Target-aanbiedingen sluit, drukt u op de aanbieding die is ingesteld op Target Standard/Premium. Zie Aanbiedingsets [Pushing to Test&amp;Target](pushing-offer-sets-target.md#pushing_offer_sets_to_target).
 
 ## Een set voorstellen bewerken {#editing-an-offer-set}
 
@@ -124,17 +124,17 @@ Zie ook [Elementen](publishing-files.md#manually_publishing_assets) handmatig pu
 **Een set voorstellen bewerken**
 
 1. Als u een aanbiedingsset wilt bewerken, geeft u de aanbieding weer die is ingesteld in de rasterweergave of de lijstweergave en klikt u op de **rolloverknop Bewerken** .
-1. Voer een of meerdere van de volgende handelingen uit op de pagina Set Target-aanbiedingen testen:
+1. Voer een of meerdere van de volgende handelingen uit op de pagina Set voorstel testen&amp;Doel:
 
    * **Een aanbieding** verwijderen Selecteer de aanbieding en klik vervolgens op 
 **Schrap** om een aanbieding uit de reeks te verwijderen.
    * **Het toevoegen van een aanbieding** Hoe je een aanbieding toevoegt, hangt af van het soort voorstel dat je gebruikt:
    * **Sjablonen** klikken 
-**Voeg een nieuwe aanbieding toe en geef een voorvertoning weer** en maak een nieuwe aanbieding op de pagina Aanbiedingen toevoegen en voorvertonen.
+**Voeg een nieuwe aanbieding toe en geef een voorbeeld** weer en maak op de pagina Aanbiedingen toevoegen en bekijken een nieuwe aanbieding.
    * **Afbeeldingen en video&#39;s** Sleep een afbeelding of video naar de pagina Set Test&amp;Target-aanbiedingen.
    >[!NOTE]
    >
-   >U kunt geen aanbiedingsreeks schrappen die met een campagne wordt geassocieerd. Als u een set aanbiedingen die aan een campagne is gekoppeld wilt verwijderen, meldt u zich aan bij Target Standard/Premium en verwijdert u eerst de campagnecoregelingen. Zelfs na het niet koppelen van een campagne kan het middel alleen worden verwijderd uit Dyanmische media Classic, waarvoor een aanmelding bij Target Standard/Premium is vereist, en niet uit Target Standard/Premium.
+   >U kunt geen aanbiedingsreeks schrappen die met een campagne wordt geassocieerd. Als u een aanbiedingsset wilt verwijderen die is gekoppeld aan een campagne, meldt u zich aan bij Target Standard/Premium en verwijdert u eerst de campagnecategorieën. Zelfs na het niet koppelen van een campagne kan het middel alleen worden verwijderd uit Dyanmische media Classic, waarvoor een aanmelding bij Target Standard/Premium vereist is, en niet uit Target Standard/Premium.
 
 1. Als u klaar bent met bewerken, controleert u of **Publiceren na opslaan** is geselecteerd (standaard) in de rechterbenedenhoek van de pagina.
 1. Klik op **Opslaan**, selecteer een opslagmap, voer een naam voor de set in en klik op **Opslaan**.
