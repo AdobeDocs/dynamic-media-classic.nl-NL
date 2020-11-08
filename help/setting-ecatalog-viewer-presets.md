@@ -9,7 +9,7 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 discoiquuid: 6c123f85-3bc4-4392-a7fb-55618127c65e
 translation-type: tm+mt
-source-git-commit: 1df4f88ef856160ee06c43dc6ec430df122f2408
+source-git-commit: 9424b392f85536dc75083d0ade255e4824755ed1
 workflow-type: tm+mt
 source-wordcount: '479'
 ht-degree: 0%
@@ -19,9 +19,9 @@ ht-degree: 0%
 
 # Voorinstellingen eCatalog-viewer instellen{#setting-up-ecatalog-viewer-presets}
 
-De eCatalog Viewer-voorinstellingen bepalen de stijl, het gedrag en de vormgeving van eCatalog-viewers. De Klassieke van Dynamic Media verstrekt eCatalogKijker vooraf instelt, en u kunt uw eigen eCatalogKijker tot stand brengen vooraf instelt evenals als u een beheerder bent.
+De eCatalog Viewer-voorinstellingen bepalen de stijl, het gedrag en de vormgeving van eCatalog-viewers. Dynamic Media Classic biedt voorinstellingen voor de eCatalog-viewer en u kunt ook uw eigen voorinstellingen voor de eCatalog-viewer maken als beheerder.
 
-Als u een nieuwe voorinstelling wilt maken, begint u helemaal opnieuw of begint u met een op Dynamic Media gebaseerde voorinstelling voor de eCatalog Viewer en slaat u deze onder een andere naam op. U kunt uw eigen voorinstellingen voor de eCatalog-viewer maken om afgedrukt materiaal in de kleuren van uw bedrijf weer te geven en de toon in te stellen.
+Als u een nieuwe voorinstelling wilt maken, begint u helemaal opnieuw of begint u met een via Dynamic Media Classic geleverde voorinstelling voor de eCatalog-viewer en slaat u deze onder een andere naam op. U kunt uw eigen voorinstellingen voor de eCatalog-viewer maken om afgedrukt materiaal in de kleuren van uw bedrijf weer te geven en de toon in te stellen.
 
 Voorinstellingen voor eCatalog Viewer bieden veel instellingen voor het schakelen tussen pagina&#39;s, zoomen, zoeken en kiezen van &#39;skins&#39;. Hoe deze besturingselementen eruitzien en hoe de viewer er zelf uitziet, is afhankelijk van uw keuze voor eCatalog Viewer-voorinstellingen.
 
@@ -51,7 +51,7 @@ Ga als volgt te werk om een voorinstelling voor een eCatalog-viewer te maken (u 
    | `$2$` | frame | Het volgnummer van het momenteel weergegeven frame in de afbeeldingsset. |
    | `$3$` | imageroot | Het eerste padelement van het eerste item dat is opgegeven in de opdracht Afbeelding (doorgaans de afbeeldingencatalogus-id van het item in de catalogus die de afbeeldingsset opgeeft). |
 
-1. (Optioneel) Typ in het vak Instellingen van deelvenster Info in het vak Reactiesjabloon de tekst die u wilt weergeven als bij Dynamic Media Classic een fout optreedt bij het ophalen van informatie voor een afbeeldingskaart. Als het systeem bijvoorbeeld een bedrijfsnaam en een eCatalog-naam ontvangt, maar geen rollover-id, wordt dit bericht voor de gebruiker weergegeven.
+1. (Optioneel) Typ in het vak Instellingen deelvenster Info in het vak Reactiesjabloon de tekst die u wilt weergeven als bij Dynamische media Classic een fout optreedt bij het ophalen van informatie voor een afbeeldingskaart. Als het systeem bijvoorbeeld een bedrijfsnaam en een eCatalog-naam ontvangt, maar geen rollover-id, wordt dit bericht voor de gebruiker weergegeven.
 
 >[!NOTE]
 >
