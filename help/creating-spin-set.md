@@ -10,7 +10,7 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/spin_sets
 discoiquuid: 735b5867-e249-4627-a5a5-25c19c2255bf
 translation-type: tm+mt
-source-git-commit: 1df4f88ef856160ee06c43dc6ec430df122f2408
+source-git-commit: 9424b392f85536dc75083d0ade255e4824755ed1
 workflow-type: tm+mt
 source-wordcount: '906'
 ht-degree: 0%
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Een centrifugeset maken{#creating-a-spin-set}
 
-Als u een effectieve centrifugeset wilt maken, moet u controleren of de afbeeldingen op de juiste wijze zijn opgenomen. U kunt een centrifugeset maken in Dynamic Media Klassiek door de knop Samenstellen te selecteren en Draaisets te kiezen. Bewerk de centrifuges in het scherm Spin Sets.
+Als u een effectieve centrifugeset wilt maken, moet u controleren of de afbeeldingen op de juiste wijze zijn opgenomen. U kunt een centrifugeset maken in Dynamic Media Classic door de knop Build te selecteren en Draaisets te kiezen. Bewerk de centrifuges in het scherm Spin Sets.
 
 >[!NOTE]
 >
@@ -28,7 +28,7 @@ Als u een effectieve centrifugeset wilt maken, moet u controleren of de afbeeldi
 
 ## Richtlijnen voor het maken van centrifuges {#guidelines-for-shooting-spin-set-images}
 
-Over het algemeen geldt dat hoe meer afbeeldingen u in een centrifugeset hebt, hoe beter het effect van het draaien van de afbeelding is. Als u echter veel afbeeldingen in de set opneemt, neemt de laadtijd van de afbeeldingen toe. Dynamic Media Classic raadt deze richtlijnen aan voor het maken van foto&#39;s voor gebruik in centrifuges:
+Over het algemeen geldt dat hoe meer afbeeldingen u in een centrifugeset hebt, hoe beter het effect van het draaien van de afbeelding is. Als u echter veel afbeeldingen in de set opneemt, neemt de laadtijd van de afbeeldingen toe. Dynamic Media Classic raadt de volgende richtlijnen aan voor het maken van foto&#39;s voor gebruik in centrifuges:
 
 * Gebruik minimaal 8-12 afbeeldingen in een eendimensionale centrifuge en 16-24 afbeeldingen in een tweedimensionale centrifugeset.
 * Gebruik een indeling zonder verlies. TIFF en PNG worden aanbevolen.
@@ -38,7 +38,7 @@ Over het algemeen geldt dat hoe meer afbeeldingen u in een centrifugeset hebt, h
 
 ## Een centrifugeset maken {#create}
 
-Houd er rekening mee dat de volgorde waarin de centrifugeset is gemaakt of gemaakt in Classic Dynamic Media belangrijk is. Afhankelijk van de volgorde waarin u de elementen ordent wanneer u afbeeldingen naar het raster sleept op de pagina Draaien in set, draait de Spin-set in een bepaalde richting. Daarom is de volgorde waarin het element visueel wordt weergegeven in de builder de manier waarop het wordt gedraaid wanneer een gebruiker de muisaanwijzer beweegt of met zijn vinger naar rechts beweegt.
+Houd er rekening mee dat de volgorde waarin de centrifuuset is gemaakt of gemaakt in de categorie Dynamische media Klassiek belangrijk is. Afhankelijk van de volgorde waarin u de elementen ordent wanneer u afbeeldingen naar het raster sleept op de pagina Draaien in set, draait de Spin-set in een bepaalde richting. Daarom is de volgorde waarin het element visueel wordt weergegeven in de builder de manier waarop het wordt gedraaid wanneer een gebruiker de muisaanwijzer beweegt of met zijn vinger naar rechts beweegt.
 
 Wanneer u een set maakt, heeft de optie **Publiceren na opslaan** op de volgende manieren invloed op de set en stelt u leden in:
 
