@@ -10,7 +10,7 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/setup
 discoiquuid: 34ecd868-775f-452b-b26e-d139f0e280ae
 translation-type: tm+mt
-source-git-commit: 1df4f88ef856160ee06c43dc6ec430df122f2408
+source-git-commit: 9424b392f85536dc75083d0ade255e4824755ed1
 workflow-type: tm+mt
 source-wordcount: '984'
 ht-degree: 0%
@@ -38,11 +38,11 @@ Met Dynamic Media Classic kunt u videositemaps en mRSS-feeds genereren op basis 
 >
 >Voordat u een video-itemap of MRSS-feed maakt, moet u weten welke velden de zoekmachine in het XML-bestand nodig heeft en hoe u deze velden kunt structureren. Als u een geslaagde video-Sitemap of mRSS-feed wilt maken, moet deze voldoen aan de vereisten van het zoekprogramma.
 
-Dynamic Media Classic leidt tot rapporten over VideoSitemaps en voer mRSS nadat u hen produceert. Deze rapporten zijn beschikbaar op het Video scherm van het Rapport SEO.
+Dynamic Media Classic maakt rapporten over videositemaps en mRSS-feeds nadat u deze hebt gegenereerd. Deze rapporten zijn beschikbaar op het Video scherm van het Rapport SEO.
 
 >[!NOTE]
 >
->Voor de VideoSitemaps en het voer mRSS, legt de Klassiek van Dynamic Media meta-gegevens slechts van video&#39;s vast die voor publicatie worden gemerkt. Markeer video&#39;s die u wilt publiceren om de bijbehorende metagegevens op te nemen in Video-items en MRSS-feeds.
+>Voor de videobeelden Sitemaps en de feeds mRSS, vangen de Dynamische Klassieke Media slechts meta-gegevens van video&#39;s die voor publiceren duidelijk zijn. Markeer video&#39;s die u wilt publiceren om de bijbehorende metagegevens op te nemen in Video-items en MRSS-feeds.
 
 ## Video-SEO-instellingen kiezen {#choosing-video-seo-settings}
 
@@ -66,9 +66,9 @@ Voor de drop-down lijst van de Wijze van de Generatie, kies een rapportwijze:
 
 Kies in de vervolgkeuzelijst Automatische modus/Handmatige modus of u automatisch of handmatig wilt genereren:
 
-**De automatische Dynamic Media van de Wijze** Klassiek produceert automatisch één VideoSitemap, (mRSS) voer van Media RSS, of allebei, elke dag. Kies de optie Markeren voor publiceren om het XML-bestand dat door Classic wordt gegenereerd, automatisch te markeren voor publicatie.
+**Met Automatische modus** Dynamische media Classic worden elke dag automatisch één videositemap, Media RSS-feed (mRSS) of beide gegenereerd. Kies de optie Markeren voor publiceren om het XML-bestand dat Dynamic Media Classic genereert, automatisch te markeren voor publicatie.
 
-**De handmatige Dynamic Media Classic van de Wijze** produceert Video Sitemap, de voer van Media RSS (mRSS), of allebei, wanneer u in het Video scherm van de Montages van de Optimalisering van het Onderzoek van het Onderzoek van de Opslaan of produceert klikt. Kies ook de volgende opties:
+**Met de modus** Handmatig Dynamic Media Classic wordt de feed Video Sitemap, Media RSS (mRSS) of beide gegenereerd wanneer u op Genereren of Opslaan en genereren klikt in het scherm Optimalisatie-instellingen voor video zoeken. Kies ook de volgende opties:
 
 **Geen andere instellingen** markeert het gegenereerde XML-bestand niet voor publicatie.
 
@@ -78,7 +78,7 @@ Kies in de vervolgkeuzelijst Automatische modus/Handmatige modus of u automatisc
 
 ### Generatie-instellingen kiezen {#choosing-generation-settings}
 
-In het gebied Instellingen genereren worden invoervelden voor de videospecificatie en/of de MRSS-feed weergegeven en in het deelvenster Metagegevens worden de namen van metagegevensvelden weergegeven. In het gedeelte Algemene instellingen kunt u invoervelden toewijzen aan metagegevensvelden. Op deze manier geeft u aan Dynamic Media Classic door waar u metagegevens voor de videositemap en/of mRSS-feed wilt ophalen.
+In het gebied Instellingen genereren worden invoervelden voor de videospecificatie en/of de MRSS-feed weergegeven en in het deelvenster Metagegevens worden de namen van metagegevensvelden weergegeven. In het gedeelte Algemene instellingen kunt u invoervelden toewijzen aan metagegevensvelden. Op deze manier geeft u aan Dynamic Media Classic door waar u metagegevens voor de videositemap en/of mRSS-feed kunt ophalen.
 
 1. Kies een metagegevensweergave in het menu Weergaven Metagegevens. Nadat u een weergave hebt gekozen, worden de namen van metagegevensvelden weergegeven in het deelvenster Metagegevens. (Zie Weergaven van [metagegevens voor informatie over weergaven van metagegevens](application-setup.md#metadata_views).)
 1. Sleep namen van metagegevensvelden van het deelvenster Metagegevens naar de invoervelden Openingspagina, Titel, Beschrijving, Labels en Categorie. De velden Openingspagina, Titel en Beschrijving zijn vereist.
