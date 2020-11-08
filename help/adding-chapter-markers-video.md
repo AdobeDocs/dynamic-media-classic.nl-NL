@@ -10,9 +10,9 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/video
 discoiquuid: 8bc5e552-2abb-41f0-89d2-bdf3ae5d96c2
 translation-type: tm+mt
-source-git-commit: 1df4f88ef856160ee06c43dc6ec430df122f2408
+source-git-commit: 9424b392f85536dc75083d0ade255e4824755ed1
 workflow-type: tm+mt
-source-wordcount: '625'
+source-wordcount: '615'
 ht-degree: 0%
 
 ---
@@ -58,7 +58,7 @@ Zie [WebVTT: De indeling](https://dev.w3.org/html5/webvtt/)Webvideoteksttracks.
 
 **Hoofdstukmarkeringen aan video toevoegen**
 
-1. Maak met een eenvoudige teksteditor buiten Dynamic Media Classic het videohoofdbestand.
+1. Maak met een eenvoudige teksteditor buiten Dynamic Media Classic een hoofdbestand voor de video.
 
    >[!NOTE]
    >
@@ -73,18 +73,18 @@ Zie [WebVTT: De indeling](https://dev.w3.org/html5/webvtt/)Webvideoteksttracks.
    Zie Bestanden [uploaden](uploading-files.md#uploading_files).
 
 1. Navigeer in het deelvenster Elementenbibliotheek aan de linkerkant naar de elementenmap die het videobestand bevat dat u wilt koppelen aan het hoofdstukbestand dat u hebt geüpload.
-1. Selecteer in het deelvenster Asset Browse één video-element en klik vervolgens onder de miniatuurafbeelding van het element op **Voorvertoning** > **Viewer List**.
+1. Selecteer in het deelvenster Asset Browse één video-element en klik vervolgens onder de miniatuurafbeelding van het element op **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]**.
 1. Zoek in de Viewer List-tabel naar de HTML5-viewer **Univeral_HTML5_Video** en voer een van de volgende handelingen uit:
 
-   * Voor een ervaring van de pop-up videokijker, klik **Exemplaar URL** aan uiterst rechts van de naam.
+   * Klik uiterst rechts van de naam voor een video-viewerbeleving **[!UICONTROL Copy URL]** in een pop-up.
 
       Voeg de gekopieerde URL van de video toe aan de volgende syntaxis om deze te koppelen aan de gekopieerde URL naar het bijschriftbestand:
 
       `&navigation=*<full Copy URL path to the chapter navigation file .vtt>*`
 
-   * Voor een ingesloten videoviewerervaring klikt u op Code **** insluiten helemaal rechts van de naam.
+   * Voor een ingesloten video-viewerbeleving klikt u uiterst rechts op **[!UICONTROL Embed Code]** de naam.
 
-      Klik in het dialoogvenster Code insluiten op **Kopiëren naar klembord**.
+      Klik in het dialoogvenster Code insluiten op **[!UICONTROL Copy to Clipboard]**.
 
       Voor de HTML5- `Universal_HTML5_Video` viewer voegt u de gekopieerde insluitcode als volgt toe:
 
