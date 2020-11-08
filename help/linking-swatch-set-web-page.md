@@ -10,7 +10,7 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/swatch_sets
 discoiquuid: 0edab47b-531c-41a9-89c3-2e179c4f9fa4
 translation-type: tm+mt
-source-git-commit: 1df4f88ef856160ee06c43dc6ec430df122f2408
+source-git-commit: 9424b392f85536dc75083d0ade255e4824755ed1
 workflow-type: tm+mt
 source-wordcount: '688'
 ht-degree: 0%
@@ -49,7 +49,7 @@ Nadat u een Staalset hebt gepubliceerd, kunt u de URL of insluitcode van de Staa
 
 De meest gebruikelijke manier om Staalsets te implementeren is het plaatsen van een koppeling (via een navigatiepictogram) op uw webpagina. Wanneer op de koppeling wordt geklikt, wordt een dynamische pagina (ASP of JSP) gestart die de stalenset in een pop-upzoomvenster weergeeft. Met de zoomkoppeling wordt een pop-upvenster geopend dat de eigenlijke zoomfunctie bevat.
 
-Zie [HTML5 Zoom Viewer insluiten in de Adobe Viewer Reference Guide](https://docs.adobe.com/content/help/en/dynamic-media-developer-resources/library/viewers-aem-assets-dmc/zoom/c-html5-20-zoom-viewer-about.html)voor meer informatie en codevoorbeelden.
+Zie [HTML5 Zoom Viewer insluiten in de Adobe Viewers Reference Guide](https://docs.adobe.com/content/help/en/dynamic-media-developer-resources/library/viewers-aem-assets-dmc/zoom/c-html5-20-zoom-viewer-about.html)voor meer informatie en codevoorbeelden.
 
 ## De insluitcode van een Staalsetviewer kopiëren {#copying-the-embed-code-of-a-swatch-set-viewer}
 
