@@ -2,7 +2,7 @@
 title: Elementen exporteren vanuit Dynamic Media Classic
 seo-title: Elementen exporteren vanuit Dynamic Media Classic
 description: 'null'
-seo-description: Leer hoe u elementen exporteert uit Dynamic Media Classic.
+seo-description: Leer hoe u elementen exporteert van Dynamic Media Classic.
 uuid: d42b7a73-80c0-4a9a-a04e-7ef53e6fcf22
 contentOwner: admin
 content-type: reference
@@ -10,7 +10,7 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/managing_assets
 discoiquuid: eb850ec7-a669-41ea-b2b0-4c9178e34f95
 translation-type: tm+mt
-source-git-commit: 38f5cf5264f9775a225d354ed9dc2f6caee236f2
+source-git-commit: 9424b392f85536dc75083d0ade255e4824755ed1
 workflow-type: tm+mt
 source-wordcount: '431'
 ht-degree: 0%
@@ -24,9 +24,9 @@ U kunt elementen die u in Dynamic Media Classic hebt bewerkt, opslaan op een lok
 
 Het gecomprimeerde ZIP-bestand heeft een maximale bestandsgrootte van 1 GB voor de exporttaak. Houd er ook rekening mee dat u maximaal 500 totale middelen per exporttaak hebt.
 
-Dynamic Media Classic houdt een overzicht van exporttaken bij in het scherm Taken.
+De dynamische Klassiek van Media houdt een verslag van de uitvoerbanen in het scherm van Banen bij.
 
-**Elementen exporteren uit Dynamic Media Klassiek**
+**Elementen exporteren van Dynamic Media Classic**
 
 1. Selecteer de elementen die u wilt exporteren en klik op **Bestand** > **Exporteren**.
 1. Klik in het venster Geselecteerde elementen exporteren op **Afbeeldingsopties** en geef een of meer van de volgende opties op (beheerders bepalen welke opties beschikbaar zijn voor hun gebruikers):
