@@ -2,7 +2,7 @@
 title: Persoonlijke instelling
 seo-title: Persoonlijke instelling
 description: 'null'
-seo-description: Alle gebruikers kunnen montages op het Persoonlijke scherm van de Opstelling van Dynamic Media Klassiek veranderen.
+seo-description: Alle gebruikers kunnen montages op het Persoonlijke scherm van de Opstelling van Dynamische Klassieke Media veranderen.
 uuid: 29cb825a-f158-4a1e-9d5f-7636ee411b6e
 contentOwner: admin
 content-type: reference
@@ -10,7 +10,7 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/setup
 discoiquuid: 6314e7b7-5bde-4fe2-8674-e4fc525d4d1c
 translation-type: tm+mt
-source-git-commit: 1df4f88ef856160ee06c43dc6ec430df122f2408
+source-git-commit: 9424b392f85536dc75083d0ade255e4824755ed1
 workflow-type: tm+mt
 source-wordcount: '1194'
 ht-degree: 1%
@@ -24,7 +24,7 @@ Alle gebruikers kunnen montages op het Persoonlijke scherm van de Opstelling ver
 
 >[!NOTE]
 >
->Het Persoonlijke scherm van de Opstelling maakt een lijst van welke gebruikersrol u in Dynamic Media Klassiek hebt: Bedrijfsbeheerder, beheerder of gebruiker.
+>Het Persoonlijke scherm van de Opstelling maakt een lijst van welke gebruikersrol u in Dynamische Klassieke Media hebt: Bedrijfsbeheerder, beheerder of gebruiker.
 
 De Persoonlijke montages van de Opstelling controleren het standaardgedrag van het Browse Comité, hoe u e-mail, en wachtwoordmontages ontvangt. Vergeet niet op Opslaan te klikken nadat u deze instellingen hebt gewijzigd.
 
@@ -34,11 +34,11 @@ Hiermee worden uw accountnaam, naam, gebruikersnaam (e-mailadres) en toegewezen 
 
 ### Desktopversie
 
-Klik op Nu installeren om de bureaubladversie van Dynamic Media Classic op uw lokale vaste schijf te installeren. U kunt ook op Nu opnieuw installeren klikken om de bureaubladversie opnieuw te installeren.
+Klik op Nu installeren om de desktopversie van Dynamic Media Classic op uw lokale vaste schijf te installeren. U kunt ook op Nu opnieuw installeren klikken om de bureaubladversie opnieuw te installeren.
 
 ## De insteekmodule installeren op uw lokale vaste schijf
 
-1. Voor de Persoonlijke pagina van de Opstelling in de Klassieke Dynamic Media, onder de Plug-in van de Illustrator voor Web-aan-Druk, klik **Download nu** om het **Plug-in van de Illustrator voor Web-aan-Print.zip** dossier te downloaden.
+1. Voor de Persoonlijke pagina van de Opstelling in Dynamische Klassieke Media, onder Insteekmodule van Illustrator voor Web-aan-Druk, klik **Download nu** om **Illustrator stop-in voor Web-aan-Print.zip** dossier te downloaden.
 1. Decomprimeer het ZIP-bestand naar een tijdelijke map.
 
    Er wordt een Lees mij-bestand opgenomen in de hoofdmap van het uitgevouwen bestand om u aanvullende informatie over de insteekmodule te geven.
@@ -49,19 +49,19 @@ Klik op Nu installeren om de bureaubladversie van Dynamic Media Classic op uw lo
 
 | Als u werkt | Doe dit |
 |--- |--- |
-| Adobe Illustrator 18 in Adobe Creative Cloud 2014 | <ul><li>Klik in de hoofdmap van de uitgevouwen map op CC-2014.</li><li>Afhankelijk van de bitversie van Adobe Illustrator die u gebruikt, klikt u op win32 of win64.</li><li>Klik op Bibliotheken > Naam en kopieer `aflame.dll` naar de uitvoerbare map van Adobe Illustrator. Bijvoorbeeld, `C:\Program Files\Adobe\Adobe Illustrator CC 2014\Support Files\Contents\Windows`. </li></ul><br/>**Opmerking **: Dit voorbeeldpad is voor de 64-bits locatie; De 32-bits locatie kan in plaats daarvan onder Program Files (x86) vallen.<br/><ul><li>Keer aan de zelfde bibliotheekomslag terug, klik flamingo, en kopieer dan `aflamingo.dll` aan de zelfde uitvoerbare omslag van de Illustrator van Adobe die u in de vorige stap gebruikte. </li><li>Ga terug naar de map win32 of win64 die u in stap 2 hebt geselecteerd en kopieer `AdobeS7FXGFileFormat.aip` deze naar de map met insteekmodules van Adobe Illustrator. Bijvoorbeeld, `C:\Program Files\Adobe\Adobe Illustrator CC 2014\Plug-ins\Illustrator Formats`. </li></ul> <br/>**Opmerking **: Dit voorbeeldpad is voor de 64-bits locatie; De 32-bits locatie kan in plaats daarvan onder Program Files (x86) vallen. |
-| Adobe Illustrator 17 in Adobe Creative Cloud | <ul><li>Klik in de hoofdmap van de uitgevouwen map op CC. </li><li>Afhankelijk van de bitversie van Adobe Illustrator die u gebruikt, klikt u op win32 of win64.</li><li> Kopieer `AdobeS7FXGFileFormat.aip` naar de map Plug-ins van Adobe Illustrator. Bijvoorbeeld, `C:\Program Files\Adobe\Adobe Illustrator CC (64 Bit)\Plug-ins\Illustrator Formats`.</li></ul><br/>**Opmerking **: Dit voorbeeldpad is voor de 64-bits locatie; De 32-bits locatie kan in plaats daarvan onder Program Files (x86) vallen. |
-| Adobe Illustrator 16 in Adobe Creative Suite 6 | <ul><li>Klik in de hoofdmap van de uitgevouwen map op 6.0. </li><li>Afhankelijk van de bitversie van Adobe Illustrator die u gebruikt, klikt u op win32 of win64. </li><li>Kopieer AdobeS7FXGFileFormat.aip naar de map Plug-ins van Adobe Illustrator. Bijvoorbeeld, `C:\Program Files\Adobe\Adobe Illustrator CS6 (64 Bit)\Plug-ins\Illustrator Formats`.</li></ul><br/>**Opmerking **: Dit voorbeeldpad is voor de 64-bits locatie; De 32-bits locatie kan in plaats daarvan onder Program Files (x86) vallen. |
+| Adobe Illustrator 18 in Adobe Creative Cloud 2014 | <ul><li>Klik in de hoofdmap van de uitgevouwen map op CC-2014.</li><li>Afhankelijk van de bitversie van Adobe Illustrator die u gebruikt, klikt u op win32 of win64.</li><li>Klik op Bibliotheken > Naam en kopieer `aflame.dll` naar de uitvoerbare map van Adobe Illustrator. Bijvoorbeeld, `C:\Program Files\Adobe\Adobe Illustrator CC 2014\Support Files\Contents\Windows`. </li></ul><br/>**Opmerking**: Dit voorbeeldpad is voor de 64-bits locatie; De 32-bits locatie kan in plaats daarvan onder Program Files (x86) vallen. <br/><ul><li>Keer aan de zelfde bibliotheekomslag terug, klik flamingo, en kopieer dan `aflamingo.dll` aan de zelfde uitvoerbare omslag van Adobe Illustrator die u in de vorige stap gebruikte. </li><li>Ga terug naar de map win32 of win64 die u in stap 2 hebt geselecteerd en kopieer vervolgens `AdobeS7FXGFileFormat.aip` naar de map met Adobe Illustrator-plug-ins. Bijvoorbeeld, `C:\Program Files\Adobe\Adobe Illustrator CC 2014\Plug-ins\Illustrator Formats`. </li></ul> <br/>**Opmerking**: Dit voorbeeldpad is voor de 64-bits locatie; De 32-bits locatie kan in plaats daarvan onder Program Files (x86) vallen. |
+| Adobe Illustrator 17 in Adobe Creative Cloud | <ul><li>Klik in de hoofdmap van de uitgevouwen map op CC. </li><li>Afhankelijk van de bitversie van Adobe Illustrator die u gebruikt, klikt u op win32 of win64.</li><li> Kopieer `AdobeS7FXGFileFormat.aip` naar de map Adobe Illustrator Plug-ins. Bijvoorbeeld, `C:\Program Files\Adobe\Adobe Illustrator CC (64 Bit)\Plug-ins\Illustrator Formats`.</li></ul><br/>**Opmerking**: Dit voorbeeldpad is voor de 64-bits locatie; De 32-bits locatie kan in plaats daarvan onder Program Files (x86) vallen. |
+| Adobe Illustrator 16 in Creative Suite Adobe 6 | <ul><li>Klik in de hoofdmap van de uitgevouwen map op 6.0. </li><li>Afhankelijk van de bitversie van Adobe Illustrator die u gebruikt, klikt u op win32 of win64. </li><li>Kopieer Adobe7FXGFileFormat.aip naar de map met Adobe Illustrator-plug-ins. Bijvoorbeeld, `C:\Program Files\Adobe\Adobe Illustrator CS6 (64 Bit)\Plug-ins\Illustrator Formats`.</li></ul><br/>**Opmerking**: Dit voorbeeldpad is voor de 64-bits locatie; De 32-bits locatie kan in plaats daarvan onder Program Files (x86) vallen. |
 
 ### Mac
 
 | Als u werkt | Doe dit |
 |--- |--- |
-| Adobe Illustrator 18 in Adobe Creative Cloud 2014 | <ul><li>Klik in de hoofdmap van de uitgevouwen map op CC-2014 > mac64.</li><li>Klik op Bibliotheken > Naam vlammen en kopieer de `aflame.framework` map naar de pakketinhoudsmap van Adobe Illustrator. Bijvoorbeeld, `/Applications/Adobe Illustrator CC 2014/ Illustrator.app/Contents/Frameworks/`. (Als u de pakketinhoudsmap van Adobe Illustrator wilt openen, klikt u met de rechtermuisknop op het pictogram van Adobe Illustrator CC 2014 en klikt u op Toon pakketinhoud in het contextmenu.)</li><li>Ga terug naar dezelfde bibliotheekmap, klik `flamingo`en kopieer de `aflamingo.framework` map naar dezelfde Adobe Illustrator-pakketinhoudsmap die u in de vorige stap hebt gebruikt.</li><li>Ga terug naar de map mac64 die u in stap 1 hebt geselecteerd en kopieer de `AdobeS7FXGFileFormat.aip` map naar de plug-in van Adobe Illustrator. Bijvoorbeeld, `/Applications/Adobe Illustrator CC 2014/Plug-ins/Illustrator Formats/`.</li></ul><br/> |
+| Adobe Illustrator 18 in Adobe Creative Cloud 2014 | <ul><li>Klik in de hoofdmap van de uitgevouwen map op CC-2014 > mac64.</li><li>Klik op Bibliotheken > Naam vlammen en kopieer de `aflame.framework` map naar de map met inhoud van het Adobe Illustrator-pakket. Bijvoorbeeld, `/Applications/Adobe Illustrator CC 2014/ Illustrator.app/Contents/Frameworks/`. (Als u de pakketinhoudsmap van Adobe Illustrator wilt openen, klikt u met de rechtermuisknop op het pictogram van Adobe illustrator CC 2014 en klikt u op Toon pakketinhoud in het contextmenu.)</li><li>Ga terug naar dezelfde bibliotheekmap, klik `flamingo`en kopieer de `aflamingo.framework` map naar dezelfde map met inhoud van het Adobe Illustrator-pakket die u in de vorige stap hebt gebruikt.</li><li>Ga terug naar de map mac64 die u in stap 1 hebt geselecteerd en kopieer de `AdobeS7FXGFileFormat.aip` map naar de plug-in van Adobe Illustrator. Bijvoorbeeld, `/Applications/Adobe Illustrator CC 2014/Plug-ins/Illustrator Formats/`.</li></ul><br/> |
 | Adobe Illustrator 17 in Adobe Creative Cloud | <ul><li>Klik in de hoofdmap van de uitgevouwen map op CC > mac64</li><li>Kopieer de `AdobeS7FXGFileFormat.aip` map naar de plug-inmap van Adobe Illustrator. Bijvoorbeeld, `/Applications/Adobe Illustrator CC/Plug-ins/Illustrator Formats/`.</li></ul><br/> |
-| Adobe Illustrator 16 in Adobe Creative Suite 6 | <ul><li>Klik in de hoofdmap van de uitgevouwen map op 6.0 > mac64</li><li>Kopieer de `AdobeS7FXGFileFormat.aip` map naar de plug-inmap van Adobe Illustrator. Bijvoorbeeld, `/Applications/Adobe Illustrator CS6/Plug-ins/Illustrator Formats/`.</li></ul> |
+| Adobe Illustrator 16 in Creative Suite Adobe 6 | <ul><li>Klik in de hoofdmap van de uitgevouwen map op 6.0 > mac64</li><li>Kopieer de `AdobeS7FXGFileFormat.aip` map naar de plug-inmap van Adobe Illustrator. Bijvoorbeeld, `/Applications/Adobe Illustrator CS6/Plug-ins/Illustrator Formats/`.</li></ul> |
 
-U kunt de plug-in nu gebruiken in Adobe Illustrator.
+De insteekmodule is nu beschikbaar voor gebruik in Adobe Illustrator.
 
 ### Browser
 
@@ -74,7 +74,7 @@ U kunt de plug-in nu gebruiken in Adobe Illustrator.
 * **Standaardlocatie voor bladeren**
    * Hiermee kunt u de bladerlocatie instellen op de standaardlocatie, de laatste bladermap of een specifieke locatie waarnaar u navigeert en die u herkent. U kunt ook de locatie van de browsers instellen om de bestanden en mappen in oplopende of aflopende volgorde te sorteren.
 * **Standaardweergave Bladeren**
-   * Hiermee bepaalt u of de rasterweergave of lijstweergave de standaardweergave is die u ziet wanneer u het deelvenster Bladeren voor het eerst opent.
+   * Hiermee bepaalt u of de rasterweergave of lijstweergave de standaardweergave is die u ziet wanneer u het deelvenster Bladeren eerst opent.
 * **Welkomstscherm**
    * Hiermee bepaalt u of er welkomstschermen worden weergegeven, inclusief het welkomstwelkomstscherm.
 * **Knopinfo tonen**
@@ -104,7 +104,7 @@ Zie ook Door [de gebruiker gedefinieerde velden](application-setup.md#user_defin
 ## E-mail
 
 * **E-mailopties**
-   * Kies hoe u Dynamic Media Classic u per e-mail op de hoogte wilt brengen wanneer het uploaden en het publiceren banen worden voltooid. U kunt berichten voor het voltooien van een taak alleen ontvangen als er waarschuwingen of fouten zijn opgetreden.
+   * Kies hoe u via Dynamic Media Classic via e-mail op de hoogte moet worden gebracht wanneer het uploaden en publiceren van taken is voltooid. U kunt berichten voor het voltooien van een taak alleen ontvangen als er waarschuwingen of fouten zijn opgetreden.
 * **E-mailbereik**
    * Hiermee bepaalt u of u alle taken per e-mail voor uw bedrijf ontvangt of alleen e-mail over uploads en publicatietaken die u hebt gestart.
 * **E-mailtypen**
