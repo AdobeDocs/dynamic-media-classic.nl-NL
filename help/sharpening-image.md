@@ -10,7 +10,7 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/master_files
 discoiquuid: 11cd5362-d90a-4c1e-bfbd-46a65a554409
 translation-type: tm+mt
-source-git-commit: 1df4f88ef856160ee06c43dc6ec430df122f2408
+source-git-commit: 9424b392f85536dc75083d0ade255e4824755ed1
 workflow-type: tm+mt
 source-wordcount: '2159'
 ht-degree: 0%
@@ -22,25 +22,25 @@ ht-degree: 0%
 
 Verscherpen is een beeldbewerkingstechniek waarmee u de contouren van een digitale afbeelding duidelijker kunt maken. Bij het verscherpen wordt het contrast tussen de randpixels vergroot en wordt de overgang tussen donkere en lichte gebieden benadrukt. Door het verscherpen wordt het lokale contrast verhoogd en worden fijne details weergegeven. Er is geen strikte formule voor het correct verscherpen van alle afbeeldingen. Te weinig verscherping kan tot een zachte afbeelding leiden, maar te veel verscherpen voegt kransen, artefacten en ruis toe.
 
-In Dynamic Media Classic wordt het gebruik van voorinstellingen voor afbeeldingen voor alle afbeeldingen sterk aanbevolen. Op deze manier zorgt u voor een uniforme grootte en voor elke afbeelding die met een voorinstelling voor afbeeldingen wordt aangeroepen, is verscherping vereist. Bovendien kunt u de verscherpingsparameters van een voorinstelling voor afbeeldingen heel eenvoudig bewerken en wijzigen. De volgende keer dat u publiceert, krijgen alle afbeeldingen die met die voorinstelling worden aangeroepen de nieuwe waarden.
+Dynamische media Klassiek raadt u ten zeerste aan om voor alle afbeeldingen voorinstellingen voor afbeeldingen te gebruiken. Op deze manier zorgt u voor een uniforme grootte en voor elke afbeelding die met een voorinstelling voor afbeeldingen wordt aangeroepen, is verscherping vereist. Bovendien kunt u de verscherpingsparameters van een voorinstelling voor afbeeldingen heel eenvoudig bewerken en wijzigen. De volgende keer dat u publiceert, krijgen alle afbeeldingen die met die voorinstelling worden aangeroepen de nieuwe waarden.
 
-Dynamic Media Classic raadt u ook aan verscherping toe te voegen aan Voorinstellingen viewer en vervolgens een viewer aan te roepen met die voorinstelling. Dit zorgt ervoor dat de beelden binnen uw kijkers helder en aantrekkelijk zijn.
+Dynamic Media Classic raadt u ook aan verscherping toe te voegen aan Voorinstellingen van viewer en vervolgens een viewer aan te roepen met die voorinstelling. Dit zorgt ervoor dat de beelden binnen uw kijkers helder en aantrekkelijk zijn.
 
 Of u nu Voorinstellingen afbeelding en Voorinstellingen viewer gebruikt of een andere methode voor verscherpen, de onderste regel is echter dat u de afbeeldingen moet verscherpen. Als u dat niet doet, kunnen uw afbeeldingen (en website) er zacht en vaag uitzien.
 
 >[!NOTE]
 >
->De opdrachten Verscherpen overschrijven de instellingen van de voorinstelling Afbeelding, inclusief de verscherpingseffecten. Met een voorinstelling voor afbeeldingen bepaalt u de grootte en opmaak van afbeeldingen die worden geleverd op basis van Dynamic Media Image Servers. In Dynamic Media Classic wordt het gebruik van voorinstellingen voor afbeeldingen sterk aanbevolen om alle afbeeldingen te leveren, zodat de afbeeldingen in dezelfde grootte worden geleverd en verscherpt. Nadat de verscherpingsinstellingen van een afzonderlijke afbeelding zijn gewijzigd, zijn de verscherpingsinstellingen van de voorinstelling voor afbeelding echter niet meer van toepassing op de afbeelding. Deze wordt geleverd zonder de verscherpingsinstellingen van de voorinstelling Afbeelding.
+>De opdrachten Verscherpen overschrijven de instellingen van de voorinstelling Afbeelding, inclusief de verscherpingseffecten. Met een voorinstelling voor afbeeldingen bepaalt u de grootte en de opmaak van de afbeeldingen die worden geleverd op de dynamische mediageleveranciers. Dynamische media Klassiek raadt u in hoge mate aan om Voorinstellingen afbeelding te gebruiken om alle afbeeldingen te leveren, zodat de afbeeldingen op gelijke grootte worden geleverd en verscherpen. Nadat de verscherpingsinstellingen van een afzonderlijke afbeelding zijn gewijzigd, zijn de verscherpingsinstellingen van de voorinstelling voor afbeelding echter niet meer van toepassing op de afbeelding. Deze wordt geleverd zonder de verscherpingsinstellingen van de voorinstelling Afbeelding.
 
-Het is vaak nodig om afbeeldingen te verscherpen. Dynamic Media Klassiek en Afbeeldingsservers bieden verschillende verscherpingsopties. Het is belangrijk dat u precies begrijpt wat verscherping doet met een afbeelding en hoeveel verscherping u nodig hebt. De meeste afbeeldingen moeten wat worden verscherpt, maar de vereiste hoeveelheid is afhankelijk van de afbeelding.
+Het is vaak nodig om afbeeldingen te verscherpen. Dynamische media Klassiek en Afbeeldingsservers bieden verschillende verscherpingsopties. Het is belangrijk dat u precies begrijpt wat verscherping doet met een afbeelding en hoeveel verscherping u nodig hebt. De meeste afbeeldingen moeten wat worden verscherpt, maar de vereiste hoeveelheid is afhankelijk van de afbeelding.
 
 Met het verscherpen van afbeeldingen wordt het contrast van pixels vergroot, zodat randen scherper worden. Mensen zien dit verbeterde randcontrast als scherpte. Hoewel u een afbeelding gemakkelijk kunt verbeteren door verscherpingsfilters uit te voeren op een afbeelding, is het ook gemakkelijk om een afbeelding te veel te verscherpen.
 
 Als u een afbeelding te veel verscherpt, krijgt u een halo-effect of een streep van de randlijnen.
 
-Er zijn beste praktijken u kunt volgen om het scherpen van uw beelden in Dynamic Media Klassiek en op de Server van het Beeld van Dynamic Media te optimaliseren.
+U kunt de beste werkwijzen volgen om de verscherping van uw beelden in Dynamische Media Classic en op Dynamische Server van het Beeld van Media te optimaliseren.
 
-Zie [Beste praktijken voor het verscherpen van beelden in Dynamic Media Klassiek en op de Server](/help/assets/s7_sharpening_images.pdf)van het Beeld van Dynamic Media.
+Zie [Aanbevolen werkwijzen voor het verscherpen van afbeeldingen in Dynamic Media Classic en op Dynamic Media Image Server](/help/assets/s7_sharpening_images.pdf).
 
 **Een afbeelding verscherpen**
 
@@ -70,7 +70,7 @@ Selecteer het menu Verscherpen en kies een optie:
 
 Kies deze opties om de verscherping af te stemmen met Onscherp masker:
 
-**Hoeveelheid** bepaalt de hoeveelheid contrast die op randpixels wordt toegepast. De standaardwaarde is 0,0. Voor afbeeldingen met hoge resolutie kunt u de resolutie verhogen tot 5,0. Beschouw Hoeveelheid als een maat voor de filterintensiteit. Houd er rekening mee dat de instelling Hoeveelheid in Dynamic Media Klassiek niet gelijk is aan de instelling Hoeveelheid in Photoshop. Photoshop gebruikt een hoeveelheid tussen 1% en 500%, terwijl de Klassieke schaal van Dynamic Media van 0.0 tot 5.0. (5,0 komt ongeveer overeen met 500% in Photoshop, 0,9 komt overeen met 90% enzovoort.)
+**Hoeveelheid** bepaalt de hoeveelheid contrast die op randpixels wordt toegepast. De standaardwaarde is 0,0. Voor afbeeldingen met hoge resolutie kunt u de resolutie verhogen tot 5,0. Beschouw Hoeveelheid als een maat voor de filterintensiteit. Houd er rekening mee dat de instelling Bedrag in Dynamic Media Classic niet gelijk is aan de instelling Bedrag in Photoshop. Photoshop gebruikt een hoeveelheid tussen 1% en 500%, terwijl Dynamic Media Classic schaalt tussen 0,0 en 5,0. (5,0 komt ongeveer overeen met 500% in Photoshop, 0,9 komt overeen met 90% enzovoort.)
 
 **Met Straal** bepaalt u het aantal pixels rondom de randpixels dat invloed heeft op de verscherping. Het effect wordt uitgevoerd op alle pixels in de afbeelding en wordt in alle richtingen uitgestraald.
 
@@ -102,7 +102,7 @@ Selecteer het menu Nieuwe pixels berekenen en kies een optie. Met deze opties ve
 
 **Voorinstellingen voor verscherpen en afbeeldingen**
 
-U kunt alle drie de verscherpingseffecten mixen om het uiteindelijke resultaat te bereiken. Dit wordt echter niet aanbevolen. Klassieke Dynamic Media raadt u aan uw verscherpingseffecten op te slaan als onderdeel van een voorinstelling voor afbeeldingen. Met Voorinstellingen voor afbeeldingen kunt u de meest gebruikte afbeeldingswijzigingstoetsen verpakken om een dynamisch vergroot/verkleind afbeelding te maken in een kleine tekstreeks. Een voorinstelling voor afbeeldingen bevat waarden voor de bestandsindeling (meestal JPEG voor het web), het aantal pixels en de verscherping van afbeeldingen. In plaats van de URL toe te voegen met elke afbeeldingswijzigingstoets die nodig is om een bepaald type afbeelding te maken, maakt u een benoemde voorinstelling Afbeelding, zoals &quot;miniatuur&quot;. Configureer de voorinstelling voor miniatuurafbeelding met de juiste grootte, bestandsindeling en verscherpingsopties en roep de afbeelding vervolgens aan met de naam Voorinstelling afbeelding. Met Voorinstellingen voor afbeelding wordt de lengte van de gehele URL ingekort. Deze twee URL&#39;s produceren dezelfde JPEG-afbeelding van 350 x 350 met verscherping:
+U kunt alle drie de verscherpingseffecten mixen om het uiteindelijke resultaat te bereiken. Dit wordt echter niet aanbevolen. Dynamische media Klassiek raadt u aan uw verscherpingseffecten op te slaan als onderdeel van een voorinstelling voor afbeelding. Met Voorinstellingen voor afbeelding kunt u de meest gebruikte afbeeldingswijzigingstoetsen verpakken om een dynamisch vergroot/verkleind afbeelding te maken in een kleine tekstreeks. Een voorinstelling voor afbeeldingen bevat waarden voor de bestandsindeling (meestal JPEG voor het web), het aantal pixels en de verscherping van afbeeldingen. In plaats van de URL toe te voegen met elke afbeeldingswijzigingstoets die nodig is om een bepaald type afbeelding te maken, maakt u een benoemde voorinstelling Afbeelding, zoals &quot;miniatuur&quot;. Configureer de voorinstelling voor miniatuurafbeelding met de juiste grootte, bestandsindeling en verscherpingsopties en roep de afbeelding vervolgens aan met de naam Voorinstelling afbeelding. Met Voorinstellingen voor afbeelding wordt de lengte van de gehele URL ingekort. Deze twee URL&#39;s produceren dezelfde JPEG-afbeelding van 350 x 350 met verscherping:
 
 * `https://sample.scene7.com/is/image/S7train/Backpack_A?wid=350&hei=350&fmt=jpeg&qlt=85,0&resMode=sharp2&op_usm=0.9,1.0,8,0`
 * `https://sample.scene7.com/is/image/S7train/Backpack_A?$!_s7product$`
@@ -131,7 +131,7 @@ Ga naar Setup > Application Setup > Publish Setup > Image Server om de standaard
 
 Tenzij u wijzigingstoetsen voor verscherpende afbeeldingen toevoegt aan de voorinstelling, ziet de kleine afbeelding bij het laden er zacht uit, omdat deze is gedownsampled zodat deze in het viewervenster past zonder te worden verscherpt.
 
-In Dynamic Media Classic kunt u met Viewer-voorinstellingen (zoals Voorinstellingen afbeelding) veel opties centraliseren in één locatie, waaronder opties voor skin en viewer (zoals een knop Afdrukken of de zoomsnelheid van de zoomanimatie). Voorinstellingen voor viewers bevinden zich in dezelfde sectie als Voorinstellingen afbeelding, onder Instellingen > Toepassingsinstellingen > Voorinstellingen voor viewer.
+In Dynamic Media Classic kunt u met Viewer-voorinstellingen (zoals Voorinstellingen afbeelding) veel opties centraliseren in één locatie, inclusief een keuze voor opties voor skin en viewer (zoals een knop Afdrukken of de snelheid van de zoomanimatie bepalen). Voorinstellingen voor viewers bevinden zich in dezelfde sectie als Voorinstellingen afbeelding, onder Instellingen > Toepassingsinstellingen > Voorinstellingen voor viewer.
 
 De optie Modifiers bevindt zich onder de sectie Core Settings van alle voorinstellingen voor eCatalog, Centrifugeren en Aangepast zoomen Viewer. Door de URL-verscherpingsopdrachten toe te voegen aan het vak Modifiers, voegt u verscherping toe telkens wanneer de viewer wordt aangeroepen met de desbetreffende viewer-voorinstelling.
 
@@ -145,4 +145,4 @@ De voorinstelling wordt hier verscherpt en wijzigt de standaardskin van de viewe
 
 De laatste en minst aanbevolen verscherpingsmethode is het per afbeelding verscherpen van overschrijvingen te maken. Hiermee wordt de verscherping in een voorinstelling voor afbeeldingen overschreven door de eigen specifieke waarden. Dit negeert echter alle andere verscherpingsmethoden van elke gewenste grootte. Deze methode kan het beste worden gebruikt als bepaalde afbeeldingen niet met een hoge resolutie zijn opgeslagen en de waarden in de Voorinstellingen afbeelding te hoog zijn voor deze kleine afbeeldingen. In dit geval is mogelijk enige verscherping per afbeelding nodig.
 
-Selecteer in Dynamic Media Classic een willekeurige afbeelding, ga naar de detailweergave (door te dubbelklikken of op de knop Gedetailleerde weergave te drukken) en klik op Verscherpen. Wijzig een parameter en klik op Opslaan. Dit vertelt de Server van het Beeld om deze het scherpen parameters eerder dan om het even welk bevel te gebruiken u in URL, zoals een het scherpen bepaling of Vooraf ingesteld Beeld roept. U moet publiceren om te zien de veranderingen van kracht worden.
+Selecteer een willekeurige afbeelding in Dynamic Media Classic, ga naar de gedetailleerde weergave (door te dubbelklikken of op de knop Gedetailleerde weergave te drukken) en klik op Verscherpen. Wijzig een parameter en klik op Opslaan. Dit vertelt de Server van het Beeld om deze het scherpen parameters eerder dan om het even welk bevel te gebruiken u in URL, zoals een het scherpen bepaling of Vooraf ingesteld Beeld roept. U moet publiceren om te zien de veranderingen van kracht worden.
