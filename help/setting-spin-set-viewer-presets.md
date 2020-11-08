@@ -10,7 +10,7 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/spin_sets
 discoiquuid: 9dfaa37a-59ab-46ae-94c3-c0ab9f940023
 translation-type: tm+mt
-source-git-commit: 1df4f88ef856160ee06c43dc6ec430df122f2408
+source-git-commit: 9424b392f85536dc75083d0ade255e4824755ed1
 workflow-type: tm+mt
 source-wordcount: '237'
 ht-degree: 0%
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Voorinstellingen voor een draaiende set viewers instellen{#setting-up-spin-set-viewer-presets}
 
-Met voorinstellingen van de draaiende viewer worden de stijl, het gedrag en de vormgeving van de viewers bepaald. Dynamic Media Classic wordt geleverd met standaard voorinstellingen voor de draaiende viewer. Als beheerder kunt u ook uw eigen voorinstellingen voor de voorinstelling van de voorinstelling Spin Set Viewer maken. U kunt een voorinstelling voor een centrifugeset weergeven met verschillende kleuren, randen, lettertypen en afbeeldingsinstellingen.
+Met voorinstellingen van de draaiende viewer worden de stijl, het gedrag en de vormgeving van de viewers bepaald. Dynamische media Klassiek wordt geleverd met standaard voorinstellingen van de Spin Set Viewer. Als beheerder kunt u ook uw eigen voorinstellingen voor de voorinstelling van de voorinstelling Spin Set Viewer maken. U kunt een voorinstelling voor een centrifugeset weergeven met verschillende kleuren, randen, lettertypen en afbeeldingsinstellingen.
 
 Ga als volgt te werk om een voorinstelling voor een centrifugeset viewer te maken:
 
