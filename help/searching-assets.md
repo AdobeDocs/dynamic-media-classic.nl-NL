@@ -10,7 +10,7 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/managing_assets
 discoiquuid: effef4e7-37c5-42e2-9266-ecd026cad628
 translation-type: tm+mt
-source-git-commit: 1df4f88ef856160ee06c43dc6ec430df122f2408
+source-git-commit: 9424b392f85536dc75083d0ade255e4824755ed1
 workflow-type: tm+mt
 source-wordcount: '1407'
 ht-degree: 0%
@@ -53,7 +53,7 @@ Een eenvoudige zoekopdracht uitvoeren:
 
 >[!NOTE]
 >
->Dynamic Media Classic volgt zoekopdrachten. Als u een zoekopdracht nogmaals wilt uitvoeren, selecteert u de knop Zoeken en kiest u de naam van een zoekopdracht onder aan het menu Zoeken.
+>Dynamic Media Classic zoekt naar tracks. Als u een zoekopdracht nogmaals wilt uitvoeren, selecteert u de knop Zoeken en kiest u de naam van een zoekopdracht onder aan het menu Zoeken.
 
 ## Een geavanceerde zoekopdracht uitvoeren {#conducting-an-advanced-search}
 
@@ -71,7 +71,7 @@ Geef een of meer van de volgende criteria op in uw zoekopdracht:
 
 **Geef zoekcriteria voor** metagegevens op. Maak een of meer zoekvelden voor het zoeken naar metagegevens. Zoekvelden maken:
 
-1. Open de lijst Metagegevensweergave (links van het menu Een veld toevoegen) en kies een metagegevensweergave. U kunt kiezen uit een compacte weergave, IPTC, XMP of een weergave van de beheerdersinstelling.
+1. Open de lijst Metagegevensweergave (links van het menu Een veld toevoegen) en kies een metagegevensweergave. U kunt een compacte weergave, IPTC, XMP of een weergave kiezen voor de beheerdersinstelling.
 1. Selecteer het menu Een veld toevoegen en kies een veldnaam in de vervolgkeuzelijst.
 1. Kies een optie Bevat (Bevat, Bevat niet, Begint met, Beëindigt met, of Gelijk).
 1. Kies een waarde voor numerieke velden of voer een aangepast datumbereik in.
@@ -87,7 +87,7 @@ Klik op Wissen om de zoekcriteria te wissen en een nieuwe zoekopdracht te starte
 
 Filter elementen op het tabblad Filters van de Asset Library. Als u elementen wilt filteren, gebruikt u metagegevenswaarden als criteria. Nadat u een metagegevensveld hebt gekozen dat u wilt gebruiken voor filtering, bevat het tabblad Filters een lijst met alle metagegevenswaarden die zijn ingevoerd in het gekozen veld en het aantal elementen waaraan elke waarde is toegewezen. In een filterbewerking in het metagegevensveld Maker bevat het tabblad Filters bijvoorbeeld alle namen die zijn ingevoerd in het metagegevensveld Maker voor verschillende elementen. Voor elke naam geeft het tabblad Filters het aantal elementen aan dat de naam heeft toegewezen. Vervolgens klikt u op een metagegevenswaarde om alle elementen weer te geven waaraan die waarde is toegewezen. In het voorbeeld klikt u op de waarde van de Jimmy-metagegevens om alle elementen weer te geven waarin de naam Jimmy is ingevoerd in het metagegevensveld Maker. U kunt filteren met meerdere metagegevensvelden als filtercriterium.
 
-U kunt filterbewerkingen opslaan om ze meerdere malen uit te voeren.
+U kunt filterbewerkingen opslaan om deze meerdere malen uit te voeren.
 
 >[!NOTE]
 >
@@ -155,7 +155,7 @@ Het scherm Metadata Server Publish wordt geopend. In dit scherm kunt u de volgen
 
 **Met Onmiddellijk publiceren** worden automatisch wijzigingen in metagegevens doorgevoerd wanneer deze worden doorgevoerd, zoals nieuwe elementen, trefwoordwijzigingen enzovoort.
 
-**Het XMP-pakket** wordt gepubliceerd. Dit pakket wordt niet gebruikt voor zoeken, maar biedt de meest actuele XMP/
+**XMP Pakket** publiceert het XMP Pakket. Dit pakket wordt niet gebruikt voor het zoeken, maar verstrekt de meest bijgewerkte XMP/
 
 **Trefwoorden** Hiermee publiceert u uw trefwoorden naar de metagegevensserver voor gebruik in zoekopdrachten.
 
