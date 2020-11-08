@@ -10,7 +10,7 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/image_sets
 discoiquuid: 612a425f-2840-46c4-8e5a-c0bc5f738f4e
 translation-type: tm+mt
-source-git-commit: 1df4f88ef856160ee06c43dc6ec430df122f2408
+source-git-commit: 9424b392f85536dc75083d0ade255e4824755ed1
 workflow-type: tm+mt
 source-wordcount: '565'
 ht-degree: 3%
@@ -20,13 +20,13 @@ ht-degree: 3%
 
 # Snel starten: Afbeeldingssets{#quick-start-image-sets}
 
-Klassieke afbeeldingssets van Dynamic Media bieden gebruikers een geïntegreerde kijkervaring. In de dynamische viewer voor instellen afbeelding kunnen gebruikers verschillende weergaven van een item zien door op een miniatuurafbeelding te klikken. Met Afbeeldingssets kunt u alternatieve weergaven met hoge resolutie van een item presenteren.
+Dynamische Klassieke afbeeldingssets voor media bieden gebruikers een geïntegreerde kijkervaring. In de dynamische viewer voor instellen afbeelding kunnen gebruikers verschillende weergaven van een item zien door op een miniatuurafbeelding te klikken. Met Afbeeldingssets kunt u alternatieve weergaven met hoge resolutie van een item presenteren.
 
 De viewer voor Afbeeldingsset biedt zoomgereedschappen waarmee u afbeeldingen nauwkeurig kunt bekijken. Desgewenst kunt u doelen voor zoomen met instructies en afbeeldingen met hyperlinks in de afbeeldingsset opnemen. Afbeeldingssets zorgen voor een meer gecoördineerde, intieme kijkervaring.
 
 Deze afbeelding stelt snel aan de slag met behulp van Image Set-technieken in Dynamic Media Classic.
 
-**1. master afbeeldingen uploaden voor meerdere weergaven en stalen**
+**1. Master afbeeldingen uploaden voor meerdere weergaven en stalen**
 
 Begin door de beelden voor uw Reeksen van het Beeld te uploaden. Omdat gebruikers kunnen inzoomen op afbeeldingen in de Vastgestelde Kijker van het Beeld, houd rekening met het zoemen wanneer u beelden kiest. Zorg ervoor dat de afbeeldingen ten minste 2000 pixels groot zijn in de grootste dimensie. Dynamic Media Classic ondersteunt veel bestandsindelingen voor afbeeldingen, maar het wordt aanbevolen afbeeldingen zonder verlies in de indeling TIFF, PNG en EPS te gebruiken.
 
@@ -46,7 +46,7 @@ Zie ook [Zoomdoelen en Afbeeldingen met hyperlinks in afbeeldingssets opnemen](i
 
 **3. Voorinstellingen voor Afbeeldingsset viewer instellen, indien nodig**
 
-Beheerders kunnen voorinstellingen voor de afbeeldingsset Viewer maken of wijzigen. De Klassieke van Dynamic Media komt met standaardKijker vooraf instelt voor elk rijk media type. Gebruik de zoomviewer: Aangepast > Afbeeldingen of Afbeeldingssets/Meerdere weergaven om uw Afbeeldingssets weer te geven.
+Beheerders kunnen voorinstellingen voor de afbeeldingsset Viewer maken of wijzigen. Dynamic Media Classic wordt geleverd met standaard voorinstellingen voor viewers voor elk rich-mediatype. Gebruik de zoomviewer: Aangepast > Afbeeldingen of Afbeeldingssets/Meerdere weergaven om uw Afbeeldingssets weer te geven.
 
 U voegt Viewer-voorinstellingen toe of bewerkt deze via het scherm Toepassingsinstellingen.
 
@@ -72,7 +72,7 @@ Zie [Publiceren](publishing-files.md#publishing-files).
 
 **6. Een afbeeldingsset koppelen aan uw website**
 
-Met Dynamic Media Classic worden URL-aanroepen voor afbeeldingssets gemaakt en worden deze geactiveerd nadat u de bestanden hebt gepubliceerd. U kunt deze URL&#39;s kopiëren vanuit het voorvertoningsscherm.
+Met Dynamic Media Classic worden URL-aanroepen voor afbeeldingssets gemaakt en worden deze geactiveerd nadat u de inhoud hebt gepubliceerd. U kunt deze URL&#39;s kopiëren vanuit het voorvertoningsscherm.
 
 Selecteer de Reeks van het Beeld, en klik dan de knoop van de Voorproef. Het voorvertoningsscherm wordt geopend. Selecteer een voorinstelling voor de Afbeeldingsset Viewer en klik op URL **** kopiëren.
 
