@@ -10,7 +10,7 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/master_files
 discoiquuid: 5a073de3-6b1d-4c3e-8c03-9182f9f3874a
 translation-type: tm+mt
-source-git-commit: 1df4f88ef856160ee06c43dc6ec430df122f2408
+source-git-commit: 9424b392f85536dc75083d0ade255e4824755ed1
 workflow-type: tm+mt
 source-wordcount: '674'
 ht-degree: 0%
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Werken met PDF&#39;s{#working-with-pdfs}
 
-PDF-bestanden (Portable Document Format) worden meestal gebruikt in Dynamic Media Classic voor het maken van e-catalogi. Wanneer u een PDF-bestand uploadt, worden de pagina&#39;s standaard gerasterd in Dynamic Media (Klassiek), zodat de pagina&#39;s kunnen worden gebruikt om rich media te maken.
+PDF-bestanden (Portable Document Format) worden meestal gebruikt in Dynamic Media Classic om eCatalogs te maken. Wanneer u een PDF-bestand uploadt, worden de pagina&#39;s standaard gerasterd door Dynamic Media Classic, of worden de pagina&#39;s gerasterd, zodat de pagina&#39;s kunnen worden gebruikt om rich media te bouwen.
 
 ## Opties voor uploaden naar PDF {#pdf-upload-options}
 
@@ -64,7 +64,7 @@ Kies een optie voor Kleurprofiel:
 
 **De oorspronkelijke kleurruimte** behouden
 
-**Kies Aangepast van > naar** om de menu&#39;s te openen, zodat u de optie Omzetten van en Omzetten in kleurruimte kunt kiezen. U kunt een standaard Photoshop-kleurruimte kiezen of een kleurruimte die u naar Dynamic Media Classic hebt geüpload.
+**Kies Aangepast van > naar** om de menu&#39;s te openen, zodat u de optie Omzetten van en Omzetten in kleurruimte kunt kiezen. U kunt een standaard Photoshop-kleurruimte kiezen of een kleurruimte die u hebt geüpload naar Dynamic Media Classic.
 
 Zie [ICC-profielen](icc-profiles.md#icc_profiles).
 
