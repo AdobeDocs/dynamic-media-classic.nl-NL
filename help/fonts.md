@@ -10,7 +10,7 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/support_files
 discoiquuid: 97cecd6a-30aa-44fe-a611-fd71b02fd5ae
 translation-type: tm+mt
-source-git-commit: 1df4f88ef856160ee06c43dc6ec430df122f2408
+source-git-commit: 9424b392f85536dc75083d0ade255e4824755ed1
 workflow-type: tm+mt
 source-wordcount: '429'
 ht-degree: 0%
@@ -25,12 +25,12 @@ In sommige gevallen vereist Dynamic Media Classic dat u een lettertypebestand up
 Dynamic Media Classic ondersteunt de volgende lettertypen:
 
 * Alle TrueType-fonts
-* PostScript®-lettertypen
+* PostScript® lettertypen
 * OpenType/TrueType-lettertypen
 * OpenType-/PostScript-lettertypen
 * PhotoFonts
 
-Nadat een lettertypebestand is geüpload, kunt u de klassieke id van het Dynamic Media, de lettertypenaam en de typegegevens wijzigen in het scherm Info bewerken.
+Nadat een lettertypebestand is geüpload, kunt u de bijbehorende dynamische media-klassieke id, lettertypenaam en tekstgegevens wijzigen in het scherm Info bewerken.
 
 >[!NOTE]
 >
@@ -38,7 +38,7 @@ Nadat een lettertypebestand is geüpload, kunt u de klassieke id van het Dynamic
 
 ## Fontbestanden uploaden {#uploading-font-files}
 
-Upload doopvontdossiers met de zelfde technieken u gebruikt om andere dossiers te uploaden. U kunt lettertypebestanden opslaan in elke klassieke map van Dynamic Media. Zie [Uw bestanden](uploading-files.md#uploading_your_files)uploaden.
+Upload doopvontdossiers met de zelfde technieken u gebruikt om andere dossiers te uploaden. U kunt lettertypebestanden opslaan in elke willekeurige map van het type Dynamic Media Classic. Zie [Uw bestanden](uploading-files.md#uploading_your_files)uploaden.
 
 ## Informatie over lettertypebestanden bewerken {#editing-font-file-information}
 
@@ -62,8 +62,8 @@ Selecteer in het deelvenster Bladeren het lettertypebestand dat u wilt bewerken 
 
 **TTF** TrueType-lettertypebestanden die worden gebruikt voor PDF/PostScript-rendering en afbeeldingsserving.
 
-**AFM** Adobe PostScript-lettertypebestanden die Adobe Font Metrics-gegevens bevatten en worden gebruikt voor beeldserving.
+**AFM** Adobe PostScript-lettertypebestanden met Adobe Font Metrics-gegevens die worden gebruikt voor beeldserving.
 
 **PFM** Adobe PostScript-lettertypebestanden met binaire metrische informatie over lettertypen.
 
-**PFB** Adobe PostScript-lettertypebestanden met binaire contourinformatie voor lettertypen die worden gebruikt voor PDF/PostScript-rendering en afbeeldingsweergave.
+**PFB** Adobe PostScript-lettertypebestanden met binaire informatie over lettertypecontouren die worden gebruikt voor PDF/PostScript-rendering en afbeeldingsweergave.
