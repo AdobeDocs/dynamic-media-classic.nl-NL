@@ -10,7 +10,7 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/zoom
 discoiquuid: df5471c1-ccda-4dd4-a7f1-5b9193b41f98
 translation-type: tm+mt
-source-git-commit: 1df4f88ef856160ee06c43dc6ec430df122f2408
+source-git-commit: 9424b392f85536dc75083d0ade255e4824755ed1
 workflow-type: tm+mt
 source-wordcount: '673'
 ht-degree: 0%
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Zoomviewers koppelen aan uw webpagina&#39;s{#linking-zoom-viewers-to-your-web-pages}
 
-Via URL-tekenreeksen of ingesloten code krijgen uw websites en toepassingen via URL-tekenreeksen toegang tot de inhoud van de Dynamic Media Image Server, inclusief master afbeeldingen en de bijbehorende zoomdoelen en Voorinstellingen van de zoomviewer. Deze URL-tekenreeksen worden geactiveerd tijdens het publicatieproces. Als u deze URL-tekenreeksen of de ingesloten code op uw webpagina&#39;s en toepassingen wilt plaatsen, kopieert u deze vanuit Dynamic Media Classic.
+Via URL-tekenreeksen of ingesloten code krijgen uw websites en toepassingen toegang tot de inhoud van Dynamic Media Image Server, inclusief master afbeeldingen en de bijbehorende zoomdoelen, en Zoomviewer-voorinstellingen. Deze URL-tekenreeksen worden geactiveerd tijdens het publicatieproces. Als u deze URL-tekenreeksen of de ingesloten code op uw webpagina&#39;s en toepassingen wilt plaatsen, kopieert u deze vanuit Dynamic Media Classic.
 
 >[!NOTE]
 >
@@ -48,7 +48,7 @@ Via URL-tekenreeksen of ingesloten code krijgen uw websites en toepassingen via 
 
 Bezoekers van websites zoomen doorgaans in op afbeeldingen door eerst een zoompictogram te selecteren (vaak wordt met het pictogram de afbeelding van een vergrootglas weergegeven). Als u dit pictogram selecteert, wordt een dynamische webpagina (ASP of JSP) gestart die de afbeelding in een pop-upvenster weergeeft. In het pop-upvenster zoomen bezoekers daadwerkelijk op de afbeelding.
 
-Zie [HTML5 Basic Zoom Viewer insluiten in de Adobe Viewers Reference Guide](https://docs.adobe.com/content/help/en/dynamic-media-developer-resources/library/viewers-aem-assets-dmc/basic-zoom/c-html5-20-basic-zoom-viewer-about.html)voor meer informatie en codevoorbeelden.
+Zie [HTML5 Basic Zoom Viewer insluiten in de handleiding](https://docs.adobe.com/content/help/en/dynamic-media-developer-resources/library/viewers-aem-assets-dmc/basic-zoom/c-html5-20-basic-zoom-viewer-about.html)voor Adobe Viewers voor meer informatie en codevoorbeelden.
 
 ## De ingesloten kopie van een zoomviewer kopiëren {#copying-the-embed-copy-of-a-zoom-viewer}
 
