@@ -10,7 +10,7 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/upload_and_publish_assets
 discoiquuid: 52fadf99-7d11-46f7-8483-a9f87ffc2f67
 translation-type: tm+mt
-source-git-commit: 03ca030531f8d9fa0a6944bd5050e2c865adf5f5
+source-git-commit: 9424b392f85536dc75083d0ade255e4824755ed1
 workflow-type: tm+mt
 source-wordcount: '1103'
 ht-degree: 0%
@@ -103,7 +103,7 @@ Last Modified Date:
 
    >[!NOTE]
    >
-   >Als u één enkel IP adres en netto masker toevoegt, kan dat adres activavraag maken. Nochtans, zijn om het even welke andere IP adressen en netmaskers die u toevoegt niet toegestaan om activa te maken vraag. Als dusdanig, kunt u willen nadenken onbruikbaar makend (draai) de controledoos in de stap hierboven om de capaciteit uit te zetten om een IP adres en een netto masker te specificeren. Het doen zo laat effectief *alle* IP adressen toe om activa vraag te maken, en zij zullen allen verschijnen.
+   >Als u één enkel IP adres en netto masker toevoegt, kan dat adres activavraag maken. Nochtans, zijn om het even welke andere IP adressen en netmaskers die u toevoegt niet toegestaan om activa te maken vraag. Als dusdanig, kunt u willen overwegen onbruikbaar makend (draai uit) de controledoos in de stap hierboven om de capaciteit uit te zetten om een IP adres en een netto masker te specificeren. Het doen zo laat effectief *alle* IP adressen toe om activa vraag te maken, en zij zullen allen verschijnen.
 
 1. Voer een van de volgende handelingen uit:
    * Herhaal de vorige twee stappen om meer IP adressen toe te voegen.
