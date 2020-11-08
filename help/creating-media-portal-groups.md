@@ -10,7 +10,7 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/media_portal
 discoiquuid: 91524d36-b77a-4dc4-acba-a7bd85297e98
 translation-type: tm+mt
-source-git-commit: 1df4f88ef856160ee06c43dc6ec430df122f2408
+source-git-commit: 9424b392f85536dc75083d0ade255e4824755ed1
 workflow-type: tm+mt
 source-wordcount: '829'
 ht-degree: 0%
@@ -34,7 +34,7 @@ Als u niet specifiek groepsmachtigingen toekent aan een middel of map, neemt dat
 
 ## Een groep toevoegen {#adding-a-group}
 
-1. Klik op **Instellen** > **Media Portal instellen** > **Groepen**.
+1. Klik **Opstelling** > **Media Portal Opstelling** > **Groepen**.
 1. Klik op **Toevoegen**.
 1. In het Add de dialoogvakje van de Groep, ga een naam voor de groep in het vakje van de Naam van de Groep in, en klik dan Groep **** toevoegen.
 1. Desgewenst kunt u de vakken naast de namen van gebruikers selecteren om gebruikers aan de nieuwe groep toe te voegen.
@@ -50,7 +50,7 @@ Als u niet specifiek groepsmachtigingen toekent aan een middel of map, neemt dat
 
 ## Machtigingen voor elementtoegang instellen voor een groep {#establishing-asset-access-permissions-for-a-group}
 
-1. Klik op **Instellen** > **Media Portal instellen** > **Groepen**.
+1. Klik **Opstelling** > **Media Portal Opstelling** > **Groepen**.
 1. Voer een van de volgende handelingen uit op de lijstpagina Groepen:
 
    * Als u een groep wilt toevoegen en machtigingen wilt opgeven, klikt u op **Toevoegen**. Voer in het dialoogvenster Groep toevoegen een naam voor de groep in, klik op Groep **** toevoegen en voeg gebruikers toe aan de groep.
@@ -82,7 +82,7 @@ Kies Vooraf ingestelde de toegangstoestemmingen van het Beeld voor een groep als
 
 Zie ook Exportopties [opgeven die beschikbaar zijn voor gebruikers](specifying-export-options-available-media.md#specifying_export_options_available_to_media_portal_users)van Media Portal.
 
-1. Klik op **Instellen** > **Media Portal instellen** > **Groepen**.
+1. Klik **Opstelling** > **Media Portal Opstelling** > **Groepen**.
 1. Voer een van de volgende handelingen uit op de lijstpagina Groepen:
 
    * Klik op **Toevoegen** om een groep toe te voegen en op te geven welke voorinstellingen voor afbeeldingen er beschikbaar zijn. Voer in het dialoogvenster Groep toevoegen een naam voor de groep in, klik op Groep **** toevoegen en voeg gebruikers toe aan de groep.
@@ -94,7 +94,7 @@ Zie ook Exportopties [opgeven die beschikbaar zijn voor gebruikers](specifying-e
 
 ## Groepen bewerken en verwijderen {#edit-and-delete-groups}
 
-1. Klik op **Instellen** > **Media Portal instellen** > **Groepen**.
+1. Klik **Opstelling** > **Media Portal Opstelling** > **Groepen**.
 1. Selecteer op de pagina Groepenlijst een groep en bewerk of verwijder deze.
 
    **Als u een groep** bewerkt, klikt u op Bewerken en kiest u opties in het dialoogvenster Groep bewerken.
