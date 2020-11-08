@@ -10,7 +10,7 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/image_sizing
 discoiquuid: 1ec39fe5-7b2a-4034-9570-6b5595f97052
 translation-type: tm+mt
-source-git-commit: 1df4f88ef856160ee06c43dc6ec430df122f2408
+source-git-commit: 9424b392f85536dc75083d0ade255e4824755ed1
 workflow-type: tm+mt
 source-wordcount: '654'
 ht-degree: 10%
@@ -20,21 +20,21 @@ ht-degree: 10%
 
 # Voorinstellingen afbeelding instellen{#setting-up-image-presets}
 
-Net als bij een macro is een voorinstelling voor afbeeldingen een vooraf gedefinieerde verzameling opdrachten voor het vergroten of verkleinen en opmaken van de grootte die onder een naam zijn opgeslagen. Als u wilt weten hoe Voorinstellingen afbeelding werken, kunt u ervan uitgaan dat elke productafbeelding op uw website moet worden weergegeven met twee verschillende grootten: 500 x 500 pixels en 150 x 150 pixels. U maakt twee voorinstellingen voor afbeeldingen, een voorinstelling genaamd &quot;Vergroten&quot;, waarmee u afbeeldingen met 500 x 500 pixels kunt weergeven en een voorinstelling genaamd &quot;Miniatuur&quot; om afbeeldingen met 150 x 150 pixels weer te geven. Om beelden bij de &quot;Vergroten&quot;en &quot;Duimnagel&quot;grootte te leveren, kijkt een Server van het Beeld van Dynamic Media omhoog de definitie van de Vooraf ingestelde Beeld van de Vergroting en de Vooraf ingestelde Beeld van de Duimnagel. Vervolgens genereert de server dynamisch een afbeelding met de grootte en opmaakspecificaties van elke voorinstelling voor afbeeldingen.
+Net als bij een macro is een voorinstelling voor afbeeldingen een vooraf gedefinieerde verzameling opdrachten voor het vergroten of verkleinen en opmaken van de grootte die onder een naam zijn opgeslagen. Als u wilt weten hoe Voorinstellingen afbeelding werken, kunt u ervan uitgaan dat elke productafbeelding op uw website moet worden weergegeven met twee verschillende grootten: 500 x 500 pixels en 150 x 150 pixels. U maakt twee voorinstellingen voor afbeeldingen, een voorinstelling genaamd &quot;Vergroten&quot;, waarmee u afbeeldingen met 500 x 500 pixels kunt weergeven en een voorinstelling genaamd &quot;Miniatuur&quot; om afbeeldingen met 150 x 150 pixels weer te geven. Als u afbeeldingen wilt leveren met de grootte &quot;Vergroten&quot; en &quot;Miniatuur&quot;, wordt de definitie van de voorinstelling Afbeelding vergroten in Dynamic Media Image Server opgezocht. Vervolgens genereert de server dynamisch een afbeelding met de grootte en opmaakspecificaties van elke voorinstelling voor afbeeldingen.
 
-Dynamic Media Classic wordt geleverd met verschillende &quot;aanbevolen procedures&quot; voor voorinstellingen voor afbeeldingen die al zijn ingesteld voor gebruik. Beheerders kunnen ook nieuwe voorinstellingen voor afbeeldingen maken. Als u een voorinstelling voor afbeeldingen wilt maken, begint u helemaal opnieuw of u kunt een bestaande voorinstelling opnieuw gebruiken en opslaan onder een andere naam.
+Dynamische media Klassiek wordt geleverd met verschillende &quot;best practices&quot; Voorinstellingen voor afbeeldingen die al zijn ingesteld voor gebruik. Beheerders kunnen ook nieuwe voorinstellingen voor afbeeldingen maken. Als u een voorinstelling voor afbeeldingen wilt maken, begint u helemaal opnieuw of u kunt een bestaande voorinstelling opnieuw gebruiken en opslaan onder een andere naam.
 
 Afbeeldingen die kleiner worden wanneer ze dynamisch van een server worden geleverd, kunnen scherper en gedetailleerder worden. Daarom bevat elke voorinstelling voor afbeeldingen opmaakbesturingselementen waarmee u een afbeelding kunt optimaliseren wanneer deze met een bepaalde grootte wordt geleverd. Met deze besturingselementen zorgt u ervoor dat uw afbeeldingen scherp en duidelijk zijn wanneer ze aan uw website of toepassing worden geleverd.
 
 ## Een voorinstelling voor afbeeldingen maken {#creating-an-image-preset}
 
-U kunt uw eigen Voorinstellingen voor afbeeldingen maken als u een bedrijfsbeheerder bent. U kunt nieuwe voorinstellingen voor afbeeldingen maken of beginnen met een standaardvoorinstelling voor afbeeldingen die in de klassieke Dynamic Media is opgenomen, deze bewerken en opslaan onder een andere naam.
+U kunt uw eigen Voorinstellingen voor afbeeldingen maken als u een bedrijfsbeheerder bent. U kunt nieuwe voorinstellingen voor afbeeldingen maken of beginnen met een standaardvoorinstelling voor afbeeldingen die door Dynamic Media Classic wordt geleverd, deze bewerken en opslaan onder een andere naam.
 
 **Een voorinstelling voor afbeeldingen maken**
 
 1. Klik op **Instellen** > **Voorinstellingen** afbeelding.
 
-   U kunt naar de naam van een voorinstelling voor afbeeldingen op dit scherm bladeren om een voorvertoning van een bestaande voorinstelling voor afbeeldingen weer te geven. Als u een naam selecteert voor een voorinstelling voor afbeelding, wijzigt de grootte en de weergave van de voorbeeldafbeelding in het voorvertoningsvenster.
+   U kunt naar de naam van een voorinstelling voor afbeeldingen op dit scherm bladeren om een voorvertoning van een bestaande voorinstelling voor afbeeldingen weer te geven. Als u een naam selecteert voor de voorinstelling Afbeelding, wijzigt de grootte en de weergave van de voorbeeldafbeelding in het voorvertoningsvenster.
 
 1. Voer een van de volgende handelingen uit:
 
@@ -46,7 +46,7 @@ U kunt uw eigen Voorinstellingen voor afbeeldingen maken als u een bedrijfsbehee
 1. Voer afmetingen voor de breedte en hoogte in pixels in. Deze metingen bepalen de grootte waarmee afbeeldingen worden geleverd.
 1. Vul het scherm Voorinstelling toevoegen of Voorinstelling bewerken in. Zie Voorinstellingsopties voor [afbeeldingen voor meer informatie](application-setup.md#image_preset_options).
 
-   Dynamic Media Classic raadt de volgende opties voor beste praktijken aan om te beginnen:
+   Dynamic Media Classic raadt u aan om de volgende opties voor best practices te kiezen:
 
    * **Indeling** Kies JPEG of een andere indeling die aan uw vereisten voldoet. Alle webbrowsers ondersteunen de JPEG-afbeeldingsindeling. Deze biedt een goede balans tussen kleine bestandsgrootten en afbeeldingskwaliteit. JPEG-afbeeldingen gebruiken echter een compressieschema met dataverlies dat ongewenste afbeeldingsartefacten kan veroorzaken als de compressie-instelling te laag is. Daarom wordt in Dynamic Media Classic aangeraden de compressiekwaliteit (op de schuifregelaar) in te stellen op 75. Deze instelling biedt een goede balans tussen afbeeldingskwaliteit en kleine bestandsgrootte.
 
@@ -64,7 +64,7 @@ U kunt uw eigen Voorinstellingen voor afbeeldingen maken als u een bedrijfsbehee
 
 1. Klik op **Opslaan**.
 
-De Dynamic Media Klassieke &quot;beste praktijken&quot;opties voor het creëren van Beeld hier worden vermeld die vooraf instelt zijn algemene aanbevelingen; verscherpen is zeer subjectief . Deze &quot;beste praktijken&quot;montages waren gebaseerd op een 2000x 2000 master beeld; de instellingen voor grotere of kleinere stramienen kunnen verschillend zijn. Als u de instellingen voor Onscherp masker wilt aanpassen, raadt Dynamic Media Classic de volgende bereiken aan:
+De dynamische Media Klassieke &quot;beste praktijken&quot;opties voor het creëren van Beeld hier wordt vermeld die vooraf instelt zijn algemene aanbevelingen; verscherpen is zeer subjectief . Deze &quot;beste praktijken&quot;montages waren gebaseerd op een 2000x 2000 master beeld; de instellingen voor grotere of kleinere stramienen kunnen verschillend zijn. Als u de instellingen voor Onscherp masker wilt aanpassen, raadt Dynamic Media Classic deze bereiken aan:
 
 * **Hoeveelheid** tussen 0,8 en 1,5.
 
