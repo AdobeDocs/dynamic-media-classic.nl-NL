@@ -10,7 +10,7 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/template_basics
 discoiquuid: 8f7093da-d215-4337-ac95-69f0a5bf8648
 translation-type: tm+mt
-source-git-commit: 1df4f88ef856160ee06c43dc6ec430df122f2408
+source-git-commit: 9424b392f85536dc75083d0ade255e4824755ed1
 workflow-type: tm+mt
 source-wordcount: '3441'
 ht-degree: 0%
@@ -53,7 +53,7 @@ U kunt een sjabloon maken op basis van een bestaande sjabloon. Open de sjabloon,
 1. Klik op **Opslaan**.
 1. Selecteer een map waarin u de sjabloon wilt opslaan, voer een naam voor de sjabloon in en klik op **Verzenden**.
 
-   Met Dynamic Media Classic worden afbeeldingen zo nodig verkleind om ze op het canvas te passen, het gebied op het scherm Sjabloon waarin u de sjabloon definieert.
+   Dynamische media Klassiek verkleint afbeeldingen indien nodig om deze op het canvas te passen, het gebied op het scherm Sjabloon voor het definiëren van uw sjabloon.
 
 ## Een sjabloonset bewerken {#editing-a-template-set}
 
@@ -102,7 +102,7 @@ Gebruik de volgende gereedschappen in het scherm Sjabloon om sjablonen te maken:
 
 **Teksteditor v4.3 en Teksteditor v4.2** U kunt kiezen of u de meest recente en meest complete teksteditor, Text Editor v4.3 of de vorige teksteditor, Text Editor v4.2, wilt gebruiken. Bij het maken van nieuwe sjablonen is Teksteditor v4.3 standaard geselecteerd. Als u oudere sjablonen bewerkt, is Teksteditor v4.2 standaard geselecteerd. Teksteditor v4.3 biedt momenteel geen ondersteuning voor tekstomloop, dus wanneer u oudere sjablonen bewerkt die tekstomloop gebruiken, gebruikt u Teksteditor v4.2 om de kwaliteit van de sjabloon volledig intact te houden. Als uw oudere sjabloon geen tekstomloop gebruikt, kunt u Teksteditor v4.3 kiezen om gebruik te maken van de vele nieuwe functies die deze biedt, zoals Marges verhogen, Marges verlagen, Tekst in hoofdletters instellen en Tekst passend maken kopiëren.
 
-***opmerking **: De Redacteur van de tekst v4.2 zal uiteindelijk als optie in Dynamic Media Klassiek worden verwijderd, zodat wordt geadviseerd dat u de Redacteur van de Tekst 4.3 wanneer mogelijk gebruikt. De optie Tekstomloop wordt opgenomen in een toekomstige versie van de Teksteditor.*
+***opmerking **: Teksteditor v4.2 wordt uiteindelijk verwijderd als een optie in Dynamic Media Classic. Het wordt daarom aanbevolen om teksteditor 4.3 zo veel mogelijk te gebruiken. De optie Tekstomloop wordt opgenomen in een toekomstige versie van de Teksteditor.*
 
 **Designer en Developer** Selecteer de optie die uw rol het beste beschrijft.
 
@@ -120,7 +120,7 @@ Gebruik de volgende gereedschappen in het scherm Sjabloon om sjablonen te maken:
 
 >[!NOTE]
 >
->Zo nodig verkleint u met Dynamic Media Klassiek de afbeeldingen, zodat deze op het canvas passen wanneer u een afbeeldingslaag maakt.
+>Zo nodig worden afbeeldingen door Dynamic Media Classic verkleind, zodat ze op het canvas passen wanneer u een afbeeldingslaag maakt.
 
 ## Een tekstlaag maken {#creating-a-text-layer}
 
@@ -141,7 +141,7 @@ Ga als volgt te werk om tekst in een tekstlaag op te maken:
 1. Selecteer in het tekstvak de tekst die u wilt opmaken. U kunt alle tekst, delen van de tekst en afzonderlijke tekens selecteren.
 1. Geef een van deze opmaakopties op en klik op Toepassen.
 
-   **Lettertype** Kies een lettertype in het menu Lettertype. Als het gewenste lettertype niet in het menu staat, kunt u het lettertype uploaden naar de klassieke Dynamic Media. Zie Lettertypen.
+   **Lettertype** Kies een lettertype in het menu Lettertype. Als een lettertype dat u wilt gebruiken niet in het menu staat, kunt u het naar de Dynamic Media Classic uploaden. Zie Lettertypen.
 
    **Tekengrootte** Kies een tekengrootte in het menu, typ een specifieke grootte in het vak of klik op de pijl-omhoog of -omlaag om de grootte met twee punten te vergroten of te verkleinen.
 
@@ -243,7 +243,7 @@ Lagen moeten klein genoeg zijn om op het canvas te passen. U kunt de grootte van
 
 >[!NOTE]
 >
->Klassieke Dynamic Media raadt u aan een voorinstelling voor afbeeldingen te maken die de exacte grootte van de sjabloon heeft. Als u de grootte van de voorinstelling Afbeelding afstemt op de sjabloongrootte, weet u zeker dat de uiteindelijke uitvoergrootte en de verscherpingsopties voor de sjabloon correct zijn ingesteld. Nadat u deze voorinstelling voor afbeelding hebt gemaakt, kunt u deze kiezen in het menu Voorinstelling toepassen op het scherm Sjabloonvoorvertoning. Het scherm toont u hoe het beeld eruit ziet wanneer het van de server wordt geleverd. Zie [Voorinstellingen](setting-image-presets.md#setting_up_image_presets)afbeelding instellen.
+>Dynamische media Klassiek raadt u aan een voorinstelling voor afbeeldingen te maken die de exacte grootte van de sjabloon heeft. Als u de grootte van de voorinstelling Afbeelding afstemt op de sjabloongrootte, weet u zeker dat de uiteindelijke uitvoergrootte en de verscherpingsopties voor de sjabloon correct zijn ingesteld. Nadat u deze voorinstelling voor afbeelding hebt gemaakt, kunt u deze kiezen in het menu Voorinstelling toepassen op het scherm Sjabloonvoorvertoning. Het scherm toont u hoe het beeld eruit ziet wanneer het van de server wordt geleverd. Zie [Voorinstellingen](setting-image-presets.md#setting_up_image_presets)afbeelding instellen.
 
 **De grootte van een laag wijzigen**
 
