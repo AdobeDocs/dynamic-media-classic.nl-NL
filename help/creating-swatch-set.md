@@ -10,7 +10,7 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/swatch_sets
 discoiquuid: 631d2b2d-9e69-4b96-8392-17e00a1a8de0
 translation-type: tm+mt
-source-git-commit: 1df4f88ef856160ee06c43dc6ec430df122f2408
+source-git-commit: 9424b392f85536dc75083d0ade255e4824755ed1
 workflow-type: tm+mt
 source-wordcount: '706'
 ht-degree: 0%
@@ -42,7 +42,7 @@ Zie ook [Elementen](publishing-files.md#manually_publishing_assets) handmatig pu
 
    **Begin van het Vastgestelde scherm** van het Monster klik Bouwstijl > de Reeksen van het Monster. Selecteer een map in de elementenbibliotheek en sleep de afbeeldingen naar de sectie Weergaven van de pagina Staalset.
 
-1. Sleep staalkleuren, patronen of zet deze om in het vak Stalen in de pagina Staalset.
+1. Sleep staalkleuren, patronen of voltooit in het vak Stalen van de pagina Staalset.
 
    Zorg ervoor dat het kleur-, patroon- of eindstaal dat u naar elke plaatsaanduiding sleept, de kleur, het patroon of het einde van de aangrenzende afbeelding vertegenwoordigt.
 
