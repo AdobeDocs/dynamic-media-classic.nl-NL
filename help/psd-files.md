@@ -10,7 +10,7 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/master_files
 discoiquuid: 4086e3db-5aca-41a0-8f15-302afbf67ddb
 translation-type: tm+mt
-source-git-commit: 1df4f88ef856160ee06c43dc6ec430df122f2408
+source-git-commit: 9424b392f85536dc75083d0ade255e4824755ed1
 workflow-type: tm+mt
 source-wordcount: '1030'
 ht-degree: 1%
@@ -20,7 +20,7 @@ ht-degree: 1%
 
 # Werken met PSD-bestanden {#working-with-psd-files}
 
-PSD (Photoshop-documentbestanden) wordt meestal gebruikt in Dynamic Media Classic om sjablonen te maken. Wanneer u een PSD-bestand uploadt, kunt u automatisch vanuit het bestand een klassieke sjabloon voor Dynamic Media maken (selecteer de optie Sjabloon maken in het scherm Uploaden).
+PSD (Photoshop Document files) worden meestal gebruikt in Dynamic Media Classic om sjablonen te maken. Wanneer u een PSD-bestand uploadt, kunt u automatisch vanuit het bestand een klassieke sjabloon voor dynamische media maken (selecteer de optie Sjabloon maken in het scherm Uploaden).
 
 Met Dynamic Media Classic maakt u meerdere afbeeldingen van een PSD-bestand met lagen als u het bestand gebruikt om een sjabloon te maken. er wordt één afbeelding voor elke laag gemaakt.
 
@@ -50,7 +50,7 @@ Als u wilt bijsnijden op basis van transparantie, geeft u 0 op voor het bijsnijd
 
 **De oorspronkelijke kleurruimte** behouden blijft de oorspronkelijke kleurruimte van de afbeelding.
 
-**Kies Aangepast van > naar** om de menu&#39;s te openen, zodat u de optie Omzetten van en Omzetten in kleurruimte kunt kiezen. U kunt een standaard Photoshop-kleurruimte kiezen of een kleurruimte die u naar Dynamic Media Classic hebt geüpload. Zie ICC-profielen.
+**Kies Aangepast van > naar** om de menu&#39;s te openen, zodat u de optie Omzetten van en Omzetten in kleurruimte kunt kiezen. U kunt een standaard Photoshop-kleurruimte kiezen of een kleurruimte die u hebt geüpload naar Dynamic Media Classic. Zie ICC-profielen.
 
 **Met Lagen** behouden worden de lagen in de PSD (indien aanwezig) verdeeld over afzonderlijke elementen. De elementlagen blijven gekoppeld aan de PSD. U kunt deze weergeven door het PSD-bestand te openen in de gedetailleerde weergave en het deelvenster Lagen te selecteren. Zie Lagen weergeven en bewerken in een PSD-bestand.
 
@@ -62,17 +62,17 @@ Als u wilt bijsnijden op basis van transparantie, geeft u 0 op voor het bijsnijd
 
 **Lagen met een laagnaam** in het PSD-bestand worden geüpload als afzonderlijke afbeeldingen. Kies een optie om deze afbeeldingen een naam te geven in Dynamic Media Classic:
 
-**De naam** van de laag noemt de beelden na hun laagnamen in het Psd- dossier. Een laag met de naam Prijscode in het oorspronkelijke PSD-bestand wordt bijvoorbeeld een afbeelding met de naam Prijscode. Als de laagnamen in het PSD-bestand echter standaardnamen van Photoshop-lagen zijn (Achtergrond, Laag 1, Laag 2, enzovoort), krijgen de afbeeldingen een naam na hun laagnummers in het PSD-bestand en niet na hun standaardlaagnamen.
+**De naam** van de laag noemt de beelden na hun laagnamen in het Psd- dossier. Een laag met de naam Prijscode in het oorspronkelijke PSD-bestand wordt bijvoorbeeld een afbeelding met de naam Prijscode. Als de laagnamen in het PSD-bestand echter standaard Photoshop-laagnamen zijn (Achtergrond, Laag 1, Laag 2, enzovoort), krijgen de afbeeldingen een naam na hun laagnummers in het PSD-bestand, niet na hun standaardlaagnamen.
 
-**Photoshop en het Aantal** van de Laag noemen de beelden na hun laagaantallen in het Psd- dossier, negerend originele laagnamen. Afbeeldingen krijgen de naam Photoshop en een bijgevoegd laagnummer. De tweede laag van een bestand met de naam Lente-advertentie.psd krijgt bijvoorbeeld de naam Lente-advertentie_2, zelfs als deze in Photoshop een andere naam heeft dan de standaardnaam.
+**Photoshop en het Aantal** van de Laag noemen de beelden na hun laagaantallen in het Psd- dossier, negerend originele laagnamen. Afbeeldingen krijgen de naam Photoshop en een toegevoegd laagnummer. De tweede laag van een bestand met de naam Voorjaar-Ad.psd krijgt bijvoorbeeld de naam Voorjaar-Ad_2, zelfs als deze in Photoshop een andere naam heeft dan de standaardnaam.
 
-**Photoshop en Laagnaam** geven de afbeeldingen een naam na het PSD-bestand, gevolgd door de laagnaam of het laagnummer. Het laagnummer wordt gebruikt als de laagnamen in het PSD-bestand standaardnamen van Photoshop-lagen zijn. Een laag met de naam Prijstag in een PSD-bestand met de naam SpringAd krijgt bijvoorbeeld de naam Spring Ad_Price Tag. Een laag met de standaardnaam Laag 2 wordt genoemd Lente Ad_2.
+**Photoshop en Laagnaam** geven de afbeeldingen een naam na het PSD-bestand, gevolgd door de laagnaam of het laagnummer. Het laagnummer wordt gebruikt als de laagnamen in het PSD-bestand standaard Photoshop-laagnamen zijn. Een laag met de naam Prijstag in een PSD-bestand met de naam SpringAd krijgt bijvoorbeeld de naam Spring Ad_Price Tag. Een laag met de standaardnaam Laag 2 wordt genoemd Lente Ad_2.
 
 **Anker** geeft op hoe afbeeldingen worden verankerd in sjablonen die worden gegenereerd op basis van de laagsamenstelling die uit het PSD-bestand is samengesteld. Standaard is het anker het middelpunt. Met een middelste anker kunnen vervangende afbeeldingen dezelfde ruimte het beste vullen, ongeacht de hoogte-breedteverhouding van de vervangende afbeelding. Afbeeldingen met een ander aspect dat deze afbeelding vervangt, nemen bij het verwijzen naar de sjabloon en het gebruik van parametervervanging in feite dezelfde ruimte in. Schakel over naar een andere instelling als de vervangende afbeeldingen de toegewezen ruimte in de sjabloon moeten vullen.
 
 ## Lagen weergeven en bewerken in een PSD-bestand {#viewing-and-editing-layers-in-a-psd-file}
 
-Als u tijdens het uploaden van de PSD de optie Lagen behouden hebt geselecteerd, worden de afzonderlijke lagen door Dynamic Media Classic bijgesneden in elementen. U kunt de elementlagen die bij een PSD-bestand horen weergeven en bewerken door het bestand te openen in het deelvenster Bladeren in de gedetailleerde weergave.
+Als u bij het uploaden van de PSD de optie Lagen behouden hebt geselecteerd, worden de afzonderlijke lagen door Dynamic Media Classic bijgesneden in elementen. U kunt de elementlagen die bij een PSD-bestand horen weergeven en bewerken door het bestand te openen in het deelvenster Bladeren in de gedetailleerde weergave.
 
 1. Dubbelklik op het volledige PSD-bestand in het deelvenster Bladeren om het te openen in de gedetailleerde weergave.
 
