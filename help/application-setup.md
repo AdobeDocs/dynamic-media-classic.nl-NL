@@ -10,9 +10,9 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/setup
 discoiquuid: ae2d1895-a437-4463-bfac-3960c8027551
 translation-type: tm+mt
-source-git-commit: ffb8113750e526fe9124a06ac071ceadf23f9f5c
+source-git-commit: 9424b392f85536dc75083d0ade255e4824755ed1
 workflow-type: tm+mt
-source-wordcount: '10974'
+source-wordcount: '10969'
 ht-degree: 3%
 
 ---
@@ -523,7 +523,7 @@ Zie Opmerkingen bij de release [Adobe Viewers](https://docs.adobe.com/content/he
 | Universal_HTML5_SwatchSet_donker | HTML5 | X | X | X | X | X |
 | Universal_HTML5_SwatchSet_light | HTML5 | X | X | X | X | X |
 
-|  | Viewertechnologie | X | Apple iPhone | Apple iPad | Android Smartphone | Android-tablet |
+|  | Viewertechnologie | Desktop | Apple iPhone | Apple iPad | Android Smartphone | Android-tablet |
 |--- |--- |--- |--- |--- |--- |--- |
 | eCatalog-viewers |  |  |  |  |  |  |
 | Universal_HTML5_eCatalog_Adv(Bevat ondersteuning voor sociale media en zoeken naar catalogi.) | HTML5 | X | X | X | X | X |
@@ -566,7 +566,7 @@ In de volgende tabel worden de bewegingen van de mobiele viewer weergegeven die 
 
 ### Het scherm Voorinstellingen van viewer {#about-the-viewer-preset-screen}
 
-Maak en beheer Viewer Presets op het scherm Viewer Presets. Klik op **Instellen** > Voorinstellingen **viewer om dit scherm te openen**.
+Maak en beheer Viewer Presets op het scherm Viewer Presets. Klik op **[!UICONTROL Setup]** > **[!UICONTROL Viewer Presets]**.
 
 Het scherm Voorinstellingen viewer bevat gereedschappen voor de volgende taken:
 
@@ -587,7 +587,7 @@ Zie Een HTML5 Viewer-voorinstelling [](application-setup.md#exporting_an_html5_v
 **Filteren van de lijst met** voorinstellingen voor viewer Gebruik deze gereedschappen om de lijst te filteren:
 
 * Open de vervolgkeuzelijst **Actief/Niet actief** en kies een optie om actieve voorinstellingen, inactieve voorinstellingen of alle voorinstellingen weer te geven.
-* Open de vervolgkeuzelijst **Viewer** en kies een optie om alleen bepaalde viewers weer te geven. Kies **Alle viewers** om alle viewers weer te geven.
+* Open de vervolgkeuzelijst **Viewer** en kies een optie om alleen bepaalde viewers weer te geven. Kies **[!UICONTROL All Viewers]** om alle viewers weer te geven.
 
 **Voorinstellingen** voor sorteren Klik op een kolomkop (Actief, Type, Voorinstelling of Platform) om de lijst in een kolom te sorteren. Klik nogmaals op een kolomkop om de lijst in aflopende (of oplopende) volgorde te sorteren.
 
@@ -909,7 +909,8 @@ Hoewel het instellen van een standaardnaamgevingsconventie niet is vereist voor 
    U kunt het selectievakje Code weergeven inschakelen om de waarde van de reguliere expressie naast de formulierselecties weer te geven. U kunt deze waarden invoeren of wijzigen om de elementen van de naamgevingsconventie te definiëren, als de formulierweergave u beperkt om welke reden dan ook. Als uw waarden niet kunnen worden geparseerd in de formulierweergave, worden de formuliervelden inactief.
 
    >[!NOTE]
-   De-geactiveerde formuliervelden geven geen ongeldige reguliere expressie aan. Er is geen validatie die aangeeft dat de reguliere expressies juist zijn. U zult resultaten van de regelmatige uitdrukking zien u voor elk element na de resultaatlijn bouwt. De volledige reguliere expressie wordt onder aan de pagina weergegeven.
+   >
+   >De-geactiveerde formuliervelden geven geen ongeldige reguliere expressie aan. Er is geen validatie die aangeeft dat de reguliere expressies juist zijn. U zult resultaten van de regelmatige uitdrukking zien u voor elk element na de resultaatlijn bouwt. De volledige reguliere expressie wordt onder aan de pagina weergegeven.
 
 1. Vouw indien nodig elk element uit en voer de naamgevingsconventies in die u wilt gebruiken.
 1. Klik zo nodig op **Toevoegen** om een andere naamgevingsconventie voor een element toe te voegen. U kunt ook op **Verwijderen** klikken om een naamgevingsconventie voor een element te verwijderen.
@@ -1015,7 +1016,8 @@ Wanneer de spinset wordt geüpload en gepubliceerd, activeert u de naam van het 
    Dit zijn slechts voorbeelden. U kunt uw reguliere expressie maken op een manier die aan uw wensen voldoet.
 
    >[!NOTE]
-   Als de combinatie van reguliere rij- en kolomexpressies de positie van het element binnen de multidimensionale spinsetarray niet kan bepalen, wordt dat element niet toegevoegd aan de set en wordt een fout geregistreerd.
+   >
+   >Als de combinatie van reguliere rij- en kolomexpressies de positie van het element binnen de multidimensionale spinsetarray niet kan bepalen, wordt dat element niet toegevoegd aan de set en wordt een fout geregistreerd.
 
 1. Geef bij Naamgeving instellen en Creatieconcept het achtervoegsel of het voorvoegsel op van de basisnaam die u in de Naamgevingsconventie voor middelen hebt gedefinieerd. Definieer ook waar de afbeeldingsset wordt gemaakt in de structuur van de map Dynamic Media Classic.
 
@@ -1025,8 +1027,9 @@ Wanneer de spinset wordt geüpload en gepubliceerd, activeert u de naam van het 
 1. Upload en publiceer de centrifugeerset op de gebruikelijke manier. Zorg ervoor dat u de naam van de 2D-centrifugeset activeert in het dialoogvenster Opties voor laden van taak, onder Voorinstellingen voor batchset.
 
 >[!MORELIKETHIS]
-* [Een voorvertoning van een element weergeven](previewing-asset.md#previewing_an_asset)
-* [Voorinstellingen afbeelding instellen](setting-image-presets.md#setting_up_image_presets)
-* [Metagegevens weergeven, toevoegen en exporteren](viewing-adding-exporting-metadata.md#viewing_adding_and_exporting_metadata)
-* [Taakbestanden controleren](checking-job-files.md#checking_job_files)
+>
+>* [Een voorvertoning van een element weergeven](previewing-asset.md#previewing_an_asset)
+>* [Voorinstellingen afbeelding instellen](setting-image-presets.md#setting_up_image_presets)
+>* [Metagegevens weergeven, toevoegen en exporteren](viewing-adding-exporting-metadata.md#viewing_adding_and_exporting_metadata)
+>* [Taakbestanden controleren](checking-job-files.md#checking_job_files)
 
