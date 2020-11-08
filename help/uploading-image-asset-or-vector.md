@@ -9,7 +9,7 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 discoiquuid: de21dca9-99fe-4183-b647-debfe112fda4
 translation-type: tm+mt
-source-git-commit: df88ca77d3f9c40c59d796e6854942b93cef5729
+source-git-commit: 9424b392f85536dc75083d0ade255e4824755ed1
 workflow-type: tm+mt
 source-wordcount: '1536'
 ht-degree: 0%
@@ -135,7 +135,7 @@ Comment Type: remark
 Last Modified By: unknown unknown 
 Last Modified Date: 
 
-<p>Art Spec: If not leaving art spec, delete only the first of the 2 &lt;draft-comment&gt; elements under &lt;adobefig&gt;.</p>
+<p>Art Spec: If not leaving art spec, delete only the first of the 2 &lt;draft-comment> elements under &lt;adobefig>.</p>
 
  -->
 
@@ -237,7 +237,7 @@ Een voorbeeld van een geslaagde reactie ziet er als volgt uit:
 </scene7>
 ```
 
-U kunt de volgende velden in de URL-queryreeks gebruiken om informatie voor een element op te vragen:
+U kunt de volgende velden in de URL-queryreeks gebruiken om informatie voor een element aan te vragen:
 
 | URL-parameter | Vereist of optioneel | Waarde |
 |--- |--- |--- |
@@ -298,7 +298,7 @@ Comment Type: remark
 Last Modified By: unknown unknown 
 Last Modified Date: 
 
-<p>Art Spec: If not leaving art spec, delete only the first of the 2 &lt;draft-comment&gt; elements under &lt;adobefig&gt;.</p>
+<p>Art Spec: If not leaving art spec, delete only the first of the 2 &lt;draft-comment> elements under &lt;adobefig>.</p>
 
  -->
 
