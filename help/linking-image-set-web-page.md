@@ -10,7 +10,7 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/image_sets
 discoiquuid: 40f4abab-9059-4d92-a761-f6d573b42e00
 translation-type: tm+mt
-source-git-commit: 1df4f88ef856160ee06c43dc6ec430df122f2408
+source-git-commit: 9424b392f85536dc75083d0ade255e4824755ed1
 workflow-type: tm+mt
 source-wordcount: '680'
 ht-degree: 0%
@@ -49,7 +49,7 @@ Nadat u een Afbeeldingsset hebt gepubliceerd, kunt u de URL of de ingesloten cod
 
 De gemeenschappelijkste manier om de Reeksen van het Beeld op te stellen is een verbinding (via een navigatiepictogram) op uw Web-pagina te plaatsen. Wanneer op de koppeling wordt geklikt, wordt een dynamische pagina (JSP) gestart die de set Afbeelding in een pop-upzoomvenster weergeeft. Met de zoomkoppeling wordt een pop-upvenster geopend dat de eigenlijke zoomfunctie bevat.
 
-Zie [HTML5 Zoom Viewer insluiten in de Adobe Viewer Reference Guide](https://docs.adobe.com/content/help/en/dynamic-media-developer-resources/library/viewers-aem-assets-dmc/zoom/c-html5-20-zoom-viewer-about.html)voor meer informatie en codevoorbeelden.
+Zie [HTML5 Zoom Viewer insluiten in de Adobe Viewers Reference Guide](https://docs.adobe.com/content/help/en/dynamic-media-developer-resources/library/viewers-aem-assets-dmc/zoom/c-html5-20-zoom-viewer-about.html)voor meer informatie en codevoorbeelden.
 
 ## De insluitcode van een viewer voor een afbeeldingsset kopiëren {#copying-the-embed-code-of-an-image-set-viewer}
 
