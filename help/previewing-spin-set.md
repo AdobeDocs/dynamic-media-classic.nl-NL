@@ -22,9 +22,9 @@ ht-degree: 0%
 
 Met de Viewer List kunt u een voorvertoning weergeven van een element op een bepaald viewerplatform, zoals HTML5. Afhankelijk van het elementtype en de bijbehorende viewer die u hebt geselecteerd voor voorvertoning, zijn niet alle platforms beschikbaar in de Viewer List.
 
-Zie Standaardviewers [configureren](application-setup.md#configuring_default_viewers).
+Zie [Standaardviewers configureren](application-setup.md#configuring_default_viewers).
 
-Zie Een [voorvertoning van een element](previewing-asset.md#previewing_an_asset)weergeven.
+Zie [Voorvertoning van een element](previewing-asset.md#previewing_an_asset).
 
 **Een voorvertoning van een centerset weergeven**
 
