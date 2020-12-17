@@ -2,7 +2,7 @@
 title: Adobe Dynamic Media Classic-bureaubladtoepassing - Nu beschikbaar
 seo-title: Adobe Dynamic Media Classic-bureaubladtoepassing - Nu beschikbaar
 description: 'null'
-seo-description: Meer informatie over Dynamic Media Classic-bureaubladtoepassing.
+seo-description: Meer weten over de Klassieke Dynamic Media-bureaubladtoepassing?
 contentOwner: admin
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
@@ -16,17 +16,17 @@ ht-degree: 0%
 ---
 
 
-# Nu beschikbaar: Adobe Dynamic Media Classic-bureaubladtoepassing {#dynamic-media-classic-desktop-app}
+# Nu beschikbaar: Adobe Dynamic Media Klassieke desktop app {#dynamic-media-classic-desktop-app}
 
-Gebruikers van Dynamic Media Classic hebben nu toegang tot een nieuwe bureaubladtoepassing die niet langer afhankelijk is van Adobe Flash in de browser.
+Dynamic Media Classic-gebruikers hebben nu toegang tot een nieuwe bureaubladtoepassing die niet langer afhankelijk is van de Adobe Flash-technologie in de browser.
 
 Deze nieuwe app is nu beschikbaar voor Windows en macOS.
 
 >[!IMPORTANT]
 >
->We raden u aan de nieuwe Adobe Dynamic Media Classic-bureaubladtoepassing tegen 1 oktober 2020 te installeren. Als u dit doet, hebt u een soepele overgang voordat de Adobe Flash Player op 31 december 2020 wordt afgekeurd. Op die datum kunt u zich niet meer aanmelden bij de browserversie van de gebruikersinterface van Adobe Dynamic Media Classic, die in het product als Dynamic Media Classic wordt aangeduid.
+>We raden u aan de nieuwe Adobe Dynamic Media Classic-bureaubladtoepassing tegen 1 oktober 2020 te installeren. Als u dit doet, hebt u een soepele overgang voordat de Adobe Flash Player op 31 december 2020 wordt afgekeurd. Op die datum kunt u zich niet meer aanmelden bij de browserversie van de Klassieke gebruikersinterface van Adobe Dynamic Media, die in het product als Dynamic Media Classic wordt aangeduid.
 
-Raadpleeg de veelgestelde vragen voor het [nieuwe digitale inloggen voor dynamische media.](/help/new-ui-2020.md)
+Raadpleeg de veelgestelde vragen voor de [Nieuwe Dynamic Media Classic-ervaring nu beschikbaar.](/help/new-ui-2020.md)
 
 ## Systeemvereisten voor Adobe Dynamic Media Classic-bureaubladtoepassing {#system-requirements-dmc-app}
 
@@ -45,8 +45,8 @@ Adobe Dynamic Media Classic-bureaubladtoepassing is compatibel met de volgende b
 
 Zie ook:
 
-* [Download en stil de nieuwste Adobe Dynamic Media Classic-bureaubladtoepassing op de Mac](#install-silent-mac-dmc-app)
-* [Download en stil de nieuwste Adobe Dynamic Media Classic-bureaubladtoepassing in Windows](#install-silent-windows-dmc-app)
+* [Download en installeer de nieuwste Adobe Dynamic Media Classic-bureaubladtoepassing op de Mac](#install-silent-mac-dmc-app)
+* [Download en installeer de nieuwste Adobe Dynamic Media Classic-bureaubladtoepassing op Windows](#install-silent-windows-dmc-app)
 
 1. Verwijder eventuele oudere versies van Dynamic Media Classic-bureaubladtoepassingen op uw systeem.
 
@@ -54,7 +54,7 @@ Zie ook:
 
    >[!NOTE]
    >
-   >Gebruiker die de GA-versie al heeft geïnstalleerd, moet deze *verwijderen* van het lokale Windows-systeem voordat de nieuwste versie wordt geïnstalleerd. Of gebruikers kunnen gewoon de geïnstalleerde GA-versie op hun lokale MacOS-systeem *vervangen* door de nieuwste versie. Nieuwe gebruikers moeten de nieuwste versie 20.20.2 rechtstreeks installeren.
+   >Gebruiker die de GA-versie al heeft geïnstalleerd, moet deze *verwijderen uit het lokale Windows-systeem voordat de nieuwste versie wordt geïnstalleerd.* Of gebruikers kunnen gewoon *de geïnstalleerde GA-versie op hun lokale MacOS-systeem vervangen door de nieuwste versie.* Nieuwe gebruikers moeten de nieuwste versie 20.20.2 rechtstreeks installeren.
 
    De nieuwste versie is 20.20.2 beschikbaar op de volgende website:
 
@@ -71,24 +71,24 @@ Zie ook:
 
 1. Voer een van de volgende handelingen uit op basis van het installatieprogramma dat u hebt gedownload.
 
-   * **Voor MacOS** - Sleep het bestand naar het **[!UICONTROL Drag & drop to install]** dialoogvenster **[!UICONTROL Adobe Dynamic Media Classic]** en zet het neer op **[!UICONTROL Applications]**.
+   * **Voor MacOS** : sleep het bestand naar het  **[!UICONTROL Drag & drop to install]** dialoogvenster  **[!UICONTROL Adobe Dynamic Media Classic]** en zet het neer op  **[!UICONTROL Applications]**.
 
       ![Installatie van slepen en neerzetten op MacOS](/help/assets/dragondrop-install1.png)
 
-   * Tik in de **[!UICONTROL Applications]** map op het pictogram Adobe Dynamic Media Classic.
-   * Tik in het dialoogvenster **[!UICONTROL Open]** om de Klassieke bureaublad-app Adobe Dynamic Media Classic te openen.
+   * Tik in de map **[!UICONTROL Applications]** op het Klassieke pictogram van Adobe Dynamic Media.
+   * Tik in het dialoogvenster op **[!UICONTROL Open]** om de Klassieke bureaublad-app van Adobe Dynamic Media te openen.
 
       ![Gedownloade app openen](/help/assets/open-dmclassicapp1.png)
 
-   * **Voor Windows** - Voer het binaire bestand van het installatieprogramma uit en volg de aanwijzingen op het scherm om de bureaubladtoepassing te installeren.
+   * **Voor Windows** : voer de binaire versie van het installatieprogramma uit en volg de aanwijzingen op het scherm om de bureaubladtoepassing te installeren.
 
-1. Wanneer u de toepassing opent, wordt de nieuwe pagina Dynamische Adobe Dynamic Media Classic Sign In weergegeven:
+1. Wanneer u de toepassing opent, wordt de nieuwe Klassieke aanmeldingspagina van Adobe Dynamic Media weergegeven:
 
    ![Dynamic Media Classic aanmelden](/help/assets/dmclassic-login1.png)
 
 1. Gebruik dezelfde referenties als uw browserreferenties om u aan te melden bij Adobe Dynamic Media Classic.
 
-   Zie de volgende afbeelding voor de productieomgeving **[!UICONTROL Server]** voor informatie over het gebruik:
+   Zie de volgende afbeelding voor de productieomgeving voor informatie over het gebruik van **[!UICONTROL Server]**:
 
    | URL browser | Servernaam bureaubladtoepassing |
    |---|---|
@@ -98,14 +98,14 @@ Zie ook:
 
 1. Post login UI, zult u het vertrouwde browser ervaring UI opmerken. U kunt uw dagelijkse activiteiten op de gebruikelijke wijze nu uitvoeren op de interface van de bureaubladtoepassing.
 
-## Download en *stil* installeer de nieuwste Adobe Dynamic Media Classic-bureaubladtoepassing op MacOS {#install-silent-mac-dmc-app}
+## Download en *silent* installeer de nieuwste Adobe Dynamic Media Classic-bureaubladtoepassing op MacOS {#install-silent-mac-dmc-app}
 
 Zie ook:
 
 * [Download en installeer de nieuwste Adobe Dynamic Media Classic-bureaubladtoepassing op Mac of Windows](#installation-dmc-app)
-* [Download en stil de nieuwste Adobe Dynamic Media Classic-bureaubladtoepassing in Windows](#install-silent-windows-dmc-app)
+* [Download en installeer de nieuwste Adobe Dynamic Media Classic-bureaubladtoepassing op Windows](#install-silent-windows-dmc-app)
 
-U kunt als volgt de nieuwste versie van de Adobe Dynamic Media Classic-bureaubladtoepassing op MacOS downloaden en *stil* installeren:
+Als u de nieuwste versie van de Adobe Dynamic Media Classic-bureaubladtoepassing op MacOS wilt downloaden en *silent* wilt installeren:
 
 1. Verwijder eventuele oudere versies van Dynamic Media Classic-bureaubladtoepassingen op uw systeem.
 
@@ -117,18 +117,18 @@ U kunt als volgt de nieuwste versie van de Adobe Dynamic Media Classic-bureaubla
 
    `hdiutil attach adobe-dynamic-media-classic-20.20.2.dmg -mountpoint <mount_point_path>`
 
-1. Kopieer het APP-bestand naar de volgende opdracht **[!UICONTROL Applications]** :
+1. Kopieer het APP-bestand naar **[!UICONTROL Applications]** met de volgende opdracht:
 
    `rsync -a <mount_point_path>/Adobe\ Dynamic\ Media\ Classic.app /Applications/
 Unmount DMG - hdiutil detach <mount_point_path>`
 
-1. Wanneer u de toepassing opent, wordt de nieuwe pagina Dynamische Adobe Dynamic Media Classic Sign In weergegeven:
+1. Wanneer u de toepassing opent, wordt de nieuwe Klassieke aanmeldingspagina van Adobe Dynamic Media weergegeven:
 
    ![Dynamic Media Classic aanmelden](/help/assets/dmclassic-login1.png)
 
 1. Gebruik dezelfde referenties als uw browserreferenties om u aan te melden bij Adobe Dynamic Media Classic.
 
-   Zie de volgende afbeelding voor de productieomgeving **[!UICONTROL Server]** voor informatie over het gebruik:
+   Zie de volgende afbeelding voor de productieomgeving voor informatie over het gebruik van **[!UICONTROL Server]**:
 
    | URL browser | Servernaam bureaubladtoepassing |
    |---|---|
@@ -136,16 +136,16 @@ Unmount DMG - hdiutil detach <mount_point_path>`
    | https://s7sps3.scene7.com/ | Productie EMEA (Europa, Midden-Oosten en Afrika) |
    | https://s7sps5.scene7.com/ | APAC-productie (Azië-Stille Oceaan) |
 
-## Download en *stil* installeer de nieuwste Adobe Dynamic Media Classic-bureaubladtoepassing in Windows {#install-silent-windows-dmc-app}
+## Download en *silent* installeer de nieuwste Adobe Dynamic Media Classic desktop app op Windows {#install-silent-windows-dmc-app}
 
-Het bevel dat u gebruikt is voor een basisMSI stille installatie. Het Dynamic Media Classic-bureaubladinstallatieprogramma is echter een installatieprogramma van InstallScript MSI dat is gemaakt met InstallShield. Wanneer u het installatieprogramma uitvoert in de recordmodus, wordt gebruikersinteractie opgenomen in een reactiebestand. Dit reactiebestand wordt vervolgens gebruikt voor een installatie op de achtergrond, zoals wordt beschreven in Installaties [uitvoeren in de modus Stil.](https://docs.flexera.com/installshield19helplib/helplibrary/SilentInstall.htm)
+Het bevel dat u gebruikt is voor een basisMSI stille installatie. Het installatieprogramma van de Dynamic Media Classic-bureaubladtoepassing is echter een installatieprogramma van InstallScript MSI dat is gemaakt met InstallShield. Wanneer u het installatieprogramma uitvoert in de recordmodus, wordt gebruikersinteractie opgenomen in een reactiebestand. Dit reactiebestand wordt vervolgens gebruikt voor een installatie op de achtergrond zoals beschreven in [Installaties uitvoeren in de stille modus.](https://docs.flexera.com/installshield19helplib/helplibrary/SilentInstall.htm)
 
 Zie ook:
 
 * [Download en installeer de nieuwste Adobe Dynamic Media Classic-bureaubladtoepassing op Mac of Windows](#installation-dmc-app)
-* [Download en stil de nieuwste Adobe Dynamic Media Classic-bureaubladtoepassing op MacOS](#install-silent-mac-dmc-app)
+* [Download en installeer de nieuwste Adobe Dynamic Media Classic-bureaubladtoepassing op MacOS zonder toezicht](#install-silent-mac-dmc-app)
 
-U kunt als volgt de nieuwste versie van de Adobe Dynamic Media Classic-bureaubladtoepassing op Windows downloaden en *stil* plaatsen:
+Als u de nieuwste versie van de Klassieke Adobe Dynamic Media-bureaubladtoepassing wilt downloaden en *silent* wilt installeren op Windows:
 
 1. Verwijder eventuele oudere versies van Dynamic Media Classic-bureaubladtoepassingen op uw systeem.
 
@@ -157,9 +157,9 @@ U kunt als volgt de nieuwste versie van de Adobe Dynamic Media Classic-bureaubla
 
    `adobe-dynamic-media-classic-20.20.2.exe /r /f1"C:\Setup.iss"`
 
-1. Voer in het venster van het GUI-installatieprogramma de stappen uit om te installeren, zodat interacties/invoer, zoals de installatielocatie, worden opgenomen in het `Setup.iss` bestand.
+1. Voer in het venster van het GUI-installatieprogramma de stappen uit om te installeren, zodat interacties/invoer, zoals de installatielocatie, worden opgenomen in het `Setup.iss`-bestand.
 
-1. Kopieer het gemaakte `Setup.iss` bestand en `adobe-dynamic-media-classic-20.20.2.exe` naar een andere computer.
+1. Kopieer het gemaakte `Setup.iss`-bestand en `adobe-dynamic-media-classic-20.20.2.exe` naar een andere computer.
 
 1. Voer de volgende opdracht voor een installatie op de achtergrond uit:
 
@@ -167,13 +167,13 @@ U kunt als volgt de nieuwste versie van de Adobe Dynamic Media Classic-bureaubla
 
    De details over de parameters van de bevellijn zijn beschikbaar bij [Setup.exe en Update.exe bevel-Lijn Parameters.](https://docs.flexera.com/installshield19helplib/helplibrary/IHelpSetup_EXECmdLine.htm)
 
-1. Wanneer u de toepassing opent, wordt de nieuwe pagina Dynamische Adobe Dynamic Media Classic Sign In weergegeven:
+1. Wanneer u de toepassing opent, wordt de nieuwe Klassieke aanmeldingspagina van Adobe Dynamic Media weergegeven:
 
    ![Dynamic Media Classic aanmelden](/help/assets/dmclassic-login1.png)
 
 1. Gebruik dezelfde referenties als uw browserreferenties om u aan te melden bij Adobe Dynamic Media Classic.
 
-   Zie de volgende afbeelding voor de productieomgeving **[!UICONTROL Server]** voor informatie over het gebruik:
+   Zie de volgende afbeelding voor de productieomgeving voor informatie over het gebruik van **[!UICONTROL Server]**:
 
    | URL browser | Servernaam bureaubladtoepassing |
    |---|---|
@@ -184,15 +184,15 @@ U kunt als volgt de nieuwste versie van de Adobe Dynamic Media Classic-bureaubla
 
 ## Video doorlopen bij gebruik van Dynamic Media Classic Desktop App {#dmc-app-video-walk-through}
 
-Bekijk een [videodemo over het gebruik van Dynamic Media Classic Desktop App](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/dynamic-media/dynamic-media-classic-desktop-application.html) (Lengte: 2 minuten 36 seconden).
+Bekijk een [videolijn bij het gebruiken van de Klassieke App van de Desktop van Dynamic Media](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/dynamic-media/dynamic-media-classic-desktop-application.html) (Lengte: 2 minuten 36 seconden).
 
 ## De afbeeldingscache en de assetcache op uw computer wissen met de bureaubladtoepassing
 
-1. Tik in de Dynamic Media Classic-bureaubladtoepassing in de rechterbovenhoek op **[!UICONTROL Setup]** > **[!UICONTROL Personal Setup]**.
-1. Voer op de **[!UICONTROL Personal Setup]** pagina onder de **[!UICONTROL Desktop]** kop een van de volgende handelingen uit:
-   * Tik **[!UICONTROL Clear Image Cache]** om alle afbeeldingsbestanden in de cache van Adobe Dynamic Media van de computer te verwijderen. Tik op **[!UICONTROL OK]**.
-   * Tik **[!UICONTROL Clear Asset Cache]** om alle Adobe Dynamic Media-bestanden in de cache van uw computer te verwijderen. Tik op **[!UICONTROL OK]**.
-1. In the lower-right corner of the page, tap **[!UICONTROL Close]**.
+1. Tik in de Klassieke Dynamic Media-bureaubladtoepassing in de rechterbovenhoek op **[!UICONTROL Setup]** > **[!UICONTROL Personal Setup]**.
+1. Voer op de pagina **[!UICONTROL Personal Setup]** onder de kop **[!UICONTROL Desktop]** een van de volgende handelingen uit:
+   * Tik **[!UICONTROL Clear Image Cache]** om alle in de cache opgeslagen afbeeldingsbestanden van Adobe Dynamic Media van de computer te verwijderen. Tik op **[!UICONTROL OK]**.
+   * Tik **[!UICONTROL Clear Asset Cache]** om alle in de cache opgeslagen bestanden met Adobe Dynamic Media van uw computer te verwijderen. Tik op **[!UICONTROL OK]**.
+1. Tik in de rechterbenedenhoek van de pagina op **[!UICONTROL Close]**.
 
 ### De afbeeldingscache en de elementcache handmatig wissen
 
@@ -208,18 +208,19 @@ Naast het wissen van de afbeeldings- en middelencache met de bureaubladtoepassin
 **_Alleen van toepassing op Windows: is er een beperking op het aantal bestanden dat kan worden geüpload via de interface van de bureaubladtoepassing?_**<br>Ja, er kunnen maximaal 150 bestanden tegelijk worden geüpload via de interface van de bureaubladtoepassing.
 
 **_Is op Vensters en macOS van toepassing - hoe schakel ik tussen bedrijven?_**<br>Ga als volgt te werk om tussen bedrijven te schakelen:
-* Selecteer het nieuwe bedrijf in de vervolgkeuzelijst met bedrijven in de Klassieke app Dynamic Media.
-* Tik op het moment dat het pop-upvenster verschijnt **[!UICONTROL OK]** om u af te melden en de app te sluiten.
+* Selecteer in de Klassieke app van Dynamic Media het nieuwe bedrijf in de vervolgkeuzelijst.
+* Tik **[!UICONTROL OK]** om u af te melden en de app te sluiten wanneer de pop-up wordt weergegeven.
 
    ![Start de app opnieuw om het nieuwe bedrijf te gebruiken](/help/assets/dmclassic-new-company1.png)
 * Start Dynamic Media Classic opnieuw en meld u vervolgens op de gebruikelijke wijze aan om met het nieuwe bedrijf te werken.
 
 ## Tips en trucs
 
-**_Ik kan het deelvenster Media Cart niet zien op de landingspagina van Dynamic Media Classic._**<br>Tik op Dynamic Media Classic **[!UICONTROL Setup > Personal Setup]**. Controleer of in de sectie Browser de optie **[!UICONTROL Show MediaPortal Features]**is geselecteerd (ingeschakeld). Tik op **[!UICONTROL Save > Close]**.
+**_Ik kan het deelvenster Media Cart niet zien op de landingspagina van Dynamic Media Classic._**<br>Tik in Dynamic Media Classic **[!UICONTROL Setup > Personal Setup]**. Controleer of **[!UICONTROL Show MediaPortal Features]**is geselecteerd (ingeschakeld) in de sectie Browser. Tik op **[!UICONTROL Save > Close]**.
 
-**_De publicatiestatus (groene indicator) van een element wordt niet correct weergegeven._**<br>In browser UI, was re-login aan UI vereist om de correcte publicatiestaat van activa te zien. In de bureaubladtoepassing is een pictogram op de werkbalk toegevoegd, rechts van de **[!UICONTROL Refresh]****[!UICONTROL Select None]**knop. Tik op het **[!UICONTROL Refresh]**pictogram om de laatste status van alle elementen op de opgegeven pagina weer te geven. U hoeft zich niet opnieuw aan te melden, zoals in de gebruikersinterface van de browser.
+**_De publicatiestatus (groene indicator) van een element wordt niet correct weergegeven._**<br>In browser UI, was re-login aan UI vereist om de correcte publicatiestaat van activa te zien. In de bureaubladtoepassing is een **[!UICONTROL Refresh]**-pictogram op de werkbalk toegevoegd, rechts van de knop **[!UICONTROL Select None]**. Tik op het pictogram **[!UICONTROL Refresh]**om de laatste status van alle elementen op de opgegeven pagina weer te geven. U hoeft zich niet opnieuw aan te melden, zoals in de gebruikersinterface van de browser.
 
-![Pictogram](/help/assets/refresh-icon1.png)*Vernieuwen vernieuwen*
+![Pictogram ](/help/assets/refresh-icon1.png)
+*Vernieuwen*
 
-**_Ik zie geen voorinstellingen voor batchsets werken in de bureaubladtoepassing._**<br>Tik op **[!UICONTROL Upload > Job Options > Batch Set Presets]**. Zorg ervoor dat de betreffende functie **[!UICONTROL Batch Set Preset]**is ingeschakeld. Klik op **[!UICONTROL Save and Submit upload]**.
+**_Ik zie geen voorinstellingen voor batchsets werken in de bureaubladtoepassing._**<br>Tik op **[!UICONTROL Upload > Job Options > Batch Set Presets]**. Zorg ervoor dat **[!UICONTROL Batch Set Preset]**is ingeschakeld. Klik op **[!UICONTROL Save and Submit upload]**.
