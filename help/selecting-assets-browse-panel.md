@@ -22,10 +22,14 @@ ht-degree: 0%
 
 Selecteer een element in het deelvenster Bladeren om ermee te werken. Gebruik de volgende technieken om elementen te selecteren:
 
-* **Eén element**: klik op het element (dubbelklik op het element om het element in de gedetailleerde weergave te openen).
+* **Eén**
+element: klik op het element (dubbelklikken opent het element in de gedetailleerde weergave).
 
-* **Meerdere elementen** Ctrl+klikken (Windows) of Command+klikken (Macintosh) op elementen om elementen op verschillende plaatsen in het deelvenster Bladeren te selecteren. Houd Shift ingedrukt en klik (klik op een element en houd Shift ingedrukt en klik op een ander element) om aangrenzende elementen te selecteren.
+* **Verscheidene**
+middelenCtrl+klikken (Vensters) of Command+klikken (Macintosh) activa om activa in verschillende plaatsen op het Browse Comité te selecteren. Houd Shift ingedrukt en klik (klik op een element en houd Shift ingedrukt en klik op een ander element) om aangrenzende elementen te selecteren.
 
-* **Alle elementen in het deelvenster** Bladeren klikken op Selecteren > Alles.
+* **Alle elementen in het**
+deelvenster Bladeren: klik op Selecteren > Alles.
 
-* **Geen elementen** Klik op Selecteren > Geen.
+* **Geen**
+elementenKlik op Selecteren > Geen.
