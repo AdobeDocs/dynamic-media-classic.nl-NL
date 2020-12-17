@@ -24,25 +24,25 @@ Alleen beheerders van Media Portal kunnen FTP-accounts beheren en beheren. Boven
 
 Herinner dat u bestaande gebruikers van het Portaal van Media als pagina van het Beleid van de Gebruiker in de Opstelling van het Beleid kunt activeren of deactiveren.
 
-Zie Gebruikers [activeren of deactiveren](administration-setup.md#activating_or_deactivating_users).
+Zie [Gebruikers activeren of deactiveren](administration-setup.md#activating_or_deactivating_users).
 
-1. Klik op **Instellen** > **Media Portal** > **FTP-accounts**.
+1. Klik **Setup** > **Media Portal** > **FTP-accounts**.
 1. Selecteer een gebruiker op de pagina FTP-account toevoegen in de vervolgkeuzelijst Gebruikersnaam voor FTP-accounts.
 
    Als een gebruiker niet vermeld is, kunt u hen als Poortbeheerder van Media, een Poortmedewerker-Gebruiker van Media, of een Poortmedewerker van Media moeten eerst toevoegen als Opstelling van het Beleid. Nadat u de gebruiker met de juiste rol hebt toegevoegd, is zijn gebruikersnaam beschikbaar in de vervolgkeuzelijst.
 
-   Zie Een gebruiker [van een Media Portal](adding-media-portal-users.md#adding_a_media_portal_user)toevoegen.
+   Zie [Een gebruiker van het Portaal van Media toevoegen](adding-media-portal-users.md#adding_a_media_portal_user).
 
 1. Typ in de velden Wachtwoord en Bevestigen het wachtwoord voor de FTP-account.
 1. Klik op **Opslaan** om de account toe te voegen aan de tabel Bestaande accounts.
 
    Als u media-elementen wilt uploaden, hebt u de FTP-accountgebruikersnaam nodig die in de tabel Bestaande accounts staat, en het wachtwoord dat aan de account is toegewezen.
 
-   Zie Bestanden [uploaden](uploading-files.md#uploading_files).
+   Zie [Bestanden uploaden](uploading-files.md#uploading_files).
 
-## Een bestaand FTP-account verwijderen {#deleting-an-existing-ftp-account}
+## Een bestaand FTP-account {#deleting-an-existing-ftp-account} verwijderen
 
-1. Klik op **Instellen** > **Media Portal** > **FTP-accounts**.
+1. Klik **Setup** > **Media Portal** > **FTP-accounts**.
 1. Selecteer op de pagina FTP-account toevoegen in de tabel Bestaande accounts de FTP-account die u wilt verwijderen.
-1. Klik op **Verwijderen**.
+1. Klik **Delete**.
 
