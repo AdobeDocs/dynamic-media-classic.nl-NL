@@ -18,12 +18,12 @@ ht-degree: 0%
 ---
 
 
-# Efficiënter gebruik van metagegevens{#making-more-efficient-use-of-metadata}
+# Efficiënter gebruik van metagegevens maken{#making-more-efficient-use-of-metadata}
 
-Alle bestanden op Dynamic Media Classic bevatten metagegevens. Met metagegevens wordt een bestand beschreven en geïdentificeerd. wordt gebruikt voor het zoeken naar en ordenen van elementen. Als u de metagegevens van een element wilt weergeven, opent u het in de gedetailleerde weergave en bekijkt u het deelvenster Metagegevens. De metagegevensvelden in dit deelvenster bieden beschrijvende informatie over het element.
+Alle bestanden op Dynamic Media Classic bevatten metagegevens. Met metagegevens wordt een bestand beschreven en geïdentificeerd. wordt gebruikt voor het zoeken naar en het ordenen van elementen. Als u de metagegevens van een element wilt weergeven, opent u het in de gedetailleerde weergave en bekijkt u het deelvenster Metagegevens. De metagegevensvelden in dit deelvenster bieden beschrijvende informatie over het element.
 
-Metagegevens zijn niet nuttig bij zoekopdrachten en middelenorganisatie, tenzij ze correct worden ingevoerd in metagegevensvelden. Als u metagegevens correct wilt invoeren en ervoor wilt zorgen dat alle juiste metagegevensvelden metagegevens bevatten, kunt u voorinstellingen voor metagegevens maken. Een *voorinstelling* voor metagegevens is een vooraf gedefinieerde set metagegevensitems. In plaats van zelf metagegevens in te voeren, kunnen gebruikers in de gedetailleerde weergave een voorinstelling voor metagegevens kiezen om metagegevensvelden te vullen met vooraf gedefinieerde gegevens.
+Metagegevens zijn niet nuttig bij zoekopdrachten en middelenorganisatie, tenzij ze correct worden ingevoerd in metagegevensvelden. Als u metagegevens correct wilt invoeren en ervoor wilt zorgen dat alle juiste metagegevensvelden metagegevens bevatten, kunt u voorinstellingen voor metagegevens maken. Een *voorinstelling voor metagegevens* is een vooraf gedefinieerde set metagegevensitems. In plaats van zelf metagegevens in te voeren, kunnen gebruikers in de gedetailleerde weergave een voorinstelling voor metagegevens kiezen om metagegevensvelden te vullen met vooraf gedefinieerde gegevens.
 
-Zie Voorinstellingen voor [metagegevens als u voorinstellingen voor](application-setup.md#metadata_presets)metagegevens wilt maken.
+Zie [Voorinstellingen metagegevens](application-setup.md#metadata_presets) om metagegevensvoorinstellingen te maken.
 
-Zie Door [gebruiker gedefinieerde velden](application-setup.md#user_defined_fields)voor informatie over het maken van metagegevensvelden waarmee u op unieke wijze de elementen kunt beschrijven waarmee u werkt.
+Zie [Door de gebruiker gedefinieerde velden](application-setup.md#user_defined_fields) om metagegevensvelden te maken waarmee de elementen waarmee u werkt op unieke wijze worden beschreven.
