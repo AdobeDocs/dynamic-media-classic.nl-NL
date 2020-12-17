@@ -22,7 +22,7 @@ ht-degree: 0%
 
 U kunt elementen verplaatsen, hernoemen en verwijderen vanuit het deelvenster Bladeren. Bovendien kunt u veel elementen tegelijk met een tekstbestand verwijderen.
 
-## Elementen verplaatsen {#move-assets}
+## Elementen {#move-assets} verplaatsen
 
 U kunt elementen naar verschillende mappen verplaatsen in het deelvenster Bladeren.
 
@@ -31,7 +31,7 @@ U kunt elementen naar verschillende mappen verplaatsen in het deelvenster Blader
    * Geef de map weer waarnaar u de elementen wilt verplaatsen in de elementenbibliotheek en sleep de elementen naar de map.
    * Kies Bestand > Verplaatsen, selecteer een map in het venster Middelen verplaatsen en selecteer Verplaatsen.
 
-## Elementen hernoemen {#rename-assets}
+## Naam van elementen wijzigen {#rename-assets}
 
 De naam van een element wijzigen:
 
@@ -40,9 +40,9 @@ De naam van een element wijzigen:
    * Selecteer de naam, typ een nieuwe naam en druk op Enter of klik buiten de naam.
    * Kies Bestand > Naam wijzigen. De naam van het element wordt gemarkeerd. Voer een nieuwe naam in en druk op Enter.
 
-Zorg ervoor dat u niet de naam van een bestaand Dynamisch Klassiek element van Media ingaat.
+Zorg ervoor dat u de naam van een bestaand Dynamic Media Classic-element niet invoert.
 
-## Elementen verwijderen {#delete-assets}
+## Elementen {#delete-assets} verwijderen
 
 U kunt geselecteerde elementen verwijderen uit het deelvenster Bladeren en volledige mappen verwijderen. Verwijderde middelen en mappen worden naar de prullenmand verplaatst, waar ze zeven dagen blijven voordat ze definitief worden verwijderd.
 
@@ -55,19 +55,19 @@ Wanneer u een element verwijdert, worden ook alle elementen die ervan zijn afgel
 1. Voer een van de volgende handelingen uit:
 
    * Als u een of meer elementen wilt verwijderen, selecteert u de elementen in het deelvenster Bladeren en drukt u op Verwijderen of kiest u Bestand > Verwijderen.
-   * Als u een map wilt verwijderen, selecteert u de map in de elementenbibliotheek en klikt u op Map **** verwijderen.
+   * Als u een map wilt verwijderen, selecteert u de map in de elementenbibliotheek en klikt u op **Map verwijderen**.
 
       Als u een map verwijdert, worden de map, alle elementen in de map en alle elementen in de submappen verwijderd.
 
 >[!NOTE]
 >
->Dynamic Media Classic raadt u aan elementbestanden te overschrijven in plaats van ze te verwijderen als het verwijderen van een elementbestand ertoe strekt het bestand te vervangen door een ander bestand met dezelfde naam.
+>Dynamic Media Classic raadt aan elementbestanden te overschrijven in plaats van ze te verwijderen als het verwijderen van een elementbestand ertoe leidt dat het bestand met dezelfde naam door een ander bestand wordt vervangen.
 
-## Meerdere elementen met een tekstbestand verwijderen {#delete-multiple-assets-with-a-text-file}
+## Meerdere elementen verwijderen met een tekstbestand {#delete-multiple-assets-with-a-text-file}
 
-Als u veel elementen tegelijk wilt verwijderen uit de hele elementenbibliotheek, kunt u de elementen die u wilt verwijderen in een tekstbestand weergeven en de lijst naar Dynamic Media Classic verzenden.
+Als u veel elementen tegelijk wilt verwijderen uit de hele bibliotheek met middelen, kunt u de elementen die u wilt verwijderen, in een tekstbestand weergeven en de lijst naar Dynamic Media Classic verzenden.
 
-Maak een lijst met dynamische media klassieke id&#39;s en sla deze op als een tekstbestand (.txt). Elke Klassieke ID van de Dynamische Media moet op zijn eigen lijn (gevolgd door een harde terugkeer) zijn.
+Maak een lijst met klassieke Dynamic Media-id&#39;s en sla deze op als tekstbestand (.txt). Elke klassieke Dynamic Media-id moet op een eigen regel staan (gevolgd door een harde return).
 
 Nadat u de lijst hebt gemaakt, voert u de volgende stappen uit om elementen te verwijderen:
 
@@ -75,7 +75,7 @@ Nadat u de lijst hebt gemaakt, voert u de volgende stappen uit om elementen te v
 1. Blader in de lijst Elementen verwijderen of typ het pad naar het tekstbestand met de lijst met elementen die u wilt verwijderen.
 1. Klik op de knop Verwijderen.
 
-Wanneer u elementen met een tekstbestand verwijdert en geen dynamische media-klassieke id in de lijst voorkomt, wordt een bericht weergegeven met de mededeling dat Dynamic Media Classic &quot;Kan deze items in de lijst niet valideren:&quot; is, samen met de lijst met items. Dynamic Media Classic genereert echter geen fout op het taakscherm.
+Als u elementen verwijdert uit een tekstbestand en er geen klassieke Dynamic Media-id in de lijst staat, wordt een bericht weergegeven met de mededeling dat Dynamic Media Classic &quot;Kan deze items in de lijst niet valideren:&quot; is, samen met de lijst met vermeldingen. Dynamic Media Classic genereert echter geen fout op het taakscherm.
 
 >[!MORELIKETHIS]
 >
