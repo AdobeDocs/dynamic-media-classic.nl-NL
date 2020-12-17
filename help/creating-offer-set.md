@@ -10,7 +10,7 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/target_integration
 discoiquuid: 59b6437d-c21e-4929-9291-3032dbb34565
 translation-type: tm+mt
-source-git-commit: 9424b392f85536dc75083d0ade255e4824755ed1
+source-git-commit: 4819803428adee539e46498c73e5f2ba6a952693
 workflow-type: tm+mt
 source-wordcount: '1210'
 ht-degree: 0%
@@ -95,11 +95,9 @@ Zie ook [Elementen handmatig publiceren](publishing-files.md#manually_publishing
 
 1. Stel afbeeldingen of video&#39;s samen voor de ingestelde aanbieding. Begin in het Test&amp;Target Vastgestelde scherm van de Aanbieding of in de Mening van het Net of de Mening van de Lijst en gebruik één van de volgende methodes:
 
-   * **Test&amp;Target-aanbieding instellen**
-op schermKlikken  **[!UICONTROL Build > Test&Target Offer Set]**. Sleep afbeeldingen of video&#39;s naar het scherm. Als u video&#39;s of afbeeldingen van verschillende grootten wilt maken, sleept u in meerdere exemplaren van de afbeelding of video en stelt u elke grootte afzonderlijk in.
+   * **Test&amp;Target-aanbieding instellen** op schermKlikken  **[!UICONTROL Build > Test&Target Offer Set]**. Sleep afbeeldingen of video&#39;s naar het scherm. Als u video&#39;s of afbeeldingen van verschillende grootten wilt maken, sleept u in meerdere exemplaren van de afbeelding of video en stelt u elke grootte afzonderlijk in.
 
-   * **De raster- of lijstweergave**
-Selecteer de afbeeldingen of video&#39;s en klik op  **[!UICONTROL Build > Test&Target Offer Set]**.
+   * **De raster- of lijstweergave** Selecteer de afbeeldingen of video&#39;s en klik op  **[!UICONTROL Build > Test&Target Offer Set]**.
 
 1. Selecteer desgewenst een afbeelding of video en klik op **Voorvertoning**. Op de pagina Voorvertoningsaanbiedingen kunt u de grootte en het uiterlijk wijzigen van de afbeelding of video die u hebt geselecteerd. U kunt ook alle afbeeldingen of video&#39;s in de set met aanbiedingen wijzigen.
 
