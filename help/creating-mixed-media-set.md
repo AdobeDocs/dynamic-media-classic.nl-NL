@@ -32,11 +32,11 @@ Wanneer u een set maakt, heeft de optie **Publiceren na opslaan** op de volgende
 | Ja | Gepubliceerd | Gepubliceerd |
 | Nee | Ongepubliceerd | Leden met een set behouden hun gepubliceerde of niet-gepubliceerde status. |
 
-Zie ook [Elementen](publishing-files.md#manually_publishing_assets) handmatig publiceren en [elementen](publishing-files.md#manually_unpublishing_assets)handmatig verwijderen.
+Zie ook [Elementen handmatig publiceren](publishing-files.md#manually_publishing_assets) en [Publicaties van elementen handmatig ongedaan maken](publishing-files.md#manually_unpublishing_assets).
 
 **Een gemengde mediaset maken**
 
-1. Klik op **Samenstellen** > **Gemengde mediasets**.
+1. Klik **Build** > **Gemengde Mediasets**.
 1. Sleep de video&#39;s, de Reeksen van het Beeld, de Reeksen van de Rotatie, en de monsters van de Bibliotheek van Activa aan het Gemengde scherm van de Plaats van Media.
 
    >[!NOTE]
@@ -49,16 +49,16 @@ Zie ook [Elementen](publishing-files.md#manually_publishing_assets) handmatig pu
    * Als u de volgorde van sets wilt wijzigen, sleept u deze naar nieuwe locaties in het scherm Gemengde mediaset. De volgorde van sets op het scherm bepaalt de volgorde van links naar rechts waarin gebruikers sets zien in de Gemengde Media Set Viewer.
    * (Optioneel) Als u een aangepaste miniatuur wilt toevoegen om een video in de viewer te vertegenwoordigen, sleept u een afbeeldingsbestand van de elementenbibliotheek naar het vak voor de plaatsaanduiding van miniaturen.
 
-1. Controleer of **Publiceren na opslaan** is geselecteerd (standaard).
-1. Klik op **Opslaan**, selecteer een map waarin u de gemengde mediaset wilt opslaan, voer een naam voor de set in en klik op **Opslaan**.
+1. Zorg dat in de rechterbenedenhoek van de pagina **Publiceren na opslaan** is geselecteerd (standaard).
+1. Klik **sparen**, selecteer een omslag voor het opslaan van uw Gemengde Reeks van Media, ga een naam voor de reeks in, en klik **sparen**.
 
-   Klik op **Voorvertoning** om te zien hoe de set met combo-afbeeldingen er in een viewer met Afbeeldingsset uitziet.
+   Klik op **Voorvertoning** om te zien hoe de set met comboafbeeldingen er in een viewer met afbeeldingsset uitziet.
 
-## Een gemengde mediaset bewerken {#edit-a-mixed-media-set}
+## Een gemengde mediaset {#edit-a-mixed-media-set} bewerken
 
 U kunt een gemengde Mediaset bewerken. Als u een set in een gemengde mediaset wilt bewerken, opent u die set afzonderlijk, bewerkt u de set en slaat u deze op. De bewerkingen worden weergegeven in de set Gemengde media.
 
-Afhankelijk van het feit of u een gepubliceerde of een niet-gepubliceerde set bewerkt, heeft de optie **Publiceren na opslaan** invloed op de set en stelt u de leden als volgt in:
+Afhankelijk van het feit of u een gepubliceerde of een niet-gepubliceerde set bewerkt, beïnvloedt de optie **Publiceren na opslaan** de set en stelt u de leden als volgt in:
 
 | Reeds gepubliceerd instellen? | De optie Publiceren na opslaan is geselecteerd voordat u de bewerking opslaat? | Status van set na opslaan | Status van ingestelde leden na opslaan |
 |--- |--- |--- |--- |
@@ -67,27 +67,27 @@ Afhankelijk van het feit of u een gepubliceerde of een niet-gepubliceerde set be
 | Nee | Ja | Gepubliceerd | Gepubliceerd |
 | Nee | Nee | Ongepubliceerd | Bestaande leden die zijn ingesteld en eventuele nieuwe leden die u tijdens de bewerking hebt toegevoegd, behouden hun gepubliceerde of niet-gepubliceerde status. |
 
-Zie ook [Elementen](publishing-files.md#manually_publishing_assets) handmatig publiceren en [elementen](publishing-files.md#manually_unpublishing_assets)handmatig verwijderen.
+Zie ook [Elementen handmatig publiceren](publishing-files.md#manually_publishing_assets) en [Publicaties van elementen handmatig ongedaan maken](publishing-files.md#manually_unpublishing_assets).
 
 **Een gemengde mediaset bewerken**
 
-1. Klik op de rollover-knop **Bewerken** van gemengde mediaset.
+1. Klik op de rollover **Bewerken**-knop van de gemengde mediaset.
 1. Voer een van de volgende handelingen uit:
 
    * Als u items wilt verwijderen, selecteert u de items en klikt u op **Verwijderen**.
    * Als u de volgorde van de items wilt wijzigen, sleept u ze naar nieuwe locaties.
 
-1. Als u klaar bent met het bewerken van de set, controleert u of **Publiceren na opslaan** is geselecteerd (standaard) rechtsonder op de pagina.
-1. Klik op **Opslaan** of **Opslaan als**.
+1. Als u klaar bent met het bewerken van de set, controleert u of **Publiceren na opslaan** is geselecteerd (standaard).
+1. Klik **Opslaan** of **Opslaan als**.
 
-## Een gemengde mediaset verwijderen {#deleting-a-mixed-media-set}
+## Een gemengde mediaset {#deleting-a-mixed-media-set} verwijderen
 
 Wanneer u een set verwijdert, wordt de set zelf naar de prullenbak verplaatst. De leden (of &quot;kinderen&quot;) in die reeks worden echter niet beïnvloed; in plaats daarvan behouden zij elk hun bestaande gepubliceerde of niet - gepubliceerde staat .
 
-Zie ook [Elementen](publishing-files.md#manually_publishing_assets) handmatig publiceren en [elementen](publishing-files.md#manually_unpublishing_assets)handmatig verwijderen.
+Zie ook [Elementen handmatig publiceren](publishing-files.md#manually_publishing_assets) en [Publicaties van elementen handmatig ongedaan maken](publishing-files.md#manually_unpublishing_assets).
 
 **Een gemengde mediaset verwijderen**
 
 1. Selecteer een of meer gemengde mediasets in de rasterweergave, lijstweergave of detailweergave.
-1. Klik op de algemene navigatiebalk op **Bestand** > **Verwijderen** > **Verwijderen**.
+1. Klik op **Bestand** > **Verwijderen** > **Verwijderen** op de algemene navigatiebalk.
 
