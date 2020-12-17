@@ -20,13 +20,13 @@ ht-degree: 0%
 
 # E-catalogi en bijbehorende PDF&#39;s publiceren{#publishing-ecatalogs-and-associated-pdfs}
 
-Bij het publiceren worden uw eCatalog en PDF op de Servers van het Beeld van Dynamic Media geplaatst zodat kan het ter beschikking worden gesteld van uw website of toepassing. Als onderdeel van het publicatieproces activeert Dynamic Media Classic de URL-tekenreeks. U kunt deze URL-tekenreeks in de HTML-webpaginacode plaatsen.
+Bij publicatie worden uw eCatalog en PDF op Dynamic Media Image Servers geplaatst, zodat deze beschikbaar kunnen worden gesteld op uw website of toepassing. Als onderdeel van het publicatieproces activeert Dynamic Media Classic de URL-tekenreeks. U kunt deze URL-tekenreeks in de HTML-webpaginacode plaatsen.
 
 >[!NOTE]
 >
 >Zorg ervoor dat uw eCatalog en PDF in dezelfde map staan en dat deze zijn gemarkeerd voor publicatie in het deelvenster Bladeren of op de pagina Asset Details voordat u ze publiceert.
 
-Uw eCatalog aan de Servers van het Beeld van Dynamic Media publiceren:
+Uw eCatalog publiceren naar Dynamic Media Image Servers:
 
 1. Klik op **Publiceren** op de algemene navigatiebalk.
 1. Selecteer in het scherm Publiceren een optie bij Wanneer (One-Time of Recurring).
@@ -34,7 +34,7 @@ Uw eCatalog aan de Servers van het Beeld van Dynamic Media publiceren:
 
    Als u uw eCatalog opstelt zodat de kijkers sleutelwoordonderzoeken kunnen uitvoeren, zorg ervoor dat de sleutelwoordgegevens worden gepubliceerd. Klik op Geavanceerd en vervolgens op Geavanceerde opties. Klik in het vervolgkeuzemenu Publiceren op Volledige W/zoekgegevens. Deze optie is standaard ingeschakeld.
 
-1. Klik op Publiceren **starten**.
+1. Klik **Publiceren starten**.
 
 >[!MORELIKETHIS]
 >
