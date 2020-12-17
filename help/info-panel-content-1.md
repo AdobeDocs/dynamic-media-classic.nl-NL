@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Naast het gebruiken van de tekst van de Kaart van het Beeld voor uw omvergooien in de Reeksen van het Beeld, kunt u een informatiepaneel gebruiken om grotere hoeveelheden het omvergooientekst, met inbegrip van verbindingen toe te voegen. U kunt het InfoPanel ook beheren door getimed caching te gebruiken en inhoudsupdates te plannen.
 
-U kunt uw opstelling InfoPanel en gegevens beheren gebruikend de volgende eigenschappen in Dynamic Media Klassiek:
+U kunt de InfoPanel-instellingen en -gegevens beheren met de volgende functies in Dynamic Media Classic:
 
 * In het deelvenster InfoPanel Setup kunt u de sjabloon opgeven die wordt gebruikt voor het weergeven van de tekst in het deelvenster Info, een standaardreactie voor fouten en het aantal uren dat de informatie in de cache wordt opgeslagen. Bovendien kunt u specificeren of de Reeks van het Beeld automatisch wordt gepubliceerd.
 * In het deelvenster InfoPanel-gegevensinvoer kunt u een CSV-bestand opgeven met de tekst die u wilt weergeven in de rollovertekst van het deelvenster Info en kunt u tijdstippen voor het bijwerken van de gegevens opgeven.
@@ -35,7 +35,7 @@ U kunt een van de drie vooraf ingestelde reactiesjablonen selecteren om tekst we
 **Een reactiesjabloon instellen**
 
 1. Dubbelklik op de set Afbeelding om deze te openen in de gedetailleerde weergave.
-1. Klik op **InfoPanel Setup** om het deelvenster te ontvouwen.
+1. Klik **InfoPanel Setup** om het paneel los te maken.
 1. Voer een van de volgende handelingen uit in de vervolgkeuzelijst Antwoordsjabloon:
 
    * Selecteer Standaard als u het standaardantwoord wilt gebruiken. De XML voor het sjabloonontwerp wordt grijs weergegeven in het tekstvak Gebruikerssjabloon.
@@ -47,7 +47,7 @@ U kunt een van de drie vooraf ingestelde reactiesjablonen selecteren om tekst we
    * Stel een lager getal in als de gegevens regelmatig worden bijgewerkt.
    * Stel een hoger getal in als de gegevens relatief stabiel zijn en niet regelmatig hoeven te worden bijgewerkt. De standaardwaarde is tien uur.
 
-1. Klik op **Uploaden** om de inhoud van het deelvenster Info te uploaden naar s7info op basis van de waarden rollover_key.
+1. Klik op **Upload** om de inhoud van het deelvenster Info te uploaden naar s7info, op basis van de waarden voor rollover_key.
 1. Blader in het dialoogvenster S7Info uploaden naar het bestand dat u wilt gebruiken en klik op **Uploaden**.
 
    Ondersteunde bestandsindelingen zijn door tabs gescheiden bestanden met UTF-16-codering en CSV-bestanden met ASCII-codering. Voor CSV-bestanden moeten niet-ASCII-tekens HTML-gecodeerd zijn.
@@ -67,11 +67,11 @@ Houd bij het opmaken van broninhoud rekening met de volgende richtlijnen:
 ### CSV-inhoud importeren in afbeeldingssets vanaf een extern gehoste locatie {#import-csv-content-into-image-sets-from-an-externally-hosted-location}
 
 1. Dubbelklik op de set Afbeelding om deze te openen in de gedetailleerde weergave.
-1. Klik op Gegevensinvoer **InfoPanel** om het deelvenster te ontvouwen.
+1. Klik **InfoPanel Datafeed** om het paneel los te maken.
 1. Voer in het tekstveld HTTP (External Hosted CSV file location) de URL naar het CSV-bestand in.
 1. (Optioneel) Geef in de velden Update plannen een tijd op om de inhoud bij te werken en klik vervolgens op **Toevoegen**.
 
-   U kunt meerdere malen selecteren voor bijwerken. Elke updatetijd verschijnt in het de tekstvakje van de Tijden van de Update. Als u een geplande tijd wilt verwijderen, selecteert u deze en klikt u op **Verwijderen**.
+   U kunt meerdere malen selecteren voor bijwerken. Elke updatetijd verschijnt in het de tekstvakje van de Tijden van de Update. Als u een geplande tijd wilt verwijderen, selecteert u deze en klikt u op **Delete**.
 
-1. (Optioneel) Klik op Bijwerken **uitvoeren** om de inhoud direct bij te werken.
+1. (Optioneel) Klik op **Update uitvoeren** om de inhoud direct bij te werken.
 
