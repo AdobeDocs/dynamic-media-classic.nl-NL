@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Elementen zoeken{#searching-assets}
 
-Als u bestandselementen wilt zoeken in Dynamic Media Classic, kunt u elementen op type weergeven, elementen in het deelvenster Bladeren sorteren, een eenvoudige zoekopdracht uitvoeren, een geavanceerde zoekopdracht uitvoeren en naar elementen filteren.
+Als u bestandsmiddelen wilt zoeken in Dynamic Media Classic, kunt u elementen op type weergeven, elementen in het deelvenster Bladeren sorteren, een eenvoudige zoekopdracht uitvoeren, een geavanceerde zoekopdracht uitvoeren en naar elementen filteren.
 
 >[!NOTE]
 >
@@ -53,7 +53,7 @@ Een eenvoudige zoekopdracht uitvoeren:
 
 >[!NOTE]
 >
->Dynamic Media Classic zoekt naar tracks. Als u een zoekopdracht nogmaals wilt uitvoeren, selecteert u de knop Zoeken en kiest u de naam van een zoekopdracht onder aan het menu Zoeken.
+>Dynamic Media Classic volgt zoekopdrachten. Als u een zoekopdracht nogmaals wilt uitvoeren, selecteert u de knop Zoeken en kiest u de naam van een zoekopdracht onder aan het menu Zoeken.
 
 ## Een geavanceerde zoekopdracht uitvoeren {#conducting-an-advanced-search}
 
@@ -61,15 +61,15 @@ Klik op Geavanceerd zoeken in de Asset Library om te zoeken aan de hand van vele
 
 Geef een of meer van de volgende criteria op in uw zoekopdracht:
 
-**Filter op elementtype** Versmal uw zoekopdracht naar één elementtype door een elementtype in het menu te kiezen.
+**Filter op** type elementVerfijn uw zoekopdracht tot één type element door een type element in het menu te kiezen.
 
-**Bestanden en mappen** kiezen waar u wilt zoeken: In alle bestanden en mappen, in geselecteerde map of in geselecteerde map en submappen.
+**Bestanden en** mappenKies waar u wilt zoeken: In alle bestanden en mappen, in geselecteerde map of in geselecteerde map en submappen.
 
 **Alle publicatiestatussen** Zoeken naar bestanden die zijn gemarkeerd voor publicatie, die niet zijn gemarkeerd als klaar voor publicatie, of die alle bestanden bevatten.
 
-**Voorwaarden** Als u criteria voor metagegevens opgeeft voor zoeken, moet u aangeven of de zoekopdracht moet voldoen aan alle voorwaarden (een ALLE zoekopdracht) of aan een willekeurige voorwaarde (een OF-zoekopdracht).
+**** VoorwaardenAls u criteria voor metagegevens opgeeft voor zoeken, selecteert u of de zoekopdracht moet voldoen aan alle voorwaarden (een ALLE zoekopdracht) of aan een willekeurige voorwaarde (een OF-zoekopdracht).
 
-**Geef zoekcriteria voor** metagegevens op. Maak een of meer zoekvelden voor het zoeken naar metagegevens. Zoekvelden maken:
+**Zoekcriteria voor metagegevens opgevenMaak een of meer zoekvelden voor het zoeken naar metagegevens.** Zoekvelden maken:
 
 1. Open de lijst Metagegevensweergave (links van het menu Een veld toevoegen) en kies een metagegevensweergave. U kunt een compacte weergave, IPTC, XMP of een weergave kiezen voor de beheerdersinstelling.
 1. Selecteer het menu Een veld toevoegen en kies een veldnaam in de vervolgkeuzelijst.
@@ -95,7 +95,7 @@ U kunt filterbewerkingen opslaan om deze meerdere malen uit te voeren.
 
 Zie [Metagegevensweergaven](application-setup.md#metadata_views).
 
-### Filterbewerking uitvoeren {#running-a-filter-operation}
+### Een filterbewerking {#running-a-filter-operation} uitvoeren
 
 Ga als volgt te werk om elementen te zoeken door te filteren met de bijbehorende metagegevenswaarden:
 
@@ -105,19 +105,19 @@ Ga als volgt te werk om elementen te zoeken door te filteren met de bijbehorende
 
    Als u een filterbewerking wilt uitvoeren die u hebt gemaakt en opgeslagen, klikt u op de knop Voorinstelling selecteren en kiest u de naam van de bewerking in het menu.
 
-   Zie Filterbewerkingen [opslaan, herhalen en verwijderen](searching-assets.md#saving_repeating_and_deleting_filter_operations).
+   Zie [Filterbewerkingen opslaan, herhalen en verwijderen](searching-assets.md#saving_repeating_and_deleting_filter_operations).
 
 1. Klik op de knop Veld in een deelvenster en volg de volgende instructies om het filtermenu weer te geven en de filterbewerking samen te stellen:
 
-   **Kies een metagegevensveld** Selecteer de naam van het veld in het filtermenu.
+   **Een** metagegevensveld kiezenSelecteer de naam van het veld in het filtermenu.
 
    ***opmerking **: Alleen de namen van metagegevensvelden in de standaardweergave Metagegevens worden weergegeven in het filtermenu.*
 
    Zie [Metagegevensweergaven](application-setup.md#metadata_views).
 
-   **Een metagegevensveld** toevoegen Kies Deelvenster toevoegen. Nadat het deelvenster in het deelvenster Filters wordt weergegeven, klikt u op de knop Veld en kiest u de naam van een metagegevensveld in het filtermenu.
+   **Een** veld voor metagegevens toevoegenKies Deelvenster toevoegen. Nadat het deelvenster in het deelvenster Filters wordt weergegeven, klikt u op de knop Veld en kiest u de naam van een metagegevensveld in het filtermenu.
 
-   **Als u een metagegevensveld** verwijdert, kiest u Dit deelvenster verwijderen in het filtermenu.
+   **Een** veld voor metagegevens verwijderenKies Dit deelvenster verwijderen in het filtermenu.
 
    Wanneer u een metagegevensveld kiest, wordt in het deelvenster ervan het volgende weergegeven:
 
@@ -135,17 +135,17 @@ Ga als volgt te werk om elementen te zoeken door te filteren met de bijbehorende
 
 1. (Optioneel) Als u de filterbewerking wilt opslaan en later wilt kunnen uitvoeren, klikt u op de knop Voorinstelling selecteren, kiest u Huidige opslaan als nieuwe voorinstellingen en voert u een naam in het dialoogvenster Opslaan in.
 
-### Filterbewerkingen opslaan, herhalen en verwijderen {#saving-repeating-and-deleting-filter-operations}
+### Filterbewerkingen {#saving-repeating-and-deleting-filter-operations} opslaan, herhalen en verwijderen
 
 Volg de onderstaande instructies op het tabblad Filters om filterbewerkingen op te slaan, te herhalen en te verwijderen:
 
-**Als u een filterbewerking** opslaat, klikt u op de knop Voorinstelling selecteren, kiest u Huidige opslaan als nieuwe voorinstellingen en voert u een naam in het dialoogvenster Opslaan in.
+**Een filterbewerking opslaan.** Klik op de knop Voorinstelling selecteren, kies Huidige opslaan als nieuwe voorinstellingen en voer een naam in het dialoogvenster Opslaan in.
 
-**Herhalend een filterverrichting** Klik de Uitgezochte Vooraf ingestelde knoop en kies de naam van een filterverrichting op het menu. Het menu bevat filterbewerkingen die u hebt opgeslagen.
+**Herhaling van een filterbewerkingKlik op de knop Voorinstelling selecteren en kies de naam van een filterbewerking in het menu.** Het menu bevat filterbewerkingen die u hebt opgeslagen.
 
-**Als u een filterbewerking verwijdert uit het menu** Voorinstelling selecteren, voert u de filterbewerking uit. Klik vervolgens op de knop Voorinstelling selecteren en kies Voorinstelling verwijderen in het menu.
+**Een filterbewerking verwijderen uit het** menu Voorinstelling selecteren. Voer de filterbewerking uit. Klik vervolgens op de knop Voorinstelling selecteren en kies Voorinstelling verwijderen in het menu.
 
-## De metagegevensserver gebruiken {#using-the-metadata-server}
+## De metagegevensserver {#using-the-metadata-server} gebruiken
 
 De metagegevensserver is een openbare API die u kunt gebruiken om via http-verzoeken te zoeken naar elementen op basis van metagegevens.
 
@@ -153,15 +153,15 @@ Klik op Setup > Application Setup > Publish Setup > Metadata Server om de metage
 
 Het scherm Metadata Server Publish wordt geopend. In dit scherm kunt u de volgende opties instellen:
 
-**Met Onmiddellijk publiceren** worden automatisch wijzigingen in metagegevens doorgevoerd wanneer deze worden doorgevoerd, zoals nieuwe elementen, trefwoordwijzigingen enzovoort.
+**Onmiddellijk** publicerenHiermee worden eventuele wijzigingen in metagegevens automatisch doorgevoerd wanneer deze worden doorgevoerd, zoals nieuwe elementen, trefwoordwijzigingen enzovoort.
 
-**XMP Pakket** publiceert het XMP Pakket. Dit pakket wordt niet gebruikt voor het zoeken, maar verstrekt de meest bijgewerkte XMP/
+**XMP** PacketPublishes the XMP Packet. Dit pakket wordt niet gebruikt voor het zoeken, maar verstrekt de meest bijgewerkte XMP/
 
-**Trefwoorden** Hiermee publiceert u uw trefwoorden naar de metagegevensserver voor gebruik in zoekopdrachten.
+**** TrefwoordenHiermee publiceert u de trefwoorden naar de metagegevensserver voor gebruik in zoekopdrachten.
 
-**Metagegevensserver publiceert velden** Selecteer de velden die u wilt opnemen in de metagegevens. Op deze manier kunt u bepalen hoeveel informatie over uw elementen beschikbaar is voor het publiek. Deze velden worden ook weergegeven in Metagegevensweergaven, maar kunnen alleen worden gewijzigd op de metagegevensserver.
+**Metagegevensserver publiceert** veldenSelecteer de velden die u wilt opnemen in de metagegevens. Op deze manier kunt u bepalen hoeveel informatie over uw elementen beschikbaar is voor het publiek. Deze velden worden ook weergegeven in Metagegevensweergaven, maar kunnen alleen worden gewijzigd op de metagegevensserver.
 
-Klik op **Nu** publiceren om de taak te starten. Er wordt een bevestiging weergegeven met de mededeling dat de taak is gestart.
+Klik op **Nu publiceren** om de taak te starten. Er wordt een bevestiging weergegeven met de mededeling dat de taak is gestart.
 
 >[!MORELIKETHIS]
 >
