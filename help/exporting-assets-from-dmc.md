@@ -18,38 +18,46 @@ ht-degree: 0%
 ---
 
 
-# Elementen exporteren vanuit Dynamic Media Classic{#exporting-assets-from-dmc}
+# Elementen exporteren uit Dynamic Media Classic{#exporting-assets-from-dmc}
 
 U kunt elementen die u in Dynamic Media Classic hebt bewerkt, opslaan op een lokaal netwerkstation. Geëxporteerde elementen worden in een ZIP-bestand gebundeld, zodat ze via e-mail kunnen worden gedownload of verzonden.
 
 Het gecomprimeerde ZIP-bestand heeft een maximale bestandsgrootte van 1 GB voor de exporttaak. Houd er ook rekening mee dat u maximaal 500 totale middelen per exporttaak hebt.
 
-De dynamische Klassiek van Media houdt een verslag van de uitvoerbanen in het scherm van Banen bij.
+Dynamic Media Classic houdt een overzicht van exporttaken bij in het scherm Taken.
 
-**Elementen exporteren van Dynamic Media Classic**
+**Elementen exporteren uit Dynamic Media Classic**
 
 1. Selecteer de elementen die u wilt exporteren en klik op **Bestand** > **Exporteren**.
-1. Klik in het venster Geselecteerde elementen exporteren op **Afbeeldingsopties** en geef een of meer van de volgende opties op (beheerders bepalen welke opties beschikbaar zijn voor hun gebruikers):
+1. Klik in het venster Geselecteerde elementen exporteren op **Afbeeldingsopties** en geef vervolgens een van de volgende opties op (beheerders bepalen welke opties beschikbaar zijn voor hun gebruikers):
 
-   * **Voorinstellingen** Optioneel. Kies een voorinstelling voor afbeelding om het element op te maken wanneer u het exporteert. Als u een voorinstelling voor afbeeldingen kiest, zijn de andere opmaakopties niet beschikbaar omdat het element gebruikmaakt van de indelingen die zijn gedefinieerd in de voorinstelling voor afbeeldingen.
+   * ****
+VoorinstellingenOptioneel kiest u een voorinstelling voor afbeelding om het element op te maken wanneer u het exporteert. Als u een voorinstelling voor afbeeldingen kiest, zijn de andere opmaakopties niet beschikbaar omdat het element gebruikmaakt van de indelingen die zijn gedefinieerd in de voorinstelling voor afbeeldingen.
 
-   * **Conversie** Zet het elementbestand of de oorspronkelijke afbeelding om.
+   * ****
+ConversionConverteer het elementbestand of de oorspronkelijke afbeelding.
 
-   * **Grootte** U kunt een standaardgrootte selecteren. U kunt ook op Overige klikken in de vervolgkeuzelijst Grootte, de gewenste maateenheid kiezen en vervolgens de breedte en hoogte opgeven.
+   * ****
+GrootteU kunt een standaardgrootte selecteren. U kunt ook op Overige klikken in de vervolgkeuzelijst Grootte, de gewenste maateenheid kiezen en vervolgens de breedte en hoogte opgeven.
 
-      Zie ook Exportopties [opgeven die beschikbaar zijn voor gebruikers](specifying-export-options-available-media.md#specifying_export_options_available_to_media_portal_users)van Media Portal.
+      Zie ook [Exportopties opgeven die beschikbaar zijn voor gebruikers van Media Portal](specifying-export-options-available-media.md#specifying_export_options_available_to_media_portal_users).
 
-   * **Indeling** Kies een afbeeldingsindeling.
+   * ****
+IndelingKies een afbeeldingsindeling.
 
-   * **Kleur** Kies RGB, CMYK of Grijs.
+   * ****
+KleurKies RGB, CMYK of Grijs.
 
-   * **Resolutie**: kies 72, 150 of 300 ppi.
+   * ****
+ResolutieKies 72, 150 of 300 ppi.
 
-   * **Taaknaam** U kunt een taaknaam aan het exporteren toewijzen.
+   * **Taaknaam**
+U kunt een taaknaam aan het exporteren toewijzen.
 
-   * **Voer** eventueel een e-mailadres in om de elementen via e-mail te verzenden. Het e-mailbericht bevat de URL waar de ontvanger de elementen kan downloaden.
+   * **U kunt**
+desgewenst een e-mailadres verzenden om de elementen per e-mail te verzenden. Het e-mailbericht bevat de URL waar de ontvanger de elementen kan downloaden.
 
-1. Klik op **Exporteren**.
+1. Klik **Exporteren**.
 
 Er worden drie basisuitvoeracties ondersteund:
 
