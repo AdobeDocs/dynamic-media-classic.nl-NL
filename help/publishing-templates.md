@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Sjablonen publiceren{#publishing-templates}
 
-Als u de sjabloon publiceert, wordt deze op Dynamic Media Image Servers geplaatst, waar deze beschikbaar is voor uw website en toepassing. Tijdens het publicatieproces activeert Dynamic Media Classic de URL&#39;s die u voor uw website en toepassing nodig hebt.
+Als u uw sjabloon publiceert, wordt deze op Dynamic Media Image Servers geplaatst, waar deze beschikbaar is voor uw website en toepassing. Tijdens het publicatieproces activeert Dynamic Media Classic de URL&#39;s die u nodig hebt voor uw website en toepassing.
 
 >[!NOTE]
 >
@@ -28,11 +28,11 @@ Als u de sjabloon publiceert, wordt deze op Dynamic Media Image Servers geplaats
 
 ## Sjablonen markeren voor publicatie {#marking-templates-for-publish}
 
-Sjablonen en alle bijbehorende ondersteuningsbestanden moeten zijn gemarkeerd voor publicatie zodat ze op Dynamic Media Image Servers kunnen worden geplaatst. U kunt deze items markeren voor publicatie in het deelvenster Bladeren door op het pictogram **Markeren voor publiceren** te klikken.
+Sjablonen en alle bijbehorende ondersteuningsbestanden moeten zijn gemarkeerd voor publicatie zodat ze op Dynamic Media Image Servers kunnen worden geplaatst. U kunt deze punten voor publicatie in het Browse Comité merken door **Teken voor Publish** pictogram te klikken.
 
-## Uw sjabloon publiceren {#publishing-your-template}
+## Uw sjabloon {#publishing-your-template} publiceren
 
-Om malplaatjes aan de Servers van het Beeld van Dynamic Media te publiceren, begin door de Publish knoop op de Globale bar van de Navigatie te selecteren. Selecteer vervolgens een optie bij Wanneer, geef desgewenst een naam op voor de publicatietaak en selecteer de knop Publiceren starten.
+Als u sjablonen wilt publiceren naar Dynamic Media Image Servers, selecteert u eerst de knop Publiceren op de algemene navigatiebalk. Selecteer vervolgens een optie bij Wanneer, geef desgewenst een naam op voor de publicatietaak en selecteer de knop Publiceren starten.
 
 >[!MORELIKETHIS]
 >
