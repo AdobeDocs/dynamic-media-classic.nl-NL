@@ -20,27 +20,30 @@ ht-degree: 0%
 
 # Metagegevens weergeven, toevoegen en exporteren{#viewing-adding-and-exporting-metadata}
 
-U kunt informatie specifiek voor de dossiers opslaan u met in Dynamische Klassiek van Media werkt; deze informatie wordt *metagegevens* genoemd . U kunt metagegevens in Dynamic Media Classic gebruiken voor het ordenen, zoeken, filteren en sorteren van uw elementen.
+U kunt gegevens opslaan die specifiek zijn voor de bestanden waarmee u werkt in Dynamic Media Classic. deze informatie wordt *metadata* genoemd. U kunt metagegevens in Dynamic Media Classic gebruiken voor het ordenen, zoeken, filteren en sorteren van uw elementen.
 
-Metagegevens worden in de gedetailleerde weergave weergegeven, samen met door Dynamic Media Classic gegenereerde informatie, zoals de aanmaakdatum van het bestand, de publicatiedatum en trefwoorden. Als u metagegevens wilt weergeven, opent u het element in de gedetailleerde weergave en selecteert u het deelvenster Metagegevens. U kunt metagegevens invoeren en bewerken in de gedetailleerde weergave.
+Metagegevens worden in de gedetailleerde weergave weergegeven, samen met door Dynamic Media gegenereerde klassieke informatie, zoals de aanmaakdatum van het bestand, de publicatiedatum en trefwoorden. Als u metagegevens wilt weergeven, opent u het element in de gedetailleerde weergave en selecteert u het deelvenster Metagegevens. U kunt metagegevens invoeren en bewerken in de gedetailleerde weergave.
 
-Sommige metagegevens worden rechtstreeks in een bestand ingesloten. Als een bestand deze metagegevens bevat, wordt deze automatisch met het bestand geüpload via Dynamic Media Classic. U kunt metagegevens insluiten in bronelementen in Adobe Photoshop, InDesign, Illustrator en andere toepassingen. Dynamic Media Classic herkent deze metagegevens. U kunt ook metagegevens toevoegen aan afzonderlijke bestanden in het deelvenster Metagegevens in de gedetailleerde weergave. Om consistentie tussen activa te verzekeren, leiden de bedrijfbeheerders Meta-gegevensmalplaatjes die de meta-gegevensgebieden verstrekken die kunnen worden ingevuld.
+Sommige metagegevens worden rechtstreeks in een bestand ingesloten. Als een bestand deze metagegevens bevat, uploadt Dynamic Media Classic deze automatisch met het bestand. U kunt metagegevens insluiten in bronelementen in Adobe Photoshop, InDesign, Illustrator en andere toepassingen. Dynamic Media Classic herkent deze metagegevens. U kunt ook metagegevens toevoegen aan afzonderlijke bestanden in het deelvenster Metagegevens in de gedetailleerde weergave. Om consistentie tussen activa te verzekeren, leiden de bedrijfbeheerders Meta-gegevensmalplaatjes die de meta-gegevensgebieden verstrekken die kunnen worden ingevuld.
 
-Zie [www.adobe.com/go/learn_s7_xmp_en](https://www.adobe.com/go/learn_s7_xmp_en)voor meer informatie over ingesloten metagegevens.
+Zie [www.adobe.com/go/learn_s7_xmp_en](https://www.adobe.com/go/learn_s7_xmp_en) voor meer informatie over ingesloten metagegevens.
 
-## Metagegevens weergeven {#view-metadata}
+## Metagegevens {#view-metadata} weergeven
 
-Als u de metagegevens van een element wilt weergeven, opent u het element in de gedetailleerde weergave en klikt u op het deelvenster Metagegevens. Kies vervolgens een optie in het menu Weergave metagegevens om een set metagegevensvelden te selecteren. Dynamic Media Classic biedt deze metagegevensweergaven:
+Als u de metagegevens van een element wilt weergeven, opent u het element in de gedetailleerde weergave en klikt u op het deelvenster Metagegevens. Kies vervolgens een optie in het menu Weergave metagegevens om een set metagegevensvelden te selecteren. Dynamic Media Classic biedt de volgende weergaven van metagegevens:
 
-* **Compacte weergave** Een basislijst met waarden.
+* **Compacte**
+ViewA basislijst met waarden.
 
-* **IPTC**-waarden zoals gedefinieerd door de Internationale Raad voor de Telecommunicatie van de Pers.
+* ****
+IPTCValues zoals bepaald door de Internationale Raad van de Telecommunicatie van de Pers.
 
-* **XMP** Waarden zoals gedefinieerd door het uitbreidbare metagegevensplatform.
+* ****
+XMPValues zoals gedefinieerd door het uitbreidbare metagegevensplatform.
 
-Beheerders kunnen weergaven van metagegevens maken. Deze weergaven worden ook weergegeven in het menu Weergaven metagegevens. Zie Weergaven [metagegevens voor informatie over het maken van weergaven](application-setup.md#metadata_views)van metagegevens.
+Beheerders kunnen weergaven van metagegevens maken. Deze weergaven worden ook weergegeven in het menu Weergaven metagegevens. Zie [Weergaven van metagegevens](application-setup.md#metadata_views) voor informatie over het maken van weergaven van metagegevens.
 
-## Metagegevens voor een element handmatig invoeren {#manually-enter-metadata-for-an-asset}
+## Voer handmatig metagegevens in voor een element {#manually-enter-metadata-for-an-asset}
 
 1. Open het element in de gedetailleerde weergave.
 1. Open het deelvenster Metagegevens en voer een of beide van de volgende handelingen uit:
@@ -54,7 +57,7 @@ Beheerders kunnen weergaven van metagegevens maken. Deze weergaven worden ook we
 >
 >Als u de metagegevens van meerdere elementen tegelijk wilt bewerken, selecteert u de elementen en kiest u Bestand > Info bewerken. Wijzigingen die u aanbrengt in metagegevens in het venster Info bewerken, worden toegepast op alle elementen die u hebt geselecteerd.
 
-## Trefwoorden toevoegen of bewerken {#add-or-edit-keywords}
+## Trefwoorden {#add-or-edit-keywords} toevoegen of bewerken
 
 Naast metagegevens kunt u ook trefwoorden gebruiken als hulp bij het zoeken en beheren van uw elementen.
 
@@ -71,24 +74,24 @@ Als u tijdens deze sessie trefwoorden hebt toegevoegd aan andere bestanden of al
 
 >[!NOTE]
 >
->U kunt trefwoorden aan bestanden toevoegen terwijl u deze uploadt naar Dynamic Media Classic. Kies Extra metagegevens in het dialoogvenster Taakopties uploaden en voer trefwoorden in. Zie [Uploadopties](uploading-files.md#upload_options).
+>U kunt trefwoorden aan bestanden toevoegen terwijl u deze uploadt naar Dynamic Media Classic. Kies Extra metagegevens in het dialoogvenster Taakopties uploaden en voer trefwoorden in. Zie [Opties voor uploaden](uploading-files.md#upload_options).
 
-## Metagegevens importeren {#import-metadata}
+## Metagegevens {#import-metadata} importeren
 
 In plaats van handmatig metagegevens één element tegelijk in te voeren, kunt u metagegevens voor veel verschillende elementen importeren uit een door tabs gescheiden of XML-bestand. Het invoeren van de metagegevens in een door tabs gescheiden of XML-bestand en het importeren van het bestand neemt minder tijd in beslag dan het invoeren van metagegevens in afzonderlijke elementen. Voer in de eerste rij van het door tabs gescheiden bestand de id in en de namen van velden waarvoor u metagegevens wilt opnemen. Voer in elke volgende rij de naam van een element-id in, gevolgd door metagegevenswaarden. Velden die niet zijn opgenomen in het door tabs gescheiden of XML-bestand, worden niet gewijzigd. Als u metagegevens uit een XML-bestand wilt importeren, moet u controleren of u voldoet aan de DTD.
 
 >[!NOTE]
 >
->U kunt een sjabloon maken voor het invoeren van metagegevens, zodat deze op de juiste wijze kunnen worden geïmporteerd in Dynamic Media Classic. Nadat u de sjabloon hebt gemaakt, kunt u deze gebruiken om de metagegevens in te voeren. Zie Een sjabloon [maken voor het invoeren van te uploaden](viewing-adding-exporting-metadata.md#create_a_template_for_entering_metadata_to_upload)metagegevens.
+>U kunt een sjabloon maken voor het invoeren van metagegevens, zodat deze op de juiste wijze kunnen worden geïmporteerd in Dynamic Media Classic. Nadat u de sjabloon hebt gemaakt, kunt u deze gebruiken om de metagegevens in te voeren. Zie [Een sjabloon maken voor het invoeren van te uploaden metagegevens](viewing-adding-exporting-metadata.md#create_a_template_for_entering_metadata_to_upload).
 
 Meer informatie over gestandaardiseerde eigenschappen vindt u op: https://www.adobe.com/devnet/xmp.html
 
 1. Selecteer in het deelvenster Bladeren de afbeeldingen waaraan u metagegevens wilt toevoegen uit het bestand met tabs of XML.
-1. Klik op **Bestand** > Metagegevens **** importeren.
-1. Klik in het dialoogvenster Metagegevens **** uploaden op **Bladeren**.
-1. Selecteer in het dialoogvenster Bestanden **selecteren om te uploaden** het door tabs gescheiden of XML-bestand met de metagegevens.
+1. Klik **Bestand** > **Metagegevens importeren**.
+1. Klik in het dialoogvenster **Metagegevens uploaden** op **Bladeren**.
+1. Selecteer in het dialoogvenster **Bestanden selecteren om te uploaden** het door tabs gescheiden of XML-bestand met de metagegevens.
 1. Voer een taaknaam in.
-1. Klik op **Uploaden**.
+1. Klik **Uploaden**.
 
 **Verschillende typen metagegevens tijdens het importeren identificeren**
 
@@ -130,11 +133,11 @@ Zorg ervoor dat de gegevens in het door tabs gescheiden of XML-bestand de juiste
 
 Klik op de knop Uploaden op de algemene navigatiebalk en selecteer in het scherm Taken het tabblad Via FTP om de metagegevens te importeren. Klik vervolgens op Taakopties. Kies in het dialoogvenster Taakopties uploaden de optie Metagegevensbestanden verwerken.
 
-## Naam-id&#39;s wijzigen in batch met metagegevens {#batch-rename-ids-using-metadata}
+## Naam van id&#39;s wijzigen in batch met metagegevens {#batch-rename-ids-using-metadata}
 
-Met behulp van metagegevens die zijn geïmporteerd uit een door tabs gescheiden bestand of XML-bestand, kunt u de naam van dynamische media klassieke id&#39;s wijzigen. De geïmporteerde metagegevens worden alleen toegepast op de afbeeldingen die in het metagegevensbestand zelf zijn opgegeven. Het maakt niet uit of afbeeldingen zijn geselecteerd in het deelvenster Bladeren.
+Met metagegevens die zijn geïmporteerd uit een door tabs gescheiden bestand of XML-bestand, kunt u de naam van klassieke Dynamic Media-id&#39;s wijzigen. De geïmporteerde metagegevens worden alleen toegepast op de afbeeldingen die in het metagegevensbestand zelf zijn opgegeven. Het maakt niet uit of afbeeldingen zijn geselecteerd in het deelvenster Bladeren.
 
-Als u de naam van de dynamische media-klassieke id van een afbeelding wilt wijzigen, voegt u een kolom met het label *Net* toe aan het door tabs gescheiden bestand of voegt u een veld met de naam* new_vc_objectname* toe aan de XML-gegevens.
+Als u de naam van de klassieke Dynamic Media-id van een afbeelding wilt wijzigen, voegt u een kolom met het label *newipsid* toe aan het bestand met tabs als scheidingsteken of voegt u een veld met de naam* new_vc_objectname* toe aan de XML-gegevens.
 
 Bijvoorbeeld:
 
@@ -146,9 +149,9 @@ Bijvoorbeeld:
 
 In het taaklogboek voor de metagegevenstaak wordt aangegeven welke id&#39;s zijn hernoemd en welke niet.
 
-## Een sjabloon maken voor het invoeren van te uploaden metagegevens {#create-a-template-for-entering-metadata-to-upload}
+## Een sjabloon maken voor het invoeren van metagegevens om {#create-a-template-for-entering-metadata-to-upload} te uploaden
 
-Dynamic Media Classic biedt een opdracht voor het maken van een sjabloon voor het opnemen van metagegevens. Met behulp van de sjabloon zorgt u ervoor dat de metagegevens in de juiste indeling worden ingevoerd, zodat deze op de juiste wijze kunnen worden geüpload naar Dynamic Media Classic. Ga als volgt te werk om een sjabloon te maken voor het opnemen en importeren van metagegevens naar Dynamic Media Classic:
+Dynamic Media Classic biedt een opdracht voor het maken van een sjabloon voor het opnemen van metagegevens. Als u de sjabloon gebruikt, worden de metagegevens ingevoerd in de juiste indeling, zodat ze correct kunnen worden geüpload naar Dynamic Media Classic. Ga als volgt te werk om een sjabloon te maken voor het opnemen en importeren van metagegevens naar Dynamic Media Classic:
 
 1. Selecteer afbeeldingselementen met de metagegevensvelden die u voor de sjabloon wilt gebruiken.
 1. Kies Bestand > Metagegevens importeren.
@@ -179,9 +182,9 @@ Het systeem genereert automatisch een aangepast schema voor door de gebruiker ge
 
 >[!NOTE]
 >
->Door wijzigingen in het schema veranderen de metagegevens van de elementen zelf nooit. Nochtans, zijn zij niet zichtbaar voor alle Dynamische Media Klassieke en functionaliteit van de Server van Meta-gegevens en kunnen niet na worden veranderd worden betreden. Op dezelfde manier, als de meta-gegevens voor een activa bestaan, maakt de verwezenlijking van het passende schema de meta-gegevens bruikbaar in Dynamische Media Klassiek en de Server van Meta-gegevens.
+>Door wijzigingen in het schema veranderen de metagegevens van de elementen zelf nooit. Ze zijn echter niet zichtbaar voor alle functies van Dynamic Media Classic en Metadata Server en kunnen niet worden geopend nadat ze zijn gewijzigd. Op dezelfde manier geldt dat als er metagegevens voor een element bestaan, het bijbehorende schema de metagegevens bruikbaar maakt in Dynamic Media Classic en de Metadata Server.
 
-De redacteur van het Schema van Meta-gegevens biedt een grafische manier aan om een douaneschema binnen Dynamische Klassiek van Media toe te voegen of uit te geven. Een schema wordt gedefinieerd door een voorvoegsel, een naamruimte en een lijst met eigenschappen.
+De Editor Metagegevensschema biedt een grafische manier om een aangepast bedrijfsschema toe te voegen of te bewerken in Dynamic Media Classic. Een schema wordt gedefinieerd door een voorvoegsel, een naamruimte en een lijst met eigenschappen.
 
 * Naam
 
@@ -189,11 +192,11 @@ De redacteur van het Schema van Meta-gegevens biedt een grafische manier aan om 
 
 * Voorvoegsel
 
-   Technische unieke id voor het schema. Beperkt tot de letters a-z en A-Z. Het voorvoegsel is niet zichtbaar in de Klassieke UI van de Dynamische Media, maar gebruikt, wanneer de meta-gegevens voor een element in het XMP en onze gegevensbestand worden opgeslagen. Het voorvoegsel wordt gebruikt om metagegevensvelden op unieke wijze te identificeren in zoekquery&#39;s voor metagegevens op de Metagegevensserver of het importeren.
+   Technische unieke id voor het schema. Beperkt tot de letters a-z en A-Z. Het voorvoegsel is niet zichtbaar in de klassieke gebruikersinterface van Dynamic Media, maar wordt gebruikt wanneer metagegevens voor een element worden opgeslagen in het XMP en in onze database. Het voorvoegsel wordt gebruikt om metagegevensvelden op unieke wijze te identificeren in zoekquery&#39;s voor metagegevens op de Metagegevensserver of het importeren.
 
 * Naamruimte
 
-   Technische unieke id voor het schema, doorgaans een URL in het formulier `https://your.company.com/name/version/`. Zie de lijst met standaardschema&#39;s voor voorbeelden. De naamruimte is niet zichtbaar in de klassieke gebruikersinterface van Dynamic Media, maar wordt gebruikt om metagegevens in het XMP op te slaan.
+   Technische unieke id voor het schema, doorgaans een URL in de vorm `https://your.company.com/name/version/`. Zie de lijst met standaardschema&#39;s voor voorbeelden. De naamruimte is niet zichtbaar in de klassieke gebruikersinterface van Dynamic Media, maar wordt gebruikt om metagegevens in het XMP op te slaan.
 
 * Beschrijving
 
@@ -207,7 +210,7 @@ De eigenschappen beschrijven de meta-gegevens die met dit schema in het XMP blok
 
 | Eigenschap | Beschrijving |
 |--- |--- |
-| ID | Technische id voor deze eigenschap. De id is niet zichtbaar in de Klassieke UI van de Dynamische Media, maar gebruikt, wanneer de meta-gegevens voor een element in het XMP en onze gegevensbestand worden opgeslagen. De id wordt gebruikt om zoekopdrachten te maken op de Metagegevensserver. De id heeft een aantal beperkingen, zoals: <ul><li>Geen spaties</li><li>Geen &quot;.&quot;, &quot;:&quot;, &quot;$&quot;</li><li>Geen getal als eerste teken</li><li>De beste manier is om a-z of A-Z als eerste teken te gebruiken</li></ul> <br>Nadat de id is gemaakt, kan deze niet worden gewijzigd. |
+| ID | Technische id voor deze eigenschap. De id is niet zichtbaar in de klassieke gebruikersinterface van Dynamic Media, maar wordt gebruikt wanneer metagegevens voor een element worden opgeslagen in het XMP en in onze database. De id wordt gebruikt om zoekopdrachten te maken op de Metagegevensserver. De id heeft een aantal beperkingen, zoals: <ul><li>Geen spaties</li><li>Geen &quot;.&quot;, &quot;:&quot;, &quot;$&quot;</li><li>Geen getal als eerste teken</li><li>De beste manier is om a-z of A-Z als eerste teken te gebruiken</li></ul> <br>Nadat de id is gemaakt, kan deze niet worden gewijzigd. |
 | Label | UI-naam voor deze eigenschap. |
 | Structuur | Bepaalt het type van het bezit samen met het Type van Gegevens. Structuur kan een van de volgende zijn:<ul><li>Eenvoudig type: enkele waarde van gegevenstype</li><li>Volgorde: een lijst met waarden van hetzelfde gegevenstype</li><li>Open keuze: Selecteer een item in een lijst met vooraf gedefinieerde waarden of voer vrije tekst in. Kan alleen van het gegevenstype String of Integer zijn</li><li>Gesloten keuze: selecteert u een item in een lijst met vooraf gedefinieerde waarden (een pop-up- of keuzelijst met invoervak)</li></ul> |
 | Gegevenstype | Maak een keuze uit de volgende beschikbare typen: <ul><li>String</li><li>Geheel</li><li>Float</li><li>Ja/Nee (Boolean)</li><li>Datum</li></ul> |
@@ -217,7 +220,7 @@ Wanneer de eigenschap de structuur Open Keuze of Gesloten Keuze heeft, moet u te
 
 | Eigenschap | Beschrijving |
 |--- |--- |
-| ID | Technische identificatie voor deze waarde. De id is niet zichtbaar in de Klassieke UI van de Dynamische Media, maar wordt gebruikt wanneer de meta-gegevens voor een element in het XMP en het gegevensbestand worden opgeslagen. De id wordt gebruikt in zoekopdrachten op de Metagegevensserver. De id mag geen spaties bevatten. Nadat de id is gemaakt, kan deze niet worden gewijzigd. |
+| ID | Technische identificatie voor deze waarde. De id is niet zichtbaar in de klassieke gebruikersinterface van Dynamic Media, maar wordt gebruikt wanneer metagegevens voor een element worden opgeslagen in het XMP en de database. De id wordt gebruikt in zoekopdrachten op de Metagegevensserver. De id mag geen spaties bevatten. Nadat de id is gemaakt, kan deze niet worden gewijzigd. |
 | Label | UI-naam voor deze waarde. |
 
 >[!MORELIKETHIS]
