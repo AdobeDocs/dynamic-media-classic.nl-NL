@@ -28,13 +28,13 @@ In tekstlaagparameters kunt u de tekstreeks ook een dynamisch veld maken dat is 
 
 U kunt meerdere keren naar een parameter verwijzen. Gebruik de keuzelijst met invoervak voor elke opdracht in het parameterdialoogvenster om een parameter te selecteren die overeenkomt met die opdracht. (Alle grootteparameters zijn bijvoorbeeld beschikbaar voor de opdracht size=, enz.). U kunt de parameterverwijzing aan om het even welke parameter opnieuw toewijzen reeds in de combodoos, en aan iets anders noemen niet in de combodoos. In het laatste geval moet de naam uniek zijn. Anders wordt bij een fout aangegeven dat de parameter al bestaat. Wanneer u een parameterverwijzing verwijdert, wordt de parameter verwijderd uit de URL als nergens anders naar wordt verwezen. Wanneer u de standaardwaarde voor een tekstparameter wijzigt, worden alle verwijzingen naar die parameterupdate. U kunt de update in de laaglijst, in het teruggeven van het malplaatje, en in URL zien. Wanneer u een laagattribuut door te manipuleren resize handvatten of het typen in waarden in het bezitspaneel verandert, wordt de parameterwaarde bijgewerkt en alle verwijzingen naar de parameterupdate. Als u bijvoorbeeld de grootte van twee lagen hebt bepaald met behulp van één parameter, worden beide laaggrootten bijgewerkt wanneer een van de laaggrootten wordt gewijzigd. Wanneer u een voorbeeld van een sjabloon bekijkt en een parameter wijzigt, worden alle verwijzingen naar die parameter bijgewerkt.
 
-## Een laag parameters geven {#parameterizing-a-layer}
+## Een laag {#parameterizing-a-layer} parametereren
 
 Voer voor elke laag in de sjabloon de volgende stappen uit om sjabloonparameters te maken:
 
 1. Selecteer in de lijst Lagen de knop Parameters naast de naam van de laag waarvoor u parameters wilt maken. Het scherm Parameters wordt geopend. De naam van elke parameter in de laag, de waarde en het type worden weergegeven.
 1. Selecteer de optie Aan naast de naam van elke parameter die u in de sjabloonafbeelding wilt opnemen.
-1. Selecteer **Sluiten** om het scherm van Parameters weg te gaan.
+1. Selecteer **Close** om het scherm van Parameters weg te gaan.
 
 >[!NOTE]
 >
@@ -42,7 +42,7 @@ Voer voor elke laag in de sjabloon de volgende stappen uit om sjabloonparameters
 
 Om een lijst van de parameters te zien u voor uw malplaatje hebt gecreeerd, selecteer de Samenvatting van de Parameter knoop op het scherm van het Malplaatje. Het scherm Parameter Summary wordt geopend. De naam van elke laag wordt weergegeven en als u parameters voor een laag hebt gemaakt, worden de namen en waarden van de parameters weergegeven.
 
-## Dynamische-tekstparameters maken {#creating-dynamic-text-parameters}
+## Dynamische-tekstparameters {#creating-dynamic-text-parameters} maken
 
 Voor tekstlagen kunt u bovendien van de tekstreeks een dynamisch veld maken dat is gekoppeld aan een databasewaarde. Voer de volgende stappen uit:
 
