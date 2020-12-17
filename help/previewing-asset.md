@@ -18,11 +18,11 @@ ht-degree: 0%
 ---
 
 
-# Een voorvertoning van een element weergeven{#previewing-an-asset}
+# Een voorvertoning weergeven van een element{#previewing-an-asset}
 
 Met Voorvertonen kunt u zien hoe een digitaal element eruitziet wanneer het door een klant wordt bekeken. In Voorvertoning wordt de standaardviewer gebruikt die aan het element is toegewezen. Standaardviewers worden geconfigureerd in de toepassingsinstellingen.
 
-Zie Standaardviewers [configureren](application-setup.md#configuring_default_viewers).
+Zie [Standaardviewers configureren](application-setup.md#configuring_default_viewers).
 
 Als u een voorbeeld van een sjabloonelement met parameterlagen bekijkt, kunt u de parameters wijzigen of de voorinstelling van de afbeelding wijzigen. Omdat de wijzigingen inline worden aangebracht, kunt u de resultaten direct vanuit hetzelfde voorvertoningsvenster bekijken.
 
@@ -42,7 +42,7 @@ Zie ook [Adobe Viewers Reference Library Examples](https://landing.adobe.com/en/
    * Selecteer één element in het venster Middelen van de rasterweergave of de lijstweergave en klik vervolgens op Voorvertoning bij de miniatuurafbeelding.
    * Klik op Voorvertoning op de werkbalk boven het middelenvenster van de rasterweergave, lijstweergave of detailweergave.
 
-## Een voorvertoning weergeven van een element op basis van het viewerplatformtype {#previewing-an-asset-based-on-viewer-platform-type}
+## Een voorvertoning weergeven van een element op basis van het type viewerplatform {#previewing-an-asset-based-on-viewer-platform-type}
 
 U kunt de Lijst van de Kijker gebruiken om te voorproef hoe een middel op bepaald type van kijkersplatform zoals HTML5 verschijnt. Afhankelijk van het elementtype en de bijbehorende viewer die u hebt geselecteerd voor voorvertoning, zijn niet alle platforms beschikbaar in de Viewer List.
 
@@ -59,7 +59,7 @@ Voor een bepaald viewerplatform kunt u in het venster Lijst met viewers visueel 
    * Klik rechts van de werkbalk boven het middelenvenster op Lijstweergave. Selecteer één element in het venster Middelen en klik vervolgens rechts van de miniatuurafbeelding op Voorvertoning > Viewer List.
    * Klik rechts van de werkbalk boven het middelenvenster op Gedetailleerde weergave. Klik op Voorvertoning > Viewer List op dezelfde werkbalk.
 
-1. (Optioneel) Klik in het venster Viewer List op de kolomkop **Naam** of het type **** Platform om de kolom in op- of aflopende volgorde te sorteren.
+1. (Optioneel) Klik in het venster Viewer List op de kolomkop **Naam** of **Platform type** om de kolom in oplopende of aflopende volgorde te sorteren.
 1. Klik in het venster Viewer List onder de kolom Acties van de tabel op Voorvertoning om te zien hoe het element wordt weergegeven voor een geselecteerde viewer en platformtype.
 
    Sluit de weergegeven voorvertoning om terug te keren naar het venster Viewer List.
@@ -79,15 +79,15 @@ Voor een bepaald viewerplatform kunt u in het venster Lijst met viewers visueel 
 
 1. Klik in de rechterbenedenhoek van het venster Viewer List op Close om terug te keren naar het scherm Assets.
 
-## Een voorvertoning weergeven van een afbeeldingselement op basis van de voorinstelling voor afbeelding {#previewing-an-image-asset-based-on-its-image-preset}
+## Een voorvertoning weergeven van een afbeeldingselement op basis van de voorinstelling {#previewing-an-image-asset-based-on-its-image-preset}
 
 U kunt een voorvertoning van een afbeeldingselement weergeven op basis van de voorinstelling Afbeelding om te zien hoe de afbeelding eruitziet wanneer deze dynamisch bij verschillende formaten wordt geleverd aan uw website of toepassing.
 
 Een voorinstelling voor afbeeldingen is een verzameling vooraf gedefinieerde instellingen die de grootte, afbeeldingskwaliteit, indeling, resolutie en andere aspecten van de weergave van een afbeelding tijdens het exporteren wijzigen.
 
-Zie [Voorinstellingen](setting-image-presets.md#setting_up_image_presets)afbeelding instellen.
+Zie [Voorinstellingen voor afbeeldingen instellen](setting-image-presets.md#setting_up_image_presets).
 
-Zie [Voorinstellingen](creating-enabling-image-presets.md#creating_and_enabling_image_presets)voor afbeeldingen maken en inschakelen.
+Zie [Voorinstellingen voor afbeeldingen maken en inschakelen](creating-enabling-image-presets.md#creating_and_enabling_image_presets).
 
 **Een voorvertoning van een afbeeldingselement weergeven op basis van de voorinstelling Afbeelding**
 
