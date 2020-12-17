@@ -20,9 +20,9 @@ ht-degree: 0%
 
 # Systeemvereisten {#system-requirements}
 
-Voor de beste ervaring met het gebruik van Dynamic Media Classic desktop app zorgt u ervoor dat uw systeem voldoet aan de volgende systeemvereisten en aanbevelingen:
+Voor de beste ervaring met de Dynamic Media Classic desktop app moet u ervoor zorgen dat uw systeem voldoet aan de volgende systeemvereisten en aanbevelingen:
 
-* Microsoft® Windows® 7 of hoger of MacOS X 10.6 of hoger Macintosh® Intel-processor vereist.
+* Microsoft® Windows® 7 of hoger of MacOS X 10.6 of hoger vereist Macintosh® Intel-processor.
 * 3 GB RAM of hoger vereist (4 GB of hoger aanbevolen).
 * Kleurenmonitor.
 * Videokaart met ondersteuning voor True Color bij een resolutie van 1280 x 1024 of hoger.
