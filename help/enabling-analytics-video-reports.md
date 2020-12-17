@@ -20,17 +20,17 @@ ht-degree: 0%
 
 # Adobe Analytics-videorapporten inschakelen{#enabling-adobe-analytics-video-reports}
 
-Als u Adobe Analytics gebruikt voor videoverslagen op basis van hartslag, hoeft u de vier videoviewergebeurtenissen (Play, Pause, Stop, Milestone) niet meer in te schakelen wanneer u Adobe Analytics configureert in Dynamic Media Classic. De video-hartslag werkt met uit-de-doos Dynamic Media Klassieke HTML5 Video en MixedMedia kijkers. De videospeler genereert trackinggegevens voor weergave in Adobe Analytics-videoverslagen.
+Met Adobe Analytics-videoverslagen op basis van hartslag hoeft u de vier videoviewergebeurtenissen (Play, Pause, Stop, Milestone) niet meer in te schakelen wanneer u Adobe Analytics configureert in Dynamic Media Classic. De functie Videohartslag werkt met Dynamic Media Classic HTML5 Video- en MixedMedia-viewers die niet in de verpakking staan. De videospeler genereert trackinggegevens voor weergave in Adobe Analytics Video Reports.
 
-* De integratie van Adobe Analytics-videoverslagen met Dynamic Media Classic ondersteunt oplossingsvariabelen, maar niet aangepaste variabelen.
+* De integratie van Adobe Analytics-videorapporten met Dynamic Media Classic ondersteunt oplossingsvariabelen, maar niet aangepaste variabelen.
 
-   Zie Analytics Video Reporting [](https://microsite.omniture.com/t2/help/en_US/sc/appmeasurement/hbvideo/video_analytics_config.html) configureren voor meer informatie over oplossingsvariabelen en aangepaste variabelen.
+   Zie [Analysevideo Rapportage](https://microsite.omniture.com/t2/help/en_US/sc/appmeasurement/hbvideo/video_analytics_config.html) voor meer informatie over oplossingsvariabelen en douanevariabelen vormen.
 
 * De uit-van-de-doos segmenten van één minieme toename worden gesteund. Aangepaste segmentrapportage, zoals door de klant gedefinieerde mijlpalen op basis van tijdstappen, procentuele mijlpaal of verschuivingsmijlpalen, wordt echter niet ondersteund.
 
-Zie Video [meten in Adobe Analytics met behulp van videolescore](https://microsite.omniture.com/t2/help/en_US/sc/appmeasurement/hbvideo/)voor meer informatie over de vereisten en instellingen voor de hartslag van video.
+Zie [Video meten in Adobe Analytics met Video Heartmaatwerk](https://microsite.omniture.com/t2/help/en_US/sc/appmeasurement/hbvideo/) voor meer informatie over de vereisten en instellingen voor de grafische videodemo.
 
 >[!NOTE]
 >
->Als uw gelicentieerde oplossing van Adobe Analytics Video Heartbeat niet bevat, moet u de in dit hoofdstuk beschreven stappen blijven gebruiken om Adobe Analytics-variabelen toe te wijzen aan Dynamic Media Classic viewer-gebeurtenissen en -variabelen.
+>Als uw gelicentieerde oplossing van Adobe Analytics Video Heartbeat niet omvat, zult u de stappen moeten blijven gebruiken die in dit hoofdstuk worden beschreven om de variabelen van Adobe Analytics aan de gebeurtenissen en de variabelen van de Klassieke van Dynamic Media toe te wijzen.
 
