@@ -18,7 +18,7 @@ ht-degree: 0%
 ---
 
 
-# Automatisch genereren van afbeeldingsset{#automated-image-set-generation}
+# Generatie van automatische afbeeldingsset{#automated-image-set-generation}
 
 <!-- 
 
@@ -34,12 +34,12 @@ U kunt instellen automatiseren als een onafhankelijke taak die niet afhankelijk 
 
 **Genereren van afbeeldingsset automatiseren**
 
-1. Klik op **Bestand** > Set **genereren**.
+1. Klik **Bestand** > **Set genereren**.
 1. Geef een taaknaam op in het dialoogvenster Set genereren.
 
    Standaard krijgt de taak een naam die aangeeft dat het een gegenereerde taak is en wanneer de taak is gegenereerd.
 
 1. Selecteer de voorinstelling die u wilt toepassen.
-1. Klik op **Doelmap** en geef de map op die u wilt gebruiken.
-1. Klik op **Verzenden**.
+1. Klik **Doelmap** en geef de map op die u wilt gebruiken.
+1. Klik **Verzenden**.
 
