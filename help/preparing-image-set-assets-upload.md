@@ -20,13 +20,13 @@ ht-degree: 0%
 
 # Afbeeldingsset-elementen voorbereiden voor uploaden{#preparing-image-set-assets-for-upload}
 
-Voordat u de afbeeldingen die u nodig hebt voor Afbeeldingssets uploadt naar Dynamic Media Klassiek, moet u ervoor zorgen dat de afbeeldingen de juiste grootte en indeling hebben.
+Voordat u de afbeeldingen die u nodig hebt voor Afbeeldingssets uploadt naar Dynamic Media Classic, moet u ervoor zorgen dat de afbeeldingen de juiste grootte en indeling hebben.
 
 Als u een Afbeeldingsset met meerdere weergaven wilt maken, hebt u afbeeldingen nodig die een item vanuit verschillende gezichtspunten weergeven of verschillende aspecten van hetzelfde item weergeven. Het doel is om de belangrijke kenmerken van een item te benadrukken, zodat gebruikers een volledig beeld hebben van hoe het eruit ziet of werkt.
 
 Omdat gebruikers kunnen inzoomen op afbeeldingen in Afbeeldingssets, moet u ervoor zorgen dat de afbeeldingen ten minste 2000 pixels groot zijn. Dynamic Media Classic ondersteunt veel bestandsindelingen voor afbeeldingen, maar het wordt aanbevolen afbeeldingen zonder verlies in de indeling TIFF, PNG en EPS te gebruiken.
 
-Zie Bestanden [uploaden](uploading-files.md#uploading_files)voor gedetailleerde instructies over het uploaden van elementen.
+Zie [Bestanden uploaden](uploading-files.md#uploading_files) voor gedetailleerde instructies voor het uploaden van elementen.
 
 >[!MORELIKETHIS]
 >
