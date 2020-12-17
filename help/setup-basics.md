@@ -18,9 +18,9 @@ ht-degree: 0%
 ---
 
 
-# Basisbeginselen van instellingen{#setup-basics}
+# Basisbeginselen instellen{#setup-basics}
 
-Gebruik het Klassieke scherm van de Opstelling van Dynamic Media om uw persoonlijke montages in te gaan. Als u een beheerder bent, opstelling uw bedrijfmontages. Klik op de knop Setup op de algemene navigatiebalk om het scherm Setup te openen.
+Gebruik het scherm van de Opstelling van Dynamic Media Klassieke om uw persoonlijke montages in te gaan. Als u een beheerder bent, opstelling uw bedrijfmontages. Klik op de knop Setup op de algemene navigatiebalk om het scherm Setup te openen.
 
 Welke instellingen beschikbaar zijn op dit scherm, is afhankelijk van uw status als gebruiker of beheerder:
 
@@ -29,13 +29,15 @@ Welke instellingen beschikbaar zijn op dit scherm, is afhankelijk van uw status 
 
 Beheerders kunnen ook voorinstellingen voor afbeeldingen en Viewer-voorinstellingen instellen in het scherm Setup:
 
-* **Voorinstellingen** voor afbeeldingen zijn opgeslagen indelingen voor het weergeven van master afbeeldingen in verschillende formaten en formaten.
+* **Voorinstellingen**
+afbeeldingVoorinstellingen afbeelding zijn opgeslagen indelingen voor de weergave van master afbeeldingen in verschillende formaten en formaten.
 
-* **Viewer stelt** Viewer-voorinstellingen in om te bepalen hoe rijke media worden weergegeven wanneer deze in een viewer worden weergegeven.
+* **Viewer**
+VoorinstellingenViewer bepaalt hoe rijke media worden weergegeven wanneer deze in een viewer worden weergegeven.
 
 >[!MORELIKETHIS]
 >
->* [Dynamic Media Klassieke gebruikersrollen en -rechten](administration-setup.md#user_administration)
+>* [Dynamic Media Classic-gebruikersrollen en -rechten](administration-setup.md#user_administration)
 >* [Voorinstellingen afbeelding](application-setup.md#image_presets)
 >* [Voorinstellingen viewer](application-setup.md#viewer_presets)
 
