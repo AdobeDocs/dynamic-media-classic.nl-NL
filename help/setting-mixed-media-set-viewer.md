@@ -18,17 +18,17 @@ ht-degree: 0%
 ---
 
 
-# Een voorinstelling voor een gemengde mediaset in de viewer instellen{#setting-up-a-mixed-media-set-viewer-preset}
+# Een voorinstelling voor een gemengde mediaset instellen{#setting-up-a-mixed-media-set-viewer-preset}
 
 Met voorinstellingen voor gemengde mediaset bepaalt u de stijl, het gedrag en de vormgeving van de hoofdviewer. Wanneer u een voorinstelling configureert, geeft u op welke andere viewers u in de gemengde Media Viewer wilt weergeven. Als u bijvoorbeeld een Afbeelding hebt opgenomen die is ingesteld in uw gemengde mediaset, geeft u een voorinstelling voor de afbeeldingsset Viewer op voor de viewer met gemengde mediaset.
 
 U kunt alle of sommige gemeenschapseigenschappen in de Gemengde Kijker van de Dataset opnemen. Met de functie Insluiten voegt u een koppeling toe aan de viewer waarmee gebruikers de code kunnen kopiëren die nodig is om de viewer weer te geven op een externe pagina (zoals een blog, website of sociale netwerksite). De functie Koppelen biedt de URL naar de viewer, zodat gebruikers een koppeling naar deze viewer kunnen maken. De functie Bezoek bevat een koppeling naar de website die u opgeeft.
 
-1. Klik op **Instellen** > Voorinstellingen **van viewer**.
+1. Klik **Setup** > **Viewer Presets**.
 1. Voer een van de volgende handelingen uit op de pagina Voorinstellingen viewer:
 
-   * Klik op **Toevoegen** om een nieuwe voorinstelling te maken. Kies in het dialoogvenster Voorinstelling viewer toevoegen een platform, kies de viewer voor gemengde mediaset en klik op **Toevoegen**.
-   * Als u een voorinstelling voor een gemengde mediaset wilt bewerken, selecteert u deze voorinstelling en klikt u op **Bewerken**.
+   * Als u een nieuwe voorinstelling wilt maken, klikt u op **Toevoegen**. Kies in het dialoogvenster Voorinstelling viewer toevoegen een platform, kies de viewer voor gemengde mediaset en klik op **Toevoegen**.
+   * Als u een voorinstelling voor een gemengde mediaset wilt bewerken, selecteert u deze en klikt u op **Bewerken**.
 
    Het scherm Configure Viewer wordt geopend.
 
@@ -36,14 +36,14 @@ U kunt alle of sommige gemeenschapseigenschappen in de Gemengde Kijker van de Da
 1. Geef tabs op of Geen tabs. Met tabs kunt u items op type van elkaar scheiden, zoals video&#39;s, stalen en centrifuges. Wanneer u geen tabbladen opgeeft, worden alle items in een rij onder het voorvertoningsvenster weergegeven.
 1. Typ in het vak Naam een naam voor de viewer die u wilt toevoegen.
 
-   Als u bijvoorbeeld een staal toevoegt dat is ingesteld op de gemengde mediaset, typt u *Staalset A*.
+   Als u bijvoorbeeld een staal toevoegt dat is ingesteld op uw gemengde mediaset, typt u *Staalset A*.
 
 1. Kies in het menu Viewer het type element dat u wilt weergeven, zoals Staalsets.
 1. Kies in het menu Voorinstelling een voorinstelling voor het gekozen elementtype.
 
    Als u bijvoorbeeld een stalenset toevoegt, kiest u SwatchSet1-Kleuren.
 
-1. Klik op **Toevoegen**.
+1. Klik **Add**.
 
    De nieuwe voorinstelling van de viewer wordt weergegeven in de lijst.
 
@@ -55,22 +55,26 @@ U kunt alle of sommige gemeenschapseigenschappen in de Gemengde Kijker van de Da
 
 1. Als u communityfuncties (Insluiten, Koppeling, Bezoek) wilt toevoegen aan de viewer, geeft u opties op voor een van de volgende opties:
 
-   * **E-mail** Klik op Aan om een e-mailknop in de viewer in te schakelen. Wanneer gebruikers op de knop E-mail klikken terwijl ze de set bekijken, wordt een e-mail met de koppeling naar de set geopend.
+   * ****
+E-mailKlik op Aan om een e-mailknop in de viewer in te schakelen. Wanneer gebruikers op de knop E-mail klikken terwijl ze de set bekijken, wordt een e-mail met de koppeling naar de set geopend.
 
-   * **Klik op Live insluiten**. Typ in het vak Label van knop insluiten de naam die u wilt weergeven in de viewer voor de knop Insluiten. Klik desgewenst op 
+   * ****
+EmbedClick Levend. Typ in het vak Label van knop insluiten de naam die u wilt weergeven in de viewer voor de knop Insluiten. Klik desgewenst op 
 **Blader** naar een aangepaste skin voor de knop en selecteer deze.
 
-   * **Klik op Live als koppeling**. Typ in het vak Label van koppelingsknop de naam die u wilt weergeven in de viewer voor de koppelingsknop. Klik desgewenst op 
+   * ****
+LinkClick Live. Typ in het vak Label van koppelingsknop de naam die u wilt weergeven in de viewer voor de koppelingsknop. Klik desgewenst op 
 **Blader** naar een aangepaste skin voor de knop en selecteer deze.
 
-   * **Bezoek** klikken 
+   * ****
+VisitClick 
 **Live**. Typ in het vak Label van bezoekknop de naam die u in de viewer voor de bezoekknop wilt weergeven. Typ in het vak Bezoek-URL de URL naar de website die u wilt openen wanneer op de koppeling wordt geklikt.
 
 1. Geef desgewenst andere opties op. Als u een beschrijving van een optie wilt zien, klikt u op het pictogram Info Tip naast de optie.
 
    In het voorvertoningsscherm wordt de viewer weergegeven terwijl u instellingen bijwerkt en wijzigt.
 
-1. Klik op **Opslaan**.
+1. Klik **Opslaan**.
 
 >[!MORELIKETHIS]
 >
