@@ -18,17 +18,21 @@ ht-degree: 0%
 ---
 
 
-# Gebruikersrollen van Media Portal{#media-portal-user-roles}
+# Gebruikersrollen voor mediaportal{#media-portal-user-roles}
 
 Het Portaal van media verstrekt de volgende rollen, elk met verschillende toegangsrechten en toestemmingen. Wanneer u een gebruiker aanmeldt, wijst u de gebruiker een van de volgende rollen toe:
 
-* **Beheerder** van Media Portal kan beheerders, medewerkers en gebruikers toevoegen en verwijderen. De beheerder kan ook toegangsrechten voor groepen instellen, FTP-accounts beheren, door een bedrijf goedgekeurde conversie-indelingen (voorinstellingen) toewijzen, e-mail naar gebruikers van het Media Portal verzenden en het gebruik en de opslagrapportage van het portaal weergeven.
+* **Media Portal**
+AdministratorBeheerders, medewerkers en gebruikers toevoegen en verwijderen. De beheerder kan ook toegangsrechten voor groepen instellen, FTP-accounts beheren, door een bedrijf goedgekeurde conversie-indelingen (voorinstellingen) toewijzen, e-mail naar gebruikers van het Media Portal verzenden en het gebruik en de opslagrapportage van het portaal weergeven.
 
-* **Gebruikers** van Media Portal hebben toegang tot mappen en bestanden. Een gebruiker kan alleen door bestanden bladeren, deze voorvertonen en downloaden. Deze rol is geschikt voor kanaal of de dienstpartners die toegang tot uw collectief-goedgekeurde activa nodig hebben.
+* **Media Portal**
+Gebruiker heeft toegang tot mappen en bestanden. Een gebruiker kan alleen door bestanden bladeren, deze voorvertonen en downloaden. Deze rol is geschikt voor kanaal of de dienstpartners die toegang tot uw collectief-goedgekeurde activa nodig hebben.
 
-* **Medewerker** van Media Portal kan bestanden en metagegevens uploaden, voorvertonen en doorbladeren in gebieden waarvoor een beheerder machtigingen heeft verleend. Een contribuant kan geen bestanden downloaden. Medewerkers kunnen metagegevens bewerken, de namen van bestanden wijzigen, bestanden naar andere mappen verplaatsen en bestanden verwijderen.
+* **Media Portal**
+ContributorKan bestanden en metagegevens uploaden, voorvertonen en doorbladeren in gebieden waarvoor een beheerder machtigingen heeft verleend. Een contribuant kan geen bestanden downloaden. Medewerkers kunnen metagegevens bewerken, de namen van bestanden wijzigen, bestanden naar andere mappen verplaatsen en bestanden verwijderen.
 
-**Medewerker-gebruiker** van Media Portal heeft toegang tot mappen en bestanden. Een medewerker-gebruiker kan door afbeeldingen en metagegevens bladeren, deze voorvertonen, downloaden en uploaden. Medewerkers kunnen de namen van bestanden wijzigen, bestanden naar andere mappen verplaatsen en bestanden verwijderen.
+**Medewerker-**
+Gebruiker van Media Portal heeft toegang tot mappen en bestanden. Een medewerker-gebruiker kan door afbeeldingen en metagegevens bladeren, deze voorvertonen, downloaden en uploaden. Medewerkers kunnen de namen van bestanden wijzigen, bestanden naar andere mappen verplaatsen en bestanden verwijderen.
 
 In deze tabel worden de taken beschreven die gebruikers met verschillende rollen kunnen uitvoeren. Beheerders en gebruikers die een bijdrage leveren, kunnen alle taken uitvoeren die in deze tabel worden vermeld:
 
