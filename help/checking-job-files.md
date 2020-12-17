@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Taakbestanden controleren{#checking-job-files}
 
-Als u het uploaden van bestanden naar de Dynamic Media Classic wilt controleren en bestanden wilt publiceren naar de Dynamic Media Classic-servers, biedt Dynamic Media Classic de pagina Taken. U kunt het uploaden en publiceren banen op de pagina van Banen herzien, de status van banen controleren, en het annuleren van het publiceren banen van deze pagina. U kunt ook uploads en publicatietaken plannen.
+Dynamic Media Classic biedt de pagina Taken aan om het uploaden van bestanden naar de Dynamic Media Classic te controleren en om bestanden die u publiceert naar de Dynamic Media Classic-servers te controleren. U kunt het uploaden en publiceren banen op de pagina van Banen herzien, de status van banen controleren, en het annuleren van het publiceren banen van deze pagina. U kunt ook uploads en publicatietaken plannen.
 
 Wanneer u elementen uploadt, wordt een draaiend pictogram weergegeven naast het menu Taken. Dit geeft aan dat een taak wordt uitgevoerd en dat het aantal bestanden in uitvoering is. U kunt op het pictogram klikken om meer informatie over de actieve taak weer te geven.
 
@@ -36,23 +36,23 @@ Taken worden in de volgende categorieën op het tabblad Historie van de pagina T
 
 **Taaktype** Een pictogram geeft het taaktype aan: Uploaden en publiceren zijn de meest voorkomende taaktypen.
 
-**Taaknaam** De naam van de taak. De naam bevat het door de gebruiker ingevoerde gedeelte van de naam en de datum- en tijdstempel.
+**TaaknaamDe** naam van de taak. De naam bevat het door de gebruiker ingevoerde gedeelte van de naam en de datum- en tijdstempel.
 
-**Gestart** wanneer de taak is gestart.
+**** StartedWhen the job started.
 
-**Totaal** aantal overgedragen bestanden.
+**** TotaalHet aantal overgedragen bestanden.
 
-**W (waarschuwingen)** Het aantal waarschuwingen in de taak (indien aanwezig). Waarschuwingen geven problemen aan met de taak die geen invloed hadden op de algehele voltooiing van de taak. Deze waarschuwingen kunnen meestal worden genegeerd omdat ze worden gerapporteerd over verborgen bestanden. Bestanden .DS_store (Macintosh) en Thumbs.db (Windows) bevatten bijvoorbeeld informatie over het weergeven van afbeeldingsbestanden voor gebruikers. Waarschuwing-items met betrekking tot deze bestanden kunnen echter worden genegeerd omdat ze geen betrekking hebben op de manier waarop deze bestanden in Dynamic Media Classic worden gebruikt. U kunt dubbelklikken op een taaknaam voor gedetailleerde informatie over waarschuwingen.
+**W (waarschuwingen)** Het aantal waarschuwingen in de taak (indien aanwezig). Waarschuwingen geven problemen aan met de taak die geen invloed hadden op de algehele voltooiing van de taak. Deze waarschuwingen kunnen meestal worden genegeerd omdat ze worden gerapporteerd over verborgen bestanden. Bestanden .DS_store (Macintosh) en Thumbs.db (Windows) bevatten bijvoorbeeld informatie over het weergeven van afbeeldingsbestanden voor gebruikers. Waarschuwingsgegevens voor deze bestanden kunnen echter worden genegeerd omdat ze geen betrekking hebben op de manier waarop deze bestanden in Dynamic Media Classic worden gebruikt. U kunt dubbelklikken op een taaknaam voor gedetailleerde informatie over waarschuwingen.
 
 **E (fouten)** Hier wordt het aantal eventuele fouten in de taak weergegeven. U kunt dubbelklikken op een taaknaam voor gedetailleerde informatie over fouten.
 
-**Duur** Hoe lang het duurde om de baan te voltooien.
+**** DurationHoe lang het duurde om de baan te voltooien.
 
-**Status** geeft de status van de taak weer.
+**** StatusGeeft de status van de taak weer.
 
-**Doel** voor uploadtaken: de bedrijfsnaam en map waarnaar de bestanden zijn geüpload. Deze categorie is niet van toepassing op publicatietaken.
+**** DoelVoor uploadtaken: de bedrijfsnaam en de map waarnaar de bestanden zijn geüpload. Deze categorie is niet van toepassing op publicatietaken.
 
-**Verzonden door** lijsten die de elementen hebben geüpload.
+**Verzonden** doorLists die de elementen hebben geüpload.
 
 ***Opmerking **: U kunt publicatie- en uploadtaken tijdens de uitvoering annuleren door op de knop Annuleren naast de voortgangsbalk te klikken.*
 
@@ -60,17 +60,17 @@ Taken worden in de volgende categorieën op het tabblad Historie van de pagina T
 
 Gebruik deze technieken om taken te sorteren of uw weergave van het tabblad Historie van de pagina Taken te wijzigen:
 
-**Sorteren** Selecteer een kolomnaam om de lijst op een bepaalde kolom te sorteren. U kunt de schakelaar naast de kolomnaam selecteren om in dalende of stijgende orde te sorteren.
+**** SorterenSelecteer een kolomnaam om de lijst op een bepaalde kolom te sorteren. U kunt de schakelaar naast de kolomnaam selecteren om in dalende of stijgende orde te sorteren.
 
-**Datumbereik** Selecteer het menu Datumbereik en kies een optie om de lijst met taken te beperken tot de huidige datum, de vorige week of de vorige maand. Kies Aangepast datumbereik om een specifiek datumbereik in te voeren.
+**Date** RangeSelecteer het menu Datumbereik en kies een optie om de lijst met taken te beperken tot de huidige datum, de vorige week of de vorige maand. Kies Aangepast datumbereik om een specifiek datumbereik in te voeren.
 
-**Taaktype** Selecteer het menu Taaktype en kies Publiceren of Uploaden om de lijst te beperken en taken te publiceren of te uploaden. Kies Alles om beide typen taken weer te geven.
+**TaaktypeSelecteer het menu Taaktype en kies Publiceren of Uploaden om de lijst te beperken en taken te publiceren of te uploaden.** Kies Alles om beide typen taken weer te geven.
 
-**Kies Tonen > Mijn taken of Tonen > Alle taken om de lijst te beperken tot taken die u hebt besteld of tot taken die door mensen in uw bedrijf zijn besteld.**
+**** Kies Tonen > Mijn taken of Tonen > Alle taken om de lijst te beperken tot taken die u hebt besteld of tot taken die door mensen in uw bedrijf zijn besteld.
 
 ## Een rapport met taakdetails weergeven, kopiëren of afdrukken {#viewing-copying-or-printing-a-job-details-report}
 
-Dubbelklik op de naam van een rapport op de pagina Taken om de pagina Taakdetails te openen. Deze pagina bevat een samenvattingsrapport over de bestanden in de taak. Klik het Detail van de Mening om Dynamische Klassieke identiteitskaart van Media van een ingang, bestemmingspad, en statusinformatie te zien. Als u een PDF- of PostScript-bestand hebt geüpload waarvoor fonts nodig zijn die niet beschikbaar zijn in Dynamic Media Classic, worden in het rapport de ontbrekende fonts vermeld.
+Dubbelklik op de naam van een rapport op de pagina Taken om de pagina Taakdetails te openen. Deze pagina bevat een samenvattingsrapport over de bestanden in de taak. Klik op Details weergeven om de klassieke Dynamic Media-id, het bestemmingspad en statusinformatie van een item weer te geven. Als u een PDF- of PostScript-bestand hebt geüpload waarvoor fonts nodig zijn die niet beschikbaar zijn in Dynamic Media Classic, worden in het rapport de ontbrekende fonts vermeld.
 
 U kunt deze gegevens naar het klembord kopiëren.
 
@@ -78,7 +78,7 @@ U kunt deze gegevens naar het klembord kopiëren.
 1. Klik op Details weergeven voor een gedetailleerd rapport over een bericht.
 1. Klik op Kopiëren naar klembord.
 
-## Herhalende upload- en publicatietaken afhandelen {#handling-recurring-upload-and-publish-jobs}
+## Terugkerende upload- en publicatietaken verwerken {#handling-recurring-upload-and-publish-jobs}
 
 Het terugkomen upload en publiceer banen die u op Upload en publiceer pagina&#39;s creeert zijn vermeld op het Geplande lusje van de pagina van Banen. U kunt terugkerende taken op het geplande tabblad bewerken en verwijderen.
 
@@ -88,19 +88,19 @@ Selecteer de knoop van Banen op de Globale bar van de Navigatie en, op de pagina
 >
 >U kunt de takenlijst op het Geplande lusje met het Type van Baan en tonen menu&#39;s filtreren. Kies een taaktype om de lijst te beperken en taken van een bepaald type te publiceren. Kies een optie Tonen om taken weer te geven die u hebt gemaakt of om taken weer te geven die door iedereen in uw bedrijf zijn gemaakt.
 
-### Herhalende taken bewerken, verwijderen, pauzeren en hervatten {#editing-deleting-pausing-and-resuming-recurring-jobs}
+### Terugkerende taken {#editing-deleting-pausing-and-resuming-recurring-jobs} bewerken, verwijderen, pauzeren en hervatten
 
 Selecteer een terugkomende baan op de pagina van Banen en volg deze instructies om het uit te geven of te schrappen:
 
-**Het uitgeven van een terugkomende baan** selecteert de Edit knoop en gaat planningsinformatie in het Edit Geplande de dialoogvakje van de Baan in. Kies Herhalen > Aangepast als u wilt dat de taak met een door u gekozen interval opnieuw wordt uitgevoerd.
+**Een terugkerende** taak bewerkenSelecteer de knop Bewerken en voer planningsgegevens in het dialoogvenster Geplande taak bewerken in. Kies Herhalen > Aangepast als u wilt dat de taak met een door u gekozen interval opnieuw wordt uitgevoerd.
 
-Zie Tijdinterval [](checking-job-files.md#creating_a_custom_upload_or_publish_job_time_interval)voor aangepaste uploads of publicatietaken maken.
+Zie [Een aangepaste upload- of publiceertaaktijdinterval maken](checking-job-files.md#creating_a_custom_upload_or_publish_job_time_interval).
 
-**Een terugkerende taak** verwijderen Selecteer de knop Verwijderen.
+**Een terugkerende** taak verwijderenSelecteer de knop Verwijderen.
 
-**Een terugkerende taak** onderbreken (en hervatten) in de kolom Actief schakelt u het selectievakje uit om een taak te pauzeren. Schakel een selectievakje in om een gepauzeerde taak te hervatten.
+**Een terugkerende** taak onderbreken (en hervatten). Schakel een selectievakje uit om een taak te pauzeren in de kolom Actief. Schakel een selectievakje in om een gepauzeerde taak te hervatten.
 
-### Aangepaste upload- of publicatietaaktijdintervallen maken {#creating-a-custom-upload-or-publish-job-time-interval}
+### Een aangepast taaktijdinterval voor uploaden of publiceren maken {#creating-a-custom-upload-or-publish-job-time-interval}
 
 Als u een aangepast tijdinterval wilt maken voor een upload (via FTP) of een publicatietaak, kiest u Herhalen > Aangepast op de pagina Uploaden of Publiceren. Dan ga aantallen en vervangingen in het vakje van de Regel in om een tijdinterval voor te beschrijven uploaden of te publiceren banen om opnieuw te komen.
 
@@ -108,7 +108,7 @@ De syntaxis voor het beschrijven van aangepaste upload en publicatietijdinterval
 
 `[seconds]` `[minutes]` `[hour of day]` `[day of month]` `[month]` `[day of week]`
 
-Bijvoorbeeld, plant `0 15 10 * * ?` een baan om 10:15.00 elke dag.
+`0 15 10 * * ?` plant bijvoorbeeld elke dag een taak om 10:15.00 uur.
 
 De volgende lijsten en de lijst verklaren hoe te om een tijdinterval in de doos van de Regel te beschrijven.
 
@@ -135,7 +135,7 @@ In deze tabel worden de jokertekens beschreven die zijn toegestaan in het vak Re
 | - | Afbreekstreepje | Waardenbereik (bijvoorbeeld &quot;Maandag tot vrijdag&quot;). |
 | / | slash | Toename (bijvoorbeeld &quot;om de 15 minuten&quot;). |
 | L | Kapitaal L | Laatste &quot;dag van de maand&quot; of &quot;dag van de week&quot; (alleen beschikbaar voor deze velden). Als de maand bijvoorbeeld januari is, plant een L-waarde voor het veld &quot;dag van de maand&quot; de taak voor 31 januari. Voor het veld &quot;dag van de week&quot; kunt u dit teken alleen invoeren om de taak op zaterdag te plannen. U kunt dit met een getal (bijvoorbeeld 6L) gebruiken om de laatste vrijdag van de maand op te geven. Geef geen L op met de jokertekens voor komma&#39;s of afbreekstreepjes. |
-| # | Nummerteken | &quot;Nde&quot; weekdag van de maand (alleen beschikbaar voor het veld &quot;dag van de week&quot;).Zo geeft 6#3 in het veld &quot;dag van de week&quot; de derde vrijdag van de maand aan. De 6 staat voor &quot;Vrijdag&quot; (de zesde dag van de week) en de 3 staat voor het derde exemplaar in de maand. |
+| Aantal | Nummerteken | &quot;Nde&quot; weekdag van de maand (alleen beschikbaar voor het veld &quot;dag van de week&quot;).Zo geeft 6#3 in het veld &quot;dag van de week&quot; de derde vrijdag van de maand aan. De 6 staat voor &quot;Vrijdag&quot; (de zesde dag van de week) en de 3 staat voor het derde exemplaar in de maand. |
 | C | # Kapitaal C | Eerste kalender &quot;dag van de maand&quot; of &quot;dag van de week&quot; (alleen beschikbaar voor deze velden). Als u bijvoorbeeld de waarde 1C opgeeft voor &quot;dag van de maand&quot;, wordt de eerste dag in de kalender gepland die op of na de vijfde dag plaatsvindt. Voor het veld &quot;dag van de week&quot; geeft u 1C op, die de eerste dag in de kalender aangeeft die op of na zondag plaatsvindt. |
 
 In deze lijst staan voorbeelden van tijdintervallen in het vak Regel:
