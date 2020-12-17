@@ -20,15 +20,15 @@ ht-degree: 0%
 
 # Zoomafbeeldingen publiceren{#publishing-zoom-images}
 
-Wanneer u zoom-afbeeldingen publiceert, worden deze op Dynamic Media Image Servers geplaatst, zodat ze beschikbaar zijn op uw website en toepassing. Als onderdeel van het publicatieproces activeert Dynamic Media Classic de URL-tekenreeksen. U kunt deze URL-tekenreeksen in de HTML-code van uw website plaatsen.
+Bij het publiceren worden uw zoomafbeeldingen op Dynamic Media Image Servers geplaatst, zodat ze beschikbaar kunnen worden gesteld op uw website en toepassing. Als onderdeel van het publicatieproces activeert Dynamic Media Classic de URL-tekenreeksen. U kunt deze URL-tekenreeksen in de HTML-code van uw website plaatsen.
 
 ## Afbeeldingen markeren voor publicatie {#marking-images-for-publish}
 
-Afbeeldingen moeten zijn gemarkeerd voor publicatie, zodat ze naar Dynamic Media Image Servers kunnen worden gekopieerd. U kunt uw afbeeldingen voor publicatie markeren in het deelvenster Bladeren door het pictogram **Markeren voor publiceren** te selecteren. U kunt afbeeldingen ook markeren voor publicatie wanneer u ze uploadt.
+Afbeeldingen moeten zijn gemarkeerd voor publicatie om naar Dynamic Media Image Servers te kunnen worden gekopieerd. U kunt uw afbeeldingen markeren voor publicatie in het deelvenster Bladeren door het pictogram **Markeren voor publiceren** te selecteren. U kunt afbeeldingen ook markeren voor publicatie wanneer u ze uploadt.
 
-## De afbeeldingen publiceren {#publishing-the-images}
+## Afbeeldingen {#publishing-the-images} publiceren
 
-Als u zoomafbeeldingen wilt publiceren, klikt u eerst op **Publiceren** op de algemene navigatiebalk. Selecteer vervolgens een optie **Wanneer (One-Time of Recurring)**, geef desgewenst een naam voor de publicatietaak op en klik op **Publiceren** starten.
+Als u zoomafbeeldingen wilt publiceren, klikt u eerst op **Publiceren** op de algemene navigatiebalk. Selecteer vervolgens een **When-optie (One-Time of Recurring)**, geef desgewenst een naam voor de publicatietaak op en klik op **Publiceren starten**.
 
 >[!MORELIKETHIS]
 >
