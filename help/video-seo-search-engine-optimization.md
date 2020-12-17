@@ -18,15 +18,15 @@ ht-degree: 0%
 ---
 
 
-# Video-SEO (Optimalisatie zoekmachine){#video-seo-search-engine-optimization}
+# Video-SEO (Optimalisatie zoekengine){#video-seo-search-engine-optimization}
 
 SEO is het proces om het volume van verkeer aan een Website van onderzoeksmotoren te verbeteren. Terwijl zoekmachines uitblinken in het verzamelen van informatie over op tekst gebaseerde inhoud, kunnen ze geen informatie over video adequaat verkrijgen tenzij deze informatie aan hen wordt verstrekt.
 
-Met Dynamic Media Classic Video SEO kunt u videometagegevens gebruiken om zoekprogramma&#39;s beschrijvingen van uw video&#39;s te bieden. Met Dynamic Media Classic kunt u videositemaps en mRSS-feeds maken. Dit zijn standaard XML-bestanden voor het verzenden van videogegevens naar zoekprogramma&#39;s:
+Met Dynamic Media Classic Video SEO kunt u videometagegevens gebruiken om zoekprogramma&#39;s beschrijvingen van uw video&#39;s te geven. Met Dynamic Media Classic kunt u video-items en MRSS-feeds maken. Dit zijn standaard XML-bestanden voor het verzenden van videogegevens naar zoekprogramma&#39;s:
 
-**Met Video Sitemap** wordt Google precies aangegeven waar en wat de video-inhoud op een site is. Daarom kunnen video&#39;s volledig worden doorzocht op Google. Een videositemap kan bijvoorbeeld de actieve tijd en de categorieën video&#39;s opgeven. Ga naar https://www.google.com/support/webmasters/bin/answer.py?answer=80471 voor informatie over videodemo&#39;s.
+**Video** SitemapHiermee wordt Google precies aangegeven waar en wat de video-inhoud op een site is. Daarom kunnen video&#39;s volledig worden doorzocht op Google. Een videositemap kan bijvoorbeeld de actieve tijd en de categorieën video&#39;s opgeven. Ga naar https://www.google.com/support/webmasters/bin/answer.py?answer=80471 voor informatie over videodemo&#39;s.
 
-**MRSS-feed** (Media Echt eenvoudige syntaxis) Gebruikt door uitgevers van inhoud om mediabestanden naar Yahoo te sturen! Video zoeken. Zie https://www.rssboard.org/media-rss voor informatie over mRSS-feeds.
+**mRSS-** feed (Media werkelijk eenvoudige synchronisatie)Gebruikt door uitgevers van inhoud om mediabestanden naar Yahoo te sturen! Video zoeken. Zie https://www.rssboard.org/media-rss voor informatie over mRSS-feeds.
 
 >[!NOTE]
 >
@@ -42,7 +42,7 @@ Dynamic Media Classic maakt rapporten over videositemaps en mRSS-feeds nadat u d
 
 >[!NOTE]
 >
->Voor de videobeelden Sitemaps en de feeds mRSS, vangen de Dynamische Klassieke Media slechts meta-gegevens van video&#39;s die voor publiceren duidelijk zijn. Markeer video&#39;s die u wilt publiceren om de bijbehorende metagegevens op te nemen in Video-items en MRSS-feeds.
+>Voor de videobeelden Sitemaps en de feeds mRSS, legt de Classic van Dynamic Media meta-gegevens slechts van video&#39;s vast die voor publicatie worden gemerkt. Markeer video&#39;s die u wilt publiceren om de bijbehorende metagegevens op te nemen in Video-items en MRSS-feeds.
 
 ## Video-SEO-instellingen kiezen {#choosing-video-seo-settings}
 
@@ -56,31 +56,31 @@ Nadat u de instellingen hebt gekozen, klikt u op Genereren (of Opslaan en genere
 
 Voor de drop-down lijst van de Wijze van de Generatie, kies een rapportwijze:
 
-**Videositemap** Een videositemap maken.
+**Video-** SitemapMaak een videositemap.
 
-**mRSS-feed** Maak een Media RSS-feed (mRSS).
+**mRSS** FeedMaak een Media RSS-feed (mRSS).
 
 **Beide** maken beide typen XML-bestanden.
 
-**Uit** Kies deze optie om te stoppen met het genereren van videositemaps en een Media RSS-feeds (mRSS).
+**** UitKies deze optie om te stoppen met het genereren van video-items en een Media RSS-feeds (mRSS).
 
 Kies in de vervolgkeuzelijst Automatische modus/Handmatige modus of u automatisch of handmatig wilt genereren:
 
-**Met Automatische modus** Dynamische media Classic worden elke dag automatisch één videositemap, Media RSS-feed (mRSS) of beide gegenereerd. Kies de optie Markeren voor publiceren om het XML-bestand dat Dynamic Media Classic genereert, automatisch te markeren voor publicatie.
+**Automatische** modusDynamische media Klassiek genereert elke dag automatisch één videositemap, Media RSS (mRSS)-feed of beide. Kies de optie Markeren voor publiceren om het XML-bestand dat door Dynamic Media Classic wordt gegenereerd, automatisch te markeren voor publicatie.
 
-**Met de modus** Handmatig Dynamic Media Classic wordt de feed Video Sitemap, Media RSS (mRSS) of beide gegenereerd wanneer u op Genereren of Opslaan en genereren klikt in het scherm Optimalisatie-instellingen voor video zoeken. Kies ook de volgende opties:
+**Handmatige** modusDynamische media Klassiek genereert de video Sitemap, Media RSS (mRSS)-feed of beide wanneer u op Genereren of Opslaan en genereren klikt in het scherm Optimalisatie-instellingen voor video zoeken. Kies ook de volgende opties:
 
-**Geen andere instellingen** markeert het gegenereerde XML-bestand niet voor publicatie.
+**Geen verdere** SettingsMarkeert niet voor het publiceren van het dossier van XML dat wordt geproduceerd.
 
-**Markeren voor publicatietekens** om het gegenereerde XML-bestand te publiceren.
+**Markeren voor** PublishMarks voor het publiceren van het XML-bestand dat wordt gegenereerd.
 
-**Zoekprogramma&#39;s voor gedeeltelijke generatie** toestaan kan een XML-bestand afwijzen als het niet alle metagegevens voor alle video&#39;s bevat. Met deze optie wordt het XML-bestand gegenereerd, zelfs als er voor bepaalde video&#39;s geen metagegevens beschikbaar zijn. Een waarschuwing wordt geregistreerd op het scherm van het Rapport. Kies deze optie als u het XML-bestand wilt exporteren en de ontbrekende gegevens handmatig wilt verwerken.
+**Partial** GenerationSearch engines toestaan kan een XML-bestand afwijzen als het niet alle metagegevens voor alle video&#39;s bevat. Met deze optie wordt het XML-bestand gegenereerd, zelfs als er voor bepaalde video&#39;s geen metagegevens beschikbaar zijn. Een waarschuwing wordt geregistreerd op het scherm van het Rapport. Kies deze optie als u het XML-bestand wilt exporteren en de ontbrekende gegevens handmatig wilt verwerken.
 
 ### Generatie-instellingen kiezen {#choosing-generation-settings}
 
-In het gebied Instellingen genereren worden invoervelden voor de videospecificatie en/of de MRSS-feed weergegeven en in het deelvenster Metagegevens worden de namen van metagegevensvelden weergegeven. In het gedeelte Algemene instellingen kunt u invoervelden toewijzen aan metagegevensvelden. Op deze manier geeft u aan Dynamic Media Classic door waar u metagegevens voor de videositemap en/of mRSS-feed kunt ophalen.
+In het gebied Instellingen genereren worden invoervelden voor de videospecificatie en/of de MRSS-feed weergegeven en in het deelvenster Metagegevens worden de namen van metagegevensvelden weergegeven. In het gedeelte Algemene instellingen kunt u invoervelden toewijzen aan metagegevensvelden. Op deze manier geeft u aan Dynamic Media Classic door waar u metagegevens voor de videositemap en/of de MRSS-feed wilt ophalen.
 
-1. Kies een metagegevensweergave in het menu Weergaven Metagegevens. Nadat u een weergave hebt gekozen, worden de namen van metagegevensvelden weergegeven in het deelvenster Metagegevens. (Zie Weergaven van [metagegevens voor informatie over weergaven van metagegevens](application-setup.md#metadata_views).)
+1. Kies een metagegevensweergave in het menu Weergaven Metagegevens. Nadat u een weergave hebt gekozen, worden de namen van metagegevensvelden weergegeven in het deelvenster Metagegevens. (Zie [Weergaven van metagegevens](application-setup.md#metadata_views) voor informatie over weergaven van metagegevens.)
 1. Sleep namen van metagegevensvelden van het deelvenster Metagegevens naar de invoervelden Openingspagina, Titel, Beschrijving, Labels en Categorie. De velden Openingspagina, Titel en Beschrijving zijn vereist.
 
    >[!NOTE]
@@ -95,7 +95,7 @@ In het gebied Instellingen genereren worden invoervelden voor de videospecificat
 >
 >U moet de videospecificaties of de MRSS-feed publiceren voordat u deze kunt verzenden naar zoekprogramma&#39;s. Video Sitemap en Media RSS (mRSS) de voederdossiers worden opgeslagen in de wortelomslag van het bedrijf. Markeer deze XML-bestanden voor publicatie, indien nodig, en klik op Publiceren.
 
-## Video Sitemap- en MRSS-Feed-bestanden verzenden naar zoekprogramma&#39;s {#submitting-video-sitemap-and-mrss-feed-files-to-search-engines}
+## Video Sitemap- en MRSS-Feed-bestanden verzenden naar zoekmachines {#submitting-video-sitemap-and-mrss-feed-files-to-search-engines}
 
 Video Sitemap en Media RSS (mRSS) de voederdossiers worden opgeslagen in de wortelomslag van het bedrijf:
 
@@ -104,7 +104,7 @@ Video Sitemap en Media RSS (mRSS) de voederdossiers worden opgeslagen in de wort
 
 Kopieer een van deze URL&#39;s naar de webstramiengereedschappen van het zoekprogramma om het bestand Video Sitemap of Media RSS (mRSS) naar zoekprogramma&#39;s te verzenden.
 
-## Video SEO-rapporten weergeven {#viewing-video-seo-reports}
+## Video-SEO-rapporten weergeven {#viewing-video-seo-reports}
 
 Bekijk video SEO rapporten over het scherm van het Rapport van de Optimalisering van de Motor van het Onderzoek Video. Klik op Setup > Application Setup > Video SEO > Reports om dit scherm te openen.
 
