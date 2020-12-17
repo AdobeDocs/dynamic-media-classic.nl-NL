@@ -2,7 +2,7 @@
 title: Bronnen voor ontwikkelaars
 seo-title: Bronnen voor ontwikkelaars
 description: 'null'
-seo-description: Meer informatie over de bronnen voor ontwikkelaars die beschikbaar zijn voor Dynamic Media.
+seo-description: Meer informatie over welke bronnen voor ontwikkelaars beschikbaar zijn voor Dynamic Media.
 uuid: 97702f33-fb9c-4ba7-9c42-757dec7e6645
 contentOwner: admin
 content-type: reference
@@ -19,25 +19,25 @@ ht-degree: 6%
 
 # Bronnen voor ontwikkelaars{#developer-resources}
 
-Dynamic Media Classic verstrekt documentatie voor de recentste belangrijkste versie van elke Dynamic Media Klassieke softwaremodule. De documenten van de module zijn beschikbaar voor de Authoring van het Beeld, Klassieke Dynamic Media, de Server van het Beeld en het Teruggeven van het Beeld, en Kijkers.
+Dynamic Media Classic biedt documentatie voor de nieuwste belangrijkste versie van elke Dynamic Media Classic-softwaremodule. De documenten van de module zijn beschikbaar voor de Authoring van het Beeld, Klassiek Dynamic Media, de Server van het Beeld en het Teruggeven van het Beeld, en Kijkers.
 
 De nota&#39;s van de versie zijn ook beschikbaar voor sommige modules. Opmerkingen bij de release bevatten informatie over de release, zoals verbeteringen, nieuwe functionaliteit, tips voor het oplossen van problemen en bekende onopgeloste problemen. Opmerkingen bij de release bevatten ook interactieve voorbeelden van functies voor veelzijdige media en hoe u deze kunt activeren. Daarnaast bieden Release Notes installatie- en configuratieinstructies voor clients met gelicentieerde software.
 
-De Gidsen van de verwijzing aan het Serven van het Beeld en het Teruggeven van het Beeld, en de Kijkers beschrijven de protocollen van http voor deze servermodules. Websiteontwikkelaars die Dynamic Media Klassieke rich media voor een website of aangepaste toepassing verder willen aanpassen en benutten, kunnen deze handleidingen gebruiken. Dynamic Media Classic gaat ervan uit dat de lezer bekend is met de bureaubladtoepassing, de algemene normen en conventies voor http-protocollen en de standaardterminologie voor beeldbewerking.
+De Gidsen van de verwijzing aan het Serven van het Beeld en het Teruggeven van het Beeld, en de Kijkers beschrijven de protocollen van http voor deze servermodules. Websiteontwikkelaars die Dynamic Media Classic rich media verder willen aanpassen en benutten voor een website of aangepaste toepassing, kunnen deze handleidingen gebruiken. Dynamic Media Classic gaat ervan uit dat de lezer bekend is met de bureaubladtoepassing, de algemene normen en conventies voor http-protocollen en de basisterminologie voor beeldbewerking.
 
 
 **Dynamic Media Classic API**
 
 | Document | Webadres |
 |--- |--- |
-| API-naslaggids | Neem voor documentatie contact op met de Klassieke technische ondersteuning van Dynamic Media. |
+| API-naslaggids | Neem contact op met de technische ondersteuning van Dynamic Media Classic voor documentatie. |
 
 **Afbeeldingen ontwerpen**
 
 | Document | Webadres |
 |--- |--- |
-| Handboek | Neem contact op met de Klassieke technische ondersteuning van Dynamic Media voor deze documentatie. |
-| Opmerkingen bij de release | Neem contact op met de Klassieke technische ondersteuning van Dynamic Media voor deze documentatie. |
+| Handboek | Neem voor deze documentatie contact op met de technische ondersteuning van Dynamic Media Classic. |
+| Opmerkingen bij de release | Neem voor deze documentatie contact op met de technische ondersteuning van Dynamic Media Classic. |
 
 **voor het leveren en renderen van afbeeldingen**
 
