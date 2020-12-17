@@ -20,9 +20,9 @@ ht-degree: 0%
 
 # Een sjabloon koppelen aan een webpagina{#linking-a-template-to-a-web-page}
 
-Uw websites en toepassingen hebben via URL-tekenreeksen toegang tot inhoud van Dynamic Media Image Server. Nadat u een sjabloon publiceert, activeert Dynamic Media Classic een URL-tekenreeks die verwijst naar de sjabloon op Dynamic Media Image Servers. U kunt deze URL in een webbrowser plakken om te testen.
+Uw websites en toepassingen hebben toegang tot Dynamic Media Image Server-inhoud via URL-tekenreeksen. Nadat u een sjabloon hebt gepubliceerd, activeert Dynamic Media Classic een URL-tekenreeks die verwijst naar de sjabloon op Dynamic Media Image Servers. U kunt deze URL in een webbrowser plakken om te testen.
 
-Als u URL-tekenreeksen wilt plaatsen in uw webpagina&#39;s en toepassingen, kopieert u deze vanuit Dynamic Media Classic. Als u een URL-tekenreeks voor een sjabloon wilt verkrijgen die met een voorinstelling voor afbeelding is gegenereerd, gaat u naar het voorvertoningsscherm of het deelvenster Bladeren (in de gedetailleerde weergave). Selecteer vervolgens een voorinstelling voor afbeeldingen en selecteer de knop URL kopiëren.
+Kopieer URL-tekenreeksen vanuit Dynamic Media Classic om deze in uw webpagina&#39;s en toepassingen te plaatsen. Als u een URL-tekenreeks voor een sjabloon wilt verkrijgen die met een voorinstelling voor afbeelding is gegenereerd, gaat u naar het voorvertoningsscherm of het deelvenster Bladeren (in de gedetailleerde weergave). Selecteer vervolgens een voorinstelling voor afbeeldingen en selecteer de knop URL kopiëren.
 
 >[!NOTE]
 >
@@ -38,7 +38,7 @@ U kunt een sjabloon-URL-tekenreeks die is gegenereerd door een voorinstelling vo
 
 ## Sjabloon-URL&#39;s toevoegen aan uw webpagina {#adding-template-urls-to-your-web-page}
 
-Als u een sjabloon aan uw webpagina wilt toevoegen, neemt u contact op met het ontwikkelingsteam van de webpagina om de `<IMG>` tag in uw HTML-webpaginacode aan te passen met de tekenreeks Dynamic Media Classic URL om een aanvraag in te dienen bij Dynamic Media Image Servers. De handelingsmotor of de dynamische Web-paginacode neemt het malplaatjebeeld bij de grootte en met de het formatteren specificatie op die door het Beeld wordt bepaald vooraf instelt u voor uw malplaatje kiest.
+Als u een sjabloon aan uw webpagina wilt toevoegen, neemt u contact op met het ontwikkelingsteam van de webpagina om de `<IMG>`-tag in uw HTML-webpaginacode aan te passen aan de hand van de Klassieke URL-tekenreeks van Dynamic Media om een aanvraag in te dienen bij Dynamic Media Image Servers. De handelingsmotor of de dynamische Web-paginacode neemt het malplaatjebeeld bij de grootte en met de het formatteren specificatie op die door het Beeld wordt bepaald vooraf instelt u voor uw malplaatje kiest.
 
 >[!MORELIKETHIS]
 >
