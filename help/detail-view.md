@@ -62,15 +62,20 @@ U kunt een element-URL opvragen in de gedetailleerde weergave. de URL is echter 
 
 In de gedetailleerde weergave vindt u gereedschappen voor het werken met het element dat u hebt geopend. Welke hulpmiddelen beschikbaar zijn hangt van het type van activa af u met werkt, maar de mening van het Detail biedt altijd deze functies aan:
 
-* **items die u wilt publiceren** Klik op het **[!UICONTROL Publish]** pictogram links van de naam of klik **[!UICONTROL File > Publish]** of **[!UICONTROL File > Unpublish]**.
+* **items die u wilt**
+publicerenKlik op het  **[!UICONTROL Publish]** pictogram links van de naam of klik  **[!UICONTROL File > Publish]** of  **[!UICONTROL File > Unpublish]**.
 
-* **Als u de naam van het element** wijzigt, selecteert u de naam en voert u een nieuwe naam in.
+* **De naam van het**
+element wijzigenSelecteer de naam en voer een nieuwe naam in.
 
-* **Bewerken en metagegevens** toevoegen Selecteer het deelvenster Metagegevens en breng de gewenste wijzigingen aan. Zie Metagegevens [](/help/viewing-adding-exporting-metadata.md)weergeven, toevoegen en exporteren.
+* **Bewerken en**
+metagegevens toevoegenSelecteer het deelvenster Metagegevens en breng de gewenste wijzigingen aan. Zie [Metagegevens weergeven, toevoegen en exporteren](/help/viewing-adding-exporting-metadata.md).
 
-* **Trefwoorden** selecteren en trefwoorden bewerken en toevoegen en ze naar wens toevoegen of verwijderen. Zie Trefwoorden [toevoegen of bewerken](/help/viewing-adding-exporting-metadata.md).
+* **Trefwoorden bewerken en toevoegenSelecteer Trefwoorden en voeg deze naar wens toe of verwijder ze.**
+Zie [Trefwoorden toevoegen of bewerken](/help/viewing-adding-exporting-metadata.md).
 
-* **Het element** klikken verwijderen **[!UICONTROL File > Delete]**.
+* **Het**
+elementClick verwijderen  **[!UICONTROL File > Delete]**.
 
 Voor afzonderlijke bestanden, zoals afbeeldingen, afbeeldingssets en lettertypen, kunt u de publicatie- en bewerkingshistorie weergeven en taakdetails controleren in de gedetailleerde weergave.
 
