@@ -2,7 +2,7 @@
 title: Basisbeginselen van navigatie
 seo-title: Basisbeginselen van navigatie
 description: 'null'
-seo-description: Meer informatie over navigatie in de gebruikersinterface van Dynamic Media Classic.
+seo-description: Meer informatie over navigeren in de gebruikersinterface van Dynamic Media Classic.
 uuid: ee143695-e42d-479d-b907-fe61ef6cfc0f
 contentOwner: admin
 content-type: reference
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Basisbeginselen van navigatie{#navigation-basics}
 
-Het dynamische scherm van Media Klassiek omvat drie belangrijke gebieden: De globale bar van de Navigatie, de Bibliotheek van Activa, en doorbladert Comité/bouwt Comité.
+Het Klassieke scherm van Dynamic Media omvat drie belangrijke gebieden: De globale bar van de Navigatie, de Bibliotheek van Activa, en doorbladert Comité/bouwt Comité.
 
 ![Basisbeginselen van navigatie](/help/assets/gs_navigation_basics_popup_popup.png)
 
@@ -28,33 +28,33 @@ Het dynamische scherm van Media Klassiek omvat drie belangrijke gebieden: De glo
 
 De algemene navigatiebalk, die zich boven aan het scherm bevindt, bevat knoppen voor het uitvoeren van verschillende taken:
 
-**Selecteer Bedrijf** kiezen het bedrijf u van het menu wilt toegang hebben. Deze knop is niet beschikbaar als u met één bedrijf werkt.
+**Selecteer** BedrijfKies het bedrijf u van het menu wilt toegang hebben. Deze knop is niet beschikbaar als u met één bedrijf werkt.
 
-**Uploaden** opent het uploadscherm zodat u bestanden van uw computer of netwerk kunt uploaden naar Dynamic Media Classic. U kunt bestanden uploaden vanaf uw bureaublad of via FTP. Zie Bestanden uploaden.
+**** UploadenHiermee opent u het uploadscherm zodat u bestanden van uw computer of netwerk kunt uploaden naar Dynamic Media Classic. U kunt bestanden uploaden vanaf uw bureaublad of via FTP. Zie Bestanden uploaden.
 
-**Bouwstijl** Kies een bouwsteentaak van het menu. Het deelvenster Samenstellen wordt geopend, zodat u een elementtype kunt maken.
+**** BuildKies een bouwsteentaak in het menu. Het deelvenster Samenstellen wordt geopend, zodat u een elementtype kunt maken.
 
-**Publiceren** opent het scherm Publiceren zodat u rijke media activa aan de Dynamische Servers van het Beeld van Media en de rest van de Dynamische Klassieke infrastructuur van Media SAAS kunt publiceren. Zie Publiceren.
+**** PublicerenHiermee opent u het scherm Publiceren, zodat u rich media-elementen kunt publiceren naar Dynamic Media Image Servers en de rest van de Klassieke SAAS-infrastructuur van Dynamic Media. Zie Publiceren.
 
-**Taken** opent het scherm van Banen zodat kunt u verslagen van upload onderzoeken en banen publiceren.
+**** JobsOpent het scherm van Banen zodat kunt u verslagen van upload onderzoeken en banen publiceren.
 
-**Met Recent** wordt het scherm Recente activiteiten geopend, zodat u de namen van onlangs gewijzigde middelen en recente upload- en publicatietaken kunt bekijken.
+**** RecentHiermee opent u het scherm Recente activiteiten, zodat u de namen van onlangs gewijzigde middelen en recente upload- en publicatietaken kunt bekijken.
 
-**De opstelling** opent het scherm van de Opstelling zodat kunt u opstelling of beleidsopties kiezen om uw gebruik van Dynamische Klassieke Media te optimaliseren. Zie Instellen.
+**** SetupHiermee opent u het scherm Setup, zodat u instellingen of beheeropties kunt kiezen voor het optimaliseren van het gebruik van Dynamic Media Classic. Zie Instellen.
 
-**Help** Een Help-optie kiezen:
+**** HelpKies een Help-optie:
 
-**Help > Help over dit onderwerp** opent het Help-systeem naar een pagina met informatie over de taak die u momenteel uitvoert.
+**Help > Help over dit** onderwerp opent het Help-systeem naar een pagina met informatie over de taak die u momenteel uitvoert.
 
-**Help > Videozelfstudie** geeft toegang tot video&#39;s over specifieke onderwerpen om te tonen hoe u aan de slag kunt met elke publicatieworkflow voor veelzijdige media.
+**Help >** VideozelfstudieHiermee krijgt u toegang tot video&#39;s over specifieke onderwerpen om te tonen hoe u aan de slag kunt met elke publicatieworkflow voor veelzijdige media.
 
-**Help > Help-inhoud** opent het Help-systeem naar de pagina Introductie. U kunt door de Inhoudslijst klikken om verschillende onderwerpen te vinden en te bekijken.
+**Help > Help** ContentsHiermee opent u het Help-systeem naar de pagina Introductie. U kunt door de Inhoudslijst klikken om verschillende onderwerpen te vinden en te bekijken.
 
-**Help > Info** geeft aan welke versie van Dynamic Media Classic u uitvoert.
+**Help >** Info geeft aan welke versie van Dynamic Media Classic u uitvoert.
 
-**Help > Ondersteuning** vertelt u hoe u technische ondersteuning kunt krijgen van Dynamic Media Classic.
+**Help >** SupportGeeft aan hoe u technische ondersteuning kunt krijgen van Dynamic Media Classic.
 
-**Afmelden** sluit Dynamic Media Classic af.
+**Sign** OutExits Dynamic Media Classic.
 
 ## Assetbibliotheek {#asset-library}
 
@@ -66,13 +66,13 @@ Boven aan het deelvenster Elementenbibliotheek staan opdrachten voor het zoeken 
 >
 >U kunt op de besturingselementen voor de elementenbibliotheek klikken om de elementenbibliotheek te openen of te sluiten en meer ruimte krijgen om op het scherm te werken. Selecteer het besturingselement Uitvouwen/Samenvouwen om het deelvenster uit of te sluiten. Deze besturingselementen bevinden zich links in het deelvenster.
 
-## Bladeren in deelvenster/deelvenster Samenstellen {#browse-panel-build-panel}
+## Deelvenster Bladeren/deelvenster Samenstellen {#browse-panel-build-panel}
 
 In het deelvenster Bladeren/Samenstellen doet u veel van uw werk. Wat in dit deelvenster wordt weergegeven, is afhankelijk van de modus Bladeren of de modus Samenstellen:
 
-**Bladeren, modus** Selecteer een map in de elementenbibliotheek om de inhoud ervan in het deelvenster Bladeren weer te geven en ermee te werken. In dit deelvenster vindt u de menu&#39;s Bestand, Voorvertoning, Alles selecteren, Geen selecteren en Sorteren voor het werken met elementen. U kunt elementen ook op verschillende manieren weergeven door de schuifregelaar te verplaatsen of de knop Rasterweergave, Lijstweergave of Gedetailleerde weergave te selecteren. Als u de knop Gedetailleerde weergave selecteert of dubbelklikt op een element, wordt het element geopend in de gedetailleerde weergave, waar u elementafhankelijke bestandsbewerkingen kunt uitvoeren.
+**Bladeren** in modusSelecteer een map in de elementenbibliotheek om de inhoud ervan weer te geven en ermee te werken in het deelvenster Bladeren. In dit deelvenster vindt u de menu&#39;s Bestand, Voorvertoning, Alles selecteren, Geen selecteren en Sorteren voor het werken met elementen. U kunt elementen ook op verschillende manieren weergeven door de schuifregelaar te verplaatsen of de knop Rasterweergave, Lijstweergave of Gedetailleerde weergave te selecteren. Als u de knop Gedetailleerde weergave selecteert of dubbelklikt op een element, wordt het element geopend in de gedetailleerde weergave, waar u elementafhankelijke bestandsbewerkingen kunt uitvoeren.
 
-**Modus** Samenstellen Klik op Samenstellen en kies vervolgens een optie om een eCatalog, Afbeeldingsset, Spin-set of een van de andere beschikbare items in het menu Samenstellen te maken. Het scherm van de Bouwstijl opent. U kunt de elementen selecteren waarmee u wilt werken voordat of nadat u de modus Samenstellen hebt geactiveerd.
+**Bouw** wijzeKlik bouwen, dan kies een optie beginnen een eCatalog, de Reeks van het Beeld, de Reeks van de Draai, of één van verscheidene andere beschikbare punten op het menu van de Bouwstijl te bouwen. Het scherm van de Bouwstijl opent. U kunt de elementen selecteren waarmee u wilt werken voordat of nadat u de modus Samenstellen hebt geactiveerd.
 
 >[!MORELIKETHIS]
 >
