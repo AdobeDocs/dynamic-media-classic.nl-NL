@@ -2,7 +2,7 @@
 title: Publicatie-instelling
 seo-title: Publicatie-instelling
 description: 'null'
-seo-description: De het schermmontages van de Publish Opstelling bepalen hoe de activa door gebrek van Dynamische servers van Media Classic aan websites of toepassingen worden geleverd.
+seo-description: De instellingen in het scherm Publicatie-instellingen bepalen hoe elementen standaard worden geleverd door Dynamic Media Classic-servers naar websites of toepassingen.
 uuid: 196f25c8-abf5-4c5d-8f6f-bc70007a0301
 contentOwner: admin
 content-type: reference
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # Publicatie-instelling {#publish-setup}
 
-De het schermmontages van de Publish Opstelling bepalen hoe de activa door gebrek van Dynamische servers van Media Classic aan websites of toepassingen worden geleverd. Als er geen instelling is opgegeven, levert de Dynamic Media Classic-server een element volgens de standaardinstelling op een scherm Publish Setup. Bijvoorbeeld, een verzoek om een beeld te leveren dat geen resolutieattribuut omvat produceert een beeld met de StandaardResolutie die van Objecten op het scherm van de Server van het Beeld plaatsen.
+De instellingen in het scherm Publicatie-instellingen bepalen hoe elementen standaard worden geleverd door Dynamic Media Classic-servers naar websites of toepassingen. Als er geen instelling is opgegeven, levert de Klassieke Dynamic Media-server een element volgens de standaardinstelling op een scherm Publicatie-instelling. Bijvoorbeeld, een verzoek om een beeld te leveren dat geen resolutieattribuut omvat produceert een beeld met de StandaardResolutie die van Objecten op het scherm van de Server van het Beeld plaatsen.
 
 Beheerders kunnen de standaardinstellingen wijzigen op de schermen Afbeeldingsserver, Afbeeldingsrenderer en Vignet om standaardinstellingen voor het leveren van elementen van servers in te stellen.
 
@@ -27,44 +27,44 @@ Als u de schermen Publicatie-instelling wilt openen, klikt u op Instellen > Toep
 
 >[!NOTE]
 >
->De schermen Publiceren van de Opstelling zijn voor gebruik door ervaren websiteontwikkelaars en programmeurs. Dynamic Media Classic gaat ervan uit dat gebruikers die instellingen op deze schermen wijzigen bekend zijn met Dynamic Media Classic, HTTP-protocolstandaarden en -conventies en de basistechnologie voor beeldbewerking.
+>De schermen Publiceren van de Opstelling zijn voor gebruik door ervaren websiteontwikkelaars en programmeurs. Dynamic Media Classic gaat ervan uit dat gebruikers die instellingen op deze schermen wijzigen bekend zijn met Dynamic Media Classic, HTTP-protocolstandaarden en -conventies en elementaire beeldbewerkingstechnologie.
 
 ## Afbeeldingsserver {#image-server}
 
 Het scherm van de Server van het Beeld vestigt standaardmontages voor het leveren van beelden van beeldservers. De montages zijn beschikbaar in deze vijf categorieën (zie het scherm van de Server van het Beeld zelf voor gedetailleerde beschrijvingen van de montages).
 
-Wijzig deze instellingen alleen met behulp van een persoon die Dynamic Media Classic ondersteunt.
+Wijzig deze instellingen alleen met de hulp van een Dynamic Media Classic-ondersteuningspersoon.
 
-**Catalogusbeheer** Deze instellingen bepalen hoe Dynamic Media Classic en de catalogus werken. In tegenstelling tot de meeste webservers gaan de URL-aanroepen van Dynamic Media Image Server naar een manifest- of catalogusbestand in plaats van naar het eigenlijke afbeeldingsbestand. Het catalogusbestand (dat niet moet worden verward met een eCatalog) bevat een lijst met alle inhoud die naar de afbeeldingsserver is gepubliceerd, samen met het pad naar elke afbeelding. Als u een Digimarc-id hebt, voert u uw gebruikersgegevens in het gedeelte Digimarc-gebruikersinfo in.
+**CatalogusbeheerDeze instellingen bepalen hoe Dynamic Media Classic en de catalogus communiceren.** In tegenstelling tot de meeste webservers gaan URL-aanroepen van Dynamic Media Image Server naar een manifest-of catalogusbestand in plaats van naar het eigenlijke afbeeldingsbestand. Het catalogusbestand (dat niet moet worden verward met een eCatalog) bevat een lijst met alle inhoud die naar de afbeeldingsserver is gepubliceerd, samen met het pad naar elke afbeelding. Als u een Digimarc-id hebt, voert u uw gebruikersgegevens in het gedeelte Digimarc-gebruikersinfo in.
 
-**Kenmerken** aanvragen Deze instellingen leggen limieten op aan afbeeldingen die van de server kunnen worden geleverd. Het *maximum* is bijvoorbeeld **[!UICONTROL Reply Image Size Limit]** 5000 en **[!UICONTROL Width]** **[!UICONTROL Height]** 5000.
+**AanvraagkenmerkenDeze instellingen leggen limieten op aan afbeeldingen die van de server kunnen worden geleverd.** De *maximum* **[!UICONTROL Reply Image Size Limit]** is bijvoorbeeld **[!UICONTROL Width]** 5000 en **[!UICONTROL Height]** 5000.
 
-**Standaardaanvraagkenmerken** Deze instellingen hebben betrekking op de standaardweergave van afbeeldingen.
+**Standaard aanvraagkenmerkenDeze instellingen** hebben betrekking op de standaardweergave van afbeeldingen.
 
-**Algemene miniatuurkenmerken** Deze instellingen hebben betrekking op de standaardweergave en -uitlijning van miniatuurafbeeldingen.
+**Algemene** miniatuurkenmerkenDeze instellingen hebben betrekking op de standaardweergave en -uitlijning van miniatuurafbeeldingen.
 
-**Standaardwaarden voor catalogusvelden** Deze instellingen hebben betrekking op de resolutie en het standaardminiatuurtype van afbeeldingen.
+**Standaardwaarden voor** catalogusvelden. Deze instellingen hebben betrekking op de resolutie en het standaardminiatuurtype van afbeeldingen.
 
-**Kenmerken** kleurbeheer Deze instellingen bepalen welke ICC-kleurprofielen worden gebruikt.
+**Kenmerken** kleurbeheerDeze instellingen bepalen welke ICC-kleurprofielen worden gebruikt.
 
-**Compatibiliteitskenmerken** Met deze instelling kunnen alinea&#39;s met regelafstand en navolgende in tekstlagen op dezelfde manier worden behandeld als in versie 3.6 voor achterwaartse compatibiliteit.
+**CompatibiliteitskenmerkenMet** deze instelling kunnen alinea&#39;s met regelafstand en navolgende in tekstlagen op dezelfde manier worden behandeld als in versie 3.6 voor achterwaartse compatibiliteit.
 
-**Ondersteuning voor** lokalisatie Met deze instellingen kunt u meerdere locatiekenmerken beheren. U kunt hiermee ook een landinstellingenkaarttekenreeks opgeven, zodat u kunt definiëren welke talen u wilt ondersteunen voor de verschillende knopinfo in Viewers.
+**Localisatie** ondersteunenMet deze instellingen kunt u meerdere kenmerken voor de landinstelling beheren. U kunt hiermee ook een landinstellingenkaarttekenreeks opgeven, zodat u kunt definiëren welke talen u wilt ondersteunen voor de verschillende knopinfo in Viewers.
 
 Als u bijvoorbeeld een nationaal merk bent dat in verschillende landen verkoopt, kunt u ervoor zorgen dat elk land zijn eigen landspecifieke viewer heeft. Voor deze functionaliteit geeft u een tekenreeks voor de landinstellingenkaart op. Vervolgens bewerkt u de knopinfo-tekst in de voorinstelling van een viewer door de vertaalde tekstreeksen toe te voegen voor de gewenste taal.
 
 >[!NOTE]
 > Als u Localization Support-opties wilt instellen, [gebruikt u de Admin Console om een ondersteuningscase te maken.](https://helpx.adobe.com/enterprise/admin-guide.html/enterprise/using/support-for-experience-cloud.ug.html) In uw steungeval, verzoek opstelling hulp.
 
-Zie **Overwegingen bij het instellen van lokalisatie van middelen** voor meer informatie over het instellen van [lokalisatieondersteuning](publish-setup.md#considerations_when_setting_up_localization_of_assets).
+Zie [Overwegingen bij het instellen van lokalisatie van middelen](publish-setup.md#considerations_when_setting_up_localization_of_assets) voor meer informatie over het instellen van **Localisatie-ondersteuning**.
 
 ### Overwegingen bij het instellen van lokalisatie van middelen {#considerations-when-setting-up-localization-of-assets}
 
 >[!NOTE]
 >
->Als u Localization Support-opties wilt instellen in Dynamic Media Classic, zoals het veld Locale Map, [gebruikt u de Admin Console om een draagtas te maken.](https://helpx.adobe.com/enterprise/admin-guide.html/enterprise/using/support-for-experience-cloud.ug.html) In uw steungeval, verzoek opstelling hulp.
+>Als u Localization Support-opties wilt instellen in Dynamic Media Classic, zoals het veld Locale Map, [gebruik de Admin Console om een ondersteuningscase te maken.](https://helpx.adobe.com/enterprise/admin-guide.html/enterprise/using/support-for-experience-cloud.ug.html) In uw steungeval, verzoek opstelling hulp.
 
-Een algemene manier om Dynamic Media Classic te gebruiken, is het beheren van productafbeeldingen op websites voor e-handel. Internationale bedrijven staan voor de uitdaging dat activa voor soortgelijke producten er van land tot land anders uitzien. Doorgaans zijn de verschillen slechts voor een zeer klein deel van de media. Het aanpakken van dergelijke verschillen door alle activa voor elk van de landen te kopiëren en alleen de verschillen te overschrijven is een enorme inspanning en is in tegenspraak met de enkele master metaforen. Dergelijke verschillen voor activa kunnen, van landspecifieke video&#39;s met verschillende audiosporen, aan subtiele maar belangrijke verschillen in een machtskoord blijven dat met het product wordt gebruikt. De dynamische Klassieke Media gebruikt een basisraadplegingsmechanisme. U bepaalt een orde van activa achtervoegsels waarin de Server van het Beeld kijkt, beginnend bij de vereiste scène.
+Een algemene manier om Dynamic Media Classic te gebruiken is het beheren van productafbeeldingen op websites voor e-handel. Internationale bedrijven staan voor de uitdaging dat activa voor soortgelijke producten er van land tot land anders uitzien. Doorgaans zijn de verschillen slechts voor een zeer klein deel van de media. Het aanpakken van dergelijke verschillen door alle activa voor elk van de landen te kopiëren en alleen de verschillen te overschrijven is een enorme inspanning en is in tegenspraak met de enkele master metaforen. Dergelijke verschillen voor activa kunnen, van landspecifieke video&#39;s met verschillende audiosporen, aan subtiele maar belangrijke verschillen in een machtskoord blijven dat met het product wordt gebruikt. Dynamic Media Classic gebruikt een basisopzoekmechanisme. U bepaalt een orde van activa achtervoegsels waarin de Server van het Beeld kijkt, beginnend bij de vereiste scène.
 
 **Hoe middelen worden gelokaliseerd**
 
@@ -74,11 +74,11 @@ De landinstelling voor een IS-verzoek (Image Serving) wordt aangeduid met de vol
 
 Deze opdracht accepteert een tekenreeks met landinstellings-id (locId) die niet hoofdlettergevoelig is. De landinstellings-id is doorgaans een tekenreeks van 2-6 tekens die bestaat uit letters en &quot;_&quot;.
 
-IS steunt willekeurige bedrukbare ASCII koorden.Het `locale=` bevel heeft een globaal werkingsgebied, betekenend dat het op het volledige verzoek, met inbegrip van alle genestelde verzoeken IS en AIR, referenced malplaatjes, en beeldlagen wordt toegepast. Meerdere landinstellingen per aanvraag, zoals een andere landinstelling voor elke laag, worden niet ondersteund. Het is echter denkbaar om expliciete overschrijvingen toe te staan in geneste verzoeken.
+IS steunt willekeurige bedrukbare ASCII koorden.Het `locale=` bevel heeft een globaal werkingsgebied, betekenend dat het op het volledige verzoek, met inbegrip van alle genestelde IS en van AIR verzoeken, referenced malplaatjes, en beeldlagen wordt toegepast. Meerdere landinstellingen per aanvraag, zoals een andere landinstelling voor elke laag, worden niet ondersteund. Het is echter denkbaar om expliciete overschrijvingen toe te staan in geneste verzoeken.
 
-Indien `locale=` niet gespecificeerd, `attribute::DefaultLocale` wordt overgegaan tot de vertaalmotoren. Beperkte invoervalidatie wordt toegepast op de `locale=` waarde. Lege `locale=` waarden zijn toegestaan. Omdat `locale=` een globaal bereik heeft, wordt `attribute::DefaultLocale` dit verschaft door de hoofdcatalogus voor het gehele verzoek.
+Als `locale=` niet wordt gespecificeerd, `attribute::DefaultLocale` wordt overgegaan tot de vertaalmotoren. Beperkte invoervalidatie wordt toegepast op de waarde `locale=`. Lege `locale=`-waarden zijn toegestaan. Omdat `locale=` een globaal werkingsgebied heeft, `attribute::DefaultLocale` wordt verstrekt door de belangrijkste catalogus voor het volledige verzoek.
 
-Enkele voordelen van het gebruik `locale=` en `attribute::DefaultLocale` omvatten het volgende:
+Enkele voordelen van het gebruik van `locale=` en `attribute::DefaultLocale` omvatten het volgende:
 
 * Inhoud delen voor meerdere landinstellingen.
 * Toegang tot inhoud die specifiek is voor de landinstelling met behulp van generieke id&#39;s.
@@ -100,7 +100,7 @@ Enkele voordelen van het gebruik `locale=` en `attribute::DefaultLocale` omvatte
 
 **Locatie van middelen implementeren**
 
-Dynamic Media Classic en Image Serving beschikken over een interface waarmee u afbeeldingen en statische inhoud kunt lokaliseren.
+Dynamic Media Classic en Image Serving hebben een interface waarmee u afbeeldingen en statische inhoud kunt lokaliseren.
 
 Zonder lokalisatie ziet een URL voor een afbeeldingsserver er als volgt uit:
 
@@ -110,17 +110,17 @@ Met localisatie voegt een URL van de Server van het Beeld de `locale=` parameter
 
 `https://server/is/image/company/image?locale=de_DE`
 
-Na ontvangst van de http-aanroep door de Image Server wordt de `locale=` parameter geparseerd via het localeMap-veld in **Setup** > **Application Setup** > **Publish Setup** > **Image Server** > **** Localization Supportgroup.
+Bij ontvangst van de http-aanroep door de Image Server wordt de `locale=`-parameter geparseerd via het localeMap-veld in **Setup** > **Application Setup** > **Publish Setup** > **Image Server** > **Localization Support**-groep.
 
 Het veld Landinstelling kaart bevat een lijst met items die zijn gescheiden met het verticale balksymbool (|).
 
-Elk item bestaat uit een door komma&#39;s gescheiden lijst met waarden. De eerste waarde is de zoekwaarde die door de `locale=` parameter wordt doorgegeven. De resterende waarden zijn achtervoegsels/vervangingswaarden die vervolgens worden geprobeerd totdat een bestaande afbeelding wordt weergegeven.
+Elk item bestaat uit een door komma&#39;s gescheiden lijst met waarden. De eerste waarde is de onderzoekswaarde die door de `locale=` parameter wordt overgegaan. De resterende waarden zijn achtervoegsels/vervangingswaarden die vervolgens worden geprobeerd totdat een bestaande afbeelding wordt weergegeven.
 
-Of een achtervoegselwaarde of een vervangingswaarde wordt toegepast hangt van de Globale scène af die in **Opstelling** > de Opstelling **van de** Toepassing > **Publish Opstelling** > de Server **van het** Beeld > de **Groep van de Steun** van de Lokalisatie plaatst.
+Of een achtervoegselwaarde of een vervangingswaarde wordt toegepast hangt van het Globale plaatsen van de Landinstelling in **Opstelling** > **Toepassing Opstelling** > **Publish Opstelling** > **Beeldserver** > **Localization Support** groep af.
 
 >[!NOTE]
 >
->De instelling Globale landinstelling is momenteel alleen mogelijk wanneer u deze instelt via de API, niet binnen de Klassieke interface van dynamische media.
+>De instelling Globale landinstelling is momenteel alleen mogelijk wanneer u deze instelt via de API, niet in de Classic-interface van Dynamic Media.
 
 **Voorbeeld van achtervoegsel**
 
@@ -136,11 +136,11 @@ Of een achtervoegselwaarde of een vervangingswaarde wordt toegepast hangt van de
 
 Als er geen landinstelling is gedefinieerd in de URL, gebruikt de afbeeldingsserver de DefaultLocale (indien deze is gedefinieerd) en past deze toe op de URL.
 
-Als een onbekende of lege landinstellingsparameter wordt meegeleverd `locale=`, wordt de localeMap gescand voor de lege waarde &quot;beginnend met,&quot;. Het is belangrijk om dit te vormen zodat een standaardlandinstelling wordt toegepast voor onbekende landinstellingen.
+Als een onbekende of lege landinstellingsparameter wordt geleverd bij `locale=`, wordt de localeMap gescand voor de lege waarde &quot;beginnend met,&quot;. Het is belangrijk om dit te vormen zodat een standaardlandinstelling wordt toegepast voor onbekende landinstellingen.
 
 **De standaardafbeelding**
 
-De server van het Beeld probeert de opties voor de gevraagde scène, één na andere. Als er geen overeenkomst wordt gevonden, worden de landinstellingsopties toegepast op de defaultImage en wordt de overeenkomende versie geretourneerd. Daarom moet elke landinstelling een optie voor de afbeelding zonder lokalisatie bevatten, of moeten gelokaliseerde standaardafbeeldingsversies beschikbaar worden gemaakt in Dynamic Media Classic.
+De server van het Beeld probeert de opties voor de gevraagde scène, één na andere. Als er geen overeenkomst wordt gevonden, worden de landinstellingsopties toegepast op de defaultImage en wordt de overeenkomende versie geretourneerd. Daarom moet elke landinstelling een optie voor de afbeelding zonder lokalisatie bevatten, of moeten gelokaliseerde standaardafbeeldingsversies beschikbaar worden gesteld in Dynamic Media Classic.
 
 **Scenario&#39;s voor het zoeken van de localeMap**
 
@@ -148,7 +148,7 @@ Stel dat u de volgende landinstellingen wilt ondersteunen:
 
 `en, en_us, en_uk, de, de_at, de_de, fr`
 
-U wijst deze landinstellingen toe aan de achtervoegsels `_E`, `_G`en `_F`, voor Engels, Duits en Frans. Voor alle voorbeelden is de algemene id van de invoerafbeelding `myImg`.
+U wijst deze landinstellingen toe aan de achtervoegsels `_E`, `_G`, en `_F`, voor Engels, Duits, respectievelijk Frans. Voor alle voorbeelden is de generieke invoerafbeeldings-id `myImg`.
 
 *Standaardgedrag voor het zoeken naar de localeMap*
 
@@ -187,7 +187,7 @@ Of u kunt rechtstreeks een toewijzing maken aan de algemene id, zoals in het vol
 
 Het is vaak wenselijk om landinstellingen, zoals Europees, Midden-Oosten en Noord-Amerika, te groeperen om regionale normen, zoals huidblootstelling, aan te pakken. U kunt dit effect bereiken met een zoekopdracht met meerdere lagen.
 
-Stel dat u in dit voorbeeld verzamelingen wilt ondersteunen voor gebruik in het Westen en het Midden-Oosten. Beide verzamelingen zijn gebaseerd op de algemene afbeeldingsverzameling en voegen of wijzigen enkele afbeeldingen toe. Beide verzamelingen worden vervolgens verder verfijnd voor specifieke landinstellingen, zoals `m1, m2` voor twee varianten in het midden-oosten, en `w1, w2,` en `w3` voor drie westerse landinstellingen, behalve dat afbeeldingen worden gedeeld voor `w1` en `w3`. Onbekende landinstellingen worden alleen toegewezen aan de algemene verzameling en hebben geen toegang tot landspecifieke afbeeldingen. De kaart ziet er als volgt uit:
+Stel dat u in dit voorbeeld verzamelingen wilt ondersteunen voor gebruik in het Westen en het Midden-Oosten. Beide verzamelingen zijn gebaseerd op de algemene afbeeldingsverzameling en voegen of wijzigen enkele afbeeldingen toe. Beide verzamelingen worden vervolgens verder verfijnd voor specifieke landinstellingen, zoals `m1, m2` voor twee varianten in het midden-oosten en `w1, w2,` en `w3` voor drie westerse landinstellingen, behalve dat afbeeldingen worden gedeeld voor `w1` en `w3`. Onbekende landinstellingen worden alleen toegewezen aan de algemene verzameling en hebben geen toegang tot landspecifieke afbeeldingen. De kaart ziet er als volgt uit:
 
 `attribute::LocaleMap=w1,-W,|w2,-W2,-W,|w3,-W,|m1,-M1,-M,|m2,-M2,-M,|,`
 
@@ -203,7 +203,7 @@ Stel dat u in dit voorbeeld verzamelingen wilt ondersteunen voor gebruik in het 
 
 Sommige naamgevingsconventies voor afbeeldingen ondersteunen mogelijk geen algemene afbeeldings-id&#39;s. De generieke id&#39;s van het verzoek moeten worden toegewezen aan een specifieke id in de catalogus. Er kunnen zich echter gevallen voordoen waarin de exacte specifieke id niet bekend is.
 
-Wanneer u het eerste voorbeeld als basis gebruikt, kunnen afbeeldingen voor alle talen achtervoegsels hebben `_1`, `_2`of `_3`. Afbeeldingen die specifiek zijn voor Franse landinstellingen, kunnen de achtervoegsels `_22` of het `_23` achtervoegsel hebben. En afbeeldingen die specifiek zijn voor Duitse landinstellingen kunnen achtervoegsels hebben `_470` of `_480`.
+Wanneer u het eerste voorbeeld als basis gebruikt, kunnen afbeeldingen voor alle talen de achtervoegsels `_1`, `_2` of `_3` hebben. Afbeeldingen die specifiek zijn voor Franse landinstellingen, kunnen de achtervoegsels `_22` of `_23` hebben. En afbeeldingen die specifiek zijn voor Duitse landinstellingen kunnen de achtervoegsels `_470` of `_480` hebben.
 
 `attribute::LocaleMap=,_1,_2,_3|fr,_22,_23,_1,_2,_3|de,_470,_480,_1,_2,_3|de_at,_470,_480,_1,_2,_3|de_de,_470,_480,_1,_2,_3`
 
@@ -219,19 +219,19 @@ Wanneer u het eerste voorbeeld als basis gebruikt, kunnen afbeeldingen voor alle
 * U kunt geen Gemengde Reeks van Media gebruiken die één enkele video bevat wanneer localeMap actief is, anders ontbreekt de vraag aan de inhoud van de reeks. Als u dit probleem wilt verhelpen, kunt u één video toevoegen aan een adaptieve videoset. Voeg vervolgens de adaptieve videoret toe aan een gemengde mediaset.
 * Bepaalde verzoeken zijn niet gelokaliseerd, zoals aanvragen voor de inhoud van een adaptieve videoret. Daarom als u van plan bent om de Aangepaste VideoReeksen met localisatie te gebruiken, zou u de Aangepaste VideoReeks binnen een Gemengde Reeks van Media moeten plaatsen. Dan, roep de reeks in een Gemengde kijker van Media met de `locale=` parameter.
 
-## Renderer afbeelding {#image-renderer}
+## Afbeeldingsrenderer {#image-renderer}
 
 In het scherm Renderer afbeelding worden standaardinstellingen vastgelegd voor het leveren van afbeeldingssets op servers voor het renderen van afbeeldingen. De montages zijn beschikbaar in deze vijf categorieën (zie het scherm van de Server van het Beeld zelf voor gedetailleerde beschrijvingen van de montages):
 
-**Catalogusbeheer** Deze instellingen bepalen hoe Dynamic Media Classic en het catalogusbestand communiceren. Dynamische media Klassieke de vraag van de Server URL van de Render wordt gemaakt aan de catalogus, die beurtelings roept om beelden van de server te leveren. Wijzig deze instellingen alleen met behulp van een persoon die Dynamic Media Classic ondersteunt.
+**CatalogusbeheerDeze instellingen bepalen hoe Dynamic Media Classic en het catalogusbestand communiceren.** De Klassieke van de Server URL van de Render van Dynamic Media vraag wordt gemaakt aan de catalogus, die beurtelings roept om beelden van de server te leveren. Wijzig deze instellingen alleen met de hulp van een Dynamic Media Classic-ondersteuningspersoon.
 
-**Sessiekenmerken** Deze instellingen stellen foutparameters, de URL voor relatieve afbeeldings-URL&#39;s en of objectoverlapping is toegestaan.
+**SessiekenmerkenDeze** instellingen stellen foutparameters, de URL voor relatieve afbeeldings-URL&#39;s en of objectoverlapping is toegestaan.
 
 **Standaardmateriaalkenmerken** Deze instellingen stellen de standaardresolutie en verscherpingsinstellingen voor afbeeldingen in.
 
-**Attributen** van reactieafbeelding Deze instellingen hebben betrekking op de standaardweergave van afbeeldingen.
+**Attributen van** reactieafbeeldingDeze instellingen hebben betrekking op de standaardweergave van afbeeldingen.
 
-**Kenmerken** kleurbeheer Deze instellingen hebben betrekking op de standaardkleurinstellingen van afbeeldingen.
+**Kenmerken** voor kleurbeheerDeze instellingen hebben betrekking op de standaardkleurinstellingen van afbeeldingen.
 
 ## Vignet {#vignette}
 
