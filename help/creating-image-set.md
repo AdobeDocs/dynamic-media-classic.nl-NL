@@ -18,11 +18,11 @@ ht-degree: 0%
 ---
 
 
-# Een afbeeldingsset maken{#creating-an-image-set}
+# Afbeeldingsset maken{#creating-an-image-set}
 
 Als u een Afbeeldingsset met meerdere weergaven wilt maken, hebt u afbeeldingen nodig die een item vanuit verschillende gezichtspunten weergeven of verschillende aspecten van hetzelfde item weergeven. Het doel is om kijkers beelden van een punt te presenteren zodat krijgen zij een stevig idee van wat een punt kijkt of doet.
 
-## Een afbeeldingsset maken {#create}
+## Afbeeldingsset maken {#create}
 
 Wanneer u een set maakt, heeft de optie **Publiceren na opslaan** op de volgende manieren invloed op de set en stelt u leden in:
 
@@ -31,24 +31,24 @@ Wanneer u een set maakt, heeft de optie **Publiceren na opslaan** op de volgende
 | Ja | Gepubliceerd | Gepubliceerd |
 | Nee | Ongepubliceerd | Leden met een set behouden hun gepubliceerde of niet-gepubliceerde status. |
 
-Zie ook [Elementen](publishing-files.md#manually_publishing_assets) handmatig publiceren en [elementen](publishing-files.md#manually_unpublishing_assets)handmatig verwijderen.
+Zie ook [Elementen handmatig publiceren](publishing-files.md#manually_publishing_assets) en [Publicaties van elementen handmatig ongedaan maken](publishing-files.md#manually_unpublishing_assets).
 
 **Een afbeeldingsset maken**
 
 1. Voer een van de volgende handelingen uit:
 
-   **Selecteer eerst** de afbeeldingen in het deelvenster Bladeren, selecteer de afbeeldingen die u voor de afbeeldingsset wilt gebruiken en klik op Samenstellen > Afbeeldingssets.
+   **Selecteer de afbeeldingen** eerst in het deelvenster Bladeren en selecteer de afbeeldingen die u voor de set Afbeeldingen wilt gebruiken. Klik vervolgens op Samenstellen > Afbeeldingssets.
 
-   **Begin van het Vastgestelde scherm** van het Beeld klikken bouwt > de Reeksen van het Beeld. Het scherm Afbeeldingsset wordt geopend. Selecteer een map in de elementenbibliotheek en sleep de afbeeldingen die u voor de afbeeldingsset wilt instellen naar het scherm Afbeeldingsset.
+   **Begin van het Vastgestelde** scherm van het BeeldKlik Bouwstijl > de Reeksen van het Beeld. Het scherm Afbeeldingsset wordt geopend. Selecteer een map in de elementenbibliotheek en sleep de afbeeldingen die u voor de afbeeldingsset wilt instellen naar het scherm Afbeeldingsset.
 
 1. Als u de volgorde van de afbeeldingen wilt wijzigen, sleept u de afbeeldingen naar nieuwe locaties.
-1. Controleer of **Publiceren na opslaan** is geselecteerd (standaard).
-1. Klik op **Opslaan**, selecteer een map waarin u de afbeeldingsset wilt opslaan, voer een naam voor de set in en klik op **Opslaan**.
-1. Klik op **Voorvertoning** in het scherm Afbeeldingsset om de Afbeeldingsset in de viewer voor de afbeeldingsset te zien. U kunt op staalminiaturen in de Vastgestelde viewer klikken om te zien hoe deze zich gedragen.
+1. Zorg dat in de rechterbenedenhoek van de pagina **Publiceren na opslaan** is geselecteerd (standaard).
+1. Klik op **Opslaan**, selecteer een map voor het opslaan van de afbeeldingsset, voer een naam voor de set in en klik op **Opslaan**.
+1. Om uw Beeld te zien dat in de Vastgestelde Kijker van het Beeld wordt geplaatst, klik **Voorproef** op het Vastgestelde scherm van het Beeld. U kunt op staalminiaturen in de Vastgestelde viewer klikken om te zien hoe deze zich gedragen.
 
-## Een afbeeldingsset bewerken {#editing-an-image-set}
+## Afbeeldingsset {#editing-an-image-set} bewerken
 
-Afhankelijk van het feit of u een gepubliceerde of een niet-gepubliceerde set bewerkt, heeft de optie **Publiceren na opslaan** invloed op de set en stelt u de leden als volgt in:
+Afhankelijk van het feit of u een gepubliceerde of een niet-gepubliceerde set bewerkt, beïnvloedt de optie **Publiceren na opslaan** de set en stelt u de leden als volgt in:
 
 | Reeds gepubliceerd instellen? | De optie Publiceren na opslaan is geselecteerd voordat u de bewerking opslaat? | Status van set na opslaan | Status van ingestelde leden na opslaan |
 |--- |--- |--- |--- |
@@ -57,28 +57,28 @@ Afhankelijk van het feit of u een gepubliceerde of een niet-gepubliceerde set be
 | Nee | Ja | Gepubliceerd | Gepubliceerd |
 | Nee | Nee | Ongepubliceerd | Bestaande leden die zijn ingesteld en eventuele nieuwe leden die u tijdens de bewerking hebt toegevoegd, behouden hun gepubliceerde of niet-gepubliceerde status. |
 
-Zie ook [Elementen](publishing-files.md#manually_publishing_assets) handmatig publiceren en [elementen](publishing-files.md#manually_unpublishing_assets)handmatig verwijderen.
+Zie ook [Elementen handmatig publiceren](publishing-files.md#manually_publishing_assets) en [Publicaties van elementen handmatig ongedaan maken](publishing-files.md#manually_unpublishing_assets).
 
 **Een afbeeldingsset bewerken**
 
 1. Blader in de rasterweergave naar een ImageSet en klik vervolgens onder de afbeelding op **Bewerken**.
 1. Voer een van de volgende handelingen uit:
 
-   * Als u een (gepubliceerde of niet-gepubliceerde) afbeelding wilt toevoegen, sleept u deze uit een map in Elementen toevoegen naar de pagina **Weergaven** van de Afbeeldingsset.
-   * Als u een afbeelding wilt verwijderen, selecteert u de afbeelding en klikt u op **Verwijderen** op de werkbalk.
+   * Als u een afbeelding wilt toevoegen (gepubliceerd of niet gepubliceerd), sleept u deze uit een map in Elementen toevoegen naar de pagina **Weergaven** van de Afbeeldingsset.
+   * Als u een afbeelding wilt verwijderen, selecteert u deze en klikt u op **Delete** op de werkbalk.
    * Als u de volgorde van afbeeldingen wilt wijzigen, sleept u een afbeelding naar een nieuwe positie.
 
-1. Als u klaar bent met het bewerken van de set, controleert u of **Publiceren na opslaan** is geselecteerd (standaard) rechtsonder op de pagina.
-1. Klik op **Opslaan**, selecteer een opslagmap voor de set, voer een naam voor de set in en klik op **Opslaan**.
+1. Als u klaar bent met het bewerken van de set, controleert u of **Publiceren na opslaan** is geselecteerd (standaard).
+1. Klik **Opslaan**, selecteer een opslagmap voor uw set, voer een naam voor de set in en klik op **Opslaan**.
 
 ## Een afbeeldingsset verwijderen {#deleting-an-image-set}
 
 Wanneer u een set verwijdert, wordt de set zelf naar de prullenbak verplaatst. De leden (of &quot;kinderen&quot;) in die reeks worden echter niet beïnvloed; in plaats daarvan behouden zij elk hun bestaande gepubliceerde of niet - gepubliceerde staat .
 
-Zie ook [Elementen](publishing-files.md#manually_publishing_assets) handmatig publiceren en [elementen](publishing-files.md#manually_unpublishing_assets)handmatig verwijderen.
+Zie ook [Elementen handmatig publiceren](publishing-files.md#manually_publishing_assets) en [Publicaties van elementen handmatig ongedaan maken](publishing-files.md#manually_unpublishing_assets).
 
 **Een afbeeldingsset verwijderen**
 
 1. Selecteer een of meer afbeeldingssets in de rasterweergave, lijstweergave of detailweergave.
-1. Klik op de algemene navigatiebalk op **Bestand** > **Verwijderen** > **Verwijderen**.
+1. Klik op **Bestand** > **Verwijderen** > **Verwijderen** op de algemene navigatiebalk.
 
