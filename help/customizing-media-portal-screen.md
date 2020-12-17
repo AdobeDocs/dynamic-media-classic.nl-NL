@@ -18,27 +18,27 @@ ht-degree: 0%
 ---
 
 
-# Het scherm Media Portal aanpassen{#customizing-the-media-portal-screen}
+# Het scherm van het Portaal van Media aanpassen{#customizing-the-media-portal-screen}
 
 Met de Media Portal-stijlinstellingen kunt u het scherm Media Portal voorzien van uw bedrijfslogo en -kleuren. Gebruik de stijlinstellingen om uw bedrijfsstempel op Media Portal te plaatsen.
 
-U opent de stijlinstellingen door **Instellen** > **Media Portal instellen** > **Stijlinstellingen** te kiezen. Zorg ervoor dat u op **Opslaan** klikt om de instellingen op te slaan nadat u deze hebt gemaakt. U kunt op **Herstellen** klikken om de standaardinstellingen terug te halen. Terwijl u uw keuzes maakt, wordt in het deelvenster Voorvertoning weergegeven hoe uw keuzen eruitzien.
+Als u de stijlinstellingen wilt openen, kiest u **Setup** > **Media Portal Setup** > **Stijlinstellingen**. Zorg dat u op **Opslaan** klikt om de instellingen op te slaan nadat u deze hebt gemaakt. U kunt **Herstellen** klikken om de standaardmontages terug te brengen. Terwijl u uw keuzes maakt, wordt in het deelvenster Voorvertoning weergegeven hoe uw keuzen eruitzien.
 
-**Logo** klikt doorbladert en kiest grafisch in het Uitgezochte venster van het Beeld van het Logo.
+**** LogoKlik op Bladeren en kies een afbeelding in het venster Logoafbeelding selecteren.
 
-**Toepassing** maakt een verloopkleurovervloeiing door keuzes te maken in de menu&#39;s Achtergrondverloopkleuren.
+**** ApplicationMaak een verloopkleurovervloeiing door keuzes te maken in de menu&#39;s Achtergrondverloopkleuren.
 
-**Boom** Kies een omvergooienkleur (de kleur die wordt weergegeven wanneer u de aanwijzer over een item beweegt) en een selectiekleur (de kleur die wordt weergegeven wanneer u een item selecteert).
+**** BoomKies een omvergooienkleur (de kleur die wordt weergegeven wanneer u de aanwijzer over een item beweegt) en een selectiekleur (de kleur die wordt weergegeven wanneer u een item selecteert).
 
-**Accordeon** Kies achtergrondkleuren, een randstijl, rollover en geselecteerde kleuren voor de accordeon die in de weergave Details rechts op het scherm wordt weergegeven.
+**** AccordeonKies achtergrondkleuren, een randstijl, rollover en geselecteerde kleuren voor de accordeon die in de weergave Details rechts op het scherm wordt weergegeven.
 
-**Koptekst** Accordeon Geef op of u tekst wilt maken in de vetgedrukte koptekst van de accordeon.
+**Accordion** HeaderKies of u tekst in de vetgedrukte accordeonkop wilt maken.
 
-**Datagrid** Kies kleuren voor de koptekstrij in gegevensrasters.
+**** DatagridKies kleuren voor de koptekstrij in gegevensrasters.
 
-**Waarschuwing** Kies een achtergrondkleur voor waarschuwingsberichtvensters.
+**** AlertKies een achtergrondkleur voor waarschuwingsberichtvensters.
 
-**Voortgangsbalk** Kies een kleur voor de balk die de voortgang van het uploaden en downloaden aangeeft.
+**Progress** BarKies een kleur voor de balk die de voortgang van het uploaden en downloaden aangeeft.
 
 Voor gebruikers van het Portaal van Media om de stijlmontages te zien u kiest, moeten zij `?company=(company name)` aan URL toevoegen waarmee zij tot het Portaal van Media toegang hebben. Bijvoorbeeld, om stijlmontages te zien, de gebruikers van het Portaal van Media die tot het bedrijf PortalCo bij het volgende toegang hebben:
 
@@ -52,4 +52,4 @@ Als u de bedrijfsnaam in de URL opneemt, kan Media Portal zien welk bedrijf een 
 
 U kunt meer leren over het communiceren van URL veranderingen in de gebruikers van het Portaal van Media, en vestiging een Welkome e-mailbericht zodat ontvangen de nieuwe gebruikers correcte Portaal URL van Media.
 
-Zie [Opstelling het Welkome e-mailbericht voor gebruikers](adding-media-portal-users.md#setting_up_the_welcome_e_mail_message_for_media_portal_users)van het Portaal van Media.
+Zie [Het welkome e-mailbericht instellen voor gebruikers van het Media Portal](adding-media-portal-users.md#setting_up_the_welcome_e_mail_message_for_media_portal_users).
