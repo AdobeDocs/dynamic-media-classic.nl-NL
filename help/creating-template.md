@@ -24,9 +24,9 @@ Als u een sjabloon wilt maken, klikt u op Samenstellen > Grondbeginselen van sja
 
 >[!NOTE]
 >
->Als u een sjabloon bewerkt die in een eerdere versie van Dynamic Media Classic is gemaakt, wordt u mogelijk gevraagd of u een canvaslaag wilt toevoegen als u dit opslaat? Kies Nee als u geen nieuwe basislaag wilt toevoegen. Als u per ongeluk Ja hebt gekozen, verwijdert u de opties &quot;&amp;allowCanvasPrompt&quot; en &quot;&amp;layer=0&quot; in de URL en drukt u op Enter of Return.
+>Als u een sjabloon bewerkt die in een eerdere versie van Dynamic Media Classic is gemaakt, wordt u mogelijk gevraagd of u de sjabloon wilt toevoegen met de vraag &quot;Wilt u een canvaslaag toevoegen?&quot; Kies Nee als u geen nieuwe basislaag wilt toevoegen. Als u per ongeluk Ja hebt gekozen, verwijdert u de opties &quot;&amp;allowCanvasPrompt&quot; en &quot;&amp;layer=0&quot; in de URL en drukt u op Enter of Return.
 
-## De oorspronkelijke sjabloon maken {#creating-the-initial-template}
+## Het creëren van het aanvankelijke malplaatje {#creating-the-initial-template}
 
 Wanneer u een sjabloonset maakt, heeft de optie **Publiceren na opslaan** op de volgende manieren invloed op de set en stelt u leden in:
 
@@ -35,7 +35,7 @@ Wanneer u een sjabloonset maakt, heeft de optie **Publiceren na opslaan** op de 
 | Ja | Gepubliceerd | Gepubliceerd |
 | Nee | Ongepubliceerd | Leden met een set behouden hun gepubliceerde of niet-gepubliceerde status. |
 
-Zie ook [Elementen](publishing-files.md#manually_publishing_assets) handmatig publiceren en [elementen](publishing-files.md#manually_unpublishing_assets)handmatig verwijderen.
+Zie ook [Elementen handmatig publiceren](publishing-files.md#manually_publishing_assets) en [Publicaties van elementen handmatig ongedaan maken](publishing-files.md#manually_unpublishing_assets).
 
 U kunt een sjabloon maken op basis van een bestaande sjabloon. Open de sjabloon, klik op **Opslaan als** en voer een nieuwe naam in het dialoogvenster Opslaan als in.
 
@@ -43,21 +43,21 @@ U kunt een sjabloon maken op basis van een bestaande sjabloon. Open de sjabloon,
 
 1. Gebruik een van de volgende methoden om uw sjabloon te maken:
 
-   **Selecteer eerst** de PSD of de beelden in het Browse Comité, selecteer het Psd- dossier of de beelden u voor uw malplaatje wilt, Bouwstijl > de Grondbeginselen van het Malplaatje klikken.
+   **Selecteer de PSD of de beelden** eerstIn het Browse Comité, selecteer het Psd- dossier of de beelden u voor uw malplaatje wilt, Bouwstijl > de Grondbeginselen van het Malplaatje klikken.
 
-   **Begin van het scherm** van het Malplaatje klikt Bouwstijl > de Grondbeginselen van het Malplaatje. Selecteer Designer of Developer.
+   **Begin van het** scherm van het MalplaatjeKlik Bouwstijl > de Grondbeginselen van het Malplaatje. Selecteer Designer of Developer.
 
 1. Voer in het dialoogvenster Canvasgrootte invoeren afmetingen voor de breedte en hoogte van de sjabloon in.
 1. Selecteer een map in de elementenbibliotheek en sleep het PSD-bestand of de afbeeldingen die u voor de sjabloon wilt gebruiken naar het scherm Sjabloon.
-1. Als u klaar bent, controleert u of **Publiceren na opslaan** is geselecteerd (standaard) in de rechterbenedenhoek van de pagina.
-1. Klik op **Opslaan**.
-1. Selecteer een map waarin u de sjabloon wilt opslaan, voer een naam voor de sjabloon in en klik op **Verzenden**.
+1. Als u klaar bent, gaat u naar de rechterbenedenhoek van de pagina en controleert u of **Publiceren na opslaan** is geselecteerd (standaard).
+1. Klik **Opslaan**.
+1. Selecteer een map voor het opslaan van de sjabloon, voer een naam voor de sjabloon in en klik op **Verzenden**.
 
-   Dynamische media Klassiek verkleint afbeeldingen indien nodig om deze op het canvas te passen, het gebied op het scherm Sjabloon voor het definiëren van uw sjabloon.
+   In Dynamic Media Classic worden afbeeldingen zo nodig verkleind om ze op het canvas te passen, het gebied op het scherm Sjabloon waarin u de sjabloon definieert.
 
 ## Een sjabloonset bewerken {#editing-a-template-set}
 
-Afhankelijk van het feit of u een gepubliceerde set of een niet-gepubliceerde sjabloonset bewerkt, heeft de optie **Publiceren na opslaan** op de volgende manieren invloed op de set en stelt u leden in:
+Afhankelijk van het feit of u een gepubliceerde set of een niet-gepubliceerde sjabloonset bewerkt, beïnvloedt de optie **Publiceren na opslaan** de set en stelt u de leden op de volgende manieren in:
 
 | Reeds gepubliceerd instellen? | De optie Publiceren na opslaan is geselecteerd voordat u de bewerking opslaat? | Status van set na opslaan | Status van ingestelde leden na opslaan |
 |--- |--- |--- |--- |
@@ -66,25 +66,25 @@ Afhankelijk van het feit of u een gepubliceerde set of een niet-gepubliceerde sj
 | Nee | Ja | Gepubliceerd | Gepubliceerd |
 | Nee | Nee | Ongepubliceerd | Bestaande leden die zijn ingesteld en eventuele nieuwe leden die u tijdens de bewerking hebt toegevoegd, behouden hun gepubliceerde of niet-gepubliceerde status. |
 
-Zie ook [Elementen](publishing-files.md#manually_publishing_assets) handmatig publiceren en [elementen](publishing-files.md#manually_unpublishing_assets)handmatig verwijderen.
+Zie ook [Elementen handmatig publiceren](publishing-files.md#manually_publishing_assets) en [Publicaties van elementen handmatig ongedaan maken](publishing-files.md#manually_unpublishing_assets).
 
 **Een sjabloonset bewerken**
 
 1. Blader in de rasterweergave naar een Sjabloonset en klik vervolgens onder de afbeelding op **Bewerken**.
 1. Breng desgewenst wijzigingen aan in de sjabloon.
-1. Als u klaar bent met bewerken, controleert u of **Publiceren na opslaan** is geselecteerd (standaard) in de rechterbenedenhoek van de pagina.
-1. Klik op **Opslaan**, selecteer een opslagmap, voer een naam voor de set in en klik op **Opslaan**.
+1. Als u klaar bent met bewerken, controleert u of u in de rechterbenedenhoek van de pagina **Publiceren na opslaan** hebt geselecteerd (standaardinstelling).
+1. Klik **Opslaan**, selecteer een opslagmap, voer een naam voor de set in en klik op **Opslaan**.
 
-## Een sjabloon verwijderen {#deleting-a-template}
+## Een sjabloon {#deleting-a-template} verwijderen
 
 Wanneer u een Sjabloonset verwijdert, wordt de set zelf naar de prullenbak verplaatst. De leden (of &quot;kinderen&quot;) in die reeks worden echter niet beïnvloed; in plaats daarvan behouden zij elk hun bestaande gepubliceerde of niet - gepubliceerde staat .
 
-Zie ook [Elementen](publishing-files.md#manually_publishing_assets) handmatig publiceren en [elementen](publishing-files.md#manually_unpublishing_assets)handmatig verwijderen.
+Zie ook [Elementen handmatig publiceren](publishing-files.md#manually_publishing_assets) en [Publicaties van elementen handmatig ongedaan maken](publishing-files.md#manually_unpublishing_assets).
 
 **Een sjabloon verwijderen**
 
 1. Selecteer een of meer sjablonen in de rasterweergave, lijstweergave of detailweergave.
-1. Klik op de algemene navigatiebalk op **Bestand** > **Verwijderen** > **Verwijderen**.
+1. Klik op **Bestand** > **Verwijderen** > **Verwijderen** op de algemene navigatiebalk.
 
 ## Het scherm Sjabloon {#understanding-the-template-screen}
 
@@ -92,27 +92,27 @@ Het scherm van het Malplaatje biedt hulpmiddelen om lagen te manipuleren en te b
 
 Gebruik de volgende gereedschappen in het scherm Sjabloon om sjablonen te maken:
 
-**Met het gereedschap** Pannen kunt u lagen selecteren, verplaatsen rond het canvas, de grootte ervan wijzigen of de lagen roteren.
+**Het** gereedschap PannenHiermee kunt u lagen selecteren, verplaatsen rond het canvas, de grootte ervan wijzigen of de lagen roteren.
 
-**Met het gereedschap** Tekst maakt u een tekstlaag. Sleep op het canvas om een tekstlaag te maken en voer de tekst in de laag in. Zie Een tekstlaag maken.
+**Tekstgereedschap** Hiermee maakt u een tekstlaag. Sleep op het canvas om een tekstlaag te maken en voer de tekst in de laag in. Zie Een tekstlaag maken.
 
-**Met de knop** Voorvertoning wordt het voorvertoningsscherm geopend en wordt de sjabloon weergegeven in een zoomviewer. U ziet hoe de sjabloon eruit ziet voor gebruikers op uw website of toepassing.
+**De** knoop van de voorproefOpent het scherm van de Voorproef en toont het malplaatje in een Kijker van het Gezoem. U ziet hoe de sjabloon eruit ziet voor gebruikers op uw website of toepassing.
 
-**De knop** Parameteroverzicht opent het scherm Parameter Summary. U kunt de naam van elke laag in een malplaatje zien, en op elke laag, de namen van parameters die zijn geactiveerd.
+**De Summiere** knoop van de parameterOpent het Summiere scherm van de Parameter. U kunt de naam van elke laag in een malplaatje zien, en op elke laag, de namen van parameters die zijn geactiveerd.
 
-**Teksteditor v4.3 en Teksteditor v4.2** U kunt kiezen of u de meest recente en meest complete teksteditor, Text Editor v4.3 of de vorige teksteditor, Text Editor v4.2, wilt gebruiken. Bij het maken van nieuwe sjablonen is Teksteditor v4.3 standaard geselecteerd. Als u oudere sjablonen bewerkt, is Teksteditor v4.2 standaard geselecteerd. Teksteditor v4.3 biedt momenteel geen ondersteuning voor tekstomloop, dus wanneer u oudere sjablonen bewerkt die tekstomloop gebruiken, gebruikt u Teksteditor v4.2 om de kwaliteit van de sjabloon volledig intact te houden. Als uw oudere sjabloon geen tekstomloop gebruikt, kunt u Teksteditor v4.3 kiezen om gebruik te maken van de vele nieuwe functies die deze biedt, zoals Marges verhogen, Marges verlagen, Tekst in hoofdletters instellen en Tekst passend maken kopiëren.
+**Teksteditor v4.3 en Teksteditor v4.2** U kunt kiezen of u de meest recente en meest volledige teksteditor, de Teksteditor v4.3 of de vorige teksteditor, Text Editor v4.2, wilt gebruiken. Bij het maken van nieuwe sjablonen is Teksteditor v4.3 standaard geselecteerd. Als u oudere sjablonen bewerkt, is Teksteditor v4.2 standaard geselecteerd. Teksteditor v4.3 biedt momenteel geen ondersteuning voor tekstomloop, dus wanneer u oudere sjablonen bewerkt die tekstomloop gebruiken, gebruikt u Teksteditor v4.2 om de kwaliteit van de sjabloon volledig intact te houden. Als uw oudere sjabloon geen tekstomloop gebruikt, kunt u Teksteditor v4.3 kiezen om gebruik te maken van de vele nieuwe functies die deze biedt, zoals Marges verhogen, Marges verlagen, Tekst in hoofdletters instellen en Tekst passend maken kopiëren.
 
-***opmerking **: Teksteditor v4.2 wordt uiteindelijk verwijderd als een optie in Dynamic Media Classic. Het wordt daarom aanbevolen om teksteditor 4.3 zo veel mogelijk te gebruiken. De optie Tekstomloop wordt opgenomen in een toekomstige versie van de Teksteditor.*
+***opmerking **: Teksteditor v4.2 wordt uiteindelijk als een optie verwijderd in Dynamic Media Classic. Het wordt daarom aanbevolen om teksteditor 4.3 zo veel mogelijk te gebruiken. De optie Tekstomloop wordt opgenomen in een toekomstige versie van de Teksteditor.*
 
-**Designer en Developer** Selecteer de optie die uw rol het beste beschrijft.
+**Designer en** DeveloperSelecteer de optie die uw rol het beste beschrijft.
 
-**Canvas** definieert het totale beschikbare gebied, in pixels, voor het definiëren van de sjabloon. De standaardgrootte is 300 x 300 pixels. Lagen worden op het canvas geplaatst.
+**** CanvasDefinieert het totale beschikbare gebied, in pixels, voor het definiëren van de sjabloon. De standaardgrootte is 300 x 300 pixels. Lagen worden op het canvas geplaatst.
 
-**De lijst** Lagen geeft de naam van lagen in de sjabloon weer. Als u een laag wilt selecteren, selecteert u de naam van de laag in de lijst Lagen. De lijst Lagen bevat gereedschappen voor het toevoegen van effecten aan lagen, het verwijderen van lagen, het opnieuw ordenen van lagen en het bepalen van parameters voor lagen. Zie Werken met lagen.
+**Lagen** lijstHier wordt de naam van lagen in de sjabloon weergegeven. Als u een laag wilt selecteren, selecteert u de naam van de laag in de lijst Lagen. De lijst Lagen bevat gereedschappen voor het toevoegen van effecten aan lagen, het verwijderen van lagen, het opnieuw ordenen van lagen en het bepalen van parameters voor lagen. Zie Werken met lagen.
 
-**In het gebied** Laageigenschappen kunt u de achtergrondkleur, dekking, grootte en positie van een laag, alsmede de achtergrondkleur, dekking en grootte van het canvas wijzigen. U kunt ook schaduw- en gloedeffecten aanpassen. Zie Werken met lagen.
+**Het** gebied Laageigenschappen bevat gereedschappen voor het wijzigen van de achtergrondkleur, dekking, grootte en positie van een laag, alsmede de achtergrondkleur, dekking en grootte van het canvas. U kunt ook schaduw- en gloedeffecten aanpassen. Zie Werken met lagen.
 
-## Afbeeldingslagen maken {#creating-image-layers}
+## Afbeeldingslagen {#creating-image-layers} maken
 
 1. Sleep de afbeelding van de elementenbibliotheek naar het canvas.
 
@@ -120,9 +120,9 @@ Gebruik de volgende gereedschappen in het scherm Sjabloon om sjablonen te maken:
 
 >[!NOTE]
 >
->Zo nodig worden afbeeldingen door Dynamic Media Classic verkleind, zodat ze op het canvas passen wanneer u een afbeeldingslaag maakt.
+>Zo nodig verkleint Dynamic Media Classic afbeeldingen, zodat deze op het canvas passen wanneer u een afbeeldingslaag maakt.
 
-## Een tekstlaag maken {#creating-a-text-layer}
+## Een tekstlaag {#creating-a-text-layer} maken
 
 1. Klik op het gereedschap Tekst.
 1. Sleep om een tekstvak te maken op het canvas of op een afbeelding.
@@ -133,7 +133,7 @@ Gebruik de volgende gereedschappen in het scherm Sjabloon om sjablonen te maken:
 
 1. Klik op Toepassen en sluit het tekstscherm.
 
-### Tekst opmaken {#format-text}
+### Tekst {#format-text} opmaken
 
 Ga als volgt te werk om tekst in een tekstlaag op te maken:
 
@@ -141,55 +141,55 @@ Ga als volgt te werk om tekst in een tekstlaag op te maken:
 1. Selecteer in het tekstvak de tekst die u wilt opmaken. U kunt alle tekst, delen van de tekst en afzonderlijke tekens selecteren.
 1. Geef een van deze opmaakopties op en klik op Toepassen.
 
-   **Lettertype** Kies een lettertype in het menu Lettertype. Als een lettertype dat u wilt gebruiken niet in het menu staat, kunt u het naar de Dynamic Media Classic uploaden. Zie Lettertypen.
+   **FontKies een lettertype in het menu Lettertype.** Als een lettertype dat u wilt gebruiken niet in het menu staat, kunt u het naar de Dynamic Media Classic uploaden. Zie Lettertypen.
 
-   **Tekengrootte** Kies een tekengrootte in het menu, typ een specifieke grootte in het vak of klik op de pijl-omhoog of -omlaag om de grootte met twee punten te vergroten of te verkleinen.
+   **FontgrootteKies een** tekengrootte in het menu, typ een specifieke grootte in het vak of klik op de pijl-omhoog of pijl-omlaag om de grootte met twee punten te vergroten of te verkleinen.
 
-   **Klik op Kleur** om een kleur voor tekst te kiezen.
+   **** ColorClick om een kleur voor tekst te kiezen.
 
-   **Selecteer de tekst Vet, Cursief of Onderstrepen** en klik op het pictogram voor het type opmaak dat u op de tekst wilt toepassen.
+   **Vet, Cursief of** OnderstrepenSelecteer de tekst en klik op het pictogram voor het type opmaak dat u op de tekst wilt toepassen.
 
-   **Met Kapitalen, Superscript of Subscript** selecteert u de tekst en klikt u op het pictogram voor het type opmaak dat u op de tekst wilt toepassen.
+   **Alle hoofdletters, Superscript of** SubscriptSelecteer de tekst en klik op het pictogram voor het type opmaak dat u op de tekst wilt toepassen.
 
-   **Uitlijning** Kies een uitlijningsknop om tekst in de tekstlaag links uit te lijnen, te centreren of rechts uit te lijnen.
+   **** UitlijningKies een uitlijningsknop om tekst in de tekstlaag links uit te lijnen, te centreren of rechts uit te lijnen.
 
-   **Type bijhouden** of selecteer een numerieke waarde waarmee u de hoeveelheid ruimte tussen woorden wilt aanpassen.
+   **** TrackingType of selecteer een numerieke waarde waarmee u de hoeveelheid ruimte tussen woorden wilt aanpassen.
 
-   **Spatietype** of selecteer een numerieke waarde waarmee u de hoeveelheid ruimte tussen tekens wilt aanpassen.
+   **** KerningType of selecteer een numerieke waarde waardoor om de hoeveelheid ruimte tussen karakters aan te passen.
 
-   **Type lijnspatiëring** of selecteer een numerieke waarde waarmee u de hoeveelheid ruimte tussen regels wilt aanpassen.
+   **RegelspatiëringType of selecteer een numerieke waarde waarmee u de hoeveelheid ruimte tussen regels wilt aanpassen.** 
 
-   **Het type van de Verschuiving** van de basislijn of selecteert een numerieke waarde waardoor om een geselecteerd karakter naar boven of naar onder met betrekking tot de basislijn van de omringende tekst te bewegen. Deze optie is vooral handig wanneer u breuken handmatig instelt of de positie van inline-afbeeldingen aanpast.
+   **Selecteer** ShiftType-basislijn of een numerieke waarde waarmee u een geselecteerd teken omhoog of omlaag wilt verplaatsen ten opzichte van de basislijn van de omringende tekst. Deze optie is vooral handig wanneer u breuken handmatig instelt of de positie van inline-afbeeldingen aanpast.
 
 >[!NOTE]
 >
 >Klik op Ongedaan maken om de laatste handeling om te keren. Klik op Opnieuw als u van gedachten verandert over het omkeren van een handeling nadat u op Ongedaan maken hebt geklikt.
 
-### Alinea&#39;s opmaken {#format-paragraphs}
+### Alinea&#39;s {#format-paragraphs} opmaken
 
 1. Dubbelklik in de lijst Lagen op de naam van het tekstvak met tekst die u wilt bewerken. De Teksteditor wordt geopend.
 1. Selecteer de alinea die u wilt opmaken.
 1. Geef een van deze opmaakopties op en klik op Toepassen.
 
-   **Klik op Uitlijning** om het type uitlijning op te geven: Hiermee lijnt u links uit, lijnt u het middelpunt uit, lijnt u rechts uit of rechtvaardigt u het uitvullen.
+   **** AlignmentClick om het type van groepering te specificeren: Hiermee lijnt u links uit, lijnt u het middelpunt uit, lijnt u rechts uit of rechtvaardigt u het uitvullen.
 
-   **Einde van alinea uitvullen** Klik om het type uitvulling voor de laatste regel in de alinea op te geven: laatste regel links uitgelijnd; laatste regel wordt gecentreerd; en laatste regel rechts uitgelijnd.
+   **Einde van alinea** uitvullenKlik om het type uitvulling voor de laatste regel in de alinea op te geven: laatste regel links uitgelijnd; laatste regel wordt gecentreerd; en laatste regel rechts uitgelijnd.
 
-   **Type lijnspatiëring** of selecteer een numerieke waarde waarmee u de hoeveelheid ruimte tussen alle regels in de alinea wilt aanpassen.
+   **LijnspatiëringType of selecteer een numerieke waarde waarmee u de hoeveelheid ruimte tussen alle regels in de alinea wilt aanpassen.** 
 
-   **Klik op Alles** inspringen om de mate van inspringing van de tekst te verhogen.
+   **Inspringen** AllClick om de hoeveelheid tekst te vergroten die wordt ingesprongen.
 
-   **Verwijder Inspringen** . Klik om de mate waarin de tekst inspringt te verminderen.
+   **Verwijder** IndentClick om de hoeveelheid te verminderen de tekst is gekarteld.
 
-   **Inspringen eerste regel** Geef de hoeveelheid op waarmee u de eerste regel tekst wilt laten inspringen.
+   **Inspringen eerste** regelGeef de hoeveelheid op waarmee u de eerste tekstregel wilt laten inspringen.
 
-   **Witruimte voor alinea** Geef de hoeveelheid ruimte op die boven de eerste tekstregel in de alinea moet komen.
+   **Witruimte voor** alineaGeef de hoeveelheid ruimte op die boven de eerste tekstregel in de alinea moet komen.
 
-   **Witruimte na alinea** Geef op hoeveel ruimte u onder de laatste tekstregel in de alinea wilt weergeven.
+   **Ruimte na** alineaGeef de hoeveelheid ruimte op die u onder de laatste tekstregel in de alinea wilt weergeven.
 
-   **Met Verticaal uitlijnen** selecteert u de plaats waar de tekst verticaal in het tekstvak moet worden weergegeven: Boven, Midden, Onder.
+   **Verticaal** uitlijnenSelecteer de plaats waar u de tekst verticaal in het tekstvak wilt weergeven: Boven, Midden, Onder.
 
-   **Tekstrichting** Selecteer de richting waarin de tekst moet worden weergegeven: Van rechts naar links of van links naar rechts.
+   **TekstrichtingSelecteer de richting waarin u de tekst wilt weergeven:**  Van rechts naar links of van links naar rechts.
 
 ### Eigenschappen van tekstlagen aanpassen {#adjust-text-layer-properties}
 
@@ -198,19 +198,19 @@ Ga als volgt te werk om tekst in een tekstlaag op te maken:
 
    **Tekst verkleinen (alleen Teksteditor v4.2)** Selecteer deze optie om de tekst te verkleinen zodat deze in het tekstvak past.
 
-   **Tekstomloop (alleen teksteditor v4.2)** Selecteer een omloopoptie om op te geven of en hoe de tekst om de volgende redenen loopt:
+   **Tekstomloop (alleen Teksteditor v4.2)** Selecteer een omloopoptie om op te geven of en hoe de tekst om moet lopen:
 
-   **Met Tekstomloop** wordt de tekst zo geplaatst dat deze in een te klein horizontaal tekstvak past.
+   **De** tekst wordt omlopen zodat deze in een te klein, horizontaal tekstvak past.
 
-   **Geen tekstomloop** laat de tekst omlopen wanneer het tekstvak te klein horizontaal is. In plaats daarvan wordt een gedeelte van de tekst weggesneden.
+   **No** WrapDoes not wrap de tekst wanneer het tekstvakje te klein horizontaal is, en in plaats daarvan, snijdt van een gedeelte van de tekst af.
 
-   **NB Met tekstomloop** (vaste omloop) wordt de tekst zo geplaatst dat deze in een tekstvak past en worden woorden niet afgebroken.
+   **NB Met tekstomloop**  (vaste omloop) wordt de tekst in een tekstvak geplaatst en worden woorden niet afgebroken.
 
-   **Met Positie** geeft u de locatie van het tekstvak op het canvas op.
+   **** PositionHiermee geeft u de locatie van het tekstvak op het canvas op.
 
-   **Opvulling** voegt marges toe of snijdt de laagrechthoek bij. Geef het aantal pixels op dat u wilt toevoegen of verwijderen voor Links, Boven, Onder en Rechts. Geef positieve getallen op om een marge toe te voegen. Voer negatieve getallen in voor uitsnijden.
+   **** PaddingHiermee voegt u marges toe of snijdt u de laagrechthoek bij. Geef het aantal pixels op dat u wilt toevoegen of verwijderen voor Links, Boven, Onder en Rechts. Geef positieve getallen op om een marge toe te voegen. Voer negatieve getallen in voor uitsnijden.
 
-### Tekstbroncode weergeven en bewerken {#view-and-edit-text-source-code}
+### Tekstbroncode {#view-and-edit-text-source-code} weergeven en bewerken
 
 De informatie op het tabblad Bron van de Teksteditor is ter referentie. Bewerk de tekst alleen als u bekend bent met het bewerken van broncode.
 
@@ -243,15 +243,15 @@ Lagen moeten klein genoeg zijn om op het canvas te passen. U kunt de grootte van
 
 >[!NOTE]
 >
->Dynamische media Klassiek raadt u aan een voorinstelling voor afbeeldingen te maken die de exacte grootte van de sjabloon heeft. Als u de grootte van de voorinstelling Afbeelding afstemt op de sjabloongrootte, weet u zeker dat de uiteindelijke uitvoergrootte en de verscherpingsopties voor de sjabloon correct zijn ingesteld. Nadat u deze voorinstelling voor afbeelding hebt gemaakt, kunt u deze kiezen in het menu Voorinstelling toepassen op het scherm Sjabloonvoorvertoning. Het scherm toont u hoe het beeld eruit ziet wanneer het van de server wordt geleverd. Zie [Voorinstellingen](setting-image-presets.md#setting_up_image_presets)afbeelding instellen.
+>Dynamic Media Classic raadt u aan een voorinstelling voor afbeeldingen te maken die de exacte grootte van uw sjabloon heeft. Als u de grootte van de voorinstelling Afbeelding afstemt op de sjabloongrootte, weet u zeker dat de uiteindelijke uitvoergrootte en de verscherpingsopties voor de sjabloon correct zijn ingesteld. Nadat u deze voorinstelling voor afbeelding hebt gemaakt, kunt u deze kiezen in het menu Voorinstelling toepassen op het scherm Sjabloonvoorvertoning. Het scherm toont u hoe het beeld eruit ziet wanneer het van de server wordt geleverd. Zie [Voorinstellingen voor afbeeldingen instellen](setting-image-presets.md#setting_up_image_presets).
 
 **De grootte van een laag wijzigen**
 
 Als u de grootte van een laag of het canvas wilt wijzigen, selecteert u de laag of het canvas in de lijst Lagen en gebruikt u een van de volgende technieken:
 
-**Grootte** handmatig wijzigen Selecteer en sleep een hoek van de laag of het canvas. Met tekstlagen kunt u ook een zijde van de laag slepen. Houd Shift ingedrukt terwijl u sleept om de grootte te wijzigen, maar de hoogte-breedteverhouding (de vorm) te behouden.
+**Grootte handmatig wijzigenSelecteer en sleep een hoek van de laag of het canvas.** Met tekstlagen kunt u ook een zijde van de laag slepen. Houd Shift ingedrukt terwijl u sleept om de grootte te wijzigen, maar de hoogte-breedteverhouding (de vorm) te behouden.
 
-**Metingen** voor laaggrootte invoeren Voer pixelmetingen in in de tekstvakken B (Breedte) en H (Hoogte) in het gebied Laageigenschappen.
+**Het ingaan van** metingen van de laaggrootteGa pixelmetingen in de de tekstvakjes van B (Breedte) en van H (Hoogte) in het gebied van de Eigenschappen van de Laag in.
 
 U kunt een laag niet alleen vergroten of verkleinen, maar ook verkleinen. Voer hiertoe een opvullingsmeting in in het vak Links, Rechts, Boven en Onder in het gebied Laageigenschappen. Door opvulling wordt een marge aan de huidige laag toegevoegd die wordt verschoven ten opzichte van de omtrek van de basislaag. Opvulling is handig als u een slagschaduw of een effect Buitenste gloed toevoegt en u het effect beter zichtbaar wilt maken. Door opvulling wordt een laag groter en wordt de achtergrondkleur weergegeven in het uitgebreide gebied met opvulling. De basislaag verplaatst zichzelf ten opzichte van de nieuwe grootte van de laag. Als de huidige laag bijvoorbeeld is gecentreerd op de basislaag en u de linkerzijde van de laag uitbreidt, wordt deze verder naar rechts van de basislaag verplaatst.
 
@@ -259,17 +259,17 @@ U kunt een laag niet alleen vergroten of verkleinen, maar ook verkleinen. Voer h
 
 Als u de positie van een laag op het canvas wilt wijzigen, selecteert u de naam van de laag in de lijst Lagen en gebruikt u een van de volgende technieken:
 
-**Als u de positie** handmatig wijzigt, verplaatst u de aanwijzer naar de gewenste positie, niet naar de rand van een laag. Als u de cursor met vier pijlpunten ziet, klikt u en sleept u deze.
+**Handmatig** positie wijzigenPlaats de aanwijzer dichtbij een laaggrens, maar niet boven een laaggrens. Klik en sleep wanneer u de pijl met vier punten ziet.
 
-**Invoermaten voor** positieverschuiving Voer de X- en Y-verschuivingsmetingen in de tekstvakken X en Y in. Deze metingen vertegenwoordigen de x- en y-verschuiving van het ankerpunt in pixels.
+**Positie-verschuivingsmetingen** invoerenVoer X- en Y-verschuivingsmetingen in de tekstvakken X en Y in. Deze metingen vertegenwoordigen de x- en y-verschuiving van het ankerpunt in pixels.
 
 **Een laag roteren**
 
 In het vak Roteren wordt de hoek weergegeven waarop de laag is geroteerd. Als u een laag wilt roteren, selecteert u de naam van de laag in de lijst Lagen en gebruikt u een van de volgende technieken:
 
-**Als u de cursor handmatig roteert** , verplaatst u deze naar een hoek van de laag, maar niet boven een hoek van de laag. Wanneer u de rotatiecursor ziet, sleept u de hoek van de laag. Houd Shift tijdens het slepen ingedrukt om in stappen van 15 graden te roteren.
+**Handmatig** roterenPlaats de cursor boven een hoek van de laag, maar niet ernaast. Wanneer u de rotatiecursor ziet, sleept u de hoek van de laag. Houd Shift tijdens het slepen ingedrukt om in stappen van 15 graden te roteren.
 
-**Een gradenmeting** invoeren Voer het aantal graden in waarmee de laag wordt geroteerd. de rotatie rechtsom is; Voer een negatief getal in om linksom te roteren.
+**Een** gradenmaat invoerenVoer het aantal graden in om de laag te roteren. de rotatie rechtsom is; Voer een negatief getal in om linksom te roteren.
 
 **Een laag of een laageffect verbergen**
 
@@ -279,17 +279,17 @@ layer=5&amp;src=is{PortalCo/title}&amp;pos=274,192&amp;effect=-1&amp;.effect=Sla
 
 layer=5&amp;src=is{PortalCo/title}&amp;pos=274,192&amp;hide=1&amp;effect=-1&amp;.effect=Slagschaduw&amp;blendmode
 
-### De achtergrondkleur, dekking en overvloeimodus bepalen {#determining-the-background-color-opacity-and-blend-mode}
+### De achtergrondkleur, dekking en overvloeimodus {#determining-the-background-color-opacity-and-blend-mode} bepalen
 
 Als u een achtergrondkleur, dekking en overvloeimodus voor een laag of het canvas wilt kiezen, selecteert u de laag of het canvas en gebruikt u de volgende technieken:
 
-**Voorgrondkleur** Klik op de knop Voorgrondkleur en kies een kleurstaal om de kleur van de schaduw of gloed te wijzigen. U kunt ook een parameter color-value in het vak invoeren. De achtergrondkleur wordt alleen toegepast op lagen die transparantie gebruiken. Het is bijvoorbeeld van toepassing op een gedeeltelijk transparante laag in een prijstag of de achtergrond van een tekstveld. Lagen die bestaan uit een PSD-, TIFF- of PNG-afbeelding waarop transparantie is ingeschakeld, kunnen transparante achtergronden hebben.
+**VoorgrondkleurKlik op de knop** Voorgrondkleur en kies een kleurstaal om de kleur van de schaduw of gloed te wijzigen. U kunt ook een parameter color-value in het vak invoeren. De achtergrondkleur wordt alleen toegepast op lagen die transparantie gebruiken. Het is bijvoorbeeld van toepassing op een gedeeltelijk transparante laag in een prijstag of de achtergrond van een tekstveld. Lagen die bestaan uit een PSD-, TIFF- of PNG-afbeelding waarop transparantie is ingeschakeld, kunnen transparante achtergronden hebben.
 
-**Achtergrondkleur** Klik op de knop Achtergrondkleur en kies een kleurstaal om de kleur van de opgevulde gebieden te wijzigen.
+**AchtergrondkleurKlik op de knop Achtergrondkleur en kies een kleurstaal om de kleur van de opgevulde gebieden te wijzigen.** 
 
-**Dekking** Sleep de schuifregelaar Dekking om een laag doorzichtig te maken, zodat een deel van de onderliggende afbeelding zichtbaar wordt. De instelling van 100 procent is volledig dekkend. de instelling 0 is transparant.
+**** DekkingSleep de schuifregelaar Dekking om een laag doorzichtig te maken, zodat een deel van de onderliggende afbeelding zichtbaar wordt. De instelling van 100 procent is volledig dekkend. de instelling 0 is transparant.
 
-**Overvloeimodus** Kies een optie om een van de overvloeimodi te simuleren die beschikbaar zijn in Photoshop. De opties zijn Normaal, Verspreiden, Lichter, Donkerder, Vermenigvuldigen en Scherm. Deze opties zijn beschikbaar voor lagen, niet voor het canvas.
+**OvervloeimodusKies een** optie om een van de overvloeimodi te simuleren die beschikbaar zijn in Photoshop. De opties zijn Normaal, Verspreiden, Lichter, Donkerder, Vermenigvuldigen en Scherm. Deze opties zijn beschikbaar voor lagen, niet voor het canvas.
 
 ## Schaduw- en gloedeffecten gebruiken op lagen {#using-shadow-and-glow-effects-on-layers}
 
@@ -297,42 +297,42 @@ U kunt een schaduw of gloed op een laag toepassen. De schaduw of gloed wordt toe
 
 Nadat u een schaduw- of gloedeffect hebt toegepast, kunt u de grootte, kleur, dekking en positie aanpassen in het gedeelte Laageigenschappen van het scherm Sjabloon.
 
-### Een schaduw- of gloedeffect toepassen op een laag {#applying-a-shadow-or-glow-effect-to-a-layer}
+### Schaduw- of gloedeffect toepassen op een laag {#applying-a-shadow-or-glow-effect-to-a-layer}
 
 Een schaduw- of gloedeffect toepassen:
 
 1. Selecteer een laag in de lijst Lagen.
 1. Selecteer het menu Effect toevoegen en kies een optie:
 
-   **Met Slagschaduw** past u een schaduw toe op de onder- en rechterzijde van de laag.
+   **Slagschaduw** Hiermee past u een schaduw toe op de onder- en rechterzijde van de laag.
 
-   **Met Schaduw** binnen past u een schaduweffect toe binnen alle randen van de laag.
+   **Schaduw binnen** past een schaduweffect toe binnen alle randen van de laag.
 
-   **Met Gloed** buiten past u een gloedeffect toe rond alle randen van de laag.
+   **Gloed buiten** Hiermee past u een gloedeffect toe rond alle randen van de laag.
 
-   **Met Gloed** binnen past u een gloedeffect toe binnen alle randen van de laag.
+   **Gloed binnen** past een gloedeffect toe binnen alle randen van de laag.
 
 Nadat u een effect hebt toegepast, wordt in de lijst Lagen een effectnaam weergegeven. Als u een effect wilt verwijderen, selecteert u de naam in de lijst Lagen en selecteert u vervolgens de knop Verwijderen.
 
 >[!NOTE]
 >
->Soms kunt u het effect van een slagschaduw of gloed buiten niet zien als de onderliggende laag niet groot genoeg is om deze weer te geven. Als u de schaduw of gloed niet kunt zien, kunt u overwegen waarden voor opvulling aan de laag toe te voegen of de laag opnieuw te ordenen. Zie De grootte en positie van lagen [wijzigen en de lagen](creating-template.md#changing_the_size_and_position_of_layers_and_the_canvas)canvasand [herschikken](creating-template.md#reordering_layers).
+>Soms kunt u het effect van een slagschaduw of gloed buiten niet zien als de onderliggende laag niet groot genoeg is om deze weer te geven. Als u de schaduw of gloed niet kunt zien, kunt u overwegen waarden voor opvulling aan de laag toe te voegen of de laag opnieuw te ordenen. Zie [De grootte en positie van lagen en het canvas wijzigen](creating-template.md#changing_the_size_and_position_of_layers_and_the_canvas)en [Lagen opnieuw ordenen](creating-template.md#reordering_layers).
 
-### Een schaduw- of gloedeffect aanpassen {#adjusting-a-shadow-or-glow-effect}
+### Een schaduw- of gloedeffect {#adjusting-a-shadow-or-glow-effect} aanpassen
 
 Als u een schaduw- of gloedeffect wilt aanpassen, selecteert u eerst de naam van het effect in de lijst Lagen. Wijzig vervolgens de instellingen in het gedeelte Laageigenschappen van het scherm Sjabloon:
 
-**Kleur** Selecteer de knop Kleur en kies een kleurstaal om de kleur van de schaduw of gloed te wijzigen. U kunt ook een parameter color-value in het vak invoeren.
+**** KleurSelecteer de knop Kleur en kies een kleurstaal om de kleur van de schaduw of gloed te wijzigen. U kunt ook een parameter color-value in het vak invoeren.
 
-**Dekking** Sleep de schuifregelaar om te bepalen hoe intens het effect is. Minder dekkende effecten zijn transparanter.
+**** DekkingSleep de schuifregelaar om te bepalen hoe intens het effect is. Minder dekkende effecten zijn transparanter.
 
 **Overvloeimodus** Kies een optie om een van de overvloeimodi te simuleren die beschikbaar zijn in Photoshop. De opties zijn Normaal, Verspreiden, Lichter, Donkerder, Vermenigvuldigen en Scherm.
 
-**Grootte** Voer metingen in het vak X en Y in om het schaduweffect te vergroten of te verkleinen. Grootteopties zijn alleen beschikbaar voor binnenschaduwen en slagschaduwen.
+**** GrootteVoer metingen in het vak X en Y in om het schaduweffect te vergroten of te verkleinen. Grootteopties zijn alleen beschikbaar voor binnenschaduwen en slagschaduwen.
 
-**Vergroot** Sleep de schuifregelaar om het effect naar binnen of naar buiten uit te breiden.
+**** GrowSleep de schuifregelaar om het effect naar binnen of naar buiten uit te breiden.
 
-**Vervagen** Sleep de schuifregelaar om doezelen aan de randen van het effect te bepalen. Effecten met meer vervaging zijn doezelder.
+**** VervagenSleep de schuifregelaar om doezelen aan de randen van het effect in te stellen. Effecten met meer vervaging zijn doezelder.
 
 ## Lagen maskeren {#masking-layers}
 
