@@ -22,9 +22,9 @@ ht-degree: 0%
 
 In het scherm Viewer List kunt u een voorvertoning van afbeeldingen weergeven met verschillende voorinstellingen voor de zoomviewer.
 
-Zie Standaardviewers [configureren](application-setup.md#configuring_default_viewers).
+Zie [Standaardviewers configureren](application-setup.md#configuring_default_viewers).
 
-Zie Een [voorvertoning van een element](previewing-asset.md#previewing_an_asset)weergeven.
+Zie [Voorvertoning van een element](previewing-asset.md#previewing_an_asset).
 
 **Een voorvertoning van afbeeldingselementen weergeven met verschillende zoomviewers**
 
