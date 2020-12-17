@@ -22,30 +22,30 @@ ht-degree: 0%
 
 Nadat u een gemengde mediaset hebt gepubliceerd, kunt u de bijbehorende URL verkrijgen voor gebruik in uw website of toepassing. Vervolgens kunt u indien nodig de URL implementeren, zodat gebruikers de gemengde mediaset op uw website of toepassing kunnen bekijken.
 
-## Een gemengde URL voor mediaset verkrijgen {#obtain-a-mixed-media-set-url}
+## Een gemengde-mediaset-URL {#obtain-a-mixed-media-set-url} verkrijgen
 
 1. Klik in de vervolgkeuzelijst Tonen in het deelvenster Middelen bladeren op **Mediaset**.
 1. Navigeer in het deelvenster Elementenbibliotheek aan de linkerkant naar de elementenmap die de mediaset bevat waarvan u de insluitcode wilt kopiëren.
 1. Voer boven het deelvenster Asset Browse een van de volgende handelingen uit aan de rechterkant van de werkbalk:
 
-   * Klik op **Rasterweergave**. Dubbelklik in het deelvenster Asset Browse op één element om dit te openen in de gedetailleerde weergave. Klik in de URL&#39;s en in het deelvenster Code insluiten aan de rechterkant op URL **** kopiëren rechts van de gewenste viewer.
-   * Klik op **Rasterweergave**. Selecteer één element in het deelvenster Asset Browse en klik vervolgens onder de miniatuurafbeelding op **Voorvertoning** > **Viewer List**.
+   * Klik **Rasterweergave**. Dubbelklik in het deelvenster Asset Browse op één element om dit te openen in de gedetailleerde weergave. Klik in de URL&#39;s en het deelvenster Code insluiten aan de rechterkant op **URL kopiëren** rechts van de gewenste viewer.
+   * Klik **Rasterweergave**. Selecteer in het deelvenster Asset Browse één element en klik vervolgens onder de miniatuurafbeelding op **Voorvertoning** > **Viewerlijst**.
 
-      Klik op URL **** kopiëren onder de kolom Handelingen van de tabel in de Viewer List.
+      Klik onder de kolom Acties van de tabel in de pagina Viewer List op **URL kopiëren**.
 
-   * Klik op **Lijstweergave**. Selecteer één element in het deelvenster Asset Browse en klik vervolgens rechts van de miniatuurafbeelding op **Voorvertoning** > **Viewer List**.
+   * Klik **Lijstweergave**. Selecteer één element in het deelvenster Asset Browse en klik vervolgens rechts van de miniatuurafbeelding op **Voorvertoning** > **Viewer List**.
 
-      Klik op URL **** kopiëren onder de kolom Handelingen van de tabel in de Viewer List.
+      Klik onder de kolom Acties van de tabel in de pagina Viewer List op **URL kopiëren**.
 
-   * Klik op **Rasterweergave**, **Lijstweergave** of **Gedetailleerde weergave**. Klik op dezelfde werkbalk op **Voorvertoning** > **Viewer List**.
+   * Klik **Rasterweergave**, **Lijstweergave** of **Detailweergave**. Klik op **Voorvertoning** > **Viewerlijst** op dezelfde werkbalk.
 
-      Klik op URL **** kopiëren onder de kolom Handelingen van de tabel in de Viewer List.
+      Klik onder de kolom Acties van de tabel in de pagina Viewer List op **URL kopiëren**.
 
-## Gemengde mediaset-URL&#39;s toevoegen aan uw webpagina {#add-mixed-media-set-urls-to-your-web-page}
+## Voeg gemengde Media toe - vastgestelde URLs aan uw Web-pagina {#add-mixed-media-set-urls-to-your-web-page}
 
 De gemeenschappelijkste manier om Gemengde Reeksen van Media op te stellen is een verbinding (via een navigatiepictogram) op uw Web-pagina te plaatsen. Wanneer geklikt, lanceert de verbinding een dynamische pagina (ASPIS of JSP) die de Gemengde Geplaatste Media in de Gemengde Kijker van de Geplaatst Media toont.
 
-## De insluitcode van een viewer met gemengde mediaset kopiëren {#copying-the-embed-code-of-a-mixed-media-set-viewer}
+## De insluitcode van een viewer {#copying-the-embed-code-of-a-mixed-media-set-viewer} voor gemengde mediasets kopiëren
 
 Met de functie Code insluiten kunt u de viewercode voor de geselecteerde gemengde mediaset controleren. U kunt de code ook naar het klembord kopiëren, zodat u de code op uw webpagina&#39;s kunt plakken en de viewer kunt implementeren. Het bewerken van de code is niet toegestaan in het dialoogvenster Code insluiten.
 
@@ -55,24 +55,24 @@ Met de functie Code insluiten kunt u de viewercode voor de geselecteerde gemengd
 1. Navigeer in het deelvenster Elementenbibliotheek aan de linkerkant naar de elementenmap die de gemengde mediaset bevat waarvan u de insluitcode wilt kopiëren.
 1. Voer boven het deelvenster Asset Browse een van de volgende handelingen uit aan de rechterkant van de werkbalk:
 
-   * Klik op **Rasterweergave**. Dubbelklik in het deelvenster Asset Browse op één element om dit te openen in de gedetailleerde weergave. Klik in de URL&#39;s en in het deelvenster Code insluiten rechts van de gewenste viewer op Code **** insluiten.
-   * Klik op **Rasterweergave**. Selecteer één element in het deelvenster Asset Browse en klik vervolgens onder de miniatuurafbeelding op **Voorvertoning** > **Viewer List**.
+   * Klik **Rasterweergave**. Dubbelklik in het deelvenster Asset Browse op één element om dit te openen in de gedetailleerde weergave. Klik rechts in het deelvenster URL&#39;s en Code insluiten op **Code insluiten** rechts van de gewenste viewer.
+   * Klik **Rasterweergave**. Selecteer in het deelvenster Asset Browse één element en klik vervolgens onder de miniatuurafbeelding op **Voorvertoning** > **Viewerlijst**.
 
-      Klik op de pagina Viewer List onder de kolom Acties van de tabel op Code **** insluiten.
+      Klik onder de kolom Acties van de tabel in de pagina Viewer List op **Code insluiten**.
 
-   * Klik op **Lijstweergave**. Selecteer één element in het deelvenster Asset Browse en klik vervolgens rechts van de miniatuurafbeelding op **Voorvertoning** > **Viewer List**.
+   * Klik **Lijstweergave**. Selecteer één element in het deelvenster Asset Browse en klik vervolgens rechts van de miniatuurafbeelding op **Voorvertoning** > **Viewer List**.
 
-      Klik op de pagina Viewer List onder de kolom Acties van de tabel op Code **** insluiten.
+      Klik onder de kolom Acties van de tabel in de pagina Viewer List op **Code insluiten**.
 
-   * Klik op **Rasterweergave**, **Lijstweergave** of **Gedetailleerde weergave**. Klik op dezelfde werkbalk op **Voorvertoning** > **Viewer List**.
+   * Klik **Rasterweergave**, **Lijstweergave** of **Detailweergave**. Klik op **Voorvertoning** > **Viewerlijst** op dezelfde werkbalk.
 
-      Klik op de pagina Viewer List onder de kolom Acties van de tabel op Code **** insluiten.
+      Klik onder de kolom Acties van de tabel in de pagina Viewer List op **Code insluiten**.
 
 1. Klik in het dialoogvenster Code insluiten op **Kopiëren naar klembord**.
 
    Het bewerken van de code is niet toegestaan in het dialoogvenster Code insluiten.
 
-1. Klik op **Sluiten**.
+1. Klik **Close**.
 
 >[!MORELIKETHIS]
 >
