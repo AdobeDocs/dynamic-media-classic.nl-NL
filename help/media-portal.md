@@ -20,8 +20,8 @@ ht-degree: 0%
 
 # Media Portal{#media-portal}
 
-Adobe Media Portal biedt bedrijven de mogelijkheid om goedgekeurde creatieve middelen eenvoudig te verwerven, te beheren en te distribueren aan externe partners en kanalen, alsmede aan interne zakelijke gebruikers. Deze op browser-gebaseerde, &quot;zelf-dient&quot;milieu voorziet poortgebruikers van beheerder-gecontroleerde &quot;meningen&quot;in Dynamic Media Klassieke activa voor gemakkelijke toegang om te uploaden, doorbladeren, onderzoek, voorproef, en de uitvoeractiva in collectief-goedgekeurd formaat.
+Adobe Media Portal biedt bedrijven de mogelijkheid om goedgekeurde creatieve middelen eenvoudig te verwerven, te beheren en te distribueren aan externe partners en kanalen, alsmede aan interne zakelijke gebruikers. Deze op browser-gebaseerde, &quot;zelf-dient&quot;milieu voorziet poortgebruikers van beheerder-gecontroleerde &quot;meningen&quot;in de Klassieke activa van Dynamic Media voor gemakkelijke toegang tot upload, doorbladeren, onderzoek, voorproef, en de uitvoeractiva in collectief-goedgekeurd formaat.
 
 Voor meer informatie over het Portaal van Media met inbegrip van systeemvereisten, zie [www.adobe.com/go/learn_sc7_mediaportalusing_en](https://www.adobe.com/go/learn_sc7_mediaportalusing_en).
 
-Voor informatie over het beheren van het Portaal van Media, zie [Snelle Begin: Beheer](quick-start-media-portal-administration.md#quick_start_media_portal_administration)van mediaportaal.
+Voor informatie over het beheren van het Portaal van Media, zie [Snelle Begin: Beheer van mediaportal](quick-start-media-portal-administration.md#quick_start_media_portal_administration).
