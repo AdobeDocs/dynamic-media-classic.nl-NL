@@ -2,7 +2,7 @@
 title: Nieuwe functies
 seo-title: Nieuwe functies
 description: 'null'
-seo-description: Meer informatie over nieuwe Dynamic Media Classic kunt u vinden in de opmerkingen bij de huidige release.
+seo-description: Meer informatie over de nieuwe Dynamic Media Classic vindt u in de opmerkingen bij de huidige release.
 uuid: 78b88ec0-69fc-481b-af54-4c2d0a31057f
 contentOwner: admin
 content-type: reference
@@ -20,4 +20,4 @@ ht-degree: 0%
 
 # Nieuwe functies {#what-s-new}
 
-Raadpleeg de Klassieke opmerkingen bij de release [Dynamic Media voor meer informatie over de nieuwste Adobe Dynamic Media Classic-release, inclusief nieuwe functies, verbeteringen en oplossingen](https://docs.adobe.com/content/help/en/dynamic-media-developer-resources/release-notes/s7rn2017.html).
+Raadpleeg de [Klassieke releaseopmerkingen van Dynamic Media](https://docs.adobe.com/content/help/en/dynamic-media-developer-resources/release-notes/s7rn2017.html) voor informatie over de nieuwste Adobe Dynamic Media Classic-release, inclusief nieuwe functies, verbeteringen en oplossingen.
