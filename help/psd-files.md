@@ -20,19 +20,19 @@ ht-degree: 1%
 
 # Werken met PSD-bestanden {#working-with-psd-files}
 
-PSD (Photoshop Document files) worden meestal gebruikt in Dynamic Media Classic om sjablonen te maken. Wanneer u een PSD-bestand uploadt, kunt u automatisch vanuit het bestand een klassieke sjabloon voor dynamische media maken (selecteer de optie Sjabloon maken in het scherm Uploaden).
+PSD (Photoshop Document files) worden meestal gebruikt in Dynamic Media Classic om sjablonen te maken. Wanneer u een PSD-bestand uploadt, kunt u automatisch een klassieke Dynamic Media-sjabloon maken vanuit het bestand (selecteer de optie Sjabloon maken in het scherm Uploaden).
 
-Met Dynamic Media Classic maakt u meerdere afbeeldingen van een PSD-bestand met lagen als u het bestand gebruikt om een sjabloon te maken. er wordt één afbeelding voor elke laag gemaakt.
+Dynamic Media Classic maakt meerdere afbeeldingen van een PSD-bestand met lagen als u het bestand gebruikt om een sjabloon te maken. er wordt één afbeelding voor elke laag gemaakt.
 
-## Opties voor uploaden naar PSD {#psd-upload-options}
+## Opties voor PSD-upload {#psd-upload-options}
 
 De opties voor het uploaden van PSD-bestanden bevinden zich onder Photoshop-opties in Opties voor uploaden. U kunt een bestand uitsnijden, een kleurprofiel kiezen, het gebruiken om een sjabloon te maken en een anker selecteren.
 
 Deze opties zijn beschikbaar wanneer u PSD-bestanden uploadt:
 
-**Uitsnijden** (bevindt zich onder Opties voor uitsnijden.) Kies Bijsnijden om de witruimte aan de randen van een PSD-bestand automatisch bij te snijden. Kies Handmatig om zijden van het PSD-bestand uit te snijden:
+**Uitsnijden**  (bevindt zich onder Opties voor uitsnijden.) Kies Bijsnijden om de witruimte aan de randen van een PSD-bestand automatisch bij te snijden. Kies Handmatig om zijden van het PSD-bestand uit te snijden:
 
-**Bij te snijden** selecteert u het menu Wegsnijden op basis van en kiest u Kleur of Transparantie.
+**** BijsnijdenSelecteer het menu Wegsnijden op basis van en kies Kleur of Transparantie.
 
 Als u de optie Kleur kiest, selecteert u het menu Hoek en kiest u de hoek van het PSD-bestand met de kleur die het beste overeenkomt met de kleur van de witruimte die u wilt uitsnijden.
 
@@ -42,37 +42,37 @@ Als u wilt bijsnijden op basis van kleur, geeft u 0 op om alleen pixels bij te s
 
 Als u wilt bijsnijden op basis van transparantie, geeft u 0 op voor het bijsnijden van pixels, alleen als deze volledig transparant zijn. De cijfers dichter aan 1 staan voor meer transparantie.
 
-**Met Handmatig** geeft u het aantal pixels op dat u aan elke zijde van de afbeelding wilt uitsnijden. Hoeveel van de afbeelding wordt uitgesneden, is afhankelijk van de ppi-instelling (pixels per inch) in het afbeeldingsbestand. Als de afbeelding bijvoorbeeld 150 ppi weergeeft en u 75 ppi invoert in de tekstvakken Boven, Rechts, Onder en Links, wordt aan elke zijde van de afbeelding een halve inch bijgesneden.
+**** HandmatigVoer het aantal pixels in dat u aan elke zijde of zijkant van de afbeelding wilt uitsnijden. Hoeveel van de afbeelding wordt uitgesneden, is afhankelijk van de ppi-instelling (pixels per inch) in het afbeeldingsbestand. Als de afbeelding bijvoorbeeld 150 ppi weergeeft en u 75 ppi invoert in de tekstvakken Boven, Rechts, Onder en Links, wordt aan elke zijde van de afbeelding een halve inch bijgesneden.
 
-**Kleurprofiel** (bevindt zich onder Opties voor kleurprofiel.) Kies een optie:
+**Kleurprofiel**  (bevindt zich onder Opties kleurprofiel.) Kies een optie:
 
 **Omzetten in sRGB (standaard)** Omzetten in sRGB (standaard rood-groen blauw). sRGB is de aanbevolen kleurruimte voor het weergeven van afbeeldingen op webpagina&#39;s.
 
-**De oorspronkelijke kleurruimte** behouden blijft de oorspronkelijke kleurruimte van de afbeelding.
+**Behoud oorspronkelijke** kleurruimteBehoudt de oorspronkelijke kleurruimte van de afbeelding.
 
-**Kies Aangepast van > naar** om de menu&#39;s te openen, zodat u de optie Omzetten van en Omzetten in kleurruimte kunt kiezen. U kunt een standaard Photoshop-kleurruimte kiezen of een kleurruimte die u hebt geüpload naar Dynamic Media Classic. Zie ICC-profielen.
+**Kies Aangepast vanuit >** InOpens om de menu&#39;s te openen, zodat u de opdracht Omzetten vanuit en Omzetten in kleurruimte kunt kiezen. U kunt een standaard Photoshop-kleurruimte kiezen of een kleurruimte die u naar Dynamic Media Classic hebt geüpload. Zie ICC-profielen.
 
-**Met Lagen** behouden worden de lagen in de PSD (indien aanwezig) verdeeld over afzonderlijke elementen. De elementlagen blijven gekoppeld aan de PSD. U kunt deze weergeven door het PSD-bestand te openen in de gedetailleerde weergave en het deelvenster Lagen te selecteren. Zie Lagen weergeven en bewerken in een PSD-bestand.
+**Behoud** LagenHiermee worden de lagen in de PSD, indien aanwezig, in afzonderlijke elementen geplaatst. De elementlagen blijven gekoppeld aan de PSD. U kunt deze weergeven door het PSD-bestand te openen in de gedetailleerde weergave en het deelvenster Lagen te selecteren. Zie Lagen weergeven en bewerken in een PSD-bestand.
 
-**Met Sjabloon** maken maakt u een sjabloon op basis van de lagen in het PSD-bestand.
+**Create** TemplateCreeert een malplaatje van de lagen in het Psd- dossier.
 
-**Tekst** extraheren extraheert de tekst zodat gebruikers naar tekst in een viewer kunnen zoeken.
+**Extraheer** TextExtraheert de tekst zodat gebruikers naar tekst in een viewer kunnen zoeken.
 
-**Lagen uitbreiden naar achtergrondgrootte** breidt de grootte van uitgesneden afbeeldingslagen uit tot de grootte van de achtergrondlaag.
+**Lagen uitbreiden naar** achtergrondgrootteHiermee vergroot u de grootte van de uitgesneden afbeeldingslagen tot de grootte van de achtergrondlaag.
 
-**Lagen met een laagnaam** in het PSD-bestand worden geüpload als afzonderlijke afbeeldingen. Kies een optie om deze afbeeldingen een naam te geven in Dynamic Media Classic:
+**Lagen met** naamgeving in het PSD-bestand worden geüpload als afzonderlijke afbeeldingen. Kies een optie om deze afbeeldingen een naam te geven in Dynamic Media Classic:
 
-**De naam** van de laag noemt de beelden na hun laagnamen in het Psd- dossier. Een laag met de naam Prijscode in het oorspronkelijke PSD-bestand wordt bijvoorbeeld een afbeelding met de naam Prijscode. Als de laagnamen in het PSD-bestand echter standaard Photoshop-laagnamen zijn (Achtergrond, Laag 1, Laag 2, enzovoort), krijgen de afbeeldingen een naam na hun laagnummers in het PSD-bestand, niet na hun standaardlaagnamen.
+**LaagnaamDe** namen van de afbeeldingen achter de laagnamen in het PSD-bestand. Een laag met de naam Prijscode in het oorspronkelijke PSD-bestand wordt bijvoorbeeld een afbeelding met de naam Prijscode. Als de laagnamen in het PSD-bestand echter standaard Photoshop-laagnamen zijn (Achtergrond, Laag 1, Laag 2, enzovoort), krijgen de afbeeldingen een naam na hun laagnummers in het PSD-bestand, niet na hun standaardlaagnamen.
 
-**Photoshop en het Aantal** van de Laag noemen de beelden na hun laagaantallen in het Psd- dossier, negerend originele laagnamen. Afbeeldingen krijgen de naam Photoshop en een toegevoegd laagnummer. De tweede laag van een bestand met de naam Voorjaar-Ad.psd krijgt bijvoorbeeld de naam Voorjaar-Ad_2, zelfs als deze in Photoshop een andere naam heeft dan de standaardnaam.
+**Photoshop en Layer** NumberNamen de afbeeldingen na hun laagnummers in het PSD-bestand, waarbij de oorspronkelijke laagnamen worden genegeerd. Afbeeldingen krijgen de naam Photoshop en een toegevoegd laagnummer. De tweede laag van een bestand met de naam Voorjaar-Ad.psd krijgt bijvoorbeeld de naam Voorjaar-Ad_2, zelfs als deze in Photoshop een andere naam heeft dan de standaardnaam.
 
-**Photoshop en Laagnaam** geven de afbeeldingen een naam na het PSD-bestand, gevolgd door de laagnaam of het laagnummer. Het laagnummer wordt gebruikt als de laagnamen in het PSD-bestand standaard Photoshop-laagnamen zijn. Een laag met de naam Prijstag in een PSD-bestand met de naam SpringAd krijgt bijvoorbeeld de naam Spring Ad_Price Tag. Een laag met de standaardnaam Laag 2 wordt genoemd Lente Ad_2.
+**Photoshop en** LaagnaamNamen de afbeeldingen na het PSD-bestand gevolgd door de laagnaam of het laagnummer. Het laagnummer wordt gebruikt als de laagnamen in het PSD-bestand standaard Photoshop-laagnamen zijn. Een laag met de naam Prijstag in een PSD-bestand met de naam SpringAd krijgt bijvoorbeeld de naam Spring Ad_Price Tag. Een laag met de standaardnaam Laag 2 wordt genoemd Lente Ad_2.
 
-**Anker** geeft op hoe afbeeldingen worden verankerd in sjablonen die worden gegenereerd op basis van de laagsamenstelling die uit het PSD-bestand is samengesteld. Standaard is het anker het middelpunt. Met een middelste anker kunnen vervangende afbeeldingen dezelfde ruimte het beste vullen, ongeacht de hoogte-breedteverhouding van de vervangende afbeelding. Afbeeldingen met een ander aspect dat deze afbeelding vervangt, nemen bij het verwijzen naar de sjabloon en het gebruik van parametervervanging in feite dezelfde ruimte in. Schakel over naar een andere instelling als de vervangende afbeeldingen de toegewezen ruimte in de sjabloon moeten vullen.
+**** AnkerHiermee bepaalt u hoe afbeeldingen worden verankerd in sjablonen die worden gegenereerd op basis van de laagsamenstelling die uit het PSD-bestand is samengesteld. Standaard is het anker het middelpunt. Met een middelste anker kunnen vervangende afbeeldingen dezelfde ruimte het beste vullen, ongeacht de hoogte-breedteverhouding van de vervangende afbeelding. Afbeeldingen met een ander aspect dat deze afbeelding vervangt, nemen bij het verwijzen naar de sjabloon en het gebruik van parametervervanging in feite dezelfde ruimte in. Schakel over naar een andere instelling als de vervangende afbeeldingen de toegewezen ruimte in de sjabloon moeten vullen.
 
 ## Lagen weergeven en bewerken in een PSD-bestand {#viewing-and-editing-layers-in-a-psd-file}
 
-Als u bij het uploaden van de PSD de optie Lagen behouden hebt geselecteerd, worden de afzonderlijke lagen door Dynamic Media Classic bijgesneden in elementen. U kunt de elementlagen die bij een PSD-bestand horen weergeven en bewerken door het bestand te openen in het deelvenster Bladeren in de gedetailleerde weergave.
+Als u bij het uploaden van de PSD de optie Lagen behouden hebt geselecteerd, heeft Dynamic Media Classic de afzonderlijke lagen in elementen bijgesneden. U kunt de elementlagen die bij een PSD-bestand horen weergeven en bewerken door het bestand te openen in het deelvenster Bladeren in de gedetailleerde weergave.
 
 1. Dubbelklik op het volledige PSD-bestand in het deelvenster Bladeren om het te openen in de gedetailleerde weergave.
 
@@ -81,11 +81,11 @@ Als u bij het uploaden van de PSD de optie Lagen behouden hebt geselecteerd, wor
 1. Klik op Lagen om het deelvenster Lagen te openen. Alle lagen worden als afzonderlijke afbeeldingen weergegeven in het deelvenster Lagen.
 1. Dubbelklik op een laag om deze te openen en voer een van de volgende handelingen uit:
 
-   * Klik op het pictogram Afbeelding met hyperlinks om een afbeelding met hyperlinks op de laag te maken. (Zie [Afbeeldingskaarten](creating-image-maps.md#creating_image_maps)maken.)
-   * Klik op het pictogram Zoomdoelen om zoomdoelen op de laag te maken. (Zie Zoomdoelen [maken voor zoomen](creating-zoom-targets-guided-zoom.md#creating_zoom_targets_for_guided_zoom)met instructies.)
-   * Klik op het pictogram Uitsnijden om de laag uit te snijden. (Zie Een afbeelding [](cropping-image.md#cropping_an_image)uitsnijden.)
-   * Klik op Verscherpen om de laag te verscherpen. (Zie Een afbeelding [](sharpening-image.md#sharpening_an_image)verscherpen.)
-   * Klik op Aanpassen om de laag aan te passen. (Zie Een afbeelding [aanpassen](adjusting-image.md#adjusting_an_image).)
+   * Klik op het pictogram Afbeelding met hyperlinks om een afbeelding met hyperlinks op de laag te maken. (Zie [Afbeeldingskaarten maken](creating-image-maps.md#creating_image_maps).)
+   * Klik op het pictogram Zoomdoelen om zoomdoelen op de laag te maken. (Zie [Zoomdoelen maken voor Bewerken met instructies-zoomfunctie](creating-zoom-targets-guided-zoom.md#creating_zoom_targets_for_guided_zoom).)
+   * Klik op het pictogram Uitsnijden om de laag uit te snijden. (Zie [Een afbeelding uitsnijden](cropping-image.md#cropping_an_image).)
+   * Klik op Verscherpen om de laag te verscherpen. (Zie [Een afbeelding verscherpen](sharpening-image.md#sharpening_an_image).)
+   * Klik op Aanpassen om de laag aan te passen. (Zie [Een afbeelding aanpassen](adjusting-image.md#adjusting_an_image).)
 
 1. Klik op Opslaan of Opslaan als.
 1. Als u een andere laag wilt weergeven of bewerken, klikt u op een pijl onder aan de voorvertoning van de laag.
