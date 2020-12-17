@@ -17,9 +17,9 @@ ht-degree: 0%
 ---
 
 
-# Door de gebruiker gegenereerde inhoud{#about-user-generated-content}
+# Informatie over door de gebruiker gegenereerde inhoud{#about-user-generated-content}
 
-Het gebruik van UGC (door de gebruiker gegenereerde inhoud) bestaat uit het uploaden van elementen naar een speciale Dynamic Media Classic opslagplaats en het uitvoeren van gerelateerde bewerkingen.
+Het gebruik van UGC (door de gebruiker gegenereerde inhoud) bestaat uit het uploaden van elementen naar een speciale Dynamic Media Classic-opslagruimte en het uitvoeren van gerelateerde bewerkingen.
 
 UGC ondersteunt de volgende bestandsindelingen:
 
