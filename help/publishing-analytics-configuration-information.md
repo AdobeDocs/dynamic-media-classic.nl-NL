@@ -2,7 +2,7 @@
 title: Adobe Analytics-configuratiegegevens publiceren
 seo-title: Adobe Analytics-configuratiegegevens publiceren
 description: 'null'
-seo-description: Leer hoe u de configuratiegegevens van Adobe Analytics publiceert.
+seo-description: Leer hoe u Adobe Analytics-configuratiegegevens publiceert.
 uuid: 39b1c2bd-8eb8-43a8-9482-9623115c5374
 contentOwner: admin
 content-type: reference
@@ -20,18 +20,18 @@ ht-degree: 0%
 
 # Adobe Analytics-configuratiegegevens publiceren{#publishing-adobe-analytics-configuration-information}
 
-Publiceer uw Dynamic Media Klassieke viewers zodat informatie over het configureren van Adobe Analytics-rapporten wordt verzonden naar Dynamic Media Classic-servers. Deze informatie is ingesloten in viewers. Publiceren is nodig, zodat de informatie in de viewers beschikbaar is op Dynamic Media Classic-servers. Vanaf de servers kan het worden afgelost aan Adobe Analytics nadat gebruikers activiteiten uitvoeren op de viewers.
+Publiceer uw Dynamic Media Classic-viewers zodat informatie over het configureren van Adobe Analytics-rapporten naar de Klassieke Dynamic Media-servers wordt verzonden. Deze informatie is ingesloten in viewers. Publiceren is nodig, zodat de informatie in de viewers beschikbaar is op de Classic-servers van Dynamic Media. Vanaf de servers kan de software worden afgespeeld op Adobe Analytics nadat gebruikers activiteiten uitvoeren op de viewers.
 
 >[!NOTE]
 >
->Telkens wanneer u de Adobe Analytics-rapportinstellingen wijzigt in Adobe Analytics, moet u zich opnieuw aanmelden bij Adobe Analytics vanuit Dynamic Media Classic, de Adobe Analytics-configuratie-instellingen opnieuw opslaan en vervolgens opnieuw publiceren.
+>Wanneer u de instellingen voor Adobe Analytics-rapporten wijzigt in Adobe Analytics, moet u zich opnieuw aanmelden bij Adobe Analytics vanuit Dynamic Media Classic, de Adobe Analytics-configuratie opnieuw opslaan en vervolgens opnieuw publiceren.
 
 Zie [Aanmelden bij Adobe Analytics](log-analytics.md#log_in_to_adobe_analytics).
 
-Zie Adobe Analytics-rapporten [configureren](configuring-analytics-reports.md#configuring_adobe_analytics_reports).
+Zie [Adobe Analytics-rapporten configureren](configuring-analytics-reports.md#configuring_adobe_analytics_reports).
 
 **Configuratiegegevens publiceren**
 
-1. Klik op **Publiceren** op de algemene navigatiebalk.
-1. Klik in het dialoogvenster Publiceren op Publiceren **starten**.
+1. Voor de Globale bar van de Navigatie, klik **Publish**.
+1. Klik in het dialoogvenster Publiceren op **Publiceren starten**.
 
