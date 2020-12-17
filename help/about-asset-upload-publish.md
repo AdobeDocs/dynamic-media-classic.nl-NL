@@ -17,15 +17,15 @@ ht-degree: 0%
 ---
 
 
-# Elementen uploaden en publiceren{#about-uploading-and-publishing-assets}
+# Informatie over het uploaden en publiceren van elementen{#about-uploading-and-publishing-assets}
 
 Uw werk in Dynamic Media Classic valt op drie basisgebieden:
 
 * Bestandselementen uploaden naar Dynamic Media Classic.
 * Uw bestanden beheren zodat u ze kunt gebruiken om rich-media-elementen te maken.
-* Elementbestanden publiceren naar een Classic-server van Dynamic Media, zodat deze beschikbaar zijn voor levering aan uw website en toepassing.
+* Elementbestanden publiceren naar een Dynamic Media Classic-server, zodat deze beschikbaar zijn voor levering aan uw website en toepassing.
 
-Wanneer u elementbestanden uploadt naar DMC en wanneer u elementbestanden publiceert naar Dynamic Media Klassieke servers, worden deze bestandsoverdrachten door het systeem vastgelegd op de pagina Taken. U kunt naar deze pagina gaan om uw upload- en publicatieactiviteiten te volgen en te controleren.
+Wanneer u elementbestanden uploadt naar DMC en wanneer u elementbestanden publiceert naar Dynamic Media Classic-servers, registreert het systeem deze bestandsoverdrachten op de pagina Taken. U kunt naar deze pagina gaan om uw upload- en publicatieactiviteiten te volgen en te controleren.
 
 >[!NOTE]
 >
