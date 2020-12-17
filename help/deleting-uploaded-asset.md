@@ -17,9 +17,9 @@ ht-degree: 0%
 ---
 
 
-# Geüploade elementen verwijderen{#deleting-an-uploaded-asset}
+# Een geüpload element verwijderen{#deleting-an-uploaded-asset}
 
-U kunt de `delete` parameter in deze notatie gebruiken om een element te verwijderen:
+Met de parameter `delete` in deze notatie kunt u een element verwijderen:
 
 ```as3
 https://s7ugc1.scene7.com/ugc/image?op=delete&shared_secret=fece4b21-87ee-47fc-9b99-2e29b78b602&image_name=1442564.tif
