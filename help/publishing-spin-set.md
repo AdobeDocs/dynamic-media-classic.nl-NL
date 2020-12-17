@@ -20,15 +20,15 @@ ht-degree: 0%
 
 # Een centrifugeerset publiceren{#publishing-a-spin-set}
 
-Als u een centrifugeset publiceert, worden de afbeeldingen in de set op Dynamic Media Image Servers geplaatst, waar ze beschikbaar zijn voor uw website of toepassing. Bovendien activeert Dynamic Media Classic tijdens het publicatieproces de URL-tekenreeksen voor de rotatieset die u voor uw website of toepassing nodig hebt.
+Als u een Spin-set publiceert, worden de afbeeldingen in de set op Dynamic Media Image Servers geplaatst, waar ze beschikbaar zijn voor uw website of toepassing. Bovendien activeert Dynamic Media Classic tijdens het publicatieproces de voor uw website of toepassing benodigde URL-tekenreeksen voor de centrifugeset.
 
 ## Een centrifugeerset markeren voor publicatie {#marking-a-spin-set-for-publish}
 
-Markeer de centrifugeset voor publicatie zodat deze naar Dynamic Media Classic-afbeeldingsservers wordt gekopieerd. U kunt de centrifugeset markeren voor publicatie in het deelvenster Bladeren door het pictogram Markeren voor publiceren links van de naam te selecteren. Alle afbeeldingen in de set worden gemarkeerd voor publicatie wanneer u de paginaset markeert voor publicatie.
+Markeer de centrifugeset voor publicatie zodat deze naar de klassieke Dynamic Media-afbeeldingsservers kan worden gekopieerd. U kunt de centrifugeset markeren voor publicatie in het deelvenster Bladeren door het pictogram Markeren voor publiceren links van de naam te selecteren. Alle afbeeldingen in de set worden gemarkeerd voor publicatie wanneer u de paginaset markeert voor publicatie.
 
-## De centrifugeset publiceren {#publishing-the-spin-set}
+## De centrifugeset {#publishing-the-spin-set} publiceren
 
-Als u een Draai wilt publiceren die is ingesteld op Afbeeldingsservers van Dynamic Media, selecteert u eerst de knop Publiceren op de algemene navigatiebalk. Selecteer vervolgens een optie bij Wanneer, geef desgewenst een naam op voor de publicatietaak en selecteer de knop Publiceren starten.
+Als u een op Dynamic Media-afbeeldingsservers ingestelde centrifugeermodule wilt publiceren, selecteert u eerst de knop Publiceren op de algemene navigatiebalk. Selecteer vervolgens een optie bij Wanneer, geef desgewenst een naam op voor de publicatietaak en selecteer de knop Publiceren starten.
 
 >[!MORELIKETHIS]
 >
