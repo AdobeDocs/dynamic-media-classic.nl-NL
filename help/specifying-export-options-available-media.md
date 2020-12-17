@@ -26,20 +26,23 @@ De volgende twee beperkingen gelden als u afbeeldingselementen exporteert via ee
 * Het gecomprimeerde Zip-exportbestand heeft een maximale bestandsgrootte van 1 GB voor de exporttaak.
 * Per exporttaak kunt u maximaal 500 elementen in totaal gebruiken.
 
-Zie ook Elementen [exporteren uit Dynamic Media Classic](exporting-assets-from-dmc.md#exporting-assets-from_dmc).
+Zie ook [Elementen exporteren uit Dynamic Media Classic](exporting-assets-from-dmc.md#exporting-assets-from_dmc).
 
 **Exportopties opgeven die beschikbaar zijn voor gebruikers van Media Portal**
 
-1. Klik op **Instellen** > **Voorinstellingen** afbeelding.
+1. Klik **Setup** > **Voorinstellingen afbeelding**.
 1. Selecteer een of meer van de volgende opties in het venster Voorinstellingen afbeelding:
 
-   * **Schakel Door gebruiker gedefinieerde omzetting** inschakelen Als deze optie is geselecteerd, kunnen gebruikers een andere optie kiezen in de vervolgkeuzelijst Grootte in het venster Geselecteerde elementen exporteren. Vervolgens kunnen gebruikers een maateenheid kiezen, zoals pixels of centimeters, en vervolgens de gewenste breedte en hoogte opgeven. Wanneer deze bestanden worden geëxporteerd of gedownload, worden de afbeeldingsbestanden opnieuw opgemaakt.
+   * **Schakel Door gebruiker gedefinieerde**
+conversieAls deze optie is geselecteerd, kunnen gebruikers een andere optie kiezen in de vervolgkeuzelijst Grootte in het venster Geselecteerde elementen exporteren. Vervolgens kunnen gebruikers een maateenheid kiezen, zoals pixels of centimeters, en vervolgens de gewenste breedte en hoogte opgeven. Wanneer deze bestanden worden geëxporteerd of gedownload, worden de afbeeldingsbestanden opnieuw opgemaakt.
 
-      Wanneer u **pixels** kiest in de vervolgkeuzelijst **Grootte**, mag de resulterende breedte x hoogte van de afbeelding niet groter zijn dan 100 miljoen pixels. Deze grootte is 10.000 x 10.000 pixels voor een vierkante afbeelding of ongeveer 8.000 x 12.000 pixels voor een afbeelding met de hoogte-breedteverhouding 2x3. Deze formaatbeperking geldt niet als u originele master afbeeldingen exporteert.
+      Wanneer **pixels** worden gekozen uit **Grootte**
+in de vervolgkeuzelijst kan de resulterende breedte x hoogte van de afbeelding niet groter zijn dan 100 miljoen pixels. Deze grootte is 10.000 x 10.000 pixels voor een vierkante afbeelding of ongeveer 8.000 x 12.000 pixels voor een afbeelding met de hoogte-breedteverhouding 2x3. Deze formaatbeperking geldt niet als u originele master afbeeldingen exporteert.
 
       Schakel deze optie uit als u wilt dat gebruikers bestanden downloaden zonder ze opnieuw op te maken terwijl ze worden gedownload.
 
-   * **Met Origineel** exporteren kunt u originele master afbeeldingen exporteren. In het deelvenster Geselecteerde elementen exporteren kunnen gebruikers het vervolgkeuzemenu Conversie openen en Origineel exporteren kiezen om de oorspronkelijke bestanden te exporteren. Schakel deze optie uit als u gebruikers wilt dwingen een voorinstelling voor afbeeldingen te kiezen of conversieopties wilt kiezen wanneer zij afbeeldingen exporteren.
+   * **Schakel**
+Origineel exporteren in. Hiermee kunt u originele master afbeeldingen exporteren. In het deelvenster Geselecteerde elementen exporteren kunnen gebruikers het vervolgkeuzemenu Conversie openen en Origineel exporteren kiezen om de oorspronkelijke bestanden te exporteren. Schakel deze optie uit als u gebruikers wilt dwingen een voorinstelling voor afbeeldingen te kiezen of conversieopties wilt kiezen wanneer zij afbeeldingen exporteren.
 
 >[!MORELIKETHIS]
 >
