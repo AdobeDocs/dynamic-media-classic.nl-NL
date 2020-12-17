@@ -24,17 +24,20 @@ Zoomafbeeldingen moeten een hoog aantal pixels hebben. Er is een groot aantal pi
 
 Selecteer de knop Uploaden op de algemene navigatiebalk om afbeeldingen te uploaden.
 
-Zie Bestanden [uploaden](uploading-files.md#uploading_files)voor gedetailleerde instructies voor het uploaden van afbeeldingen.
+Zie [Bestanden uploaden](uploading-files.md#uploading_files) voor gedetailleerde instructies voor het uploaden van afbeeldingen.
 
 **Uw afbeeldingen voorbereiden voor zoomen**
 
-Als u optimaal wilt profiteren van de klassieke zoomfuncties van Dynamic Media, bereidt u de zoomafbeeldingsbestanden voor voordat u ze uploadt:
+Als u optimaal wilt profiteren van de klassieke zoomfuncties van Dynamic Media, bereidt u uw zoomafbeeldingsbestanden voor voordat u ze uploadt:
 
-* **Afbeeldingsgrootte** Dynamic Media Klassiek raadt u aan afbeeldingsbestanden te gebruiken die minimaal 2000 pixels groot zijn. Op deze manier kunnen afbeeldingen duidelijk zichtbaar zijn wanneer gebruikers erop inzoomen.
+* **AfbeeldingsgrootteDynamische media**
+Klassiek raadt u aan afbeeldingsbestanden te gebruiken die minimaal 2000 pixels groot zijn. Op deze manier kunnen afbeeldingen duidelijk zichtbaar zijn wanneer gebruikers erop inzoomen.
 
-* **Bestandsindelingen** Dynamic Media Classic ondersteunt alle standaardbestandsindelingen voor afbeeldingen, waaronder TIFF, BMP, JPEG, PSD, GIF en EPS. Opmaak zonder verlies van afbeeldingen (TIFF en PNG) wordt aanbevolen. Als u een JPEG-afbeelding gebruikt, gebruikt u de instellingen voor de hoogste kwaliteit.
+* **BestandsindelingenDynamic Media Classic ondersteunt alle standaardbestandsindelingen voor afbeeldingen, waaronder TIFF, BMP, JPEG, PSD, GIF en EPS.**
+Opmaak zonder verlies van afbeeldingen (TIFF en PNG) wordt aanbevolen. Als u een JPEG-afbeelding gebruikt, gebruikt u de instellingen voor de hoogste kwaliteit.
 
-* **Kleurruimte** RGB is de kleurruimte voor webafbeeldingspresentaties; CMYK-afbeeldingen worden automatisch omgezet in RGB wanneer u ze uploadt. Het wordt aanbevolen CMYK-afbeeldingen te uploaden die een ingesloten ICC-kleurprofiel hebben voor de conversie naar RGB. Zie ook ICC-profielen.
+* **Kleurruimte**
+RGB is de kleurruimte voor webafbeeldingspresentaties; CMYK-afbeeldingen worden automatisch omgezet in RGB wanneer u ze uploadt. Het wordt aanbevolen CMYK-afbeeldingen te uploaden die een ingesloten ICC-kleurprofiel hebben voor de conversie naar RGB. Zie ook ICC-profielen.
 
 >[!MORELIKETHIS]
 >
