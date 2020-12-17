@@ -34,8 +34,8 @@ Bij het exporteren van afbeeldingselementen gelden de volgende beperkingen:
 >
 >Deze beperkingen gelden alleen voor het exporteren van afgeleide afbeeldingselementen, niet voor het exporteren van master bestanden.
 
-Zie Voorinstellingen voor [afbeeldingen](application-setup.md#image_presets)voor informatie over het maken van voorinstellingen voor afbeeldingen.
+Zie [Voorinstellingen afbeelding](application-setup.md#image_presets) om voorinstellingen voor afbeeldingen te maken.
 
-Gebruikers kunnen voorinstellingen voor afbeeldingen kiezen wanneer zij bestanden exporteren. Zie [Exportopties opgeven die beschikbaar zijn voor gebruikers](specifying-export-options-available-media.md#specifying_export_options_available_to_media_portal_users)van Media Portal.
+Om gebruikers toe te laten om het Beeld te kiezen vooraf instelt wanneer zij dossiers uitvoeren, zie [Specificerend de uitvoeropties beschikbaar aan gebruikers van het Portaal van Media](specifying-export-options-available-media.md#specifying_export_options_available_to_media_portal_users).
 
-Zie Toegangsmachtigingen voor [voorinstellingen afbeelding kiezen voor een groep](creating-media-portal-groups.md#choosing_image_preset_access_permissions_for_a_group)om te kiezen welke voorinstellingen afbeelding beschikbaar zijn voor de leden van een groep.
+Zie [Toegangsmachtigingen voor voorinstellingen afbeelding kiezen voor een groep](creating-media-portal-groups.md#choosing_image_preset_access_permissions_for_a_group) om te kiezen welke voorinstellingen afbeelding beschikbaar zijn voor de leden van een groep.
