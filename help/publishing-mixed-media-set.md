@@ -20,11 +20,11 @@ ht-degree: 0%
 
 # Een gemengde mediaset publiceren{#publishing-a-mixed-media-set}
 
-Creeer publiceerbaan om een Gemengde Reeks te publiceren van Media die u voor publiceren aan de Klassieke Server van de Video van Dynamic Media en de Server van het Beeld hebt gemerkt. Dynamic Media Classic biedt geavanceerde publicatieopties voor het publiceren naar specifieke servers en opties voor het opnieuw publiceren van elementen die al zijn gepubliceerd.
+Maak een publicatietaak om een gemengde mediaset te publiceren die u hebt gemarkeerd voor publiceren naar Dynamic Media Classic Video Server en Image Server. Dynamic Media Classic biedt geavanceerde publicatieopties voor het publiceren naar specifieke servers en opties voor het opnieuw publiceren van middelen die al zijn gepubliceerd.
 
-***opmerking **: De gemengde Reeksen van Media vereisen dat u aan**Videoserver **en ook aan de Server**van het **Beeld publiceert. U gebruikt de**Videoserver **om de daadwerkelijke video&#39;s te publiceren die u voor het publiceren merkte. En, gebruikt u de Server**van het **Beeld om verwante activa, zoals videoduimnagels, te publiceren en informatie voor om het even welke Aangepaste VideoReeks te plaatsen.*
+***opmerking **: De gemengde Reeksen van Media vereisen dat u aan**Video **Server en ook aan de Server**van het **Beeld publiceert. U gebruikt**Videoserver **om de daadwerkelijke video&#39;s te publiceren die u voor publicatie hebt gemerkt. En u gebruikt**Afbeeldingsserver **om gerelateerde elementen, zoals videominiaturen, te publiceren en informatie in te stellen voor elke adaptieve videoset.*
 
-De Klassieke sporen van Dynamic Media publiceren banen op het scherm van Banen.
+Dynamic Media Classic volgt de publicatietaken op het scherm Taken.
 
 Zie [Publiceren](publishing-files.md#publishing_files).
 
@@ -45,18 +45,18 @@ Last Modified Date:
    * Klik in het deelvenster Bladeren op **Markeren voor publiceren** naast elke bestandsnaam die u wilt publiceren.
    * Klik in het scherm Uploaden op **Markeren voor publiceren** naast elke bestandsnaam die u wilt publiceren.
 
-1. Klik op **Publiceren** op de algemene navigatiebalk.
+1. Voor de Globale bar van de Navigatie, klik **Publish**.
 1. Stel de gewenste planningsopties in.
 1. (Optioneel) Typ in het veld **Taaknaam** een naam voor de publicatietaak.
-1. Selecteer **Videoserver** in de vervolgkeuzelijst **Geavanceerde** opties in de vervolgkeuzelijst **Publiceren naar**.
+1. Selecteer **Videoserver** in de vervolgkeuzelijst **Geavanceerd** in **Publiceren naar**.
 
-   Zie [Geavanceerde publicatieopties](publishing-files.md#advanced_publish_options) voor extra opties die u kunt instellen.
+   Zie [Geavanceerde publicatieopties](publishing-files.md#advanced_publish_options) voor extra opties u kunt plaatsen.
 
-1. Klik op **Publiceren** verzenden.
+1. Klik **Publiceren verzenden**.
 1. Herhaal bovenstaande stappen 2 tot en met 4.
-1. Selecteer in **Geavanceerd** de optie **Afbeeldingsserver** in de vervolgkeuzelijst **Publiceren naar**.
+1. Selecteer **Geavanceerd** in de vervolgkeuzelijst **Publiceren naar** de optie **Afbeeldingsserver**.
 
-   Zie [Geavanceerde publicatieopties](publishing-files.md#advanced_publish_options) voor extra opties die u kunt instellen.
+   Zie [Geavanceerde publicatieopties](publishing-files.md#advanced_publish_options) voor extra opties u kunt plaatsen.
 
-1. Klik op **Publiceren** verzenden.
+1. Klik **Publiceren verzenden**.
 
