@@ -22,7 +22,7 @@ ht-degree: 0%
 
 In het deelvenster Bladeren krijgen bronvideo&#39;s het label &quot;Master video&quot;. Gecodeerde video&#39;s krijgen het label &quot;Video.&quot; U kunt bronvideo&#39;s en master video&#39;s exporteren. Als u videobestanden wilt exporteren, selecteert u deze in het deelvenster Bladeren en kiest u Bestand > Exporteren.
 
-Zie Elementen [exporteren uit Dynamic Media Classic](exporting-assets-from-dmc.md#exporting-assets-from-dmc).
+Zie [Elementen exporteren uit Dynamic Media Classic](exporting-assets-from-dmc.md#exporting-assets-from-dmc).
 
 >[!MORELIKETHIS]
 >
