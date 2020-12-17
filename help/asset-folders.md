@@ -18,27 +18,31 @@ ht-degree: 0%
 ---
 
 
-# Werken met middelenmappen{#working-with-asset-folders}
+# Werken met elementmappen{#working-with-asset-folders}
 
 Bestandselementen in de Dynamic Media Classic worden in mappen opgeslagen. Deze mappen worden in alfabetische volgorde weergegeven in het deelvenster Elementenbibliotheek. Voordat u bestanden uploadt van uw computer of netwerk naar Dynamic Media Classic, wordt u gevraagd een naam op te geven voor de map waarin de bestanden worden opgeslagen. Maak deze mappen voordat u bestanden uploadt.
 
-Zorg ervoor dat u een mapstructuur en organisatie voor het opslaan van bestanden op Dynamic Media Classic hebt voordat u bestanden uploadt.
+Zorg ervoor dat u een mapstructuur en organisatie voor het opslaan van uw bestanden op Dynamic Media Classic hebt voordat u bestanden uploadt.
 
-## Mappen weergeven, verplaatsen, verbergen en openen {#displaying-moving-hiding-and-opening-folders}
+## Mappen {#displaying-moving-hiding-and-opening-folders} weergeven, verplaatsen, verbergen en openen
 
 In de elementenbibliotheek worden bestanden in een mappenstructuur weergegeven. Wanneer u een map selecteert in de elementenbibliotheek, wordt de inhoud van die map weergegeven in het deelvenster Bladeren. Gebruik de volgende technieken om mappen te zoeken in de mappenstructuur:
 
-* **Submappen** weergeven Selecteer het pictogram Map uitvouwen om de submappen in een map weer te geven. Dit pictogram bevindt zich links van mapnamen.
+* **De**
+submappen weergevenSelecteer het pictogram Map uitvouwen om de submappen in een map weer te geven. Dit pictogram bevindt zich links van mapnamen.
 
-* **Als u een map** verplaatst, kunt u een map verplaatsen door deze te slepen en neer te zetten op de nieuwe locatie of door Bestand > Map verplaatsen te selecteren.
+* **Een**
+map verplaatsenU kunt een map verplaatsen door deze te slepen en neer te zetten op de nieuwe locatie of door Bestand > Map verplaatsen te selecteren.
 
-* **Mappen** verbergen Selecteer het pictogram Map samenvouwen om submappen samen te vouwen. Dit pictogram bevindt zich links van mapnamen.
+* **Verbergen**
+mappenSelecteer het pictogram Map samenvouwen om submappen samen te vouwen. Dit pictogram bevindt zich links van mapnamen.
 
-* **Een map** openen Selecteer een map om de inhoud ervan weer te geven in het deelvenster Bladeren.
+* **Een**
+map openenSelecteer een map om de inhoud ervan weer te geven in het deelvenster Bladeren.
 
 ***Tip **: U kunt de elementenbibliotheek verbergen of weergeven door op het besturingselement Uitvouwen/Samenvouwen links van de bibliotheek te klikken. Vouw het deelvenster Middelenbibliotheek samen wanneer u meer ruimte nodig hebt om in het deelvenster Bladeren te werken.*
 
-## Mappen maken {#creating-folders}
+## Mappen {#creating-folders} maken
 
 Ga als volgt te werk om een map te maken:
 
@@ -50,14 +54,16 @@ Ga als volgt te werk om een map te maken:
    >
    >U kunt ook mappen maken in Dynamic Media Classic wanneer u bestanden uploadt via FTP. Als u de optie Inclusief submappen selecteert wanneer u uploadt via FTP, wordt de mapstructuur op uw computer in het systeem gerepliceerd. Bestanden en submappen op uw computer of netwerk worden gerepliceerd in de Asset Library en de elementen die u uploadt, worden in deze mappen geplaatst.
 
-## Mappen verwijderen en hernoemen {#deleting-and-renaming-folders}
+## Mappen {#deleting-and-renaming-folders} verwijderen en hernoemen
 
 Selecteer een map en gebruik de volgende technieken om de map te verwijderen of de naam ervan te wijzigen:
 
-* **Verwijderen** Selecteer de knop Map verwijderen. Middelen in een verwijderde map worden in de map Prullenbak geplaatst. Je kunt ze daar herstellen.
+* ****
+VerwijderenSelecteer de knop Map verwijderen. Middelen in een verwijderde map worden in de map Prullenbak geplaatst. Je kunt ze daar herstellen.
 
-* **Als u de naam wijzigt**, dubbelklikt u op de naam en voert u een nieuwe naam in.
+* **Naam**
+wijzigenDubbelklik op de naam en voer een nieuwe naam in.
 
 >[!NOTE]
 >
->U kunt geen mappen of elementen kopiëren, omdat hierdoor dubbele mappen en elementen op Dynamic Media Klassiek worden gemaakt en duplicaten niet zijn toegestaan.
+>U kunt geen mappen of elementen kopiëren, omdat hierdoor dubbele mappen en elementen op Dynamic Media Classic worden gemaakt en duplicaten niet zijn toegestaan.
