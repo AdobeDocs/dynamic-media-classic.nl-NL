@@ -29,7 +29,7 @@ Als u een stalenset wilt maken, hebt u vignetten of verschillende opnamen van de
 
 Omdat gebruikers kunnen inzoomen op afbeeldingen in stalensets, moet u ervoor zorgen dat de afbeeldingen ten minste 2000 pixels groot zijn. Dynamic Media Classic ondersteunt veel bestandsindelingen voor afbeeldingen, maar het wordt aanbevolen afbeeldingen zonder verlies in de indeling TIFF, PNG en EPS te gebruiken.
 
-Zie Bestanden [uploaden](uploading-files.md#uploading_files)voor gedetailleerde instructies over het uploaden van elementen.
+Zie [Bestanden uploaden](uploading-files.md#uploading_files) voor gedetailleerde instructies voor het uploaden van elementen.
 
 >[!MORELIKETHIS]
 >
