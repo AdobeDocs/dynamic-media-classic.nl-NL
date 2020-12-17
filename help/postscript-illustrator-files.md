@@ -20,22 +20,30 @@ ht-degree: 0%
 
 # Werken met PostScript- en Illustrator-bestanden{#working-with-postscript-and-illustrator-files}
 
-U kunt Adobe® PostScript® (EPS) en Adobe® Illustrator® (AI) dossiers in Dynamic Media Classic gebruiken. De Klassieke van Dynamic Media biedt bevelen voor het vormen van deze dossiers aangezien u hen uploadt.
+U kunt Adobe® PostScript® (EPS) en Adobe® Illustrator® (AI) dossiers in Dynamic Media Classic gebruiken. Dynamic Media Classic bevat opdrachten voor het configureren van deze bestanden terwijl u deze uploadt.
 
 Wanneer u PostScript- (EPS) of Illustrator-afbeeldingsbestanden (AI) uploadt, kunt u deze op verschillende manieren opmaken. U kunt de bestanden rasteren, omzetten in FXG voor Sjabloonpublicatie, de transparante achtergrond behouden, een resolutie kiezen en een kleurruimte kiezen. Opties voor de opmaak van PostScript- en Illustrator-bestanden zijn beschikbaar op het scherm Uploaden onder PostScript-opties en Illustrator-opties in het vak Opties voor uploaden.
 
-* **Verwerken** Kies omzetten in pixels om vectorafbeeldingen in het bestand om te zetten in de bitmapindeling.
+* ****
+VerwerkenKies Rasteren om vectorafbeeldingen in het bestand om te zetten in de bitmapindeling.
 
-* **De transparante achtergrond in gerenderde afbeelding** behouden blijft de achtergrondtransparantie van het bestand.
+* **Transparante achtergrond behouden in gerenderde**
+afbeeldingHandhaaft de achtergrondtransparantie van het bestand.
 
-* **Resolutie** bepaalt de resolutie-instelling. Deze instelling bepaalt hoeveel pixels per inch in het bestand worden weergegeven.
+* ****
+ResolutionDetermines the resolution setting. Deze instelling bepaalt hoeveel pixels per inch in het bestand worden weergegeven.
 
-* **Kleurruimte** Selecteer het menu Kleurruimte en kies een kleurruimte:
+* **Kleurruimte**
+Selecteer het menu Kleurruimte en kies een kleurruimte:
 
-* **Met Automatisch** detecteren blijft de kleurruimte van het bestand behouden.
+* **Detecteren**
+Automatisch: behoudt de kleurruimte van het bestand.
 
-* **Met forceren als RGB** converteert u de RGB-kleurruimte.
+* **Met forceren als**
+RGBC wordt de RGB-kleurruimte omgekeerd.
 
-* **Met forceren als CMYK** wordt de CMYK-kleurruimte omgezet.
+* **Met forceren als**
+CMYKC wordt de CMYK-kleurruimte hersteld.
 
-* **Als grijswaarden** afdwingen wordt omgezet in de grijswaardenkleurruimte.
+* **Forceren als**
+grijswaardenZet om in de grijswaardenkleurruimte.
