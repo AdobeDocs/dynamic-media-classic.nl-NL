@@ -18,7 +18,7 @@ ht-degree: 0%
 ---
 
 
-# Inhoudswijzigingen beheren{#managing-content-variations}
+# Inhoudsvariaties beheren{#managing-content-variations}
 
 Gebruik sjabloonsets om de manier te beheren waarop elementvariaties worden gepubliceerd.
 
