@@ -1,8 +1,6 @@
 ---
-title: In- en uitloggen
-seo-title: In- en uitloggen
-description: 'null'
-seo-description: Meer informatie over in- en uitloggen in Dynamic Media Classic
+title: Aanmelden bij en uit Adobe Dynamic Media Classic
+description: Leer binnen aan en uit Adobe Dynamic Media Classic ondertekenen en met een server van het productiemilieu in Noord-Amerika (NA), of Europa, Midden-Oosten, Afrika (EMEA), of Azië-Stille Oceaan (APAC) verbinden.
 uuid: eaf51ab7-d17a-4b7b-b6a4-1ec78bfee36b
 contentOwner: admin
 content-type: reference
@@ -10,9 +8,9 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/getting_started
 discoiquuid: ad418881-ff31-43b1-bbb6-ab2fbcf89bea
 translation-type: tm+mt
-source-git-commit: 436717a3a5326477b5507db0893892342c54dcef
+source-git-commit: d3c9b805f5d17c130fe5b4590bd7864351dc9d24
 workflow-type: tm+mt
-source-wordcount: '451'
+source-wordcount: '475'
 ht-degree: 0%
 
 ---
@@ -20,14 +18,14 @@ ht-degree: 0%
 
 <!-- UPDATE THIS TOPIC AFTER DECEMBER 31, 2020!!!!! -->
 
-# Aanmelden bij Dynamic Media Classic {#sign-in}
+# Aanmelden bij Adobe Dynamic Media Classic {#sign-in}
 
-De manier waarop u zich aanmeldt bij Dynamic Media Classic en u afmeldt, is afhankelijk van de vraag of u de bureaubladtoepassing of de webbrowser gebruikt.
+De manier waarop u zich aanmeldt bij Dynamic Media Classic en u afmeldt, is gebaseerd op de vraag of u de [bureaubladtoepassing](#sign-in-dmc-app) of de [webbrowser](#sign-out) gebruikt.
 
 Ongeacht hoe u zich aanmeldt, zorg ervoor dat u het volgende doet voordat u Dynamic Media Classic gebruikt:
 
-* **AanmeldingsnaamU**
-gebruikt uw e-mailadres als uw aanmeldnaam.
+* **Gebruikersnaam**
+U gebruikt uw e-mailadres als aanmeldnaam.
 
 * ****
 WachtwoordU krijgt uw tijdelijke wachtwoord in een &quot;welkomstmail&quot;van Dynamic Media Classic of van uw Klassieke beheerder van Dynamic Media. De eerste keer dat u zich aanmeldt, wordt u gevraagd dit tijdelijke wachtwoord te wijzigen.
