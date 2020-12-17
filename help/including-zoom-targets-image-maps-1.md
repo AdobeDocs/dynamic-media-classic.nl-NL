@@ -18,7 +18,7 @@ ht-degree: 0%
 ---
 
 
-# Inclusief zoomdoelen en afbeeldingen met hyperlinks in stalensets{#including-zoom-targets-and-image-maps-in-swatch-sets}
+# Inclusief zoomdoelen en Afbeeldingen met hyperlinks in stalensets{#including-zoom-targets-and-image-maps-in-swatch-sets}
 
 Als u zoomdoelen en Afbeeldingen met hyperlinks definieert voor de afbeeldingen in de stalenset, worden deze doelen en toewijzingen weergegeven in de Staalset-viewer. Gebruikers kunnen bijvoorbeeld op een afbeelding met hyperlinks in de Staalsetviewer klikken en een nieuwe pagina met informatie over een item op uw website openen. Gebruikers kunnen op een doelminiatuurafbeelding in de Staalset-viewer klikken en automatisch op een gedeelte van een afbeelding inzoomen.
 
