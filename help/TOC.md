@@ -3,7 +3,7 @@ cloud: experience-cloud
 product: Adobe Dynamic Media Classic
 audience: end-user
 user-guide-title: Adobe Dynamic Media Classic Guide
-breadcrumb-title: Dynamische klassieke mediagids
+breadcrumb-title: Dynamic Media Classic Guide
 user-guide-description: Meer informatie over het gebruik van Dynamic Media Classic
 index: y
 translation-type: tm+mt
@@ -15,15 +15,15 @@ ht-degree: 1%
 ---
 
 
-# Adobe Dynamic Media Classic Guide {#using}
+# Adobe Dynamic Media Klassieke Guide {#using}
 
 + [Adobe Dynamic Media Classic Guide](home.md)
 + [Zelfstudie over best practices](https://docs.adobe.com/content/help/en/experience-manager-learn/dynamic-media-classic-tutorial/overview.html)
 + [NEW Dynamic Media Classic-ervaring nu beschikbaar](new-ui-2020.md)
-+ [Dynamische media-nieuwsbrief van Experience League](dynamic-media-newsletter.md)
++ [Dynamic Media-nieuwsbrief van Experience League](dynamic-media-newsletter.md)
 + Introductie van Adobe Dynamic Media Classic {#intro}
    + [Adobe Dynamic Media Classic-bureaubladtoepassing - Nu beschikbaar](dynamic-media-classic-desktop-app.md)
-   + [Info over Dynamic Media Classic Help](introduction.md)
+   + [Informatie over Dynamic Media Classic Help](introduction.md)
    + [Bronnen voor ontwikkelaars](developer-resources.md)
    + [Nieuwe functies](whats-new.md)
    + [Systeemvereisten](system-requirements.md)
@@ -39,13 +39,13 @@ ht-degree: 1%
    + [Basisbeginselen van navigatie](navigation-basics.md)
    + [Basisbeginselen van instellingen](setup-basics.md)
    + [Rijke media](rich-media.md)
-+ Instellen {#setup}
++ {#setup} instellen
    + [Persoonlijke instelling](personal-setup.md)
    + [Toepassing instellen](application-setup.md)
    + [Publicatie-instelling](publish-setup.md)
    + [Video-SEO (Optimalisatie zoekmachine)](video-seo-search-engine-optimization.md)
    + [Instellingen voor beheer](administration-setup.md)
-+ Media Portal {#media-portal}
++ Mediaportaal {#media-portal}
    + [Systeemvereisten](system-requirements-1.md)
    + [Snel starten: Media Portal](quick-start-media-portal-administration.md)
    + [Gebruikersrollen van Media Portal](media-portal-user-roles.md)
@@ -62,7 +62,7 @@ ht-degree: 1%
    + [Bestanden publiceren ](publishing-files.md)
    + [Elementen testen voordat ze openbaar worden gemaakt](testing-assets-making-them-public.md)
    + [Taakbestanden controleren](checking-job-files.md)
-+ Elementen beheren {#managing-assets}
++ Elementen {#managing-assets} beheren
    + [Over het beheren van elementen](about-managing-assets.md)
    + [Werken met middelenmappen](asset-folders.md)
    + [Elementen weergeven in het deelvenster Bladeren](viewing-assets-browse-panel.md)
@@ -91,7 +91,7 @@ ht-degree: 1%
    + [Een voorvertoning weergeven van afbeeldingselementen met verschillende zoomviewers](previewing-image-assets-different-zoom.md)
    + [Zoomafbeeldingen publiceren](publishing-zoom-images.md)
    + [Zoomviewers koppelen aan uw webpagina&#39;s](linking-zoom-viewers-web-pages.md)
-+ eCatalogs {#ecatalogs}
++ eCatalogi {#ecatalogs}
    + [Snel starten: eCatalogs](quick-start-ecatalog.md)
    + [De PDF-bestanden uploaden](uploading-pdf-files.md)
    + [Een eCatalog maken](creating-ecatalog.md)
@@ -101,7 +101,7 @@ ht-degree: 1%
    + [Voorvertoning van eCatalogi weergeven in de eCatalog-viewer](previewing-ecatalogs-ecatalog-viewer.md)
    + [E-catalogi en bijbehorende PDF&#39;s publiceren](publishing-ecatalogs-associated-pdfs.md)
    + [Een eCatalog koppelen aan een webpagina](linking-ecatalog-web-page.md)
-+ Image sets {#image-sets}
++ Afbeeldingssets {#image-sets}
    + [Snel starten: Afbeeldingssets](quick-start-image-sets.md)
    + [Afbeeldingsset-elementen voorbereiden voor uploaden](preparing-image-set-assets-upload.md)
    + [Een afbeeldingsset maken](creating-image-set.md)
@@ -117,14 +117,14 @@ ht-degree: 1%
    + [Een stalenset maken](creating-swatch-set.md)
    + [Staalsets weergeven](viewing-swatch-sets.md)
    + [Een stalenset koppelen aan een webpagina](linking-swatch-set-web-page.md)
-+ Sets draaien {#spin-sets}
++ Spinsets {#spin-sets}
    + [Snel starten: Sets draaien](quick-start-spin-sets.md)
    + [Een centrifugeset maken](creating-spin-set.md)
    + [Een voorvertoning weergeven van een centrifugeset](previewing-spin-set.md)
    + [Een centrifugeerset publiceren](publishing-spin-set.md)
    + [Voorinstellingen voor een draaiende set viewers instellen](setting-spin-set-viewer-presets.md)
    + [Een centrifugeerset koppelen aan een webpagina](linking-spin-set-web-page.md)
-+ Grondbeginselen van sjablonen {#template-basics}
++ Basisbeginselen van sjablonen {#template-basics}
    + [Snel starten: Grondbeginselen van sjablonen](quick-start-template-basics.md)
    + [Sjabloonbestanden uploaden](uploading-template-files.md)
    + [Een sjabloon maken](creating-template.md)
