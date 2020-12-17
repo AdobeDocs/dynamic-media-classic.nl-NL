@@ -20,9 +20,9 @@ ht-degree: 0%
 
 # Werken met vignet-, venster- en kabinetsbestanden{#working-with-vignette-window-covering-and-cabinet-files}
 
-Gebruikers van het Klassieke hulpmiddel voor het schrijven van afbeeldingen van Dynamic Media kunnen in scène 7 vignetten (VNT-bestanden), vensterbedekkingen (VNW-bestanden) en kasten (VNC-bestanden) gebruiken. Deze bestanden kunnen niet worden gemaakt of bewerkt in Dynamic Media Classic.
+Gebruikers van het Dynamic Media-programma voor het schrijven van klassieke afbeeldingen kunnen in scène 7 vignetten (VNT-bestanden), vensterbedekkingen (VNW-bestanden) en kasten (VNC-bestanden) gebruiken. Deze bestanden kunnen niet worden gemaakt of bewerkt in Dynamic Media Classic.
 
-Vignetten, vensterbekledingen en kasten zijn ontworpen afbeeldingen. Met behulp van een ander Klassiek Dynamic Media-programma, genaamd Afbeeldingsauthoring, maskeert u objecten in een afbeelding, zodat gebruikers dezelfde afbeelding in een groot aantal verschillende structuren of kleuren kunnen zien. Gebruikers zien bijvoorbeeld een couche die is gestoffeerd met verschillende weefsels, een venster dat is versierd met verschillende vensterbehandelingen of een kabinet dat is afgewerkt met verschillende soorten hout.
+Vignetten, vensterbekledingen en kasten zijn ontworpen afbeeldingen. Met behulp van een ander Klassiek Dynamic Media-programma, genaamd Afbeeldingsauthoring, maskeert u objecten in een afbeelding, zodat gebruikers dezelfde afbeelding kunnen zien in verschillende structuren of kleuren. Gebruikers zien bijvoorbeeld een couche die is gestoffeerd met verschillende weefsels, een venster dat is versierd met verschillende vensterbehandelingen of een kabinet dat is afgewerkt met verschillende soorten hout.
 
 U kunt net als elk ander bestand vignetten, vensterbedekkingen en kabinetten uploaden.
 
