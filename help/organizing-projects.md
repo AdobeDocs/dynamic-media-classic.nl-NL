@@ -18,7 +18,7 @@ ht-degree: 0%
 ---
 
 
-# Uw werk organiseren met projecten{#organizing-your-work-with-projects}
+# Uw werk organiseren met Projecten{#organizing-your-work-with-projects}
 
 Projecten bieden een optionele, secundaire manier voor u om elementen onafhankelijk van de mappen te ordenen waarin ze zijn opgeslagen. Een middel kan in slechts één omslag worden geplaatst, maar het kan in meer dan één omslag van het Project voor organisatorische doeleinden worden gekopieerd.
 
@@ -28,19 +28,21 @@ U kunt een project maken wanneer u bestanden uploadt of projecten maakt in het d
 
 >[!NOTE]
 >
->In Dynamic Media Classic wordt aangeraden elementen te ordenen met metagegevens in plaats van met Projecten. Zie Metagegevens [](viewing-adding-exporting-metadata.md)weergeven, toevoegen en exporteren.
+>Dynamic Media Classic raadt u aan elementen te ordenen met metagegevens in plaats van met Projecten. Zie [Metagegevens weergeven, toevoegen en exporteren](viewing-adding-exporting-metadata.md).
 
 >[!NOTE]
 >
->Voor u om activa in Projecten te organiseren, moet uw beheerder u opstelling hebben om hen te gebruiken. Als er onder aan de elementenbibliotheek geen sectie voor de map Projecten wordt weergegeven, is deze methode voor het ordenen van elementen niet beschikbaar voor u. Zie Algemene instellingen [van toepassing](application-setup.md#general-settings).
+>Voor u om activa in Projecten te organiseren, moet uw beheerder u opstelling hebben om hen te gebruiken. Als er onder aan de elementenbibliotheek geen sectie voor de map Projecten wordt weergegeven, is deze methode voor het ordenen van elementen niet beschikbaar voor u. Zie [Algemene instellingen van toepassing](application-setup.md#general-settings).
 
-## Een projectmap maken {#creating-a-project-folder}
+## Een projectmap {#creating-a-project-folder} maken
 
 U kunt een projectmap maken die begint in de elementenbibliotheek of wanneer u bestanden uploadt naar Dynamic Media Classic:
 
-* **In de Bibliotheek** van Activa scrolt aan de bodem van de Bibliotheek van Activa, aan de sectie van Projecten, en selecteert de Add knoop van het Project. Voer vervolgens een naam in voor het project.
+* **In de**
+BibliotheekScroll van Activa aan de bodem van de Bibliotheek van Activa, aan de sectie van Projecten, en selecteer de Add knoop van het Project. Voer vervolgens een naam in voor het project.
 
-* **Wanneer het uploaden van dossiers** in het Upload scherm, selecteer Add aan het menu van het Project en kies Create Project. Voer vervolgens een naam in voor het project.
+* **Wanneer het uploaden van**
+dossiersIn het Upload scherm, selecteer Add aan het menu van het Project en kies tot Project leiden. Voer vervolgens een naam in voor het project.
 
 >[!NOTE]
 >
@@ -50,16 +52,21 @@ U kunt een projectmap maken die begint in de elementenbibliotheek of wanneer u b
 
 Volg deze instructies om een projectmap weer te geven, te verwijderen en een andere naam te geven:
 
-* **Door inhoud** bladeren Selecteer de naam van de map in de Asset Library. De bijbehorende elementen worden weergegeven in het deelvenster Bladeren.
+* **Bladeren door**
+inhoudSelecteer de naam van de map in de elementenbibliotheek. De bijbehorende elementen worden weergegeven in het deelvenster Bladeren.
 
-* **Het schrappen van de omslagen** van het Project selecteer de omslag van het Project en selecteer dan de Remove knoop van het Project. Als u elementen verwijdert uit een projectmap, worden deze niet verwijderd uit Dynamic Media Classic. de elementen blijven in de oorspronkelijke mappen waarin ze zijn opgeslagen.
+* **Projectmappen verwijderenSelecteer de**
+projectmap en selecteer vervolgens de knop Project verwijderen. Als u elementen verwijdert uit een projectmap, worden deze niet verwijderd uit Dynamic Media Classic. de elementen blijven in de oorspronkelijke mappen waarin ze zijn opgeslagen.
 
-* **Als u de naam van projectmappen** wijzigt, dubbelklikt u op de naam van de map in het deelvenster Elementen en voert u vervolgens een nieuwe naam in.
+* **Naam van**
+projectmappen wijzigenDubbelklik op de naam van de map in het deelvenster Elementen en voer een nieuwe naam in.
 
 ## Elementen toevoegen aan een projectmap {#adding-assets-to-a-project-folder}
 
-U kunt afbeeldingen toevoegen aan een projectmap die begint in het deelvenster Bladeren of wanneer u bestanden uploadt naar Classic Dynamic Media:
+U kunt afbeeldingen toevoegen aan een projectmap die begint in het deelvenster Bladeren of wanneer u bestanden uploadt naar Dynamic Media Classic:
 
-* **Selecteer de elementen in het deelvenster** Bladeren en sleep ze naar een projectmap. U kunt ook Bestand > Toevoegen aan project kiezen, een naam voor een projectmap selecteren in het dialoogvenster Project selecteren en de knop Verzenden selecteren.
+* **Selecteer de elementen in het**
+deelvenster Bladeren en sleep ze naar een projectmap. U kunt ook Bestand > Toevoegen aan project kiezen, een naam voor een projectmap selecteren in het dialoogvenster Project selecteren en de knop Verzenden selecteren.
 
-* **Klik op de knop Taakopties wanneer u bestanden** uploadt in het scherm Uploaden. Kies Projecten in het dialoogvenster Taakopties uploaden en selecteer een projectnaam.
+* **Wanneer u**
+bestanden uploadt, klikt u op de knop Taakopties in het scherm Uploaden. Kies Projecten in het dialoogvenster Taakopties uploaden en selecteer een projectnaam.
