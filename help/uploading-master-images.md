@@ -1,6 +1,6 @@
 ---
-title: master afbeeldingen uploaden
-seo-title: master afbeeldingen uploaden
+title: Master afbeeldingen uploaden
+seo-title: Master afbeeldingen uploaden
 description: 'null'
 seo-description: Leer hoe u master afbeeldingen kunt uploaden.
 uuid: 50bcf2e2-852b-48f1-a7c7-5063a87ce9c1
@@ -18,18 +18,21 @@ ht-degree: 0%
 ---
 
 
-# master afbeeldingen uploaden{#uploading-master-images}
+# Master afbeeldingen uploaden{#uploading-master-images}
 
 Voordat u afbeeldingen uploadt naar Dynamic Media Classic, moet u ervoor zorgen dat ze de hoogste kwaliteit hebben en de beste indeling hebben. Dynamic Media Classic raadt aan om afbeeldingen van hoge kwaliteit te uploaden met een voldoende aantal pixels (van 1500 tot 2000 pixels in de lange afmeting). Dit maakt elke vereiste dynamische beeldbewerking mogelijk.
 
-Zie Bestanden [uploaden](uploading-files.md#uploading_files)voor meer informatie over het uploaden van afbeeldingen.
+Zie [Bestanden uploaden](uploading-files.md#uploading_files) voor meer informatie over het uploaden van afbeeldingen.
 
-**master afbeeldingen voorbereiden voor uploaden**
+**Master afbeeldingen voorbereiden voor uploaden**
 
-Bereid uw master beelddossiers voor alvorens u hen aan Dynamic Media Klassiek uploadt:
+Bereid uw master afbeeldingsbestanden voor voordat u ze uploadt naar Dynamic Media Classic:
 
-* **Afbeeldingsgrootte** Maak de grootst mogelijke afbeeldingen die u wilt gebruiken. De meeste afbeeldingen hebben een grootte van 1500 tot 2500 pixels in de langste afmeting. Als u de functie Zoomen wilt gebruiken, raadt Dynamic Media Classic u aan afbeeldingen te gebruiken die ten minste 2000 pixels lang zijn voor optimale zoomdetails. Met Dynamic Media Classic kunnen afbeeldingen tot 25 megapixels worden gerenderd. U kunt bijvoorbeeld een afbeelding van 5000 x 5000 megapixel of een andere formaatcombinatie van maximaal 25 megapixels gebruiken.
+* **AfbeeldingsgrootteMaak de afbeeldingen van de grootste**
+grootte die u wilt gebruiken. De meeste afbeeldingen hebben een grootte van 1500 tot 2500 pixels in de langste afmeting. Als u de functie Zoomen wilt gebruiken, raadt Dynamic Media Classic u aan afbeeldingen te gebruiken die ten minste 2000 pixels lang zijn voor optimale zoomdetails. Dynamic Media Classic kan afbeeldingen renderen tot 25 megapixels per pixel. U kunt bijvoorbeeld een afbeelding van 5000 x 5000 megapixel of een andere formaatcombinatie van maximaal 25 megapixels gebruiken.
 
-* **Bestandsindelingen** Dynamic Media Classic ondersteunt alle standaardbestandsindelingen voor afbeeldingen, waaronder TIFF, BMP, JPEG, PSD, GIF en EPS. Opmaak zonder verlies van afbeeldingen (TIFF en PNG) wordt aanbevolen. Als u een JPEG-afbeelding gebruikt, gebruikt u de instellingen voor de hoogste kwaliteit.
+* **BestandsindelingenDynamic Media Classic ondersteunt alle standaardbestandsindelingen voor afbeeldingen, waaronder TIFF, BMP, JPEG, PSD, GIF en EPS.**
+Opmaak zonder verlies van afbeeldingen (TIFF en PNG) wordt aanbevolen. Als u een JPEG-afbeelding gebruikt, gebruikt u de instellingen voor de hoogste kwaliteit.
 
-* **Kleurruimte** RGB is de kleurruimte voor webafbeeldingspresentaties; CMYK-afbeeldingen die vaak voor afdrukken worden gebruikt, worden automatisch omgezet in RGB wanneer u ze uploadt. Het wordt aanbevolen CMYK-afbeeldingen te uploaden die een ingesloten ICC-kleurprofiel hebben voor de conversie naar RGB. Zie ook ICC-profielen.
+* **Kleurruimte**
+RGB is de kleurruimte voor webafbeeldingspresentaties; CMYK-afbeeldingen die vaak voor afdrukken worden gebruikt, worden automatisch omgezet in RGB wanneer u ze uploadt. Het wordt aanbevolen CMYK-afbeeldingen te uploaden die een ingesloten ICC-kleurprofiel hebben voor de conversie naar RGB. Zie ook ICC-profielen.
