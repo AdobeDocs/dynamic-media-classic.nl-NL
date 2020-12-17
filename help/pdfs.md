@@ -20,9 +20,9 @@ ht-degree: 0%
 
 # Werken met PDF&#39;s{#working-with-pdfs}
 
-PDF-bestanden (Portable Document Format) worden meestal gebruikt in Dynamic Media Classic om eCatalogs te maken. Wanneer u een PDF-bestand uploadt, worden de pagina&#39;s standaard gerasterd door Dynamic Media Classic, of worden de pagina&#39;s gerasterd, zodat de pagina&#39;s kunnen worden gebruikt om rich media te bouwen.
+PDF-bestanden (Portable Document Format) worden meestal gebruikt in Dynamic Media Classic om eCatalogs te maken. Wanneer u een PDF-bestand uploadt, worden de pagina&#39;s standaard gerasterd, of juist gerasterd, zodat de pagina&#39;s kunnen worden gebruikt om rich media te bouwen.
 
-## Opties voor uploaden naar PDF {#pdf-upload-options}
+## Opties voor PDF-upload {#pdf-upload-options}
 
 Wanneer u een PDF-bestand uploadt, kunt u het op verschillende manieren opmaken. U snijdt zijn pagina&#39;s bij, haalt zoekwoorden op, voert een pixel-per-dun resolutie in, en kiest een kleurenruimte. PDF-bestanden bevatten vaak een snijmarge, snijtekens, registratietekens en andere drukkersmarkeringen. U kunt deze markeringen vanaf de zijkanten van pagina&#39;s bijsnijden terwijl u een PDF-bestand uploadt.
 
@@ -32,13 +32,13 @@ De opties voor het uploaden van PDF-bestanden staan in het scherm Uploaden onder
 
 De verwerkingsopties zijn als volgt:
 
-**Met de optie Rasteren** (standaard) worden de pagina&#39;s in het PDF-bestand gewist en worden vectorafbeeldingen naar bitmapafbeeldingen geconverteerd. Kies deze optie om een eCatalog te maken.
+**Rasteren**  (standaard) Hiermee worden de pagina&#39;s in het PDF-bestand gewist en worden vectorafbeeldingen naar bitmapafbeeldingen geconverteerd. Kies deze optie om een eCatalog te maken.
 
-**Met Woorden** zoeken extraheren worden woorden uit het PDF-bestand geëxtraheerd, zodat het bestand op trefwoord in een eCatalog-viewer kan worden doorzocht.
+**Zoekwoorden** extraherenHiermee worden woorden uit het PDF-bestand geëxtraheerd, zodat het bestand op trefwoord in een eCatalog-viewer kan worden doorzocht.
 
-**Koppelingen** extraheren extraheert koppelingen uit de PDF-bestanden en converteert deze naar Afbeeldingen met hyperlinks die worden gebruikt in een eCatalog-viewer.
+**Koppelingen extraheren** extraheert koppelingen uit de PDF-bestanden en converteert deze naar Afbeeldingen met hyperlinks die worden gebruikt in een eCatalog-viewer.
 
-**Met Automatisch een eCatalog genereren met PDF** -bestand met meerdere pagina&#39;s wordt automatisch een eCatalog gemaakt van het PDF-bestand. De eCatalog wordt genoemd naar het Pdf- dossier u uploadde. (Deze optie is alleen beschikbaar als u het PDF-bestand rastert terwijl u het uploadt.)
+**Met Automatisch een eCatalog genereren met** PDFA van meerdere pagina&#39;s wordt automatisch een eCatalog gemaakt van het PDF-bestand. De eCatalog wordt genoemd naar het Pdf- dossier u uploadde. (Deze optie is alleen beschikbaar als u het PDF-bestand rastert terwijl u het uploadt.)
 
 **Resolutie**
 
@@ -48,23 +48,23 @@ Hiermee bepaalt u de resolutie-instelling. Deze instelling bepaalt hoeveel pixel
 
 Selecteer het menu Kleurruimte en kies een kleurruimte voor het PDF-bestand. De meeste PDF-bestanden hebben zowel RGB- als CMYK-kleurenafbeeldingen. De RGB-kleurruimte heeft de voorkeur voor onlineweergave.
 
-**Met Automatisch** detecteren blijft de kleurruimte van het PDF-bestand behouden.
+**Detecteren** Automatisch: behoudt de kleurruimte van het PDF-bestand.
 
-**Omzetten in de RGB-kleurruimte door forceren als RGB** .
+**Met forceren als** RGBC wordt de RGB-kleurruimte omgekeerd.
 
-**Als CMYK** afdwingen wordt omgezet in de CMYK-kleurruimte.
+**Met forceren als** CMYKC wordt de CMYK-kleurruimte hersteld.
 
-**Omzetten in grijswaarden** in grijswaardenkleurruimte.
+**Forceren als** grijswaardenZet om in de grijswaardenkleurruimte.
 
 **Kleurprofiel**
 
 Kies een optie voor Kleurprofiel:
 
-**Omzetten in sRGB** converteert naar sRGB (standaard rood-groen blauw). sRGB is de aanbevolen kleurruimte voor het weergeven van afbeeldingen op webpagina&#39;s.
+**Omzetten in** sRGBConverts in sRGB (standaard rood-groen blauw). sRGB is de aanbevolen kleurruimte voor het weergeven van afbeeldingen op webpagina&#39;s.
 
-**De oorspronkelijke kleurruimte** behouden
+**Behoud oorspronkelijke** kleurruimteBehoudt de oorspronkelijke kleurruimte.
 
-**Kies Aangepast van > naar** om de menu&#39;s te openen, zodat u de optie Omzetten van en Omzetten in kleurruimte kunt kiezen. U kunt een standaard Photoshop-kleurruimte kiezen of een kleurruimte die u hebt geüpload naar Dynamic Media Classic.
+**Kies Aangepast vanuit >** InOpens om de menu&#39;s te openen, zodat u de opdracht Omzetten vanuit en Omzetten in kleurruimte kunt kiezen. U kunt een standaard Photoshop-kleurruimte kiezen of een kleurruimte die u naar Dynamic Media Classic hebt geüpload.
 
 Zie [ICC-profielen](icc-profiles.md#icc_profiles).
 
@@ -73,17 +73,17 @@ Zie [ICC-profielen](icc-profiles.md#icc_profiles).
 1. Als u pixels in witruimte automatisch wilt uitsnijden in een PDF-bestand terwijl u het uploadt, selecteert u het menu Uitsnijden en kiest u Bijsnijden.
 1. Geef de volgende opties op:
 
-   **Wegsnijden op basis van** kiezen of u wilt uitsnijden op basis van kleur of transparantie:
+   **Wegsnijden op basis van** OnKies of u wilt uitsnijden op basis van kleur of transparantie:
 
-   **De optie Kleur** kiezen. Selecteer vervolgens het menu Hoek en kies de hoek van de PDF met de kleur die het beste overeenkomt met de kleur voor de witruimte die u wilt uitsnijden.
+   **** KleurKies de optie Kleur. Selecteer vervolgens het menu Hoek en kies de hoek van de PDF met de kleur die het beste overeenkomt met de kleur voor de witruimte die u wilt uitsnijden.
 
-   **Transparantie** Kies de optie Transparantie.
+   **** TransparantieKies de optie Transparantie.
 
-   **Tolerantie** Sleep de schuifregelaar om een tolerantie tussen 0 en 1 op te geven:
+   **** TolerantieSleep de schuifregelaar om een tolerantie tussen 0 en 1 op te geven:
 
-   **Bijsnijden op basis van kleur** Geef 0 op om alleen pixels bij te snijden als deze exact overeenkomen met de kleur die u in de hoek van de PDF hebt geselecteerd. De aantallen dichter aan 1 staan voor meer kleurenverschil toe.
+   **Bijsnijden op basis van** kleurGeef 0 op om alleen pixels bij te snijden als deze exact overeenkomen met de kleur die u in de hoek van de PDF hebt geselecteerd. De aantallen dichter aan 1 staan voor meer kleurenverschil toe.
 
-   **Bijsnijden op basis van transparantie** Geef 0 op om alleen pixels bij te snijden als deze volledig transparant zijn. De cijfers dichter aan 1 staan voor meer transparantie.
+   **Bijsnijden op basis van** transparantieGeef 0 op om alleen pixels bij te snijden als deze volledig transparant zijn; De cijfers dichter aan 1 staan voor meer transparantie.
 
 ## Uitsnijden vanaf de zijkanten van PDF-pagina&#39;s {#cropping-from-the-sides-of-pdf-pages}
 
