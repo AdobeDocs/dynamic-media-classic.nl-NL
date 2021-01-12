@@ -9,9 +9,9 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 discoiquuid: 3c9ee4ec-dd37-498d-98d6-1339b80177ff
 translation-type: tm+mt
-source-git-commit: 9424b392f85536dc75083d0ade255e4824755ed1
+source-git-commit: 3a8283196c9c99a5709cf4995c426da7e4f6c83b
 workflow-type: tm+mt
-source-wordcount: '1945'
+source-wordcount: '1947'
 ht-degree: 0%
 
 ---
@@ -61,9 +61,9 @@ Nadat u een gebruiker hebt toegevoegd, stuurt Dynamic Media Classic een welkomst
 
    Na het bewaren, vraagt een herinnering of wilt u een gebruiker aan een ander bedrijf toevoegen. Klik toevoegen als u de gebruiker aan een bedrijf wilt toevoegen.
 
-   Alle nieuwe gebruikers krijgen een willekeurig gegenereerd wachtwoord. gebruikers moeten de wachtwoorden wijzigen wanneer zij zich voor het eerst aanmelden bij Dynamic Media Classic.
+   Alle nieuwe gebruikers krijgen een willekeurig gegenereerd wachtwoord. gebruikers moeten de wachtwoorden wijzigen wanneer zij zich voor het eerst aanmelden bij de Dynamic Media Classic-bureaubladtoepassing.
 
-   Nieuwe gebruikers krijgen een welkomstbericht nadat u ze hebt toegevoegd. E-mail verstrekt een tijdelijk wachtwoord en verklaart hoe te login aan Scene 7 het Publiceren Systeem.
+   Nieuwe gebruikers krijgen een welkomstbericht nadat u ze hebt toegevoegd. Het e-mailbericht bevat een tijdelijk wachtwoord en legt uit hoe u zich kunt aanmelden bij Dynamic Media Classic.
 
    Als de gebruiker het welkomstbericht niet ontvangt, meldt u hem of haar op de pagina Dynamic Media Classic aanmelden (https://s7sps1.scene7.com) en klikt u op Mijn wachtwoord vergeten. Het wachtwoord wordt opnieuw ingesteld en er wordt een nieuwe e-mail verzonden. Neem contact op met Technische ondersteuning als de gebruiker geen e-mail ontvangt en deze zich niet in de map Junk bevindt.
 
