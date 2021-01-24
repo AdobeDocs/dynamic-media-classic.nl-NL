@@ -1,16 +1,14 @@
 ---
 title: Aanmelden bij en uit Adobe Dynamic Media Classic
 description: Leer binnen aan en uit Adobe Dynamic Media Classic ondertekenen en met een server van het productiemilieu in Noord-Amerika (NA), of Europa, Midden-Oosten, Afrika (EMEA), of Azië-Stille Oceaan (APAC) verbinden.
-uuid: eaf51ab7-d17a-4b7b-b6a4-1ec78bfee36b
 contentOwner: admin
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/getting_started
-discoiquuid: ad418881-ff31-43b1-bbb6-ab2fbcf89bea
 translation-type: tm+mt
-source-git-commit: d3c9b805f5d17c130fe5b4590bd7864351dc9d24
+source-git-commit: 60aedff7e46d134537e2a0639d1c28c3a7909b90
 workflow-type: tm+mt
-source-wordcount: '475'
+source-wordcount: '215'
 ht-degree: 0%
 
 ---
@@ -18,19 +16,15 @@ ht-degree: 0%
 
 <!-- UPDATE THIS TOPIC AFTER DECEMBER 31, 2020!!!!! -->
 
-# Aanmelden bij Adobe Dynamic Media Classic {#sign-in}
+# Aanmelden bij Adobe Dynamic Media Classic {#dmc-sign-in}
 
-De manier waarop u zich aanmeldt bij Dynamic Media Classic en u afmeldt, is gebaseerd op de vraag of u de [bureaubladtoepassing](#sign-in-dmc-app) of de [webbrowser](#sign-out) gebruikt.
-
-Ongeacht hoe u zich aanmeldt, zorg ervoor dat u het volgende doet voordat u Dynamic Media Classic gebruikt:
+Controleer of u het volgende hebt voordat u de Dynamic Media Classic-bureaubladtoepassing gebruikt:
 
 * **Gebruikersnaam**
 U gebruikt uw e-mailadres als aanmeldnaam.
 
 * ****
 WachtwoordU krijgt uw tijdelijke wachtwoord in een &quot;welkomstmail&quot;van Dynamic Media Classic of van uw Klassieke beheerder van Dynamic Media. De eerste keer dat u zich aanmeldt, wordt u gevraagd dit tijdelijke wachtwoord te wijzigen.
-
-## Aanmelden bij Dynamic Media Classic via de bureaubladtoepassing {#sign-in-dmc-app}
 
 1. Open Adobe Dynamic Media Classic-bureaubladtoepassing.
 
@@ -49,36 +43,9 @@ Gebruik de volgende afbeelding om de productieomgeving te selecteren die u wilt 
 
 1. Tik op **[!UICONTROL Sign In]**.
 
-### Afmelden bij Dynamic Media via de bureaubladtoepassing {#sign-out-dmc-app}
+## Afmelden bij Adobe Dynamic Media Classic {#dmc-sign-out}
 
 1. Tik in de rechterbovenhoek van de Klassieke Dynamic Media-bureaubladtoepassing op **[!UICONTROL Sign Out]** en tik **[!UICONTROL Sign Out]** nogmaals.
-
-## Aanmelden bij Dynamic Media Classic via uw webbrowser {#signing-in-and-out}
-
-Zorg dat u naast uw gebruikersnaam en wachtwoord ook het volgende hebt voordat u Dynamic Media Classic vanuit uw webbrowser gebruikt:
-
-* ****
-SetupUw beheerder moet hebben ingesteld dat u Dynamic Media Classic wilt gebruiken.
-
-* ****
-URLYU moet de URL-locatie hebben om toegang te krijgen tot Dynamic Media Classic. U krijgt deze URL via de 
-*Welkom-* mail of van uw Dynamic Media Classic-beheerder.
-
-Omdat Dynamic Media Classic op internet is gebaseerd, wordt het systeem afgesloten als u naar een andere website gaat. Als u bijvoorbeeld op de knop Terug in uw browservenster klikt, sluit u Dynamic Media Classic af.
-
-1. Start uw webbrowser.
-1. Ga naar de klassieke Dynamic Media-aanmeldings-URL (vanuit het welkomstbericht). U kunt zich ook aanmelden via de Klassieke website van Dynamic Media ( [www.adobe.com/products/scene7.html](https://www.adobe.com/products/scene7.html)) door de knop Aanmelden bij client te selecteren.
-1. Voer in het tekstveld **[!UICONTROL User Name]** uw e-mailadres in.
-1. Voer in het tekstveld **[!UICONTROL Password]** uw wachtwoord in.
-1. Desgewenst kunt u uw computer uw e-mailadres laten onthouden door de optie **[!UICONTROL Remember My User Name]** te selecteren.
-1. Tik op **[!UICONTROL Sign In]**.
-
-### Afmelden bij Dynamic Media via uw webbrowser {#sign-out}
-
-1. Voer een van de volgende handelingen uit:
-
-   * Tik op **[!UICONTROL Sign Out]** rechts van de globale navigatiebalk.
-   * Sluit de browser af.
 
 >[!MORELIKETHIS]
 >
