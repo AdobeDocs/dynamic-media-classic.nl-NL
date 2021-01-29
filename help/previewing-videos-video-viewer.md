@@ -1,8 +1,6 @@
 ---
 title: Video's voorvertonen in een videoviewer
-seo-title: Video's voorvertonen in een videoviewer
-description: 'null'
-seo-description: Leer hoe u video's kunt voorvertonen in een videoviewer.
+description: Leer hoe u video's kunt voorvertonen in een videoviewer.
 uuid: 7ab4e805-6e5d-461b-bd99-5e09b9ced950
 contentOwner: admin
 content-type: reference
@@ -10,9 +8,9 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/video
 discoiquuid: 6a2e6df1-9186-42e2-9b85-01f132936c72
 translation-type: tm+mt
-source-git-commit: 9424b392f85536dc75083d0ade255e4824755ed1
+source-git-commit: ca12c96d3a76cfa52fd930d190476cb6fc4f4ac7
 workflow-type: tm+mt
-source-wordcount: '774'
+source-wordcount: '767'
 ht-degree: 0%
 
 ---
