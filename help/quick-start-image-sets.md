@@ -1,8 +1,6 @@
 ---
 title: '"Snel starten: Afbeeldingssets"'
-seo-title: '"Snel starten: Afbeeldingssets"'
-description: 'null'
-seo-description: Een inleiding en Snel Begin aan de Reeksen van het Beeld om u te helpen snel met de Vastgestelde technieken van het Beeld aan de slag gaan.
+description: Een inleiding en Snel Begin aan de Reeksen van het Beeld om u te helpen snel met de Vastgestelde technieken van het Beeld aan de slag gaan.
 uuid: daf17d13-9c06-41f0-8fc5-2e56d460d341
 contentOwner: admin
 content-type: reference
@@ -10,9 +8,9 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/image_sets
 discoiquuid: 612a425f-2840-46c4-8e5a-c0bc5f738f4e
 translation-type: tm+mt
-source-git-commit: 9424b392f85536dc75083d0ade255e4824755ed1
+source-git-commit: ca12c96d3a76cfa52fd930d190476cb6fc4f4ac7
 workflow-type: tm+mt
-source-wordcount: '565'
+source-wordcount: '560'
 ht-degree: 3%
 
 ---
