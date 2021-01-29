@@ -1,8 +1,6 @@
 ---
-title: '"Beste praktijken: De HTML5-videoviewer gebruiken"'
-seo-title: '"Beste praktijken: De HTML5-videoviewer gebruiken"'
-description: 'null'
-seo-description: Leer meer over de beste werkwijzen voor het gebruik van de HTML5-videoviewer.
+title: Aanbevolen procedures voor het gebruik van de HTML5-videoviewer
+description: Leer meer over de beste werkwijzen voor het gebruik van de HTML5-videoviewer.
 uuid: 3c8924dc-7bea-4c25-b77b-005f57b71b64
 contentOwner: admin
 content-type: reference
@@ -10,15 +8,15 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/video
 discoiquuid: 4b11cab7-88cf-42dd-8554-2eea530753bb
 translation-type: tm+mt
-source-git-commit: 1df4f88ef856160ee06c43dc6ec430df122f2408
+source-git-commit: ca12c96d3a76cfa52fd930d190476cb6fc4f4ac7
 workflow-type: tm+mt
-source-wordcount: '428'
+source-wordcount: '422'
 ht-degree: 0%
 
 ---
 
 
-# Beste praktijken: De HTML5-videoviewer gebruiken{#best-practice-using-the-html-video-viewer}
+# Aanbevolen procedures voor het gebruik van de HTML5 Video-viewer{#best-practice-using-the-html-video-viewer}
 
 De Dynamic Media Classic HTML5 Video viewer-voorinstellingen zijn robuuste videospelers. Aan de ontwerpkant van de speler, kunt u alle functionaliteit van de videospeler tot stand brengen gebruikend standaardhulpmiddelen van de Webontwikkeling. U kunt bijvoorbeeld de knoppen, besturingselementen en de achtergrond van een aangepaste posterafbeelding ontwerpen met HTML5 en CSS, zodat u uw klanten kunt bereiken met een aangepaste weergave.
 
