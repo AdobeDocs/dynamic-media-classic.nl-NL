@@ -1,16 +1,14 @@
 ---
 title: Adobe Dynamic Media Classic-bureaubladtoepassing - Nu beschikbaar
-seo-title: Adobe Dynamic Media Classic-bureaubladtoepassing - Nu beschikbaar
-description: 'null'
-seo-description: Meer weten over de Klassieke Dynamic Media-bureaubladtoepassing?
+description: Meer weten over de Klassieke Dynamic Media-bureaubladtoepassing?
 contentOwner: admin
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/introducing_adobe_dynamic_media_classic
 translation-type: tm+mt
-source-git-commit: 9e7955b2311496e58e9e973c8f579b2f256c55cb
+source-git-commit: ca12c96d3a76cfa52fd930d190476cb6fc4f4ac7
 workflow-type: tm+mt
-source-wordcount: '1500'
+source-wordcount: '1507'
 ht-degree: 0%
 
 ---
@@ -34,12 +32,18 @@ Adobe Dynamic Media Classic-bureaubladtoepassing is compatibel met de volgende b
 * macOS X 10.10 of hoger.
 * Windows 7 of hoger.
 
-## Oplossingen in de nieuwste versie 20.20.2 {#latest-fixes-desktop-app}
+## Oplossingen in de meest recente versie (20.21.1) {#latest-fixes-desktop-app}
+
+* Aanmeldingsproblemen vanwege time-out resulterend in het volgende bericht: *Deze gebruiker kan zonder toestemming aan de groep(en) worden toegewezen. Neem contact op met uw beheerder.*
+* Viewer-voorinstellingen worden gedupliceerd bij elke onjuiste wachtwoordpoging.
+* De bureaubladtoepassing reageert niet meer omdat er een grote hoeveelheid middelen in de hoofdmap staat. (Vast onder Windows; naar wens werken op MacOS.)
+
+## Oplossingen in de vorige versie (20.20.2) {#previous-version-fixes-desktop-app}
 
 * Geen beperking op het aantal bestanden dat u kunt uploaden via de gebruikersinterface van de bureaubladtoepassing voor zowel MacOS als Windows.
 * U hoeft zich niet af te melden bij de bureaubladtoepassing om te schakelen tussen bedrijven.
 * Ctrl+V voor plakbewerking werkt nu in Windows.
-* In de toekomst, wanneer een nieuwe versie van de bureaubladtoepassing wordt uitgebracht, worden gebruikers op de hoogte gesteld in de bureaubladtoepassing zelf.
+* In de toekomst, wanneer een nieuwe versie van de bureaubladtoepassing wordt uitgebracht, worden gebruikers op de hoogte gesteld in de bureaubladtoepassing zelf. —>
 
 ## Download en installeer de nieuwste Adobe Dynamic Media Classic-bureaubladtoepassing op MacOS of Windows {#installation-dmc-app}
 
@@ -52,20 +56,14 @@ Zie ook:
 
 1. Download het nieuwste installatieprogramma voor de Adobe Dynamic Media Classic-bureaubladtoepassing.
 
-   >[!NOTE]
-   >
-   >Gebruiker die de GA-versie al heeft geïnstalleerd, moet deze *verwijderen uit het lokale Windows-systeem voordat de nieuwste versie wordt geïnstalleerd.* Of gebruikers kunnen gewoon *de geïnstalleerde GA-versie op hun lokale MacOS-systeem vervangen door de nieuwste versie.* Nieuwe gebruikers moeten de nieuwste versie 20.20.2 rechtstreeks installeren.
+   * De meest recente versie (20.21.1) is beschikbaar op het volgende adres:
 
-   De nieuwste versie is 20.20.2 beschikbaar op de volgende website:
+      * [macOS (.DMG) - Download.](https://download.macromedia.com/dynamic-media-classic/20.21.1/adobe-dynamic-media-classic-20.21.1.dmg)
+      * [Windows (.EXE) - Downloaden.](https://download.macromedia.com/dynamic-media-classic/20.21.1/adobe-dynamic-media-classic-20.21.1.exe)
+   * De vorige versie (20.20.2) is beschikbaar op:
 
-   * [macOS (.DMG) - Download.](https://download.macromedia.com/dynamic-media-classic/20.20.2/adobe-dynamic-media-classic-20.20.2.dmg)
-   * [Windows (.EXE) - Downloaden.](https://download.macromedia.com/dynamic-media-classic/20.20.2/adobe-dynamic-media-classic-20.20.2.exe)
-
-   GA (Algemene Beschikbaarheid) versie was 20.20.1 beschikbaar op het volgende:
-
-   * [macOS (.DMG) - Download.](https://download.macromedia.com/dynamic-media-classic/20.20.1/adobe-dynamic-media-classic-20.20.1.dmg)
-   * [Windows (.EXE) - Downloaden.](https://download.macromedia.com/dynamic-media-classic/20.20.1/adobe-dynamic-media-classic-20.20.1.exe)
-
+      * [macOS (.DMG) - Download.](https://download.macromedia.com/dynamic-media-classic/20.20.2/adobe-dynamic-media-classic-20.20.2.dmg)
+      * [Windows (.EXE) - Downloaden.](https://download.macromedia.com/dynamic-media-classic/20.20.2/adobe-dynamic-media-classic-20.20.2.exe)
 
 
 
@@ -111,11 +109,11 @@ Als u de nieuwste versie van de Adobe Dynamic Media Classic-bureaubladtoepassing
 
 1. Download het nieuwste installatieprogramma voor de Adobe Dynamic Media Classic-bureaubladtoepassing voor macOS.
 
-   * [macOS (.DMG) - Download.](https://download.macromedia.com/dynamic-media-classic/20.20.2/adobe-dynamic-media-classic-20.20.2.dmg)
+   * [macOS (.DMG) - Download.](https://download.macromedia.com/dynamic-media-classic/20.21.1/adobe-dynamic-media-classic-20.21.1.dmg)
 
 1. Koppel het gedownloade beeld van de Schijf (.DMG) aan een montageselocatie gebruikend het volgende bevel:
 
-   `hdiutil attach adobe-dynamic-media-classic-20.20.2.dmg -mountpoint <mount_point_path>`
+   `hdiutil attach adobe-dynamic-media-classic-20.21.1.dmg -mountpoint <mount_point_path>`
 
 1. Kopieer het APP-bestand naar **[!UICONTROL Applications]** met de volgende opdracht:
 
@@ -151,19 +149,19 @@ Als u de nieuwste versie van de Klassieke Adobe Dynamic Media-bureaubladtoepassi
 
 1. Download het nieuwste installatieprogramma voor de Adobe Dynamic Media Classic-bureaubladtoepassing.
 
-   * [Windows (.EXE) - Downloaden.](https://download.macromedia.com/dynamic-media-classic/20.20.2/adobe-dynamic-media-classic-20.20.2.exe)
+   * [Windows (.EXE) - Downloaden.](https://download.macromedia.com/dynamic-media-classic/20.21.1/adobe-dynamic-media-classic-20.21.1.exe)
 
 1. Voer het installatieprogramma in recordmodus uit met de volgende opdracht:
 
-   `adobe-dynamic-media-classic-20.20.2.exe /r /f1"C:\Setup.iss"`
+   `adobe-dynamic-media-classic-20.21.1.exe /r /f1"C:\Setup.iss"`
 
 1. Voer in het venster van het GUI-installatieprogramma de stappen uit om te installeren, zodat interacties/invoer, zoals de installatielocatie, worden opgenomen in het `Setup.iss`-bestand.
 
-1. Kopieer het gemaakte `Setup.iss`-bestand en `adobe-dynamic-media-classic-20.20.2.exe` naar een andere computer.
+1. Kopieer het gemaakte `Setup.iss`-bestand en `adobe-dynamic-media-classic-20.21.1.exe` naar een andere computer.
 
 1. Voer de volgende opdracht voor een installatie op de achtergrond uit:
 
-   `adobe-dynamic-media-classic-20.20.2.exe /s /f1"C:\Setup.iss"`
+   `adobe-dynamic-media-classic-20.21.1.exe /s /f1"C:\Setup.iss"`
 
    De details over de parameters van de bevellijn zijn beschikbaar bij [Setup.exe en Update.exe bevel-Lijn Parameters.](https://docs.flexera.com/installshield19helplib/helplibrary/IHelpSetup_EXECmdLine.htm)
 
