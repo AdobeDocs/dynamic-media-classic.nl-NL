@@ -1,17 +1,15 @@
 ---
 title: Exportopties opgeven die beschikbaar zijn voor gebruikers van Media Portal
-seo-title: Exportopties opgeven die beschikbaar zijn voor gebruikers van Media Portal
-description: 'null'
-seo-description: Leer hoe u exportopties opgeeft die beschikbaar zijn voor gebruikers van Media Portal.
+description: Leer hoe u exportopties opgeeft die beschikbaar zijn voor gebruikers van Media Portal.
 uuid: 5258b8a4-0704-43cd-97d1-c9af2e4e298b
 contentOwner: admin
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 discoiquuid: 9bfd95da-3714-4e38-98af-331a04c685f5
 translation-type: tm+mt
-source-git-commit: 9424b392f85536dc75083d0ade255e4824755ed1
+source-git-commit: ca12c96d3a76cfa52fd930d190476cb6fc4f4ac7
 workflow-type: tm+mt
-source-wordcount: '376'
+source-wordcount: '368'
 ht-degree: 0%
 
 ---
