@@ -1,8 +1,6 @@
 ---
-title: '"Snel starten: Dynamic Media Classic en Adobe Analytics integreren "'
-seo-title: '"Snel starten: Dynamic Media Classic en Adobe Analytics integreren "'
-description: 'null'
-seo-description: Een inleiding en Snel aan de integratie van Dynamic Media Classic en Adobe Analytic om u te helpen snel aan de slag te gaan.
+title: '"Snel starten: Dynamic Media Classic en Adobe Analytics integreren"'
+description: Een inleiding en Snel aan de integratie van Dynamic Media Classic en Adobe Analytic om u te helpen snel aan de slag te gaan.
 uuid: 3f9e2c91-15d4-4b53-8220-9b1ca57c0b1d
 contentOwner: admin
 content-type: reference
@@ -10,9 +8,9 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/adobe_analytics_instrumentation_kit
 discoiquuid: abec9a85-013c-4030-b129-bf27a89cb464
 translation-type: tm+mt
-source-git-commit: 9424b392f85536dc75083d0ade255e4824755ed1
+source-git-commit: ca12c96d3a76cfa52fd930d190476cb6fc4f4ac7
 workflow-type: tm+mt
-source-wordcount: '683'
+source-wordcount: '673'
 ht-degree: 0%
 
 ---
