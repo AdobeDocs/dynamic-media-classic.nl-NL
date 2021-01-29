@@ -1,8 +1,6 @@
 ---
 title: '"Snel starten: eCatalogs"'
-seo-title: '"Snel starten: eCatalogs"'
-description: 'null'
-seo-description: Een inleiding en Snel Begin aan eCatalogi om u te helpen snel met eCatalog technieken opstaan en in werking stellen.
+description: Een inleiding en Snel Begin aan eCatalogi om u te helpen snel met eCatalog technieken opstaan en in werking stellen.
 uuid: 1ec41927-3df6-4845-8d9d-bb92cf6dca08
 contentOwner: admin
 content-type: reference
@@ -10,9 +8,9 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/ecatalogs
 discoiquuid: 781dacd0-ef0c-42b7-92e0-12791994874d
 translation-type: tm+mt
-source-git-commit: 83b88623b898fdadd1b334b1c12901830c831c5c
+source-git-commit: ca12c96d3a76cfa52fd930d190476cb6fc4f4ac7
 workflow-type: tm+mt
-source-wordcount: '1429'
+source-wordcount: '1425'
 ht-degree: 0%
 
 ---
