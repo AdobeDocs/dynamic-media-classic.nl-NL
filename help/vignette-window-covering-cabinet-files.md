@@ -1,8 +1,6 @@
 ---
 title: Werken met vignet-, venster- en kabinetsbestanden
-seo-title: Werken met vignet-, venster- en kabinetsbestanden
-description: 'null'
-seo-description: Leer hoe u met vignet-, venster- en kabinetsbestanden werkt.
+description: Leer hoe u met vignet-, venster- en kabinetsbestanden werkt.
 uuid: a738791c-4be0-4286-abbd-fae7a0e4bb73
 contentOwner: admin
 content-type: reference
@@ -10,9 +8,9 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/master_files
 discoiquuid: 42df9adc-e563-4de2-87a4-bd40cef77cdf
 translation-type: tm+mt
-source-git-commit: 1df4f88ef856160ee06c43dc6ec430df122f2408
+source-git-commit: ca12c96d3a76cfa52fd930d190476cb6fc4f4ac7
 workflow-type: tm+mt
-source-wordcount: '153'
+source-wordcount: '144'
 ht-degree: 0%
 
 ---
