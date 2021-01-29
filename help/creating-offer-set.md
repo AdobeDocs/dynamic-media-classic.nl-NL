@@ -1,8 +1,6 @@
 ---
 title: Een aanbiedingsset maken
-seo-title: Een aanbiedingsset maken
-description: 'null'
-seo-description: Leer hoe u een set voorstellen maakt.
+description: Leer hoe u een set voorstellen maakt.
 uuid: 6d6a4af9-70c0-4cfa-9a8f-855d6adfcc8f
 contentOwner: admin
 content-type: reference
@@ -10,9 +8,9 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/target_integration
 discoiquuid: 59b6437d-c21e-4929-9291-3032dbb34565
 translation-type: tm+mt
-source-git-commit: 4819803428adee539e46498c73e5f2ba6a952693
+source-git-commit: ca12c96d3a76cfa52fd930d190476cb6fc4f4ac7
 workflow-type: tm+mt
-source-wordcount: '1210'
+source-wordcount: '1205'
 ht-degree: 0%
 
 ---
