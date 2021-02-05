@@ -6,9 +6,9 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/introducing_adobe_dynamic_media_classic
 translation-type: tm+mt
-source-git-commit: ca12c96d3a76cfa52fd930d190476cb6fc4f4ac7
+source-git-commit: 84a36e45ecf5fb027645e0f9da40b00ad3ce29e0
 workflow-type: tm+mt
-source-wordcount: '1507'
+source-wordcount: '1529'
 ht-degree: 0%
 
 ---
@@ -22,21 +22,22 @@ Deze nieuwe app is nu beschikbaar voor Windows en macOS.
 
 >[!IMPORTANT]
 >
->We raden u aan de nieuwe Adobe Dynamic Media Classic-bureaubladtoepassing tegen 1 oktober 2020 te installeren. Als u dit doet, hebt u een soepele overgang voordat de Adobe Flash Player op 31 december 2020 wordt afgekeurd. Op die datum kunt u zich niet meer aanmelden bij de browserversie van de Klassieke gebruikersinterface van Adobe Dynamic Media, die in het product als Dynamic Media Classic wordt aangeduid.
+>Adobe raadt u aan de nieuwe Adobe Dynamic Media Classic-bureaubladtoepassing tegen 1 oktober 2020 te installeren. Als u dit doet, hebt u een soepele overgang voordat de Adobe Flash Player op 31 december 2020 wordt afgekeurd. Na die datum kunt u zich niet meer aanmelden bij de browserversie van de Klassieke gebruikersinterface van Adobe Dynamic Media, die in het product als Dynamic Media Classic wordt aangeduid.
 
 Raadpleeg de veelgestelde vragen voor de [Nieuwe Dynamic Media Classic-ervaring nu beschikbaar.](/help/new-ui-2020.md)
 
 ## Systeemvereisten voor Adobe Dynamic Media Classic-bureaubladtoepassing {#system-requirements-dmc-app}
 
 Adobe Dynamic Media Classic-bureaubladtoepassing is compatibel met de volgende besturingssystemen:
-* macOS X 10.10 of hoger.
+
+* macOS 10.10 of hoger.
 * Windows 7 of hoger.
 
 ## Oplossingen in de meest recente versie (20.21.1) {#latest-fixes-desktop-app}
 
-* Aanmeldingsproblemen vanwege time-out resulterend in het volgende bericht: *Deze gebruiker kan zonder toestemming aan de groep(en) worden toegewezen. Neem contact op met uw beheerder.*
+* Aanmeldingsproblemen vanwege time-out resulterend in het volgende bericht: *Deze gebruiker kan zonder toestemming aan de groep of groepen worden toegewezen. Neem contact op met uw beheerder.*
 * Viewer-voorinstellingen worden gedupliceerd bij elke onjuiste wachtwoordpoging.
-* De bureaubladtoepassing reageert niet meer omdat er een grote hoeveelheid middelen in de hoofdmap staat. (Vast onder Windows; naar wens werken op MacOS.)
+* Bureaubladtoepassing reageert niet meer vanwege de vele middelen in de hoofdmap. (Vast onder Windows; naar wens werken op MacOS.)
 
 ## Oplossingen in de vorige versie (20.20.2) {#previous-version-fixes-desktop-app}
 
@@ -84,7 +85,7 @@ Zie ook:
 
    ![Dynamic Media Classic aanmelden](/help/assets/dmclassic-login1.png)
 
-1. Gebruik dezelfde referenties als uw browserreferenties om u aan te melden bij Adobe Dynamic Media Classic.
+1. Als u zich wilt aanmelden bij de Adobe Dynamic Media Classic-bureaubladtoepassing, gebruikt u dezelfde gegevens als waarmee u zich in de browser hebt aangemeld bij Dynamic Media Classic.
 
    Zie de volgende afbeelding voor de productieomgeving voor informatie over het gebruik van **[!UICONTROL Server]**:
 
@@ -94,7 +95,7 @@ Zie ook:
    | https://s7sps3.scene7.com/ | Productie EMEA (Europa, Midden-Oosten en Afrika) |
    | https://s7sps5.scene7.com/ | APAC-productie (Azië-Stille Oceaan) |
 
-1. Post login UI, zult u het vertrouwde browser ervaring UI opmerken. U kunt uw dagelijkse activiteiten op de gebruikelijke wijze nu uitvoeren op de interface van de bureaubladtoepassing.
+1. Na aanmelden ziet u de vertrouwde ervaring van de gebruikersinterface van de browser. U kunt uw dagelijkse Dynamic Media Klassieke activiteiten zoals gebruikelijk op de Desktop app voortzetten.
 
 ## Download en *silent* installeer de nieuwste Adobe Dynamic Media Classic-bureaubladtoepassing op MacOS {#install-silent-mac-dmc-app}
 
@@ -124,7 +125,7 @@ Unmount DMG - hdiutil detach <mount_point_path>`
 
    ![Dynamic Media Classic aanmelden](/help/assets/dmclassic-login1.png)
 
-1. Gebruik dezelfde referenties als uw browserreferenties om u aan te melden bij Adobe Dynamic Media Classic.
+1. Als u zich wilt aanmelden bij de Adobe Dynamic Media Classic-bureaubladtoepassing, gebruikt u dezelfde gegevens als waarmee u zich in de browser hebt aangemeld bij Dynamic Media Classic.
 
    Zie de volgende afbeelding voor de productieomgeving voor informatie over het gebruik van **[!UICONTROL Server]**:
 
@@ -163,13 +164,13 @@ Als u de nieuwste versie van de Klassieke Adobe Dynamic Media-bureaubladtoepassi
 
    `adobe-dynamic-media-classic-20.21.1.exe /s /f1"C:\Setup.iss"`
 
-   De details over de parameters van de bevellijn zijn beschikbaar bij [Setup.exe en Update.exe bevel-Lijn Parameters.](https://docs.flexera.com/installshield19helplib/helplibrary/IHelpSetup_EXECmdLine.htm)
+   De details over bevel-lijn parameters zijn beschikbaar bij [Setup.exe en Update.exe bevel-Lijn Parameters.](https://docs.flexera.com/installshield19helplib/helplibrary/IHelpSetup_EXECmdLine.htm)
 
 1. Wanneer u de toepassing opent, wordt de nieuwe Klassieke aanmeldingspagina van Adobe Dynamic Media weergegeven:
 
    ![Dynamic Media Classic aanmelden](/help/assets/dmclassic-login1.png)
 
-1. Gebruik dezelfde referenties als uw browserreferenties om u aan te melden bij Adobe Dynamic Media Classic.
+1. Als u zich wilt aanmelden bij de Adobe Dynamic Media Classic-bureaubladtoepassing, gebruikt u dezelfde gegevens als waarmee u zich in de browser hebt aangemeld bij Dynamic Media Classic.
 
    Zie de volgende afbeelding voor de productieomgeving voor informatie over het gebruik van **[!UICONTROL Server]**:
 
@@ -194,7 +195,7 @@ Bekijk een [videolijn bij het gebruiken van de Klassieke App van de Desktop van 
 
 ### De afbeeldingscache en de elementcache handmatig wissen
 
-Naast het wissen van de afbeeldings- en middelencache met de bureaubladtoepassing, kunt u deze taak ook handmatig uitvoeren door de cache rechtstreeks van het bestandssysteem te wissen.
+U kunt de cache van afbeeldingen en elementen niet alleen wissen met de bureaubladtoepassing, maar u kunt de cache ook handmatig rechtstreeks wissen vanuit het bestandssysteem.
 
 1. Navigeer op basis van uw besturingssysteem naar het volgende:
 
@@ -207,7 +208,7 @@ Naast het wissen van de afbeeldings- en middelencache met de bureaubladtoepassin
 
 **_Is op Vensters en macOS van toepassing - hoe schakel ik tussen bedrijven?_**<br>Ga als volgt te werk om tussen bedrijven te schakelen:
 * Selecteer in de Klassieke app van Dynamic Media het nieuwe bedrijf in de vervolgkeuzelijst.
-* Tik **[!UICONTROL OK]** om u af te melden en de app te sluiten wanneer de pop-up wordt weergegeven.
+* Tik **[!UICONTROL OK]** om u af te melden en de app te sluiten wanneer het pop-upvenster verschijnt.
 
    ![Start de app opnieuw om het nieuwe bedrijf te gebruiken](/help/assets/dmclassic-new-company1.png)
 * Start Dynamic Media Classic opnieuw en meld u vervolgens op de gebruikelijke wijze aan om met het nieuwe bedrijf te werken.
@@ -216,7 +217,7 @@ Naast het wissen van de afbeeldings- en middelencache met de bureaubladtoepassin
 
 **_Ik kan het deelvenster Media Cart niet zien op de landingspagina van Dynamic Media Classic._**<br>Tik in Dynamic Media Classic **[!UICONTROL Setup > Personal Setup]**. Controleer of **[!UICONTROL Show MediaPortal Features]**is geselecteerd (ingeschakeld) in de sectie Browser. Tik op **[!UICONTROL Save > Close]**.
 
-**_De publicatiestatus (groene indicator) van een element wordt niet correct weergegeven._**<br>In browser UI, was re-login aan UI vereist om de correcte publicatiestaat van activa te zien. In de bureaubladtoepassing is een **[!UICONTROL Refresh]**-pictogram op de werkbalk toegevoegd, rechts van de knop **[!UICONTROL Select None]**. Tik op het pictogram **[!UICONTROL Refresh]**om de laatste status van alle elementen op de opgegeven pagina weer te geven. U hoeft zich niet opnieuw aan te melden, zoals in de gebruikersinterface van de browser.
+**_De publicatiestatus (groene indicator) van een element wordt niet correct weergegeven._**<br>In de gebruikersinterface van de browser was opnieuw aanmelden bij de gebruikersinterface vereist om de juiste publicatiestatus van elementen te zien. In de bureaubladtoepassing heeft Adobe een **[!UICONTROL Refresh]**-pictogram op de werkbalk rechts van de knop **[!UICONTROL Select None]**geplaatst. Tik op het pictogram **[!UICONTROL Refresh]**om de laatste status van alle elementen op de opgegeven pagina weer te geven. Geen nieuwe aanmelding vereist zoals met de gebruikersinterface van de browser.
 
 ![Pictogram ](/help/assets/refresh-icon1.png)
 *Vernieuwen*
