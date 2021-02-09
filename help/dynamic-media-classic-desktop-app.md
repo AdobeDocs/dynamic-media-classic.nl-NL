@@ -6,9 +6,9 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/introducing_adobe_dynamic_media_classic
 translation-type: tm+mt
-source-git-commit: 84a36e45ecf5fb027645e0f9da40b00ad3ce29e0
+source-git-commit: 2f7366a77c0fa5f3953721cdd5328123d9c2a052
 workflow-type: tm+mt
-source-wordcount: '1529'
+source-wordcount: '1528'
 ht-degree: 0%
 
 ---
@@ -183,7 +183,7 @@ Als u de nieuwste versie van de Klassieke Adobe Dynamic Media-bureaubladtoepassi
 
 ## Video doorlopen bij gebruik van Dynamic Media Classic Desktop App {#dmc-app-video-walk-through}
 
-Bekijk een [videolijn bij het gebruiken van de Klassieke App van de Desktop van Dynamic Media](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/dynamic-media/dynamic-media-classic-desktop-application.html) (Lengte: 2 minuten 36 seconden).
+Bekijk een [videolijn bij het gebruiken van de Klassieke App van de Desktop van Dynamic Media](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/dynamic-media/dynamic-media-classic-desktop-application.html#dynamic-media) (Lengte: 2 minuten 36 seconden).
 
 ## De afbeeldingscache en de assetcache op uw computer wissen met de bureaubladtoepassing
 
