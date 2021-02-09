@@ -1,18 +1,14 @@
 ---
 title: Toepassing instellen
-seo-title: Toepassing instellen
 description: Leer hoe u het toepassingsgebied van Dynamic Media Classic instelt.
-seo-description: Leer hoe u het toepassingsgebied van Dynamic Media Classic instelt.
-uuid: 3e2f1d30-8f33-4a9d-bbe4-e8c3dbc968f8
 contentOwner: admin
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/setup
-discoiquuid: ae2d1895-a437-4463-bfac-3960c8027551
 translation-type: tm+mt
-source-git-commit: 9424b392f85536dc75083d0ade255e4824755ed1
+source-git-commit: 2f7366a77c0fa5f3953721cdd5328123d9c2a052
 workflow-type: tm+mt
-source-wordcount: '10969'
+source-wordcount: '10904'
 ht-degree: 3%
 
 ---
@@ -160,7 +156,7 @@ Beheerders kunnen voorinstellingen maken voor het exporteren van elementen. Gebr
 
 Als u het scherm Voorinstelling afbeelding wilt openen, klikt u op **Setup** > **Voorinstellingen afbeelding**.
 
-Zie [Slimme beeldverwerking](https://helpx.adobe.com/experience-manager/6-3/assets/using/imaging-faq.html).
+Zie [Slimme beeldverwerking](https://experienceleague.adobe.com/docs/experience-manager-65/assets/dynamic/imaging-faq.html#dynamic).
 
 ### Voorinstellingen voor afbeeldingen maken en bewerken {#creating-and-editing-image-presets}
 
@@ -358,9 +354,9 @@ Een coderingsvoorinstelling die werkt met een willekeurige hoogte-breedteverhoud
 
 |  | Naam/knopinfotekst coderen | Achtervoegsel van gecodeerd bestand | Videogegevenssnelheid (Kbps) | Breedte/Hoogte (pixels) | Fps | Audiobitsnelheid (kbps) | Recommendations |
 |--- |--- |--- |--- |--- |--- |--- |--- |
-| 3 | Automatisch x 360, 800 Kbps | _Mobile_Autox360p_800K | 600 | Autox360 | Gelijk aan bron | 64 | Voor mobiele apparaten (iPhone, iPad, Android) |
+| 3 | Automatisch x 360, 800 Kbps | _Mobile_Autox360p_800K | 800 | Autox360 | Gelijk aan bron | 64 | Voor mobiele apparaten (iPhone, iPad, Android) |
 | 2 | Automatisch x 480, 1400 Kbps | _Tablet_Autox480p_1400K | 1400 | Autox480 | Gelijk aan bron | 96 | Voor tablet (iPad, Android) |
-| 3 | Automatische x 720, 2600 Kbps | _Desktop_Autox720p_2600K | 2600 | Autox720 | Gelijk aan bron | 128 | Voor bureaublad |
+| 1 | Automatische x 720, 2600 Kbps | _Desktop_Autox720p_2600K | 2600 | Autox720 | Gelijk aan bron | 128 | Voor bureaublad |
 
 ### Adaptieve videocodering (16:9 of 4:3), videovoorinstellingen {#adaptive-video-encoding-or-video-presets}
 
@@ -372,12 +368,12 @@ Zie [Informatie over coderingsvoorinstellingsopties](application-setup.md#about_
 
 |  | Naam/knopinfotekst coderen | Doelverbindingssnelheid (Kbps) | Achtervoegsel van gecodeerd bestand | Videogegevenssnelheid (Kbps) | Breedte/Hoogte (pixels) | Fps | Audiobitsnelheid (kbps) | Recommendations |
 |--- |--- |--- |--- |--- |--- |--- |--- |--- |
-| 3 | 16:9, 512 x 288, mobiel (iPhone, iPad, Android), (400 Kbps) | 500 | _Mobile_512x288_400K | 400 | 512x288 | Gelijk aan bron | 64 | Lage resolutie, 3G |
+| 1 | 16:9, 512 x 288, mobiel (iPhone, iPad, Android), (400 Kbps) | 500 | _Mobile_512x288_400K | 400 | 512x288 | Gelijk aan bron | 64 | Lage resolutie, 3G |
 | 2 | 4:3, 384 x 288 px, mobiel (iPhone, iPad, Android), (400 Kbps) | 500 | _Mobile_384x288_400K | 400 | 384x288 | Gelijk aan bron | 64 | Lage resolutie, 3G |
-| 3 | 16:9, 512 x 288, mobiel (iPhone, iPad, Android), (600 Kbps) | 700 | _Mobile_512x288_600K | 600 | 512x288 | Gelijk aan bron | 64 | Normale resolutie, 3G |
-| 4 | 4:3, 384 x 288, mobiel (iPhone, iPad, Android), (600 Kbps) | 700 | _Mobile_384x288_600 | 600 | 384x288 | Gelijk aan bron | 64 | Normale resolutie, 3G |
+| 3 | 16:9, 512 x 288, mobiel (iPhone, iPad, Android), (600 Kbps) | 700 | _Mobile_512x288_600K | 800 | 512x288 | Gelijk aan bron | 64 | Normale resolutie, 3G |
+| 4 | 4:3, 384 x 288, mobiel (iPhone, iPad, Android), (600 Kbps) | 700 | _Mobile_384x288_600 | 800 | 384x288 | Gelijk aan bron | 64 | Normale resolutie, 3G |
 | 5 | 16:9, 640 x 360, tablet (iPad, Android), (800 Kbps) | 900 | _iPad_640x360_800K | 800 | 640x360 | Gelijk aan bron | 80 | Normale resolutie, WiFi |
-| 6 | 4:3, 640x480, tablet (iPad, Android), (800 Kbps) | 900 | _iPad_640x480_800K | 800 | 640x480 | Gelijk aan bron | 80 | Normale resolutie, WiFi |
+| 6 | 4:3, 640x480, tablet (iPad, Android), (800 Kbps) | 900 | _iPad_640x480_800K | 600 | 640x480 | Gelijk aan bron | 80 | Normale resolutie, WiFi |
 | 7 | 16:9, 768 x 432, tablet (iPad, Android), (1200 Kbps) | 1,5 Mbps | _iPad_768x432_1200K | 1200 | 768x432 | Gelijk aan bron | 96 | Hoge resolutie, WiFi |
 | 8 | 4:3, 768 x 576, tablet (iPad, Android), (1200 Kbps) | 1,5 Mbps | _iPad_768x576_1200K | 1200 | 768x576 | Gelijk aan bron | 96 | Hoge resolutie, WiFi |
 | 9 | 16:9, 1280x720, desktop, (2000 Kbps) | 3,0 Mbps | _1280x720_2000K | 2000 | 1280x720 | Gelijk aan bron | 128 | High-definition, breedbeeldscherm |
@@ -398,7 +394,7 @@ Zie [Informatie over de coderingsvoorinstellingsopties](application-setup.md#abo
 | 3 | 16:9, 800 x 450 (1.200 Kbps) | 1,5 Mbps | _800x450_1200K | 1200 | 800x450 | Gelijk aan bron | 96 | Gemiddelde resolutie |
 | 4 | 16:9, 1280x720 (2000 Kbps) | 3,0 Mbps | _1280x720_2000K | 2000 | 1280x720 | Gelijk aan bron | 128 | High-definition, breedbeeldscherm |
 | 5 | 4:3, 320 x 240 (400 Kbps) | 500 | _320X240_400K | 400 | 320x240 | Gelijk aan bron | 64 | Lage resolutie |
-| 6 | 4:3, 480 x 360 (800 Kbps) | 900 | _480x360_800K | 600 | 480x360 | Gelijk aan bron | 80 | Normale resolutie |
+| 6 | 4:3, 480 x 360 (800 Kbps) | 900 | _480x360_800K | 800 | 480x360 | Gelijk aan bron | 80 | Normale resolutie |
 | 7 | 4:3, 640 x 480 (1.200 Kbps) | 1,5 Mbps | _640x480_1200K | 1200 | 640x480 | Gelijk aan bron | 96 | Gemiddelde resolutie |
 | 8 | 4:3, 1280x960 (2000 Kbps) | 3,0 Mbps | _1280x960_2000K | 2000 | 1280x960 | Gelijk aan bron | 128 | Hoge definitie |
 
@@ -426,13 +422,13 @@ Zie [Informatie over de coderingsvoorinstellingsopties](application-setup.md#abo
 |  | Naam/knopinfotekst coderen | Doelverbindingssnelheid (Kbps) | Achtervoegsel van gecodeerd bestand | Videobitsnelheid (Kbps) | Pixelbreedte/-hoogte | Fps | Audiobitsnelheid (Kbps) | Recommendations |
 |--- |--- |--- |--- |--- |--- |--- |--- |--- |
 | 3 | 16:9, 512 x 288, mobiel (400 Kbps) | 500 | _Mobile_512x288_400K | 400 | 512x288 | Gelijk aan bron | 64 | Lage resolutie, 3G |
-| 2 | 16:9, 512 x 288, mobiel (600 Kbps) | 700 | _Mobile_512x288_600K | 600 | 512x288 | Gelijk aan bron | 64 | Normale resolutie, 3G |
-| 3 | 16:9, 512 x 288, mobiel (800 Kbps) | 900 | _Mobile_512x288_800K | 600 | 512x288 | Gelijk aan bron | 80 | Normale resolutie, Wi-Fi |
+| 2 | 16:9, 512 x 288, mobiel (600 Kbps) | 700 | _Mobile_512x288_600K | 800 | 512x288 | Gelijk aan bron | 64 | Normale resolutie, 3G |
+| 3 | 16:9, 512 x 288, mobiel (800 Kbps) | 900 | _Mobile_512x288_800K | 800 | 512x288 | Gelijk aan bron | 80 | Normale resolutie, Wi-Fi |
 | 4 | 16:9, 512 x 288, mobiel (1000 Kbps) | 1,2 Mbps | _Mobile_512x288_1000K | 1000 | 512x288 | Gelijk aan bron | 80 | Hoge resolutie, Wi-Fi |
 | 5 | 16:9, 512 x 288, mobiel (1200 Kbps) | 1,5 Mbps | _Mobile_512x288_1200K | 1200 | 512x288 | Gelijk aan bron | 96 | Hoge resolutie, Wi-Fi |
 | 6 | 4:3, 384 x 288, mobiel (400 Kbps) | 500 | _Mobile_384x288_400K | 400 | 384x288 | Gelijk aan bron | 64 | Lage resolutie, 3G |
-| 7 | 4:3, 384 x 288, mobiel (600 Kbps) | 700 | _Mobile_384x288_600K | 600 | 384x288 | Gelijk aan bron | 64 | Normale resolutie, 3G |
-| 8 | 4:3, 448 x 336, mobiel (800 Kbps) | 900 | _Mobile_448x336_800K | 600 | 448x336 | Gelijk aan bron | 80 | Normale resolutie, Wi-Fi |
+| 7 | 4:3, 384 x 288, mobiel (600 Kbps) | 700 | _Mobile_384x288_600K | 800 | 384x288 | Gelijk aan bron | 64 | Normale resolutie, 3G |
+| 8 | 4:3, 448 x 336, mobiel (800 Kbps) | 900 | _Mobile_448x336_800K | 800 | 448x336 | Gelijk aan bron | 80 | Normale resolutie, Wi-Fi |
 | 9 | 4:3, 448 x 336, mobiel (1000 Kbps) | 1,2 Mbps | _Mobile_448x336_1000K | 1000 | 448x336 | Gelijk aan bron | 80 | Hoge resolutie, Wi-Fi |
 | 10 | 4:3, 448 x 336, mobiel (1200 Kbps) | 1,5 Mbps | _Mobile_448x336_1200K | 1200 | 448x336 | Gelijk aan bron | 96 | Hoge resolutie, Wi-Fi |
 
@@ -440,13 +436,13 @@ Zie [Informatie over de coderingsvoorinstellingsopties](application-setup.md#abo
 
 >[!NOTE]
 >
->**Flash Viewers End-of-Life Notice**  - Vanaf 31 januari 2017 wordt de Klassieke ondersteuning van Adobe Dynamic Media Classic officieel beëindigd voor het Flash-viewerplatform. Raadpleeg de volgende website met veelgestelde vragen voor meer informatie over deze belangrijke wijziging: [https://docs.adobe.com/content/docs/en/aem/6-1/administer/integration/marketing-cloud/scene7/flash-eol.html](https://docs.adobe.com/content/docs/en/aem/6-1/administer/integration/marketing-cloud/scene7/flash-eol.html).
+>**Flash Viewers End-of-Life Notice**  - Vanaf 31 januari 2017 wordt de Klassieke ondersteuning van Adobe Dynamic Media Classic officieel beëindigd voor het Flash-viewerplatform.
 
 Een *Voorinstelling voor viewer* is een verzameling instellingen die bepalen hoe gebruikers rich-media-elementen weergeven op hun computerschermen en mobiele apparaten. Als beheerder kunt u Viewer-voorinstellingen maken. Er zijn instellingen beschikbaar voor een array met viewerconfiguratieopties. U kunt bijvoorbeeld de weergavegrootte, het zoomgedrag, de kleurenschema&#39;s, de randen en de lettertypen van de viewer wijzigen.
 
 U kunt het beste Dynamic Media Classic HTML5-videoviewers gebruiken. De voorinstellingen die worden gebruikt in HTML5-videoviewers zijn robuuste videospelers. Door de combinatie in één speler van de capaciteit om de playbackcomponenten te ontwerpen gebruikend HTML5 en CSS, ingebedde playback te hebben, en adaptieve en progressieve het stromen te gebruiken afhankelijk van het vermogen van browser, breidt u het bereik van uw rijke media inhoud tot Desktop, tablet, en mobiele gebruikers uit, en verzekert een gestroomlijnde videoervaring.
 
-Zie [Informatie over HTML5 Viewers](hhttps://docs.adobe.com/content/help/en/dynamic-media-developer-resources/library/viewers-for-aem-assets-only/c-html5-aem-asset-viewers.html) in de handleiding van de Referentie voor Adobe Viewers.
+Zie [Informatie over HTML5 Viewers](https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/library/viewers-for-aem-assets-only/c-html5-aem-asset-viewers.html?lang=en#viewers-for-aem-assets-only) in de handleiding van de Referentie voor Adobe Viewers.
 
 Zie [Dynamic Media Classic Viewer Preset-compatibiliteitsmatrix](application-setup.md#scene7_viewer_preset_compatibility_matrix).
 
@@ -490,15 +486,13 @@ Als de hoofdafbeelding bijvoorbeeld 350 x 350 pixels groot is, met een zoomfacto
 
 **Eindbericht** voor Flash-viewers: Met ingang van 31 januari 2017 is de officiële ondersteuning voor het Flash-viewerplatform door Adobe Dynamic Media Classic beëindigd.
 
-Raadpleeg de volgende website met veelgestelde vragen voor meer informatie over deze belangrijke wijziging: [https://docs.adobe.com/content/docs/en/aem/6-1/administer/integration/marketing-cloud/scene7/flash-eol.html](https://docs.adobe.com/content/docs/en/aem/6-1/administer/integration/marketing-cloud/scene7/flash-eol.html).
-
 In de volgende tabel worden de momenteel beschikbare Dynamic Media Classic Viewer-voorinstellingen weergegeven. In de tabel wordt ook aangegeven of de viewer compatibel is met mobiele en desktopapparaten en welke technologie voor elke viewer wordt gebruikt.
 
 Zie ook [Adobe Viewers Reference Library Examples](https://landing.adobe.com/en/na/dynamic-media/ctir-2755/live-demos.html).
 
 Voor informatie over ondersteunde webbrowsers en besturingssysteemversies voor Viewers kunt u de Opmerkingen bij de release Viewers bekijken.
 
-Zie [Opmerkingen bij de release Adobe Viewers Reference](https://docs.adobe.com/content/help/en/dynamic-media-developer-resources/library/home.html).
+Zie [Opmerkingen bij de release Adobe Viewers Reference](https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/library/home.html).
 
 |  | Viewertechnologie | Desktop | Apple iPhone | Apple iPad | Android Smartphone | Android-tablet |
 |--- |--- |--- |--- |--- |--- |--- |
@@ -630,7 +624,7 @@ Zie [Een HTML5 Viewer-voorinstelling exporteren](application-setup.md#exporting_
    >
    >Kies Gelijk aan bron om de grootte van de video-viewer automatisch aan te passen aan de resolutiegrootte van de gecodeerde video zelf. Als u deze optie kiest, kunt u de breedte van het werkgebied en de hoogte van het werkgebied niet invoeren. In plaats daarvan komen deze opties uit de video zelf. Als u Gelijk aan Bron kiest, plaats de optie van de Grootte van de Marge om op de huidafmetingen buiten het videoplaybackgebied te wijzen. Deze margegrootte is de pixelhoogte en -breedte van de videobesturingselementen. U kunt de volgende illustratie gebruiken om u te helpen de margegrootte bepalen die u wilt gebruiken.*
 
-   ![](assets/vs_video_viewer_configure_margin.png)
+   ![Margeconfiguratie van videoviewer](assets/vs_video_viewer_configure_margin.png)
 
 1. Voer een van de volgende handelingen uit:
 
