@@ -1,16 +1,14 @@
 ---
 title: Adobe Analytics-videorapporten inschakelen
 description: Leer hoe u Adobe Analytics-videoverslagen kunt inschakelen.
-uuid: 078594b2-7d53-4714-8128-ff3b5c3a5e36
 contentOwner: admin
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/adobe_analytics_instrumentation_kit
-discoiquuid: 18644a53-92da-40ab-b961-318d8332c54d
 translation-type: tm+mt
-source-git-commit: ca12c96d3a76cfa52fd930d190476cb6fc4f4ac7
+source-git-commit: 2f7366a77c0fa5f3953721cdd5328123d9c2a052
 workflow-type: tm+mt
-source-wordcount: '209'
+source-wordcount: '244'
 ht-degree: 0%
 
 ---
@@ -20,13 +18,17 @@ ht-degree: 0%
 
 Met Adobe Analytics-videoverslagen op basis van hartslag hoeft u de vier videoviewergebeurtenissen (Play, Pause, Stop, Milestone) niet meer in te schakelen wanneer u Adobe Analytics configureert in Dynamic Media Classic. De functie Videohartslag werkt met Dynamic Media Classic HTML5 Video- en MixedMedia-viewers die niet in de verpakking staan. De videospeler genereert trackinggegevens voor weergave in Adobe Analytics Video Reports.
 
+* Zie [Informatie over Adobe Analytics for Streaming Media](https://experienceleague.adobe.com/docs/media-analytics/using/media-overview.html#about-adobe-analytics-for-streaming-media) voor een inleiding op streamingmedia en &#39;hartslagmeting&#39;.
+
 * De integratie van Adobe Analytics-videorapporten met Dynamic Media Classic ondersteunt oplossingsvariabelen, maar niet aangepaste variabelen.
 
-   Zie [Analysevideo Rapportage](https://microsite.omniture.com/t2/help/en_US/sc/appmeasurement/hbvideo/video_analytics_config.html) voor meer informatie over oplossingsvariabelen en douanevariabelen vormen.
+   Zie [Audio en Video parameters](https://experienceleague.adobe.com/docs/media-analytics/using/metrics-and-metadata/audio-video-parameters.html#metrics-and-metadata) voor meer informatie over oplossingsvariabelen en douanevariabelen.
 
 * De uit-van-de-doos segmenten van één minieme toename worden gesteund. Aangepaste segmentrapportage, zoals door de klant gedefinieerde mijlpalen op basis van tijdstappen, procentuele mijlpaal of verschuivingsmijlpalen, wordt echter niet ondersteund.
 
-Zie [Video meten in Adobe Analytics met Video Heartmaatwerk](https://microsite.omniture.com/t2/help/en_US/sc/appmeasurement/hbvideo/) voor meer informatie over de vereisten en instellingen voor de grafische videodemo.
+   Zie [Stuurmedia meten in Adobe Analytics](https://experienceleague.adobe.com/docs/media-analytics/using/media-overview.html) voor meer informatie over de vereisten en installatie van streaming media.
+
+* Zie [Media-rapporten inschakelen](https://experienceleague.adobe.com/docs/media-analytics/using/media-reports/media-reports-enable.html?lang=en#media-reports) voor informatie over aangepaste variabelen en oplossingsvariabelen.
 
 >[!NOTE]
 >
