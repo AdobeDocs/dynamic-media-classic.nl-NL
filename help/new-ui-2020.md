@@ -1,14 +1,13 @@
 ---
 title: Adobe Dynamic Media Classic-bureaubladtoepassing
-seo-title: Adobe Dynamic Media Classic-bureaubladtoepassing
 description: Dynamic Media Classic-gebruikers kunnen de gebruikersinterface nu volledig vernieuwen. De ervaring biedt een bijgewerkte aanmelding met koppelingen naar waardevolle bronnen en deze update is bovendien niet langer afhankelijk van de Adobe Flash-technologie in de browser.
 contentOwner: rbrough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 translation-type: tm+mt
-source-git-commit: 60aedff7e46d134537e2a0639d1c28c3a7909b90
+source-git-commit: 2f7366a77c0fa5f3953721cdd5328123d9c2a052
 workflow-type: tm+mt
-source-wordcount: '1146'
+source-wordcount: '1138'
 ht-degree: 0%
 
 ---
@@ -64,7 +63,7 @@ Adobe heeft zich ertoe verbonden ervoor te zorgen dat onze producten voldoen aan
 
 ### **_Mijn bedrijf laat ons geen software en toepassingen op onze computers installeren. Hoe kunt u het beste toegang krijgen tot de nieuwe bureaubladtoepassing?_**
 
-Als uw bedrijf u geen software en toepassingen zonder goedkeuring naar uw systeem laat downloaden en installeren, kunt u al vroeg met uw IT-teams toestemming krijgen om de nieuwe Dynamic Media Classic-bureaubladtoepassing te openen. Vergeet niet dat de browserversie na 31 december 2020 wordt vervangen. Het is belangrijk dat u niet tot het laatste moment wacht om de nieuwe desktop-app te downloaden.
+Als uw bedrijf u geen software en toepassingen zonder goedkeuring naar uw systeem laat downloaden en installeren, werkt u dan al vroeg met uw IT-teams om toegang te krijgen tot de nieuwe Dynamic Media Classic-bureaubladtoepassing. Vergeet niet dat de browserversie na 31 december 2020 wordt vervangen. Het is belangrijk dat u niet tot het laatste moment wacht om de nieuwe desktop-app te downloaden.
 
 ### **_Kunnen meerdere exemplaren van de nieuwe bureaubladtoepassing tegelijk worden geopend?_**
 
@@ -90,11 +89,11 @@ Neem contact op met de Adobe Support voor alle problemen die u hebt tijdens het 
 
 Dynamic Media Classic is een krachtige, functierijke oplossing die is ontworpen om uw geavanceerde mediastrategieën te verbeteren. Om ervoor te zorgen dat u alle mogelijkheden benut, zorg ervoor u deze praktische middelen verkent:
 
-* [Zelfstudie over best practices voor Dynamic Media](https://docs.adobe.com/content/help/en/experience-manager-learn/dynamic-media-classic-tutorial/overview.html)
+* [Zelfstudie over best practices voor Dynamic Media](https://experienceleague.adobe.com/docs/experience-manager-learn/dynamic-media-classic-tutorial/overview.html)
 * [Dynamic Media-blogberichten](https://theblog.adobe.com/tag/dynamic-media/)
-* [Dynamic Media-nieuwsbrieven — Archieven](https://docs.adobe.com/content/help/en/dynamic-media-classic/using/dynamic-media-newsletter.html)
+* [Dynamic Media-nieuwsbrieven — Archieven](https://experienceleague.adobe.com/docs/dynamic-media-classic/using/dynamic-media-newsletter.html)
 
-Daarnaast meldt [zich aan bij de Dynamic Media-nieuwsbrief](https://www.adobe.com/subscription/dynamic-media-newsletter.html) om op de hoogte te blijven van het nieuwste nieuws, informatie, trainingsmogelijkheden, krachtige functies die beschikbaar zijn, zoals [Smart Imaging](https://helpx.adobe.com/experience-manager/6-3/assets/using/imaging-faq.html), en het aanvullende auditprogramma.
+Daarnaast meldt [zich aan bij de Dynamic Media-nieuwsbrief](https://www.adobe.com/subscription/dynamic-media-newsletter.html) om op de hoogte te blijven van het nieuwste nieuws, informatie, trainingsmogelijkheden, krachtige functies die beschikbaar zijn, zoals [Smart Imaging](https://experienceleague.adobe.com/docs/experience-manager-65/assets/dynamic/imaging-faq.html#dynamic), en het aanvullende auditprogramma.
 
 ### **_Ik ben geïnteresseerd in meer informatie over de upgrade naar Dynamic Media met AEM Assets. Waar kan ik meer informatie vinden?_**
 
