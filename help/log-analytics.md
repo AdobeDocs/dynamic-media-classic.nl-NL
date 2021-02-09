@@ -8,9 +8,9 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/adobe_analytics_instrumentation_kit
 discoiquuid: e5b510a8-8b7f-4c60-869e-d664a8157e63
 translation-type: tm+mt
-source-git-commit: ca12c96d3a76cfa52fd930d190476cb6fc4f4ac7
+source-git-commit: 2f7366a77c0fa5f3953721cdd5328123d9c2a052
 workflow-type: tm+mt
-source-wordcount: '333'
+source-wordcount: '336'
 ht-degree: 0%
 
 ---
@@ -33,7 +33,7 @@ Als u zich aanmeldt, kunt u de Marketing Cloud-Org-id invoeren om de meest recen
 1. Tik op **[!UICONTROL Adobe Analytics Login]** op de Adobe Analytics-configuratiepagina.
 1. Voer in het dialoogvenster **[!UICONTROL Adobe Analytics Login]** uw bedrijfsnaam, Marketing Cloud-Org-id (optioneel), gebruikersnaam en de *sleutel voor gedeeld geheim* in het tekstveld **[!UICONTROL Password]** in.
 
-   U kunt de *gedeelde geheime* sleutel van de knoop van Admin van Analytics terugwinnen. Zie [API-referenties ophalen voor gebruikersaccounts](https://helpx.adobe.com/analytics/kb/how-to-get-api-credentials-for-user-accounts-.html).
+   U kunt de *gedeelde geheime* sleutel van de knoop van Admin van Analytics terugwinnen. Zie [API-referenties ophalen voor gebruikersaccounts](https://github.com/AdobeDocs/analytics-2.0-apis/blob/master/create-oauth-client.md).
 
 1. Klik op **[!UICONTROL Login]**.
 1. Kies in het vervolgkeuzemenu **[!UICONTROL Report Suite]** een rapportsuite en klik op **[!UICONTROL OK]**.
