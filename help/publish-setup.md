@@ -1,13 +1,11 @@
 ---
 title: Publicatie-instelling
 description: De instellingen in het scherm Publicatie-instellingen bepalen hoe elementen standaard worden geleverd door Dynamic Media Classic-servers naar websites of toepassingen.
-uuid: 196f25c8-abf5-4c5d-8f6f-bc70007a0301
 contentOwner: admin
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
-discoiquuid: cba59093-28b6-4490-b838-d942b72ad1ec
 translation-type: tm+mt
-source-git-commit: ca12c96d3a76cfa52fd930d190476cb6fc4f4ac7
+source-git-commit: 2f7366a77c0fa5f3953721cdd5328123d9c2a052
 workflow-type: tm+mt
 source-wordcount: '2412'
 ht-degree: 0%
@@ -21,7 +19,7 @@ De instellingen in het scherm Publicatie-instellingen bepalen hoe elementen stan
 
 Beheerders kunnen de standaardinstellingen wijzigen op de schermen Afbeeldingsserver, Afbeeldingsrenderer en Vignet om standaardinstellingen voor het leveren van elementen van servers in te stellen.
 
-Als u de schermen Publicatie-instelling wilt openen, klikt u op Instellen > Toepassingsinstelling > Publicatie-instelling.
+Als u de schermen Publicatie-instelling wilt openen, klikt u op **Setup** > **Toepassingsinstellingen** > **Publicatie-instellingen**.
 
 >[!NOTE]
 >
