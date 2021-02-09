@@ -1,16 +1,14 @@
 ---
 title: '"Snel starten: Video"'
-description: Een inleiding en Snel aan Video beginnen om u te helpen snel aan de slag gaan.
-uuid: bf0ecf87-a1f2-4e83-8041-df5192dd26a1
+description: Een inleiding en Snel aan de Adobe van de Klassieke Video van Dynamic Media om u te helpen snel aan de slag gaan.
 contentOwner: admin
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/video
-discoiquuid: 6cef541b-e9df-48eb-9a16-ca3e1f07238e
 translation-type: tm+mt
-source-git-commit: ca12c96d3a76cfa52fd930d190476cb6fc4f4ac7
+source-git-commit: 2f7366a77c0fa5f3953721cdd5328123d9c2a052
 workflow-type: tm+mt
-source-wordcount: '1439'
+source-wordcount: '1441'
 ht-degree: 0%
 
 ---
@@ -53,7 +51,7 @@ Dynamic Media Classic ondersteunt het volgende voor het beheer van afzonderlijke
 
    Adaptieve videostreaming wordt ondersteund op verschillende iOS-platforms.
 
-   Zie de nieuwste ondersteuning in de [Referentiehandleiding voor Adobe-viewers](https://docs.adobe.com/content/help/en/dynamic-media-developer-resources/library/home.html).
+   Zie de nieuwste ondersteuning in de [Referentiehandleiding voor Adobe-viewers](https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/library/home.html).
 
    Dynamic Media Classic ondersteunt het afspelen van mobiele video voor MP4 H.264-video. U vindt Blackberry-apparaten die deze video-indeling ondersteunen op de volgende website:
 
