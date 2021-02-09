@@ -1,16 +1,14 @@
 ---
 title: Aanbevolen procedures voor het optimaliseren van de kwaliteit van uw afbeeldingen
 description: Leer de beste werkwijzen voor het optimaliseren van de kwaliteit van uw afbeeldingen.
-uuid: 102e83fe-ee2a-443b-ba92-6ad5cc3daef0
 contentOwner: admin
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/master_files
-discoiquuid: 8164466e-2520-482a-88ec-6191fdc77ea3
 translation-type: tm+mt
-source-git-commit: ca12c96d3a76cfa52fd930d190476cb6fc4f4ac7
+source-git-commit: 2f7366a77c0fa5f3953721cdd5328123d9c2a052
 workflow-type: tm+mt
-source-wordcount: '1517'
+source-wordcount: '1474'
 ht-degree: 3%
 
 ---
@@ -22,7 +20,7 @@ Het optimaliseren van de beeldkwaliteit kan een tijdrovend proces zijn omdat vee
 
 Dynamic Media Classic bevat meer dan 100 opdrachten voor het bedienen van afbeeldingen voor het instellen en optimaliseren van afbeeldingen en het renderen van resultaten. De volgende richtlijnen kunnen u helpen het proces stroomlijnen en goede resultaten snel bereiken gebruikend sommige essentiële bevelen en beste praktijken.
 
-Zie ook [Slimme beeldverwerking](https://helpx.adobe.com/experience-manager/6-3/assets/using/imaging-faq.html).
+Zie ook [Slimme beeldverwerking](https://experienceleague.adobe.com/docs/experience-manager-65/assets/dynamic/imaging-faq.html#dynamic).
 
 ## Aanbevolen werkwijzen voor afbeeldingsindeling (&amp;fmt=) {#best-practices-for-image-format-fmt}
 
@@ -50,7 +48,7 @@ Het verscherpen van afbeeldingen is het meest complexe aspect van het beheren va
 
 Best practices white paper [Sharpening images in Adobe Dynamic Media Classic and on Image Server](/help/assets/s7_sharpening_images.pdf).
 
-Zie ook [Een afbeelding verscherpen met een onscherp masker](https://helpx.adobe.com/photoshop/atv/cs6-tutorials/sharpening-an-image-with-unsharp-mask.html).
+<!-- Give a 404 See also [Sharpening an image with unsharp mask](https://helpx.adobe.com/photoshop/atv/cs6-tutorials/sharpening-an-image-with-unsharp-mask.html). -->
 
 Met Dynamic Media Classic kunt u afbeeldingen verscherpen bij inname, bij levering of beide. In de meeste gevallen moet u de afbeeldingen echter verscherpen met slechts één methode, maar niet met beide. Wanneer u afbeeldingen verscherpt bij levering, op een URL, krijgt u doorgaans de beste resultaten.
 
@@ -70,11 +68,7 @@ U kunt twee methoden voor het verscherpen van afbeeldingen gebruiken:
 
          Deze parameter bepaalt hoe verschillend de verscherpte pixels van het omringende gebied moeten zijn alvorens zij als randpixels worden beschouwd en het filter deze scherper maakt. Met Drempel voorkomt u te veel verscherpte gebieden met vergelijkbare kleuren, zoals huidskleuren. Als u bijvoorbeeld een drempelwaarde van 12 instelt, worden kleine variaties in de helderheid van de huidskleur genegeerd om &quot;ruis&quot; te voorkomen, terwijl randcontrast nog steeds wordt toegevoegd aan gebieden met hoog contrast, zoals waar de wimpers de huid raken.
 
-         Zie de volgende bronnen voor meer informatie over de manier waarop u deze drie parameters instelt, inclusief aanbevolen procedures voor gebruik met het filter:
-
-         Klassieke Help-onderwerp van Dynamic Media op [Een afbeelding verscherpen](https://help.adobe.com/en_US/scene7/using/WS389B162D-2981-41e5-9253-15D22D2ECBC8.html).
-
-         Best practices white paper [Sharpening images in Adobe Scene7 Publishing System and on Image Server](/help/assets/s7_sharpening_images.pdf).
+         Zie [Afbeeldingen verscherpen in Adobe Scene7 Publishing System en op Image Server](/help/assets/s7_sharpening_images.pdf) voor meer informatie over hoe u deze drie parameters instelt, inclusief aanbevolen werkwijzen voor gebruik met het filter.
 
       * Met Dynamic Media Classic kunt u ook een vierde parameter beheren: monochroom ( `0,1`). Deze parameter bepaalt of onscherp maskeren wordt toegepast op elke kleurcomponent afzonderlijk met de waarde `0` of op de helderheid/intensiteit van de afbeelding met de waarde `1`.
 
