@@ -1,16 +1,14 @@
 ---
 title: 'Bestanden publiceren '
-description: Leer hoe u bestanden publiceert.
-uuid: cdcf519b-4c1e-430b-b43a-2f20f75071b1
+description: U publiceert uw middelen naar Dynamic Media Image Servers. U kunt elementen eenmalig publiceren of ervoor zorgen dat Dynamic Media Classic elementen volgens een terugkerend schema publiceert. Nadat uw elementen zijn gepubliceerd, kunt u ze ter beschikking stellen. U kunt de URL-aanroepen van Dynamic Media Classic kopiëren en toevoegen aan uw website of toepassing.
 contentOwner: admin
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/upload_and_publish_assets
-discoiquuid: 39099bc0-9228-46f0-9bee-3542059f4695
 translation-type: tm+mt
-source-git-commit: ca12c96d3a76cfa52fd930d190476cb6fc4f4ac7
+source-git-commit: 2f7366a77c0fa5f3953721cdd5328123d9c2a052
 workflow-type: tm+mt
-source-wordcount: '1654'
+source-wordcount: '1706'
 ht-degree: 0%
 
 ---
@@ -20,7 +18,7 @@ ht-degree: 0%
 
 U publiceert uw middelen naar Dynamic Media Image Servers. U kunt elementen eenmalig publiceren of ervoor zorgen dat Dynamic Media Classic elementen volgens een terugkerend schema publiceert. Nadat uw elementen zijn gepubliceerd, kunt u ze ter beschikking stellen. U kunt de URL-aanroepen van Dynamic Media Classic kopiëren en toevoegen aan uw website of toepassing.
 
-Dynamic Media Classic ondersteunt nu de levering van alle afbeeldingen en video via HTTP/2. Dit wil zeggen dat er een gepubliceerde URL of insluitcode voor de afbeelding of video beschikbaar is om te worden geïntegreerd met elke toepassing die een gehoste element accepteert. Dat gepubliceerde element wordt vervolgens geleverd via het HTTP/2-protocol. Deze leveringsmethode verbetert de manier waarop browsers en servers communiceren, waardoor u betere responstijd en laadtijden voor al uw Dynamic Media Classic-middelen krijgt. Zie [HTTP2 Levering van inhoud FAQ](https://docs.adobe.com/content/docs/en/aem/6-2/administer/integration/marketing-cloud/scene7/http2faq.html).
+Dynamic Media Classic ondersteunt nu de levering van alle afbeeldingen en video via HTTP/2. Dit wil zeggen dat er een gepubliceerde URL of insluitcode voor de afbeelding of video beschikbaar is om te worden geïntegreerd met elke toepassing die een gehoste element accepteert. Dat gepubliceerde element wordt vervolgens geleverd via het HTTP/2-protocol. Deze leveringsmethode verbetert de manier waarop browsers en servers communiceren, waardoor u betere responstijd en laadtijden voor al uw Dynamic Media Classic-middelen krijgt. Zie [HTTP2 Levering van inhoud FAQ](https://experienceleague.adobe.com/docs/experience-manager-65/assets/dynamic/http2.html#dynamic).
 
 ## Publiceren na uploaden {#publish-after-uploading}
 
