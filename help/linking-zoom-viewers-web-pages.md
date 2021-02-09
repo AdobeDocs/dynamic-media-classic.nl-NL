@@ -1,16 +1,14 @@
 ---
 title: Zoomviewers koppelen aan uw webpagina's
 description: Leer hoe u zoomviewers kunt koppelen aan uw webpagina's.
-uuid: cd350ea4-267e-4a8a-aed8-7553df86b438
 contentOwner: admin
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/zoom
-discoiquuid: df5471c1-ccda-4dd4-a7f1-5b9193b41f98
 translation-type: tm+mt
-source-git-commit: ca12c96d3a76cfa52fd930d190476cb6fc4f4ac7
+source-git-commit: 2f7366a77c0fa5f3953721cdd5328123d9c2a052
 workflow-type: tm+mt
-source-wordcount: '665'
+source-wordcount: '674'
 ht-degree: 0%
 
 ---
@@ -46,7 +44,7 @@ Via URL-tekenreeksen of ingesloten code krijgen uw websites en toepassingen toeg
 
 Bezoekers van websites zoomen doorgaans in op afbeeldingen door eerst een zoompictogram te selecteren (vaak wordt met het pictogram de afbeelding van een vergrootglas weergegeven). Als u dit pictogram selecteert, wordt een dynamische webpagina (ASP of JSP) gestart die de afbeelding in een pop-upvenster weergeeft. In het pop-upvenster zoomen bezoekers daadwerkelijk op de afbeelding.
 
-Zie [HTML5 Basic Zoom Viewer insluiten in de Adobe Viewers Reference Guide](https://docs.adobe.com/content/help/en/dynamic-media-developer-resources/library/viewers-aem-assets-dmc/basic-zoom/c-html5-20-basic-zoom-viewer-about.html) voor meer informatie en codevoorbeelden.
+Zie [HTML5 Basic Zoom Viewer insluiten in de Adobe Viewers Reference Guide](https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/library/viewers-aem-assets-dmc/basic-zoom/c-html5-20-basic-zoom-viewer-about.html#section-e1c3106f5b3e445d9b95be337c2f94e2) voor meer informatie en codevoorbeelden.
 
 ## De ingesloten kopie van een zoomviewer {#copying-the-embed-copy-of-a-zoom-viewer} kopiëren
 
@@ -74,5 +72,4 @@ Met de functie Code insluiten kunt u de viewercode voor de geselecteerde zoomvie
 
    Het bewerken van de code is niet toegestaan in het dialoogvenster Code insluiten.
 
-1. Klik op Sluiten.
-
+1. Klik **Close**.
