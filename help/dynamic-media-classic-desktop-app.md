@@ -6,9 +6,9 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/introducing_adobe_dynamic_media_classic
 translation-type: tm+mt
-source-git-commit: 2f7366a77c0fa5f3953721cdd5328123d9c2a052
+source-git-commit: 0aad46c6fd3c520e0e40e177be0bd0cb25188719
 workflow-type: tm+mt
-source-wordcount: '1528'
+source-wordcount: '1595'
 ht-degree: 0%
 
 ---
@@ -38,6 +38,7 @@ Adobe Dynamic Media Classic-bureaubladtoepassing is compatibel met de volgende b
 * Aanmeldingsproblemen vanwege time-out resulterend in het volgende bericht: *Deze gebruiker kan zonder toestemming aan de groep of groepen worden toegewezen. Neem contact op met uw beheerder.*
 * Viewer-voorinstellingen worden gedupliceerd bij elke onjuiste wachtwoordpoging.
 * Bureaubladtoepassing reageert niet meer vanwege de vele middelen in de hoofdmap. (Vast onder Windows; naar wens werken op MacOS.)
+* jlkjlkj
 
 ## Oplossingen in de vorige versie (20.20.2) {#previous-version-fixes-desktop-app}
 
@@ -81,7 +82,7 @@ Zie ook:
 
    * **Voor Windows** : voer de binaire versie van het installatieprogramma uit en volg de aanwijzingen op het scherm om de bureaubladtoepassing te installeren.
 
-1. Wanneer u de toepassing opent, wordt de nieuwe Klassieke aanmeldingspagina van Adobe Dynamic Media weergegeven:
+1. Wanneer u de toepassing opent, wordt de nieuwe pagina Klassieke aanmelding van Adobe Dynamic Media weergegeven:
 
    ![Dynamic Media Classic aanmelden](/help/assets/dmclassic-login1.png)
 
@@ -121,7 +122,7 @@ Als u de nieuwste versie van de Adobe Dynamic Media Classic-bureaubladtoepassing
    `rsync -a <mount_point_path>/Adobe\ Dynamic\ Media\ Classic.app /Applications/
 Unmount DMG - hdiutil detach <mount_point_path>`
 
-1. Wanneer u de toepassing opent, wordt de nieuwe Klassieke aanmeldingspagina van Adobe Dynamic Media weergegeven:
+1. Wanneer u de toepassing opent, wordt de nieuwe pagina Klassieke aanmelding van Adobe Dynamic Media weergegeven:
 
    ![Dynamic Media Classic aanmelden](/help/assets/dmclassic-login1.png)
 
@@ -166,7 +167,7 @@ Als u de nieuwste versie van de Klassieke Adobe Dynamic Media-bureaubladtoepassi
 
    De details over bevel-lijn parameters zijn beschikbaar bij [Setup.exe en Update.exe bevel-Lijn Parameters.](https://docs.flexera.com/installshield19helplib/helplibrary/IHelpSetup_EXECmdLine.htm)
 
-1. Wanneer u de toepassing opent, wordt de nieuwe Klassieke aanmeldingspagina van Adobe Dynamic Media weergegeven:
+1. Wanneer u de toepassing opent, wordt de nieuwe pagina Klassieke aanmelding van Adobe Dynamic Media weergegeven:
 
    ![Dynamic Media Classic aanmelden](/help/assets/dmclassic-login1.png)
 
@@ -189,11 +190,11 @@ Bekijk een [videolijn bij het gebruiken van de Klassieke App van de Desktop van 
 
 1. Tik in de Klassieke Dynamic Media-bureaubladtoepassing in de rechterbovenhoek op **[!UICONTROL Setup]** > **[!UICONTROL Personal Setup]**.
 1. Voer op de pagina **[!UICONTROL Personal Setup]** onder de kop **[!UICONTROL Desktop]** een van de volgende handelingen uit:
-   * Tik **[!UICONTROL Clear Image Cache]** om alle in de cache opgeslagen afbeeldingsbestanden van Adobe Dynamic Media van de computer te verwijderen. Tik op **[!UICONTROL OK]**.
-   * Tik **[!UICONTROL Clear Asset Cache]** om alle in de cache opgeslagen bestanden met Adobe Dynamic Media van uw computer te verwijderen. Tik op **[!UICONTROL OK]**.
+   * Tik **[!UICONTROL Clear Image Cache]** en tik **[!UICONTROL OK]** om alle in de cache opgeslagen afbeeldingsbestanden van Adobe Dynamic Media van uw computer te verwijderen.
+   * Tik op **[!UICONTROL Clear Asset Cache]** en tik op **[!UICONTROL OK]** om alle in de cache opgeslagen Adobe Dynamic Media-elementbestanden van uw computer te verwijderen.
 1. Tik in de rechterbenedenhoek van de pagina op **[!UICONTROL Close]**.
 
-### De afbeeldingscache en de elementcache handmatig wissen
+### De afbeeldingscache en de elementcache handmatig wissen {#clear-cache}
 
 U kunt de cache van afbeeldingen en elementen niet alleen wissen met de bureaubladtoepassing, maar u kunt de cache ook handmatig rechtstreeks wissen vanuit het bestandssysteem.
 
@@ -201,6 +202,10 @@ U kunt de cache van afbeeldingen en elementen niet alleen wissen met de bureaubl
 
    * macOS: `~/Library/Application\ Support/com.adobe.DMCDesktop/Local\ Store/`
    * Windows: `C:\Users\YourUserName\AppData\Roaming\com.adobe.DMCDesktop\Local Store`
+
+## Bekende beperking in Dynamic Media Classic 2021.1
+
+* De vervolgkeuzelijst **[!UICONTROL Server]** is leeg na het bijwerken naar Dynamic Media Classic desktop app 20.21.1 - Scenario: U installeert en u aanmelden bij Dynamic Media Classic 20.20.1 of 20.20.2 en sluit vervolgens de toepassing. Werk vervolgens bij naar Dynamic Media Classic 20.21.1. Wanneer u zich aanmeldt, is de vervolgkeuzelijst **[!UICONTROL Server]** in het dialoogvenster **[!UICONTROL Sign in to your account]** leeg. Om dit probleem te omzeilen, [wist manueel het geheime voorgeheugen](#clear-cache).
 
 ## Bekende beperkingen in Dynamic Media Classic 20.20.1 (vastgesteld in 20.20.2)
 
@@ -211,6 +216,7 @@ U kunt de cache van afbeeldingen en elementen niet alleen wissen met de bureaubl
 * Tik **[!UICONTROL OK]** om u af te melden en de app te sluiten wanneer het pop-upvenster verschijnt.
 
    ![Start de app opnieuw om het nieuwe bedrijf te gebruiken](/help/assets/dmclassic-new-company1.png)
+
 * Start Dynamic Media Classic opnieuw en meld u vervolgens op de gebruikelijke wijze aan om met het nieuwe bedrijf te werken.
 
 ## Tips en trucs
