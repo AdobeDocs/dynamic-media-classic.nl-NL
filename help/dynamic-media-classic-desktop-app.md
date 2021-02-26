@@ -6,7 +6,7 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/introducing_adobe_dynamic_media_classic
 translation-type: tm+mt
-source-git-commit: 077f6cc18f6cd88ef18a7555e7df49a975b6f229
+source-git-commit: 556deae011dd82e847b72c00981a84190f9a5805
 workflow-type: tm+mt
 source-wordcount: '1601'
 ht-degree: 0%
@@ -186,7 +186,7 @@ Als u de nieuwste versie van de Klassieke Adobe Dynamic Media-bureaubladtoepassi
 
 Bekijk een [videolijn bij het gebruiken van de Klassieke App van de Desktop van Dynamic Media](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/dynamic-media/dynamic-media-classic-desktop-application.html#dynamic-media) (Lengte: 2 minuten 36 seconden).
 
-## De afbeeldingscache en de assetcache op uw computer wissen met de bureaubladtoepassing
+## De afbeeldingscache en de assetcache op uw computer wissen met de bureaubladtoepassing {#clear-cache}
 
 1. Tik in de Klassieke Dynamic Media-bureaubladtoepassing in de rechterbovenhoek op **[!UICONTROL Setup]** > **[!UICONTROL Personal Setup]**.
 1. Voer op de pagina **[!UICONTROL Personal Setup]** onder de kop **[!UICONTROL Desktop]** een van de volgende handelingen uit:
@@ -194,7 +194,7 @@ Bekijk een [videolijn bij het gebruiken van de Klassieke App van de Desktop van 
    * Tik op **[!UICONTROL Clear Asset Cache]** en tik op **[!UICONTROL OK]** om alle in de cache opgeslagen Adobe Dynamic Media-elementbestanden van uw computer te verwijderen.
 1. Tik in de rechterbenedenhoek van de pagina op **[!UICONTROL Close]**.
 
-### De afbeeldingscache en de elementcache handmatig wissen {#clear-cache}
+### De afbeeldingscache en de elementcache handmatig wissen
 
 U kunt de cache van afbeeldingen en elementen niet alleen wissen met de bureaubladtoepassing, maar u kunt de cache ook handmatig rechtstreeks wissen vanuit het bestandssysteem.
 
