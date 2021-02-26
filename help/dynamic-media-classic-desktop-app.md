@@ -6,9 +6,9 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/introducing_adobe_dynamic_media_classic
 translation-type: tm+mt
-source-git-commit: 0aad46c6fd3c520e0e40e177be0bd0cb25188719
+source-git-commit: 077f6cc18f6cd88ef18a7555e7df49a975b6f229
 workflow-type: tm+mt
-source-wordcount: '1595'
+source-wordcount: '1601'
 ht-degree: 0%
 
 ---
@@ -205,7 +205,7 @@ U kunt de cache van afbeeldingen en elementen niet alleen wissen met de bureaubl
 
 ## Bekende beperking in Dynamic Media Classic 2021.1
 
-* De vervolgkeuzelijst **[!UICONTROL Server]** is leeg na het bijwerken naar Dynamic Media Classic desktop app 20.21.1 - Scenario: U installeert en u aanmelden bij Dynamic Media Classic 20.20.1 of 20.20.2 en sluit vervolgens de toepassing. Werk vervolgens bij naar Dynamic Media Classic 20.21.1. Wanneer u zich aanmeldt, is de vervolgkeuzelijst **[!UICONTROL Server]** in het dialoogvenster **[!UICONTROL Sign in to your account]** leeg. Om dit probleem te omzeilen, [wist manueel het geheime voorgeheugen](#clear-cache).
+* De vervolgkeuzelijst **[!UICONTROL Server]** is leeg na het bijwerken naar Dynamic Media Classic desktop app 20.21.1 - Scenario: U installeert en u aanmelden bij Dynamic Media Classic 20.20.1 of 20.20.2 en sluit vervolgens de toepassing. Vervolgens gaat u naar Dynamic Media Classic 20.21.1. Wanneer u zich aanmeldt, is de vervolgkeuzelijst **[!UICONTROL Server]** in het dialoogvenster **[!UICONTROL Sign in to your account]** leeg. Als u dit probleem wilt verhelpen, moet u de cache [handmatig wissen (zie de stappen hierboven).](#clear-cache)
 
 ## Bekende beperkingen in Dynamic Media Classic 20.20.1 (vastgesteld in 20.20.2)
 
