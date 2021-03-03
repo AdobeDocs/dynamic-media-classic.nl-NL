@@ -2,9 +2,9 @@
 title: Dynamic Media Classic Training Video's
 description: Dynamic Media Classic trainingsvideo's over aan de slag gaan, dynamische beeldbewerking, video, mediaportaal, sjablonen en het ontwerpen en renderen van afbeeldingen.
 translation-type: tm+mt
-source-git-commit: 1df4f88ef856160ee06c43dc6ec430df122f2408
+source-git-commit: 1e7635e1e8c1e9da09b22b8bdc0a71a39cd53088
 workflow-type: tm+mt
-source-wordcount: '6490'
+source-wordcount: '6544'
 ht-degree: 0%
 
 ---
@@ -100,17 +100,19 @@ Dynamic Media Classic trainingsvideo&#39;s over aan de slag gaan, dynamische bee
 
 Opleidingsvideo&#39;s over verschillende aspecten van het volgende:
 
-* Inkleuren
-* Patroontoewijzing
-* Verlichtingskaart
-* Materiaal herhalen
-* Objecten overlappen
-* Scènes 3D-ruimte
-* Apparel Authoring
-* Maskeren
-* Renderen
+* [Inkleuren](#colorizing)
+* [Patroontoewijzing](#pattern-mapping)
+* [Verlichtingskaart](#illumination-map)
+* [Materiaal herhalen](#material-repeat-tool)
+* [Objecten overlappen](#overlap-objects)
+* [Scènes 3D-ruimte](#three-dimensional-room-scenes)
+* [Apparel Authoring](#apparel-authoring)
+* [Maskeren](#masking)
+* [Renderen](#rendering)
 
 ### {#colorizing} inkleuren
+
+Terugkeren naar [Ontwerpen en renderen van afbeeldingen](#image-authoring-rendering-training)
 
 * [Overzicht van inkleuren](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&amp;emailurl=https://s7d5.scene7.com/s7/emailFriend&amp;serverUrl=https://s7d5.scene7.com/is/image/&amp;config=Scene7SharedAssets/Universal_HTML5_Video&amp;contenturl=https://s7d5.scene7.com/skins/&amp;asset=S7tutorials/500_01_overview1_ia_01colorizing-AVS)
 
@@ -154,6 +156,8 @@ Opleidingsvideo&#39;s over verschillende aspecten van het volgende:
 
 ### Patroontoewijzing {#pattern-mapping}
 
+Terugkeren naar [Ontwerpen en renderen van afbeeldingen](#image-authoring-rendering-training)
+
 * [Overzicht van patroontoewijzing](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&amp;emailurl=https://s7d5.scene7.com/s7/emailFriend&amp;serverUrl=https://s7d5.scene7.com/is/image/&amp;config=Scene7SharedAssets/Universal_HTML5_Video&amp;contenturl=https://s7d5.scene7.com/skins/&amp;asset=S7tutorials/578_01_pattern_mapping_ov_ia_02pattern-AVS)
 
 * [Stappen voordat het net wordt bewerkt](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&amp;emailurl=https://s7d5.scene7.com/s7/emailFriend&amp;serverUrl=https://s7d5.scene7.com/is/image/&amp;config=Scene7SharedAssets/Universal_HTML5_Video&amp;contenturl=https://s7d5.scene7.com/skins/&amp;asset=S7tutorials/579_02_steps_before_mesh_editing_ia_02pattern-AVS)
@@ -196,6 +200,8 @@ Opleidingsvideo&#39;s over verschillende aspecten van het volgende:
 
 ### Verlichtingskaart {#illumination-map}
 
+Terugkeren naar [Ontwerpen en renderen van afbeeldingen](#image-authoring-rendering-training)
+
 * [Exporteren naar Adobe Photoshop](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&amp;emailurl=https://s7d5.scene7.com/s7/emailFriend&amp;serverUrl=https://s7d5.scene7.com/is/image/&amp;config=Scene7SharedAssets/Universal_HTML5_Video&amp;contenturl=https://s7d5.scene7.com/skins/&amp;asset=S7tutorials/598_01_export_to_photoshop_ia_03illum-AVS)
 
 * [Retoucheren](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&amp;emailurl=https://s7d5.scene7.com/s7/emailFriend&amp;serverUrl=https://s7d5.scene7.com/is/image/&amp;config=Scene7SharedAssets/Universal_HTML5_Video&amp;contenturl=https://s7d5.scene7.com/skins/&amp;asset=S7tutorials/599_02_RETOUCHING_ia_03illum-AVS)
@@ -208,6 +214,8 @@ Opleidingsvideo&#39;s over verschillende aspecten van het volgende:
 
 ### Materiaal herhalen {#material-repeat-tool}
 
+Terugkeren naar [Ontwerpen en renderen van afbeeldingen](#image-authoring-rendering-training)
+
 * [Materiaal herhalen, gereedschap](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&amp;emailurl=https://s7d5.scene7.com/s7/emailFriend&amp;serverUrl=https://s7d5.scene7.com/is/image/&amp;config=Scene7SharedAssets/Universal_HTML5_Video&amp;contenturl=https://s7d5.scene7.com/skins/&amp;asset=S7tutorials/603_01_MRT_ia_04mrt-AVS)
 
 * [Belichting aanpassen](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&amp;emailurl=https://s7d5.scene7.com/s7/emailFriend&amp;serverUrl=https://s7d5.scene7.com/is/image/&amp;config=Scene7SharedAssets/Universal_HTML5_Video&amp;contenturl=https://s7d5.scene7.com/skins/&amp;asset=S7tutorials/604_02_lighting_adjust_ia_04mrt-AVS)
@@ -215,6 +223,8 @@ Opleidingsvideo&#39;s over verschillende aspecten van het volgende:
 * [PPI-waarden corrigeren](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&amp;emailurl=https://s7d5.scene7.com/s7/emailFriend&amp;serverUrl=https://s7d5.scene7.com/is/image/&amp;config=Scene7SharedAssets/Universal_HTML5_Video&amp;contenturl=https://s7d5.scene7.com/skins/&amp;asset=S7tutorials/605_03_correct%20PPI%20value_ia_04mrt-AVS)
 
 ### Objecten {#overlap-objects} overlappen
+
+Terugkeren naar [Ontwerpen en renderen van afbeeldingen](#image-authoring-rendering-training)
 
 * [Grondbeginselen van overlappen](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&amp;emailurl=https://s7d5.scene7.com/s7/emailFriend&amp;serverUrl=https://s7d5.scene7.com/is/image/&amp;config=Scene7SharedAssets/Universal_HTML5_Video&amp;contenturl=https://s7d5.scene7.com/skins/&amp;asset=S7tutorials/607_01_overlap_basics_ia_05overlap-AVS)
 
@@ -225,6 +235,8 @@ Opleidingsvideo&#39;s over verschillende aspecten van het volgende:
 * [Inleiding om objecten te overlappen](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&amp;emailurl=https://s7d5.scene7.com/s7/emailFriend&amp;serverUrl=https://s7d5.scene7.com/is/image/&amp;config=Scene7SharedAssets/Universal_HTML5_Video&amp;contenturl=https://s7d5.scene7.com/skins/&amp;asset=S7tutorials/610_IA005-Intro-Overlap_ia_05overlap-AVS)
 
 ### Scènes 3D-ruimte {#three-dimensional-room-scenes}
+
+Terugkeren naar [Ontwerpen en renderen van afbeeldingen](#image-authoring-rendering-training)
 
 * [Overzicht 3D-project](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&amp;emailurl=https://s7d5.scene7.com/s7/emailFriend&amp;serverUrl=https://s7d5.scene7.com/is/image/&amp;config=Scene7SharedAssets/Universal_HTML5_Video&amp;contenturl=https://s7d5.scene7.com/skins/&amp;asset=S7tutorials/611_01_3D_project_ov_ia_06room3d-AVS)
 
@@ -244,6 +256,8 @@ Opleidingsvideo&#39;s over verschillende aspecten van het volgende:
 
 ### Goedkope authoring {#apparel-authoring}
 
+Terugkeren naar [Ontwerpen en renderen van afbeeldingen](#image-authoring-rendering-training)
+
 * [Colorizatieoverzicht van de kleur](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&amp;emailurl=https://s7d5.scene7.com/s7/emailFriend&amp;serverUrl=https://s7d5.scene7.com/is/image/&amp;config=Scene7SharedAssets/Universal_HTML5_Video&amp;contenturl=https://s7d5.scene7.com/skins/&amp;asset=S7tutorials/620_700_apparel_colorization_review_ia_07apparel-AVS)
 
 * [De patroontoewijzingsinspanning beoordelen](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&amp;emailurl=https://s7d5.scene7.com/s7/emailFriend&amp;serverUrl=https://s7d5.scene7.com/is/image/&amp;config=Scene7SharedAssets/Universal_HTML5_Video&amp;contenturl=https://s7d5.scene7.com/skins/&amp;asset=S7tutorials/621_701_assessing_pattern_mapping_effort_ia_07apparel-AVS)
@@ -258,6 +272,8 @@ Opleidingsvideo&#39;s over verschillende aspecten van het volgende:
 
 ### Maskeren {#masking}
 
+Terugkeren naar [Ontwerpen en renderen van afbeeldingen](#image-authoring-rendering-training)
+
 * [Overzicht van maskeren in Adobe Photoshop](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&amp;emailurl=https://s7d5.scene7.com/s7/emailFriend&amp;serverUrl=https://s7d5.scene7.com/is/image/&amp;config=Scene7SharedAssets/Universal_HTML5_Video&amp;contenturl=https://s7d5.scene7.com/skins/&amp;asset=S7tutorials/626_800_overview_of_photoshop_masking_ia_08masking-AVS)
 
 * [Maskers exporteren uit Adobe Photoshop](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&amp;emailurl=https://s7d5.scene7.com/s7/emailFriend&amp;serverUrl=https://s7d5.scene7.com/is/image/&amp;config=Scene7SharedAssets/Universal_HTML5_Video&amp;contenturl=https://s7d5.scene7.com/skins/&amp;asset=S7tutorials/627_801_exporting_masks_from_photoshop_ia_08masking-AVS)
@@ -269,6 +285,8 @@ Opleidingsvideo&#39;s over verschillende aspecten van het volgende:
 * [Inleiding tot maskeren](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&amp;emailurl=https://s7d5.scene7.com/s7/emailFriend&amp;serverUrl=https://s7d5.scene7.com/is/image/&amp;config=Scene7SharedAssets/Universal_HTML5_Video&amp;contenturl=https://s7d5.scene7.com/skins/&amp;asset=S7tutorials/630_IA008-Intro-Masking_ia_08masking-AVS)
 
 ### Renderen {#rendering}
+
+Terugkeren naar [Ontwerpen en renderen van afbeeldingen](#image-authoring-rendering-training)
 
 * [Wiskunde renderen](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&amp;emailurl=https://s7d5.scene7.com/s7/emailFriend&amp;serverUrl=https://s7d5.scene7.com/is/image/&amp;config=Scene7SharedAssets/Universal_HTML5_Video&amp;contenturl=https://s7d5.scene7.com/skins/&amp;asset=S7tutorials/632_900_render_math_ia_09rendering-AVS)
 
