@@ -6,7 +6,7 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/introducing_adobe_dynamic_media_classic
 translation-type: tm+mt
-source-git-commit: 9f93993fe1d3a94e3dcf23b5a151432346b09726
+source-git-commit: 22536021ff68704173b5c1fc7eb9018b9e19f2aa
 workflow-type: tm+mt
 source-wordcount: '1600'
 ht-degree: 0%
@@ -44,7 +44,7 @@ Adobe Dynamic Media Classic-bureaubladtoepassing is compatibel met de volgende b
 * Geen beperking op het aantal bestanden dat u kunt uploaden via de gebruikersinterface van de bureaubladtoepassing voor zowel MacOS als Windows.
 * U hoeft zich niet af te melden bij de bureaubladtoepassing om te schakelen tussen bedrijven.
 * Ctrl+V voor plakbewerking werkt nu in Windows.
-* In de toekomst, wanneer een nieuwe versie van de bureaubladtoepassing wordt uitgebracht, worden gebruikers op de hoogte gesteld in de bureaubladtoepassing zelf. —>
+* In de toekomst, wanneer een nieuwe versie van de bureaubladtoepassing wordt uitgebracht, worden gebruikers op de hoogte gesteld in de bureaubladtoepassing zelf.
 
 ## Download en installeer de nieuwste Adobe Dynamic Media Classic-bureaubladtoepassing op MacOS of Windows {#installation-dmc-app}
 
