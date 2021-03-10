@@ -6,9 +6,9 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/introducing_adobe_dynamic_media_classic
 translation-type: tm+mt
-source-git-commit: 5b9529a03e6d3c84b81088493be00a8063163f42
+source-git-commit: 9f93993fe1d3a94e3dcf23b5a151432346b09726
 workflow-type: tm+mt
-source-wordcount: '1601'
+source-wordcount: '1600'
 ht-degree: 0%
 
 ---
@@ -38,7 +38,6 @@ Adobe Dynamic Media Classic-bureaubladtoepassing is compatibel met de volgende b
 * Aanmeldingsproblemen vanwege time-out resulterend in het volgende bericht: *Deze gebruiker kan zonder toestemming aan de groep of groepen worden toegewezen. Neem contact op met uw beheerder.*
 * Viewer-voorinstellingen worden gedupliceerd bij elke onjuiste wachtwoordpoging.
 * Bureaubladtoepassing reageert niet meer vanwege de vele middelen in de hoofdmap. (Vast onder Windows; naar wens werken op MacOS.)
-* jlkjlkj
 
 ## Oplossingen in de vorige versie (20.20.2) {#previous-version-fixes-desktop-app}
 
