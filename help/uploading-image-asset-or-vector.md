@@ -4,10 +4,12 @@ description: Leer hoe u een afbeeldingselement of een vectorelement uploadt.
 contentOwner: admin
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
+feature: Dynamic Media Classic
+role: Zakelijke praktiserer
 translation-type: tm+mt
-source-git-commit: 2f7366a77c0fa5f3953721cdd5328123d9c2a052
+source-git-commit: 5efad4fff11c9818d43d46ebbbce5335ee1e72b8
 workflow-type: tm+mt
-source-wordcount: '1527'
+source-wordcount: '1532'
 ht-degree: 0%
 
 ---
@@ -233,7 +235,7 @@ Een voorbeeld van een geslaagde reactie ziet er als volgt uit:
 </scene7>
 ```
 
-U kunt de volgende velden in de URL-queryreeks gebruiken om informatie voor een element op te vragen:
+U kunt de volgende velden in de URL-queryreeks gebruiken om informatie voor een element aan te vragen:
 
 | URL-parameter | Vereist of optioneel | Waarde |
 |--- |--- |--- |
