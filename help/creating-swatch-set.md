@@ -7,10 +7,12 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/swatch_sets
 discoiquuid: 631d2b2d-9e69-4b96-8392-17e00a1a8de0
+feature: Dynamic Media Classic,Viewers
+role: Zakelijke praktiserer
 translation-type: tm+mt
-source-git-commit: ca12c96d3a76cfa52fd930d190476cb6fc4f4ac7
+source-git-commit: e727c1b5fb43c7def842ff1bafcc8b3ef3437cde
 workflow-type: tm+mt
-source-wordcount: '701'
+source-wordcount: '707'
 ht-degree: 0%
 
 ---
@@ -40,7 +42,7 @@ Zie ook [Elementen handmatig publiceren](publishing-files.md#manually_publishing
 
    **Begin in het** scherm StaalsetKlik op Samenstellen > Staalsets. Selecteer een map in de elementenbibliotheek en sleep de afbeeldingen naar de sectie Weergaven van de pagina Staalset.
 
-1. Sleep staalkleuren, patronen of voltooit in het vak Stalen van de pagina Staalset.
+1. Sleep staalkleuren, patronen of zet deze om in het vak Stalen in de pagina Staalset.
 
    Zorg ervoor dat het kleur-, patroon- of eindstaal dat u naar elke plaatsaanduiding sleept, de kleur, het patroon of het einde van de aangrenzende afbeelding vertegenwoordigt.
 
