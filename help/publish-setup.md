@@ -1,13 +1,15 @@
 ---
 title: Publicatie-instelling
-description: De instellingen in het scherm Publicatie-instellingen bepalen hoe elementen standaard worden geleverd door Dynamic Media Classic-servers naar websites of toepassingen.
+description: Met de publicatie-instellingen kunt u bepalen hoe elementen standaard worden geleverd vanaf Dynamic Media Classic-servers naar websites of toepassingen.
 contentOwner: admin
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
+feature: Dynamic Media Classic
+role: Beheerder
 translation-type: tm+mt
-source-git-commit: 2f7366a77c0fa5f3953721cdd5328123d9c2a052
+source-git-commit: 5efad4fff11c9818d43d46ebbbce5335ee1e72b8
 workflow-type: tm+mt
-source-wordcount: '2412'
+source-wordcount: '2416'
 ht-degree: 0%
 
 ---
