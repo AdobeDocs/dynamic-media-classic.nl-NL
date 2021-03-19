@@ -8,10 +8,12 @@ contentOwner: admin
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 discoiquuid: a0941823-850c-4373-9e37-f32032de3805
+feature: Dynamic Media Klassiek,Viewers,Video
+role: Zakelijke praktiserer
 translation-type: tm+mt
-source-git-commit: 9424b392f85536dc75083d0ade255e4824755ed1
+source-git-commit: e727c1b5fb43c7def842ff1bafcc8b3ef3437cde
 workflow-type: tm+mt
-source-wordcount: '3938'
+source-wordcount: '3945'
 ht-degree: 1%
 
 ---
