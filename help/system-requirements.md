@@ -7,10 +7,12 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/introducing_adobe_scene7
 discoiquuid: 27278fef-8b0e-41cd-b393-7a4c3625d5c0
+feature: Dynamic Media Classic
+role: Beheerder, Business Practiter
 translation-type: tm+mt
-source-git-commit: ca12c96d3a76cfa52fd930d190476cb6fc4f4ac7
+source-git-commit: e727c1b5fb43c7def842ff1bafcc8b3ef3437cde
 workflow-type: tm+mt
-source-wordcount: '92'
+source-wordcount: '98'
 ht-degree: 0%
 
 ---
@@ -20,7 +22,7 @@ ht-degree: 0%
 
 Voor de beste ervaring met de Dynamic Media Classic desktop app moet u ervoor zorgen dat uw systeem voldoet aan de volgende systeemvereisten en aanbevelingen:
 
-* Microsoft® Windows® 7 of hoger of MacOS X 10.6 of hoger vereist Macintosh® Intel-processor.
+* Microsoft® Windows® 7 of hoger of MacOS X 10.6 of hoger Macintosh® Intel-processor vereist.
 * 3 GB RAM of hoger vereist (4 GB of hoger aanbevolen).
 * Kleurenmonitor.
 * Videokaart met ondersteuning voor True Color bij een resolutie van 1280 x 1024 of hoger.
