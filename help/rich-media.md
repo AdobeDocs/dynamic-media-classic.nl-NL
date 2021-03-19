@@ -7,10 +7,12 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/getting_started
 discoiquuid: 86f72d31-19aa-4077-a746-2badb53b02ec
+feature: Dynamic Media Classic
+role: Beheerder, Business Practiter
 translation-type: tm+mt
-source-git-commit: ca12c96d3a76cfa52fd930d190476cb6fc4f4ac7
+source-git-commit: e727c1b5fb43c7def842ff1bafcc8b3ef3437cde
 workflow-type: tm+mt
-source-wordcount: '456'
+source-wordcount: '462'
 ht-degree: 0%
 
 ---
@@ -18,7 +20,7 @@ ht-degree: 0%
 
 # Rijke media{#rich-media}
 
-Dynamic Media Classic bevat veel gereedschappen voor het maken van rijke media. U maakt de volgende rich media-typen:
+Dynamic Media Classic biedt veel gereedschappen voor het maken van rijke media. U maakt de volgende rich media-typen:
 
 * ****
 eCatalogsPresenteer een interactieve, onderzoek-toegelaten Webversie van uw catalogus of ander drukmateriaal. Maak klikbare gebieden (Afbeeldingskaarten) die rolloverinhoud weergeven en klanten in staat stellen pagina&#39;s om te slaan, in te zoomen, te pannen en notities aan pagina&#39;s te koppelen. Zie [Snel starten: eCatalog](/help/quick-start-ecatalog.md).
