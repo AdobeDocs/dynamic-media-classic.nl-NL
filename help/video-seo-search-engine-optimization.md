@@ -7,10 +7,12 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/setup
 discoiquuid: 34ecd868-775f-452b-b26e-d139f0e280ae
+feature: Dynamic Media Classic
+role: Beheerder
 translation-type: tm+mt
-source-git-commit: ca12c96d3a76cfa52fd930d190476cb6fc4f4ac7
+source-git-commit: e727c1b5fb43c7def842ff1bafcc8b3ef3437cde
 workflow-type: tm+mt
-source-wordcount: '978'
+source-wordcount: '982'
 ht-degree: 0%
 
 ---
@@ -24,7 +26,7 @@ Met Dynamic Media Classic Video SEO kunt u videometagegevens gebruiken om zoekpr
 
 **Video** SitemapHiermee wordt Google precies aangegeven waar en wat de video-inhoud op een site is. Daarom kunnen video&#39;s volledig worden doorzocht op Google. Een videositemap kan bijvoorbeeld de actieve tijd en de categorieën video&#39;s opgeven. Ga naar https://www.google.com/support/webmasters/bin/answer.py?answer=80471 voor informatie over videodemo&#39;s.
 
-**mRSS-** feed (Media werkelijk eenvoudige synchronisatie)Gebruikt door uitgevers van inhoud om mediabestanden naar Yahoo te sturen! Video zoeken. Zie https://www.rssboard.org/media-rss voor informatie over mRSS-feeds.
+**mRSS-** feed (Media werkelijk eenvoudige syntaxis) Gebruikt door uitgevers van inhoud om mediabestanden naar Yahoo te sturen! Video zoeken. Zie https://www.rssboard.org/media-rss voor informatie over mRSS-feeds.
 
 >[!NOTE]
 >
