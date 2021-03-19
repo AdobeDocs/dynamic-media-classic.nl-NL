@@ -6,10 +6,12 @@ contentOwner: admin
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 discoiquuid: b2bc3bf9-e313-481a-8670-c3bedde21b1a
+feature: Dynamic Media Classic, beheer van bedrijfsmiddelen
+role: Zakelijke praktiserer
 translation-type: tm+mt
-source-git-commit: ca12c96d3a76cfa52fd930d190476cb6fc4f4ac7
+source-git-commit: e727c1b5fb43c7def842ff1bafcc8b3ef3437cde
 workflow-type: tm+mt
-source-wordcount: '3852'
+source-wordcount: '3859'
 ht-degree: 0%
 
 ---
@@ -72,7 +74,7 @@ Voor optimale resultaten met het Dynamic Media Classic-platform moet u de aanbev
 | Audio | Invoergeluidsindelingen voor audio-elementen zijn AAC, HE-AAC, AC3, WAV, WMA, AIFF, MP3. U kunt audio naar de volgende indelingen transcoderen: MP3, AAC en HE-AAC. |
 | Afbeeldingen (voor Afbeeldingsgrootte, Zoomen, Afbeeldingssets, Spin-sets) | Afbeeldingen moeten ten minste 2000 pixels groot zijn; De meeste afbeeldingen hebben een grootte van 1500 tot 2500 pixels in de langste afmeting. Het wordt aanbevolen afbeeldingen zonder verlies in te stellen, zoals TIFF- en PNG-bestanden. Als u een JPEG-afbeelding gebruikt, gebruikt u de instellingen voor de hoogste kwaliteit. GIF-bestanden met animatie worden op dezelfde manier verwerkt als andere statische inhoud. |
 | eCatalogs | Gebruik PDF-bestanden met hoge resolutie die zijn gemaakt in Adobe® Acrobat® of een Creative Suite-toepassing die is opgeslagen als &#39;geschikt voor drukpers&#39;. PDF&#39;s bevatten alle benodigde lettertypen, afbeeldingen, maskers en grafische elementen waarnaar wordt verwezen, zoals enkele pagina&#39;s, spreads met twee pagina&#39;s of in een indeling met meerdere pagina&#39;s. Volgorde uw pagina&#39;s door de dossiers in alfanumerieke orde te noemen. Plaats alle PDF&#39;s voor uw eCatalog in één map, zodat u ze eenvoudig kunt uploaden. U kunt opties voor uitsnijden selecteren bij het uploaden om het bijsnijdgebied van PDF&#39;s te verwijderen, zoals snijtekens, registratiedoelen of kleurenbalken. De meeste PDF-bestanden die klaar zijn voor drukken bevinden zich in de CMYK-kleurruimte. Het is daarom belangrijk dat u het CMYK ICC-kleurprofiel opgeeft dat wordt gebruikt bij uw PDF-bestanden. |
-| Sjablonen | Een gelaagde afbeelding of lay-outontwerp dat tekst, afbeeldingen en lagen kan bevatten. Afbeeldingslagen, tekstreeksen en kenmerken, zoals kleur en grootte, kunnen worden geparametereerd zodat variabele gegevens kunnen worden aangepast. Afbeeldingsvereisten voor gebruik in sjablonen zijn gelijk aan die voor andere afbeeldingen. Bereid uw afbeeldingen voor in Photoshop of een ander beeldbewerkingsprogramma. Sla elke afbeelding op als een afgevlakt transparant bestand in de TIFF- of PNG-indeling. Zorg ervoor dat de afbeeldingsresolutie geschikt is voor het verwachte gebruik. Afbeeldingen die u wilt afdrukken, moeten 300 ppi zijn. |
+| Sjablonen | Een gelaagde afbeelding of lay-outontwerp dat tekst, afbeeldingen en lagen kan bevatten. Afbeeldingslagen, tekstreeksen en kenmerken, zoals kleur en grootte, kunnen worden geparametriseerd zodat variabele gegevens kunnen worden aangepast. Afbeeldingsvereisten voor gebruik in sjablonen zijn gelijk aan die voor andere afbeeldingen. Bereid uw afbeeldingen voor in Photoshop of een ander beeldbewerkingsprogramma. Sla elke afbeelding op als een afgevlakt transparant bestand in de TIFF- of PNG-indeling. Zorg ervoor dat de afbeeldingsresolutie geschikt is voor het verwachte gebruik. Afbeeldingen die u wilt afdrukken, moeten 300 ppi zijn. |
 | Video&#39;s | Dynamic Media Classic ondersteunt videobestanden die zijn opgeslagen in de OGV- en MP4-indeling. U kunt bestanden tijdens het uploaden naar MP4-indeling transcoderen.Zie [Ondersteunde bestandsindelingen voor elementen](#supported-static-file-formats). |
 | Lettertypen | Geüpload TrueType, Type1 (alleen Windows), OpenType-lettertypen en PhotoFonts |
 | Afbeeldingen | Afbeeldingen en gelaagde afbeeldingsbestanden. |
@@ -124,7 +126,7 @@ Zorg ervoor dat alle gebruikers in uw bedrijf deze regels voor het benoemen van 
 
    Als een bestandsnaam een of meer van de bovenstaande tekens bevat, worden de tekens tijdens het uploaden uit de bestandsnaam verwijderd.
 
-In de meeste gevallen kan de bestandsnaam van een element hetzelfde zijn als het itemnummer, de SKU-code van het product of een andere naam als in het volgende voorbeeld:
+In de meeste gevallen kan de bestandsnaam van een element hetzelfde zijn als het itemnummer, product-SKU of een andere naam als in het volgende voorbeeld:
 
 | Item | Bestandsnaam | Element-id |
 |--- |--- |--- |
@@ -220,7 +222,7 @@ Bij het uploaden van bestanden kunt u uit de volgende opties kiezen in het dialo
          * **Wekelijks** : kies een specifieke dag van de week en tijd die u de baan wilt lopen.
          * **Maandelijks** — Kies een specifieke dag van de maand of dag van de week, inclusief de begintijd, waarop u de taak wilt uitvoeren.
          * **Aangepast**  - Pas een upload- of publicatietaakinterval aan uw eigen specificaties aan. Zie [Een aangepaste upload- of publiceertaaktijdinterval maken](checking-job-files.md#creating-a-custom-upload-or-publish-job-time-interval).
-   * **Publiceren na uploaden** — Beschikbaar als u het  **tabblad FROM** DESKTOP of  **VIA** FTPtab hebt geselecteerd. Selecteer deze optie als u de elementen die u uploadt automatisch wilt publiceren. Wanneer u bestanden publiceert, worden deze naar live servers verzonden. URL&#39;s voor deze bestanden kunnen vervolgens worden gebruikt op externe websites en toepassingen. Deze optie is ook beschikbaar op de Upload pagina.
+   * **Publiceren na uploaden** — Beschikbaar als u het  **FROM** DESKTOPtab of het  **VIA** FTPtab hebt geselecteerd. Selecteer deze optie als u de elementen die u uploadt automatisch wilt publiceren. Wanneer u bestanden publiceert, worden deze naar live servers verzonden. URL&#39;s voor deze bestanden kunnen vervolgens worden gebruikt op externe websites en toepassingen. Deze optie is ook beschikbaar op de Upload pagina.
 
    * **Overschrijf in een willekeurige map dezelfde naam voor basiselementen, ongeacht de extensie** . Beschikbaar als u  **FROM** DESKTOPtab of  **VIA** FTPtab hebt geselecteerd. Selecteer deze optie als u wilt dat de bestanden die u uploadt, bestaande bestanden met dezelfde naam vervangen. Deze optie is ook beschikbaar op de Upload pagina. De naam van deze optie kan verschillen, afhankelijk van de instellingen in **Toepassingsinstellingen > Algemene instellingen > Uploaden naar toepassing > Afbeeldingen overschrijven**.
 
@@ -262,13 +264,13 @@ Zie [Opties voor het bewerken van afbeeldingen tijdens het uploaden](image-editi
 * **POSTSCRIPT-OPTIONS** : u kunt PostScript® rasteren, bestanden uitsnijden, transparante achtergronden behouden, een resolutie kiezen en een kleurruimte kiezen.
 Zie [Werken met PostScript- en Illustrator-bestanden](postscript-illustrator-files.md#working_with_postscript_and_illustrator_files).
 
-* **PHOTOSHOP OPTIONS** : u kunt sjablonen maken van Adobe® Photoshop®-bestanden, lagen behouden, opgeven hoe lagen worden benoemd, tekst uitnemen en opgeven hoe afbeeldingen in sjablonen worden verankerd.
+* **Photoshop OPTIONS** : u kunt sjablonen maken van Adobe® Photoshop®-bestanden, lagen behouden, opgeven hoe lagen worden benoemd, tekst uitnemen en opgeven hoe afbeeldingen in sjablonen worden verankerd.
 Zie [Uploadopties voor PSD](psd-files.md#psd_upload_options).
 
 * **PDF-OPTIONS** : u kunt de bestanden rasteren, zoekwoorden en koppelingen extraheren, automatisch een eCatalog genereren, de resolutie instellen en een kleurruimte kiezen.
 Zie [Opties voor PDF-upload](pdfs.md#pdf_upload_options).
 
-* **ILLUSTRATOR-OPTIONS** : u kunt Adobe Illustrator®-bestanden rasteren, transparante achtergronden behouden, een resolutie kiezen en een kleurruimte kiezen.
+* **Illustrator-OPTIONS** : u kunt Adobe Illustrator®-bestanden rasteren, transparante achtergronden behouden, een resolutie kiezen en een kleurruimte kiezen.
 Zie [Werken met PostScript- en Illustrator-bestanden](postscript-illustrator-files.md#working_with_postscript_and_illustrator_files).
 
 * **EVIDEO-OPTIONS** : u kunt een videobestand transcoderen door een videovoorinstelling te kiezen.
