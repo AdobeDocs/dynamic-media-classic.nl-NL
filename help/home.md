@@ -4,10 +4,12 @@ seo-title: Technische documentatie en zelfhulp voor Adobe Dynamic Media Classic
 description: Adobe Dynamic Media Classic - technische documentatie
 seo-description: 'Technische documentatie, opmerkingen bij de release en zelfhulpmaterialen voor Adobe Dynamic Media Classic, voorheen Scene 7 '
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
+feature: Dynamic Media Classic
+role: Beheerder, Business Practiter
 translation-type: tm+mt
-source-git-commit: 1e7635e1e8c1e9da09b22b8bdc0a71a39cd53088
+source-git-commit: e727c1b5fb43c7def842ff1bafcc8b3ef3437cde
 workflow-type: tm+mt
-source-wordcount: '591'
+source-wordcount: '597'
 ht-degree: 1%
 
 ---
