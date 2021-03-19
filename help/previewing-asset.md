@@ -7,10 +7,12 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/managing_assets
 discoiquuid: 17d0bfd6-fc62-4ed6-8a51-7ac1a6bb96cc
+feature: Dynamic Media Classic, beheer van bedrijfsmiddelen, viewers
+role: Zakelijke praktiserer
 translation-type: tm+mt
-source-git-commit: ca12c96d3a76cfa52fd930d190476cb6fc4f4ac7
+source-git-commit: e727c1b5fb43c7def842ff1bafcc8b3ef3437cde
 workflow-type: tm+mt
-source-wordcount: '1019'
+source-wordcount: '1027'
 ht-degree: 0%
 
 ---
@@ -58,7 +60,7 @@ Voor een bepaald viewerplatform kunt u in het venster Lijst met viewers visueel 
    * Klik rechts van de werkbalk boven het middelenvenster op Gedetailleerde weergave. Klik op Voorvertoning > Viewer List op dezelfde werkbalk.
 
 1. (Optioneel) Klik in het venster Viewer List op de kolomkop **Naam** of **Platform type** om de kolom in oplopende of aflopende volgorde te sorteren.
-1. Klik in het venster Viewer List onder de kolom Acties van de tabel op Voorvertoning om te zien hoe het element wordt weergegeven voor een geselecteerde viewer en platformtype.
+1. Klik in het venster Viewer List onder de kolom Acties van de tabel op Voorvertoning om te zien hoe het element wordt weergegeven voor een geselecteerde viewer- en platformtype.
 
    Sluit de weergegeven voorvertoning om terug te keren naar het venster Viewer List.
 
