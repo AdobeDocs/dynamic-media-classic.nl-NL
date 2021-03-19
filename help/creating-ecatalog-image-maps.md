@@ -7,10 +7,12 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/ecatalogs
 discoiquuid: 4cf63359-63b5-4da7-9498-335d91b4776c
+feature: Dynamic Media Classic,Viewers,eCatalog
+role: Zakelijke praktiserer
 translation-type: tm+mt
-source-git-commit: ca12c96d3a76cfa52fd930d190476cb6fc4f4ac7
+source-git-commit: e727c1b5fb43c7def842ff1bafcc8b3ef3437cde
 workflow-type: tm+mt
-source-wordcount: '1491'
+source-wordcount: '1498'
 ht-degree: 0%
 
 ---
@@ -97,7 +99,7 @@ afbeeldingen met hyperlinks afhandelenSleep om de volgorde van afbeeldingen met 
    Zie [Overlappende afbeeldingen verwerken](creating-image-maps.md#handling_overlapping_image_maps).
 
 * **Afbeeldingen met hyperlinks kopiëren naar andere**
-pagina&#39;sSelecteer de knop Kaarten kopiëren naar (zorg dat u zich op het tabblad Pagina&#39;s toewijzen bevindt). Selecteer in het scherm Afbeeldingen selecteren de pagina of pagina&#39;s waarop u de Afbeeldingen met hyperlinks wilt kopiëren en klik op de knop Selecteren.
+pagina&#39;sSelecteer de knop Kaarten kopiëren naar (zorg dat u zich op het tabblad Pagina&#39;s toewijzen bevindt). Selecteer in het scherm Afbeeldingen selecteren de pagina of pagina&#39;s waarop u de afbeeldingen met hyperlinks wilt kopiëren en klik op de knop Selecteren.
 
    Zie [Afbeeldingen met hyperlinks kopiëren naar andere afbeeldingen](creating-image-maps.md#copying_image_maps).
 
@@ -120,7 +122,7 @@ Als u het scherm Kaartoverzicht wilt weergeven, klikt u op het tabblad Kaartpagi
 1. Als er fouten met de rollover-sleutel zijn, klikt u op de fout in de kolom Rollover_Key-fout om te zien wat in uw spreadsheet moet worden gewijzigd om de fout te corrigeren. U kunt de tekst van dit bericht selecteren en kopiëren en deze in uw werkblad plakken.
 1. Klik op Voorvertoning om een pagina in de eCatalog Viewer te bekijken, klik op de X om het scherm Summary te sluiten en terug te keren naar het scherm Map Pages, of klik op Close om terug te keren naar Browse.
 
-### Afbeeldingskaartgegevens {#import-image-map-data} importeren
+### Afbeeldingskaartgegevens importeren {#import-image-map-data}
 
 In plaats van de gegevens van de Kaart van het Beeld op elke pagina in te gaan, kunt u de gegevens voor uw volledige eCatalog in het Summiere scherm van de Kaart invoeren. U importeert de gegevens van de Kaart van het Beeld in de vorm van een lusje-afgebakend dossier of van XML DTD. De velden in het bestand moeten in de volgorde staan die wordt weergegeven in het scherm Kaartoverzicht: Naam, labels voor inhoudsopgave, Kaarten, URL&#39;s, Rollover-tekst, Overige handelingen en Zoeken. Door de gegevens van de Kaart van het Beeld in te voeren bespaart u het probleem om de gegevens in de Lijst van de Kaart van het Beeld in te gaan aangezien u elke Kaart van het Beeld creeert.
 
