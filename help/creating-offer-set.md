@@ -7,10 +7,12 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/target_integration
 discoiquuid: 59b6437d-c21e-4929-9291-3032dbb34565
+feature: Dynamic Media Classic
+role: Data Engineer,beheerder,Business Practice
 translation-type: tm+mt
-source-git-commit: ca12c96d3a76cfa52fd930d190476cb6fc4f4ac7
+source-git-commit: e727c1b5fb43c7def842ff1bafcc8b3ef3437cde
 workflow-type: tm+mt
-source-wordcount: '1205'
+source-wordcount: '1213'
 ht-degree: 0%
 
 ---
@@ -134,7 +136,7 @@ aanbieding verwijderenSelecteer de aanbieding en klik vervolgens op
 aanbiedingHoe u een aanbieding toevoegt hangt van het type van aanbieding af u met werkt:
    * ****
 TemplatesClick 
-**Voeg een nieuwe aanbieding toe en geef een voorbeeld** weer en maak op de pagina Aanbiedingen toevoegen en bekijken een nieuwe aanbieding.
+**Voeg een nieuwe aanbieding toe en geef een voorvertoning weer** en maak een nieuwe aanbieding op de pagina Aanbiedingen toevoegen en voorvertonen.
    * **Afbeeldingen en**
 video&#39;sSleep een afbeelding of video naar de pagina Set Test&amp;Target-aanbiedingen.
    >[!NOTE]
