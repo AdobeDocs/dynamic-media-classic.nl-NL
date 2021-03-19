@@ -7,10 +7,12 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/support_files
 discoiquuid: 97cecd6a-30aa-44fe-a611-fd71b02fd5ae
+feature: Dynamic Media Classic
+role: Zakelijke praktiserer
 translation-type: tm+mt
-source-git-commit: ca12c96d3a76cfa52fd930d190476cb6fc4f4ac7
+source-git-commit: e727c1b5fb43c7def842ff1bafcc8b3ef3437cde
 workflow-type: tm+mt
-source-wordcount: '427'
+source-wordcount: '432'
 ht-degree: 0%
 
 ---
@@ -54,7 +56,7 @@ Selecteer in het deelvenster Bladeren het lettertypebestand dat u wilt bewerken 
 
 **FontstijlDe** opties zijn Normaal, Vet, Cursief en Vet-cursief.
 
-**FonttypeDe** opties zijn TrueType en Adobe Type 1. Als u deze lettertypen op een andere naam aanroept, kunt u deze naam invoeren.
+**Font** TypeDe opties zijn TrueType en Adobe Type 1. Als u deze lettertypen op een andere naam aanroept, kunt u deze naam invoeren.
 
 **Lettertype** afkortingDe opties zijn als volgt:
 
