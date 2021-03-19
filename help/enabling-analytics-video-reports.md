@@ -5,10 +5,12 @@ contentOwner: admin
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/adobe_analytics_instrumentation_kit
+feature: Dynamic Media Classic
+role: Data Engineer,beheerder,Business Practice
 translation-type: tm+mt
-source-git-commit: 2f7366a77c0fa5f3953721cdd5328123d9c2a052
+source-git-commit: e727c1b5fb43c7def842ff1bafcc8b3ef3437cde
 workflow-type: tm+mt
-source-wordcount: '244'
+source-wordcount: '252'
 ht-degree: 0%
 
 ---
@@ -20,7 +22,7 @@ Met Adobe Analytics-videoverslagen op basis van hartslag hoeft u de vier videovi
 
 * Zie [Informatie over Adobe Analytics for Streaming Media](https://experienceleague.adobe.com/docs/media-analytics/using/media-overview.html#about-adobe-analytics-for-streaming-media) voor een inleiding op streamingmedia en &#39;hartslagmeting&#39;.
 
-* De integratie van Adobe Analytics-videorapporten met Dynamic Media Classic ondersteunt oplossingsvariabelen, maar niet aangepaste variabelen.
+* De integratie van Adobe Analytics-videorapporten met Dynamic Media Classic ondersteunt oplossingsvariabelen, maar geen aangepaste variabelen.
 
    Zie [Audio en Video parameters](https://experienceleague.adobe.com/docs/media-analytics/using/metrics-and-metadata/audio-video-parameters.html#metrics-and-metadata) voor meer informatie over oplossingsvariabelen en douanevariabelen.
 
