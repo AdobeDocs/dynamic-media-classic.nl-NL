@@ -7,10 +7,12 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/image_sizing
 discoiquuid: 1ec39fe5-7b2a-4034-9570-6b5595f97052
+feature: Dynamic Media Klassiek, voorinstellingen afbeelding
+role: Zakelijke praktiserer
 translation-type: tm+mt
-source-git-commit: ca12c96d3a76cfa52fd930d190476cb6fc4f4ac7
+source-git-commit: e727c1b5fb43c7def842ff1bafcc8b3ef3437cde
 workflow-type: tm+mt
-source-wordcount: '649'
+source-wordcount: '656'
 ht-degree: 10%
 
 ---
@@ -62,8 +64,8 @@ optiesVoer de hier weergegeven instellingen in:
    | Type voorinstelling | Grootte | USM: Hoeveelheid | USM: Straal | USM: Drempel |
    |--- |--- |--- |--- |--- |
    | Cross-Sell (miniatuur) | 75 x 75 | 1,5 | 0,8 | 5 |
-   | Miniatuur | 150 x 150 | 1,1 | 1 | 5 |
-   | Hoofd | 350 x 350 | 3 | 3 | 6 |
+   | Miniatuur | 150 x 150 | 1,1 | 3 | 5 |
+   | Hoofd | 350 x 350 | 1 | 3 | 6 |
    | Vergroten | 500 x 500 | 1,2 | 1,2 | 5 |
 
 1. Klik **Opslaan**.
