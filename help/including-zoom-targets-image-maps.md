@@ -7,10 +7,12 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/image_sets
 discoiquuid: ef0c292f-3240-4c62-8f32-25de8e4922ad
+feature: Dynamic Media Klassiek,Viewers,Afbeeldingssets
+role: Zakelijke praktiserer
 translation-type: tm+mt
-source-git-commit: ca12c96d3a76cfa52fd930d190476cb6fc4f4ac7
+source-git-commit: e727c1b5fb43c7def842ff1bafcc8b3ef3437cde
 workflow-type: tm+mt
-source-wordcount: '160'
+source-wordcount: '168'
 ht-degree: 0%
 
 ---
@@ -18,7 +20,7 @@ ht-degree: 0%
 
 # Inclusief zoomdoelen en Afbeeldingen met hyperlinks in afbeeldingssets{#including-zoom-targets-and-image-maps-in-image-sets}
 
-Als u zoomdoelen en afbeeldingen met hyperlinks definieert voor de afbeeldingen in de afbeeldingsset, worden deze doelen en afbeeldingen weergegeven in de viewer voor de afbeeldingsset. Gebruikers kunnen bijvoorbeeld op een afbeelding met hyperlinks in de viewer voor afbeeldingssets klikken en een nieuwe pagina met informatie over een item op uw website openen. Gebruikers kunnen op een doelminiatuurafbeelding in de Viewer Afbeeldingsset klikken en automatisch op een gedeelte van een afbeelding inzoomen.
+Als u zoomdoelen en afbeeldingen met hyperlinks definieert voor de afbeeldingen in de afbeeldingsset, worden deze doelen en afbeeldingen weergegeven in de viewer voor de afbeeldingsset. Gebruikers kunnen bijvoorbeeld op een afbeelding met hyperlinks in de viewer voor de afbeeldingsset klikken en een nieuwe pagina met informatie over een item op uw website openen. Gebruikers kunnen op een doelminiatuurafbeelding in de Viewer Afbeeldingsset klikken en automatisch op een gedeelte van een afbeelding inzoomen.
 
 Als u zoomdoelen en Afbeeldingen met hyperlinks beschikbaar wilt maken voor gebruikers, maakt u zoomdoelen en Afbeeldingen met hyperlinks voor de afbeeldingen in de afbeeldingsset. U kunt dat doen met de gereedschappen Afbeeldingen met hyperlinks of Zoomdoelen in het scherm Afbeeldingsset of Bladeren in het deelvenster (in de gedetailleerde weergave).
 
