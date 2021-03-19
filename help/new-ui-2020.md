@@ -4,10 +4,12 @@ description: Dynamic Media Classic-gebruikers kunnen de gebruikersinterface nu v
 contentOwner: rbrough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
+feature: Dynamic Media Classic
+role: Beheerder, Business Practiter
 translation-type: tm+mt
-source-git-commit: 2f7366a77c0fa5f3953721cdd5328123d9c2a052
+source-git-commit: e727c1b5fb43c7def842ff1bafcc8b3ef3437cde
 workflow-type: tm+mt
-source-wordcount: '1138'
+source-wordcount: '1144'
 ht-degree: 0%
 
 ---
@@ -63,7 +65,7 @@ Adobe heeft zich ertoe verbonden ervoor te zorgen dat onze producten voldoen aan
 
 ### **_Mijn bedrijf laat ons geen software en toepassingen op onze computers installeren. Hoe kunt u het beste toegang krijgen tot de nieuwe bureaubladtoepassing?_**
 
-Als uw bedrijf u geen software en toepassingen zonder goedkeuring naar uw systeem laat downloaden en installeren, werkt u dan al vroeg met uw IT-teams om toegang te krijgen tot de nieuwe Dynamic Media Classic-bureaubladtoepassing. Vergeet niet dat de browserversie na 31 december 2020 wordt vervangen. Het is belangrijk dat u niet tot het laatste moment wacht om de nieuwe desktop-app te downloaden.
+Als uw bedrijf u geen software en toepassingen zonder goedkeuring naar uw systeem laat downloaden en installeren, kunt u al vroeg met uw IT-teams toestemming krijgen om de nieuwe Dynamic Media Classic-bureaubladtoepassing te openen. Vergeet niet dat de browserversie na 31 december 2020 wordt vervangen. Het is belangrijk dat u niet tot het laatste moment wacht om de nieuwe desktop-app te downloaden.
 
 ### **_Kunnen meerdere exemplaren van de nieuwe bureaubladtoepassing tegelijk worden geopend?_**
 
