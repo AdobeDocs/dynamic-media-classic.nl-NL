@@ -7,10 +7,12 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/managing_assets
 discoiquuid: 5414b4f5-6e05-468c-8725-385423596342
+feature: Dynamic Media Classic, Asset Management, metagegevens
+role: Zakelijke praktiserer
 translation-type: tm+mt
-source-git-commit: ca12c96d3a76cfa52fd930d190476cb6fc4f4ac7
+source-git-commit: e727c1b5fb43c7def842ff1bafcc8b3ef3437cde
 workflow-type: tm+mt
-source-wordcount: '2256'
+source-wordcount: '2264'
 ht-degree: 0%
 
 ---
@@ -133,7 +135,7 @@ Klik op de knop Uploaden op de algemene navigatiebalk en selecteer in het scherm
 
 ## Naam van id&#39;s wijzigen in batch met metagegevens {#batch-rename-ids-using-metadata}
 
-Met metagegevens die zijn geïmporteerd uit een door tabs gescheiden bestand of XML-bestand, kunt u de naam van klassieke Dynamic Media-id&#39;s wijzigen. De geïmporteerde metagegevens worden alleen toegepast op de afbeeldingen die in het metagegevensbestand zelf zijn opgegeven. Het maakt niet uit of afbeeldingen zijn geselecteerd in het deelvenster Bladeren.
+Met metagegevens die zijn geïmporteerd uit een door tabs gescheiden bestand of XML-bestand, kunt u de naam van Klassieke Dynamic Media-id&#39;s wijzigen. De geïmporteerde metagegevens worden alleen toegepast op de afbeeldingen die in het metagegevensbestand zelf zijn opgegeven. Het maakt niet uit of afbeeldingen zijn geselecteerd in het deelvenster Bladeren.
 
 Als u de naam van de klassieke Dynamic Media-id van een afbeelding wilt wijzigen, voegt u een kolom met het label *newipsid* toe aan het bestand met tabs als scheidingsteken of voegt u een veld met de naam* new_vc_objectname* toe aan de XML-gegevens.
 
