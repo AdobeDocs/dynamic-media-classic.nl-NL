@@ -5,10 +5,12 @@ contentOwner: admin
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/video
+feature: Dynamic Media Klassiek,Viewers,Video
+role: Zakelijke praktiserer
 translation-type: tm+mt
-source-git-commit: 2f7366a77c0fa5f3953721cdd5328123d9c2a052
+source-git-commit: e727c1b5fb43c7def842ff1bafcc8b3ef3437cde
 workflow-type: tm+mt
-source-wordcount: '1441'
+source-wordcount: '1448'
 ht-degree: 0%
 
 ---
@@ -110,7 +112,7 @@ U kunt de video afspelen op het voorvertoningsscherm. U kunt ook verschillende v
 
 **Optioneel**
 
-Aanpassing van voorinstellingen viewer - Dynamic Media Classic bevat vooraf gedefinieerde viewervoorinstellingen voor het afleveren van video. Deze voorinstellingen bepalen de vormgeving van de viewer en de werking van de afspeelbesturingselementen. Beheerders kunnen voorinstellingen voor viewers toevoegen en beheren via de pagina Voorinstellingen voor viewer om de videoviewer aan te passen. Klik in de rechterbovenhoek van Dynamic Media Classic op Instellen > Voorinstellingen voor viewer om deze pagina te openen. De pagina Voorinstellingen viewer bevat opdrachten voor het toevoegen, bewerken, verwijderen en activeren van voorinstellingen van viewers.
+Aanpassing van voorinstellingen viewer - Dynamic Media Classic biedt vooraf gedefinieerde voorinstellingen voor viewers voor het afleveren van video. Deze voorinstellingen bepalen de vormgeving van de viewer en de werking van de afspeelbesturingselementen. Beheerders kunnen voorinstellingen voor viewers toevoegen en beheren via de pagina Voorinstellingen voor viewer om de videoviewer aan te passen. Klik in de rechterbovenhoek van Dynamic Media Classic op Instellen > Voorinstellingen voor viewer om deze pagina te openen. De pagina Voorinstellingen viewer bevat opdrachten voor het toevoegen, bewerken, verwijderen en activeren van voorinstellingen van viewers.
 
 Zie [Werken met voorinstellingen voor videoviewers](previewing-videos-video-viewer.md#working_with_video_viewer_presets).
 
