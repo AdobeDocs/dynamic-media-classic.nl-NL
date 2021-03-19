@@ -7,10 +7,12 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/master_files
 discoiquuid: 47a23980-2886-4da3-ab2d-6cd50e00d188
+feature: Dynamic Media Classic, beheer van bedrijfsmiddelen
+role: Zakelijke praktiserer
 translation-type: tm+mt
-source-git-commit: ca12c96d3a76cfa52fd930d190476cb6fc4f4ac7
+source-git-commit: e727c1b5fb43c7def842ff1bafcc8b3ef3437cde
 workflow-type: tm+mt
-source-wordcount: '550'
+source-wordcount: '557'
 ht-degree: 0%
 
 ---
@@ -27,7 +29,7 @@ Zie ook [Een alias voor een afbeelding maken](adjusting-image.md#creating_an_ali
 1. Gebruik de opdrachten aan de rechterkant van het venster Editor aanpassen om de afbeelding aan te passen:
 
    * Gebruik de opties voor spiegelen om een afbeelding horizontaal of verticaal om te draaien.
-   * Gebruik de schuifregelaar Roteren om de afbeelding te roteren. U kunt waarden invoeren in het veld Roteren om een afbeelding te roteren. Bij een positieve waarde wordt de waarde rechtsom geroteerd; negatieve waarden roteren linksom.
+   * Gebruik de schuifregelaar Roteren om de afbeelding te roteren. U kunt waarden invoeren in het veld Roteren om een afbeelding te roteren. Met een positieve waarde wordt de waarde rechtsom geroteerd; negatieve waarden roteren linksom.
    * Gebruik de schuifregelaar Vervagen of het bijbehorende vak om een afbeelding te vervagen. Hoe hoger de waarde, hoe vager de afbeelding wordt.
    * Gebruik de opties Contrast, Helderheid, Verzadiging, Kleurtoon en Kleurbalans om de kleur en helderheid aan te passen. Deze effecten zijn cumulatief. Wijzigingen in de instellingen voor Magenta/Groen worden bijvoorbeeld toegevoegd aan wijzigingen die zijn aangebracht in de instellingen voor Kleurtoon.
    * Gebruik de opties voor Vullen met kleur om een afbeelding te vullen met behoud van schaduwen en hooglichten. Wijzigingen in de opties voor Vullen met kleur zijn ook cumulatief. Kies het menu Helderheid en kies Geen compensatie om automatische helderheidscompensatie uit te schakelen. Stel de contrastwaarde in op 0 om het contrastbereik van de oorspronkelijke afbeelding te behouden of geef een contrastbereik op met een waarde groter dan 0. Bij een waarde van 100 wordt het contrast gemaximaliseerd. De typische waarden liggen in het bereik 30-70.
