@@ -1,14 +1,16 @@
 ---
 title: 'Bestanden publiceren '
-description: U publiceert uw middelen naar Dynamic Media Image Servers. U kunt elementen eenmalig publiceren of ervoor zorgen dat Dynamic Media Classic elementen volgens een terugkerend schema publiceert. Nadat uw elementen zijn gepubliceerd, kunt u ze ter beschikking stellen. U kunt de URL-aanroepen van Dynamic Media Classic kopiëren en toevoegen aan uw website of toepassing.
+description: '"Leer hoe u uw middelen publiceert naar Dynamic Media Image Servers. U kunt elementen eenmalig publiceren of ervoor zorgen dat Dynamic Media Classic elementen volgens een terugkerend schema publiceert. Nadat uw activa worden gepubliceerd, zijn zij beschikbaar aan u voor levering. U kunt de URL-aanroepen van Dynamic Media Classic kopiëren en toevoegen aan uw website of toepassing."'
 contentOwner: admin
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/upload_and_publish_assets
+feature: Dynamic Media Classic, beheer van bedrijfsmiddelen
+role: Zakelijke praktiserer
 translation-type: tm+mt
-source-git-commit: 2f7366a77c0fa5f3953721cdd5328123d9c2a052
+source-git-commit: e727c1b5fb43c7def842ff1bafcc8b3ef3437cde
 workflow-type: tm+mt
-source-wordcount: '1706'
+source-wordcount: '1715'
 ht-degree: 0%
 
 ---
@@ -16,9 +18,9 @@ ht-degree: 0%
 
 # Bestanden publiceren {#publishing-files}
 
-U publiceert uw middelen naar Dynamic Media Image Servers. U kunt elementen eenmalig publiceren of ervoor zorgen dat Dynamic Media Classic elementen volgens een terugkerend schema publiceert. Nadat uw elementen zijn gepubliceerd, kunt u ze ter beschikking stellen. U kunt de URL-aanroepen van Dynamic Media Classic kopiëren en toevoegen aan uw website of toepassing.
+U publiceert uw middelen naar Dynamic Media Image Servers. U kunt elementen eenmalig publiceren of ervoor zorgen dat Dynamic Media Classic elementen volgens een terugkerend schema publiceert. Nadat uw activa worden gepubliceerd, zijn zij beschikbaar aan u voor levering. U kunt de URL-aanroepen van Dynamic Media Classic kopiëren en toevoegen aan uw website of toepassing.
 
-Dynamic Media Classic ondersteunt nu de levering van alle afbeeldingen en video via HTTP/2. Dit wil zeggen dat er een gepubliceerde URL of insluitcode voor de afbeelding of video beschikbaar is om te worden geïntegreerd met elke toepassing die een gehoste element accepteert. Dat gepubliceerde element wordt vervolgens geleverd via het HTTP/2-protocol. Deze leveringsmethode verbetert de manier waarop browsers en servers communiceren, waardoor u betere responstijd en laadtijden voor al uw Dynamic Media Classic-middelen krijgt. Zie [HTTP2 Levering van inhoud FAQ](https://experienceleague.adobe.com/docs/experience-manager-65/assets/dynamic/http2.html#dynamic).
+Dynamic Media Classic ondersteunt nu de levering van alle afbeeldingen en video via HTTP/2. Dit wil zeggen dat er een gepubliceerde URL of insluitcode voor de afbeelding of video beschikbaar is om te worden geïntegreerd met elke toepassing die een gehoste element accepteert. Dat gepubliceerde element wordt vervolgens geleverd via het HTTP/2-protocol. Deze leveringsmethode verbetert de manier waarop browsers en servers communiceren, waardoor u betere responstijd en laadtijden voor al uw Dynamic Media Classic-middelen krijgt. Zie [HTTP2 Veelgestelde vragen over het leveren van inhoud](https://experienceleague.adobe.com/docs/experience-manager-65/assets/dynamic/http2.html#dynamic).
 
 ## Publiceren na uploaden {#publish-after-uploading}
 
