@@ -7,11 +7,13 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/upload_and_publish_assets
 discoiquuid: d53ae5dd-8daf-4d87-b9a6-3039bad30538
+feature: Dynamic Media Classic, beheer van bedrijfsmiddelen
+role: Zakelijke praktiserer
 translation-type: tm+mt
-source-git-commit: ca12c96d3a76cfa52fd930d190476cb6fc4f4ac7
+source-git-commit: e727c1b5fb43c7def842ff1bafcc8b3ef3437cde
 workflow-type: tm+mt
-source-wordcount: '1598'
-ht-degree: 1%
+source-wordcount: '1605'
+ht-degree: 0%
 
 ---
 
@@ -40,7 +42,7 @@ Taken worden in de volgende categorieën op het tabblad Historie van de pagina T
 
 **** TotaalHet aantal overgedragen bestanden.
 
-**W (waarschuwingen)** Het aantal waarschuwingen in de taak (indien aanwezig). Waarschuwingen geven problemen aan met de taak die geen invloed hadden op de algehele voltooiing van de taak. Deze waarschuwingen kunnen meestal worden genegeerd omdat ze worden gerapporteerd over verborgen bestanden. Bestanden .DS_store (Macintosh) en Thumbs.db (Windows) bevatten bijvoorbeeld informatie over het weergeven van afbeeldingsbestanden voor gebruikers. Waarschuwingsgegevens voor deze bestanden kunnen echter worden genegeerd omdat ze geen betrekking hebben op de manier waarop deze bestanden in Dynamic Media Classic worden gebruikt. U kunt dubbelklikken op een taaknaam voor gedetailleerde informatie over waarschuwingen.
+**W (waarschuwingen)** Het aantal waarschuwingen in de taak (indien aanwezig). Waarschuwingen geven problemen aan met de taak die geen invloed hadden op de algehele voltooiing van de taak. Deze waarschuwingen kunnen meestal worden genegeerd omdat ze worden gerapporteerd over verborgen bestanden. Bestanden .DS_store (Macintosh) en Thumbs.db (Windows) bevatten bijvoorbeeld informatie over het weergeven van afbeeldingsbestanden aan gebruikers. Waarschuwingsgegevens voor deze bestanden kunnen echter worden genegeerd omdat ze geen betrekking hebben op de manier waarop deze bestanden in Dynamic Media Classic worden gebruikt. U kunt dubbelklikken op een taaknaam voor gedetailleerde informatie over waarschuwingen.
 
 **E (fouten)** Hier wordt het aantal eventuele fouten in de taak weergegeven. U kunt dubbelklikken op een taaknaam voor gedetailleerde informatie over fouten.
 
