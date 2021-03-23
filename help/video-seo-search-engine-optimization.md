@@ -10,7 +10,7 @@ discoiquuid: 34ecd868-775f-452b-b26e-d139f0e280ae
 feature: Dynamic Media Classic
 role: Beheerder
 translation-type: tm+mt
-source-git-commit: e727c1b5fb43c7def842ff1bafcc8b3ef3437cde
+source-git-commit: 3def4a02eda8dc36f2811b3d4f0e870fff1994e4
 workflow-type: tm+mt
 source-wordcount: '982'
 ht-degree: 0%
@@ -22,9 +22,9 @@ ht-degree: 0%
 
 SEO is het proces om het volume van verkeer aan een Website van onderzoeksmotoren te verbeteren. Terwijl zoekmachines uitblinken in het verzamelen van informatie over op tekst gebaseerde inhoud, kunnen ze geen informatie over video adequaat verkrijgen tenzij deze informatie aan hen wordt verstrekt.
 
-Met Dynamic Media Classic Video SEO kunt u videometagegevens gebruiken om zoekprogramma&#39;s beschrijvingen van uw video&#39;s te geven. Met Dynamic Media Classic kunt u video-items en MRSS-feeds maken. Dit zijn standaard XML-bestanden voor het verzenden van videogegevens naar zoekprogramma&#39;s:
+Met Dynamic Media Classic Video SEO kunt u videometagegevens toepassen om zoekprogramma&#39;s beschrijvingen van uw video&#39;s te bieden. Met Dynamic Media Classic kunt u video-items en MRSS-feeds maken. Deze standaard XML-bestanden worden gebruikt voor het verzenden van videogegevens naar zoekprogramma&#39;s:
 
-**Video** SitemapHiermee wordt Google precies aangegeven waar en wat de video-inhoud op een site is. Daarom kunnen video&#39;s volledig worden doorzocht op Google. Een videositemap kan bijvoorbeeld de actieve tijd en de categorieën video&#39;s opgeven. Ga naar https://www.google.com/support/webmasters/bin/answer.py?answer=80471 voor informatie over videodemo&#39;s.
+**Video** SitemapHiermee wordt Google precies aangegeven waar en wat de video-inhoud op een site is. Op Google kunnen dus volledig naar video&#39;s worden gezocht. Een videositemap kan bijvoorbeeld de actieve tijd en de categorieën video&#39;s opgeven. Ga naar https://www.google.com/support/webmasters/bin/answer.py?answer=80471 voor informatie over videodemo&#39;s.
 
 **mRSS-** feed (Media werkelijk eenvoudige syntaxis) Gebruikt door uitgevers van inhoud om mediabestanden naar Yahoo te sturen! Video zoeken. Zie https://www.rssboard.org/media-rss voor informatie over mRSS-feeds.
 
@@ -62,7 +62,7 @@ Voor de drop-down lijst van de Wijze van de Generatie, kies een rapportwijze:
 
 **Beide** maken beide typen XML-bestanden.
 
-**** UitKies deze optie om te stoppen met het genereren van video-items en een Media RSS-feeds (mRSS).
+**** UitKies deze optie om het genereren van videositemaps en Media RSS-feeds (mRSS) te stoppen.
 
 Kies in de vervolgkeuzelijst Automatische modus/Handmatige modus of u automatisch of handmatig wilt genereren:
 
@@ -74,7 +74,7 @@ Kies in de vervolgkeuzelijst Automatische modus/Handmatige modus of u automatisc
 
 **Markeren voor** PublishMarks voor het publiceren van het XML-bestand dat wordt gegenereerd.
 
-**Partial** GenerationSearch engines toestaan kan een XML-bestand afwijzen als het niet alle metagegevens voor alle video&#39;s bevat. Met deze optie wordt het XML-bestand gegenereerd, zelfs als er voor bepaalde video&#39;s geen metagegevens beschikbaar zijn. Een waarschuwing wordt geregistreerd op het scherm van het Rapport. Kies deze optie als u het XML-bestand wilt exporteren en de ontbrekende gegevens handmatig wilt verwerken.
+**Partiële** GenerationSearch-engines toestaan kan een XML-bestand afwijzen als het geen volledige metagegevens voor alle video&#39;s bevat. Met deze optie wordt het XML-bestand gegenereerd, zelfs als er voor bepaalde video&#39;s geen metagegevens beschikbaar zijn. Een waarschuwing wordt geregistreerd op het scherm van het Rapport. Kies deze optie als u het XML-bestand wilt exporteren en de ontbrekende gegevens handmatig wilt verwerken.
 
 ### Generatie-instellingen kiezen {#choosing-generation-settings}
 
@@ -93,7 +93,7 @@ In het gebied Instellingen genereren worden invoervelden voor de videospecificat
 
 >[!NOTE]
 >
->U moet de videospecificaties of de MRSS-feed publiceren voordat u deze kunt verzenden naar zoekprogramma&#39;s. Video Sitemap en Media RSS (mRSS) de voederdossiers worden opgeslagen in de wortelomslag van het bedrijf. Markeer deze XML-bestanden voor publicatie, indien nodig, en klik op Publiceren.
+>Publiceer de videospecificaties of de MRSS-feed voordat u deze kunt verzenden naar zoekprogramma&#39;s. Video Sitemap en Media RSS (mRSS) de voederdossiers worden opgeslagen in de wortelomslag van het bedrijf. Markeer deze XML-bestanden voor publicatie, indien nodig, en klik op Publiceren.
 
 ## Video Sitemap- en MRSS-Feed-bestanden verzenden naar zoekmachines {#submitting-video-sitemap-and-mrss-feed-files-to-search-engines}
 
