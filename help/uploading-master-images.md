@@ -10,9 +10,9 @@ discoiquuid: 8c94bafc-94cc-496f-a394-a945cd7b02cf
 feature: Dynamic Media Classic, beheer van bedrijfsmiddelen
 role: Zakelijke praktiserer
 translation-type: tm+mt
-source-git-commit: e727c1b5fb43c7def842ff1bafcc8b3ef3437cde
+source-git-commit: 3def4a02eda8dc36f2811b3d4f0e870fff1994e4
 workflow-type: tm+mt
-source-wordcount: '250'
+source-wordcount: '249'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Master afbeeldingen uploaden{#uploading-master-images}
 
-Voordat u afbeeldingen uploadt naar Dynamic Media Classic, moet u ervoor zorgen dat ze de hoogste kwaliteit hebben en de beste indeling hebben. Dynamic Media Classic raadt aan om afbeeldingen van hoge kwaliteit te uploaden met een voldoende aantal pixels (van 1500 tot 2000 pixels in de lange afmeting). Dit maakt elke vereiste dynamische beeldbewerking mogelijk.
+Voordat u afbeeldingen uploadt naar Dynamic Media Classic, moet u ervoor zorgen dat ze de hoogste kwaliteit hebben en de beste indeling hebben. Dynamic Media Classic raadt aan om afbeeldingen van hoge kwaliteit te uploaden met een voldoende aantal pixels (van 1500 tot 2000 pixels in de lange afmeting). Op deze manier kunt u alle vereiste dynamische afbeeldingen maken.
 
 Zie [Bestanden uploaden](uploading-files.md#uploading_files) voor meer informatie over het uploaden van afbeeldingen.
 
