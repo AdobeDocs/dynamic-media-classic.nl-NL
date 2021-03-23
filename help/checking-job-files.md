@@ -10,10 +10,10 @@ discoiquuid: d53ae5dd-8daf-4d87-b9a6-3039bad30538
 feature: Dynamic Media Classic, beheer van bedrijfsmiddelen
 role: Zakelijke praktiserer
 translation-type: tm+mt
-source-git-commit: e727c1b5fb43c7def842ff1bafcc8b3ef3437cde
+source-git-commit: 3def4a02eda8dc36f2811b3d4f0e870fff1994e4
 workflow-type: tm+mt
-source-wordcount: '1605'
-ht-degree: 0%
+source-wordcount: '1584'
+ht-degree: 1%
 
 ---
 
@@ -26,23 +26,23 @@ Wanneer u elementen uploadt, wordt een draaiend pictogram weergegeven naast het 
 
 >[!NOTE]
 >
->Een lijst met onlangs gepubliceerde taken is ook beschikbaar op de pagina Recente activiteiten. Klik op Recent op de globale navigatiebalk om deze pagina te openen.
+>Een lijst met onlangs gepubliceerde taken is ook beschikbaar op de pagina Recente activiteiten. Klik op **[!UICONTROL Recent]** op de algemene navigatiebalk om deze pagina te openen.
 
 ## De pagina Taken {#about-the-jobs-page}
 
-Selecteer de knoop van Banen op de Globale bar van de Navigatie om de pagina van Banen te openen. Standaard worden taken weergegeven die beginnen met de meest recente.
+Selecteer **[!UICONTROL Jobs]** op de Algemene bar van de Navigatie om de pagina van Banen te openen. Standaard worden taken weergegeven die beginnen met de meest recente.
 
 Taken worden in de volgende categorieën op het tabblad Historie van de pagina Taken vermeld:
 
 **Taaktype** Een pictogram geeft het taaktype aan: Uploaden en publiceren zijn de meest voorkomende taaktypen.
 
-**TaaknaamDe** naam van de taak. De naam bevat het door de gebruiker ingevoerde gedeelte van de naam en de datum- en tijdstempel.
+**TaaknaamDe** naam van de taak. De naam bevat het door de gebruiker ingevoerde gedeelte van de naam en de datum en tijd.
 
 **** StartedWhen the job started.
 
 **** TotaalHet aantal overgedragen bestanden.
 
-**W (waarschuwingen)** Het aantal waarschuwingen in de taak (indien aanwezig). Waarschuwingen geven problemen aan met de taak die geen invloed hadden op de algehele voltooiing van de taak. Deze waarschuwingen kunnen meestal worden genegeerd omdat ze worden gerapporteerd over verborgen bestanden. Bestanden .DS_store (Macintosh) en Thumbs.db (Windows) bevatten bijvoorbeeld informatie over het weergeven van afbeeldingsbestanden aan gebruikers. Waarschuwingsgegevens voor deze bestanden kunnen echter worden genegeerd omdat ze geen betrekking hebben op de manier waarop deze bestanden in Dynamic Media Classic worden gebruikt. U kunt dubbelklikken op een taaknaam voor gedetailleerde informatie over waarschuwingen.
+**W (waarschuwingen)** Het aantal waarschuwingen in de taak (indien aanwezig). Waarschuwingen geven problemen aan met de taak die geen invloed hadden op de algehele voltooiing van de taak. Deze waarschuwingen kunnen meestal worden genegeerd omdat ze worden gerapporteerd over verborgen bestanden. `.DS_store`-bestanden (Macintosh) en Thumbs.db-bestanden (Windows®) bevatten bijvoorbeeld informatie over het weergeven van afbeeldingsbestanden voor gebruikers. Waarschuwingsgegevens voor deze bestanden kunnen echter worden genegeerd omdat ze geen betrekking hebben op de manier waarop deze bestanden in Dynamic Media Classic worden gebruikt. U kunt dubbelklikken op een taaknaam voor gedetailleerde informatie over waarschuwingen.
 
 **E (fouten)** Hier wordt het aantal eventuele fouten in de taak weergegeven. U kunt dubbelklikken op een taaknaam voor gedetailleerde informatie over fouten.
 
@@ -50,7 +50,7 @@ Taken worden in de volgende categorieën op het tabblad Historie van de pagina T
 
 **** StatusGeeft de status van de taak weer.
 
-**** DoelVoor uploadtaken: de bedrijfsnaam en de map waarnaar de bestanden zijn geüpload. Deze categorie is niet van toepassing op publicatietaken.
+**** DoelVoor uploadtaken, de bedrijfsnaam en de map waarnaar de bestanden zijn geüpload. Deze categorie is niet van toepassing op publicatietaken.
 
 **Verzonden** doorLists die de elementen hebben geüpload.
 
@@ -62,7 +62,7 @@ Gebruik deze technieken om taken te sorteren of uw weergave van het tabblad Hist
 
 **** SorterenSelecteer een kolomnaam om de lijst op een bepaalde kolom te sorteren. U kunt de schakelaar naast de kolomnaam selecteren om in dalende of stijgende orde te sorteren.
 
-**Date** RangeSelecteer het menu Datumbereik en kies een optie om de lijst met taken te beperken tot de huidige datum, de vorige week of de vorige maand. Kies Aangepast datumbereik om een specifiek datumbereik in te voeren.
+**Date** RangeSelecteer het menu Datumbereik en kies een optie om de lijst met taken te beperken tot de huidige datum, de vorige week of de vorige maand. Kies Aangepast datumbereik en voer een specifiek datumbereik in.
 
 **TaaktypeSelecteer het menu Taaktype en kies Publiceren of Uploaden om de lijst te beperken en taken te publiceren of te uploaden.** Kies Alles om beide typen taken weer te geven.
 
@@ -116,27 +116,27 @@ In deze tabel worden de tijdtoename, de toegestane waarden en de jokertekens wee
 
 | Tijdtoenamen | Toegestane waarden | Opmerkingen | Ondersteunde jokertekens |
 |--- |--- |--- |--- |
-| Seconden | 0-59 |  | , - * / |
-| Minuten | 0-59 |  | , - * / |
-| Uren | 0-23 | Let op het gebruik van een 24-uurs klok. | , - * / |
-| Dag van de maand | 1-31 | U kunt geen numerieke waarde opgeven voor zowel &quot;dag van de maand&quot; als &quot;dag van de week&quot;. Een van deze velden moet een ? jokerteken. | , - * / ? L C |
-| Maand | 1-12 of jan, feb, mrt, apr, mei, jun, jul, aug, sep, sept, okt, nov, dec | Waarden zijn hoofdlettergevoelig. | , - * / |
-| Dag van de week | Mon, Tue, Wed, Thu, Fri, Zat, Sun | Waarden zijn hoofdlettergevoelig. U kunt geen numerieke waarde opgeven voor zowel &quot;dag van de maand&quot; als &quot;dag van de week&quot;. Een van deze velden moet een ? jokerteken. | , - * / ? L C # |
-| Jaar (optioneel) | Leeg of 1970-2099 |  | , - * / |
+| Seconden | 0-59 |  | `, - * /` |
+| Minuten | 0-59 |  | `, - * /` |
+| Uren | 0-23 | Let op het gebruik van een 24-uurs klok. | `, - * /` |
+| Dag van de maand | 1-31 | U kunt geen numerieke waarde opgeven voor zowel &quot;dag van de maand&quot; als &quot;dag van de week&quot;. Een van deze velden moet een jokerteken `?` gebruiken. | `, - * / ? L C` |
+| Maand | 1-12 of jan, feb, mrt, apr, mei, jun, jul, aug, sep, sept, okt, nov, dec | Waarden zijn hoofdlettergevoelig. | `, - * /` |
+| Dag van de week | Mon, Tue, Wed, Thu, Fri, Zat, Sun | Waarden zijn hoofdlettergevoelig. U kunt geen numerieke waarde opgeven voor zowel &quot;dag van de maand&quot; als &quot;dag van de week&quot;. Een van deze velden moet een ? jokerteken. | `, - * / ? L C #` |
+| Jaar (optioneel) | Leeg of 1970-2099 |  | `, - * /` |
 
 
 In deze tabel worden de jokertekens beschreven die zijn toegestaan in het vak Regel en hoe u deze kunt gebruiken:
 
 | Jokerteken | Naam | Beschrijving |
 |--- |--- |--- |
-| * | Sterretje | Alle waarden (bijvoorbeeld &quot;elke minuut&quot;). |
-| ? | Vraagteken | Geen specifieke waarde (bijvoorbeeld &quot;een minuut binnen het opgegeven uur&quot;). |
-| , | Komma | Aanvullende waarden (bijvoorbeeld &quot;maandag en woensdag&quot;). |
-| - | Afbreekstreepje | Waardenbereik (bijvoorbeeld &quot;Maandag tot vrijdag&quot;). |
-| / | slash | Toename (bijvoorbeeld &quot;om de 15 minuten&quot;). |
-| L | Kapitaal L | Laatste &quot;dag van de maand&quot; of &quot;dag van de week&quot; (alleen beschikbaar voor deze velden). Als de maand bijvoorbeeld januari is, plant een L-waarde voor het veld &quot;dag van de maand&quot; de taak voor 31 januari. Voor het veld &quot;dag van de week&quot; kunt u dit teken alleen invoeren om de taak op zaterdag te plannen. U kunt dit met een getal (bijvoorbeeld 6L) gebruiken om de laatste vrijdag van de maand op te geven. Geef geen L op met de jokertekens voor komma&#39;s of afbreekstreepjes. |
-| Aantal | Nummerteken | &quot;Nde&quot; weekdag van de maand (alleen beschikbaar voor het veld &quot;dag van de week&quot;).Zo geeft 6#3 in het veld &quot;dag van de week&quot; de derde vrijdag van de maand aan. De 6 staat voor &quot;Vrijdag&quot; (de zesde dag van de week) en de 3 staat voor het derde exemplaar in de maand. |
-| C | # Kapitaal C | Eerste kalender &quot;dag van de maand&quot; of &quot;dag van de week&quot; (alleen beschikbaar voor deze velden). Als u bijvoorbeeld de waarde 1C opgeeft voor &quot;dag van de maand&quot;, wordt de eerste dag in de kalender gepland die op of na de vijfde dag plaatsvindt. Voor het veld &quot;dag van de week&quot; geeft u 1C op, die de eerste dag in de kalender aangeeft die op of na zondag plaatsvindt. |
+| `*` | Sterretje | Alle waarden (bijvoorbeeld &quot;elke minuut&quot;). |
+| `?` | Vraagteken | Geen specifieke waarde (bijvoorbeeld &quot;een minuut binnen het opgegeven uur&quot;). |
+| `,` | Komma | Overige waarden (bijvoorbeeld &quot;maandag en woensdag&quot;). |
+| `-` | Afbreekstreepje | Waardenbereik (bijvoorbeeld &quot;Maandag tot vrijdag&quot;). |
+| `/` | slash | Toename (bijvoorbeeld &quot;om de 15 minuten&quot;). |
+| `L` | Kapitaal L | Laatste &quot;dag van de maand&quot; of &quot;dag van de week&quot; (alleen beschikbaar voor deze velden). Als de maand bijvoorbeeld januari is, plant een L-waarde voor het veld &quot;dag van de maand&quot; de taak voor 31 januari. Voor het veld &quot;Dag van de week&quot; kunt u dit teken alleen invoeren om de taak op zaterdag te plannen. U kunt het met een aantal (bijvoorbeeld, `6L`) gebruiken om de laatste Vrijdag van de maand te specificeren. Geef `L` niet op met de jokertekens voor komma&#39;s of afbreekstreepjes. |
+| `#` | Nummerteken | &quot;Nde&quot; weekdag van de maand (alleen beschikbaar voor het veld &quot;Dag van de week&quot;). `6#3` in het veld &quot;dag van de week&quot; geeft bijvoorbeeld de derde vrijdag van de maand aan. De `6` geeft &quot;Vrijdag&quot; aan (de zesde dag van de week) en `3` geeft het derde exemplaar in de maand aan. |
+| `C` | # Kapitaal C | Eerste kalender &quot;dag van de maand&quot; of &quot;dag van de week&quot; (alleen beschikbaar voor deze velden). Als u bijvoorbeeld een waarde van `1C` opgeeft voor &quot;dag van de maand&quot;, wordt de eerste dag in de kalender gepland die op of na de vijfde dag plaatsvindt. Voor het veld &quot;dag van de week&quot; typt u `1C` de eerste dag in de kalender die op of na zondag plaatsvindt. |
 
 In deze lijst staan voorbeelden van tijdintervallen in het vak Regel:
 
@@ -153,6 +153,6 @@ In deze lijst staan voorbeelden van tijdintervallen in het vak Regel:
 
 ## Een upload- of publicatietaak gebruiken als trigger {#using-an-upload-or-publish-job-as-a-trigger}
 
-Wanneer u elementen uploadt via FTP of een publicatietaak uitvoert, kunt u een volgende taak plannen die moet beginnen zodra het uploaden is voltooid. (Als andere taken volgens planning op dat moment moeten beginnen, wordt de taak die u hier instelt, in de wachtrij geplaatst.) De nieuwe baan verzendt een bericht naar het adres u specificeert zodat de code bij die plaats kan worden teweeggebracht. Deze opvolguploadtaak krijgt dezelfde naam als de huidige uploadtaak, maar met het voorvoegsel _Pub.
+Wanneer u elementen uploadt via FTP of een publicatietaak uitvoert, kunt u een volgende taak plannen die moet beginnen wanneer het uploaden is voltooid. (Als andere taken volgens de planning moeten beginnen, wordt de taak die u hier instelt, in de wachtrij geplaatst.) De nieuwe baan verzendt een bericht naar het adres u specificeert zodat de code bij die plaats kan worden teweeggebracht. Deze opvolguploadtaak krijgt dezelfde naam als de huidige uploadtaak, maar met het voorvoegsel _Pub.
 
 Selecteer Geavanceerd op de pagina Uploaden of Publiceren als u een upload- of publicatietaak wilt laten activeren voor een andere taak. Voer vervolgens de URL in het tekstveld HTTP-kennisgeving in.
