@@ -10,9 +10,9 @@ discoiquuid: 5414b4f5-6e05-468c-8725-385423596342
 feature: Dynamic Media Classic, Asset Management, metagegevens
 role: Zakelijke praktiserer
 translation-type: tm+mt
-source-git-commit: e727c1b5fb43c7def842ff1bafcc8b3ef3437cde
+source-git-commit: 3def4a02eda8dc36f2811b3d4f0e870fff1994e4
 workflow-type: tm+mt
-source-wordcount: '2264'
+source-wordcount: '2246'
 ht-degree: 0%
 
 ---
@@ -30,7 +30,7 @@ Zie [www.adobe.com/go/learn_s7_xmp_en](https://www.adobe.com/go/learn_s7_xmp_en)
 
 ## Metagegevens {#view-metadata} weergeven
 
-Als u de metagegevens van een element wilt weergeven, opent u het element in de gedetailleerde weergave en klikt u op het deelvenster Metagegevens. Kies vervolgens een optie in het menu Weergave metagegevens om een set metagegevensvelden te selecteren. Dynamic Media Classic biedt de volgende weergaven van metagegevens:
+Als u de metagegevens van een element wilt weergeven, opent u het element in de gedetailleerde weergave en tikt u op het deelvenster Metagegevens. Als u een set metagegevensvelden wilt selecteren, kiest u een optie in het menu Weergave metagegevens. Dynamic Media Classic biedt de volgende weergaven van metagegevens:
 
 * **Compacte**
 ViewA basislijst met waarden.
@@ -59,7 +59,7 @@ Beheerders kunnen weergaven van metagegevens maken. Deze weergaven worden ook we
 
 ## Trefwoorden {#add-or-edit-keywords} toevoegen of bewerken
 
-Naast metagegevens kunt u ook trefwoorden gebruiken als hulp bij het zoeken en beheren van uw elementen.
+Naast metagegevens kunt u ook trefwoorden gebruiken voor het zoeken en beheren van uw elementen.
 
 Als u tijdens deze sessie trefwoorden hebt toegevoegd aan andere bestanden of als u trefwoorden uit de lijst hebt verwijderd, worden deze weergegeven in de tabel Suggesties voor trefwoorden.
 
@@ -98,20 +98,20 @@ Meer informatie over gestandaardiseerde eigenschappen vindt u op: https://www.ad
 Houd rekening met het volgende wanneer u verschillende typen metagegevens identificeert die u wilt importeren:
 
 * Door de gebruiker gedefinieerde velden worden aangeduid met hun naam, zoals deze zijn gemaakt in Setup > Setup > Metagegevens > Door de gebruiker gedefinieerde velden. Gebruik de functie Bestanden genereren om een lijst met alle gedefinieerde PDF&#39;s in de juiste importindeling op te halen.
-* XMP eigenschappen van metagegevens moeten het gerelateerde XMP-voorvoegsel vóór de naam (eigenschap-) hebben. Een dubbele punt scheidt het voorvoegsel en de naam. U vindt het XMP voorvoegsel in Setup > Application Setup > Metadata > Metadata Schema editor. De technische namen zijn te vinden in documentatie van verwant XMP schema. Namen van XMP eigenschappen worden niet weergegeven in de functie Bestand genereren.
-* Eigenschappen van Metagegevensschema moeten het verwante voorvoegsel vóór de naam (eigenschap-) hebben. Een dubbele punt scheidt het voorvoegsel en de naam. Het voorvoegsel en de eigenschapnamen worden gedefinieerd in de editor voor het metagegevensschema. Namen van eigenschappen van het metagegevensschema worden niet weergegeven in de functie Bestand genereren.
+* XMP eigenschappen van metagegevens moeten het gerelateerde XMP-voorvoegsel vóór de naam (eigenschap-) hebben. Een dubbele punt scheidt het voorvoegsel en de naam. U vindt het XMP voorvoegsel in Setup > Application Setup > Metadata > Metadata Schema editor. De technische namen zijn te vinden in documentatie van verwant XMP schema. XMP eigenschappen worden niet weergegeven in de functie Bestand genereren.
+* Eigenschappen van Metagegevensschema moeten het verwante voorvoegsel vóór de naam (eigenschap-) hebben. Een dubbele punt scheidt het voorvoegsel en de naam. Het voorvoegsel en de eigenschapnamen worden gedefinieerd in de editor voor het metagegevensschema. Namen van metagegevensschema-eigenschappen worden niet weergegeven in de functie Bestand genereren.
 
 Bijvoorbeeld: De XMP eigenschap voor trefwoorden is het XMP schema &quot;Dublin Core&quot; met het voorvoegsel &quot;dc&quot; en &quot;subject&quot; is de technische XMP naam. Het voorvoegsel en de technische XMP worden gecombineerd in de volledige eigenschapnaam &quot;dc:subject&quot;. In de indeling voor het importeren van XML-metagegevens moet &quot;dc.subject&quot; de naam van de eigenschap zijn. In de door tabs gescheiden importindeling moet dit de kolomkop zijn.
 
 **Trefwoorden importeren**
 
-Trefwoorden kunnen worden geïmporteerd als door komma&#39;s gescheiden lijsten. Als een komma in een van de afzonderlijke waarden voorkomt, moet deze worden beschermd door een backslash (\). Een letterlijke backslash is de gebruikelijke dubbele backslash (\\).
+Trefwoorden kunnen worden geïmporteerd als een lijst met door komma&#39;s gescheiden waarden. Als een komma in een van de afzonderlijke waarden voorkomt, moet deze worden beschermd door een backslash (\). Een letterlijke backslash is de gebruikelijke dubbele backslash (\\).
 
 Met een bestand voor het importeren van metagegevens met de waarde &quot;Hello\, World!,back\\slash,foo&quot; voor &quot;dc:subject&quot; worden bijvoorbeeld drie XMP trefwoorden voor het element ingesteld: &quot;Hello, World!&quot;, &quot;back\slash&quot; en &quot;foo.&quot;
 
 **XMP- en metagegevensschema-XMP importeren**
 
-De XML-import accepteert alleen geldige XML. Bij het importeren van XMP- of metagegevensschemavelden wordt het naamruimtevoorvoegsel toegevoegd en gedraagt dit zich als een XMP-naamruimte. Deze naamruimte moet bijvoorbeeld in de tag op hoofdniveau worden gedeclareerd.
+De XML-import accepteert alleen geldige XML. Bij het importeren van XMP- of metagegevensschemavelden wordt het naamruimtevoorvoegsel toegevoegd en gedraagt het zich hier als een XMP-naamruimte. Deze naamruimte moet worden gedeclareerd. Bijvoorbeeld in de tag op hoofdniveau.
 
 Bijvoorbeeld:
 
@@ -131,11 +131,11 @@ U kunt metagegevens voor meerdere bestanden importeren door de metagegevens in t
 
 Zorg ervoor dat de gegevens in het door tabs gescheiden of XML-bestand de juiste indeling hebben. Voer in de eerste rij het veld Id in, gevolgd door de namen van de metagegevensvelden die moeten worden gewijzigd. Voer in elke volgende rij de naam van een element-id in, gevolgd door metagegevenswaarden. Velden die niet zijn opgenomen in het door tabs gescheiden of XML-bestand, worden niet gewijzigd.
 
-Klik op de knop Uploaden op de algemene navigatiebalk en selecteer in het scherm Taken het tabblad Via FTP om de metagegevens te importeren. Klik vervolgens op Taakopties. Kies in het dialoogvenster Taakopties uploaden de optie Metagegevensbestanden verwerken.
+Klik op de knop Uploaden op de algemene navigatiebalk. Als u de metagegevens wilt importeren, selecteert u op het scherm Taken het tabblad **[!UICONTROL Via FTP]** en klikt u op **[!UICONTROL Job Options]**. Kies in het dialoogvenster Taakopties uploaden de optie Metagegevensbestanden verwerken.
 
 ## Naam van id&#39;s wijzigen in batch met metagegevens {#batch-rename-ids-using-metadata}
 
-Met metagegevens die zijn geïmporteerd uit een door tabs gescheiden bestand of XML-bestand, kunt u de naam van Klassieke Dynamic Media-id&#39;s wijzigen. De geïmporteerde metagegevens worden alleen toegepast op de afbeeldingen die in het metagegevensbestand zelf zijn opgegeven. Het maakt niet uit of afbeeldingen zijn geselecteerd in het deelvenster Bladeren.
+Met metagegevens die zijn geïmporteerd uit een door tabs gescheiden bestand of XML-bestand, kunt u de naam van klassieke Dynamic Media-id&#39;s wijzigen. De geïmporteerde metagegevens worden alleen toegepast op de afbeeldingen die in het metagegevensbestand zelf zijn opgegeven. Het maakt niet uit of afbeeldingen zijn geselecteerd in het deelvenster Bladeren.
 
 Als u de naam van de klassieke Dynamic Media-id van een afbeelding wilt wijzigen, voegt u een kolom met het label *newipsid* toe aan het bestand met tabs als scheidingsteken of voegt u een veld met de naam* new_vc_objectname* toe aan de XML-gegevens.
 
@@ -146,12 +146,11 @@ Bijvoorbeeld:
 | testjasje_1 | Jasje_test_1 |
 | testjasje_blauw | Jasje_test_2 |
 
-
 In het taaklogboek voor de metagegevenstaak wordt aangegeven welke id&#39;s zijn hernoemd en welke niet.
 
 ## Een sjabloon maken voor het invoeren van metagegevens om {#create-a-template-for-entering-metadata-to-upload} te uploaden
 
-Dynamic Media Classic biedt een opdracht voor het maken van een sjabloon voor het opnemen van metagegevens. Als u de sjabloon gebruikt, worden de metagegevens ingevoerd in de juiste indeling, zodat ze correct kunnen worden geüpload naar Dynamic Media Classic. Ga als volgt te werk om een sjabloon te maken voor het opnemen en importeren van metagegevens naar Dynamic Media Classic:
+Dynamic Media Classic biedt een opdracht voor het maken van een sjabloon voor het opnemen van metagegevens. Als u de sjabloon gebruikt, worden de metagegevens ingevoerd in de juiste indeling, zodat ze correct kunnen worden geüpload naar Dynamic Media Classic. Voer de volgende stappen uit om een sjabloon te maken voor het opnemen en importeren van metagegevens naar Dynamic Media Classic:
 
 1. Selecteer afbeeldingselementen met de metagegevensvelden die u voor de sjabloon wilt gebruiken.
 1. Kies Bestand > Metagegevens importeren.
@@ -166,19 +165,19 @@ Een bedrijfbeheerder kan een lijst van alle beschikbare schema&#39;s bekijken. O
 
 In eerste instantie is de lijst met algemene standaardschema&#39;s zoals XMP verborgen. Ze kunnen worden weergegeven met het selectievakje onder aan de lijst.
 
-De bedrijfbeheerder kan een nieuw douaneschema tot stand brengen, of een bestaand douaneschema uitgeven.
+De bedrijfbeheerder kan een douaneschema tot stand brengen, of een bestaand douaneschema uitgeven.
 
 U kunt de Editor Metagegevensschema gebruiken om de volgende handelingen uit te voeren:
 
 | Handeling | Beschrijving |
 |--- |--- |
-| Toevoegen | Voegt een nieuwe eigenschap toe aan het schema. Een modaal dialoogvenster verzamelt de informatie: ID, Label, Structuur en Gegevenstype. |
-| Keuzevrijheid toevoegen | Voegt een nieuwe selecteerbare keus aan een bezit met structuur Open Keus of Gesloten Keuze toe. Alle keuzevelden hebben hetzelfde type. U moet de eigenschap zelf selecteren om de knop in te schakelen. |
+| Toevoegen | Voegt een eigenschap toe aan het schema. Een modaal dialoogvenster verzamelt de informatie: ID, Label, Structuur en Gegevenstype. |
+| Keuzevrijheid toevoegen | Voegt een nieuwe selecteerbare keus aan een bezit met structuur Open Keus of Gesloten Keuze toe. Alle keuzevelden hebben hetzelfde type. Selecteer de eigenschap zelf om de knop in te schakelen. |
 | Bewerken | Bewerk het label van een eigenschap of keuzevrijheid. U kunt het label, de id en de typegegevens alleen wijzigen als dit niet mogelijk is. |
 | Omhoog/Omlaag | De orde in het schema wordt weerspiegeld in UI. Als u de volgorde wilt wijzigen, selecteert u een eigenschap of keuzevrijheid en verplaatst u deze met de knoppen. Slepen en neerzetten wordt momenteel niet ondersteund. |
-| Verwijderen | Hiermee verwijdert u een eigenschap of keuzevrijheid uit het schema. Hiermee verwijdert u geen waarden uit het XMP of de database. De eigenschap is niet meer beschikbaar voor weergaven van metagegevens en wordt verwijderd uit de weergave Details van element. Als de eigenschap is gepubliceerd naar de server met metagegevens, voert u een kracht uit die publiceert om de gegevens te verwijderen uit de openbare metagegevensserver. |
+| Verwijderen | Hiermee verwijdert u een eigenschap of keuzevrijheid uit het schema. Waarden worden niet verwijderd uit het XMP of de database. De eigenschap is niet meer beschikbaar voor weergaven van metagegevens en wordt verwijderd uit de weergave Details van element. Als het bezit aan de Server van Meta-gegevens werd gepubliceerd, voer een kracht uit publiceert om de gegevens uit de openbaar-onder ogen ziet Server van Meta-gegevens te verwijderen. |
 
-Het systeem genereert automatisch een aangepast schema voor door de gebruiker gedefinieerde velden met het voorvoegsel &#39;s7udf&#39;. Dit zijn de bestaande user-defined Gebieden en in hun eigen sectie van de Opstelling uitgegeven.
+Het systeem genereert automatisch een aangepast schema voor door de gebruiker gedefinieerde velden met het voorvoegsel &#39;s7udf&#39;. Het zijn bestaande Gebruiker-bepaalde Gebieden en zij worden uitgegeven in hun eigen sectie van de Opstelling.
 
 >[!NOTE]
 >
@@ -192,7 +191,7 @@ De Editor Metagegevensschema biedt een grafische manier om een aangepast bedrijf
 
 * Voorvoegsel
 
-   Technische unieke id voor het schema. Beperkt tot de letters a-z en A-Z. Het voorvoegsel is niet zichtbaar in de klassieke gebruikersinterface van Dynamic Media, maar wordt gebruikt wanneer metagegevens voor een element worden opgeslagen in het XMP en in onze database. Het voorvoegsel wordt gebruikt om metagegevensvelden op unieke wijze te identificeren in zoekquery&#39;s voor metagegevens op de Metagegevensserver of het importeren.
+   Technische unieke id voor het schema. Beperkt tot de letters a-z en A-Z. Het voorvoegsel is niet zichtbaar in de klassieke gebruikersinterface van Dynamic Media, maar wordt gebruikt wanneer metagegevens voor een element worden opgeslagen in het XMP en de database. Het voorvoegsel wordt gebruikt om metagegevensvelden op unieke wijze te identificeren in zoekquery&#39;s voor metagegevens op de Metagegevensserver of het importeren.
 
 * Naamruimte
 
@@ -210,7 +209,7 @@ De eigenschappen beschrijven de meta-gegevens die met dit schema in het XMP blok
 
 | Eigenschap | Beschrijving |
 |--- |--- |
-| ID | Technische id voor deze eigenschap. De id is niet zichtbaar in de klassieke gebruikersinterface van Dynamic Media, maar wordt gebruikt wanneer metagegevens voor een element worden opgeslagen in het XMP en in onze database. De id wordt gebruikt om zoekopdrachten te maken op de Metagegevensserver. De id heeft een aantal beperkingen, zoals: <ul><li>Geen spaties</li><li>Geen &quot;.&quot;, &quot;:&quot;, &quot;$&quot;</li><li>Geen getal als eerste teken</li><li>De beste manier is om a-z of A-Z als eerste teken te gebruiken</li></ul> <br>Nadat de id is gemaakt, kan deze niet worden gewijzigd. |
+| ID | Technische id voor deze eigenschap. De id is niet zichtbaar in de klassieke gebruikersinterface van Dynamic Media, maar wordt gebruikt wanneer metagegevens voor een element worden opgeslagen in het XMP en de database. De id wordt gebruikt om zoekopdrachten te maken op de Metagegevensserver. De id heeft een aantal beperkingen, zoals: <ul><li>Geen spaties</li><li>Geen &quot;.&quot;, &quot;:&quot;, &quot;$&quot;</li><li>Geen getal als eerste teken</li><li>De beste manier is om a-z of A-Z als eerste teken te gebruiken</li></ul> <br>Nadat de id is gemaakt, kan deze niet worden gewijzigd. |
 | Label | UI-naam voor deze eigenschap. |
 | Structuur | Bepaalt het type van het bezit samen met het Type van Gegevens. Structuur kan een van de volgende zijn:<ul><li>Eenvoudig type: enkele waarde van gegevenstype</li><li>Volgorde: een lijst met waarden van hetzelfde gegevenstype</li><li>Open keuze: Selecteer een item in een lijst met vooraf gedefinieerde waarden of voer vrije tekst in. Kan alleen van het gegevenstype String of Integer zijn</li><li>Gesloten keuze: selecteert u een item in een lijst met vooraf gedefinieerde waarden (een pop-up- of keuzelijst met invoervak)</li></ul> |
 | Gegevenstype | Maak een keuze uit de volgende beschikbare typen: <ul><li>String</li><li>Geheel</li><li>Float</li><li>Ja/Nee (Boolean)</li><li>Datum</li></ul> |
