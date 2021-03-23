@@ -10,9 +10,9 @@ discoiquuid: 48de8604-2bb4-4862-82ee-0c7847f0d0e7
 feature: Dynamic Media Classic,Viewers
 role: Zakelijke praktiserer
 translation-type: tm+mt
-source-git-commit: e727c1b5fb43c7def842ff1bafcc8b3ef3437cde
+source-git-commit: 3def4a02eda8dc36f2811b3d4f0e870fff1994e4
 workflow-type: tm+mt
-source-wordcount: '436'
+source-wordcount: '435'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ U kunt Viewer-voorinstellingen maken en aanpassen aan uw wensen.
 1. Klik **Setup** > **Viewer Presets**.
 1. Voer een van de volgende handelingen uit:
 
-   * Als u een nieuwe voorinstelling wilt maken, klikt u op **Toevoegen**. Kies in het dialoogvenster Voorinstelling viewer toevoegen een platform, kies Staalsetviewer en klik op **Toevoegen**.
+   * Als u een voorinstelling wilt maken, klikt u op **Toevoegen**. Kies in het dialoogvenster Voorinstelling viewer toevoegen een platform, kies Staalsetviewer en klik op **Toevoegen**.
    * Als u een bestaande voorinstelling voor een Staalset-viewer wilt bewerken, selecteert u de voorinstelling en klikt u op **Bewerken**.
 
 1. Typ een naam in het vak Naam voorinstelling voor de voorinstelling voor de stalenset van de viewer.
