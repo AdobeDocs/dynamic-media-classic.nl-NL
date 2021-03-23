@@ -8,9 +8,9 @@ geptopics: SG_SCENESEVENONDEMAND_PK/categories/adobe_analytics_instrumentation_k
 feature: Dynamic Media Classic
 role: Data Engineer,beheerder,Business Practice
 translation-type: tm+mt
-source-git-commit: e727c1b5fb43c7def842ff1bafcc8b3ef3437cde
+source-git-commit: 3def4a02eda8dc36f2811b3d4f0e870fff1994e4
 workflow-type: tm+mt
-source-wordcount: '252'
+source-wordcount: '248'
 ht-degree: 0%
 
 ---
@@ -18,15 +18,15 @@ ht-degree: 0%
 
 # Adobe Analytics-videorapporten inschakelen{#enabling-adobe-analytics-video-reports}
 
-Met Adobe Analytics-videoverslagen op basis van hartslag hoeft u de vier videoviewergebeurtenissen (Play, Pause, Stop, Milestone) niet meer in te schakelen wanneer u Adobe Analytics configureert in Dynamic Media Classic. De functie Videohartslag werkt met Dynamic Media Classic HTML5 Video- en MixedMedia-viewers die niet in de verpakking staan. De videospeler genereert trackinggegevens voor weergave in Adobe Analytics Video Reports.
+Als u Adobe Analytics-videoverslagen op basis van hartslag gebruikt, hoeft u de vier videoviewergebeurtenissen (Play, Pause, Stop, Milestone) niet meer in te schakelen wanneer u Adobe Analytics configureert in Dynamic Media Classic. De functie Videohartslag werkt met Dynamic Media Classic HTML5 Video- en MixedMedia-viewers die niet in de verpakking staan. De videospeler genereert trackinggegevens voor weergave in Adobe Analytics Video Reports.
 
-* Zie [Informatie over Adobe Analytics for Streaming Media](https://experienceleague.adobe.com/docs/media-analytics/using/media-overview.html#about-adobe-analytics-for-streaming-media) voor een inleiding op streamingmedia en &#39;hartslagmeting&#39;.
+* Zie [Informatie over Adobe Analytics for Streaming Media](https://experienceleague.adobe.com/docs/media-analytics/using/media-overview.html#about-adobe-analytics-for-streaming-media) voor een inleiding op streamingmedia en &quot;hartslagmeting&quot;.
 
 * De integratie van Adobe Analytics-videorapporten met Dynamic Media Classic ondersteunt oplossingsvariabelen, maar geen aangepaste variabelen.
 
    Zie [Audio en Video parameters](https://experienceleague.adobe.com/docs/media-analytics/using/metrics-and-metadata/audio-video-parameters.html#metrics-and-metadata) voor meer informatie over oplossingsvariabelen en douanevariabelen.
 
-* De uit-van-de-doos segmenten van één minieme toename worden gesteund. Aangepaste segmentrapportage, zoals door de klant gedefinieerde mijlpalen op basis van tijdstappen, procentuele mijlpaal of verschuivingsmijlpalen, wordt echter niet ondersteund.
+* De uit-van-de-doos segmenten van één-minieme toename worden gesteund. Aangepaste segmentrapportage, zoals door de klant gedefinieerde mijlpalen op basis van tijdstappen, procentuele mijlpaal of verschuivingsmijlpalen, wordt echter niet ondersteund.
 
    Zie [Stuurmedia meten in Adobe Analytics](https://experienceleague.adobe.com/docs/media-analytics/using/media-overview.html) voor meer informatie over de vereisten en installatie van streaming media.
 
@@ -34,5 +34,5 @@ Met Adobe Analytics-videoverslagen op basis van hartslag hoeft u de vier videovi
 
 >[!NOTE]
 >
->Als uw gelicentieerde oplossing van Adobe Analytics Video Heartbeat niet omvat, zult u de stappen moeten blijven gebruiken die in dit hoofdstuk worden beschreven om de variabelen van Adobe Analytics aan de gebeurtenissen en de variabelen van de Klassieke van Dynamic Media toe te wijzen.
+>Als uw gelicentieerde oplossing van Adobe Analytics Video Heartbeat niet omvat, moet u de stappen blijven gebruiken die in dit hoofdstuk worden beschreven om de variabelen van Adobe Analytics aan de gebeurtenissen en de variabelen van de Klassieke van Dynamic Media toe te wijzen.
 
