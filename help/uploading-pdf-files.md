@@ -9,9 +9,9 @@ discoiquuid: 0097cba5-c886-4115-bc35-7ae7a500202f
 feature: Dynamic Media Classic,Viewers,eCatalog
 role: Zakelijke praktiserer
 translation-type: tm+mt
-source-git-commit: e727c1b5fb43c7def842ff1bafcc8b3ef3437cde
+source-git-commit: 3def4a02eda8dc36f2811b3d4f0e870fff1994e4
 workflow-type: tm+mt
-source-wordcount: '703'
+source-wordcount: '701'
 ht-degree: 0%
 
 ---
@@ -19,15 +19,15 @@ ht-degree: 0%
 
 # PDF-bestanden uploaden{#uploading-the-pdf-files}
 
-Adobe PDF-bestanden zijn doorgaans de bron van een eCatalog; deze bestanden bevatten alle afbeeldingsgegevens , lettertypen en vectorafbeeldingen . U kunt ook een eCatalog met afbeeldingen maken. Nadat u de PDF-bestanden hebt voorbereid voor uploaden, selecteert u de knop Uploaden op de algemene navigatiebalk om de PDF&#39;s te uploaden.
+Adobe PDF-bestanden zijn doorgaans de bron voor een eCatalog. Deze bestanden bevatten alle afbeeldingsgegevens, lettertypen en vectorafbeeldingen. U kunt ook een eCatalog met afbeeldingen maken. Nadat u de PDF-bestanden hebt voorbereid voor uploaden, selecteert u de knop Uploaden op de algemene navigatiebalk om de PDF&#39;s te uploaden.
 
 ## PDF-bestanden {#preparing-your-pdf-files} voorbereiden
 
 PDF-bestanden voorbereiden voordat u ze uploadt naar Dynamic Media Classic:
 
-* Plaats alle bestanden in dezelfde map op uw computer of netwerk, zodat u de bestanden gemakkelijker kunt uploaden.
+* Als u het uploaden van de bestanden gemakkelijker wilt maken, plaatst u alle bestanden in dezelfde map op uw computer of netwerk.
 * Geef de bestanden een naam in alfanumerieke volgorde op pagina. Door de pagina&#39;s te ordenen, kunt u de pagina&#39;s gemakkelijker in de juiste volgorde plaatsen nadat de bestanden zijn geüpload.
-* Controleer de PDF-pagina&#39;s om te zien of deze snijtekens, registratiedoelen of kleurenbalken bevatten. Deze markeringen bepalen waar het papier moet worden geknipt wanneer documenten worden afgedrukt. deze moeten worden verwijderd voordat uw eCatalog op het web wordt geplaatst. Dynamic Media Classic biedt opties voor het uitsnijden van markeringen wanneer u PDF-bestanden uploadt.
+* Bekijk de pagina&#39;s om te zien of PDF-pagina&#39;s snijtekens, registratiedoelen of kleurenbalken bevatten. Deze markeringen bepalen waar het papier moet worden geknipt wanneer documenten worden afgedrukt. deze moeten worden verwijderd voordat uw eCatalog op het web wordt geplaatst. Dynamic Media Classic biedt opties voor het uitsnijden van markeringen wanneer u PDF-bestanden uploadt.
 * Als u wilt dat viewers in uw eCatalog zoeken op trefwoorden, controleert u of uw PDF-bestanden zijn samengevoegd. U kunt zoekwoorden niet extraheren uit samengevoegde PDF-bestanden. Als u wilt weten of een PDF is afgevlakt, selecteert u de tekst in de PDF. Als u geen tekst kunt selecteren, wordt de PDF afgevlakt en kunnen de gebruikers niet op sleutelwoord in uw eCatalog zoeken.
 * PDF-bestanden bevatten meestal CMYK-afbeeldingen, omdat ze moeten worden afgedrukt. Standaard kan Dynamic Media Classic deze CMYK-afbeeldingen op intelligente wijze detecteren en omzetten met een intern CMYK-kleurprofiel. Als u echter een aangepast kleurprofiel wilt gebruiken om CMYK-afbeeldingen om te zetten, kunt u dat doen.
 
@@ -40,7 +40,7 @@ Zie [Uw bestanden uploaden](uploading-files.md#uploading_your_files) voor gedeta
 Selecteer de bestanden die u wilt uploaden en selecteer vervolgens de volgende *aanbevolen PDF-opties:*
 
 * ****
-UitsnijdenSelecteer het menu Uitsnijden en kies Handmatig als de pagina&#39;s snijtekens, registratietekens of andere markeringen bevatten. Voer het aantal pixels in dat u vanaf de boven-, rechter-, onder- en linkerzijde van pagina&#39;s wilt uitsnijden. Snijtekens worden meestal ingesteld op een marge van 5 cm. Ervan uitgaande dat u 150 kiest als de resolutie per inch (aanbevolen instelling), wordt een halve inch van de marges uitgesneden door 75, 75, 75, 75 in de tekstvakken Boven, Rechts, Onder en Links in te voeren (bij 150 ppi is de helft van 1 inch gelijk aan 75 pixels).
+UitsnijdenSelecteer het menu Uitsnijden en kies Handmatig als de pagina&#39;s snijtekens, registratietekens of andere markeringen bevatten. Voer het aantal pixels in dat u vanaf de boven-, rechter-, onder- en linkerzijde van pagina&#39;s wilt uitsnijden. Snijtekens worden vaak ingesteld op een marge van 5 cm. Stel dat u 150 pixels per inch kiest (aanbevolen) als resolutie en 75, 75, 75, 75, 75 invoert in de tekstvakken Boven, Rechts, Onder en Links. In dat geval wordt een halve inch van de marges geoogst (bij 150 ppi is de helft van 1 gelijk aan 75 pixels).
 
 * ****
 VerwerkenSelecteer het menu Verwerking en kies Omzetten in pixels. Het PDF-bestand moet worden gerasterd, zodat alle pagina&#39;s en afbeeldingen in de eCatalog kunnen worden weergegeven.
