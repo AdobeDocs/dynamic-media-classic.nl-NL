@@ -8,13 +8,12 @@ geptopics: SG_SCENESEVENONDEMAND_PK/categories/introducing_adobe_scene7
 feature: Dynamic Media Classic
 role: Beheerder, Business Practiter
 translation-type: tm+mt
-source-git-commit: e727c1b5fb43c7def842ff1bafcc8b3ef3437cde
+source-git-commit: 9801d5707bef099da72f9163826188b703e75168
 workflow-type: tm+mt
-source-wordcount: '191'
-ht-degree: 4%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
-
 
 # Ondersteuning {#support}
 
@@ -23,13 +22,15 @@ De technische steunaanbiedingen worden ontworpen om aan de behoeften van om het 
 | Ondersteuning | Abonnement |
 |--- |--- |
 | Limiet voor problemen | Onbeperkt. |
-| Responstijd | Zie de veelgestelde vragen op [https://helpx.adobe.com/contact/enterprise-support.ec.html](https://helpx.adobe.com/nl/contact/enterprise-support.ec.html). |
-| SLA (Service Level Agreements) | [https://helpx.adobe.com/support/programs/support-policies-terms-conditions.html](https://helpx.adobe.com/support/programs/support-policies-terms-conditions.html). |
+| De status van het Adobe-systeem controleren | [Dynamic Media Classic System Status](https://status.adobe.com/products/1175). |
+| Kan je geen antwoord vinden? | [Voor hulp van Steun, open een kaartje](https://experienceleague.adobe.com/?support-solution=General#support). |
+| Forum van de Gemeenschap | [Forum](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community) van de Experience Manager-gemeenschap. |
+| SLA (Service Level Agreements) | [Ondersteuningsservices / Voorwaarden](https://helpx.adobe.com/support/programs/support-policies-terms-conditions.html). |
 | Ondersteunde gebruikers | Tot tien gebruikers per organisatie kunnen worden aangewezen als ondersteunde gebruikers, die zaken kunnen openen met de klantenservice. |
-| Sociale ondersteuning | Zie de veelgestelde vragen op [https://helpx.adobe.com/contact/enterprise-support.ec.html](https://helpx.adobe.com/contact/enterprise-support.ec.html). |
 | Gratis live webtraining en videozelfstudies | Opgenomen. |
-| Een draagtas maken | [https://helpx.adobe.com/enterprise/admin-guide.html/enterprise/using/support-for-experience-cloud.ug.html](https://helpx.adobe.com/enterprise/admin-guide.html/enterprise/using/support-for-experience-cloud.ug.html) |
-| Telefonische ondersteuning | <ul><li>VS/Canada: (800) 898-9743, (800)497-033, (408)454-5910 </li> <li>Japan: +81-3-6743-9632 </li><li>VK: +44 (0)20 35641782</li><li>Duitsland: +49 (0)69 51709005</li><li>Frankrijk: +33 157324085</li><li>Nederland: +31 (0)20 2035138 (ondersteuning in het Engels)</li></ul> |
+| Telefonische ondersteuning | <ul><li>VS en Canada: 1-800-497-0335 </li><li>[Telefoonnummers voor andere gebieden](https://helpx.adobe.com/contact/dma-external/DMACustomeCareRegionalPhoneNumbers.html).</li></ul> |
+
+<!-- |Create a support case| [https://helpx.adobe.com/enterprise/admin-guide.html/enterprise/using/support-for-experience-cloud.ug.html](https://helpx.adobe.com/enterprise/admin-guide.html/enterprise/using/support-for-experience-cloud.ug.html) | -->
 
 Neem deze informatie op wanneer u problemen aan Technische ondersteuning rapporteert:
 
@@ -39,4 +40,3 @@ Neem deze informatie op wanneer u problemen aan Technische ondersteuning rapport
 * Geef een beschrijving op en de stappen die nodig zijn om het probleem te reproduceren.
 * Eventueel foutbericht.
 * Browsertype en -versie, indien van toepassing.
-
