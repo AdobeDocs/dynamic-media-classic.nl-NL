@@ -6,15 +6,15 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/master_files
 feature: Dynamic Media Classic, beheer van bedrijfsmiddelen
-role: Zakelijke praktiserer
+role: Business Practitioner
+exl-id: 3c50e706-b9ed-49db-8c08-f179de52b9cf
 translation-type: tm+mt
-source-git-commit: e727c1b5fb43c7def842ff1bafcc8b3ef3437cde
+source-git-commit: 31ac96e6fd11c47284d58540f5ec0135f0e6223b
 workflow-type: tm+mt
-source-wordcount: '1481'
+source-wordcount: '1465'
 ht-degree: 3%
 
 ---
-
 
 # Aanbevolen procedures voor het optimaliseren van de kwaliteit van uw afbeeldingen{#best-practices-for-optimizing-the-quality-of-your-images}
 
@@ -28,7 +28,7 @@ Zie ook [Slimme beeldverwerking](https://experienceleague.adobe.com/docs/experie
 
 * JPG of PNG zijn de beste keuze om afbeeldingen van goede kwaliteit en met beheerbare grootte en gewicht te leveren.
 * Als er geen indelingsopdracht in de URL wordt opgegeven, wordt voor levering standaard JPG gebruikt voor Dynamic Media Image Serving.
-* JPG wordt met een verhouding van 10:1 gecomprimeerd en levert doorgaans kleinere afbeeldingsbestanden op. PNG wordt gecomprimeerd met een verhouding van ongeveer 2:1, behalve in sommige gevallen, bijvoorbeeld wanneer afbeeldingen een lege achtergrond bevatten. PNG-bestanden zijn doorgaans echter groter dan JPG-bestanden.
+* JPG wordt met een verhouding van 10:1 gecomprimeerd en levert doorgaans kleinere afbeeldingsbestanden op. PNG wordt gecomprimeerd met een verhouding van ongeveer 2:1, behalve soms wanneer afbeeldingen een lege achtergrond bevatten. PNG-bestanden zijn doorgaans echter groter dan JPG-bestanden.
 * JPG maakt gebruik van compressie met verlies. Dit betekent dat afbeeldingselementen (pixels) tijdens compressie verloren gaan. PNG gebruikt daarentegen compressie zonder verlies.
 * In JPG worden foto&#39;s vaak gecomprimeerd met een hogere kwaliteit dan in synthetische afbeeldingen met scherpe randen en contrast.
 * Als uw afbeeldingen transparantie bevatten, gebruikt u PNG omdat JPG geen transparantie ondersteunt.
@@ -52,7 +52,7 @@ Best practices white paper [Sharpening images in Adobe Dynamic Media Classic and
 
 <!-- Give a 404 See also [Sharpening an image with unsharp mask](https://helpx.adobe.com/photoshop/atv/cs6-tutorials/sharpening-an-image-with-unsharp-mask.html). -->
 
-Met Dynamic Media Classic kunt u afbeeldingen verscherpen bij inname, bij levering of beide. In de meeste gevallen moet u de afbeeldingen echter verscherpen met slechts één methode, maar niet met beide. Wanneer u afbeeldingen verscherpt bij levering, op een URL, krijgt u doorgaans de beste resultaten.
+Met Dynamic Media Classic kunt u afbeeldingen verscherpen bij inname, bij levering of beide. Meestal verscherpt u afbeeldingen echter alleen met de ene of de andere methode, maar niet met beide. Wanneer u afbeeldingen verscherpt bij levering, op een URL, krijgt u doorgaans de beste resultaten.
 
 U kunt twee methoden voor het verscherpen van afbeeldingen gebruiken:
 
@@ -100,7 +100,7 @@ Gebruik `&qlt=85,0` als aanbevolen methode voor JPG-compressie.
 
 ## Aanbevolen procedures voor JPEG-formaat (&amp;jpegSize=) {#best-practices-for-jpeg-sizing-jpegsize}
 
-`jpegSize` Dit is een handige parameter als u wilt garanderen dat een afbeelding een bepaalde grootte niet overschrijdt voor levering aan apparaten met een beperkt geheugen.
+De parameter `jpegSize` is nuttig als u wilt garanderen dat een afbeelding een bepaalde grootte niet overschrijdt voor levering aan apparaten met beperkt geheugen.
 
 * Deze parameter wordt ingesteld in kilobytes ( `jpegSize=<size_in_kilobytes>`). Hiermee wordt de maximaal toegestane grootte voor het leveren van de afbeelding gedefinieerd.
 * `&jpegSize=` communiceert met de JPG-compressieparameter  `&qlt=`. Als de JPG-reactie met de opgegeven JPG-compressieparameter ( `&qlt=`) de `jpegSize`-waarde niet overschrijdt, wordt de afbeelding geretourneerd met `&qlt=` zoals gedefinieerd. Anders wordt `&qlt=` geleidelijk verkleind totdat de afbeelding past in de maximaal toegestane grootte, of totdat het systeem bepaalt dat de afbeelding niet past en een fout retourneert.
@@ -119,8 +119,8 @@ Als de afbeelding verder moet worden geoptimaliseerd, kunt u de parameters voor 
 
 Als de verscherpingsresultaten nog steeds niet bevredigend zijn, vergroot u de straal in decimale stappen. Voor elke decimale toename start u de hoeveelheid opnieuw op bij 1,75 en verhoogt u deze geleidelijk tot 4. Herhaal dit proces totdat u het gewenste resultaat hebt bereikt. Terwijl de waarden hierboven een benadering zijn die creatieve studio&#39;s hebben bevestigd, herinner me dat u met andere waarden kunt beginnen en andere strategieën kunt volgen. Of de resultaten voor u bevredigend zijn of niet is een subjectieve kwestie, daarom is gestructureerde experimenten van essentieel belang.
 
-Tijdens het experimenteren kunt u ook de volgende algemene suggesties gebruiken om uw workflow te optimaliseren:
+Tijdens het experimenteren zijn de volgende algemene suggesties nuttig om uw workflow te optimaliseren:
 
-* Probeer verschillende parameters in real-time uit en test ze rechtstreeks op een klassieke Dynamic Media-URL of met gebruik van de functie voor het aanpassen van afbeeldingen van Dynamic Media Classic, die real-time voorvertoningen biedt voor aanpassingsbewerkingen.
-* U kunt het beste de opdrachten Dynamic Media Image Serving groeperen in een voorinstelling voor afbeeldingen. Een voorinstelling voor een afbeelding bestaat in feite uit URL-opdrachtmacro&#39;s met aangepaste namen voor voorinstellingen, zoals `$thumb_low$` en `&product_high$`. De naam van de aangepaste voorinstelling in een URL-pad roept deze voorinstellingen aan. Met deze functionaliteit kunt u opdrachten en kwaliteitsinstellingen voor verschillende gebruikspatronen van afbeeldingen op uw website beheren en de totale lengte van URL&#39;s verkorten.
-* Dynamic Media Classic biedt ook geavanceerdere manieren om de afbeeldingskwaliteit af te stemmen, zoals het toepassen van verscherpte afbeeldingen bij opname. Voor geavanceerd gebruik waarbij dit een optie kan zijn om de renderresultaten verder te perfectioneren en te optimaliseren, kan Adobe Professional Services u helpen met aangepaste inzichten en aanbevolen procedures.
+* Probeer verschillende parameters in real-time uit en test ze rechtstreeks op een klassieke Dynamic Media-URL of met gebruik van de functie voor het aanpassen van afbeeldingen van Dynamic Media Classic. De laatste biedt real-time voorvertoningen voor aanpassingstransacties.
+* U kunt het beste de opdrachten Dynamic Media Image Serving groeperen in een voorinstelling voor afbeeldingen. Een voorinstelling voor een afbeelding bestaat in feite uit URL-opdrachtmacro&#39;s met aangepaste namen voor voorinstellingen, zoals `$thumb_low$` en `&product_high$`. Deze voorinstellingen worden aangeroepen door de naam van de aangepaste voorinstelling in een URL-pad. Met deze functionaliteit kunt u opdrachten en kwaliteitsinstellingen voor verschillende gebruikspatronen van afbeeldingen op uw website beheren en de totale lengte van URL&#39;s verkorten.
+* Dynamic Media Classic biedt ook geavanceerdere manieren om de afbeeldingskwaliteit af te stemmen, zoals het toepassen van verscherping bij opname van afbeeldingen. Voor geavanceerd gebruik waarbij het verder afstemmen en optimaliseren van gerenderde resultaten een optie is, kan Adobe Professional Services u helpen met aangepaste inzichten en aanbevolen procedures.
