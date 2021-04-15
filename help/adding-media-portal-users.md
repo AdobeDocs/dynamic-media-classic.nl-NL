@@ -8,15 +8,15 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/media_portal
 discoiquuid: 5e933045-ce1a-41b9-ba8b-2151c396b7a2
 feature: Dynamic Media Classic,Samenwerking,Asset Management
-role: Beheerder, Business Practiter
+role: Administrator,Business Practitioner
+exl-id: 9590c53c-fd38-4bf2-b723-cd7369702364
 translation-type: tm+mt
-source-git-commit: e727c1b5fb43c7def842ff1bafcc8b3ef3437cde
+source-git-commit: 31ac96e6fd11c47284d58540f5ec0135f0e6223b
 workflow-type: tm+mt
-source-wordcount: '947'
+source-wordcount: '922'
 ht-degree: 0%
 
 ---
-
 
 # Gebruikers van Media Portal toevoegen en beheren{#adding-and-managing-media-portal-users}
 
@@ -40,7 +40,7 @@ De gebruikers van het Portaal van media, de medewerkers, en de medewerker-gebrui
 
 ## Een gebruiker {#adding-a-media-portal-user} aan een mediaportaal toevoegen
 
-1. Klik op **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Administration Setup]** > **[!UICONTROL User Administation]**.
+1. Klik op **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Administration Setup]** > **[!UICONTROL User Administration]**.
 1. Voor de pagina van het Beleid van de Gebruiker, klik **Add**.
 1. Voer in het dialoogvenster Gebruiker toevoegen in het deelvenster Gebruikersinfo de voornaam, achternaam en e-mailadres van de gebruiker in en klik op **[!UICONTROL Next]**.
 1. Selecteer in het deelvenster Bedrijf/Rol in de vervolgkeuzelijst Bedrijven een bedrijf of bedrijven voor de gebruiker.
@@ -83,8 +83,8 @@ In het volgende voorbeeldwerkblad ziet u hoe u een CSV-bestand indeelt:
 
 | Voornaam | Achternaam | E-mail | Wachtwoord | Gebruikersrol | Groepen |
 |--- |--- |--- |--- |--- |--- |
-| Peter | Peterson | `petep@company.com` | welkom | MediaPortalAdmin | PortalCo/IT,PortalCo/Admin |
-| Kevin | Markeringen | `kevinm@myco.com` | welkom | MediaPortalUser | PortalCo/MktgGroup, PortalCo/test |
+| Prairie | Kat | `prairiek@company.com` | welkom | MediaPortalAdmin | PortalCo/IT,PortalCo/Admin |
+| Rick | Bout | `rickb@myco.com` | welkom | MediaPortalUser | PortalCo/MktgGroup, PortalCo/test |
 
 
 ### Het CSV-bestand {#uploading-the-csv-file} uploaden
@@ -105,7 +105,7 @@ U kunt de namen en e-mailadressen van gebruikers van het Portaal van Media in ee
 
 1. Klik op **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Administration Setup]** > **[!UICONTROL User Administration]**.
 1. In **[!UICONTROL By User Role]** drop-down lijst, kies de naam van een Poortgebruikersrol van Media, en klik **[!UICONTROL Refresh]** om de namen van één klasse van de Poortgebruiker van Media te tonen.
-1. Klik op **[!UICONTROL Popup List]** om het pop-upvenster te openen. U kunt deze lijst kopiëren en plakken.
+1. Klik op **[!UICONTROL Popup List]** om het pop-upvenster te openen. Kopieer en plak deze lijst.
 
 ## Het welkome e-mailbericht voor gebruikers van Media Portal instellen {#setting-up-the-welcome-e-mail-message-for-media-portal-users}
 
@@ -115,24 +115,24 @@ U kunt een welkome e-mail verzenden wanneer u nieuwe gebruikers van het Portaal 
 1. In het scherm van de Opstelling van het Beleid van de Gebruiker, klik **[!UICONTROL Email Settings]**.
 1. Geef in het dialoogvenster E-mailinstellingen een of meer van de volgende instellingen op:
 
-   **[!UICONTROL Send Email]** Schakel deze optie uit als u nieuwe gebruikers niet via e-mail wilt laten weten dat u hen hebt aangemeld.
+   * **[!UICONTROL Send Email]** - Schakel deze optie uit als u nieuwe gebruikers niet via e-mail wilt laten weten dat u hen hebt aangemeld.
 
-   **[!UICONTROL Default Password]** Voer een tijdelijk wachtwoord in voor nieuwe gebruikers of laat het veld leeg om Dynamic Media Classic een willekeurig wachtwoord te laten genereren. Gebruikers wordt gevraagd wachtwoorden te wijzigen wanneer zij zich voor het eerst aanmelden.
+   * **[!UICONTROL Default Password]** - Voer een tijdelijk wachtwoord in voor nieuwe gebruikers of laat het veld leeg om Dynamic Media Classic een willekeurig wachtwoord te laten genereren. Gebruikers wordt gevraagd wachtwoorden te wijzigen wanneer zij zich voor het eerst aanmelden.
 
-   **[!UICONTROL Replacement URL]** Voer een andere URL in dan de standaardURL als uw gebruikers toegang krijgen tot Dynamic Media Classic via een andere URL.
+   * **[!UICONTROL Replacement URL]** - Voer een andere URL in dan de standaard als uw gebruikers toegang krijgen tot Dynamic Media Classic via een andere URL.
 
 ## Andere gebruikerbeheertaken {#other-user-management-tasks}
 
 Beginnend op het scherm van de Opstelling van het Beleid van de Gebruiker, kunt u deze taken ook doen:
 
-**[!UICONTROL Filter and sort the user list]** Filter de lijst met gebruikers van Media Portal om gebruikers te zoeken. Zie Filter en sorteer de gebruikerslijst.
+* **[!UICONTROL Filter and sort the user list]** - Filter de lijst met gebruikers van Media Portal om gebruikers te zoeken.
 
-**[!UICONTROL Delete users]** Verwijder een gebruiker uit de lijst. Zie Een gebruiker verwijderen.
+* **[!UICONTROL Delete users]** - Verwijder een gebruiker uit de lijst.
 
-**[!UICONTROL Activate and deactivate users]** Een gebruiker de toegang tot mappen ontzeggen. Zie Gebruikers activeren en deactiveren.
+* **[!UICONTROL Activate and deactivate users]** - Een gebruiker de toegang tot mappen opschorten.
 
-**[!UICONTROL Edit user information]** Voer actuele informatie over een gebruiker in. Zie Gebruikersgegevens bewerken.
+* **[!UICONTROL Edit user information]** - Voer actuele informatie in over een gebruiker.
 
-**[!UICONTROL Create user-defined fields]** Maak aangepaste, door de gebruiker gedefinieerde metagegevensvelden voor het ordenen van elementen in de Dynamic Media Classic. De velden kunnen desgewenst ook worden geactiveerd of gedeactiveerd.
+* **[!UICONTROL Create user-defined fields]** - Maak aangepaste, door de gebruiker gedefinieerde metagegevensvelden om elementen in de Dynamic Media Classic te ordenen. De velden kunnen desgewenst ook worden geactiveerd of gedeactiveerd.
 
 Zie [Door de gebruiker gedefinieerde velden](application-setup.md#user_defined_fields).
