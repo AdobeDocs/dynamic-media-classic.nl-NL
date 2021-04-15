@@ -7,15 +7,15 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 discoiquuid: 3c9ee4ec-dd37-498d-98d6-1339b80177ff
 feature: Dynamic Media Classic
-role: Beheerder
+role: Administrator
+exl-id: 14e3d8be-f265-4cec-aa8e-19ef71526b68
 translation-type: tm+mt
-source-git-commit: e727c1b5fb43c7def842ff1bafcc8b3ef3437cde
+source-git-commit: 31ac96e6fd11c47284d58540f5ec0135f0e6223b
 workflow-type: tm+mt
-source-wordcount: '1948'
+source-wordcount: '1938'
 ht-degree: 0%
 
 ---
-
 
 <!-- UPDATE TOPIC AFTER DECEMBER 31, 2020!!!! -->
 
@@ -73,7 +73,7 @@ Nadat u een gebruiker hebt toegevoegd, stuurt Dynamic Media Classic een welkomst
 
 U kunt gebruikers verwijderen uit Dynamic Media Classic door ze ongeldig te maken. Ongeldige gebruikers worden uit het systeem en alle accounts verwijderd.
 
-1. Klik **Setup** > **Toepassingsinstelling** > A **Beheerinstellingen** > **Gebruikersbeheer**.
+1. Klik **Setup** > **Toepassingsinstellingen** > **Beheerinstellingen** > **Gebruikersbeheer**.
 1. Selecteer een gebruiker in de lijst en klik op **Bewerken**.
 1. Schakel Geldig uit.
 1. Klik **Opslaan**.
@@ -82,14 +82,14 @@ U kunt gebruikers verwijderen uit Dynamic Media Classic door ze ongeldig te make
 
 Gebruikers die zijn gedeactiveerd, hebben niet langer toestemming om de account in te voeren die boven aan het menu Selecteer accounts om toegang te krijgen wordt vermeld.
 
-1. Klik **Setup** > **Toepassingsinstelling** > A **Beheerinstellingen** > **Gebruikersbeheer**.
+1. Klik **Setup** > **Toepassingsinstellingen** > **Beheerinstellingen** > **Gebruikersbeheer**.
 1. Schakel in de gebruikerslijst de optie Actief naast de naam van de gebruiker in of uit.
 
 ### Gebruikersgegevens {#editing-user-information} bewerken
 
 De gebruikersinformatie die u kunt uitgeven hangt van uw rol als beheerder en de toegewezen rol van de gebruiker af waarvan informatie u wilt uitgeven. Opties die grijs (niet beschikbaar) worden weergegeven, kunnen niet worden bewerkt.
 
-1. Ga naar **Setup** > **Toepassingsinstellingen**> A **Beheerinstellingen** > **Gebruikersbeheer**.
+1. Ga naar **Setup** > **Application Setup** > **Administration Setup** > **Gebruikersbeheer**.
 1. Selecteer de gebruiker en klik **Edit**.
 1. Selecteer de ingang in de lijst die het bedrijf toont u probeert om toestemmingen of toegang voor te wijzigen, dan de Manage verbinding van het Bedrijf te klikken.
 1. Selecteer de gebruikersrol.
@@ -102,15 +102,15 @@ U kunt de gebruikerslijst filteren en sorteren om van gebruikers de plaats te be
 
 U kunt de volgende filtertechnieken voor gebruikerslijsten gebruiken:
 
-**Filteren op** groepSelecteer het menu Op groep en kies een optie om de lijst te beperken tot gebruikers in een groep.
+* **Filteren op groep**  - Selecteer het menu Op groep en kies een optie om de lijst te beperken tot gebruikers in een groep.
 
-**Filteren op** gebruikersrolSelecteer het menu Op gebruikersrol en kies een optie om de lijst te beperken tot gebruikers of beheerders van verschillende typen.
+* **Filteren op gebruikersrol**  - Selecteer het menu Op gebruikersrol en kies een optie om de lijst te beperken tot gebruikers of beheerders van verschillende typen.
 
-**Filteren op** veldnaamSelecteer de optie Filteren op veld inschakelen. Selecteer vervolgens het menu Op veldnaam, kies een kolom voor het filteren van de lijst, selecteer het menu Filterteken en kies een letter. De lijst wordt op een van de kolommen gefilterd met de letter die u hebt gekozen. Schakel de optie Filteren op veld inschakelen uit om de volledige lijst weer te geven.
+* **Filteren op veldnaam**  - Selecteer de optie Filteren op veld inschakelen. Selecteer vervolgens het menu Op veldnaam, kies een kolom voor het filteren van de lijst, selecteer het menu Filterteken en kies een letter. De lijst wordt op een van de kolommen gefilterd met de letter die u hebt gekozen. Schakel de optie Filteren op veld inschakelen uit om de volledige lijst weer te geven.
 
-**Ongeldige** gebruikers uitfilterenSchakel de optie Inclusief ongeldig uit. In de zoekresultaten worden alleen gebruikers weergegeven die zich in het systeem bevinden. Ongeldige gebruikers zijn verwijderd uit het systeem en de accounts die u beheert.
+* **Ongeldige gebruikers**  uitfilteren - Schakel de optie Inclusief ongeldig uit. In de zoekresultaten worden alleen gebruikers weergegeven die zich in het systeem bevinden. Ongeldige gebruikers zijn verwijderd uit het systeem en de accounts die u beheert.
 
-**Sorteren op** kolomkopKlik op een kop om alle gebruikers te sorteren op hun status, alfabetisch op voornaam, achternaam of e-mail, op gebruikersrol of op geldige/ongeldige status.
+* **Sorteren op kolomkop**  - Klik op een kop om alle gebruikers te sorteren op hun status, alfabetisch op voornaam, achternaam of e-mail, op gebruikersrol of op geldige/ongeldige status.
 
 Als u veel gebruikers hebt, kunt u de grootte van de lijst beperken door het menu Maximale lijstgrootte te selecteren en een aantal te kiezen.
 
@@ -161,20 +161,19 @@ In de volgende tabel worden de rapporten beschreven die u kunt genereren op het 
 | Videostreaming | Bandbreedtegebruik voor het streamen van video | Het stromen videogebruik van het spoor door bedrijf over specifieke datumwaaiers om verkeerspatronen te bepalen. |
 | Video-inhoud | Afspeeltijd van verschillende video&#39;s | Bepaal welke de meest bekeken en minst bekeken video&#39;s zijn. |
 
-
 Het rapport Inhoud afbeelding biedt informatie over verzoeken om de volgende afbeeldingstypen:
 
-**Image** RequestRequests for images.
+* **Afbeeldingsverzoek**  - Verzoeken om afbeeldingen.
 
-**Miniatuur** RequestRequests voor stalen of alternatieve afbeeldingen in viewers.
+* **Miniatuuraanvraag**  - Verzoeken om stalen of alternatieve afbeeldingen in viewers.
 
-**Masker** RequestRequests aan afbeeldingen die grijswaardenmaskers retourneren.
+* **Maskeraanvraag**  - Verzoeken naar afbeeldingen die grijswaardenmaskers retourneren.
 
-**Aanvragen** voor Viewer Tile RequestImage die door een viewer zijn geladen.
+* **Tegelaanvraag**  voor viewer - Afbeeldingsverzoeken die door een viewer zijn geladen.
 
-**Voor het renderen van Vnt Object** RequestImage moet een afbeelding met opgegeven objecten in de gevraagde vignetten worden geretourneerd.
+* **Verzoek**  om vnt-object - aanvragen voor het renderen van afbeeldingen die een afbeelding met opgegeven objecten in de gevraagde vignetten retourneren.
 
-**Voor het renderen van Vnt Info** RequestImage moet informatie over de gevraagde vignetten worden geretourneerd.
+* **Verzoek**  om vectorgegevens - aanvragen voor het renderen van afbeeldingen die informatie over de gevraagde vignetten retourneren.
 
 >[!NOTE]
 >
@@ -194,27 +193,27 @@ Een rapport over bandbreedte, opslag, afbeeldingsinhoud, domein, videostreaming 
 
 Nadat u een rapport hebt gegenereerd op de pagina Bandbreedte en opslag, kunt u opties kiezen voor het weergeven van informatie. U kunt kiezen hoe informatie wordt voorgesteld, informatie in een grafiek of gegevensnet bekijken, en een tijdspanne specificeren voor het vangen van informatie. In de weergave Gegevens kunt u ook gegevens sorteren en kolommen opnieuw rangschikken.
 
-**Het bekijken van gegevens in een grafiek of** gegevensnetKlik de optie van de Mening van de Grafiek om gegevens in een grafiek te bekijken; Klik op de optie Gegevens weergeven om gegevens in een gegevensraster weer te geven.
+* **Het bekijken van gegevens in een grafiek of gegevensnet**  - klik de optie van de Mening van de Grafiek om gegevens in een grafiek te bekijken; Klik op de optie Gegevens weergeven om gegevens in een gegevensraster weer te geven.
 
-**Kies een rapportpresentatietype** In het menu Type rapport kiest u Samenvatting, Dagelijks of Maandelijks om gegevens in een samenvattende vorm te ordenen, op dag of op maand. Niet alle rapporten verstrekken deze optie.
+* **Als u een presentatietype**  Rapport kiest, kiest u Overzicht, Dagelijks of maandelijks om de gegevens in een samenvattende vorm, op dag of op maand te ordenen. Niet alle rapporten verstrekken deze optie.
 
-**Het specificeren van een** tijdperiodeKies opties om een tijdsperiode voor uw rapport te bepalen, en klik dan Update nadat u een tijdspanne bepaalt:
+* **Het specificeren van een tijdspanne**  - kies opties om een tijdspanne voor uw rapport te bepalen, en dan Update te klikken nadat u een tijdspanne bepaalt:
 
-**Vooraf gedefinieerde** periodeKies een optie in het menu Vooraf gedefinieerd rapport. Kies bijvoorbeeld Vorige maand om gegevens van de vorige maand vast te leggen.
+* **Vooraf gedefinieerde tijdsperiode**  - Kies een optie in het menu Vooraf gedefinieerd rapport. Kies bijvoorbeeld Vorige maand om gegevens van de vorige maand vast te leggen.
 
-**Aangepaste tijdsperiodeKies Aangepast in het menu Vooraf gedefinieerd rapport.** Kies vervolgens een datum in het menu Beginmaand (of Begindatum) en een datum in het menu # of # of Days). Voor de Rapporten van de Inhoud van het Domein en Video, kunt u een specifieke begin en einddatum kiezen voor het vangen van rapportinformatie.
+* **Aangepaste tijdsperiode**  - Kies Aangepast in het menu Vooraf gedefinieerd rapport. Kies vervolgens een datum in het menu Beginmaand (of Begindatum) en een datum in het menu # of # of Days). Voor de Rapporten van de Inhoud van het Domein en Video, kunt u een specifieke begin en einddatum kiezen voor het vangen van rapportinformatie.
 
-**Gegevens sorteren (alleen in de gegevensweergave)** Als u gegevens in een kolom wilt sorteren, klikt u op de kop van de kolom. Klik nogmaals om in aflopende volgorde te sorteren.
+* **Gegevens sorteren (alleen in de gegevensweergave)**  - Als u gegevens in een kolom wilt sorteren, klikt u op de kop van de kolom. Klik nogmaals om in aflopende volgorde te sorteren.
 
-**Kolommen opnieuw rangschikken (alleen in de weergave Gegevens)** Als u een kolom naar een andere locatie op het gegevensraster wilt verplaatsen, sleept u de kop.
+* **Kolommen opnieuw rangschikken (alleen in de gegevensweergave)**  - Als u een kolom naar een andere locatie op het gegevensraster wilt verplaatsen, sleept u de kop.
 
 ### Rapporten exporteren en afdrukken {#exporting-and-printing-reports}
 
 Nadat u een rapport hebt gegenereerd, kunt u de gegevens exporteren voor gebruik in spreadsheets en andere toepassingen. U kunt ook rapporten afdrukken.
 
-**Het uitvoeren van rapportgegevens** in de mening van Gegevens, sorteer en rangschikt zonodig de gegevens. Open vervolgens het menu Exporteren en kies een indeling: Door tabs gescheiden, door komma&#39;s gescheiden of HTML-opmaak. De gegevens worden naar het klembord gekopieerd in de indeling die u hebt gekozen. U kunt de gegevens nu in een spreadsheet of een toepassing plakken.
+* **Het uitvoeren van rapportgegevens**  - in de mening van Gegevens, soort, en rangschikt zonodig de gegevens. Open vervolgens het menu Exporteren en kies een indeling: Door tabs gescheiden, door komma&#39;s gescheiden of HTML-opmaak. De gegevens worden naar het klembord gekopieerd in de indeling die u hebt gekozen. U kunt de gegevens nu in een spreadsheet of een toepassing plakken.
 
-**Een** rapport afdrukkenKlik op Afdrukken, kies de gewenste opties in het dialoogvenster Afdrukken en klik op OK.
+* **Een rapport**  afdrukken - Klik  **[!UICONTROL Print]**, kies de gewenste opties in het dialoogvenster Afdrukken en klik op  **[!UICONTROL OK]**.
 
 ## Afbeeldingsfouten {#image-errors}
 
@@ -227,21 +226,21 @@ Klassieke Dynamic Media-beheerders kunnen rapporten met afbeeldingsfouten genere
    * Klik op een kop om fouten te sorteren op koptekstgegevens. Standaard worden fouten gesorteerd op aantal exemplaren, hoogste op laagste.
    * Beweeg de curseur over het gebied van de Reactie voor een fout om het specifieke foutenbericht te zien.
    * Plaats de cursor boven het URL-veld of het verwijzingsveld om de koppeling naar de afbeelding of verwijzende webpagina weer te geven.
-   * Klik URL van het Exemplaar URL om de verbinding aan het daadwerkelijke beeld te kopiëren. U kunt deze koppeling in een browservenster plakken om naar de afbeelding te gaan en de fout te onderzoeken.
-   * Klik op URL van verwijzingskopie om de koppeling naar de verwijzingswebpagina te kopiëren.
+   * Klik **[!UICONTROL URL Copy URL]** om de verbinding aan het daadwerkelijke beeld te kopiëren. U kunt deze koppeling in een browservenster plakken om naar de afbeelding te gaan en de fout te onderzoeken.
+   * Klik **[!UICONTROL Referrer Copy URL]** om de verbinding aan de verwijzende Web-pagina te kopiëren.
 
 De weergegeven fouten gelden voor het bedrijf waarvoor u momenteel bent aangemeld. Elke fout bevat de volgende informatie:
 
-**Id van afbeelding** voor de desbetreffende afbeelding.
+* **Afbeeldings-id**  - ID voor de beledigende afbeelding.
 
-**** TimeHet tijdbereik van de eerste keer dat de fout werd gerapporteerd tot de laatste keer dat de fout werd gemeld, binnen de laatste 24 uur.
+* **Tijd**  - Het tijdbereik van de eerste keer dat de fout werd gerapporteerd tot de laatste keer dat de fout werd gemeld, binnen de laatste 24 uur.
 
-**** AantalHet aantal fouten dat in de afbeelding wordt gerapporteerd.
+* **Aantal** : het aantal fouten dat in de afbeelding wordt gemeld.
 
-**** ResponseThe specific error message. Fouten zijn 4xx of 5xx.
+* **Response**  - Het specifieke foutbericht. Fouten zijn 4xx of 5xx.
 
-**URL&#39;** sHiermee geeft u de URL weer naar de afbeelding in scène 7.
+* **URL&#39;s** : geeft de URL weer naar de afbeelding in Dynamic Media Classic.
 
-**** ReferrerHiermee geeft u de URL op voor de website waar de oorspronkelijke aanvraag vandaan komt. De referentie kan elke website zijn die een koppeling naar de afbeelding heeft.
+* **Referrer**  - Geeft de URL op voor de website waar de oorspronkelijke aanvraag vandaan komt. De referentie kan elke website zijn die een koppeling naar de afbeelding heeft.
 
 Aan de kolommen URL en Referrer is een kopie-URL gekoppeld om het testen te vereenvoudigen.
