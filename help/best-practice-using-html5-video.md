@@ -8,21 +8,21 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/video
 discoiquuid: 4b11cab7-88cf-42dd-8554-2eea530753bb
 feature: Dynamic Media Klassiek,Viewers,Video
-role: Zakelijke praktiserer
+role: Business Practitioner
+exl-id: ce49e4ce-8dc0-41e1-865a-249f23757553
 translation-type: tm+mt
-source-git-commit: 3def4a02eda8dc36f2811b3d4f0e870fff1994e4
+source-git-commit: 31ac96e6fd11c47284d58540f5ec0135f0e6223b
 workflow-type: tm+mt
-source-wordcount: '427'
+source-wordcount: '431'
 ht-degree: 0%
 
 ---
-
 
 # Aanbevolen procedures voor het gebruik van de HTML5 Video-viewer{#best-practice-using-the-html-video-viewer}
 
 De Dynamic Media Classic HTML5 Video viewer-voorinstellingen zijn robuuste videospelers. Aan de ontwerpkant van de speler, kunt u de volledige functionaliteit van de videospeler tot stand brengen gebruikend standaardhulpmiddelen van de Webontwikkeling. U kunt bijvoorbeeld de knoppen, besturingselementen en de achtergrond van een aangepaste posterafbeelding ontwerpen met HTML5 en CSS, zodat u uw klanten kunt bereiken met een aangepaste weergave.
 
-Aan de afspeelzijde van de viewer wordt automatisch de videocapaciteit van de browser gedetecteerd. Vervolgens wordt de video afgespeeld met HLS (adaptieve videostreaming). Als deze leveringsmethode niet aanwezig is, wordt in plaats daarvan HTML5 progressief gebruikt.
+Aan de afspeelzijde van de viewer wordt automatisch de videocapaciteit van de browser gedetecteerd. Vervolgens wordt de video afgespeeld met behulp van HLS (HTTP Live Streaming), ook wel adaptieve videostreaming genoemd. Als deze leveringsmethode niet aanwezig is, wordt in plaats daarvan HTML5 progressief gebruikt.
 
 Door de volgende mogelijkheden te combineren tot één speler:
 
