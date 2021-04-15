@@ -5,15 +5,15 @@ contentOwner: admin
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 feature: Dynamic Media Klassiek,Viewers,Video
-role: Zakelijke praktiserer
+role: Business Practitioner
+exl-id: 66a1ab20-6036-4c3d-bb66-dd06d917c7f2
 translation-type: tm+mt
-source-git-commit: 3def4a02eda8dc36f2811b3d4f0e870fff1994e4
+source-git-commit: 31ac96e6fd11c47284d58540f5ec0135f0e6223b
 workflow-type: tm+mt
-source-wordcount: '890'
+source-wordcount: '887'
 ht-degree: 1%
 
 ---
-
 
 # Bijschriften toevoegen aan video{#adding-captions-to-video}
 
@@ -25,11 +25,13 @@ Ondertiteling maakt ook een betere toegankelijkheid mogelijk door ondertiteling 
 >
 >De gebruikte videospeler moet de weergave van bijschriften ondersteunen.
 
-Zie [Een voorinstelling voor een videoviewer toevoegen of bewerken](previewing-videos-video-viewer.md#adding_or_editing_a_video_viewer_preset) om het effect Bijschrift te configureren en het menu Bijschrift zelf te bewerken, inclusief de menutekst voor een van de volgende viewers:
+U configureert het effect Bijschrift en bewerkt het menu Bijschrift zelf, inclusief de menutekst voor een van de volgende gebruikers:
 
-* `Universal_HTML5_Video` viewer.
-* `Universal_HTML5_MixedMedia_dark` viewer.
-* `Universal_HTML5_MixedMedia_light` viewer.
+* `Universal_HTML5_Video` viewer
+* `Universal_HTML5_MixedMedia_dark` viewer
+* `Universal_HTML5_MixedMedia_light` viewer
+
+zie [Een voorinstelling voor een videoviewer toevoegen of bewerken](previewing-videos-video-viewer.md#adding_or_editing_a_video_viewer_preset).
 
 Zie ook [Viewer-voorinstellingen toevoegen en bewerken](application-setup.md#adding_and_editing_viewer_presets).
 
@@ -43,7 +45,7 @@ Zie [Statische (niet-afbeeldings) inhoud](https://experienceleague.adobe.com/doc
 
    | Type viewer | Ondertitelingsbestand |
    |--- |--- |
-   | HTML5 | Als u een HTML5-videoviewer gebruikt, moet u ervoor zorgen dat het bijschriftbestand dat u maakt, voldoet aan de WebVTT-standaard (Web Video Text Tracks). De bestandsnaamextensie voor ondertiteling is .vtt. U kunt meer informatie over de WebVTT ondertitelingsnorm leren.<br><br>[Zie WebVTT](https://dev.w3.org/html5/webvtt/): De indeling Webvideoteksttracks. <br><br>Er zijn zowel gratis als tegen betaling voor gereedschappen en services die u kunt gebruiken voor het maken van bijschriftbestanden buiten Dynamic Media Classic. Als u bijvoorbeeld een eenvoudig videobijschriftbestand zonder opmaak wilt maken, kunt u de volgende gratis gereedschappen voor het maken en bewerken van bijschriften gebruiken: <br><br>[WebVTT Caption Maker](https://testdrive-archive.azurewebsites.net/Graphics/CaptionMaker/Default.html) <br><br>Gebruik voor de beste resultaten het gereedschap in Internet Explorer 9 of hoger, Google Chrome of Safari. <br><br>Plak in het veld URL van het videobestand  <b>invoeren de URL van </b> het videobestand in het gereedschap en klik vervolgens op  <b>Laden</b>. <br><br>Als u bijvoorbeeld een klassieke Dynamic Media-URL voor uw videobestand gebruikt, dubbelklikt u op een afzonderlijk video-element (geen adaptieve videoset of een Master video) om deze te openen in de gedetailleerde weergave. Vouw URL&#39;s uit en sluit code in in het rechterdeelvenster van de detailweergave. Klik vervolgens onder de groep Mobiele apparaten rechts van Mobiel (progressief) op URL kopiëren. Dit proces geeft u URL aan het videodossier zelf dat u in <b>ga URL van videodossier</b> gebied dan kunt kleven. Internet Explorer, Chrome of Safari kunnen de video vervolgens op een native manier afspelen. Volg nu de aanwijzingen op het scherm van de site om het WebVTT-bestand te ontwerpen en op te slaan. Wanneer u klaar bent, kopieert u de inhoud van het bijschriftbestand en plakt u deze in een teksteditor zonder opmaak en slaat u het bestand op met de bestandsnaamextensie .VTT. <br><br><b>Opmerking:</b> voor wereldwijde ondersteuning van videobijschriften in andere talen dan Engels, vereist de WebVTT-standaard dat u afzonderlijke .vtt-bestanden maakt en aanroepen voor elke taal die u wilt ondersteunen. <br><br>Over het algemeen wilt u het VTT-bestand van het bijschrift dezelfde naam geven als het videobestand en dit bestand toevoegen met bijschriften. Hierdoor kunt u het genereren van video-URL&#39;s automatiseren met behulp van uw bestaande systeem voor webcontentbeheer. |
+   | HTML5 | Als u een HTML5-videoviewer gebruikt, moet u ervoor zorgen dat het bijschriftbestand dat u maakt, voldoet aan de WebVTT-standaard (Web Video Text Tracks). De bestandsnaamextensie voor ondertiteling is .vtt. U kunt meer informatie over de WebVTT ondertitelingsnorm leren.<br><br>[Zie WebVTT](https://w3c.github.io/webvtt/): De indeling Webvideoteksttracks. <br><br>Er zijn zowel gratis als tegen betaling voor gereedschappen en services die u kunt gebruiken voor het maken van bijschriftbestanden buiten Dynamic Media Classic. Als u bijvoorbeeld een eenvoudig videobijschriftbestand zonder opmaak wilt maken, kunt u de volgende gratis gereedschappen voor het maken en bewerken van bijschriften gebruiken: <br><br>[WebVTT Caption Maker](https://testdrive-archive.azurewebsites.net/Graphics/CaptionMaker/Default.html) <br><br>Gebruik voor de beste resultaten het gereedschap in Internet Explorer 9 of hoger, Google Chrome of Safari. <br><br>Plak in het veld URL van het videobestand  <b>invoeren de URL van </b> het videobestand in het gereedschap en klik vervolgens op  <b>Laden</b>. <br><br>Als u bijvoorbeeld een klassieke Dynamic Media-URL voor uw videobestand gebruikt, dubbelklikt u op een afzonderlijk video-element (geen adaptieve videoset of een Master video) om deze te openen in de gedetailleerde weergave. Vouw URL&#39;s uit en sluit code in in het rechterdeelvenster van de detailweergave. Klik vervolgens onder de groep Mobiele apparaten rechts van Mobiel (progressief) op URL kopiëren. Dit proces geeft u URL aan het videodossier zelf dat u in <b>ga URL van videodossier</b> gebied dan kunt kleven. Internet Explorer, Chrome of Safari kunnen de video vervolgens op een native manier afspelen. Volg nu de aanwijzingen op het scherm van de site om het WebVTT-bestand te ontwerpen en op te slaan. Wanneer u klaar bent, kopieert u de inhoud van het bijschriftbestand en plakt u deze in een teksteditor zonder opmaak en slaat u het bestand op met de bestandsnaamextensie .vtt. <br><br><b>Opmerking:</b> voor wereldwijde ondersteuning van videobijschriften in andere talen dan Engels, vereist de WebVTT-standaard dat u afzonderlijke .vtt-bestanden maakt en aanroepen voor elke taal die u wilt ondersteunen. <br><br>Over het algemeen wilt u het VTT-bestand van het bijschrift dezelfde naam geven als het videobestand en dit bestand toevoegen met bijschriften. Hierdoor kunt u het genereren van video-URL&#39;s automatiseren met behulp van uw bestaande systeem voor webcontentbeheer. |
 
 1. Upload in Dynamic Media Classic uw WebVTT-, DFXP- of SMPTE XML-bijschriftbestand.
 
@@ -59,7 +61,7 @@ Zie [Statische (niet-afbeeldings) inhoud](https://experienceleague.adobe.com/doc
 
       `&caption=<full Copy URL path to the caption file .vtt>,1`
 
-      Noteer `,1` aan het einde van het pad voor de bijschrift-URL. Direct na de bestandsnaamextensie .VTT in het pad kunt u optioneel de knop voor een gesloten bijschrift op de videospelerbalk in- of uitschakelen door respectievelijk `1` of `0` in te stellen.
+      Noteer `,1` aan het einde van het pad voor de bijschrift-URL. Direct na de bestandsnaamextensie .vtt in het pad kunt u optioneel de knop voor een gesloten bijschrift op de videospelerbalk in- of uitschakelen door respectievelijk `1` of `0` in te stellen.
 
    * Voor een ingesloten videoviewerervaring klikt u op **[!UICONTROL Embed Code]** helemaal rechts van de naam.
 
@@ -69,5 +71,4 @@ Zie [Statische (niet-afbeeldings) inhoud](https://experienceleague.adobe.com/doc
 
       `videoViewer.setParam("caption","<full Copy URL path to the caption file .vtt>,1”`
 
-      Noteer `,1` aan het einde van het URL-pad. Direct na de bestandsnaamextensie .VTT in het URL-pad kunt u optioneel de bijschriftknop op de videospelerbalk in- of uitschakelen door respectievelijk `1` of `0` in te stellen.
-
+      Noteer `,1` aan het einde van het URL-pad. Direct na de bestandsnaamextensie .vtt in het URL-pad kunt u optioneel de bijschriftknop op de videospelerbalk in- of uitschakelen door respectievelijk `1` of `0` in te stellen.
