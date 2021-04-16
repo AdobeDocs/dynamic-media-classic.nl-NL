@@ -8,35 +8,32 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/template_basics
 discoiquuid: aa129b0e-fc73-4fc2-a894-4560b3f46c4f
 feature: Dynamic Media Classic
-role: Zakelijke praktiserer
+role: Business Practitioner
+exl-id: 65b8c314-7ec1-417f-8a7b-aa13762072a1
 translation-type: tm+mt
-source-git-commit: e727c1b5fb43c7def842ff1bafcc8b3ef3437cde
+source-git-commit: 98463dbc24e141547d01bd3f71b1b9fe3a692c14
 workflow-type: tm+mt
-source-wordcount: '249'
+source-wordcount: '236'
 ht-degree: 0%
 
 ---
-
 
 # Inhoudsvariaties beheren{#managing-content-variations}
 
 Gebruik sjabloonsets om de manier te beheren waarop elementvariaties worden gepubliceerd.
 
-Maak een sjabloonset om variaties van een sjabloon te beheren. U kunt bepalen welke variatie wordt gebruikt zonder de code op uw site te wijzigen. Zo kunnen inhoudsbeheerders inhoud roteren zonder dat IT een URL in de webcode hoeft te wijzigen.
+Maak een sjabloonset om variaties van een sjabloon te beheren. U kunt bepalen welke variatie wordt gebruikt zonder de code op uw site te wijzigen. Met deze methode kunnen inhoudsbeheerders inhoud roteren zonder dat ze een URL in de webcode hoeven te wijzigen.
 
-Met Universal URL&#39;s wordt de sjabloonvariatie weergegeven die op de pagina wordt weergegeven, op basis van de volgorde waarin deze in de set worden weergegeven. De sjabloon boven aan de lijst met sjabloonsets wordt altijd gepubliceerd.
+Universele URL&#39;s worden gebruikt om de sjabloonvariatie weer te geven die op de pagina wordt weergegeven, op basis van de volgorde waarin ze in de set worden weergegeven. De sjabloon boven aan de lijst met sjabloonsets wordt altijd gepubliceerd.
 
 U kunt elke vooraf ingestelde URL voor afbeeldingen uit de lijst gebruiken. URL&#39;s met voorinstellingen voor afbeeldingen zijn vergelijkbaar met universele URL&#39;s. Er kunnen meerdere vooraf ingestelde URL&#39;s voor afbeeldingen zijn.
 
-1. Klik op Samenstellen > Sjabloonsets.
+1. Klik op **[!UICONTROL Build]** > **[!UICONTROL Template Sets]**. De builder wordt geopend.
+1. Selecteer een sjabloon en klik op **[!UICONTROL Add/Preview]**.
+1. Wijzig de sjablooneigenschappen en klik op **[!UICONTROL Save As]** om een andere versie te maken.
+1. Typ een naam en klik op **[!UICONTROL Save]**.
 
-   De builder wordt geopend.
-
-1. Selecteer een sjabloon en klik vervolgens op Toevoegen/Voorvertoning.
-1. Wijzig de sjablooneigenschappen en klik op Opslaan als om een nieuwe versie te maken.
-1. Typ een naam en klik op Opslaan.
-
-   U moet zowel het element als de sjabloon publiceren.
+   Zowel het element als de sjabloon moeten worden gepubliceerd.
 
 1. Ga naar de detailpagina om een kopie van de URL&#39;s-sectie op te halen.
 
@@ -44,5 +41,4 @@ U kunt een sjabloon in de sjabloonvolgorde (bijvoorbeeld boven aan de lijst) ver
 
 >[!NOTE]
 >
->Mogelijk moet u de cache wissen om de wijzigingen te kunnen zien. De wijziging wordt alleen op de website weergegeven nadat de wijziging de cachemyclus heeft doorlopen.
-
+>Wis zo nodig de cache om de wijzigingen te zien. De wijziging wordt alleen op de website weergegeven nadat de wijziging de cachemyclus heeft doorlopen.
