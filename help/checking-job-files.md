@@ -8,15 +8,15 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/upload_and_publish_assets
 discoiquuid: d53ae5dd-8daf-4d87-b9a6-3039bad30538
 feature: Dynamic Media Classic, beheer van bedrijfsmiddelen
-role: Zakelijke praktiserer
+role: Business Practitioner
+exl-id: b6b11e1c-5eda-4bdb-8ffb-ecd3678f2352
 translation-type: tm+mt
-source-git-commit: 3def4a02eda8dc36f2811b3d4f0e870fff1994e4
+source-git-commit: 98463dbc24e141547d01bd3f71b1b9fe3a692c14
 workflow-type: tm+mt
-source-wordcount: '1584'
+source-wordcount: '1582'
 ht-degree: 1%
 
 ---
-
 
 # Taakbestanden controleren{#checking-job-files}
 
@@ -121,7 +121,7 @@ In deze tabel worden de tijdtoename, de toegestane waarden en de jokertekens wee
 | Uren | 0-23 | Let op het gebruik van een 24-uurs klok. | `, - * /` |
 | Dag van de maand | 1-31 | U kunt geen numerieke waarde opgeven voor zowel &quot;dag van de maand&quot; als &quot;dag van de week&quot;. Een van deze velden moet een jokerteken `?` gebruiken. | `, - * / ? L C` |
 | Maand | 1-12 of jan, feb, mrt, apr, mei, jun, jul, aug, sep, sept, okt, nov, dec | Waarden zijn hoofdlettergevoelig. | `, - * /` |
-| Dag van de week | Mon, Tue, Wed, Thu, Fri, Zat, Sun | Waarden zijn hoofdlettergevoelig. U kunt geen numerieke waarde opgeven voor zowel &quot;dag van de maand&quot; als &quot;dag van de week&quot;. Een van deze velden moet een ? jokerteken. | `, - * / ? L C #` |
+| Dag van de week | Mon, Tue, Wed, Thu, Fri, Zat, Sun | Waarden zijn hoofdlettergevoelig. U kunt geen numerieke waarde opgeven voor zowel &quot;dag van de maand&quot; als &quot;dag van de week&quot;. Een van deze velden moet een jokerteken `?` gebruiken. | `, - * / ? L C #` |
 | Jaar (optioneel) | Leeg of 1970-2099 |  | `, - * /` |
 
 
@@ -153,6 +153,6 @@ In deze lijst staan voorbeelden van tijdintervallen in het vak Regel:
 
 ## Een upload- of publicatietaak gebruiken als trigger {#using-an-upload-or-publish-job-as-a-trigger}
 
-Wanneer u elementen uploadt via FTP of een publicatietaak uitvoert, kunt u een volgende taak plannen die moet beginnen wanneer het uploaden is voltooid. (Als andere taken volgens de planning moeten beginnen, wordt de taak die u hier instelt, in de wachtrij geplaatst.) De nieuwe baan verzendt een bericht naar het adres u specificeert zodat de code bij die plaats kan worden teweeggebracht. Deze opvolguploadtaak krijgt dezelfde naam als de huidige uploadtaak, maar met het voorvoegsel _Pub.
+Wanneer u elementen uploadt via FTP of een publicatietaak uitvoert, kunt u een volgende taak plannen die moet beginnen wanneer het uploaden is voltooid. (Als andere taken volgens planning moeten beginnen, wordt de taak die u hier instelt, in de wachtrij geplaatst.) De nieuwe baan verzendt een bericht naar het adres u specificeert zodat de code bij die plaats kan worden teweeggebracht. Deze opvolguploadtaak krijgt dezelfde naam als de huidige uploadtaak, maar met het voorvoegsel _Pub.
 
 Selecteer Geavanceerd op de pagina Uploaden of Publiceren als u een upload- of publicatietaak wilt laten activeren voor een andere taak. Voer vervolgens de URL in het tekstveld HTTP-kennisgeving in.
