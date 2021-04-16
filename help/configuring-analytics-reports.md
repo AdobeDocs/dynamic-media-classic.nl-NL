@@ -8,21 +8,21 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/adobe_analytics_instrumentation_kit
 discoiquuid: f4c8c2b3-cc95-416f-9a5d-da81c231dfc2
 feature: Dynamic Media Classic
-role: Data Engineer,beheerder,Business Practice
+role: Data Engineer,Administrator,Business Practitioner
+exl-id: d9fda3b8-7da8-4a30-a5f8-9bb34ec1b43d
 translation-type: tm+mt
-source-git-commit: e727c1b5fb43c7def842ff1bafcc8b3ef3437cde
+source-git-commit: 98463dbc24e141547d01bd3f71b1b9fe3a692c14
 workflow-type: tm+mt
-source-wordcount: '1200'
+source-wordcount: '1188'
 ht-degree: 0%
 
 ---
-
 
 # Adobe Analytics-rapporten configureren{#configuring-adobe-analytics-reports}
 
 Ga naar het scherm Adobe Analytics Configuration om Adobe Analytics te vertellen welke informatie u wilt opnemen in Adobe Analytics-rapporten. Nadat u rapporten vormt, maakt dit het schermlijsten, voor elke kijkergebeurtenis u informatie over, een overeenkomstige variabele van Adobe Analytics en de Klassieke variabele van Dynamic Media wilt. Deze combinaties van viewergebeurtenissen, Adobe Analytics variable-Dynamic Media Classic, bepalen welke informatie wordt gerapporteerd.
 
-Naast het koppelen van viewergebeurtenissen aan variabelen, biedt het Adobe Analytics-configuratiescherm hulpprogramma&#39;s voor het activeren, bewerken en verwijderen van viewergebeurtenissen.
+Naast het koppelen van viewergebeurtenissen aan variabelen, biedt het scherm Adobe Analytics Configuration hulpprogramma&#39;s voor het activeren, bewerken en verwijderen van viewergebeurtenissen.
 
 >[!NOTE]
 >
@@ -38,7 +38,7 @@ Gebruik het Adobe Analytics-configuratiescherm om viewergebeurtenissen te koppel
 
 **Adobe Analytics-variabelen toewijzen aan Dynamic Media Classic viewer-gebeurtenissen en -variabelen**
 
-1. Nadat u zich bij Adobe Analytics van binnen Classic Dynamic Media hebt aangemeld en een rapportreeks selecteert, op de pagina van de Configuratie van Adobe Analytics, in de uiterst juiste kolom van de tabel, activeert u een viewergebeurtenis door op **Inschakelen** te klikken.
+1. Nadat u zich bij Adobe Analytics van binnen Classic Dynamic Media hebt aangemeld en een rapportreeks selecteert, op de pagina van de Configuratie van Adobe Analytics, in de juiste lijstkolom, activeert u een viewergebeurtenis door **[!UICONTROL Enable]** te klikken.
 1. Geef onder de kolom Variabelen de optie voor het variabele paar weer door op de pijlknop voor de gewenste Viewer-gebeurtenis te klikken.
 
    Zie [Viewergebeurtenissen](configuring-analytics-reports.md#viewer_events).
@@ -60,7 +60,7 @@ Gebruik het Adobe Analytics-configuratiescherm om viewergebeurtenissen te koppel
 
 ### Viewergebeurtenissen {#viewer-events}
 
-Viewergebeurtenissen beschrijven acties die gebruikers uitvoeren met Dynamic Media Classic-viewers. Wanneer een gebruiker een bepaalde actie start, zoals klikken op een miniatuur of een video starten of stoppen, &quot;zendt de viewer&quot; een gebeurtenis naar de webpagina, samen met de gegevens die aan die gebeurtenis zijn gekoppeld.
+Viewergebeurtenissen beschrijven acties die gebruikers uitvoeren met Dynamic Media Classic-viewers. Wanneer een gebruiker een bepaalde actie start, zoals het klikken op een miniatuur of het starten of stoppen van een video, &quot;zendt de viewer&quot; een gebeurtenis naar de webpagina, samen met de gegevens die aan die gebeurtenis zijn gekoppeld.
 
 In de volgende tabel worden de viewergebeurtenissen beschreven die u kunt toevoegen aan het Adobe Analytics-configuratiescherm.
 
