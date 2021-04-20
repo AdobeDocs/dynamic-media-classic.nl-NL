@@ -2,7 +2,7 @@
 title: Dynamic Media Classic Training Video's
 description: Dynamic Media Classic trainingsvideo's over aan de slag gaan, dynamische beeldbewerking, video, mediaportaal, sjablonen en het ontwerpen en renderen van afbeeldingen.
 feature: Dynamic Media Classic
-role: Beheerder, Business Practiter
+role: Administrator,Business Practitioner
 translation-type: tm+mt
 source-git-commit: e727c1b5fb43c7def842ff1bafcc8b3ef3437cde
 workflow-type: tm+mt

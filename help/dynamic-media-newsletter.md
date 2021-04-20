@@ -3,7 +3,7 @@ description: 'De Dynamic Media-nieuwsbrief van Experience League is een maandeli
 keywords: dynamische media;nieuwsbrief;productupdates;tips en trucs;gebeurtenissen;succes van de klant;blog;blogs;beelden;video;eigenschappen;mogelijkheden
 title: Dynamic Media Newsletter
 feature: Dynamic Media Classic
-role: Beheerder, Business Practiter
+role: Administrator,Business Practitioner
 translation-type: tm+mt
 source-git-commit: e727c1b5fb43c7def842ff1bafcc8b3ef3437cde
 workflow-type: tm+mt
