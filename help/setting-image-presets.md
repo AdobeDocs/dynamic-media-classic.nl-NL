@@ -7,16 +7,16 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/image_sizing
 discoiquuid: 1ec39fe5-7b2a-4034-9570-6b5595f97052
-feature: Dynamic Media Classic,Image Presets
+feature: Dynamic Media Klassiek, voorinstellingen afbeelding
 role: Business Practitioner
+exl-id: 336802cc-b032-49b2-b2e6-d699bc997ee5
 translation-type: tm+mt
-source-git-commit: e727c1b5fb43c7def842ff1bafcc8b3ef3437cde
+source-git-commit: 7456226cf6469f40e66ff327475d4c605b6d6e13
 workflow-type: tm+mt
-source-wordcount: '656'
+source-wordcount: '654'
 ht-degree: 10%
 
 ---
-
 
 # Voorinstellingen afbeelding instellen{#setting-up-image-presets}
 
@@ -30,7 +30,7 @@ Afbeeldingen die kleiner worden wanneer ze dynamisch van een server worden gelev
 
 U kunt uw eigen Voorinstellingen voor afbeeldingen maken als u een bedrijfsbeheerder bent. U kunt nieuwe voorinstellingen voor afbeeldingen maken of beginnen met een standaardvoorinstelling voor afbeeldingen die beschikbaar is in Dynamic Media Classic, deze bewerken en opslaan onder een andere naam.
 
-**Een voorinstelling voor afbeeldingen maken**
+**Een voorinstelling voor afbeeldingen maken:**
 
 1. Klik **Setup** > **Voorinstellingen afbeelding**.
 
@@ -64,8 +64,8 @@ optiesVoer de hier weergegeven instellingen in:
    | Type voorinstelling | Grootte | USM: Hoeveelheid | USM: Straal | USM: Drempel |
    |--- |--- |--- |--- |--- |
    | Cross-Sell (miniatuur) | 75 x 75 | 1,5 | 0,8 | 5 |
-   | Miniatuur | 150 x 150 | 1,1 | 3 | 5 |
-   | Hoofd | 350 x 350 | 1 | 3 | 6 |
+   | Miniatuur | 150 x 150 | 1,1 | 1 | 5 |
+   | Hoofd | 350 x 350 | 1 | 1 | 6 |
    | Vergroten | 500 x 500 | 1,2 | 1,2 | 5 |
 
 1. Klik **Opslaan**.
