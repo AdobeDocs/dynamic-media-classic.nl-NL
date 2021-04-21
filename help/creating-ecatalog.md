@@ -9,14 +9,14 @@ geptopics: SG_SCENESEVENONDEMAND_PK/categories/ecatalogs
 discoiquuid: 28889c60-596a-40d2-85d4-f48a4f86b932
 feature: Dynamic Media Classic,Viewers,eCatalog
 role: Business Practitioner
+exl-id: 51d411b2-b4bc-4cf6-afca-dd0ed0d219a1
 translation-type: tm+mt
-source-git-commit: e727c1b5fb43c7def842ff1bafcc8b3ef3437cde
+source-git-commit: 7456226cf6469f40e66ff327475d4c605b6d6e13
 workflow-type: tm+mt
-source-wordcount: '1008'
+source-wordcount: '965'
 ht-degree: 0%
 
 ---
-
 
 # Een eCatalog{#creating-an-ecatalog} maken
 
@@ -24,7 +24,7 @@ Als u een eCatalog maakt, moet u de pagina&#39;s ordenen, de paginalay-out kieze
 
 ## Een eCatalog {#create} maken
 
-U kunt afbeeldingsbestanden en PDF-bestanden in uw eCatalog opnemen.
+U kunt afbeeldingsbestanden en PDF-bestanden opnemen in uw eCatalog.
 
 Wanneer u een eCatalog creeert, **publiceer na sparen** optie beïnvloedt de reeks en vastgestelde leden op de volgende manieren:
 
@@ -39,45 +39,47 @@ Zie ook [Elementen handmatig publiceren](publishing-files.md#manually_publishing
 
 1. Maak uw eCatalog met een van de volgende technieken:
 
-   **Selecteer de bestanden** eerst in het deelvenster Bladeren, selecteer de gewenste bestanden en klik vervolgens op Samenstellen > eCatalogs.
+   * **Selecteer eerst**  de bestanden in het deelvenster Bladeren en selecteer vervolgens de gewenste bestanden. Klik vervolgens op  **[!UICONTROL Build]** >  **[!UICONTROL eCatalogs]**.
 
-   **Begin van het eCatalog** schermKlik Bouwstijl > eCatalogs. Selecteer een map in de elementenbibliotheek en sleep bestanden van de map naar het tabblad Order Pages op de pagina eCatalog.
+   * **Begin in het eCatalog scherm**  - klik  **[!UICONTROL Build]** >  **[!UICONTROL eCatalogs]**. Selecteer een map in de elementenbibliotheek en sleep bestanden van de map naar het tabblad Order Pages op de pagina eCatalog.
 
-   ***opmerking**: Als u de items in de elementenbibliotheek op naam wilt weergeven in plaats van op miniatuur, selecteert u de optie Naam voor de weergave Standaard in de elementenbibliotheek in Persoonlijke instellingen. *
+      >[!NOTE]
+      >
+      >Als u de items in de elementenbibliotheek op naam wilt weergeven in plaats van op miniatuur, selecteert u de optie Naam voor de weergave Standaard in de elementenbibliotheek in Persoonlijke instellingen.
 
-1. Selecteer een algemene lay-out voor uw eCatalog. Klik op de knop 1 omhoog voor enkele pagina&#39;s, de knop 2 omhoog voor spreads met twee pagina&#39;s of de knop Aangepast voor spreads met meer dan twee pagina&#39;s. Het dialoogvenster Layout eCatalog wijzigen wordt geopend. Selecteer de opties voor alle spreads en klik op **OK**.
-1. Wijzig desgewenst de indeling van afzonderlijke pagina&#39;s of paginaspread door erop te klikken en vervolgens de knop 1 exemplaren tonen, 2 exemplaren tonen of Aangepast te kiezen. Het dialoogvenster Layout eCatalog wijzigen wordt geopend. Selecteer de geselecteerde opties voor spreads en klik op **OK**.
+1. Selecteer een algemene lay-out voor uw eCatalog. Klik op de knop 1 omhoog voor enkele pagina&#39;s, de knop 2 omhoog voor spreads met twee pagina&#39;s of de knop Aangepast voor spreads met meer dan twee pagina&#39;s. Het dialoogvenster Layout eCatalog wijzigen wordt geopend. Selecteer de opties voor alle spreads en klik op **[!UICONTROL OK]**.
+1. Wijzig desgewenst de indeling van afzonderlijke pagina&#39;s of paginaspread door erop te klikken en vervolgens **[!UICONTROL 1 Up]**, **[!UICONTROL 2 Up]** of **[!UICONTROL Custom]** te kiezen. Het dialoogvenster Layout eCatalog wijzigen wordt geopend. Selecteer de geselecteerde opties voor spreads en klik op **[!UICONTROL OK]**.
 1. U kunt de pagina&#39;s op een van de volgende manieren opnieuw ordenen:
 
-   **** SlepenSleep een pagina of spread naar een nieuwe locatie. Op de verticale balk ziet u waar de pagina wordt verplaatst.
+   * **Slepen**  - Sleep een pagina of paginaspread naar een nieuwe locatie. Op de verticale balk ziet u waar de pagina wordt verplaatst.
 
-   **Ga naar** knopSelecteer een pagina of paginaspread, klik op de knop Verplaatsen naar en kies de pagina in het menu waarvan u de pagina eerder wilt weergeven.
+   * **Ga naar knop**  - Selecteer een pagina of een paginaspread, klik  **[!UICONTROL Move To]** en kies de pagina in het menu die u eerder wilt weergeven.
 
-   **Reeks #** In de Mening van de Lijst, ga paginaaantallen in de Reeks # gebieden in.
+   * **Reeks #** - in de Mening van de Lijst, ga paginaaantallen in de Reeks # gebieden in.
 
-1. Als u klaar bent, gaat u naar de rechterbenedenhoek van de pagina en controleert u of **Publiceren na opslaan** is geselecteerd (standaard).
-1. Klik **Opslaan**.
+1. Als u klaar bent, controleert u of **[!UICONTROL Publish after save]** is geselecteerd (standaard) in de rechterbenedenhoek van de pagina.
+1. Klik op **[!UICONTROL Save]**.
 1. Selecteer in het dialoogvenster Opslaan een map voor het opslaan van uw eCatalog. Voer in het veld Bestandsnaam de naam van de spin-set in.
-1. Klik **Opslaan**.
+1. Klik op **[!UICONTROL Save]**.
 
-   U kunt een voorvertoning van uw eCatalog weergeven nadat u de catalogus hebt opgeslagen door op **Voorvertoning** te klikken.
+   U kunt een voorvertoning van de eCatalog weergeven nadat u de catalogus hebt opgeslagen door op **[!UICONTROL Preview]** te klikken.
 
 ## Een eCatalog {#editing-an-ecatalog} bewerken
 
-Afhankelijk van het feit of u een gepubliceerde set of een niet-gepubliceerde set bewerkt, beïnvloedt de optie **Publiceren na opslaan** de set en stelt u de leden als volgt in:
+Afhankelijk van het feit of u een gepubliceerde set of een niet-gepubliceerde set bewerkt, heeft de optie **[!UICONTROL Publish after save]** op de volgende manieren invloed op de set en stelt u de leden in:
 
 | Reeds gepubliceerd instellen? | De optie Publiceren na opslaan is geselecteerd voordat u de bewerking opslaat? | Status van set na opslaan | Status van ingestelde leden na opslaan |
 |--- |--- |--- |--- |
 | Ja | Ja | Gepubliceerd | Gepubliceerd |
-| Ja | Nee | Gepubliceerd | Bestaande leden van een set behouden hun gepubliceerde status. Alle nieuwe leden die u tijdens het bewerken hebt toegevoegd, behouden hun gepubliceerde of niet-gepubliceerde status. |
+| Ja | Nee | Gepubliceerd | Bestaande leden met een set behouden hun gepubliceerde status. Alle nieuwe leden die u tijdens het bewerken hebt toegevoegd, behouden hun gepubliceerde of niet-gepubliceerde status. |
 | Nee | Ja | Gepubliceerd | Gepubliceerd |
 | Nee | Nee | Ongepubliceerd | Bestaande leden die zijn ingesteld en eventuele nieuwe leden die u tijdens de bewerking hebt toegevoegd, behouden hun gepubliceerde of niet-gepubliceerde status. |
 
 Zie ook [Elementen handmatig publiceren](publishing-files.md#manually_publishing_assets) en [Publicaties van elementen handmatig ongedaan maken](publishing-files.md#manually_unpublishing_assets).
 
-**Een eCatalog bewerken**
+**Een eCatalog bewerken:**
 
-1. Klik op de rollover-knop **Bewerken** van de eCatalog.
+1. Klik op de rollover-knop **[!UICONTROL Edit]** van de eCatalog.
 1. Breng de gewenste wijzigingen aan.
 1. Als u klaar bent met bewerken, controleert u of u in de rechterbenedenhoek van de pagina **Publiceren na opslaan** hebt geselecteerd (standaardinstelling).
 1. Klik **Opslaan**, selecteer een opslagmap, voer een naam voor de set in en klik op **Opslaan**.
@@ -111,13 +113,13 @@ Als u de paginanamen een voor een handmatig wilt invoeren, gaat u naar het tabbl
 
 Het wordt aanbevolen paginanamen te importeren als u te maken hebt met een eCatalog met veel pagina&#39;s. U kunt de namen importeren uit een door tabs gescheiden of XML-bestand.
 
-Het label van de inhoudsopgave wordt opgeslagen in het veld Gebruikersgegevens van een afbeelding. formatteren deze gegevens als lijst van `name=<value>` ` pairs separated by two question marks “??” `. Als u bijvoorbeeld één label wilt instellen voor een inhoudsopgaveveld met de naam tocEN &quot;, stelt u de gebruikersgegevens van de afbeelding in op:
+Het label van de inhoudsopgave wordt opgeslagen in het veld Gebruikersgegevens van een afbeelding. formatteren deze gegevens als lijst van `name=<value>` ` pairs separated by two question marks “??” `. Als u bijvoorbeeld één label wilt instellen voor een inhoudsopgaveveld met de naam `tocEN`, stelt u de gebruikersgegevens van de afbeelding in op:
 
-tocEN=&lt;NL_page_label>
+`tocEN=&lt;EN_page_label>`
 
-Als u afzonderlijke labels wilt instellen voor inhoudsopgavevelden met de naam tocEN en tocFR:
+Als u afzonderlijke labels wilt instellen voor inhoudsopgavevelden met de namen `tocEN` en `tocFR`:
 
-tocEN=&lt;NL_page_label>??tocFR=&lt;FR_page_label>
+`tocEN=&lt;EN_page_label>??tocFR=&lt;FR_page_label>`
 
 Als u het veld Gebruikersgegevens wilt importeren in een door tabs gescheiden bestand, neemt u de gebruikersgegevens van het veld op:
 
