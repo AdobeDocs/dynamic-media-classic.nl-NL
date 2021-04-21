@@ -8,16 +8,16 @@ contentOwner: admin
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 discoiquuid: a0941823-850c-4373-9e37-f32032de3805
-feature: Dynamic Media Classic,Viewers,Video
+feature: Dynamic Media Klassiek,Viewers,Video
 role: Business Practitioner
+exl-id: 93ad91d7-f3dd-484b-b62c-633fcb864bbf
 translation-type: tm+mt
-source-git-commit: e727c1b5fb43c7def842ff1bafcc8b3ef3437cde
+source-git-commit: 7456226cf6469f40e66ff327475d4c605b6d6e13
 workflow-type: tm+mt
-source-wordcount: '3945'
+source-wordcount: '3930'
 ht-degree: 1%
 
 ---
-
 
 # Video&#39;s uploaden en coderen{#uploading-and-encoding-videos}
 
@@ -248,9 +248,9 @@ Stel dat uw bronvideo bijvoorbeeld 1920 x 1080 is. In de volgende tabel bieden d
 
 | Videotype | Breedte x hoogte | Breedteverhouding | Hoogteverhouding |
 |--- |--- |--- |--- |
-| Bron | 1920 x 1080 | 3 | 3 |
+| Bron | 1920 x 1080 | 1 | 1 |
 | Gecodeerd | 960 x 540 | 2 | 2 |
-| Gecodeerd | 640 x 360 | 3 | 3 |
+| Gecodeerd | 640 x 360 | 1 | 1 |
 | Gecodeerd | 480 x 270 | 4 | 4 |
 
 ### Gecodeerde videobestandsindeling {#encoded-video-file-format}
@@ -313,22 +313,24 @@ U kunt ook filteren op basis van een afspeelapparaatoptie om de lijst te beperke
 
 Geactiveerde videovoorinstellingen worden weergegeven in het dialoogvenster Taakopties uploaden. Dit is het dialoogvenster dat wordt weergegeven wanneer een gebruiker videobestanden uploadt tijdens het uploaden. Ze kunnen kiezen uit een lijst met alle geactiveerde coderingsvoorinstellingen.
 
-**Voorinstellingen voor videocodering activeren of deactiveren**
+**Voorinstellingen voor videocodering activeren of deactiveren:**
 
-1. Klik in Dynamic Media Classic op **Setup** > **Application Setup** > **Video Presets**.
+1. Klik in Dynamic Media Classic op **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Video Presets]**.
 1. Voer een van de volgende handelingen uit:
 
-   * Klik **Aangepaste videovoorinstellingen**.
-   * Klik **Voorinstellingen voor enkele codering**.
+   * Klik op **[!UICONTROL Adaptive Video Presets]**.
+   * Klik op **[!UICONTROL Single Encoding Presets]**.
 
 1. Voer een van de volgende handelingen uit:
 
    * Als u een videovoorinstelling wilt activeren, selecteert u op de pagina met voorinstellingen onder de kolom Actief het vakje naast de naam van een voorinstelling.
    * Als u een videovoorinstelling wilt deactiveren, schakelt u het vakje naast de videovoorinstellingen die u inactief wilt maken uit.
 
-      ***opmerking**: Inactieve videovoorinstellingen worden niet weergegeven in het dialoogvenster Opties voor uploaden. *
+      >[!NOTE]
+      >
+      >Inactieve videovoorinstellingen worden niet weergegeven in het dialoogvenster Opties voor uploaden.
 
-1. Klik in de rechterbenedenhoek van de pagina op **Close**.
+1. Klik in de rechterbenedenhoek van de pagina op **[!UICONTROL Close]**.
 
 ### Een voorinstelling voor videocodering toevoegen of bewerken {#adding-or-editing-a-video-encoding-preset}
 
