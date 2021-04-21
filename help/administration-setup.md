@@ -10,9 +10,9 @@ feature: Dynamic Media Classic
 role: Administrator
 exl-id: 14e3d8be-f265-4cec-aa8e-19ef71526b68
 translation-type: tm+mt
-source-git-commit: 31ac96e6fd11c47284d58540f5ec0135f0e6223b
+source-git-commit: 7456226cf6469f40e66ff327475d4c605b6d6e13
 workflow-type: tm+mt
-source-wordcount: '1938'
+source-wordcount: '1814'
 ht-degree: 0%
 
 ---
@@ -43,23 +43,23 @@ Nadat u een gebruiker hebt toegevoegd, stuurt Dynamic Media Classic een welkomst
 
 ### Een gebruiker of beheerder {#adding-a-user-or-administrator} toevoegen
 
-1. Klik op Setup > Application Setup > Administration Setup > User Administration.
-1. Klik op Toevoegen.
-1. Voer de naam en het e-mailadres in van de gebruiker of beheerder die u wilt toevoegen en klik op Volgende.
+1. Klik op **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Administration Setup]** > **[!UICONTROL User Administration]**.
+1. Klik op **[!UICONTROL Add]**.
+1. Voer de naam en het e-mailadres in van de gebruiker of beheerder die u wilt toevoegen en klik vervolgens op **[!UICONTROL Next]**.
 
    >[!NOTE]
    >
-   >Het apostrof-teken (&#39;) is niet toegestaan in e-mailadressen.
+   >Het apostrof-teken (`‘`) is niet toegestaan in e-mailadressen.
 
-1. Kies een optie Rol om een rol toe te wijzen aan de gebruiker.
+1. Als u een rol aan de gebruiker wilt toewijzen, kiest u een optie Rol.
 
    Zie [Dynamic Media Classic user rollen and privileges](administration-setup.md#user_administration).
 
-1. Selecteer een bedrijfsnaam om een gebruiker aan een bedrijf toe te voegen.
-1. Als u de gebruiker aan een groep wilt toevoegen (als u een gebruiker of een medewerker van het Portaal van Media toevoegt), daarna klikken en de gebruiker toevoegen.
-1. Klik op Opslaan om de gebruikersinstellingen te voltooien.
+1. Als u een gebruiker aan een bedrijf wilt toevoegen, selecteert u een bedrijfsnaam.
+1. Als u de gebruiker aan een groep wilt toevoegen (als u een gebruiker of medewerker van het Portaal van Media toevoegt), klik **[!UICONTROL Next]** en voeg de gebruiker toe.
+1. Klik **[!UICONTROL Save]** om de gebruikersinstelling te voltooien.
 
-   Na het bewaren, vraagt een herinnering of wilt u een gebruiker aan een ander bedrijf toevoegen. Klik toevoegen als u de gebruiker aan een bedrijf wilt toevoegen.
+   Na het bewaren, vraagt een herinnering of wilt u een gebruiker aan een ander bedrijf toevoegen. Klik **[!UICONTROL Add]** als u de gebruiker aan een bedrijf wilt toevoegen.
 
    Alle nieuwe gebruikers krijgen een willekeurig gegenereerd wachtwoord. gebruikers moeten de wachtwoorden wijzigen wanneer zij zich voor het eerst aanmelden bij de Dynamic Media Classic-bureaubladtoepassing.
 
@@ -67,34 +67,34 @@ Nadat u een gebruiker hebt toegevoegd, stuurt Dynamic Media Classic een welkomst
 
    Als de gebruiker het welkomstbericht niet ontvangt, meldt u hem of haar op de pagina Dynamic Media Classic aanmelden (https://s7sps1.scene7.com) en klikt u op Mijn wachtwoord vergeten. Het wachtwoord wordt opnieuw ingesteld en er wordt een nieuwe e-mail verzonden. Neem contact op met Technische ondersteuning als de gebruiker geen e-mail ontvangt en deze zich niet in de map Junk bevindt.
 
-   Wanneer u nieuwe gebruikers van Media Portal toevoegt, kunt u ook naar Setup > Toepassingsinstellingen > Gebruikersbeheer gaan en vervolgens op Gebruikerslijst uploaden klikken en een .csv-bestand selecteren dat maximaal 500 gebruikers bevat.
+   Wanneer u nieuwe gebruikers van Media Portal toevoegt, kunt u ook naar **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL User Administration]** gaan, dan **[!UICONTROL Upload User List]** klikken en een .csv-bestand selecteren dat niet meer dan 500 gebruikers bevat.
 
 ### Een gebruiker {#deleting-a-user} verwijderen
 
 U kunt gebruikers verwijderen uit Dynamic Media Classic door ze ongeldig te maken. Ongeldige gebruikers worden uit het systeem en alle accounts verwijderd.
 
-1. Klik **Setup** > **Toepassingsinstellingen** > **Beheerinstellingen** > **Gebruikersbeheer**.
-1. Selecteer een gebruiker in de lijst en klik op **Bewerken**.
+1. Klik op **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Administration Setup]** > **[!UICONTROL User Administration]**.
+1. Selecteer een gebruiker in de lijst en klik op **[!UICONTROL Edit]**.
 1. Schakel Geldig uit.
-1. Klik **Opslaan**.
+1. Klik op **[!UICONTROL Save]**.
 
 ### Gebruikers {#activating-or-deactivating-users} activeren of deactiveren
 
 Gebruikers die zijn gedeactiveerd, hebben niet langer toestemming om de account in te voeren die boven aan het menu Selecteer accounts om toegang te krijgen wordt vermeld.
 
-1. Klik **Setup** > **Toepassingsinstellingen** > **Beheerinstellingen** > **Gebruikersbeheer**.
-1. Schakel in de gebruikerslijst de optie Actief naast de naam van de gebruiker in of uit.
+1. Klik op **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Administration Setup]** > **[!UICONTROL User Administration]**.
+1. Schakel in de gebruikerslijst de optie **[!UICONTROL Active]** naast de naam van de gebruiker in of uit.
 
 ### Gebruikersgegevens {#editing-user-information} bewerken
 
 De gebruikersinformatie die u kunt uitgeven hangt van uw rol als beheerder en de toegewezen rol van de gebruiker af waarvan informatie u wilt uitgeven. Opties die grijs (niet beschikbaar) worden weergegeven, kunnen niet worden bewerkt.
 
-1. Ga naar **Setup** > **Application Setup** > **Administration Setup** > **Gebruikersbeheer**.
-1. Selecteer de gebruiker en klik **Edit**.
-1. Selecteer de ingang in de lijst die het bedrijf toont u probeert om toestemmingen of toegang voor te wijzigen, dan de Manage verbinding van het Bedrijf te klikken.
+1. Klik op **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Administration Setup]** > **[!UICONTROL User Administration]**.
+1. Selecteer de gebruiker en klik **[!UICONTROL Edit]**.
+1. Selecteer de ingang in de lijst die het bedrijf toont u probeert om toestemmingen of toegang voor te wijzigen, dan **[!UICONTROL Manage Company]** te klikken.
 1. Selecteer de gebruikersrol.
-1. Als u het groepslidmaatschap van de gebruiker wilt wijzigen (als u een gebruiker of medewerker van Media Portal bewerkt of toevoegt), klikt u op Volgende en bewerkt u het groepslidmaatschap.
-1. Klik **Opslaan**.
+1. Als u het groepslidmaatschap van de gebruiker wilt wijzigen (als u een gebruiker of medewerker van Media Portal bewerkt of toevoegt), klikt u op **[!UICONTROL Next]** en bewerkt u het groepslidmaatschap.
+1. Klik op **[!UICONTROL Save]**.
 
 ### De gebruikerslijst {#filtering-and-sorting-the-user-list} filteren en sorteren
 
@@ -102,13 +102,13 @@ U kunt de gebruikerslijst filteren en sorteren om van gebruikers de plaats te be
 
 U kunt de volgende filtertechnieken voor gebruikerslijsten gebruiken:
 
-* **Filteren op groep**  - Selecteer het menu Op groep en kies een optie om de lijst te beperken tot gebruikers in een groep.
+* **Filteren op groep**  - Selecteer het  **[!UICONTROL By Group]** menu en kies een optie om de lijst te beperken tot gebruikers in een groep.
 
-* **Filteren op gebruikersrol**  - Selecteer het menu Op gebruikersrol en kies een optie om de lijst te beperken tot gebruikers of beheerders van verschillende typen.
+* **Filteren op gebruikersrol**  - Selecteer het  **[!UICONTROL By User Role]** menu en kies een optie om de lijst te beperken tot gebruikers of beheerders van verschillende typen.
 
-* **Filteren op veldnaam**  - Selecteer de optie Filteren op veld inschakelen. Selecteer vervolgens het menu Op veldnaam, kies een kolom voor het filteren van de lijst, selecteer het menu Filterteken en kies een letter. De lijst wordt op een van de kolommen gefilterd met de letter die u hebt gekozen. Schakel de optie Filteren op veld inschakelen uit om de volledige lijst weer te geven.
+* **Filteren op veldnaam**  - Selecteren  **[!UICONTROL Enable Filter By Field]**. Selecteer vervolgens het menu **[!UICONTROL By Field Name]**, kies een kolom voor het filteren van de lijst, selecteer het menu Filterteken en kies een letter. De lijst wordt op een van de kolommen gefilterd met de letter die u hebt gekozen. Schakel de optie **[!UICONTROL Enable Filter By Field]** uit om de volledige lijst weer te geven.
 
-* **Ongeldige gebruikers**  uitfilteren - Schakel de optie Inclusief ongeldig uit. In de zoekresultaten worden alleen gebruikers weergegeven die zich in het systeem bevinden. Ongeldige gebruikers zijn verwijderd uit het systeem en de accounts die u beheert.
+* **Ongeldige gebruikers**  uitfilteren - Selectie opheffen  **[!UICONTROL Include Invalid]**. In de zoekresultaten worden alleen gebruikers weergegeven die zich in het systeem bevinden. Ongeldige gebruikers zijn verwijderd uit het systeem en de accounts die u beheert.
 
 * **Sorteren op kolomkop**  - Klik op een kop om alle gebruikers te sorteren op hun status, alfabetisch op voornaam, achternaam of e-mail, op gebruikersrol of op geldige/ongeldige status.
 
@@ -144,13 +144,13 @@ You can link an Adobe IMS user identity to a Dynamic Media Classic IPS user acco
 
 ## Bandbreedte en opslag {#bandwidth-storage}
 
-De Klassieke Beheerders van Dynamic Media kunnen bandbreedte, opslag, en andere soorten rapporten voor de bedrijven produceren zij beheren. Deze rapporten zijn beschikbaar op het scherm Bandbreedte en opslag.
+De Klassieke Beheerders van Dynamic Media kunnen bandbreedte, opslag, en andere soorten rapporten voor de bedrijven produceren zij beheren. Deze rapporten zijn beschikbaar op de pagina Bandbreedte &amp; Opslag.
 
-Klik op Instellen > Persoonlijke instellingen om dit scherm te openen. Breid de Opstelling van het Beleid uit, en klik dan Bandbreedte &amp; Opslag.
+Klik op **[!UICONTROL Setup]** > **[!UICONTROL Personal Setup]** om deze pagina te openen. Breid **[!UICONTROL Administration Setup]** uit, en klik dan **[!UICONTROL Bandwidth & Storage]**.
 
 ### Typen rapporten {#types-of-reports}
 
-In de volgende tabel worden de rapporten beschreven die u kunt genereren op het scherm Bandbreedte en opslag:
+In de volgende tabel worden de rapporten beschreven die u kunt genereren op de pagina Bandbreedte en opslag:
 
 | Rapport | Informatie | Gebruiken |
 |:--- |:--- |:--- |
@@ -183,9 +183,9 @@ Het rapport Inhoud afbeelding biedt informatie over verzoeken om de volgende afb
 
 Een rapport over bandbreedte, opslag, afbeeldingsinhoud, domein, videostreaming of video-inhoud genereren:
 
-1. Kies Instellen > Persoonlijke instellingen.
-1. Breid de Opstelling van het Beleid uit, en klik dan Bandbreedte &amp; Opslag.
-1. Klik op een tabblad: Bandbreedte, opslag, afbeeldingsinhoud, domein, videostreaming of video-inhoud.
+1. Kies **[!UICONTROL Setup]** > **[!UICONTROL Personal Setup]**.
+1. Breid de Opstelling van het Beleid uit, en klik dan **[!UICONTROL Bandwidth & Storage]**.
+1. Klik op een tabblad: **[!UICONTROL Bandwidth]**, **[!UICONTROL Storage]**, **[!UICONTROL Image Content]**, **[!UICONTROL Domain]**, **[!UICONTROL Video Streaming]** of **[!UICONTROL Video Content]**.
 
    Zie [Typen rapporten](administration-setup.md#types_of_reports).
 
@@ -193,15 +193,15 @@ Een rapport over bandbreedte, opslag, afbeeldingsinhoud, domein, videostreaming 
 
 Nadat u een rapport hebt gegenereerd op de pagina Bandbreedte en opslag, kunt u opties kiezen voor het weergeven van informatie. U kunt kiezen hoe informatie wordt voorgesteld, informatie in een grafiek of gegevensnet bekijken, en een tijdspanne specificeren voor het vangen van informatie. In de weergave Gegevens kunt u ook gegevens sorteren en kolommen opnieuw rangschikken.
 
-* **Het bekijken van gegevens in een grafiek of gegevensnet**  - klik de optie van de Mening van de Grafiek om gegevens in een grafiek te bekijken; Klik op de optie Gegevens weergeven om gegevens in een gegevensraster weer te geven.
+* **Gegevens weergeven in een diagram of gegevensraster** . Klik  **[!UICONTROL Chart View]** om gegevens in een grafiek weer te geven. Klik  **[!UICONTROL Data View]** om gegevens in een gegevensraster weer te geven.
 
-* **Als u een presentatietype**  Rapport kiest, kiest u Overzicht, Dagelijks of maandelijks om de gegevens in een samenvattende vorm, op dag of op maand te ordenen. Niet alle rapporten verstrekken deze optie.
+* **Als u een presentatietype**  voor rapporten kiest, klikt u in het menu Type rapport  **[!UICONTROL Summary]** of  **[!UICONTROL Daily]** of  **[!UICONTROL Monthly]** ordent u de gegevens in een overzichtsvorm, op dag of op maand. Niet alle rapporten verstrekken deze optie.
 
-* **Het specificeren van een tijdspanne**  - kies opties om een tijdspanne voor uw rapport te bepalen, en dan Update te klikken nadat u een tijdspanne bepaalt:
+* **Een tijdsperiode**  opgeven - Kies opties om een tijdsperiode voor uw rapport te definiëren en klik vervolgens  **[!UICONTROL Update]** nadat u een tijdsperiode hebt gedefinieerd:
 
 * **Vooraf gedefinieerde tijdsperiode**  - Kies een optie in het menu Vooraf gedefinieerd rapport. Kies bijvoorbeeld Vorige maand om gegevens van de vorige maand vast te leggen.
 
-* **Aangepaste tijdsperiode**  - Kies Aangepast in het menu Vooraf gedefinieerd rapport. Kies vervolgens een datum in het menu Beginmaand (of Begindatum) en een datum in het menu # of # of Days). Voor de Rapporten van de Inhoud van het Domein en Video, kunt u een specifieke begin en einddatum kiezen voor het vangen van rapportinformatie.
+* **Periode**  van de douane - op het Vooraf bepaalde menu van het Rapport, klik  **[!UICONTROL Custom]**. Kies vervolgens een datum in het menu **[!UICONTROL Start Month]** (of **[!UICONTROL Start Date]**) en een datum in het menu # of Months (of # of Days). Voor de Rapporten van de Inhoud van het Domein en Video, kunt u een specifieke begin en einddatum kiezen voor het vangen van rapportinformatie.
 
 * **Gegevens sorteren (alleen in de gegevensweergave)**  - Als u gegevens in een kolom wilt sorteren, klikt u op de kop van de kolom. Klik nogmaals om in aflopende volgorde te sorteren.
 
@@ -211,7 +211,7 @@ Nadat u een rapport hebt gegenereerd op de pagina Bandbreedte en opslag, kunt u 
 
 Nadat u een rapport hebt gegenereerd, kunt u de gegevens exporteren voor gebruik in spreadsheets en andere toepassingen. U kunt ook rapporten afdrukken.
 
-* **Het uitvoeren van rapportgegevens**  - in de mening van Gegevens, soort, en rangschikt zonodig de gegevens. Open vervolgens het menu Exporteren en kies een indeling: Door tabs gescheiden, door komma&#39;s gescheiden of HTML-opmaak. De gegevens worden naar het klembord gekopieerd in de indeling die u hebt gekozen. U kunt de gegevens nu in een spreadsheet of een toepassing plakken.
+* **Het uitvoeren van rapportgegevens**  - in de mening van Gegevens, soort, en rangschikt zonodig de gegevens. Open vervolgens het menu **[!UICONTROL Export]** en kies een indeling: **[!UICONTROL Tab Delimited]**, **[!UICONTROL Comma Separated]** of **[!UICONTROL HTML Formatted]**. De gegevens worden naar het klembord gekopieerd in de indeling die u hebt gekozen. U kunt de gegevens nu in een spreadsheet of een toepassing plakken.
 
 * **Een rapport**  afdrukken - Klik  **[!UICONTROL Print]**, kies de gewenste opties in het dialoogvenster Afdrukken en klik op  **[!UICONTROL OK]**.
 
@@ -219,15 +219,15 @@ Nadat u een rapport hebt gegenereerd, kunt u de gegevens exporteren voor gebruik
 
 Klassieke Dynamic Media-beheerders kunnen rapporten met afbeeldingsfouten genereren. Een rapport van de Fout van het Beeld verstrekt een lijst van de 20 meest frequente beeldfouten, voor de afgelopen 24 uren, voor het bedrijf u momenteel het programma wordt geopend aan. Ga als volgt te werk om een rapport Afbeeldingsfout te genereren:
 
-1. Klik Opstelling > Persoonlijke Opstelling.
-1. Breid de Opstelling van het Beleid uit, en klik dan de Fouten van het Beeld.
+1. Klik op **[!UICONTROL Setup]** > **[!UICONTROL Personal Setup]**.
+1. Breid de Opstelling van het Beleid uit, en klik dan **[!UICONTROL Image Errors]**.
 1. (Optioneel) Voer een van de volgende handelingen uit:
 
-   * Klik op een kop om fouten te sorteren op koptekstgegevens. Standaard worden fouten gesorteerd op aantal exemplaren, hoogste op laagste.
+   * Als u fouten wilt sorteren op de koptekstgegevens, klikt u op een kop. Standaard worden fouten gesorteerd op aantal exemplaren, hoogste op laagste.
    * Beweeg de curseur over het gebied van de Reactie voor een fout om het specifieke foutenbericht te zien.
-   * Plaats de cursor boven het URL-veld of het verwijzingsveld om de koppeling naar de afbeelding of verwijzende webpagina weer te geven.
-   * Klik **[!UICONTROL URL Copy URL]** om de verbinding aan het daadwerkelijke beeld te kopiëren. U kunt deze koppeling in een browservenster plakken om naar de afbeelding te gaan en de fout te onderzoeken.
-   * Klik **[!UICONTROL Referrer Copy URL]** om de verbinding aan de verwijzende Web-pagina te kopiëren.
+   * Als u de koppeling naar de webpagina van de afbeelding of referentie wilt zien, plaatst u de cursor boven het URL-veld of het veld Referenter.
+   * Als u de koppeling naar de werkelijke afbeelding wilt kopiëren, klikt u op **[!UICONTROL URL Copy URL]**. U kunt deze koppeling in een browservenster plakken om naar de afbeelding te gaan en de fout te onderzoeken.
+   * Klik op **[!UICONTROL Referrer Copy URL]** om de koppeling naar de verwijzende webpagina te kopiëren.
 
 De weergegeven fouten gelden voor het bedrijf waarvoor u momenteel bent aangemeld. Elke fout bevat de volgende informatie:
 
