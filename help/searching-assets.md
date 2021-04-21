@@ -7,13 +7,13 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/managing_assets
 discoiquuid: effef4e7-37c5-42e2-9266-ecd026cad628
-feature: Dynamic Media Classic,Asset Management
+feature: Dynamic Media Classic, beheer van bedrijfsmiddelen
 role: Business Practitioner
 exl-id: 4b3f690c-7dff-4bf0-9366-085ba918fe6b
 translation-type: tm+mt
-source-git-commit: a5a6596213e273d806fbc012e2c63bf3458127b0
+source-git-commit: bd0659c015f259e25d6d07b620f5b1e948cabcbf
 workflow-type: tm+mt
-source-wordcount: '1409'
+source-wordcount: '1386'
 ht-degree: 0%
 
 ---
@@ -109,23 +109,26 @@ Ga als volgt te werk om elementen te zoeken door te filteren met de bijbehorende
 
 1. Klik op de knop Veld in een deelvenster en volg de volgende instructies om het filtermenu weer te geven en de filterbewerking samen te stellen:
 
-   **Een** metagegevensveld kiezenSelecteer de naam van het veld in het filtermenu.
+   * **Een metagegevensveld**  kiezen - Selecteer de naam van het veld in het filtermenu.
 
-   ***opmerking **: Alleen de namen van metagegevensvelden in de standaardweergave Metagegevens worden weergegeven in het filtermenu.*
+      >[!NOTE]
+      >
+      >Alleen de namen van metagegevensvelden in de standaardweergave Metagegevens worden weergegeven in het filtermenu.
 
-   Zie [Metagegevensweergaven](application-setup.md#metadata_views).
+      Zie [Metagegevensweergaven](application-setup.md#metadata_views).
 
-   **Een** veld voor metagegevens toevoegenKies Deelvenster toevoegen. Nadat het deelvenster in het deelvenster Filters wordt weergegeven, klikt u op de knop Veld en kiest u de naam van een metagegevensveld in het filtermenu.
+   * **Een metagegevensveld**  toevoegen: kies Deelvenster toevoegen. Nadat het deelvenster in het deelvenster Filters wordt weergegeven, klikt u op de knop Veld en kiest u de naam van een metagegevensveld in het filtermenu.
 
-   **Een** veld voor metagegevens verwijderenKies Dit deelvenster verwijderen in het filtermenu.
+   * **Een metagegevensveld**  verwijderen - Kies een optie  **[!UICONTROL Remove This Panel]** in het filtermenu.
 
    Wanneer u een metagegevensveld kiest, wordt in het deelvenster ervan het volgende weergegeven:
 
    * Alle waarden voor metagegevens die in het veld worden ingevoerd.
    * Voor elke metagegevenswaarde het aantal elementen op basis van de waarde.
 
+
 1. Herhaal stap 2 zo vaak als nodig is om alle metagegevensvelden voor de filterbewerking op deelvensters weer te geven.
-1. Selecteer in elk deelvenster een metagegevenswaarde waarop u wilt filteren. U kunt niet meer dan één metagegevenswaarde selecteren in elk deelvenster.
+1. Selecteer in elk deelvenster een metagegevenswaarde waarop u wilt filteren. U kunt niet meer dan één metagegevenswaarde in elk deelvenster selecteren.
 
    Middelen die overeenkomen met alle waarden die u hebt geselecteerd, worden weergegeven in het deelvenster Bladeren.
 
@@ -139,11 +142,11 @@ Ga als volgt te werk om elementen te zoeken door te filteren met de bijbehorende
 
 Volg de onderstaande instructies op het tabblad Filters om filterbewerkingen op te slaan, te herhalen en te verwijderen:
 
-**Een filterbewerking opslaan.** Klik op de knop Voorinstelling selecteren, kies Huidige opslaan als nieuwe voorinstellingen en voer een naam in het dialoogvenster Opslaan in.
+* **Een filterbewerking**  opslaan - Klik  **[!UICONTROL Select Preset]**, kies  **[!UICONTROL Save Current As New Presets]** en voer een naam in het dialoogvenster Opslaan in.
 
-**Herhaling van een filterbewerkingKlik op de knop Voorinstelling selecteren en kies de naam van een filterbewerking in het menu.** Het menu bevat filterbewerkingen die u hebt opgeslagen.
+* **Herhalend een filterverrichting**  - klik  **[!UICONTROL Select Preset]** en kies de naam van een filterverrichting op het menu. Het menu bevat filterbewerkingen die u hebt opgeslagen.
 
-**Een filterbewerking verwijderen uit het** menu Voorinstelling selecteren. Voer de filterbewerking uit. Klik vervolgens op de knop Voorinstelling selecteren en kies Voorinstelling verwijderen in het menu.
+* **Een filterbewerking verwijderen uit het menu**  Voorinstelling selecteren - De filterbewerking uitvoeren. Klik vervolgens op **[!UICONTROL Select Preset]** en kies Voorinstelling verwijderen in het menu.
 
 ## De metagegevensserver {#using-the-metadata-server} gebruiken
 
@@ -153,15 +156,15 @@ Klik op Setup > Application Setup > Publish Setup > Metadata Server om de metage
 
 Het scherm Metadata Server Publish wordt geopend. In dit scherm kunt u de volgende opties instellen:
 
-**Onmiddellijk** publicerenHiermee worden eventuele wijzigingen in metagegevens automatisch doorgevoerd wanneer deze worden doorgevoerd, zoals nieuwe elementen, trefwoordwijzigingen enzovoort.
+* **Onmiddellijk publiceren**  - duwt automatisch om het even welke meta-gegevensveranderingen wanneer zij worden aangebracht, met inbegrip van nieuwe activa, sleutelwoordveranderingen, etc.
 
-**XMP** PacketPublishes the XMP Packet. Dit pakket wordt niet gebruikt voor het zoeken, maar verstrekt de meest bijgewerkte XMP/
+* **XMP Pakket**  - publiceert het XMP Pakket. Dit pakket wordt niet gebruikt voor het zoeken, maar verstrekt de meest bijgewerkte XMP/
 
-**** TrefwoordenHiermee publiceert u de trefwoorden naar de metagegevensserver voor gebruik in zoekopdrachten.
+* **Trefwoorden**  - Uw trefwoorden worden naar de metagegevensserver gepubliceerd voor gebruik in zoekopdrachten.
 
-**Metagegevensserver publiceert** veldenSelecteer de velden die u wilt opnemen in de metagegevens. Op deze manier kunt u bepalen hoeveel informatie over uw elementen beschikbaar is voor het publiek. Deze velden worden ook weergegeven in Metagegevensweergaven, maar kunnen alleen worden gewijzigd op de metagegevensserver.
+* **Metagegevensserver publiceert velden**  - selecteer de velden die u wilt opnemen in de metagegevens. Op deze manier kunt u bepalen hoeveel informatie over uw elementen beschikbaar is voor het publiek. Deze velden worden ook weergegeven in Metagegevensweergaven, maar kunnen alleen worden gewijzigd op de metagegevensserver.
 
-Klik op **Nu publiceren** om de taak te starten. Er wordt een bevestiging weergegeven met de mededeling dat de taak is gestart.
+Klik **[!UICONTROL Publish Now]** om de baan te beginnen. Er wordt een bevestiging weergegeven met de mededeling dat de taak is gestart.
 
 >[!MORELIKETHIS]
 >
