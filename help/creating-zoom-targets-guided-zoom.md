@@ -7,20 +7,20 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/zoom
 discoiquuid: e7b4673c-8681-4741-912e-9a31cf106449
-feature: Dynamic Media Classic,Viewers,Zoom
+feature: Dynamic Media Klassiek,Viewers,Zoomen
 role: Business Practitioner
+exl-id: ffb799ba-1cf1-48e0-91a8-dea758139140
 translation-type: tm+mt
-source-git-commit: e727c1b5fb43c7def842ff1bafcc8b3ef3437cde
+source-git-commit: 7456226cf6469f40e66ff327475d4c605b6d6e13
 workflow-type: tm+mt
-source-wordcount: '716'
+source-wordcount: '712'
 ht-degree: 0%
 
 ---
 
-
 # Zoomdoelen maken voor zoomen met instructies{#creating-zoom-targets-for-guided-zoom}
 
-Met zoomdoelen kunnen gebruikers bepaalde gedeelten van een afbeelding bekijken. Naast vrij zoomen kunnen gebruikers ook op een zoomdoelminiatuur klikken en zoomen naar het gedeelte van de afbeelding waarop u de focus wilt plaatsen. Zoomdoelen bieden u de gelegenheid om de aantrekkelijke of interessante gedeelten van een afbeelding te benadrukken.
+Met zoomdoelen kunnen gebruikers bepaalde gedeelten van een afbeelding bekijken. Naast vrije zooming, kunnen de kijkers een duimnagel van het gezoemdoel klikken en aan het deel van het beeld zoemen u hen wilt concentreren op. Zoomdoelen bieden u de gelegenheid om de aantrekkelijke of interessante gedeelten van een afbeelding te benadrukken.
 
 ![Zoomdoelen maken voor zoomen met instructies](/help/assets/zo_guided_zoom.png)
 
@@ -42,11 +42,11 @@ Maak en bewerk zoomdoelen op het scherm Zoomdoeleditor. Selecteer een afbeelding
 * Klik op de rollover **[!UICONTROL Edit]** en kies Zoomdoelen.
 * Geef in het deelvenster Bladeren de afbeelding weer in **[!UICONTROL Detail View]** en klik vervolgens op **[!UICONTROL Zoom Targets]**.
 
-Klik in het scherm Zoomdoel-editor op **[!UICONTROL Select Target]** (pijl) om een doel te selecteren voordat u het formaat of de positie wijzigt. Klik op **[!UICONTROL Add Targets]** (rechthoek) om een zoomdoel in de afbeelding te maken. Het scherm van de Redacteur van het Doel van het Gezoem biedt ook hulpmiddelen voor het schrappen, het kopiëren, en het noemen van gezoemdoelstellingen.
+Klik in het scherm Zoomdoel-editor op **[!UICONTROL Select Target]** (pijl) om een doel te selecteren voordat u het formaat of de positie wijzigt. Als u een zoomdoel wilt maken in de afbeelding, klikt u op **[!UICONTROL Add Targets]** (rechthoek). De pagina Zoomdoel-editor bevat ook gereedschappen voor het verwijderen, kopiëren en benoemen van zoomdoelen.
 
 ### Een zoomdoel maken {#creating-a-zoom-target}
 
-Open het scherm Zoomdoel-editor en voer de volgende stappen uit om een zoomdoel te maken:
+Als u een zoomdoel wilt maken, opent u de pagina Zoomdoel-editor en gaat u als volgt te werk:
 
 1. Klik op **[!UICONTROL Add Targets]** (rechthoek), verplaats de aanwijzer boven de afbeelding en klik op de plaats waar u het zoomdoel wilt instellen.
 
@@ -54,11 +54,9 @@ Open het scherm Zoomdoel-editor en voer de volgende stappen uit om een zoomdoel 
 
 1. Klik **[!UICONTROL Select Target]** (pijl), klik om het gezoemdoel te selecteren u creeerde, en de grootte en de positie van het doel aan te passen.
 
-   * **Verplaats de**
-grootte van de aanwijzer over een hoek van het zoomdoel en sleep om het doel te vergroten of te verkleinen.
+   * **Vergroten/verkleinen**  - Verplaats de aanwijzer over een hoek van het zoomdoel en sleep om het doel te vergroten of te verkleinen.
 
-   * ****
-PositionerenPlaats de aanwijzer op het zoomdoel en sleep deze naar een andere locatie.
+   * **Plaatsen**  - Verplaats de aanwijzer over het zoomdoel en sleep het naar een andere locatie.
 
 1. Voer in het vak Naam een naam voor het zoomdoel in.
 
@@ -77,19 +75,15 @@ PositionerenPlaats de aanwijzer op het zoomdoel en sleep deze naar een andere lo
 
 ### Zoomdoelen bewerken {#editing-zoom-targets}
 
-Gebruik de volgende technieken in het scherm Zoomdoel-editor om zoomdoelen te bewerken:
+Als u zoomdoelen wilt bewerken, gebruikt u de volgende technieken op de pagina Zoomdoel-editor:
 
-* ****
-Locatie wijzigenKlik met de knop Doel selecteren (de pijl) op het doel om het te selecteren. Sleep het doel vervolgens naar een andere locatie.
+* **Positie wijzigen**  - Klik met de knop Doel selecteren (de pijl) op het doel om het te selecteren. Sleep het doel vervolgens naar een andere locatie.
 
-* ****
-Vergroten/verkleinenKlik met de knop Doel selecteren (de pijl) op het doel om dit te selecteren. Plaats de aanwijzer vervolgens boven een hoek van het zoomdoel en sleep om het doel te vergroten of te verkleinen.
+* **Vergroten/verkleinen**  - Klik met de knop Doel selecteren (de pijl) op het doel om het te selecteren. Als u het doel wilt vergroten of verkleinen, plaatst u de aanwijzer boven een hoek van het zoomdoel en sleept u.
 
-* ****
-VerwijderenKlik op de miniatuurafbeelding van het doel aan de rechterkant van het scherm. Klik vervolgens op **[!UICONTROL Delete Target]**.
+* **Verwijderen**  - Klik op de miniatuurafbeelding van het doel aan de rechterkant van het scherm. Klik vervolgens op **[!UICONTROL Delete Target]**.
 
-* ****
-Naam wijzigenKlik op de miniatuurafbeelding van het doel aan de rechterkant van het scherm. Voer vervolgens een naam in het tekstveld **[!UICONTROL Name]** in en klik op **[!UICONTROL Save]**.
+* **Naam wijzigen**  - Klik op de miniatuurafbeelding van het doel aan de rechterkant van het scherm. Voer vervolgens een naam in het tekstveld **[!UICONTROL Name]** in en klik op **[!UICONTROL Save]**.
 
 ### Zoomdoelen kopiëren {#copying-zoom-targets}
 
@@ -98,4 +92,3 @@ U kunt zoomdoelen van de ene afbeelding naar de andere kopiëren. Kopieer doelen
 1. Open de afbeelding met zoomdoelen die u wilt kopiëren in het scherm Zoomdoeleditor.
 1. Klik op **[!UICONTROL Copy Targets To]**.
 1. Selecteer een afbeelding in het dialoogvenster Afbeeldingen selecteren en klik op **[!UICONTROL Select]**.
-
