@@ -7,16 +7,16 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/spin_sets
 discoiquuid: 735b5867-e249-4627-a5a5-25c19c2255bf
-feature: Dynamic Media Classic,Viewers,Spin Sets
+feature: Dynamic Media Klassiek,Viewers,Draaiende Reeksen
 role: Business Practitioner
+exl-id: 35e8e7fc-5b3c-441a-959c-df2e39ea0d4b
 translation-type: tm+mt
-source-git-commit: e727c1b5fb43c7def842ff1bafcc8b3ef3437cde
+source-git-commit: 7456226cf6469f40e66ff327475d4c605b6d6e13
 workflow-type: tm+mt
-source-wordcount: '909'
+source-wordcount: '868'
 ht-degree: 0%
 
 ---
-
 
 # Een centrifugeerset maken{#creating-a-spin-set}
 
@@ -34,15 +34,15 @@ Over het algemeen geldt dat hoe meer afbeeldingen u in een centrifugeset hebt, h
 * Gebruik een indeling zonder verlies. TIFF en PNG worden aanbevolen.
 * Masker alle afbeeldingen zodat het item op een zuiver witte of andere achtergrond met veel contrast wordt weergegeven. Voeg desgewenst schaduwen toe.
 * Zorg ervoor dat de productdetails goed verlicht en in nadruk zijn.
-* Neem spin beelden voor modekleding met een mannequin of een model. Vaak wordt de mannequin volledig gemaskeerd (met behulp van een glazen mannequin) of wordt in de afbeelding een gestileerde mannequin/dressform weergegeven. U kunt een op-model spin-reeks tot stand brengen door het aantal hoeken te bepalen. Markeer elke hoek met band op de vloer om het model te begeleiden en in de richting van elke opname te kijken.
+* Neem spin beelden voor modekleding met een mannequin of een model. Vaak wordt de mannequin gemaskeerd (met behulp van een glazen mannequin) of wordt in de afbeelding een gestileerde mannequin/dressform weergegeven. U kunt een op-model spin-reeks tot stand brengen door het aantal hoeken te bepalen. Markeer elke hoek met band op de vloer om het model te begeleiden en in de richting van elke opname te kijken.
 
 ## Een centrifuusset maken {#create}
 
-Houd er rekening mee dat de volgorde waarin de Spin-set is gemaakt of gemaakt in Dynamic Media Classic belangrijk is. Afhankelijk van de volgorde waarin u de elementen ordent wanneer u afbeeldingen naar het raster sleept op de pagina Draaien in set, draait de Spin-set in een bepaalde richting. Daarom is de volgorde waarin het element visueel wordt weergegeven in de builder de manier waarop het wordt gedraaid wanneer een gebruiker de muisaanwijzer beweegt of met zijn vinger naar rechts beweegt.
+De volgorde waarin de Spin-set is gemaakt of gemaakt in Dynamic Media Classic is belangrijk. Afhankelijk van de volgorde waarin u de elementen ordent wanneer u afbeeldingen naar het raster sleept op de pagina Draaien in set, draait de Spin-set in een bepaalde richting. Daarom is de volgorde waarin het element visueel wordt weergegeven in de builder de manier waarop het wordt gedraaid wanneer een gebruiker de muisaanwijzer beweegt of zijn vinger van links naar rechts beweegt.
 
-Wanneer u een set maakt, heeft de optie **Publiceren na opslaan** op de volgende manieren invloed op de set en stelt u leden in:
+Wanneer u een set maakt, heeft de optie **[!UICONTROL Publish after save]** op de volgende manieren invloed op de set en stelt u leden in:
 
-| De optie Publiceren na opslaan is geselecteerd voordat u het bestand opslaat? | Status van set na opslaan | Status van ingestelde leden na opslaan |
+| **[!UICONTROL Publish after save]** optie geselecteerd voor opslaan? | Status van set na opslaan | Status van ingestelde leden na opslaan |
 |--- |--- |--- |
 | Ja | Gepubliceerd | Gepubliceerd |
 | Nee | Ongepubliceerd | Leden met een set behouden hun gepubliceerde of niet-gepubliceerde status. |
@@ -51,56 +51,50 @@ Zie ook [Elementen handmatig publiceren](publishing-files.md#manually-publishing
 
 Nadat u een Spin-reeks hebt opgeslagen, kunt u Voorvertoning gebruiken in de Build: Met de optie Spin Set kunt u zien hoe de centrifugeset er in de standaardviewer uitziet.
 
-**Een centrifugeerset maken**
+**Een centrifugeset maken:**
 
-1. Klik in het vervolgkeuzemenu **Build** op **Spin Sets**.
+1. Klik in het vervolgkeuzemenu **[!UICONTROL Build]** op **[!UICONTROL Spin Sets]**.
 1. Stel in het dialoogvenster Grootte van paginaset het gewenste aantal rijen en cellen in.
 
    Als u een eendimensionale centrifuge wilt maken, selecteert u slechts één rij.
 
    Als u een tweedimensionale centrifugeerset wilt maken, selecteert u twee of meer rijen.
 
-1. Klik **OK**.
+1. Klik op **[!UICONTROL OK]**.
 1. Sleep afbeeldingen naar het raster op het scherm Spin Set.
 1. Als u klaar bent, gaat u naar de rechterbenedenhoek van de pagina en controleert u of **Publiceren na opslaan** is geselecteerd (standaard).
-1. Klik **Opslaan**.
+1. Klik op **[!UICONTROL Save]**.
 1. Selecteer in het dialoogvenster Opslaan een map waarin u de centrifugeset wilt opslaan. Voer in het veld Bestandsnaam de naam van de spin-set in.
-1. Klik **Opslaan**.
+1. Klik op **[!UICONTROL Save]**.
 
 ## Een centrifugeerset bewerken {#editing-a-spin-set}
 
-Afhankelijk van het feit of u een gepubliceerde set of een niet-gepubliceerde set bewerkt, beïnvloedt de optie **Publiceren na opslaan** de set en stelt u de leden als volgt in:
+Of u een gepubliceerde set of een niet-gepubliceerde set bewerkt, de optie **[!UICONTROL Publish after save]** heeft op de volgende manieren invloed op de set en stelt leden in:
 
-| Reeds gepubliceerd instellen? | De optie Publiceren na opslaan is geselecteerd voordat u de bewerking opslaat? | Status van set na opslaan | Status van ingestelde leden na opslaan |
+| Reeds gepubliceerd instellen? | **[!UICONTROL Publish after save]** optie geselecteerd voordat u de bewerking opslaat? | Status van set na opslaan | Status van ingestelde leden na opslaan |
 |--- |--- |--- |--- |
 | Ja | Ja | Gepubliceerd | Gepubliceerd |
-| Ja | Nee | Gepubliceerd | Bestaande leden van een set behouden hun gepubliceerde status. Alle nieuwe leden die u tijdens het bewerken hebt toegevoegd, behouden hun gepubliceerde of niet-gepubliceerde status. |
+| Ja | Nee | Gepubliceerd | Bestaande leden met een set behouden hun gepubliceerde status. Alle nieuwe leden die u tijdens het bewerken hebt toegevoegd, behouden hun gepubliceerde of niet-gepubliceerde status. |
 | Nee | Ja | Gepubliceerd | Gepubliceerd |
 | Nee | Nee | Ongepubliceerd | Bestaande leden die zijn ingesteld en eventuele nieuwe leden die u tijdens de bewerking hebt toegevoegd, behouden hun gepubliceerde of niet-gepubliceerde status. |
 
 Zie ook [Elementen handmatig publiceren](publishing-files.md#manually-publishing-assets) en [Publicaties van elementen handmatig ongedaan maken](publishing-files.md#manually-unpublishing-assets).
 
-**Een centerset bewerken**
+**Een centrifugeset bewerken:**
 
-1. Klik op de rollover **Bewerken**-knop van de centrifugeset.
+1. Klik op de rollover **[!UICONTROL Edit]**-knop van de centrifugeset.
 1. Voer een van de volgende handelingen uit:
 
-   * **Afbeeldingen verwijderenSelecteer de**
-afbeelding en klik vervolgens op 
-**Verwijderen**.
+   * **Afbeeldingen**  verwijderen: selecteer de afbeelding en klik op  **[!UICONTROL Delete]**.
 
-   * **Afbeeldingen toevoegenSleep de afbeelding naar een cel.**
+   * **Afbeeldingen**  toevoegen: sleep de afbeelding naar een cel.
 
+   * **Rijen opnieuw rangschikken (tweedimensionale Reeksen van de Draai)**  - klik een rij-selecteervakje (links van de rij) en klik dan  **[!UICONTROL Move Row Down]** of  **[!UICONTROL Move Row Up]**.
 
-   * **Rijen opnieuw rangschikken (tweedimensionale reeksen van de Draai)**
-Klik een rij-selecteervakje (links van de rij) en klik dan 
-**Rij** omlaag verplaatsen of rij omhoog  **verplaatsen**.
+   * **Rijen en cellen**  toevoegen - Voer een getal in het vak Rijen en Cellen in om het aantal rijen en het aantal cellen in elke rij te bepalen.
 
-   * **Rijen en**
-cellen toevoegenVoer een getal in het vak Rijen en Cellen in om het aantal rijen en het aantal cellen in elke rij te bepalen.
-
-1. Als u klaar bent met bewerken, controleert u of u in de rechterbenedenhoek van de pagina **Publiceren na opslaan** hebt geselecteerd (standaardinstelling).
-1. Klik **Opslaan**, selecteer een opslagmap, voer een naam voor de set in en klik op **Opslaan**.
+1. Als u klaar bent met bewerken, controleert u of **[!UICONTROL Publish after save]** is geselecteerd (standaard) in de rechterbenedenhoek van de pagina.
+1. Klik **[!UICONTROL Save]**, selecteer een opslagomslag, ga een naam voor de reeks in, en klik dan **[!UICONTROL Save]**.
 
 ## Een centrifugeerset verwijderen {#deleting-a-spin-set}
 
@@ -108,8 +102,7 @@ Wanneer u een set verwijdert, wordt de set zelf naar de prullenbak verplaatst. D
 
 Zie ook [Elementen handmatig publiceren](publishing-files.md#manually-publishing-assets) en [Publicaties van elementen handmatig ongedaan maken](publishing-files.md#manually-unpublishing-assets).
 
-**Een centrierset verwijderen**
+**Een centrifuusset verwijderen:**
 
 1. Selecteer een of meer centrifuges in de rasterweergave, lijstweergave of detailweergave.
-1. Klik op **Bestand** > **Verwijderen** > **Verwijderen** op de algemene navigatiebalk.
-
+1. Klik op **[!UICONTROL File]** > **[!UICONTROL Delete]** > **[!UICONTROL Delete]** op de algemene navigatiebalk.
