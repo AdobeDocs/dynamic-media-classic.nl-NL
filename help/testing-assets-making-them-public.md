@@ -7,16 +7,16 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/upload_and_publish_assets
 discoiquuid: 52fadf99-7d11-46f7-8483-a9f87ffc2f67
-feature: Dynamic Media Classic,Asset Management
+feature: Dynamic Media Classic, beheer van bedrijfsmiddelen
 role: Business Practitioner
+exl-id: fd78d535-391e-43eb-a8aa-25fa6c2885cb
 translation-type: tm+mt
-source-git-commit: e727c1b5fb43c7def842ff1bafcc8b3ef3437cde
+source-git-commit: 7456226cf6469f40e66ff327475d4c605b6d6e13
 workflow-type: tm+mt
-source-wordcount: '1103'
+source-wordcount: '1100'
 ht-degree: 0%
 
 ---
-
 
 # Elementen testen voordat ze openbaar worden gemaakt {#testing-assets-before-making-them-public}
 
@@ -46,7 +46,9 @@ Omdat de plaats van het originele verzoek moet worden bevestigd, wordt het verke
 
 Niet-gepubliceerde middelen zijn direct beschikbaar bij de services voor het beveiligen van tests, zonder dat ze hoeven te worden gepubliceerd. Op deze manier kunt u een voorvertoning uitvoeren voordat elementen worden gepubliceerd naar hun openbare afbeeldingsserver.
 
-***opmerking **: Beveiligde testservices maken gebruik van de Catalogusserver die is geconfigureerd met een interne publicatiecontext. Als uw bedrijf is geconfigureerd om te publiceren voor Secure Testing, dient u er rekening mee te houden dat geüploade elementen in Dynamic Media Classic direct beschikbaar zijn voor de services voor Beveiligd testen. Deze functionaliteit is van toepassing, ongeacht of de elementen zijn gemarkeerd voor publiceren tijdens het uploaden.*
+>[!NOTE]
+>
+>Beveiligde testservices maken gebruik van de Catalogusserver die is geconfigureerd met een interne publicatiecontext. Als uw bedrijf is geconfigureerd om te publiceren voor Secure Testing, dient u er rekening mee te houden dat geüploade elementen in Dynamic Media Classic direct beschikbaar zijn voor de services voor Beveiligd testen. Deze functionaliteit is van toepassing, ongeacht of de elementen zijn gemarkeerd voor publiceren tijdens het uploaden.
 
 De Secure Testing-services bieden momenteel ondersteuning voor de volgende typen middelen en functies:
 
@@ -145,4 +147,3 @@ Voer de volgende tests uit:
    Heb toegang tot uw netwerk van buitenaf (zoals, van uw huiscomputer of over een 3G verbinding), dan verifieer dat de openbare versie van de plaats alle gepubliceerde activa maar geen van de niet gepubliceerde inhoud toont.
 
    Bevestig dat de het opvoeren versie geen activa toont omdat u tot de Veilige Testende dienst van een niet goedgekeurd IP adres toegang hebt.
-
