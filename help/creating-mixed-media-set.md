@@ -6,16 +6,16 @@ contentOwner: admin
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 discoiquuid: 0ff9e763-897c-4ba5-b606-a95d5e45f35e
-feature: Dynamic Media Classic,Viewers,Mix Media Sets
+feature: Dynamic Media Classic,viewers,mediasets mengen
 role: Business Practitioner
+exl-id: 18669c65-a1c4-4012-8587-cd5095f4bd4e
 translation-type: tm+mt
-source-git-commit: e727c1b5fb43c7def842ff1bafcc8b3ef3437cde
+source-git-commit: 7456226cf6469f40e66ff327475d4c605b6d6e13
 workflow-type: tm+mt
-source-wordcount: '628'
+source-wordcount: '601'
 ht-degree: 0%
 
 ---
-
 
 # Een gemengde mediaset maken{#creating-a-mixed-media-set}
 
@@ -34,14 +34,14 @@ Wanneer u een set maakt, heeft de optie **Publiceren na opslaan** op de volgende
 
 Zie ook [Elementen handmatig publiceren](publishing-files.md#manually_publishing_assets) en [Publicaties van elementen handmatig ongedaan maken](publishing-files.md#manually_unpublishing_assets).
 
-**Een gemengde mediaset maken**
+**Een gemengde mediaset maken:**
 
-1. Klik **Build** > **Gemengde Mediasets**.
+1. Klik op **[!UICONTROL Build]** > **[!UICONTROL Mixed Media Sets]**.
 1. Sleep de video&#39;s, de Reeksen van het Beeld, de Reeksen van de Rotatie, en de monsters van de Bibliotheek van Activa aan het Gemengde scherm van de Plaats van Media.
 
    >[!NOTE]
    >
-   >Gemengde mediasets ondersteunen geen elementen met bestandsnamen die een van de volgende tekens bevatten: ( ) { }.
+   >Gemengde mediasets ondersteunen geen elementen met bestandsnamen die een van de volgende tekens bevatten: `( ) { }`.
 
 1. Voer een van de volgende handelingen uit:
 
@@ -49,36 +49,36 @@ Zie ook [Elementen handmatig publiceren](publishing-files.md#manually_publishing
    * Als u de volgorde van sets wilt wijzigen, sleept u deze naar nieuwe locaties in het scherm Gemengde mediaset. De volgorde van sets op het scherm bepaalt de volgorde van links naar rechts waarin gebruikers sets zien in de Gemengde Media Set Viewer.
    * (Optioneel) Als u een aangepaste miniatuur wilt toevoegen om een video in de viewer te vertegenwoordigen, sleept u een afbeeldingsbestand van de elementenbibliotheek naar het vak voor de plaatsaanduiding van miniaturen.
 
-1. Zorg dat in de rechterbenedenhoek van de pagina **Publiceren na opslaan** is geselecteerd (standaard).
-1. Klik **sparen**, selecteer een omslag voor het opslaan van uw Gemengde Reeks van Media, ga een naam voor de reeks in, en klik **sparen**.
+1. Zorg dat in de rechterbenedenhoek van de pagina **[!UICONTROL Publish after save]** is geselecteerd (standaardwaarde).
+1. Klik **[!UICONTROL Save]**, selecteer een omslag voor het opslaan van uw Gemengde Reeks van Media, ga een naam voor de reeks in, en klik **[!UICONTROL Save]**.
 
-   Klik op **Voorvertoning** om te zien hoe de set met comboafbeeldingen er in een viewer met afbeeldingsset uitziet.
+   Klik op **[!UICONTROL Preview]** om te zien hoe de set met comboafbeeldingen er in een Image Set Viewer uitziet.
 
 ## Een gemengde mediaset {#edit-a-mixed-media-set} bewerken
 
 U kunt een gemengde Mediaset bewerken. Als u een set in een gemengde mediaset wilt bewerken, opent u die set afzonderlijk, bewerkt u de set en slaat u deze op. De bewerkingen worden weergegeven in de set Gemengde media.
 
-Afhankelijk van het feit of u een gepubliceerde of een niet-gepubliceerde set bewerkt, beïnvloedt de optie **Publiceren na opslaan** de set en stelt u de leden als volgt in:
+Of u een gepubliceerde of een niet-gepubliceerde set bewerkt, de optie **[!UICONTROL Publish after save]** heeft op de volgende manieren invloed op de set en stelt leden in:
 
 | Reeds gepubliceerd instellen? | De optie Publiceren na opslaan is geselecteerd voordat u de bewerking opslaat? | Status van set na opslaan | Status van ingestelde leden na opslaan |
 |--- |--- |--- |--- |
 | Ja | Ja | Gepubliceerd | Gepubliceerd |
-| Ja | Nee | Gepubliceerd | Bestaande leden van een set behouden hun gepubliceerde status. Alle nieuwe leden die u tijdens het bewerken hebt toegevoegd, behouden hun gepubliceerde of niet-gepubliceerde status. |
+| Ja | Nee | Gepubliceerd | Bestaande leden met een set behouden hun gepubliceerde status. Alle nieuwe leden die u tijdens het bewerken hebt toegevoegd, behouden hun gepubliceerde of niet-gepubliceerde status. |
 | Nee | Ja | Gepubliceerd | Gepubliceerd |
 | Nee | Nee | Ongepubliceerd | Bestaande leden die zijn ingesteld en eventuele nieuwe leden die u tijdens de bewerking hebt toegevoegd, behouden hun gepubliceerde of niet-gepubliceerde status. |
 
 Zie ook [Elementen handmatig publiceren](publishing-files.md#manually_publishing_assets) en [Publicaties van elementen handmatig ongedaan maken](publishing-files.md#manually_unpublishing_assets).
 
-**Een gemengde mediaset bewerken**
+**Een gemengde mediaset bewerken:**
 
-1. Klik op de rollover **Bewerken**-knop van de gemengde mediaset.
+1. Klik op de rollover **[!UICONTROL Edit]**-knop van de gemengde mediaset.
 1. Voer een van de volgende handelingen uit:
 
-   * Als u items wilt verwijderen, selecteert u de items en klikt u op **Verwijderen**.
+   * Als u items wilt verwijderen, selecteert u de items en klikt u op **[!UICONTROL Delete]**.
    * Als u de volgorde van de items wilt wijzigen, sleept u ze naar nieuwe locaties.
 
-1. Als u klaar bent met het bewerken van de set, controleert u of **Publiceren na opslaan** is geselecteerd (standaard).
-1. Klik **Opslaan** of **Opslaan als**.
+1. Als u klaar bent met het bewerken van de set, controleert u of **[!UICONTROL Publish after save]** is geselecteerd (standaard) in de rechterbenedenhoek van de pagina.
+1. Klik op **[!UICONTROL Save]** of **[!UICONTROL Save As]**.
 
 ## Een gemengde mediaset {#deleting-a-mixed-media-set} verwijderen
 
@@ -86,8 +86,7 @@ Wanneer u een set verwijdert, wordt de set zelf naar de prullenbak verplaatst. D
 
 Zie ook [Elementen handmatig publiceren](publishing-files.md#manually_publishing_assets) en [Publicaties van elementen handmatig ongedaan maken](publishing-files.md#manually_unpublishing_assets).
 
-**Een gemengde mediaset verwijderen**
+**Een gemengde mediaset verwijderen:**
 
 1. Selecteer een of meer gemengde mediasets in de rasterweergave, lijstweergave of detailweergave.
-1. Klik op **Bestand** > **Verwijderen** > **Verwijderen** op de algemene navigatiebalk.
-
+1. Klik op **[!UICONTROL File]** > **[!UICONTROL Delete]** > **[!UICONTROL Delete]** op de algemene navigatiebalk.
