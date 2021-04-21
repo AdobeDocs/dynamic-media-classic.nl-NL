@@ -7,22 +7,24 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/mixed_media_sets
 discoiquuid: 4e8694f7-c1b5-4d45-a18b-2b9494db1757
-feature: Dynamic Media Classic,Viewers,Mix Media Sets
+feature: Dynamic Media Classic,viewers,mediasets mengen
 role: Business Practitioner
+exl-id: 1fca9640-d127-454a-b3aa-b2ac82136e62
 translation-type: tm+mt
-source-git-commit: e727c1b5fb43c7def842ff1bafcc8b3ef3437cde
+source-git-commit: 7456226cf6469f40e66ff327475d4c605b6d6e13
 workflow-type: tm+mt
-source-wordcount: '261'
+source-wordcount: '235'
 ht-degree: 0%
 
 ---
-
 
 # Een gemengde mediaset publiceren{#publishing-a-mixed-media-set}
 
 Maak een publicatietaak om een gemengde mediaset te publiceren die u hebt gemarkeerd voor publiceren naar Dynamic Media Classic Video Server en Image Server. Dynamic Media Classic biedt geavanceerde publicatieopties voor het publiceren naar specifieke servers en opties voor het opnieuw publiceren van middelen die al zijn gepubliceerd.
 
-***opmerking **: De gemengde Reeksen van Media vereisen dat u aan**Video **Server en ook aan de Server**van het **Beeld publiceert. U gebruikt**Videoserver **om de daadwerkelijke video&#39;s te publiceren die u voor publicatie hebt gemerkt. En u gebruikt**Afbeeldingsserver **om gerelateerde elementen, zoals videominiaturen, te publiceren en informatie in te stellen voor elke adaptieve videoset.*
+>[!NOTE]
+>
+>Voor gemengde mediasets moet u publiceren naar **Videoserver** en ook naar **Afbeeldingsserver**. U gebruikt **Videoserver** om de daadwerkelijke video&#39;s te publiceren die u voor publicatie hebt gemerkt. En u gebruikt **Afbeeldingsserver** om gerelateerde elementen, zoals videominiaturen, te publiceren en informatie in te stellen voor elke adaptieve videoset.
 
 Dynamic Media Classic volgt de publicatietaken op het scherm Taken.
 
@@ -42,21 +44,20 @@ Last Modified Date:
 
 1. Voer een van de volgende handelingen uit:
 
-   * Klik in het deelvenster Bladeren op **Markeren voor publiceren** naast elke bestandsnaam die u wilt publiceren.
-   * Klik in het scherm Uploaden op **Markeren voor publiceren** naast elke bestandsnaam die u wilt publiceren.
+   * Klik in het deelvenster Bladeren op **[!UICONTROL Mark For Publish]** naast elke bestandsnaam die u wilt publiceren.
+   * Klik in het scherm Uploaden op **[!UICONTROL Mark For Publish]** naast elke bestandsnaam die u wilt publiceren.
 
-1. Voor de Globale bar van de Navigatie, klik **Publish**.
+1. Klik op **[!UICONTROL Publish]** op de algemene navigatiebalk.
 1. Stel de gewenste planningsopties in.
-1. (Optioneel) Typ in het veld **Taaknaam** een naam voor de publicatietaak.
-1. Selecteer **Videoserver** in de vervolgkeuzelijst **Geavanceerd** in **Publiceren naar**.
+1. (Optioneel) Typ in het veld **[!UICONTROL Job Name]** een naam voor de publicatietaak.
+1. Selecteer **[!UICONTROL Video Server]** in de vervolgkeuzelijst **[!UICONTROL Advanced]** opties.**[!UICONTROL Publish To]**
 
    Zie [Geavanceerde publicatieopties](publishing-files.md#advanced_publish_options) voor extra opties u kunt plaatsen.
 
-1. Klik **Publiceren verzenden**.
+1. Klik op **[!UICONTROL Submit Publish]**.
 1. Herhaal bovenstaande stappen 2 tot en met 4.
-1. Selecteer **Geavanceerd** in de vervolgkeuzelijst **Publiceren naar** de optie **Afbeeldingsserver**.
+1. Selecteer **[!UICONTROL Image Server]** in **[!UICONTROL Advanced]** in de vervolgkeuzelijst **[!UICONTROL Publish To]**.
 
    Zie [Geavanceerde publicatieopties](publishing-files.md#advanced_publish_options) voor extra opties u kunt plaatsen.
 
-1. Klik **Publiceren verzenden**.
-
+1. Klik op **[!UICONTROL Submit Publish]**.
