@@ -9,14 +9,14 @@ geptopics: SG_SCENESEVENONDEMAND_PK/categories/image_sizing
 discoiquuid: 71299640-676d-49b7-841d-6118f31044e8
 feature: Dynamic Media Classic
 role: Business Practitioner
+exl-id: ca629427-da33-4bab-9d08-6d9368042f7e
 translation-type: tm+mt
-source-git-commit: e727c1b5fb43c7def842ff1bafcc8b3ef3437cde
+source-git-commit: 7456226cf6469f40e66ff327475d4c605b6d6e13
 workflow-type: tm+mt
-source-wordcount: '839'
+source-wordcount: '836'
 ht-degree: 0%
 
 ---
-
 
 # URL&#39;s koppelen aan uw webtoepassing{#linking-urls-to-your-web-application}
 
@@ -28,7 +28,9 @@ Kopieer deze URL-tekenreeksen vanuit Dynamic Media Classic om deze in uw webpagi
 
 U kunt een URL-tekenreeks die is gegenereerd door een voorinstelling voor afbeelding, opvragen in de voorvertoning of in de detailweergave. Nadat u de URL hebt gekopieerd, landt deze op het Klembord, zodat u deze desgewenst kunt plakken.
 
-***Opmerking **: De URL is pas actief als u het element publiceert.*
+>[!NOTE]
+>
+>De URL is pas actief als u het element publiceert.
 
 ### Een voorinstellings-URL voor afbeeldingen verkrijgen via Voorvertoning {#obtaining-an-image-preset-url-from-preview}
 
