@@ -7,16 +7,16 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/media_portal
 discoiquuid: 84257b2a-681c-4fe9-a6e5-3633c1d61d8c
-feature: Dynamic Media Classic,Collaboration,Image Presets,Asset Management
+feature: Dynamic Media Klassiek, Samenwerking, Voorinstellingen voor afbeeldingen, Middelenbeheer
 role: Administrator,Business Practitioner
+exl-id: 94c6c388-226b-4172-a6c7-a8dcf9c0f0cf
 translation-type: tm+mt
-source-git-commit: e727c1b5fb43c7def842ff1bafcc8b3ef3437cde
+source-git-commit: 7456226cf6469f40e66ff327475d4c605b6d6e13
 workflow-type: tm+mt
-source-wordcount: '263'
+source-wordcount: '260'
 ht-degree: 0%
 
 ---
-
 
 # Voorinstellingen voor afbeeldingen maken en inschakelen{#creating-and-enabling-image-presets}
 
@@ -27,7 +27,7 @@ Beheerders van Media Portal kunnen voorinstellingen voor afbeeldingen maken om t
 Bij het exporteren van afbeeldingselementen gelden de volgende beperkingen:
 
 * De breedte x hoogte moet kleiner zijn dan of gelijk zijn aan 100 MB per afbeelding. De afbeelding kan bijvoorbeeld niet groter zijn dan 10 x 10 kB of een van de onderstaande aspecten, zoals 8 x 12 kB.
-* Er is een maximum van 1 GB totale dossiergrootte per de uitvoerbaan.
+* Er is een maximum van 1-GB totale dossiergrootte per de uitvoerbaan.
 * Per exporttaak kunt u maximaal 500 elementen in totaal gebruiken.
 
 >[!NOTE]
