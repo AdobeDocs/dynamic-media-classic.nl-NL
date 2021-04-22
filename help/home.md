@@ -6,14 +6,14 @@ seo-description: 'Technische documentatie, opmerkingen bij de release en zelfhul
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 feature: Dynamic Media Classic
 role: Administrator,Business Practitioner
+exl-id: af29eabb-f7c6-420b-9c63-9d60ee2dc148
 translation-type: tm+mt
-source-git-commit: 3def4a02eda8dc36f2811b3d4f0e870fff1994e4
+source-git-commit: 27d9a9b9f158846b54e4318119aec9e4dc9c4c0d
 workflow-type: tm+mt
-source-wordcount: '588'
+source-wordcount: '585'
 ht-degree: 1%
 
 ---
-
 
 # Adobe Dynamic Media Klassieke Guide {#scene7-overview}
 
@@ -27,7 +27,7 @@ Zie [Veelgestelde vragen](new-ui-2020.md). Nieuwe updates vanaf 7 mei 2020.
 
 ## Dynamic Media Developer Resources
 
-* [Dynamic Media Developer Resources landingspagina](https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/landing/home.html)  — Bevat de Referentiehandleiding voor viewers, API voor het renderen van images/imageservers, de API voor het productiesysteem van images en de Klassieke Release-notities van Dynamic Media.
+* [Dynamic Media Developer Resources landingspagina](https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/landing/home.html)  - Bevat de Referentiehandleiding voor viewers, API voor het renderen van images/imageservers, de API voor het productiesysteem van images en de Klassieke Release-notities van Dynamic Media.
 * [Voorbeelden](https://landing.adobe.com/en/na/dynamic-media/ctir-2755/live-demos.html)  van viewerbibliotheek: bevat viewervoorbeelden voor video, schokkende media, gemengde media, centrifuges, inline zoom, afbeeldings- en stalensets en flyouts.
 
 ## Dynamic Media Classic-gebruikersbronnen
