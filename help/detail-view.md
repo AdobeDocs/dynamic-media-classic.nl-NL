@@ -7,16 +7,16 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/managing_assets
 discoiquuid: eaa214ff-d1ef-4691-9148-d01bf243c810
-feature: Dynamic Media Classic,Asset Management
+feature: Dynamic Media Classic, beheer van bedrijfsmiddelen
 role: Business Practitioner
+exl-id: 618ae6a4-6f60-4a80-b197-a9d35b3c47af
 translation-type: tm+mt
-source-git-commit: e727c1b5fb43c7def842ff1bafcc8b3ef3437cde
+source-git-commit: 4e79c98b92dfa4e1a9890ed8a291cdf564126466
 workflow-type: tm+mt
-source-wordcount: '579'
+source-wordcount: '576'
 ht-degree: 5%
 
 ---
-
 
 # Werken in de gedetailleerde weergave {#working-in-detail-view}
 
@@ -46,7 +46,7 @@ Als u elementen nauwkeurig wilt bekijken, voorvertonen of bewerken, kunt u deze 
 
    * Dubbelklik op het element.
    * Selecteer het element en klik op **[!UICONTROL Detail View]**.
-   * Selecteer het element en klik op **[!UICONTROL File > Details]**.
+   * Selecteer het element en klik op **[!UICONTROL File]** > **[!UICONTROL Details]**.
 
 >[!NOTE]
 >
@@ -62,45 +62,40 @@ U kunt een element-URL opvragen in de gedetailleerde weergave. de URL is echter 
 
 In de gedetailleerde weergave vindt u gereedschappen voor het werken met het element dat u hebt geopend. Welke hulpmiddelen beschikbaar zijn hangt van het type van activa af u met werkt, maar de mening van het Detail biedt altijd deze functies aan:
 
-* **items die u wilt**
-publicerenKlik op het  **[!UICONTROL Publish]** pictogram links van de naam of klik  **[!UICONTROL File > Publish]** of  **[!UICONTROL File > Unpublish]**.
+* **items die u wilt publiceren** - Klik op het  **[!UICONTROL Publish]** pictogram links van de naam of klik  **[!UICONTROL File > Publish]** of  **[!UICONTROL File > Unpublish]**.
 
-* **De naam van het**
-element wijzigenSelecteer de naam en voer een nieuwe naam in.
+* **Naam van het element**  wijzigen - Selecteer de naam en voer een nieuwe naam in.
 
-* **Bewerken en**
-metagegevens toevoegenSelecteer het deelvenster Metagegevens en breng de gewenste wijzigingen aan. Zie [Metagegevens weergeven, toevoegen en exporteren](/help/viewing-adding-exporting-metadata.md).
+* **Bewerken en metagegevens**  toevoegen: selecteer het deelvenster Metagegevens en wijzig deze naar wens. Zie [Metagegevens weergeven, toevoegen en exporteren](/help/viewing-adding-exporting-metadata.md).
 
-* **Trefwoorden bewerken en toevoegenSelecteer Trefwoorden en voeg deze naar wens toe of verwijder ze.**
-Zie [Trefwoorden toevoegen of bewerken](/help/viewing-adding-exporting-metadata.md).
+* **Trefwoorden**  bewerken en toevoegen: selecteer Trefwoorden en voeg deze naar wens toe of verwijder ze. Zie [Trefwoorden toevoegen of bewerken](/help/viewing-adding-exporting-metadata.md).
 
-* **Het**
-elementClick verwijderen  **[!UICONTROL File > Delete]**.
+* **Het element**  verwijderen: klik op  **[!UICONTROL File]** >  **[!UICONTROL Delete]**.
 
 Voor afzonderlijke bestanden, zoals afbeeldingen, afbeeldingssets en lettertypen, kunt u de publicatie- en bewerkingshistorie weergeven en taakdetails controleren in de gedetailleerde weergave.
 
-In deze tabel wordt aangegeven welke aanvullende opties beschikbaar zijn voor verschillende typen elementen in de gedetailleerde weergave.
+In deze tabel wordt aangegeven welke andere opties beschikbaar zijn voor verschillende typen elementen in de gedetailleerde weergave.
 
 | Type element | Bewerken/aanpassen | Voorvertoning |
 |--- |--- |--- |
-| Afbeeldingen | Afbeeldingen met hyperlinks toevoegen Zoomdoelen toevoegen Uitsnijden Verscherpen Aangepaste weergaven maken | Ja; Voorinstellingen voor zoomen en afbeeldingen. |
-| Afbeeldingen in behuizing en venster | Nee | Miniatuur. |
-| eCatalogs | Bewerken | Ja. Het deelvenster Info is ook beschikbaar. |
-| Lettertypen | Lettertypegegevens bewerken | Nee. |
-| FXG-bestanden | Bewerken | Ja. |
-| ICC-profielen | Profielgegevens bewerken | Nee. |
-| Illustrator-bestanden | Nee (tenzij omgezet in FXG) | Nee. |
-| Afbeeldingsets | Bewerken | Ja. |
-| InDesign-bestanden | Nee (tenzij omgezet in FXG) | Nee. |
-| PDF-bestanden | Nee | Nee. |
-| PSD-bestanden | Ja voor afzonderlijke lagen | Ja voor afzonderlijke lagen. |
-| Sets draaien | Bewerken | Ja. |
-| SVG-bestanden | Nee | Nee. |
-| Sjablonen | Bewerken | Ja. |
-| Video&#39;s | Nee | Ja. |
-| Vignetten en gerenderde vignetten | Nee | Afbeelding wordt weergegeven. U kunt de inhoud en structuur van de renderbare elementen van het vignet in XML-indeling bekijken. |
-| XML-bestanden | Nee | De inhoud wordt weergegeven. |
-| ZIP-bestanden | Nee | Inhoud wordt niet weergegeven. |
+| Afbeeldingen | Afbeeldingskaarten toevoegen<br>Zoomdoelen toevoegen<br>Uitsnijden<br>Verscherpen<br>Aangepaste weergaven maken | Ja; Voorinstellingen voor zoomen en afbeeldingen |
+| Afbeeldingen in behuizing en venster | Nee | Miniatuur |
+| eCatalogs | Bewerken | Ja<br>Deelvenster Info is ook beschikbaar |
+| Lettertypen | Lettertypegegevens bewerken | Nee |
+| FXG-bestanden | Bewerken | Ja |
+| ICC-profielen | Profielgegevens bewerken | Nee |
+| Illustrator-bestanden | Nee (tenzij omgezet in FXG) | Nee |
+| Afbeeldingsets | Bewerken | Ja |
+| InDesign-bestanden | Nee (tenzij omgezet in FXG) | Nee |
+| PDF-bestanden | Nee | Nee |
+| PSD-bestanden | Ja voor afzonderlijke lagen | Ja voor afzonderlijke lagen |
+| Sets draaien | Bewerken | Ja |
+| SVG-bestanden | Nee | Nee |
+| Sjablonen | Bewerken | Ja |
+| Video&#39;s | Nee | Ja |
+| Vignetten en gerenderde vignetten | Nee | Afbeelding wordt weergegeven<br>U kunt de inhoud en structuur van de renderbare elementen van het vignet weergeven in XML-indeling |
+| XML-bestanden | Nee | Inhoud wordt weergegeven |
+| ZIP-bestanden | Nee | Inhoud wordt niet weergegeven |
 
 >[!MORELIKETHIS]
 >
