@@ -9,14 +9,14 @@ geptopics: SG_SCENESEVENONDEMAND_PK/categories/getting_started
 discoiquuid: 2b134cfa-7f46-4f5f-959e-b30aae610bb9
 feature: Dynamic Media Classic
 role: Administrator,Business Practitioner
+exl-id: ac50cb9c-fd87-4608-80cb-8d40a0b8f131
 translation-type: tm+mt
-source-git-commit: e727c1b5fb43c7def842ff1bafcc8b3ef3437cde
+source-git-commit: 4e79c98b92dfa4e1a9890ed8a291cdf564126466
 workflow-type: tm+mt
-source-wordcount: '448'
+source-wordcount: '436'
 ht-degree: 0%
 
 ---
-
 
 # Adobe Dynamic Media Classic-platform - overzicht{#adobe-scene-platform-overview}
 
@@ -26,17 +26,13 @@ Dynamic Media Classic is een geïntegreerde, rijke omgeving voor mediabeheer, -p
 
 De belangrijkste Dynamic Media Classic workflowstappen zijn:
 
-* **Upload en beheer uw**
-middelenUpload uw media-elementen naar Dynamic Media Classic. U kunt middelen op het systeem organiseren, doorbladeren en zoeken. U kunt ook metagegevens toepassen op elementen.
+* **Upload en beheer uw middelen**  - Upload uw media-elementen naar Dynamic Media Classic. U kunt middelen op het systeem organiseren, doorbladeren en zoeken. U kunt ook metagegevens toepassen op elementen.
 
-* **Maak rijke**
-mediaMaak verschillende configuraties van uw elementen, zoals eCatalogs, Afbeeldingssets, Draaisets, Staalsets, Gemengde-mediasets, Standaard-sjablonen en FXG-sjablonen. Zie Informatie over rijke media voor meer informatie.
+* **Rijke media**  maken - verschillende configuraties van uw elementen maken, zoals eCatalogi, Afbeeldingssets, Draaisets, Staalsets, Gemengde Mediasets, Standaardsjablonen en FXG-sjablonen.
 
-* **Publiceer en beheer**
-publiceer activa aan het netwerk van de Klassieke Zas van Dynamic Media, evenals controleer de status van activa wanneer zij worden gepubliceerd, beheer gebruikersrechten, en handhaaf veiligheid.
+* **Publiceer en beheer**  - publiceer activa aan het netwerk van de Klassieke SaaS van Dynamic Media, evenals controleer de status van activa wanneer zij worden gepubliceerd, beheer gebruikersrechten, en handhaaf veiligheid.
 
-* **Media**
-leveren van Dynamic Media Classic SaaS-netwerk naar webpagina&#39;s, toepassingen en mobiele apparaten; de media zijn geoptimaliseerd voor prestaties en worden geleverd met CDN-caching. Dynamic Media Classic biedt u een URL voor elk element. Nadat u het element hebt gepubliceerd, wordt de URL actief.
+* **server**  - Media leveren van het Klassieke netwerk van Dynamic Media SaaS aan Web-pagina&#39;s, toepassingen, en mobiele apparaten; de media zijn geoptimaliseerd voor prestaties en worden geleverd met CDN-caching. Dynamic Media Classic biedt u een URL voor elk element. Nadat u het element hebt gepubliceerd, wordt de URL actief.
 
 ![Het Dynamic Media Classic-workflowproces](/help/assets/gs_workflow.png)
 
@@ -50,4 +46,4 @@ De URL-tekenreeksen die u genereert met Dynamic Media Classic bevatten instructi
 
 ## Inhoud in cache plaatsen {#content-caching}
 
-De afbeeldingen die Dynamic Media Classic dynamisch genereert, zijn cachegvriendelijk. in de meeste gevallen zijn het JPEG-afbeeldingen met unieke URL-aanroepen die ze identificeren. De beelden worden geleverd op het netwerk van de inhoudslevering (CDN), een systeem van servers die samen op Internet worden genetwerkt om inhoud sneller te leveren. De beelden worden verdeeld van servers globaal, en dan aan computers worden gevestigd. Wanneer u een cachemechanisme implementeert met een CDN-leverancier, wijzigt u gewoon de servernaam zodat deze naar de Dynamic Media Image Server met CDN-ondersteuning verwijst. Alle Dynamic Media Classic-edities bevatten CDN-caching in een pakket.
+De afbeeldingen die Dynamic Media Classic dynamisch genereert, zijn cachegvriendelijk. doorgaans zijn het JPEG-afbeeldingen met unieke URL-aanroepen die ze identificeren. De beelden worden geleverd op het netwerk van de inhoudslevering (CDN), een systeem van servers die samen op Internet worden genetwerkt om inhoud sneller te leveren. De beelden worden verdeeld van servers globaal, en dan aan computers worden gevestigd. Wanneer u een cachemechanisme implementeert met een CDN-leverancier, wijzigt u gewoon de servernaam zodat deze naar de Dynamic Media Image Server met CDN-ondersteuning verwijst. Alle Dynamic Media Classic-edities bevatten CDN-caching in een pakket.
