@@ -7,20 +7,20 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/video
 discoiquuid: f6a2dc19-7eb5-41f7-b6f2-de1979ed1d4e
-feature: Dynamic Media Classic,Viewers,Video
+feature: Dynamic Media Klassiek,Viewers,Video
 role: Business Practitioner
+exl-id: fab1f618-5370-4049-b6e0-69264afa933c
 translation-type: tm+mt
-source-git-commit: e727c1b5fb43c7def842ff1bafcc8b3ef3437cde
+source-git-commit: 27d9a9b9f158846b54e4318119aec9e4dc9c4c0d
 workflow-type: tm+mt
-source-wordcount: '75'
+source-wordcount: '69'
 ht-degree: 0%
 
 ---
 
-
 # Bron- en gecodeerde video&#39;s exporteren{#exporting-source-and-encoded-videos}
 
-In het deelvenster Bladeren krijgen bronvideo&#39;s het label &quot;Master video&quot;. Gecodeerde video&#39;s krijgen het label &quot;Video.&quot; U kunt bronvideo&#39;s en master video&#39;s exporteren. Als u videobestanden wilt exporteren, selecteert u deze in het deelvenster Bladeren en kiest u Bestand > Exporteren.
+In het deelvenster Bladeren krijgen bronvideo&#39;s het label &quot;Master video&quot;. Gecodeerde video&#39;s krijgen het label &quot;Video.&quot; U kunt bronvideo&#39;s en master video&#39;s exporteren. Als u videobestanden wilt exporteren, selecteert u deze in het deelvenster Bladeren en klikt u op **[!UICONTROL File]** > **[!UICONTROL Export]**.
 
 Zie [Elementen exporteren uit Dynamic Media Classic](exporting-assets-from-dmc.md#exporting-assets-from-dmc).
 
