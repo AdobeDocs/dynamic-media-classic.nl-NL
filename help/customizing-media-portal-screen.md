@@ -7,44 +7,44 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/media_portal
 discoiquuid: 8b000c25-c9c3-481e-9b25-96257471571f
-feature: Dynamic Media Classic,Collaboration,Asset Management
+feature: Dynamic Media Classic,Samenwerking,Asset Management
 role: Administrator,Business Practitioner
+exl-id: b0c5f70a-2388-42aa-a1ed-fd745ff90518
 translation-type: tm+mt
-source-git-commit: e727c1b5fb43c7def842ff1bafcc8b3ef3437cde
+source-git-commit: 4e79c98b92dfa4e1a9890ed8a291cdf564126466
 workflow-type: tm+mt
-source-wordcount: '350'
+source-wordcount: '338'
 ht-degree: 0%
 
 ---
 
-
 # Het scherm van het Portaal van Media aanpassen{#customizing-the-media-portal-screen}
 
-Met de Media Portal-stijlinstellingen kunt u het scherm Media Portal voorzien van uw bedrijfslogo en -kleuren. Gebruik de stijlinstellingen om uw bedrijfsstempel op Media Portal te plaatsen.
+Met de Media Portal-stijlinstellingen kunt u het scherm Media Portal voorzien van uw bedrijfslogo en -kleuren. Gebruik de stijlinstellingen om uw bedrijf branding op het Portaal van Media te zetten.
 
-Als u de stijlinstellingen wilt openen, kiest u **Setup** > **Media Portal Setup** > **Stijlinstellingen**. Zorg dat u op **Opslaan** klikt om de instellingen op te slaan nadat u deze hebt gemaakt. U kunt **Herstellen** klikken om de standaardmontages terug te brengen. Terwijl u uw keuzes maakt, wordt in het deelvenster Voorvertoning weergegeven hoe uw keuzen eruitzien.
+Kies **[!UICONTROL Setup]** > **[!UICONTROL Media Portal Setup]** > **[!UICONTROL Style Settings]** om de stijlinstellingen te openen. Zorg ervoor dat u **[!UICONTROL Save]** klikt om uw instellingen op te slaan nadat u ze hebt gemaakt. U kunt **[!UICONTROL Restore]** klikken om de standaardmontages terug te brengen. Terwijl u uw keuzes maakt, wordt in het deelvenster Voorvertoning weergegeven hoe uw keuzen eruitzien.
 
-**** LogoKlik op Bladeren en kies een afbeelding in het venster Logoafbeelding selecteren.
+* **Logo**  - klik  **[!UICONTROL Browse]** en kies een afbeelding in het venster Logoafbeelding selecteren.
 
-**** ApplicationMaak een verloopkleurovervloeiing door keuzes te maken in de menu&#39;s Achtergrondverloopkleuren.
+* **Toepassing**  - Maak een verloopkleurovervloeiing door keuzes te maken in de menu&#39;s Achtergrondverloopkleuren.
 
-**** BoomKies een omvergooienkleur (de kleur die wordt weergegeven wanneer u de aanwijzer over een item beweegt) en een selectiekleur (de kleur die wordt weergegeven wanneer u een item selecteert).
+* **Boom**  - kies een het omvergooienkleur (de kleur die verschijnt wanneer u de wijzer over een punt) en selectiekleur (de kleur die verschijnt wanneer u een punt selecteert).
 
-**** AccordeonKies achtergrondkleuren, een randstijl, rollover en geselecteerde kleuren voor de accordeon die in de weergave Details rechts op het scherm wordt weergegeven.
+* **Accordeon**  - Kies achtergrondkleuren, een randstijl, rollover en geselecteerde kleuren voor de accordeon die in de weergave Details rechts op het scherm wordt weergegeven.
 
-**Accordion** HeaderKies of u tekst in de vetgedrukte accordeonkop wilt maken.
+* **Koptekst**  van accordeon - Kies of u tekst in de vetgedrukte koptekst van de accordeon wilt maken.
 
-**** DatagridKies kleuren voor de koptekstrij in gegevensrasters.
+* **Datagrid**  - Kies kleuren voor de koptekstrij in gegevensrasters.
 
-**** AlertKies een achtergrondkleur voor waarschuwingsberichtvensters.
+* **Waarschuwing**  - Kies een achtergrondkleur voor waarschuwingsberichtvensters.
 
-**Progress** BarKies een kleur voor de balk die de voortgang van het uploaden en downloaden aangeeft.
+* **Voortgangsbalk**  - Kies een kleur voor de balk die de voortgang van het uploaden en downloaden aangeeft.
 
-Voor gebruikers van het Portaal van Media om de stijlmontages te zien u kiest, moeten zij `?company=(company name)` aan URL toevoegen waarmee zij tot het Portaal van Media toegang hebben. Bijvoorbeeld, om stijlmontages te zien, de gebruikers van het Portaal van Media die tot het bedrijf PortalCo bij het volgende toegang hebben:
+Voor gebruikers van het Portaal van Media om de stijlmontages te zien die u koos, moeten zij `?company=(company name)` aan URL toevoegen waarmee zij tot het Portaal van Media toegang hebben. Bijvoorbeeld, om stijlmontages te zien, de gebruikers van het Portaal van Media die tot het bedrijf PortalCo bij het volgende toegang hebben:
 
 `https://s7sps1.scene7.com/MediaPortal`
 
-gebruikt in plaats hiervan de volgende URL:
+Gebruik in plaats hiervan de volgende URL:
 
 `https://s7sps1.scene7.com/MediaPortal?company=PortalCo`
 
