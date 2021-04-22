@@ -6,21 +6,21 @@ seo-description: Dynamic Media Classic - overzicht
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 feature: Dynamic Media Classic
 role: Administrator,Business Practitioner
+exl-id: 7bf94d8c-23ff-4a43-83cc-7e6879a7cded
 translation-type: tm+mt
-source-git-commit: e727c1b5fb43c7def842ff1bafcc8b3ef3437cde
+source-git-commit: 27d9a9b9f158846b54e4318119aec9e4dc9c4c0d
 workflow-type: tm+mt
-source-wordcount: '252'
+source-wordcount: '249'
 ht-degree: 0%
 
 ---
-
 
 # Dynamic Media Classic Help {#scene7-overview}
 
 Welkom bij Adobe Dynamic Media Classic, het toonaangevende publicatiesysteem voor verschillende media op aanvraag voor het uploaden, beheren, verbeteren en publiceren van dynamische rijke inhoud naar alle apparaten en schermen. Adobe Dynamic Media Klassieke oplossingen omvatten het volgende:
 
 * Dynamic Imaging: Realtime bewerken, opmaken en vergroten/verkleinen, interactief zoomen en pannen; kleurwaarneming en structuurobservatie; 360 graden centrifuge; afbeeldingssjablonen; multimediaviewers.
-* eCatalogi: Auteur, hotspot het verbinden, onderzoek-toegelaten, publiceer en lever dynamisch gediende online catalogi in configureerbare kijkers.
+* eCatalogi: Auteur, hotspot het verbinden, onderzoek-toegelaten, publiceer, en lever dynamisch gediende online catalogi in configureerbare kijkers.
 * Mediaportaal: Zelf-servermilieu die poortgebruikers van beheerder-gecontroleerde &quot;meningen&quot;in de Klassieke activa van Dynamic Media voor gemakkelijke toegang om te uploaden, te doorbladeren, te zoeken, voorproef, en de uitvoer van activa te voorzien.
 * eVideo: Definitieve video&#39;s uploaden in elke gewenste indeling, beheren, bewerken, hotspots en videosjablonen maken, publiceren en streamen naar configureerbare videoviewers
 * Visuele configuraties: Technologie voor rendering in realtime om online visuele configuratie mogelijk te maken voor personalisatie- en aanpassingseffecten, zoals real-time rendering van kleurenstructuren, oppervlakken, patronen, monogrammen en gravures in productafbeeldingen of scènes.
@@ -41,4 +41,3 @@ Welkom bij Adobe Dynamic Media Classic, het toonaangevende publicatiesysteem voo
 * [Snel starten: Grondbeginselen van sjablonen](/help/quick-start-template-basics.md)
 * [Snel starten: Video](/help/quick-start-video.md)
 * [Snel starten: Zoomen](/help/quick-start-zoom.md)
-
