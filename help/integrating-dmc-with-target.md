@@ -9,27 +9,24 @@ geptopics: SG_SCENESEVENONDEMAND_PK/categories/target_integration
 discoiquuid: 3b4add18-4191-475e-a3a3-0184367a25fc
 feature: Dynamic Media Classic
 role: Data Engineer,Administrator,Business Practitioner
+exl-id: c6f217fb-89cb-4c8d-aa7f-309fc42f7d46
 translation-type: tm+mt
-source-git-commit: e727c1b5fb43c7def842ff1bafcc8b3ef3437cde
+source-git-commit: 27d9a9b9f158846b54e4318119aec9e4dc9c4c0d
 workflow-type: tm+mt
-source-wordcount: '170'
+source-wordcount: '143'
 ht-degree: 0%
 
 ---
 
-
 # Adobe Dynamic Media Classic integreren met Adobe Target Standard/Premium {#integrating-dmc-with-target}
 
-Voordat u [!DNL Dynamic Media Classic] kunt integreren met [!DNL Target Standard/Premium], moet u de doel-URL invoeren in het scherm [!DNL Dynamic Media Classic] Algemene instellingen toepassing. Ga als volgt te werk om uw doel-URL op te halen en voer deze in het scherm Algemene instellingen toepassing in:
+Voordat u [!DNL Dynamic Media Classic] kunt integreren met [!DNL Target Standard/Premium], moet u de doel-URL invoeren in het scherm [!DNL Dynamic Media Classic] Algemene instellingen toepassing. Ga als volgt te werk om de doel-URL te verkrijgen en deze in te voeren op de pagina Algemene instellingen toepassing:
 
 1. Meld u aan bij uw [!DNL Adobe Experience Cloud]-account.[!DNL Target Standard/Premium]
-1. Nadat u zich, in de adresbar van uw browser login, kopieert URL tot en met *.com*.
+1. Kopieer de URL tot en met `.com` nadat u zich hebt aangemeld in de adresbalk van de browser.
 
    Als de *fictional* URL (URLs-paden bevatten altijd slashes, niet slashes zoals in dit voorbeeld) in de adresbalk `https:\\www.myfictionalsite.com/categories/admin/home.do` is, kopieert u bijvoorbeeld alleen dit gedeelte van de *fictional* URL: `https:\\www.myfictionalsite.com`.
 
-   In stap 5 plakt u het gedeelte van de URL dat u hebt gekopieerd in het scherm [!DNL Dynamic Media Classic] Algemene instellingen van toepassing.
-
-1. Klik in [!DNL Dynamic Media Classic] op **Setup** > **Application Setup**.
-1. 5 Plak op de pagina Algemene instellingen toepassing in het veld **[!UICONTROL Test&Target Server Name]** de URL die u in stap 2 hebt gekopieerd.
-1. Klik **Close**.
-
+1. Klik in [!DNL Dynamic Media Classic] op **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]**.
+1. Plak op de pagina Algemene instellingen toepassing in het veld **[!UICONTROL Test&Target Server Name]** de URL die u in stap 2 hebt gekopieerd.
+1. Klik op **[!UICONTROL Close]**.
