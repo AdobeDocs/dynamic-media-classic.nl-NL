@@ -9,21 +9,20 @@ geptopics: SG_SCENESEVENONDEMAND_PK/categories/adobe_analytics_instrumentation_k
 discoiquuid: 3f1f5575-9fe5-436c-b009-99f3bff0b21f
 feature: Dynamic Media Classic
 role: Data Engineer,Administrator,Business Practitioner
+exl-id: fa5b3971-1c7d-4371-8d69-c399cec0390d
 translation-type: tm+mt
-source-git-commit: e727c1b5fb43c7def842ff1bafcc8b3ef3437cde
+source-git-commit: 4e79c98b92dfa4e1a9890ed8a291cdf564126466
 workflow-type: tm+mt
-source-wordcount: '86'
+source-wordcount: '82'
 ht-degree: 0%
 
 ---
 
-
 # Adobe Analytics tracking{#disabling-adobe-analytics-tracking} uitschakelen
 
-**Adobe Analytics-tracking uitschakelen**
+**Adobe Analytics-tracking uitschakelen:**
 
 1. Schakel alle gebeurtenissen op de Adobe Analytics Configuration-pagina in Dynamic Media Classic uit.
 1. Opslaan en publiceren.
 
-Hierdoor wordt de ondersteuning uitgeschakeld via Dynamic Media Classic en via URL&#39;s die zijn verkregen via de functie **CopyURL**. Als u aangepaste tracering implementeert, schakelt u het bijhouden van Adobe Analytics uit zoals ingesteld op de configuratiepagina om conflicten met de aangepaste implementatie te voorkomen.
-
+Met deze stappen schakelt u de ondersteuning uit via Dynamic Media Classic en via URL&#39;s die u hebt ontvangen van de functie CopyURL. Als u aangepaste tracering implementeert, schakelt u het bijhouden van Adobe Analytics uit zoals ingesteld op de configuratiepagina om conflicten met de aangepaste implementatie te voorkomen.
