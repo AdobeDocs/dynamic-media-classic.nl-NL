@@ -7,37 +7,31 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/master_files
 discoiquuid: efa2c56e-4543-47fa-a4e8-b94021102d01
-feature: Dynamic Media Classic,Asset Management
+feature: Dynamic Media Classic, beheer van bedrijfsmiddelen
 role: Business Practitioner
+exl-id: 1c368c25-78e6-4bcc-b390-d9133073821a
 translation-type: tm+mt
-source-git-commit: e727c1b5fb43c7def842ff1bafcc8b3ef3437cde
+source-git-commit: 27d9a9b9f158846b54e4318119aec9e4dc9c4c0d
 workflow-type: tm+mt
-source-wordcount: '319'
+source-wordcount: '307'
 ht-degree: 0%
 
 ---
-
 
 # Afbeeldingen bewerken{#editing-images}
 
 Dynamic Media Classic bevat veel gereedschappen voor het maken van multimedia-effecten. Deze gereedschappen zijn beschikbaar door te klikken op de knop Bewerken en in het deelvenster Bladeren in de gedetailleerde weergave. U kunt de volgende beeldbewerkingstaken uitvoeren in Dynamic Media Classic:
 
-* **Afbeeldingskaarten makenSelecteer de opdracht Afbeelding of de knop Afbeeldingskaart om een afbeelding met hyperlinks te maken.**
-Een afbeelding met hyperlinks is een hotspot op een afbeelding, een eCatalog-pagina of een afbeelding in een SpinSet die een deelvenster met rollovertekst weergeeft. Gebruikers kunnen bijvoorbeeld op een afbeelding met hyperlinks klikken om een nieuwe webpagina te starten. Zie Afbeeldingen met hyperlinks maken.
+* **Afbeeldingskaarten**  maken - Als u een afbeelding met hyperlinks wilt maken, selecteert u de opdracht Afbeelding of de  **[!UICONTROL Image Map]** knop. Een afbeelding met hyperlinks is een hotspot op een afbeelding, een eCatalog-pagina of een afbeelding in een SpinSet die een deelvenster met rollovertekst weergeeft. Gebruikers kunnen bijvoorbeeld op een afbeelding met hyperlinks klikken om een nieuwe webpagina te starten. Zie [Afbeeldingskaarten maken](/help/creating-image-maps.md).
 
-* **Zoomdoelen makenSelecteer de**
-opdracht Zoomdoelen of de knop Zoomdoelen om miniatuurdoelen te maken. Gebruikers kunnen op een miniatuurdoel in de zoomviewer klikken om rechtstreeks naar een bepaald gedeelte van de afbeelding te zoomen. Zie Zoomdoelen maken voor zoomen met instructies.
+* **Zoomdoelen**  maken - Als u miniatuurdoelen wilt maken, selecteert u de opdracht Zoomdoelen of de  **[!UICONTROL Zoom Targets]** knop. Gebruikers kunnen op een miniatuurdoel in de zoomviewer klikken om rechtstreeks naar een bepaald gedeelte van de afbeelding te zoomen. Zie [Zoomdoelen maken voor Bewerken met instructies-zoomfunctie](/help/creating-zoom-targets-guided-zoom.md).
 
-* **Een**
-afbeelding uitsnijdenSelecteer de opdracht Uitsnijden of de knop Uitsnijden om een afbeelding uit te snijden. Zie Een afbeelding uitsnijden.
+* **Een afbeelding**  uitsnijden - Als u een afbeelding wilt uitsnijden, selecteert u de opdracht Uitsnijden of de  **[!UICONTROL Crop]** knop. Zie [Een afbeelding uitsnijden](/help/cropping-image.md).
 
-* **Verscherp een**
-afbeelding. Selecteer de opdracht Verscherpen of de knop Verscherpen om een afbeelding te verscherpen en de omtrekken van de afbeelding minder vaag en duidelijker te maken. Zie Een afbeelding verscherpen.
+* **Verscherp een afbeelding** . Selecteer de opdracht Verscherpen of de  **[!UICONTROL Sharpen]** knop om een afbeelding te verscherpen en de contouren minder vaag en duidelijker te maken. Zie [Een afbeelding verscherpen](/help/sharpening-image.md).
 
-* **Pas een**
-afbeelding aan. Selecteer de opdracht Aanpassen of de knop Aanpassen om de kleurbalans van een afbeelding te spiegelen, te roteren, te vervagen, te kleuren of te wijzigen. Zie Een afbeelding aanpassen.
+* **Een afbeelding**  aanpassen - Selecteer de opdracht Aanpassen of de  **[!UICONTROL Adjust]** knop om de kleurbalans van een afbeelding te spiegelen, te roteren, te vervagen, te kleuren of te wijzigen. Zie [Een afbeelding aanpassen](/help/adjusting-image.md).
 
-* **Bewerk**
-lagenKlik op het tabblad Lagen om afzonderlijke, bewerkbare lagen in een PSD-bestand weer te geven. Wanneer u een PSD-bestand uploadt, worden alle lagen afzonderlijk geüpload als afzonderlijke bestanden, zodat u deze kunt bewerken in Dynamic Media Classic.
+* **Lagen**  bewerken - Als u afzonderlijke, bewerkbare lagen in een PSD-bestand wilt weergeven, klikt u op het  **[!UICONTROL Layers]** tabblad. Wanneer u een PSD-bestand uploadt, worden alle lagen afzonderlijk geüpload als afzonderlijke bestanden, zodat u deze kunt bewerken in Dynamic Media Classic.
 
 Naast het gebruik van deze gereedschappen voor het bewerken van afbeeldingen, kunt u afbeeldingen bewerken terwijl u ze uploadt naar Dynamic Media Classic. U kunt bijvoorbeeld afbeeldingen uitsnijden, een masker maken op basis van een uitknippad en een kleurprofiel voor een afbeelding selecteren terwijl u de afbeelding uploadt.
