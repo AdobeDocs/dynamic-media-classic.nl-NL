@@ -11,9 +11,9 @@ feature: Dynamic Media Classic
 role: Business Practitioner
 exl-id: ca629427-da33-4bab-9d08-6d9368042f7e
 translation-type: tm+mt
-source-git-commit: 7456226cf6469f40e66ff327475d4c605b6d6e13
+source-git-commit: 38d09bb78834c6b3614bf2b96fd6aee5661e0a5a
 workflow-type: tm+mt
-source-wordcount: '836'
+source-wordcount: '804'
 ht-degree: 0%
 
 ---
@@ -37,21 +37,21 @@ U kunt een URL-tekenreeks die is gegenereerd door een voorinstelling voor afbeel
 1. Navigeer in het deelvenster Elementenbibliotheek aan de linkerkant naar de mappen Middelen die het afbeeldingselement bevatten waarvan u een voorvertoning wilt weergeven.
 1. Voer een van de volgende handelingen uit:
 
-   * Klik rechts van de werkbalk boven het middelenvenster op Rasterweergave. Selecteer in het venster Middelen één afbeeldingselement en klik vervolgens onder de miniatuurafbeelding op Voorvertoning > Lijst met voorinstellingen afbeelding.
-   * Klik rechts van de werkbalk boven het middelenvenster op Lijstweergave. Selecteer in het venster Middelen één afbeeldingselement en klik vervolgens rechts van de miniatuurafbeelding op Voorvertoning > Lijst met voorinstellingen afbeelding.
-   * Klik rechts van de werkbalk boven het middelenvenster op Gedetailleerde weergave. Klik op dezelfde werkbalk op Voorvertoning > Lijst met voorinstellingen afbeelding.
+   * Klik rechts van de werkbalk boven het middelenvenster op **[!UICONTROL Grid View]**. Selecteer in het venster Element één afbeeldingselement en klik vervolgens onder de miniatuurafbeelding op **[!UICONTROL Preview]** > **[!UICONTROL Image Preset List]**.
+   * Klik rechts van de werkbalk boven het middelenvenster op **[!UICONTROL List View]**. Selecteer in het venster Middelen één afbeeldingselement en klik vervolgens rechts van de miniatuurafbeelding op **[!UICONTROL Preview]** > **[!UICONTROL Image Preset List]**.
+   * Klik rechts van de werkbalk boven het middelenvenster op **[!UICONTROL Detail View]**. Klik op **[!UICONTROL Preview]** > **[!UICONTROL Image Preset List]** op dezelfde werkbalk.
 
-1. (Optioneel) Selecteer in het venster Lijst met voorinstellingen afbeelding in de vervolgkeuzelijst URL-codering voor URL-generatie kopiëren onderaan de URL-codering die u wilt toepassen op de URL van het afbeeldingselement wanneer dit wordt gekopieerd.
-1. Klik in het venster Lijst met voorinstellingen afbeelding rechtsboven in het voorvertoningsvenster op URL kopiëren voor het geselecteerde type voorinstelling.
-1. Klik in de rechterbenedenhoek van het venster Lijst met voorinstellingen afbeelding op Sluiten om terug te keren naar het scherm Middelen.
+1. (Optioneel) Selecteer in de lijst Voorinstellingen afbeelding in de vervolgkeuzelijst URL-codering voor URL-generatie kopiëren de URL-codering die u wilt toepassen op de URL van het afbeeldingselement wanneer dit wordt gekopieerd.
+1. Klik in de rechterbovenhoek van het voorvertoningsvenster in het venster Lijst met voorinstellingen afbeelding op **[!UICONTROL Copy URL]** voor het geselecteerde type voorinstelling.
+1. Klik in de rechterbenedenhoek van het venster Lijst met voorinstellingen afbeelding op **[!UICONTROL Close]** om terug te keren naar het scherm Middelen.
 
 ### Een URL met voorinstellingen voor afbeeldingen verkrijgen in het deelvenster Bladeren {#obtaining-an-image-preset-url-from-the-browse-panel}
 
 1. Navigeer in het deelvenster Elementenbibliotheek aan de linkerkant naar de mappen Middelen die het afbeeldingselement bevatten waarvan u een voorvertoning wilt weergeven.
-1. Klik rechts van de werkbalk boven het middelenvenster op Rasterweergave. Selecteer in het venster Middelen één afbeeldingselement.
-1. Klik rechts van de werkbalk boven het middelenvenster op Gedetailleerde weergave.
-1. Klik op URL&#39;s in het deelvenster aan de rechterkant van het scherm om de lijst met voorinstellingen voor afbeeldingen te ontvouwen.
-1. Klik op de koppeling URL kopiëren naast de naam van de voorinstelling Afbeelding met de URL die u naar het klembord wilt kopiëren.
+1. Klik rechts van de werkbalk boven het middelenvenster op **[!UICONTROL Grid View]**. Selecteer in het venster Middelen één afbeeldingselement.
+1. Klik rechts van de werkbalk boven het middelenvenster op **[!UICONTROL Detail View]**.
+1. Klik op **[!UICONTROL URLs]** in het deelvenster aan de rechterkant van het scherm om de lijst met voorinstellingen voor afbeeldingen te openen.
+1. Klik op **[!UICONTROL Copy URL]** naast de naam van de voorinstelling Afbeelding met de URL die u naar het klembord wilt kopiëren.
 
 ## Informatie over URL-tekenreeksen met voorinstellingen afbeelding {#about-image-preset-url-strings}
 
@@ -89,7 +89,7 @@ Bijvoorbeeld, in plaats van de typische vraag om een statische beeld zoals te op
 img src="/company_images/products/backpack_thumbnail.jpg"
 ```
 
-u gebruikt nu de tag `<IMG>`om de verwijzing naar een statische afbeelding te vervangen door een aanroep van een voorinstelling voor afbeeldingen naar het Dynamic Media Classic-platform. Een steekproefvraag kijkt als dit:
+U gebruikt nu de tag `<IMG>`om de verwijzing naar een statische afbeelding te vervangen door een aanroep van een voorinstelling voor afbeeldingen naar het Dynamic Media Classic-platform. Een steekproefvraag kijkt als dit:
 
 ```as3
 img src="https://s7d2.scene7.com/is/image/S7learn/backpack_trns?$thumbnail$”
