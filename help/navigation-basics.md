@@ -11,9 +11,9 @@ feature: Dynamic Media Classic
 role: Administrator,Business Practitioner
 exl-id: 3ffcfab2-c29d-4b0f-b223-c4a5ca99f21a
 translation-type: tm+mt
-source-git-commit: 7456226cf6469f40e66ff327475d4c605b6d6e13
+source-git-commit: 38d09bb78834c6b3614bf2b96fd6aee5661e0a5a
 workflow-type: tm+mt
-source-wordcount: '612'
+source-wordcount: '589'
 ht-degree: 0%
 
 ---
@@ -28,51 +28,51 @@ Het Klassieke scherm van Dynamic Media omvat drie belangrijke gebieden: De globa
 
 De algemene navigatiebalk, die zich boven aan het scherm bevindt, bevat knoppen voor het uitvoeren van verschillende taken:
 
-**Selecteer** BedrijfKies het bedrijf u van het menu wilt toegang hebben. Deze knop is niet beschikbaar als u met één bedrijf werkt.
+* **Selecteer Bedrijf**  - kies het bedrijf u van het menu wilt toegang hebben. Deze knop is niet beschikbaar als u met één bedrijf werkt.
 
-**** UploadenHiermee opent u het uploadscherm zodat u bestanden van uw computer of netwerk kunt uploaden naar Dynamic Media Classic. U kunt bestanden uploaden vanaf uw bureaublad of via FTP. Zie Bestanden uploaden.
+* **Uploaden**  - Het uploadscherm wordt geopend zodat u bestanden van uw computer of netwerk kunt uploaden naar Dynamic Media Classic. U kunt bestanden uploaden vanaf uw bureaublad of via FTP. Zie [Bestanden uploaden](/help/uploading-files.md).
 
-**** BuildKies een bouwsteentaak in het menu. Het deelvenster Samenstellen wordt geopend, zodat u een elementtype kunt maken.
+* **Build**  - Kies een bouwsteentaak in het menu. Het deelvenster Samenstellen wordt geopend, zodat u een elementtype kunt maken.
 
-**** PublicerenHiermee opent u het scherm Publiceren, zodat u rich media-elementen kunt publiceren naar Dynamic Media Image Servers en de rest van de Klassieke SAAS-infrastructuur van Dynamic Media. Zie Publiceren.
+* **Publiceren**  - Hiermee opent u het scherm Publiceren, zodat u rich media-elementen kunt publiceren naar Dynamic Media Image Servers en de rest van de Klassieke SAAS-infrastructuur van Dynamic Media.
 
-**** JobsOpent het scherm van Banen zodat kunt u verslagen van upload onderzoeken en banen publiceren.
+* **Banen**  - opent het scherm van Banen zodat kunt u verslagen van upload onderzoeken en banen publiceren.
 
-**** RecentHiermee opent u het scherm Recente activiteiten, zodat u de namen van onlangs gewijzigde middelen en recente upload- en publicatietaken kunt bekijken.
+* **Recent**  - Hiermee opent u het scherm Recente activiteiten, zodat u de namen van onlangs gewijzigde middelen en recente upload- en publicatietaken kunt bekijken.
 
-**** SetupHiermee opent u het scherm Setup, zodat u instellingen of beheeropties kunt kiezen voor het optimaliseren van het gebruik van Dynamic Media Classic. Zie Instellen.
+* **Instellen**  - Het scherm Setup wordt geopend, zodat u instellingen of beheeropties kunt kiezen voor het optimaliseren van het gebruik van Dynamic Media Classic. Zie [Setup](/help/setup-basics.md).
 
-**** HelpKies een Help-optie:
+* **** HelpKies een Help-optie:
 
-**Help > Help over dit** onderwerp opent het Help-systeem naar een pagina met informatie over de taak die u momenteel uitvoert.
+* **Help > Help over dit onderwerp**  - Hiermee opent u het Help-systeem naar een pagina met informatie over de taak die u momenteel uitvoert.
 
-**Help >** VideozelfstudieHiermee krijgt u toegang tot video&#39;s over specifieke onderwerpen om te tonen hoe u aan de slag kunt met elke publicatieworkflow voor veelzijdige media.
+* **Help > Videozelfstudie**  - Hiermee opent u video&#39;s over specifieke onderwerpen waarin wordt getoond hoe u aan de slag kunt gaan met elke workflow voor publicatie van rich media.
 
-**Help > Help** ContentsHiermee opent u het Help-systeem naar de pagina Introductie. U kunt door de Inhoudslijst klikken om verschillende onderwerpen te vinden en te bekijken.
+* **Help > Help-inhoud**  - Hiermee opent u het Help-systeem naar de pagina Introductie. U kunt door de Inhoudslijst klikken om verschillende onderwerpen te vinden en te bekijken.
 
-**Help >** Info geeft aan welke versie van Dynamic Media Classic u uitvoert.
+* **Help > Info**  - Geeft aan welke versie van Dynamic Media Classic u uitvoert.
 
-**Help >** SupportGeeft aan hoe u technische ondersteuning kunt krijgen van Dynamic Media Classic.
+* **Help > Ondersteuning**  - vertelt u hoe u technische ondersteuning kunt krijgen van Dynamic Media Classic.
 
-**Sign** OutExits Dynamic Media Classic.
+* **Afmelden** : sluit Dynamic Media Classic af.
 
 ## Assetbibliotheek {#asset-library}
 
 Gebruik de Asset Library om de elementen te ordenen waarmee u werkt. U kunt mappen en submappen maken om uw elementen te ordenen in de Asset Library.
 
-Boven aan het deelvenster Elementenbibliotheek staan opdrachten voor het zoeken naar elementen. U kunt zoeken naar elementen en filteren om elementen te zoeken. Klik op het prullenbakpictogram onder aan de bibliotheek met middelen om de elementen te controleren die u hebt verwijderd.
+Boven aan het deelvenster Elementenbibliotheek staan opdrachten voor het zoeken naar elementen. U kunt zoeken naar elementen en filteren om elementen te zoeken. Klik op het pictogram **[!UICONTROL Trash]** onder aan de elementenbibliotheek om de elementen te bekijken die u hebt verwijderd.
 
 >[!NOTE]
 >
->U kunt op de besturingselementen voor de elementenbibliotheek klikken om de elementenbibliotheek te openen of te sluiten en meer ruimte krijgen om op het scherm te werken. Selecteer het besturingselement Uitvouwen/Samenvouwen om het deelvenster uit of te sluiten. Deze besturingselementen bevinden zich links in het deelvenster.
+>U kunt op **[!UICONTROL Asset Library]** besturingselementen klikken om de Asset Library te openen of te sluiten en meer ruimte krijgen om op het scherm te werken. Klik op het besturingselement **[!UICONTROL Expand]**/**[!UICONTROL Collapse]** om het deelvenster uit te vouwen of te sluiten. Deze besturingselementen staan links in het deelvenster.
 
 ## Deelvenster Bladeren/deelvenster Samenstellen {#browse-panel-build-panel}
 
-In het deelvenster Bladeren/Samenstellen doet u veel van uw werk. Wat in dit deelvenster wordt weergegeven, is afhankelijk van de modus Bladeren of de modus Samenstellen:
+In het deelvenster Bladeren/Samenstellen doet u veel van uw werk. Welke functies beschikbaar zijn in dit deelvenster, is afhankelijk van de modus Bladeren of de modus Samenstellen.
 
-**Bladeren** in modusSelecteer een map in de elementenbibliotheek om de inhoud ervan weer te geven en ermee te werken in het deelvenster Bladeren. In dit deelvenster vindt u de menu&#39;s Bestand, Voorvertoning, Alles selecteren, Geen selecteren en Sorteren voor het werken met elementen. U kunt elementen ook op verschillende manieren weergeven door de schuifregelaar te verplaatsen of de knop Rasterweergave, Lijstweergave of Gedetailleerde weergave te selecteren. Als u de knop Gedetailleerde weergave selecteert of dubbelklikt op een element, wordt het element geopend in de gedetailleerde weergave, waar u elementafhankelijke bestandsbewerkingen kunt uitvoeren.
+* **Modus**  Bladeren - Als u de inhoud van een map in het deelvenster Bladeren wilt weergeven en ermee wilt werken, selecteert u een map in de Asset Library. In dit deelvenster vindt u de menu&#39;s **[!UICONTROL File]**, **[!UICONTROL Preview]**, **[!UICONTROL Select All]**, **[!UICONTROL Select None]** en **[!UICONTROL Sort]** voor het werken met elementen. U kunt elementen ook op verschillende manieren weergeven door de schuifregelaar te verplaatsen of op **[!UICONTROL Grid View]**, **[!UICONTROL List View]** of **[!UICONTROL Detail View]** te klikken. Als u op **[!UICONTROL Detail View]** klikt of dubbelklikt op een element, wordt het element geopend in de gedetailleerde weergave, waar u elementafhankelijke bestandsbewerkingen kunt uitvoeren.
 
-**Bouw** wijzeKlik bouwen, dan kies een optie beginnen een eCatalog, de Reeks van het Beeld, de Reeks van de Draai, of één van verscheidene andere beschikbare punten op het menu van de Bouwstijl te bouwen. Het scherm van de Bouwstijl opent. U kunt de elementen selecteren waarmee u wilt werken voordat of nadat u de modus Samenstellen hebt geactiveerd.
+* **Modus**  Samenstellen: klik op  **[!UICONTROL Build]** en kies een optie om een eCatalog, Afbeeldingsset, Draaiset of een van de andere beschikbare items in het menu Samenstellen te maken. De pagina Build wordt geopend. U kunt de elementen selecteren waarmee u wilt werken voordat of nadat u de modus Samenstellen hebt geactiveerd.
 
 >[!MORELIKETHIS]
 >
