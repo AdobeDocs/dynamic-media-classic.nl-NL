@@ -9,33 +9,33 @@ geptopics: SG_SCENESEVENONDEMAND_PK/categories/adobe_analytics_instrumentation_k
 discoiquuid: e5b510a8-8b7f-4c60-869e-d664a8157e63
 feature: Dynamic Media Classic
 role: Data Engineer,Administrator,Business Practitioner
+exl-id: 261b8f7c-c61c-4ce3-b9dc-8549347aca2e
 translation-type: tm+mt
-source-git-commit: e727c1b5fb43c7def842ff1bafcc8b3ef3437cde
+source-git-commit: 38d09bb78834c6b3614bf2b96fd6aee5661e0a5a
 workflow-type: tm+mt
-source-wordcount: '344'
+source-wordcount: '331'
 ht-degree: 0%
 
 ---
 
-
 # Aanmelden bij Adobe Analytics{#log-in-to-adobe-analytics}
 
-Alvorens u login om de rapporten van Adobe Analytics te vormen en de rapportvariabelen van Adobe Analytics aan de Klassieke gebeurtenissen van Dynamic Media aan te passen, verifieer dat u als lid van de groep van de Toegang van de Dienst van het Web in Adobe Analytics wordt toegevoegd. De leden in deze groep kunnen tot alle rapporten in de gespecificeerde rapportreeksen door middel van de Diensten API van het Web van de Marketing Cloud ongeacht de toestemmingen toegang hebben die in de interface worden geplaatst. Als u een lid wilt toevoegen aan de groep, klikt u in Adobe Analytics op **Admin Tools** > **Gebruikersbeheer** > **Groepen bewerken**.
+Alvorens u login om de rapporten van Adobe Analytics te vormen en de rapportvariabelen van Adobe Analytics aan de Klassieke gebeurtenissen van Dynamic Media aan te passen, verifieer dat u een lid van de groep van de Toegang van de Dienst van het Web in Adobe Analytics bent. De leden in deze groep kunnen tot alle rapporten in de gespecificeerde rapportreeksen door middel van de Diensten API van het Web van de Marketing Cloud ongeacht de toestemmingen toegang hebben die in de interface worden geplaatst. Als u een lid wilt toevoegen aan de groep, klikt u in Adobe Analytics op **[!UICONTROL Admin Tools]** > **[!UICONTROL User Management]** > **[!UICONTROL Edit Groups]**.
 
-Als u zich aanmeldt, kunt u de Marketing Cloud-Org-id invoeren om de meest recente implementatie van videoanalyses te gebruiken. Als u ervoor kiest om uw id niet in te voeren, werkt het rapporteren van video nog steeds. De gegevens worden echter mogelijk niet correct geïntegreerd met andere gegevens voor die client van buiten Dynamic Media Classic.
+Wanneer u zich aanmeldt, kunt u de Marketing Cloud-Org-id invoeren om de meest recente videoanalytische implementatie te gebruiken. Als u ervoor kiest om uw id niet in te voeren, werkt het rapporteren van video nog steeds. De gegevens worden echter mogelijk niet correct geïntegreerd met andere gegevens voor die client van buiten Dynamic Media Classic.
 
 >[!NOTE]
 >
 >Als uw Adobe Analytics-account voor aanmelding is gemigreerd naar verificatie op basis van Adobe IMS (Identity Management System), werkt het invoeren van directe referenties niet.
 
-**Aanmelden bij Adobe Analytics**
+**Aanmelden bij Adobe Analytics:**
 
-1. Tik in de rechterbovenhoek van de klassieke Dynamic Media-pagina op **[!UICONTROL Setup > Application Setup]**.
+1. Tik in de rechterbovenhoek van de klassieke Dynamic Media-pagina op **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]**.
 1. Tik in het linkervenster onder **[!UICONTROL Application Setup]** op **[!UICONTROL Adobe Analytics]**.
 1. Tik op **[!UICONTROL Adobe Analytics Login]** op de Adobe Analytics-configuratiepagina.
 1. Voer in het dialoogvenster **[!UICONTROL Adobe Analytics Login]** uw bedrijfsnaam, Marketing Cloud-Org-id (optioneel), gebruikersnaam en de *sleutel voor gedeeld geheim* in het tekstveld **[!UICONTROL Password]** in.
 
-   U kunt de *gedeelde geheime* sleutel van de knoop van Admin van Analytics terugwinnen. Zie [API-referenties ophalen voor gebruikersaccounts](https://github.com/AdobeDocs/analytics-2.0-apis/blob/master/create-oauth-client.md).
+   U kunt de *gedeelde geheime* sleutel van de Admin Console van Analytics terugwinnen. Zie [API-referenties ophalen voor gebruikersaccounts](https://github.com/AdobeDocs/analytics-2.0-apis/blob/master/create-oauth-client.md).
 
 1. Klik op **[!UICONTROL Login]**.
 1. Kies in het vervolgkeuzemenu **[!UICONTROL Report Suite]** een rapportsuite en klik op **[!UICONTROL OK]**.
