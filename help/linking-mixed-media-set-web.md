@@ -7,16 +7,16 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/mixed_media_sets
 discoiquuid: b33dacc4-509d-4878-a769-76642bfaeb4e
-feature: Dynamic Media Classic,Viewers,Mix Media Sets
+feature: Dynamic Media Classic,viewers,mediasets mengen
 role: Business Practitioner
+exl-id: 76a7530c-0cc7-4a7f-bc31-2950c4946871
 translation-type: tm+mt
-source-git-commit: e727c1b5fb43c7def842ff1bafcc8b3ef3437cde
+source-git-commit: 38d09bb78834c6b3614bf2b96fd6aee5661e0a5a
 workflow-type: tm+mt
-source-wordcount: '647'
-ht-degree: 0%
+source-wordcount: '578'
+ht-degree: 1%
 
 ---
-
 
 # Een gemengde mediaset koppelen aan een webpagina{#linking-a-mixed-media-set-to-a-web-page}
 
@@ -24,22 +24,22 @@ Nadat u een gemengde mediaset hebt gepubliceerd, kunt u de bijbehorende URL verk
 
 ## Een gemengde-mediaset-URL {#obtain-a-mixed-media-set-url} verkrijgen
 
-1. Klik in de vervolgkeuzelijst Tonen in het deelvenster Middelen bladeren op **Mediaset**.
+1. Klik in de vervolgkeuzelijst Tonen in het deelvenster Asset Browse op **[!UICONTROL Media Set]**.
 1. Navigeer in het deelvenster Elementenbibliotheek aan de linkerkant naar de elementenmap die de mediaset bevat waarvan u de insluitcode wilt kopiëren.
 1. Voer boven het deelvenster Asset Browse een van de volgende handelingen uit aan de rechterkant van de werkbalk:
 
-   * Klik **Rasterweergave**. Dubbelklik in het deelvenster Asset Browse op één element om dit te openen in de gedetailleerde weergave. Klik in de URL&#39;s en het deelvenster Code insluiten aan de rechterkant op **URL kopiëren** rechts van de gewenste viewer.
-   * Klik **Rasterweergave**. Selecteer in het deelvenster Asset Browse één element en klik vervolgens onder de miniatuurafbeelding op **Voorvertoning** > **Viewerlijst**.
+   * Klik op **[!UICONTROL Grid View]**. Dubbelklik in het deelvenster Asset Browse op één element om dit te openen in de gedetailleerde weergave. Klik in de URL&#39;s en het deelvenster Code insluiten rechts van de gewenste viewer op **[!UICONTROL Copy URL]**.
+   * Klik op **[!UICONTROL Grid View]**. Selecteer in het deelvenster Asset Browse één element en klik vervolgens onder de miniatuurafbeelding op **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]**.
 
-      Klik onder de kolom Acties van de tabel in de pagina Viewer List op **URL kopiëren**.
+      Klik op **[!UICONTROL Copy URL]** onder de kolom Handelingen van de tabel in de Viewer List.
 
-   * Klik **Lijstweergave**. Selecteer één element in het deelvenster Asset Browse en klik vervolgens rechts van de miniatuurafbeelding op **Voorvertoning** > **Viewer List**.
+   * Klik op **[!UICONTROL List View]**. Selecteer één element in het deelvenster Asset Browse en klik vervolgens rechts van de miniatuurafbeelding op **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]**.
 
-      Klik onder de kolom Acties van de tabel in de pagina Viewer List op **URL kopiëren**.
+      Klik op **[!UICONTROL Copy URL]** onder de kolom Handelingen van de tabel in de Viewer List.
 
-   * Klik **Rasterweergave**, **Lijstweergave** of **Detailweergave**. Klik op **Voorvertoning** > **Viewerlijst** op dezelfde werkbalk.
+   * Klik **[!UICONTROL Grid View]**, **[!UICONTROL List View]**, of **[!UICONTROL Detail View]**. Klik op **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]** op dezelfde werkbalk.
 
-      Klik onder de kolom Acties van de tabel in de pagina Viewer List op **URL kopiëren**.
+      Klik op **[!UICONTROL Copy URL]** onder de kolom Handelingen van de tabel in de Viewer List.
 
 ## Voeg gemengde Media toe - vastgestelde URLs aan uw Web-pagina {#add-mixed-media-set-urls-to-your-web-page}
 
@@ -49,30 +49,30 @@ De gemeenschappelijkste manier om Gemengde Reeksen van Media op te stellen is ee
 
 Met de functie Code insluiten kunt u de viewercode voor de geselecteerde gemengde mediaset controleren. U kunt de code ook naar het klembord kopiëren, zodat u de code op uw webpagina&#39;s kunt plakken en de viewer kunt implementeren. Het bewerken van de code is niet toegestaan in het dialoogvenster Code insluiten.
 
-**De insluitcode van een viewer met gemengde mediaset kopiëren**
+**U kunt als volgt de insluitcode van een viewer met gemengde mediaset kopiëren:**
 
-1. Klik in de vervolgkeuzelijst Tonen in het deelvenster Middelen bladeren op **Gemengde mediaset**.
+1. Klik in de vervolgkeuzelijst Tonen in het deelvenster Asset Browse op **[!UICONTROL Mixed Media Set]**.
 1. Navigeer in het deelvenster Elementenbibliotheek aan de linkerkant naar de elementenmap die de gemengde mediaset bevat waarvan u de insluitcode wilt kopiëren.
 1. Voer boven het deelvenster Asset Browse een van de volgende handelingen uit aan de rechterkant van de werkbalk:
 
-   * Klik **Rasterweergave**. Dubbelklik in het deelvenster Asset Browse op één element om dit te openen in de gedetailleerde weergave. Klik rechts in het deelvenster URL&#39;s en Code insluiten op **Code insluiten** rechts van de gewenste viewer.
-   * Klik **Rasterweergave**. Selecteer in het deelvenster Asset Browse één element en klik vervolgens onder de miniatuurafbeelding op **Voorvertoning** > **Viewerlijst**.
+   * Klik op **[!UICONTROL Grid View]**. Dubbelklik in het deelvenster Asset Browse op één element om dit te openen in de gedetailleerde weergave. Klik in de URL&#39;s en het deelvenster Code insluiten rechts van de gewenste viewer op **[!UICONTROL Embed Code]**.
+   * Klik op **[!UICONTROL Grid View]**. Selecteer in het deelvenster Asset Browse één element en klik vervolgens onder de miniatuurafbeelding op **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]**.
 
-      Klik onder de kolom Acties van de tabel in de pagina Viewer List op **Code insluiten**.
+      Klik op **[!UICONTROL Embed Code]** onder de kolom Handelingen van de tabel in de Viewer List.
 
-   * Klik **Lijstweergave**. Selecteer één element in het deelvenster Asset Browse en klik vervolgens rechts van de miniatuurafbeelding op **Voorvertoning** > **Viewer List**.
+   * Klik op **[!UICONTROL List View]**. Selecteer één element in het deelvenster Asset Browse en klik vervolgens rechts van de miniatuurafbeelding op **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]**.
 
-      Klik onder de kolom Acties van de tabel in de pagina Viewer List op **Code insluiten**.
+      Klik op **[!UICONTROL Embed Code]** onder de kolom Handelingen van de tabel in de Viewer List.
 
-   * Klik **Rasterweergave**, **Lijstweergave** of **Detailweergave**. Klik op **Voorvertoning** > **Viewerlijst** op dezelfde werkbalk.
+   * Klik **[!UICONTROL Grid View]**, **[!UICONTROL List View]**, of **[!UICONTROL Detail View]**. Klik op **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]** op dezelfde werkbalk.
 
-      Klik onder de kolom Acties van de tabel in de pagina Viewer List op **Code insluiten**.
+      Klik op **[!UICONTROL Embed Code]** onder de kolom Handelingen van de tabel in de Viewer List.
 
-1. Klik in het dialoogvenster Code insluiten op **Kopiëren naar klembord**.
+1. Klik in het dialoogvenster Code insluiten op **[!UICONTROL Copy to Clipboard]**.
 
    Het bewerken van de code is niet toegestaan in het dialoogvenster Code insluiten.
 
-1. Klik **Close**.
+1. Klik op **[!UICONTROL Close]**.
 
 >[!MORELIKETHIS]
 >
