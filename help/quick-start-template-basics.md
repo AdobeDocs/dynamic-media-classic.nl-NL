@@ -9,14 +9,14 @@ geptopics: SG_SCENESEVENONDEMAND_PK/categories/template_basics
 discoiquuid: dd0fbb39-3f6a-496b-a9b6-63b11dcb823a
 feature: Dynamic Media Classic
 role: Business Practitioner
+exl-id: bf695fee-821c-4396-829a-d57ccf475b0c
 translation-type: tm+mt
-source-git-commit: e727c1b5fb43c7def842ff1bafcc8b3ef3437cde
+source-git-commit: c4e2b8b42b56420269087d0d4f262490464270c0
 workflow-type: tm+mt
-source-wordcount: '789'
+source-wordcount: '783'
 ht-degree: 0%
 
 ---
-
 
 # Snel starten: Basisbeginselen van sjablonen{#quick-start-template-basics}
 
@@ -64,7 +64,7 @@ Als u de sjabloon publiceert, wordt deze op Dynamic Media Image Servers geplaats
 
 Zorg ervoor dat u alle afbeeldingen publiceert die aan de sjabloon zijn gekoppeld.
 
-Als u een sjabloon wilt publiceren, markeert u deze voor publicatie en selecteert u de knop Publiceren op de algemene navigatiebalk. Selecteer vervolgens de knop Publiceren starten. Zie [Sjablonen publiceren](publishing-templates.md#publishing_templates).
+Als u een sjabloon wilt publiceren, markeert u deze voor publicatie en selecteert u de knop Publiceren op de algemene navigatiebalk. Klik vervolgens op **[!UICONTROL Submit Publish]**. Zie [Sjablonen publiceren](publishing-templates.md#publishing_templates).
 
 **5. Een sjabloon koppelen aan een webpagina**
 
