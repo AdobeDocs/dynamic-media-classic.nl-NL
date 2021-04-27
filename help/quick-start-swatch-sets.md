@@ -9,14 +9,14 @@ geptopics: SG_SCENESEVENONDEMAND_PK/categories/swatch_sets
 discoiquuid: 1ea70fdf-3cbd-409c-ae7d-06286c99c6ac
 feature: Dynamic Media Classic,Viewers
 role: Business Practitioner
+exl-id: b0c345dc-539f-4b03-a873-091681e2f2c2
 translation-type: tm+mt
-source-git-commit: e727c1b5fb43c7def842ff1bafcc8b3ef3437cde
+source-git-commit: c4e2b8b42b56420269087d0d4f262490464270c0
 workflow-type: tm+mt
-source-wordcount: '391'
+source-wordcount: '389'
 ht-degree: 1%
 
 ---
-
 
 # Snel starten: Staalsets{#quick-start-swatch-sets}
 
@@ -52,7 +52,7 @@ Zie [Voorvertoning van een element](previewing-asset.md#previewing-an-asset).
 
 Als u een stalenset publiceert, wordt deze op de klassieke Dynamic Media-servers geplaatst en wordt de URL-tekenreeks geactiveerd.
 
-Klik op het pictogram **Markeren voor publiceren** links van de naam in het deelvenster Bladeren. Klik vervolgens op **Publiceren**. Klik in het scherm Publiceren op **Publiceren starten**.
+Klik op het pictogram **Markeren voor publiceren** links van de naam in het deelvenster Bladeren. Klik vervolgens op **Publiceren**. Klik in het scherm Publiceren op **Publicatie verzenden**.
 
 Zie [Publiceren](publishing-files.md#publishing-files).
 
