@@ -7,22 +7,19 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/managing_assets
 discoiquuid: e4a2a5b8-a074-4f0e-a607-0c47acbb81b4
-feature: Dynamic Media Classic,Asset Management
+feature: Dynamic Media Classic, beheer van bedrijfsmiddelen
 role: Business Practitioner
+exl-id: 23d6727b-0b48-4dac-be9f-f284d8d10de1
 translation-type: tm+mt
-source-git-commit: e727c1b5fb43c7def842ff1bafcc8b3ef3437cde
+source-git-commit: c4e2b8b42b56420269087d0d4f262490464270c0
 workflow-type: tm+mt
-source-wordcount: '65'
+source-wordcount: '47'
 ht-degree: 0%
 
 ---
 
-
 # Elementen afdrukken{#printing-assets}
 
-Voer de volgende stappen uit om een element af te drukken:
-
 1. Selecteer in het deelvenster Bladeren het element dat of de elementen die u wilt afdrukken.
-1. Kies Bestand > Afdrukken of druk op Ctrl+P (Windows) of Command+P (Macintosh).
-1. Kies in het dialoogvenster Afdrukken hoeveel exemplaren u wilt afdrukken en selecteer vervolgens de knop Afdrukken.
-
+1. Klik op **[!UICONTROL File]** > **[!UICONTROL Print]** of druk op `Ctrl+P` (Windows®) of `Command+P` (Macintosh).
+1. Kies in het dialoogvenster Afdrukken hoeveel exemplaren u wilt afdrukken en klik op **[!UICONTROL Print]**.
