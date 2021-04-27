@@ -5,16 +5,16 @@ contentOwner: admin
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/upload_and_publish_assets
-feature: Dynamic Media Classic,Asset Management
+feature: Dynamic Media Classic, beheer van bedrijfsmiddelen
 role: Business Practitioner
+exl-id: 91b73a09-c5b5-4001-b36f-6bebe65717ff
 translation-type: tm+mt
-source-git-commit: e727c1b5fb43c7def842ff1bafcc8b3ef3437cde
+source-git-commit: c4e2b8b42b56420269087d0d4f262490464270c0
 workflow-type: tm+mt
-source-wordcount: '1715'
+source-wordcount: '1685'
 ht-degree: 0%
 
 ---
-
 
 # Bestanden publiceren {#publishing-files}
 
@@ -30,11 +30,9 @@ Zie [Onmiddellijk publiceren, PDF](/help/assets/rendering-instant-publish-notifi
 
 Gebruik de volgende technieken om elementen te markeren voor publicatie:
 
-* **Publiceren na**
-uploadenSelecteer onder aan de pagina Uploaden de optie Publiceren na uploaden. De standaardinstelling is een geselecteerde status.
+* **Publiceren na uploaden**  - Selecteer onder aan de pagina Uploaden de optie Publiceren na uploaden. De standaardinstelling is een geselecteerde status.
 
-* **Publiceren na**
-uploadenSelecteer in het dialoogvenster Taakopties de optie Publiceren na uploaden. De standaardinstelling is een geselecteerde status.
+* **Publiceren na uploaden**  - Selecteer in het dialoogvenster Taakopties de optie Publiceren na uploaden. De standaardinstelling is een geselecteerde status.
 
 Sommige &quot;onderliggende&quot; elementen worden automatisch gemarkeerd voor publicatie wanneer hun ouders zijn gemarkeerd voor publicatie. Deze tabel bevat een lijst met onderliggende elementen die zijn gemarkeerd voor automatisch publiceren.
 
@@ -51,9 +49,9 @@ Afgeleide afbeeldingen worden ook automatisch gemarkeerd voor publicatie wanneer
 
 Maak een publicatietaak om elementen te publiceren die u naar Dynamic Media Classic-servers hebt geüpload, maar publiceer deze nog niet automatisch. U kunt een eenmalige publicatietaak uitvoeren of taken plannen die regelmatig opnieuw worden uitgevoerd. Dynamic Media Classic biedt geavanceerde publicatieopties voor het publiceren naar specifieke servers en opties voor het opnieuw publiceren van middelen die al zijn gepubliceerd.
 
-**Een publicatietaak maken**
+**Een publicatietaak maken:**
 
-1. Voor de Globale bar van de Navigatie, klik **Publish**.
+1. Klik op **[!UICONTROL Publish]** op de algemene navigatiebalk.
 1. Kies in het dialoogvenster Publiceren of u een eenmalige of herhaalde publicatietaak wilt uitvoeren.
 
    Zie [Eenmalige publicatietaak maken](publishing-files.md#creating_a_one_time_publish_job) en [Een terugkerende publicatietaak maken](publishing-files.md#creating_a_recurring_publish_job).
@@ -63,7 +61,7 @@ Maak een publicatietaak om elementen te publiceren die u naar Dynamic Media Clas
 
    Zie [Geavanceerde publicatieopties](publishing-files.md#advanced_publish_options).
 
-1. Klik **Publiceren verzenden**.
+1. Klik op **[!UICONTROL Submit Publish]**.
 
 Dynamic Media Classic tracks publiceren taken op de pagina Taken. U kunt publicatietaken op die pagina controleren.
 
@@ -75,13 +73,13 @@ Dynamic Media Classic tracks publiceren taken op de pagina Taken. U kunt publica
 
 Maak een eenmalige publicatietaak door de optie Eenmalig te selecteren op de pagina Publiceren.
 
-Als u wilt dat de publicatietaak op een latere datum plaatsvindt, selecteert u het menu Wanneer en kiest u Planning voor later. Selecteer vervolgens met de schuifregelaar Kalender en Tijd een dag en tijd om de publicatietaak uit te voeren.
+Als u wilt dat de publicatietaak later plaatsvindt, selecteert u **[!UICONTROL One-Time]** op de pagina Publiceren en klikt u vervolgens op **[!UICONTROL Schedule For Later]** vervolgkeuzelijst. Gebruik de schuifregelaar Kalender en Tijd om een dag en tijd te selecteren waarop u de publicatietaak wilt uitvoeren.
 
 ### Een terugkerende publicatietaak {#creating-a-recurring-publish-job} maken
 
-Maak een terugkerende publicatietaak door de optie Terugkeren op de pagina Publiceren te selecteren.
+Maak een terugkerende publicatietaak door **[!UICONTROL Recurring]** op de pagina Publiceren te selecteren.
 
-Kies vervolgens een optie voor Herhalen (Dagelijks, Wekelijks, Maandelijks of Aangepast) om te declareren wanneer de publicatietaak moet worden herhaald. Dynamic Media Classic biedt kalendergereedschappen voor het plannen van de terugkerende publicatietaak. U kunt de optie Aangepast kiezen en een regel in het vak Regel invoeren om een aangepast taakinterval te beschrijven.
+Kies vervolgens een herhalingsoptie van **[!UICONTROL Daily]**, **[!UICONTROL Weekly]**, **[!UICONTROL Monthly]** of **[!UICONTROL Custom]** en geef op wanneer de publicatietaak moet worden herhaald. Dynamic Media Classic biedt kalendergereedschappen voor het plannen van de terugkerende publicatietaak. U kunt op de optie **[!UICONTROL Custom]** klikken en een regel in het tekstveld Regel invoeren om een aangepast taakinterval te beschrijven.
 
 Zie [Een aangepaste upload- of publiceertaaktijdinterval maken](checking-job-files.md#creating_a_custom_upload_or_publish_job_time_interval).
 
@@ -93,17 +91,13 @@ Zie [Een aangepaste upload- of publiceertaaktijdinterval maken](checking-job-fil
 
 U kunt de Geavanceerde opties weergeven op de pagina Publiceren en deze opties kiezen voor het afhandelen van een publicatietaak:
 
-* **Publiceren**
-opKies een servertype om elementen alleen naar een specifieke server te publiceren, niet naar alle servers.
+* **Publiceren naar**  - Als u elementen alleen naar een specifieke server wilt publiceren, kiest u een servertype.
 
-* **Standaard publiceert**
-Dynamic Media Classic alleen elementen die nieuw zijn en nog niet eerder zijn gepubliceerd (de optie Nieuw sinds laatste publicatie). U kunt echter Volledig publiceren kiezen om ook elementen te publiceren die zijn bijgewerkt of gewijzigd sinds ze voor het laatst zijn gepubliceerd. Kies Volledige gegevens zonder zoekgegevens als u een eCatalog publiceert en u wilt dat lezers deze op trefwoorden kunnen doorzoeken.
+* **Publiceren**  - Standaard publiceert Dynamic Media Classic alleen elementen die nieuw zijn en nog niet eerder zijn gepubliceerd (de optie Nieuw sinds laatste publicatie). U kunt echter ook op **[!UICONTROL Full Publish]** klikken om elementen te publiceren die zijn bijgewerkt of gewijzigd sinds ze voor het laatst zijn gepubliceerd. Selecteer **[!UICONTROL Full w/ Search Data]** als u een eCatalog publiceert en u wilt dat de lezers het door sleutelwoord kunnen zoeken.
 
-* **Taak uitvoeren**
-alsKies een gebruikersnaam in de lijst. U kunt taken sorteren op gebruikersnaam op de pagina Taken. Als u een naam kiest, koppelt u een publicatietaak aan een gebruiker.
+* **Taak uitvoeren als**  - Kies een gebruikersnaam in de lijst. U kunt taken sorteren op gebruikersnaam op de pagina Taken. Als u een naam kiest, koppelt u een publicatietaak aan een gebruiker.
 
-**HTTP-**
-meldingVoer een URL in om volgende publicatietaken te activeren.
+**HTTP-melding**  - Voer een URL in om volgende publicatietaken te activeren.
 
 Zie [Een upload- of publicatietaak gebruiken als trigger](checking-job-files.md#using_an_upload_or_publish_job_as_a_trigger).)
 
@@ -111,7 +105,7 @@ Zie [Een upload- of publicatietaak gebruiken als trigger](checking-job-files.md#
 
 U kunt een publicatietaak die wordt uitgevoerd, annuleren. Bovendien als u een beheerder bent, kunt u een lopende het publiceren baan van de pagina van Banen van het bedrijf annuleren.
 
-Als u een publicatietaak wilt annuleren, gaat u naar de pagina Taken en klikt u op Annuleren. Op het Geplande lusje van de pagina van Banen, kunt u een baan pauzeren of hervatten door het controlevakje in de Actieve kolom van de baan te schrappen of te selecteren.
+Als u een publicatietaak wilt annuleren, gaat u naar de pagina Taken en klikt u op **[!UICONTROL Cancel]**. Op het Geplande lusje van de pagina van Banen, kunt u een baan pauzeren of hervatten door het controlevakje in de Actieve kolom van de baan te schrappen of te selecteren.
 
 >[!NOTE]
 >
@@ -123,13 +117,13 @@ U kunt afzonderlijke elementen handmatig publiceren in plaats van een publicatie
 
 Niet-gepubliceerde elementen worden in de gebruikersinterface aangeduid met een grijs, rond pictogram met een schuine streep erdoor (niet-gepubliceerde status), links van de naam van het element. Nadat een element is gepubliceerd, wordt het pictogram groen en heeft het een wit vinkje in het midden (gepubliceerde staat).
 
-**Elementen handmatig publiceren**
+**Elementen handmatig publiceren:**
 
 1. Voer een van de volgende handelingen uit:
 
    * Gebruik in de rasterweergave, lijstweergave of detailweergave de standaardmethoden voor het selecteren van bestanden om een of meer niet-gepubliceerde elementen te selecteren.
 
-      Klik op **Bestand > Publiceren** op de algemene navigatiebalk.
+      Klik op **[!UICONTROL File]** > **[!UICONTROL Publish]** op de algemene navigatiebalk.
 
    * Klik in de rasterweergave, lijstweergave of detailweergave op het grijze, ronde pictogram met een schuine streep erdoor, links van de naam van het element.
 
@@ -139,13 +133,13 @@ U kunt de publicatie van afzonderlijke elementen handmatig ongedaan maken. Wanne
 
 Gepubliceerde elementen worden in de gebruikersinterface aangeduid met een rond, groen pictogram met een wit vinkje in het midden (gepubliceerde status), links van de naam van het element. Nadat een element niet is gepubliceerd, wordt het pictogram grijs met een schuine streep erdoorheen (niet-gepubliceerde status).
 
-**Elementen handmatig verwijderen**
+**De publicatie van elementen handmatig ongedaan maken:**
 
 1. Voer een van de volgende handelingen uit:
 
    * Selecteer een of meer gepubliceerde elementen in de rasterweergave, lijstweergave of detailweergave.
 
-      Klik op de algemene navigatiebalk op **Bestand > **Publiceren ongedaan maken**.
+      Klik op **[!UICONTROL File]** > **[!UICONTROL Unpublish]** op de algemene navigatiebalk.
 
    * Klik in de rasterweergave, de lijstweergave of de detailweergave op het ronde groene vinkje links van de naam van het element.
 
@@ -155,15 +149,15 @@ De laatste datum waarop een element is gepubliceerd, wordt weergegeven in de ged
 
 ## Herhaalde elementen en CDN vertraagt {#republished-assets-and-cdn-delays}
 
-De Klassieke activa van Dynamic Media worden verdeeld op het netwerk van de inhoudslevering (CDN). CDN is een systeem van computerservers die samen samenwerken om inhoud, vooral grote media inhoud, aan eind te leveren - gebruikers. In het CDN-systeem wordt webinhoud opgeslagen in webcaches via internet (het zogenaamde Edge-cachenetwerk). De inhoud van het Web wordt geleverd van deze Webgeheime voorgeheugens aan eind - gebruikers voor snellere leveringen.
+De Klassieke activa van Dynamic Media worden verdeeld op het netwerk van de inhoudslevering (CDN). CDN is een systeem van computerservers die samen samenwerken om inhoud, vooral grote media inhoud, aan eind te leveren - gebruikers. In het CDN-systeem wordt webinhoud opgeslagen in webcaches via internet (het zogenaamde Edge-cachenetwerk). De inhoud van het Web wordt geleverd van de Webgeheime voorgeheugens aan eind - gebruikers voor snellere leveringen.
 
 De eerste keer dat iemand een webpagina downloadt, worden de elementen geleverd aan een CDN-webcaeserver. Ze worden opgeslagen op deze server, zodat dezelfde inhoud in de cache sneller kan worden geleverd wanneer iemand in hetzelfde gebied de webpagina weer opent. De inhoud wordt sneller geleverd, omdat deze zich dichter bij de eindgebruiker bevindt. CDN zorgt voor snellere webpaginaweergaven. Het vermindert bandbreedteeisen op de centrale server omdat de inhoud van het netwerk van het randgeheime voorgeheugen, niet van een centrale server in elke instantie wordt geleverd.
 
-Nieuw gepubliceerde Dynamic Media Classic-inhoud is direct beschikbaar voor de eindgebruiker en vult snel het netwerk met de Edge-cache. Nieuwe opnieuw gepubliceerde inhoud (afbeeldingen met exact dezelfde naam als afbeeldingen die eerder naar een afbeeldingsserver zijn gepubliceerd) wordt echter maximaal tien uur niet op de CDN bijgewerkt. In plaats daarvan, zien de eindgebruikers wat in een Webgeheime voorgeheugen op het netwerk CDN is. Daarom kunnen uw opnieuw gepubliceerde Dynamic Media Classic-middelen tien uur lang niet aan eindgebruikers worden weergegeven.
+Nieuw gepubliceerde Dynamic Media Classic-inhoud is direct beschikbaar voor de eindgebruiker en vult snel het netwerk met de Edge-cache. Nieuwe opnieuw gepubliceerde inhoud (afbeeldingen met exact dezelfde naam als afbeeldingen die eerder naar een afbeeldingsserver zijn gepubliceerd) wordt echter maximaal tien uur niet op de CDN bijgewerkt. In plaats daarvan, zien de eindgebruikers wat in een Webgeheime voorgeheugen op het netwerk CDN is. Daarom lijken uw opnieuw gepubliceerde Dynamic Media Classic-middelen tien uur niet aan eindgebruikers te zijn toegewezen.
 
 Als u wilt dat de nieuw gepubliceerde afbeeldingselementen sneller beschikbaar zijn dan de vertraging van tien uur, kunt u webcaches op CDN leegmaken. Als u deze webcaches leegmaakt, wordt oude inhoud uit CDN-webcaches verwijderd en vervangen door de laatst gepubliceerde elementen.
 
-Als u de cache wilt leegmaken, klikt u op Bestand > CDN ongeldig maken. Alle geselecteerde bestanden worden uit de cache verwijderd. Als er geen publiceerbare activa zijn, of als u geen bedrijfbeheerder bent, verwijdert uit CDN is de optie niet beschikbaar.
+Als u de cache wilt leegmaken, klikt u op **[!UICONTROL File]** > **[!UICONTROL Invalidate CDN]** op de algemene navigatiebalk. Alle geselecteerde bestanden worden uit de cache verwijderd. Als er geen publiceerbare activa zijn, of als u geen bedrijfbeheerder bent, verwijdert uit CDN is de optie niet beschikbaar.
 
 >[!MORELIKETHIS]
 >
