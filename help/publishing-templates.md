@@ -9,14 +9,14 @@ geptopics: SG_SCENESEVENONDEMAND_PK/categories/template_basics
 discoiquuid: 87a5a25e-210b-4359-821a-7dfe8c304f9b
 feature: Dynamic Media Classic
 role: Business Practitioner
+exl-id: d4315312-195c-453d-a3aa-c5e9f9365fc7
 translation-type: tm+mt
-source-git-commit: e727c1b5fb43c7def842ff1bafcc8b3ef3437cde
+source-git-commit: c4e2b8b42b56420269087d0d4f262490464270c0
 workflow-type: tm+mt
-source-wordcount: '177'
+source-wordcount: '164'
 ht-degree: 0%
 
 ---
-
 
 # Sjablonen publiceren{#publishing-templates}
 
@@ -28,11 +28,11 @@ Als u uw sjabloon publiceert, wordt deze op Dynamic Media Image Servers geplaats
 
 ## Sjablonen markeren voor publicatie {#marking-templates-for-publish}
 
-Sjablonen en alle bijbehorende ondersteuningsbestanden moeten zijn gemarkeerd voor publicatie zodat ze op Dynamic Media Image Servers kunnen worden geplaatst. U kunt deze punten voor publicatie in het Browse Comité merken door **Teken voor Publish** pictogram te klikken.
+Sjablonen en alle bijbehorende ondersteuningsbestanden moeten zijn gemarkeerd voor publicatie zodat ze op Dynamic Media Image Servers kunnen worden geplaatst. U kunt deze punten voor publicatie in het Browse Comité merken door het **[!UICONTROL Mark for Publish]** pictogram te klikken.
 
 ## Uw sjabloon {#publishing-your-template} publiceren
 
-Als u sjablonen wilt publiceren naar Dynamic Media Image Servers, selecteert u eerst de knop Publiceren op de algemene navigatiebalk. Selecteer vervolgens een optie bij Wanneer, geef desgewenst een naam op voor de publicatietaak en selecteer de knop Publiceren starten.
+Als u sjablonen wilt publiceren naar Dynamic Media Image Servers, klikt u op **[!UICONTROL Publish]** op de algemene navigatiebalk en selecteert u vervolgens een optie **[!UICONTROL When]**. U kunt desgewenst een naam voor de publicatietaak invoeren. Klik op **[!UICONTROL Submit Publish]**.
 
 >[!MORELIKETHIS]
 >
