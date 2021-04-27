@@ -11,7 +11,7 @@ feature: Dynamic Media Classic,viewers,mediasets mengen
 role: Business Practitioner
 exl-id: 1fca9640-d127-454a-b3aa-b2ac82136e62
 translation-type: tm+mt
-source-git-commit: 7456226cf6469f40e66ff327475d4c605b6d6e13
+source-git-commit: c4e2b8b42b56420269087d0d4f262490464270c0
 workflow-type: tm+mt
 source-wordcount: '235'
 ht-degree: 0%
@@ -40,7 +40,7 @@ Last Modified Date:
 
  -->
 
-**Een gemengde mediaset publiceren**
+**Een gemengde mediaset publiceren:**
 
 1. Voer een van de volgende handelingen uit:
 
@@ -52,12 +52,12 @@ Last Modified Date:
 1. (Optioneel) Typ in het veld **[!UICONTROL Job Name]** een naam voor de publicatietaak.
 1. Selecteer **[!UICONTROL Video Server]** in de vervolgkeuzelijst **[!UICONTROL Advanced]** opties.**[!UICONTROL Publish To]**
 
-   Zie [Geavanceerde publicatieopties](publishing-files.md#advanced_publish_options) voor extra opties u kunt plaatsen.
+   Zie [Geavanceerde publicatieopties](publishing-files.md#advanced_publish_options) voor meer opties u kunt plaatsen.
 
 1. Klik op **[!UICONTROL Submit Publish]**.
-1. Herhaal bovenstaande stappen 2 tot en met 4.
+1. Herhaal bovenstaande stappen 2-4.
 1. Selecteer **[!UICONTROL Image Server]** in **[!UICONTROL Advanced]** in de vervolgkeuzelijst **[!UICONTROL Publish To]**.
 
-   Zie [Geavanceerde publicatieopties](publishing-files.md#advanced_publish_options) voor extra opties u kunt plaatsen.
+   Zie [Geavanceerde publicatieopties](publishing-files.md#advanced_publish_options) voor meer opties u kunt plaatsen.
 
 1. Klik op **[!UICONTROL Submit Publish]**.
