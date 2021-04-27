@@ -7,16 +7,16 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/image_sets
 discoiquuid: 612a425f-2840-46c4-8e5a-c0bc5f738f4e
-feature: Dynamic Media Classic,Viewers,Image Sets
+feature: Dynamic Media Klassiek,Viewers,Afbeeldingssets
 role: Business Practitioner
+exl-id: 280e7201-84d6-46b1-94bb-0499beca2992
 translation-type: tm+mt
-source-git-commit: e727c1b5fb43c7def842ff1bafcc8b3ef3437cde
+source-git-commit: c4e2b8b42b56420269087d0d4f262490464270c0
 workflow-type: tm+mt
-source-wordcount: '568'
+source-wordcount: '566'
 ht-degree: 3%
 
 ---
-
 
 # Snel starten: Afbeeldingssets{#quick-start-image-sets}
 
@@ -66,11 +66,11 @@ Wanneer u een Afbeeldingsset publiceert, wordt deze op de klassieke Dynamic Medi
 >
 >Deze stap is niet nodig als u **Publiceren na opslaan ** (standaard) hebt geselecteerd op het moment dat u de Afbeeldingsset hebt gemaakt en opgeslagen.
 
-Klik op het pictogram Markeren voor publiceren links van de naam in het deelvenster Bladeren. Klik vervolgens op **Publiceren**. Klik in het scherm Publiceren op **Publiceren starten**.
+Klik op het pictogram Markeren voor publiceren links van de naam in het deelvenster Bladeren. Klik vervolgens op **Publiceren**. Klik in het scherm Publiceren op **Publicatie verzenden**.
 
 Zie [Publiceren](publishing-files.md#publishing-files).
 
-**6. Een afbeelding koppelen die is ingesteld op uw website**
+**6. Een afbeeldingsset koppelen aan uw website:**
 
 Dynamic Media Classic maakt URL-aanroepen voor afbeeldingssets en activeert deze nadat u de bestanden hebt gepubliceerd. U kunt deze URL&#39;s kopiëren vanuit het voorvertoningsscherm.
 
