@@ -9,23 +9,23 @@ geptopics: SG_SCENESEVENONDEMAND_PK/categories/target_integration
 discoiquuid: 39a05654-4f66-4f1e-aec5-ebe6d174353f
 feature: Dynamic Media Classic
 role: Data Engineer,Administrator,Business Practitioner
+exl-id: 778fd54b-a9e5-40c5-aff1-a156a5c15923
 translation-type: tm+mt
-source-git-commit: e727c1b5fb43c7def842ff1bafcc8b3ef3437cde
+source-git-commit: c4e2b8b42b56420269087d0d4f262490464270c0
 workflow-type: tm+mt
-source-wordcount: '284'
+source-wordcount: '280'
 ht-degree: 0%
 
 ---
 
-
 # Aanbiedingssets worden ingesteld op Adobe Target Standard/Premium {#pushing-offer-sets-to-target}
 
-Nadat u een aanbiedingsreeks creeert of uitgeeft, duw het aan Standaard/Premium van Doel door deze stappen te volgen:
+Nadat u een aanbiedingsset hebt gemaakt of bewerkt, gaat u als volgt te werk naar Adobe Target Standard/Premium:
 
 1. Klik op **[!UICONTROL Push Offers]** in het scherm Set Test&amp;Target-aanbieding.
 1. Voer uw clientcode en aanmeldingsgegevens in.
 1. Klik op **[!UICONTROL Login]**.
 
-Tijdens de overdracht aan de Norm van het Doel/Premium, wordt het prefix S7_ automatisch verbonden aan het begin van aanbiedingsnamen. Dit voorvoegsel wordt toegevoegd om ervoor te zorgen dat u gemakkelijk Dynamic Media Classic aanbiedingen in de de aanbiedingenlijst van de Test&amp;Target kunt vinden. De aanbieding wordt bijvoorbeeld weergegeven als S7_&lt;naam van aanbiedingsset>_&lt;naam aanbieding>.
+Tijdens de overdracht naar Adobe Target Standard/Premium wordt het voorvoegsel `S7_` automatisch toegevoegd aan het begin van de aanbiedingsnamen. Dit voorvoegsel wordt toegevoegd om ervoor te zorgen dat u gemakkelijk Dynamic Media Classic aanbiedingen in de de aanbiedingenlijst van de Test&amp;Target kunt vinden. De aanbieding wordt bijvoorbeeld weergegeven als `S7_<name of offer set>_<offer name>`.
 
-Dynamic Media Classic plaatst de widget Target Standard/Premium in de aanbieding. U kunt de aanbiedingen van Widget gebruiken om uw eigen aanbiedingsinhoud buiten de Norm van het Doel te ontvangen/Premium. Widget-aanbiedingen zijn vergelijkbaar met een standaardaanbieding die buiten Target Standard/Premium wordt gehost. Ze stellen Target Standard/Premium in staat inhoud te implementeren die op uw server is opgeslagen, zodat u geavanceerder en dynamisch gebruik kunt maken. Met Widget kunt u inhoud ophalen van een URL en deze inhoud gedurende ongeveer twee uur in cache plaatsen. Widget-aanbiedingen bieden enkele mogelijkheden voor het genereren van dynamische inhoud die andere aanbiedingen buiten de Target Standard/Premium-opties niet bieden. Als de box die de aanbieding aanbiedt, mbox-parameters bevat zoals `mboxProductID` en `mbox.offerId`, worden de URL-parameters `productId=[PRODUCT_ID]`en `offerID=[OFFERID]` aan de gevraagde URL toegevoegd. Deze parameters kunnen worden gebruikt door een service die beschikbaar is op de URL van de widget-aanbieding om inhoud te retourneren buiten de Target Standard/Premium die product- of bestelgegevens uit uw vakken gebruikt. De Widget-aanbieding is ook toegankelijk via de API voor het programmatisch maken van aanbiedingen buiten Target Standard/Premium.
+Dynamic Media Classic duikt in Adobe Target Standard/Premium-widgetaanbiedingen. Met Widget-aanbiedingen kunt u uw eigen aanbiedingsinhoud hosten buiten Adobe Target Standard/Premium. Widget-aanbiedingen zijn vergelijkbaar met een standaardaanbieding die buiten Adobe Target Standard/Premium wordt gehost. Ze stellen Adobe Target Standard/Premium in staat inhoud te implementeren die op uw server is opgeslagen, zodat u geavanceerder en dynamisch gebruik kunt maken. Met Widget kunt u inhoud ophalen van een URL en deze inhoud gedurende ongeveer twee uur in cache plaatsen. Widget-aanbiedingen bieden enkele mogelijkheden voor het genereren van dynamische inhoud die andere aanbiedingen buiten Adobe Target Standard/Premium niet bieden. Als de box die de aanbieding aanbiedt, mbox-parameters bevat zoals `mboxProductID` en `mbox.offerId`, worden de URL-parameters `productId=[PRODUCT_ID]`en `offerID=[OFFERID]` aan de gevraagde URL toegevoegd. Deze parameters kunnen worden gebruikt door een service die beschikbaar is via de URL van de widget-aanbieding voor het retourneren van inhoud buiten Adobe Target Standard/Premium die product- of bestelgegevens uit uw vakken gebruikt. De Widget-aanbieding is ook toegankelijk via de API voor het programmatisch maken van aanbiedingen buiten Adobe Target Standard/Premium.
