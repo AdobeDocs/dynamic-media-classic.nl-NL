@@ -7,16 +7,16 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/spin_sets
 discoiquuid: 282b8e83-b20f-43f7-b9f8-6eebd5b1c5a7
-feature: Dynamic Media Classic,Viewers,Spin Sets
+feature: Dynamic Media Klassiek,Viewers,Draaiende Reeksen
 role: Business Practitioner
+exl-id: 26e3cd5b-f070-4b92-af36-25631723460e
 translation-type: tm+mt
-source-git-commit: e727c1b5fb43c7def842ff1bafcc8b3ef3437cde
+source-git-commit: c4e2b8b42b56420269087d0d4f262490464270c0
 workflow-type: tm+mt
-source-wordcount: '760'
+source-wordcount: '758'
 ht-degree: 0%
 
 ---
-
 
 # Snel starten: Draaisets{#quick-start-spin-sets}
 
@@ -90,7 +90,7 @@ Zie [Een voorvertoning weergeven van een centrifugeset](previewing-spin-set.md#p
 
 Als u een centrifugeerset publiceert, wordt deze op de Classic-servers van Dynamic Media geplaatst, zodat deze dynamisch aan uw website of toepassing kunnen worden geleverd. Het activeert ook de URL-tekenreeks die de Spin Set van Dynamic Media Image-servers naar uw website of toepassing aanroept.
 
-Als u een centrifugeerset wilt publiceren, markeert u deze voor publicatie door het pictogram **Markeren voor publiceren** naast de naam in het deelvenster Bladeren te selecteren. Klik op **Publiceren** op de algemene navigatiebalk om een publicatie te starten. Klik in het scherm Publiceren op **Publiceren starten**.
+Als u een centrifugeerset wilt publiceren, markeert u deze voor publicatie door het pictogram **Markeren voor publiceren** naast de naam in het deelvenster Bladeren te selecteren. Klik op **Publiceren** op de algemene navigatiebalk om een publicatie te starten. Klik in het scherm Publiceren op **Publicatie verzenden**.
 
 Zie [Een centrifugeerset publiceren](publishing-spin-set.md#publishing-a-spin-set).
 
