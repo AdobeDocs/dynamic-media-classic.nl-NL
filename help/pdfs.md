@@ -11,9 +11,9 @@ feature: Dynamic Media Classic, beheer van bedrijfsmiddelen
 role: Business Practitioner
 exl-id: 02892514-61fe-48ba-a2e3-eeb30580a1e4
 translation-type: tm+mt
-source-git-commit: 7456226cf6469f40e66ff327475d4c605b6d6e13
+source-git-commit: c4e2b8b42b56420269087d0d4f262490464270c0
 workflow-type: tm+mt
-source-wordcount: '675'
+source-wordcount: '662'
 ht-degree: 0%
 
 ---
@@ -26,70 +26,66 @@ PDF-bestanden (Portable Document Format) worden meestal gebruikt in Dynamic Medi
 
 Wanneer u een PDF-bestand uploadt, kunt u het op verschillende manieren opmaken. U snijdt zijn pagina&#39;s bij, haalt zoekwoorden op, voert een pixel-per-dun resolutie in, en kiest een kleurenruimte. PDF-bestanden bevatten vaak een snijmarge, snijtekens, registratietekens en andere drukkersmarkeringen. U kunt deze markeringen vanaf de zijkanten van pagina&#39;s bijsnijden terwijl u een PDF-bestand uploadt.
 
-De opties voor het uploaden van PDF-bestanden staan in het scherm Uploaden onder PDF-opties.
+De opties voor het uploaden van PDF-bestanden staan op de pagina Uploaden onder PDF-opties.
 
-**Verwerking**
+### Verwerkingsopties
 
-De verwerkingsopties zijn als volgt:
+**Rasteren**  - (Standaard) Hiermee worden de pagina&#39;s in het PDF-bestand gewist en worden vectorafbeeldingen naar bitmapafbeeldingen geconverteerd. Kies deze optie om een eCatalog te maken.
 
-**Rasteren**  (standaard) Hiermee worden de pagina&#39;s in het PDF-bestand gewist en worden vectorafbeeldingen naar bitmapafbeeldingen geconverteerd. Kies deze optie om een eCatalog te maken.
+**Woorden**  zoeken uitnemen - Hiermee worden woorden uit het PDF-bestand geëxtraheerd, zodat het bestand op trefwoord in een eCatalog-viewer kan worden doorzocht.
 
-**Zoekwoorden** extraherenHiermee worden woorden uit het PDF-bestand geëxtraheerd, zodat het bestand op trefwoord in een eCatalog-viewer kan worden doorzocht.
+**Koppelingen**  uitnemen - Hiermee worden koppelingen uit de PDF-bestanden geëxtraheerd en omgezet in afbeeldingen met hyperlinks die worden gebruikt in een eCatalog-viewer.
 
-**Koppelingen extraheren** extraheert koppelingen uit de PDF-bestanden en converteert deze naar Afbeeldingen met hyperlinks die worden gebruikt in een eCatalog-viewer.
+**Automatisch een eCatalog genereren met PDF** -bestand met meerdere pagina&#39;s - Automatisch een eCatalog maken van het PDF-bestand. De eCatalog wordt genoemd naar het Pdf- dossier u uploadde. (Deze optie is alleen beschikbaar als u het PDF-bestand rastert terwijl u het uploadt.)
 
-**Met Automatisch een eCatalog genereren met** PDFA van meerdere pagina&#39;s wordt automatisch een eCatalog gemaakt van het PDF-bestand. De eCatalog wordt genoemd naar het Pdf- dossier u uploadde. (Deze optie is alleen beschikbaar als u het PDF-bestand rastert terwijl u het uploadt.)
-
-**Resolutie**
+### Resolutie
 
 Hiermee bepaalt u de resolutie-instelling. Deze instelling bepaalt hoeveel pixels per inch in het PDF-bestand worden weergegeven. De standaardwaarde is 150.
 
-**Kleurruimte**
+### Opties voor kleurruimte
 
 Selecteer het menu Kleurruimte en kies een kleurruimte voor het PDF-bestand. De meeste PDF-bestanden hebben zowel RGB- als CMYK-kleurenafbeeldingen. De RGB-kleurruimte heeft de voorkeur voor onlineweergave.
 
-**Detecteren** Automatisch: behoudt de kleurruimte van het PDF-bestand.
+* **Automatisch**  detecteren - De kleurruimte van het PDF-bestand blijft behouden.
 
-**Met forceren als** RGBC wordt de RGB-kleurruimte omgekeerd.
+* **Krachten als RGB**  - Zet om in de RGB-kleurruimte.
 
-**Met forceren als** CMYKC wordt de CMYK-kleurruimte hersteld.
+* **Forceren als CMYK**  - Converteert naar de CMYK-kleurruimte.
 
-**Forceren als** grijswaardenZet om in de grijswaardenkleurruimte.
+* **Grijswaarden**  forceren - Zet om in de grijswaardenkleurruimte.
 
-**Kleurprofiel**
+### Opties voor kleurprofiel
 
-Kies een optie voor Kleurprofiel:
+* **Omzetten in sRGB**  - Omzetten in sRGB (standaard rood-groen blauw). sRGB is de aanbevolen kleurruimte voor het weergeven van afbeeldingen op webpagina&#39;s.
 
-**Omzetten in** sRGBConverts in sRGB (standaard rood-groen blauw). sRGB is de aanbevolen kleurruimte voor het weergeven van afbeeldingen op webpagina&#39;s.
+* **Oorspronkelijke kleurruimte**  behouden - Behoudt de oorspronkelijke kleurruimte.
 
-**Behoud oorspronkelijke** kleurruimteBehoudt de oorspronkelijke kleurruimte.
+* **Aangepast van > naar**  - opent menu&#39;s zodat u een Omzetten van en Omzetten in kleurenruimte kunt kiezen. U kunt een standaard Photoshop-kleurruimte kiezen of een kleurruimte die u naar Dynamic Media Classic hebt geüpload.
 
-**Kies Aangepast vanuit >** InOpens om de menu&#39;s te openen, zodat u de opdracht Omzetten vanuit en Omzetten in kleurruimte kunt kiezen. U kunt een standaard Photoshop-kleurruimte kiezen of een kleurruimte die u naar Dynamic Media Classic hebt geüpload.
-
-Zie [ICC-profielen](icc-profiles.md#icc_profiles).
+Zie ook [ICC-profielen](/help/icc-profiles.md#icc_profiles).
 
 ## Witruimte uitsnijden vanuit een PDF-bestand {#cropping-white-space-from-a-pdf-file}
 
 1. Als u pixels in witruimte automatisch wilt uitsnijden in een PDF-bestand terwijl u het uploadt, selecteert u het menu Uitsnijden en kiest u Bijsnijden.
 1. Geef de volgende opties op:
 
-   **Wegsnijden op basis van** OnKies of u wilt uitsnijden op basis van kleur of transparantie:
+   * **Wegsnijden op basis van**  - Kies of u wilt uitsnijden op basis van kleur of transparantie:
 
-   **** KleurKies de optie Kleur. Selecteer vervolgens het menu Hoek en kies de hoek van de PDF met de kleur die het beste overeenkomt met de kleur voor de witruimte die u wilt uitsnijden.
+   * **Kleur**  - Kies de optie Kleur. Selecteer vervolgens het menu Hoek en kies de hoek van de PDF met de kleur die het beste overeenkomt met de kleur voor de witruimte die u wilt uitsnijden.
 
-   **** TransparantieKies de optie Transparantie.
+   * **Transparantie**  - Kies de optie Transparantie.
 
-   **** TolerantieSleep de schuifregelaar om een tolerantie tussen 0 en 1 op te geven:
+   * **Tolerantie**  - Sleep de schuifregelaar om een tolerantie tussen 0 en 1 op te geven.
 
-   **Bijsnijden op basis van** kleurGeef 0 op om alleen pixels bij te snijden als deze exact overeenkomen met de kleur die u in de hoek van de PDF hebt geselecteerd. De aantallen dichter aan 1 staan voor meer kleurenverschil toe.
+   * **Bijsnijden op basis van kleur**  - Geef 0 op om alleen pixels bij te snijden als deze exact overeenkomen met de kleur die u in de hoek van de PDF hebt geselecteerd. De aantallen dichter aan 1 staan voor meer kleurenverschil toe.
 
-   **Bijsnijden op basis van** transparantieGeef 0 op om alleen pixels bij te snijden als deze volledig transparant zijn; De cijfers dichter aan 1 staan voor meer transparantie.
+   * **Bijsnijden op basis van transparantie**  - Geef 0 op om pixels alleen uit te snijden als ze transparant zijn. De cijfers dichter aan 1 staan voor meer transparantie.
 
 ## Uitsnijden vanaf de zijkanten van PDF-pagina&#39;s {#cropping-from-the-sides-of-pdf-pages}
 
 U kunt de drukkersmarkeringen handmatig van de zijkanten van de pagina&#39;s in een PDF-bestand verwijderen terwijl u het uploadt.
 
-1. Selecteer het menu Uitsnijden en kies Handmatig.
+1. Klik in het menu Uitsnijden op **[!UICONTROL Manual]**.
 1. Geef pixelinstellingen op in de tekstvakken Boven, Rechts, Onder en Links om vanaf de bovenkant, onder en zijkanten van pagina&#39;s bij te snijden.
 
-Hoeveel van de pagina wordt bijgesneden, is afhankelijk van de resolutie PX/Inch-instelling die u voor het PDF-bestand hebt ingevoerd. Als u bijvoorbeeld 150 invoert (de standaardinstelling) als resolutie PX/Inch en u 75 pixels uitsnijdt vanaf de zijkanten van pagina&#39;s, wordt een halve inch bijgesneden, omdat 75 pixels bij 150 pixels per inch gelijk zijn aan een halve inch.
+Hoeveel van de pagina wordt bijgesneden, is afhankelijk van de resolutie PX/Inch-instelling die u voor het PDF-bestand hebt ingevoerd. Als u bijvoorbeeld 150 (de standaardinstelling) invoert als resolutie PX/Inch en 75 pixels van de zijkanten van pagina&#39;s bijsnijdt, wordt een halve inch bijgesneden. bij 150 pixels per inch is 75 pixels gelijk aan een halve inch.
