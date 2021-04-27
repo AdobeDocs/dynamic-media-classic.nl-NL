@@ -7,16 +7,16 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/zoom
 discoiquuid: 559c986d-313d-46df-a5ff-0b49316ad3a7
-feature: Dynamic Media Classic,Viewers,Zoom
+feature: Dynamic Media Klassiek,Viewers,Zoomen
 role: Business Practitioner
+exl-id: eae35207-000c-4ced-b9ab-714c2384a9e7
 translation-type: tm+mt
-source-git-commit: e727c1b5fb43c7def842ff1bafcc8b3ef3437cde
+source-git-commit: c4e2b8b42b56420269087d0d4f262490464270c0
 workflow-type: tm+mt
-source-wordcount: '844'
+source-wordcount: '834'
 ht-degree: 0%
 
 ---
-
 
 # Snel starten: Zoomen{#quick-start-zoom}
 
@@ -62,7 +62,7 @@ Zoomknoppen worden weergegeven. U kunt zien hoe de zoomafbeeldingen er op uw web
 
 Als u uw zoomafbeeldingen publiceert, worden deze op Dynamic Media Image Servers geplaatst, zodat ze op uw website en toepassing kunnen worden geleverd. Als onderdeel van het publicatieproces activeert Dynamic Media Classic URL-tekenreeksen. Deze URL-tekenreeksen noemen zoomafbeeldingen van Dynamic Media Image Servers naar uw website of toepassing.
 
-Selecteer de knop Publiceren op de algemene navigatiebalk om een publicatie te starten. Selecteer in het scherm Publiceren de knop Publiceren starten. Zie [Zoomafbeeldingen publiceren](publishing-zoom-images.md#publishing_zoom_images).
+Klik op **[!UICONTROL Publish]** op de algemene navigatiebalk. Klik in het dialoogvenster Publiceren op Publiceren verzenden. Zie [Zoomafbeeldingen publiceren](publishing-zoom-images.md#publishing_zoom_images).
 
 **6. Zoomviewers koppelen aan uw webpagina**
 
