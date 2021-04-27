@@ -9,14 +9,14 @@ geptopics: SG_SCENESEVENONDEMAND_PK/categories/adobe_analytics_instrumentation_k
 discoiquuid: deeb9fed-ef27-4d58-af98-f381de33c431
 feature: Dynamic Media Classic
 role: Data Engineer,Administrator,Business Practitioner
+exl-id: 02782dc0-601f-453a-98d1-1fdd7267df3b
 translation-type: tm+mt
-source-git-commit: e727c1b5fb43c7def842ff1bafcc8b3ef3437cde
+source-git-commit: c4e2b8b42b56420269087d0d4f262490464270c0
 workflow-type: tm+mt
-source-wordcount: '151'
+source-wordcount: '143'
 ht-degree: 0%
 
 ---
-
 
 # Adobe Analytics-configuratiegegevens publiceren{#publishing-adobe-analytics-configuration-information}
 
@@ -30,8 +30,7 @@ Zie [Aanmelden bij Adobe Analytics](log-analytics.md#log_in_to_adobe_analytics).
 
 Zie [Adobe Analytics-rapporten configureren](configuring-analytics-reports.md#configuring_adobe_analytics_reports).
 
-**Configuratiegegevens publiceren**
+**Configuratiegegevens publiceren:**
 
-1. Voor de Globale bar van de Navigatie, klik **Publish**.
-1. Klik in het dialoogvenster Publiceren op **Publiceren starten**.
-
+1. Klik op **[!UICONTROL Publish]** op de algemene navigatiebalk.
+1. Klik in het dialoogvenster Publiceren op **[!UICONTROL Submit Publish]**.
