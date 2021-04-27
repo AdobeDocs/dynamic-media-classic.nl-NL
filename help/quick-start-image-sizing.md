@@ -7,16 +7,16 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/image_sizing
 discoiquuid: dcaa9b21-b925-4dbb-865e-7918cdbda50c
-feature: Dynamic Media Classic,Asset Management
+feature: Dynamic Media Classic, beheer van bedrijfsmiddelen
 role: Business Practitioner
+exl-id: f1d46f03-57a1-43d8-a0ee-74b92b590736
 translation-type: tm+mt
-source-git-commit: e727c1b5fb43c7def842ff1bafcc8b3ef3437cde
+source-git-commit: c4e2b8b42b56420269087d0d4f262490464270c0
 workflow-type: tm+mt
-source-wordcount: '853'
+source-wordcount: '848'
 ht-degree: 0%
 
 ---
-
 
 # Snel starten: Afbeeldingsgrootte{#quick-start-image-sizing}
 
@@ -63,9 +63,9 @@ Het publiceren van master afbeeldingsbestanden heeft twee essentiële doelen:
 * Uw master afbeeldingen publiceren naar Dynamic Media Image Servers (Image Servers), zodat afbeeldingen dynamisch kunnen worden geleverd aan uw website en toepassing.
 * Met Publiceren activeert u de URL-tekenreeksen voor het aanroepen van afbeeldingen van Dynamic Media Image Servers naar uw website of toepassing. Na publicatie kunt u waar nodig de door Dynamic Media gegenereerde klassieke URL&#39;s kopiëren en plaatsen op uw website of toepassing.
 
-Selecteer de knop Publiceren op de algemene navigatiebalk om een publicatie te starten. Selecteer in het scherm Publiceren de knop Publiceren starten. Zie [master afbeeldingen publiceren](publishing-master-images.md#publishing_master_images).
+Selecteer de knop Publiceren op de algemene navigatiebalk om een publicatie te starten. Klik in het dialoogvenster Publiceren op **[!UICONTROL Submit Publish]**. Zie [master afbeeldingen publiceren](publishing-master-images.md#publishing_master_images).
 
-**5. URL&#39;s koppelen aan uw webtoepassing**
+**5. URL&#39;s koppelen aan uw webtoepassing:**
 
 Dynamic Media Classic maakt URL-callouttekenreeksen voor afbeeldingen. Wanneer u afbeeldingen publiceert naar Dynamic Media Image Servers, worden de URL&#39;s actief. U kunt deze URL-tekenreeksen kopiëren vanuit het deelvenster Bladeren (in de gedetailleerde weergave) of het scherm Voorvertoning. Nadat u de URL-tekenreeksen hebt gekopieerd, kunt u deze gebruiken in uw website en toepassingen. De URL voor afbeeldingsgrootte vervangt de verwijzing naar een statische afbeeldingsnaam in de webpaginacode. De URL verwijst naar een master afbeeldingsnaam die door de database wordt vervangen voor elke nieuwe afbeelding die moet worden weergegeven.
 
