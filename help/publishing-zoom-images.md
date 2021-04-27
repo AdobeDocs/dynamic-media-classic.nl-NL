@@ -7,16 +7,16 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/zoom
 discoiquuid: 34a99fd0-8148-41d4-843a-909637542dd9
-feature: Dynamic Media Classic,Viewers,Zoom
+feature: Dynamic Media Klassiek,Viewers,Zoomen
 role: Business Practitioner
+exl-id: 74cf0346-be79-4916-8a98-16865c3ba3de
 translation-type: tm+mt
-source-git-commit: e727c1b5fb43c7def842ff1bafcc8b3ef3437cde
+source-git-commit: c4e2b8b42b56420269087d0d4f262490464270c0
 workflow-type: tm+mt
-source-wordcount: '157'
+source-wordcount: '144'
 ht-degree: 0%
 
 ---
-
 
 # Zoomafbeeldingen publiceren{#publishing-zoom-images}
 
@@ -24,11 +24,11 @@ Bij het publiceren worden uw zoomafbeeldingen op Dynamic Media Image Servers gep
 
 ## Afbeeldingen markeren voor publicatie {#marking-images-for-publish}
 
-Afbeeldingen moeten zijn gemarkeerd voor publicatie om naar Dynamic Media Image Servers te kunnen worden gekopieerd. U kunt uw afbeeldingen markeren voor publicatie in het deelvenster Bladeren door het pictogram **Markeren voor publiceren** te selecteren. U kunt afbeeldingen ook markeren voor publicatie wanneer u ze uploadt.
+Afbeeldingen moeten zijn gemarkeerd voor publicatie zodat ze naar Dynamic Media Image Servers kunnen worden gekopieerd. U kunt uw afbeeldingen voor publicatie markeren in het deelvenster Bladeren door het pictogram **[!UICONTROL Mark for Publish]** te selecteren. U kunt afbeeldingen ook markeren voor publicatie wanneer u ze uploadt.
 
 ## Afbeeldingen {#publishing-the-images} publiceren
 
-Als u zoomafbeeldingen wilt publiceren, klikt u eerst op **Publiceren** op de algemene navigatiebalk. Selecteer vervolgens een **When-optie (One-Time of Recurring)**, geef desgewenst een naam voor de publicatietaak op en klik op **Publiceren starten**.
+Als u zoomafbeeldingen wilt publiceren, klikt u op **[!UICONTROL Publish]** op de algemene navigatiebalk en selecteert u een **[!UICONTROL When]**-optie (**[!UICONTROL One-Time]** of **[!UICONTROL Recurring]**). U kunt desgewenst een naam voor de publicatietaak invoeren. Klik **Publiceren verzenden**.
 
 >[!MORELIKETHIS]
 >
