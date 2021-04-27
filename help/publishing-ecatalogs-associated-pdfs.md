@@ -9,14 +9,14 @@ geptopics: SG_SCENESEVENONDEMAND_PK/categories/ecatalogs
 discoiquuid: 76e5732a-83c6-4e6b-a29f-a393b1c971aa
 feature: Dynamic Media Classic,Viewers,eCatalog
 role: Business Practitioner
+exl-id: 00b70162-2394-433d-a46c-1d90667030af
 translation-type: tm+mt
-source-git-commit: e727c1b5fb43c7def842ff1bafcc8b3ef3437cde
+source-git-commit: c4e2b8b42b56420269087d0d4f262490464270c0
 workflow-type: tm+mt
-source-wordcount: '189'
+source-wordcount: '179'
 ht-degree: 0%
 
 ---
-
 
 # E-catalogi en bijbehorende PDF&#39;s publiceren{#publishing-ecatalogs-and-associated-pdfs}
 
@@ -26,15 +26,15 @@ Bij publicatie worden uw eCatalog en PDF op Dynamic Media Image Servers geplaats
 >
 >Zorg ervoor dat uw eCatalog en PDF in dezelfde map staan en dat deze zijn gemarkeerd voor publicatie in het deelvenster Bladeren of op de pagina Asset Details voordat u ze publiceert.
 
-Uw eCatalog publiceren naar Dynamic Media Image Servers:
+**E-catalogi en bijbehorende PDF&#39;s publiceren:**
 
-1. Klik op **Publiceren** op de algemene navigatiebalk.
-1. Selecteer in het scherm Publiceren een optie bij Wanneer (One-Time of Recurring).
-1. (Optioneel) Voer een naam in voor de publicatietaak, maar houd het tijd- en datumstempel.
+1. Klik op **[!UICONTROL Publish]** op de algemene navigatiebalk.
+1. Klik in het scherm Publiceren op **[!UICONTROL One-Time]** of **[!UICONTROL Recurring]**.
+1. (Optioneel) Voer in het veld Taaknaam een naam in voor de publicatietaak, maar houd de vooraf gedefinieerde datum- en tijdtekst behouden.
 
-   Als u uw eCatalog opstelt zodat de kijkers sleutelwoordonderzoeken kunnen uitvoeren, zorg ervoor dat de sleutelwoordgegevens worden gepubliceerd. Klik op Geavanceerd en vervolgens op Geavanceerde opties. Klik in het vervolgkeuzemenu Publiceren op Volledige W/zoekgegevens. Deze optie is standaard ingeschakeld.
+   Als u uw eCatalog opstelt zodat de kijkers sleutelwoordonderzoeken kunnen uitvoeren, zorg ervoor dat de sleutelwoordgegevens worden gepubliceerd. Klik in het dialoogvenster Publiceren op **[!UICONTROL Advanced]**. Klik in het vervolgkeuzemenu **[!UICONTROL Publish]** op **[!UICONTROL Full w/ Search Data]**. Deze optie is standaard ingeschakeld.
 
-1. Klik **Publiceren starten**.
+1. Klik op ****[!UICONTROL Submit Publish]****.
 
 >[!MORELIKETHIS]
 >
