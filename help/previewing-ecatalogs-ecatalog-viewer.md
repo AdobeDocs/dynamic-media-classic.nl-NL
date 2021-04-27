@@ -9,14 +9,14 @@ geptopics: SG_SCENESEVENONDEMAND_PK/categories/ecatalogs
 discoiquuid: 92022dce-6534-4d93-befe-9dd2818c7b41
 feature: Dynamic Media Classic,Viewers,eCatalog
 role: Business Practitioner
+exl-id: 580cb169-0e26-412d-8dff-74dc63da25d8
 translation-type: tm+mt
-source-git-commit: e727c1b5fb43c7def842ff1bafcc8b3ef3437cde
+source-git-commit: c4e2b8b42b56420269087d0d4f262490464270c0
 workflow-type: tm+mt
-source-wordcount: '261'
+source-wordcount: '236'
 ht-degree: 0%
 
 ---
-
 
 # Voorvertoning van eCatalogi weergeven in de eCatalog-viewer{#previewing-ecatalogs-in-the-ecatalog-viewer}
 
@@ -26,19 +26,19 @@ Zie [Standaardviewers configureren](application-setup.md#configuring_default_vie
 
 Zie [Voorvertoning van een element](previewing-asset.md#previewing_an_asset).
 
-**Een voorvertoning van eCatalogi weergeven in de eCatalog-viewer**
+**Een voorvertoning van eCatalogi weergeven in de eCatalog-viewer:**
 
 1. Selecteer in het deelvenster Elementenbibliotheek aan de linkerkant in de vervolgkeuzelijst Tonen een op video gebaseerd elementtype, zoals Video of Videoset.
 1. Navigeer in het deelvenster Elementenbibliotheek aan de linkerkant naar de mappen Middelen met video&#39;s die u wilt voorvertonen met een eCatalog-viewer.
 1. Voer een van de volgende handelingen uit:
 
-   * Klik rechts van de werkbalk boven het middelenvenster op Rasterweergave. Klik onder de miniatuurafbeelding in het venster Middelen op Voorvertoning > Viewer List.
-   * Klik rechts van de werkbalk boven het middelenvenster op Lijstweergave. Selecteer een element in het venster Middelen en klik vervolgens rechts van de miniatuurafbeelding op Voorvertoning > Viewer List.
-   * Klik rechts van de werkbalk boven het middelenvenster op Gedetailleerde weergave. Klik op Voorvertoning > Viewer List op dezelfde werkbalk.
+   * Klik rechts van de werkbalk boven het middelenvenster op **[!UICONTROL Grid View]**. Klik onder de miniatuurafbeelding in het venster Middelen op **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]**.
+   * Klik rechts van de werkbalk boven het middelenvenster op **[!UICONTROL List View]**. Selecteer een element in het venster Element en klik vervolgens rechts van de miniatuurafbeelding op **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]**.
+   * Klik rechts van de werkbalk boven het middelenvenster op **[!UICONTROL Detail View]**. Klik op **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]** op dezelfde werkbalk.
 
 1. Klik in het venster Viewer List in de tabel op een viewerkoppeling om een voorvertoning van het element weer te geven in de geselecteerde viewer.
-1. Sluit de weergegeven viewer om terug te keren naar het scherm Viewer List.
-1. Klik in de rechterbenedenhoek van het venster Viewer List op Close om terug te keren naar het scherm Assets.
+1. Sluit de weergegeven viewer.
+1. Klik in de rechterbenedenhoek van het venster Viewer List op **[!UICONTROL Close]** om terug te keren naar het scherm Middelen.
 
 >[!MORELIKETHIS]
 >
