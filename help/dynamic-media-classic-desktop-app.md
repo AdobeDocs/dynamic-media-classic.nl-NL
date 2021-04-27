@@ -9,9 +9,9 @@ feature: Dynamic Media Classic
 role: Administrator,Business Practitioner
 exl-id: 604b4630-4704-4254-84b5-91b33bb19d58
 translation-type: tm+mt
-source-git-commit: 4e79c98b92dfa4e1a9890ed8a291cdf564126466
+source-git-commit: c4e2b8b42b56420269087d0d4f262490464270c0
 workflow-type: tm+mt
-source-wordcount: '1771'
+source-wordcount: '1772'
 ht-degree: 0%
 
 ---
@@ -246,4 +246,4 @@ U kunt de cache van afbeeldingen en elementen niet alleen wissen met de bureaubl
 ![Pictogram ](/help/assets/refresh-icon1.png)
 *Vernieuwen*
 
-**_Ik zie geen voorinstellingen voor batchsets werken in de bureaubladtoepassing._**<br>Tik op **[!UICONTROL Upload > Job Options > Batch Set Presets]**. Zorg ervoor dat **[!UICONTROL Batch Set Preset]**is ingeschakeld. Klik op **[!UICONTROL Save and Submit upload]**.
+**_Ik zie geen batch-voorinstellingen werken in de bureaubladtoepassing._**<br>Tik op **[!UICONTROL Upload > Job Options > Batch Set Presets]**. Zorg ervoor dat **[!UICONTROL Batch Set Preset]**is ingeschakeld. Klik op **[!UICONTROL Save and Submit upload]**.
