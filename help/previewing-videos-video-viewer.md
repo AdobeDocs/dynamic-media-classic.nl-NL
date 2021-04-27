@@ -7,16 +7,16 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/video
 discoiquuid: 6a2e6df1-9186-42e2-9b85-01f132936c72
-feature: Dynamic Media Classic,Viewers,Video
+feature: Dynamic Media Klassiek,Viewers,Video
 role: Business Practitioner
+exl-id: b8d1a0b4-67ab-482d-a685-a087fb850143
 translation-type: tm+mt
-source-git-commit: e727c1b5fb43c7def842ff1bafcc8b3ef3437cde
+source-git-commit: c4e2b8b42b56420269087d0d4f262490464270c0
 workflow-type: tm+mt
-source-wordcount: '774'
+source-wordcount: '736'
 ht-degree: 0%
 
 ---
-
 
 # Een voorvertoning weergeven van video&#39;s in een videoviewer{#previewing-videos-in-a-video-viewer}
 
@@ -24,25 +24,25 @@ U kunt een voorvertoning weergeven van hoe een video eruitziet en hoe deze wordt
 
 Zie [Voorinstellingen voor viewers toevoegen en bewerken](application-setup.md#adding_and_editing_viewer_presets).
 
-**Een voorvertoning van video&#39;s weergeven in een videoviewer**
+**Een voorvertoning weergeven van video&#39;s in een videoviewer:**
 
-1. Selecteer **Video** (enkele gecodeerde video&#39;s) of **Adaptieve videoset** in de vervolgkeuzelijst Tonen links in het deelvenster Elementenbibliotheek (als de voorinstelling Adaptieve videocodering wordt gebruikt, resulteert dit in een set gecodeerde video&#39;s met meerdere bitsnelheden).
+1. Selecteer **[!UICONTROL Video]** (enkele gecodeerde video&#39;s) of **[!UICONTROL Adaptive Video Set]** in de vervolgkeuzelijst Weergeven links in het deelvenster Elementenbibliotheek. Wanneer de voorinstelling Adaptieve videocodering wordt gebruikt, resulteert dit in een set gecodeerde video&#39;s met meerdere bitsnelheden.
 1. In het paneel van de Bibliotheek van Activa op de linkerkant, navigeer de elementenomslagen om de video te selecteren die u wilt voorproef.
 1. Voer een van de volgende handelingen uit
 
-   * Klik rechts van de werkbalk boven het middelenvenster op **Lijstweergave**. Houd de muisaanwijzer in het venster Element boven een element en klik op **Voorvertoning**.
-   * Klik rechts van de werkbalk boven het middelenvenster op **Rasterweergave**. Klik in het venster Middelen in een elementminiatuurvenster op **Voorvertoning**.
-   * Klik rechts van de werkbalk boven het middelenvenster op **Gedetailleerde weergave**. Klik op **Voorvertoning** op dezelfde werkbalk.
-   * Selecteer een element in het venster Element. Klik in de werkbalk op **Bestand** > **Voorvertoning**.
+   * Klik rechts van de werkbalk boven het middelenvenster op **[!UICONTROL List View]**. Houd de muisaanwijzer in het venster Element boven een element en klik op **[!UICONTROL Preview]**.
+   * Klik rechts van de werkbalk boven het middelenvenster op **[!UICONTROL Grid View]**. Klik in het venster Middelen in een elementminiatuurvenster op **[!UICONTROL Preview]**.
+   * Klik rechts van de werkbalk boven het middelenvenster op **[!UICONTROL Detail View]**. Klik op **[!UICONTROL Preview]** op dezelfde werkbalk.
+   * Selecteer een element in het venster Element. Klik in de werkbalk op **[!UICONTROL File]** > **[!UICONTROL Preview]**.
 
 1. (Optioneel) Selecteer in de vervolgkeuzelijst onderaan in het voorvertoningsvenster de URL-codering die u wilt toepassen op de URL van het element wanneer het element wordt gekopieerd.
 1. Klik op de koppeling Voorvertoning om een voorvertoning van het element weer te geven in de geselecteerde viewer.
-1. Sluit de weergegeven viewer om terug te keren naar het voorvertoningsscherm.
-1. Klik **Close** om terug te keren naar het scherm Middelen.
+1. Sluit de weergegeven viewer.
+1. Klik op **[!UICONTROL Close]** om terug te keren naar het scherm Middelen.
 
 >[!NOTE]
 >
->Dynamic Media Classic biedt een handige methode voor het voorvertonen van MP4-video op het bureaublad. Gebruik deze methode om mobiele inhoud op het bureaublad voor te vertonen zonder deze fysiek te testen op mobiele apparaten. Houd er echter rekening mee dat wat u in de voorvertoning op het bureaublad ziet, er niet realistisch uitziet hoe het afspelen op het mobiele apparaat eruitziet. Als u een voorvertoning wilt bekijken van de weergave en het afspelen van video op een mobiel apparaat, gaat u naar het voorvertoningsscherm en selecteert u de URL kopiëren. Vervolgens voert u die URL in de webbrowser van een mobiel apparaat in. Zie [Video implementeren op uw websites en mobiele sites](deploying-video-websites-mobile-sites.md#deploying_video_to_your_websites_and_mobile_sites) voor meer informatie.
+>Dynamic Media Classic biedt een handige methode voor het voorvertonen van MP4-video op het bureaublad. Gebruik deze methode om mobiele inhoud op het bureaublad voor te vertonen zonder deze fysiek te testen op mobiele apparaten. Houd er echter rekening mee dat wat u in de voorvertoning op het bureaublad ziet, er niet realistisch uitziet hoe het afspelen op het mobiele apparaat eruitziet. Als u een voorvertoning wilt bekijken van de weergave en het afspelen van video op een mobiel apparaat, gaat u naar het voorvertoningsscherm, klikt u op **[!UICONTROL Copy URL]** en voert u die URL in de webbrowser van een mobiel apparaat in. Zie [Video implementeren op uw websites en mobiele sites](deploying-video-websites-mobile-sites.md#deploying_video_to_your_websites_and_mobile_sites) voor meer informatie.
 
 ## Werken met voorinstellingen voor videoviewers {#working-with-video-viewer-presets}
 
@@ -60,33 +60,33 @@ In Viewer-voorinstellingen kunt u voorinstellingen van viewers activeren, filter
 
 Zie [Viewer Presets](application-setup.md#viewer_presets).
 
-**Een voorinstelling voor een videoviewer toevoegen of bewerken**
+**Een voorinstelling voor een videoviewer toevoegen of bewerken:**
 
-1. Klik in de rechterbovenhoek van Dynamic Media Classic op **Setup** > **Viewer Presets**.
+1. Klik in de rechterbovenhoek van Dynamic Media Classic op **[!UICONTROL Setup]** > **[!UICONTROL Viewer Presets]**.
 
-   Als u alleen voorinstellingen voor videoviewers wilt weergeven, selecteert u Video-viewer in de vervolgkeuzelijst Viewers die u opent op de werkbalk direct boven de tabel.
+   Als u alleen voorinstellingen voor videoviewers wilt weergeven, selecteert u Video-viewer in de vervolgkeuzelijst Viewers openen op de werkbalk direct boven de tabel.
 
 1. Een voorinstelling voor de viewer toevoegen of bewerken voor het weergeven van video:
 
-   **** ToevoegenKlik op Toevoegen op de werkbalk. Kies in het dialoogvenster Voorinstelling viewer toevoegen een platform en viewer in de respectievelijke vervolgkeuzelijsten en klik op Toevoegen.
-
+   * **Toevoegen**  - Klik  **[!UICONTROL Add]** in de werkbalk. Kies in het dialoogvenster Voorinstelling viewer toevoegen een platform en viewer in de respectievelijke vervolgkeuzelijsten en klik op **[!UICONTROL Add]**.
    Zie ook [Viewer-voorinstellingen toevoegen en bewerken](application-setup.md#adding_and_editing_viewer_presets).
 
-   **Als u een voorinstelling voor een video-viewer toevoegt, begint u met een bestaande** voorinstelling voor viewers. Klik vervolgens op Bewerken op de werkbalk.
+   * **Als u een voorinstelling**  voor de viewer toevoegt, begint u met een bestaande voorinstelling voor de viewer. Selecteer in de tabel een voorinstelling voor de video-viewer en klik vervolgens  **[!UICONTROL Edit]** in de werkbalk.
+   Nadat u de video-viewer opnieuw hebt geconfigureerd, klikt u op **[!UICONTROL Save As]** om de voorinstelling op te slaan onder een andere naam in het tekstveld Naam voorinstelling.
 
-   Nadat u de video-viewer opnieuw hebt geconfigureerd, klikt u op **Opslaan als** om de voorinstelling op te slaan onder een andere naam in het tekstveld Naam voorinstelling.
+   * **Bewerken**  - Selecteer een voorinstelling voor een video-viewer en klik op  **[!UICONTROL Edit]**.
 
-   **** BewerkenSelecteer een voorinstelling voor een video-viewer en klik op Bewerken.
 
-1. Voer in het scherm Viewer configureren de naam van de voorinstelling in het veld Naam voorinstelling in of bewerk deze.
+
+1. Voer in het veld Naam voorinstelling van de pagina Viewer configureren de naam van de voorinstelling in of bewerk deze.
 1. Stel de overige gewenste opties in.
 
    Als u een beschrijving van een optie wilt zien, klikt u op het pictogram Info Tip.
 
 1. Voer een van de volgende handelingen uit:
 
-   * Klik op **Opslaan als** als u een voorinstelling voor de viewer hebt toegevoegd door te beginnen met een bestaande voorinstelling.
-   * Klik op **Opslaan** als u een voorinstelling voor de viewer hebt toegevoegd of bewerkt.
+   * Klik op **[!UICONTROL Save As]** als u een voorinstelling voor de viewer hebt toegevoegd door te beginnen met een bestaande voorinstelling.
+   * Klik op **[!UICONTROL Save]** als u een voorinstelling voor de viewer hebt toegevoegd of bewerkt.
 
 >[!MORELIKETHIS]
 >
