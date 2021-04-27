@@ -7,16 +7,16 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/zoom
 discoiquuid: b072d3b7-0d30-4903-9c87-5fbbcc89bd51
-feature: Dynamic Media Classic,Viewers,Zoom
+feature: Dynamic Media Klassiek,Viewers,Zoomen
 role: Business Practitioner
+exl-id: bc83a94d-540a-46ad-aae0-e4a32ee9a302
 translation-type: tm+mt
-source-git-commit: e727c1b5fb43c7def842ff1bafcc8b3ef3437cde
+source-git-commit: c4e2b8b42b56420269087d0d4f262490464270c0
 workflow-type: tm+mt
-source-wordcount: '254'
+source-wordcount: '229'
 ht-degree: 0%
 
 ---
-
 
 # Een voorvertoning weergeven van afbeeldingselementen met verschillende zoomviewers{#previewing-image-assets-with-different-zoom-viewers}
 
@@ -26,19 +26,19 @@ Zie [Standaardviewers configureren](application-setup.md#configuring_default_vie
 
 Zie [Voorvertoning van een element](previewing-asset.md#previewing_an_asset).
 
-**Een voorvertoning van afbeeldingselementen weergeven met verschillende zoomviewers**
+**Een voorvertoning weergeven van afbeeldingselementen met verschillende zoomviewers:**
 
 1. Selecteer in het deelvenster Elementenbibliotheek aan de linkerkant in de vervolgkeuzelijst Tonen een op afbeeldingen gebaseerd elementtype, zoals Afbeelding of Afbeeldingsset.
 1. Navigeer in het deelvenster Elementenbibliotheek aan de linkerkant naar de mappen Middelen die afbeeldingen bevatten die u wilt voorvertonen met een zoomviewer.
 1. Voer een van de volgende handelingen uit:
 
-   * Klik rechts van de werkbalk boven het middelenvenster op Rasterweergave. Klik onder de miniatuurafbeelding in het venster Middelen op Voorvertoning > Viewer List.
-   * Klik rechts van de werkbalk boven het middelenvenster op Lijstweergave. Selecteer een element in het venster Middelen en klik vervolgens rechts van de miniatuurafbeelding op Voorvertoning > Viewer List.
-   * Klik rechts van de werkbalk boven het middelenvenster op Gedetailleerde weergave. Klik op Voorvertoning > Viewer List op dezelfde werkbalk.
+   * Klik rechts van de werkbalk boven het middelenvenster op **[!UICONTROL Grid View]**. Klik onder de miniatuurafbeelding in het venster Middelen op **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]**.
+   * Klik rechts van de werkbalk boven het middelenvenster op **[!UICONTROL List View]**. Selecteer een element in het venster Element en klik vervolgens rechts van de miniatuurafbeelding op **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]**.
+   * Klik rechts van de werkbalk boven het middelenvenster op **[!UICONTROL Detail View]**. Klik op **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]** op dezelfde werkbalk.
 
 1. Klik in het venster Viewer List in de tabel op een viewerkoppeling om een voorvertoning van het element weer te geven in de geselecteerde viewer.
-1. Sluit de weergegeven viewer om terug te keren naar het scherm Viewer List.
-1. Klik in de rechterbenedenhoek van het venster Viewer List op Close om terug te keren naar het scherm Assets.
+1. Sluit de weergegeven viewer.
+1. Klik in de rechterbenedenhoek van het venster Viewer List op **[!UICONTROL Close]** om terug te keren naar het scherm Middelen.
 
 >[!MORELIKETHIS]
 >
