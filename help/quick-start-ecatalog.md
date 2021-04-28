@@ -11,9 +11,9 @@ feature: Dynamic Media Classic,Viewers,eCatalog
 role: Business Practitioner
 exl-id: 9e2df814-465d-412a-a032-ef3e8cb462ba
 translation-type: tm+mt
-source-git-commit: c4e2b8b42b56420269087d0d4f262490464270c0
+source-git-commit: c5c8c4f96f18339734f4441733cdb1e7f34d3071
 workflow-type: tm+mt
-source-wordcount: '1400'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -50,11 +50,9 @@ Als onderdeel van het maken van uw eCatalog kunt u pagina&#39;s of paginaspread 
 >
 >U kunt nu eCatalogs ontwerpen in Dynamic Media Classic.
 
-## Snel starten
-
 Deze eCatalog Quick Start is ontworpen om u te helpen snel aan de slag te gaan met eCatalogs. Voer stap 1 tot en met 7 uit. Na elke stap is een verwijzing naar een onderwerprubriek waar u meer informatie kunt vinden.
 
-### 1. De PDF-bestanden uploaden
+## 1. De PDF-bestanden uploaden
 
 Adobe PDF-bestanden zijn meestal de bron van een eCatalog. PDF-bestanden bevatten meestal CMYK-afbeeldingen, omdat ze moeten worden afgedrukt. Dynamic Media Classic detecteert deze afbeeldingen en zet deze om met een standaard CMYK-kleurprofiel. U moet echter wel een aangepast kleurprofiel uploaden en gebruiken.
 
@@ -64,7 +62,7 @@ Onder PDF-opties biedt het scherm Uploaden opties voor het uploaden van PDF-best
 
 Zie [De PDF-bestanden uploaden](uploading-pdf-files.md#uploading_the_pdf_files).
 
-### 2. Een eCatalog maken
+## 2. Een eCatalog maken
 
 Maak uw eCatalog door PDF of beelddossiers in het Browse Comité te selecteren. Klik **[!UICONTROL Build]**, dan kies **[!UICONTROL eCatalogs]**.
 
@@ -76,7 +74,7 @@ Klik **[!UICONTROL Save]**, ga een naam voor uw eCatalog in, kies een Klassieke 
 
 Zie [Een eCatalog maken](creating-ecatalog.md).
 
-### 3. Afbeeldingskaarten maken
+## 3. Afbeeldingskaarten maken
 
 Afbeeldingen met hyperlinks voegen nog een aspect toe aan eCatalog-pagina&#39;s. Een afbeelding met hyperlinks is een gebied op een pagina dat meer informatie over een item bevat. Wanneer de kijkers de wijzer over een Kaart van het Beeld rollen, zien zij een beschrijving van het punt. Als u op een afbeelding met hyperlinks klikt, wordt een externe verwijzing geactiveerd waarmee een nieuwe webpagina wordt geopend waarin u meer kunt leren over een item.
 
@@ -92,7 +90,7 @@ U kunt de tekst van de afbeeldingskaart instellen en beheren met de instellingen
 
 Zie [Inhoud van deelvenster Info beheren](info-panel-content.md#managing-info-panel-content).
 
-### 4. Voorinstellingen eCatalog-viewer instellen
+## 4. Voorinstellingen eCatalog-viewer instellen
 
 Eindgebruikers zien uw eCatalog in de eCatalogKijker. Beheerders kunnen de eCatalog-viewer configureren. U kunt de contourkleur wijzigen en een nieuwe skin selecteren om uw eCatalog van een merk te voorzien. Dynamic Media Classic wordt geleverd met verschillende &quot;best practices&quot; eCatalog Viewer-voorinstellingen. U kunt een van deze voorinstellingen kiezen voor de weergave van uw eCatalogs. Als beheerder kunt u ook zelf een voorinstelling voor een eCatalog-viewer maken.
 
@@ -100,7 +98,7 @@ Als u een voorinstelling voor een eCatalog-viewer wilt maken, klikt u op **[!UIC
 
 Zie [Voorinstellingen voor eCatalog-viewers instellen](setting-ecatalog-viewer-presets.md#setting-up-ecatalog-viewer-presets).
 
-### 5. Voorvertoning van eCatalogi weergeven in de eCatalog-viewer
+## 5. Voorvertoning van eCatalogi weergeven in de eCatalog-viewer
 
 De eCatalog Viewer-voorinstellingen bepalen de stijl en het gedrag van uw eCatalog-viewers.
 
@@ -110,7 +108,7 @@ Let op de afdrukstand, het kleurenschema, hoe de besturingselementen voor het wi
 
 Zie [Voorvertoning van eCatalogi weergeven in de eCatalog-viewer](previewing-ecatalogs-ecatalog-viewer.md#previewing-ecatalogs-in-the-ecatalog-viewer).
 
-### 6. ECatalog en bijbehorende PDF&#39;s publiceren
+## 6. ECatalog en bijbehorende PDF&#39;s publiceren
 
 Als u uw eCatalog en bijbehorende PDF publiceert, wordt deze op Dynamic Media Image Servers geplaatst, zodat deze op uw website en toepassing kan worden geleverd. Als onderdeel van het publicatieproces activeert Dynamic Media Classic de URL-tekenreeks voor uw eCatalog. Gebruik deze URL om de eCatalog van de Servers van het Beeld van Dynamic Media aan uw website of toepassing te roepen.
 
@@ -118,7 +116,7 @@ Nadat u uw eCatalog en PDF hebt gemarkeerd voor publicatie in het deelvenster Bl
 
 Zie [E-catalogi en bijbehorende PDF&#39;s publiceren](publishing-ecatalogs-associated-pdfs.md#publishing-ecatalogs-and-associated-pdfs).
 
-### 7. Een eCatalog koppelen aan een webpagina
+## 7. Een eCatalog koppelen aan een webpagina
 
 Dynamic Media Classic activeert de URL-bijschrifttekenreeks die nodig is voor de weergave van uw eCatalog wanneer u deze publiceert naar Dynamic Media Image Servers. U kunt deze URL-tekenreeks kopiëren vanuit het voorvertoningsscherm en het deelvenster Bladeren (in de gedetailleerde weergave) door URL&#39;s te selecteren in het deelvenster. Nadat u de URL-tekenreeks hebt gekopieerd, is deze beschikbaar voor uw websites en toepassingen.
 
