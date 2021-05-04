@@ -7,14 +7,14 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/getting_started
 feature: Dynamic Media Classic
 role: Administrator,Business Practitioner
+exl-id: 8d70db72-b02b-4915-b4c3-6efb146b7f08
 translation-type: tm+mt
-source-git-commit: e727c1b5fb43c7def842ff1bafcc8b3ef3437cde
+source-git-commit: 1beb30b9eda4487dcd549034906079dee0b3149a
 workflow-type: tm+mt
-source-wordcount: '221'
+source-wordcount: '218'
 ht-degree: 0%
 
 ---
-
 
 <!-- UPDATE THIS TOPIC AFTER DECEMBER 31, 2020!!!!! -->
 
@@ -22,11 +22,9 @@ ht-degree: 0%
 
 Controleer of u het volgende hebt voordat u de Dynamic Media Classic-bureaubladtoepassing gebruikt:
 
-* **Gebruikersnaam**
-U gebruikt uw e-mailadres als aanmeldnaam.
+* **Gebruikersnaam**  - U gebruikt uw e-mailadres als aanmeldnaam.
 
-* ****
-WachtwoordU krijgt uw tijdelijke wachtwoord in een &quot;welkomstmail&quot;van Dynamic Media Classic of van uw Klassieke beheerder van Dynamic Media. De eerste keer dat u zich aanmeldt, wordt u gevraagd dit tijdelijke wachtwoord te wijzigen.
+* **Wachtwoord**  - U krijgt uw tijdelijke wachtwoord in een &quot;welkome&quot;e-mail van Dynamic Media Classic of van uw Klassieke beheerder van Dynamic Media. De eerste keer dat u zich aanmeldt, wordt u gevraagd dit tijdelijke wachtwoord te wijzigen.
 
 1. Open Adobe Dynamic Media Classic-bureaubladtoepassing.
 
@@ -43,11 +41,11 @@ Gebruik de volgende afbeelding om de productieomgeving te selecteren die u wilt 
    | https://s7sps3.scene7.com/ | Productie EMEA (Europa, Midden-Oosten en Afrika) |
    | https://s7sps5.scene7.com/ | APAC-productie (Azië-Stille Oceaan) |
 
-1. Tik op **[!UICONTROL Sign In]**.
+1. Tik op **[!UICONTROL Sign in]**.
 
 ## Afmelden bij Adobe Dynamic Media Classic {#dmc-sign-out}
 
-1. Tik in de rechterbovenhoek van de Klassieke Dynamic Media-bureaubladtoepassing op **[!UICONTROL Sign Out]** en tik **[!UICONTROL Sign Out]** nogmaals.
+1. Tik in de rechterbovenhoek van de Klassieke Dynamic Media-bureaubladtoepassing op **[!UICONTROL Sign out]** en tik **[!UICONTROL Sign out]** nogmaals.
 
 >[!MORELIKETHIS]
 >
