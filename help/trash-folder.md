@@ -7,20 +7,20 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/managing_assets
 discoiquuid: 553c95fc-0a41-4f06-af50-a62bc1438149
-feature: Dynamic Media Classic,Asset Management
+feature: Dynamic Media Classic, beheer van bedrijfsmiddelen
 role: Business Practitioner
+exl-id: cffeec19-43fd-4a97-bdcc-df81af108ddd
 translation-type: tm+mt
-source-git-commit: e727c1b5fb43c7def842ff1bafcc8b3ef3437cde
+source-git-commit: 1beb30b9eda4487dcd549034906079dee0b3149a
 workflow-type: tm+mt
-source-wordcount: '537'
+source-wordcount: '528'
 ht-degree: 0%
 
 ---
 
-
 # De prullenmand beheren{#managing-the-trash-folder}
 
-Items die u uit Dynamic Media Classic verwijdert, worden naar de map Prullenbak verplaatst. Ze blijven zeven dagen in deze map totdat ze worden hersteld of permanent worden verwijderd. U kunt verwijderde items controleren door het prullenbakpictogram onder aan de Asset Library te selecteren en items in de map Prullenbak weer te geven.
+Items die u uit Dynamic Media Classic verwijdert, worden naar de map Prullenbak verplaatst. Het verwijderde bestand blijft zeven dagen in deze map staan totdat het wordt hersteld of definitief wordt verwijderd. U kunt verwijderde items controleren door op het pictogram **[!UICONTROL Trash]** onder aan de elementenbibliotheek te klikken en items op de mappagina Prullenbak weer te geven.
 
 Alle gebruikers kunnen items in de map met prullenmand terugzetten naar de mappen waaruit ze zijn verwijderd. Alle gebruikers kunnen ook de prullenmand leeg maken met alle inhoud ervan.
 
@@ -36,27 +36,27 @@ Als u een item in een map verwijdert, wordt het item in de map Prullenbak geplaa
 
 * Hoewel het item uit uw Klassieke Dynamic Media-mappen is verwijderd, kan de id niet aan een ander element worden toegewezen zolang het in de prullenmand blijft staan. Als u middelen probeert te uploaden met dezelfde naam als een bestand in de map met prullenmand, voegt Dynamic Media Classic een cijfer toe aan de naam van het element.
 * Het item kan niet worden gepubliceerd. Zelfs als het item was gemarkeerd voor publicatie toen u het wist, wordt het niet gepubliceerd.
-* Het item blijft in de map met prullenmand staan totdat het is hersteld, zeven dagen zijn verstreken of totdat iemand de opdracht Leeg de prullenmand heeft gekozen. Na zeven dagen verwijdert een automatische opschoonbewerking het item definitief.
+* Het item blijft in de map met prullenmand staan totdat het is hersteld, zeven dagen zijn verstreken of totdat iemand de opdracht **[!UICONTROL Empty the Trash]** heeft gekozen. Na zeven dagen verwijdert een automatische opschoonbewerking het item definitief.
 
 ## Elementen herstellen vanuit de map Prullenmand {#restoring-assets-from-the-trash-folder}
 
 De persoon die een middel heeft verwijderd, hoeft dit niet te herstellen. iedereen kan middelen herstellen vanuit de map Prullenmand. Elementen die worden hersteld, worden geplaatst in de mappen waaruit ze zijn verwijderd. Als deze mappen niet meer bestaan, maakt Dynamic Media Classic ze opnieuw en worden de herstelde elementen in de opnieuw gemaakte mappen geplaatst.
 
-Ga als volgt te werk om middelen van de map Prullenbak te herstellen naar de mappen waaruit ze zijn verwijderd:
+Ga als volgt te werk om middelen van de map Prullenmand te herstellen naar de mappen waaruit ze zijn verwijderd:
 
-1. Klik op het prullenbakpictogram om de map Prullenmand te openen.
+1. Klik onder aan het deelvenster Elementenbibliotheek op het pictogram **[!UICONTROL Trash]** om de prullenmand te openen.
 1. Selecteer de elementen die u wilt herstellen.
-1. Kies Bestand > Herstellen vanuit prullenbak.
+1. Klik op **[!UICONTROL File]** > **[!UICONTROL Restore from trash]**.
 
 ## Elementen definitief verwijderen in de map met prullenmand {#permanently-deleting-assets-in-the-trash-folder}
 
 Wanneer u middelen in de omslag van het Afval schrapt, worden de activa permanent geschrapt. Middelen worden na zeven dagen automatisch uit de prullenmand verwijderd.
 
-Als u elementen definitief wilt verwijderen uit de map Prullenbak, selecteert u het prullenbakpictogram om de map Prullenmand te openen. Verwijder vervolgens de afzonderlijke elementen of verwijder alle elementen in de map:
+Als u elementen definitief wilt verwijderen uit de map met prullenmand, klikt u op het pictogram **[!UICONTROL Trash]**. Voer op de mappagina Prullenbak een van de volgende handelingen uit:
 
-* **Afzonderlijke** elementen verwijderenSelecteer de elementen die u permanent wilt verwijderen en klik op  **[!UICONTROL File > Empty From Trash]**.
+* **Afzonderlijke elementen**  verwijderen - Selecteer de elementen die u permanent wilt verwijderen en klik op  **[!UICONTROL File]** >  **[!UICONTROL Empty From Trash]**.
 
-* **Alle** elementen verwijderenKlik op  **[!UICONTROL File > Empty Trash]**.
+* **Alle elementen**  verwijderen: klik op  **[!UICONTROL File]** >  **[!UICONTROL Empty trash]**.
 
 >[!MORELIKETHIS]
 >
