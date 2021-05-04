@@ -9,9 +9,9 @@ feature: Dynamic Media Classic
 role: Administrator,Business Practitioner
 exl-id: 708f32f1-fdbb-4a32-a1b7-836c99b458be
 translation-type: tm+mt
-source-git-commit: ed39a8f7febe194a70fb00acbb9d346f6e9a57ca
+source-git-commit: 1beb30b9eda4487dcd549034906079dee0b3149a
 workflow-type: tm+mt
-source-wordcount: '189'
+source-wordcount: '186'
 ht-degree: 0%
 
 ---
@@ -28,7 +28,7 @@ De technische steunaanbiedingen worden ontworpen om aan de behoeften van om het 
 | Forum van de Gemeenschap | [Forum](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community) van de Experience Manager-gemeenschap. |
 | SLA (Service Level Agreements) | [Ondersteuningsservices / Voorwaarden](https://helpx.adobe.com/support/programs/support-policies-terms-conditions.html). |
 | Ondersteunde gebruikers | Tot tien gebruikers per organisatie kunnen worden aangewezen als ondersteunde gebruikers, die zaken kunnen openen met de klantenservice. |
-| Gratis live webtraining en videozelfstudies | Opgenomen. |
+| Gratis live webtrainings- en instructievideo&#39;s | Opgenomen. |
 | Telefonische ondersteuning | <ul><li>VS en Canada: 1-800-497-0335 </li><li>[Telefoonnummers voor andere gebieden](https://helpx.adobe.com/contact/dma-external/DMACustomeCareRegionalPhoneNumbers.html).</li></ul> |
 
 <!-- |Create a support case| [https://helpx.adobe.com/enterprise/admin-guide.html/enterprise/using/support-for-experience-cloud.ug.html](https://helpx.adobe.com/enterprise/admin-guide.html/enterprise/using/support-for-experience-cloud.ug.html) | -->
