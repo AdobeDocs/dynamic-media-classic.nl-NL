@@ -11,20 +11,20 @@ feature: Dynamic Media Classic, beheer van bedrijfsmiddelen
 role: Business Practitioner
 exl-id: fd78d535-391e-43eb-a8aa-25fa6c2885cb
 translation-type: tm+mt
-source-git-commit: 7456226cf6469f40e66ff327475d4c605b6d6e13
+source-git-commit: 1beb30b9eda4487dcd549034906079dee0b3149a
 workflow-type: tm+mt
-source-wordcount: '1100'
+source-wordcount: '1005'
 ht-degree: 0%
 
 ---
 
 # Elementen testen voordat ze openbaar worden gemaakt {#testing-assets-before-making-them-public}
 
-Het veilige Testen helpt u een veilige testmilieu bepalen en een robuuste B2B oplossing bouwen, die op een configureerbare reeks IP adres en waaiers wordt gebaseerd. Met deze functionaliteit kunt u uw Klassieke Dynamic Media-implementaties afstemmen op de architectuur van uw contentbeheer- en handelsplatform.
+Het veilige Testen helpt u een veilige testmilieu bepalen en een robuuste B2B oplossing bouwen, die op een configureerbare reeks IP adres en waaiers wordt gebaseerd. Met deze functionaliteit kunt u uw Klassieke Dynamic Media-implementaties afstemmen op de architectuur van uw contentbeheer en bedrijfssysteem.
 
 Met Beveiligd testen kunt u een voorvertoning van de testversie van de website weergeven met niet-gepubliceerde inhoud.
 
-U kunt liever een testomgeving maken in plaats van elementen openbaar te maken, en wel om de volgende redenen:
+Maak indien gewenst een testomgeving in plaats van elementen openbaar te maken, en wel om de volgende redenen:
 
 * Geef een voorvertoning weer van websites voordat u deze openbaar maakt (website die wordt gefaseerd).
 * Serve activa die beperkte toegang, zoals eCatalogi vereisen die prijzen in een B2B Webtoepassing tonen.
@@ -42,13 +42,13 @@ Van uw collectief netwerk, kunt u uw openbare IP adres ontdekken gebruikend webs
 
 Met het Veilige Testen, vestigt Dynamic Media Classic een specifieke server van het Beeld voor het opvoeren van milieu&#39;s of interne toepassingen. Om het even welk verzoek aan deze server controleert het oorsprongIP adres. Als het inkomende verzoek niet binnen de goedgekeurde lijst van IP adressen is, is een mislukkingsreactie teruggekeerd. De Klassieke Beheerder van het Bedrijf van Dynamic Media vormt de goedgekeurde lijst van IP adressen voor het Veilige Testen van hun bedrijf milieu.
 
-Omdat de plaats van het originele verzoek moet worden bevestigd, wordt het verkeer van de Veilige Testende dienst niet verpletterd door een netwerk van de inhoudsdistributie zoals het openbare verkeer van de Server van het Beeld van Dynamic Media. Verzoeken naar de service Beveiligd testen kunnen een iets hogere latentie hebben dan de openbare Dynamic Media Image Servers.
+Omdat de plaats van het originele verzoek moet worden bevestigd, wordt het verkeer van de Veilige Testende dienst niet verpletterd door een netwerk van de inhoudsdistributie zoals het openbare verkeer van de Server van het Beeld van Dynamic Media. Verzoeken naar de service Beveiligd testen hebben een iets hogere latentie dan de openbare Dynamic Media Image Servers.
 
-Niet-gepubliceerde middelen zijn direct beschikbaar bij de services voor het beveiligen van tests, zonder dat ze hoeven te worden gepubliceerd. Op deze manier kunt u een voorvertoning uitvoeren voordat elementen worden gepubliceerd naar hun openbare afbeeldingsserver.
+Niet-gepubliceerde middelen zijn direct beschikbaar bij de services voor het beveiligen van tests, zonder dat ze hoeven te worden gepubliceerd. Op deze manier kunt u een voorvertoning uitvoeren voordat elementen worden gepubliceerd naar de openbare server met afbeeldingen.
 
 >[!NOTE]
 >
->Beveiligde testservices maken gebruik van de Catalogusserver die is geconfigureerd met een interne publicatiecontext. Als uw bedrijf is geconfigureerd om te publiceren voor Secure Testing, dient u er rekening mee te houden dat geüploade elementen in Dynamic Media Classic direct beschikbaar zijn voor de services voor Beveiligd testen. Deze functionaliteit is van toepassing, ongeacht of de elementen zijn gemarkeerd voor publiceren tijdens het uploaden.
+>De veilige Testende diensten gebruiken de Server van de Catalogus die met een interne publicatiecontext wordt gevormd. Als uw bedrijf is geconfigureerd om te publiceren voor Secure Testing, worden geüploade middelen in Dynamic Media Classic daarom direct beschikbaar voor de services voor Beveiligd testen. Deze functionaliteit is van toepassing, ongeacht of de elementen zijn gemarkeerd voor publiceren tijdens het uploaden.
 
 De Secure Testing-services bieden momenteel ondersteuning voor de volgende typen middelen en functies:
 
@@ -81,12 +81,13 @@ De volgende elementtypen en -functies worden momenteel niet ondersteund:
 
 ## De service Beveiligen testen {#testing-the-secure-testing-service} testen
 
-U moet de service Beveiligd testen testen testen om te controleren of deze naar behoren werkt.
+Test de Secure Testing service om te controleren of deze naar behoren werkt.
 
-Opmerking: Als u geen IP&#39;s noemt onder Setup > Publish Setup > Image Server > Test Image Service
-als u IP slechts toevoegt dat IP de activa zal kunnen roepen en geen andere IP zal worden toegestaan om de vraag te maken. Zolang er geen IP onder die sectie wordt vermeld worden alle IP&#39;s toegestaan om de vraag naar de activa te maken, en zij zullen verschijnen.
+<!-- >[!NOTE]
+>
+>*If you do not mention any IPs under **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Publish Setup]** > **[!UICONTROL Image Server]** > **[!UICONTROL Test Image Service]*** - If you add an IP only, that IP is able to call the assets and no other IP are allowed to make the calls. As long there is no IP mentioned under that section, all IPs are allowed to make the calls for the assets, and they show up. -->
 
-**Uw account voorbereiden**
+### Uw account voorbereiden
 
 <!-- 
 
@@ -98,20 +99,20 @@ Last Modified Date:
 
  -->
 
-1. Neem contact op met de technische ondersteuning en vraag of Secure Testing is ingeschakeld voor uw account.
-1. Klik in Dynamic Media Classic op **Setup** > **Publicatie-instelling** > **Afbeeldingsserver**.
-1. Selecteer **Beeld testen dat** dient in de vervolgkeuzelijst Publicatie-context op de pagina Publiceren afbeeldingsserver.
-1. Voor de Filter van het Adres van de Cliënt, klik **Add**.
-1. Schakel het selectievakje in om het adres in te schakelen (inschakelen) en typ vervolgens een IP-adres en netmasker in de desbetreffende tekstvelden.
+1. Neem contact op met de klantenservice van Adobe en verzoek hen om Beveiligingstests op uw account in te schakelen.
+1. Klik in Dynamic Media Classic op de algemene navigatiebalk op **[!UICONTROL Setup]** > **[!UICONTROL Publish Setup]** > **[!UICONTROL Image Server]**.
+1. Selecteer **[!UICONTROL Test Image Serving]** in de vervolgkeuzelijst op de pagina Publiceren afbeeldingsserver.**[!UICONTROL Publish Context]**
+1. Voor de Filter van het Adres van de Cliënt, klik **[!UICONTROL Add]**.
+1. Schakel het selectievakje in zodat het adres is ingeschakeld en typ vervolgens een IP-adres en een netmasker in de desbetreffende tekstvelden.
 
    >[!NOTE]
    >
-   >Als u één enkel IP adres en netto masker toevoegt, kan dat adres activavraag maken. Nochtans, zijn om het even welke andere IP adressen en netmaskers die u toevoegt niet toegestaan om activa te maken vraag. Als dusdanig, kunt u willen overwegen onbruikbaar makend (draai uit) de controledoos in de stap hierboven om de capaciteit uit te zetten om een IP adres en een netto masker te specificeren. Het doen van dit laat effectief *alle* IP adressen toe om activa vraag te maken, en zij zullen allen verschijnen.
+   >Als u één enkel IP adres en netto masker toevoegt, kan dat adres activavraag maken. Nochtans, zijn om het even welke andere IP adressen en netmaskers die u toevoegt niet toegestaan om activa te maken vraag. Als dusdanig, denk na onbruikbaar makend (draai weg) de controledoos in de stap hierboven om de capaciteit uit te zetten om een IP adres en een netto masker te specificeren. Het doen van dit laat effectief *alle* IP adressen toe om activa vraag te maken, en zij verschijnen allen.
 
 1. Voer een van de volgende handelingen uit:
-   * Herhaal de vorige twee stappen om meer IP adressen toe te voegen.
+   * Herhaal de vorige twee stappen als u meer IP adressen moet toevoegen.
    * Ga door met de volgende stap.
-1. Linksonder op de pagina Publiceren afbeeldingsserver klikt u op **Opslaan**
+1. Klik linksonder op de pagina Publiceren afbeeldingsserver op **[!UICONTROL Save]**
 1. Upload de gewenste afbeeldingen naar uw Dynamic Media Classic-account.
 
    Zie [Bestanden uploaden](uploading-files.md#uploading_files).
@@ -120,25 +121,25 @@ Last Modified Date:
 
    Zie [Publiceren](publishing-files.md#publishing_files).
 
-1. Bepaal de naam van uw Secure Testing service door te klikken op **Setup** > **Application Setup** > **Algemene instellingen**.
-1. Voor de pagina van de Montages van de Toepassing Algemene, onder de groep van Servers, vind de naam rechts van **de Naam van de Server van de Context van de Publicatie van de Test**.
+1. Bepaal de naam van uw service Beveiligd testen door te klikken op **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL General Settings]**.
+1. Voor de pagina van de Montages van de Toepassing Algemene, onder de groep van Servers, vind de naam rechts van **[!UICONTROL Test Publish Context Server Name]**.
 
 Neem contact op met de Adobe-service als de servernaam ontbreekt of als de URL&#39;s naar de server niet werken.
 
-**Websitevariaties voorbereiden**
+### Websitevariaties voorbereiden
 
 U hebt twee variaties nodig van een website die de gepubliceerde en niet-gepubliceerde elementen koppelt:
 
 * Openbare versie - Koppel elementen met behulp van uw traditionele Dynamic Media Classic URL-syntaxis.
 * Versie Staging - Koppel elementen met dezelfde syntaxis, maar met de naam van de site voor Beveiligd testen.
 
-**De tests uitvoeren**
+### De tests uitvoeren
 
 Voer de volgende tests uit:
 
 1. Controleer of elementen zichtbaar zijn vanuit uw bedrijfsnetwerk.
 
-   Van binnen het collectieve netwerk dat door de eerder bepaalde IP adreswaaier wordt geïdentificeerd, zou de het opvoeren versie van de website alle beelden moeten tonen, of duidelijk voor publicatie of niet. Zo kunt u testen zonder dat u per ongeluk afbeeldingen ter beschikking stelt voordat u een voorvertoning goedkeurt of het product start.
+   Vanuit het bedrijfsnetwerk dat door het eerder gedefinieerde IP-adresbereik wordt geïdentificeerd, worden in de testversie van de website alle afbeeldingen weergegeven, ongeacht of deze zijn gemarkeerd voor publicatie of niet. Zo kunt u testen zonder dat u per ongeluk afbeeldingen ter beschikking stelt voordat u een voorvertoning van goedkeuring of het product start.
 
    Bevestig dat in de openbare versie van uw site de gepubliceerde middelen worden weergegeven zoals die eerder met Dynamic Media Classic werden gebruikt.
 
