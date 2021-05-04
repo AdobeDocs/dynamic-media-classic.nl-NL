@@ -6,16 +6,16 @@ contentOwner: admin
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 discoiquuid: 9bfd95da-3714-4e38-98af-331a04c685f5
-feature: Dynamic Media Classic,Collaboration,Asset Management
+feature: Dynamic Media Classic,Samenwerking,Asset Management
 role: Administrator,Business Practitioner
+exl-id: c27df6c2-76f4-441c-bd26-cee98203291e
 translation-type: tm+mt
-source-git-commit: e727c1b5fb43c7def842ff1bafcc8b3ef3437cde
+source-git-commit: 1beb30b9eda4487dcd549034906079dee0b3149a
 workflow-type: tm+mt
-source-wordcount: '377'
+source-wordcount: '368'
 ht-degree: 0%
 
 ---
-
 
 # Exportopties opgeven die beschikbaar zijn voor gebruikers van Media Portal {#specifying-export-options-available-to-media-portal-users}
 
@@ -28,21 +28,18 @@ De volgende twee beperkingen gelden als u afbeeldingselementen exporteert via ee
 
 Zie ook [Elementen exporteren uit Dynamic Media Classic](exporting-assets-from-dmc.md#exporting-assets-from_dmc).
 
-**Exportopties opgeven die beschikbaar zijn voor gebruikers van Media Portal**
+**U kunt als volgt exportopties opgeven die beschikbaar zijn voor gebruikers van Media Portal:**
 
-1. Klik **Setup** > **Voorinstellingen afbeelding**.
+1. Klik op **[!UICONTROL Setup]** > **[!UICONTROL Image Presets]** op de algemene navigatiebalk.
 1. Selecteer een of meer van de volgende opties in het venster Voorinstellingen afbeelding:
 
-   * **Schakel Door gebruiker gedefinieerde**
-conversieAls deze optie is geselecteerd, kunnen gebruikers een andere optie kiezen in de vervolgkeuzelijst Grootte in het venster Geselecteerde elementen exporteren. Vervolgens kunnen gebruikers een maateenheid kiezen, zoals pixels of centimeters, en vervolgens de gewenste breedte en hoogte opgeven. Wanneer deze bestanden worden geëxporteerd of gedownload, worden de afbeeldingsbestanden opnieuw opgemaakt.
+   * **Door de gebruiker gedefinieerde omzetting**  inschakelen - Als deze optie is geselecteerd, kunnen gebruikers een andere optie kiezen in de  **[!UICONTROL Size]** vervolgkeuzelijst in het venster Geselecteerde elementen exporteren. Vervolgens kunnen gebruikers een maateenheid kiezen, zoals pixels of centimeters, en vervolgens de gewenste breedte en hoogte opgeven. Wanneer deze bestanden worden geëxporteerd of gedownload, worden de afbeeldingsbestanden opnieuw opgemaakt.
 
-      Wanneer **pixels** worden gekozen uit **Grootte**
-in de vervolgkeuzelijst kan de resulterende breedte x hoogte van de afbeelding niet groter zijn dan 100 miljoen pixels. Deze grootte is 10.000 x 10.000 pixels voor een vierkante afbeelding of ongeveer 8.000 x 12.000 pixels voor een afbeelding met de hoogte-breedteverhouding 2x3. Deze formaatbeperking geldt niet als u originele master afbeeldingen exporteert.
+      Wanneer **[!UICONTROL pixels]** uit **[!UICONTROL Size]** drop-down lijst wordt gekozen, kan de resulterende beeldbreedte x hoogte niet 100 miljoen pixel overschrijden. Deze grootte is 10.000 x 10.000 pixels voor een vierkante afbeelding of ongeveer 8.000 x 12.000 pixels voor een afbeelding met de hoogte-breedteverhouding 2x3. Deze formaatbeperking geldt niet als u originele master afbeeldingen exporteert.
 
       Schakel deze optie uit als u wilt dat gebruikers bestanden downloaden zonder ze opnieuw op te maken terwijl ze worden gedownload.
 
-   * **Schakel**
-Origineel exporteren in. Hiermee kunt u originele master afbeeldingen exporteren. In het deelvenster Geselecteerde elementen exporteren kunnen gebruikers het vervolgkeuzemenu Conversie openen en Origineel exporteren kiezen om de oorspronkelijke bestanden te exporteren. Schakel deze optie uit als u gebruikers wilt dwingen een voorinstelling voor afbeeldingen te kiezen of conversieopties wilt kiezen wanneer zij afbeeldingen exporteren.
+   * **Origineel**  exporteren inschakelen - Hiermee kunt u oorspronkelijke master afbeeldingen exporteren. In het **[!UICONTROL Export Selected Assets]** paneel, kunnen de gebruikers **[!UICONTROL Conversion]** drop-down menu openen en **[!UICONTROL Export Original]** kiezen om originele dossiers uit te voeren. Schakel deze optie uit als u gebruikers wilt dwingen een voorinstelling voor afbeeldingen te kiezen of conversieopties wilt kiezen wanneer ze afbeeldingen exporteren.
 
 >[!MORELIKETHIS]
 >
