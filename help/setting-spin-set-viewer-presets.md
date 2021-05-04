@@ -7,43 +7,41 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/spin_sets
 discoiquuid: 9dfaa37a-59ab-46ae-94c3-c0ab9f940023
-feature: Dynamic Media Classic,Viewers,Spin Sets,Viewer Presets
+feature: Dynamic Media Klassiek,Viewers,Draaisets,Viewer-voorinstellingen
 role: Business Practitioner
+exl-id: cb9e996c-ab90-4656-8e93-5e7cbeeadb7f
 translation-type: tm+mt
-source-git-commit: e727c1b5fb43c7def842ff1bafcc8b3ef3437cde
+source-git-commit: 9d73e74ffc4a1e7e31c84720a9bae105b6afb1ae
 workflow-type: tm+mt
-source-wordcount: '240'
+source-wordcount: '226'
 ht-degree: 0%
 
 ---
-
 
 # Voorinstellingen voor een draaiende set viewers instellen{#setting-up-spin-set-viewer-presets}
 
 Met voorinstellingen van de draaiende viewer worden de stijl, het gedrag en de vormgeving van de viewers bepaald. Dynamic Media Classic wordt geleverd met standaard voorinstellingen voor de voorinstelling van de draaiset-viewer. Als beheerder kunt u ook uw eigen voorinstellingen voor de voorinstelling van de voorinstelling Spin Set Viewer maken. U kunt een voorinstelling voor een centrifugeset weergeven met verschillende kleuren, randen, lettertypen en afbeeldingsinstellingen.
 
-Ga als volgt te werk om een voorinstelling voor een centrifugeset viewer te maken:
+**Een voorinstelling voor een centrifugeset viewer maken:**
 
-1. Klik **Setup** > **Viewer Presets**.
+1. Klik op **[!UICONTROL Setup]** > **[!UICONTROL Viewer Presets]** op de algemene navigatiebalk.
 1. Voer een van de volgende handelingen uit:
 
-   * Als u een nieuwe voorinstelling wilt maken, klikt u op **Toevoegen** en kiest u vervolgens in het dialoogvenster Voorinstelling viewer toevoegen een platform en klikt u op **Set Viewer** draaien.
-   * Als u een bestaande voorinstelling voor een centrifugeer-set viewer wilt bewerken, selecteert u de voorinstelling en klikt u op **Bewerken**.
+   * Als u een voorinstelling wilt maken, klikt u op **[!UICONTROL Add]** en vervolgens in het dialoogvenster Voorinstelling voor viewer toevoegen. Kies vervolgens een platform en klik op **[!UICONTROL Spin Set Viewer]**.
+   * Als u een bestaande voorinstelling voor een Spin Set Viewer wilt bewerken, selecteert u de voorinstelling en klikt u op **[!UICONTROL Edit]**.
 
-   Het scherm Configure Viewer wordt geopend.
+1. Typ op de pagina Viewer configureren een naam in het vak Naam voorinstelling voor de voorinstelling van de viewer in de voorinstelling Spin-set.
+1. Geef desgewenst andere opties op. Als u een beschrijving van een optie wilt zien, klikt u op het pictogram **[!UICONTROL Info Tip]** naast de optie.
 
-1. Typ een naam in het vak Naam voorinstelling voor de voorinstelling voor de voorinstelling van de voorinstelling voor de voorinstelling Spin-set viewer.
-1. Geef desgewenst andere opties op. Als u een beschrijving van een optie wilt zien, klikt u op het pictogram Info Tip naast de optie.
+   Op de pagina Voorbeeld wordt de viewer weergegeven terwijl u instellingen bijwerkt en wijzigt.
 
-   In het voorvertoningsscherm wordt de viewer weergegeven terwijl u instellingen bijwerkt en wijzigt.
+1. Klik op **[!UICONTROL Save]**.
 
-1. Klik **Opslaan**.
-
-Klik op Standaardwaarde maken om van de voorinstelling voor de draaiset-viewer die u hebt gemaakt, de standaardweergave voor de weergave van centrifuges te maken.
+Klik **[!UICONTROL Make Default]** om de Vastgestelde Kijker van de Rotatie te maken vooraf instelde u het bedrijfgebrek voor het tonen van de Reeksen van de Rotatie creeerde.
 
 Zie [Standaardviewers configureren](application-setup.md#configuring_default_viewers).
 
-Als u een voorinstelling voor een centrifugeset-viewer wilt verwijderen, selecteert u deze in het scherm Voorinstellingen viewer en klikt u op de knop Verwijderen.
+Als u een voorinstelling voor een centrifuge-set viewer wilt verwijderen, selecteert u deze op de pagina Voorinstellingen viewer en klikt u op **[!UICONTROL Delete]**.
 
 >[!MORELIKETHIS]
 >
