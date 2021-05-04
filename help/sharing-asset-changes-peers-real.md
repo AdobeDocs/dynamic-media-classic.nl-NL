@@ -7,22 +7,22 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/managing_assets
 discoiquuid: ca7c8a7f-76f4-4a25-8c36-617a029e55be
-feature: Dynamic Media Classic,Asset Management,Collaboration
+feature: Dynamic Media Classic,Asset Management,Samenwerking
 role: Administrator,Business Practitioner
+exl-id: d74b4966-fe43-4349-bbe1-3a379c49bf1f
 translation-type: tm+mt
-source-git-commit: e727c1b5fb43c7def842ff1bafcc8b3ef3437cde
+source-git-commit: 9d73e74ffc4a1e7e31c84720a9bae105b6afb1ae
 workflow-type: tm+mt
-source-wordcount: '279'
+source-wordcount: '278'
 ht-degree: 0%
 
 ---
 
-
 # Elementwijzigingen delen met peers in real-time{#sharing-asset-changes-with-peers-in-real-time}
 
-Wanneer meerdere kopieën van Dynamic Media Classic op een of meer computers in hetzelfde bedrijf worden uitgevoerd, worden de volgende handelingen van elke Dynamic Media Classic-client realtime bijgewerkt met alle peer-clients:
+Wanneer meerdere kopieën van Dynamic Media Classic op een of meer computers in hetzelfde bedrijf worden uitgevoerd, worden de volgende handelingen van elke Dynamic Media Classic-client in real-time bijgewerkt met alle peer-clients:
 
-* Een element bewerken (builder, afbeeldingseditor, enz.)
+* Een element bewerken (zoals een build, afbeeldingseditor)
 * De naam van een element wijzigen
 * Een element verwijderen
 * Een element verplaatsen
@@ -33,6 +33,6 @@ Nadat er een wijziging is aangebracht in de oorspronkelijke client, worden alle 
 
 Wanneer u zich aanmeldt, wordt u gevraagd peer-updates toe te staan of te weigeren. U kunt de keuze &quot;onthouden&quot;, zodat u slechts één keer wordt gevraagd. Als u uw keuze wilt wissen, verwijdert u de desbetreffende site uit het deelvenster Peer-ondersteund netwerken in Algemene instellingen.
 
-Als u een middel bewerkt dat door een peer wordt gewijzigd, wordt u gevraagd de wijziging in te voeren in de builder of editor. Als u ja kiest, dan verwerpt de bouwer of de redacteur om het even welke veranderingen die aan het activa worden aangebracht en voert het bijgewerkte activa in. Als u Nee kiest, blijft het element ongewijzigd in de builder of editor en blijven de wijzigingen die u hebt aangebracht, in die sessie behouden.
+Als u een middel bewerkt dat door een peer wordt gewijzigd, wordt u gevraagd de wijziging in te voeren in de builder of editor. Als u **[!UICONTROL Yes]** kiest, dan verwerpt de bouwer of de redacteur om het even welke veranderingen die aan het element worden aangebracht en voert het bijgewerkte element in. Als u **[!UICONTROL No]** kiest, is de activa onveranderd in de bouwer of de redacteur en om het even welke veranderingen u hebt aangebracht blijven in die zitting bestaan.
 
 Wanneer u het element opslaat, ontvangt u een melding dat er een nieuwere versie bestaat en wordt u gevraagd of u het element wilt overschrijven met uw wijzigingen.
