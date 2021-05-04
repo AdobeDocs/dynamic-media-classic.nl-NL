@@ -1,6 +1,6 @@
 ---
-title: Overzicht van Adobe Dynamic Media Classic-platform
-description: Een overzicht van het Dynamic Media Classic-platform en workflowproces.
+title: Overzicht van Adobe Dynamic Media Classic-programma
+description: Een overzicht van het Klassieke Dynamic Media-programma en het workflowproces.
 uuid: e7d3bfb3-1cfe-43ea-b862-aae3b3928c71
 contentOwner: admin
 content-type: reference
@@ -11,14 +11,14 @@ feature: Dynamic Media Classic
 role: Administrator,Business Practitioner
 exl-id: ac50cb9c-fd87-4608-80cb-8d40a0b8f131
 translation-type: tm+mt
-source-git-commit: 4e79c98b92dfa4e1a9890ed8a291cdf564126466
+source-git-commit: 1beb30b9eda4487dcd549034906079dee0b3149a
 workflow-type: tm+mt
 source-wordcount: '436'
 ht-degree: 0%
 
 ---
 
-# Adobe Dynamic Media Classic-platform - overzicht{#adobe-scene-platform-overview}
+# Adobe Dynamic Media Classic-programma overzicht{#adobe-scene-platform-overview}
 
 Dynamic Media Classic is een geïntegreerde, rijke omgeving voor mediabeheer, -publicatie en -gebruik. De rijke media kunnen aan alle marketing en verkoopkanalen, met inbegrip van het Web, drukmateriaal, e-mailcampagnes, Webportals, Desktops, en apparaten worden geleverd.
 
