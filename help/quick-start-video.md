@@ -9,9 +9,9 @@ feature: Dynamic Media Klassiek,Viewers,Video
 role: Business Practitioner
 exl-id: 1157400c-b33a-422e-848c-258660ddc748
 translation-type: tm+mt
-source-git-commit: c5c8c4f96f18339734f4441733cdb1e7f34d3071
+source-git-commit: 1beb30b9eda4487dcd549034906079dee0b3149a
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '1377'
 ht-degree: 0%
 
 ---
@@ -40,7 +40,9 @@ Dynamic Media Classic ondersteunt het volgende voor het beheer van afzonderlijke
 
    Wanneer een adaptieve videoset wordt gegenereerd, bevat deze MP4-video&#39;s.
 
-   `**Note:**` Master/bronvideo&#39;s en andere bronopmaakvideo worden  ** niet toegevoegd aan een adaptieve videoset.
+   >[!NOTE]
+   >
+   >Master/bronvideo&#39;s en andere bronopmaakvideo worden *niet* toegevoegd aan een adaptieve videoset.
 
 * Video-ondertiteling in de viewers Univeral_HTML5_Video, Universal_HTML5_MixedMedia_donker en Universal_HTML5_MixedMedia_light en de navigatie in videohoofdstukken in de viewers Univeral_HTML5_Video, Universal_HTML5_MixedMedia_donker en Universal_HTML5_MixedMedia_light.
 
@@ -124,7 +126,7 @@ Als u video wilt integreren in uw website, kunt u een van de volgende handelinge
 
    >[!NOTE]
    >
-   >URL&#39;s worden alleen geactiveerd nadat u de video of de adaptieve videoset hebt gepubliceerd.
+   >URL&#39;s worden pas geactiveerd nadat u de video of de adaptieve videoset hebt gepubliceerd.
 
 * Geef de video weer die is ingesloten op de webpagina, in welk geval de functie **[!UICONTROL Embed Code]** wordt gebruikt.
 
