@@ -9,14 +9,14 @@ geptopics: SG_SCENESEVENONDEMAND_PK/categories/template_basics
 discoiquuid: 75658717-5c39-473e-9d32-718d00706310
 feature: Dynamic Media Classic
 role: Business Practitioner
+exl-id: a105c18a-7e06-43cb-938c-a3bcdc3e9d22
 translation-type: tm+mt
-source-git-commit: e727c1b5fb43c7def842ff1bafcc8b3ef3437cde
+source-git-commit: 06bd65c92c88595786b14213944a7cebd0d2590b
 workflow-type: tm+mt
-source-wordcount: '294'
+source-wordcount: '228'
 ht-degree: 1%
 
 ---
-
 
 # Sjabloonbestanden uploaden{#uploading-template-files}
 
@@ -30,8 +30,11 @@ Sjablonen kunnen worden gemaakt op basis van Adobe Photoshop PSD-bestanden of af
 
 Zie [Bestanden uploaden](uploading-files.md#uploading_files) voor gedetailleerde instructies voor het uploaden van bestanden. Houd rekening met het volgende wanneer u sjabloonbestanden uploadt:
 
-* Als u een PSD-bestand uploadt, kunt u er een sjabloon van maken. Met Dynamic Media Classic wordt voor elke laag in de PSD een aparte afbeelding gemaakt. Selecteer in het dialoogvenster Opties voor uploaden de optie Photoshop, selecteer de optie Lagen behouden en selecteer de optie Sjabloon maken. Kies vervolgens een optie in het menu Laagnaamgeving waarmee u de afbeeldingen kunt benoemen die door Dynamic Media Classic worden gemaakt op basis van lagen in de PSD. Zie [Uploadopties voor PSD](psd-files.md#psd_upload_options).
-* Als u afbeeldingen uploadt, kunt u een masker maken op basis van het uitknippad. Deze optie is van toepassing op afbeeldingen die zijn gemaakt met beeldbewerkingstoepassingen waarin een uitknippad is gemaakt. Selecteer Beeldbewerkingsopties in het dialoogvenster Taakopties uploaden en selecteer de optie Masker maken van uitknippad. Zie [Opties voor het bewerken van afbeeldingen tijdens het uploaden](image-editing-options-upload.md#image-editing-options-at-upload).
+* Als u een PSD-bestand uploadt, kunt u er een sjabloon van maken. Met Dynamic Media Classic wordt voor elke laag in de PSD een aparte afbeelding gemaakt. Klik in het dialoogvenster Taakopties uploaden op **[!UICONTROL Photoshop Options]** en selecteer **[!UICONTROL Maintain Layers]** en **[!UICONTROL Create Template]**. Kies vervolgens een optie in de vervolgkeuzelijst **[!UICONTROL Layer Naming]** om de afbeeldingen die in Dynamic Media Classic worden gemaakt van lagen in de PSD een naam te geven.
+Zie [Uploadopties voor PSD](psd-files.md#psd_upload_options).
+
+<!-- THERE IS NO LONGER AN IMAGE EDITING OPTIONS MENU * If you are uploading images, you can create a mask from its clipping path. This option applies to images created with image-editing applications in which a clipping path was created. In the Upload Job Options dialog box, select Image Editing Options and select the Create Mask From Clipping Path option. 
+See [Image editing options at upload](image-editing-options-upload.md#image-editing-options-at-upload). -->
 
 >[!MORELIKETHIS]
 >
