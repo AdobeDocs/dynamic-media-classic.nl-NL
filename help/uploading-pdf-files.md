@@ -10,16 +10,16 @@ feature: Dynamic Media Classic,Viewers,eCatalog
 role: Business Practitioner
 exl-id: a787d6b5-48c8-4cf7-b136-60ba3d3eb2f2
 translation-type: tm+mt
-source-git-commit: 7456226cf6469f40e66ff327475d4c605b6d6e13
+source-git-commit: 06bd65c92c88595786b14213944a7cebd0d2590b
 workflow-type: tm+mt
-source-wordcount: '699'
+source-wordcount: '734'
 ht-degree: 0%
 
 ---
 
 # PDF-bestanden uploaden{#uploading-the-pdf-files}
 
-Adobe PDF-bestanden zijn doorgaans de bron voor een eCatalog. Deze bestanden bevatten alle afbeeldingsgegevens, lettertypen en vectorafbeeldingen. U kunt ook een eCatalog met afbeeldingen maken. Nadat u de PDF-bestanden hebt voorbereid voor uploaden, selecteert u de knop Uploaden op de algemene navigatiebalk om de PDF&#39;s te uploaden.
+Adobe PDF-bestanden zijn doorgaans de bron voor een eCatalog. Deze bestanden bevatten alle afbeeldingsgegevens, lettertypen en vectorafbeeldingen. U kunt ook een eCatalog met afbeeldingen maken. Nadat u de PDF-bestanden voor uploaden hebt voorbereid, klikt u op **[!UICONTROL Upload]** op de algemene navigatiebalk om de PDF&#39;s te uploaden.
 
 ## PDF-bestanden {#preparing-your-pdf-files} voorbereiden
 
@@ -39,37 +39,27 @@ Zie [Uw bestanden uploaden](uploading-files.md#uploading_your_files) voor gedeta
 
 Selecteer de bestanden die u wilt uploaden en selecteer vervolgens de volgende *aanbevolen PDF-opties:*
 
-* ****
-UitsnijdenSelecteer het menu Uitsnijden en kies Handmatig als de pagina&#39;s snijtekens, registratietekens of andere markeringen bevatten. Voer het aantal pixels in dat u vanaf de boven-, rechter-, onder- en linkerzijde van pagina&#39;s wilt uitsnijden. Snijtekens worden vaak ingesteld op een marge van 5 cm. Stel dat u 150 pixels per inch kiest (aanbevolen) als resolutie en 75, 75, 75, 75, 75 invoert in de tekstvakken Boven, Rechts, Onder en Links. In dat geval wordt een halve inch van de marges geoogst (bij 150 ppi is de helft van 1 gelijk aan 75 pixels).
+* **Opties voor**  uitsnijden - Klik in het dialoogvenster Opties voor uploaden taak op  **[!UICONTROL Crop Options]**. Als de PDF-pagina&#39;s snijtekens, registratietekens of andere markeringen bevatten, kiest u **[!UICONTROL Manual]** in de vervolgkeuzelijst **[!UICONTROL Crop]**. Voer het aantal pixels in dat u vanaf de boven-, rechter-, onder- en linkerzijde van pagina&#39;s wilt uitsnijden. Snijtekens worden vaak ingesteld op een marge van 5 cm. Stel dat u **[!UICONTROL 150]** (aanbevolen) kiest als resolutie per pixel en 75, 75, 75, 75, 75 in de tekstvakken Boven, Rechts, Onder en Links. In dat geval wordt een halve inch van de marges geoogst (bij 150 ppi is de helft van 1 gelijk aan 75 pixels).
 
-* ****
-VerwerkenSelecteer het menu Verwerking en kies Omzetten in pixels. Het PDF-bestand moet worden gerasterd, zodat alle pagina&#39;s en afbeeldingen in de eCatalog kunnen worden weergegeven.
+* **Verwerken**  - Klik op het dialoogvenster Taakopties uploaden  **[!UICONTROL PDF Options]**. Kies **[!UICONTROL Rasterize]** in de vervolgkeuzelijst **[!UICONTROL Processing]**. Het PDF-bestand moet worden gerasterd, zodat alle pagina&#39;s en afbeeldingen in de eCatalog kunnen worden weergegeven.
 
-* **Zoekwoorden extraheren (optioneel)**
-Selecteer deze optie als u wilt dat uw viewers op trefwoorden kunnen zoeken in uw eCatalog.
+* **Zoekwoorden extraheren (optioneel)** - Klik in het dialoogvenster Taakopties uploaden op  **[!UICONTROL PDF Options]**. Kies **[!UICONTROL Search words]** in de vervolgkeuzelijst Extraheren als u wilt dat uw viewers op trefwoorden kunnen zoeken in uw eCatalog.
 
-* **Automatisch een eCatalog genereren op basis van PDF van meerdere pagina&#39;s (optioneel)**
-Selecteer deze optie om automatisch een eCatalog te maken wanneer u het uploadt. U kunt rechtstreeks naar het eCatalog-scherm gaan en aan uw eCatalog beginnen te werken zonder eerst PDF- dossiers te selecteren en het bevel van de Bouwstijl te selecteren. De eCatalog wordt genoemd naar uw Pdf- dossier.
+* **Automatisch een eCatalog genereren op basis van PDF van meerdere pagina&#39;s (optioneel)**  - Klik in het dialoogvenster Taakopties uploaden op  **[!UICONTROL PDF Options]**. Selecteer **[!UICONTROL Auto-Generate eCatalog from multiple page PDF]** om automatisch een eCatalog tot stand te brengen wanneer u uploadt. U kunt rechtstreeks naar het eCatalog-scherm gaan en aan uw eCatalog beginnen te werken zonder eerst PDF- dossiers te selecteren en het bevel van de Bouwstijl te selecteren. De eCatalog wordt genoemd naar uw Pdf- dossier.
 
-* ****
-ResolutionDynamic Media Classic raadt 150 pixels per inch aan.
+* **Resolutie**  - Klik in het dialoogvenster Taakopties uploaden op  **[!UICONTROL PDF Options]**. Voer in het tekstveld **[!UICONTROL Resolution]** een waarde in. Dynamic Media Classic raadt 150 pixels per inch aan.
 
-* ****
-ColorSpaceDynamic Media Classic raadt u aan Automatisch detecteren te kiezen. Gewoonlijk worden PDF&#39;s die voor afdrukuitvoer zijn gemaakt, in CMYK weergegeven. PDF&#39;s voor onlineweergave zijn RGB. Als een PDF beide kleurruimten gebruikt, kunt u een specifieke kleurruimte selecteren door forceren als RGB of forceren als CMYK te kiezen. PDF&#39;s gebruiken beide kleurruimten, bijvoorbeeld wanneer paginaafbeeldingen een CMYK-kleurruimte gebruiken, maar afbeeldingen RGB. Als u een ICC-profiel hebt geüpload, wordt de naam ervan weergegeven in het menu Kleurruimte en kunt u het daar kiezen.
+* **Kleurruimte** - Klik op het dialoogvenster Taakopties uploaden  **[!UICONTROL PDF Options]**. Kies **[!UICONTROL Detect automatically]** in de vervolgkeuzelijst Kleurruimte. Gewoonlijk worden PDF&#39;s die voor afdrukuitvoer zijn gemaakt, in CMYK weergegeven. PDF&#39;s voor onlineweergave zijn RGB. Als een PDF beide kleurruimten gebruikt, kunt u een specifieke kleurruimte selecteren door forceren als RGB of forceren als CMYK te kiezen. PDF&#39;s gebruiken beide kleurruimten, bijvoorbeeld wanneer paginaafbeeldingen een CMYK-kleurruimte gebruiken, maar afbeeldingen RGB. Als u een ICC-profiel hebt geüpload, wordt de naam ervan weergegeven in het menu Kleurruimte en kunt u het daar kiezen.
 
-   Zie [ICC-profielen](icc-profiles.md#icc_profiles).
+   Zie [ICC-profielen](/help/icc-profiles.md).
 
-* **KleurprofielKies een**
-optie voor Kleurprofiel:
+* **Opties**  voor kleurprofiel - Klik in het dialoogvenster Taakopties uploaden op  **[!UICONTROL Color Profile Options]** en kies een optie voor het kleurprofiel:
 
-* **Converteren naar**
-SRGBConverts naar SRGB (standaard rood groen blauw). SRGB is de aanbevolen kleurruimte voor het weergeven van afbeeldingen op webpagina&#39;s.
+   * **Oorspronkelijke kleurruimte**  behouden - Behoudt de oorspronkelijke kleurruimte.
 
-* **Behoud oorspronkelijke**
-kleurruimteBehoudt de oorspronkelijke kleurruimte.
+   * **Aangepast van > tot**  - Hiermee opent u submenu&#39;s, zodat u een  **[!UICONTROL Convert From]** en  **[!UICONTROL Convert To]** kleurruimte kunt kiezen. U kunt een standaard Photoshop-kleurruimte kiezen of een kleurruimte die u naar Dynamic Media Classic hebt geüpload.
 
-* **Kies Aangepast vanuit >**
-InOpens om de menu&#39;s te openen, zodat u de opdracht Omzetten vanuit en Omzetten in kleurruimte kunt kiezen. U kunt een standaard Photoshop-kleurruimte kiezen of een kleurruimte die u naar Dynamic Media Classic hebt geüpload.
+<!-- * **Convert To SRGB** - Converts to SRGB (Standard Red Green Blue). SRGB is the recommended color space for displaying images on web pages. -->
 
 Zie [ICC-profielen](icc-profiles.md#icc_profiles).
 
