@@ -11,9 +11,9 @@ feature: Dynamic Media Classic, beheer van bedrijfsmiddelen
 role: Business Practitioner
 exl-id: 2d9fc6d8-973f-4aaa-bc2c-b49cda2cde58
 translation-type: tm+mt
-source-git-commit: 27d9a9b9f158846b54e4318119aec9e4dc9c4c0d
+source-git-commit: 06bd65c92c88595786b14213944a7cebd0d2590b
 workflow-type: tm+mt
-source-wordcount: '1139'
+source-wordcount: '1149'
 ht-degree: 0%
 
 ---
@@ -33,19 +33,19 @@ Deze opties vindt u op de pagina Uploaden onder Opties voor bewerken van afbeeld
 
 ## Witruimte uitsnijden in afbeeldingen
 
-Als u pixels met witruimte automatisch wilt uitsnijden in een afbeelding, selecteert u het menu Uitsnijden en kiest u Bijsnijden. Kies vervolgens de volgende opties:
+Als u pixels in witruimte automatisch wilt uitsnijden uit een afbeelding, klikt u in het dialoogvenster Taakopties uploaden op **[!UICONTROL Crop Options]**. Kies **[!UICONTROL Trim]** in de vervolgkeuzelijst **[!UICONTROL Crop]**. Kies vervolgens de volgende opties:
 
-* **Wegsnijden op basis van**  - Kies of u wilt uitsnijden op basis van kleur of transparantie:
+* **Wegsnijden op basis van**  - Kies in deze vervolgkeuzelijst of u wilt uitsnijden op basis van kleur of transparantie:
 
-* **Kleur**  - Kies de  **[!UICONTROL Color]** optie. Selecteer vervolgens in de vervolgkeuzelijst **[!UICONTROL Corner]** de hoek van de afbeelding met de kleur die het beste overeenkomt met de kleur voor de witruimte die u wilt uitsnijden.
+   * **Kleur**  - Kies de  **[!UICONTROL Color]** optie. Selecteer vervolgens in de vervolgkeuzelijst **[!UICONTROL Corner]** de hoek van de afbeelding met de kleur die het beste overeenkomt met de kleur voor de witruimte die u wilt uitsnijden.
 
-* **Transparantie**  - Kies de optie Transparantie.
+   * **Transparantie**  - Kies de optie Transparantie.
 
 * **Tolerantie**  - Sleep de schuifregelaar om een tolerantie tussen 0 en 1 op te geven:
 
-* **Bijsnijden op basis van kleur**  - Geef 0 op om alleen pixels bij te snijden als deze exact overeenkomen met de kleur die u in de hoek van de afbeelding hebt geselecteerd. De aantallen dichter aan 1 staan voor meer kleurenverschil toe.
+   * **Bijsnijden op basis van kleur**  - Geef 0 op om alleen pixels bij te snijden als deze exact overeenkomen met de kleur die u in de hoek van de afbeelding hebt geselecteerd. De aantallen dichter aan 1 staan voor meer kleurenverschil toe.
 
-* **Bijsnijden op basis van transparantie**  - Geef 0 op om pixels alleen uit te snijden als ze transparant zijn. De cijfers dichter aan 1 staan voor meer transparantie.
+   * **Bijsnijden op basis van transparantie**  - Geef 0 op om pixels alleen uit te snijden als ze transparant zijn. De cijfers dichter aan 1 staan voor meer transparantie.
 
 ## Handmatig uitsnijden vanaf de zijkanten van afbeeldingen
 
