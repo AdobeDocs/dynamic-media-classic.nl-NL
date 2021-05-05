@@ -7,37 +7,34 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/zoom
 discoiquuid: e84b7b0e-527a-4c64-bc2a-e5e64d47b2d6
-feature: Dynamic Media Classic,Viewers,Zoom
+feature: Dynamic Media Klassiek,Viewers,Zoomen
 role: Business Practitioner
+exl-id: 44a82437-7592-484f-b45f-17ed1f6efbec
 translation-type: tm+mt
-source-git-commit: e727c1b5fb43c7def842ff1bafcc8b3ef3437cde
+source-git-commit: 06bd65c92c88595786b14213944a7cebd0d2590b
 workflow-type: tm+mt
-source-wordcount: '221'
+source-wordcount: '215'
 ht-degree: 0%
 
 ---
-
 
 # Zoomafbeeldingen uploaden{#uploading-zoom-images}
 
 Zoomafbeeldingen moeten een hoog aantal pixels hebben. Er is een groot aantal pixels nodig, zodat gebruikers de details van de afbeelding duidelijk kunnen zien wanneer ze op afbeeldingen inzoomen. Zorg ervoor dat de afbeeldingen die u gebruikt de juiste grootte hebben voordat u ze uploadt naar Dynamic Media Classic.
 
-Selecteer de knop Uploaden op de algemene navigatiebalk om afbeeldingen te uploaden.
+Klik op **[!UICONTROL Upload]** op de algemene navigatiebalk om afbeeldingen te uploaden.
 
 Zie [Bestanden uploaden](uploading-files.md#uploading_files) voor gedetailleerde instructies voor het uploaden van afbeeldingen.
 
-**Uw afbeeldingen voorbereiden voor zoomen**
+**Uw afbeeldingen voorbereiden voor zoomen:**
 
 Als u optimaal wilt profiteren van de klassieke zoomfuncties van Dynamic Media, bereidt u uw zoomafbeeldingsbestanden voor voordat u ze uploadt:
 
-* **AfbeeldingsgrootteDynamische media**
-Klassiek raadt u aan afbeeldingsbestanden te gebruiken die minimaal 2000 pixels groot zijn. Op deze manier kunnen afbeeldingen duidelijk zichtbaar zijn wanneer gebruikers erop inzoomen.
+* **Afbeeldingsgrootte**  - Dynamic Media Classic raadt u aan afbeeldingsbestanden te gebruiken die minimaal 2000 pixels groot zijn. Op deze manier kunnen afbeeldingen duidelijk zichtbaar zijn wanneer gebruikers erop inzoomen.
 
-* **BestandsindelingenDynamic Media Classic ondersteunt alle standaardbestandsindelingen voor afbeeldingen, waaronder TIFF, BMP, JPEG, PSD, GIF en EPS.**
-Opmaak zonder verlies van afbeeldingen (TIFF en PNG) wordt aanbevolen. Als u een JPEG-afbeelding gebruikt, gebruikt u de instellingen voor de hoogste kwaliteit.
+* **Bestandsindelingen**  - Dynamic Media Classic ondersteunt alle standaardbestandsindelingen voor afbeeldingen, waaronder TIFF, BMP, JPEG, PSD, GIF en EPS. Opmaak zonder verlies van afbeeldingen (TIFF en PNG) wordt aanbevolen. Als u een JPEG-afbeelding gebruikt, gebruikt u de instellingen voor de hoogste kwaliteit.
 
-* **Kleurruimte**
-RGB is de kleurruimte voor webafbeeldingspresentaties; CMYK-afbeeldingen worden automatisch omgezet in RGB wanneer u ze uploadt. Het wordt aanbevolen CMYK-afbeeldingen te uploaden die een ingesloten ICC-kleurprofiel hebben voor de conversie naar RGB. Zie ook ICC-profielen.
+* **Kleurruimte**  - RGB is de kleurruimte voor webafbeeldingspresentaties; CMYK-afbeeldingen worden automatisch omgezet in RGB wanneer u ze uploadt. Het wordt aanbevolen CMYK-afbeeldingen te uploaden die een ingesloten ICC-kleurprofiel hebben voor de conversie naar RGB. Zie ook ICC-profielen.
 
 >[!MORELIKETHIS]
 >
