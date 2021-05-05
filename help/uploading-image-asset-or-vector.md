@@ -6,14 +6,14 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 feature: Dynamic Media Classic
 role: Business Practitioner
+exl-id: 2ef78fe6-1e7c-4f48-86da-137ddaa55bbf
 translation-type: tm+mt
-source-git-commit: 5efad4fff11c9818d43d46ebbbce5335ee1e72b8
+source-git-commit: 06bd65c92c88595786b14213944a7cebd0d2590b
 workflow-type: tm+mt
-source-wordcount: '1532'
+source-wordcount: '1475'
 ht-degree: 0%
 
 ---
-
 
 # Een afbeeldingselement of een vectorelement uploaden{#uploading-an-image-asset-or-a-vector-asset}
 
@@ -29,7 +29,7 @@ Geef in het e-mailbericht de bedrijfsnaam op die u wilt gebruiken om afbeeldings
 
 Met de *upload-token* kan niemand dezelfde sleutel voor gedeeld geheim gebruiken om elementen te uploaden. Het zorgt ervoor dat de upload legitiem is en uit een vertrouwde bron komt.
 
-Het uploadtoken is een alfanumerieke tekenreeks die alleen voor een bepaalde hoeveelheid tijd beschikbaar is. Gebruik de volgende URL&#39;s, waarmee u de sleutel voor een gedeeld geheim vervangt, om het token voor uploaden op te halen.
+Het uploadtoken is een alfanumerieke tekenreeks die alleen voor een bepaalde hoeveelheid tijd beschikbaar is. Gebruik de volgende URL&#39;s, waarbij u de sleutel voor een gedeeld geheim vervangt, zodat u het token voor uploaden kunt ophalen.
 
 * Afbeelding
    `https://s7ugc1.scene7.com/ugc/image?op=get_uploadtoken&shared_secret=fece4b21-87ee-47fc-9b99-2e29b78b602`In dit voorbeeld is de sleutel voor gedeeld geheim  `fece4b21-87ee-47fc-9b99-2e29b78b602`
@@ -43,7 +43,7 @@ Standaard verloopt het uploadtoken vijf minuten (300 seconden) nadat u het hebt 
 https://s7ugc1.scene7.com/ugc/image?op=get_uploadtoken&shared_secret=fece4b21-87ee-47fc-9b99-2e29b78b602&expires=1800
 ```
 
-De geslaagde reactie voor afbeeldingen ziet er als volgt uit:
+De geslaagde reactie voor afbeeldingen ziet er ongeveer als volgt uit:
 
 ```as3
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?> 
@@ -82,7 +82,8 @@ U kunt de volgende velden in de URL-queryreeks gebruiken om een token voor uploa
 
 `https://s7ugc1.scene7.com/ugc/vector?op=get_uploadtoken&shared_secret=2d19f60e-890a-4e79-a1a5-9ac2875429b9&expires=5000`
 
-**Toegestane HTTP-methoden:** GET en POST
+**Toegestane HTTP-methoden:**
+`GET` en  `POST`
 
 U kunt nu een afbeeldingselement uploaden.
 
@@ -123,9 +124,10 @@ In het volgende HTML-formulier kan een gebruiker een element uploaden. In het fo
 * Een token voor uploaden.
 * Een maximale bestandsgrootte.
 * Een lijst met bestandsextensies.
-* Bepaalt of het kleurprofiel en de bestandsnaam die aan het element zijn gekoppeld, moeten worden behouden.
-* Of de achtergrond Uitnemen al dan niet wordt gebruikt. Als u Achtergrond uitnemen inschakelt, stelt u de Hoek, Tolerantie en Vulmethode in. Zie Achtergrond uitnemen in [Opties voor Beeldbewerking bij uploaden](image-editing-options-upload.md#image-editing-options-at-upload).
-* De naam van het bestand dat moet worden geüpload
+* Of het kleurprofiel en de bestandsnaam die aan het element zijn gekoppeld, behouden moeten blijven.
+* Of de achtergrond uitnemen moet worden gebruikt. Als u Achtergrond uitnemen inschakelt, stelt u de Hoek, Tolerantie en Vulmethode in.
+Zie Achtergrond uitnemen in [Opties voor het bewerken van afbeeldingen tijdens het uploaden](image-editing-options-upload.md#image-editing-options-at-upload).
+* De naam van het bestand dat moet worden geüpload.
 
 <!-- 
 
@@ -137,15 +139,11 @@ Last Modified Date:
 
  -->
 
-![]()
+U kunt de HTML-broncode bekijken die aan het bovenstaande formulier is gekoppeld door te klikken op [https://s7ugc1.scene7.com/ugc/upload.html](https://s7ugc1.scene7.com/ugc/upload.html)
 
-U kunt de HTML-broncode die aan het bovenstaande formulier is gekoppeld, weergeven door op de volgende koppeling te klikken:
+Klik in Firefox met de rechtermuisknop in het browservenster en klik vervolgens op **[!UICONTROL View Page Source]**. De code toont het overeenkomstige URL vraagkoord en de methode van de POST die in werking worden gesteld wanneer de gebruiker **[!UICONTROL Submit]** klikt.
 
-[https://s7ugc1.scene7.com/ugc/upload.html](https://s7ugc1.scene7.com/ugc/upload.html)
-
-Klik in Firefox met de rechtermuisknop in het browservenster en klik vervolgens op **Paginabron weergeven**. De code toont het overeenkomstige URL vraagkoord en de methode van de POST die in werking worden gesteld wanneer de gebruiker **Submit** klikt.
-
-Als u de XML-reactie wilt weergeven in Internet Explorer, klikt u op **Weergave > Bron**. Als u de XML-reactie in Firefox wilt weergeven, klikt u op **Gereedschappen > Webontwikkelaar > Pagina-bron**. Firefox wordt aanbevolen voor het weergeven van XML-reacties.
+Als u de XML-reactie in Internet Explorer wilt weergeven, klikt u op **[!UICONTROL View]** > **[!UICONTROL Source]**. Als u de XML-reactie in Firefox wilt weergeven, klikt u op **[!UICONTROL Tools]** > **[!UICONTROL Browser Tools]** > **[!UICONTROL Web Developer Tools]**. Firefox wordt aanbevolen voor het weergeven van XML-reacties.
 
 Hier volgt een voorbeeldreactie van een geslaagde upload:
 
@@ -183,13 +181,13 @@ Verzend het element dat u wilt uploaden als multipart/form-post terwijl u de ove
 
 | URL-parameter | Vereist of optioneel | Waarde |
 |--- |--- |--- |
-| op | Vereist | uploaden |
-| upload_token | Vereist | Upload token voor de sleutel voor gedeeld geheim die aan het bedrijf is gekoppeld. |
-| company_name | Vereist | Naam van het bedrijf dat de upload uitvoert. |
-| file_limit | Optioneel | Bestandsgroottelimiet, in bytes, voor het element. |
-| file_exts | Optioneel | Lijst met toegestane extensies voor het afbeeldingselementbestand. |
-| preserve_colorProfile | Optioneel | Behoudt een ingesloten kleurprofiel terwijl het geüploade bestand wordt geconverteerd naar PTIFF-indeling. Mogelijke waarden zijn true of false. De standaardwaarde is false. |
-| preserve_filename | Optioneel | De bestandsnaam van het geüploade element blijft behouden. Mogelijke waarden zijn true of false. De standaardwaarde is false. |
+| `op` | Vereist | uploaden |
+| `upload_token` | Vereist | Upload token voor de sleutel voor gedeeld geheim die aan het bedrijf is gekoppeld. |
+| `company_name` | Vereist | Naam van het bedrijf dat de upload uitvoert. |
+| `file_limit` | Optioneel | Bestandsgroottelimiet, in bytes, voor het element. |
+| `file_exts` | Optioneel | Lijst met toegestane extensies voor het afbeeldingselementbestand. |
+| `preserve_colorprofile` | Optioneel | Behoudt een ingesloten kleurprofiel terwijl het geüploade bestand wordt geconverteerd naar PTIFF-indeling. Mogelijke waarden zijn true of false. De standaardwaarde is false. |
+| `preserve_filename` | Optioneel | De bestandsnaam van het geüploade element blijft behouden. Mogelijke waarden zijn true of false. De standaardwaarde is false. |
 
 >[!NOTE]
 >
@@ -211,7 +209,7 @@ U kunt `image_info` gebruiken om meta-gegevens voor activa terug te winnen die u
 https://s7ugc1.scene7.com/ugc/image?op=image_info&shared_secret=fece4b21-87ee-47fc-9b99-2e29b78b602&image_name=1442564.tif
 ```
 
-Een voorbeeld van een geslaagde reactie ziet er als volgt uit:
+Een voorbeeld van een succesvolle reactie lijkt op het volgende:
 
 ```as3
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?> 
@@ -239,9 +237,9 @@ U kunt de volgende velden in de URL-queryreeks gebruiken om informatie voor een 
 
 | URL-parameter | Vereist of optioneel | Waarde |
 |--- |--- |--- |
-| op | Vereist | image_info |
-| shared_geheime | Vereist | De gedeelde geheime sleutel voor het bedrijf. |
-| image_name | Vereist | Naam van de afbeelding. |
+| `op` | Vereist | image_info |
+| `shared_secret` | Vereist | De gedeelde geheime sleutel voor het bedrijf. |
+| `image_name` | Vereist | Naam van de afbeelding. |
 
 **Voorbeeld-URL:**
 
@@ -286,9 +284,10 @@ In het volgende HTML-formulier kan een gebruiker een element uploaden. In het fo
 * Een token voor uploaden.
 * Een maximale bestandsgrootte.
 * Een lijst met bestandsextensies.
-* Bepaalt of het kleurprofiel en de bestandsnaam die aan het element zijn gekoppeld, moeten worden behouden.
-* Of de achtergrond Uitnemen al dan niet wordt gebruikt. Als u Achtergrond uitnemen inschakelt, stelt u de Hoek, Tolerantie en Vulmethode in. Zie Achtergrond uitnemen in [Opties voor Beeldbewerking bij uploaden](image-editing-options-upload.md#image-editing-options-at-upload).
-* De naam van het bestand dat moet worden geüpload
+* Of het kleurprofiel en de bestandsnaam die aan het element zijn gekoppeld, behouden moeten blijven.
+* Of de achtergrond uitnemen moet worden gebruikt. Als u Achtergrond uitnemen inschakelt, stelt u de Hoek, Tolerantie en Vulmethode in.
+Zie Achtergrond uitnemen in [Opties voor het bewerken van afbeeldingen tijdens het uploaden](image-editing-options-upload.md#image-editing-options-at-upload).
+* De naam van het bestand dat moet worden geüpload.
 
 <!-- 
 
@@ -300,9 +299,7 @@ Last Modified Date:
 
  -->
 
-![]()
-
-De volgende HTML-code wordt weergegeven wanneer u met de rechtermuisknop in het browservenster klikt en vervolgens op **Bron weergeven** klikt voor het formulier dat in de illustratie wordt weergegeven. De code toont het overeenkomstige URL vraagkoord en de methode van de POST die in werking worden gesteld wanneer de gebruiker **Submit** klikt.
+De volgende HTML-code wordt weergegeven wanneer u met de rechtermuisknop in het browservenster klikt en vervolgens **[!UICONTROL View Source]** klikt voor het formulier dat in het voorbeeld wordt weergegeven. De code toont het overeenkomstige URL vraagkoord en de methode van de POST die in werking worden gesteld wanneer de gebruiker **[!UICONTROL Submit]** klikt.
 
 ```as3
 <body> 
@@ -336,7 +333,7 @@ return true;
 </body>
 ```
 
-Als u de XML-reactie in Internet Explorer wilt weergeven, klikt u op **Weergave** > **Bron**. Als u de XML-reactie in Firefox wilt weergeven, klikt u op **Weergave** > **Paginabron**. Firefox wordt aanbevolen voor het weergeven van XML-reacties.
+Als u de XML-reactie in Internet Explorer wilt weergeven, klikt u op **[!UICONTROL View]** > **[!UICONTROL Source]**. Als u de XML-reactie in Firefox wilt weergeven, klikt u op **[!UICONTROL Tools]** > **[!UICONTROL Browser Tools]** > **[!UICONTROL Page Source]**. Firefox wordt aanbevolen voor het weergeven van XML-reacties.
 
 Hier volgt een voorbeeldreactie van een geslaagde upload:
 
@@ -366,7 +363,7 @@ Hier volgt een voorbeeldreactie van een geslaagde upload:
 >
 >Het geüploade element (AI, EPS, PDF enzovoort) wordt geconverteerd naar de FXG-indeling en het antwoord verstuurt een directe koppeling naar dat FXG-element.
 
-Het middel is als elke andere Web-aan-druk middel; U kunt er verwerkingsquery&#39;s op toepassen. De volgende URL converteert bijvoorbeeld een FXG-bron naar een afbeelding van 500 x 500 png.
+Het middel is als elke andere Web-aan-druk middel; als u er verwerkingsquery&#39;s op toepast. De volgende URL converteert bijvoorbeeld een FXG-bron naar een afbeelding van 500 x 500 png.
 
 ```as3
 https://s7w2p1.scene7.com/is/agm/W2PTest/ugc/8875744.fxg?fmt=png&wid=500&hei=500
@@ -376,11 +373,11 @@ Verzend het element dat u wilt uploaden als multipart/form-post terwijl u de ove
 
 | URL-parameter | Vereist of optioneel | Waarde |
 |--- |--- |--- |
-| op | Vereist | uploaden |
-| upload_token | Vereist | Upload token voor de sleutel voor gedeeld geheim die aan het bedrijf is gekoppeld. |
-| company_name | Vereist | Naam van het bedrijf dat de upload uitvoert. |
-| file_limit | Optioneel | Bestandsgroottelimiet, in bytes, voor het element. |
-| file_exts | Optioneel | Lijst met toegestane extensies voor het elementbestand. |
+| `op` | Vereist | uploaden |
+| `upload_token` | Vereist | Upload token voor de sleutel voor gedeeld geheim die aan het bedrijf is gekoppeld. |
+| `company_name` | Vereist | Naam van het bedrijf dat de upload uitvoert. |
+| `file_limit` | Optioneel | Bestandsgroottelimiet, in bytes, voor het element. |
+| `file_exts` | Optioneel | Lijst met toegestane extensies voor het elementbestand. |
 
 >[!NOTE]
 >
