@@ -11,18 +11,20 @@ feature: Dynamic Media Classic
 role: Administrator,Business Practitioner
 exl-id: 3ffcfab2-c29d-4b0f-b223-c4a5ca99f21a
 translation-type: tm+mt
-source-git-commit: 38d09bb78834c6b3614bf2b96fd6aee5661e0a5a
+source-git-commit: eb37440a2917094aae8f32e9337b4c187ec6c1c2
 workflow-type: tm+mt
-source-wordcount: '589'
+source-wordcount: '623'
 ht-degree: 0%
 
 ---
 
 # Basisbeginselen van navigatie{#navigation-basics}
 
-Het Klassieke scherm van Dynamic Media omvat drie belangrijke gebieden: De globale bar van de Navigatie, de Bibliotheek van Activa, en doorbladert Comité/bouwt Comité.
+Het Klassieke scherm van Dynamic Media omvat drie belangrijke gebieden: De globale bar van de Navigatie, de Bibliotheek van Activa, het lusje van de Filters van Activa, doorbladert Comité/bouwt Comité, en Kart van Media (slechts Portaal van Media).
 
-![Basisbeginselen van navigatie](/help/assets/gs_navigation_basics_popup_popup.png)
+![Navigatie ](/help/assets/gs_navigation_basics_popup_popup.png)
+*basisbeginselenHoofd Dynamic Media Klassieke*
+*gebiedenA) Algemene navigatiebalk B) Deelvenster Asset Library (C) Tabblad Asset Filters (D) Bladeren deelvenster E) Media Kart (alleen Media Portal)*
 
 ## Algemene navigatiebalk {#global-navigation-bar}
 
