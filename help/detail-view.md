@@ -11,10 +11,10 @@ feature: Dynamic Media Classic, beheer van bedrijfsmiddelen
 role: Business Practitioner
 exl-id: 618ae6a4-6f60-4a80-b197-a9d35b3c47af
 translation-type: tm+mt
-source-git-commit: 4e79c98b92dfa4e1a9890ed8a291cdf564126466
+source-git-commit: eb37440a2917094aae8f32e9337b4c187ec6c1c2
 workflow-type: tm+mt
-source-wordcount: '576'
-ht-degree: 5%
+source-wordcount: '601'
+ht-degree: 4%
 
 ---
 
@@ -32,7 +32,8 @@ Last Modified Date: 2018-06-14T13:52:46.623-0400
 
  -->
 
-![Gedetailleerde weergave](/help/assets/image_0.img.png)
+![Gedetailleerde ](/help/assets/image_0.img.png)
+*weergaveGedetailleerde weergave waarbij het deelvenster Middelenbibliotheek verborgen is voor weergave aan de linkerkant.*
 
 >[!NOTE]
 >
@@ -42,10 +43,10 @@ Last Modified Date: 2018-06-14T13:52:46.623-0400
 
 Als u elementen nauwkeurig wilt bekijken, voorvertonen of bewerken, kunt u deze weergeven in de gedetailleerde weergave.
 
-1. Voer een van de volgende handelingen uit in het deelvenster Bladeren:
+1. Voer in het deelvenster Bladeren een van de volgende handelingen uit:
 
+   * Selecteer het element. Klik in de rechterbovenhoek van de Dynamic Media Classic op het pictogram **[!UICONTROL Detail View]**.
    * Dubbelklik op het element.
-   * Selecteer het element en klik op **[!UICONTROL Detail View]**.
    * Selecteer het element en klik op **[!UICONTROL File]** > **[!UICONTROL Details]**.
 
 >[!NOTE]
