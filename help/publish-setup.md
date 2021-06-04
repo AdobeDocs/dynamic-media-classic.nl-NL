@@ -7,10 +7,9 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 feature: Dynamic Media Classic
 role: Administrator
 exl-id: 699d4c12-e47b-4c6b-86f3-dc7aaaa56c1e
-translation-type: tm+mt
-source-git-commit: c4e2b8b42b56420269087d0d4f262490464270c0
+source-git-commit: 35c62fb1f4f136c06ccfbfd80f918462e839d931
 workflow-type: tm+mt
-source-wordcount: '2379'
+source-wordcount: '2374'
 ht-degree: 0%
 
 ---
@@ -21,7 +20,7 @@ De pagina-instellingen voor Publicatie-instellingen bepalen hoe elementen standa
 
 Beheerders kunnen de standaardinstellingen op de pagina&#39;s Afbeeldingsserver, Afbeeldingsrenderer en Vignet wijzigen om standaardinstellingen voor het leveren van elementen van servers in te stellen.
 
-Als u de pagina&#39;s voor publicatie-instellingen wilt openen, klikt u op **Setup** > **Toepassingsinstellingen** > **Publicatie-instellingen**.
+Als u de pagina&#39;s voor publicatie-instellingen wilt openen, klikt u op **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Publish Setup]**.
 
 >[!NOTE]
 >
@@ -108,13 +107,13 @@ Met localisatie voegt een URL van de Server van het Beeld de `locale=` parameter
 
 `https://server/is/image/company/image?locale=de_DE`
 
-Bij ontvangst van de http-aanroep door de Image Server wordt de `locale=`-parameter geparseerd via het localeMap-veld in ****[!UICONTROL Setup]**** > ****[!UICONTROL Application Setup]**** > ****[!UICONTROL Publish Setup]**** > ****[!UICONTROL Image Server]**** > ****[!UICONTROL Localization Support]****-groep.
+Bij ontvangst van de http-aanroep door de Image Server wordt de `locale=`-parameter geparseerd via het localeMap-veld in **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Publish Setup]** > **[!UICONTROL Image Server]** > **[!UICONTROL Localization Support]**-groep.
 
 Het veld Landinstelling kaart bevat een lijst met items die zijn gescheiden met het verticale balksymbool (|).
 
 Elk item bestaat uit een door komma&#39;s gescheiden lijst met waarden. De eerste waarde is de onderzoekswaarde die door de `locale=` parameter wordt overgegaan. De resterende waarden zijn achtervoegsels/vervangingswaarden die vervolgens worden geprobeerd totdat er een bestaande afbeelding ontstaat.
 
-Of een achtervoegselwaarde of een vervangingswaarde wordt toegepast hangt van de Globale landinstelling in ****[!UICONTROL Setup]**** > ****[!UICONTROL Application Setup]**** > ****[!UICONTROL Publish Setup]**** > ****[!UICONTROL Image Server]**** > ****[!UICONTROL Localization Support]**** groep af.
+Of een achtervoegselwaarde of een vervangingswaarde wordt toegepast hangt van de Globale landinstelling in **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Publish Setup]** > **[!UICONTROL Image Server]** > **[!UICONTROL Localization Support]** groep af.
 
 >[!NOTE]
 >
