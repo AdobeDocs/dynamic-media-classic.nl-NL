@@ -136,8 +136,7 @@ Als u de nieuwste versie van de Adobe Dynamic Media Classic-bureaubladtoepassing
 
 1. Kopieer het APP-bestand naar **[!UICONTROL Applications]** met de volgende opdracht:
 
-   `rsync -a <mount_point_path>/Adobe\ Dynamic\ Media\ Classic.app /Applications/
-Unmount DMG - hdiutil detach <mount_point_path>`
+   `rsync -a <mount_point_path>/Adobe\ Dynamic\ Media\ Classic.app /Applications/ Unmount DMG - hdiutil detach <mount_point_path>`
 
 1. Wanneer u de toepassing opent, wordt de nieuwe pagina Klassieke aanmelding van Adobe Dynamic Media weergegeven:
 
