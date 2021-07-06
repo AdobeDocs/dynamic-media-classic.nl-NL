@@ -8,17 +8,16 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/managing_assets
 discoiquuid: 17d0bfd6-fc62-4ed6-8a51-7ac1a6bb96cc
 feature: Dynamic Media Classic, beheer van bedrijfsmiddelen, viewers
-role: Business Practitioner
+role: User
 exl-id: 7e6f652c-b197-4171-b11b-f532795f7cf2
-translation-type: tm+mt
-source-git-commit: c4e2b8b42b56420269087d0d4f262490464270c0
+source-git-commit: df689ff5a127bfbc400ca5331168d1ff7bb0b42e
 workflow-type: tm+mt
 source-wordcount: '942'
 ht-degree: 0%
 
 ---
 
-# Een voorvertoning weergeven van een element{#previewing-an-asset}
+# Een voorvertoning van een element weergeven{#previewing-an-asset}
 
 Met Voorvertonen kunt u zien hoe een digitaal element wordt weergegeven wanneer dit door een klant wordt bekeken. In Voorvertoning wordt de standaardviewer gebruikt die aan het element is toegewezen. Standaardviewers worden geconfigureerd in de toepassingsinstellingen.
 
@@ -42,7 +41,7 @@ Zie ook [Adobe Viewers Reference Library Examples](https://landing.adobe.com/en/
    * Selecteer in het venster Middelen van de rasterweergave of de lijstweergave één element en klik op **[!UICONTROL Preview]** bij de miniatuurafbeelding.
    * Klik op **[!UICONTROL Preview]** op de werkbalk boven het middelenvenster van de rasterweergave, lijstweergave of detailweergave.
 
-## Een voorvertoning weergeven van een element op basis van het type viewerplatform {#previewing-an-asset-based-on-viewer-platform-type}
+## Een voorvertoning weergeven van een element op basis van het viewerplatformtype {#previewing-an-asset-based-on-viewer-platform-type}
 
 U kunt de Lijst van de Kijker gebruiken om te voorproef hoe een middel op bepaald type van kijkersplatform zoals HTML5 verschijnt. Afhankelijk van het elementtype en de bijbehorende viewer die u hebt geselecteerd voor voorvertoning, zijn niet alle platforms beschikbaar in de Viewer List.
 
@@ -79,7 +78,7 @@ Voor een bepaald viewerplatform kunt u in het venster Viewer List visueel zien w
 
 1. Klik in de rechterbenedenhoek van het venster Viewer List op **[!UICONTROL Close]** om terug te keren naar het scherm Middelen.
 
-## Een voorvertoning weergeven van een afbeeldingselement op basis van de voorinstelling {#previewing-an-image-asset-based-on-its-image-preset}
+## Een voorvertoning weergeven van een afbeeldingselement op basis van de voorinstelling voor afbeelding {#previewing-an-image-asset-based-on-its-image-preset}
 
 U kunt een voorvertoning van een afbeeldingselement weergeven op basis van de voorinstelling Afbeelding om te zien hoe de afbeelding eruitziet wanneer deze dynamisch bij verschillende formaten wordt geleverd aan uw website of toepassing.
 
