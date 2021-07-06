@@ -8,17 +8,16 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/managing_assets
 discoiquuid: 553c95fc-0a41-4f06-af50-a62bc1438149
 feature: Dynamic Media Classic, beheer van bedrijfsmiddelen
-role: Business Practitioner
+role: User
 exl-id: cffeec19-43fd-4a97-bdcc-df81af108ddd
-translation-type: tm+mt
-source-git-commit: 1beb30b9eda4487dcd549034906079dee0b3149a
+source-git-commit: df689ff5a127bfbc400ca5331168d1ff7bb0b42e
 workflow-type: tm+mt
 source-wordcount: '528'
 ht-degree: 0%
 
 ---
 
-# De prullenmand beheren{#managing-the-trash-folder}
+# De map Prullenbak beheren{#managing-the-trash-folder}
 
 Items die u uit Dynamic Media Classic verwijdert, worden naar de map Prullenbak verplaatst. Het verwijderde bestand blijft zeven dagen in deze map staan totdat het wordt hersteld of definitief wordt verwijderd. U kunt verwijderde items controleren door op het pictogram **[!UICONTROL Trash]** onder aan de elementenbibliotheek te klikken en items op de mappagina Prullenbak weer te geven.
 
@@ -30,7 +29,7 @@ Als u items verwijdert uit de map Prullenmand, worden deze items definitief verw
 >
 >Elementen die naar de map Prullenmand zijn verplaatst, worden nog steeds geregistreerd bij Dynamic Media Classic. Als u een bestand probeert te uploaden dat dezelfde naam heeft als een verwijderd bestand in de map met prullenmand, behandelt Dynamic Media Classic het element dat u wilt uploaden als een gedupliceerd element. Er wordt dan een nummer aan de naam toegevoegd.
 
-## Informatie over de map Prullenbak {#about-the-trash-folder}
+## De map Prullenbak {#about-the-trash-folder}
 
 Als u een item in een map verwijdert, wordt het item in de map Prullenbak geplaatst. Het volgende gebeurt wanneer u een item verwijdert en naar de map Prullenbak verplaatst:
 
@@ -48,7 +47,7 @@ Ga als volgt te werk om middelen van de map Prullenmand te herstellen naar de ma
 1. Selecteer de elementen die u wilt herstellen.
 1. Klik op **[!UICONTROL File]** > **[!UICONTROL Restore from trash]**.
 
-## Elementen definitief verwijderen in de map met prullenmand {#permanently-deleting-assets-in-the-trash-folder}
+## Elementen definitief verwijderen in de map Prullenbak {#permanently-deleting-assets-in-the-trash-folder}
 
 Wanneer u middelen in de omslag van het Afval schrapt, worden de activa permanent geschrapt. Middelen worden na zeven dagen automatisch uit de prullenmand verwijderd.
 
