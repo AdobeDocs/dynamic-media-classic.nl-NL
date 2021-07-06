@@ -8,10 +8,9 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/master_files
 discoiquuid: 99dfa476-4f11-4569-a27e-a76ed7787674
 feature: Dynamic Media Classic, beheer van bedrijfsmiddelen
-role: Business Practitioner
+role: User
 exl-id: aec4c256-f5ed-4307-afec-dec848be95f9
-translation-type: tm+mt
-source-git-commit: 4e79c98b92dfa4e1a9890ed8a291cdf564126466
+source-git-commit: df689ff5a127bfbc400ca5331168d1ff7bb0b42e
 workflow-type: tm+mt
 source-wordcount: '515'
 ht-degree: 0%
@@ -44,7 +43,7 @@ U kunt de transparante of effen kleurpixels uitsnijden vanaf de rand van een afb
 >
 >Als u de oorspronkelijke staat van een afbeelding wilt herstellen nadat u de afbeelding hebt bijgesneden, geeft u de afbeelding weer in de Crop Editor-scherm en klikt u op **[!UICONTROL Reset]**.
 
-## Selecteer een gebied om {#select-an-area-to-crop} uit te snijden
+## Een gebied selecteren voor uitsnijden {#select-an-area-to-crop}
 
 1. Als u een afbeelding wilt uitsnijden, klikt u op de rollover **[!UICONTROL Edit]** en kiest u **[!UICONTROL Crop]**, of geeft u deze weer in het deelvenster Bladeren in de gedetailleerde weergave en klikt u op **[!UICONTROL Crop]**.
 
@@ -64,6 +63,6 @@ U kunt de transparante of effen kleurpixels uitsnijden vanaf de rand van een afb
 >[!MORELIKETHIS]
 >
 >* [Opties voor het bewerken van afbeeldingen tijdens het uploaden](image-editing-options-upload.md#image-editing-options-at-upload)
->* [Witruimte uitsnijden vanuit een PDF-bestand](pdfs.md#cropping_white_space_from_a_pdf_file)
->* [Uitsnijden vanaf de zijkanten van PDF-pagina&#39;s](pdfs.md#cropping_from_the_sides_of_pdf_pages)
+* [Witruimte uitsnijden vanuit een PDF-bestand](pdfs.md#cropping_white_space_from_a_pdf_file)
+* [Uitsnijden vanaf de zijkanten van PDF-pagina&#39;s](pdfs.md#cropping_from_the_sides_of_pdf_pages)
 
