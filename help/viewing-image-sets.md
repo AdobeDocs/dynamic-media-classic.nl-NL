@@ -8,10 +8,9 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/image_sets
 discoiquuid: 027aa3e0-f085-48ae-aff9-7b805bbdf8ab
 feature: Dynamic Media Klassiek,Viewers,Afbeeldingssets
-role: Business Practitioner
+role: User
 exl-id: c8d742a4-a1a1-4b5f-bcfd-6a1972edf9bc
-translation-type: tm+mt
-source-git-commit: eb37440a2917094aae8f32e9337b4c187ec6c1c2
+source-git-commit: df689ff5a127bfbc400ca5331168d1ff7bb0b42e
 workflow-type: tm+mt
 source-wordcount: '466'
 ht-degree: 0%
@@ -44,7 +43,7 @@ U kunt Viewer-voorinstellingen maken en aanpassen aan uw wensen.
 
 1. Klik op **[!UICONTROL Save]** of **[!UICONTROL Save As]**.
 
-## Afbeeldingsset-elementen voorvertonen in een viewer {#previewing-image-set-assets-in-a-viewer}
+## Een voorvertoning weergeven van de elementen van een afbeeldingsset in een viewer {#previewing-image-set-assets-in-a-viewer}
 
 Met Voorvertoning kunt u zien hoe een element wordt weergegeven op een bepaald viewertype, zoals HTML5. Afhankelijk van het elementtype en de bijbehorende viewer die u hebt geselecteerd voor de voorvertoning, zijn niet alle platforms beschikbaar in Voorvertoning.
 
