@@ -7,10 +7,9 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 discoiquuid: b2bc3bf9-e313-481a-8670-c3bedde21b1a
 feature: Dynamic Media Classic, beheer van bedrijfsmiddelen
-role: Business Practitioner
+role: User
 exl-id: 8dfcfb3f-6472-4efd-bc87-d5111eee45ce
-translation-type: tm+mt
-source-git-commit: 1beb30b9eda4487dcd549034906079dee0b3149a
+source-git-commit: df689ff5a127bfbc400ca5331168d1ff7bb0b42e
 workflow-type: tm+mt
 source-wordcount: '3681'
 ht-degree: 0%
@@ -21,7 +20,7 @@ ht-degree: 0%
 
 Voordat u bestanden met elementen uploadt naar Dynamic Media Classic, moet u controleren of de elementbestanden een juiste naam hebben en of de mapstructuur op de gewenste manier is ingesteld en ingedeeld. U kunt bestanden uploaden vanaf een door Dynamic Media Classic geleverde FTP-site of rechtstreeks vanaf uw computer of netwerk. Dynamic Media Classic biedt opties voor het optimaliseren van bestanden terwijl u deze uploadt. Als u Adobe Dynamic Media Classic-bureaubladtoepassing hebt geïnstalleerd, kunt u bestanden en mappen uploaden door deze rechtstreeks vanaf uw bureaublad te slepen. Zie [Algemene instellingen van toepassing](application-setup.md#general_settings).
 
-## Elementen en mappen voorbereiden voor het uploaden van {#preparing-your-assets-and-folders-for-uploading}
+## Elementen en mappen voorbereiden voor uploaden {#preparing-your-assets-and-folders-for-uploading}
 
 Voordat u elementen uploadt naar Dynamic Media Classic, moet u ervoor zorgen dat deze de juiste indeling en grootte hebben. U moet ook de Klassieke Dynamic Media-regels voor het benoemen van elementen in acht nemen. Door een maporganisatie en -structuur voor de bestanden in te stellen, zorgt u ervoor dat u bestanden gemakkelijk kunt vinden en ermee kunt werken.
 
@@ -150,7 +149,7 @@ De benadering en structuur van mapnamen die u kiest voor het opslaan van uw inho
 
 **Spiegelen van maphiërarchie**  van websites - Deze mapstructuur weerspiegelt de mapstructuur van de website, met de mappen die bijvoorbeeld voor productcategorieën zijn genoemd.
 
-## Bestanden {#uploading-your-files} uploaden
+## Bestanden uploaden {#uploading-your-files}
 
 U kunt afzonderlijke bestanden uploaden vanaf het bureaublad of mappen uploaden via FTP. Als u meer dan 100 MB dossiers wilt uploaden of volledige omslagen en subfolders uploaden, selecteer **VIA FTP** tabel.
 
@@ -204,7 +203,7 @@ De naam van deze optie kan verschillen, afhankelijk van de instellingen in **[!U
 
 Als u een actieve uploadtaak wilt annuleren, klikt u op **[!UICONTROL Cancel]** naast de duur van de upload.
 
-## Dialoogvenster Taakopties uploaden {#upload-options}
+## Opties voor uploaden, dialoogvenster {#upload-options}
 
 Bij het uploaden van bestanden kunt u uit de volgende opties kiezen in het dialoogvenster Opties voor uploaden:
 
@@ -306,6 +305,6 @@ De nieuwe baan verzendt een bericht naar het adres u specificeert zodat de code 
 >[!MORELIKETHIS]
 >
 >* [Werken met middelenmappen](asset-folders.md#working_with_asset_folders)
->* [Herhalende upload- en publicatietaken afhandelen](checking-job-files.md#handling_recurring_upload_and_publish_jobs)
->* [Een upload- of publicatietaak gebruiken als trigger](checking-job-files.md#using_an_upload_or_publish_job_as_a_trigger)
+* [Herhalende upload- en publicatietaken afhandelen](checking-job-files.md#handling_recurring_upload_and_publish_jobs)
+* [Een upload- of publicatietaak gebruiken als trigger](checking-job-files.md#using_an_upload_or_publish_job_as_a_trigger)
 
