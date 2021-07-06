@@ -8,10 +8,9 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/managing_assets
 discoiquuid: 1c9e29f0-3083-4d22-a439-2a01faf59683
 feature: Dynamic Media Classic, beheer van bedrijfsmiddelen
-role: Business Practitioner
+role: User
 exl-id: 391eb7ce-ed89-47a8-a6c6-5adb3e95bf78
-translation-type: tm+mt
-source-git-commit: 38d09bb78834c6b3614bf2b96fd6aee5661e0a5a
+source-git-commit: df689ff5a127bfbc400ca5331168d1ff7bb0b42e
 workflow-type: tm+mt
 source-wordcount: '536'
 ht-degree: 0%
@@ -22,7 +21,7 @@ ht-degree: 0%
 
 U kunt elementen verplaatsen, hernoemen en verwijderen vanuit het deelvenster Bladeren. Bovendien kunt u veel elementen tegelijk met een tekstbestand verwijderen.
 
-## Elementen {#move-assets} verplaatsen
+## Elementen verplaatsen {#move-assets}
 
 U kunt elementen naar verschillende mappen verplaatsen in het deelvenster Bladeren.
 
@@ -31,7 +30,7 @@ U kunt elementen naar verschillende mappen verplaatsen in het deelvenster Blader
    * Geef de map weer waarnaar u de elementen wilt verplaatsen in de elementenbibliotheek en sleep de elementen naar de map.
    * Klik op **[!UICONTROL File]** > **[!UICONTROL Move]**, selecteer een map in het venster Elementen verplaatsen en selecteer **[!UICONTROL Move]**.
 
-## Naam van elementen wijzigen {#rename-assets}
+## Elementen hernoemen {#rename-assets}
 
 1. Selecteer het element in het deelvenster Bladeren en voer een van de volgende handelingen uit:
 
@@ -40,7 +39,7 @@ U kunt elementen naar verschillende mappen verplaatsen in het deelvenster Blader
 
 Zorg ervoor dat u de naam van een bestaand Dynamic Media Classic-element niet invoert.
 
-## Elementen {#delete-assets} verwijderen
+## Elementen verwijderen {#delete-assets}
 
 U kunt geselecteerde elementen verwijderen uit het deelvenster Bladeren en volledige mappen verwijderen. Verwijderde middelen en mappen worden naar de prullenmand verplaatst, waar ze zeven dagen blijven voordat ze definitief worden verwijderd.
 
@@ -61,7 +60,7 @@ Wanneer u een element verwijdert, worden ook alle elementen die ervan zijn afgel
 >
 >Dynamic Media Classic raadt aan elementbestanden te overschrijven in plaats van ze te verwijderen als het verwijderen van een elementbestand ertoe leidt dat het bestand met dezelfde naam door een ander bestand wordt vervangen.
 
-## Meerdere elementen verwijderen met een tekstbestand {#delete-multiple-assets-with-a-text-file}
+## Meerdere elementen met een tekstbestand verwijderen {#delete-multiple-assets-with-a-text-file}
 
 Als u veel elementen tegelijk wilt verwijderen uit de hele bibliotheek met middelen, kunt u de elementen die u wilt verwijderen, in een tekstbestand weergeven en de lijst naar Dynamic Media Classic verzenden.
 
@@ -78,6 +77,6 @@ Wanneer u elementen met een tekstbestand verwijdert en geen enkele klassieke Dyn
 >[!MORELIKETHIS]
 >
 >* [Elementen selecteren in het deelvenster Bladeren](selecting-assets-browse-panel.md#selecting_assets_in_the_browse_panel)
->* [Elementen en mappen voorbereiden voor uploaden](uploading-files.md#preparing_your_assets_and_folders_for_uploading)
->* [Elementen herstellen vanuit de map Prullenmand](trash-folder.md#restoring_assets_from_the_trash_folder)
+* [Elementen en mappen voorbereiden voor uploaden](uploading-files.md#preparing_your_assets_and_folders_for_uploading)
+* [Elementen herstellen vanuit de map Prullenmand](trash-folder.md#restoring_assets_from_the_trash_folder)
 
