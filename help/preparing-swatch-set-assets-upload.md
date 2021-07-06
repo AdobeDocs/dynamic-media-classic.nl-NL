@@ -8,15 +8,14 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/swatch_sets
 discoiquuid: 0c851ecd-be05-46a9-8654-3d028f3217a4
 feature: Dynamic Media Classic,Viewers
-role: Business Practitioner
-translation-type: tm+mt
-source-git-commit: e727c1b5fb43c7def842ff1bafcc8b3ef3437cde
+role: User
+exl-id: 90216519-4b14-4f8b-8e72-3d7ce9ec89ff
+source-git-commit: df689ff5a127bfbc400ca5331168d1ff7bb0b42e
 workflow-type: tm+mt
-source-wordcount: '178'
+source-wordcount: '176'
 ht-degree: 0%
 
 ---
-
 
 # Staalsets voorbereiden voor uploaden{#preparing-swatch-set-assets-for-upload}
 
