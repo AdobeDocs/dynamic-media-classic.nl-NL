@@ -7,17 +7,16 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 discoiquuid: 6c123f85-3bc4-4392-a7fb-55618127c65e
 feature: Dynamic Media Klassiek,Viewers,Viewer Voorinstellingen,eCatalog
-role: Business Practitioner
+role: User
 exl-id: 4357e6b8-fbc5-4e93-9476-db92a7dc7464
-translation-type: tm+mt
-source-git-commit: 6f3801a71dd2a5f162acacf7d8199dbf8c3520f7
+source-git-commit: df689ff5a127bfbc400ca5331168d1ff7bb0b42e
 workflow-type: tm+mt
 source-wordcount: '465'
 ht-degree: 0%
 
 ---
 
-# Voorinstellingen voor eCatalog-viewer instellen{#setting-up-ecatalog-viewer-presets}
+# Voorinstellingen eCatalog-viewer instellen{#setting-up-ecatalog-viewer-presets}
 
 De eCatalog Viewer-voorinstellingen bepalen de stijl, het gedrag en de vormgeving van eCatalog-viewers. Dynamic Media Classic biedt voorinstellingen voor eCatalog-viewers en u kunt ook uw eigen voorinstellingen voor eCatalog-viewers maken als beheerder.
 
