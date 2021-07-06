@@ -8,10 +8,9 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/zoom
 discoiquuid: 34a99fd0-8148-41d4-843a-909637542dd9
 feature: Dynamic Media Klassiek,Viewers,Zoomen
-role: Business Practitioner
+role: User
 exl-id: 74cf0346-be79-4916-8a98-16865c3ba3de
-translation-type: tm+mt
-source-git-commit: c4e2b8b42b56420269087d0d4f262490464270c0
+source-git-commit: df689ff5a127bfbc400ca5331168d1ff7bb0b42e
 workflow-type: tm+mt
 source-wordcount: '144'
 ht-degree: 0%
@@ -26,7 +25,7 @@ Bij het publiceren worden uw zoomafbeeldingen op Dynamic Media Image Servers gep
 
 Afbeeldingen moeten zijn gemarkeerd voor publicatie zodat ze naar Dynamic Media Image Servers kunnen worden gekopieerd. U kunt uw afbeeldingen voor publicatie markeren in het deelvenster Bladeren door het pictogram **[!UICONTROL Mark for Publish]** te selecteren. U kunt afbeeldingen ook markeren voor publicatie wanneer u ze uploadt.
 
-## Afbeeldingen {#publishing-the-images} publiceren
+## De afbeeldingen publiceren {#publishing-the-images}
 
 Als u zoomafbeeldingen wilt publiceren, klikt u op **[!UICONTROL Publish]** op de algemene navigatiebalk en selecteert u een **[!UICONTROL When]**-optie (**[!UICONTROL One-Time]** of **[!UICONTROL Recurring]**). U kunt desgewenst een naam voor de publicatietaak invoeren. Klik **Publiceren verzenden**.
 
