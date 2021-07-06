@@ -6,10 +6,9 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/video
 feature: Dynamic Media Klassiek,Viewers,Video
-role: Business Practitioner
+role: User
 exl-id: 1157400c-b33a-422e-848c-258660ddc748
-translation-type: tm+mt
-source-git-commit: 1beb30b9eda4487dcd549034906079dee0b3149a
+source-git-commit: df689ff5a127bfbc400ca5331168d1ff7bb0b42e
 workflow-type: tm+mt
 source-wordcount: '1377'
 ht-degree: 0%
@@ -126,7 +125,7 @@ Als u video wilt integreren in uw website, kunt u een van de volgende handelinge
 
    >[!NOTE]
    >
-   >URL&#39;s worden pas geactiveerd nadat u de video of de adaptieve videoset hebt gepubliceerd.
+   >URL&#39;s worden alleen geactiveerd nadat u de video of de adaptieve videoset hebt gepubliceerd.
 
 * Geef de video weer die is ingesloten op de webpagina, in welk geval de functie **[!UICONTROL Embed Code]** wordt gebruikt.
 
