@@ -8,10 +8,9 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/target_integration
 discoiquuid: 59b6437d-c21e-4929-9291-3032dbb34565
 feature: Dynamic Media Classic
-role: Data Engineer,Administrator,Business Practitioner
+role: Data Engineer,Admin,User
 exl-id: 05f2cce0-72bf-4933-87ab-c9003c848e35
-translation-type: tm+mt
-source-git-commit: 7456226cf6469f40e66ff327475d4c605b6d6e13
+source-git-commit: df689ff5a127bfbc400ca5331168d1ff7bb0b42e
 workflow-type: tm+mt
 source-wordcount: '1156'
 ht-degree: 0%
@@ -34,7 +33,7 @@ Dynamic Media Classic bevat gereedschappen voor bewerking en het maken van aanbi
 >
 >Voordat u een set voorstellen maakt, moet u alle elementen publiceren die u voor de set naar Dynamic Media Classic wilt gebruiken. Zie [Elementen handmatig publiceren](publishing-files.md#manually_publishing_assets) en [Publicaties van elementen handmatig ongedaan maken](publishing-files.md#manually_unpublishing_assets).
 
-## Soorten aanbiedingsreeksen {#types-of-offer-sets}
+## Soorten aanbiedingen {#types-of-offer-sets}
 
 Maak een set aanbiedingen op basis van de volgende soorten aanbiedingen:
 
@@ -138,7 +137,7 @@ Zie ook [Elementen handmatig publiceren](publishing-files.md#manually_publishing
 1. Als u klaar bent met bewerken, controleert u of **[!UICONTROL Publish after save]** is geselecteerd (standaard) in de rechterbenedenhoek van de pagina.
 1. Klik **[!UICONTROL Save]**, selecteer een opslagomslag, ga een naam voor de reeks in, en klik dan **[!UICONTROL Save]**.
 
-## Een aangeboden set {#deleting-an-offer-set} verwijderen
+## Een set voorstellen verwijderen {#deleting-an-offer-set}
 
 Wanneer u een set voorstellen verwijdert, wordt de set zelf naar de prullenbak verplaatst. De leden (of &quot;kinderen&quot;) in die reeks worden echter niet beïnvloed; in plaats daarvan behouden zij elk hun bestaande gepubliceerde of niet - gepubliceerde staat .
 
