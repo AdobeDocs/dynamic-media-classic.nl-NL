@@ -6,10 +6,9 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/zoom
 feature: Dynamic Media Klassiek,Viewers,Zoomen
-role: Business Practitioner
+role: User
 exl-id: 2073d95b-1600-481f-8038-d29e8acacf7d
-translation-type: tm+mt
-source-git-commit: 38d09bb78834c6b3614bf2b96fd6aee5661e0a5a
+source-git-commit: df689ff5a127bfbc400ca5331168d1ff7bb0b42e
 workflow-type: tm+mt
 source-wordcount: '614'
 ht-degree: 0%
@@ -24,7 +23,7 @@ Via URL-tekenreeksen of ingesloten code krijgen uw websites en toepassingen toeg
 >
 >De URL is pas actief als u het element publiceert.
 
-## URL van een zoomviewer {#copying-a-zoom-viewer-url} kopiëren
+## URL van een zoomviewer kopiëren {#copying-a-zoom-viewer-url}
 
 1. Navigeer in het deelvenster Elementenbibliotheek aan de linkerkant naar de elementenmap die de zoomviewer bevat waarvan u de URL wilt kopiëren.
 1. Voer boven het deelvenster Asset Browse een van de volgende handelingen uit aan de rechterkant van de werkbalk:
@@ -48,7 +47,7 @@ Doorgaans zoomen bezoekers op afbeeldingen op een website door eerst een zoompic
 
 Zie [HTML5 Basic Zoom Viewer insluiten in de Adobe Viewers Reference Guide](https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/library/viewers-aem-assets-dmc/basic-zoom/c-html5-20-basic-zoom-viewer-about.html#section-e1c3106f5b3e445d9b95be337c2f94e2) voor meer informatie en codevoorbeelden.
 
-## De ingesloten kopie van een zoomviewer {#copying-the-embed-copy-of-a-zoom-viewer} kopiëren
+## De ingesloten kopie van een zoomviewer kopiëren {#copying-the-embed-copy-of-a-zoom-viewer}
 
 Met de functie Code insluiten kunt u de viewercode voor de geselecteerde zoomviewer controleren. U kunt de code ook naar het klembord kopiëren, zodat u de code op uw webpagina&#39;s kunt plakken en de viewer kunt implementeren. Het bewerken van de code is niet toegestaan in het dialoogvenster Code insluiten.
 
