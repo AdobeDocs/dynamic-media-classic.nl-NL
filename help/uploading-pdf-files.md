@@ -7,21 +7,20 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 discoiquuid: 0097cba5-c886-4115-bc35-7ae7a500202f
 feature: Dynamic Media Classic,Viewers,eCatalog
-role: Business Practitioner
+role: User
 exl-id: a787d6b5-48c8-4cf7-b136-60ba3d3eb2f2
-translation-type: tm+mt
-source-git-commit: 06bd65c92c88595786b14213944a7cebd0d2590b
+source-git-commit: df689ff5a127bfbc400ca5331168d1ff7bb0b42e
 workflow-type: tm+mt
 source-wordcount: '734'
 ht-degree: 0%
 
 ---
 
-# PDF-bestanden uploaden{#uploading-the-pdf-files}
+# De PDF-bestanden uploaden{#uploading-the-pdf-files}
 
 Adobe PDF-bestanden zijn doorgaans de bron voor een eCatalog. Deze bestanden bevatten alle afbeeldingsgegevens, lettertypen en vectorafbeeldingen. U kunt ook een eCatalog met afbeeldingen maken. Nadat u de PDF-bestanden voor uploaden hebt voorbereid, klikt u op **[!UICONTROL Upload]** op de algemene navigatiebalk om de PDF&#39;s te uploaden.
 
-## PDF-bestanden {#preparing-your-pdf-files} voorbereiden
+## PDF-bestanden voorbereiden {#preparing-your-pdf-files}
 
 PDF-bestanden voorbereiden voordat u ze uploadt naar Dynamic Media Classic:
 
@@ -33,7 +32,7 @@ PDF-bestanden voorbereiden voordat u ze uploadt naar Dynamic Media Classic:
 
    Zie [ICC-profielen](icc-profiles.md#icc_profiles).
 
-## Aanbevolen procedures voor het uploaden van PDF&#39;s {#best-practice-pdf-upload-options}
+## Aanbevolen opties voor uploaden naar PDF {#best-practice-pdf-upload-options}
 
 Zie [Uw bestanden uploaden](uploading-files.md#uploading_your_files) voor gedetailleerde informatie over de verschillende uploadmethoden.
 
