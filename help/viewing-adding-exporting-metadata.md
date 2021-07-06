@@ -8,10 +8,9 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/managing_assets
 discoiquuid: 5414b4f5-6e05-468c-8725-385423596342
 feature: Dynamic Media Classic, Asset Management, metagegevens
-role: Business Practitioner
+role: User
 exl-id: 2be50cc7-9a8b-4f7b-8ebf-18a3208654f2
-translation-type: tm+mt
-source-git-commit: 06bd65c92c88595786b14213944a7cebd0d2590b
+source-git-commit: df689ff5a127bfbc400ca5331168d1ff7bb0b42e
 workflow-type: tm+mt
 source-wordcount: '2184'
 ht-degree: 0%
@@ -28,7 +27,7 @@ Sommige metagegevens worden rechtstreeks in een bestand ingesloten. Als een best
 
 Zie [www.adobe.com/go/learn_s7_xmp_en](https://www.adobe.com/go/learn_s7_xmp_en) voor meer informatie over ingesloten metagegevens.
 
-## Metagegevens {#view-metadata} weergeven
+## Metagegevens weergeven {#view-metadata}
 
 Als u de metagegevens van een element wilt weergeven, opent u het element in de gedetailleerde weergave en tikt u op het deelvenster Metagegevens. Als u een set metagegevensvelden wilt selecteren, kiest u een optie in het menu Weergave metagegevens. Dynamic Media Classic biedt de volgende weergaven van metagegevens:
 
@@ -42,7 +41,7 @@ Beheerders kunnen weergaven van metagegevens maken. Deze weergaven worden ook we
 
 Zie [Weergaven van metagegevens](application-setup.md#metadata_views) voor informatie over het maken van weergaven van metagegevens.
 
-## Voer handmatig metagegevens in voor een element {#manually-enter-metadata-for-an-asset}
+## Metagegevens voor een element handmatig invoeren {#manually-enter-metadata-for-an-asset}
 
 1. Open het element in de gedetailleerde weergave.
 1. Open het deelvenster Metagegevens en voer een of beide van de volgende handelingen uit:
@@ -56,7 +55,7 @@ Zie [Weergaven van metagegevens](application-setup.md#metadata_views) voor infor
 >
 >Als u de metagegevens van verschillende elementen tegelijk wilt bewerken, selecteert u de elementen en klikt u op **[!UICONTROL File]** > **[!UICONTROL Edit Info]**. Wijzigingen die u aanbrengt in metagegevens in het venster Info bewerken, worden toegepast op alle elementen die u hebt geselecteerd.
 
-## Trefwoorden {#add-or-edit-keywords} toevoegen of bewerken
+## Trefwoorden toevoegen of bewerken {#add-or-edit-keywords}
 
 Naast metagegevens kunt u ook trefwoorden gebruiken voor het zoeken en beheren van uw elementen.
 
@@ -76,7 +75,7 @@ Als u tijdens deze sessie trefwoorden hebt toegevoegd aan andere bestanden of al
 >U kunt trefwoorden aan bestanden toevoegen terwijl u deze uploadt naar Dynamic Media Classic. Kies **[!UICONTROL Additional Metadata]** in het dialoogvenster Taakopties uploaden en voer trefwoorden in.
 >Zie [Opties voor uploaden](uploading-files.md#upload_options).
 
-## Metagegevens {#import-metadata} importeren
+## Metagegevens importeren {#import-metadata}
 
 In plaats van handmatig metagegevens één element tegelijk in te voeren, kunt u metagegevens voor veel verschillende elementen importeren uit een door tabs gescheiden of XML-bestand. Het invoeren van de metagegevens in een door tabs gescheiden of XML-bestand en het importeren van het bestand neemt minder tijd in beslag dan het invoeren van metagegevens in afzonderlijke elementen. Voer in de eerste rij van het door tabs gescheiden bestand de id in en de namen van velden waarvoor u metagegevens wilt opnemen. Voer in elke volgende rij de naam van een element-id in, gevolgd door metagegevenswaarden. Velden die niet zijn opgenomen in het door tabs gescheiden of XML-bestand, worden niet gewijzigd. Als u metagegevens uit een XML-bestand wilt importeren, moet u controleren of u voldoet aan de DTD.
 
@@ -134,9 +133,9 @@ Zorg ervoor dat de gegevens in het door tabs gescheiden of XML-bestand de juiste
 
 Klik op **[!UICONTROL Upload]** op de algemene navigatiebalk. Als u de metagegevens wilt importeren, klikt u op het tabblad **[!UICONTROL Via FTP]** op **[!UICONTROL Job Options]**. Klik in het dialoogvenster Taakopties uploaden op **[!UICONTROL Job]** en schakel vervolgens **[!UICONTROL Process metadata files]** in.
 
-## Naam van id&#39;s wijzigen in batch met metagegevens {#batch-rename-ids-using-metadata}
+## Naam-id&#39;s wijzigen in batch met metagegevens {#batch-rename-ids-using-metadata}
 
-Met metagegevens die zijn geïmporteerd uit een door tabs gescheiden bestand of XML-bestand, kunt u de naam van Klassieke Dynamic Media-id&#39;s wijzigen. De geïmporteerde metagegevens worden alleen toegepast op de afbeeldingen die in het metagegevensbestand zelf zijn opgegeven. Het maakt niet uit of afbeeldingen zijn geselecteerd in het deelvenster Bladeren.
+Met metagegevens die zijn geïmporteerd uit een door tabs gescheiden bestand of XML-bestand, kunt u de naam van klassieke Dynamic Media-id&#39;s wijzigen. De geïmporteerde metagegevens worden alleen toegepast op de afbeeldingen die in het metagegevensbestand zelf zijn opgegeven. Het maakt niet uit of afbeeldingen zijn geselecteerd in het deelvenster Bladeren.
 
 Als u de naam van de klassieke Dynamic Media-id van een afbeelding wilt wijzigen, voegt u een kolom met het label *newipsid* toe aan het bestand met tabs als scheidingsteken of voegt u een veld met de naam `new_vc_objectname` toe aan de XML-gegevens.
 
@@ -149,7 +148,7 @@ Bijvoorbeeld:
 
 In het taaklogboek voor de metagegevenstaak wordt aangegeven welke id&#39;s zijn hernoemd en welke niet.
 
-## Een sjabloon maken voor het invoeren van metagegevens om {#create-a-template-for-entering-metadata-to-upload} te uploaden
+## Een sjabloon maken voor het invoeren van te uploaden metagegevens {#create-a-template-for-entering-metadata-to-upload}
 
 Dynamic Media Classic biedt een opdracht voor het maken van een sjabloon voor het opnemen van metagegevens. Als u de sjabloon gebruikt, worden de metagegevens ingevoerd in de juiste indeling, zodat ze correct kunnen worden geüpload naar Dynamic Media Classic. Voer de volgende stappen uit om een sjabloon te maken voor het opnemen en importeren van metagegevens naar Dynamic Media Classic:
 
@@ -217,5 +216,5 @@ Wanneer de eigenschap de structuur Open Keuze of Gesloten Keuze heeft, moet u te
 >[!MORELIKETHIS]
 >
 >* [Voorinstellingen viewer](application-setup.md#viewer_presets)
->* [Voorinstellingen metagegevens](application-setup.md#metadata_presets)
+* [Voorinstellingen metagegevens](application-setup.md#metadata_presets)
 
