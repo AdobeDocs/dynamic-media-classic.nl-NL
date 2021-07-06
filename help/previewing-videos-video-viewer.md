@@ -8,17 +8,16 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/video
 discoiquuid: 6a2e6df1-9186-42e2-9b85-01f132936c72
 feature: Dynamic Media Klassiek,Viewers,Video
-role: Business Practitioner
+role: User
 exl-id: b8d1a0b4-67ab-482d-a685-a087fb850143
-translation-type: tm+mt
-source-git-commit: c4e2b8b42b56420269087d0d4f262490464270c0
+source-git-commit: df689ff5a127bfbc400ca5331168d1ff7bb0b42e
 workflow-type: tm+mt
 source-wordcount: '736'
 ht-degree: 0%
 
 ---
 
-# Een voorvertoning weergeven van video&#39;s in een videoviewer{#previewing-videos-in-a-video-viewer}
+# Video&#39;s voorvertonen in een videoviewer{#previewing-videos-in-a-video-viewer}
 
 U kunt een voorvertoning weergeven van hoe een video eruitziet en hoe deze wordt afgespeeld in de Video-viewer.
 
@@ -91,5 +90,5 @@ Zie [Viewer Presets](application-setup.md#viewer_presets).
 >[!MORELIKETHIS]
 >
 >* [Aanbevolen procedures voor videocodering](uploading-encoding-videos.md#best_practices_for_video_encoding)
->* [Werken met voorinstellingen voor videocodering](uploading-encoding-videos.md#working_with_video_encoding_presets)
+* [Werken met voorinstellingen voor videocodering](uploading-encoding-videos.md#working_with_video_encoding_presets)
 
