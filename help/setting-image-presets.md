@@ -8,10 +8,9 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/image_sizing
 discoiquuid: 1ec39fe5-7b2a-4034-9570-6b5595f97052
 feature: Dynamic Media Klassiek, voorinstellingen afbeelding
-role: Business Practitioner
+role: User
 exl-id: 336802cc-b032-49b2-b2e6-d699bc997ee5
-translation-type: tm+mt
-source-git-commit: 7456226cf6469f40e66ff327475d4c605b6d6e13
+source-git-commit: df689ff5a127bfbc400ca5331168d1ff7bb0b42e
 workflow-type: tm+mt
 source-wordcount: '654'
 ht-degree: 10%
@@ -26,7 +25,7 @@ Dynamic Media Classic wordt geleverd met verschillende &quot;best practices&quot
 
 Afbeeldingen die kleiner worden wanneer ze dynamisch van een server worden geleverd, kunnen scherper en gedetailleerder worden. Daarom bevat elke voorinstelling voor afbeeldingen opmaakbesturingselementen waarmee u een afbeelding kunt optimaliseren wanneer deze met een bepaalde grootte wordt geleverd. Met deze besturingselementen zorgt u ervoor dat uw afbeeldingen scherp en duidelijk zijn wanneer ze aan uw website of toepassing worden geleverd.
 
-## Een voorinstelling {#creating-an-image-preset} voor afbeeldingen maken
+## Een voorinstelling voor afbeeldingen maken {#creating-an-image-preset}
 
 U kunt uw eigen Voorinstellingen voor afbeeldingen maken als u een bedrijfsbeheerder bent. U kunt nieuwe voorinstellingen voor afbeeldingen maken of beginnen met een standaardvoorinstelling voor afbeeldingen die beschikbaar is in Dynamic Media Classic, deze bewerken en opslaan onder een andere naam.
 
@@ -65,7 +64,7 @@ optiesVoer de hier weergegeven instellingen in:
    |--- |--- |--- |--- |--- |
    | Cross-Sell (miniatuur) | 75 x 75 | 1,5 | 0,8 | 5 |
    | Miniatuur | 150 x 150 | 1,1 | 1 | 5 |
-   | Hoofd | 350 x 350 | 1 | 1 | 6 |
+   | Hoofd | 350 x 350 | 1 | 3 | 6 |
    | Vergroten | 500 x 500 | 1,2 | 1,2 | 5 |
 
 1. Klik **Opslaan**.
@@ -86,6 +85,6 @@ Als u een voorinstelling voor afbeeldingen wilt verwijderen, selecteert u deze i
 >[!MORELIKETHIS]
 >
 >* [Voorinstellingen voor afbeeldingen maken en bewerken](application-setup.md#creating_and_editing_image_presets)
->* [Voorinstellingsopties voor afbeelding](application-setup.md#image_preset_options)
->* [Een voorvertoning weergeven van een afbeeldingselement op basis van de voorinstelling voor afbeelding](previewing-asset.md#previewing_an_image_asset_based_on_its_image_preset)
+* [Voorinstellingsopties voor afbeelding](application-setup.md#image_preset_options)
+* [Een voorvertoning weergeven van een afbeeldingselement op basis van de voorinstelling voor afbeelding](previewing-asset.md#previewing_an_image_asset_based_on_its_image_preset)
 
