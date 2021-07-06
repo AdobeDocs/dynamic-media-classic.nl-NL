@@ -9,10 +9,9 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 discoiquuid: a0941823-850c-4373-9e37-f32032de3805
 feature: Dynamic Media Klassiek,Viewers,Video
-role: Business Practitioner
+role: User
 exl-id: 93ad91d7-f3dd-484b-b62c-633fcb864bbf
-translation-type: tm+mt
-source-git-commit: 1beb30b9eda4487dcd549034906079dee0b3149a
+source-git-commit: df689ff5a127bfbc400ca5331168d1ff7bb0b42e
 workflow-type: tm+mt
 source-wordcount: '3778'
 ht-degree: 1%
@@ -146,7 +145,7 @@ In de volgende tabel worden de aanbevolen grootte, hoogte-breedteverhouding en m
 | 1280 x 720 | 16:9 | 3000 - 6000 kbps, afhankelijk van de hoeveelheid beweging in de video. |
 | 1920 x 1080 | 16:9 | 6000 - 8000 kbps, afhankelijk van de mate van beweging in de video. |
 
-### De metagegevens van een bestand {#obtaining-a-file-s-metadata} ophalen
+### De metagegevens van een bestand ophalen {#obtaining-a-file-s-metadata}
 
 U kunt de metagegevens van een bestand verkrijgen door de metagegevens van het bestand te bekijken in Dynamic Media Classic, met een programma voor videobewerking of met een toepassing die is ontworpen voor het verkrijgen van metagegevens. Hieronder vindt u instructies voor het gebruik van MediaInfo, een toepassing van derden, voor het verkrijgen van de metagegevens van een videobestand:
 
@@ -154,7 +153,7 @@ U kunt de metagegevens van een bestand verkrijgen door de metagegevens van het b
 1. Selecteer en download het installatieprogramma voor de GUI-versie en volg de installatie-instructies.
 1. Klik na de installatie met de rechtermuisknop op het videobestand (alleen Windows®) en selecteer MediaInfo, of open MediaInfo en sleep het videobestand naar de toepassing. U ziet alle metagegevens die aan het videobestand zijn gekoppeld, inclusief de breedte, hoogte en fps.
 
-### Verhouding {#aspect-ratio}
+### Hoogte-breedteverhouding {#aspect-ratio}
 
 Wanneer u een voorinstelling voor videocodering kiest of maakt voor het master videobestand, moet u ervoor zorgen dat de voorinstelling dezelfde hoogte-breedteverhouding heeft als het master videobestand. De *hoogte-breedteverhouding* is de verhouding tussen de breedte en de hoogte van de video.
 
@@ -231,7 +230,7 @@ In de Verenigde Staten en Japan wordt de meeste video opgenomen met een snelheid
 
 Kies een voorinstelling voor videocodering die overeenkomt met de fps-snelheid van het master videobestand. Als de master video bijvoorbeeld 25 fps is, kiest u een coderingsvoorinstelling met 25 fps. Standaard wordt voor alle aangepaste codering de fps van het master videobestand gebruikt. Daarom hoeft u de fps-instelling niet expliciet op te geven wanneer u een voorinstelling voor videocodering maakt.
 
-### Afmetingen van videocodering {#video-encoding-dimensions}
+### Afmetingen videocodering {#video-encoding-dimensions}
 
 Voor optimale resultaten selecteert u de coderingsafmetingen, zodat de bronvideo een volledig veelvoud van alle gecodeerde video&#39;s is.
 
@@ -285,7 +284,7 @@ Voor video-elementen die u uploadt en codeert in Dynamic Media Classic, wordt vi
 
 Elke andere video-indeling en codec wordt beschouwd als een &quot;Master video&quot;. Deze middelenclassificatie betekent dat de video een bronvideobestand is en niet kan worden gebruikt voor weergave op desktops of mobiele apparaten. U kunt deze typen video&#39;s bijvoorbeeld niet voorvertonen in Dynamic Media Classic. U kunt ook geen URL&#39;s kopiëren of code insluiten voor gebruik in videospelers, websites enzovoort.
 
-### De lijst met voorinstellingen voor videocodering filteren {#filtering-the-list-of-video-encoding-presets}
+### De lijst met videocoderingsvoorinstellingen filteren {#filtering-the-list-of-video-encoding-presets}
 
 De pagina Voorinstellingen video en de pagina Voorinstellingen adaptieve video bestaan uit een tabel met de actieve status, de naam van de voorinstelling, het beoogde afspeelapparaat, de videogrootte en de gegevenssnelheid van elke voorinstelling voor video.
 
@@ -366,7 +365,7 @@ Dynamic Media Classic heeft maximale limieten ingesteld voor de gegevenssnelheid
    * Klik op **[!UICONTROL Save]** als u een videovoorinstelling hebt toegevoegd of bewerkt.
    * Klik op **[!UICONTROL Save As]** als u een videovoorinstelling hebt toegevoegd door te beginnen met een bestaande voorinstelling.
 
-### Een voorinstelling voor videocodering {#deleting-a-video-encoding-preset} verwijderen
+### Een voorinstelling voor videocodering verwijderen {#deleting-a-video-encoding-preset}
 
 Beheerders kunnen aangepaste videovoorinstellingen verwijderen. Videovoorinstellingen die bij Dynamic Media Classic worden geleverd, kunnen niet worden verwijderd.
 
@@ -379,6 +378,6 @@ Beheerders kunnen aangepaste videovoorinstellingen verwijderen. Videovoorinstell
 >[!MORELIKETHIS]
 >
 >* [Snel starten: Video](quick-start-video.md#quick-start-video)
->* [Video&#39;s uploaden en coderen](uploading-encoding-videos.md#uploading-and-encoding-videos)
->* [Werken met voorinstellingen voor videoviewers](previewing-videos-video-viewer.md#working-with-video-viewer-presets)
+* [Video&#39;s uploaden en coderen](uploading-encoding-videos.md#uploading-and-encoding-videos)
+* [Werken met voorinstellingen voor videoviewers](previewing-videos-video-viewer.md#working-with-video-viewer-presets)
 
