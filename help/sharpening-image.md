@@ -8,17 +8,16 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/master_files
 discoiquuid: 11cd5362-d90a-4c1e-bfbd-46a65a554409
 feature: Dynamic Media Classic, beheer van bedrijfsmiddelen
-role: Business Practitioner
+role: User
 exl-id: 4b3e8368-f8f5-46d9-9130-361a8273de2c
-translation-type: tm+mt
-source-git-commit: 9d73e74ffc4a1e7e31c84720a9bae105b6afb1ae
+source-git-commit: df689ff5a127bfbc400ca5331168d1ff7bb0b42e
 workflow-type: tm+mt
 source-wordcount: '2128'
 ht-degree: 0%
 
 ---
 
-# Een afbeelding {#sharpening-an-image} verscherpen
+# Een afbeelding verscherpen {#sharpening-an-image}
 
 Verscherpen is een beeldbewerkingstechniek waarmee u de contouren van een digitale afbeelding duidelijker kunt maken. Bij het verscherpen wordt het contrast tussen de randpixels vergroot en wordt de overgang tussen donkere en lichte gebieden benadrukt. Door het verscherpen wordt het lokale contrast verhoogd en worden fijne details weergegeven. Er is geen strikte formule voor het correct verscherpen van alle afbeeldingen. Te weinig verscherping kan tot een zachte afbeelding leiden, maar te veel verscherpen voegt kransen, artefacten en ruis toe.
 
