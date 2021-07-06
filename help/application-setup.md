@@ -6,10 +6,9 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/setup
 feature: Dynamic Media Classic
-role: Administrator
+role: Admin
 exl-id: 3f96606e-ef5c-4c01-aa0f-3148f14e28be
-translation-type: tm+mt
-source-git-commit: 223bbacab2f244b91763de2ea324a5c8d777feb9
+source-git-commit: df689ff5a127bfbc400ca5331168d1ff7bb0b42e
 workflow-type: tm+mt
 source-wordcount: '10595'
 ht-degree: 3%
@@ -178,7 +177,7 @@ Zie [Slimme beeldverwerking](https://experienceleague.adobe.com/docs/experience-
 
 U kunt een Voorinstelling afbeelding bewerken door de naam ervan te selecteren in het scherm Voorinstellingen afbeelding en vervolgens op Bewerken te klikken. Als u een voorinstelling voor afbeeldingen wilt verwijderen, selecteert u deze en klikt u op Verwijderen.
 
-### Opties {#image-preset-options} voor voorinstellingen afbeelding
+### Voorinstellingsopties voor afbeelding {#image-preset-options}
 
 In het scherm Voorinstelling toevoegen en Voorinstelling bewerken vindt u de volgende opties voor het maken en bewerken van voorinstellingen voor afbeeldingen:
 
@@ -250,7 +249,7 @@ In het scherm Voorinstelling toevoegen en Voorinstelling bewerken vindt u de vol
 
 * **Voorbeeldafbeelding** URLList de &quot;raw&quot; URL-tekenreeks die de Dynamic Media Image Server gebruikt om afbeeldingen te leveren met de voorinstelling voor afbeeldingen die u toevoegt of bewerkt. Deze URL-tekenreeks codeert alle indelingsinstellingen die u selecteert in het scherm Voorinstelling toevoegen of Voorinstelling bewerken.
 
-### Een voorinstelling voor een afbeelding bewerken, verwijderen of deactiveren {#editing-removing-or-deactivating-an-image-preset}
+### Een afbeeldingsvoorinstelling bewerken, verwijderen of deactiveren {#editing-removing-or-deactivating-an-image-preset}
 
 1. Klik op **[!UICONTROL Setup]** > **[!UICONTROL Image Presets]**.
 1. Selecteer in het scherm Voorinstellingen afbeelding een voorinstelling in de tabel en voer een van de volgende handelingen uit:
@@ -259,7 +258,7 @@ In het scherm Voorinstelling toevoegen en Voorinstelling bewerken vindt u de vol
    * Klik op **[!UICONTROL Delete]** om de voorinstelling uit de lijst te verwijderen.
    * Schakel het selectievakje **[!UICONTROL Active]** naast de naam van een voorinstelling uit als u deze wilt verwijderen uit de volledige Dynamic Media Classic-gebruikersinterface voor MediaPortal-gebruikers.
 
-## Adaptieve videovoorinstellingen {#activating-or-deactivating-adaptive-video-presets} activeren of deactiveren
+## Aangepaste videovoorinstellingen activeren of deactiveren {#activating-or-deactivating-adaptive-video-presets}
 
 Dynamic Media Classic biedt voorinstellingen voor adaptieve videocodering. Het is een master lijst met voorinstellingen die zowel voorinstellingen voor 16:9 adaptieve video als voor 4:3 adaptieve video in één groep verenigt. Deze vooraf gedefinieerde voorinstellingen weerspiegelen de meest gangbare coderingsinstellingen en zijn geoptimaliseerd voor afspelen op mobiele doelapparaten, tablets en desktops.
 
@@ -349,7 +348,7 @@ Zie [Informatie over coderingsvoorinstellingsopties](application-setup.md#about_
 
 |  | Naam/knopinfotekst coderen | Doelverbindingssnelheid (Kbps) | Achtervoegsel van gecodeerd bestand | Videogegevenssnelheid (Kbps) | Breedte/Hoogte (pixels) | Fps | Audiobitsnelheid (kbps) | Recommendations |
 |--- |--- |--- |--- |--- |--- |--- |--- |--- |
-| 1 | 16:9, 512 x 288, mobiel (iPhone, iPad, Android™), (400 Kbps) | 500 | _Mobile_512x288_400K | 400 | 512x288 | Gelijk aan bron | 64 | Lage resolutie, 3G |
+| 3 | 16:9, 512 x 288, mobiel (iPhone, iPad, Android™), (400 Kbps) | 500 | _Mobile_512x288_400K | 400 | 512x288 | Gelijk aan bron | 64 | Lage resolutie, 3G |
 | 2 | 4:3, 384 x 288 px, mobiel (iPhone, iPad, Android™), (400 Kbps) | 500 | _Mobile_384x288_400K | 400 | 384x288 | Gelijk aan bron | 64 | Lage resolutie, 3G |
 | 1 | 16:9, 512 x 288, mobiel (iPhone, iPad, Android™), (600 Kbps) | 700 | _Mobile_512x288_600K | 800 | 512x288 | Gelijk aan bron | 64 | Normale resolutie, 3G |
 | 4 | 4:3, 384 x 288, mobiel (iPhone, iPad, Android™), (600 Kbps) | 700 | _Mobile_384x288_600 | 800 | 384x288 | Gelijk aan bron | 64 | Normale resolutie, 3G |
@@ -439,7 +438,7 @@ Verschillende webpagina&#39;s hebben verschillende behoeften. Soms wilt u een we
 
 Zie [Informatie over responsieve afbeeldingsbibliotheek](https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/image-serving-api/image-serving-api/responsive-static-image-library/c-about-responsive-static-image-library.html#image-serving-api), [Responsieve afbeeldingsbibliotheek gebruiken](https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/image-serving-api/image-serving-api/responsive-static-image-library/t-using-responsive-static-image-library.html#image-serving-api) en [Command reference - Command attributes](https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/image-serving-api/image-serving-api/responsive-static-image-library/t-using-responsive-static-image-library.html#responsive-static-image-library) voor meer informatie over het insluiten van responsieve viewers op uw webpagina&#39;s.
 
-### Typen voorinstellingen viewer {#viewer-preset-types}
+### Voorinstellingstypen voor viewer {#viewer-preset-types}
 
 Beheerders kunnen de volgende typen voorinstellingen voor viewers maken en aanpassen:
 
@@ -574,7 +573,7 @@ Het scherm Voorinstellingen viewer bevat gereedschappen voor de volgende taken:
 >
 >Klik op **[!UICONTROL Preview]** aan de rechterkant van de pagina Voorinstellingen viewer om te zien hoe een element eruitziet in de door u geselecteerde voorinstelling voor viewers. Als u een ander element wilt zien, klikt u op **[!UICONTROL Browse]** op de pagina Voorinstellingen viewer en selecteert u een ander element in het dialoogvenster Voorvertoning van element selecteren.
 
-### Viewer-voorinstellingen {#adding-and-editing-viewer-presets} toevoegen en bewerken
+### Viewer-voorinstellingen toevoegen en bewerken {#adding-and-editing-viewer-presets}
 
 Naast het toevoegen van voorinstellingen voor viewers met **[!UICONTROL Add]** in de gebruikersinterface, kunt u ook **[!UICONTROL Export]** gebruiken om een voorinstelling voor viewers toe te voegen. U exporteert gewoon een bestaande voorinstelling voor een HTML5-viewer en gebruikt deze als basis voor de nieuwe voorinstelling.
 
@@ -655,7 +654,7 @@ https://s7d1.scene7.com/is/image/Scene7SharedAssets/FullScreenButton_dark_sprite
 
    Zie [Voorinstellingen voor viewers toevoegen en bewerken](application-setup.md#adding_and_editing_viewer_presets).
 
-### Viewer-voorinstellingen {#activating-or-deactivating-viewer-presets} activeren of deactiveren
+### Viewer-voorinstellingen activeren of deactiveren {#activating-or-deactivating-viewer-presets}
 
 Als u een URL wilt maken voor het weergeven van elementen, opent u de vervolgkeuzelijst Voorinstellingen in het dialoogvenster Voorvertoning, selecteert u een voorinstelling voor de viewer en klikt u op URL kopiëren (zie [De URL van een voorinstelling voor de viewer kopiëren](application-setup.md#copying_the_url_of_a_viewer_preset)). Deze lijst met voorinstellingen bevat voorinstellingen voor viewers die beheerders toevoegen en beheren in het scherm Voorinstellingen viewer. Alle actieve voorinstellingen voor de eCatalog-viewer worden bijvoorbeeld weergegeven in de vervolgkeuzelijst Voorinstellingen in het dialoogvenster Voorvertoning wanneer een gebruiker een voorvertoning van een eCatalog weergeeft.
 
@@ -666,7 +665,7 @@ Tenzij u de Viewer-voorinstellingen in het scherm Voorinstellingen viewer deacti
 1. Kies **[!UICONTROL Setup]** > **[!UICONTROL Viewer Presets]**.
 1. Schakel op de pagina Voorinstellingen viewer de optie **[!UICONTROL Active]** in of uit om Voorinstellingen viewer te activeren of deactiveren.
 
-### De URL van een viewervoorinstelling {#copying-the-url-of-a-viewer-preset} kopiëren
+### De URL van een viewervoorinstelling kopiëren {#copying-the-url-of-a-viewer-preset}
 
 Nadat u een element hebt gepubliceerd, kunt u een URL kopiëren voor het weergeven van het element met de instellingen uit een voorinstelling voor de viewer.
 
@@ -688,7 +687,7 @@ De URL wordt naar het klembord gekopieerd. U kunt deze desgewenst gebruiken in d
    * Klik **[!UICONTROL Grid View]**, **[!UICONTROL List View]**, of **[!UICONTROL Detail View]**. Klik op **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]** op dezelfde werkbalk.
    Klik op **[!UICONTROL Copy URL]** onder de kolom Handelingen van de tabel in de Viewer List.
 
-### De insluitcode van een viewervoorinstelling {#copying-the-embed-code-of-a-viewer-preset} kopiëren
+### De insluitcode van een viewervoorinstelling kopiëren {#copying-the-embed-code-of-a-viewer-preset}
 
 Met de functie Code insluiten kunt u de viewercode voor de geselecteerde Viewer-voorinstelling controleren. U kunt de code ook naar het klembord kopiëren, zodat u de code op uw webpagina&#39;s kunt plakken en de viewer kunt implementeren.
 
@@ -713,7 +712,7 @@ Het bewerken van de code is niet toegestaan in het dialoogvenster Code insluiten
 1. Klik in het dialoogvenster Code insluiten op **[!UICONTROL Copy to Clipboard]**.
 1. Klik op **[!UICONTROL Close]**.
 
-## Standaardviewers {#configuring-default-viewers} configureren
+## Standaardviewers configureren {#configuring-default-viewers}
 
 U kunt Standaardviewers gebruiken om de standaardviewer te configureren die aan een element is gekoppeld wanneer u Voorvertoning in Dynamic Media Classic gebruikt. U kunt de standaardvoorbeeldervaring instellen voor de volgende elementtypen:
 
@@ -803,7 +802,7 @@ Een effectief gebruik van door de gebruiker gedefinieerde metagegevensvelden is 
 >
 >Als u wilt zoeken naar elementen met behulp van aangepaste, door de gebruiker gedefinieerde velden, klikt u op **[!UICONTROL Setup]** > **[!UICONTROL Personal Setup]** en selecteert u **[!UICONTROL Include UDFs in Search]**. Zie [Persoonlijke installatie](personal-setup.md#personal_setup).
 
-### Een door de gebruiker gedefinieerd metagegevensveld {#creating-a-user-defined-metadata-field} maken
+### Een door de gebruiker gedefinieerd metagegevensveld maken {#creating-a-user-defined-metadata-field}
 
 1. Klik op **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Metadata]** > **[!UICONTROL User-Defined Fields]**.
 1. Klik op **[!UICONTROL Add]**
@@ -841,7 +840,7 @@ Een effectief gebruik van door de gebruiker gedefinieerde metagegevensvelden is 
 
 1. Klik **[!UICONTROL Save]** wanneer u klaar bent met het creëren van het meta-gegevensgebied.
 
-### Door de gebruiker gedefinieerde velden {#manage-user-defined-fields} beheren
+### Door de gebruiker gedefinieerde velden beheren {#manage-user-defined-fields}
 
 Het scherm Door gebruiker gedefinieerde velden bevat opdrachten voor het beheer van aangepaste, door de gebruiker gedefinieerde metagegevensvelden.
 
@@ -1006,7 +1005,7 @@ Wanneer de Spin-set wordt geüpload en gepubliceerd, activeert u de naam van het
 >[!MORELIKETHIS]
 >
 >* [Een voorvertoning van een element weergeven](previewing-asset.md#previewing_an_asset)
->* [Voorinstellingen afbeelding instellen](setting-image-presets.md#setting_up_image_presets)
->* [Metagegevens weergeven, toevoegen en exporteren](viewing-adding-exporting-metadata.md#viewing_adding_and_exporting_metadata)
->* [Taakbestanden controleren](checking-job-files.md#checking_job_files)
+* [Voorinstellingen afbeelding instellen](setting-image-presets.md#setting_up_image_presets)
+* [Metagegevens weergeven, toevoegen en exporteren](viewing-adding-exporting-metadata.md#viewing_adding_and_exporting_metadata)
+* [Taakbestanden controleren](checking-job-files.md#checking_job_files)
 
