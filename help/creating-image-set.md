@@ -8,21 +8,20 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/image_sets
 discoiquuid: 3f356410-b30e-4870-ad95-6e5a9dc126c8
 feature: Dynamic Media Klassiek,Viewers,Afbeeldingssets
-role: Business Practitioner
+role: User
 exl-id: c18bb98c-b087-45d0-a4c9-44f58a3b514f
-translation-type: tm+mt
-source-git-commit: 7456226cf6469f40e66ff327475d4c605b6d6e13
+source-git-commit: df689ff5a127bfbc400ca5331168d1ff7bb0b42e
 workflow-type: tm+mt
 source-wordcount: '557'
 ht-degree: 0%
 
 ---
 
-# Afbeeldingsset maken{#creating-an-image-set}
+# Een afbeeldingsset maken{#creating-an-image-set}
 
 Als u een Afbeeldingsset met meerdere weergaven wilt maken, hebt u afbeeldingen nodig die een item vanuit verschillende gezichtspunten weergeven of verschillende aspecten van hetzelfde item weergeven. Het doel is om kijkers beelden van een punt te presenteren zodat krijgen zij een stevig idee van wat een punt kijkt of doet.
 
-## Afbeeldingsset maken {#create}
+## Een afbeeldingsset maken {#create}
 
 Wanneer u een set maakt, heeft de optie **Publiceren na opslaan** op de volgende manieren invloed op de set en stelt u leden in:
 
@@ -46,7 +45,7 @@ Zie ook [Elementen handmatig publiceren](publishing-files.md#manually_publishing
 1. Klik **[!UICONTROL Save]**, selecteer een omslag voor het opslaan van uw Reeks van het Beeld, ga een naam voor de reeks in, en klik dan **[!UICONTROL Save]**.
 1. Klik op **[!UICONTROL Preview]** op het scherm Afbeeldingsset om de Afbeeldingsset in de viewer voor de afbeeldingsset te zien. U kunt op staalminiaturen in de Vastgestelde viewer klikken om te zien hoe deze zich gedragen.
 
-## Afbeeldingsset {#editing-an-image-set} bewerken
+## Een afbeeldingsset bewerken {#editing-an-image-set}
 
 Of u een gepubliceerde of een niet-gepubliceerde set bewerkt, de optie **[!UICONTROL Publish after save]** heeft op de volgende manieren invloed op de set en stelt leden in:
 
