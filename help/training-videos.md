@@ -2,15 +2,14 @@
 title: Dynamic Media Classic Training Video's
 description: Dynamic Media Classic trainingsvideo's over aan de slag gaan, dynamische beeldbewerking, video, mediaportaal, sjablonen en het ontwerpen en renderen van afbeeldingen.
 feature: Dynamic Media Classic
-role: Administrator,Business Practitioner
-translation-type: tm+mt
-source-git-commit: e727c1b5fb43c7def842ff1bafcc8b3ef3437cde
+role: Admin,User
+exl-id: 21e67a41-16a2-4f41-8cfe-a5d7941c73a0
+source-git-commit: df689ff5a127bfbc400ca5331168d1ff7bb0b42e
 workflow-type: tm+mt
-source-wordcount: '6550'
+source-wordcount: '6547'
 ht-degree: 0%
 
 ---
-
 
 # Adobe Dynamic Media Classic Training Video&#39;s {#training-videos}
 
@@ -72,7 +71,7 @@ Dynamic Media Classic trainingsvideo&#39;s over aan de slag gaan, dynamische bee
 
 * [Overzicht van streaming](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&amp;emailurl=https://s7d5.scene7.com/s7/emailFriend&amp;serverUrl=https://s7d5.scene7.com/is/image/&amp;config=Scene7SharedAssets/Universal_HTML5_Video&amp;contenturl=https://s7d5.scene7.com/skins/&amp;asset=S7tutorials/567_Streaming%20Overview_master_eVideos_converted%20renamed_eVideos-AVS)
 
-## Mediaportaal {#media-portal-training}
+## Media Portal {#media-portal-training}
 
 * [Overzicht van Media Portal](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&amp;emailurl=https://s7d5.scene7.com/s7/emailFriend&amp;serverUrl=https://s7d5.scene7.com/is/image/&amp;config=Scene7SharedAssets/Universal_HTML5_Video&amp;contenturl=https://s7d5.scene7.com/skins/&amp;asset=S7tutorials/544_mp_overview1_converted%20renamed_Done-AVS)
 
@@ -84,7 +83,7 @@ Dynamic Media Classic trainingsvideo&#39;s over aan de slag gaan, dynamische bee
 
 * [Overzicht van sjablonen](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&amp;emailurl=https://s7d5.scene7.com/s7/emailFriend&amp;serverUrl=https://s7d5.scene7.com/is/image/&amp;config=Scene7SharedAssets/Universal_HTML5_Video&amp;contenturl=https://s7d5.scene7.com/skins/&amp;asset=S7tutorials/553_Template%20Basics_converted%20renamed_Dynamic%20Banners-AVS)
 
-## Markeringen {#release-highlights} opheffen
+## Hooglichten opheffen {#release-highlights}
 
 * [SPS 6.0, update overzicht](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&amp;emailurl=https://s7d5.scene7.com/s7/emailFriend&amp;serverUrl=https://s7d5.scene7.com/is/image/&amp;config=Scene7SharedAssets/Universal_HTML5_Video&amp;contenturl=https://s7d5.scene7.com/skins/&amp;asset=S7tutorials/524_6.0%20Release%20Highlights_converted%20renamed_6.0%20Release%20Highlights-AVS)
 
@@ -98,7 +97,7 @@ Dynamic Media Classic trainingsvideo&#39;s over aan de slag gaan, dynamische bee
 
 * [SPS 6.5, update overzicht](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&amp;emailurl=https://s7d5.scene7.com/s7/emailFriend&amp;serverUrl=https://s7d5.scene7.com/is/image/&amp;config=Scene7SharedAssets/Universal_HTML5_Video&amp;contenturl=https://s7d5.scene7.com/skins/&amp;asset=S7tutorials/529_6.5%20highlights_2012.11.06%20-%20Scene7%20-%206.5%20Release%20Highlights_Scratch-AVS)
 
-## {#image-authoring-rendering-training}
+## Authoring en rendering van afbeeldingen {#image-authoring-rendering-training}
 
 Opleidingsvideo&#39;s over verschillende aspecten van het volgende:
 
@@ -112,7 +111,7 @@ Opleidingsvideo&#39;s over verschillende aspecten van het volgende:
 * [Maskeren](#masking)
 * [Renderen](#rendering)
 
-### {#colorizing} inkleuren
+### Inkleuren {#colorizing}
 
 Terugkeren naar [Ontwerpen en renderen van afbeeldingen](#image-authoring-rendering-training)
 
@@ -224,7 +223,7 @@ Terugkeren naar [Ontwerpen en renderen van afbeeldingen](#image-authoring-render
 
 * [PPI-waarden corrigeren](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&amp;emailurl=https://s7d5.scene7.com/s7/emailFriend&amp;serverUrl=https://s7d5.scene7.com/is/image/&amp;config=Scene7SharedAssets/Universal_HTML5_Video&amp;contenturl=https://s7d5.scene7.com/skins/&amp;asset=S7tutorials/605_03_correct%20PPI%20value_ia_04mrt-AVS)
 
-### Objecten {#overlap-objects} overlappen
+### Objecten overlappen {#overlap-objects}
 
 Terugkeren naar [Ontwerpen en renderen van afbeeldingen](#image-authoring-rendering-training)
 
@@ -256,7 +255,7 @@ Terugkeren naar [Ontwerpen en renderen van afbeeldingen](#image-authoring-render
 
 * [Hoekvlakken](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&amp;emailurl=https://s7d5.scene7.com/s7/emailFriend&amp;serverUrl=https://s7d5.scene7.com/is/image/&amp;config=Scene7SharedAssets/Universal_HTML5_Video&amp;contenturl=https://s7d5.scene7.com/skins/&amp;asset=S7tutorials/618_08_angled_planes_ia_06room3d-AVS)
 
-### Goedkope authoring {#apparel-authoring}
+### Apparel Authoring {#apparel-authoring}
 
 Terugkeren naar [Ontwerpen en renderen van afbeeldingen](#image-authoring-rendering-training)
 
@@ -301,7 +300,3 @@ Terugkeren naar [Ontwerpen en renderen van afbeeldingen](#image-authoring-render
 * [URL-opties renderen](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&amp;emailurl=https://s7d5.scene7.com/s7/emailFriend&amp;serverUrl=https://s7d5.scene7.com/is/image/&amp;config=Scene7SharedAssets/Universal_HTML5_Video&amp;contenturl=https://s7d5.scene7.com/skins/&amp;asset=S7tutorials/640_904_rendering_url_modifiers_ia_09rendering-AVS)
 
 * [Inleiding tot rendering](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&amp;emailurl=https://s7d5.scene7.com/s7/emailFriend&amp;serverUrl=https://s7d5.scene7.com/is/image/&amp;config=Scene7SharedAssets/Universal_HTML5_Video&amp;contenturl=https://s7d5.scene7.com/skins/&amp;asset=S7tutorials/642_IA009-Intro-Rendering_ia_09rendering-AVS)\
-
-
-
-
