@@ -7,11 +7,10 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/media_portal
 discoiquuid: 5e933045-ce1a-41b9-ba8b-2151c396b7a2
-feature: Dynamic Media Classic,Collaboration,Asset Management
-role: Administrator,Business Practitioner
+feature: Dynamic Media Classic,Samenwerking,Asset Management
+role: Admin,User
 exl-id: 9590c53c-fd38-4bf2-b723-cd7369702364
-translation-type: tm+mt
-source-git-commit: 31ac96e6fd11c47284d58540f5ec0135f0e6223b
+source-git-commit: df689ff5a127bfbc400ca5331168d1ff7bb0b42e
 workflow-type: tm+mt
 source-wordcount: '922'
 ht-degree: 0%
@@ -26,7 +25,7 @@ Als beheerder kunt u gebruikers toevoegen en beheren, beslissen of ze wachtwoord
 >
 >Voordat u gebruikers toevoegt, moet u groepen instellen voor het beheer ervan. Met Mediaportal kunt u geen gebruiker toevoegen zonder de gebruiker aan een of meer groepen toe te wijzen. Voor meer informatie, zie [Het creëren van en het leiden van de Poortgroepen van Media](creating-media-portal-groups.md#creating_and_managing_media_portal_groups).
 
-## Wachtwoorden {#handling-media-portal-passwords} voor Media Portal verwerken
+## Wachtwoorden voor Media Portal verwerken {#handling-media-portal-passwords}
 
 De gebruikers van het Portaal van media, de medewerkers, en de medewerker-gebruikers worden verzonden een welkome e-mailbericht met een wachtwoord wanneer u hen omhoog ondertekent. Beheerders kunnen bepalen of gebruikers van Media Portal dit wachtwoord kunnen wijzigen.
 
@@ -38,7 +37,7 @@ De gebruikers van het Portaal van media, de medewerkers, en de medewerker-gebrui
 >
 >Gebruikers van Media Portal die wachtwoorden mogen wijzigen, kunnen dit doen door op **[!UICONTROL Setup]** > **[!UICONTROL Personal Setup]** te klikken en wachtwoorden te wijzigen in het scherm Persoonlijke instellingen.
 
-## Een gebruiker {#adding-a-media-portal-user} aan een mediaportaal toevoegen
+## Een gebruiker van het Media Portal toevoegen {#adding-a-media-portal-user}
 
 1. Klik op **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Administration Setup]** > **[!UICONTROL User Administration]**.
 1. Voor de pagina van het Beleid van de Gebruiker, klik **Add**.
@@ -60,13 +59,13 @@ De gebruikers van het Portaal van media, de medewerkers, en de medewerker-gebrui
 
 Nadat u een gebruiker hebt toegevoegd, verzendt het Portaal van Media de gebruiker een Welkome e-mailbericht. Het bericht bevat een tijdelijk wachtwoord en de URL van het Media Portal.
 
-## Een gebruikerslijst voor een mediaportal uploaden {#uploading-a-media-portal-user-list}
+## Een gebruikerslijst voor een mediaportaal uploaden {#uploading-a-media-portal-user-list}
 
 Als u meerdere gebruikers wilt toevoegen, kunt u een gebruikerslijst uploaden. De gebruikers worden automatisch toegevoegd aan het geselecteerde account.
 
 Maak de gebruikerslijst als een CSV-bestand (met door komma&#39;s gescheiden waarden) dat de gebruikersgegevens bevat. Nadat de lijst is geüpload, worden de gebruikers in de lijst automatisch toegevoegd aan de account met hun opgegeven groepstoewijzingen. Een welkomste-mail wordt verzonden naar elke nieuwe gebruiker, met inbegrip van een verbinding aan het Portaal van Media en een tijdelijk wachtwoord.
 
-### Het CSV-bestand {#creating-the-csv-file} maken
+### Het CSV-bestand maken {#creating-the-csv-file}
 
 Maak een CSV-bestand (filename.csv) dat voldoet aan de volgende indeling en velden. De eerste rij van het bestand moet de kolomkoppen bevatten die in deze tabel staan. U kunt deze kolommen naar wens ordenen. Alle kolommen zijn vereist.
 
@@ -87,7 +86,7 @@ In het volgende voorbeeldwerkblad ziet u hoe u een CSV-bestand indeelt:
 | Rick | Bout | `rickb@myco.com` | welkom | MediaPortalUser | PortalCo/MktgGroup, PortalCo/test |
 
 
-### Het CSV-bestand {#uploading-the-csv-file} uploaden
+### Het CSV-bestand uploaden {#uploading-the-csv-file}
 
 1. Open het scherm van de Opstelling van het Beleid van de Gebruiker.
 1. Klik op **[!UICONTROL Upload User List]**.
@@ -99,7 +98,7 @@ Elke gebruiker in de lijst wordt automatisch toegevoegd aan de opgegeven groepen
 >
 >Als het CSV-bestand niet correct is opgemaakt, wordt het volgende foutbericht weergegeven: &quot;Er is een fout opgetreden tijdens het verwerken van het geüploade CSV-bestand. Controleer de inhoud van het bestand op geldige gegevens.&quot; Bovendien als CSV bestaande IP of IPS gebruiker bevat, wordt de gebruiker niet toegevoegd aan de Lijst van de Gebruiker.
 
-## Het produceren van een selecteerbare lijst van Poortgebruikers van Media {#generating-a-selectable-list-of-media-portal-users}
+## Het produceren van een selecteerbare lijst van gebruikers van het Portaal van Media {#generating-a-selectable-list-of-media-portal-users}
 
 U kunt de namen en e-mailadressen van gebruikers van het Portaal van Media in een pop-up venster tonen. Deze lijst is nuttig als u gebruikersnamen en adressen voor gebruik buiten het Portaal van Media wilt knippen en kleven.
 
@@ -121,7 +120,7 @@ U kunt een welkome e-mail verzenden wanneer u nieuwe gebruikers van het Portaal 
 
    * **[!UICONTROL Replacement URL]** - Voer een andere URL in dan de standaard als uw gebruikers toegang krijgen tot Dynamic Media Classic via een andere URL.
 
-## Andere gebruikerbeheertaken {#other-user-management-tasks}
+## Andere taken voor gebruikersbeheer {#other-user-management-tasks}
 
 Beginnend op het scherm van de Opstelling van het Beleid van de Gebruiker, kunt u deze taken ook doen:
 
