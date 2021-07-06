@@ -7,12 +7,11 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 discoiquuid: 0ff9e763-897c-4ba5-b606-a95d5e45f35e
 feature: Dynamic Media Classic,viewers,mediasets mengen
-role: Business Practitioner
+role: User
 exl-id: 18669c65-a1c4-4012-8587-cd5095f4bd4e
-translation-type: tm+mt
-source-git-commit: 7456226cf6469f40e66ff327475d4c605b6d6e13
+source-git-commit: f99832bc9660a16b06e63b19f9ead1267dab0f35
 workflow-type: tm+mt
-source-wordcount: '601'
+source-wordcount: '602'
 ht-degree: 0%
 
 ---
@@ -41,7 +40,7 @@ Zie ook [Elementen handmatig publiceren](publishing-files.md#manually_publishing
 
    >[!NOTE]
    >
-   >Gemengde mediasets ondersteunen geen elementen met bestandsnamen die een van de volgende tekens bevatten: `( ) { }`.
+   >Een gemengde mediaset ondersteunt geen elementen met bestandsnamen die een van de volgende tekens bevatten: `( ) { }`.
 
 1. Voer een van de volgende handelingen uit:
 
@@ -54,7 +53,7 @@ Zie ook [Elementen handmatig publiceren](publishing-files.md#manually_publishing
 
    Klik op **[!UICONTROL Preview]** om te zien hoe de set met comboafbeeldingen er in een Image Set Viewer uitziet.
 
-## Een gemengde mediaset {#edit-a-mixed-media-set} bewerken
+## Een gemengde mediaset bewerken {#edit-a-mixed-media-set}
 
 U kunt een gemengde Mediaset bewerken. Als u een set in een gemengde mediaset wilt bewerken, opent u die set afzonderlijk, bewerkt u de set en slaat u deze op. De bewerkingen worden weergegeven in de set Gemengde media.
 
@@ -80,7 +79,7 @@ Zie ook [Elementen handmatig publiceren](publishing-files.md#manually_publishing
 1. Als u klaar bent met het bewerken van de set, controleert u of **[!UICONTROL Publish after save]** is geselecteerd (standaard) in de rechterbenedenhoek van de pagina.
 1. Klik op **[!UICONTROL Save]** of **[!UICONTROL Save As]**.
 
-## Een gemengde mediaset {#deleting-a-mixed-media-set} verwijderen
+## Een gemengde mediaset verwijderen {#deleting-a-mixed-media-set}
 
 Wanneer u een set verwijdert, wordt de set zelf naar de prullenbak verplaatst. De leden (of &quot;kinderen&quot;) in die reeks worden echter niet beïnvloed; in plaats daarvan behouden zij elk hun bestaande gepubliceerde of niet - gepubliceerde staat .
 
