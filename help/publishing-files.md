@@ -6,10 +6,9 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/upload_and_publish_assets
 feature: Dynamic Media Classic, beheer van bedrijfsmiddelen
-role: Business Practitioner
+role: User
 exl-id: 91b73a09-c5b5-4001-b36f-6bebe65717ff
-translation-type: tm+mt
-source-git-commit: c4e2b8b42b56420269087d0d4f262490464270c0
+source-git-commit: df689ff5a127bfbc400ca5331168d1ff7bb0b42e
 workflow-type: tm+mt
 source-wordcount: '1685'
 ht-degree: 0%
@@ -45,7 +44,7 @@ Sommige &quot;onderliggende&quot; elementen worden automatisch gemarkeerd voor p
 
 Afgeleide afbeeldingen worden ook automatisch gemarkeerd voor publicatie wanneer de bovenliggende afbeeldingen worden gepubliceerd. Afgeleide afbeeldingen bevatten afbeeldingen die u hebt aangepast met opties voor het bewerken van afbeeldingen. U kunt deze afgeleide beelden in detail bekijken onder Bouwstijl &amp; Derivaten.
 
-## Een publicatietaak {#creating-a-publish-job} maken
+## Een publicatietaak maken {#creating-a-publish-job}
 
 Maak een publicatietaak om elementen te publiceren die u naar Dynamic Media Classic-servers hebt geüpload, maar publiceer deze nog niet automatisch. U kunt een eenmalige publicatietaak uitvoeren of taken plannen die regelmatig opnieuw worden uitgevoerd. Dynamic Media Classic biedt geavanceerde publicatieopties voor het publiceren naar specifieke servers en opties voor het opnieuw publiceren van middelen die al zijn gepubliceerd.
 
@@ -69,13 +68,13 @@ Dynamic Media Classic tracks publiceren taken op de pagina Taken. U kunt publica
 >
 >Elementen die u opnieuw publiceert (en die u eerder hebt gepubliceerd) worden niet direct op uw website weergegeven vanwege het mechanisme voor webcaching op het CDN (Content Delivery Network). Zie [Opnieuw gepubliceerde elementen en CDN-vertragingen](publishing-files.md#republished_assets_and_cdn_delays).
 
-### Eenmalige publicatietaak {#creating-a-one-time-publish-job} maken
+### Eenmalige publicatietaak maken {#creating-a-one-time-publish-job}
 
 Maak een eenmalige publicatietaak door de optie Eenmalig te selecteren op de pagina Publiceren.
 
 Als u wilt dat de publicatietaak later plaatsvindt, selecteert u **[!UICONTROL One-Time]** op de pagina Publiceren en klikt u vervolgens op **[!UICONTROL Schedule For Later]** vervolgkeuzelijst. Gebruik de schuifregelaar Kalender en Tijd om een dag en tijd te selecteren waarop u de publicatietaak wilt uitvoeren.
 
-### Een terugkerende publicatietaak {#creating-a-recurring-publish-job} maken
+### Een terugkerende publicatietaak maken {#creating-a-recurring-publish-job}
 
 Maak een terugkerende publicatietaak door **[!UICONTROL Recurring]** op de pagina Publiceren te selecteren.
 
@@ -101,7 +100,7 @@ U kunt de Geavanceerde opties weergeven op de pagina Publiceren en deze opties k
 
 Zie [Een upload- of publicatietaak gebruiken als trigger](checking-job-files.md#using_an_upload_or_publish_job_as_a_trigger).)
 
-## Een publicatietaak {#canceling-a-publish-job} annuleren
+## Een publicatietaak annuleren {#canceling-a-publish-job}
 
 U kunt een publicatietaak die wordt uitgevoerd, annuleren. Bovendien als u een beheerder bent, kunt u een lopende het publiceren baan van de pagina van Banen van het bedrijf annuleren.
 
@@ -111,7 +110,7 @@ Als u een publicatietaak wilt annuleren, gaat u naar de pagina Taken en klikt u 
 >
 >Nadat u een publicatietaak hebt geannuleerd, verandert de status in &quot;stoppen&quot; totdat de taak een punt bereikt waarop deze veilig kan stoppen. Het stoppen van een publicatietaak kan enige tijd duren als de taak bezig is gegevens uit de database op te halen.
 
-## Elementen {#manually-publishing-assets} handmatig publiceren
+## Elementen handmatig publiceren {#manually-publishing-assets}
 
 U kunt afzonderlijke elementen handmatig publiceren in plaats van een publicatietaak te maken. Wanneer u sets publiceert, zoals een Afbeeldingsset of een Adaptieve videoset, worden de set (of &quot;bovenliggend item&quot;) en alle leden (of &quot;onderliggende items&quot;) binnen die set gepubliceerd.
 
@@ -127,7 +126,7 @@ Niet-gepubliceerde elementen worden in de gebruikersinterface aangeduid met een 
 
    * Klik in de rasterweergave, lijstweergave of detailweergave op het grijze, ronde pictogram met een schuine streep erdoor, links van de naam van het element.
 
-## Publicatie van elementen {#manually-unpublishing-assets} handmatig ongedaan maken
+## Publicaties van elementen handmatig ongedaan maken {#manually-unpublishing-assets}
 
 U kunt de publicatie van afzonderlijke elementen handmatig ongedaan maken. Wanneer u de publicatie van sets, zoals een stalenset of een eCatalog, ongedaan maakt, wordt de set (of &quot;bovenliggend&quot;) zelf omgezet in een niet-gepubliceerde status. De leden (of &quot;kinderen&quot;) in die reeks worden echter niet beïnvloed; in plaats daarvan behouden zij elk hun bestaande gepubliceerde of niet - gepubliceerde staat .
 
@@ -143,11 +142,11 @@ Gepubliceerde elementen worden in de gebruikersinterface aangeduid met een rond,
 
    * Klik in de rasterweergave, de lijstweergave of de detailweergave op het ronde groene vinkje links van de naam van het element.
 
-## De publicatiegeschiedenis van een element {#getting-an-asset-s-publish-history} ophalen
+## De publicatiegeschiedenis van een element ophalen {#getting-an-asset-s-publish-history}
 
 De laatste datum waarop een element is gepubliceerd, wordt weergegeven in de gedetailleerde weergave boven in het deelvenster. U kunt meer details over de publicatiegeschiedenis opvragen door het deelvenster Historie en gepubliceerde servers te openen in de gedetailleerde weergave. Vanaf dat punt kunt u zien wanneer het middel is gepubliceerd en naar welke servers het is gepubliceerd.
 
-## Herhaalde elementen en CDN vertraagt {#republished-assets-and-cdn-delays}
+## Hergepubliceerde elementen en CDN-vertragingen {#republished-assets-and-cdn-delays}
 
 De Klassieke activa van Dynamic Media worden verdeeld op het netwerk van de inhoudslevering (CDN). CDN is een systeem van computerservers die samen samenwerken om inhoud, vooral grote media inhoud, aan eind te leveren - gebruikers. In het CDN-systeem wordt webinhoud opgeslagen in webcaches via internet (het zogenaamde Edge-cachenetwerk). De inhoud van het Web wordt geleverd van de Webgeheime voorgeheugens aan eind - gebruikers voor snellere leveringen.
 
@@ -162,5 +161,5 @@ Als u de cache wilt leegmaken, klikt u op **[!UICONTROL File]** > **[!UICONTROL 
 >[!MORELIKETHIS]
 >
 >* [Taakbestanden controleren](checking-job-files.md)
->* [Herhalende taken bewerken, verwijderen, pauzeren en hervatten](checking-job-files.md#editing-deleting-pausing-and-resuming-recurring-jobs)
+* [Herhalende taken bewerken, verwijderen, pauzeren en hervatten](checking-job-files.md#editing-deleting-pausing-and-resuming-recurring-jobs)
 
