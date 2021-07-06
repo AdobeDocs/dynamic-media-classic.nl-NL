@@ -8,21 +8,20 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/media_portal
 discoiquuid: 91524d36-b77a-4dc4-acba-a7bd85297e98
 feature: Dynamic Media Classic,Samenwerking,Asset Management
-role: Administrator,Business Practitioner
+role: Admin,User
 exl-id: 0deb7133-b895-4c3f-8e5e-8604a6f2d16b
-translation-type: tm+mt
-source-git-commit: 7456226cf6469f40e66ff327475d4c605b6d6e13
+source-git-commit: df689ff5a127bfbc400ca5331168d1ff7bb0b42e
 workflow-type: tm+mt
 source-wordcount: '777'
 ht-degree: 1%
 
 ---
 
-# Het creëren van en het beheren van Poortgroepen van Media{#creating-and-managing-media-portal-groups}
+# Media Portal-groepen maken en beheren{#creating-and-managing-media-portal-groups}
 
 *De* Groepen worden ontworpen om u te helpen de gebruikers van het Portaal van Media beheren. Om tot activa toegang te hebben, moet een gebruiker een lid van minstens één groep zijn die toestemming heeft om tot dat activa toegang te hebben. Wanneer u een gebruiker toevoegt, wijst u de gebruiker aan een of meer groepen toe. Op die manier verleent u de gebruiker toegang tot mappen waaraan de groep is toegewezen. U kunt ook kiezen welke voorinstellingen voor afbeeldingen beschikbaar zijn voor een groep.
 
-## Groepen gebruiken om toegang tot mappen, elementen en voorinstellingen voor afbeeldingen te beperken {#using-groups-to-restrict-access-to-folders-assets-and-image-presets}
+## Groepen gebruiken om de toegang tot mappen, elementen en voorinstellingen voor afbeeldingen te beperken {#using-groups-to-restrict-access-to-folders-assets-and-image-presets}
 
 Om toegangstoestemming op verschillende niveaus te verlenen, creeert u groepen. Voor elke groep wijst u lees-, schrijf- en verwijdermachtigingen toe aan verschillende mappen en elementen in mappen. U bepaalt ook welke voorinstellingen voor afbeeldingen beschikbaar zijn voor de groep. Vervolgens wijst u gebruikers toe aan groepen. Een gebruiker kan lid zijn van meerdere groepen. Het groepsconcept biedt u de flexibiliteit om toegang toe te wijzen aan beperkte reeksen van de totale inhoud.
 
@@ -32,7 +31,7 @@ Als u niet specifiek groepsmachtigingen toekent aan een middel of map, neemt dat
 >
 >Gebruikers kunnen tot meerdere groepen behoren. Wanneer een gebruiker tot twee groepen met verschillende toegangstoestemmingen tot een omslag behoort, wordt de gebruiker de hoogste toegang verleend.
 
-## Een groep {#adding-a-group} toevoegen
+## Een groep toevoegen {#adding-a-group}
 
 1. Klik op **[!UICONTROL Setup]** > **[!UICONTROL Media Portal Setup]** > **[!UICONTROL Groups]**.
 1. Klik op **[!UICONTROL Add]**.
@@ -76,7 +75,7 @@ Als u niet specifiek groepsmachtigingen toekent aan een middel of map, neemt dat
 >
 >Toegangsrechten worden ingesteld wanneer u een vak selecteert. Wanneer u rechten toewijst aan een map, krijgen de submappen en alle bestanden in de map dezelfde rechten als de bovenliggende map. U kunt echter verschillende rechten opgeven voor afzonderlijke submappen en elementbestanden.
 
-## Bezig met kiezen van toegangsmachtigingen voor een voorinstelling voor een groep {#choosing-image-preset-access-permissions-for-a-group}
+## Toegangsmachtigingen voor een groep kiezen voor Voorinstelling afbeelding {#choosing-image-preset-access-permissions-for-a-group}
 
 Kies Vooraf ingestelde de toegangstoestemmingen van het Beeld voor een groep als u wilt specificeren welke Vooraf ingestelde Beeld aan groepsleden beschikbaar zijn wanneer zij activa met het Portaal van Media uitvoeren.
 
@@ -92,7 +91,7 @@ Zie ook [Exportopties opgeven die beschikbaar zijn voor gebruikers van Media Por
 1. Als u wilt opgeven welke voorinstellingen beschikbaar zijn voor gebruikers van Media Portal wanneer zij elementen exporteren, schakelt u Voorinstellingen afbeelding in of uit.
 1. Klik op **[!UICONTROL Close]**.
 
-## Groepen {#edit-and-delete-groups} bewerken en verwijderen
+## Groepen bewerken en verwijderen {#edit-and-delete-groups}
 
 1. Klik op **[!UICONTROL Setup]** > **[!UICONTROL Media Portal Setup]** > **[!UICONTROL Groups]**.
 1. Selecteer op de pagina Groepenlijst een groep en bewerk of verwijder deze.
