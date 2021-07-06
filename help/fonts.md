@@ -8,10 +8,9 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/support_files
 discoiquuid: 97cecd6a-30aa-44fe-a611-fd71b02fd5ae
 feature: Dynamic Media Classic
-role: Business Practitioner
+role: User
 exl-id: 186f4c7f-16f6-42f5-bc0e-55362c55e794
-translation-type: tm+mt
-source-git-commit: 27d9a9b9f158846b54e4318119aec9e4dc9c4c0d
+source-git-commit: df689ff5a127bfbc400ca5331168d1ff7bb0b42e
 workflow-type: tm+mt
 source-wordcount: '426'
 ht-degree: 0%
@@ -36,11 +35,11 @@ Nadat een lettertypebestand is geüpload, kunt u de klassieke Dynamic Media-id, 
 >
 >Dynamic Media Classic raadt aan alle lettertypestijlen (vet, cursief, vet/cursief en standaard) te uploaden als u lettertypen in sjabloonlagen wilt gebruiken. Dynamic Media Classic heeft deze lettertypestijlen nodig om aanvragen te verwerken. Het wordt ook aanbevolen alle PostScript/Adobe Type 1-bestanden te uploaden die aan een lettertype zijn gekoppeld, omdat sommige van deze lettertypen gedetailleerde tekenspatiëringsgegevens bevatten.
 
-## Fontbestanden {#uploading-font-files} uploaden
+## Fontbestanden uploaden {#uploading-font-files}
 
 Upload doopvontdossiers met de zelfde technieken u gebruikt om andere dossiers te uploaden. U kunt lettertypebestanden opslaan in elke Classic-map van Dynamic Media. Zie [Uw bestanden uploaden](uploading-files.md#uploading_your_files).
 
-## Informatie over lettertypebestand {#editing-font-file-information} bewerken
+## Informatie over lettertypebestanden bewerken {#editing-font-file-information}
 
 U kunt de id-naam van een lettertype en de informatie over het type wijzigen. Het bewerken van een lettertypebestand kan nuttig zijn bij zoekopdrachten en het gemakkelijker maken lettertypen te identificeren.
 
