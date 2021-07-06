@@ -5,10 +5,9 @@ contentOwner: admin
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 feature: Dynamic Media Classic
-role: Business Practitioner
+role: User
 exl-id: 2ef78fe6-1e7c-4f48-86da-137ddaa55bbf
-translation-type: tm+mt
-source-git-commit: 06bd65c92c88595786b14213944a7cebd0d2590b
+source-git-commit: df689ff5a127bfbc400ca5331168d1ff7bb0b42e
 workflow-type: tm+mt
 source-wordcount: '1475'
 ht-degree: 0%
@@ -19,13 +18,13 @@ ht-degree: 0%
 
 Voordat u een afbeeldingselement kunt uploaden, vraagt u eerst om een sleutel voor een gedeeld geheim. U gebruikt deze sleutel voor gedeeld geheim om een token voor uploaden op te halen. Vervolgens gebruikt u het token voor uploaden om afbeeldingselementen of vectorelementen te uploaden.
 
-## Verzoek om een gedeelde geheime sleutel {#requesting-a-shared-secret-key}
+## Een gedeelde geheime sleutel aanvragen {#requesting-a-shared-secret-key}
 
 Vraag een *gedeelde-geheime sleutel* door [gebruikend de Admin Console om een steungeval tot stand te brengen.](https://helpx.adobe.com/enterprise/admin-guide.html/enterprise/using/support-for-experience-cloud.ug.html) In uw steungeval, verzoek om een gedeelde geheime sleutel.
 
 Geef in het e-mailbericht de bedrijfsnaam op die u wilt gebruiken om afbeeldingselementen te uploaden. Nadat u de sleutel van de Klassiek van Dynamic Media ontvangt, bewaar het plaatselijk voor toekomstig gebruik.
 
-## Het uploadtoken {#retrieving-the-upload-token} ophalen
+## Het uploadtoken ophalen {#retrieving-the-upload-token}
 
 Met de *upload-token* kan niemand dezelfde sleutel voor gedeeld geheim gebruiken om elementen te uploaden. Het zorgt ervoor dat de upload legitiem is en uit een vertrouwde bron komt.
 
@@ -89,7 +88,7 @@ U kunt nu een afbeeldingselement uploaden.
 
 Zie [Een afbeeldingselement uploaden](uploading-image-asset-or-vector.md#uploading_an_image_asset).
 
-## Een afbeeldingselement {#uploading-an-image-asset} uploaden
+## Afbeeldingselementen uploaden {#uploading-an-image-asset}
 
 Nadat u een uploadtoken hebt opgehaald dat gedurende een bepaalde periode geldig is, kunt u een afbeeldingselement uploaden. U uploadt het element als multipart/form post terwijl het verzenden van de rest waarden als URL vraagkoord, zoals aangetoond in dit voorbeeld:
 
@@ -249,7 +248,7 @@ U kunt de volgende velden in de URL-queryreeks gebruiken om informatie voor een 
 
 GET en POST
 
-## Een vectorelement {#uploading-a-vector-asset} uploaden
+## Een vectorelement uploaden {#uploading-a-vector-asset}
 
 Nadat u een uploadtoken hebt opgehaald dat gedurende een bepaalde periode geldig is, kunt u een vectorelement uploaden. U uploadt het element als multipart/form post terwijl het verzenden van de rest waarden als URL vraagkoord, zoals aangetoond in dit voorbeeld:
 
