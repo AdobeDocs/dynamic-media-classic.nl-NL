@@ -8,10 +8,9 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/getting_started
 discoiquuid: 825b8949-f961-4ef9-828c-07349013d40d
 feature: Dynamic Media Classic
-role: Administrator,Business Practitioner
+role: Admin,User
 exl-id: 3ffcfab2-c29d-4b0f-b223-c4a5ca99f21a
-translation-type: tm+mt
-source-git-commit: eb37440a2917094aae8f32e9337b4c187ec6c1c2
+source-git-commit: df689ff5a127bfbc400ca5331168d1ff7bb0b42e
 workflow-type: tm+mt
 source-wordcount: '623'
 ht-degree: 0%
@@ -68,7 +67,7 @@ Boven aan het deelvenster Elementenbibliotheek staan opdrachten voor het zoeken 
 >
 >U kunt op **[!UICONTROL Asset Library]** besturingselementen klikken om de Asset Library te openen of te sluiten en meer ruimte krijgen om op het scherm te werken. Klik op het besturingselement **[!UICONTROL Expand]**/**[!UICONTROL Collapse]** om het deelvenster uit te vouwen of te sluiten. Deze besturingselementen staan links in het deelvenster.
 
-## Deelvenster Bladeren/deelvenster Samenstellen {#browse-panel-build-panel}
+## Bladeren in deelvenster/deelvenster Samenstellen {#browse-panel-build-panel}
 
 In het deelvenster Bladeren/Samenstellen doet u veel van uw werk. Welke functies beschikbaar zijn in dit deelvenster, is afhankelijk van de modus Bladeren of de modus Samenstellen.
 
@@ -79,7 +78,7 @@ In het deelvenster Bladeren/Samenstellen doet u veel van uw werk. Welke functies
 >[!MORELIKETHIS]
 >
 >* [Elementen beheren](about-managing-assets.md)
->* [Elementen weergeven in het deelvenster Bladeren](viewing-assets-browse-panel.md#viewing_assets_in_the_browse_panel)
->* [Elementen selecteren in het deelvenster Bladeren](selecting-assets-browse-panel.md#selecting_assets_in_the_browse_panel)
->* [Elementen zoeken](searching-assets.md#searching_assets)
+* [Elementen weergeven in het deelvenster Bladeren](viewing-assets-browse-panel.md#viewing_assets_in_the_browse_panel)
+* [Elementen selecteren in het deelvenster Bladeren](selecting-assets-browse-panel.md#selecting_assets_in_the_browse_panel)
+* [Elementen zoeken](searching-assets.md#searching_assets)
 
