@@ -8,10 +8,9 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/template_basics
 discoiquuid: 8f7093da-d215-4337-ac95-69f0a5bf8648
 feature: Dynamic Media Classic
-role: Business Practitioner
+role: User
 exl-id: 23ac1a0f-c90b-4250-ae36-93702fb5ebd9
-translation-type: tm+mt
-source-git-commit: 223bbacab2f244b91763de2ea324a5c8d777feb9
+source-git-commit: df689ff5a127bfbc400ca5331168d1ff7bb0b42e
 workflow-type: tm+mt
 source-wordcount: '3322'
 ht-degree: 0%
@@ -26,7 +25,7 @@ Als u een sjabloon wilt maken, klikt u op **[!UICONTROL Build]** > **[!UICONTROL
 >
 >Als u een sjabloon bewerkt die in een eerdere versie van Dynamic Media Classic is gemaakt, wordt u bij het opslaan gevraagd of u een canvaslaag wilt toevoegen. Klik **[!UICONTROL No]** vermijden toevoegend een basislaag. Als u per ongeluk **[!UICONTROL Yes]** klikt, schrapt `&allowCanvasPrompt` en `&layer=0` bepalingen in URL en drukt **[!UICONTROL Enter]** of **[!UICONTROL Return]**.
 
-## Het creëren van het aanvankelijke malplaatje {#creating-the-initial-template}
+## De oorspronkelijke sjabloon maken {#creating-the-initial-template}
 
 Wanneer u een sjabloonset maakt, heeft de optie **[!UICONTROL Publish after save]** op de volgende manieren invloed op de set en stelt u leden in:
 
@@ -75,7 +74,7 @@ Zie ook [Elementen handmatig publiceren](publishing-files.md#manually_publishing
 1. Als u klaar bent met bewerken, controleert u of **[!UICONTROL Publish after save]** is geselecteerd (standaard) in de rechterbenedenhoek van de pagina.
 1. Klik **[!UICONTROL Save]**, selecteer een opslagomslag, ga een naam voor de reeks in, en klik dan **[!UICONTROL Save]**.
 
-## Een sjabloon {#deleting-a-template} verwijderen
+## Een sjabloon verwijderen {#deleting-a-template}
 
 Wanneer u een Sjabloonset verwijdert, wordt de set zelf naar de prullenbak verplaatst. De leden (of &quot;kinderen&quot;) in die reeks worden echter niet beïnvloed; in plaats daarvan behouden zij elk hun bestaande gepubliceerde of niet - gepubliceerde staat .
 
@@ -114,7 +113,7 @@ Gebruik de volgende gereedschappen in het scherm Sjabloon om sjablonen te maken:
 
 * **Gebied**  Laageigenschappen - Hier vindt u gereedschappen voor het wijzigen van de achtergrondkleur, dekking, grootte en positie van een laag en de achtergrondkleur, dekking en grootte van het canvas. U kunt ook schaduw- en gloedeffecten aanpassen. Zie [Werken met lagen](#working-with-layers).
 
-## Afbeeldingslagen {#creating-image-layers} maken
+## Afbeeldingslagen maken {#creating-image-layers}
 
 1. Sleep de afbeelding van de elementenbibliotheek naar het canvas.
 
@@ -124,7 +123,7 @@ Gebruik de volgende gereedschappen in het scherm Sjabloon om sjablonen te maken:
    >
    >Zo nodig verkleint Dynamic Media Classic afbeeldingen, zodat deze op het canvas passen wanneer u een afbeeldingslaag maakt.
 
-## Een tekstlaag {#creating-a-text-layer} maken
+## Een tekstlaag maken {#creating-a-text-layer}
 
 1. Klik op het gereedschap **[!UICONTROL Text]**.
 1. Sleep om een tekstvak te maken op het canvas of op een afbeelding.
@@ -135,7 +134,7 @@ Gebruik de volgende gereedschappen in het scherm Sjabloon om sjablonen te maken:
 
 1. Klik **[!UICONTROL Apply]**, en sluit dan het scherm van de Tekst.
 
-### Tekst {#format-text} opmaken
+### Tekst opmaken {#format-text}
 
 Ga als volgt te werk om tekst in een tekstlaag op te maken:
 
@@ -167,7 +166,7 @@ Ga als volgt te werk om tekst in een tekstlaag op te maken:
 >
 >Klik **[!UICONTROL Undo]** om uw laatste actie om te keren. Klik **[!UICONTROL Redo]** als u van mening verandert over het omkeren van een actie nadat u **[!UICONTROL Undo]** klikt.
 
-### Alinea&#39;s {#format-paragraphs} opmaken
+### Alinea&#39;s opmaken {#format-paragraphs}
 
 1. Dubbelklik in de lijst Lagen op de naam van het tekstvak met tekst die u wilt bewerken. De Teksteditor wordt geopend.
 1. Selecteer de alinea die u wilt opmaken.
@@ -212,7 +211,7 @@ Ga als volgt te werk om tekst in een tekstlaag op te maken:
 
    * **Opvulling**  - Hiermee voegt u marges toe of snijdt u de laagrechthoek bij. Geef het aantal pixels op dat u wilt toevoegen of verwijderen voor Links, Boven, Onder en Rechts. Voer positieve getallen in om een marge of negatieve getallen toe te voegen aan het uitsnijden.
 
-### Tekstbroncode {#view-and-edit-text-source-code} weergeven en bewerken
+### Tekstbroncode weergeven en bewerken {#view-and-edit-text-source-code}
 
 De informatie op het tabblad Bron van de Teksteditor is ter referentie. Bewerk de tekst alleen als u bekend bent met het bewerken van broncode.
 
@@ -275,7 +274,7 @@ U kunt een laag- of laageffect verbergen door op het oogpictogram naast de naam 
 
 `layer=5&src=is{PortalCo/title}&pos=274,192&hide=1&effect=-1&.effect=Drop Shadow&blendmode`
 
-### De achtergrondkleur, dekking en overvloeimodus {#determining-the-background-color-opacity-and-blend-mode} bepalen
+### De achtergrondkleur, dekking en overvloeimodus bepalen {#determining-the-background-color-opacity-and-blend-mode}
 
 Als u een achtergrondkleur, dekking en overvloeimodus voor een laag of het canvas wilt kiezen, selecteert u de laag of het canvas en gebruikt u de volgende technieken:
 
@@ -293,7 +292,7 @@ U kunt een schaduw of gloed op een laag toepassen. De schaduw of gloed wordt toe
 
 Nadat u een schaduw- of gloedeffect hebt toegepast, kunt u de grootte, kleur, dekking en positie aanpassen in het gedeelte Laageigenschappen van het scherm Sjabloon.
 
-### Schaduw- of gloedeffect toepassen op een laag {#applying-a-shadow-or-glow-effect-to-a-layer}
+### Een schaduw- of gloedeffect toepassen op een laag {#applying-a-shadow-or-glow-effect-to-a-layer}
 
 1. Selecteer een laag in de lijst Lagen.
 1. Selecteer het menu Effect toevoegen en kies een optie:
@@ -312,7 +311,7 @@ Nadat u een effect hebt toegepast, wordt in de lijst Lagen een effectnaam weerge
 >
 >Soms kunt u het effect van een slagschaduw of gloed buiten niet zien als de onderliggende laag niet groot genoeg is om deze weer te geven. Als u de schaduw of gloed niet kunt zien, kunt u overwegen waarden voor opvulling aan de laag toe te voegen of de laag opnieuw te ordenen. Zie [De grootte en positie van lagen en het canvas wijzigen](creating-template.md#changing_the_size_and_position_of_layers_and_the_canvas) en [Lagen opnieuw ordenen](creating-template.md#reordering_layers).
 
-### Een schaduw- of gloedeffect {#adjusting-a-shadow-or-glow-effect} aanpassen
+### Een schaduw- of gloedeffect aanpassen {#adjusting-a-shadow-or-glow-effect}
 
 Als u een schaduw- of gloedeffect wilt aanpassen, selecteert u eerst de naam van het effect in de lijst Lagen. Wijzig vervolgens de instellingen in het gedeelte Laageigenschappen van het scherm Sjabloon:
 
