@@ -8,10 +8,9 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/upload_and_publish_assets
 discoiquuid: d53ae5dd-8daf-4d87-b9a6-3039bad30538
 feature: Dynamic Media Classic, beheer van bedrijfsmiddelen
-role: Business Practitioner
+role: User
 exl-id: b6b11e1c-5eda-4bdb-8ffb-ecd3678f2352
-translation-type: tm+mt
-source-git-commit: bd0659c015f259e25d6d07b620f5b1e948cabcbf
+source-git-commit: df689ff5a127bfbc400ca5331168d1ff7bb0b42e
 workflow-type: tm+mt
 source-wordcount: '1581'
 ht-degree: 1%
@@ -80,7 +79,7 @@ U kunt deze gegevens naar het klembord kopiëren.
 1. Klik op Details weergeven voor een gedetailleerd rapport over een bericht.
 1. Klik op Kopiëren naar klembord.
 
-## Terugkerende upload- en publicatietaken verwerken {#handling-recurring-upload-and-publish-jobs}
+## Herhalende upload- en publicatietaken afhandelen {#handling-recurring-upload-and-publish-jobs}
 
 Het terugkomen upload en publiceer banen die u op Upload en publiceer pagina&#39;s creeert zijn vermeld op het Geplande lusje van de pagina van Banen. U kunt terugkerende taken op het geplande tabblad bewerken en verwijderen.
 
@@ -90,7 +89,7 @@ Selecteer de knoop van Banen op de Globale bar van de Navigatie en, op de pagina
 >
 >U kunt de takenlijst op het Geplande lusje met het Type van Baan en tonen menu&#39;s filtreren. Kies een taaktype om de lijst te beperken en taken van een bepaald type te publiceren. Kies een optie Tonen om taken weer te geven die u hebt gemaakt of om taken weer te geven die door iedereen in uw bedrijf zijn gemaakt.
 
-### Terugkerende taken {#editing-deleting-pausing-and-resuming-recurring-jobs} bewerken, verwijderen, pauzeren en hervatten
+### Herhalende taken bewerken, verwijderen, pauzeren en hervatten {#editing-deleting-pausing-and-resuming-recurring-jobs}
 
 Selecteer een terugkomende baan op de pagina van Banen en volg deze instructies om het uit te geven of te schrappen:
 
@@ -102,7 +101,7 @@ Zie [Een aangepaste upload- of publiceertaaktijdinterval maken](checking-job-fil
 
 **Een terugkerende** taak onderbreken (en hervatten). Schakel een selectievakje uit om een taak te pauzeren in de kolom Actief. Schakel een selectievakje in om een gepauzeerde taak te hervatten.
 
-### Een aangepast taaktijdinterval voor uploaden of publiceren maken {#creating-a-custom-upload-or-publish-job-time-interval}
+### Aangepaste upload- of publicatietaaktijdintervallen maken {#creating-a-custom-upload-or-publish-job-time-interval}
 
 Als u een aangepast tijdinterval wilt maken voor een upload (via FTP) of een publicatietaak, kiest u Herhalen > Aangepast op de pagina Uploaden of Publiceren. Dan ga aantallen en vervangingen in het vakje van de Regel in om een tijdinterval voor te beschrijven uploaden of te publiceren banen om opnieuw te komen.
 
