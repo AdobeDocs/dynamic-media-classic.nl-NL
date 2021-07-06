@@ -8,10 +8,9 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/zoom
 discoiquuid: 5023a933-e229-4d3c-8e91-3ac5e9f4970b
 feature: Dynamic Media Klassiek,Viewers,Zoomen
-role: Business Practitioner
+role: User
 exl-id: ddaaff6c-5447-408e-9c92-bcdfd1a0e72e
-translation-type: tm+mt
-source-git-commit: 9d73e74ffc4a1e7e31c84720a9bae105b6afb1ae
+source-git-commit: df689ff5a127bfbc400ca5331168d1ff7bb0b42e
 workflow-type: tm+mt
 source-wordcount: '594'
 ht-degree: 0%
@@ -24,7 +23,7 @@ Voorinstellingen voor zoomviewer bepalen de stijl, het gedrag en de vormgeving v
 
 Alle zoomviewers beschikken over knoppen waarmee u kunt inzoomen, uitzoomen, pannen en de oorspronkelijke staat van de afbeelding kunt herstellen nadat u hebt ingezoomd. Hoe deze knoppen eruitzien en hoe het venster zelf eruitziet, is afhankelijk van uw keuze voor Voorinstellingen van Zoomviewer. U kunt een voorinstelling voor een zoomviewer configureren met verschillende kleuren, randen, lettertypen en afbeeldingsinstellingen. Wanneer u een Viewer met instructies voor zoomen configureert, kunt u ook kiezen waar u de zoomdoelen wilt plaatsen. Zoomdoelen zijn de miniaturen waarop gebruikers klikken om te zoomen op de gebieden die u opgeeft.
 
-## Info over Voorinstellingen van zoomviewer {#about-zoom-viewer-presets}
+## Voorinstellingen Zoomviewer {#about-zoom-viewer-presets}
 
 Dynamic Media Classic bevat de volgende voorinstellingen voor de zoomviewer:
 
@@ -44,7 +43,7 @@ Dynamic Media Classic raadt de volgende parameters aan voor voorinstellingen van
 
 * **Zoomviewer: Aangepast**  - Zoom met instructies of zonder instructies met afbeeldingen, Afbeeldingssets met meerdere weergaven of Kleurstaalsets.
 
-## Voorinstellingen voor zoomviewers maken en bewerken {#creating-and-editing-zoom-viewer-presets}
+## Voorinstellingen van Zoomviewer maken en bewerken {#creating-and-editing-zoom-viewer-presets}
 
 1. Klik op **[!UICONTROL Setup]** > **[!UICONTROL Viewer Presets]** op de algemene navigatiebalk.
 1. Voer een van de volgende handelingen uit:
