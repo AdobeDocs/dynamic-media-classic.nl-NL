@@ -8,10 +8,9 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/master_files
 discoiquuid: 4eddf983-38cb-4f00-b3be-85c20bdd6f69
 feature: Dynamic Media Classic, beheer van bedrijfsmiddelen
-role: Business Practitioner
+role: User
 exl-id: deafbd03-06bc-4d7e-87a1-5620ebcac426
-translation-type: tm+mt
-source-git-commit: 7456226cf6469f40e66ff327475d4c605b6d6e13
+source-git-commit: df689ff5a127bfbc400ca5331168d1ff7bb0b42e
 workflow-type: tm+mt
 source-wordcount: '2393'
 ht-degree: 0%
@@ -72,7 +71,7 @@ Wanneer u Afbeeldingskaarten maakt, kunt u het volgende doen:
 
 1. Klik op **[!UICONTROL Save]**.
 
-### De positie, vorm en grootte van afbeeldingen met hyperlinks aanpassen {#adjusting-the-position-shape-and-size-of-image-maps}
+### De positie, vorm en grootte van afbeeldingskaarten aanpassen {#adjusting-the-position-shape-and-size-of-image-maps}
 
 Als u de positie, vorm en grootte van een afbeelding met hyperlinks wilt wijzigen, selecteert u de knop Afbeelding met hyperlinks. Selecteer vervolgens het gereedschap **[!UICONTROL Pan]** en volg de volgende instructies:
 
@@ -88,11 +87,11 @@ Als u de positie, vorm en grootte van een afbeelding met hyperlinks wilt wijzige
 
 **Veelhoekige afbeelding met hyperlinks**  - Sleep een vierkante selectiegreep. Als u een selectiegreep wilt maken, klikt u op de rand van de afbeelding met hyperlinks en begint u te slepen.
 
-### Overlappende afbeeldingen verwerken {#handling-overlapping-image-maps}
+### Overlappende afbeeldingen met hyperlinks verwerken {#handling-overlapping-image-maps}
 
 Als uw afbeelding of eCatalog-pagina meer dan één afbeelding met hyperlinks bevat en de afbeeldingen overlappen, kunt u bepalen hoe de afbeeldingen overlappen. Wijzig hiertoe de volgorde van de afbeeldingen in de lijst Afbeeldingskaart. Sleep hun namen hoger of lager in de lijst. Hoe hoog een naam op de lijst is bepaalt of zijn Kaart van het Beeld andere Kaarten van het Beeld overlapt.
 
-### Afbeeldingskaartgegevens {#importing-image-map-data} importeren
+### Afbeeldingskaartgegevens importeren {#importing-image-map-data}
 
 In plaats van de gegevens van de Kaart van het Beeld op elke pagina in te gaan, kunt u de gegevens voor uw beeld, de Reeks van de Rotatie, of eCatalog in het Summiere scherm van de Kaart invoeren. U importeert de gegevens van de Kaart van het Beeld in de vorm van een lusje-afgebakend dossier of van XML DTD. De velden in het bestand moeten in de volgorde staan die wordt weergegeven in het scherm Kaartoverzicht: Naam, labels voor inhoudsopgave, Kaarten, URL&#39;s, Rollover-tekst, Overige handelingen en Zoeken. Door de gegevens van de Kaart van het Beeld in te voeren bespaart u het probleem om de gegevens in de Lijst van de Kaart van het Beeld in te gaan aangezien u elke Kaart van het Beeld creeert.
 
@@ -107,7 +106,7 @@ In plaats van de gegevens van de Kaart van het Beeld op elke pagina in te gaan, 
 1. (Optioneel) Geef in het veld Taaknaam een naam op voor de uploadtaak voor metagegevens.
 1. Klik op Uploaden.
 
-### Afbeeldingskaarten {#copying-image-maps} kopiëren
+### Afbeeldingen met hyperlinks kopiëren {#copying-image-maps}
 
 U kunt afbeeldingen met hyperlinks kopiëren van een afbeelding of van een eCatalog-pagina naar een andere. Gebruik **[!UICONTROL Copy Image Map]** om een begin te krijgen met het maken ervan. U kunt Afbeeldingskaarten ook kopiëren en opnieuw maken in afbeeldingen of pagina&#39;s met dezelfde layout- of toewijzingsstructuur.
 
@@ -124,7 +123,7 @@ Het kopiëren van afbeeldingen met hyperlinks in een eCatalog is bijvoorbeeld ee
 
 1. Klik op Selecteren.
 
-## Een sjabloon gebruiken om JavaScript™- en URL&#39;s in te voeren {#using-a-template-to-enter-javascript-and-urls}
+## Een sjabloon gebruiken om JavaScript™ en URL&#39;s in te voeren {#using-a-template-to-enter-javascript-and-urls}
 
 U kunt een URL-sjabloon (ook wel een Href-sjabloon genoemd) definiëren om het invoeren van URL&#39;s voor afbeeldingen met hyperlinks eenvoudiger en efficiënter te maken. Definieer een URL-sjabloon als de meeste URL&#39;s van de Afbeeldingskaart een gemeenschappelijke, vaste indeling hebben. Door het gedeelte van URL in te voeren dat als malplaatje URL vast is, moet u niet dit gedeelte van URL ingaan telkens als u een Kaart van het Beeld creeert. Uw URL-sjabloon kan ook JavaScript™-opdrachten, padnamen en parameters bevatten. Standaard bevat de URL-sjabloon een merkgebonden Dynamic Media Classic JavaScript™-handler met de naam `loadProduct` waarmee de afbeelding in een nieuw venster wordt geopend.
 
@@ -132,7 +131,7 @@ U kunt een URL-sjabloon (ook wel een Href-sjabloon genoemd) definiëren om het i
 >
 >Wanneer u de JavaScript™-code toevoegt aan het HREF-kenmerk van de afbeelding met hyperlinks, wordt de code uitgevoerd op de computer van de client. Controleer daarom of de JavaScript™-code veilig is.
 
-### Informatie over URL-sjablonen {#about-url-templates}
+### Over URL-sjablonen {#about-url-templates}
 
 De URL-sjabloon werkt door de inhoud van de URL-kolom in de lijst Afbeeldingskaart te vervangen door de dubbele dollartekens (&#39;$$&#39;) in de sjabloon:
 
@@ -168,7 +167,7 @@ Een URL-sjabloon maken:
 1. Voer de JavaScript™-code en de volledige URL in (waarbij het variabele gedeelte wordt vervangen door dollartekens [$]). U kunt de code plakken door met de rechtermuisknop te klikken en Plakken te kiezen.
 1. Selecteer de knop Opslaan.
 
-### URL-sjablonen {#handling-url-templates} verwerken
+### URL-sjablonen afhandelen {#handling-url-templates}
 
 De pagina Kaarteditor (afbeeldingen en SpinSets) en het tabblad Kaartpagina&#39;s van het eCatalog-scherm (eCatalogs) bieden de volgende opdrachten voor de verwerking van URL-sjablonen:
 
@@ -202,7 +201,7 @@ Maak in Acrobat of InDesign hyperlinkverwijzingen waar u de afbeeldingen met hyp
 
 Raadpleeg de Help bij Adobe InDesign of Adobe Acrobat voor meer informatie.
 
-### Afbeeldingskaarten maken in Adobe InDesign {#to-create-image-maps-in-adobe-indesign}
+### Afbeeldingen met hyperlinks maken in Adobe InDesign {#to-create-image-maps-in-adobe-indesign}
 
 1. Klik in InDesign op **[!UICONTROL Windows®]** > **[!UICONTROL Interactive]** > **[!UICONTROL Hyperlinks]** om het deelvenster Hyperlinks te openen.
 1. Selecteer de tekst, het kader of de afbeelding die u in de Afbeeldingskaart wilt maken.
@@ -218,7 +217,7 @@ Raadpleeg de Help bij Adobe InDesign of Adobe Acrobat voor meer informatie.
 1. Exporteer het bestand als een PDF-bestand.
 1. Upload de PDF naar Dynamic Media Classic en selecteer Koppelingen uit de PDF-opties verwijderen.
 
-### Afbeeldingskaarten maken in Adobe Acrobat {#to-create-image-maps-in-adobe-acrobat}
+### Afbeeldingen met hyperlinks maken in Adobe Acrobat {#to-create-image-maps-in-adobe-acrobat}
 
 1. Klik in Acrobat op **[!UICONTROL Tools]** > **[!UICONTROL Advanced Editing]** > **[!UICONTROL Link Tool]**.
 1. Sleep om de afbeelding met hyperlinks te maken. Het vak Koppeling maken wordt geopend.
