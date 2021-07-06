@@ -8,10 +8,9 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/spin_sets
 discoiquuid: 651b21ef-e322-4e6d-8e37-45ffd56f7a58
 feature: Dynamic Media Klassiek,Viewers,Draaiende Reeksen
-role: Business Practitioner
+role: User
 exl-id: af75547e-20e8-44c2-b165-01532d6e21d0
-translation-type: tm+mt
-source-git-commit: 38d09bb78834c6b3614bf2b96fd6aee5661e0a5a
+source-git-commit: df689ff5a127bfbc400ca5331168d1ff7bb0b42e
 workflow-type: tm+mt
 source-wordcount: '654'
 ht-degree: 1%
@@ -45,7 +44,7 @@ Websites en toepassingen hebben via URL-tekenreeksen of ingesloten code toegang 
 
       Klik op **[!UICONTROL Copy URL]** onder de kolom Handelingen van de tabel in de Viewer List.
 
-## URL&#39;s van centrifugeset toevoegen aan uw webpagina {#adding-spin-set-urls-to-your-web-page}
+## URL&#39;s van centrifuges toevoegen aan uw webpagina {#adding-spin-set-urls-to-your-web-page}
 
 De Reeksen van de draaien worden opgesteld als alle gezoemkijkers, door middel van een dynamische pagina (ASPIS of JSP) die de Reeks van de Draai in een gezoemvenster toont. Voor de URL-aanroep naar het Dynamic Media Classic-platform geldt hetzelfde protocol voor de zoomviewer. De naam van de voorinstelling voor de viewer is echter afhankelijk van de voorinstelling die de beheerder heeft gedefinieerd als de standaardvoorinstelling voor de voorinstelling voor de voorinstelling van de centrifuge. Het volgende niet-live URL-syntaxisvoorbeeld bevat bijvoorbeeld de naam `viewer.jsp` van de voorinstelling en de parameter SKU is nu de naam van de voorinstelling:
 
@@ -55,7 +54,7 @@ https://sample.scene7.com/s7ondemand/spin/viewer.jsp?company=S7Web&sku=backpack_
 
 In dit URL-syntaxisvoorbeeld (de koppeling is niet live), ziet u een SKU-nummer ( `sku=backpack_spin`). De tekenreeks na `sku=` is de naam van de centrifugeset ( `backpack spin`).
 
-## De insluitcode van een viewer {#copying-the-embed-code-of-a-spin-set-viewer} voor een centrifugeerset kopiëren
+## De insluitcode van een viewer voor een centrifugeset kopiëren {#copying-the-embed-code-of-a-spin-set-viewer}
 
 Met de functie Code insluiten kunt u de viewercode voor de geselecteerde centrifugeset controleren. U kunt de code ook naar het klembord kopiëren, zodat u de code op uw webpagina&#39;s kunt plakken en de viewer kunt implementeren. Het bewerken van de code is niet toegestaan in het dialoogvenster Code insluiten.
 
