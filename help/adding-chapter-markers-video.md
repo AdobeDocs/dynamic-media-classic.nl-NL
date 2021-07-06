@@ -7,18 +7,17 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/video
 discoiquuid: 8bc5e552-2abb-41f0-89d2-bdf3ae5d96c2
-feature: Dynamic Media Classic,Viewers,Video
-role: Business Practitioner
-translation-type: tm+mt
-source-git-commit: e727c1b5fb43c7def842ff1bafcc8b3ef3437cde
+feature: Dynamic Media Klassiek,Viewers,Video
+role: User
+exl-id: a9250841-2dba-4fdc-8a6e-91b2fecef72f
+source-git-commit: df689ff5a127bfbc400ca5331168d1ff7bb0b42e
 workflow-type: tm+mt
-source-wordcount: '616'
+source-wordcount: '614'
 ht-degree: 0%
 
 ---
 
-
-# Hoofdstukmarkeringen toevoegen aan video{#adding-chapter-markers-to-video}
+# Hoofdstukmarkeringen aan video toevoegen{#adding-chapter-markers-to-video}
 
 U kunt uw lange formuliervideo&#39;s beter weergeven en navigeren door hoofdstukmarkeringen toe te voegen aan enkele video&#39;s of aan Adaptieve videosets. Wanneer een gebruiker de video afspeelt, kunnen zij de hoofdstuktellers op de videochronologie (die ook als videoscrubber wordt bekend) klikken om aan hun aandachtspunt gemakkelijk te navigeren, of onmiddellijk aan nieuwe inhoud, demonstraties, leerprogramma&#39;s, etc. springen.
 
@@ -50,7 +49,7 @@ Chapter 4
 Cost-efficient access to rapidly evolving technology.
 ```
 
-In het bovenstaande voorbeeld is `Chapter 1` de cue-id en is deze optioneel. De actieduur van `00:00:000 --> 01:04:364` geeft de begin- en eindtijd van het hoofdstuk op in de notatie 00:00:000. Deze laatste drie cijfers zijn milliseconden en kunnen desgewenst worden ingesteld op 000. De hoofdstuktitel van `The bicycle store behind it all` is de daadwerkelijke beschrijving van de inhoud van het hoofdstuk. De actidentificator, de begintijd en de hoofdstuktitel worden allemaal weergegeven in een pop-up in de videospeler wanneer een gebruiker de muisaanwijzer boven een visueel actiepunt in de tijdlijn van de video houdt.
+In het bovenstaande voorbeeld is `Chapter 1` de cue-id en is deze optioneel. De richtsnoertijd van `00:00:000 --> 01:04:364` specificeert de begintijd en eindtijd van het hoofdstuk, in 0:00:000 formaat. Deze laatste drie cijfers zijn milliseconden en kunnen desgewenst worden ingesteld op 000. De hoofdstuktitel van `The bicycle store behind it all` is de daadwerkelijke beschrijving van de inhoud van het hoofdstuk. De actidentificator, de begintijd en de hoofdstuktitel worden allemaal weergegeven in een pop-up in de videospeler wanneer een gebruiker de muisaanwijzer boven een visueel actiepunt in de tijdlijn van de video houdt.
 
 Omdat u een HTML5-videoviewer gebruikt, moet u ervoor zorgen dat het hoofdstukbestand dat u maakt, voldoet aan de WebVTT-standaard (Web Video Text Tracks). De bestandsextensie van het hoofdstuk is .vtt. U kunt meer informatie over de WebVTT ondertitelingsnorm leren.
 
@@ -89,4 +88,3 @@ Zie [WebVTT: De indeling Web Video Text Tracks](https://dev.w3.org/html5/webvtt/
       Voor de HTML5 `Universal_HTML5_Video`-viewer voegt u de gekopieerde insluitcode als volgt toe:
 
       `videoViewer.setParam("navigation","*<full Copy URL path to the chapter navigation file .vtt>*”`
-
