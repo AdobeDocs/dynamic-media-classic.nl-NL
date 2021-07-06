@@ -8,17 +8,16 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/media_portal
 discoiquuid: 8b000c25-c9c3-481e-9b25-96257471571f
 feature: Dynamic Media Classic,Samenwerking,Asset Management
-role: Administrator,Business Practitioner
+role: Admin,User
 exl-id: b0c5f70a-2388-42aa-a1ed-fd745ff90518
-translation-type: tm+mt
-source-git-commit: 4e79c98b92dfa4e1a9890ed8a291cdf564126466
+source-git-commit: df689ff5a127bfbc400ca5331168d1ff7bb0b42e
 workflow-type: tm+mt
 source-wordcount: '338'
 ht-degree: 0%
 
 ---
 
-# Het scherm van het Portaal van Media aanpassen{#customizing-the-media-portal-screen}
+# Het scherm Media Portal aanpassen{#customizing-the-media-portal-screen}
 
 Met de Media Portal-stijlinstellingen kunt u het scherm Media Portal voorzien van uw bedrijfslogo en -kleuren. Gebruik de stijlinstellingen om uw bedrijf branding op het Portaal van Media te zetten.
 
