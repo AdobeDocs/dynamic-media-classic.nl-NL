@@ -1,21 +1,20 @@
 ---
-description: 'De Dynamic Media-nieuwsbrief van Experience League is een maandelijkse nieuwsbrief. Het is ontworpen om u te helpen snel aan de slag te gaan met Dynamic Media en Dynamic Media Classic, zodat u meteen waarde kunt behalen. De waardevolle kennis-bouwende middelen zijn beschikbaar in deze one-stop shop nieuwsbrief. Het omvat hoe te video''s en oplossingsoverzichten. Er zijn ook introducties voor belangrijke functies en mogelijkheden, zoals voorinstellingen voor afbeeldingen, voorinstellingen voor viewers en videoprofielen. '
+description: 'De Dynamic Media-nieuwsbrief per Experience League is een maandelijkse nieuwsbrief. Het is ontworpen om u te helpen snel aan de slag te gaan met Dynamic Media en Dynamic Media Classic, zodat u meteen waarde kunt behalen. De waardevolle kennis-bouwende middelen zijn beschikbaar in deze one-stop shop nieuwsbrief. Het omvat hoe te video''s en oplossingsoverzichten. Er zijn ook introducties voor belangrijke functies en mogelijkheden, zoals voorinstellingen voor afbeeldingen, voorinstellingen voor viewers en videoprofielen. '
 keywords: dynamische media;nieuwsbrief;productupdates;tips en trucs;gebeurtenissen;succes van de klant;blog;blogs;beelden;video;eigenschappen;mogelijkheden
 title: Dynamic Media Newsletter
 feature: Dynamic Media Classic
-role: Administrator,Business Practitioner
-translation-type: tm+mt
-source-git-commit: e727c1b5fb43c7def842ff1bafcc8b3ef3437cde
+role: Admin,User
+exl-id: 5f2a0cfc-d627-42be-9e68-111b65680ad8
+source-git-commit: df689ff5a127bfbc400ca5331168d1ff7bb0b42e
 workflow-type: tm+mt
-source-wordcount: '1172'
+source-wordcount: '1169'
 ht-degree: 0%
 
 ---
 
-
 # ![Dynamic Media Newsletter-logo](/help/assets/dynamic-media-newsletter-logo.png)
 
-De maandelijkse Dynamic Media Newsletter van Experience League is ontworpen om u te helpen snel aan de slag te gaan met Dynamic Media en Dynamic Media Classic, zodat u meteen aan de slag kunt met het realiseren van waarde.
+De maandelijkse Dynamic Media Newsletter per Experience League is ontworpen om u te helpen snel aan de slag te gaan met Dynamic Media en Dynamic Media Classic, zodat u meteen aan de slag kunt met het realiseren van waarde.
 
 In deze one-stop shop nieuwsbrief, vind waardevolle kennis-bouwend middelen zoals hoe-aan video&#39;s en oplossingsoverzichten. Er zijn ook introducties voor belangrijke functies en mogelijkheden, zoals voorinstellingen voor afbeeldingen, voorinstellingen voor viewers en videoprofielen.
 
@@ -47,7 +46,7 @@ In deze one-stop shop nieuwsbrief, vind waardevolle kennis-bouwend middelen zoal
    * Onderzoek drie manieren uw rijke media investering tijdens deze uitdagende tijden kan helpen.
    * Meld u aan voor het webinar om te leren hoe u de pagina lichter kunt laden met Slimme afbeeldingen.
    * Bekijk de webinars van de Bouwer van de Vaardigheid op bestelling voor Dynamic Media Classic.
-   * Bekijk de Dynamic Media-sessies van Online Adobe Summit 2020.
+   * Bekijk de Dynamic Media-sessies vanuit Online Adobe Summit 2020.
    * Meer informatie over gratis Dynamic Media Classic-controles voor Adobe
    * Ontmoet John Monroe, de Hogere Manager van het Programma voor de Diensten van het Succes van de Klant.
 
@@ -60,7 +59,7 @@ In deze one-stop shop nieuwsbrief, vind waardevolle kennis-bouwend middelen zoal
    In dit verband:
 
    * Bewerk nieuwe Skill Builder-webinars en transformeer deze in een klassieke Dynamic Media-expert.
-   * Kijk waar je Dynamic Media vindt op de top van Adobe in 2020.
+   * Kijk waar je Dynamic Media vindt op Adobe Summit 2020.
    * Ontdek hoe u de bijsnijdmagie van Dynamic Media kunt gebruiken.
    * Om u te helpen meer waarde van de Klassiek van Dynamic Media krijgen, voordeel halen uit Adobe vrije controle.
    * Meer informatie over de nieuwe gebruikersinterface voor Dynamic Media Classic.
@@ -115,7 +114,7 @@ In deze one-stop shop nieuwsbrief, vind waardevolle kennis-bouwend middelen zoal
 
    * Ontdek kostbare functies die alleen beschikbaar zijn wanneer u een upgrade naar Dynamic Media uitvoert.
    * Meer informatie over een webinar-serie die is ontworpen om je up-to-speed te laten werken op Adobe Experience Manager Assets en Dynamic Media.
-   * Begin aan de prijs van je reis vanuit Dynamic Media op Experience League.
+   * Begin aan je reis die waarde krijgt van Dynamic Media op Experience League.
    * Ontdek een gulle blik op een krachtige integratie die deze maand september komt en u laat analyseren hoe bezoekers met uw rijke media omgaan.
    * Maak kennis met PieterJan Pieper, Dynamic Media technische ondersteuning wiz.
 
@@ -135,7 +134,7 @@ In deze one-stop shop nieuwsbrief, vind waardevolle kennis-bouwend middelen zoal
    In dit verband:
 
    * Geniet van video&#39;s die de aandacht vestigen op het gemak van upgrades naar Dynamic Media in AEM Assets.
-   * Bekijk toetsvideo&#39;s in Experience League.
+   * Bekijk hoe video&#39;s in Experience League zijn.
    * Meer informatie over de komende Adobe Insider Tour.
    * Lees hoe u uw digitale middelen kunt beschermen tegen piraterij.
    * Leer meer over door AI aangedreven Smart Crop voor afbeeldingen.
@@ -146,7 +145,7 @@ In deze one-stop shop nieuwsbrief, vind waardevolle kennis-bouwend middelen zoal
    In dit verband:
 
    * Ontdek de tien verborgen functies van Dynamic Media Classic in een blogartikel.
-   * Bekijk toetsvideo&#39;s in Experience League.
+   * Bekijk hoe video&#39;s in Experience League zijn.
    * Meer informatie over de komende Adobe Insider Tour.
    * Lees een driedelige blogreeks om uw strategie voor rijke media bij te werken.
    * Leer meer over slim uitsnijden met AI-video&#39;s.
