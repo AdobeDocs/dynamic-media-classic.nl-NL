@@ -5,11 +5,10 @@ contentOwner: admin
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/master_files
-feature: Dynamic Media Classic,Asset Management
-role: Business Practitioner
+feature: Dynamic Media Classic, beheer van bedrijfsmiddelen
+role: User
 exl-id: 3c50e706-b9ed-49db-8c08-f179de52b9cf
-translation-type: tm+mt
-source-git-commit: 31ac96e6fd11c47284d58540f5ec0135f0e6223b
+source-git-commit: df689ff5a127bfbc400ca5331168d1ff7bb0b42e
 workflow-type: tm+mt
 source-wordcount: '1465'
 ht-degree: 3%
@@ -44,7 +43,7 @@ Het dynamisch verkleinen van de afbeeldingsgrootte is een van de meestvoorkomend
 
 Gebruik `&wid=<value>&hei=<value>&resMode=sharp2` of `&hei=<value>&resMode=sharp2`
 
-## Aanbevolen procedures voor het verscherpen van afbeeldingen {#best-practices-for-image-sharpening}
+## Aanbevolen procedures voor verscherpen van afbeeldingen {#best-practices-for-image-sharpening}
 
 Het verscherpen van afbeeldingen is het meest complexe aspect van het beheren van afbeeldingen op uw website en er worden veel fouten gemaakt. Neem de tijd om meer te leren over hoe verscherpen en onscherp maskeren werken in Dynamic Media Classic door naar de volgende nuttige bronnen te verwijzen:
 
@@ -98,7 +97,7 @@ Laat de monochrome parameter-instelling op 0 staan.
 
 Gebruik `&qlt=85,0` als aanbevolen methode voor JPG-compressie.
 
-## Aanbevolen procedures voor JPEG-formaat (&amp;jpegSize=) {#best-practices-for-jpeg-sizing-jpegsize}
+## Aanbevolen werkwijzen voor JPEG-formaat (&amp;jpegSize=) {#best-practices-for-jpeg-sizing-jpegsize}
 
 De parameter `jpegSize` is nuttig als u wilt garanderen dat een afbeelding een bepaalde grootte niet overschrijdt voor levering aan apparaten met beperkt geheugen.
 
