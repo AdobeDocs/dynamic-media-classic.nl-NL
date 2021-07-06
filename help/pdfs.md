@@ -8,10 +8,9 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/master_files
 discoiquuid: 5a073de3-6b1d-4c3e-8c03-9182f9f3874a
 feature: Dynamic Media Classic, beheer van bedrijfsmiddelen
-role: Business Practitioner
+role: User
 exl-id: 02892514-61fe-48ba-a2e3-eeb30580a1e4
-translation-type: tm+mt
-source-git-commit: c4e2b8b42b56420269087d0d4f262490464270c0
+source-git-commit: df689ff5a127bfbc400ca5331168d1ff7bb0b42e
 workflow-type: tm+mt
 source-wordcount: '662'
 ht-degree: 0%
@@ -22,7 +21,7 @@ ht-degree: 0%
 
 PDF-bestanden (Portable Document Format) worden meestal gebruikt in Dynamic Media Classic om eCatalogs te maken. Wanneer u een PDF-bestand uploadt, worden de pagina&#39;s standaard gerasterd, of juist gerasterd, zodat de pagina&#39;s kunnen worden gebruikt om rich media te bouwen.
 
-## Opties voor PDF-upload {#pdf-upload-options}
+## Opties voor uploaden naar PDF {#pdf-upload-options}
 
 Wanneer u een PDF-bestand uploadt, kunt u het op verschillende manieren opmaken. U snijdt zijn pagina&#39;s bij, haalt zoekwoorden op, voert een pixel-per-dun resolutie in, en kiest een kleurenruimte. PDF-bestanden bevatten vaak een snijmarge, snijtekens, registratietekens en andere drukkersmarkeringen. U kunt deze markeringen vanaf de zijkanten van pagina&#39;s bijsnijden terwijl u een PDF-bestand uploadt.
 
