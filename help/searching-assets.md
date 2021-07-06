@@ -8,10 +8,9 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/managing_assets
 discoiquuid: effef4e7-37c5-42e2-9266-ecd026cad628
 feature: Dynamic Media Classic, beheer van bedrijfsmiddelen
-role: Business Practitioner
+role: User
 exl-id: 4b3f690c-7dff-4bf0-9366-085ba918fe6b
-translation-type: tm+mt
-source-git-commit: 6f3801a71dd2a5f162acacf7d8199dbf8c3520f7
+source-git-commit: df689ff5a127bfbc400ca5331168d1ff7bb0b42e
 workflow-type: tm+mt
 source-wordcount: '1372'
 ht-degree: 0%
@@ -98,7 +97,7 @@ U kunt filterbewerkingen opslaan zodat ze meerdere malen worden uitgevoerd.
 
 Zie [Metagegevensweergaven](application-setup.md#metadata_views).
 
-### Een filterbewerking {#running-a-filter-operation} uitvoeren
+### Filterbewerking uitvoeren {#running-a-filter-operation}
 
 Voer de volgende stappen uit, zodat u elementen kunt zoeken door te filteren met de bijbehorende metagegevenswaarden:
 
@@ -141,7 +140,7 @@ Voer de volgende stappen uit, zodat u elementen kunt zoeken door te filteren met
 
 1. (Optioneel) Als u de filterbewerking wilt opslaan en later wilt kunnen uitvoeren, klikt u op **[!UICONTROL Select Preset]** > **[!UICONTROL Save Current As New Presets]** en voert u een naam in het dialoogvenster **[!UICONTROL Save]** in.
 
-### Filterbewerkingen {#saving-repeating-and-deleting-filter-operations} opslaan, herhalen en verwijderen
+### Filterbewerkingen opslaan, herhalen en verwijderen {#saving-repeating-and-deleting-filter-operations}
 
 Volg deze instructies op het tabblad Filters zodat u filterbewerkingen kunt opslaan, herhalen en verwijderen:
 
@@ -151,7 +150,7 @@ Volg deze instructies op het tabblad Filters zodat u filterbewerkingen kunt opsl
 
 * **Een filterbewerking verwijderen uit het menu**  Voorinstelling selecteren - De filterbewerking uitvoeren. Klik vervolgens op **[!UICONTROL Select Preset]** > **[!UICONTROL Delete Preset]** in het menu.
 
-## De metagegevensserver {#using-the-metadata-server} gebruiken
+## De metagegevensserver gebruiken {#using-the-metadata-server}
 
 De metagegevensserver is een openbare API die u kunt gebruiken om via http-verzoeken te zoeken naar elementen op basis van metagegevens.
 
@@ -172,5 +171,5 @@ Klik **[!UICONTROL Publish Now]** om de baan te beginnen. Er wordt een bevestigi
 >[!MORELIKETHIS]
 >
 >* [Basisbeginselen van navigatie](navigation-basics.md#navigation_basics)
->* [Metagegevens weergeven, toevoegen en exporteren](viewing-adding-exporting-metadata.md#viewing_adding_and_exporting_metadata)
+* [Metagegevens weergeven, toevoegen en exporteren](viewing-adding-exporting-metadata.md#viewing_adding_and_exporting_metadata)
 
