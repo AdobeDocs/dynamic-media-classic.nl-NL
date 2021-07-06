@@ -5,9 +5,9 @@ contentOwner: admin
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 feature: Dynamic Media Classic
-role: Administrator
+role: Admin
 exl-id: 699d4c12-e47b-4c6b-86f3-dc7aaaa56c1e
-source-git-commit: 35c62fb1f4f136c06ccfbfd80f918462e839d931
+source-git-commit: df689ff5a127bfbc400ca5331168d1ff7bb0b42e
 workflow-type: tm+mt
 source-wordcount: '2374'
 ht-degree: 0%
@@ -216,7 +216,7 @@ Wanneer het eerste voorbeeld als basis wordt gebruikt, kunnen afbeeldingen voor 
 * U kunt geen Gemengde Reeks van Media gebruiken die één enkele video bevat wanneer localeMap actief is, anders ontbreekt de vraag aan de inhoud van de reeks. U kunt dit probleem omzeilen door één video toe te voegen aan een adaptieve videoset. Voeg vervolgens de adaptieve videoret toe aan een gemengde mediaset.
 * Bepaalde verzoeken zijn niet gelokaliseerd, zoals aanvragen voor de inhoud van een adaptieve videoret. Als u Adaptieve videosets dus wilt gebruiken met lokalisatie, plaatst u de adaptieve videoset in een gemengde mediaset. Dan, roep de reeks in een Gemengde kijker van Media met de `locale=` parameter.
 
-## Afbeeldingsrenderer {#image-renderer}
+## Renderer afbeelding {#image-renderer}
 
 De pagina Renderer van het Beeld vestigt standaardmontages voor het leveren van de Reeksen van het Beeld van beeld het teruggeven servers. De montages zijn beschikbaar in deze vijf categorieën (zie de pagina van de Server van het Beeld zelf voor gedetailleerde beschrijvingen van de montages):
 
