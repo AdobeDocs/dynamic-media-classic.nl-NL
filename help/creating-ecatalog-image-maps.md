@@ -8,21 +8,20 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/ecatalogs
 discoiquuid: 4cf63359-63b5-4da7-9498-335d91b4776c
 feature: Dynamic Media Classic,Viewers,eCatalog
-role: Business Practitioner
+role: User
 exl-id: 5e7f39a5-36a6-40df-8752-064a582c9346
-translation-type: tm+mt
-source-git-commit: bd0659c015f259e25d6d07b620f5b1e948cabcbf
+source-git-commit: df689ff5a127bfbc400ca5331168d1ff7bb0b42e
 workflow-type: tm+mt
 source-wordcount: '1443'
 ht-degree: 0%
 
 ---
 
-# ECatalog-afbeeldingen met hyperlinks maken{#creating-ecatalog-image-maps}
+# eCatalog-afbeeldingen met hyperlinks maken{#creating-ecatalog-image-maps}
 
 Een afbeelding met hyperlinks is een gebied op een eCatalog-pagina waar u met de muis over kunt rollen of klikken om allerlei acties te activeren. Wanneer u de aanwijzer bijvoorbeeld op een Afbeeldingskaart plaatst, wordt een beschrijving van een item weergegeven met de rollover-tekst. Wanneer u op een afbeelding met hyperlinks klikt, wordt een andere handeling uitgevoerd. U kunt bijvoorbeeld een webpagina openen zodat gebruikers meer kunnen weten over een item of dit kunnen kopen, of u kunt een video starten om een item in gebruik te zien.
 
-## ECatalog-afbeeldingen met hyperlinks tekenen {#drawing-ecatalog-image-maps}
+## Afbeeldingen met hyperlinks tekenen {#drawing-ecatalog-image-maps}
 
 Voor eCatalogi, tekent u Kaarten van het Beeld op het lusje van de Pagina&#39;s van de Kaart van het eCatalogscherm. Dit scherm bestaat uit het gebied Afbeeldingskaart waar de eCatalog-pagina&#39;s worden weergegeven en, rechts, de lijst Afbeeldingskaart. Terwijl u Afbeeldingskaarten maakt, worden de namen ervan ingevoerd in de lijst Afbeeldingskaart.
 
@@ -72,7 +71,7 @@ U kunt knopinfo ook weergeven wanneer klanten hun aanwijzers over de Afbeeldings
 1. (Optioneel) Voer in het lijstdeelvenster Afbeeldingskaart onder de kolomkop **[!UICONTROL Tool Tip]** de tekst in die gebruikers op het scherm moeten zien wanneer ze de aanwijzer op de Afbeeldingskaart plaatsen.
 1. Klik op **[!UICONTROL Save]**.
 
-## Afbeeldingstoewijzingen voor eCatalog bewerken {#editing-ecatalog-image-maps}
+## Afbeeldingstoewijzingen in eCatalog bewerken {#editing-ecatalog-image-maps}
 
 Ga als volgt te werk om eCatalog Image Maps te bewerken:
 
@@ -106,7 +105,7 @@ Het scherm Kaartoverzicht biedt metagegevens over uw eCatalog. U kunt de gegeven
 
 Als u het scherm Kaartoverzicht wilt weergeven, klikt u op het tabblad Kaartpagina&#39;s van het eCatalog-scherm op Samenvatting.
 
-### Overzicht van gegevenstoewijzing {#review-image-map-data-summary} controleren
+### Overzicht van de gegevens van Image Map controleren {#review-image-map-data-summary}
 
 1. Klik op **[!UICONTROL Summary]** in het scherm Pagina&#39;s toewijzen.
 
@@ -130,7 +129,7 @@ Ga als volgt te werk om Image Map-gegevens voor door u gemaakte afbeeldingen met
 1. Typ in het veld Taaknaam een naam voor het bestand (zorg ervoor dat u de extensie behoudt).
 1. Klik op **[!UICONTROL Upload]**.
 
-## Afbeeldingen met hyperlinks kopiëren tussen eCatalogi {#copying-image-maps-between-ecatalogs}
+## Afbeeldingen met hyperlinks kopiëren naar een andere eCatalogus {#copying-image-maps-between-ecatalogs}
 
 U kunt alle afbeeldingen met hyperlinks in een eCatalog kopiëren naar een andere eCatalog. Het kopiëren van Afbeeldingen met hyperlinks op deze manier is een handige methode voor het kopiëren van afbeeldingen met hyperlinks tussen vertalingen in vreemde talen van dezelfde eCatalog. Dynamic Media Classic raadt u aan om eCatalogs te kopiëren met hetzelfde aantal pagina&#39;s en met dezelfde afbeeldingen, zodat het kopiëren lukt.
 
