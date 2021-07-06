@@ -8,23 +8,22 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/managing_assets
 discoiquuid: 588944c3-78ba-4bd1-a8da-9a6dd99a27a9
 feature: Dynamic Media Classic, beheer van bedrijfsmiddelen
-role: Business Practitioner
+role: User
 exl-id: 8599d4a3-57eb-4432-812f-7e55a4315c1b
-translation-type: tm+mt
-source-git-commit: 7456226cf6469f40e66ff327475d4c605b6d6e13
+source-git-commit: df689ff5a127bfbc400ca5331168d1ff7bb0b42e
 workflow-type: tm+mt
 source-wordcount: '438'
 ht-degree: 0%
 
 ---
 
-# Werken met elementmappen{#working-with-asset-folders}
+# Werken met middelenmappen{#working-with-asset-folders}
 
 Bestandselementen in de Dynamic Media Classic worden in mappen opgeslagen. Deze mappen worden in alfabetische volgorde weergegeven in het deelvenster Elementenbibliotheek. Voordat u bestanden uploadt van uw computer of netwerk naar Dynamic Media Classic, wordt u gevraagd een naam op te geven voor de map waarin de bestanden worden opgeslagen. Maak deze mappen voordat u bestanden uploadt.
 
 Zorg ervoor dat u een mapstructuur en organisatie voor het opslaan van uw bestanden op Dynamic Media Classic hebt voordat u bestanden uploadt.
 
-## Mappen {#displaying-moving-hiding-and-opening-folders} weergeven, verplaatsen, verbergen en openen
+## Mappen weergeven, verplaatsen, verbergen en openen {#displaying-moving-hiding-and-opening-folders}
 
 In de elementenbibliotheek worden bestanden in een mappenstructuur weergegeven. Wanneer u een map selecteert in de elementenbibliotheek, wordt de inhoud van die map weergegeven in het deelvenster Bladeren. Gebruik de volgende technieken om mappen te zoeken in de mappenstructuur:
 
@@ -40,7 +39,7 @@ In de elementenbibliotheek worden bestanden in een mappenstructuur weergegeven. 
 >
 >U kunt de Bibliotheek van Activa verbergen of tonen door de **[!UICONTROL Expand]** of **[!UICONTROL Collapse]** controle op zijn linkerkant te klikken. Vouw het deelvenster Middelenbibliotheek samen wanneer u meer ruimte nodig hebt om in het deelvenster Bladeren te werken.
 
-## Mappen {#creating-folders} maken
+## Mappen maken {#creating-folders}
 
 Ga als volgt te werk om mappen te maken:
 
@@ -52,7 +51,7 @@ Ga als volgt te werk om mappen te maken:
    >
    >U kunt ook mappen maken in Dynamic Media Classic wanneer u bestanden uploadt via FTP. Als u de optie Inclusief submappen selecteert wanneer u uploadt via FTP, wordt de mapstructuur op uw computer in het systeem gerepliceerd. Bestanden en submappen op uw computer of netwerk worden gerepliceerd in de Asset Library en de elementen die u uploadt, worden in deze mappen geplaatst.
 
-## Mappen {#deleting-and-renaming-folders} verwijderen en hernoemen
+## Mappen verwijderen en hernoemen {#deleting-and-renaming-folders}
 
 Selecteer een map en gebruik de volgende technieken om de map te verwijderen of de naam ervan te wijzigen:
 
