@@ -5,17 +5,16 @@ description: Adobe Dynamic Media Classic - technische documentatie
 seo-description: 'Technische documentatie, opmerkingen bij de release en zelfhulpmaterialen voor Adobe Dynamic Media Classic, voorheen Scene 7 '
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 feature: Dynamic Media Classic
-role: Administrator,Business Practitioner
+role: Admin,User
 exl-id: af29eabb-f7c6-420b-9c63-9d60ee2dc148
-translation-type: tm+mt
-source-git-commit: 27d9a9b9f158846b54e4318119aec9e4dc9c4c0d
+source-git-commit: df689ff5a127bfbc400ca5331168d1ff7bb0b42e
 workflow-type: tm+mt
 source-wordcount: '585'
 ht-degree: 1%
 
 ---
 
-# Adobe Dynamic Media Klassieke Guide {#scene7-overview}
+# Adobe Dynamic Media Classic Guide {#scene7-overview}
 
 Welkom bij de Klassieke Help van Dynamic Media. Hier hebt u toegang tot alle beschikbare bronnen voor meer informatie over het gebruik van Dynamic Media Classic (voorheen Scene7 genoemd).
 
