@@ -8,10 +8,9 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/template_basics
 discoiquuid: 87a5a25e-210b-4359-821a-7dfe8c304f9b
 feature: Dynamic Media Classic
-role: Business Practitioner
+role: User
 exl-id: d4315312-195c-453d-a3aa-c5e9f9365fc7
-translation-type: tm+mt
-source-git-commit: c4e2b8b42b56420269087d0d4f262490464270c0
+source-git-commit: df689ff5a127bfbc400ca5331168d1ff7bb0b42e
 workflow-type: tm+mt
 source-wordcount: '164'
 ht-degree: 0%
@@ -30,12 +29,12 @@ Als u uw sjabloon publiceert, wordt deze op Dynamic Media Image Servers geplaats
 
 Sjablonen en alle bijbehorende ondersteuningsbestanden moeten zijn gemarkeerd voor publicatie zodat ze op Dynamic Media Image Servers kunnen worden geplaatst. U kunt deze punten voor publicatie in het Browse Comité merken door het **[!UICONTROL Mark for Publish]** pictogram te klikken.
 
-## Uw sjabloon {#publishing-your-template} publiceren
+## Uw sjabloon publiceren {#publishing-your-template}
 
 Als u sjablonen wilt publiceren naar Dynamic Media Image Servers, klikt u op **[!UICONTROL Publish]** op de algemene navigatiebalk en selecteert u vervolgens een optie **[!UICONTROL When]**. U kunt desgewenst een naam voor de publicatietaak invoeren. Klik op **[!UICONTROL Submit Publish]**.
 
 >[!MORELIKETHIS]
 >
 >* [Elementen markeren voor publicatie](publishing-files.md#publish_after_uploading)
->* [Een publicatietaak maken](publishing-files.md#creating_a_publish_job)
+* [Een publicatietaak maken](publishing-files.md#creating_a_publish_job)
 
