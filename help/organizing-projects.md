@@ -8,17 +8,16 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/managing_assets
 discoiquuid: 036dfc1f-8317-4887-a6e1-d8f2cb61819c
 feature: Dynamic Media Classic, beheer van bedrijfsmiddelen
-role: Business Practitioner
+role: User
 exl-id: 69aabf4a-21bc-4bd8-8aad-33c2cfb9cf57
-translation-type: tm+mt
-source-git-commit: 38d09bb78834c6b3614bf2b96fd6aee5661e0a5a
+source-git-commit: df689ff5a127bfbc400ca5331168d1ff7bb0b42e
 workflow-type: tm+mt
 source-wordcount: '460'
 ht-degree: 0%
 
 ---
 
-# Uw werk organiseren met Projecten{#organizing-your-work-with-projects}
+# Uw werk organiseren met projecten{#organizing-your-work-with-projects}
 
 Projecten bieden een optionele, secundaire manier voor u om elementen onafhankelijk van de mappen te ordenen waarin ze zijn opgeslagen. Een middel kan in slechts één omslag worden geplaatst, maar het kan in meer dan één omslag van het Project voor organisatorische doeleinden worden gekopieerd.
 
@@ -34,7 +33,7 @@ U kunt een project maken wanneer u bestanden uploadt of projecten maakt in het d
 >
 >Voor u om activa in Projecten te organiseren, moet uw beheerder u opstelling hebben om hen te gebruiken. Als er onder aan de elementenbibliotheek geen sectie voor de map Projecten wordt weergegeven, is deze methode voor het ordenen van elementen niet beschikbaar voor u. Zie [Algemene instellingen van toepassing](application-setup.md#general-settings).
 
-## Een projectmap {#creating-a-project-folder} maken
+## Een projectmap maken {#creating-a-project-folder}
 
 U kunt een projectmap maken die begint in de elementenbibliotheek of wanneer u bestanden uploadt naar Dynamic Media Classic:
 
