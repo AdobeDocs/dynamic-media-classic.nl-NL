@@ -8,10 +8,9 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/image_sizing
 discoiquuid: 815e2a19-c64d-45c7-96bc-7f955e54f56e
 feature: Dynamic Media Classic, beheer van bedrijfsmiddelen
-role: Business Practitioner
+role: User
 exl-id: b0010107-248c-4ebc-955c-7514462f351d
-translation-type: tm+mt
-source-git-commit: c4e2b8b42b56420269087d0d4f262490464270c0
+source-git-commit: df689ff5a127bfbc400ca5331168d1ff7bb0b42e
 workflow-type: tm+mt
 source-wordcount: '152'
 ht-degree: 0%
@@ -26,7 +25,7 @@ Als u afbeeldingsbestanden publiceert, worden deze gepubliceerd naar Dynamic Med
 
 Master afbeeldingen moeten zijn gemarkeerd voor publicatie, zodat ze naar Dynamic Media Image Servers kunnen worden gekopieerd. U kunt uw master afbeeldingen voor publicatie markeren in het deelvenster Bladeren door op het pictogram **[!UICONTROL Mark for Publish]** te klikken. U kunt afbeeldingen ook markeren voor publicatie wanneer u ze uploadt naar Dynamic Media Classic.
 
-## Uw master afbeeldingen {#publishing-your-master-images} publiceren
+## Master afbeeldingen publiceren {#publishing-your-master-images}
 
 1. Klik op **[!UICONTROL Publish]** op de algemene navigatiebalk. Selecteer in het dialoogvenster Publiceren de optie Bij (**[!UICONTROL One-Time]** of **[!UICONTROL Recurring]**) en voer desgewenst een naam voor de publicatietaak in
 
