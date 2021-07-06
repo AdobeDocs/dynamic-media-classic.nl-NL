@@ -8,17 +8,16 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/spin_sets
 discoiquuid: 282b8e83-b20f-43f7-b9f8-6eebd5b1c5a7
 feature: Dynamic Media Klassiek,Viewers,Draaiende Reeksen
-role: Business Practitioner
+role: User
 exl-id: 26e3cd5b-f070-4b92-af36-25631723460e
-translation-type: tm+mt
-source-git-commit: c5c8c4f96f18339734f4441733cdb1e7f34d3071
+source-git-commit: df689ff5a127bfbc400ca5331168d1ff7bb0b42e
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '696'
 ht-degree: 0%
 
 ---
 
-# Snel starten: Draaisets{#quick-start-spin-sets}
+# Snel starten: Sets draaien{#quick-start-spin-sets}
 
 Een centrifugeerset simuleert de echte handeling waarbij een object wordt omgedraaid om het te onderzoeken. Met centrifuges kunt u items vanuit elke hoek bekijken en de belangrijkste visuele details vanuit elke hoek verkrijgen. Een centrifugeerset simuleert een kijkervaring van 360 graden. In Dynamic Media Classic kunnen eendimensionale centrifuges worden gebruikt waarbij gebruikers een item kunnen roteren en tweedimensionale centrifuges waarin gebruikers het item kunnen roteren en spiegelen. Bovendien kunnen gebruikers met een paar eenvoudige muisklikken in- en uitzoomen op een vrije vorm en een willekeurige weergave pannen. Op deze manier kunnen gebruikers een item vanuit een bepaald gezichtspunt nader onderzoeken.
 
