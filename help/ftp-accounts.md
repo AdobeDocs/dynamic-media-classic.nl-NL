@@ -8,10 +8,9 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/media_portal
 discoiquuid: d592f0a7-1c27-4463-998a-07351147da1d
 feature: Dynamic Media Classic,Samenwerking,Asset Management
-role: Administrator,Business Practitioner
+role: Admin,User
 exl-id: 95c7d403-7206-4158-b8ad-6091b24b5077
-translation-type: tm+mt
-source-git-commit: 27d9a9b9f158846b54e4318119aec9e4dc9c4c0d
+source-git-commit: df689ff5a127bfbc400ca5331168d1ff7bb0b42e
 workflow-type: tm+mt
 source-wordcount: '222'
 ht-degree: 1%
@@ -40,7 +39,7 @@ Zie [Gebruikers activeren of deactiveren](administration-setup.md#activating_or_
 
    Zie [Bestanden uploaden](uploading-files.md#uploading_files).
 
-## Een bestaand FTP-account {#deleting-an-existing-ftp-account} verwijderen
+## Een bestaand FTP-account verwijderen {#deleting-an-existing-ftp-account}
 
 1. Klik op **[!UICONTROL Setup]** > **[!UICONTROL Media Portal]** > **[!UICONTROL FTP Accounts]**.
 1. Selecteer op de pagina FTP-account toevoegen in de tabel Bestaande accounts de FTP-account die u wilt verwijderen.
