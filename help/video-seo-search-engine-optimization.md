@@ -8,17 +8,16 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/setup
 discoiquuid: 34ecd868-775f-452b-b26e-d139f0e280ae
 feature: Dynamic Media Classic
-role: Administrator
+role: Admin
 exl-id: f76b0e09-f148-46aa-b710-ec35bfebcb37
-translation-type: tm+mt
-source-git-commit: 06bd65c92c88595786b14213944a7cebd0d2590b
+source-git-commit: df689ff5a127bfbc400ca5331168d1ff7bb0b42e
 workflow-type: tm+mt
 source-wordcount: '988'
 ht-degree: 0%
 
 ---
 
-# Video-SEO (Optimalisatie zoekengine){#video-seo-search-engine-optimization}
+# Video-SEO (Optimalisatie zoekmachine){#video-seo-search-engine-optimization}
 
 SEO is het proces om het volume van verkeer aan een Website van onderzoeksmotoren te verbeteren. Terwijl zoekmachines uitblinken in het verzamelen van informatie over op tekst gebaseerde inhoud, kunnen ze geen informatie over video adequaat verkrijgen tenzij deze informatie aan hen wordt verstrekt.
 
@@ -101,7 +100,7 @@ Zie [Metagegevensweergaven](application-setup.md#metadata_views).
 >
 >Publiceer de videospecificaties of de MRSS-feed voordat u deze kunt verzenden naar zoekprogramma&#39;s. Video Sitemap en Media RSS (mRSS) de voederdossiers worden opgeslagen in de wortelomslag van het bedrijf. Markeer deze XML-bestanden voor publicatie, indien nodig, en klik op **[!UICONTROL Publish]**.
 
-## Video Sitemap- en MRSS-Feed-bestanden verzenden naar zoekmachines {#submitting-video-sitemap-and-mrss-feed-files-to-search-engines}
+## Video Sitemap- en MRSS-Feed-bestanden verzenden naar zoekprogramma&#39;s {#submitting-video-sitemap-and-mrss-feed-files-to-search-engines}
 
 Video Sitemap en Media RSS (mRSS) de voederdossiers worden opgeslagen in de wortelomslag van het bedrijf:
 
@@ -110,7 +109,7 @@ Video Sitemap en Media RSS (mRSS) de voederdossiers worden opgeslagen in de wort
 
 Kopieer een van deze URL&#39;s naar de webstramiengereedschappen van het zoekprogramma om het bestand Video Sitemap of Media RSS (mRSS) naar zoekprogramma&#39;s te verzenden.
 
-## Video-SEO-rapporten weergeven {#viewing-video-seo-reports}
+## Video SEO-rapporten weergeven {#viewing-video-seo-reports}
 
 Bekijk video SEO rapporten op de Videopagina van het Rapport van de Optimalisering van de Motor van het Onderzoek. Als u deze pagina wilt openen, klikt u op **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Video SEO]** > **[!UICONTROL Reports]**.
 
