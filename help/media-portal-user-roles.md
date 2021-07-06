@@ -10,17 +10,16 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/media_portal
 discoiquuid: 1bd7cb5d-156c-4dad-a725-e177f05ccedf
 feature: Dynamic Media Classic,Samenwerking,Asset Management
-role: Administrator,Business Practitioner
+role: Admin,User
 exl-id: ce9b5a41-cc3e-4801-8080-607cf7be338b
-translation-type: tm+mt
-source-git-commit: 38d09bb78834c6b3614bf2b96fd6aee5661e0a5a
+source-git-commit: df689ff5a127bfbc400ca5331168d1ff7bb0b42e
 workflow-type: tm+mt
 source-wordcount: '328'
 ht-degree: 0%
 
 ---
 
-# Gebruikersrollen voor mediaportal{#media-portal-user-roles}
+# Gebruikersrollen van Media Portal{#media-portal-user-roles}
 
 Het Portaal van media verstrekt de volgende rollen, elk met verschillende toegangsrechten en toestemmingen. Wanneer u een gebruiker aanmeldt, wijst u de gebruiker een van de volgende rollen toe:
 
