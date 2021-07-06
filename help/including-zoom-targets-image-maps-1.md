@@ -8,17 +8,16 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/swatch_sets
 discoiquuid: f75f6d5b-d689-4640-838f-a32d77859f62
 feature: Dynamic Media Classic,Viewers
-role: Business Practitioner
-translation-type: tm+mt
-source-git-commit: e727c1b5fb43c7def842ff1bafcc8b3ef3437cde
+role: User
+exl-id: 1eaffe17-1fa3-4726-b0a1-369fabb9ee7e
+source-git-commit: df689ff5a127bfbc400ca5331168d1ff7bb0b42e
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '164'
 ht-degree: 0%
 
 ---
 
-
-# Inclusief zoomdoelen en Afbeeldingen met hyperlinks in stalensets{#including-zoom-targets-and-image-maps-in-swatch-sets}
+# Inclusief zoomdoelen en afbeeldingen met hyperlinks in stalensets{#including-zoom-targets-and-image-maps-in-swatch-sets}
 
 Als u zoomdoelen en Afbeeldingen met hyperlinks definieert voor de afbeeldingen in de stalenset, worden deze doelen en toewijzingen weergegeven in de Staalset-viewer. Gebruikers kunnen bijvoorbeeld op een afbeelding met hyperlinks in de Staalsetviewer klikken en een nieuwe pagina met informatie over een item op uw website openen. Gebruikers kunnen op een doelminiatuurafbeelding in de Staalset-viewer klikken en automatisch op een gedeelte van een afbeelding inzoomen.
 
@@ -27,5 +26,5 @@ Als u zoomdoelen en afbeeldingen met hyperlinks beschikbaar wilt maken voor gebr
 >[!MORELIKETHIS]
 >
 >* [Zoomdoelen maken voor zoomen met instructies](creating-zoom-targets-guided-zoom.md#creating_zoom_targets_for_guided_zoom)
->* [Afbeeldingskaarten maken](creating-image-maps.md#creating_image_maps)
+* [Afbeeldingskaarten maken](creating-image-maps.md#creating_image_maps)
 
