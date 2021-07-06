@@ -8,10 +8,9 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/template_basics
 discoiquuid: d263f041-5a0d-4c4f-9266-aeff51a5a7e2
 feature: Dynamic Media Classic
-role: Business Practitioner
+role: User
 exl-id: 118806ea-c8a7-4aaf-9ae3-739c6b04ea77
-translation-type: tm+mt
-source-git-commit: 7456226cf6469f40e66ff327475d4c605b6d6e13
+source-git-commit: df689ff5a127bfbc400ca5331168d1ff7bb0b42e
 workflow-type: tm+mt
 source-wordcount: '778'
 ht-degree: 0%
@@ -28,7 +27,7 @@ In tekstlaagparameters kunt u de tekstreeks ook een dynamisch veld maken dat is 
 
 U kunt meerdere keren naar een parameter verwijzen. Gebruik de keuzelijst met invoervak voor elke opdracht in het parameterdialoogvenster om een parameter te selecteren die overeenkomt met die opdracht. (Alle grootteparameters zijn bijvoorbeeld beschikbaar voor de opdracht `size=`, enzovoort). U kunt de parameterverwijzing aan om het even welke parameter opnieuw toewijzen reeds in de combodoos, en aan iets anders noemen niet in de combodoos. In het laatste geval moet de naam uniek zijn. Anders geeft een fout aan dat de parameter bestaat. Wanneer u een parameterverwijzing verwijdert, wordt de parameter verwijderd uit de URL als nergens anders naar wordt verwezen. Wanneer u de standaardwaarde voor een tekstparameter wijzigt, worden alle verwijzingen naar die parameter bijgewerkt. U kunt de update in de laaglijst, in het teruggeven van het malplaatje, en in URL zien. Wanneer u een laagkenmerk wijzigt door grepen vergroten/verkleinen of waarden in het deelvenster Eigenschappen te typen, wordt de parameterwaarde bijgewerkt en worden alle verwijzingen naar de parameter bijgewerkt. Als u bijvoorbeeld de grootte van twee lagen hebt bepaald met behulp van één parameter, worden beide laaggrootten bijgewerkt wanneer een van de laaggrootten wordt gewijzigd. Wanneer u een voorbeeld van een sjabloon bekijkt en een parameter wijzigt, worden alle verwijzingen naar die parameter bijgewerkt.
 
-## Een laag {#parameterizing-a-layer} parametereren
+## Een laag parameters geven {#parameterizing-a-layer}
 
 Voer voor elke laag in de sjabloon de volgende stappen uit om sjabloonparameters te maken:
 
@@ -42,7 +41,7 @@ Voer voor elke laag in de sjabloon de volgende stappen uit om sjabloonparameters
 
 Om een lijst van de parameters te zien u voor uw malplaatje hebt gecreeerd, selecteer de Samenvatting van de Parameter knoop op het scherm van het Malplaatje. Het scherm Parameter Summary wordt geopend. De naam van elke laag wordt weergegeven en als u parameters voor een laag hebt gemaakt, worden de namen en waarden van de parameters weergegeven.
 
-## Dynamische-tekstparameters {#creating-dynamic-text-parameters} maken
+## Dynamische-tekstparameters maken {#creating-dynamic-text-parameters}
 
 Voor tekstlagen kunt u ook van de tekstreeks een dynamisch veld maken dat is gekoppeld aan een databasewaarde. Voer de volgende stappen uit:
 
