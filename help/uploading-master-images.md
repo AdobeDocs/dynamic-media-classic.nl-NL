@@ -10,7 +10,7 @@ discoiquuid: 8c94bafc-94cc-496f-a394-a945cd7b02cf
 feature: Dynamic Media Classic, beheer van bedrijfsmiddelen
 role: User
 exl-id: 410ba80c-7f01-4cd0-9ab3-db9658757ba7
-source-git-commit: df689ff5a127bfbc400ca5331168d1ff7bb0b42e
+source-git-commit: 885fcd16559d31d3b9bad88705b4b6bec18515ee
 workflow-type: tm+mt
 source-wordcount: '247'
 ht-degree: 0%
@@ -27,7 +27,7 @@ Zie [Bestanden uploaden](uploading-files.md#uploading_files) voor meer informati
 
 Bereid uw master afbeeldingsbestanden voor voordat u ze uploadt naar Dynamic Media Classic:
 
-* **Afbeeldingsgrootte**  - Maak de grootst mogelijke afbeeldingen die u wilt gebruiken. De meeste afbeeldingen zijn 1500 tot 2500 pixels groot. Als u de functie Zoomen wilt gebruiken, raadt Dynamic Media Classic u aan afbeeldingen te gebruiken die minstens 2000 pixels groot zijn voor optimale zoomdetails. Dynamic Media Classic kan afbeeldingen renderen tot 25 megapixels per pixel. U kunt bijvoorbeeld een afbeelding van 5000 x 5000 megapixel of een andere formaatcombinatie van maximaal 25 megapixels gebruiken.
+* **Afbeeldingsgrootte**  - Maak de grootst mogelijke afbeeldingen die u wilt gebruiken. De meeste afbeeldingen zijn 1500 tot 2500 pixels groot. Als u de functie Zoomen wilt gebruiken, raadt Dynamic Media Classic u aan afbeeldingen te gebruiken die minstens 2000 pixels groot zijn voor optimale zoomdetails. Dynamic Media Classic kan afbeeldingen renderen tot 25 megapixels per pixel. U kunt bijvoorbeeld een afbeelding van 5000 x 5000 MP of een andere formaatcombinatie van maximaal 25 MP gebruiken.
 
 * **Bestandsindelingen**  - Dynamic Media Classic ondersteunt alle standaardbestandsindelingen voor afbeeldingen, waaronder TIFF, BMP, JPEG, PSD, GIF en EPS. Opmaak zonder verlies van afbeeldingen (TIFF en PNG) wordt aanbevolen. Als u een JPEG-afbeelding gebruikt, gebruikt u de instellingen voor de hoogste kwaliteit.
 
