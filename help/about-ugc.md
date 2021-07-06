@@ -7,17 +7,16 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/user_generated_content
 discoiquuid: c1594abf-8cc2-46dd-88bf-af93db7db607
 feature: Dynamic Media Classic
-role: Administrator,Business Practitioner
-translation-type: tm+mt
-source-git-commit: e727c1b5fb43c7def842ff1bafcc8b3ef3437cde
+role: Admin,User
+exl-id: 14729192-7b9d-4f42-99da-6564a3f35959
+source-git-commit: df689ff5a127bfbc400ca5331168d1ff7bb0b42e
 workflow-type: tm+mt
-source-wordcount: '141'
+source-wordcount: '138'
 ht-degree: 0%
 
 ---
 
-
-# Informatie over door de gebruiker gegenereerde inhoud{#about-user-generated-content}
+# Door de gebruiker gegenereerde inhoud{#about-user-generated-content}
 
 Het gebruik van UGC (door de gebruiker gegenereerde inhoud) bestaat uit het uploaden van elementen naar een speciale Dynamic Media Classic-opslagruimte en het uitvoeren van gerelateerde bewerkingen.
 
@@ -34,4 +33,3 @@ Nadat u een sleutel van het gedeelde geheim terugwint en token uploadt, kunt u d
 * Metagegevens over afbeeldingselementen ophalen.
 * Een geüpload element verwijderen.
 * Krijg informatie over het gebruik van de schijfruimte van een bedrijf.
-
