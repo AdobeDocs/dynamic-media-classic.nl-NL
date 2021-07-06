@@ -10,18 +10,18 @@ discoiquuid: e5b510a8-8b7f-4c60-869e-d664a8157e63
 feature: Dynamic Media Classic
 role: Data Engineer,Admin,User
 exl-id: 261b8f7c-c61c-4ce3-b9dc-8549347aca2e
-source-git-commit: df689ff5a127bfbc400ca5331168d1ff7bb0b42e
+source-git-commit: 885fcd16559d31d3b9bad88705b4b6bec18515ee
 workflow-type: tm+mt
-source-wordcount: '331'
+source-wordcount: '330'
 ht-degree: 0%
 
 ---
 
 # Aanmelden bij Adobe Analytics{#log-in-to-adobe-analytics}
 
-Alvorens u login om de rapporten van Adobe Analytics te vormen en de rapportvariabelen van Adobe Analytics aan de Klassieke gebeurtenissen van Dynamic Media aan te passen, verifieer dat u een lid van de groep van de Toegang van de Dienst van het Web in Adobe Analytics bent. De leden in deze groep kunnen tot alle rapporten in de gespecificeerde rapportreeksen door middel van de Diensten API van het Web van de Marketing Cloud ongeacht de toestemmingen toegang hebben die in de interface worden geplaatst. Als u een lid wilt toevoegen aan de groep, klikt u in Adobe Analytics op **[!UICONTROL Admin Tools]** > **[!UICONTROL User Management]** > **[!UICONTROL Edit Groups]**.
+Alvorens u login om de rapporten van Adobe Analytics te vormen en de rapportvariabelen van Adobe Analytics aan de Klassieke gebeurtenissen van Dynamic Media aan te passen, verifieer dat u een lid van de groep van de Toegang van de Dienst van het Web in Adobe Analytics bent. De leden in deze groep kunnen tot alle rapporten in de gespecificeerde rapportreeksen door middel van de Diensten API van het Web van Experience Cloud toegang hebben ongeacht de toestemmingen die in de interface worden geplaatst. Als u een lid wilt toevoegen aan de groep, klikt u in Adobe Analytics op **[!UICONTROL Admin Tools]** > **[!UICONTROL User Management]** > **[!UICONTROL Edit Groups]**.
 
-Wanneer u zich aanmeldt, kunt u de Marketing Cloud-Org-id invoeren om de meest recente videoanalytische implementatie te gebruiken. Als u ervoor kiest om uw id niet in te voeren, werkt het rapporteren van video nog steeds. De gegevens worden echter mogelijk niet correct geïntegreerd met andere gegevens voor die client van buiten Dynamic Media Classic.
+Wanneer u zich aanmeldt, kunt u de Experience Cloud Org-id invoeren om de meest recente videoanalytische implementatie te gebruiken. Als u ervoor kiest om uw id niet in te voeren, werkt het rapporteren van video nog steeds. De gegevens worden echter mogelijk niet correct geïntegreerd met andere gegevens voor die client van buiten Dynamic Media Classic.
 
 >[!NOTE]
 >
@@ -32,7 +32,7 @@ Wanneer u zich aanmeldt, kunt u de Marketing Cloud-Org-id invoeren om de meest r
 1. Tik in de rechterbovenhoek van de klassieke Dynamic Media-pagina op **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]**.
 1. Tik in het linkervenster onder **[!UICONTROL Application Setup]** op **[!UICONTROL Adobe Analytics]**.
 1. Tik op **[!UICONTROL Adobe Analytics Login]** op de Adobe Analytics-configuratiepagina.
-1. Voer in het dialoogvenster **[!UICONTROL Adobe Analytics Login]** uw bedrijfsnaam, Marketing Cloud-Org-id (optioneel), gebruikersnaam en de *sleutel voor gedeeld geheim* in het tekstveld **[!UICONTROL Password]** in.
+1. Voer in het dialoogvenster **[!UICONTROL Adobe Analytics Login]** de bedrijfsnaam, de Experience Cloud Org-id (optioneel), de gebruikersnaam en de *gedeelde geheime sleutel* in het tekstveld **[!UICONTROL Password]** in.
 
    U kunt de *gedeelde geheime* sleutel van de Admin Console van Analytics terugwinnen. Zie [API-referenties ophalen voor gebruikersaccounts](https://github.com/AdobeDocs/analytics-2.0-apis/blob/master/create-oauth-client.md).
 
