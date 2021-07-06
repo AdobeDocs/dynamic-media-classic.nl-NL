@@ -8,10 +8,9 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/spin_sets
 discoiquuid: 38efb70d-e17e-4cef-8af1-be748f66f3ea
 feature: Dynamic Media Klassiek,Viewers,Draaiende Reeksen
-role: Business Practitioner
+role: User
 exl-id: b085f7ea-4623-402e-97f5-ed8ad5f368c7
-translation-type: tm+mt
-source-git-commit: c4e2b8b42b56420269087d0d4f262490464270c0
+source-git-commit: df689ff5a127bfbc400ca5331168d1ff7bb0b42e
 workflow-type: tm+mt
 source-wordcount: '169'
 ht-degree: 0%
@@ -26,7 +25,7 @@ Als u een Spin-set publiceert, worden de afbeeldingen in de set op Dynamic Media
 
 Markeer de centrifugeset voor publicatie zodat deze naar de klassieke Dynamic Media-afbeeldingsservers kan worden gekopieerd. U kunt uw Vastgestelde Rotatie voor publicatie in het Browse Comité merken door het **[!UICONTROL Mark for Publish]** pictogram links van zijn naam te klikken. Alle afbeeldingen in de set worden gemarkeerd voor publicatie wanneer u de paginaset markeert voor publicatie.
 
-## De centrifugeset {#publishing-the-spin-set} publiceren
+## De centrifugeset publiceren {#publishing-the-spin-set}
 
 Als u een op Dynamic Media-afbeeldingsservers ingestelde centrifugeermodule wilt publiceren, klikt u op **[!UICONTROL Publish]** op de algemene navigatiebalk. Selecteer vervolgens een optie **[!UICONTROL When]**. U kunt desgewenst een naam voor de publicatietaak invoeren. Klik op **[!UICONTROL Submit Publish]**.
 
