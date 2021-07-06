@@ -8,10 +8,9 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/ecatalogs
 discoiquuid: 140640f2-3ca4-4b6c-a240-5f01be87fa9c
 feature: Dynamic Media Classic,Viewers,eCatalog
-role: Business Practitioner
+role: User
 exl-id: aee72576-1e3e-401c-953d-cc2be27f7dfd
-translation-type: tm+mt
-source-git-commit: 38d09bb78834c6b3614bf2b96fd6aee5661e0a5a
+source-git-commit: df689ff5a127bfbc400ca5331168d1ff7bb0b42e
 workflow-type: tm+mt
 source-wordcount: '622'
 ht-degree: 1%
@@ -51,7 +50,7 @@ De meest gebruikelijke manier om een eCatalog in te voeren is een verbinding in 
 
 Zie [HTML5 eCatalog-viewer insluiten in de Adobe Viewers Reference Guide](https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/library/viewers-aem-assets-dmc/ecatalog/c-html5-20-ecatalog-viewer-about.html#section-e1c3106f5b3e445d9b95be337c2f94e2) voor meer informatie en codevoorbeelden.
 
-## De insluitcode van een eCatalog-viewer {#copying-the-embed-code-of-an-ecatalog-viewer} kopiëren
+## De insluitcode van een eCatalog-viewer kopiëren {#copying-the-embed-code-of-an-ecatalog-viewer}
 
 Met de functie Code insluiten kunt u de viewercode voor de geselecteerde eCatalog controleren. U kunt de code ook naar het klembord kopiëren, zodat u de code op uw webpagina&#39;s kunt plakken en de viewer kunt implementeren. Het bewerken van de code is niet toegestaan in het dialoogvenster Code insluiten.
 
