@@ -7,18 +7,17 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/image_sets
 discoiquuid: ef0c292f-3240-4c62-8f32-25de8e4922ad
-feature: Dynamic Media Classic,Viewers,Image Sets
-role: Business Practitioner
-translation-type: tm+mt
-source-git-commit: e727c1b5fb43c7def842ff1bafcc8b3ef3437cde
+feature: Dynamic Media Klassiek,Viewers,Afbeeldingssets
+role: User
+exl-id: e51fc81e-e5be-4f07-80ad-3aa87d8bc87e
+source-git-commit: df689ff5a127bfbc400ca5331168d1ff7bb0b42e
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: '166'
 ht-degree: 0%
 
 ---
 
-
-# Inclusief zoomdoelen en Afbeeldingen met hyperlinks in afbeeldingssets{#including-zoom-targets-and-image-maps-in-image-sets}
+# Inclusief zoomdoelen en afbeeldingen met hyperlinks in afbeeldingssets{#including-zoom-targets-and-image-maps-in-image-sets}
 
 Als u zoomdoelen en afbeeldingen met hyperlinks definieert voor de afbeeldingen in de afbeeldingsset, worden deze doelen en afbeeldingen weergegeven in de viewer voor de afbeeldingsset. Gebruikers kunnen bijvoorbeeld op een afbeelding met hyperlinks in de viewer voor de afbeeldingsset klikken en een nieuwe pagina met informatie over een item op uw website openen. Gebruikers kunnen op een doelminiatuurafbeelding in de Viewer Afbeeldingsset klikken en automatisch op een gedeelte van een afbeelding inzoomen.
 
@@ -27,5 +26,5 @@ Als u zoomdoelen en Afbeeldingen met hyperlinks beschikbaar wilt maken voor gebr
 >[!MORELIKETHIS]
 >
 >* [Zoomdoelen maken voor zoomen met instructies](creating-zoom-targets-guided-zoom.md#creating_zoom_targets_for_guided_zoom)
->* [Afbeeldingskaarten maken](creating-image-maps.md#creating_image_maps)
+* [Afbeeldingskaarten maken](creating-image-maps.md#creating_image_maps)
 
