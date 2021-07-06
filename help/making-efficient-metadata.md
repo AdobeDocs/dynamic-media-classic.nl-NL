@@ -7,18 +7,17 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/media_portal
 discoiquuid: b399c2b2-3e59-43e7-aa7d-dd4fdf4e9bad
-feature: Dynamic Media Classic,Collaboration,Metadata,Asset Management
-role: Administrator,Business Practitioner
-translation-type: tm+mt
-source-git-commit: e727c1b5fb43c7def842ff1bafcc8b3ef3437cde
+feature: Dynamic Media Klassiek,Samenwerking,Metagegevens,Middelenbeheer
+role: Admin,User
+exl-id: e6a5af61-37be-4152-9ea3-8868f054783c
+source-git-commit: df689ff5a127bfbc400ca5331168d1ff7bb0b42e
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '169'
 ht-degree: 0%
 
 ---
 
-
-# Efficiënter gebruik van metagegevens maken{#making-more-efficient-use-of-metadata}
+# Efficiënter gebruik van metagegevens{#making-more-efficient-use-of-metadata}
 
 Alle bestanden op Dynamic Media Classic bevatten metagegevens. Met metagegevens wordt een bestand beschreven en geïdentificeerd. wordt gebruikt voor het zoeken naar en het ordenen van elementen. Als u de metagegevens van een element wilt weergeven, opent u het in de gedetailleerde weergave en bekijkt u het deelvenster Metagegevens. De metagegevensvelden in dit deelvenster bieden beschrijvende informatie over het element.
 
