@@ -6,10 +6,9 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/swatch_sets
 feature: Dynamic Media Classic,Viewers
-role: Business Practitioner
+role: User
 exl-id: 8bb1c744-270a-4752-b163-443708fca6c2
-translation-type: tm+mt
-source-git-commit: 38d09bb78834c6b3614bf2b96fd6aee5661e0a5a
+source-git-commit: df689ff5a127bfbc400ca5331168d1ff7bb0b42e
 workflow-type: tm+mt
 source-wordcount: '626'
 ht-degree: 1%
@@ -24,7 +23,7 @@ Nadat u een Staalset hebt gepubliceerd, kunt u de URL of insluitcode van de Staa
 >
 >De URL is pas actief als u het element publiceert.
 
-## URL van stalenset {#copying-a-swatch-set-url} kopiëren
+## URL van stalenset kopiëren {#copying-a-swatch-set-url}
 
 1. Klik in de vervolgkeuzelijst Tonen in het deelvenster Asset Browse op **[!UICONTROL Swatch Set]**.
 1. Navigeer in het deelvenster Elementenbibliotheek aan de linkerkant naar de elementenmap die de stalenset bevat waarvan u de insluitcode wilt kopiëren.
@@ -49,7 +48,7 @@ De meest gebruikelijke manier om Staalsets te implementeren is het plaatsen van 
 
 Zie [HTML5 Zoom Viewer insluiten in de Adobe Viewers Reference Guide](https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/library/viewers-aem-assets-dmc/zoom/c-html5-20-zoom-viewer-about.html#section-e1c3106f5b3e445d9b95be337c2f94e2) voor meer informatie en codevoorbeelden.
 
-## De insluitcode van een Staalsetviewer {#copying-the-embed-code-of-a-swatch-set-viewer} kopiëren
+## De insluitcode van een Staalsetviewer kopiëren {#copying-the-embed-code-of-a-swatch-set-viewer}
 
 Met de functie Code insluiten kunt u de viewercode voor de geselecteerde stalenset controleren. U kunt de code ook naar het klembord kopiëren, zodat u de code op uw webpagina&#39;s kunt plakken en de viewer kunt implementeren. Het bewerken van de code is niet toegestaan in het dialoogvenster Code insluiten.
 
