@@ -8,21 +8,20 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/ecatalogs
 discoiquuid: 28889c60-596a-40d2-85d4-f48a4f86b932
 feature: Dynamic Media Classic,Viewers,eCatalog
-role: Business Practitioner
+role: User
 exl-id: 51d411b2-b4bc-4cf6-afca-dd0ed0d219a1
-translation-type: tm+mt
-source-git-commit: 7456226cf6469f40e66ff327475d4c605b6d6e13
+source-git-commit: df689ff5a127bfbc400ca5331168d1ff7bb0b42e
 workflow-type: tm+mt
 source-wordcount: '965'
 ht-degree: 0%
 
 ---
 
-# Een eCatalog{#creating-an-ecatalog} maken
+# Een eCatalog maken{#creating-an-ecatalog}
 
 Als u een eCatalog maakt, moet u de pagina&#39;s ordenen, de paginalay-out kiezen en de pagina&#39;s koppelen door Afbeeldingen met hyperlinks te tekenen en rollover- en hypertekstkoppelingsgegevens in te voeren. Desgewenst kunt u de inhoudsopgave aanpassen, zodat de viewers de paginanamen in plaats van de paginanummers in de eCatalog-viewer kunnen zien.
 
-## Een eCatalog {#create} maken
+## Een eCatalog maken {#create}
 
 U kunt afbeeldingsbestanden en PDF-bestanden opnemen in uw eCatalog.
 
@@ -64,7 +63,7 @@ Zie ook [Elementen handmatig publiceren](publishing-files.md#manually_publishing
 
    U kunt een voorvertoning van de eCatalog weergeven nadat u de catalogus hebt opgeslagen door op **[!UICONTROL Preview]** te klikken.
 
-## Een eCatalog {#editing-an-ecatalog} bewerken
+## Een eCatalog bewerken {#editing-an-ecatalog}
 
 Afhankelijk van het feit of u een gepubliceerde set of een niet-gepubliceerde set bewerkt, heeft de optie **[!UICONTROL Publish after save]** op de volgende manieren invloed op de set en stelt u de leden in:
 
@@ -84,7 +83,7 @@ Zie ook [Elementen handmatig publiceren](publishing-files.md#manually_publishing
 1. Als u klaar bent met bewerken, controleert u of u in de rechterbenedenhoek van de pagina **Publiceren na opslaan** hebt geselecteerd (standaardinstelling).
 1. Klik **Opslaan**, selecteer een opslagmap, voer een naam voor de set in en klik op **Opslaan**.
 
-## Een eCatalog {#deleting-an-ecatalog} verwijderen
+## Een eCatalog verwijderen {#deleting-an-ecatalog}
 
 Wanneer u een set verwijdert, wordt de set zelf naar de prullenbak verplaatst. De leden (of &quot;kinderen&quot;) in die reeks worden echter niet beïnvloed; in plaats daarvan behouden zij elk hun bestaande gepubliceerde of niet - gepubliceerde staat .
 
@@ -95,7 +94,7 @@ Zie ook [Elementen handmatig publiceren](publishing-files.md#manually_publishing
 1. Selecteer een of meer eCatalogi in de rasterweergave, lijstweergave of detailweergave.
 1. Klik op **Bestand** > **Verwijderen** > **Verwijderen** op de algemene navigatiebalk.
 
-## De inhoudsopgave aanpassen (TOC) {#customizing-the-table-of-contents-toc}
+## De inhoudsopgave aanpassen {#customizing-the-table-of-contents-toc}
 
 Dynamic Media Classic biedt standaardpaginanummers in uw eCatalog op het tabblad Order Pages van het eCatalog-scherm. Voor aangepaste paginanamen kunt u de paginalabels wijzigen die de inhoudsopgave vormen. Het wordt aanbevolen de naam van de voor- en achteromslag te wijzigen. De voorpagina kan bijvoorbeeld &quot;Omslag&quot; in plaats van &quot;Pagina 0-1&quot; lezen.
 
@@ -105,11 +104,11 @@ U kunt handmatig een aangepaste inhoudsopgave (TOC) voor uw eCatalog maken of de
 >
 >Als u de standaardpaginatitels wilt herstellen, klikt u op de knop Codes in inhoudsopgave op het tabblad Pagina&#39;s bestellen en kiest u Standaardwaarden herstellen (Alles).
 
-### Paginanamen {#manually-entering-page-names} handmatig invoeren
+### Paginanamen handmatig invoeren {#manually-entering-page-names}
 
 Als u de paginanamen een voor een handmatig wilt invoeren, gaat u naar het tabblad Pagina&#39;s bestellen van het eCatalog-scherm. Klik vervolgens in het veld Paginanummer en voer een naam in. Voer een naam in voor elke pagina die u een naam wilt geven.
 
-### Paginanamen {#importing-page-names} importeren
+### Paginanamen importeren {#importing-page-names}
 
 Het wordt aanbevolen paginanamen te importeren als u te maken hebt met een eCatalog met veel pagina&#39;s. U kunt de namen importeren uit een door tabs gescheiden of XML-bestand.
 
