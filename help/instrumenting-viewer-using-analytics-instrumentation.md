@@ -8,17 +8,16 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/adobe_analytics_instrumentation_kit
 discoiquuid: a2824244-1755-42de-a167-42af117cf038
 feature: Dynamic Media Classic
-role: Data Engineer,Administrator,Business Practitioner
+role: Data Engineer,Admin,User
 exl-id: 9ea1546d-e6d1-4ba4-8fa1-26b4e69375ba
-translation-type: tm+mt
-source-git-commit: 27d9a9b9f158846b54e4318119aec9e4dc9c4c0d
+source-git-commit: df689ff5a127bfbc400ca5331168d1ff7bb0b42e
 workflow-type: tm+mt
 source-wordcount: '297'
 ht-degree: 0%
 
 ---
 
-# Een viewer besturen met de Adobe Analytics Instrumentation Kit{#instrumenting-a-viewer-using-the-adobe-analytics-instrumentation-kit}
+# Een viewer van instrumenten voorzien met de Adobe Analytics Instrumentation Kit{#instrumenting-a-viewer-using-the-adobe-analytics-instrumentation-kit}
 
 Met de Adobe Analytics Instrumentation Kit kunt u een HTML5-viewer integreren met Adobe Analytics.
 
@@ -44,6 +43,6 @@ function s7ComponentEvent(objectId, componentClass, instanceName, timeStamp, eve
 
 De functienaam is hoofdlettergevoelig. De enige parameter die wordt doorgegeven aan `s7componentEvent`dat is vereist, is de laatste parameter: `eventData`. Waar `s7track()` in s_code.jsp hierboven wordt bepaald. En `s7track` behandelt al het volgen per elke gebeurtenis. (Als u de gegevens die naar Adobe Analytics worden verzonden verder wilt aanpassen, is dit gebied de plaats om ze te maken.)
 
-## HREF- en ITEM-gebeurtenissen {#enabling-href-and-item-events} inschakelen
+## HREF- en ITEM-gebeurtenissen inschakelen {#enabling-href-and-item-events}
 
 U kunt HREF-gebeurtenissen (rollover) en ITEM-gebeurtenissen (muisklikken/aanraken) inschakelen in de viewers via Afbeeldingskaart bewerken. Definieer de id&#39;s voor de HREF en het ITEM in de afbeelding met hyperlinks die aan de viewerinhoud zijn gekoppeld. Voeg een `&rolloverKey=` parameter aan de waarde HREF binnen de Kaart van het Beeld toe.
