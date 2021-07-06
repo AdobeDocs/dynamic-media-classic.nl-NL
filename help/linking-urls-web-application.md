@@ -8,10 +8,9 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/image_sizing
 discoiquuid: 71299640-676d-49b7-841d-6118f31044e8
 feature: Dynamic Media Classic
-role: Business Practitioner
+role: User
 exl-id: ca629427-da33-4bab-9d08-6d9368042f7e
-translation-type: tm+mt
-source-git-commit: 38d09bb78834c6b3614bf2b96fd6aee5661e0a5a
+source-git-commit: df689ff5a127bfbc400ca5331168d1ff7bb0b42e
 workflow-type: tm+mt
 source-wordcount: '804'
 ht-degree: 0%
@@ -24,7 +23,7 @@ Uw websites en toepassingen hebben toegang tot Dynamic Media Image Server-inhoud
 
 Kopieer deze URL-tekenreeksen vanuit Dynamic Media Classic om deze in uw webpagina&#39;s en toepassingen te plaatsen. Als u een URL-tekenreeks wilt ophalen die is gegenereerd met een voorinstelling voor afbeelding, gaat u naar het voorvertoningsscherm of het deelvenster Bladeren (in de gedetailleerde weergave).
 
-## Een URL voor een voorinstelling voor afbeeldingen verkrijgen {#obtaining-an-image-preset-url}
+## Een URL met voorinstellingen afbeelding verkrijgen {#obtaining-an-image-preset-url}
 
 U kunt een URL-tekenreeks die is gegenereerd door een voorinstelling voor afbeelding, opvragen in de voorvertoning of in de detailweergave. Nadat u de URL hebt gekopieerd, landt deze op het Klembord, zodat u deze desgewenst kunt plakken.
 
@@ -32,7 +31,7 @@ U kunt een URL-tekenreeks die is gegenereerd door een voorinstelling voor afbeel
 >
 >De URL is pas actief als u het element publiceert.
 
-### Een voorinstellings-URL voor afbeeldingen verkrijgen via Voorvertoning {#obtaining-an-image-preset-url-from-preview}
+### Een voorinstellings-URL voor afbeeldingen ophalen uit de voorvertoning {#obtaining-an-image-preset-url-from-preview}
 
 1. Navigeer in het deelvenster Elementenbibliotheek aan de linkerkant naar de mappen Middelen die het afbeeldingselement bevatten waarvan u een voorvertoning wilt weergeven.
 1. Voer een van de volgende handelingen uit:
@@ -45,7 +44,7 @@ U kunt een URL-tekenreeks die is gegenereerd door een voorinstelling voor afbeel
 1. Klik in de rechterbovenhoek van het voorvertoningsvenster in het venster Lijst met voorinstellingen afbeelding op **[!UICONTROL Copy URL]** voor het geselecteerde type voorinstelling.
 1. Klik in de rechterbenedenhoek van het venster Lijst met voorinstellingen afbeelding op **[!UICONTROL Close]** om terug te keren naar het scherm Middelen.
 
-### Een URL met voorinstellingen voor afbeeldingen verkrijgen in het deelvenster Bladeren {#obtaining-an-image-preset-url-from-the-browse-panel}
+### Een vooraf ingestelde URL voor afbeeldingen verkrijgen via het deelvenster Bladeren {#obtaining-an-image-preset-url-from-the-browse-panel}
 
 1. Navigeer in het deelvenster Elementenbibliotheek aan de linkerkant naar de mappen Middelen die het afbeeldingselement bevatten waarvan u een voorvertoning wilt weergeven.
 1. Klik rechts van de werkbalk boven het middelenvenster op **[!UICONTROL Grid View]**. Selecteer in het venster Middelen één afbeeldingselement.
@@ -53,7 +52,7 @@ U kunt een URL-tekenreeks die is gegenereerd door een voorinstelling voor afbeel
 1. Klik op **[!UICONTROL URLs]** in het deelvenster aan de rechterkant van het scherm om de lijst met voorinstellingen voor afbeeldingen te openen.
 1. Klik op **[!UICONTROL Copy URL]** naast de naam van de voorinstelling Afbeelding met de URL die u naar het klembord wilt kopiëren.
 
-## Informatie over URL-tekenreeksen met voorinstellingen afbeelding {#about-image-preset-url-strings}
+## Over URL-tekenreeksen met voorinstellingen afbeelding {#about-image-preset-url-strings}
 
 Een URL-aanroep naar Afbeeldingsgrootte op Dynamic Media Image Servers heeft de volgende basissyntaxis:
 
