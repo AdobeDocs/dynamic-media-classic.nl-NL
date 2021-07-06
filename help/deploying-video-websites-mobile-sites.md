@@ -8,17 +8,16 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/video
 discoiquuid: 0d006314-c4cc-4f6c-a51c-6075bb445e39
 feature: Dynamic Media Klassiek,Viewers,Video
-role: Business Practitioner
+role: User
 exl-id: 3df22d48-edb5-4927-aefb-104b53f81f1a
-translation-type: tm+mt
-source-git-commit: 4e79c98b92dfa4e1a9890ed8a291cdf564126466
+source-git-commit: df689ff5a127bfbc400ca5331168d1ff7bb0b42e
 workflow-type: tm+mt
 source-wordcount: '1567'
 ht-degree: 1%
 
 ---
 
-# Video implementeren op uw websites en mobiele sites{#deploying-video-to-your-websites-and-mobile-sites}
+# Video gebruiken op uw websites en mobiele sites{#deploying-video-to-your-websites-and-mobile-sites}
 
 Websites, mobiele sites en bureaubladtoepassingen hebben via URL-tekenreeksen of ingesloten code toegang tot inhoud van de klassieke Dynamic Media-server, waaronder video. Dynamic Media Classic activeert deze URL-tekenreeksen tijdens het publicatieproces. Als u de URL-tekenreeks of insluitcode voor uw video wilt plaatsen in uw webpagina&#39;s, mobiele pagina&#39;s en bureaubladtoepassingen, kopieert u deze vanuit Dynamic Media Classic.
 
@@ -26,7 +25,7 @@ Websites, mobiele sites en bureaubladtoepassingen hebben via URL-tekenreeksen of
 >
 >De URL of insluitcode is pas actief als u het element publiceert.
 
-## Video {#publishing-video} publiceren
+## Video publiceren {#publishing-video}
 
 Als u een video publiceert, kunnen Dynamic Media Classic Servers video leveren aan uw website, mobiele site of toepassing.
 
@@ -45,7 +44,7 @@ Nadat u video&#39;s hebt gepubliceerd, activeert Dynamic Media Classic de URL-te
    * Als u video&#39;s automatisch en direct wilt publiceren tijdens het uploaden, klikt u op **[!UICONTROL Publish after uploading]** op de pagina Uploaden. U bent klaar; er zijn geen verdere stappen nodig .
    * Als u video&#39;s na het uploaden handmatig wilt publiceren, selecteert u in het deelvenster Bladeren de video&#39;s en klikt u op **Publiceren** op de algemene navigatiebalk.
 
-## Een video-URL koppelen aan een mobiele site of een website {#linking-a-video-url-to-a-mobile-site-or-a-website}
+## Een video-URL koppelen aan een mobiele site of website {#linking-a-video-url-to-a-mobile-site-or-a-website}
 
 Nadat u een video hebt gepubliceerd, kunt u de URL verkrijgen voor gebruik in uw website, mobiele site of bureaubladtoepassing. Gebruik de video-URL wanneer u video wilt weergeven in een pop-upvenster of in een modaal venster vóór de webpagina.
 
@@ -130,7 +129,7 @@ Als u de Dynamic Media Classic HTML5-videospeler niet gebruikt, maar in plaats d
 
    Zie [Een video-URL koppelen aan een mobiele site of een website](deploying-video-websites-mobile-sites.md#linking_a_video_url_to_a_mobile_site_or_a_website).
 
-## Video gebruiken met een externe videospeler {#deploying-video-using-a-third-party-video-player}
+## Video implementeren met een externe videospeler {#deploying-video-using-a-third-party-video-player}
 
 Als u een videospeler van derden of een aangepaste videospeler gebruikt in plaats van een klassieke Dynamic Media-videoviewer, kunt u de directe video-URL verkrijgen die geschikt is voor videostreaming met meerdere bitsnelheden van HLS of progressief downloaden.
 
@@ -170,7 +169,7 @@ Dynamic Media Classic genereert miniaturen voor gecodeerde video&#39;s en vooraf
 
 Miniaturen worden gegenereerd op basis van het eerste heterogene frame (niet een volledig zwart frame, of een helemaal wit frame enzovoort) van de video.
 
-### URL&#39;s van videominiaturen verkrijgen {#obtaining-video-thumbnail-urls}
+### URL&#39;s met videominiaturen ophalen {#obtaining-video-thumbnail-urls}
 
 Dynamic Media Classic genereert automatisch videominiaturen tijdens het uploaden. De miniaturen worden weergegeven in de lijstweergave en de rasterweergave van het deelvenster Bladeren.
 
@@ -188,7 +187,7 @@ U kunt afbeeldingsaanpassingen toepassen op het posterframe. U kunt bijvoorbeeld
 
 Zie [Een voorinstelling voor een videoviewer toevoegen of bewerken](previewing-videos-video-viewer.md#adding_or_editing_a_video_viewer_preset).
 
-Zie [Handleiding voor beeldservers](https://experienceleague.corp.adobe.com/docs/dynamic-media-developer-resources/image-serving-api/image-serving-api/c-is-home.html?lang=en#image-serving-api).
+Zie [Handleiding voor beeldservers](https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/image-serving-api/image-serving-api/c-is-home.html?lang=en#image-serving-api).
 
 U kunt videominiaturen ook wijzigen door modifiers toe te voegen aan videominiaturen-URL&#39;s.
 
