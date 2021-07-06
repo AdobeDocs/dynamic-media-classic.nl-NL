@@ -8,17 +8,16 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/introducing_adobe_scene7
 discoiquuid: 2bccf91d-ec27-4cdf-a322-55804b6ba0d3
 feature: Dynamic Media Classic
-role: Administrator,Business Practitioner
+role: Admin,User
 exl-id: e2840200-246e-4c68-b10f-a66461f2a118
-translation-type: tm+mt
-source-git-commit: 1beb30b9eda4487dcd549034906079dee0b3149a
+source-git-commit: df689ff5a127bfbc400ca5331168d1ff7bb0b42e
 workflow-type: tm+mt
 source-wordcount: '163'
 ht-degree: 4%
 
 ---
 
-# Adobe-trainingsservices{#adobe-training-services}
+# Adobe Training{#adobe-training-services}
 
 Dynamic Media Classic biedt training in de vorm van videotraining, workshops onder begeleiding van instructeurs, websessies en demo&#39;s.
 
