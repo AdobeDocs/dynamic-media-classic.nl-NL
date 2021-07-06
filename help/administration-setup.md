@@ -7,10 +7,9 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 discoiquuid: 3c9ee4ec-dd37-498d-98d6-1339b80177ff
 feature: Dynamic Media Classic
-role: Administrator
+role: Admin
 exl-id: 14e3d8be-f265-4cec-aa8e-19ef71526b68
-translation-type: tm+mt
-source-git-commit: 7456226cf6469f40e66ff327475d4c605b6d6e13
+source-git-commit: df689ff5a127bfbc400ca5331168d1ff7bb0b42e
 workflow-type: tm+mt
 source-wordcount: '1814'
 ht-degree: 0%
@@ -19,7 +18,7 @@ ht-degree: 0%
 
 <!-- UPDATE TOPIC AFTER DECEMBER 31, 2020!!!! -->
 
-# Beheerinstellingen{#administration-setup}
+# Instellingen voor beheer{#administration-setup}
 
 De schermen van de Opstelling van het Beleid zijn voor het beheren van de Klassieke gebruikers van Dynamic Media. Gebruik deze schermen om gebruikers in Dynamic Media Classic te laten werken en via e-mail met gebruikers te communiceren.
 
@@ -41,7 +40,7 @@ Dynamic Media Classic ondersteunt verschillende gebruikersrollen. Deze rollen ku
 
 Nadat u een gebruiker hebt toegevoegd, stuurt Dynamic Media Classic een welkomstbericht naar de gebruiker. Het bericht bevat een wachtwoord en de Klassieke URL van Dynamic Media.
 
-### Een gebruiker of beheerder {#adding-a-user-or-administrator} toevoegen
+### Een gebruiker of beheerder toevoegen {#adding-a-user-or-administrator}
 
 1. Klik op **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Administration Setup]** > **[!UICONTROL User Administration]**.
 1. Klik op **[!UICONTROL Add]**.
@@ -69,7 +68,7 @@ Nadat u een gebruiker hebt toegevoegd, stuurt Dynamic Media Classic een welkomst
 
    Wanneer u nieuwe gebruikers van Media Portal toevoegt, kunt u ook naar **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL User Administration]** gaan, dan **[!UICONTROL Upload User List]** klikken en een .csv-bestand selecteren dat niet meer dan 500 gebruikers bevat.
 
-### Een gebruiker {#deleting-a-user} verwijderen
+### Een gebruiker verwijderen {#deleting-a-user}
 
 U kunt gebruikers verwijderen uit Dynamic Media Classic door ze ongeldig te maken. Ongeldige gebruikers worden uit het systeem en alle accounts verwijderd.
 
@@ -78,14 +77,14 @@ U kunt gebruikers verwijderen uit Dynamic Media Classic door ze ongeldig te make
 1. Schakel Geldig uit.
 1. Klik op **[!UICONTROL Save]**.
 
-### Gebruikers {#activating-or-deactivating-users} activeren of deactiveren
+### Gebruikers activeren of deactiveren {#activating-or-deactivating-users}
 
 Gebruikers die zijn gedeactiveerd, hebben niet langer toestemming om de account in te voeren die boven aan het menu Selecteer accounts om toegang te krijgen wordt vermeld.
 
 1. Klik op **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Administration Setup]** > **[!UICONTROL User Administration]**.
 1. Schakel in de gebruikerslijst de optie **[!UICONTROL Active]** naast de naam van de gebruiker in of uit.
 
-### Gebruikersgegevens {#editing-user-information} bewerken
+### Gebruikersgegevens bewerken {#editing-user-information}
 
 De gebruikersinformatie die u kunt uitgeven hangt van uw rol als beheerder en de toegewezen rol van de gebruiker af waarvan informatie u wilt uitgeven. Opties die grijs (niet beschikbaar) worden weergegeven, kunnen niet worden bewerkt.
 
@@ -96,7 +95,7 @@ De gebruikersinformatie die u kunt uitgeven hangt van uw rol als beheerder en de
 1. Als u het groepslidmaatschap van de gebruiker wilt wijzigen (als u een gebruiker of medewerker van Media Portal bewerkt of toevoegt), klikt u op **[!UICONTROL Next]** en bewerkt u het groepslidmaatschap.
 1. Klik op **[!UICONTROL Save]**.
 
-### De gebruikerslijst {#filtering-and-sorting-the-user-list} filteren en sorteren
+### De gebruikerslijst filteren en sorteren {#filtering-and-sorting-the-user-list}
 
 U kunt de gebruikerslijst filteren en sorteren om van gebruikers de plaats te bepalen. Alle gebruikers in alle accounts die u beheert, worden weergegeven in de lijst Gebruikers, ongeacht de account die u hebt geselecteerd in het menu Account selecteren voor toegang.
 
@@ -179,7 +178,7 @@ Het rapport Inhoud afbeelding biedt informatie over verzoeken om de volgende afb
 >
 >Het rapport Videostreaming is alleen van toepassing op streaming video&#39;s. De weergave van progressieve video&#39;s wordt niet bijgehouden.
 
-### Een rapport {#generating-a-report} genereren
+### Een rapport genereren {#generating-a-report}
 
 Een rapport over bandbreedte, opslag, afbeeldingsinhoud, domein, videostreaming of video-inhoud genereren:
 
