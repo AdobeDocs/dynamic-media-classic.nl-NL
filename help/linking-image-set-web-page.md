@@ -8,10 +8,9 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/image_sets
 discoiquuid: 40f4abab-9059-4d92-a761-f6d573b42e00
 feature: Dynamic Media Klassiek,Viewers,Afbeeldingssets
-role: Business Practitioner
+role: User
 exl-id: df4e5218-2a66-413c-b247-b2a16d884041
-translation-type: tm+mt
-source-git-commit: 38d09bb78834c6b3614bf2b96fd6aee5661e0a5a
+source-git-commit: df689ff5a127bfbc400ca5331168d1ff7bb0b42e
 workflow-type: tm+mt
 source-wordcount: '624'
 ht-degree: 1%
@@ -26,7 +25,7 @@ Nadat u een Afbeeldingsset hebt gepubliceerd, kunt u de URL of de ingesloten cod
 >
 >De URL is pas actief als u het element publiceert.
 
-## Een URL voor een afbeeldingsset kopiëren {#copying-an-image-set-url}
+## URL van een afbeeldingsset kopiëren {#copying-an-image-set-url}
 
 1. Klik in de vervolgkeuzelijst Tonen in het deelvenster Asset Browse op **[!UICONTROL Image Set]**.
 1. Navigeer in het deelvenster Elementenbibliotheek aan de linkerkant naar de elementenmap die de afbeeldingsset bevat waarvan u de insluitcode wilt kopiëren.
@@ -51,7 +50,7 @@ De gemeenschappelijkste manier om de Reeksen van het Beeld op te stellen is een 
 
 Zie [HTML5 Zoom Viewer insluiten in de Adobe Viewers Reference Guide](https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/library/viewers-aem-assets-dmc/zoom/c-html5-20-zoom-viewer-about.html#section-e1c3106f5b3e445d9b95be337c2f94e2) voor meer informatie en codevoorbeelden.
 
-## De insluitcode van een viewer {#copying-the-embed-code-of-an-image-set-viewer} voor een afbeeldingsset kopiëren
+## De insluitcode van een viewer voor een afbeeldingsset kopiëren {#copying-the-embed-code-of-an-image-set-viewer}
 
 Met de functie Code insluiten kunt u de viewercode voor de geselecteerde afbeeldingsset controleren. U kunt de code ook naar het klembord kopiëren, zodat u de code op uw webpagina&#39;s kunt plakken en de viewer kunt implementeren. Het bewerken van de code is niet toegestaan in het dialoogvenster Code insluiten.
 
