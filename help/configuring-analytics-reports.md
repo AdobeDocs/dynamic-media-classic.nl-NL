@@ -8,10 +8,9 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/adobe_analytics_instrumentation_kit
 discoiquuid: f4c8c2b3-cc95-416f-9a5d-da81c231dfc2
 feature: Dynamic Media Classic
-role: Data Engineer,Administrator,Business Practitioner
+role: Data Engineer,Admin,User
 exl-id: d9fda3b8-7da8-4a30-a5f8-9bb34ec1b43d
-translation-type: tm+mt
-source-git-commit: 98463dbc24e141547d01bd3f71b1b9fe3a692c14
+source-git-commit: df689ff5a127bfbc400ca5331168d1ff7bb0b42e
 workflow-type: tm+mt
 source-wordcount: '1188'
 ht-degree: 0%
@@ -58,7 +57,7 @@ Gebruik het Adobe Analytics-configuratiescherm om viewergebeurtenissen te koppel
 
    Publiceren is nodig, zodat de informatie in de viewers beschikbaar is op de Classic-servers van Dynamic Media.
 
-### Viewergebeurtenissen {#viewer-events}
+### Viewer-gebeurtenissen {#viewer-events}
 
 Viewergebeurtenissen beschrijven acties die gebruikers uitvoeren met Dynamic Media Classic-viewers. Wanneer een gebruiker een bepaalde actie start, zoals het klikken op een miniatuur of het starten of stoppen van een video, &quot;zendt de viewer&quot; een gebeurtenis naar de webpagina, samen met de gegevens die aan die gebeurtenis zijn gekoppeld.
 
@@ -83,7 +82,7 @@ In de volgende tabel worden de viewergebeurtenissen beschreven die u kunt toevoe
 | SPIN | **X**  (SpinSet) | Niet bijgehouden door Adobe Analytics.<br> |
 
 
-### Dynamic Media Klassieke variabelen {#scene-variables}
+### Dynamic Media Classic-variabelen {#scene-variables}
 
 Voor elke viewergebeurtenis op het scherm van de Configuratie van Adobe Analytics, kies een variabele van Adobe Analytics en een *Klassieke variabele van Dynamic Media*. Klassieke Dynamic Media-variabelen vertegenwoordigen gegevens die u voor een rapport kunt verkrijgen. De variabele `searchTerm` bevat bijvoorbeeld trefwoorden die worden gebruikt in zoekopdrachten in eCatalog.
 
@@ -103,7 +102,7 @@ In de volgende tabel worden de klassieke Dynamic Media-variabelen beschreven.
 | vordering | Het percentage van een gebeurtenis milestone dat is voltooid. |
 | targetId | De id-waarde (een getal). |
 
-## Viewergebeurtenissen {#activating-editing-and-deleting-viewer-events} activeren, bewerken en verwijderen
+## Viewer-gebeurtenissen activeren, bewerken en verwijderen {#activating-editing-and-deleting-viewer-events}
 
 In het configuratiescherm van Adobe Analytics kunt u viewergebeurtenissen activeren, bewerken en verwijderen:
 
