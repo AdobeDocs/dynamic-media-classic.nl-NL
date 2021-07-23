@@ -1,15 +1,15 @@
 ---
 title: Adobe Dynamic Media Classic-bureaubladtoepassing
-description: Dynamic Media Classic-gebruikers kunnen de gebruikersinterface nu volledig vernieuwen. De ervaring biedt een bijgewerkte aanmelding met koppelingen naar waardevolle bronnen en deze update is bovendien niet langer afhankelijk van de Adobe Flash-technologie in de browser.
+description: Dynamic Media Classic-gebruikers kunnen de gebruikersinterface nu volledig vernieuwen. De ervaring biedt een bijgewerkte aanmelding met koppelingen naar waardevolle bronnen en deze update is bovendien niet langer afhankelijk van de Adobe Flash in de browser.
 contentOwner: rbrough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 feature: Dynamic Media Classic
 role: Admin,User
 exl-id: d61ea80a-a98e-43e6-9e2e-4389962134f1
-source-git-commit: df689ff5a127bfbc400ca5331168d1ff7bb0b42e
+source-git-commit: 7663cca62046a334c4ab9852df3a9ae64f4ca2ef
 workflow-type: tm+mt
-source-wordcount: '1119'
+source-wordcount: '1117'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ Dynamic Media klassieke gebruikers hebben nu toegang tot een nieuwe aanmeldervar
 
 ### **_Wanneer browsers op 31 december 2020 stoppen met het ondersteunen van Adobe Flash, zullen er gevolgen zijn voor Dynamic Media Classic (voorheen Scene7)?_**
 
-Adobe Flash Player was een insteekmodule voor webbrowsers waarmee webbrowsers inhoud kunnen gebruiken die is ontwikkeld op de Adobe Flash Platform. Voor de webgebruikersinterface van Dynamic Media Classic (momenteel aangeduid als [!DNL Scene7 Publishing System] of [!DNL SPS] in het product) was de Adobe-Flash Player vereist. Wanneer Adobe Flash 31 december 2020 wordt afgekeurd, zullen de Klassieke klanten van Dynamic Media niet meer in het Webgebruikersinterface kunnen registreren. Vanwege deze wijziging heeft Adobe klanten een bureaubladtoepassing verschaft die de browserervaring vervangt.
+Adobe Flash Player was een insteekmodule voor webbrowsers waarmee webbrowsers inhoud konden gebruiken die op de Adobe Flash Platform was ontwikkeld. Voor de webgebruikersinterface van Dynamic Media Classic (momenteel aangeduid als [!DNL Scene7 Publishing System] of [!DNL SPS] in het product) was de Adobe-Flash Player vereist. Wanneer Adobe Flash 31 december 2020 wordt afgekeurd, zullen de Klassieke klanten van Dynamic Media niet meer in het Webgebruikersinterface kunnen registreren. Vanwege deze wijziging heeft Adobe klanten een bureaubladtoepassing verschaft die de browserervaring vervangt.
 
 ### **_Hoe kan ik de nieuwe bureaubladtoepassing openen?_**
 
@@ -36,7 +36,7 @@ De downloadkoppelingen zijn ook beschikbaar via de abonnementspagina van de Dyna
 
 ### **_Hoe werkt de nieuwe bureaubladtoepassing?_**
 
-Nadat u de bureaubladtoepassing hebt gedownload, geïnstalleerd en gestart, krijgt u een vernieuwd aanmeldingsformulier te zien. Door uw bestaande gebruikersnaam en wachtwoord in te voeren en de juiste server te selecteren op basis van uw regio, kunt u zich aanmelden bij Dynamic Media Classic. De algemene ervaring is hetzelfde als de vertrouwde webbrowserversie die u gebruikt. Vanuit de bureaubladtoepassing hebt u toegang tot de Klassieke productie- en staging-omgevingen van Dynamic Media. U kunt tot het Portaal van Media ook toegang hebben als u voor dit vermogen wordt toegelaten.
+Nadat u de bureaubladtoepassing hebt gedownload, geïnstalleerd en gestart, krijgt u een vernieuwde aanmeldingservaring te zien. Door uw bestaande gebruikersnaam en wachtwoord in te voeren en de juiste server te selecteren op basis van uw regio, kunt u zich aanmelden bij Dynamic Media Classic. De algemene ervaring is hetzelfde als de vertrouwde webbrowserversie die u gebruikt. Vanuit de bureaubladtoepassing hebt u toegang tot de Klassieke productie- en staging-omgevingen van Dynamic Media. U kunt tot het Portaal van Media ook toegang hebben als u voor dit vermogen wordt toegelaten.
 
 >[!IMPORTANT]
 >
@@ -98,7 +98,7 @@ Daarnaast meldt [zich aan bij de Dynamic Media-nieuwsbrief](https://www.adobe.co
 
 ### **_Ik ben geïnteresseerd in meer informatie over de upgrade naar Dynamic Media met AEM Assets. Waar kan ik meer informatie vinden?_**
 
-Ga naar [Dynamic Media upgrade portal](http://exploreadobe.com/dynamic-media-upgrade/) voor meer informatie over de voordelen van de upgrade naar de volgende generatie geavanceerde media-ontwerpen, publiceren en dynamisch leveren.
+Ga naar [Dynamic Media upgrade portal](https://exploreadobe.com/dynamic-media-upgrade/) voor meer informatie over de voordelen van de upgrade naar de volgende generatie geavanceerde media-ontwerpen, publiceren en dynamisch leveren.
 
 >[!MORELIKETHIS]
 >
