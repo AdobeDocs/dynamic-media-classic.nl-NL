@@ -6,21 +6,20 @@ user-guide-title: Adobe Dynamic Media Classic Guide
 breadcrumb-title: Dynamic Media Classic Guide
 user-guide-description: Meer informatie over het gebruik van Dynamic Media Classic
 index: y
-translation-type: tm+mt
-source-git-commit: 1beb30b9eda4487dcd549034906079dee0b3149a
+source-git-commit: 6da0de3f4d50d75020e0c66119d56e24cc27fae7
 workflow-type: tm+mt
-source-wordcount: '748'
+source-wordcount: '749'
 ht-degree: 1%
 
 ---
 
 
-# Adobe Dynamic Media Klassieke Guide {#using}
+# Adobe Dynamic Media Classic Guide {#using}
 
 + [Adobe Dynamic Media Classic Guide](home.md)
 + [Zelfstudie over best practices](https://experienceleague.adobe.com/docs/experience-manager-learn/dynamic-media-classic-tutorial/overview.html)
 + [NEW Dynamic Media Classic-ervaring nu beschikbaar](new-ui-2020.md)
-+ [Dynamic Media-nieuwsbrief van Experience League](dynamic-media-newsletter.md)
++ [Dynamic Media-nieuwsarchief per Experience League](dynamic-media-newsletter.md)
 + Introductie van Adobe Dynamic Media Classic {#intro}
    + [Adobe Dynamic Media Classic-bureaubladtoepassing - Nu beschikbaar](dynamic-media-classic-desktop-app.md)
    + [Informatie over Dynamic Media Classic Help](introduction.md)
