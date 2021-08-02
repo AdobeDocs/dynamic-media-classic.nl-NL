@@ -1,28 +1,32 @@
 ---
-description: 'De Dynamic Media-nieuwsbrief per Experience League is een maandelijkse nieuwsbrief. Het is ontworpen om u te helpen snel aan de slag te gaan met Dynamic Media en Dynamic Media Classic, zodat u meteen waarde kunt behalen. De waardevolle kennis-bouwende middelen zijn beschikbaar in deze one-stop shop nieuwsbrief. Het omvat hoe te video''s en oplossingsoverzichten. Er zijn ook introducties voor belangrijke functies en mogelijkheden, zoals voorinstellingen voor afbeeldingen, voorinstellingen voor viewers en videoprofielen. '
+description: 'De gearchiveerde Dynamic Media-nieuwsbrief per Experience League was een maandelijkse nieuwsbrief. Het is ontworpen om u te helpen snel aan de slag te gaan met Dynamic Media en Dynamic Media Classic, zodat u meteen waarde kunt behalen. De gearchiveerde nieuwsbrieven bevatten waardevolle kennis-bouwende middelen die in deze één-loketnieuwsbrief beschikbaar waren die nu wordt stopgezet. Gearchiveerde nieuwsbrieven bevatten instructievideo''s en overzichten van oplossingen. Er zijn ook introducties voor belangrijke functies en mogelijkheden, zoals voorinstellingen voor afbeeldingen, voorinstellingen voor viewers en videoprofielen. '
 keywords: dynamische media;nieuwsbrief;productupdates;tips en trucs;gebeurtenissen;succes van de klant;blog;blogs;beelden;video;eigenschappen;mogelijkheden
-title: Dynamic Media Newsletter
+title: Dynamic Media-nieuwsarchief
 feature: Dynamic Media Classic
 role: Admin,User
 exl-id: 5f2a0cfc-d627-42be-9e68-111b65680ad8
-source-git-commit: df689ff5a127bfbc400ca5331168d1ff7bb0b42e
+source-git-commit: 6da0de3f4d50d75020e0c66119d56e24cc27fae7
 workflow-type: tm+mt
-source-wordcount: '1169'
+source-wordcount: '1067'
 ht-degree: 0%
 
 ---
 
 # ![Dynamic Media Newsletter-logo](/help/assets/dynamic-media-newsletter-logo.png)
 
-De maandelijkse Dynamic Media Newsletter per Experience League is ontworpen om u te helpen snel aan de slag te gaan met Dynamic Media en Dynamic Media Classic, zodat u meteen aan de slag kunt met het realiseren van waarde.
+>[!NOTE]
+>
+>De maandelijkse nieuwsbrief wordt nu stopgezet. U hebt echter nog steeds toegang tot de onderstaande archiefbestanden voor nieuwsbrieven.
 
-In deze one-stop shop nieuwsbrief, vind waardevolle kennis-bouwend middelen zoals hoe-aan video&#39;s en oplossingsoverzichten. Er zijn ook introducties voor belangrijke functies en mogelijkheden, zoals voorinstellingen voor afbeeldingen, voorinstellingen voor viewers en videoprofielen.
+De Dynamic Media-nieuwsbrief per Experience League is ontworpen om u te helpen snel aan de slag te gaan met Dynamic Media en Dynamic Media Classic, zodat u meteen waarde kunt gaan realiseren.
 
-## Laat je inspireren. Blijf op de hoogte.
+In deze gearchiveerde nieuwsbrief van één-loketwinkel kunt u waardevolle kennis-bouwende middelen zoals hoe-aan video&#39;s en oplossingsoverzichten vinden. Er zijn ook introducties voor belangrijke functies en mogelijkheden, zoals voorinstellingen voor afbeeldingen, voorinstellingen voor viewers en videoprofielen.
 
-[Meld u ](https://www.adobe.com/subscription/dynamic-media-newsletter.html) aan om de Dynamic Media-nieuwsbrief maandelijks in uw postvak in te vullen.
+<!-- ## Get inspired. Stay informed.
 
-## Hebt u een probleem met de Dynamic Media-nieuwsbrief gemist?
+[Sign up](https://www.adobe.com/subscription/dynamic-media-newsletter.html) to receive the Dynamic Media newsletter on a monthly basis in your inbox. -->
+
+## Dynamic Media-nieuwsarchief
 
 <!-- * **[May 2020, Issue 4](https://expleague.azureedge.net/assets/aem/Experience-Insider-vol.31.html)**
 
@@ -50,9 +54,9 @@ In deze one-stop shop nieuwsbrief, vind waardevolle kennis-bouwend middelen zoal
    * Meer informatie over gratis Dynamic Media Classic-controles voor Adobe
    * Ontmoet John Monroe, de Hogere Manager van het Programma voor de Diensten van het Succes van de Klant.
 
-      >[!IMPORTANT]
-      >
-      >Adobe wil ervoor zorgen dat ze de Dynamic Media-nieuwsbrief alleen sturen naar mensen die hem willen ontvangen. Als u de nieuwsbrief na deze uitgave wilt blijven ontvangen, meldt u zich [hier](https://nam04.safelinks.protection.outlook.com/?url=http%3A%2F%2Ft.messages.adobe.com%2Fr%2F%3Fid%3Dha6c66e%2C266d7ba%2C26edbee&amp;data=02%7C01%7Crbrough%40adobe.com%7Ce0ec0f8dde0f4eb03d9c08d7e2173fd3%7Cfa7b1b5a7b34438794aed2c178decee1%7C0%7C0%7C637226461801398160&amp;sdata=3c1oREsqy%2FeDPKC3dd4IO9dXomQ1XbokaBAYQl8obrk%3D&amp;reserved=0) aan.
+<!--     >[!IMPORTANT]
+    >
+    >Adobe wants to make sure they are only sending the Dynamic Media newsletter to people who want to receive it. To continue receiving the newsletter after this issue, sign up for it [here](https://nam04.safelinks.protection.outlook.com/?url=http%3A%2F%2Ft.messages.adobe.com%2Fr%2F%3Fid%3Dha6c66e%2C266d7ba%2C26edbee&data=02%7C01%7Crbrough%40adobe.com%7Ce0ec0f8dde0f4eb03d9c08d7e2173fd3%7Cfa7b1b5a7b34438794aed2c178decee1%7C0%7C0%7C637226461801398160&sdata=3c1oREsqy%2FeDPKC3dd4IO9dXomQ1XbokaBAYQl8obrk%3D&reserved=0). -->
 
 * **[Februari 2020, uitgave 2](https://expleague.azureedge.net/assets/dynamic-media/Dynamic_Media_Newsletter_02_2020_Feb.html)**
 
@@ -63,7 +67,7 @@ In deze one-stop shop nieuwsbrief, vind waardevolle kennis-bouwend middelen zoal
    * Ontdek hoe u de bijsnijdmagie van Dynamic Media kunt gebruiken.
    * Om u te helpen meer waarde van de Klassiek van Dynamic Media krijgen, voordeel halen uit Adobe vrije controle.
    * Meer informatie over de nieuwe gebruikersinterface voor Dynamic Media Classic.
-   * Ontmoet Georgia Myers, Manager van Klantsucces voor Adobe Experience Cloud.
+   * Ontmoet `Georgia Myers`, Manager van het Succes van de Klant voor Adobe Experience Cloud.
 
 * **[Januari 2020, uitgave 1](https://expleague.azureedge.net/assets/dynamic-media/Dynamic_Media_Newsletter_01_2020_Jan.html)**
 
@@ -83,7 +87,7 @@ In deze one-stop shop nieuwsbrief, vind waardevolle kennis-bouwend middelen zoal
    * Krachtige nieuwe beveiligingsfuncties.
    * Hoe Adobe zich voorbereidt, zodat je een succesvol vakantieseizoen hebt.
    * Deel de nieuwsbrief met uw collega&#39;s om teamexpertise op te bouwen.
-   * Ontmoet Aporva Gupta, Senior Product Manager, Dynamic Media.
+   * Ontmoet `Apoorva Gupta`, Senior Product Manager, Dynamic Media.
 
 * **[Oktober 2019, uitgave 10](https://expleague.azureedge.net/assets/dynamic-media/Dynamic_Media_Newsletter_10_2019_Oct.html)**
 
@@ -93,7 +97,7 @@ In deze one-stop shop nieuwsbrief, vind waardevolle kennis-bouwend middelen zoal
    * Een infografisch element met tips voor het uitnemen van schitterende resultaten bij afbeeldingen en video&#39;s van hoge kwaliteit.
    * Een artikel CMSwire dat u helpt begrijpen hoe te om uw rijke media strategie bij te werken om aan de klantenverwachtingen van vandaag te voldoen.
    * Toegang tot webinar op bestelling op Dynamic Media van de reeks van de Bouwer van de Vaardigheid.
-   * Ontmoet Nick Peters, Manager, Site Reliability Engineering, Adobe Experience Manager.
+   * Ontmoet `Nick Peters`, Manager, de Techniek van de Betrouwbaarheid van de Plaats, Adobe Experience Manager.
    * Ga op snelheid met Dynamic Media en Dynamic Media Classic in Experience League.
 
 * **[september 2019, uitgave 09](https://expleague.azureedge.net/assets/dynamic-media/Dynamic_Media_Newsletter_09_2019_Sept.html)**
@@ -116,7 +120,7 @@ In deze one-stop shop nieuwsbrief, vind waardevolle kennis-bouwend middelen zoal
    * Meer informatie over een webinar-serie die is ontworpen om je up-to-speed te laten werken op Adobe Experience Manager Assets en Dynamic Media.
    * Begin aan je reis die waarde krijgt van Dynamic Media op Experience League.
    * Ontdek een gulle blik op een krachtige integratie die deze maand september komt en u laat analyseren hoe bezoekers met uw rijke media omgaan.
-   * Maak kennis met PieterJan Pieper, Dynamic Media technische ondersteuning wiz.
+   * Ontmoet `PieterJan Pieper`, de technische steun van Dynamic Media wiz.
 
 * **[Juli 2019, uitgave 07](https://expleague.azureedge.net/assets/dynamic-media/Dynamic_Media_Newsletter_07_2019_July.html)**
 
@@ -127,7 +131,7 @@ In deze one-stop shop nieuwsbrief, vind waardevolle kennis-bouwend middelen zoal
    * De volgende einden op de informatie-gevulde Adobe Insider Tour.
    * Buitengewone mogelijkheden zijn beschikbaar als u Dynamic Media binnen Adobe Experience Manager Assets (AEM Assets) hebt.
    * Video&#39;s van 360 graden en aangepaste videominiaturen toevoegen aan uw website.
-   * Ontmoet Andrew Hathaway, Hoofd Oplossingsconsultant voor Dynamic Media in AEM Assets.
+   * Ontmoet `Andrew Hathaway`, de belangrijkste Adviseur van Oplossingen voor Dynamic Media binnen AEM Assets.
 
 * **[Juni 2019, uitgave 06](https://expleague.azureedge.net/assets/dynamic-media/Dynamic_Media_Newsletter_06_2019_June.html)**
 
@@ -138,7 +142,7 @@ In deze one-stop shop nieuwsbrief, vind waardevolle kennis-bouwend middelen zoal
    * Meer informatie over de komende Adobe Insider Tour.
    * Lees hoe u uw digitale middelen kunt beschermen tegen piraterij.
    * Leer meer over door AI aangedreven Smart Crop voor afbeeldingen.
-   * Ontmoet Alex Thiers, een van de drijvende krachten achter veel van de geweldige eigenschappen en innovaties in Dynamic Media en Dynamic Media Classic.
+   * Ontdek `Alex Thiers`, een van de drijvende krachten achter veel van de geweldige eigenschappen en innovaties in Dynamic Media en Dynamic Media Classic.
 
 * **[Mei 2019, uitgave 05](https://expleague.azureedge.net/assets/dynamic-media/Dynamic_Media_Newsletter_05_2019_May.html)**
 
@@ -152,7 +156,7 @@ In deze one-stop shop nieuwsbrief, vind waardevolle kennis-bouwend middelen zoal
 
 * **[April 2019, uitgave 04](https://expleague.azureedge.net/assets/dynamic-media/Dynamic_Media_Newsletter_04_2019_April.html)**
 
-   Welkom bij de inhuldiging van de Dynamic Media Newsletter, de nieuwe maandelijkse nieuwsbrief van Adobe vulde nieuws, evenementen en bronnen voor gebruikers van Dynamic Media in Adobe Experience Manager Assets en Adobe Dynamic Media Classic in.
+   Welkom bij de inhuldiging van de Dynamic Media Newsletter, de nieuwsbrief van de Adobe vulde nieuws, evenementen en bronnen voor gebruikers van Dynamic Media in Adobe Experience Manager Assets en Adobe Dynamic Media Classic.
 
    In dit verband:
 
