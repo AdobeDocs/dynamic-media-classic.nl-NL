@@ -1,6 +1,6 @@
 ---
 title: Gebruikers van Media Portal toevoegen en beheren
-description: Meer informatie over het toevoegen en beheren van gebruikers van Media Portal
+description: Leer om gebruikers van het Portaal van Media toe te voegen en te beheren in Dynamic Media Classic.
 uuid: 96d4103c-6428-4ce1-b9e4-231599304f27
 contentOwner: admin
 content-type: reference
@@ -10,40 +10,40 @@ discoiquuid: 5e933045-ce1a-41b9-ba8b-2151c396b7a2
 feature: Dynamic Media Classic,Samenwerking,Asset Management
 role: Admin,User
 exl-id: 9590c53c-fd38-4bf2-b723-cd7369702364
-source-git-commit: df689ff5a127bfbc400ca5331168d1ff7bb0b42e
+source-git-commit: 1d30c98b76ebe78ff60bae87bd112de7a577182d
 workflow-type: tm+mt
-source-wordcount: '922'
+source-wordcount: '931'
 ht-degree: 0%
 
 ---
 
 # Gebruikers van Media Portal toevoegen en beheren{#adding-and-managing-media-portal-users}
 
-Als beheerder kunt u gebruikers toevoegen en beheren, beslissen of ze wachtwoorden kunnen wijzigen, gebruikersgegevens kunnen bewerken en gebruikerslijsten kunnen uploaden. Deze taken worden verwezenlijkt op het scherm van het Beleid van de Gebruiker. Klik op **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Administration Setup]** > **[!UICONTROL User Administration]** om dit scherm te openen.
+Als beheerder kunt u gebruikers toevoegen en beheren, beslissen of ze wachtwoorden kunnen wijzigen, gebruikersgegevens kunnen bewerken en gebruikerslijsten kunnen uploaden. Deze taken worden verwezenlijkt op het scherm van het Beleid van de Gebruiker. Navigeer naar **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Administration Setup]** > **[!UICONTROL User Administration]** om dit scherm te openen.
 
 >[!NOTE]
 >
->Voordat u gebruikers toevoegt, moet u groepen instellen voor het beheer ervan. Met Mediaportal kunt u geen gebruiker toevoegen zonder de gebruiker aan een of meer groepen toe te wijzen. Voor meer informatie, zie [Het creëren van en het leiden van de Poortgroepen van Media](creating-media-portal-groups.md#creating_and_managing_media_portal_groups).
+>Voordat u gebruikers toevoegt, moet u groepen instellen voor het beheer ervan. Met Mediaportal kunt u geen gebruiker toevoegen zonder de gebruiker aan een of meer groepen toe te wijzen. Zie [Mediaportaalgroepen maken en beheren](creating-media-portal-groups.md#creating_and_managing_media_portal_groups) voor meer informatie.
 
-## Wachtwoorden voor Media Portal verwerken {#handling-media-portal-passwords}
+## Beheer van wachtwoorden voor mediaportaal {#handling-media-portal-passwords}
 
 De gebruikers van het Portaal van media, de medewerkers, en de medewerker-gebruikers worden verzonden een welkome e-mailbericht met een wachtwoord wanneer u hen omhoog ondertekent. Beheerders kunnen bepalen of gebruikers van Media Portal dit wachtwoord kunnen wijzigen.
 
-1. Klik op **[!UICONTROL Setup]** > **[!UICONTROL Media Portal Setup]** > **[!UICONTROL General Settings]**.
+1. Ga naar **[!UICONTROL Setup]** > **[!UICONTROL Media Portal Setup]** > **[!UICONTROL General Settings]**.
 1. Schakel op de pagina Algemene instellingen **[!UICONTROL Allow Media Portal user to change Password]** in of uit.
-1. Klik op **[!UICONTROL Save]**.
+1. Selecteer **[!UICONTROL Save]**.
 
 >[!NOTE]
 >
->Gebruikers van Media Portal die wachtwoorden mogen wijzigen, kunnen dit doen door op **[!UICONTROL Setup]** > **[!UICONTROL Personal Setup]** te klikken en wachtwoorden te wijzigen in het scherm Persoonlijke instellingen.
+>Gebruikers van Media Portal die wachtwoorden mogen wijzigen, kunnen dit doen door **[!UICONTROL Setup]** > **[!UICONTROL Personal Setup]** te selecteren en wachtwoorden te wijzigen in het scherm Persoonlijke instellingen.
 
-## Een gebruiker van het Media Portal toevoegen {#adding-a-media-portal-user}
+## Gebruikers van een mediaportaal toevoegen {#adding-a-media-portal-user}
 
-1. Klik op **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Administration Setup]** > **[!UICONTROL User Administration]**.
-1. Voor de pagina van het Beleid van de Gebruiker, klik **Add**.
-1. Voer in het dialoogvenster Gebruiker toevoegen in het deelvenster Gebruikersinfo de voornaam, achternaam en e-mailadres van de gebruiker in en klik op **[!UICONTROL Next]**.
+1. Ga naar **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Administration Setup]** > **[!UICONTROL User Administration]**.
+1. Selecteer **Add** op de pagina Gebruikersbeheer.
+1. Voer in het dialoogvenster Gebruiker toevoegen in het deelvenster Gebruikersinfo de voornaam, achternaam en e-mailadres van de gebruiker in en selecteer **[!UICONTROL Next]**.
 1. Selecteer in het deelvenster Bedrijf/Rol in de vervolgkeuzelijst Bedrijven een bedrijf of bedrijven voor de gebruiker.
-1. Selecteer in de lijst Rol een rol voor Media Portal en klik op **[!UICONTROL Next]**.
+1. Selecteer in de lijst Rol een rol voor Media Portal en selecteer **[!UICONTROL Next]**.
 
    Zie [Gebruikersrollen van het Portaal van media](media-portal-user-roles.md#media_portal_user_roles).
 
@@ -51,15 +51,15 @@ De gebruikers van het Portaal van media, de medewerkers, en de medewerker-gebrui
 
    Zie [Mediaportaalgroepen maken en beheren](creating-media-portal-groups.md#creating_and_managing_media_portal_groups).
 
-1. (Optioneel) Klik op **[!UICONTROL Email Settings]** om andere e-mailinstellingen te kiezen dan de standaardinstellingen.
+1. (Optioneel) Selecteer **[!UICONTROL Email Settings]** om andere e-mailinstellingen te kiezen dan de standaardinstellingen.
 
    Zie [Het welkome e-mailbericht instellen voor gebruikers van het Media Portal](adding-media-portal-users.md#setting_up_the_welcome_e_mail_message_for_media_portal_users).
 
-1. Klik op **[!UICONTROL Add User]**.
+1. Selecteer **[!UICONTROL Add User]**.
 
 Nadat u een gebruiker hebt toegevoegd, verzendt het Portaal van Media de gebruiker een Welkome e-mailbericht. Het bericht bevat een tijdelijk wachtwoord en de URL van het Media Portal.
 
-## Een gebruikerslijst voor een mediaportaal uploaden {#uploading-a-media-portal-user-list}
+## Een gebruikerslijst voor een Media Portal uploaden {#uploading-a-media-portal-user-list}
 
 Als u meerdere gebruikers wilt toevoegen, kunt u een gebruikerslijst uploaden. De gebruikers worden automatisch toegevoegd aan het geselecteerde account.
 
@@ -82,15 +82,14 @@ In het volgende voorbeeldwerkblad ziet u hoe u een CSV-bestand indeelt:
 
 | Voornaam | Achternaam | E-mail | Wachtwoord | Gebruikersrol | Groepen |
 |--- |--- |--- |--- |--- |--- |
-| Prairie | Kat | `prairiek@company.com` | welkom | MediaPortalAdmin | PortalCo/IT,PortalCo/Admin |
+| Prairie | Kat | `prairiek@company.com` | welkom | MediaPortalAdmin | PortalCo/IT, PortalCo/Admin |
 | Rick | Bout | `rickb@myco.com` | welkom | MediaPortalUser | PortalCo/MktgGroup, PortalCo/test |
-
 
 ### Het CSV-bestand uploaden {#uploading-the-csv-file}
 
 1. Open het scherm van de Opstelling van het Beleid van de Gebruiker.
-1. Klik op **[!UICONTROL Upload User List]**.
-1. Selecteer in het dialoogvenster Bestand selecteren om te uploaden het CSV-bestand en klik op **[!UICONTROL Open]**.
+1. Selecteer **[!UICONTROL Upload User List]**.
+1. Selecteer in het dialoogvenster Bestand selecteren om te uploaden het CSV-bestand en selecteer **[!UICONTROL Open]**.
 
 Elke gebruiker in de lijst wordt automatisch toegevoegd aan de opgegeven groepen. Er wordt een welkomstbericht per e-mail naar beide verzonden.
 
@@ -98,20 +97,20 @@ Elke gebruiker in de lijst wordt automatisch toegevoegd aan de opgegeven groepen
 >
 >Als het CSV-bestand niet correct is opgemaakt, wordt het volgende foutbericht weergegeven: &quot;Er is een fout opgetreden tijdens het verwerken van het geüploade CSV-bestand. Controleer de inhoud van het bestand op geldige gegevens.&quot; Bovendien als CSV bestaande IP of IPS gebruiker bevat, wordt de gebruiker niet toegevoegd aan de Lijst van de Gebruiker.
 
-## Het produceren van een selecteerbare lijst van gebruikers van het Portaal van Media {#generating-a-selectable-list-of-media-portal-users}
+## Genereer een selecteerbare lijst van gebruikers van het Portaal van Media {#generating-a-selectable-list-of-media-portal-users}
 
 U kunt de namen en e-mailadressen van gebruikers van het Portaal van Media in een pop-up venster tonen. Deze lijst is nuttig als u gebruikersnamen en adressen voor gebruik buiten het Portaal van Media wilt knippen en kleven.
 
-1. Klik op **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Administration Setup]** > **[!UICONTROL User Administration]**.
-1. In **[!UICONTROL By User Role]** drop-down lijst, kies de naam van een Poortgebruikersrol van Media, en klik **[!UICONTROL Refresh]** om de namen van één klasse van de Poortgebruiker van Media te tonen.
-1. Klik op **[!UICONTROL Popup List]** om het pop-upvenster te openen. Kopieer en plak deze lijst.
+1. Ga naar **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Administration Setup]** > **[!UICONTROL User Administration]**.
+1. In **[!UICONTROL By User Role]** drop-down lijst, kies de naam van een Poortgebruikersrol van Media, en selecteer **[!UICONTROL Refresh]** om de namen van één klasse van de Poortgebruiker van Media te tonen.
+1. Selecteer **[!UICONTROL Popup List]**. Kopieer en plak deze lijst.
 
-## Het welkome e-mailbericht voor gebruikers van Media Portal instellen {#setting-up-the-welcome-e-mail-message-for-media-portal-users}
+## Het welkomstbericht voor gebruikers van het Media Portal instellen {#setting-up-the-welcome-e-mail-message-for-media-portal-users}
 
 U kunt een welkome e-mail verzenden wanneer u nieuwe gebruikers van het Portaal van Media, medewerkers, en medewerker-gebruikers toevoegt. U kunt dit e-mailbericht configureren of Dynamic Media Classic vertellen het niet te verzenden.
 
-1. Kies **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Administration Setup]** > **[!UICONTROL User Administration]**.
-1. In het scherm van de Opstelling van het Beleid van de Gebruiker, klik **[!UICONTROL Email Settings]**.
+1. Ga naar **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Administration Setup]** > **[!UICONTROL User Administration]**.
+1. In het scherm van de Opstelling van het Beleid van de Gebruiker, selecteer **[!UICONTROL Email Settings]**.
 1. Geef in het dialoogvenster E-mailinstellingen een of meer van de volgende instellingen op:
 
    * **[!UICONTROL Send Email]** - Schakel deze optie uit als u nieuwe gebruikers niet via e-mail wilt laten weten dat u hen hebt aangemeld.
@@ -132,6 +131,6 @@ Beginnend op het scherm van de Opstelling van het Beleid van de Gebruiker, kunt 
 
 * **[!UICONTROL Edit user information]** - Voer actuele informatie in over een gebruiker.
 
-* **[!UICONTROL Create user-defined fields]** - Maak aangepaste, door de gebruiker gedefinieerde metagegevensvelden om elementen in de Dynamic Media Classic te ordenen. De velden kunnen desgewenst ook worden geactiveerd of gedeactiveerd.
+* **[!UICONTROL Create user-defined fields]** - Maak aangepaste, door de gebruiker gedefinieerde metagegevensvelden zodat u elementen in de Dynamic Media Classic kunt ordenen. De velden kunnen desgewenst ook worden geactiveerd of gedeactiveerd.
 
 Zie [Door de gebruiker gedefinieerde velden](application-setup.md#user_defined_fields).
