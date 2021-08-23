@@ -1,5 +1,5 @@
 ---
-title: Instellingen voor beheer
+title: Beheerinstellingen
 description: Leer hoe u het beheergebied van Dynamic Media Classic instelt.
 uuid: 16ba9fed-b5c6-4991-83b3-8d7d7129013a
 contentOwner: admin
@@ -9,9 +9,9 @@ discoiquuid: 3c9ee4ec-dd37-498d-98d6-1339b80177ff
 feature: Dynamic Media Classic
 role: Admin
 exl-id: 14e3d8be-f265-4cec-aa8e-19ef71526b68
-source-git-commit: df689ff5a127bfbc400ca5331168d1ff7bb0b42e
+source-git-commit: 1d30c98b76ebe78ff60bae87bd112de7a577182d
 workflow-type: tm+mt
-source-wordcount: '1814'
+source-wordcount: '1824'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 De schermen van de Opstelling van het Beleid zijn voor het beheren van de Klassieke gebruikers van Dynamic Media. Gebruik deze schermen om gebruikers in Dynamic Media Classic te laten werken en via e-mail met gebruikers te communiceren.
 
-1. Om tot de opties van de Opstelling van het Beleid toegang te hebben, klik **Opstelling** > **Persoonlijke Opstelling** > **Opstelling van het Beleid**.
+1. Om tot de opties van de Opstelling van het Beleid toegang te hebben, ga **Opstelling** > **Persoonlijke Opstelling** > **Opstelling van het Beleid**.
 
 ## Gebruikersbeheer {#user-administration}
 
@@ -42,9 +42,9 @@ Nadat u een gebruiker hebt toegevoegd, stuurt Dynamic Media Classic een welkomst
 
 ### Een gebruiker of beheerder toevoegen {#adding-a-user-or-administrator}
 
-1. Klik op **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Administration Setup]** > **[!UICONTROL User Administration]**.
-1. Klik op **[!UICONTROL Add]**.
-1. Voer de naam en het e-mailadres in van de gebruiker of beheerder die u wilt toevoegen en klik vervolgens op **[!UICONTROL Next]**.
+1. Ga naar **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Administration Setup]** > **[!UICONTROL User Administration]**.
+1. Selecteer **[!UICONTROL Add]**.
+1. Voer de naam en het e-mailadres in van de gebruiker of beheerder die u wilt toevoegen en selecteer **[!UICONTROL Next]**.
 
    >[!NOTE]
    >
@@ -55,45 +55,45 @@ Nadat u een gebruiker hebt toegevoegd, stuurt Dynamic Media Classic een welkomst
    Zie [Dynamic Media Classic user rollen and privileges](administration-setup.md#user_administration).
 
 1. Als u een gebruiker aan een bedrijf wilt toevoegen, selecteert u een bedrijfsnaam.
-1. Als u de gebruiker aan een groep wilt toevoegen (als u een gebruiker of medewerker van het Portaal van Media toevoegt), klik **[!UICONTROL Next]** en voeg de gebruiker toe.
-1. Klik **[!UICONTROL Save]** om de gebruikersinstelling te voltooien.
+1. Als u de gebruiker aan een groep wilt toevoegen (als u een gebruiker of een medewerker van het Portaal van Media toevoegt), uitgezocht **[!UICONTROL Next]** en de gebruiker toevoegen.
+1. Selecteer **[!UICONTROL Save]** om de gebruikersinstelling te voltooien.
 
-   Na het bewaren, vraagt een herinnering of wilt u een gebruiker aan een ander bedrijf toevoegen. Klik **[!UICONTROL Add]** als u de gebruiker aan een bedrijf wilt toevoegen.
+   Na het bewaren, vraagt een herinnering of wilt u een gebruiker aan een ander bedrijf toevoegen. Selecteer **[!UICONTROL Add]** als u de gebruiker aan een bedrijf wilt toevoegen.
 
    Alle nieuwe gebruikers krijgen een willekeurig gegenereerd wachtwoord. gebruikers moeten de wachtwoorden wijzigen wanneer zij zich voor het eerst aanmelden bij de Dynamic Media Classic-bureaubladtoepassing.
 
    Nieuwe gebruikers krijgen een welkomstbericht nadat u ze hebt toegevoegd. Het e-mailbericht bevat een tijdelijk wachtwoord en legt uit hoe u zich kunt aanmelden bij Dynamic Media Classic.
 
-   Als de gebruiker het welkomstbericht niet ontvangt, meldt u hem of haar op de pagina Dynamic Media Classic aanmelden (https://s7sps1.scene7.com) en klikt u op Mijn wachtwoord vergeten. Het wachtwoord wordt opnieuw ingesteld en er wordt een nieuwe e-mail verzonden. Neem contact op met Technische ondersteuning als de gebruiker geen e-mail ontvangt en deze zich niet in de map Junk bevindt.
+   Als de gebruiker de welkomstmail niet ontvangt, moet u deze naar de Dynamic Media Classic-aanmeldpagina (https://s7sps1.scene7.com) laten gaan en **[!UICONTROL Forgot My Password]** selecteren. Het wachtwoord wordt opnieuw ingesteld en er wordt een nieuwe e-mail verzonden. Neem contact op met Technische ondersteuning als de gebruiker geen e-mail ontvangt en deze zich niet in de map Junk bevindt.
 
-   Wanneer u nieuwe gebruikers van Media Portal toevoegt, kunt u ook naar **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL User Administration]** gaan, dan **[!UICONTROL Upload User List]** klikken en een .csv-bestand selecteren dat niet meer dan 500 gebruikers bevat.
+   Wanneer u nieuwe gebruikers van Media Portal toevoegt, kunt u ook naar **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL User Administration]** gaan, dan **[!UICONTROL Upload User List]** selecteren en een .csv-bestand selecteren dat niet meer dan 500 gebruikers bevat.
 
 ### Een gebruiker verwijderen {#deleting-a-user}
 
 U kunt gebruikers verwijderen uit Dynamic Media Classic door ze ongeldig te maken. Ongeldige gebruikers worden uit het systeem en alle accounts verwijderd.
 
-1. Klik op **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Administration Setup]** > **[!UICONTROL User Administration]**.
-1. Selecteer een gebruiker in de lijst en klik op **[!UICONTROL Edit]**.
+1. Ga naar **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Administration Setup]** > **[!UICONTROL User Administration]**.
+1. Selecteer een gebruiker in de lijst en selecteer **[!UICONTROL Edit]**.
 1. Schakel Geldig uit.
-1. Klik op **[!UICONTROL Save]**.
+1. Selecteer **[!UICONTROL Save]**.
 
 ### Gebruikers activeren of deactiveren {#activating-or-deactivating-users}
 
 Gebruikers die zijn gedeactiveerd, hebben niet langer toestemming om de account in te voeren die boven aan het menu Selecteer accounts om toegang te krijgen wordt vermeld.
 
-1. Klik op **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Administration Setup]** > **[!UICONTROL User Administration]**.
+1. Ga naar **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Administration Setup]** > **[!UICONTROL User Administration]**.
 1. Schakel in de gebruikerslijst de optie **[!UICONTROL Active]** naast de naam van de gebruiker in of uit.
 
 ### Gebruikersgegevens bewerken {#editing-user-information}
 
 De gebruikersinformatie die u kunt uitgeven hangt van uw rol als beheerder en de toegewezen rol van de gebruiker af waarvan informatie u wilt uitgeven. Opties die grijs (niet beschikbaar) worden weergegeven, kunnen niet worden bewerkt.
 
-1. Klik op **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Administration Setup]** > **[!UICONTROL User Administration]**.
-1. Selecteer de gebruiker en klik **[!UICONTROL Edit]**.
-1. Selecteer de ingang in de lijst die het bedrijf toont u probeert om toestemmingen of toegang voor te wijzigen, dan **[!UICONTROL Manage Company]** te klikken.
+1. Ga naar **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Administration Setup]** > **[!UICONTROL User Administration]**.
+1. Selecteer een gebruiker in de lijst en selecteer **[!UICONTROL Edit]**.
+1. Selecteer de ingang in de lijst die het bedrijf toont u probeert om toestemmingen of toegang voor te wijzigen, dan uitgezocht **[!UICONTROL Manage Company]**.
 1. Selecteer de gebruikersrol.
-1. Als u het groepslidmaatschap van de gebruiker wilt wijzigen (als u een gebruiker of medewerker van Media Portal bewerkt of toevoegt), klikt u op **[!UICONTROL Next]** en bewerkt u het groepslidmaatschap.
-1. Klik op **[!UICONTROL Save]**.
+1. Als u het groepslidmaatschap van de gebruiker wilt wijzigen (als u een gebruiker of medewerker van Media Portal bewerkt of toevoegt), selecteert u **[!UICONTROL Next]** en bewerkt u het groepslidmaatschap.
+1. Selecteer **[!UICONTROL Save]**.
 
 ### De gebruikerslijst filteren en sorteren {#filtering-and-sorting-the-user-list}
 
@@ -109,7 +109,7 @@ U kunt de volgende filtertechnieken voor gebruikerslijsten gebruiken:
 
 * **Ongeldige gebruikers**  uitfilteren - Selectie opheffen  **[!UICONTROL Include Invalid]**. In de zoekresultaten worden alleen gebruikers weergegeven die zich in het systeem bevinden. Ongeldige gebruikers zijn verwijderd uit het systeem en de accounts die u beheert.
 
-* **Sorteren op kolomkop**  - Klik op een kop om alle gebruikers te sorteren op hun status, alfabetisch op voornaam, achternaam of e-mail, op gebruikersrol of op geldige/ongeldige status.
+* **Sorteren op kolomkop**  - Selecteer een kop om alle gebruikers te sorteren op hun status, alfabetisch op voornaam, achternaam of e-mail, op gebruikersrol of op geldige/ongeldige status.
 
 Als u veel gebruikers hebt, kunt u de grootte van de lijst beperken door het menu Maximale lijstgrootte te selecteren en een aantal te kiezen.
 
@@ -122,18 +122,18 @@ You can link an Adobe IMS user identity to a Dynamic Media Classic IPS user acco
    When the setup is complete, you can can log on to Adobe Marketing Cloud and link your Adobe Marketing Cloud identity to your Dynamic Media Classic user account by doing the following.
 
 1. In Adobe Marketing Cloud, navigate to your account settings.
-1. Click **Manage Organizations**.
-1. Click **Link Account** or **Get Access**.
+1. Select **Manage Organizations**.
+1. Select **Link Account** or **Get Access**.
 1. Select **Experience Manager**, and then type your credentials.
 
    Your credentials include your IPS company region, email address, and password.
 
-1. Click **Link**.
+1. Select **Link**.
 1. When the link is set, you can launch Scene7 Publishing System from within Adobe Marketing Cloud, or you can launch it directly.
 
    Do one of the following:
 
-    * To launch Dynamic Media Classic from within Adobe Marketing Cloud, in the left rail of Adobe Marketing Cloud, click **Solutions** > **Experience Manager**. Under the Dynamic Media Classic card, click **Launch**.
+    * To launch Dynamic Media Classic from within Adobe Marketing Cloud, in the left rail of Adobe Marketing Cloud, select **Solutions** > **Experience Manager**. Under the Dynamic Media Classic card, select **Launch**.
     * To log on to Scene7 Publishing System directly using your IMS credentials, use the following website:
 
       https://s7spsN.scene7.com/IpsWeb?ims=1
@@ -145,7 +145,7 @@ You can link an Adobe IMS user identity to a Dynamic Media Classic IPS user acco
 
 De Klassieke Beheerders van Dynamic Media kunnen bandbreedte, opslag, en andere soorten rapporten voor de bedrijven produceren zij beheren. Deze rapporten zijn beschikbaar op de pagina Bandbreedte &amp; Opslag.
 
-Klik op **[!UICONTROL Setup]** > **[!UICONTROL Personal Setup]** om deze pagina te openen. Breid **[!UICONTROL Administration Setup]** uit, en klik dan **[!UICONTROL Bandwidth & Storage]**.
+Ga naar **[!UICONTROL Setup]** > **[!UICONTROL Personal Setup]** om deze pagina te openen. Vouw **[!UICONTROL Administration Setup]** uit en selecteer **[!UICONTROL Bandwidth & Storage]**.
 
 ### Typen rapporten {#types-of-reports}
 
@@ -182,9 +182,9 @@ Het rapport Inhoud afbeelding biedt informatie over verzoeken om de volgende afb
 
 Een rapport over bandbreedte, opslag, afbeeldingsinhoud, domein, videostreaming of video-inhoud genereren:
 
-1. Kies **[!UICONTROL Setup]** > **[!UICONTROL Personal Setup]**.
-1. Breid de Opstelling van het Beleid uit, en klik dan **[!UICONTROL Bandwidth & Storage]**.
-1. Klik op een tabblad: **[!UICONTROL Bandwidth]**, **[!UICONTROL Storage]**, **[!UICONTROL Image Content]**, **[!UICONTROL Domain]**, **[!UICONTROL Video Streaming]** of **[!UICONTROL Video Content]**.
+1. Ga naar **[!UICONTROL Setup]** > **[!UICONTROL Personal Setup]**.
+1. Breid de Opstelling van het Beleid uit, en selecteer dan **[!UICONTROL Bandwidth & Storage]**.
+1. Selecteer een tabblad: **[!UICONTROL Bandwidth]**, **[!UICONTROL Storage]**, **[!UICONTROL Image Content]**, **[!UICONTROL Domain]**, **[!UICONTROL Video Streaming]** of **[!UICONTROL Video Content]**.
 
    Zie [Typen rapporten](administration-setup.md#types_of_reports).
 
@@ -192,41 +192,41 @@ Een rapport over bandbreedte, opslag, afbeeldingsinhoud, domein, videostreaming 
 
 Nadat u een rapport hebt gegenereerd op de pagina Bandbreedte en opslag, kunt u opties kiezen voor het weergeven van informatie. U kunt kiezen hoe informatie wordt voorgesteld, informatie in een grafiek of gegevensnet bekijken, en een tijdspanne specificeren voor het vangen van informatie. In de weergave Gegevens kunt u ook gegevens sorteren en kolommen opnieuw rangschikken.
 
-* **Gegevens weergeven in een diagram of gegevensraster** . Klik  **[!UICONTROL Chart View]** om gegevens in een grafiek weer te geven. Klik  **[!UICONTROL Data View]** om gegevens in een gegevensraster weer te geven.
+* **Gegevens in een grafiek of gegevensraster**  weergeven - Selecteer deze optie  **[!UICONTROL Chart View]** om gegevens in een grafiek weer te geven. Selecteer deze optie  **[!UICONTROL Data View]** om gegevens in een gegevensraster weer te geven.
 
-* **Als u een presentatietype**  voor rapporten kiest, klikt u in het menu Type rapport  **[!UICONTROL Summary]** of  **[!UICONTROL Daily]** of  **[!UICONTROL Monthly]** ordent u de gegevens in een overzichtsvorm, op dag of op maand. Niet alle rapporten verstrekken deze optie.
+* **Kies een type**  van rapportpresentatie - op het menu van het Type van Rapport, selecteer  **[!UICONTROL Summary]**,  **[!UICONTROL Daily]** of  **[!UICONTROL Monthly]** om gegevens in summiere vorm, door dag, of door maand te organiseren. Niet alle rapporten verstrekken deze optie.
 
-* **Een tijdsperiode**  opgeven - Kies opties om een tijdsperiode voor uw rapport te definiëren en klik vervolgens  **[!UICONTROL Update]** nadat u een tijdsperiode hebt gedefinieerd:
+* **Geef een tijdsperiode**  op. Kies opties om een tijdsperiode voor uw rapport te definiëren en selecteer vervolgens  **[!UICONTROL Update]** nadat u een tijdsperiode hebt gedefinieerd:
 
 * **Vooraf gedefinieerde tijdsperiode**  - Kies een optie in het menu Vooraf gedefinieerd rapport. Kies bijvoorbeeld Vorige maand om gegevens van de vorige maand vast te leggen.
 
-* **Periode**  van de douane - op het Vooraf bepaalde menu van het Rapport, klik  **[!UICONTROL Custom]**. Kies vervolgens een datum in het menu **[!UICONTROL Start Month]** (of **[!UICONTROL Start Date]**) en een datum in het menu # of Months (of # of Days). Voor de Rapporten van de Inhoud van het Domein en Video, kunt u een specifieke begin en einddatum kiezen voor het vangen van rapportinformatie.
+* **Periode**  van de douane - op het Vooraf bepaalde menu van het Rapport, uitgezochte  **[!UICONTROL Custom]**. Kies vervolgens een datum in het menu **[!UICONTROL Start Month]** (of **[!UICONTROL Start Date]**) en een datum in het menu # of Months (of # of Days). Voor de Rapporten van de Inhoud van het Domein en Video, kunt u een specifieke begin en einddatum kiezen voor het vangen van rapportinformatie.
 
-* **Gegevens sorteren (alleen in de gegevensweergave)**  - Als u gegevens in een kolom wilt sorteren, klikt u op de kop van de kolom. Klik nogmaals om in aflopende volgorde te sorteren.
+* **Gegevens sorteren (alleen in de weergave Gegevens)**  - Als u de gegevens in een kolom wilt sorteren, selecteert u de kop van de kolom. Selecteer nogmaals om in aflopende volgorde te sorteren.
 
-* **Kolommen opnieuw rangschikken (alleen in de gegevensweergave)**  - Als u een kolom naar een andere locatie op het gegevensraster wilt verplaatsen, sleept u de kop.
+* **Kolommen herschikken (alleen in de gegevensweergave)**  - Als u een kolom naar een andere locatie op het gegevensraster wilt verplaatsen, sleept u de kop.
 
 ### Rapporten exporteren en afdrukken {#exporting-and-printing-reports}
 
 Nadat u een rapport hebt gegenereerd, kunt u de gegevens exporteren voor gebruik in spreadsheets en andere toepassingen. U kunt ook rapporten afdrukken.
 
-* **Het uitvoeren van rapportgegevens**  - in de mening van Gegevens, soort, en rangschikt zonodig de gegevens. Open vervolgens het menu **[!UICONTROL Export]** en kies een indeling: **[!UICONTROL Tab Delimited]**, **[!UICONTROL Comma Separated]** of **[!UICONTROL HTML Formatted]**. De gegevens worden naar het klembord gekopieerd in de indeling die u hebt gekozen. U kunt de gegevens nu in een spreadsheet of een toepassing plakken.
+* **Rapportgegevens**  exporteren - In de weergave Gegevens kunt u de gegevens desgewenst sorteren en rangschikken. Open vervolgens het menu **[!UICONTROL Export]** en kies een indeling: **[!UICONTROL Tab Delimited]**, **[!UICONTROL Comma Separated]** of **[!UICONTROL HTML Formatted]**. De gegevens worden naar het klembord gekopieerd in de indeling die u hebt gekozen. U kunt de gegevens nu in een spreadsheet of een toepassing plakken.
 
-* **Een rapport**  afdrukken - Klik  **[!UICONTROL Print]**, kies de gewenste opties in het dialoogvenster Afdrukken en klik op  **[!UICONTROL OK]**.
+* **Een rapport**  afdrukken - Selecteren  **[!UICONTROL Print]**, kies de gewenste opties in het dialoogvenster Afdrukken en selecteer  **[!UICONTROL OK]**.
 
 ## Afbeeldingsfouten {#image-errors}
 
 Klassieke Dynamic Media-beheerders kunnen rapporten met afbeeldingsfouten genereren. Een rapport van de Fout van het Beeld verstrekt een lijst van de 20 meest frequente beeldfouten, voor de afgelopen 24 uren, voor het bedrijf u momenteel het programma wordt geopend aan. Ga als volgt te werk om een rapport Afbeeldingsfout te genereren:
 
-1. Klik op **[!UICONTROL Setup]** > **[!UICONTROL Personal Setup]**.
-1. Breid de Opstelling van het Beleid uit, en klik dan **[!UICONTROL Image Errors]**.
+1. Ga naar **[!UICONTROL Setup]** > **[!UICONTROL Personal Setup]**.
+1. Breid de Opstelling van het Beleid uit, en selecteer dan **[!UICONTROL Image Errors]**.
 1. (Optioneel) Voer een van de volgende handelingen uit:
 
-   * Als u fouten wilt sorteren op de koptekstgegevens, klikt u op een kop. Standaard worden fouten gesorteerd op aantal exemplaren, hoogste op laagste.
+   * Als u fouten wilt sorteren op de koptekstgegevens, selecteert u een kop. Standaard worden fouten gesorteerd op aantal exemplaren, hoogste op laagste.
    * Beweeg de curseur over het gebied van de Reactie voor een fout om het specifieke foutenbericht te zien.
    * Als u de koppeling naar de webpagina van de afbeelding of referentie wilt zien, plaatst u de cursor boven het URL-veld of het veld Referenter.
-   * Als u de koppeling naar de werkelijke afbeelding wilt kopiëren, klikt u op **[!UICONTROL URL Copy URL]**. U kunt deze koppeling in een browservenster plakken om naar de afbeelding te gaan en de fout te onderzoeken.
-   * Klik op **[!UICONTROL Referrer Copy URL]** om de koppeling naar de verwijzende webpagina te kopiëren.
+   * Selecteer **[!UICONTROL URL Copy URL]** om de koppeling naar de werkelijke afbeelding te kopiëren. U kunt deze koppeling in een browservenster plakken om naar de afbeelding te gaan en de fout te onderzoeken.
+   * Selecteer **[!UICONTROL Referrer Copy URL]** om de koppeling naar de verwijzende webpagina te kopiëren.
 
 De weergegeven fouten gelden voor het bedrijf waarvoor u momenteel bent aangemeld. Elke fout bevat de volgende informatie:
 
