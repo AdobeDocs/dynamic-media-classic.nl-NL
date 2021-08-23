@@ -8,7 +8,7 @@ geptopics: SG_SCENESEVENONDEMAND_PK/categories/master_files
 feature: Dynamic Media Classic, beheer van bedrijfsmiddelen
 role: User
 exl-id: 3c50e706-b9ed-49db-8c08-f179de52b9cf
-source-git-commit: df689ff5a127bfbc400ca5331168d1ff7bb0b42e
+source-git-commit: 1c7900b2807e6b67e9802e6361e42cce893b0217
 workflow-type: tm+mt
 source-wordcount: '1465'
 ht-degree: 3%
@@ -47,7 +47,7 @@ Gebruik `&wid=<value>&hei=<value>&resMode=sharp2` of `&hei=<value>&resMode=sharp
 
 Het verscherpen van afbeeldingen is het meest complexe aspect van het beheren van afbeeldingen op uw website en er worden veel fouten gemaakt. Neem de tijd om meer te leren over hoe verscherpen en onscherp maskeren werken in Dynamic Media Classic door naar de volgende nuttige bronnen te verwijzen:
 
-Best practices white paper [Sharpening images in Adobe Dynamic Media Classic and on Image Server](/help/assets/s7_sharpening_images.pdf).
+Best practices white paper [Verscherp afbeeldingen in Adobe Dynamic Media Classic en op afbeeldingsserver](/help/assets/s7_sharpening_images.pdf).
 
 <!-- Give a 404 See also [Sharpening an image with unsharp mask](https://helpx.adobe.com/photoshop/atv/cs6-tutorials/sharpening-an-image-with-unsharp-mask.html). -->
 
@@ -69,7 +69,7 @@ U kunt twee methoden voor het verscherpen van afbeeldingen gebruiken:
 
          Deze parameter bepaalt hoe verschillend de verscherpte pixels van het omringende gebied moeten zijn alvorens zij als randpixels worden beschouwd en het filter deze scherper maakt. Met Drempel voorkomt u te veel verscherpte gebieden met vergelijkbare kleuren, zoals huidskleuren. Als u bijvoorbeeld een drempelwaarde van 12 instelt, worden kleine variaties in de helderheid van de huidskleur genegeerd om &quot;ruis&quot; te voorkomen, terwijl randcontrast nog steeds wordt toegevoegd aan gebieden met hoog contrast, zoals waar de wimpers de huid raken.
 
-         Zie [Afbeeldingen verscherpen in Adobe Scene7 Publishing System en op Image Server](/help/assets/s7_sharpening_images.pdf) voor meer informatie over hoe u deze drie parameters instelt, inclusief aanbevolen werkwijzen voor gebruik met het filter.
+         Zie [Afbeeldingen verscherpen in Adobe Dynamic Media Classic en op Afbeeldingsserver](/help/assets/s7_sharpening_images.pdf) voor meer informatie over hoe u deze drie parameters instelt, inclusief aanbevolen werkwijzen voor gebruik met het filter.
 
       * Met Dynamic Media Classic kunt u ook een vierde parameter beheren: monochroom ( `0,1`). Deze parameter bepaalt of onscherp maskeren wordt toegepast op elke kleurcomponent afzonderlijk met de waarde `0` of op de helderheid/intensiteit van de afbeelding met de waarde `1`.
 
