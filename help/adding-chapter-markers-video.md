@@ -1,6 +1,6 @@
 ---
 title: Hoofdstukmarkeringen aan video toevoegen
-description: Leer hoe u hoofdstukmarkeringen aan een video kunt toevoegen.
+description: Leer hoe u hoofdstukmarkeringen aan een video kunt toevoegen in Dynamic Media Classic.
 uuid: 4e1e6daf-afc6-49d9-ac90-183fe2a903b2
 contentOwner: admin
 content-type: reference
@@ -10,16 +10,16 @@ discoiquuid: 8bc5e552-2abb-41f0-89d2-bdf3ae5d96c2
 feature: Dynamic Media Klassiek,Viewers,Video
 role: User
 exl-id: a9250841-2dba-4fdc-8a6e-91b2fecef72f
-source-git-commit: 885fcd16559d31d3b9bad88705b4b6bec18515ee
+source-git-commit: 1d30c98b76ebe78ff60bae87bd112de7a577182d
 workflow-type: tm+mt
-source-wordcount: '617'
+source-wordcount: '621'
 ht-degree: 0%
 
 ---
 
-# Hoofdstukmarkeringen aan video toevoegen{#adding-chapter-markers-to-video}
+# Hoofdstukmarkeringen aan video toevoegen {#adding-chapter-markers-to-video}
 
-U kunt uw lange formuliervideo&#39;s beter weergeven en navigeren door hoofdstukmarkeringen toe te voegen aan enkele video&#39;s of aan Adaptieve videosets. Wanneer een gebruiker de video afspeelt, kunnen deze op de hoofdstukmarkeringen op de videotijdlijn klikken (ook wel de videoscrubber genoemd). Als u dit doet, kunnen ze gemakkelijk naar hun interesse gaan of direct naar nieuwe inhoud, demonstraties, zelfstudies, enzovoort gaan.
+U kunt uw lange formuliervideo&#39;s beter weergeven en navigeren door hoofdstukmarkeringen toe te voegen aan enkele video&#39;s of aan Adaptieve videosets. Wanneer een gebruiker de video afspeelt, kunnen deze de hoofdstukmarkeringen op de videotijdlijn selecteren (ook wel de videoscrubber genoemd). Als u dit doet, kunnen ze gemakkelijk naar hun interesse gaan of direct naar nieuwe inhoud, demonstraties, zelfstudies, enzovoort gaan.
 
 >[!NOTE]
 >
@@ -27,7 +27,7 @@ U kunt uw lange formuliervideo&#39;s beter weergeven en navigeren door hoofdstuk
 
 Zie [Een voorinstelling voor een videoviewer toevoegen of bewerken](previewing-videos-video-viewer.md#adding_or_editing_a_video_viewer_preset) als u de actiepunten voor hoofdstuknavigatie en de pop-uptekst voor hoofdstuktitels voor de `Universal_HTML5_Video`-viewer (HTML5) wilt configureren.
 
-Zie ook [Viewer-voorinstellingen toevoegen en bewerken](application-setup.md#adding_and_editing_viewer_presets).
+Zie ook [Voorinstellingen voor viewers toevoegen en bewerken](application-setup.md#adding_and_editing_viewer_presets).
 
 U maakt een hoofdstuklijst voor uw video op ongeveer dezelfde manier als u bijschriften maakt. U maakt dus een WebVTT-bestand. Merk op, echter, dat dit dossier van om het even welk WebVTT titeldossier moet gescheiden zijn dat u ook kunt gebruiken; u kunt geen titels en hoofdstukken in één dossier combineren WebVTT.
 
@@ -72,18 +72,18 @@ Zie [WebVTT: De indeling Web Video Text Tracks](https://w3c.github.io/webvtt/).
    Zie [Bestanden uploaden](uploading-files.md#uploading_files).
 
 1. Navigeer in het deelvenster Elementenbibliotheek aan de linkerkant naar de elementenmap die het videobestand bevat dat u wilt koppelen aan het hoofdstukbestand dat u hebt geüpload.
-1. Selecteer in het deelvenster Asset Browse één video-element en klik vervolgens onder de miniatuurafbeelding van het element op **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]**.
+1. Selecteer in het deelvenster Asset Browse één video-element en selecteer **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]** onder de miniatuurafbeelding van het element.
 1. Zoek in de tabel Viewer List de HTML5-viewer met de naam **Univeral_HTML5_Video** en voer een van de volgende handelingen uit:
 
-   * Voor een ervaring van de pop-up videokijker, klik **[!UICONTROL Copy URL]** uiterst rechts van de naam.
+   * Selecteer **[!UICONTROL Copy URL]** helemaal rechts van de naam voor een ervaring met een pop-upvideoviewer.
 
       Voeg de gekopieerde URL van de video toe aan de volgende syntaxis, zodat u deze kunt koppelen aan de gekopieerde URL naar het bijschriftbestand:
 
       `&navigation=*<full Copy URL path to the chapter navigation file .vtt>*`
 
-   * Voor een ingesloten videoviewerervaring klikt u op **[!UICONTROL Embed Code]** helemaal rechts van de naam.
+   * Voor een ingesloten videoviewerervaring selecteert u **[!UICONTROL Embed Code]** helemaal rechts van de naam.
 
-      Klik in het dialoogvenster Code insluiten op **[!UICONTROL Copy to Clipboard]**.
+      Selecteer **[!UICONTROL Copy to Clipboard]** in het dialoogvenster Code insluiten.
 
       Voor de HTML5 `Universal_HTML5_Video`-viewer voegt u de gekopieerde insluitcode als volgt toe:
 
