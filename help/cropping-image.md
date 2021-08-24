@@ -10,9 +10,9 @@ discoiquuid: 99dfa476-4f11-4569-a27e-a76ed7787674
 feature: Dynamic Media Classic, beheer van bedrijfsmiddelen
 role: User
 exl-id: aec4c256-f5ed-4307-afec-dec848be95f9
-source-git-commit: 885fcd16559d31d3b9bad88705b4b6bec18515ee
+source-git-commit: 7be3f63bfadeafa71eeb2567f982f579ccb85975
 workflow-type: tm+mt
-source-wordcount: '517'
+source-wordcount: '510'
 ht-degree: 0%
 
 ---
@@ -34,14 +34,14 @@ U kunt de transparante of effen kleurpixels uitsnijden vanaf de rand van een afb
 1. Als u een afbeelding wilt uitsnijden, selecteert u de rollover **[!UICONTROL Edit]** en kiest u **[!UICONTROL Crop]** of geeft u de afbeelding weer in het deelvenster Bladeren in de gedetailleerde weergave en selecteert u de knop **[!UICONTROL Crop]**.
 1. Voer een van de volgende handelingen uit op de pagina Snijbewerker:
 
-   * Als u kleurpixels wilt bijsnijden, gaat u naar **[!UICONTROL Trim]** > **[!UICONTROL Color]**. Het dialoogvenster Automatisch bijsnijden op kleur wordt geopend. Selecteer het menu **[!UICONTROL Corner]** en kies een hoek met de achtergrondkleur die u wilt wegsnijden. Voer vervolgens een instelling **[!UICONTROL Tolerance]** in van 0 tot en met 1. Met de instelling 0 worden alleen pixels uitgesneden als deze exact overeenkomen met de kleur die u in de hoek van de afbeelding hebt geselecteerd. De aantallen dichter aan 1 staan voor meer kleurenverschil toe. Selecteer **[!UICONTROL Crop]**.
-   * Als u transparante pixels wilt bijsnijden, gaat u naar **[!UICONTROL Trim]** > **[!UICONTROL Transparent]**. Het dialoogvenster Automatisch bijsnijden op transparantie wordt geopend. Voer een tolerantie in tussen 0 en 1. Met de instelling 0 worden alleen pixels uitgesneden als deze transparant zijn. De aantallen dichter aan 1 staan voor meer transparantie toe. Selecteer **[!UICONTROL Crop]**.
+   * Als u kleurpixels wilt bijsnijden, gaat u naar **[!UICONTROL Trim]** > **[!UICONTROL Color]**. Selecteer in het dialoogvenster **[!UICONTROL Auto Crop By Color]** het menu **[!UICONTROL Corner]** en kies een hoek met de achtergrondkleur die u wilt wegsnijden. Voer vervolgens een instelling **[!UICONTROL Tolerance]** in van 0 tot en met 1. Met de instelling 0 worden alleen pixels uitgesneden als deze exact overeenkomen met de kleur die u in de hoek van de afbeelding hebt geselecteerd. De aantallen dichter aan 1 staan voor meer kleurenverschil toe. Selecteer **[!UICONTROL Crop]**.
+   * Als u transparante pixels wilt bijsnijden, gaat u naar **[!UICONTROL Trim]** > **[!UICONTROL Transparent]**. Voer in het dialoogvenster **[!UICONTROL Auto Crop By Transparency]** een tolerantiewaarde in tussen 0 en 1. Met de instelling 0 worden alleen pixels uitgesneden als deze transparant zijn. De aantallen dichter aan 1 staan voor meer transparantie toe. Selecteer **[!UICONTROL Crop]**.
 
 1. Selecteer **[!UICONTROL Save]**.
 
 >[!NOTE]
 >
->Als u de oorspronkelijke staat van een afbeelding wilt herstellen nadat u de afbeelding hebt bijgesneden, geeft u de afbeelding weer in de Crop Editor-scherm en selecteert u **[!UICONTROL Reset]**.
+>Als u de oorspronkelijke staat van een afbeelding wilt herstellen nadat u de afbeelding hebt bijgesneden, geeft u de afbeelding weer in de Uitsnijdeditor en selecteert u **[!UICONTROL Reset]**.
 
 ## Een gebied selecteren voor uitsnijden {#select-an-area-to-crop}
 
