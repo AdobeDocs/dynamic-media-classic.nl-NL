@@ -1,6 +1,6 @@
 ---
-title: Inhoudswijzigingen beheren
-description: Leer hoe u variaties in inhoud beheert.
+title: Inhoudsvariaties beheren
+description: Leer hoe u inhoudsvariaties beheert in Dynamic Media Classic.
 uuid: 1e40a526-02f8-41d9-886f-6d094546bc13
 contentOwner: admin
 content-type: reference
@@ -10,14 +10,14 @@ discoiquuid: aa129b0e-fc73-4fc2-a894-4560b3f46c4f
 feature: Dynamic Media Classic
 role: User
 exl-id: 65b8c314-7ec1-417f-8a7b-aa13762072a1
-source-git-commit: df689ff5a127bfbc400ca5331168d1ff7bb0b42e
+source-git-commit: 7be3f63bfadeafa71eeb2567f982f579ccb85975
 workflow-type: tm+mt
-source-wordcount: '236'
+source-wordcount: '242'
 ht-degree: 0%
 
 ---
 
-# Inhoudswijzigingen beheren{#managing-content-variations}
+# Inhoudsvariaties beheren{#managing-content-variations}
 
 Gebruik sjabloonsets om de manier te beheren waarop elementvariaties worden gepubliceerd.
 
@@ -27,10 +27,10 @@ Universele URL&#39;s worden gebruikt om de sjabloonvariatie weer te geven die op
 
 U kunt elke vooraf ingestelde URL voor afbeeldingen uit de lijst gebruiken. URL&#39;s met voorinstellingen voor afbeeldingen zijn vergelijkbaar met universele URL&#39;s. Er kunnen meerdere vooraf ingestelde URL&#39;s voor afbeeldingen zijn.
 
-1. Klik op **[!UICONTROL Build]** > **[!UICONTROL Template Sets]**. De builder wordt geopend.
-1. Selecteer een sjabloon en klik op **[!UICONTROL Add/Preview]**.
-1. Wijzig de sjablooneigenschappen en klik op **[!UICONTROL Save As]** om een andere versie te maken.
-1. Typ een naam en klik op **[!UICONTROL Save]**.
+1. Ga naar **[!UICONTROL Build]** > **[!UICONTROL Template Sets]**.
+1. Selecteer in de builder een sjabloon en selecteer **[!UICONTROL Add/Preview]**.
+1. Wijzig de sjablooneigenschappen en selecteer **[!UICONTROL Save As]** om een andere versie te maken.
+1. Typ een naam en selecteer **[!UICONTROL Save]**.
 
    Zowel het element als de sjabloon moeten worden gepubliceerd.
 
