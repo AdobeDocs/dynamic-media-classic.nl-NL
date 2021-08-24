@@ -1,6 +1,6 @@
 ---
-title: eCatalog-afbeeldingen met hyperlinks maken
-description: Leer hoe u eCatalog-afbeeldingen met hyperlinks maakt.
+title: ECatalog-afbeeldingen met hyperlinks maken
+description: Leer hoe u eCatalog-afbeeldingen met hyperlinks maakt in Dynamic Media Classic.
 uuid: 943ad3f7-a885-4bc2-88cb-77083384bdf8
 contentOwner: admin
 content-type: reference
@@ -10,18 +10,18 @@ discoiquuid: 4cf63359-63b5-4da7-9498-335d91b4776c
 feature: Dynamic Media Classic,Viewers,eCatalog
 role: User
 exl-id: 5e7f39a5-36a6-40df-8752-064a582c9346
-source-git-commit: 1d30c98b76ebe78ff60bae87bd112de7a577182d
+source-git-commit: 7be3f63bfadeafa71eeb2567f982f579ccb85975
 workflow-type: tm+mt
-source-wordcount: '1444'
+source-wordcount: '1448'
 ht-degree: 0%
 
 ---
 
-# eCatalog-afbeeldingen met hyperlinks maken{#creating-ecatalog-image-maps}
+# ECatalog-afbeeldingen met hyperlinks maken{#creating-ecatalog-image-maps}
 
 Een afbeelding met hyperlinks is een gebied op een eCatalog-pagina waarop u met de muis kunt schuiven of dat u kunt selecteren om acties van verschillende soorten te activeren. Wanneer u de aanwijzer bijvoorbeeld op een Afbeeldingskaart plaatst, wordt een beschrijving van een item weergegeven met de rollover-tekst. Wanneer u een afbeelding met hyperlinks selecteert, wordt een andere handeling uitgevoerd. U kunt bijvoorbeeld een webpagina openen zodat gebruikers meer kunnen weten over een item of dit kunnen kopen, of u kunt een video starten om een item in gebruik te zien.
 
-## Afbeeldingen met hyperlinks tekenen {#drawing-ecatalog-image-maps}
+## ECatalog-afbeeldingen met hyperlinks tekenen {#drawing-ecatalog-image-maps}
 
 Voor eCatalogi, tekent u Kaarten van het Beeld op het lusje van de Pagina&#39;s van de Kaart van het eCatalogscherm. Dit scherm bestaat uit het gebied Afbeeldingskaart waar de eCatalog-pagina&#39;s worden weergegeven en, rechts, de lijst Afbeeldingskaart. Terwijl u Afbeeldingskaarten maakt, worden de namen ervan ingevoerd in de lijst Afbeeldingskaart.
 
@@ -75,11 +75,11 @@ U kunt knopinfo ook weergeven wanneer klanten hun aanwijzers over de Afbeeldings
 
 Ga als volgt te werk om eCatalog Image Maps te bewerken:
 
-* **De positie**  aanpassen - Selecteer het gereedschap Pannen en verplaats de aanwijzer in de buurt maar niet boven de rand van de kaart. Wanneer de aanwijzer een pijl met vier punten toont, sleept u de hele afbeelding met hyperlinks naar een nieuwe locatie.
+* **Pas de positie**  aan. Selecteer het gereedschap Pannen en verplaats de aanwijzer in de buurt, maar niet boven de rand van de kaart. Wanneer de aanwijzer een pijl met vier punten toont, sleept u de hele afbeelding met hyperlinks naar een nieuwe locatie.
 
    Zie [De positie, vorm en grootte van afbeeldingen met hyperlinks aanpassen](creating-image-maps.md#adjusting_the_position_shape_and_size_of_image_maps).
 
-* **De vorm en de grootte**  wijzigen - Selecteer het gereedschap Pannen om de grootte van een rechthoekige afbeelding met hyperlinks te wijzigen. Plaats de aanwijzer vervolgens boven een rand of een hoek en sleep wanneer u het pictogram met de dubbele pijl ziet. Als u de grootte van een veelhoekige afbeelding met hyperlinks wilt wijzigen, sleept u een vierkante selectiegreep. Als u een selectiegreep wilt maken, selecteert u de rand van de Afbeeldingskaart en sleept u.
+* **Wijzig de vorm en de grootte** . Selecteer het gereedschap Pannen om de grootte van een rechthoekige afbeelding met hyperlinks te wijzigen. Plaats de aanwijzer vervolgens boven een rand of een hoek en sleep wanneer u het pictogram met de dubbele pijl ziet. Als u de grootte van een veelhoekige afbeelding met hyperlinks wilt wijzigen, sleept u een vierkante selectiegreep. Als u een selectiegreep wilt maken, selecteert u de rand van de Afbeeldingskaart en sleept u.
 
    Zie [De positie, vorm en grootte van afbeeldingen met hyperlinks aanpassen](creating-image-maps.md#adjusting_the_position_shape_and_size_of_image_maps).
 
@@ -89,7 +89,7 @@ Ga als volgt te werk om eCatalog Image Maps te bewerken:
 
 * **Behandeling van overlappende afbeeldingen met hyperlinks**  - Sleep om de volgorde van afbeeldingen met hyperlinks in de lijst Afbeeldingskaart te wijzigen.
 
-   Zie [Overlappende afbeeldingen verwerken](creating-image-maps.md#handling_overlapping_image_maps).
+   Zie [Overlappende afbeeldingen met hyperlinks verwerken](creating-image-maps.md#handling_overlapping_image_maps).
 
 * **Afbeeldingen met hyperlinks kopiëren naar andere pagina** &#39;s - Selecteren  **[!UICONTROL Copy Maps To]** (zorg dat u zich op het tabblad Pagina&#39;s toewijzen bevindt). Selecteer in het scherm Afbeeldingen selecteren de pagina of pagina&#39;s waarop u de Afbeeldingen met hyperlinks wilt kopiëren en selecteer **[!UICONTROL Select]**.
 
