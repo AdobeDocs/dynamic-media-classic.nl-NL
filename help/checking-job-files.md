@@ -1,6 +1,6 @@
 ---
 title: Taakbestanden controleren
-description: Leer hoe u taakbestanden kunt controleren.
+description: Leer hoe u taakbestanden kunt controleren in Dynamic Media Classic.
 uuid: 8241a894-3014-4a5c-96ef-71f3aaa3716a
 contentOwner: admin
 content-type: reference
@@ -10,10 +10,10 @@ discoiquuid: d53ae5dd-8daf-4d87-b9a6-3039bad30538
 feature: Dynamic Media Classic, beheer van bedrijfsmiddelen
 role: User
 exl-id: b6b11e1c-5eda-4bdb-8ffb-ecd3678f2352
-source-git-commit: df689ff5a127bfbc400ca5331168d1ff7bb0b42e
+source-git-commit: 7be3f63bfadeafa71eeb2567f982f579ccb85975
 workflow-type: tm+mt
-source-wordcount: '1581'
-ht-degree: 1%
+source-wordcount: '1530'
+ht-degree: 0%
 
 ---
 
@@ -21,89 +21,89 @@ ht-degree: 1%
 
 Dynamic Media Classic biedt de pagina Taken aan om het uploaden van bestanden naar de Dynamic Media Classic te controleren en om bestanden die u publiceert naar de Dynamic Media Classic-servers te controleren. U kunt het uploaden en publiceren banen op de pagina van Banen herzien, de status van banen controleren, en het annuleren van het publiceren banen van deze pagina. U kunt ook uploads en publicatietaken plannen.
 
-Wanneer u elementen uploadt, wordt een draaiend pictogram weergegeven naast het menu Taken. Dit geeft aan dat een taak wordt uitgevoerd en dat het aantal bestanden in uitvoering is. U kunt op het pictogram klikken om meer informatie over de actieve taak weer te geven.
+Wanneer u elementen uploadt, wordt een draaiend pictogram weergegeven naast het menu Taken. Dit geeft aan dat een taak wordt uitgevoerd en dat het aantal bestanden in uitvoering is. U kunt het pictogram selecteren om meer informatie over de actieve taak weer te geven.
 
 >[!NOTE]
 >
->Een lijst met onlangs gepubliceerde taken is ook beschikbaar op de pagina Recente activiteiten. Klik op **[!UICONTROL Recent]** op de algemene navigatiebalk om deze pagina te openen.
+>Een lijst met onlangs gepubliceerde taken is ook beschikbaar op de pagina Recente activiteiten. Selecteer **[!UICONTROL Recent]** op de globale bar van de Navigatie.
 
 ## De pagina Taken {#about-the-jobs-page}
 
-Selecteer **[!UICONTROL Jobs]** op de Algemene bar van de Navigatie om de pagina van Banen te openen. Standaard worden taken weergegeven die beginnen met de meest recente.
+Selecteer **[!UICONTROL Jobs]** op de Globale bar van de Navigatie zodat opent de pagina van Banen. Standaard worden taken weergegeven die beginnen met de meest recente.
 
 Taken worden in de volgende categorieën op het tabblad Historie van de pagina Taken vermeld:
 
-**Taaktype** Een pictogram geeft het taaktype aan: Uploaden en publiceren zijn de meest voorkomende taaktypen.
+* **[!UICONTROL Job Type]** - Een pictogram geeft het taaktype aan: Uploaden en publiceren zijn de meest voorkomende taaktypen.
 
-**TaaknaamDe** naam van de taak. De naam bevat het door de gebruiker ingevoerde gedeelte van de naam en de datum en tijd.
+* **[!UICONTROL Job Name]** - De naam van de taak. De naam bevat het door de gebruiker ingevoerde gedeelte van de naam en de datum en tijd.
 
-**** StartedWhen the job started.
+* **[!UICONTROL Started]** - Wanneer de taak is gestart.
 
-**** TotaalHet aantal overgedragen bestanden.
+* **[!UICONTROL Total]** - Het aantal overgedragen bestanden.
 
-**W (waarschuwingen)** Het aantal waarschuwingen in de taak (indien aanwezig). Waarschuwingen geven problemen aan met de taak die geen invloed hadden op de algehele voltooiing van de taak. Deze waarschuwingen kunnen meestal worden genegeerd omdat ze worden gerapporteerd over verborgen bestanden. `.DS_store`-bestanden (Macintosh) en Thumbs.db-bestanden (Windows®) bevatten bijvoorbeeld informatie over het weergeven van afbeeldingsbestanden voor gebruikers. Waarschuwingsgegevens voor deze bestanden kunnen echter worden genegeerd omdat ze geen betrekking hebben op de manier waarop deze bestanden in Dynamic Media Classic worden gebruikt. U kunt dubbelklikken op een taaknaam voor gedetailleerde informatie over waarschuwingen.
+* **[!UICONTROL W (warnings)]** - Het aantal waarschuwingen in de taak (indien aanwezig). Waarschuwingen geven problemen aan met de taak die geen invloed hadden op de algehele voltooiing van de taak. Deze waarschuwingen kunnen meestal worden genegeerd omdat ze worden gerapporteerd over verborgen bestanden. `.DS_store`-bestanden (Macintosh) en Thumbs.db-bestanden (Windows®) bevatten bijvoorbeeld informatie over het weergeven van afbeeldingsbestanden voor gebruikers. Waarschuwingsgegevens voor deze bestanden kunnen echter worden genegeerd omdat ze geen betrekking hebben op de manier waarop deze bestanden in Dynamic Media Classic worden gebruikt. U kunt dubbelklikken op een taaknaam voor gedetailleerde informatie over waarschuwingen.
 
-**E (fouten)** Hier wordt het aantal eventuele fouten in de taak weergegeven. U kunt dubbelklikken op een taaknaam voor gedetailleerde informatie over fouten.
+* **[!UICONTROL E (errors)]** - Hier wordt het aantal eventuele fouten in de taak weergegeven. U kunt dubbelklikken op een taaknaam voor gedetailleerde informatie over fouten.
 
-**** DurationHoe lang het duurde om de baan te voltooien.
+* **[!UICONTROL Duration]** - Hoe lang duurde het om de taak te voltooien.
 
-**** StatusGeeft de status van de taak weer.
+* **[!UICONTROL Status]** - Geeft de status van de taak weer.
 
-**** DoelVoor uploadtaken, de bedrijfsnaam en de map waarnaar de bestanden zijn geüpload. Deze categorie is niet van toepassing op publicatietaken.
+* **[!UICONTROL Destination]** - Voor uploadtaken: de bedrijfsnaam en de map waarnaar de bestanden zijn geüpload. Deze categorie is niet van toepassing op publicatietaken.
 
-**Verzonden** doorLists die de elementen hebben geüpload.
+* **[!UICONTROL Submitted By]** - Lijsten die de elementen hebben geüpload.
 
 >[!NOTE]
 >
->U kunt publicatie- en uploadtaken tijdens de uitvoering annuleren door op de knop Annuleren naast de voortgangsbalk te klikken.
+>U kunt publicatie- en uploadtaken tijdens de uitvoering annuleren door op de knop **[!UICONTROL Cancel]** naast de voortgangsbalk te klikken.
 
 ## Weergaven wijzigen op de pagina Taken {#changing-views-on-the-jobs-page}
 
 Gebruik deze technieken om taken te sorteren of uw weergave van het tabblad Historie van de pagina Taken te wijzigen:
 
-**** SorterenSelecteer een kolomnaam om de lijst op een bepaalde kolom te sorteren. U kunt de schakelaar naast de kolomnaam selecteren om in dalende of stijgende orde te sorteren.
+* **[!UICONTROL Sorting]** - Selecteer een kolomnaam om de lijst op een bepaalde kolom te sorteren. U kunt de schakelaar naast de kolomnaam selecteren om in dalende of stijgende orde te sorteren.
 
-**Date** RangeSelecteer het menu Datumbereik en kies een optie om de lijst met taken te beperken tot de huidige datum, de vorige week of de vorige maand. Kies Aangepast datumbereik en voer een specifiek datumbereik in.
+* **[!UICONTROL Date Range]** - Selecteer het  **[!UICONTROL Date Range]** menu en kies een optie om de lijst met taken te beperken tot de huidige datum, de vorige week of de vorige maand. Selecteer **[!UICONTROL Custom Date Range]** en voer een specifiek datumbereik in.
 
-**TaaktypeSelecteer het menu Taaktype en kies Publiceren of Uploaden om de lijst te beperken en taken te publiceren of te uploaden.** Kies Alles om beide typen taken weer te geven.
+* **[!UICONTROL Job Type]** - Selecteer het  **[!UICONTROL Job Type]** menu en kies  **[!UICONTROL Publish]** of verklein de lijst  **[!UICONTROL Upload]** om taken te publiceren of te uploaden. Selecteer **[!UICONTROL All]** om beide typen taken weer te geven.
 
-**** Kies Tonen > Mijn taken of Tonen > Alle taken om de lijst te beperken tot taken die u hebt besteld of tot taken die door mensen in uw bedrijf zijn besteld.
+* **[!UICONTROL Show]** - Ga naar  **[!UICONTROL Show]** >  **[!UICONTROL My Jobs]** of  **[!UICONTROL Show]** >  **[!UICONTROL All Jobs]** om de lijst te beperken tot taken die u hebt besteld of taken die door mensen in uw bedrijf zijn besteld.
 
 ## Een rapport met taakdetails weergeven, kopiëren of afdrukken {#viewing-copying-or-printing-a-job-details-report}
 
-Dubbelklik op de naam van een rapport op de pagina Taken om de pagina Taakdetails te openen. Deze pagina bevat een samenvattingsrapport over de bestanden in de taak. Klik op Details weergeven om de klassieke Dynamic Media-id, het bestemmingspad en statusinformatie van een item weer te geven. Als u een PDF- of PostScript-bestand hebt geüpload waarvoor fonts nodig zijn die niet beschikbaar zijn in Dynamic Media Classic, worden in het rapport de ontbrekende fonts vermeld.
+Dubbelklik op de naam van een rapport op de pagina Taken zodat de pagina Taakdetails wordt geopend. Deze pagina bevat een samenvattingsrapport over de bestanden in de taak. Selecteer **[!UICONTROL View Detail]** zodat u de Klassieke identiteitskaart van Dynamic Media van een ingang, bestemmingspad, en statusinformatie kunt zien. Als u een PDF- of PostScript-bestand hebt geüpload waarvoor fonts nodig zijn die niet beschikbaar zijn in Dynamic Media Classic, worden in het rapport de ontbrekende fonts vermeld.
 
 U kunt deze gegevens naar het klembord kopiëren.
 
-1. Dubbelklik op de naam van een rapport op de pagina Taken om de pagina Taakdetails te openen.
-1. Klik op Details weergeven voor een gedetailleerd rapport over een bericht.
-1. Klik op Kopiëren naar klembord.
+1. Dubbelklik op de naam van een rapport op de pagina Taken.
+1. Selecteer **[!UICONTROL View Detail]** op de pagina Taakdetails om een gedetailleerd rapport over een item op te halen.
+1. Selecteer **[!UICONTROL Copy to Clipboard]**.
 
-## Herhalende upload- en publicatietaken afhandelen {#handling-recurring-upload-and-publish-jobs}
+## Herhalende upload- en publicatietaken verwerken {#handling-recurring-upload-and-publish-jobs}
 
 Het terugkomen upload en publiceer banen die u op Upload en publiceer pagina&#39;s creeert zijn vermeld op het Geplande lusje van de pagina van Banen. U kunt terugkerende taken op het geplande tabblad bewerken en verwijderen.
 
-Selecteer de knoop van Banen op de Globale bar van de Navigatie en, op de pagina van Banen, selecteer het Geplande lusje om terugkomende banen uit te geven en te schrappen.
+Selecteer de knoop van Banen op de Globale bar van de Navigatie en, op de pagina van Banen, selecteer **[!UICONTROL Scheduled]** tabel zodat kunt u terugkomende banen uitgeven en schrappen.
 
 >[!NOTE]
 >
->U kunt de takenlijst op het Geplande lusje met het Type van Baan en tonen menu&#39;s filtreren. Kies een taaktype om de lijst te beperken en taken van een bepaald type te publiceren. Kies een optie Tonen om taken weer te geven die u hebt gemaakt of om taken weer te geven die door iedereen in uw bedrijf zijn gemaakt.
+>U kunt de takenlijst op het **[!UICONTROL Scheduled]** lusje met **[!UICONTROL Job Type]** en **[!UICONTROL Show]** menu&#39;s filtreren. Selecteer een taaktype zodat u de lijst kunt beperken tot het publiceren van taken van een specifiek type. Selecteer een optie **[!UICONTROL Show]** als u de banen wilt tonen u of banen creeerde door iedereen in uw bedrijf.
 
-### Herhalende taken bewerken, verwijderen, pauzeren en hervatten {#editing-deleting-pausing-and-resuming-recurring-jobs}
+### Herhaalde taken bewerken, verwijderen, pauzeren en hervatten {#editing-deleting-pausing-and-resuming-recurring-jobs}
 
-Selecteer een terugkomende baan op de pagina van Banen en volg deze instructies om het uit te geven of te schrappen:
+Selecteer een terugkomende baan op de pagina van Banen en volg deze instructies als u het wilt uitgeven of schrappen:
 
-**Een terugkerende** taak bewerkenSelecteer de knop Bewerken en voer planningsgegevens in het dialoogvenster Geplande taak bewerken in. Kies Herhalen > Aangepast als u wilt dat de taak met een door u gekozen interval opnieuw wordt uitgevoerd.
+* **Een terugkerende taak**  bewerken - Selecteer de  **[!UICONTROL Edit]** knop en voer planningsinformatie in het dialoogvenster Geplande taak bewerken in. Als u wilt dat de taak met een interval van uw keuze opnieuw wordt uitgevoerd, gaat u naar **[!UICONTROL Repeat]** > **[!UICONTROL Custom]**.
 
 Zie [Een aangepaste upload- of publiceertaaktijdinterval maken](checking-job-files.md#creating_a_custom_upload_or_publish_job_time_interval).
 
-**Een terugkerende** taak verwijderenSelecteer de knop Verwijderen.
+* **Een terugkerende taak**  verwijderen - Selecteer de  **[!UICONTROL Delete]** knop.
 
-**Een terugkerende** taak onderbreken (en hervatten). Schakel een selectievakje uit om een taak te pauzeren in de kolom Actief. Schakel een selectievakje in om een gepauzeerde taak te hervatten.
+* **Een terugkerende taak**  onderbreken (en hervatten) - Schakel in de kolom Actief het selectievakje uit om een taak te pauzeren. Schakel een selectievakje in om een gepauzeerde taak te hervatten.
 
-### Aangepaste upload- of publicatietaaktijdintervallen maken {#creating-a-custom-upload-or-publish-job-time-interval}
+### Een aangepast tijdinterval voor uploaden of publiceren maken {#creating-a-custom-upload-or-publish-job-time-interval}
 
-Als u een aangepast tijdinterval wilt maken voor een upload (via FTP) of een publicatietaak, kiest u Herhalen > Aangepast op de pagina Uploaden of Publiceren. Dan ga aantallen en vervangingen in het vakje van de Regel in om een tijdinterval voor te beschrijven uploaden of te publiceren banen om opnieuw te komen.
+Als u een aangepast tijdinterval wilt maken voor een upload (via FTP) of een publicatietaak, gaat u op de pagina Uploaden of Publiceren naar **[!UICONTROL Repeat]** > **[!UICONTROL Custom]**. Dan ga aantallen en vervangingen in het vakje van de Regel in beschrijvend een tijdinterval voor uploaden of publiceer banen om opnieuw te komen.
 
 De syntaxis voor het beschrijven van aangepaste upload en publicatietijdintervallen in het vak Regel is:
 
@@ -141,19 +141,19 @@ In deze tabel worden de jokertekens beschreven die zijn toegestaan in het vak Re
 
 In deze lijst staan voorbeelden van tijdintervallen in het vak Regel:
 
-* 0 0 12 * * ?: Elke dag geen
-* 0 15 10 ? * *: 22:15
-* 0 0/5 14 * * ?: Elke 5 minuten tussen 2:00 en 14:55
-* 0 0/5 14,18 * * * ?: Elke 5 minuten tussen 2:00 en 2:55 elke dag en elke 5 minuten tussen 6:00 en 6:55 elke dag
-* 0 10,44 14 ? 3: Woensdag om 14:10 en 16:44 uur
-* 0 15 10 ? *: Maandag om 10:15 uur elke weekdag
-* 0 15 10 20 * ?: 10:15 uur op de twintigste dag van elke maand
-* 0 15 10 L * ?: 10:15 uur op de laatste dag van elke maand
-* 0 15 10 ? * 6 L: Om 10:15 uur op de laatste vrijdag van elke maand
-* 0 15 10 * * 6#3: Om 10:15 uur op de derde vrijdag van elke maand
+* `0 0 12 * * ?` : Elke dag geen
+* `0 15 10 ? * *` : 22:15
+* `0 0/5 14 * * ?`: Elke 5 minuten tussen 2:00 en 14:55
+* `0 0/5 14,18 * * ?` : Elke 5 minuten tussen 2:00 en 2:55 elke dag en elke 5 minuten tussen 6:00 en 6:55 elke dag
+* `0 10,44 14 ? 3` : Woensdag om 14:10 en 16:44 uur
+* `0 15 10 ? *` : Maandag om 10:15 uur elke weekdag
+* `0 15 10 20 * ?` : 10:15 uur op de twintigste dag van elke maand
+* `0 15 10 L * ?` : 10:15 uur op de laatste dag van elke maand
+* `0 15 10 ? * 6L` : Om 10:15 uur op de laatste vrijdag van elke maand
+* `0 15 10 * * 6#3` : Om 10:15 uur op de derde vrijdag van elke maand
 
 ## Een upload- of publicatietaak gebruiken als trigger {#using-an-upload-or-publish-job-as-a-trigger}
 
 Wanneer u elementen uploadt via FTP of een publicatietaak uitvoert, kunt u een volgende taak plannen die moet beginnen wanneer het uploaden is voltooid. (Als andere taken volgens planning moeten beginnen, wordt de taak die u hier instelt, in de wachtrij geplaatst.) De nieuwe baan verzendt een bericht naar het adres u specificeert zodat de code bij die plaats kan worden teweeggebracht. Deze opvolguploadtaak krijgt dezelfde naam als de huidige uploadtaak, maar met het voorvoegsel _Pub.
 
-Selecteer Geavanceerd op de pagina Uploaden of Publiceren als u een upload- of publicatietaak wilt laten activeren voor een andere taak. Voer vervolgens de URL in het tekstveld HTTP-kennisgeving in.
+Als u een upload- of publicatietaak wilt laten activeren door een andere taak, selecteert u **[!UICONTROL Advanced]** op de pagina Uploaden of Publiceren. Voer vervolgens de URL in het tekstveld HTTP-kennisgeving in.
