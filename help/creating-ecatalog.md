@@ -1,6 +1,6 @@
 ---
 title: Een eCatalog maken
-description: Leer hoe u een eCatalog maakt.
+description: Leer hoe u een eCatalog maakt in Dynamic Media Classic.
 uuid: 2aff05c2-7052-426c-b61d-7f9091f7ace8
 contentOwner: admin
 content-type: reference
@@ -10,14 +10,14 @@ discoiquuid: 28889c60-596a-40d2-85d4-f48a4f86b932
 feature: Dynamic Media Classic,Viewers,eCatalog
 role: User
 exl-id: 51d411b2-b4bc-4cf6-afca-dd0ed0d219a1
-source-git-commit: df689ff5a127bfbc400ca5331168d1ff7bb0b42e
+source-git-commit: 7be3f63bfadeafa71eeb2567f982f579ccb85975
 workflow-type: tm+mt
-source-wordcount: '965'
+source-wordcount: '914'
 ht-degree: 0%
 
 ---
 
-# Een eCatalog maken{#creating-an-ecatalog}
+# Een eCatalog maken {#creating-an-ecatalog}
 
 Als u een eCatalog maakt, moet u de pagina&#39;s ordenen, de paginalay-out kiezen en de pagina&#39;s koppelen door Afbeeldingen met hyperlinks te tekenen en rollover- en hypertekstkoppelingsgegevens in te voeren. Desgewenst kunt u de inhoudsopgave aanpassen, zodat de viewers de paginanamen in plaats van de paginanummers in de eCatalog-viewer kunnen zien.
 
@@ -25,50 +25,50 @@ Als u een eCatalog maakt, moet u de pagina&#39;s ordenen, de paginalay-out kieze
 
 U kunt afbeeldingsbestanden en PDF-bestanden opnemen in uw eCatalog.
 
-Wanneer u een eCatalog creeert, **publiceer na sparen** optie beïnvloedt de reeks en vastgestelde leden op de volgende manieren:
+Wanneer u een eCatalog creeert, beïnvloedt de **[!UICONTROL Publish after save]** optie de reeks en vastgestelde leden op de volgende manieren:
 
 | De optie Publiceren na opslaan is geselecteerd voordat u het bestand opslaat? | Status van set na opslaan | Status van ingestelde leden na opslaan |
-|--- |--- |--- |
+| --- | --- | --- |
 | Ja | Gepubliceerd | Gepubliceerd |
 | Nee | Ongepubliceerd | Leden met een set behouden hun gepubliceerde of niet-gepubliceerde status. |
 
 Zie ook [Elementen handmatig publiceren](publishing-files.md#manually_publishing_assets) en [Publicaties van elementen handmatig ongedaan maken](publishing-files.md#manually_unpublishing_assets).
 
-**Een eCatalog maken**
+**Een eCatalog maken:**
 
 1. Maak uw eCatalog met een van de volgende technieken:
 
-   * **Selecteer eerst**  de bestanden in het deelvenster Bladeren en selecteer vervolgens de gewenste bestanden. Klik vervolgens op  **[!UICONTROL Build]** >  **[!UICONTROL eCatalogs]**.
+   * **Selecteer eerst**  de bestanden in het deelvenster Bladeren en selecteer vervolgens de gewenste bestanden. Ga vervolgens naar  **[!UICONTROL Build]** >  **[!UICONTROL eCatalogs]**.
 
-   * **Begin in het eCatalog scherm**  - klik  **[!UICONTROL Build]** >  **[!UICONTROL eCatalogs]**. Selecteer een map in de elementenbibliotheek en sleep bestanden van de map naar het tabblad Order Pages op de pagina eCatalog.
+   * **Begin in het eCatalog-scherm**  - Ga naar  **[!UICONTROL Build]** >  **[!UICONTROL eCatalogs]**. Selecteer een map in de elementenbibliotheek en sleep bestanden van de map naar het tabblad Order Pages op de pagina eCatalog.
 
       >[!NOTE]
       >
       >Als u de items in de elementenbibliotheek op naam wilt weergeven in plaats van op miniatuur, selecteert u de optie Naam voor de weergave Standaard in de elementenbibliotheek in Persoonlijke instellingen.
 
-1. Selecteer een algemene lay-out voor uw eCatalog. Klik op de knop 1 omhoog voor enkele pagina&#39;s, de knop 2 omhoog voor spreads met twee pagina&#39;s of de knop Aangepast voor spreads met meer dan twee pagina&#39;s. Het dialoogvenster Layout eCatalog wijzigen wordt geopend. Selecteer de opties voor alle spreads en klik op **[!UICONTROL OK]**.
-1. Wijzig desgewenst de indeling van afzonderlijke pagina&#39;s of paginaspread door erop te klikken en vervolgens **[!UICONTROL 1 Up]**, **[!UICONTROL 2 Up]** of **[!UICONTROL Custom]** te kiezen. Het dialoogvenster Layout eCatalog wijzigen wordt geopend. Selecteer de geselecteerde opties voor spreads en klik op **[!UICONTROL OK]**.
+1. Selecteer een algemene lay-out voor uw eCatalog. Selecteer **[!UICONTROL 1 Up]** voor enkele pagina&#39;s, **[!UICONTROL 2 Up]** voor spreads met twee pagina&#39;s of **[!UICONTROL Custom]** voor spreads met meer dan twee pagina&#39;s. Selecteer in het dialoogvenster **[!UICONTROL Change eCatalog Layout]** de opties **[!UICONTROL All Spreads]** en selecteer **[!UICONTROL OK]**.
+1. Wijzig desgewenst de indeling van afzonderlijke pagina&#39;s of paginaspread door deze te selecteren en vervolgens **[!UICONTROL 1 Up]**, **[!UICONTROL 2 Up]** of **[!UICONTROL Custom]** te kiezen. Selecteer in het dialoogvenster **[!UICONTROL Change eCatalog Layout]** de opties **[!UICONTROL Selected Spreads]** en selecteer **[!UICONTROL OK]**.
 1. U kunt de pagina&#39;s op een van de volgende manieren opnieuw ordenen:
 
    * **Slepen**  - Sleep een pagina of paginaspread naar een nieuwe locatie. Op de verticale balk ziet u waar de pagina wordt verplaatst.
 
-   * **Ga naar knop**  - Selecteer een pagina of een paginaspread, klik  **[!UICONTROL Move To]** en kies de pagina in het menu die u eerder wilt weergeven.
+   * **Ga naar knop**  - Selecteer een pagina of paginaspread, selecteer  **[!UICONTROL Move To]** en kies de pagina in het menu die u wilt weergeven vóór.
 
    * **Reeks #** - in de Mening van de Lijst, ga paginaaantallen in de Reeks # gebieden in.
 
 1. Als u klaar bent, controleert u of **[!UICONTROL Publish after save]** is geselecteerd (standaard) in de rechterbenedenhoek van de pagina.
-1. Klik op **[!UICONTROL Save]**.
+1. Selecteer **[!UICONTROL Save]**.
 1. Selecteer in het dialoogvenster Opslaan een map voor het opslaan van uw eCatalog. Voer in het veld Bestandsnaam de naam van de spin-set in.
-1. Klik op **[!UICONTROL Save]**.
+1. Selecteer **[!UICONTROL Save]**.
 
-   U kunt een voorvertoning van de eCatalog weergeven nadat u de catalogus hebt opgeslagen door op **[!UICONTROL Preview]** te klikken.
+   U kunt een voorvertoning van de eCatalog weergeven nadat u de catalogus hebt opgeslagen door **[!UICONTROL Preview]** te selecteren.
 
 ## Een eCatalog bewerken {#editing-an-ecatalog}
 
-Afhankelijk van het feit of u een gepubliceerde set of een niet-gepubliceerde set bewerkt, heeft de optie **[!UICONTROL Publish after save]** op de volgende manieren invloed op de set en stelt u de leden in:
+Of u een gepubliceerde set of een niet-gepubliceerde set bewerkt, de optie **[!UICONTROL Publish after save]** heeft op de volgende manieren invloed op de set en stelt leden in:
 
 | Reeds gepubliceerd instellen? | De optie Publiceren na opslaan is geselecteerd voordat u de bewerking opslaat? | Status van set na opslaan | Status van ingestelde leden na opslaan |
-|--- |--- |--- |--- |
+| --- | --- | --- | --- |
 | Ja | Ja | Gepubliceerd | Gepubliceerd |
 | Ja | Nee | Gepubliceerd | Bestaande leden met een set behouden hun gepubliceerde status. Alle nieuwe leden die u tijdens het bewerken hebt toegevoegd, behouden hun gepubliceerde of niet-gepubliceerde status. |
 | Nee | Ja | Gepubliceerd | Gepubliceerd |
@@ -78,10 +78,10 @@ Zie ook [Elementen handmatig publiceren](publishing-files.md#manually_publishing
 
 **Een eCatalog bewerken:**
 
-1. Klik op de rollover-knop **[!UICONTROL Edit]** van de eCatalog.
+1. Selecteer de rollover- **[!UICONTROL Edit]**-knop van de eCatalog.
 1. Breng de gewenste wijzigingen aan.
-1. Als u klaar bent met bewerken, controleert u of u in de rechterbenedenhoek van de pagina **Publiceren na opslaan** hebt geselecteerd (standaardinstelling).
-1. Klik **Opslaan**, selecteer een opslagmap, voer een naam voor de set in en klik op **Opslaan**.
+1. Als u klaar bent met bewerken, controleert u of **[!UICONTROL Publish after save]** is geselecteerd (standaard) in de rechterbenedenhoek van de pagina.
+1. Selecteer **[!UICONTROL Save]**, selecteer een opslagomslag, ga een naam voor de reeks in, en selecteer dan **[!UICONTROL Save]**.
 
 ## Een eCatalog verwijderen {#deleting-an-ecatalog}
 
@@ -89,10 +89,10 @@ Wanneer u een set verwijdert, wordt de set zelf naar de prullenbak verplaatst. D
 
 Zie ook [Elementen handmatig publiceren](publishing-files.md#manually_publishing_assets) en [Publicaties van elementen handmatig ongedaan maken](publishing-files.md#manually_unpublishing_assets).
 
-**Een eCatalog verwijderen**
+**Een eCatalog verwijderen:**
 
 1. Selecteer een of meer eCatalogi in de rasterweergave, lijstweergave of detailweergave.
-1. Klik op **Bestand** > **Verwijderen** > **Verwijderen** op de algemene navigatiebalk.
+1. Ga op de algemene navigatiebalk naar **[!UICONTROL File]** > **[!UICONTROL Delete]** > **[!UICONTROL Delete]**.
 
 ## De inhoudsopgave aanpassen {#customizing-the-table-of-contents-toc}
 
@@ -102,11 +102,11 @@ U kunt handmatig een aangepaste inhoudsopgave (TOC) voor uw eCatalog maken of de
 
 >[!NOTE]
 >
->Als u de standaardpaginatitels wilt herstellen, klikt u op de knop Codes in inhoudsopgave op het tabblad Pagina&#39;s bestellen en kiest u Standaardwaarden herstellen (Alles).
+>Als u de standaardpaginatitels wilt herstellen, selecteert u **[!UICONTROL TOC Labels]** op het tabblad **[!UICONTROL Order Pages]** en selecteert u **[!UICONTROL Restore Defaults (All)]**.
 
 ### Paginanamen handmatig invoeren {#manually-entering-page-names}
 
-Als u de paginanamen een voor een handmatig wilt invoeren, gaat u naar het tabblad Pagina&#39;s bestellen van het eCatalog-scherm. Klik vervolgens in het veld Paginanummer en voer een naam in. Voer een naam in voor elke pagina die u een naam wilt geven.
+Als u de paginanamen een voor een handmatig wilt invoeren, gaat u naar het tabblad Pagina&#39;s bestellen van het eCatalog-scherm. Voer vervolgens in het veld Paginanummer een naam in voor elke pagina die u een naam wilt geven.
 
 ### Paginanamen importeren {#importing-page-names}
 
@@ -123,8 +123,8 @@ Als u afzonderlijke labels wilt instellen voor inhoudsopgavevelden met de namen 
 Als u het veld Gebruikersgegevens wilt importeren in een door tabs gescheiden bestand, neemt u de gebruikersgegevens van het veld op:
 
 | IPSID | Gebruikersgegevens |
-|--- |--- |
-| `<image_IPS_ID>` | tocEN=&lt;NL_page_label>??tocFR=&lt;FR_page_label> |
+| --- | --- |
+| `<image_IPS_ID>` | `tocEN=<EN_page_label>??tocFR=<FR_page_label>` |
 
 Als u het veld Gebruikersgegevens wilt importeren in een XML-bestand, neemt u het kenmerk `vc_userdata` op:
 
@@ -134,4 +134,4 @@ Als u het veld Gebruikersgegevens wilt importeren in een XML-bestand, neemt u he
 </ips>
 ```
 
-Als u paginanamen wilt importeren uit een door tabs gescheiden of XML-bestand, selecteert u de knop Labels voor inhoudsopgave en kiest u Importeren. Het dialoogvenster Metagegevens uploaden wordt geopend. Klik op de knop Bladeren en importeer het CSV-bestand (alleen Mac) of het XML-bestand dat elke pagina aan een paginanaam koppelt.
+Als u paginanamen wilt importeren uit een door tabs gescheiden of XML-bestand, selecteert u de knop **[!UICONTROL TOC Labels]** en selecteert u **[!UICONTROL Import]**. Selecteer **[!UICONTROL Browse]** in het dialoogvenster Metagegevens uploaden en importeer vervolgens het CSV-bestand (alleen Mac) of XML-bestand dat elke pagina aan een paginanaam koppelt.
