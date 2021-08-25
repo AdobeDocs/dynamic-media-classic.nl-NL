@@ -8,9 +8,9 @@ geptopics: SG_SCENESEVENONDEMAND_PK/categories/introducing_adobe_dynamic_media_c
 feature: Dynamic Media Classic
 role: Admin,User
 exl-id: 604b4630-4704-4254-84b5-91b33bb19d58
-source-git-commit: 9ff171590c65f55cef8c9e5a2b4e77ddbbfa6895
+source-git-commit: 47845c30311fb9afb3fffb8502b6e7c534e4bfdb
 workflow-type: tm+mt
-source-wordcount: '1772'
+source-wordcount: '1763'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ Deze nieuwe app is nu beschikbaar voor Windows® en macOS.
 >
 >Adobe raadt u aan de nieuwe Adobe Dynamic Media Classic-bureaubladtoepassing tegen 1 oktober 2020 te installeren. Als u dit doet, hebt u een soepele overgang voordat de Adobe Flash Player op 31 december 2020 wordt afgekeurd. Na die datum kunt u zich niet meer aanmelden bij de browserversie van de Klassieke gebruikersinterface van Adobe Dynamic Media, die in het product als Dynamic Media Classic wordt aangeduid.
 
-Raadpleeg de veelgestelde vragen voor de [Nieuwe Dynamic Media Classic-ervaring nu beschikbaar.](/help/new-ui-2020.md)
+Raadpleeg de veelgestelde vragen voor de [Nieuwe klassieke Dynamic Media-aanmeldervaring die nu beschikbaar is.](/help/new-ui-2020.md)
 
 ## Systeemvereisten voor Adobe Dynamic Media Classic-bureaubladtoepassing {#system-requirements-dmc-app}
 
@@ -87,7 +87,7 @@ Zie ook:
 
 1. Voer een van de volgende handelingen uit op basis van het installatieprogramma dat u hebt gedownload.
 
-   * **Voor MacOS** : sleep het bestand naar het  **[!UICONTROL Drag & drop to install]** dialoogvenster  **[!UICONTROL Adobe Dynamic Media Classic]** en zet het neer op  **[!UICONTROL Applications]**.
+   * **MacOS** -In het  **[!UICONTROL Drag & drop to install]** dialoogvenster slepen  **[!UICONTROL Adobe Dynamic Media Classic]** en neerzetten op  **[!UICONTROL Applications]**.
 
       ![Installatie van slepen en neerzetten op MacOS](/help/assets/dragondrop-install1.png)
 
@@ -96,9 +96,9 @@ Zie ook:
 
       ![Gedownloade app openen](/help/assets/open-dmclassicapp1.png)
 
-   * **Voor Windows** : voer de binaire versie van het installatieprogramma uit en volg de aanwijzingen op het scherm om de bureaubladtoepassing te installeren.
+   * **Windows**  - Voer het binaire bestand van het installatieprogramma uit en volg de aanwijzingen op het scherm om de bureaubladtoepassing te installeren.
 
-1. Wanneer u de toepassing opent, wordt de nieuwe pagina Klassieke aanmelding van Adobe Dynamic Media weergegeven:
+1. Wanneer u de toepassing opent, wordt de nieuwe Klassieke aanmeldingspagina van Adobe Dynamic Media weergegeven:
 
    ![Dynamic Media Classic aanmelden](/help/assets/dmclassic-login1.png)
 
@@ -107,7 +107,7 @@ Zie ook:
    Zie de volgende afbeelding voor de productieomgeving voor informatie over het gebruik van **[!UICONTROL Server]**:
 
    | URL browser | Servernaam bureaubladtoepassing |
-   |---|---|
+   | --- | --- |
    | https://s7sps1.scene7.com/ | NA (Noord-Amerika) productie |
    | https://s7sps3.scene7.com/ | Productie EMEA (Europa, Midden-Oosten en Afrika) |
    | https://s7sps5.scene7.com/ | APAC-productie (Azië-Stille Oceaan) |
@@ -140,7 +140,7 @@ Als u de nieuwste versie van de Adobe Dynamic Media Classic-bureaubladtoepassing
    Unmount DMG - hdiutil detach <mount_point_path>
    ```
 
-1. Wanneer u de toepassing opent, wordt de nieuwe pagina Klassieke aanmelding van Adobe Dynamic Media weergegeven:
+1. Wanneer u de toepassing opent, wordt de nieuwe Klassieke aanmeldingspagina van Adobe Dynamic Media weergegeven:
 
    ![Dynamic Media Classic aanmelden](/help/assets/dmclassic-login1.png)
 
@@ -149,7 +149,7 @@ Als u de nieuwste versie van de Adobe Dynamic Media Classic-bureaubladtoepassing
    Zie de volgende afbeelding voor de productieomgeving voor informatie over het gebruik van **[!UICONTROL Server]**:
 
    | URL browser | Servernaam bureaubladtoepassing |
-   |---|---|
+   | --- | --- |
    | https://s7sps1.scene7.com/ | NA (Noord-Amerika) productie |
    | https://s7sps3.scene7.com/ | Productie EMEA (Europa, Midden-Oosten en Afrika) |
    | https://s7sps5.scene7.com/ | APAC-productie (Azië-Stille Oceaan) |
@@ -185,7 +185,7 @@ Als u de nieuwste versie van de Adobe Dynamic Media Classic-bureaubladtoepassing
 
    De details over bevel-lijn parameters zijn beschikbaar bij [Setup.exe en Update.exe bevel-Lijn Parameters.](https://docs.revenera.com/installshield19helplib/helplibrary/IHelpSetup_EXECmdLine.htm)
 
-1. Wanneer u de toepassing opent, wordt de nieuwe pagina Klassieke aanmelding van Adobe Dynamic Media weergegeven:
+1. Wanneer u de toepassing opent, wordt de nieuwe Klassieke aanmeldingspagina van Adobe Dynamic Media weergegeven:
 
    ![Dynamic Media Classic aanmelden](/help/assets/dmclassic-login1.png)
 
@@ -194,7 +194,7 @@ Als u de nieuwste versie van de Adobe Dynamic Media Classic-bureaubladtoepassing
    Zie de volgende afbeelding voor de productieomgeving voor informatie over het gebruik van **[!UICONTROL Server]**:
 
    | URL browser | Servernaam bureaubladtoepassing |
-   |---|---|
+   | --- | --- |
    | https://s7sps1.scene7.com/ | NA (Noord-Amerika) productie |
    | https://s7sps3.scene7.com/ | Productie EMEA (Europa, Midden-Oosten en Afrika) |
    | https://s7sps5.scene7.com/ | APAC-productie (Azië-Stille Oceaan) |
