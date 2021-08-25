@@ -6,14 +6,13 @@ contentOwner: admin
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 discoiquuid: a802ead0-401e-4600-aedf-e6414f7983e1
-feature: Dynamic Media Classic, SDK/API
+feature: Dynamic Media Classic,SDK/API
 role: Developer
 exl-id: eaa6bf7b-ff38-4a15-b5b5-c60c3b75a35f
-translation-type: tm+mt
-source-git-commit: 4e79c98b92dfa4e1a9890ed8a291cdf564126466
+source-git-commit: 47845c30311fb9afb3fffb8502b6e7c534e4bfdb
 workflow-type: tm+mt
-source-wordcount: '273'
-ht-degree: 6%
+source-wordcount: '268'
+ht-degree: 7%
 
 ---
 
@@ -25,30 +24,29 @@ De nota&#39;s van de versie zijn ook beschikbaar voor sommige modules. Opmerking
 
 De Gidsen van de verwijzing aan het Serven van het Beeld en het Teruggeven van het Beeld, en de Kijkers beschrijven de protocollen van http voor deze servermodules. Websiteontwikkelaars die Dynamic Media Classic rich media voor een website of aangepaste toepassing verder willen aanpassen en gebruiken, kunnen deze handleidingen gebruiken. Dynamic Media Classic gaat ervan uit dat de gebruiker bekend is met de bureaubladtoepassing, de algemene normen en conventies voor http-protocollen en de basisterminologie voor beeldbewerking.
 
-
 ## Dynamic Media Classic API
 
 | Document | Webadres |
-|--- |--- |
+| --- | --- |
 | API-naslaggids | Neem contact op met de technische ondersteuning van Dynamic Media Classic voor documentatie. |
 
 ## Afbeeldingen ontwerpen
 
 | Document | Webadres |
-|--- |--- |
+| --- | --- |
 | Handboek | Neem voor deze documentatie contact op met de technische ondersteuning van Dynamic Media Classic. |
 | Opmerkingen bij de release | Neem voor deze documentatie contact op met de technische ondersteuning van Dynamic Media Classic. |
 
 ##  voor het leveren en renderen van afbeeldingen
 
 | Document | Webadres |
-|--- |--- |
+| --- | --- |
 | API-naslaggids | [https://experienceleague.adobe.com/docs/dynamic-media-developer-resources.html](https://experienceleague.adobe.com/docs/dynamic-media-developer-resources.html) |
 
 ## Viewers
 
 | Document | Webadres |
-|--- |--- |
+| --- | --- |
 | Referentiehandleiding voor viewers en Opmerkingen bij de release | [https://experienceleague.adobe.com/docs/dynamic-media-developer-resources.html](https://experienceleague.adobe.com/docs/dynamic-media-developer-resources.html) |
 | Voorbeelden van viewerbibliotheek | [https://landing.adobe.com/en/na/dynamic-media/ctir-2755/live-demos.html](https://landing.adobe.com/en/na/dynamic-media/ctir-2755/live-demos.html) |
 
