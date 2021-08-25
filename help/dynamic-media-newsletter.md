@@ -1,16 +1,17 @@
 ---
+title: Dynamic Media-nieuwsarchief
 description: 'De gearchiveerde Dynamic Media-nieuwsbrief per Experience League was een maandelijkse nieuwsbrief. Het is ontworpen om u te helpen snel aan de slag te gaan met Dynamic Media en Dynamic Media Classic, zodat u meteen waarde kunt behalen. De gearchiveerde nieuwsbrieven bevatten waardevolle kennis-bouwende middelen die in deze één-loketnieuwsbrief beschikbaar waren die nu wordt stopgezet. Gearchiveerde nieuwsbrieven bevatten instructievideo''s en overzichten van oplossingen. Er zijn ook introducties voor belangrijke functies en mogelijkheden, zoals voorinstellingen voor afbeeldingen, voorinstellingen voor viewers en videoprofielen. '
 keywords: dynamische media;nieuwsbrief;productupdates;tips en trucs;gebeurtenissen;succes van de klant;blog;blogs;beelden;video;eigenschappen;mogelijkheden
-title: Dynamic Media-nieuwsarchief
 feature: Dynamic Media Classic
 role: Admin,User
 exl-id: 5f2a0cfc-d627-42be-9e68-111b65680ad8
-source-git-commit: 0b0556cdd05b6155e5e72b3cb40021589b232101
+source-git-commit: 47845c30311fb9afb3fffb8502b6e7c534e4bfdb
 workflow-type: tm+mt
-source-wordcount: '1079'
+source-wordcount: '1076'
 ht-degree: 0%
 
 ---
+
 
 # ![Dynamic Media Newsletter-logo](/help/assets/dynamic-media-newsletter-logo.png)
 
