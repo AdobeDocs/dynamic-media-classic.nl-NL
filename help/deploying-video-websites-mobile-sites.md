@@ -1,23 +1,23 @@
 ---
-title: Video gebruiken op uw websites en mobiele sites
-description: Leer hoe u video implementeert op uw websites en mobiele sites.
+title: Video distribueren naar uw websites en mobiele sites
+description: Leer hoe u video vanaf Dynamic Media Classic implementeert op uw websites en mobiele sites.
 uuid: 22bb4402-c0ab-4df0-89b9-99707d111927
 contentOwner: admin
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/video
 discoiquuid: 0d006314-c4cc-4f6c-a51c-6075bb445e39
-feature: Dynamic Media Klassiek,Viewers,Video
+feature: Dynamic Media Classic,Viewers,Video
 role: User
 exl-id: 3df22d48-edb5-4927-aefb-104b53f81f1a
-source-git-commit: df689ff5a127bfbc400ca5331168d1ff7bb0b42e
+source-git-commit: 47845c30311fb9afb3fffb8502b6e7c534e4bfdb
 workflow-type: tm+mt
-source-wordcount: '1567'
+source-wordcount: '1573'
 ht-degree: 1%
 
 ---
 
-# Video gebruiken op uw websites en mobiele sites{#deploying-video-to-your-websites-and-mobile-sites}
+# Video distribueren naar uw websites en mobiele sites{#deploying-video-to-your-websites-and-mobile-sites}
 
 Websites, mobiele sites en bureaubladtoepassingen hebben via URL-tekenreeksen of ingesloten code toegang tot inhoud van de klassieke Dynamic Media-server, waaronder video. Dynamic Media Classic activeert deze URL-tekenreeksen tijdens het publicatieproces. Als u de URL-tekenreeks of insluitcode voor uw video wilt plaatsen in uw webpagina&#39;s, mobiele pagina&#39;s en bureaubladtoepassingen, kopieert u deze vanuit Dynamic Media Classic.
 
@@ -41,35 +41,35 @@ Nadat u video&#39;s hebt gepubliceerd, activeert Dynamic Media Classic de URL-te
 
 1. Voer een van de volgende handelingen uit:
 
-   * Als u video&#39;s automatisch en direct wilt publiceren tijdens het uploaden, klikt u op **[!UICONTROL Publish after uploading]** op de pagina Uploaden. U bent klaar; er zijn geen verdere stappen nodig .
-   * Als u video&#39;s na het uploaden handmatig wilt publiceren, selecteert u in het deelvenster Bladeren de video&#39;s en klikt u op **Publiceren** op de algemene navigatiebalk.
+   * Als u video&#39;s automatisch en direct wilt publiceren tijdens het uploaden, selecteert u **[!UICONTROL Publish after uploading]** op de pagina Uploaden. U bent klaar; er zijn geen verdere stappen nodig .
+   * Als u video&#39;s na het uploaden handmatig wilt publiceren, selecteert u in het deelvenster Bladeren de video&#39;s en selecteert u **Publiceren** op de algemene navigatiebalk.
 
 ## Een video-URL koppelen aan een mobiele site of website {#linking-a-video-url-to-a-mobile-site-or-a-website}
 
 Nadat u een video hebt gepubliceerd, kunt u de URL verkrijgen voor gebruik in uw website, mobiele site of bureaubladtoepassing. Gebruik de video-URL wanneer u video wilt weergeven in een pop-upvenster of in een modaal venster vóór de webpagina.
 
-Wanneer een klant op de koppeling klikt, worden hun apparaat, bandbreedte en schermgrootte automatisch gedetecteerd. De juiste video wordt weergegeven om te worden afgespeeld in een vooraf gedefinieerde viewer voor desktop of in de native videospeler van het mobiele apparaat voor smartphones en tablets.
+Wanneer een klant de koppeling selecteert, worden het apparaat, de bandbreedte en de schermgrootte van de koppeling automatisch gedetecteerd. De juiste video wordt weergegeven om te worden afgespeeld in een vooraf gedefinieerde viewer voor desktop of in de native videospeler van het mobiele apparaat voor smartphones en tablets.
 
 Zie ook [De videoviewer insluiten op een webpagina](deploying-video-websites-mobile-sites.md#embedding_the_video_viewer_on_a_web_page).
 
 **Een video-URL koppelen aan een mobiele site of website:**
 
-1. Klik in de vervolgkeuzelijst **[!UICONTROL Show]** of **[!UICONTROL Adaptive Video Set]** in het deelvenster Asset Browse.**[!UICONTROL Video]**
+1. Selecteer **[!UICONTROL Video]** of **[!UICONTROL Adaptive Video Set]** in de vervolgkeuzelijst **[!UICONTROL Show]** in het deelvenster Asset Browse.
 1. Navigeer in het deelvenster Elementenbibliotheek aan de linkerkant naar de elementenmap met de video of de adaptieve videoset die u wilt koppelen.
 1. Voer boven het deelvenster Asset Browse een van de volgende handelingen uit aan de rechterkant van de werkbalk:
 
-   * Klik op **[!UICONTROL Grid View]** of **[!UICONTROL List View]**. Dubbelklik in het deelvenster Asset Browse op de videominiatuur van één element om dit te openen in de gedetailleerde weergave. Klik in de URL&#39;s en het deelvenster Code insluiten rechts onder HTTP-streaming op **[!UICONTROL Copy URL]** rechts van de gewenste viewer. U kunt het beste de URL kopiëren die is gekoppeld aan de `Universal_HTML5_Video`-viewer.
-   * Klik op **[!UICONTROL Grid View]**. Selecteer in het deelvenster Asset Browse één element en klik vervolgens onder de miniatuurafbeelding op **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]**.
+   * Selecteer **[!UICONTROL Grid View]** of **[!UICONTROL List View]**. Dubbelklik in het deelvenster Asset Browse op de videominiatuur van één element om dit te openen in de gedetailleerde weergave. Selecteer in de URL&#39;s en het deelvenster Code insluiten rechts onder HTTP-streaming **[!UICONTROL Copy URL]** rechts van de gewenste viewer. U kunt het beste de URL kopiëren die is gekoppeld aan de `Universal_HTML5_Video`-viewer.
+   * Selecteer **[!UICONTROL Grid View]**. Selecteer in het deelvenster Asset Browse één element en ga vervolgens onder de miniatuurafbeelding naar **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]**.
 
-      Klik op **[!UICONTROL Copy URL]** onder de kolom Handelingen van de tabel in de Viewer List. U kunt het beste de URL kopiëren die is gekoppeld aan de `Universal_HTML5_Video`-viewer.
+      Selecteer **[!UICONTROL Copy URL]** onder de kolom Acties van de tabel in de Viewer List. U kunt het beste de URL kopiëren die is gekoppeld aan de `Universal_HTML5_Video`-viewer.
 
-   * Klik op **[!UICONTROL List View]**. Selecteer één element in het deelvenster Asset Browse en klik vervolgens rechts van de miniatuurafbeelding op **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]**.
+   * Selecteer **[!UICONTROL List View]**. Selecteer in het deelvenster Asset Browse één element en ga vervolgens rechts van de miniatuurafbeelding naar **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]**.
 
-      Klik op **[!UICONTROL Copy URL]** onder de kolom Handelingen van de tabel in de Viewer List. U kunt het beste de URL kopiëren die is gekoppeld aan de `Universal_HTML5_Video`-viewer.
+      Selecteer **[!UICONTROL Copy URL]** onder de kolom Acties van de tabel in de Viewer List. U kunt het beste de URL kopiëren die is gekoppeld aan de `Universal_HTML5_Video`-viewer.
 
-   * Klik **[!UICONTROL Grid View]**, **[!UICONTROL List View]**, of **[!UICONTROL Detail View]**. Klik op **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]** op dezelfde werkbalk.
+   * Selecteer **[!UICONTROL Grid View]**, **[!UICONTROL List View]** of **[!UICONTROL Detail View]**. Ga op dezelfde werkbalk naar **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]**.
 
-      Klik op **[!UICONTROL Copy URL]** onder de kolom Handelingen van de tabel in de Viewer List. U kunt het beste de URL kopiëren die is gekoppeld aan de `Universal_HTML5_Video`-viewer.
+      Selecteer **[!UICONTROL Copy URL]** onder de kolom Acties van de tabel in de Viewer List. U kunt het beste de URL kopiëren die is gekoppeld aan de `Universal_HTML5_Video`-viewer.
 
 1. Plak de URL-koppeling voor de HTML5-video op uw website en mobiele site.
 
@@ -81,28 +81,28 @@ Zie ook [Een video-URL koppelen aan een mobiele site of een website](deploying-v
 
 **De videoviewer insluiten op een webpagina:**
 
-1. Klik in de vervolgkeuzelijst Tonen in het deelvenster Asset Browse op **[!UICONTROL Video]** of **[!UICONTROL Adaptive Video Set]**.
+1. Selecteer **[!UICONTROL Video]** of **[!UICONTROL Adaptive Video Set]** in de vervolgkeuzelijst Tonen in het deelvenster Asset Browse.
 1. Navigeer in het deelvenster Elementenbibliotheek aan de linkerkant naar de elementenmap met de video of de adaptieve videoset waarvan u de insluitcode wilt kopiëren.
 1. Voer boven het deelvenster Asset Browse een van de volgende handelingen uit aan de rechterkant van de werkbalk:
 
-   * Klik op **[!UICONTROL Grid View]** of **[!UICONTROL List View]**. Dubbelklik in het deelvenster Asset Browse op de videominiatuur van één element om dit te openen in de gedetailleerde weergave. Klik in de URL&#39;s en het deelvenster Code insluiten rechts onder HTTP-streaming op **[!UICONTROL Embed Code]** rechts van de gewenste viewer. Als beste praktijken, klik **[!UICONTROL Embed Code]** die met `Universal_HTML5_Video` kijker wordt geassocieerd.
-   * Klik op **[!UICONTROL Grid View]**. Selecteer in het deelvenster Asset Browse één element en klik vervolgens onder de miniatuurafbeelding van de video op **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]**.
+   * Selecteer **[!UICONTROL Grid View]** of **[!UICONTROL List View]**. Dubbelklik in het deelvenster Asset Browse op de videominiatuur van één element om dit te openen in de gedetailleerde weergave. Selecteer in de URL&#39;s en het deelvenster Code insluiten rechts onder HTTP-streaming **[!UICONTROL Embed Code]** rechts van de gewenste viewer. Als beste praktijken, selecteer **[!UICONTROL Embed Code]** die met `Universal_HTML5_Video` kijker wordt geassocieerd.
+   * Selecteer **[!UICONTROL Grid View]**. Selecteer in het deelvenster Asset Browse één element en selecteer **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]** onder de miniatuurafbeelding van de video.
 
-      Klik op **[!UICONTROL Embed Code]** onder de kolom Handelingen van de tabel in de Viewer List. Als beste praktijken, klik **[!UICONTROL Embed Code]** die met `Universal_HTML5_Video` kijker wordt geassocieerd.
+      Selecteer **[!UICONTROL Embed Code]** onder de kolom Acties van de tabel in de Viewer List. Als beste praktijken, selecteer **[!UICONTROL Embed Code]** die met `Universal_HTML5_Video` kijker wordt geassocieerd.
 
-   * Klik op **[!UICONTROL List View]**. Selecteer één element in het deelvenster Asset Browse en klik vervolgens rechts van de miniatuurafbeelding op **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]**.
+   * Selecteer **[!UICONTROL List View]**. Selecteer in het deelvenster Asset Browse één element en ga vervolgens rechts van de miniatuurafbeelding naar **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]**.
 
-      Klik op **[!UICONTROL Embed Code]** onder de kolom Handelingen van de tabel in de Viewer List. Als beste praktijken, klik **[!UICONTROL Embed Code]** die met `Universal_HTML5_Video` kijker wordt geassocieerd.
+      Selecteer **[!UICONTROL Embed Code]** onder de kolom Acties van de tabel in de Viewer List. Als beste praktijken, selecteer **[!UICONTROL Embed Code]** die met `Universal_HTML5_Video` kijker wordt geassocieerd.
 
-   * Klik **[!UICONTROL Grid View]**, **[!UICONTROL List View]**, of **[!UICONTROL Detail View]**. Klik op **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]** op dezelfde werkbalk.
+   * Selecteer **[!UICONTROL Grid View]**, **[!UICONTROL List View]** of **[!UICONTROL Detail View]**. Ga op dezelfde werkbalk naar **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]**.
 
-      Klik op **[!UICONTROL Embed Code]** onder de kolom Handelingen van de tabel in de Viewer List. Als beste praktijken, klik **[!UICONTROL Embed Code]** die met `Universal_HTML5_Video` kijker wordt geassocieerd.
+      Selecteer **[!UICONTROL Embed Code]** onder de kolom Acties van de tabel in de Viewer List. Als beste praktijken, selecteer **[!UICONTROL Embed Code]** die met `Universal_HTML5_Video` kijker wordt geassocieerd.
 
-1. Klik in het dialoogvenster Code insluiten op **[!UICONTROL Copy to Clipboard]**.
+1. Selecteer **[!UICONTROL Copy to Clipboard]** in het dialoogvenster Code insluiten.
 
    Het bewerken van de code is niet toegestaan in het dialoogvenster Code insluiten.
 
-1. Klik op **[!UICONTROL Close]**.
+1. Selecteer **[!UICONTROL Close]**.
 1. Plak de insluitcode in uw webpagina&#39;s.
 
 ### Insluitcode implementeren voor het gebruik van HTML5-video met MP4-video-elementen {#implementing-embed-code-for-using-html-video-with-mp-video-assets}
@@ -131,11 +131,11 @@ Als u de Dynamic Media Classic HTML5-videospeler niet gebruikt, maar in plaats d
 
 ## Video implementeren met een externe videospeler {#deploying-video-using-a-third-party-video-player}
 
-Als u een videospeler van derden of een aangepaste videospeler gebruikt in plaats van een klassieke Dynamic Media-videoviewer, kunt u de directe video-URL verkrijgen die geschikt is voor videostreaming met meerdere bitsnelheden van HLS of progressief downloaden.
+Als u een videospeler van derden of een aangepaste videospeler gebruikt in plaats van een klassieke Dynamic Media-videoviewer, krijgt u de directe video-URL die geschikt is voor videostreaming met meerdere bitsnelheden van HLS of progressief downloaden.
 
 **Video implementeren met een externe videospeler:**
 
-1. Klik in Dynamic Media Classic op de algemene navigatiebalk op **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL General Settings]**.
+1. Ga in Dynamic Media Classic op de algemene navigatiebalk naar **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL General Settings]**.
 1. Voer afhankelijk van het type URL dat u wilt gebruiken een van de volgende taken uit:
 
 * Een directe URL voor HLS-streaming video (multi-bitsnelheid) genereren
@@ -169,7 +169,7 @@ Dynamic Media Classic genereert miniaturen voor gecodeerde video&#39;s en vooraf
 
 Miniaturen worden gegenereerd op basis van het eerste heterogene frame (niet een volledig zwart frame, of een helemaal wit frame enzovoort) van de video.
 
-### URL&#39;s met videominiaturen ophalen {#obtaining-video-thumbnail-urls}
+### URL&#39;s met videominiaturen verkrijgen {#obtaining-video-thumbnail-urls}
 
 Dynamic Media Classic genereert automatisch videominiaturen tijdens het uploaden. De miniaturen worden weergegeven in de lijstweergave en de rasterweergave van het deelvenster Bladeren.
 
@@ -177,9 +177,9 @@ Als u URL&#39;s voor videominiaturen wilt genereren, voert u een publicatiebewer
 
 Zie [Video publiceren](deploying-video-websites-mobile-sites.md#publishing_video).
 
-Na publicatie kunt u videominiaturen-URL&#39;s opvragen in de gedetailleerde weergave in de URL&#39;s en het deelvenster Code insluiten. Klik op **[!UICONTROL Copy URL]** rechts van de videominiatuur om de URL te kopiëren.
+Na publicatie kunt u videominiaturen-URL&#39;s opvragen in de gedetailleerde weergave in de URL&#39;s en het deelvenster Code insluiten. Selecteer **[!UICONTROL Copy URL]** rechts van de videominiatuur zodat u de URL ervan kunt kopiëren.
 
-### Posterframes wijzigen in videoviewers {#modifying-poster-frames-in-video-viewers}
+### Posterframes in videoviewers wijzigen {#modifying-poster-frames-in-video-viewers}
 
 Het *posterframe* is het eerste frame dat in videoviewers wordt weergegeven voordat de video wordt afgespeeld. Dynamic Media Classic gebruikt videominiaturen als posterframes.
 
@@ -193,4 +193,4 @@ U kunt videominiaturen ook wijzigen door modifiers toe te voegen aan videominiat
 
 >[!MORELIKETHIS]
 >
->* [Bestanden publiceren ](publishing-files.md#publishing_files)
+>* [Bestanden publiceren](publishing-files.md#publishing_files)
