@@ -1,23 +1,23 @@
 ---
-title: Media Portal-groepen maken en beheren
-description: Leer hoe u mediaportaalgroepen maakt en beheert.
+title: Mediaportaalgroepen maken en beheren
+description: Leer hoe u mediaportaalgroepen maakt en beheert in Dynamic Media Classic.
 uuid: 23f360e1-ddcb-491b-ab9f-428f3ac9c316
 contentOwner: admin
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/media_portal
 discoiquuid: 91524d36-b77a-4dc4-acba-a7bd85297e98
-feature: Dynamic Media Classic,Samenwerking,Asset Management
+feature: Dynamic Media Classic,Collaboration,Asset Management
 role: Admin,User
 exl-id: 0deb7133-b895-4c3f-8e5e-8604a6f2d16b
-source-git-commit: df689ff5a127bfbc400ca5331168d1ff7bb0b42e
+source-git-commit: 976f739e5233ae9da24b06cffa729353a7d03c46
 workflow-type: tm+mt
-source-wordcount: '777'
-ht-degree: 1%
+source-wordcount: '788'
+ht-degree: 0%
 
 ---
 
-# Media Portal-groepen maken en beheren{#creating-and-managing-media-portal-groups}
+# Mediaportaalgroepen maken en beheren{#creating-and-managing-media-portal-groups}
 
 *De* Groepen worden ontworpen om u te helpen de gebruikers van het Portaal van Media beheren. Om tot activa toegang te hebben, moet een gebruiker een lid van minstens één groep zijn die toestemming heeft om tot dat activa toegang te hebben. Wanneer u een gebruiker toevoegt, wijst u de gebruiker aan een of meer groepen toe. Op die manier verleent u de gebruiker toegang tot mappen waaraan de groep is toegewezen. U kunt ook kiezen welke voorinstellingen voor afbeeldingen beschikbaar zijn voor een groep.
 
@@ -33,35 +33,35 @@ Als u niet specifiek groepsmachtigingen toekent aan een middel of map, neemt dat
 
 ## Een groep toevoegen {#adding-a-group}
 
-1. Klik op **[!UICONTROL Setup]** > **[!UICONTROL Media Portal Setup]** > **[!UICONTROL Groups]**.
-1. Klik op **[!UICONTROL Add]**.
-1. In het Add de dialoogvakje van de Groep, ga een naam voor de groep in het vakje van de Naam van de Groep in, en klik dan **[!UICONTROL Add Group]**.
+1. Ga naar **[!UICONTROL Setup]** > **[!UICONTROL Media Portal Setup]** > **[!UICONTROL Groups]**.
+1. Selecteer **[!UICONTROL Add]**.
+1. In het Add de dialoogvakje van de Groep, ga een naam voor de groep in het vakje van de Naam van de Groep in, en selecteer dan **[!UICONTROL Add Group]**.
 1. Desgewenst kunt u de vakken naast de namen van gebruikers selecteren om gebruikers aan de nieuwe groep toe te voegen.
-1. Als u nu toegangsmachtigingen wilt opgeven, klikt u op het tabblad **[!UICONTROL Asset Access Permissions]** en geeft u de gewenste opties op.
+1. Als u nu toegangsmachtigingen wilt opgeven, selecteert u het tabblad **[!UICONTROL Asset Access Permissions]** en geeft u de gewenste opties op.
 
    Zie [Machtigingen instellen voor elementtoegang voor een groep](creating-media-portal-groups.md#establishing_asset_access_permissions_for_a_group).
 
-1. Als u wilt kiezen welke Voorinstellingen afbeelding beschikbaar zijn voor de groep, klikt u op het tabblad **[!UICONTROL Image Preset Access Permissions]** en selecteert u Voorinstellingen afbeelding die de groep kan gebruiken.
+1. Als u wilt kiezen welke Voorinstellingen afbeelding beschikbaar zijn voor de groep, selecteert u het tabblad **[!UICONTROL Image Preset Access Permissions]** en selecteert u Voorinstellingen afbeelding die de groep kan gebruiken.
 
    Zie [Toegangsrechten voor een groep kiezen](creating-media-portal-groups.md#choosing_image_preset_access_permissions_for_a_group).
 
-1. Klik op **[!UICONTROL Close]**.
+1. Selecteer **[!UICONTROL Close]**.
 
-## Machtigingen voor elementtoegang instellen voor een groep {#establishing-asset-access-permissions-for-a-group}
+## Machtigingen instellen voor elementtoegang voor een groep {#establishing-asset-access-permissions-for-a-group}
 
-1. Klik op **[!UICONTROL Setup]** > **[!UICONTROL Media Portal Setup]** > **[!UICONTROL Groups]**.
+1. Ga naar **[!UICONTROL Setup]** > **[!UICONTROL Media Portal Setup]** > **[!UICONTROL Groups]**.
 1. Voer een van de volgende handelingen uit op de lijstpagina Groepen:
 
-   * Als u een groep wilt toevoegen en machtigingen wilt opgeven, klikt u op **[!UICONTROL Add]**. Voer in het dialoogvenster Groep toevoegen een naam voor de groep in, klik op **[!UICONTROL Add Group]** en voeg gebruikers toe aan de groep.
-   * Als u de machtigingen van een groep wilt bewerken, selecteert u de groep en klikt u op **[!UICONTROL Edit]**.
+   * Als u een groep wilt toevoegen en machtigingen wilt opgeven, selecteert u **[!UICONTROL Add]**. Voer in het dialoogvenster Groep toevoegen een naam in voor de groep, selecteer **[!UICONTROL Add Group]** en voeg gebruikers toe aan de groep.
+   * Als u de machtigingen van een groep wilt bewerken, selecteert u de groep en selecteert u **[!UICONTROL Edit]**.
 
-1. Klik in het dialoogvenster Groep toevoegen of Groep bewerken op het tabblad **[!UICONTROL Asset Access Permissions]**. De rechterkant van de tab biedt vakken voor het instellen van lees-, schrijf- en verwijdermachtigingen voor mappen en elementen. U kunt mappen en submappen in het linkerdeelvenster uit- en samenvouwen.
+1. Selecteer in het dialoogvenster Groep toevoegen of Groep bewerken het tabblad **[!UICONTROL Asset Access Permissions]**. De rechterkant van de tab biedt vakken voor het instellen van lees-, schrijf- en verwijdermachtigingen voor mappen en elementen. U kunt mappen en submappen in het linkerdeelvenster uit- en samenvouwen.
 1. Als u rechten wilt toewijzen aan mappen of afzonderlijke elementen, selecteert u de map in het linkerdeelvenster. De inhoud van de map wordt weergegeven in het rechterdeelvenster. Wijs vervolgens rechten toe aan de groep door de vakken voor de corresponderende bestanden of mappen in het rechterdeelvenster te selecteren.
 
    In deze tabel worden verschillende taken toegewezen aan het lezen, schrijven en verwijderen van machtigingen.
 
    | Taak | Lezen | Schrijven | Verwijderen |
-   |--- |--- |--- |--- |
+   | --- | --- | --- | --- |
    | Door mappen en bestanden bladeren | X |  |  |
    | Bestanden bewerken (uitsnijden, verscherpen, aanpassen) |  | X |  |
    | Bestandsnamen wijzigen |  | X |  |
@@ -69,33 +69,35 @@ Als u niet specifiek groepsmachtigingen toekent aan een middel of map, neemt dat
    | Bestandsnamen wijzigen |  | X |  |
    | Bestanden verwijderen |  |  | X |
 
-1. Klik op **[!UICONTROL Close]**.
+1. Selecteer **[!UICONTROL Close]**.
 
 >[!NOTE]
 >
 >Toegangsrechten worden ingesteld wanneer u een vak selecteert. Wanneer u rechten toewijst aan een map, krijgen de submappen en alle bestanden in de map dezelfde rechten als de bovenliggende map. U kunt echter verschillende rechten opgeven voor afzonderlijke submappen en elementbestanden.
 
-## Toegangsmachtigingen voor een groep kiezen voor Voorinstelling afbeelding {#choosing-image-preset-access-permissions-for-a-group}
+## Toegangsrechten voor een groep kiezen voor Voorinstelling afbeelding {#choosing-image-preset-access-permissions-for-a-group}
 
 Kies Vooraf ingestelde de toegangstoestemmingen van het Beeld voor een groep als u wilt specificeren welke Vooraf ingestelde Beeld aan groepsleden beschikbaar zijn wanneer zij activa met het Portaal van Media uitvoeren.
 
 Zie ook [Exportopties opgeven die beschikbaar zijn voor gebruikers van Media Portal](specifying-export-options-available-media.md#specifying_export_options_available_to_media_portal_users).
 
-1. Klik op **[!UICONTROL Setup]** > **[!UICONTROL Media Portal Setup]** > **[!UICONTROL Groups]**.
+**U kunt als volgt toegangsmachtigingen voor een groep instellen voor Voorinstelling afbeelding:**
+
+1. Ga naar **[!UICONTROL Setup]** > **[!UICONTROL Media Portal Setup]** > **[!UICONTROL Groups]**.
 1. Voer een van de volgende handelingen uit op de lijstpagina Groepen:
 
-   * Als u een groep wilt toevoegen en wilt opgeven welke voorinstellingen voor afbeelding er beschikbaar zijn, klikt u op **[!UICONTROL Add]**. Voer in het dialoogvenster Groep toevoegen een naam voor de groep in, klik op **[!UICONTROL Add Group]** en voeg gebruikers toe aan de groep.
-   * Als u de voorinstellingsopties voor afbeeldingen van een groep wilt bewerken, selecteert u de groep en klikt u op **[!UICONTROL Edit]**.
+   * Selecteer **[!UICONTROL Add]** om een groep toe te voegen en op te geven welke voorinstellingen voor afbeeldingen er beschikbaar zijn. Voer in het dialoogvenster Groep toevoegen een naam in voor de groep, selecteer **[!UICONTROL Add Group]** en voeg gebruikers toe aan de groep.
+   * Als u de voorinstellingsopties voor afbeeldingen van een groep wilt bewerken, selecteert u de groep en selecteert u **[!UICONTROL Edit]**.
 
-1. Klik in het dialoogvenster Groep toevoegen of Groep bewerken op het tabblad **[!UICONTROL Image Preset Access Permissions]**.
+1. Selecteer in het dialoogvenster Groep toevoegen of Groep bewerken het tabblad **[!UICONTROL Image Preset Access Permissions]**.
 1. Als u wilt opgeven welke voorinstellingen beschikbaar zijn voor gebruikers van Media Portal wanneer zij elementen exporteren, schakelt u Voorinstellingen afbeelding in of uit.
-1. Klik op **[!UICONTROL Close]**.
+1. Selecteer **[!UICONTROL Close]**.
 
 ## Groepen bewerken en verwijderen {#edit-and-delete-groups}
 
-1. Klik op **[!UICONTROL Setup]** > **[!UICONTROL Media Portal Setup]** > **[!UICONTROL Groups]**.
+1. Ga naar **[!UICONTROL Setup]** > **[!UICONTROL Media Portal Setup]** > **[!UICONTROL Groups]**.
 1. Selecteer op de pagina Groepenlijst een groep en bewerk of verwijder deze.
 
-   **Een groep**  bewerken. Klik  **[!UICONTROL Edit]** en kies vervolgens opties in het dialoogvenster Groep bewerken.
+   **Een groep**  bewerken - Selecteren  **[!UICONTROL Edit]** en vervolgens opties kiezen in het dialoogvenster Groep bewerken.
 
-   **Een groep**  verwijderen. Klik  **[!UICONTROL Delete]**.
+   **Een groep**  verwijderen - Selecteren  **[!UICONTROL Delete]**.
