@@ -1,18 +1,18 @@
 ---
 title: Een afbeelding uitsnijden
-description: Leer hoe u een afbeelding uitsnijdt.
+description: Leer hoe u een afbeelding uitsnijdt in Dynamic Media Classic.
 uuid: 84f199de-cbfc-4d06-877f-6e9148e82e15
 contentOwner: admin
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/master_files
 discoiquuid: 99dfa476-4f11-4569-a27e-a76ed7787674
-feature: Dynamic Media Classic, beheer van bedrijfsmiddelen
+feature: Dynamic Media Classic,Asset Management
 role: User
 exl-id: aec4c256-f5ed-4307-afec-dec848be95f9
-source-git-commit: 7be3f63bfadeafa71eeb2567f982f579ccb85975
+source-git-commit: 976f739e5233ae9da24b06cffa729353a7d03c46
 workflow-type: tm+mt
-source-wordcount: '510'
+source-wordcount: '506'
 ht-degree: 0%
 
 ---
@@ -25,13 +25,13 @@ U kunt een afbeelding uitsnijden om witruimte rondom de afbeelding te verwijdere
 
 >[!NOTE]
 >
->Nadat u de afbeelding hebt uitgesneden, kunt u **[!UICONTROL Save As]** selecteren en een uitgesneden versie van de afbeelding onder een andere naam opslaan. Kies in het venster Opslaan als de optie Opslaan als nieuw om een tweede kopie van de afbeelding op te slaan. Selecteer **[!UICONTROL Save As Addition View Of Master]** zodat kunt u origineel en zijn bebouwde versie onder een verschillende naam bewaren. Selecteer **[!UICONTROL Replace Original]** om het oorspronkelijke bestand te verwijderen waaruit u de afbeelding hebt bijgesneden. Voer vervolgens een naam voor de afbeelding in en selecteer **[!UICONTROL Submit]**.
+>Nadat u de afbeelding hebt uitgesneden, kunt u **[!UICONTROL Save As]** selecteren en een uitgesneden versie van de afbeelding onder een andere naam opslaan. Selecteer **[!UICONTROL Save As New Master]** in het venster Opslaan als om een tweede kopie van de afbeelding op te slaan. Selecteer **[!UICONTROL Save As Addition View Of Master]** zodat kunt u origineel en zijn bebouwde versie onder een verschillende naam bewaren. Selecteer **[!UICONTROL Replace Original]** om het oorspronkelijke bestand te verwijderen waaruit u de afbeelding hebt bijgesneden. Voer vervolgens een naam voor de afbeelding in en selecteer **[!UICONTROL Submit]**.
 
 ## Uitsnijden om witruimte rondom een afbeelding te verwijderen {#crop-to-remove-white-space-around-an-image}
 
 U kunt de transparante of effen kleurpixels uitsnijden vanaf de rand van een afbeelding.
 
-1. Als u een afbeelding wilt uitsnijden, selecteert u de rollover **[!UICONTROL Edit]** en kiest u **[!UICONTROL Crop]** of geeft u de afbeelding weer in het deelvenster Bladeren in de gedetailleerde weergave en selecteert u de knop **[!UICONTROL Crop]**.
+1. Als u een afbeelding wilt uitsnijden, selecteert u de rollover **[!UICONTROL Edit]** en selecteert u **[!UICONTROL Crop]**. U kunt de afbeelding ook weergeven in het deelvenster Bladeren in de gedetailleerde weergave en vervolgens de knop **[!UICONTROL Crop]** selecteren.
 1. Voer een van de volgende handelingen uit op de pagina Snijbewerker:
 
    * Als u kleurpixels wilt bijsnijden, gaat u naar **[!UICONTROL Trim]** > **[!UICONTROL Color]**. Selecteer in het dialoogvenster **[!UICONTROL Auto Crop By Color]** het menu **[!UICONTROL Corner]** en kies een hoek met de achtergrondkleur die u wilt wegsnijden. Voer vervolgens een instelling **[!UICONTROL Tolerance]** in van 0 tot en met 1. Met de instelling 0 worden alleen pixels uitgesneden als deze exact overeenkomen met de kleur die u in de hoek van de afbeelding hebt geselecteerd. De aantallen dichter aan 1 staan voor meer kleurenverschil toe. Selecteer **[!UICONTROL Crop]**.
@@ -63,6 +63,6 @@ U kunt de transparante of effen kleurpixels uitsnijden vanaf de rand van een afb
 >[!MORELIKETHIS]
 >
 >* [Opties voor het bewerken van afbeeldingen tijdens het uploaden](image-editing-options-upload.md#image-editing-options-at-upload)
-* [Witruimte uitsnijden vanuit een PDF-bestand](pdfs.md#cropping_white_space_from_a_pdf_file)
-* [Uitsnijden vanaf de zijkanten van PDF-pagina&#39;s](pdfs.md#cropping_from_the_sides_of_pdf_pages)
+>* [Witruimte uitsnijden vanuit een PDF-bestand](pdfs.md#cropping_white_space_from_a_pdf_file)
+>* [Uitsnijden vanaf de zijkanten van PDF-pagina&#39;s](pdfs.md#cropping_from_the_sides_of_pdf_pages)
 
