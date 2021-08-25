@@ -1,18 +1,18 @@
 ---
 title: Het scherm Media Portal aanpassen
-description: Leer hoe u het scherm Media Portal aanpast.
+description: Leer hoe u het scherm Media Portal in Dynamic Media Classic kunt aanpassen.
 uuid: bd1a65a6-723b-49d0-8eac-849da00e0e1a
 contentOwner: admin
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/media_portal
 discoiquuid: 8b000c25-c9c3-481e-9b25-96257471571f
-feature: Dynamic Media Classic,Samenwerking,Asset Management
+feature: Dynamic Media Classic,Collaboration,Asset Management
 role: Admin,User
 exl-id: b0c5f70a-2388-42aa-a1ed-fd745ff90518
-source-git-commit: df689ff5a127bfbc400ca5331168d1ff7bb0b42e
+source-git-commit: 976f739e5233ae9da24b06cffa729353a7d03c46
 workflow-type: tm+mt
-source-wordcount: '338'
+source-wordcount: '326'
 ht-degree: 0%
 
 ---
@@ -21,23 +21,23 @@ ht-degree: 0%
 
 Met de Media Portal-stijlinstellingen kunt u het scherm Media Portal voorzien van uw bedrijfslogo en -kleuren. Gebruik de stijlinstellingen om uw bedrijf branding op het Portaal van Media te zetten.
 
-Kies **[!UICONTROL Setup]** > **[!UICONTROL Media Portal Setup]** > **[!UICONTROL Style Settings]** om de stijlinstellingen te openen. Zorg ervoor dat u **[!UICONTROL Save]** klikt om uw instellingen op te slaan nadat u ze hebt gemaakt. U kunt **[!UICONTROL Restore]** klikken om de standaardmontages terug te brengen. Terwijl u uw keuzes maakt, wordt in het deelvenster Voorvertoning weergegeven hoe uw keuzen eruitzien.
+Ga naar **[!UICONTROL Setup]** > **[!UICONTROL Media Portal Setup]** > **[!UICONTROL Style Settings]** om de stijlinstellingen te openen. Zorg ervoor dat u **[!UICONTROL Save]** selecteert om uw instellingen op te slaan nadat u ze hebt gemaakt. U kunt **[!UICONTROL Restore]** selecteren om de standaardmontages terug te brengen. Terwijl u uw keuzes maakt, wordt in het deelvenster Voorvertoning weergegeven hoe deze worden weergegeven.
 
-* **Logo**  - klik  **[!UICONTROL Browse]** en kies een afbeelding in het venster Logoafbeelding selecteren.
+* **[!UICONTROL Logo]** - Selecteer  **[!UICONTROL Browse]** en kies een afbeelding in het venster Logoafbeelding selecteren.
 
-* **Toepassing**  - Maak een verloopkleurovervloeiing door keuzes te maken in de menu&#39;s Achtergrondverloopkleuren.
+* **[!UICONTROL Application]** - Maak een verloopkleurovervloeiing door keuzes te maken in de menu&#39;s Achtergrondverloopkleuren.
 
-* **Boom**  - kies een het omvergooienkleur (de kleur die verschijnt wanneer u de wijzer over een punt) en selectiekleur (de kleur die verschijnt wanneer u een punt selecteert).
+* **[!UICONTROL Tree]** - Kies een rollover-kleur (de kleur die wordt weergegeven wanneer u de aanwijzer over een item beweegt) en een selectiekleur (de kleur die wordt weergegeven wanneer u een item selecteert).
 
-* **Accordeon**  - Kies achtergrondkleuren, een randstijl, rollover en geselecteerde kleuren voor de accordeon die in de weergave Details rechts op het scherm wordt weergegeven.
+* **[!UICONTROL Accordion]** - Kies achtergrondkleuren, een randstijl, de rollover en de geselecteerde kleuren voor de accordeon die in de weergave Details rechts op het scherm wordt weergegeven.
 
-* **Koptekst**  van accordeon - Kies of u tekst in de vetgedrukte koptekst van de accordeon wilt maken.
+* **[!UICONTROL Accordion Header]** - Kies of u tekst in de koptekst van de accordeon vet wilt maken.
 
-* **Datagrid**  - Kies kleuren voor de koptekstrij in gegevensrasters.
+* **[!UICONTROL Datagrid]** - Kies kleuren voor de koptekstrij in gegevensrasters.
 
-* **Waarschuwing**  - Kies een achtergrondkleur voor waarschuwingsberichtvensters.
+* **[!UICONTROL Alert]** - Kies een achtergrondkleur voor waarschuwingsberichtvensters.
 
-* **Voortgangsbalk**  - Kies een kleur voor de balk die de voortgang van het uploaden en downloaden aangeeft.
+* **[!UICONTROL Progress Bar]** - Kies een kleur voor de balk die de voortgang van het uploaden en downloaden aangeeft.
 
 Voor gebruikers van het Portaal van Media om de stijlmontages te zien die u koos, moeten zij `?company=(company name)` aan URL toevoegen waarmee zij tot het Portaal van Media toegang hebben. Bijvoorbeeld, om stijlmontages te zien, de gebruikers van het Portaal van Media die tot het bedrijf PortalCo bij het volgende toegang hebben:
 
