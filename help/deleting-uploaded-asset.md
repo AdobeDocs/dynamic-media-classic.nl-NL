@@ -1,6 +1,6 @@
 ---
-title: Geüploade elementen verwijderen
-description: Leer hoe u een geüpload element verwijdert.
+title: Een geüpload element verwijderen
+description: Leer hoe u een geüpload element verwijdert in Dynamic Media Classic.
 uuid: edd2b688-c377-4be1-ba16-d2dd2e6f716d
 contentOwner: admin
 content-type: reference
@@ -9,14 +9,14 @@ discoiquuid: dd338c8c-06c6-44d5-8493-dc2087eeeafb
 feature: Dynamic Media Classic
 role: User
 exl-id: d845bcb2-f914-4727-8df2-049dc172f266
-source-git-commit: df689ff5a127bfbc400ca5331168d1ff7bb0b42e
+source-git-commit: 47845c30311fb9afb3fffb8502b6e7c534e4bfdb
 workflow-type: tm+mt
-source-wordcount: '97'
+source-wordcount: '95'
 ht-degree: 0%
 
 ---
 
-# Geüploade elementen verwijderen{#deleting-an-uploaded-asset}
+# Een geüpload element verwijderen{#deleting-an-uploaded-asset}
 
 Met de parameter `delete` in deze notatie kunt u een element verwijderen:
 
@@ -45,9 +45,9 @@ Hieronder ziet u een voorbeeld van een reactie wanneer een afbeeldingselement wo
 U kunt de volgende velden in de URL-queryreeks gebruiken om een element te verwijderen:
 
 | URL-parameter | Vereist/optioneel | Waarde |
-|--- |--- |--- |
-| op | Vereist | delete |
-| shared_geheime | Vereist | De gedeelde geheime sleutel voor het bedrijf. |
+| --- | --- | --- |
+| `op` | Vereist | delete |
+| `shared_secret` | Vereist | De gedeelde geheime sleutel voor het bedrijf. |
 | <ul><li>Voor afbeeldingen:image_name</li><li>Voor Vector:fxg_name</li></ul> | Vereist | Naam van het element dat moet worden verwijderd. |
 
 **URL van voorbeeldafbeelding:**
