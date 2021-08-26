@@ -10,9 +10,9 @@ discoiquuid: 781dacd0-ef0c-42b7-92e0-12791994874d
 feature: Dynamic Media Classic,Viewers,eCatalog
 role: User
 exl-id: 9e2df814-465d-412a-a032-ef3e8cb462ba
-source-git-commit: df689ff5a127bfbc400ca5331168d1ff7bb0b42e
+source-git-commit: 1f3a110e8d795e766c37e43ea7f878cc0eec2ec2
 workflow-type: tm+mt
-source-wordcount: '1398'
+source-wordcount: '1395'
 ht-degree: 0%
 
 ---
@@ -87,7 +87,7 @@ Zie [Afbeeldingskaarten gebruiken om rijke media in een eCatalog in te sluiten](
 
 U kunt de tekst van de afbeeldingskaart instellen en beheren met de instellingen in het deelvenster Info in het eCatalog-scherm.
 
-Zie [Inhoud van deelvenster Info beheren](info-panel-content.md#managing-info-panel-content).
+Zie [Inhoud van deelvenster Info beheren in eCatalogs](/help/info-panel-content-ecatalog.md).
 
 ## 4. Voorinstellingen eCatalog-viewer instellen
 

@@ -1,5 +1,5 @@
 ---
-title: Elementen exporteren vanuit Dynamic Media Classic
+title: Elementen exporteren uit Dynamic Media Classic
 description: Leer hoe u elementen exporteert van Dynamic Media Classic.
 uuid: d42b7a73-80c0-4a9a-a04e-7ef53e6fcf22
 contentOwner: admin
@@ -7,17 +7,17 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/managing_assets
 discoiquuid: eb850ec7-a669-41ea-b2b0-4c9178e34f95
-feature: Dynamic Media Classic, beheer van bedrijfsmiddelen
+feature: Dynamic Media Classic,Asset Management
 role: User
 exl-id: 5e3b0002-5ae2-4437-862f-caa098b04362
-source-git-commit: df689ff5a127bfbc400ca5331168d1ff7bb0b42e
+source-git-commit: 20a5e54a9f3fa442d3a993afae07aa5b1b13e9c3
 workflow-type: tm+mt
-source-wordcount: '421'
+source-wordcount: '407'
 ht-degree: 0%
 
 ---
 
-# Elementen exporteren vanuit Dynamic Media Classic{#exporting-assets-from-dmc}
+# Elementen exporteren uit Dynamic Media Classic{#exporting-assets-from-dmc}
 
 U kunt elementen die u in Dynamic Media Classic hebt bewerkt, opslaan op een lokaal netwerkstation. Geëxporteerde elementen worden in een ZIP-bestand gebundeld, zodat ze via e-mail kunnen worden gedownload of verzonden.
 
@@ -27,28 +27,28 @@ Dynamic Media Classic houdt een overzicht van exporttaken bij in het scherm Take
 
 **Elementen exporteren uit Dynamic Media Classic:**
 
-1. Selecteer de elementen die u wilt exporteren en klik op **[!UICONTROL File]** > **[!UICONTROL Export]**.
-1. Klik in het venster Geselecteerde elementen exporteren op **Afbeeldingsopties** en geef vervolgens een van de volgende opties op (beheerders bepalen welke opties beschikbaar zijn voor hun gebruikers):
+1. Selecteer de elementen die u wilt exporteren en ga naar **[!UICONTROL File]** > **[!UICONTROL Export]**.
+1. Klik in het venster Geselecteerde elementen exporteren op **[!UICONTROL Image Options]** en geef vervolgens een van de volgende opties op (beheerders bepalen welke opties beschikbaar zijn voor hun gebruikers):
 
-   * **Voorinstellingen**  - Kies desgewenst een voorinstelling voor afbeelding om het element op te maken wanneer u het exporteert. Als u een voorinstelling voor afbeeldingen kiest, zijn de andere opmaakopties niet beschikbaar omdat het element gebruikmaakt van de indelingen die zijn gedefinieerd in de voorinstelling voor afbeeldingen.
+   * **[!UICONTROL Presets]** - Kies desgewenst een voorinstelling voor afbeelding om het element op te maken wanneer u het exporteert. Als u een voorinstelling voor afbeeldingen kiest, zijn de andere opmaakopties niet beschikbaar omdat het element gebruikmaakt van de indelingen die zijn gedefinieerd in de voorinstelling voor afbeeldingen.
 
-   * **Conversie**  - Zet het elementbestand of de oorspronkelijke afbeelding om.
+   * **[!UICONTROL Conversion]** - Zet het elementbestand of de oorspronkelijke afbeelding om.
 
-   * **Grootte**  - U kunt een standaardgrootte selecteren. U kunt ook op **[!UICONTROL Other]** in de vervolgkeuzelijst **[!UICONTROL Size]** klikken, de gewenste maateenheid kiezen en vervolgens de breedte en hoogte opgeven.
+   * **[!UICONTROL Size]** - U kunt een standaardgrootte selecteren. U kunt ook **[!UICONTROL Other]** selecteren in de vervolgkeuzelijst **[!UICONTROL Size]**, de gewenste maateenheid kiezen en vervolgens de breedte en hoogte opgeven.
 
       Zie ook [Exportopties opgeven die beschikbaar zijn voor gebruikers van Media Portal](specifying-export-options-available-media.md#specifying_export_options_available_to_media_portal_users).
 
-   * **Indeling**  - Kies een afbeeldingsindeling.
+   * **[!UICONTROL Format]** - Kies een afbeeldingsindeling.
 
-   * **Kleur**  - Kies RGB, CMYK of Grijs.
+   * **[!UICONTROL Color]** - Kies RGB, CMYK of Grijs.
 
-   * **Resolutie** : kies 72 ppi, 150 ppi of 300 ppi.
+   * **[!UICONTROL Resolution]** - Kies 72 ppi, 150 ppi of 300 ppi.
 
-   * **Taaknaam**  - U kunt een taaknaam aan het exporteren toewijzen.
+   * **[!UICONTROL Job Name]** - U kunt een taaknaam aan het exporteren toewijzen.
 
-   * **E-mail verzenden naar**  - (optioneel) Voer een e-mailadres in om de middelen per e-mail te verzenden. Het e-mailbericht bevat de URL waar de ontvanger de elementen kan downloaden.
+   * **[!UICONTROL Send Email To]** - U kunt desgewenst een e-mailadres invoeren als u de middelen per e-mail wilt verzenden. Het e-mailbericht bevat de URL waar de ontvanger de elementen kan downloaden.
 
-1. Klik op **[!UICONTROL Export]**.
+1. Selecteer **[!UICONTROL Export]**.
 
 Er worden drie basisuitvoeracties ondersteund:
 

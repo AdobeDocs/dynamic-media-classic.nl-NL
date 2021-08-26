@@ -1,6 +1,6 @@
 ---
-title: ICC-profielen
-description: Meer informatie over ICC-profielen.
+title: ICC-profielen (International Color Consortium)
+description: Meer informatie over ICC-profielen in Dynamic Media Classic.
 uuid: 708ff2ad-9a47-4e3e-b643-5b19648f726b
 contentOwner: admin
 content-type: reference
@@ -10,9 +10,9 @@ discoiquuid: 44f1b4c4-6d7f-4e0f-84ce-11d26745e0f0
 feature: Dynamic Media Classic
 role: User
 exl-id: 989f2761-f5d0-4ece-b2a6-f7b4577aa8a2
-source-git-commit: df689ff5a127bfbc400ca5331168d1ff7bb0b42e
+source-git-commit: 20a5e54a9f3fa442d3a993afae07aa5b1b13e9c3
 workflow-type: tm+mt
-source-wordcount: '442'
+source-wordcount: '439'
 ht-degree: 0%
 
 ---
@@ -37,10 +37,10 @@ Zie [Uw bestanden uploaden](uploading-files.md#uploading_your_files).
 
 Als u een ICC-profiel wilt onderzoeken, selecteert u het in het deelvenster Bladeren en geeft u het weer in de gedetailleerde weergave. In de gedetailleerde weergave wordt deze informatie over ICC-profielen weergegeven:
 
-* **Profielklasse**  - Het ICC (International Color Consortium) definieert elke klasse voor een type toepassing. Invoerprofielen zijn bijvoorbeeld van toepassing op apparaten zoals digitale camera&#39;s en scanners en op printers.
+* **[!UICONTROL Profile Class]** - Het ICC (International Color Consortium) definieert elke klasse voor een type toepassing. Invoerprofielen zijn bijvoorbeeld van toepassing op apparaten zoals digitale camera&#39;s en scanners en op printers.
 
-* **Type**  kleurruimte - Dit getal is de &quot;invoer&quot;-kleurruimte van het profiel, zoals gedefinieerd door de ICC. Het type kleurruimte definieert het aantal componenten van de kleurruimte en de interpretatie van deze componenten. RGB is bijvoorbeeld een kleurruimte met drie componenten: rood, groen en blauw. Het type kleurruimte definieert de specifieke kleurkenmerken van de ruimte niet (bijvoorbeeld de kleurafbeeldingen van de primaire kleuren).
+* **[!UICONTROL Color Space Type]** - Dit getal is de &#39;invoer&#39;-kleurruimte van het profiel, zoals gedefinieerd door de ICC. Het type kleurruimte definieert het aantal componenten van de kleurruimte en de interpretatie van deze componenten. RGB is bijvoorbeeld een kleurruimte met drie componenten: rood, groen en blauw. Het type kleurruimte definieert de specifieke kleurkenmerken van de ruimte niet (bijvoorbeeld de kleurafbeeldingen van de primaire kleuren).
 
-* **PCS-type**  - Dit PCS-type is de &#39;uitvoer&#39;-kleurruimte van het profiel, de profielverbindingsruimte. Een kleurprofiel kan bijvoorbeeld RGB omzetten in een PCS, dat het vervolgens omzet in CMYK.
+* **[!UICONTROL PCS Type]** - Dit PCS-type is de &#39;uitvoer&#39;-kleurruimte van het profiel, de profielverbindingsruimte. Een kleurprofiel kan bijvoorbeeld RGB omzetten in een PCS, dat het vervolgens omzet in CMYK.
 
 Voor invoer-, weergave- of uitvoerprofielen die nuttig zijn voor het labelen van kleuren of afbeeldingen, is het PCS-type XYZ of Lab. Interpreteer dit profiel als de overeenkomstige specifieke kleurruimte die is gedefinieerd in de ICC-specificatie.

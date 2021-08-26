@@ -1,6 +1,6 @@
 ---
-title: Een viewer van instrumenten voorzien met de Adobe Analytics Instrumentation Kit
-description: Leer hoe u een viewer kunt instrumenteren met de Adobe Analytics Instrumentation Kit.
+title: Een viewer instrumenteren met de Adobe Analytics Instrumentation Kit
+description: Leer hoe u een viewer kunt instrumenteren met de Adobe Analytics Instrumentation Kit in Dynamic Media Classic.
 uuid: cf9a4002-966d-4641-9cd0-2ee8b5454f60
 contentOwner: admin
 content-type: reference
@@ -10,14 +10,14 @@ discoiquuid: a2824244-1755-42de-a167-42af117cf038
 feature: Dynamic Media Classic
 role: Data Engineer,Admin,User
 exl-id: 9ea1546d-e6d1-4ba4-8fa1-26b4e69375ba
-source-git-commit: df689ff5a127bfbc400ca5331168d1ff7bb0b42e
+source-git-commit: bb387446f294cf1e90d26ae1df4422879ad29db7
 workflow-type: tm+mt
-source-wordcount: '297'
+source-wordcount: '298'
 ht-degree: 0%
 
 ---
 
-# Een viewer van instrumenten voorzien met de Adobe Analytics Instrumentation Kit{#instrumenting-a-viewer-using-the-adobe-analytics-instrumentation-kit}
+# Een viewer instrumenteren met de Adobe Analytics Instrumentation Kit{#instrumenting-a-viewer-using-the-adobe-analytics-instrumentation-kit}
 
 Met de Adobe Analytics Instrumentation Kit kunt u een HTML5-viewer integreren met Adobe Analytics.
 
@@ -25,13 +25,13 @@ Als u een van de vooraf gedefinieerde Dynamic Media Classic HTML5-viewervoorinst
 
 ## Adobe Analytics-tracking instellen vanuit Dynamic Media Classic {#set-up-adobe-analytics-tracking-from-scene-publishing-system}
 
-Voeg voor alle HTML5-viewers de volgende JavaScript™-code toe aan de HTML-container, meestal in het element &lt;head>:
+Voeg voor alle HTML5-viewers de volgende JavaScript-code toe aan de HTML-container, meestal in het element &lt;head>:
 
 ```as3
 <!-- ***** Adobe Analytics Tracking ***** --><script type="text/javascript" src="https://s7d6.scene7.com/s7viewers/s_code.jsp?company=<Dynamic Media Classic Company ID>&preset=companypreset-1"></script>
 ```
 
-Waar `Dynamic Media Classic Company ID` wordt geplaatst aan de Klassieke bedrijfsnaam van Dynamic Media. En `&preset` is optioneel tenzij de naam van de bedrijfsvoorinstelling niet `companypreset` is. In dergelijke gevallen kan het `companypreset-1, companypreset-2` zijn, enzovoort. Het hogere aantal is een nieuwere instantie van de voorinstelling. Als u de juiste naam van de bedrijfsvoorinstelling wilt bepalen, klikt u op **[!UICONTROL Copy URL]** en bekijkt u de parameter `preset=`om de naam van de bedrijfsvoorinstelling te zoeken.
+Waar `Dynamic Media Classic Company ID` wordt geplaatst aan de Klassieke bedrijfsnaam van Dynamic Media. En `&preset` is optioneel tenzij de naam van de bedrijfsvoorinstelling niet `companypreset` is. In dergelijke gevallen kan het `companypreset-1, companypreset-2` zijn, enzovoort. Het hogere aantal is een nieuwere instantie van de voorinstelling. Als u de juiste naam van de bedrijfsvoorinstelling wilt bepalen, selecteert u **[!UICONTROL Copy URL]** en zoekt u vervolgens de `preset=`parameter om de naam van de bedrijfsvoorinstelling te zoeken.
 
 Als u doorgaat, voegt u nu een functie toe die de viewergebeurtenis naar de trackingcode van Adobe Analytics verzendt.
 

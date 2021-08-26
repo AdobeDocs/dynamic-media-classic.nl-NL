@@ -1,6 +1,6 @@
 ---
 title: Adobe Analytics-videorapporten inschakelen
-description: Leer hoe u Adobe Analytics-videoverslagen kunt inschakelen.
+description: Leer hoe u Adobe Analytics-videoverslagen inschakelt in Dynamic Media Classic.
 contentOwner: admin
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
@@ -8,9 +8,9 @@ geptopics: SG_SCENESEVENONDEMAND_PK/categories/adobe_analytics_instrumentation_k
 feature: Dynamic Media Classic
 role: Data Engineer,Admin,User
 exl-id: 9d017742-1ed2-411d-a8a6-438102bf1557
-source-git-commit: df689ff5a127bfbc400ca5331168d1ff7bb0b42e
+source-git-commit: 20a5e54a9f3fa442d3a993afae07aa5b1b13e9c3
 workflow-type: tm+mt
-source-wordcount: '244'
+source-wordcount: '245'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ Als u Adobe Analytics-videoverslagen op basis van hartslag gebruikt, hoeft u de 
 
 * De uit-van-de-doos segmenten van één-minieme toename worden gesteund. Aangepaste segmentrapportage, zoals door de klant gedefinieerde mijlpalen op basis van tijdstappen, procentuele mijlpaal of verschuivingsmijlpalen, wordt echter niet ondersteund.
 
-   Zie [Stuurmedia meten in Adobe Analytics](https://experienceleague.adobe.com/docs/media-analytics/using/media-overview.html) voor meer informatie over de vereisten en installatie van streaming media.
+   Voor meer informatie over het stromen media vereisten en opstelling, zie [Stromende Media in Adobe Analytics](https://experienceleague.adobe.com/docs/media-analytics/using/media-overview.html) meten.
 
 * Zie [Media-rapporten inschakelen](https://experienceleague.adobe.com/docs/media-analytics/using/media-reports/media-reports-enable.html?lang=en#media-reports) voor informatie over aangepaste variabelen en oplossingsvariabelen.
 

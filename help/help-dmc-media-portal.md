@@ -7,12 +7,12 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/introducing_adobe_scene7
 discoiquuid: a55f7279-6bba-43f1-99fa-88e922ac1803
-feature: Dynamic Media Classic, Brand Portal
+feature: Dynamic Media Classic,Brand Portal
 role: Admin,User
 exl-id: 2c7c0838-0c48-450e-94ff-521bae19425f
-source-git-commit: df689ff5a127bfbc400ca5331168d1ff7bb0b42e
+source-git-commit: 20a5e54a9f3fa442d3a993afae07aa5b1b13e9c3
 workflow-type: tm+mt
-source-wordcount: '87'
+source-wordcount: '81'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Het volgende Help-document is ook beschikbaar in Dynamic Media Classic:
 
-**Dynamic Media Classic Media Portal**  - Adobe Dynamic Media Classic Media Portal is een browsergebaseerde omgeving die poortgebruikers eenvoudig toegang biedt tot het uploaden, bladeren, zoeken, voorvertonen en exporteren van middelen in door het bedrijf goedgekeurde indelingen. Zie [www.adobe.com/go/learn_sc7_mediaportalusing_en](https://www.adobe.com/go/learn_sc7_mediaportalusing_en).
+**Dynamic Media Classic Media Portal**  gebruiken - Adobe Dynamic Media Classic Media Portal is een browsergebaseerde omgeving die poortgebruikers eenvoudig toegang biedt tot het uploaden, bladeren, zoeken, voorvertonen en exporteren van middelen in door het bedrijf goedgekeurde indelingen. Zie [https://help.adobe.com/en_US/scene7/mediaportal/](https://help.adobe.com/en_US/scene7/mediaportal/).
 
 <!-- Is this topic still needed? -rb 04/22/21
- -->
+ used to point to www.adobe.com/go/learn_sc7_mediaportalusing_en and http://help.adobe.com/en_US/scene7/mediaportal/-->

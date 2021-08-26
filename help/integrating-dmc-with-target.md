@@ -10,9 +10,9 @@ discoiquuid: 3b4add18-4191-475e-a3a3-0184367a25fc
 feature: Dynamic Media Classic
 role: Data Engineer,Admin,User
 exl-id: c6f217fb-89cb-4c8d-aa7f-309fc42f7d46
-source-git-commit: df689ff5a127bfbc400ca5331168d1ff7bb0b42e
+source-git-commit: bb387446f294cf1e90d26ae1df4422879ad29db7
 workflow-type: tm+mt
-source-wordcount: '143'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
@@ -26,6 +26,6 @@ Voordat u [!DNL Dynamic Media Classic] kunt integreren met [!DNL Target Standard
 
    Als de *fictional* URL (URLs-paden bevatten altijd slashes, niet slashes zoals in dit voorbeeld) in de adresbalk `https:\\www.myfictionalsite.com/categories/admin/home.do` is, kopieert u bijvoorbeeld alleen dit gedeelte van de *fictional* URL: `https:\\www.myfictionalsite.com`.
 
-1. Klik in [!DNL Dynamic Media Classic] op **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]**.
+1. Ga in [!DNL Dynamic Media Classic] naar **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]**.
 1. Plak op de pagina Algemene instellingen toepassing in het veld **[!UICONTROL Test&Target Server Name]** de URL die u in stap 2 hebt gekopieerd.
-1. Klik op **[!UICONTROL Close]**.
+1. Selecteer **[!UICONTROL Close]**.
