@@ -9,9 +9,9 @@ discoiquuid: 3c9ee4ec-dd37-498d-98d6-1339b80177ff
 feature: Dynamic Media Classic
 role: Admin
 exl-id: 14e3d8be-f265-4cec-aa8e-19ef71526b68
-source-git-commit: ad5270545be502d3aaabba574353787622ab0445
+source-git-commit: 44045daa35052f01a26c67e0b2a0fb1405c53292
 workflow-type: tm+mt
-source-wordcount: '1842'
+source-wordcount: '1841'
 ht-degree: 0%
 
 ---
@@ -70,7 +70,7 @@ Nadat u een gebruiker hebt toegevoegd, stuurt Adobe Dynamic Media Classic een we
 
 ### Een gebruiker verwijderen {#deleting-a-user}
 
-U kunt gebruikers verwijderen uit Adobe Adobe Dynamic Media Classic door ze ongeldig te maken. Ongeldige gebruikers worden uit het systeem en alle accounts verwijderd.
+U kunt gebruikers verwijderen uit Adobe Dynamic Media Classic door ze ongeldig te maken. Ongeldige gebruikers worden uit het systeem en alle accounts verwijderd.
 
 1. Ga naar **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Administration Setup]** > **[!UICONTROL User Administration]**.
 1. Selecteer een gebruiker in de lijst en selecteer **[!UICONTROL Edit]**.

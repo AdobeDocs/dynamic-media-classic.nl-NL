@@ -10,9 +10,9 @@ discoiquuid: 0d006314-c4cc-4f6c-a51c-6075bb445e39
 feature: Dynamic Media Classic,Viewers,Video
 role: User
 exl-id: 3df22d48-edb5-4927-aefb-104b53f81f1a
-source-git-commit: ad5270545be502d3aaabba574353787622ab0445
+source-git-commit: 44045daa35052f01a26c67e0b2a0fb1405c53292
 workflow-type: tm+mt
-source-wordcount: '1588'
+source-wordcount: '1587'
 ht-degree: 1%
 
 ---
@@ -131,7 +131,7 @@ Als u de Adobe Dynamic Media Classic HTML5-videospeler niet gebruikt, maar in pl
 
 ## Video implementeren met een externe videospeler {#deploying-video-using-a-third-party-video-player}
 
-Als u een videospeler van derden of een aangepaste videospeler gebruikt in plaats van een Adobe Dynamic Media Classic-videoviewer, krijgt u de directe video-URL die geschikt is voor videostreaming met meerdere bitsnelheden of progressief downloaden met HLS.
+Als u een videospeler van derden of een aangepaste videospeler gebruikt in plaats van een klassieke Dynamic Media-videoviewer, krijgt u de directe video-URL die geschikt is voor videostreaming met meerdere bitsnelheden van HLS of progressief downloaden.
 
 **Video implementeren met een externe videospeler:**
 
