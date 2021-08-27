@@ -9,9 +9,9 @@ discoiquuid: 6c123f85-3bc4-4392-a7fb-55618127c65e
 feature: Dynamic Media Classic,Viewers,Viewer Presets,eCatalog
 role: User
 exl-id: 4357e6b8-fbc5-4e93-9476-db92a7dc7464
-source-git-commit: 44045daa35052f01a26c67e0b2a0fb1405c53292
+source-git-commit: fa0a3992e02f70e5fb4a54e770e2fe2b4f0371e1
 workflow-type: tm+mt
-source-wordcount: '464'
+source-wordcount: '465'
 ht-degree: 0%
 
 ---
@@ -46,7 +46,7 @@ Voer de volgende stappen uit, zodat u een voorinstelling voor een eCatalog-viewe
    | --- | --- | --- |
    | `$1$` | rollover_key, waarde | De item-id van het element `<area>` van de kaart. |
    | `$2$` | frame | Het volgnummer van het momenteel weergegeven frame in de afbeeldingsset. |
-   | `$3$` | imageroot | Het eerste padelement van het eerste item dat is opgegeven in de opdracht Afbeelding (doorgaans de afbeeldingencatalogus-id van het item in de catalogus die de afbeeldingsset opgeeft). |
+   | `$3$` | hoofdafbeelding | Het eerste padelement van het eerste item dat is opgegeven in de opdracht Afbeelding (doorgaans de afbeeldingencatalogus-id van het item in de catalogus die de afbeeldingsset opgeeft). |
 
 1. (Optioneel) Typ in het tekstvak **[!UICONTROL Info Panel Settings]** de tekst die u wilt weergeven als bij Adobe Dynamic Media Classic een fout optreedt bij het ophalen van informatie voor een afbeeldingskaart. **[!UICONTROL Response Template]** Als het systeem bijvoorbeeld een bedrijfsnaam en een eCatalog-naam ontvangt, maar geen rollover-id, wordt dit bericht voor de gebruiker weergegeven.
 
