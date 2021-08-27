@@ -7,9 +7,9 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 feature: Dynamic Media Classic
 role: Admin
 exl-id: 699d4c12-e47b-4c6b-86f3-dc7aaaa56c1e
-source-git-commit: 1d71cbe6e2493ac8d47e837a20e194b6ae7a22d4
+source-git-commit: ad5270545be502d3aaabba574353787622ab0445
 workflow-type: tm+mt
-source-wordcount: '2387'
+source-wordcount: '2345'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ De pagina-instellingen voor Publicatie-instellingen bepalen hoe elementen standa
 
 Beheerders kunnen de standaardinstellingen op de pagina&#39;s Afbeeldingsserver, Afbeeldingsrenderer en Vignet wijzigen om standaardinstellingen voor het leveren van elementen van servers in te stellen.
 
-Als u de pagina&#39;s voor publicatie-instellingen wilt openen, klikt u op **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Publish Setup]**.
+Als u de pagina&#39;s voor publicatie-instellingen wilt openen, gaat u naar **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Publish Setup]**.
 
 >[!NOTE]
 >
@@ -32,28 +32,28 @@ De pagina van de Server van het Beeld vestigt standaardmontages voor het leveren
 
 Wijzig deze instellingen alleen met de hulp van een Adobe Dynamic Media Classic-ondersteuningspersoon.
 
-* **Catalogusbeheer**  - Deze instellingen bepalen hoe Adobe Dynamic Media Classic en de catalogus op elkaar inwerken. In tegenstelling tot de meeste webservers gaan URL-aanroepen van Dynamic Media Image Server naar een manifest-of catalogusbestand in plaats van naar het eigenlijke afbeeldingsbestand. Het catalogusbestand (dat niet moet worden verward met een eCatalog) bevat een lijst met alle inhoud die naar de afbeeldingsserver is gepubliceerd, samen met het pad naar elke afbeelding. Als u een Digimarc-id hebt, voert u uw gebruikersgegevens in het gedeelte Digimarc-gebruikersinfo in.
+* **[!UICONTROL Catalog Management]** - Deze instellingen bepalen hoe Adobe Dynamic Media Classic en de catalogus werken. In tegenstelling tot de meeste webservers gaan URL-aanroepen van Dynamic Media Image Server naar een manifest-of catalogusbestand in plaats van naar het eigenlijke afbeeldingsbestand. Het catalogusbestand (dat niet moet worden verward met een eCatalog) bevat een lijst met alle inhoud die naar de afbeeldingsserver is gepubliceerd, samen met het pad naar elke afbeelding. Als u een Digimarc-id hebt, voert u uw gebruikersgegevens in het gedeelte Digimarc-gebruikersinfo in.
 
-* **Attributen**  aanvragen - Met deze instellingen worden limieten ingesteld voor afbeeldingen die van de server kunnen worden geleverd. De *maximum* **[!UICONTROL Reply Image Size Limit]** is bijvoorbeeld **[!UICONTROL Width]** 5000 en **[!UICONTROL Height]** 5000.
+* **[!UICONTROL Request Attributes]** - Met deze instellingen worden limieten ingesteld voor afbeeldingen die van de server kunnen worden geleverd. De *maximum* **[!UICONTROL Reply Image Size Limit]** is bijvoorbeeld **[!UICONTROL Width]** 5000 en **[!UICONTROL Height]** 5000.
 
-* **Standaardaanvraagkenmerken**  - Deze instellingen hebben betrekking op de standaardweergave van afbeeldingen.
+* **[!UICONTROL Default Request Attributes]** - Deze instellingen hebben betrekking op de standaardweergave van afbeeldingen.
 
-* **Algemene miniatuurkenmerken**  - Deze instellingen hebben betrekking op de standaardweergave en -uitlijning van miniatuurafbeeldingen.
+* **[!UICONTROL Common Thumbnail Attributes]** - Deze instellingen hebben betrekking op de standaardweergave en -uitlijning van miniatuurafbeeldingen.
 
-* **Standaardwaarden voor catalogusvelden**  - Deze instellingen hebben betrekking op de resolutie en het standaardminiatuurtype van afbeeldingen.
+* **[!UICONTROL Defaults for Catalog Fields]** - Deze instellingen hebben betrekking op de resolutie en het standaardtype miniatuur van afbeeldingen.
 
-* **Attributen**  kleurbeheer - Deze instellingen bepalen welke ICC-kleurprofielen worden gebruikt.
+* **[!UICONTROL Color Management Attributes]** - Deze instellingen bepalen welke ICC-kleurprofielen worden gebruikt.
 
-* **Compatibiliteitskenmerken**  - Met deze instelling kunnen alinea&#39;s met regelafstand en navolgende in tekstlagen op dezelfde manier worden behandeld als in versie 3.6 voor achterwaartse compatibiliteit.
+* **[!UICONTROL Compatibility Attributes]** - Met deze instelling kunnen alinea&#39;s met regelafstand en navolgende in tekstlagen op dezelfde manier worden behandeld als in versie 3.6, voor achterwaartse compatibiliteit.
 
-* **Ondersteuning voor**  lokalisatie - Met deze instellingen kunt u meerdere kenmerken voor landinstellingen beheren. U kunt hiermee ook een landinstellingenkaarttekenreeks opgeven, zodat u kunt definiëren welke talen u wilt ondersteunen voor de verschillende knopinfo in Viewers.
+* **[!UICONTROL Localization Support]*** - Met deze instellingen kunt u meerdere kenmerken voor de landinstelling beheren. U kunt hiermee ook een landinstellingenkaarttekenreeks opgeven, zodat u kunt definiëren welke talen u wilt ondersteunen voor de verschillende knopinfo in Viewers.
 
    Als u bijvoorbeeld een nationaal merk bent dat in verschillende landen verkoopt, kunt u ervoor zorgen dat elk land zijn eigen landspecifieke viewer heeft. Voor deze functionaliteit geeft u een tekenreeks voor de landinstellingenkaart op. Vervolgens bewerkt u de knopinfo-tekst in de voorinstelling van een viewer door de vertaalde tekstreeksen toe te voegen voor de gewenste taal.
 
    >[!NOTE]
    > Als u Localization Support-opties wilt instellen, [gebruikt u de Admin Console om een ondersteuningscase te maken.](https://helpx.adobe.com/enterprise/admin-guide.html/enterprise/using/support-for-experience-cloud.ug.html) In uw steungeval, verzoek opstelling hulp.
 
-   Zie [Overwegingen bij het instellen van lokalisatie van middelen](publish-setup.md#considerations_when_setting_up_localization_of_assets) voor meer informatie over het instellen van **Localisatie-ondersteuning**.
+   Zie [Overwegingen bij het instellen van lokalisatie van middelen](publish-setup.md#considerations_when_setting_up_localization_of_assets) voor meer informatie over het instellen van **[!UICONTROL Localization Support]**.
 
 ### Overwegingen bij het instellen van lokalisatie van middelen {#considerations-when-setting-up-localization-of-assets}
 
@@ -90,12 +90,12 @@ Enkele voordelen van het gebruik van `locale=` en `attribute::DefaultLocale` omv
 #### Toepassingsscenario&#39;s
 
 | Toepassing | Scenario |
-|--- |--- |
-| Lokalisatie van viewers | Nadat de statische inhoudcatalogi worden uitgevoerd, wordt de localisatie gecontroleerd volledig met locale= parameter, die aan alle verzoeken wordt toegevoegd die aan IS worden gemaakt. Configuratierecords, skins, welkomstschermen, enzovoort, kunnen landspecifieke varianten hebben of niet. De correcte inhoud wordt verstrekt door IS zonder de kijker die moet weten welke inhoud wordt gelokaliseerd en wat zijn IDs is. |
+| --- | --- |
+| Lokalisatie van viewer | Nadat de statische inhoudcatalogi worden uitgevoerd, wordt de localisatie gecontroleerd volledig met locale= parameter, die aan alle verzoeken wordt toegevoegd die aan IS worden gemaakt. Configuratierecords, skins, welkomstschermen, enzovoort, kunnen landspecifieke varianten hebben of niet. De correcte inhoud wordt verstrekt door IS zonder de kijker die moet weten welke inhoud wordt gelokaliseerd en wat zijn IDs is. |
 | Afbeeldingen en video | Meerdere nationale bedrijven hebben vaak een combinatie van generieke en landspecifieke inhoud. Met dit mechanisme kan een verwijzing naar een beeld of een video algemeen zijn, en IS dient omhoog de landspecifieke inhoud als het beschikbaar is. |
 | Afbeeldingssets en mediasets | De volledige afbeeldingsset kan voor sommige landinstellingen anders zijn, bijvoorbeeld wanneer een eCatalog anders is, waarbij de vertaling van een generieke naar een landspecifieke afbeeldingsset wordt uitgevoerd die door de viewer wordt verwerkt. Meer algemeen, kunnen individuele IDs in een generische reeks naar gelokaliseerde inhoud verwijzen. De meeste foto&#39;s van een apparaat kunnen bijvoorbeeld in alle talen hetzelfde zijn, behalve de foto van het Configuratiescherm. Deze id&#39;s worden automatisch vertaald. Het is dus niet nodig landspecifieke afbeeldingssets te genereren. |
 
-#### Locatie van middelen implementeren
+#### Middelen lokaliseren
 
 Adobe Dynamic Media Classic en Image Serving hebben een interface waarmee u afbeeldingen en statische inhoud kunt lokaliseren.
 
@@ -107,7 +107,7 @@ Met localisatie voegt een URL van de Server van het Beeld de `locale=` parameter
 
 `https://server/is/image/company/image?locale=de_DE`
 
-Bij ontvangst van de http-aanroep door de Image Server wordt de `locale=`-parameter geparseerd via het localeMap-veld in **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Publish Setup]** > **[!UICONTROL Image Server]** > **[!UICONTROL Localization Support]**-groep.
+Bij ontvangst van de http-aanroep door de Image Server wordt de `locale=`-parameter geparseerd via het veld `localeMap` in **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Publish Setup]** > **[!UICONTROL Image Server]** > **[!UICONTROL Localization Support]**.
 
 Het veld Landinstelling kaart bevat een lijst met items die zijn gescheiden met het verticale balksymbool (|).
 
@@ -122,18 +122,18 @@ Of een achtervoegselwaarde of een vervangingswaarde wordt toegepast hangt van de
 **Voorbeeld van achtervoegsel:**
 
 | URL | localeMap-id&#39;s | Resultaat |
-|--- |--- |--- |
-| `https://server/is/image/company/image?locale=de_DE` | `de_DE,_DE,|fr_FR,_FR,` | Er is geen GlobalLocale gedefinieerd. De parameter de_DE voor landinstellingen komt overeen met de eerste vermelding in de localeMap. De eerste overeenkomstige waarde _DE wordt toegevoegd als achtervoegsel aan activa image_DE en een poging wordt gemaakt om het op de Server van het Beeld te vinden. Als deze op de server wordt gevonden, wordt deze geretourneerd. Anders wordt de tweede waarde &quot;&quot; gebruikt als achtervoegsel, waardoor de afbeelding zelf wordt geretourneerd. |
+| --- | --- | --- |
+| `https://server/is/image/company/image?locale=de_DE` | `de_DE,_DE,|fr_FR,_FR,` | Er is geen GlobalLocale gedefinieerd. De landinstellingsparameter de_DE komt overeen met de eerste vermelding in `localeMap`. De eerste overeenkomstige waarde _DE wordt toegevoegd als achtervoegsel aan activa image_DE en een poging wordt gemaakt om het op de Server van het Beeld te vinden. Als deze op de server wordt gevonden, wordt deze geretourneerd. Anders wordt de tweede waarde &quot;&quot; gebruikt als achtervoegsel, waardoor de afbeelding zelf wordt geretourneerd. |
 
 **Voorbeeld van vervanging:**
 
-| URL | GlobalLocale- en localeMap-id&#39;s | Resultaat |
+| URL | `GlobalLocale` en  `localeMap` id&#39;s | Resultaat |
 |--- |--- |--- |
-| `https://server/is/image/company/image-main-01?locale=de_DE` | `GlobalLocale=mainlocaleMap -` <br><br/> `de_DE,de,main|fr_FR,fr,main` | In het bovenstaande vervangingsvoorbeeld is GlobalLocale ingesteld op main. De parameter de_DE voor landinstellingen komt overeen met de eerste vermelding in de localeMap. De subtekenreeks GlobalLocale wordt gevonden en vervangen door de eerste corresponderende waarde `de` in de localeMap: `image-de-01`. Als het op de Server van het Beeld wordt gevonden, is het teruggekeerd. Zo niet, dan wordt de tweede waarde vervangen, wat resulteert in `image-main-01`. |
+| `https://server/is/image/company/image-main-01?locale=de_DE` | `GlobalLocale=mainlocaleMap -` <br><br/> `de_DE,de,main|fr_FR,fr,main` | In het bovenstaande vervangingsvoorbeeld is GlobalLocale ingesteld op main. De landinstellingsparameter de_DE komt overeen met de eerste vermelding in `localeMap`. De subtekenreeks van GlobalLocale wordt gevonden en vervangen door de eerste corresponderende waarde `de` in `localeMap`: `image-de-01`. Als het op de Server van het Beeld wordt gevonden, is het teruggekeerd. Zo niet, dan wordt de tweede waarde vervangen, wat resulteert in `image-main-01`. |
 
 Als er geen landinstelling is gedefinieerd in de URL, gebruikt de afbeeldingsserver de DefaultLocale (indien deze is gedefinieerd) en past deze toe op de URL.
 
-Als een onbekende of lege landinstellingsparameter wordt geleverd bij `locale=`, wordt de localeMap gescand voor de lege waarde &quot;beginnend met,&quot;. Het is belangrijk dat een standaardlandinstelling wordt toegepast voor onbekende landinstellingen.
+Als een onbekende of lege landinstellingsparameter wordt geleverd bij `locale=`, wordt `localeMap` gescand voor de lege waarde &quot;beginnend met,&quot;. Het is belangrijk dat een standaardlandinstelling wordt toegepast voor onbekende landinstellingen.
 
 #### Over defaultImage
 
@@ -154,9 +154,9 @@ De landinstellings-id&#39;s worden toegewezen aan de corresponderende achtervoeg
 `attribute::LocaleMap=en,_E,|en_us,_E,|en_uk,_E,|fr,_F,|de,_D,|de_at,_D,|de_de,_D,`
 
 | locale= | Uitvoer-id&#39;s waarnaar moet worden gezocht |
-|--- |--- |
-| en,en_us, en_uk | myImg_E, myImg |
-| de,de_de,de_at | myImg_D, myImg |
+| --- | --- |
+| en , en_us, en_uk | myImg_E, myImg |
+| de , de_de , de_at | myImg_D, myImg |
 | fr | myImg_F, myImg |
 | Alle andere | - |
 
@@ -167,10 +167,10 @@ U kunt onbekende landinstellingen toewijzen aan specifieke id&#39;s of aan gener
 `attribute::LocaleMap=en,_E,|en_us,_E,|en_uk,_E,|fr,_F,|de,_D,|de_at,_D,|de_de,_D,|,_E,`
 
 | locale= | Uitvoer-id&#39;s waarnaar moet worden gezocht |
-|--- |--- |
-| de,de_de,de_at | myImg_D,myImg |
-| fr | myImg_F,myImg |
-| Alle andere | myImg_E,myImg |
+| --- | --- |
+| de, de_de, de_at | myImg_D, myImg |
+| fr | myImg_F, myImg |
+| Alle andere | myImg_E, myImg |
 
 U zou ook een toegewezen locSuffix, zoals U, voor onbekende scènes kunnen hebben, en macht aan het standaardbeeld als geen `_U` bestaat, zoals in het volgende:
 
@@ -180,7 +180,7 @@ Of u kunt rechtstreeks een toewijzing maken aan de algemene id, zoals in het vol
 
 `attribute::LocaleMap=en,_E,|en_us,_E,|en_uk,_E,|fr,_F,|de,_D,|de_at,_D,|de_de,_D,|,`
 
-##### LocaleMap zoeken met behulp van een meerlaagse zoekopdracht
+##### De localeMap zoeken met behulp van een meerlaagse zoekopdracht
 
 Het is vaak wenselijk om landinstellingen, zoals Europees, Midden-Oosten en Noord-Amerika, te groeperen om regionale normen, zoals huidblootstelling, aan te pakken. U kunt dit effect bereiken met een zoekopdracht met meerdere lagen.
 
@@ -189,7 +189,7 @@ Stel dat u in dit voorbeeld verzamelingen wilt ondersteunen voor gebruik in het 
 `attribute::LocaleMap=w1,-W,|w2,-W2,-W,|w3,-W,|m1,-M1,-M,|m2,-M2,-M,|,`
 
 | locale= | Uitvoer-id&#39;s waarnaar moet worden gezocht |
-|--- |--- |
+| --- | --- |
 | w1, w3 | myImg-W, myImg |
 | w2 | myImg-W2, myImg-W, myImg |
 | m1 | myImg-M1, myImg-M, myImg |
@@ -205,7 +205,7 @@ Wanneer het eerste voorbeeld als basis wordt gebruikt, kunnen afbeeldingen voor 
 `attribute::LocaleMap=,_1,_2,_3|fr,_22,_23,_1,_2,_3|de,_470,_480,_1,_2,_3|de_at,_470,_480,_1,_2,_3|de_de,_470,_480,_1,_2,_3`
 
 | locale= | Uitvoer-id&#39;s waarnaar moet worden gezocht |
-|--- |--- |
+| --- | --- |
 | fr | myImg_22, myImg_23, myImg_1, myImg_2, myImg_3 |
 | de, de_at, de_de | myImg_470, myImg_480, myImg_1, myImg_2, myImg_3 |
 | Alle andere | myImg_1, myImg_2, myImg_3 |
@@ -220,15 +220,15 @@ Wanneer het eerste voorbeeld als basis wordt gebruikt, kunnen afbeeldingen voor 
 
 De pagina Renderer van het Beeld vestigt standaardmontages voor het leveren van de Reeksen van het Beeld van beeld het teruggeven servers. De montages zijn beschikbaar in deze vijf categorieën (zie de pagina van de Server van het Beeld zelf voor gedetailleerde beschrijvingen van de montages):
 
-* **Catalogusbeheer**  - Deze instellingen bepalen hoe Adobe Dynamic Media Classic en het catalogusbestand op elkaar inwerken. De Klassieke van de Server URL van de Render van Adobe Dynamic Media vraag wordt gemaakt aan de catalogus, die beurtelings roept om beelden van de server te leveren. Wijzig deze instellingen alleen met de hulp van een Adobe Dynamic Media Classic-ondersteuningspersoon.
+* **[!UICONTROL Catalog Management]** - Deze instellingen bepalen hoe Adobe Dynamic Media Classic en het catalogusbestand op elkaar inwerken. De Klassieke van de Server URL van de Render van Adobe Dynamic Media vraag wordt gemaakt aan de catalogus, die beurtelings roept om beelden van de server te leveren. Wijzig deze instellingen alleen met de hulp van een Adobe Dynamic Media Classic-ondersteuningspersoon.
 
-* **Sessiekenmerken**  - Met deze instellingen worden foutparameters, de URL voor relatieve afbeeldings-URL&#39;s en of objectoverlapping is toegestaan.
+* **[!UICONTROL Session Attributes]** - Met deze instellingen worden foutparameters, de URL voor relatieve afbeeldings-URL&#39;s en of objectoverlapping is toegestaan.
 
-* **Standaardmateriaalkenmerken**  - Met deze instellingen worden de standaardresolutie en verscherpingsinstellingen voor afbeeldingen ingesteld.
+* **[!UICONTROL Default Material Attributes]** - Met deze instellingen stelt u de standaardresolutie en verscherpingsinstellingen voor afbeeldingen in.
 
-* **Attributen**  van reactieafbeelding - Deze instellingen hebben betrekking op de standaardweergave van afbeeldingen.
+* **[!UICONTROL Response Image Attributes]** - Deze instellingen hebben betrekking op de standaardweergave van afbeeldingen.
 
-* **Kenmerken**  kleurbeheer - Deze instellingen hebben betrekking op de standaardkleurinstellingen van afbeeldingen.
+* **[!UICONTROL Color Management Attributes]** - Deze instellingen hebben betrekking op de standaardkleurinstellingen van afbeeldingen.
 
 ## Vignet {#vignette}
 

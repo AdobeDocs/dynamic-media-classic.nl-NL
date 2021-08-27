@@ -1,6 +1,6 @@
 ---
 title: E-catalogi en bijbehorende PDF's publiceren
-description: Leer hoe u eCatalogs en bijbehorende PDF's publiceert.
+description: Leer hoe u eCatalogs en bijbehorende PDF's publiceert vanuit Adobe Dynamic Media Classic.
 uuid: 6f2f2c79-921a-4096-8f80-24e69c8983fa
 contentOwner: admin
 content-type: reference
@@ -10,9 +10,9 @@ discoiquuid: 76e5732a-83c6-4e6b-a29f-a393b1c971aa
 feature: Dynamic Media Classic,Viewers,eCatalog
 role: User
 exl-id: 00b70162-2394-433d-a46c-1d90667030af
-source-git-commit: 1d71cbe6e2493ac8d47e837a20e194b6ae7a22d4
+source-git-commit: ad5270545be502d3aaabba574353787622ab0445
 workflow-type: tm+mt
-source-wordcount: '175'
+source-wordcount: '181'
 ht-degree: 0%
 
 ---
@@ -27,15 +27,15 @@ Bij publicatie worden uw eCatalog en PDF op Dynamic Media Image Servers geplaats
 
 **E-catalogi en bijbehorende PDF&#39;s publiceren:**
 
-1. Klik op **[!UICONTROL Publish]** op de algemene navigatiebalk.
-1. Klik in het scherm Publiceren op **[!UICONTROL One-Time]** of **[!UICONTROL Recurring]**.
+1. Selecteer **[!UICONTROL Publish]** op de algemene navigatiebalk.
+1. Selecteer **[!UICONTROL One-Time]** of **[!UICONTROL Recurring]** in het scherm Publiceren.
 1. (Optioneel) Voer in het veld Taaknaam een naam in voor de publicatietaak, maar houd de vooraf gedefinieerde datum- en tijdtekst behouden.
 
-   Als u uw eCatalog opstelt zodat de kijkers sleutelwoordonderzoeken kunnen uitvoeren, zorg ervoor dat de sleutelwoordgegevens worden gepubliceerd. Klik in het dialoogvenster Publiceren op **[!UICONTROL Advanced]**. Klik in het vervolgkeuzemenu **[!UICONTROL Publish]** op **[!UICONTROL Full w/ Search Data]**. Deze optie is standaard ingeschakeld.
+   Als u uw eCatalog opstelt zodat de kijkers sleutelwoordonderzoeken kunnen uitvoeren, zorg ervoor dat de sleutelwoordgegevens worden gepubliceerd. Selecteer **[!UICONTROL Advanced]** in het dialoogvenster Publiceren. Selecteer **[!UICONTROL Full w/ Search Data]** in het vervolgkeuzemenu **[!UICONTROL Publish]**. Deze optie is standaard ingeschakeld.
 
-1. Klik op ****[!UICONTROL Submit Publish]****.
+1. Klik op **[!UICONTROL Submit Publish]**.
 
 >[!MORELIKETHIS]
 >
->* [Publiceren](publishing-files.md)
+>* [Bestanden publiceren](publishing-files.md)
 

@@ -1,6 +1,6 @@
 ---
 title: Sjablonen publiceren
-description: Leer hoe u sjablonen publiceert.
+description: Leer hoe u sjablonen publiceert vanuit Adobe Dynamic Media Classic.
 uuid: 9b8e5b94-6958-4725-bcbc-5e6a9c4d1b02
 contentOwner: admin
 content-type: reference
@@ -10,9 +10,9 @@ discoiquuid: 87a5a25e-210b-4359-821a-7dfe8c304f9b
 feature: Dynamic Media Classic
 role: User
 exl-id: d4315312-195c-453d-a3aa-c5e9f9365fc7
-source-git-commit: 1d71cbe6e2493ac8d47e837a20e194b6ae7a22d4
+source-git-commit: ad5270545be502d3aaabba574353787622ab0445
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '165'
 ht-degree: 0%
 
 ---
@@ -27,11 +27,11 @@ Als u uw sjabloon publiceert, wordt deze op Dynamic Media Image Servers geplaats
 
 ## Sjablonen markeren voor publicatie {#marking-templates-for-publish}
 
-Sjablonen en alle bijbehorende ondersteuningsbestanden moeten zijn gemarkeerd voor publicatie zodat ze op Dynamic Media Image Servers kunnen worden geplaatst. U kunt deze punten voor publicatie in het Browse Comité merken door het **[!UICONTROL Mark for Publish]** pictogram te klikken.
+Sjablonen en alle bijbehorende ondersteuningsbestanden moeten zijn gemarkeerd voor publicatie zodat ze op Dynamic Media Image Servers kunnen worden geplaatst. U kunt deze punten voor publicatie in het Browse Comité merken door **[!UICONTROL Mark for Publish]** pictogram te selecteren.
 
 ## Uw sjabloon publiceren {#publishing-your-template}
 
-Als u sjablonen wilt publiceren naar Dynamic Media Image Servers, klikt u op **[!UICONTROL Publish]** op de algemene navigatiebalk en selecteert u vervolgens een optie **[!UICONTROL When]**. U kunt desgewenst een naam voor de publicatietaak invoeren. Klik op **[!UICONTROL Submit Publish]**.
+Als u sjablonen wilt publiceren naar Dynamic Media Image Servers, selecteert u **[!UICONTROL Publish]** op de algemene navigatiebalk en selecteert u vervolgens een **[!UICONTROL When]**-optie. U kunt desgewenst een naam voor de publicatietaak invoeren. Selecteer **[!UICONTROL Submit Publish]**.
 
 >[!MORELIKETHIS]
 >

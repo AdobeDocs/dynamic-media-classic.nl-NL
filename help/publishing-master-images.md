@@ -1,6 +1,6 @@
 ---
 title: Master afbeeldingen publiceren
-description: Leer hoe u master afbeeldingen publiceert.
+description: Leer hoe u master afbeeldingen kunt publiceren vanuit Adobe Dynamic Media Classic.
 uuid: b56ba79a-f89a-45f1-a8bb-c73a22eab8d4
 contentOwner: admin
 content-type: reference
@@ -10,9 +10,9 @@ discoiquuid: 815e2a19-c64d-45c7-96bc-7f955e54f56e
 feature: Dynamic Media Classic,Asset Management
 role: User
 exl-id: b0010107-248c-4ebc-955c-7514462f351d
-source-git-commit: 1d71cbe6e2493ac8d47e837a20e194b6ae7a22d4
+source-git-commit: ad5270545be502d3aaabba574353787622ab0445
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: '155'
 ht-degree: 0%
 
 ---
@@ -27,9 +27,9 @@ Master afbeeldingen moeten zijn gemarkeerd voor publicatie, zodat ze naar Dynami
 
 ## Master afbeeldingen publiceren {#publishing-your-master-images}
 
-1. Klik op **[!UICONTROL Publish]** op de algemene navigatiebalk. Selecteer in het dialoogvenster Publiceren de optie Bij (**[!UICONTROL One-Time]** of **[!UICONTROL Recurring]**) en voer desgewenst een naam voor de publicatietaak in
+1. Selecteer **[!UICONTROL Publish]** op de algemene navigatiebalk. Selecteer in het dialoogvenster Publiceren de optie Bij (**[!UICONTROL One-Time]** of **[!UICONTROL Recurring]**) en voer desgewenst een naam voor de publicatietaak in
 
-1. Klik op **[!UICONTROL Submit Publish]**.
+1. Selecteer **[!UICONTROL Submit Publish]**.
 
 >[!NOTE]
 >
@@ -37,5 +37,5 @@ Master afbeeldingen moeten zijn gemarkeerd voor publicatie, zodat ze naar Dynami
 
 >[!MORELIKETHIS]
 >
->* [Publiceren](publishing-files.md#publishing_files)
+>* [Bestanden publiceren](publishing-files.md#publishing_files)
 

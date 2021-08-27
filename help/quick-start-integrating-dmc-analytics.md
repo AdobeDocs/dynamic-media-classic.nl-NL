@@ -8,9 +8,9 @@ geptopics: SG_SCENESEVENONDEMAND_PK/categories/adobe_analytics_instrumentation_k
 feature: Dynamic Media Classic
 role: Data Engineer,Admin,User
 exl-id: a8fa2414-af01-4a58-bb33-dfd12c1056cc
-source-git-commit: 1d71cbe6e2493ac8d47e837a20e194b6ae7a22d4
+source-git-commit: ad5270545be502d3aaabba574353787622ab0445
 workflow-type: tm+mt
-source-wordcount: '670'
+source-wordcount: '671'
 ht-degree: 0%
 
 ---
@@ -37,7 +37,7 @@ Deze snelle start is ontworpen om u snel aan de slag te krijgen met Adobe Analyt
 >
 >Alvorens u de rapporten van Adobe Analytics kunt vormen en de rapportvariabelen van Adobe Analytics aan Adobe Dynamic Media Klassieke gebeurtenissen aanpassen, verifieer dat u als lid van de groep van de Toegang van de Dienst van het Web in Adobe Analytics wordt toegevoegd. De leden in deze groep kunnen tot alle rapporten in de gespecificeerde rapportreeksen door middel van de Diensten API van het Web van de Marketing Cloud ongeacht de toestemmingen toegang hebben die in de interface worden geplaatst. Als u een lid wilt toevoegen aan de groep, klikt u in Adobe Analytics op **[!UICONTROL Admin Tools]** > **[!UICONTROL User Management]** > **[!UICONTROL Edit Groups]**.
 
-Nadat u hebt geverifieerd dat u lid bent van de groep van de Toegang van de Dienst van het Web, in Adobe Dynamic Media Klassiek, klik **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Adobe Analytics]**. Voor de pagina van de Configuratie van Adobe Analytics, klik **[!UICONTROL Adobe Analytics Login]**.
+Nadat u hebt geverifieerd dat u lid bent van de groep van de Toegang van de Dienst van het Web, in Adobe Dynamic Media Klassiek, ga naar **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Adobe Analytics]**. Voor de pagina van de Configuratie van Adobe Analytics, klik **[!UICONTROL Adobe Analytics Login]**.
 
 Zie [Aanmelden bij Adobe Analytics](log-analytics.md#log_in_to_adobe_analytics).
 
@@ -45,7 +45,7 @@ Typ in het dialoogvenster Adobe Analytics-aanmelding uw Marketing Cloud-Org-id (
 
 ## 2. Adobe Analytics-rapportvariabelen toewijzen aan Adobe Dynamic Media Classic viewer-gebeurtenissen en Adobe Dynamic Media Classic-variabelen
 
-Geef op de Adobe Analytics Configuration-pagina de gewenste informatie op in Adobe Analytics-rapporten. Voor elke Adobe Dynamic Media Classic viewer-gebeurtenis van waarover u informatie wilt, kiest u een Adobe Analytics-variabele (uit uw rapportsuite) en een Adobe Dynamic Media Classic-variabele.
+Geef op de Adobe Analytics Configuration-pagina de gewenste informatie op in Adobe Analytics-rapporten. Voor elke Adobe Dynamic Media Classic viewer-gebeurtenis van waarover u informatie wilt, kiest u een Adobe Analytics-variabele (uit uw rapportsuite) en een Klassieke Adobe Dynamic Media-variabele.
 
 * Viewergebeurtenissen beschrijven de gebruikersactiviteit die u wilt meten in rapporten.
 * De Klassieke variabelen van Adobe Dynamic Media beschrijven de gegevens over gebruikersgebeurtenissen die u de rapporten wilt leveren.

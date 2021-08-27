@@ -1,6 +1,6 @@
 ---
 title: Zoomafbeeldingen publiceren
-description: Leer hoe u zoomafbeeldingen publiceert.
+description: Leer hoe u Zoom-afbeeldingen publiceert vanuit Adobe Dynamic Media Classic.
 uuid: d7e7a474-8af5-46a7-94df-063396f67554
 contentOwner: admin
 content-type: reference
@@ -10,9 +10,9 @@ discoiquuid: 34a99fd0-8148-41d4-843a-909637542dd9
 feature: Dynamic Media Classic,Viewers,Zoom
 role: User
 exl-id: 74cf0346-be79-4916-8a98-16865c3ba3de
-source-git-commit: 1d71cbe6e2493ac8d47e837a20e194b6ae7a22d4
+source-git-commit: ad5270545be502d3aaabba574353787622ab0445
 workflow-type: tm+mt
-source-wordcount: '140'
+source-wordcount: '146'
 ht-degree: 0%
 
 ---
@@ -27,9 +27,9 @@ Afbeeldingen moeten zijn gemarkeerd voor publicatie zodat ze naar Dynamic Media 
 
 ## De afbeeldingen publiceren {#publishing-the-images}
 
-Als u zoomafbeeldingen wilt publiceren, klikt u op **[!UICONTROL Publish]** op de algemene navigatiebalk en selecteert u een **[!UICONTROL When]**-optie (**[!UICONTROL One-Time]** of **[!UICONTROL Recurring]**). U kunt desgewenst een naam voor de publicatietaak invoeren. Klik **Publiceren verzenden**.
+Als u zoomafbeeldingen wilt publiceren, selecteert u **[!UICONTROL Publish]** op de algemene navigatiebalk en selecteert u vervolgens een **[!UICONTROL When]**-optie (**[!UICONTROL One-Time]** of **[!UICONTROL Recurring]**). U kunt desgewenst een naam voor de publicatietaak invoeren. Selecteer **Publiceren verzenden**.
 
 >[!MORELIKETHIS]
 >
->* [Publiceren](publishing-files.md#publishing_files)
+>* [Bestanden publiceren](publishing-files.md#publishing_files)
 

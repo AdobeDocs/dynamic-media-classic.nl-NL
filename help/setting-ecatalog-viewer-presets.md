@@ -9,9 +9,9 @@ discoiquuid: 6c123f85-3bc4-4392-a7fb-55618127c65e
 feature: Dynamic Media Classic,Viewers,Viewer Presets,eCatalog
 role: User
 exl-id: 4357e6b8-fbc5-4e93-9476-db92a7dc7464
-source-git-commit: 1d71cbe6e2493ac8d47e837a20e194b6ae7a22d4
+source-git-commit: ad5270545be502d3aaabba574353787622ab0445
 workflow-type: tm+mt
-source-wordcount: '461'
+source-wordcount: '460'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 De eCatalog Viewer-voorinstellingen bepalen de stijl, het gedrag en de vormgeving van eCatalog-viewers. Adobe Dynamic Media Classic biedt voorinstellingen voor eCatalog-viewers en u kunt ook uw eigen voorinstellingen voor eCatalog-viewers maken als beheerder.
 
-Als u een voorinstelling wilt maken, begint u helemaal opnieuw of begint u met een door Adobe Dynamic Media Classic geleverde voorinstelling voor de eCatalog Viewer en slaat u deze onder een andere naam op. U kunt uw eigen voorinstellingen voor de eCatalog-viewer maken om afgedrukt materiaal in de kleuren van uw bedrijf weer te geven en de toon in te stellen.
+Als u een voorinstelling wilt maken, begint u helemaal opnieuw of begint u met een door de Adobe Dynamic Media Classic geleverde voorinstelling voor de eCatalog Viewer en slaat u deze onder een andere naam op. U kunt uw eigen voorinstellingen voor de eCatalog-viewer maken om afgedrukt materiaal in de kleuren van uw bedrijf weer te geven en de toon in te stellen.
 
 Voorinstellingen voor eCatalog Viewer bieden veel instellingen voor het schakelen tussen pagina&#39;s, zoomen, zoeken en kiezen van &#39;skins&#39;. Hoe deze besturingselementen eruitzien en hoe de viewer wordt weergegeven, is afhankelijk van uw keuze voor Voorinstellingen voor eCatalog-viewer.
 
@@ -31,7 +31,7 @@ Voer de volgende stappen uit, zodat u een voorinstelling voor een eCatalog-viewe
 
    * **Een voorinstelling**  voor een eCatalog-viewer maken - Klik  **[!UICONTROL Add]**. Kies in het dialoogvenster Voorinstelling viewer toevoegen een platform, kies eCatalog Viewer en klik op **[!UICONTROL Add]**.
 
-   * **Een voorinstelling**  voor een eCatalog-viewer bewerken - Selecteer een voorinstelling voor een eCatalog-viewer en klik op Bewerken. Klik **[!UICONTROL Save As]** nadat u klaar bent met het maken van de voorinstelling.
+   * **Een voorinstelling**  voor een eCatalog-viewer bewerken - Selecteer een voorinstelling voor een eCatalog-viewer en klik op  **[!UICONTROL Edit]**. Klik **[!UICONTROL Save As]** nadat u klaar bent met het maken van de voorinstelling.
 
 1. Voer in het scherm Viewer configureren een naam in voor uw voorinstelling voor de eCatalog-viewer.
 1. Stel in het scherm Viewer configureren de gewenste opties in.

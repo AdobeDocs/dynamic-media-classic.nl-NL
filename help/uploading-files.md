@@ -9,7 +9,7 @@ discoiquuid: b2bc3bf9-e313-481a-8670-c3bedde21b1a
 feature: Dynamic Media Classic,Asset Management
 role: User
 exl-id: 8dfcfb3f-6472-4efd-bc87-d5111eee45ce
-source-git-commit: 1d71cbe6e2493ac8d47e837a20e194b6ae7a22d4
+source-git-commit: ad5270545be502d3aaabba574353787622ab0445
 workflow-type: tm+mt
 source-wordcount: '3711'
 ht-degree: 0%
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 # Bestanden uploaden{#uploading-files}
 
-Voordat u elementbestanden uploadt naar Adobe Dynamic Media Classic, moet u controleren of de elementbestanden een juiste naam hebben en of de mapstructuur op de gewenste manier is ingesteld en ingedeeld. U kunt bestanden uploaden vanaf een door Adobe Dynamic Media Classic geleverde FTP-site of rechtstreeks vanaf uw computer of netwerk. Adobe Dynamic Media Classic biedt opties voor het optimaliseren van bestanden terwijl u deze uploadt. Als u Adobe Dynamic Media Classic-bureaubladtoepassing hebt geïnstalleerd, kunt u bestanden en mappen uploaden door deze rechtstreeks vanaf uw bureaublad te slepen. Zie [Algemene instellingen van toepassing](application-setup.md#general_settings).
+Voordat u elementbestanden uploadt naar Adobe Dynamic Media Classic, moet u controleren of de elementbestanden een juiste naam hebben en of de mapstructuur op de gewenste manier is ingesteld en ingedeeld. U kunt bestanden uploaden vanaf een door Adobe Dynamic Media Classic verschafte FTP-site of rechtstreeks vanaf uw computer of netwerk. Adobe Dynamic Media Classic biedt opties voor het optimaliseren van bestanden terwijl u deze uploadt. Als u Adobe Dynamic Media Classic-bureaubladtoepassing hebt geïnstalleerd, kunt u bestanden en mappen uploaden door deze rechtstreeks vanaf uw bureaublad te slepen. Zie [Algemene instellingen van toepassing](application-setup.md#general_settings).
 
 ## Elementen en mappen voorbereiden voor uploaden {#preparing-your-assets-and-folders-for-uploading}
 

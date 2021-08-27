@@ -1,6 +1,6 @@
 ---
 title: Een gemengde mediaset publiceren
-description: Leer hoe u een gemengde mediaset publiceert.
+description: Leer hoe u een gemengde mediaset publiceert vanuit Adobe Dynamic Media Classic.
 uuid: 4172347c-7bb3-468d-bda2-fd1c26ccab85
 contentOwner: admin
 content-type: reference
@@ -10,9 +10,9 @@ discoiquuid: 4e8694f7-c1b5-4d45-a18b-2b9494db1757
 feature: Dynamic Media Classic,Viewers,Mixed Media Sets
 role: User
 exl-id: 1fca9640-d127-454a-b3aa-b2ac82136e62
-source-git-commit: 1d71cbe6e2493ac8d47e837a20e194b6ae7a22d4
+source-git-commit: ad5270545be502d3aaabba574353787622ab0445
 workflow-type: tm+mt
-source-wordcount: '231'
+source-wordcount: '236'
 ht-degree: 0%
 
 ---
@@ -43,20 +43,20 @@ Last Modified Date:
 
 1. Voer een van de volgende handelingen uit:
 
-   * Klik in het deelvenster Bladeren op **[!UICONTROL Mark For Publish]** naast elke bestandsnaam die u wilt publiceren.
-   * Klik in het scherm Uploaden op **[!UICONTROL Mark For Publish]** naast elke bestandsnaam die u wilt publiceren.
+   * Selecteer **[!UICONTROL Mark For Publish]** naast elke bestandsnaam die u wilt publiceren in het deelvenster Bladeren.
+   * Selecteer **[!UICONTROL Mark For Publish]** naast elke bestandsnaam die u wilt publiceren in het scherm Uploaden.
 
-1. Klik op **[!UICONTROL Publish]** op de algemene navigatiebalk.
+1. Selecteer **[!UICONTROL Publish]** op de algemene navigatiebalk.
 1. Stel de gewenste planningsopties in.
 1. (Optioneel) Typ in het veld **[!UICONTROL Job Name]** een naam voor de publicatietaak.
 1. Selecteer **[!UICONTROL Video Server]** in de vervolgkeuzelijst **[!UICONTROL Advanced]** opties.**[!UICONTROL Publish To]**
 
    Zie [Geavanceerde publicatieopties](publishing-files.md#advanced_publish_options) voor meer opties u kunt plaatsen.
 
-1. Klik op **[!UICONTROL Submit Publish]**.
+1. Selecteer **[!UICONTROL Submit Publish]**.
 1. Herhaal bovenstaande stappen 2-4.
 1. Selecteer **[!UICONTROL Image Server]** in **[!UICONTROL Advanced]** in de vervolgkeuzelijst **[!UICONTROL Publish To]**.
 
    Zie [Geavanceerde publicatieopties](publishing-files.md#advanced_publish_options) voor meer opties u kunt plaatsen.
 
-1. Klik op **[!UICONTROL Submit Publish]**.
+1. Selecteer **[!UICONTROL Submit Publish]**.
