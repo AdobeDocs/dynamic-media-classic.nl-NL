@@ -10,9 +10,9 @@ discoiquuid: 5a073de3-6b1d-4c3e-8c03-9182f9f3874a
 feature: Dynamic Media Classic,Asset Management
 role: User
 exl-id: 02892514-61fe-48ba-a2e3-eeb30580a1e4
-source-git-commit: 1d71cbe6e2493ac8d47e837a20e194b6ae7a22d4
+source-git-commit: 3185824deca4d4b3c5549bda2e47f179094110e7
 workflow-type: tm+mt
-source-wordcount: '661'
+source-wordcount: '612'
 ht-degree: 0%
 
 ---
@@ -29,13 +29,13 @@ De opties voor het uploaden van PDF-bestanden staan op de pagina Uploaden onder 
 
 ### Verwerkingsopties
 
-**Rasteren**  - (Standaard) Hiermee worden de pagina&#39;s in het PDF-bestand gewist en worden vectorafbeeldingen naar bitmapafbeeldingen geconverteerd. Kies deze optie om een eCatalog te maken.
+**[!UICONTROL Rasterize]** - (Standaard) Hiermee worden de pagina&#39;s in het PDF-bestand weggesneden en worden vectorafbeeldingen naar bitmapafbeeldingen geconverteerd. Kies deze optie om een eCatalog te maken.
 
-**Woorden**  zoeken uitnemen - Hiermee worden woorden uit het PDF-bestand geëxtraheerd, zodat het bestand op trefwoord in een eCatalog-viewer kan worden doorzocht.
+**[!UICONTROL Extract Search Words]** - Extraheert woorden uit het PDF-bestand, zodat het bestand op trefwoord kan worden doorzocht in een eCatalog-viewer.
 
-**Koppelingen**  uitnemen - Hiermee worden koppelingen uit de PDF-bestanden geëxtraheerd en omgezet in afbeeldingen met hyperlinks die worden gebruikt in een eCatalog-viewer.
+**[!UICONTROL Extract Links]** - Extraheert koppelingen uit de PDF-bestanden en converteert deze naar Afbeeldingen met hyperlinks die worden gebruikt in een eCatalog-viewer.
 
-**Automatisch een eCatalog genereren met PDF** -bestand met meerdere pagina&#39;s - Automatisch een eCatalog maken van het PDF-bestand. De eCatalog wordt genoemd naar het Pdf- dossier u uploadde. (Deze optie is alleen beschikbaar als u het PDF-bestand rastert terwijl u het uploadt.)
+**[!UICONTROL Auto-Generate eCatalog With Multi-page PDF]** - Er wordt automatisch een eCatalog gemaakt van het PDF-bestand. De eCatalog wordt genoemd naar het Pdf- dossier u uploadde. (Deze optie is alleen beschikbaar als u het PDF-bestand rastert terwijl u het uploadt.)
 
 ### Resolutie
 
@@ -45,21 +45,21 @@ Hiermee bepaalt u de resolutie-instelling. Deze instelling bepaalt hoeveel pixel
 
 Selecteer het menu Kleurruimte en kies een kleurruimte voor het PDF-bestand. De meeste PDF-bestanden hebben zowel RGB- als CMYK-kleurenafbeeldingen. De RGB-kleurruimte heeft de voorkeur voor onlineweergave.
 
-* **Automatisch**  detecteren - De kleurruimte van het PDF-bestand blijft behouden.
+* **[!UICONTROL Detect Automatically]** - Behoudt de kleurruimte van het PDF-bestand.
 
-* **Krachten als RGB**  - Zet om in de RGB-kleurruimte.
+* **[!UICONTROL Force As RGB]** - Converteert naar de RGB-kleurruimte.
 
-* **Forceren als CMYK**  - Converteert naar de CMYK-kleurruimte.
+* **[!UICONTROL Force As CMYK]** - Converteert naar de CMYK-kleurruimte.
 
-* **Grijswaarden**  forceren - Zet om in de grijswaardenkleurruimte.
+* **[!UICONTROL Force As Grayscale]** - Converteert naar de grijswaardenkleurruimte.
 
 ### Opties voor kleurprofiel
 
-* **Omzetten in sRGB**  - Omzetten in sRGB (standaard rood-groen blauw). sRGB is de aanbevolen kleurruimte voor het weergeven van afbeeldingen op webpagina&#39;s.
+* **[!UICONTROL Convert To sRGB]** - Zet om in sRGB (standaard rood-groen blauw). sRGB is de aanbevolen kleurruimte voor het weergeven van afbeeldingen op webpagina&#39;s.
 
-* **Oorspronkelijke kleurruimte**  behouden - Behoudt de oorspronkelijke kleurruimte.
+* **[!UICONTROL Keep Original Color Space]** - Behoudt de oorspronkelijke kleurruimte.
 
-* **Aangepast van > naar**  - opent menu&#39;s zodat u een Omzetten van en Omzetten in kleurenruimte kunt kiezen. U kunt een standaard Photoshop-kleurruimte kiezen of een kleurruimte die u hebt geüpload naar Adobe Dynamic Media Classic.
+* **[!UICONTROL Custom From]** >  **[!UICONTROL To]** - Hiermee opent u menu&#39;s, zodat u een optie kunt kiezen voor Omzetten van en Omzetten in kleurruimte. U kunt een standaard Photoshop-kleurruimte kiezen of een kleurruimte die u hebt geüpload naar Adobe Dynamic Media Classic.
 
 Zie ook [ICC-profielen](/help/icc-profiles.md#icc_profiles).
 
@@ -68,23 +68,23 @@ Zie ook [ICC-profielen](/help/icc-profiles.md#icc_profiles).
 1. Als u pixels in witruimte automatisch wilt uitsnijden in een PDF-bestand terwijl u het uploadt, selecteert u het menu Uitsnijden en kiest u Bijsnijden.
 1. Geef de volgende opties op:
 
-   * **Wegsnijden op basis van**  - Kies of u wilt uitsnijden op basis van kleur of transparantie:
+   * **[!UICONTROL Trim Away Based On]** - Kies of u wilt uitsnijden op basis van kleur of transparantie:
 
-   * **Kleur**  - Kies de optie Kleur. Selecteer vervolgens het menu Hoek en kies de hoek van de PDF met de kleur die het beste overeenkomt met de kleur voor de witruimte die u wilt uitsnijden.
+      * **[!UICONTROL Color]** - Kies de optie Kleur. Selecteer vervolgens het menu **[!UICONTROL Corner]** en kies de hoek van de PDF met de kleur die het beste overeenkomt met de kleur van de witruimte die u wilt uitsnijden.
 
-   * **Transparantie**  - Kies de optie Transparantie.
+      * **[!UICONTROL Transparency]** - Kies de optie Transparantie.
+   * **[!UICONTROL Tolerance]** - Sleep de schuifregelaar om een tolerantie tussen 0 en 1 op te geven.
 
-   * **Tolerantie**  - Sleep de schuifregelaar om een tolerantie tussen 0 en 1 op te geven.
+   * **[!UICONTROL Trimming based on color]** - Geef 0 op om alleen pixels bij te snijden als deze exact overeenkomen met de kleur die u in de hoek van de PDF hebt geselecteerd. De aantallen dichter aan 1 staan voor meer kleurenverschil toe.
 
-   * **Bijsnijden op basis van kleur**  - Geef 0 op om alleen pixels bij te snijden als deze exact overeenkomen met de kleur die u in de hoek van de PDF hebt geselecteerd. De aantallen dichter aan 1 staan voor meer kleurenverschil toe.
+   * **[!UICONTROL Trimming based on transparency]** - Geef 0 op om pixels alleen uit te snijden als ze transparant zijn; De cijfers dichter aan 1 staan voor meer transparantie.
 
-   * **Bijsnijden op basis van transparantie**  - Geef 0 op om pixels alleen uit te snijden als ze transparant zijn. De cijfers dichter aan 1 staan voor meer transparantie.
 
 ## Uitsnijden vanaf de zijkanten van PDF-pagina&#39;s {#cropping-from-the-sides-of-pdf-pages}
 
 U kunt de drukkersmarkeringen handmatig van de zijkanten van de pagina&#39;s in een PDF-bestand verwijderen terwijl u het uploadt.
 
-1. Klik in het menu Uitsnijden op **[!UICONTROL Manual]**.
+1. Selecteer **[!UICONTROL Manual]** in het menu Uitsnijden.
 1. Geef pixelinstellingen op in de tekstvakken Boven, Rechts, Onder en Links om vanaf de bovenkant, onder en zijkanten van pagina&#39;s bij te snijden.
 
 Hoeveel van de pagina wordt bijgesneden, is afhankelijk van de resolutie PX/Inch-instelling die u voor het PDF-bestand hebt ingevoerd. Als u bijvoorbeeld 150 (de standaardinstelling) invoert als resolutie PX/Inch en 75 pixels van de zijkanten van pagina&#39;s bijsnijdt, wordt een halve inch bijgesneden. bij 150 pixels per inch is 75 pixels gelijk aan een halve inch.

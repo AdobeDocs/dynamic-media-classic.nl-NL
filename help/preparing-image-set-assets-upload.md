@@ -1,6 +1,6 @@
 ---
 title: Afbeeldingsset-elementen voorbereiden voor uploaden
-description: Leer hoe u elementen van Afbeeldingssets voorbereidt voor uploaden.
+description: Leer hoe u Image Set-elementen voorbereidt voor uploaden naar Adobe Dynamic Media Classic.
 uuid: ea90643f-f52f-43cd-8a74-ebffc78ab717
 contentOwner: admin
 content-type: reference
@@ -10,9 +10,9 @@ discoiquuid: c341f5ea-aa7b-4749-975d-68a45c6fa77c
 feature: Dynamic Media Classic,Viewers,Image Sets
 role: User
 exl-id: 63bc3b37-7d5f-4707-a743-ec4192c88f0b
-source-git-commit: 1d71cbe6e2493ac8d47e837a20e194b6ae7a22d4
+source-git-commit: 3185824deca4d4b3c5549bda2e47f179094110e7
 workflow-type: tm+mt
-source-wordcount: '155'
+source-wordcount: '160'
 ht-degree: 0%
 
 ---
@@ -29,6 +29,6 @@ Zie [Bestanden uploaden](uploading-files.md#uploading_files) voor gedetailleerde
 
 >[!MORELIKETHIS]
 >
->* [Bestanden uploaden](uploading-files.md#uploading_your_files)
+>* [Uw bestanden uploaden](uploading-files.md#uploading_your_files)
 >* [Werken met vignet-, venster- en kabinetsbestanden](vignette-window-covering-cabinet-files.md#working_with_vignette_window_covering_and_cabinet_files)
 
