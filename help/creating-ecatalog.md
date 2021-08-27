@@ -1,6 +1,6 @@
 ---
 title: Een eCatalog maken
-description: Leer hoe u een eCatalog maakt in Dynamic Media Classic.
+description: Leer hoe u een eCatalog maakt in Adobe Dynamic Media Classic.
 uuid: 2aff05c2-7052-426c-b61d-7f9091f7ace8
 contentOwner: admin
 content-type: reference
@@ -10,9 +10,9 @@ discoiquuid: 28889c60-596a-40d2-85d4-f48a4f86b932
 feature: Dynamic Media Classic,Viewers,eCatalog
 role: User
 exl-id: 51d411b2-b4bc-4cf6-afca-dd0ed0d219a1
-source-git-commit: 7be3f63bfadeafa71eeb2567f982f579ccb85975
+source-git-commit: 1d71cbe6e2493ac8d47e837a20e194b6ae7a22d4
 workflow-type: tm+mt
-source-wordcount: '914'
+source-wordcount: '911'
 ht-degree: 0%
 
 ---
@@ -96,7 +96,7 @@ Zie ook [Elementen handmatig publiceren](publishing-files.md#manually_publishing
 
 ## De inhoudsopgave aanpassen {#customizing-the-table-of-contents-toc}
 
-Dynamic Media Classic biedt standaardpaginanummers in uw eCatalog op het tabblad Order Pages van het eCatalog-scherm. Voor aangepaste paginanamen kunt u de paginalabels wijzigen die de inhoudsopgave vormen. Het wordt aanbevolen de naam van de voor- en achteromslag te wijzigen. De voorpagina kan bijvoorbeeld &quot;Omslag&quot; in plaats van &quot;Pagina 0-1&quot; lezen.
+Adobe Dynamic Media Classic biedt standaardpaginanummers in uw eCatalog op het tabblad Order Pages van het scherm eCatalog. Voor aangepaste paginanamen kunt u de paginalabels wijzigen die de inhoudsopgave vormen. Het wordt aanbevolen de naam van de voor- en achteromslag te wijzigen. De voorpagina kan bijvoorbeeld &quot;Omslag&quot; in plaats van &quot;Pagina 0-1&quot; lezen.
 
 U kunt handmatig een aangepaste inhoudsopgave (TOC) voor uw eCatalog maken of de paginanamen importeren vanuit een CSV- (alleen Mac) of XML-bestand.
 

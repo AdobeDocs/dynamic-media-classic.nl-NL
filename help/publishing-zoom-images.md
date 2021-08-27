@@ -7,19 +7,19 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/zoom
 discoiquuid: 34a99fd0-8148-41d4-843a-909637542dd9
-feature: Dynamic Media Klassiek,Viewers,Zoomen
+feature: Dynamic Media Classic,Viewers,Zoom
 role: User
 exl-id: 74cf0346-be79-4916-8a98-16865c3ba3de
-source-git-commit: df689ff5a127bfbc400ca5331168d1ff7bb0b42e
+source-git-commit: 1d71cbe6e2493ac8d47e837a20e194b6ae7a22d4
 workflow-type: tm+mt
-source-wordcount: '144'
+source-wordcount: '140'
 ht-degree: 0%
 
 ---
 
 # Zoomafbeeldingen publiceren{#publishing-zoom-images}
 
-Bij het publiceren worden uw zoomafbeeldingen op Dynamic Media Image Servers geplaatst, zodat ze beschikbaar kunnen worden gesteld op uw website en toepassing. Als onderdeel van het publicatieproces activeert Dynamic Media Classic de URL-tekenreeksen. U kunt deze URL-tekenreeksen in de HTML-code van uw website plaatsen.
+Bij het publiceren worden uw zoomafbeeldingen op Dynamic Media Image Servers geplaatst, zodat ze beschikbaar kunnen worden gesteld op uw website en toepassing. Als onderdeel van het publicatieproces activeert Adobe Dynamic Media Classic de URL-tekenreeksen. U kunt deze URL-tekenreeksen in de HTML-code van uw website plaatsen.
 
 ## Afbeeldingen markeren voor publicatie {#marking-images-for-publish}
 

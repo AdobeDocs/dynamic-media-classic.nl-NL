@@ -1,6 +1,6 @@
 ---
 title: Bron- en gecodeerde video's exporteren
-description: Leer hoe u bron- en gecodeerde video's exporteert in Dynamic Media Classic.
+description: Leer hoe u bron- en gecodeerde video's exporteert in Adobe Dynamic Media Classic.
 uuid: 17511bdf-27b7-41e1-bf39-a5e39f55f5d8
 contentOwner: admin
 content-type: reference
@@ -10,9 +10,9 @@ discoiquuid: f6a2dc19-7eb5-41f7-b6f2-de1979ed1d4e
 feature: Dynamic Media Classic,Viewers,Video
 role: User
 exl-id: fab1f618-5370-4049-b6e0-69264afa933c
-source-git-commit: 20a5e54a9f3fa442d3a993afae07aa5b1b13e9c3
+source-git-commit: 1d71cbe6e2493ac8d47e837a20e194b6ae7a22d4
 workflow-type: tm+mt
-source-wordcount: '69'
+source-wordcount: '71'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 In het deelvenster Bladeren krijgen bronvideo&#39;s het label &quot;Master video&quot;. Gecodeerde video&#39;s krijgen het label &quot;Video.&quot; U kunt bronvideo&#39;s en master video&#39;s exporteren. Als u videobestanden wilt exporteren, selecteert u deze in het deelvenster Bladeren en gaat u naar **[!UICONTROL File]** > **[!UICONTROL Export]**.
 
-Zie [Elementen exporteren uit Dynamic Media Classic](exporting-assets-from-dmc.md#exporting-assets-from-dmc).
+Zie [Elementen exporteren uit Adobe Dynamic Media Classic](exporting-assets-from-dmc.md#exporting-assets-from-dmc).
 
 >[!MORELIKETHIS]
 >

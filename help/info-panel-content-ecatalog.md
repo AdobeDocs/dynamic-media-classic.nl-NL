@@ -1,6 +1,6 @@
 ---
 title: Inhoud van deelvenster Info in eCatalogs beheren
-description: Leer hoe u de inhoud van het deelvenster Info in eCatalogs in Dynamic Media Classic beheert.
+description: Leer hoe u de inhoud van het deelvenster Info in eCatalogs in Adobe Dynamic Media Classic beheert.
 uuid: 5aa634f9-0874-4bb5-a3d9-8ce4d5577941
 contentOwner: admin
 content-type: reference
@@ -10,9 +10,9 @@ discoiquuid: be277831-77cc-4011-ae30-e75c18eec99b
 feature: Dynamic Media Classic,Viewers,eCatalog
 role: User
 exl-id: bfb9c5a4-5068-4adb-9fe2-a4ead8656289
-source-git-commit: bb387446f294cf1e90d26ae1df4422879ad29db7
+source-git-commit: 1d71cbe6e2493ac8d47e837a20e194b6ae7a22d4
 workflow-type: tm+mt
-source-wordcount: '837'
+source-wordcount: '841'
 ht-degree: 1%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 1%
 
 Naast het gebruiken van de tekst van de Kaart van het Beeld voor uw rollovers in eCatalogs, kunt u een Comité van Info gebruiken om grotere hoeveelheden het omvergooientekst, met inbegrip van verbindingen toe te voegen. U kunt het InfoPanel ook beheren door getimed caching te gebruiken en inhoudsupdates te plannen.
 
-U kunt de InfoPanel-instellingen en -gegevens beheren met de volgende functies in Dynamic Media Classic:
+U kunt de InfoPanel opstelling en gegevens beheren gebruikend de volgende eigenschappen in Adobe Dynamic Media Klassiek:
 
 * In het deelvenster InfoPanel Setup kunt u de sjabloon opgeven die wordt gebruikt om de tekst in het deelvenster Info weer te geven, een standaardreactie voor fouten en het aantal uren dat de informatie in de cache wordt opgeslagen. Bovendien kunt u opgeven of de eCatalogs automatisch worden gepubliceerd.
 * In het deelvenster InfoPanel-gegevensinvoer kunt u een CSV-bestand opgeven met de tekst die u wilt weergeven in de rollovertekst van InfoPanel en de tijdstippen voor het bijwerken van de informatie.
@@ -45,7 +45,7 @@ U kunt een van de drie vooraf ingestelde reactiesjablonen selecteren om tekst we
    * Selecteer een voorinstelling in het menu Reactiesjabloon. De XML voor het sjabloonontwerp wordt weergegeven in het vak Sjabloon gebruiker.
    * Als u uw eigen reactiesjabloon wilt maken, selecteert u **[!UICONTROL Custom]**. Typ de XML-definitie van de sjabloon in het vak Sjabloon gebruiker. U kunt de vooraf ingestelde malplaatjes als basis voor uw gebruiken.
 
-1. (Optioneel) Typ in het vak Standaardreactie de tekst die u wilt weergeven als bij Dynamic Media Classic een fout optreedt bij het ophalen van informatie voor een afbeeldingskaart. Als het systeem bijvoorbeeld een bedrijfsnaam en een eCatalog-naam ontvangt, maar geen rollover-id, wordt dit bericht voor de gebruiker weergegeven.
+1. (Optioneel) Typ in het vak Standaardreactie de tekst die u wilt weergeven als bij Adobe Dynamic Media Classic een fout optreedt bij het ophalen van informatie voor een afbeeldingskaart. Als het systeem bijvoorbeeld een bedrijfsnaam en een eCatalog-naam ontvangt, maar geen rollover-id, wordt dit bericht voor de gebruiker weergegeven.
 1. Voer in het vak TTL-antwoord het aantal uren in dat u wilt wachten voordat u de gegevens in cache plaatst:
 
    * Stel een lager getal in als de gegevens vaak gedurende een dag worden bijgewerkt.
@@ -89,7 +89,7 @@ Last Modified Date:
 1. Selecteer **[!UICONTROL Browse]**, selecteer het tab-delimited TXT- dossier, CSV, of Ssv- dossier u wilt gebruiken, en selecteer **[!UICONTROL Open]**.
 1. Selecteer **[!UICONTROL Upload]**.
 
-Dynamic Media Classic stuurt u een e-mailbericht met de mededeling of het uploaden is gelukt of niet.
+Adobe Dynamic Media Classic stuurt u een e-mailbericht met de mededeling of het uploaden is gelukt of niet.
 
 ## Voorvertoning van de rollover-sleuteltekst voor een afbeelding met hyperlinks {#preview-rollover-key-text-for-an-image-map}
 

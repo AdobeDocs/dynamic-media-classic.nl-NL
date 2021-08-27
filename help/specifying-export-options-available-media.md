@@ -6,12 +6,12 @@ contentOwner: admin
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 discoiquuid: 9bfd95da-3714-4e38-98af-331a04c685f5
-feature: Dynamic Media Classic,Samenwerking,Asset Management
+feature: Dynamic Media Classic,Collaboration,Asset Management
 role: Admin,User
 exl-id: c27df6c2-76f4-441c-bd26-cee98203291e
-source-git-commit: df689ff5a127bfbc400ca5331168d1ff7bb0b42e
+source-git-commit: 1d71cbe6e2493ac8d47e837a20e194b6ae7a22d4
 workflow-type: tm+mt
-source-wordcount: '368'
+source-wordcount: '363'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ De volgende twee beperkingen gelden als u afbeeldingselementen exporteert via ee
 * Het gecomprimeerde Zip-exportbestand heeft een maximale bestandsgrootte van 1 GB voor de exporttaak.
 * Per exporttaak kunt u maximaal 500 elementen in totaal gebruiken.
 
-Zie ook [Elementen exporteren uit Dynamic Media Classic](exporting-assets-from-dmc.md#exporting-assets-from_dmc).
+Zie ook [Elementen exporteren uit Adobe Dynamic Media Classic](exporting-assets-from-dmc.md#exporting-assets-from_dmc).
 
 **U kunt als volgt exportopties opgeven die beschikbaar zijn voor gebruikers van Media Portal:**
 
@@ -43,5 +43,5 @@ Zie ook [Elementen exporteren uit Dynamic Media Classic](exporting-assets-from-d
 >[!MORELIKETHIS]
 >
 >* [Voorinstellingen afbeelding](application-setup.md#image_presets)
-* [Toegangsrechten voor een groep kiezen voor Voorinstelling afbeelding](creating-media-portal-groups.md#choosing_image_preset_access_permissions_for_a_group)
+>* [Toegangsrechten voor een groep kiezen voor Voorinstelling afbeelding](creating-media-portal-groups.md#choosing_image_preset_access_permissions_for_a_group)
 

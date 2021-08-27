@@ -1,6 +1,6 @@
 ---
 title: Zoomdoelen maken voor zoomen met instructies
-description: Leer hoe u zoomdoelen maakt voor Bewerken met instructies-zoomfunctie in Dynamic Media Classic.
+description: Leer hoe u zoomdoelen maakt voor Inzoomen met instructies in Adobe Dynamic Media Classic.
 uuid: 501ea37b-adc5-4290-87eb-52a3501e5d26
 contentOwner: admin
 content-type: reference
@@ -10,9 +10,9 @@ discoiquuid: e7b4673c-8681-4741-912e-9a31cf106449
 feature: Dynamic Media Classic,Viewers,Zoom
 role: User
 exl-id: ffb799ba-1cf1-48e0-91a8-dea758139140
-source-git-commit: 976f739e5233ae9da24b06cffa729353a7d03c46
+source-git-commit: 1d71cbe6e2493ac8d47e837a20e194b6ae7a22d4
 workflow-type: tm+mt
-source-wordcount: '704'
+source-wordcount: '705'
 ht-degree: 0%
 
 ---
@@ -38,7 +38,7 @@ U kunt de grootte van de zoomviewer aanpassen aan de grootte die op uw webpagina
 
 Maak en bewerk zoomdoelen op het scherm Zoomdoeleditor. Selecteer een afbeelding en voer een van de volgende handelingen uit om dit scherm te openen:
 
-* Selecteer de rollover **[!UICONTROL Edit]** en kies Zoomdoelen.
+* Selecteer de rollover **[!UICONTROL Edit]** knop en kies Zoomdoelen.
 * Geef in het deelvenster Bladeren de afbeelding weer in **[!UICONTROL Detail View]** en selecteer **[!UICONTROL Zoom Targets]**.
 
 Selecteer **[!UICONTROL Select Target]** (pijl) in het scherm Zoomdoeleditor om een doel te selecteren voordat u de grootte of positie wijzigt. Selecteer **[!UICONTROL Add Targets]** (rechthoek) om een zoomdoel op de afbeelding te maken. De pagina Zoomdoel-editor bevat ook gereedschappen voor het verwijderen, kopiëren en benoemen van zoomdoelen.

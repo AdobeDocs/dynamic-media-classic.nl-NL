@@ -1,6 +1,6 @@
 ---
 title: Beheerinstellingen
-description: Leer hoe u het beheergebied van Dynamic Media Classic instelt.
+description: Leer hoe u het beheergebied van Adobe Dynamic Media Classic instelt.
 uuid: 16ba9fed-b5c6-4991-83b3-8d7d7129013a
 contentOwner: admin
 content-type: reference
@@ -9,9 +9,9 @@ discoiquuid: 3c9ee4ec-dd37-498d-98d6-1339b80177ff
 feature: Dynamic Media Classic
 role: Admin
 exl-id: 14e3d8be-f265-4cec-aa8e-19ef71526b68
-source-git-commit: 1d30c98b76ebe78ff60bae87bd112de7a577182d
+source-git-commit: 1d71cbe6e2493ac8d47e837a20e194b6ae7a22d4
 workflow-type: tm+mt
-source-wordcount: '1824'
+source-wordcount: '1842'
 ht-degree: 0%
 
 ---
@@ -20,25 +20,25 @@ ht-degree: 0%
 
 # Instellingen voor beheer{#administration-setup}
 
-De schermen van de Opstelling van het Beleid zijn voor het beheren van de Klassieke gebruikers van Dynamic Media. Gebruik deze schermen om gebruikers in Dynamic Media Classic te laten werken en via e-mail met gebruikers te communiceren.
+De schermen van de Opstelling van het Beleid zijn voor het beheer van Adobe Dynamic Media Klassieke gebruikers. Gebruik deze schermen om gebruikers in Adobe Dynamic Media Classic te laten werken en via e-mail met gebruikers te communiceren.
 
 1. Om tot de opties van de Opstelling van het Beleid toegang te hebben, ga **Opstelling** > **Persoonlijke Opstelling** > **Opstelling van het Beleid**.
 
 ## Gebruikersbeheer {#user-administration}
 
-Alle Dynamic Media Classic-gebruikers krijgen een rol toegewezen die hun rechten en toegangsrechten voor functies in Dynamic Media Classic bepaalt. De beheerders bepalen de verschillende rollen en verantwoordelijkheden voor de bedrijven waaraan zij worden toegewezen.
+Alle Adobe Dynamic Media Classic gebruikers krijgen een rol toegewezen die hun rechten en toegangsrechten voor functies in Adobe Dynamic Media Classic bepaalt. De beheerders bepalen de verschillende rollen en verantwoordelijkheden voor de bedrijven waaraan zij worden toegewezen.
 
-Dynamic Media Classic configureert doorgaans de eerste reeks bedrijven en wijst een bedrijfsbeheerder toe. De bedrijfbeheerder plaatst dan opstelling en beheert de Klassieke gebruikers van Dynamic Media.
+Adobe Dynamic Media Classic configureert doorgaans de eerste reeks bedrijven en wijst een bedrijfsbeheerder toe. De bedrijfbeheerder plaatst dan opstelling en beheert Adobe Dynamic Media Klassieke gebruikers.
 
-Dynamic Media Classic ondersteunt verschillende gebruikersrollen. Deze rollen kunnen tot bedrijven toegang hebben die voor Dynamic Media Classic worden gevestigd:
+Adobe Dynamic Media Classic ondersteunt verschillende gebruikersrollen. Deze rollen kunnen tot bedrijven toegang hebben die voor de Adobe Dynamic Media Classic worden gevestigd:
 
-<!-- **Adobe Dynamic Media Classic Administrator** Can view and administer all features in Dynamic Media Classic, as well as set up companies and add administrators and users. -->
+<!-- **Adobe Dynamic Media Classic Administrator** Can view and administer all features in Adobe Dynamic Media Classic, as well as set up companies and add administrators and users. -->
 
 **Adobe Dynamic Media Classic** UserCan heeft toegang tot bedrijven waaraan zij zijn toegewezen; geen administratieve taken kan vervullen.
 
 **Adobe Dynamic Media Classic Company** AdminCan bekijkt en beheert alleen hun eigen bedrijven. Een beheerder van het Bedrijf kan alle beleidsfuncties ook uitvoeren, met inbegrip van het toevoegen van beheerders en gebruikers. Een bedrijfsbeheerder kan een gebruiker toevoegen aan de DMC-bedrijfsbeheeraccounts. (Deze rol is de standaardgebruikersrol.)
 
-Nadat u een gebruiker hebt toegevoegd, stuurt Dynamic Media Classic een welkomstbericht naar de gebruiker. Het bericht bevat een wachtwoord en de Klassieke URL van Dynamic Media.
+Nadat u een gebruiker hebt toegevoegd, stuurt Adobe Dynamic Media Classic een welkomstbericht naar de gebruiker. Het bericht bevat een wachtwoord en de Klassieke URL van Adobe Dynamic Media.
 
 ### Een gebruiker of beheerder toevoegen {#adding-a-user-or-administrator}
 
@@ -52,7 +52,7 @@ Nadat u een gebruiker hebt toegevoegd, stuurt Dynamic Media Classic een welkomst
 
 1. Als u een rol aan de gebruiker wilt toewijzen, kiest u een optie Rol.
 
-   Zie [Dynamic Media Classic user rollen and privileges](administration-setup.md#user_administration).
+   Zie [Adobe Dynamic Media Classic gebruikersrollen en privileges](administration-setup.md#user_administration).
 
 1. Als u een gebruiker aan een bedrijf wilt toevoegen, selecteert u een bedrijfsnaam.
 1. Als u de gebruiker aan een groep wilt toevoegen (als u een gebruiker of een medewerker van het Portaal van Media toevoegt), uitgezocht **[!UICONTROL Next]** en de gebruiker toevoegen.
@@ -60,17 +60,17 @@ Nadat u een gebruiker hebt toegevoegd, stuurt Dynamic Media Classic een welkomst
 
    Na het bewaren, vraagt een herinnering of wilt u een gebruiker aan een ander bedrijf toevoegen. Selecteer **[!UICONTROL Add]** als u de gebruiker aan een bedrijf wilt toevoegen.
 
-   Alle nieuwe gebruikers krijgen een willekeurig gegenereerd wachtwoord. gebruikers moeten de wachtwoorden wijzigen wanneer zij zich voor het eerst aanmelden bij de Dynamic Media Classic-bureaubladtoepassing.
+   Alle nieuwe gebruikers krijgen een willekeurig gegenereerd wachtwoord. gebruikers moeten de wachtwoorden wijzigen wanneer zij zich voor het eerst aanmelden bij de Adobe Dynamic Media Classic-bureaubladtoepassing.
 
-   Nieuwe gebruikers krijgen een welkomstbericht nadat u ze hebt toegevoegd. Het e-mailbericht bevat een tijdelijk wachtwoord en legt uit hoe u zich kunt aanmelden bij Dynamic Media Classic.
+   Nieuwe gebruikers krijgen een welkomstbericht nadat u ze hebt toegevoegd. Het e-mailbericht bevat een tijdelijk wachtwoord en legt uit hoe u zich kunt aanmelden bij Adobe Dynamic Media Classic.
 
-   Als de gebruiker de welkomstmail niet ontvangt, moet u deze naar de Dynamic Media Classic-aanmeldpagina (https://s7sps1.scene7.com) laten gaan en **[!UICONTROL Forgot My Password]** selecteren. Het wachtwoord wordt opnieuw ingesteld en er wordt een nieuwe e-mail verzonden. Neem contact op met Technische ondersteuning als de gebruiker geen e-mail ontvangt en deze zich niet in de map Junk bevindt.
+   Als de gebruiker de welkomstmail niet ontvangt, moet u deze naar de Adobe Dynamic Media Classic-aanmeldpagina (https://s7sps1.scene7.com) laten gaan en **[!UICONTROL Forgot My Password]** selecteren. Het wachtwoord wordt opnieuw ingesteld en er wordt een nieuwe e-mail verzonden. Neem contact op met Technische ondersteuning als de gebruiker geen e-mail ontvangt en deze zich niet in de map Junk bevindt.
 
    Wanneer u nieuwe gebruikers van Media Portal toevoegt, kunt u ook naar **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL User Administration]** gaan, dan **[!UICONTROL Upload User List]** selecteren en een .csv-bestand selecteren dat niet meer dan 500 gebruikers bevat.
 
 ### Een gebruiker verwijderen {#deleting-a-user}
 
-U kunt gebruikers verwijderen uit Dynamic Media Classic door ze ongeldig te maken. Ongeldige gebruikers worden uit het systeem en alle accounts verwijderd.
+U kunt gebruikers verwijderen uit Adobe Adobe Dynamic Media Classic door ze ongeldig te maken. Ongeldige gebruikers worden uit het systeem en alle accounts verwijderd.
 
 1. Ga naar **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Administration Setup]** > **[!UICONTROL User Administration]**.
 1. Selecteer een gebruiker in de lijst en selecteer **[!UICONTROL Edit]**.
@@ -113,13 +113,13 @@ U kunt de volgende filtertechnieken voor gebruikerslijsten gebruiken:
 
 Als u veel gebruikers hebt, kunt u de grootte van de lijst beperken door het menu Maximale lijstgrootte te selecteren en een aantal te kiezen.
 
-<!-- CQDOC-16690 TOPIC REMOVED AS PER JIRA TICKET INSTRUCTIONS ### Linking an IMS user identity to a Dynamic Media Classic IPS user account {#linking-an-ims-user-identity-to-a-scene-ips-user-account}
+<!-- CQDOC-16690 TOPIC REMOVED AS PER JIRA TICKET INSTRUCTIONS ### Linking an IMS user identity to a Adobe Dynamic Media Classic IPS user account {#linking-an-ims-user-identity-to-a-scene-ips-user-account}
 
-You can link an Adobe IMS user identity to a Dynamic Media Classic IPS user account so you can use SSO (Single Sign On) to log on and launch Scene7 Publishing System from within Adobe Marketing Cloud.
+You can link an Adobe IMS user identity to a Adobe Dynamic Media Classic IPS user account so you can use SSO (Single Sign On) to log on and launch Scene7 Publishing System from within Adobe Marketing Cloud.
 
 1. Adobe should already have setup your account with an Adobe Marketing Cloud organization and linked it to your Scene7 Publishing System product context. If this setup is not yet done or you are unsure if it has been done, contact Adobe Customer Care.
 
-   When the setup is complete, you can can log on to Adobe Marketing Cloud and link your Adobe Marketing Cloud identity to your Dynamic Media Classic user account by doing the following.
+   When the setup is complete, you can can log on to Adobe Marketing Cloud and link your Adobe Marketing Cloud identity to your Adobe Dynamic Media Classic user account by doing the following.
 
 1. In Adobe Marketing Cloud, navigate to your account settings.
 1. Select **Manage Organizations**.
@@ -133,7 +133,7 @@ You can link an Adobe IMS user identity to a Dynamic Media Classic IPS user acco
 
    Do one of the following:
 
-    * To launch Dynamic Media Classic from within Adobe Marketing Cloud, in the left rail of Adobe Marketing Cloud, select **Solutions** > **Experience Manager**. Under the Dynamic Media Classic card, select **Launch**.
+    * To launch Adobe Dynamic Media Classic from within Adobe Marketing Cloud, in the left rail of Adobe Marketing Cloud, select **Solutions** > **Experience Manager**. Under the Adobe Dynamic Media Classic card, select **Launch**.
     * To log on to Scene7 Publishing System directly using your IMS credentials, use the following website:
 
       https://s7spsN.scene7.com/IpsWeb?ims=1
@@ -143,7 +143,7 @@ You can link an Adobe IMS user identity to a Dynamic Media Classic IPS user acco
 
 ## Bandbreedte en opslag {#bandwidth-storage}
 
-De Klassieke Beheerders van Dynamic Media kunnen bandbreedte, opslag, en andere soorten rapporten voor de bedrijven produceren zij beheren. Deze rapporten zijn beschikbaar op de pagina Bandbreedte &amp; Opslag.
+De Klassieke Beheerders van Adobe Dynamic Media kunnen bandbreedte, opslag, en andere soorten rapporten voor de bedrijven produceren zij beheren. Deze rapporten zijn beschikbaar op de pagina Bandbreedte &amp; Opslag.
 
 Ga naar **[!UICONTROL Setup]** > **[!UICONTROL Personal Setup]** om deze pagina te openen. Vouw **[!UICONTROL Administration Setup]** uit en selecteer **[!UICONTROL Bandwidth & Storage]**.
 
@@ -156,7 +156,7 @@ In de volgende tabel worden de rapporten beschreven die u kunt genereren op de p
 | Bandbreedte | Bandbreedtegebruik door bedrijf | Het bandbreedtegebruik van het spoor door bedrijf over specifieke datumwaaiers om verkeerspatronen te bepalen. |
 | Opslag | Opslaggebruik | Houd de hoeveelheid gegevens bij die door het bedrijf is geüpload. |
 | Afbeeldingsinhoud | Het aantal aanvragen voor afbeeldingen per type | Houd het aantal aanvragen en het volume voor verschillende afbeeldingstypen bij. |
-| Domein | Het aantal URL-aanvragen per domein | Gebruik van afbeeldingen bijhouden op basis van het domein van het verzoek om een afbeelding voor een bepaald bedrijf. (Dynamic Media Classic kan meerdere domeinen per account bieden. Neem voor meer informatie contact op met de Technische ondersteuning.) |
+| Domein | Het aantal URL-aanvragen per domein | Gebruik van afbeeldingen bijhouden op basis van het domein van het verzoek om een afbeelding voor een bepaald bedrijf. (Adobe Dynamic Media Classic kan meer dan één domein per account bieden. Neem voor meer informatie contact op met de Technische ondersteuning.) |
 | Videostreaming | Bandbreedtegebruik voor het streamen van video | Het stromen videogebruik van het spoor door bedrijf over specifieke datumwaaiers om verkeerspatronen te bepalen. |
 | Video-inhoud | Afspeeltijd van verschillende video&#39;s | Bepaal welke de meest bekeken en minst bekeken video&#39;s zijn. |
 
@@ -216,7 +216,7 @@ Nadat u een rapport hebt gegenereerd, kunt u de gegevens exporteren voor gebruik
 
 ## Afbeeldingsfouten {#image-errors}
 
-Klassieke Dynamic Media-beheerders kunnen rapporten met afbeeldingsfouten genereren. Een rapport van de Fout van het Beeld verstrekt een lijst van de 20 meest frequente beeldfouten, voor de afgelopen 24 uren, voor het bedrijf u momenteel het programma wordt geopend aan. Ga als volgt te werk om een rapport Afbeeldingsfout te genereren:
+Adobe Dynamic Media Classic-beheerders kunnen rapporten met afbeeldingsfouten genereren. Een rapport van de Fout van het Beeld verstrekt een lijst van de 20 meest frequente beeldfouten, voor de afgelopen 24 uren, voor het bedrijf u momenteel het programma wordt geopend aan. Ga als volgt te werk om een rapport Afbeeldingsfout te genereren:
 
 1. Ga naar **[!UICONTROL Setup]** > **[!UICONTROL Personal Setup]**.
 1. Breid de Opstelling van het Beleid uit, en selecteer dan **[!UICONTROL Image Errors]**.
@@ -238,7 +238,7 @@ De weergegeven fouten gelden voor het bedrijf waarvoor u momenteel bent aangemel
 
 * **Response**  - Het specifieke foutbericht. Fouten zijn 4xx of 5xx.
 
-* **URL&#39;s** : geeft de URL weer naar de afbeelding in Dynamic Media Classic.
+* **URL&#39;s**  - Hiermee geeft u de URL weer naar de afbeelding op Adobe Dynamic Media Classic.
 
 * **Referrer**  - Geeft de URL op voor de website waar de oorspronkelijke aanvraag vandaan komt. De referentie kan elke website zijn die een koppeling naar de afbeelding heeft.
 

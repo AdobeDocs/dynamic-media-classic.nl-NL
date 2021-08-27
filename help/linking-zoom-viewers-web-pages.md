@@ -1,47 +1,47 @@
 ---
 title: Zoomviewers koppelen aan uw webpagina's
-description: Leer hoe u zoomviewers kunt koppelen aan uw webpagina's.
+description: Leer hoe u zoomviewers koppelt aan uw webpagina's in Adobe Dynamic Media Classic.
 contentOwner: admin
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/zoom
-feature: Dynamic Media Klassiek,Viewers,Zoomen
+feature: Dynamic Media Classic,Viewers,Zoom
 role: User
 exl-id: 2073d95b-1600-481f-8038-d29e8acacf7d
-source-git-commit: df689ff5a127bfbc400ca5331168d1ff7bb0b42e
+source-git-commit: 1d71cbe6e2493ac8d47e837a20e194b6ae7a22d4
 workflow-type: tm+mt
-source-wordcount: '614'
+source-wordcount: '621'
 ht-degree: 0%
 
 ---
 
 # Zoomviewers koppelen aan uw webpagina&#39;s{#linking-zoom-viewers-to-your-web-pages}
 
-Via URL-tekenreeksen of ingesloten code krijgen uw websites en toepassingen toegang tot Dynamic Media Image Server-inhoud, inclusief master afbeeldingen en de bijbehorende zoomdoelen en Voorinstellingen voor de zoomviewer. Deze URL-tekenreeksen worden geactiveerd tijdens het publicatieproces. Als u deze URL-tekenreeksen of de ingesloten code op uw webpagina&#39;s en toepassingen wilt plaatsen, kopieert u deze vanuit Dynamic Media Classic.
+Via URL-tekenreeksen of ingesloten code krijgen uw websites en toepassingen toegang tot Dynamic Media Image Server-inhoud, inclusief master afbeeldingen en de bijbehorende zoomdoelen en Voorinstellingen voor de zoomviewer. Deze URL-tekenreeksen worden geactiveerd tijdens het publicatieproces. Als u deze URL-tekenreeksen of de ingesloten code op uw webpagina&#39;s en toepassingen wilt plaatsen, kopieert u deze vanuit Adobe Dynamic Media Classic.
 
 >[!NOTE]
 >
 >De URL is pas actief als u het element publiceert.
 
-## URL van een zoomviewer kopiëren {#copying-a-zoom-viewer-url}
+## Een zoomviewer-URL kopiëren {#copying-a-zoom-viewer-url}
 
 1. Navigeer in het deelvenster Elementenbibliotheek aan de linkerkant naar de elementenmap die de zoomviewer bevat waarvan u de URL wilt kopiëren.
 1. Voer boven het deelvenster Asset Browse een van de volgende handelingen uit aan de rechterkant van de werkbalk:
 
-   * Klik op **[!UICONTROL Grid View]** of **[!UICONTROL List View]**. Dubbelklik in het deelvenster Asset Browse op één element om dit te openen in de gedetailleerde weergave. Klik in de URL&#39;s en het deelvenster Code insluiten rechts van de gewenste viewer op **[!UICONTROL Copy URL]**.
-   * Klik op **[!UICONTROL Grid View]**. Selecteer in het deelvenster Asset Browse één element en klik vervolgens onder de miniatuurafbeelding op **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]**.
+   * Selecteer **[!UICONTROL Grid View]** of **[!UICONTROL List View]**. Dubbelklik in het deelvenster Asset Browse op één element om dit te openen in de gedetailleerde weergave. Selecteer **[!UICONTROL Copy URL]** rechts van de gewenste viewer in de URL&#39;s en het deelvenster Code insluiten.
+   * Selecteer **[!UICONTROL Grid View]**. Selecteer in het deelvenster Asset Browse één element en ga vervolgens onder de miniatuurafbeelding naar **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]**.
 
-      Klik op **[!UICONTROL Copy URL]** onder de kolom Handelingen van de tabel in de Viewer List.
+      Selecteer **[!UICONTROL Copy URL]** onder de kolom Acties van de tabel in de Viewer List.
 
-   * Klik op **[!UICONTROL List View]**. Selecteer één element in het deelvenster Asset Browse en klik vervolgens rechts van de miniatuurafbeelding op **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]**.
+   * Selecteer **[!UICONTROL List View]**. Selecteer in het deelvenster Asset Browse één element en ga vervolgens rechts van de miniatuurafbeelding naar **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]**.
 
-      Klik op **[!UICONTROL Copy URL]** onder de kolom Handelingen van de tabel in de Viewer List.
+      Selecteer **[!UICONTROL Copy URL]** onder de kolom Acties van de tabel in de Viewer List.
 
-   * Klik **[!UICONTROL Grid View]**, **[!UICONTROL List View]**, of **[!UICONTROL Detail View]**. Klik op **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]** op dezelfde werkbalk.
+   * Selecteer **[!UICONTROL Grid View]**, **[!UICONTROL List View]** of **[!UICONTROL Detail View]**. Ga op dezelfde werkbalk naar **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]**.
 
-      Klik op **[!UICONTROL Copy URL]** onder de kolom Handelingen van de tabel in de Viewer List.
+      Selecteer **[!UICONTROL Copy URL]** onder de kolom Acties van de tabel in de Viewer List.
 
-## URL&#39;s van zoomviewers toevoegen aan uw webpagina {#adding-zoom-viewer-urls-to-your-web-page}
+## URL&#39;s voor zoomviewers toevoegen aan uw webpagina {#adding-zoom-viewer-urls-to-your-web-page}
 
 Doorgaans zoomen bezoekers op afbeeldingen op een website door eerst een zoompictogram te selecteren (vaak wordt met het pictogram de afbeelding van een vergrootglas weergegeven). Als u dit pictogram selecteert, wordt een dynamische webpagina (ASP of JSP) gestart die de afbeelding in een pop-upvenster weergeeft. In het pop-upvenster zoomen bezoekers daadwerkelijk op de afbeelding.
 
@@ -56,21 +56,21 @@ Met de functie Code insluiten kunt u de viewercode voor de geselecteerde zoomvie
 1. Navigeer in het deelvenster Elementenbibliotheek aan de linkerkant naar de elementenmap die de zoomviewer bevat waarvan u de insluitcode wilt kopiëren.
 1. Voer boven het deelvenster Asset Browse een van de volgende handelingen uit aan de rechterkant van de werkbalk:
 
-   * Klik op **[!UICONTROL Grid View]**. Dubbelklik in het deelvenster Asset Browse op één element om dit te openen in de gedetailleerde weergave. Klik in de URL&#39;s en het deelvenster Code insluiten rechts van de gewenste viewer op **[!UICONTROL Embed Code]**.
-   * Klik op **[!UICONTROL Grid View]**. Selecteer in het deelvenster Asset Browse één element en klik vervolgens onder de miniatuurafbeelding op **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]**.
+   * Selecteer **[!UICONTROL Grid View]**. Dubbelklik in het deelvenster Asset Browse op één element om dit te openen in de gedetailleerde weergave. Selecteer **[!UICONTROL Embed Code]** rechts van de gewenste viewer in de URL&#39;s en het deelvenster Code insluiten.
+   * Selecteer **[!UICONTROL Grid View]**. Selecteer in het deelvenster Asset Browse één element en ga vervolgens onder de miniatuurafbeelding naar **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]**.
 
-      Klik op **[!UICONTROL Embed Code]** onder de kolom Handelingen van de tabel in de Viewer List.
+      Selecteer **[!UICONTROL Embed Code]** onder de kolom Acties van de tabel in de Viewer List.
 
-   * Klik op **[!UICONTROL List View]**. Selecteer één element in het deelvenster Asset Browse en klik vervolgens rechts van de miniatuurafbeelding op **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]**.
+   * Selecteer **[!UICONTROL List View]**. Selecteer in het deelvenster Asset Browse één element en ga vervolgens rechts van de miniatuurafbeelding naar **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]**.
 
-      Klik op **[!UICONTROL Embed Code]** onder de kolom Handelingen van de tabel in de Viewer List.
+      Selecteer **[!UICONTROL Embed Code]** onder de kolom Acties van de tabel in de Viewer List.
 
-   * Klik **[!UICONTROL Grid View]**, **[!UICONTROL List View]**, of **[!UICONTROL Detail View]**. Klik op **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]** op dezelfde werkbalk.
+   * Selecteer **[!UICONTROL Grid View]**, **[!UICONTROL List View]** of **[!UICONTROL Detail View]**. Ga op dezelfde werkbalk naar **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]**.
 
-      Klik op **[!UICONTROL Embed Code]** onder de kolom Handelingen van de tabel in de Viewer List.
+      Selecteer **[!UICONTROL Embed Code]** onder de kolom Acties van de tabel in de Viewer List.
 
-1. Klik in het dialoogvenster Code insluiten op **[!UICONTROL Copy to Clipboard]**.
+1. Selecteer **[!UICONTROL Copy to Clipboard]** in het dialoogvenster Code insluiten.
 
    Het bewerken van de code is niet toegestaan in het dialoogvenster Code insluiten.
 
-1. Klik op **[!UICONTROL Close]**.
+1. Selecteer **[!UICONTROL Close]**.

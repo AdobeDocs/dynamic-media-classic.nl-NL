@@ -7,19 +7,19 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/managing_assets
 discoiquuid: effef4e7-37c5-42e2-9266-ecd026cad628
-feature: Dynamic Media Classic, beheer van bedrijfsmiddelen
+feature: Dynamic Media Classic,Asset Management
 role: User
 exl-id: 4b3f690c-7dff-4bf0-9366-085ba918fe6b
-source-git-commit: df689ff5a127bfbc400ca5331168d1ff7bb0b42e
+source-git-commit: 1d71cbe6e2493ac8d47e837a20e194b6ae7a22d4
 workflow-type: tm+mt
-source-wordcount: '1372'
+source-wordcount: '1369'
 ht-degree: 0%
 
 ---
 
 # Elementen zoeken{#searching-assets}
 
-Als u bestandsmiddelen wilt zoeken in Dynamic Media Classic, kunt u elementen op type weergeven, elementen in het deelvenster Bladeren sorteren, een eenvoudige zoekopdracht uitvoeren, een geavanceerde zoekopdracht uitvoeren en naar elementen filteren.
+Als u bestandsmiddelen wilt zoeken in Adobe Dynamic Media Classic, kunt u elementen op type weergeven, elementen in het deelvenster Bladeren sorteren, een eenvoudige zoekopdracht uitvoeren, een geavanceerde zoekopdracht uitvoeren en naar elementen filteren.
 
 >[!NOTE]
 >
@@ -31,7 +31,7 @@ Als u alleen bestanden van een bepaald type wilt weergeven terwijl u bladert, ki
 
 >[!NOTE]
 >
->Als u het deelvenster Asset Library aan de linkerkant niet ziet, klikt u op de rechterdriehoekpijl aan de linkerkant, halverwege het klassieke venster van Dynamic Media, om de Asset Library te openen.)
+>Als u het deelvenster Elementenbibliotheek aan de linkerkant niet ziet, klikt u op de rechterdriehoekpijl aan de linkerkant, halverwege het klassieke venster van Adobe Dynamic Media om de Asset Library te openen.)
 
 ## Bestanden sorteren in het deelvenster Bladeren {#sorting-files-in-the-browse-panel}
 
@@ -55,7 +55,7 @@ Gebruik het veld Zoeken in de Asset Library, zodat u eenvoudig kunt zoeken. U ku
 
 <!-- Does not appear to be working anymore >[!NOTE]
 >
->Dynamic Media Classic tracks searches. To run a search a second time, click **[!UICONTROL Search]** and choose the name of a search at the bottom of the Search menu. -->
+>Adobe Dynamic Media Classic tracks searches. To run a search a second time, click **[!UICONTROL Search]** and choose the name of a search at the bottom of the Search menu. -->
 
 ## Een geavanceerde zoekopdracht uitvoeren {#conducting-an-advanced-search}
 
@@ -171,5 +171,5 @@ Klik **[!UICONTROL Publish Now]** om de baan te beginnen. Er wordt een bevestigi
 >[!MORELIKETHIS]
 >
 >* [Basisbeginselen van navigatie](navigation-basics.md#navigation_basics)
-* [Metagegevens weergeven, toevoegen en exporteren](viewing-adding-exporting-metadata.md#viewing_adding_and_exporting_metadata)
+>* [Metagegevens weergeven, toevoegen en exporteren](viewing-adding-exporting-metadata.md#viewing_adding_and_exporting_metadata)
 

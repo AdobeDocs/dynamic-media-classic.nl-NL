@@ -7,21 +7,21 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/master_files
 discoiquuid: 42df9adc-e563-4de2-87a4-bd40cef77cdf
-feature: Dynamic Media Classic, beheer van bedrijfsmiddelen
+feature: Dynamic Media Classic,Asset Management
 role: User
 exl-id: 8d1e0c37-a648-4c7b-8f68-4b2ab71dfa11
-source-git-commit: df689ff5a127bfbc400ca5331168d1ff7bb0b42e
+source-git-commit: 1d71cbe6e2493ac8d47e837a20e194b6ae7a22d4
 workflow-type: tm+mt
-source-wordcount: '141'
+source-wordcount: '139'
 ht-degree: 0%
 
 ---
 
 # Werken met vignet-, venster- en kabinetsbestanden{#working-with-vignette-window-covering-and-cabinet-files}
 
-Gebruikers van het Dynamic Media Classic Image Authoring-gereedschap kunnen *vignetten (VNT-bestanden), vensterbedekkingen (VNW-bestanden) en kabinetten (VNC-bestanden) gebruiken.* Deze bestanden kunnen niet worden gemaakt of bewerkt in Dynamic Media Classic.
+Gebruikers van het Adobe Dynamic Media Classic Image Authoring-gereedschap kunnen *vignetten (VNT-bestanden), vensterbedekkingen (VNW-bestanden) en kabinetten (VNC-bestanden) gebruiken.* Deze bestanden kunnen niet worden gemaakt of bewerkt in Adobe Dynamic Media Classic.
 
-Vignetten, vensterbekledingen en kasten zijn ontworpen afbeeldingen. Met een ander Klassiek Dynamic Media-programma, Image Authoring genaamd, maskeert u objecten in een afbeelding, zodat gebruikers dezelfde afbeelding in verschillende structuren of kleuren kunnen zien. Gebruikers zien bijvoorbeeld een bank die is gestoffeerd met verschillende weefsels, een venster dat is ingericht met verschillende vensterbehandelingen of een kast die is afgewerkt met verschillende soorten hout.
+Vignetten, vensterbekledingen en kasten zijn ontworpen afbeeldingen. Met een ander Klassiek Adobe Dynamic Media-programma, genaamd Image Authoring, maskeert u objecten in een afbeelding, zodat gebruikers dezelfde afbeelding in verschillende structuren of kleuren kunnen zien. Gebruikers zien bijvoorbeeld een bank die is gestoffeerd met verschillende weefsels, een venster dat is ingericht met verschillende vensterbehandelingen of een kast die is afgewerkt met verschillende soorten hout.
 
 U kunt net als elk ander bestand vignetten, vensterbedekkingen en kabinetten uploaden.
 

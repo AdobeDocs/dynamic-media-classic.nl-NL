@@ -1,6 +1,6 @@
 ---
 title: Afbeeldingen met hyperlinks maken
-description: Leer hoe u afbeeldingen met hyperlinks maakt in Dynamic Media Classic.
+description: Leer hoe u afbeeldingen met hyperlinks maakt in Adobe Dynamic Media Classic.
 uuid: 0dcc4956-006e-4a74-9d6a-6d4bb23790ce
 contentOwner: admin
 content-type: reference
@@ -10,9 +10,9 @@ discoiquuid: 4eddf983-38cb-4f00-b3be-85c20bdd6f69
 feature: Dynamic Media Classic,Asset Management
 role: User
 exl-id: deafbd03-06bc-4d7e-87a1-5620ebcac426
-source-git-commit: 976f739e5233ae9da24b06cffa729353a7d03c46
+source-git-commit: 1d71cbe6e2493ac8d47e837a20e194b6ae7a22d4
 workflow-type: tm+mt
-source-wordcount: '2332'
+source-wordcount: '2346'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Een afbeelding met hyperlinks is een gebied in een afbeelding, een eCatalog-pagina of een afbeelding in een SpinSet waarin een rollover-deelvenster met tekst wordt weergegeven. Wanneer de gebruiker een Kaart van het Beeld selecteert, wordt een actie van één of andere soort teweeggebracht. Er wordt bijvoorbeeld een webpagina gestart zodat de gebruiker meer over een product kan leren. Er verschijnt een omtrek rond een afbeelding met hyperlinks wanneer de gebruiker de aanwijzer erboven plaatst.
 
-Naast de mogelijkheid om afbeeldingen met hyperlinks te maken in Dynamic Media Classic, kunt u ook afbeeldingen met hyperlinks maken wanneer u een catalogus ontwerpt in Adobe Acrobat of Adobe InDesign.
+Naast de mogelijkheid om afbeeldingen met hyperlinks te maken in Adobe Dynamic Media Classic, kunt u ook afbeeldingen met hyperlinks maken wanneer u een catalogus ontwerpt in Adobe Acrobat of Adobe InDesign.
 
 Wanneer u Afbeeldingskaarten maakt, kunt u het volgende doen:
 
@@ -50,9 +50,9 @@ Wanneer u Afbeeldingskaarten maakt, kunt u het volgende doen:
 
    * **Veelhoekkaart**  - Selecteer het gereedschap Veelhoekafbeelding met hyperlinks en selecteer punten op de rand van het gebied van de afbeelding dat u wilt insluiten. Gebruik de schuifregelaar voor veelhoekdichtheid om de puntdichtheid in de veelhoek te variëren. De oorspronkelijke dichtheid wordt onthouden als u andere kaarten selecteert. Als een punt wordt toegevoegd, verwijderd of verplaatst in de veelhoek, gaat de oorspronkelijke dichtheid verloren en wordt de schuifregelaar ingesteld op de maximale waarde.
 
-1. Voer desgewenst een naam voor de afbeelding met hyperlinks in de lijst Afbeeldingskaart in. Nadat u een afbeelding met hyperlinks hebt getekend, wijst Dynamic Media Classic er een naam aan toe.
+1. Voer desgewenst een naam voor de afbeelding met hyperlinks in de lijst Afbeeldingskaart in. Nadat u een afbeelding met hyperlinks hebt getekend, wijst Adobe Dynamic Media Classic er een naam aan toe.
 
-   Als u de naam wilt maken, voegt Dynamic Media Classic een volgnummer toe aan de naam van de afbeelding of eCatalog-pagina waarmee u werkt. U kunt een naam van uw keuze invoeren.
+   Als u de naam wilt maken, voegt Adobe Dynamic Media Classic een volgnummer toe aan de naam van de afbeeldings- of eCatalog-pagina waarmee u werkt. U kunt een naam van uw keuze invoeren.
 
 1. Als u wilt dat gebruikers een nieuwe webpagina openen wanneer zij Afbeeldingskaart selecteren, voert u de URL in de lijst Afbeeldingskaart in.
 
@@ -126,7 +126,7 @@ Het kopiëren van afbeeldingen met hyperlinks in een eCatalog is bijvoorbeeld ee
 
 ## Een sjabloon gebruiken om JavaScript en URL&#39;s in te voeren {#using-a-template-to-enter-javascript-and-urls}
 
-U kunt een URL-sjabloon (ook wel een Href-sjabloon genoemd) definiëren om het invoeren van URL&#39;s voor afbeeldingen met hyperlinks eenvoudiger en efficiënter te maken. Definieer een URL-sjabloon als de meeste URL&#39;s van de Afbeeldingskaart een gemeenschappelijke, vaste indeling hebben. Door het gedeelte van URL in te voeren dat als malplaatje URL vast is, moet u niet dit gedeelte van URL ingaan telkens als u een Kaart van het Beeld creeert. Uw URL-sjabloon kan ook JavaScript-opdrachten, -padnamen en -parameters bevatten. Standaard bevat de URL-sjabloon een merkgebonden Dynamic Media Classic JavaScript-handler met de naam `loadProduct` waarmee de afbeelding in een nieuw venster wordt geopend.
+U kunt een URL-sjabloon (ook wel een Href-sjabloon genoemd) definiëren om het invoeren van URL&#39;s voor afbeeldingen met hyperlinks eenvoudiger en efficiënter te maken. Definieer een URL-sjabloon als de meeste URL&#39;s van de Afbeeldingskaart een gemeenschappelijke, vaste indeling hebben. Door het gedeelte van URL in te voeren dat als malplaatje URL vast is, moet u niet dit gedeelte van URL ingaan telkens als u een Kaart van het Beeld creeert. Uw URL-sjabloon kan ook JavaScript-opdrachten, -padnamen en -parameters bevatten. Standaard bevat de URL-sjabloon een merkgebonden Adobe Dynamic Media Classic JavaScript-handler met de naam `loadProduct` waarmee de afbeelding in een nieuw venster wordt geopend.
 
 >[!NOTE]
 >
@@ -146,7 +146,7 @@ U plaatst alle waarden die niet tussen Afbeeldingen met hyperlinks veranderen in
 * URL-waarde - `product.htm`
 * Werkelijke URL gegenereerd - `javascript:loadProduct(‘https://www.examplesitehere.com/product.html);void(0);`
 
-Standaard bevat de URL-sjabloon een merkgebonden Dynamic Media Classic JavaScript-handler met de naam `loadProduct` waarmee een nieuw venster met de URL-bestemming wordt geopend. U kunt echter elke JavaScript-code gebruiken om deze JavaScript-handler te vervangen of een van de volgende klassieke Dynamic Media-handlers gebruiken:
+Standaard bevat de URL-sjabloon een merkgebonden Adobe Dynamic Media Classic JavaScript-handler met de naam `loadProduct` waarmee een nieuw venster met de URL-bestemming wordt geopend. U kunt echter elke JavaScript-code gebruiken om deze JavaScript-handler te vervangen of een van de volgende Adobe Dynamic Media Classic-handlers gebruiken:
 
 * `loadProductCW` - Geeft het URL-doel weer dat is opgegeven in de kolom URL in het huidige venster. Deze handler is vooral bedoeld voor eCatalogi die zijn geïntegreerd in een pagina binnen een website.
 
@@ -192,7 +192,7 @@ Selecteer **[!UICONTROL Show]** menu en selecteer **[!UICONTROL Both]** als u ee
 
 U kunt afbeeldingen met hyperlinks maken terwijl u uw eCatalog ontwerpt in Adobe Acrobat of Adobe InDesign.
 
-Maak in Acrobat of InDesign hyperlinkverwijzingen waar u de afbeeldingen met hyperlinks wilt weergeven en geef URL-locaties op voor de afbeelding met hyperlinks. Als u de optie Koppelingen extraheren selecteert wanneer u het PDF-bestand uploadt naar Dynamic Media Classic, worden de koppelingen naar afbeeldingen met hyperlinks automatisch geconverteerd.
+Maak in Acrobat of InDesign hyperlinkverwijzingen waar u de afbeeldingen met hyperlinks wilt weergeven en geef URL-locaties op voor de afbeelding met hyperlinks. Als u de optie Koppelingen extraheren selecteert wanneer u het PDF-bestand uploadt naar Adobe Dynamic Media Classic, worden de koppelingen naar afbeeldingen met hyperlinks automatisch geconverteerd.
 
 Raadpleeg de Help bij Adobe InDesign of Adobe Acrobat voor meer informatie.
 
@@ -203,15 +203,15 @@ Raadpleeg de Help bij Adobe InDesign of Adobe Acrobat voor meer informatie.
 1. Selecteer **[!UICONTROL New Hyperlink]** in het deelvenstermenu.
 1. Kies **[!UICONTROL URL]** in het menu **[!UICONTROL Link To]** van het dialoogvenster Nieuwe hyperlink.
 1. Typ of plak de product-id in het vak URL.
-1. Selecteer **[!UICONTROL OK]**. (Dynamic Media Classic voltooit de URL met behulp van de sjabloon URL van afbeelding met hyperlinks.)
+1. Selecteer **[!UICONTROL OK]**. (Adobe Dynamic Media Classic voltooit de URL met de sjabloon URL afbeelding met hyperlinks.)
 
    >[!NOTE]
    >
-   >U hoeft geen weergaveopties in te stellen in Adobe InDesign. U kunt vormgeving opgeven in Dynamic Media Classic.
+   >U hoeft geen weergaveopties in te stellen in Adobe InDesign. U kunt vormgeving opgeven in Adobe Dynamic Media Classic.
 
 1. Herhaal stap 2 tot en met 6 voor alle afbeeldingen met hyperlinks die u wilt maken.
 1. Exporteer het bestand als een PDF-bestand.
-1. Upload de PDF naar Dynamic Media Classic.
+1. Upload de PDF naar Adobe Dynamic Media Classic.
 1. In **[!UICONTROL PDF Options]** selecteert u **[!UICONTROL Extract Links]**.
 
 ### Afbeeldingen met hyperlinks maken in Adobe Acrobat {#to-create-image-maps-in-adobe-acrobat}
@@ -222,11 +222,11 @@ Raadpleeg de Help bij Adobe InDesign of Adobe Acrobat voor meer informatie.
 
 >[!NOTE]
 >
->U hoeft geen weergaveopties in te stellen in Adobe Acrobat. U kunt vormgeving opgeven in Dynamic Media Classic.
+>U hoeft geen weergaveopties in te stellen in Adobe Acrobat. U kunt vormgeving opgeven in Adobe Dynamic Media Classic.
 
 1. Selecteer **[!UICONTROL Actions]** in het vak Koppelingseigenschappen.
 1. Selecteer **[!UICONTROL Open A Web Link]** in het menu Handeling selecteren en selecteer **[!UICONTROL Add]**.
-1. Typ de product-id voor de afbeelding met hyperlinks in het vak URL bewerken en selecteer **[!UICONTROL OK]**. (Dynamic Media Classic voltooit de URL met de URL-sjabloon voor de afbeeldingskaart.)
+1. Typ de product-id voor de afbeelding met hyperlinks in het vak URL bewerken en selecteer **[!UICONTROL OK]**. (Adobe Dynamic Media Classic voltooit de URL met behulp van de URL-sjabloon voor de afbeeldingskaart.)
 1. Herhaal stap 1 tot en met 7 voor alle afbeeldingen met hyperlinks die u wilt maken.
 1. Sla het bestand op.
-1. Upload de PDF naar Dynamic Media Classic en selecteer Koppelingen uit de PDF-opties verwijderen.
+1. Upload de PDF naar Adobe Dynamic Media Classic en selecteer Koppelingen uit de PDF-opties verwijderen.

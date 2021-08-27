@@ -7,12 +7,12 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/video
 discoiquuid: 6a2e6df1-9186-42e2-9b85-01f132936c72
-feature: Dynamic Media Klassiek,Viewers,Video
+feature: Dynamic Media Classic,Viewers,Video
 role: User
 exl-id: b8d1a0b4-67ab-482d-a685-a087fb850143
-source-git-commit: df689ff5a127bfbc400ca5331168d1ff7bb0b42e
+source-git-commit: 1d71cbe6e2493ac8d47e837a20e194b6ae7a22d4
 workflow-type: tm+mt
-source-wordcount: '736'
+source-wordcount: '735'
 ht-degree: 0%
 
 ---
@@ -41,19 +41,19 @@ Zie [Voorinstellingen voor viewers toevoegen en bewerken](application-setup.md#a
 
 >[!NOTE]
 >
->Dynamic Media Classic biedt een handige methode voor het voorvertonen van MP4-video op het bureaublad. Gebruik deze methode om mobiele inhoud op het bureaublad voor te vertonen zonder deze fysiek te testen op mobiele apparaten. Houd er echter rekening mee dat wat u in de voorvertoning op het bureaublad ziet, er niet realistisch uitziet hoe het afspelen op het mobiele apparaat eruitziet. Als u een voorvertoning wilt bekijken van de weergave en het afspelen van video op een mobiel apparaat, gaat u naar het voorvertoningsscherm, klikt u op **[!UICONTROL Copy URL]** en voert u die URL in de webbrowser van een mobiel apparaat in. Zie [Video implementeren op uw websites en mobiele sites](deploying-video-websites-mobile-sites.md#deploying_video_to_your_websites_and_mobile_sites) voor meer informatie.
+>Adobe Dynamic Media Classic biedt een handige methode voor het voorvertonen van MP4-video op het bureaublad. Gebruik deze methode om mobiele inhoud op het bureaublad voor te vertonen zonder deze fysiek te testen op mobiele apparaten. Houd er echter rekening mee dat wat u in de voorvertoning op het bureaublad ziet, er niet realistisch uitziet hoe het afspelen op het mobiele apparaat eruitziet. Als u een voorvertoning wilt bekijken van de weergave en het afspelen van video op een mobiel apparaat, gaat u naar het voorvertoningsscherm, klikt u op **[!UICONTROL Copy URL]** en voert u die URL in de webbrowser van een mobiel apparaat in. Zie [Video implementeren op uw websites en mobiele sites](deploying-video-websites-mobile-sites.md#deploying_video_to_your_websites_and_mobile_sites) voor meer informatie.
 
 ## Werken met voorinstellingen voor videoviewers {#working-with-video-viewer-presets}
 
 Gebruikers bekijken video&#39;s in de Video-viewer. Hoe de VideoKijker zich gedraagt, hoe het kijkt, en hoe zijn playbackcontroles werken hangt van de Kijker af vooraf ingesteld u voor het spelen van de video kiest. Kies een voorinstelling voor de viewer op het voorvertoningsscherm. Nadat u een voorinstelling hebt gekozen, kunt u de URL of de insluitcode voor het afspelen van de video opvragen met de door u gekozen voorinstelling voor de viewer.
 
-Dynamic Media Classic wordt geleverd met veel vooraf gedefinieerde voorinstellingen voor viewers voor het afspelen van video. Als u een beheerder bent, kunt u aangepaste voorinstellingen voor viewers maken. Er zijn meer dan een dozijn verschillende instellingen voor het configureren van de video-viewer. U kunt de grootte, kleur, video- en audiobesturingselementen, voortgangsbalk, skin voor de gebruikersinterface en sociale functies configureren.
+Adobe Dynamic Media Classic wordt geleverd met veel vooraf gedefinieerde voorinstellingen voor viewers voor het afspelen van video. Als u een beheerder bent, kunt u aangepaste voorinstellingen voor viewers maken. Er zijn meer dan een dozijn verschillende instellingen voor het configureren van de video-viewer. U kunt de grootte, kleur, video- en audiobesturingselementen, voortgangsbalk, skin voor de gebruikersinterface en sociale functies configureren.
 
 Zie ook [Video&#39;s voorvertonen in een videoviewer](previewing-videos-video-viewer.md#previewing_videos_in_a_video_viewer).
 
 ### Een voorinstelling voor een videoviewer toevoegen of bewerken {#adding-or-editing-a-video-viewer-preset}
 
-U kunt Viewer-voorinstellingen gebruiken om verschillende viewertypen en hun vooraf gedefinieerde instellingen weer te geven. U kunt ook uw eigen aangepaste voorinstellingen voor viewers toevoegen en bewerken of bestaande voorinstellingen voor viewers bewerken die bij Dynamic Media Classic worden geleverd.
+U kunt Viewer-voorinstellingen gebruiken om verschillende viewertypen en hun vooraf gedefinieerde instellingen weer te geven. U kunt ook uw eigen aangepaste viewervoorinstellingen toevoegen en bewerken of bestaande viewervoorinstellingen bewerken die bij Adobe Dynamic Media Classic worden geleverd.
 
 In Viewer-voorinstellingen kunt u voorinstellingen van viewers activeren, filteren, sorteren en voorvertonen.
 
@@ -61,7 +61,7 @@ Zie [Viewer Presets](application-setup.md#viewer_presets).
 
 **Een voorinstelling voor een videoviewer toevoegen of bewerken:**
 
-1. Klik in de rechterbovenhoek van Dynamic Media Classic op **[!UICONTROL Setup]** > **[!UICONTROL Viewer Presets]**.
+1. Klik in de rechterbovenhoek van Adobe Dynamic Media Classic op **[!UICONTROL Setup]** > **[!UICONTROL Viewer Presets]**.
 
    Als u alleen voorinstellingen voor videoviewers wilt weergeven, selecteert u Video-viewer in de vervolgkeuzelijst Viewers openen op de werkbalk direct boven de tabel.
 
@@ -90,5 +90,5 @@ Zie [Viewer Presets](application-setup.md#viewer_presets).
 >[!MORELIKETHIS]
 >
 >* [Aanbevolen procedures voor videocodering](uploading-encoding-videos.md#best_practices_for_video_encoding)
-* [Werken met voorinstellingen voor videocodering](uploading-encoding-videos.md#working_with_video_encoding_presets)
+>* [Werken met voorinstellingen voor videocodering](uploading-encoding-videos.md#working_with_video_encoding_presets)
 

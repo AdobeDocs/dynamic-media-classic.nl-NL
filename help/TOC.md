@@ -4,11 +4,11 @@ product: adobe dynamic media classic
 audience: end-user
 user-guide-title: Adobe Dynamic Media Classic Guide
 breadcrumb-title: Dynamic Media Classic Guide
-user-guide-description: Meer informatie over het gebruik van Dynamic Media Classic
+user-guide-description: Meer informatie over het gebruik van Adobe Dynamic Media Classic
 index: y
-source-git-commit: bb387446f294cf1e90d26ae1df4422879ad29db7
+source-git-commit: a8b5ad338ef8c8b2c50acea5d4c0560820c40ae4
 workflow-type: tm+mt
-source-wordcount: '751'
+source-wordcount: '778'
 ht-degree: 0%
 
 ---
@@ -17,17 +17,17 @@ ht-degree: 0%
 # Adobe Dynamic Media Classic Guide {#using}
 
 + [Adobe Dynamic Media Classic Guide](home.md)
-+ [Zelfstudie over best practices](https://experienceleague.adobe.com/docs/experience-manager-learn/dynamic-media-classic-tutorial/overview.html)
-+ [NEW Dynamic Media Classic Sign-in-ervaring nu beschikbaar](new-ui-2020.md)
-+ [Dynamic Media-nieuwsarchief per Experience League](dynamic-media-newsletter.md)
++ [Zelfstudie over Adobe Dynamic Media Classic Best Practices](https://experienceleague.adobe.com/docs/experience-manager-learn/dynamic-media-classic-tutorial/overview.html)
++ [NEW Adobe Dynamic Media Classic Sign-in-ervaring nu beschikbaar](new-ui-2020.md)
++ [Adobe Dynamic Media-nieuwsarchief per Experience League](dynamic-media-newsletter.md)
 + Introductie van Adobe Dynamic Media Classic {#intro}
    + [Adobe Dynamic Media Classic-bureaubladtoepassing - Nu beschikbaar](dynamic-media-classic-desktop-app.md)
-   + [Informatie over Dynamic Media Classic Help](introduction.md)
+   + [Informatie over Adobe Dynamic Media Classic Help](introduction.md)
    + [Bronnen voor ontwikkelaars](developer-resources.md)
    + [Nieuwe functies](whats-new.md)
-   + [Systeemvereisten](system-requirements.md)
+   + [Systeemvereisten voor Adobe Dynamic Media Classic-bureaubladtoepassing](system-requirements.md)
    + [Ondersteuning](support.md)
-   + [Help voor Dynamic Media Classic Media Portal](help-dmc-media-portal.md)
+   + [Help voor Adobe Dynamic Media Classic Media Portal](help-dmc-media-portal.md)
    + [Adobe Training](training-services.md)
    + [Populaire bronnen](popular-resources.md)
    + [Trainingsvideo&#39;s](training-videos.md)
@@ -45,7 +45,7 @@ ht-degree: 0%
    + [Video-SEO (Optimalisatie zoekmachine)](video-seo-search-engine-optimization.md)
    + [Instellingen voor beheer](administration-setup.md)
 + Mediaportaal {#media-portal}
-   + [Systeemvereisten](system-requirements-1.md)
+   + [Systeemvereisten voor Media Portal in Adobe Dynamic Media Classic](system-requirements-media-portal.md)
    + [Snel starten: Media Portal](quick-start-media-portal-administration.md)
    + [Gebruikersrollen van Media Portal](media-portal-user-roles.md)
    + [Mediaportaalgroepen maken en beheren](creating-media-portal-groups.md)
@@ -71,7 +71,7 @@ ht-degree: 0%
    + [Elementen verplaatsen, hernoemen en verwijderen](moving-renaming-deleting-assets.md)
    + [Werken in de gedetailleerde weergave](detail-view.md)
    + [Metagegevens weergeven, toevoegen en exporteren](viewing-adding-exporting-metadata.md)
-   + [Elementen exporteren uit Dynamic Media Classic](exporting-assets-from-dmc.md)
+   + [Elementen exporteren uit Adobe Dynamic Media Classic](exporting-assets-from-dmc.md)
    + [Elementwijzigingen delen met peers in real-time](sharing-asset-changes-peers-real.md)
    + [Elementen afdrukken](printing-assets.md)
    + [De map Prullenmand beheren](trash-folder.md)
@@ -147,7 +147,7 @@ ht-degree: 0%
    + [Een gemengde mediaset publiceren](publishing-mixed-media-set.md)
    + [Een gemengde mediaset koppelen aan een webpagina](linking-mixed-media-set-web.md)
 + Adobe Analytics-instrumentatiekit {#analytics-kit}
-   + [Snel starten: Dynamic Media Classic integreren met Adobe Analytics](quick-start-integrating-dmc-analytics.md)
+   + [Snel starten: Adobe Dynamic Media Classic integreren met Adobe Analytics](quick-start-integrating-dmc-analytics.md)
    + [Aanmelden bij Adobe Analytics](log-analytics.md)
    + [Adobe Analytics-rapporten configureren](configuring-analytics-reports.md)
    + [Een viewer van instrumenten voorzien met de Adobe Analytics Instrumentation Kit](instrumenting-viewer-using-analytics-instrumentation.md)
@@ -157,7 +157,7 @@ ht-degree: 0%
    + [Adobe Analytics-configuratiegegevens publiceren](publishing-analytics-configuration-information.md)
 + Adobe Target Standard/Premium-integratie {#target-classic}
    + [Snel starten: Adobe Target Standard/Premium-integratie](quick-start-target-integration.md)
-   + [Dynamic Media Classic integreren met Adobe Target Standard/Premium](integrating-dmc-with-target.md)
+   + [Adobe Dynamic Media Classic integreren met Adobe Target Standard/Premium](integrating-dmc-with-target.md)
    + [Een aanbiedingsset maken](creating-offer-set.md)
    + [Push-aanbiedingen worden ingesteld op Adobe Target Standard/Premium](pushing-offer-sets-target.md)
 + Door de gebruiker gegenereerde inhoud {#user-generated-content}

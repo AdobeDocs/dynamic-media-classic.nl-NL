@@ -1,18 +1,18 @@
 ---
 title: Uw werk organiseren met projecten
-description: Leer hoe u uw werk kunt organiseren met Projecten.
+description: Leer hoe u uw werk kunt organiseren met Projecten in Adobe Dynamic Media Classic.
 uuid: bd2b1792-e2d9-4a15-90c1-8ef2cf632867
 contentOwner: admin
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/managing_assets
 discoiquuid: 036dfc1f-8317-4887-a6e1-d8f2cb61819c
-feature: Dynamic Media Classic, beheer van bedrijfsmiddelen
+feature: Dynamic Media Classic,Asset Management
 role: User
 exl-id: 69aabf4a-21bc-4bd8-8aad-33c2cfb9cf57
-source-git-commit: df689ff5a127bfbc400ca5331168d1ff7bb0b42e
+source-git-commit: 1d71cbe6e2493ac8d47e837a20e194b6ae7a22d4
 workflow-type: tm+mt
-source-wordcount: '460'
+source-wordcount: '466'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ U kunt een project maken wanneer u bestanden uploadt of projecten maakt in het d
 
 >[!NOTE]
 >
->Dynamic Media Classic raadt u aan elementen te ordenen met metagegevens in plaats van met Projecten. Zie [Metagegevens weergeven, toevoegen en exporteren](viewing-adding-exporting-metadata.md).
+>Adobe Dynamic Media Classic beveelt aan elementen te ordenen met metagegevens in plaats van met Projecten. Zie [Metagegevens weergeven, toevoegen en exporteren](viewing-adding-exporting-metadata.md).
 
 >[!NOTE]
 >
@@ -35,11 +35,11 @@ U kunt een project maken wanneer u bestanden uploadt of projecten maakt in het d
 
 ## Een projectmap maken {#creating-a-project-folder}
 
-U kunt een projectmap maken die begint in de elementenbibliotheek of wanneer u bestanden uploadt naar Dynamic Media Classic:
+U kunt een projectmap maken die begint in de elementenbibliotheek of wanneer u bestanden uploadt naar Adobe Dynamic Media Classic:
 
-* **In de Bibliotheek**  van Activa - Schuif aan de bodem van de Bibliotheek van Activa, aan de sectie van Projecten, en klik dan  **[!UICONTROL Add Project]**. Voer een naam in voor het project.
+* **In de Bibliotheek**  van Activa - Schuif aan de bodem van de Bibliotheek van Activa, aan de sectie van Projecten, en selecteer dan  **[!UICONTROL Add Project]**. Voer een naam in voor het project.
 
-* **Klik in het scherm Uploaden op** >  **[!UICONTROL Add to Project]**   **[!UICONTROL Create Project]**. Voer een naam in voor het project.
+* **Ga naar** >  **[!UICONTROL Add to Project]**   **[!UICONTROL Create Project]**. Voer een naam in voor het project.
 
 >[!NOTE]
 >
@@ -51,14 +51,14 @@ Voer een van de volgende handelingen uit om een projectmap weer te geven, te ver
 
 * **Door inhoud**  bladeren - Selecteer de naam van de map in de Asset Library. De bijbehorende elementen worden weergegeven in het deelvenster Bladeren.
 
-* **Het schrappen van de omslagen**  van het Project - selecteer de omslag van het Project en klik dan  **[!UICONTROL Remove Project]**. Als u elementen verwijdert uit een projectmap, worden deze niet verwijderd uit Dynamic Media Classic. de elementen blijven in de oorspronkelijke mappen waarin ze zijn opgeslagen.
+* **Het schrappen van de omslagen**  van het Project - selecteer de omslag van het Project en selecteer dan  **[!UICONTROL Remove Project]**. Als u elementen verwijdert uit een projectmap, worden deze niet verwijderd uit Adobe Dynamic Media Classic. de elementen blijven in de oorspronkelijke mappen waarin ze zijn opgeslagen.
 
 * **De omslagen**  van het Project anders noemen - klik de naam van de omslag in het Comité van Activa tweemaal, en ga dan een nieuwe naam in.
 
 ## Elementen toevoegen aan een projectmap {#adding-assets-to-a-project-folder}
 
-U kunt afbeeldingen toevoegen aan een projectmap die begint in het deelvenster Bladeren of wanneer u bestanden uploadt naar Dynamic Media Classic:
+U kunt afbeeldingen toevoegen aan een projectmap die begint in het deelvenster Bladeren of wanneer u bestanden uploadt naar Adobe Dynamic Media Classic:
 
-* **Van het Browse Comité**  - selecteer de activa en sleep hen aan een omslag van het Project. U kunt ook op **[!UICONTROL File]** > **[!UICONTROL Add To Project]** klikken. Selecteer de naam van een projectmap in het dialoogvenster Project selecteren en klik op **[!UICONTROL Submit]**.
+* **Van het Browse Comité**  - selecteer de activa en sleep hen aan een omslag van het Project. U kunt ook naar **[!UICONTROL File]** > **[!UICONTROL Add To Project]** gaan. Selecteer de naam van een projectmap in het dialoogvenster Project selecteren en selecteer **[!UICONTROL Submit]**.
 
-* **Klik tijdens het uploaden van bestanden** - In de pagina Uploaden op  **[!UICONTROL Job Options]**. Klik in het dialoogvenster Taakopties uploaden op **[!UICONTROL Projects]** en selecteer vervolgens een projectnaam.
+* **Selecteer bij het uploaden van bestanden**  - In de pagina Uploaden  **[!UICONTROL Job Options]**. Selecteer **[!UICONTROL Projects]** in het dialoogvenster Taakopties uploaden en selecteer vervolgens een projectnaam.

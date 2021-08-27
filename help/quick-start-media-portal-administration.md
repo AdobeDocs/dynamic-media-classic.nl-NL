@@ -7,19 +7,19 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/media_portal
 discoiquuid: 1385a092-0b2c-4e05-ad1e-ce3685022300
-feature: Dynamic Media Classic,Samenwerking,Asset Management
+feature: Dynamic Media Classic,Collaboration,Asset Management
 role: Admin,User
 exl-id: bff613c8-a93b-4cca-94db-8cad1cc36296
-source-git-commit: df689ff5a127bfbc400ca5331168d1ff7bb0b42e
+source-git-commit: 1d71cbe6e2493ac8d47e837a20e194b6ae7a22d4
 workflow-type: tm+mt
-source-wordcount: '692'
+source-wordcount: '688'
 ht-degree: 0%
 
 ---
 
 # Snel starten: Media Portal{#quick-start-media-portal}
 
-Het Portaal van media laat bedrijven gemakkelijk verwerven, controleren en goedgekeurde activa aan externe partners en kanalen, en interne gebruikers van een bedrijf verspreiden. Deze op browser-gebaseerde, &quot;zelf-server&quot;milieu voorziet de gebruikers van Media Portal van beheerder-gecontroleerde &quot;meningen&quot;in de Klassieke activa van Dynamic Media voor gemakkelijke toegang tot, doorbladeren, onderzoek, voorproef, en de uitvoeractiva in collectief-goedgekeurd formaat.
+Het Portaal van media laat bedrijven gemakkelijk verwerven, controleren en goedgekeurde activa aan externe partners en kanalen, en interne gebruikers van een bedrijf verspreiden. Deze op browser-gebaseerde, &quot;zelf-dient&quot;milieu voorziet de gebruikers van Media Portal van beheerder-gecontroleerde &quot;meningen&quot;in de Klassieke activa van Adobe Dynamic Media voor gemakkelijke toegang tot, doorbladeren, onderzoek, voorproef, en de uitvoeractiva in collectief-goedgekeurd formaat.
 
 Als beheerder, controleert u hoe de gebruikers, tot activa in het Portaal van Media bekijken en toegang hebben en gebruiken. Bovendien kunt u de interface van het Portaal van Media aanpassen om uw website en merk aan te passen. U kunt lettertype, lettertypekleur, tekengrootte opgeven en branding-elementen zoals logo&#39;s opnemen in de Media Portal-interface.
 
@@ -45,7 +45,7 @@ Zie [Gebruikers van Media Portal toevoegen en beheren](adding-media-portal-users
 
 ## 4. FTP-accounts beheren
 
-U kunt aparte FTP-accounts hebben die zijn gekoppeld aan Media Portal en zijn toegewezen aan een specifieke map in uw Dynamic Media Classic-account. Dit soort functionaliteit betekent dat u gebruikers kunt toestaan om digitale middelen in uw account te uploaden met behulp van afzonderlijke FTP-accounts.
+U kunt aparte FTP-accounts hebben die zijn gekoppeld aan Media Portal en zijn toegewezen aan een specifieke map in uw Adobe Dynamic Media Classic-account. Dit soort functionaliteit betekent dat u gebruikers kunt toestaan om digitale middelen in uw account te uploaden met behulp van afzonderlijke FTP-accounts.
 
 Zie [FTP-accounts beheren](ftp-accounts.md#managing_ftp_accounts).
 

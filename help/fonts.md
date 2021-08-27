@@ -1,6 +1,6 @@
 ---
 title: Lettertypen
-description: Leer hoe u lettertypen kunt gebruiken in Dynamic Media Classic.
+description: Leer hoe u lettertypen gebruikt in Adobe Dynamic Media Classic.
 uuid: bddec9c2-8530-4bbd-8db7-1562a347e482
 contentOwner: admin
 content-type: reference
@@ -10,18 +10,18 @@ discoiquuid: 97cecd6a-30aa-44fe-a611-fd71b02fd5ae
 feature: Dynamic Media Classic
 role: User
 exl-id: 186f4c7f-16f6-42f5-bc0e-55362c55e794
-source-git-commit: 20a5e54a9f3fa442d3a993afae07aa5b1b13e9c3
+source-git-commit: 1d71cbe6e2493ac8d47e837a20e194b6ae7a22d4
 workflow-type: tm+mt
-source-wordcount: '401'
+source-wordcount: '408'
 ht-degree: 0%
 
 ---
 
 # Lettertypen{#fonts}
 
-Soms moet u in Dynamic Media Classic een lettertypebestand uploaden om tekst in een bepaald lettertype in te voeren of te renderen. Als u bijvoorbeeld een bepaald lettertype voor tekst op een sjabloonlaag wilt gebruiken, uploadt u het lettertypebestand. Upload het lettertypebestand om de paginanummers van de eCatalog Viewer in een bepaald lettertype weer te geven.
+Soms vereist Adobe Dynamic Media Classic dat u een lettertypebestand uploadt om tekst in een bepaald lettertype in te voeren of te renderen. Als u bijvoorbeeld een bepaald lettertype voor tekst op een sjabloonlaag wilt gebruiken, uploadt u het lettertypebestand. Upload het lettertypebestand om de paginanummers van de eCatalog Viewer in een bepaald lettertype weer te geven.
 
-Dynamic Media Classic ondersteunt de volgende lettertypen:
+Adobe Dynamic Media Classic ondersteunt de volgende lettertypen:
 
 * Alle TrueType-fonts
 * PostScript® lettertypen
@@ -29,15 +29,15 @@ Dynamic Media Classic ondersteunt de volgende lettertypen:
 * OpenType-/PostScript-lettertypen
 * PhotoFonts
 
-Nadat een lettertypebestand is geüpload, kunt u de klassieke Dynamic Media-id, de lettertypenaam en de tekstgegevens wijzigen in het scherm Info bewerken.
+Nadat een lettertypebestand is geüpload, kunt u de klassieke Adobe Dynamic Media-id, de lettertypenaam en de typegegevens wijzigen in het scherm Info bewerken.
 
 >[!NOTE]
 >
->Dynamic Media Classic raadt aan alle lettertypestijlen (vet, cursief, vet/cursief en standaard) te uploaden als u lettertypen in sjabloonlagen wilt gebruiken. Dynamic Media Classic heeft deze lettertypestijlen nodig om aanvragen te verwerken. Het wordt ook aanbevolen alle PostScript/Adobe Type1-bestanden te uploaden die aan een lettertype zijn gekoppeld, omdat sommige van deze lettertypen gedetailleerde tekenspatiëringsgegevens bevatten.
+>Adobe Dynamic Media Classic raadt aan alle lettertypestijlen (vet, cursief, vet/cursief en standaard) te uploaden als u lettertypen in sjabloonlagen wilt gebruiken. Adobe Dynamic Media Classic heeft deze lettertypestijlen nodig om aanvragen te verwerken. Het wordt ook aanbevolen alle PostScript/Adobe Type1-bestanden te uploaden die aan een lettertype zijn gekoppeld, omdat sommige van deze lettertypen gedetailleerde tekenspatiëringsgegevens bevatten.
 
 ## Fontbestanden uploaden {#uploading-font-files}
 
-Upload doopvontdossiers met de zelfde technieken u gebruikt om andere dossiers te uploaden. U kunt lettertypebestanden opslaan in elke Classic-map van Dynamic Media. Zie [Uw bestanden uploaden](uploading-files.md#uploading_your_files).
+Upload doopvontdossiers met de zelfde technieken u gebruikt om andere dossiers te uploaden. U kunt lettertypebestanden opslaan in elke Adobe Dynamic Media Classic-map. Zie [Uw bestanden uploaden](uploading-files.md#uploading_your_files).
 
 ## Informatie over lettertypebestanden bewerken {#editing-font-file-information}
 

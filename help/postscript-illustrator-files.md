@@ -7,19 +7,19 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/master_files
 discoiquuid: c04c1331-8d94-449b-9693-1488c94084dc
-feature: Dynamic Media Classic, beheer van bedrijfsmiddelen
+feature: Dynamic Media Classic,Asset Management
 role: User
 exl-id: 08f14fe9-3e3b-4235-a6c5-b6b6d2ffc4bd
-source-git-commit: df689ff5a127bfbc400ca5331168d1ff7bb0b42e
+source-git-commit: 1d71cbe6e2493ac8d47e837a20e194b6ae7a22d4
 workflow-type: tm+mt
-source-wordcount: '210'
+source-wordcount: '207'
 ht-degree: 0%
 
 ---
 
 # Werken met PostScript- en Illustrator-bestanden{#working-with-postscript-and-illustrator-files}
 
-U kunt Adobe PostScript® (EPS)- en Adobe® Illustrator® (AI)-bestanden gebruiken in Dynamic Media Classic. Dynamic Media Classic bevat opdrachten voor het configureren van deze bestanden terwijl u deze uploadt.
+U kunt Adobe PostScript® (EPS)- en Adobe® Illustrator® (AI)-bestanden gebruiken in Adobe Dynamic Media Classic. Adobe Dynamic Media Classic biedt opdrachten voor het configureren van deze bestanden terwijl u deze uploadt.
 
 Wanneer u PostScript- (EPS) of Illustrator-afbeeldingsbestanden (AI) uploadt, kunt u deze op verschillende manieren opmaken. U kunt de bestanden rasteren, omzetten in FXG voor Sjabloonpublicatie, de transparante achtergrond behouden, een resolutie kiezen en een kleurruimte kiezen. Opties voor de opmaak van PostScript- en Illustrator-bestanden zijn beschikbaar op het scherm Uploaden onder PostScript-opties en Illustrator-opties in het vak Opties voor uploaden.
 

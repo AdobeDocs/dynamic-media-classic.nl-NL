@@ -7,19 +7,19 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/spin_sets
 discoiquuid: 282b8e83-b20f-43f7-b9f8-6eebd5b1c5a7
-feature: Dynamic Media Klassiek,Viewers,Draaiende Reeksen
+feature: Dynamic Media Classic,Viewers,Spin Sets
 role: User
 exl-id: 26e3cd5b-f070-4b92-af36-25631723460e
-source-git-commit: df689ff5a127bfbc400ca5331168d1ff7bb0b42e
+source-git-commit: 1d71cbe6e2493ac8d47e837a20e194b6ae7a22d4
 workflow-type: tm+mt
-source-wordcount: '696'
+source-wordcount: '695'
 ht-degree: 0%
 
 ---
 
 # Snel starten: Sets draaien{#quick-start-spin-sets}
 
-Een centrifugeerset simuleert de echte handeling waarbij een object wordt omgedraaid om het te onderzoeken. Met centrifuges kunt u items vanuit elke hoek bekijken en de belangrijkste visuele details vanuit elke hoek verkrijgen. Een centrifugeerset simuleert een kijkervaring van 360 graden. In Dynamic Media Classic kunnen eendimensionale centrifuges worden gebruikt waarbij gebruikers een item kunnen roteren en tweedimensionale centrifuges waarin gebruikers het item kunnen roteren en spiegelen. Bovendien kunnen gebruikers met een paar eenvoudige muisklikken in- en uitzoomen op een vrije vorm en een willekeurige weergave pannen. Op deze manier kunnen gebruikers een item vanuit een bepaald gezichtspunt nader onderzoeken.
+Een centrifugeerset simuleert de echte handeling waarbij een object wordt omgedraaid om het te onderzoeken. Met centrifuges kunt u items vanuit elke hoek bekijken en de belangrijkste visuele details vanuit elke hoek verkrijgen. Een centrifugeerset simuleert een kijkervaring van 360 graden. Adobe Dynamic Media Classic biedt eendimensionale centrifuges waarin gebruikers een item kunnen roteren en tweedimensionale centrifuges waarin gebruikers het item kunnen roteren en spiegelen. Bovendien kunnen gebruikers met een paar eenvoudige muisklikken in- en uitzoomen op een vrije vorm en een willekeurige weergave pannen. Op deze manier kunnen gebruikers een item vanuit een bepaald gezichtspunt nader onderzoeken.
 
 ![Afbeeldingen voor een centrifugeerset.](/help/assets/spin_set.png)
 
@@ -27,13 +27,13 @@ Draaisets accepteren ook afbeeldingen met hyperlinks. Een afbeelding met hyperli
 
 Zie [Afbeeldingskaarten maken](creating-image-maps.md).
 
-Deze centrifugeert Snel starten is ontworpen om snel aan de slag te gaan met centrifugetechnieken in Dynamic Media Classic. Voer stap 1 tot en met 7 uit. Aan het eind van elke stap, kunt u een onderwerpverbinding klikken om meer te leren.
+Deze centrifugeert Snel starten is ontworpen om snel aan de slag te gaan met centrifugetechnieken in Adobe Dynamic Media Classic. Voer stap 1 tot en met 7 uit. Aan het eind van elke stap, kunt u een onderwerpverbinding klikken om meer te leren.
 
 ## 1. De afbeeldingen maken en uploaden
 
 U hebt minstens 8-12 opnamen van een item nodig voor een eendimensionale centrifugeset en 16-24 voor een tweedimensionale centrifugeset. De opnamen moeten regelmatig worden gemaakt om de indruk te wekken dat het item draait en wordt gespiegeld. Als een eendimensionale centrifugeset bijvoorbeeld 12 opnamen bevat, roteert u het item 30° (360/12) voor elke opname.
 
-Klik op de algemene navigatiebalk op **[!UICONTROL Upload]** om draaiafbeeldingen van uw computer of netwerk te uploaden naar Dynamic Media Classic.
+Klik op de algemene navigatiebalk op **[!UICONTROL Upload]** om draaiafbeeldingen van uw computer of netwerk te uploaden naar Adobe Dynamic Media Classic.
 
 Zie [Richtlijnen voor het maken van centrifugeerbare afbeeldingen](creating-spin-set.md#guidelines-for-shooting-spin-set-images).
 
@@ -85,7 +85,7 @@ Zie [Een voorvertoning weergeven van een centrifugeset](previewing-spin-set.md#p
 
 ## 6. Een centrifugeerset publiceren
 
-Als u een centrifugeerset publiceert, wordt deze op de Classic-servers van Dynamic Media geplaatst, zodat deze dynamisch aan uw website of toepassing kunnen worden geleverd. Het activeert ook de URL-tekenreeks die de Spin Set van Dynamic Media Image-servers naar uw website of toepassing aanroept.
+Als u een Spin-set publiceert, wordt deze op Adobe Dynamic Media Classic-servers geplaatst, zodat deze dynamisch aan uw website of toepassing kunnen worden geleverd. Het activeert ook de URL-tekenreeks die de Spin Set van Dynamic Media Image-servers naar uw website of toepassing aanroept.
 
 Als u een centrifugeset wilt publiceren, markeert u deze voor publicatie door het pictogram **[!UICONTROL Mark for Publish]** naast de naam ervan in het deelvenster Bladeren te selecteren. Voor de Globale bar van de Navigatie, klik **[!UICONTROL Publish]** om te beginnen publiceren. Klik op **[!UICONTROL Submit Publish]** in het scherm Publiceren.
 
@@ -93,7 +93,7 @@ Zie [Een centrifugeerset publiceren](publishing-spin-set.md#publishing-a-spin-se
 
 ## 7. Een centrifugeerset koppelen aan een webpagina
 
-Dynamic Media Classic maakt URL-callout-tekenreeksen voor centrifuges en activeert deze na publicatie. U kunt deze URL&#39;s kopiëren vanaf de voorvertoningspagina.
+Adobe Dynamic Media Classic maakt URL-bijschrifttekenreeksen voor centrifuges en activeert deze na publicatie. U kunt deze URL&#39;s kopiëren vanaf de voorvertoningspagina.
 
 Selecteer de centrifugeset en klik op **[!UICONTROL Preview]**. Selecteer een voorinstelling voor een centrifugeset viewer. Klik vervolgens op **[!UICONTROL Copy URL]**.
 

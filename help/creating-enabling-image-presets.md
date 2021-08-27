@@ -1,18 +1,18 @@
 ---
 title: Voorinstellingen afbeelding maken en inschakelen
-description: Leer hoe u voorinstellingen voor afbeeldingen maakt en inschakelt in Dynamic Media Classic.
+description: Leer hoe u voorinstellingen voor afbeeldingen maakt en inschakelt in Adobe Dynamic Media Classic.
 uuid: 62cfc6fa-da91-4c42-a3ed-10956384d633
 contentOwner: admin
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/media_portal
 discoiquuid: 84257b2a-681c-4fe9-a6e5-3633c1d61d8c
-feature: Dynamic Media Klassiek, Samenwerking, Voorinstellingen voor afbeeldingen, Middelenbeheer
+feature: Dynamic Media Classic,Collaboration,Image Presets,Asset Management
 role: Admin,User
 exl-id: 94c6c388-226b-4172-a6c7-a8dcf9c0f0cf
-source-git-commit: 7be3f63bfadeafa71eeb2567f982f579ccb85975
+source-git-commit: 1d71cbe6e2493ac8d47e837a20e194b6ae7a22d4
 workflow-type: tm+mt
-source-wordcount: '264'
+source-wordcount: '258'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Wanneer gebruikers afbeeldingselementen exporteren met gebruik van Media Portal, kunnen zij een voorinstelling voor afbeelding kiezen in het dialoogvenster Geselecteerde elementen exporteren. Een voorinstelling voor afbeeldingen is een verzameling vooraf gedefinieerde instellingen die de grootte, afbeeldingskwaliteit, indeling, resolutie en andere aspecten van de weergave van een afbeelding tijdens het exporteren wijzigen.
 
-Beheerders van Media Portal kunnen voorinstellingen voor afbeeldingen maken om te bepalen hoe afbeeldingen opnieuw worden opgemaakt wanneer ze worden geëxporteerd. Met Voorinstellingen voor afbeeldingen kunt u afbeeldingen opnieuw opmaken volgens de specificaties van uw bedrijf wanneer gebruikers afbeeldingen exporteren uit de Dynamic Media Classic. Gebruikers kunnen de afbeeldingen niet alleen opnieuw opmaken, maar naar de exacte specificaties van een voorinstelling voor afbeeldingen exporteren.
+Beheerders van Media Portal kunnen voorinstellingen voor afbeeldingen maken om te bepalen hoe afbeeldingen opnieuw worden opgemaakt wanneer ze worden geëxporteerd. Met Voorinstellingen voor afbeeldingen kunt u afbeeldingen opnieuw opmaken volgens de specificaties van uw bedrijf wanneer gebruikers afbeeldingen exporteren uit de Adobe Dynamic Media Classic. Gebruikers kunnen de afbeeldingen niet alleen opnieuw opmaken, maar naar de exacte specificaties van een voorinstelling voor afbeeldingen exporteren.
 
 Bij het exporteren van afbeeldingselementen gelden de volgende beperkingen:
 

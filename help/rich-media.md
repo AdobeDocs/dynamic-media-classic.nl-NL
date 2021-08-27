@@ -1,6 +1,6 @@
 ---
 title: Rijke media
-description: Meer informatie over de verschillende tools in Dynamic Media Classic die u kunnen helpen rijke media te maken.
+description: Meer informatie over de verschillende gereedschappen in Adobe Dynamic Media Classic die u kunnen helpen rijke media te maken.
 uuid: b64981a3-c3c2-4010-9b65-f9982ea0a664
 contentOwner: admin
 content-type: reference
@@ -10,24 +10,24 @@ discoiquuid: 86f72d31-19aa-4077-a746-2badb53b02ec
 feature: Dynamic Media Classic
 role: Admin,User
 exl-id: 52937d52-92a6-4310-a363-d3c8a266e9ef
-source-git-commit: df689ff5a127bfbc400ca5331168d1ff7bb0b42e
+source-git-commit: 1d71cbe6e2493ac8d47e837a20e194b6ae7a22d4
 workflow-type: tm+mt
-source-wordcount: '454'
+source-wordcount: '456'
 ht-degree: 0%
 
 ---
 
 # Rijke media{#rich-media}
 
-Dynamic Media Classic bevat veel gereedschappen voor het maken van rijke media. U maakt de volgende rich media-typen:
+Adobe Dynamic Media Classic biedt veel gereedschappen voor het maken van rijke media. U maakt de volgende rich media-typen:
 
 * **eCatalogs**  - Presenteer een interactieve, onderzoek-toegelaten Webversie van uw catalogus of ander drukmateriaal. Maak klikbare gebieden (Afbeeldingskaarten) die rolloverinhoud weergeven en klanten in staat stellen pagina&#39;s om te slaan, in te zoomen, te pannen en notities aan pagina&#39;s te koppelen.
 Zie [Snel starten: eCatalog](/help/quick-start-ecatalog.md).
 
-* **eVideo** : levert video van hoge kwaliteit op meerdere schermen, waaronder desktops, mobiele apparaten en tablets. Gebruik vooraf gedefinieerde Dynamic Media Classic-coderingsvoorinstellingen of pas de codering aan om de kwaliteit en grootte van video te bepalen. Video organiseren, doorbladeren en doorzoeken met volledige metagegevensondersteuning voor een efficiënt beheer van video-elementen.
+* **eVideo** : levert video van hoge kwaliteit op meerdere schermen, waaronder desktops, mobiele apparaten en tablets. Gebruik vooraf gedefinieerde Adobe Dynamic Media Classic-coderingsvoorinstellingen of pas de codering aan om de kwaliteit en grootte van video te bepalen. Video organiseren, doorbladeren en doorzoeken met volledige metagegevensondersteuning voor een efficiënt beheer van video-elementen.
 Zie [Snel starten: eVideo](/help/quick-start-video.md).
 
-* **Afbeeldingen met hyperlinks** : bewaar afbeeldingen op elke grootte en in elke indeling op uw website. In plaats van handmatig veel afbeeldingen van verschillende grootten te maken, gebruikt u slechts één master afbeelding. Aangezien Dynamic Media Classic de gevraagde afbeelding levert, optimaliseert het de afbeelding voor resultaten van de hoogste kwaliteit in formaat, formaat, gewicht, kwaliteit en verscherping.
+* **Afbeeldingen met hyperlinks** : bewaar afbeeldingen op elke grootte en in elke indeling op uw website. In plaats van handmatig veel afbeeldingen van verschillende grootten te maken, gebruikt u slechts één master afbeelding. Aangezien Adobe Dynamic Media Classic de gevraagde afbeelding levert, optimaliseert het de afbeelding voor resultaten van de hoogste kwaliteit in formaat, formaat, gewicht, kwaliteit en verscherping.
 Zie [Snel starten: Afbeeldingsgrootte](/help/quick-start-image-sizing.md).
 
 * **Afbeeldingssets**  — Lever een interactieve winkelervaring waarin gebruikers producten in meerdere weergaven kunnen bekijken. U kunt zoomen, meerdere weergaven en kleurstalen combineren voor een geïntegreerde weergave.
@@ -45,5 +45,5 @@ Zie [Snel starten: Staalsets](/help/quick-start-swatch-sets.md).
 * **Sjabloonbasisbeginselen**  - Gegevensgestuurde sjablonen maken waarin lettertypen, afbeeldingen en afbeeldingen worden gecombineerd voor monogramming, online personalisatie en promoties. Bijvoorbeeld, laag verkoop of andere promotionele grafiek op productbeelden of plaats de namen van klanten op T-shirts of koffiemugs. Klanten kunnen hun namen zien in e-mailberichten of gedrukte brochures die u hen stuurt.
 Zie [Snel starten: Basisbeginselen van sjablonen](/help/quick-start-template-basics.md).
 
-* **Zoomdoelen** : hiermee kunnen klanten inzoomen, uitzoomen en afbeeldingen pannen met de configureerbare viewers die bij Dynamic Media Classic worden geleverd. Klanten kunnen snel en interactief productdetails met een hoge resolutie bekijken.
+* **Zoomdoelen** : hiermee kunnen klanten inzoomen, uitzoomen en afbeeldingen pannen met de configureerbare viewers die bij Adobe Dynamic Media Classic worden geleverd. Klanten kunnen snel en interactief productdetails met een hoge resolutie bekijken.
 Zie [Snel starten: Zoomen](/help/quick-start-zoom.md).

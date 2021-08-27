@@ -7,25 +7,25 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/mixed_media_sets
 discoiquuid: 4e8694f7-c1b5-4d45-a18b-2b9494db1757
-feature: Dynamic Media Klassiek,Viewers,Gemengde Mediasets
+feature: Dynamic Media Classic,Viewers,Mixed Media Sets
 role: User
 exl-id: 1fca9640-d127-454a-b3aa-b2ac82136e62
-source-git-commit: 591feb7ee4ac88e39941b429a8aa965d4d919738
+source-git-commit: 1d71cbe6e2493ac8d47e837a20e194b6ae7a22d4
 workflow-type: tm+mt
-source-wordcount: '235'
+source-wordcount: '231'
 ht-degree: 0%
 
 ---
 
 # Een gemengde mediaset publiceren{#publishing-a-mixed-media-set}
 
-Maak een publicatietaak om een gemengde mediaset te publiceren die u hebt gemarkeerd voor publiceren naar Dynamic Media Classic Video Server en Image Server. Dynamic Media Classic biedt geavanceerde publicatieopties voor het publiceren naar specifieke servers en opties voor het opnieuw publiceren van middelen die al zijn gepubliceerd.
+Maak een publicatietaak om een gemengde mediaset te publiceren die u hebt gemarkeerd voor publiceren naar Adobe Dynamic Media Classic Video Server en Image Server. Adobe Dynamic Media Classic biedt geavanceerde publicatieopties voor het publiceren naar specifieke servers en opties voor het opnieuw publiceren van middelen die al zijn gepubliceerd.
 
 >[!NOTE]
 >
 >Voor gemengde mediasets moet u publiceren naar **Videoserver** en ook naar **Afbeeldingsserver**. U gebruikt **Videoserver** om de daadwerkelijke video&#39;s te publiceren die u voor publicatie hebt gemerkt. En u gebruikt **Afbeeldingsserver** om gerelateerde elementen, zoals videominiaturen, te publiceren en informatie in te stellen voor elke adaptieve videoset.
 
-Dynamic Media Classic volgt de publicatietaken op het scherm Taken.
+Adobe Dynamic Media Classic volgt publicatietaken op het scherm Taken.
 
 Zie [Publiceren](publishing-files.md#publishing_files).
 

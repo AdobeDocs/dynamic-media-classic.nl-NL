@@ -1,13 +1,15 @@
 ---
-source-git-commit: 648e8068125cca090a5f31a44c3795755a2b996f
-translation-type: tm+mt
+source-git-commit: 1d71cbe6e2493ac8d47e837a20e194b6ae7a22d4
+workflow-type: tm+mt
+source-wordcount: '697'
+ht-degree: 4%
 
 ---
-# Richtlijnen voor het leveren van een bijdrage aan de documentatie van Adobe Dynamic Media Classic
+# Richtsnoeren voor het bijdragen aan de Klassieke Documentatie van Adobe Dynamic Media
 
-## Adobe Dynamic Media Classic Documentation-filosofie
+## Adobe Dynamic Media Classic Documentation Philosophy
 
-We weten dat gebruikers van Adobe Dynamic Media Classic in zeer competitieve omgevingen werken en digitale ervaringen proberen te creëren die hen van hun concurrenten zullen onderscheiden. Daarom is het van essentieel belang dat wanneer Adobe geavanceerde nieuwe gereedschappen biedt, deze gereedschappen worden aangevuld met nauwkeurige en duidelijke documentatie, zodat de klant onmiddellijk gebruik kan maken van zijn Dynamic Media Classic-investering en het investeringsrendement kan maximaliseren.
+We weten dat Adobe Dynamic Media Classic-gebruikers werken in zeer concurrerende omgevingen en streven naar het creëren van digitale ervaringen die hen onderscheiden van hun concurrenten. Daarom is het van essentieel belang dat wanneer Adobe geavanceerde nieuwe hulpmiddelen levert, deze hulpmiddelen met nauwkeurige en duidelijke documentatie worden aangevuld om de klant toe te staan om hun Klassieke Adobe Dynamic Media-investering onmiddellijk te benutten en het rendement van investeringen te maximaliseren.
 
 Het doel van de documentatie is om zo snel mogelijk actuele documentatie in de handen van gebruikers te krijgen. Daarom geven wij prioriteit aan nauwkeurige, bruikbare documentatie en streven wij ernaar deze voortdurend bij te werken en te verbeteren.
 
@@ -33,11 +35,11 @@ De uitzonderingen op deze regel zijn op de versienota&#39;s van toepassing waar 
 
 ### De bijdragen van de documentatie zijn niet voor het beantwoorden van technische vragen.
 
-Alle ideeën die u eventueel nodig hebt om de documentatie te verbeteren, zijn welkom als bijdragen. Opmerkingen, problemen en intrekkingsverzoeken zijn echter alleen bedoeld voor *bijdragen* . Zij zijn niet bedoeld om worden gebruikt om uw vragen over te beantwoorden hoe te om Dynamische Klassiek van Media te gebruiken, uw project uit te voeren, of technische problemen op te lossen.
+Alle ideeën die u eventueel nodig hebt om de documentatie te verbeteren, zijn welkom als bijdragen. Opmerkingen, problemen en pull-aanvragen zijn echter alleen bedoeld voor *bijdragen*. Ze zijn niet bedoeld om te worden gebruikt om je vragen te beantwoorden over hoe je Adobe Dynamic Media Classic kunt gebruiken, je project kunt implementeren of technische problemen kunt oplossen.
 
-Vragen over het gebruik van Dynamic Media Classic of technische fouten die u mogelijk hebt, moeten worden gerapporteerd via de [Experience Cloud Enterprise Support-portal](https://helpx.adobe.com/contact/enterprise-support.ec.html) of worden besproken in de [Experience Cloud-community](https://forums.adobe.com/community/experience-cloud/marketing-cloud/experience-manager).
+Vragen over het gebruik van Adobe Dynamic Media Classic of technische fouten die u mogelijk hebt gemaakt, moeten worden gerapporteerd via het [Enterprise Support-portaal ](https://helpx.adobe.com/nl/contact/enterprise-support.ec.html) of worden besproken in de [Experience Cloud-community](https://forums.adobe.com/community/experience-cloud/marketing-cloud/experience-manager).
 
-***De bijdragen van de documentatie zijn geen vervanging voor de klantenservice*** van Adobe en dergelijke bijdragen die antwoorden op supportgerelateerde vragen zoeken, zullen worden afgewezen.
+***Documentatiebijdragen zijn geen vervanging voor Adobe Customer*** Caret en dergelijke bijdragen die antwoorden op supportgerelateerde vragen willen, worden afgewezen.
 
 ### Bijdragen moeten duidelijk verwijzen naar betrokken documentatiepagina&#39;s.
 
@@ -63,7 +65,7 @@ Alle lezers van de documentatie zijn over de hele wereld beschikbaar en kunnen n
 
 #### Handleiding van Microsoft volgen
 
-[De handleiding van Microsoft van Stijl](https://docs.microsoft.com/en-us/style-guide/welcome/) is een vrij beschikbare gids van de documentatiestijl die zich op softwaredocumentatie en Dynamische documentatie van Media Classic concentreert volgt deze gids waar mogelijk.
+[De handleiding van Microsoft van ](https://docs.microsoft.com/en-us/style-guide/welcome/) stijl is een vrij beschikbare gids van de documentatiestijl die zich op softwaredocumentatie en de Klassieke documentatie van Adobe Dynamic Media concentreert volgt waar mogelijk deze gids.
 
 ### Opmaak
 

@@ -10,9 +10,9 @@ discoiquuid: f8c25768-cf59-45ec-8193-522404191d57
 feature: Dynamic Media Classic
 role: Data Engineer,Admin,User
 exl-id: 4745ace5-7825-468e-8a82-bfbbcf1b0440
-source-git-commit: df689ff5a127bfbc400ca5331168d1ff7bb0b42e
+source-git-commit: 1d71cbe6e2493ac8d47e837a20e194b6ae7a22d4
 workflow-type: tm+mt
-source-wordcount: '487'
+source-wordcount: '490'
 ht-degree: 0%
 
 ---
@@ -21,19 +21,19 @@ ht-degree: 0%
 
 Met Adobe Target Standard/Premium wordt de controle rechtstreeks bij de marketers gelegd om snel en voortdurend meerdere A/B- en multivariate-tests uit te voeren, de doeltreffendheid te meten en de relevantie van online-inhoud te vergroten door segmentatie, doelgerichtheid en geautomatiseerde personalisatie.
 
-Met Dynamic Media Classic kunt u aanbiedingen maken en sets aanbieden voor Adobe Target Standard/Premium-campagnes. U kunt bijvoorbeeld een aanbiedingsset maken met drie variaties van hetzelfde rich media-element. Vervolgens kunt u met Adobe Target Standard/Premium bepalen welk element een betere conversielift biedt. U kunt aanbiedingen maken en sets aanbieden op basis van een standaardsjabloon of op basis van afzonderlijke afbeeldingen. Nadat de aanbiedingsreeks is geduwd op of opgeslagen aan Adobe Target Standard/Premium, waar de aanbiedingen aan dozen en ervaringen worden geassocieerd, kan Adobe Target Standard/Premium campagnes voeren. Deze campagnes bepalen welke variatie van een website waarschijnlijk het beste voor klikdoorloop en omzetting zal presteren.
+Met Adobe Dynamic Media Classic kunt u aanbiedingen maken en sets aanbieden voor Adobe Target Standard/Premium-campagnes. U kunt bijvoorbeeld een aanbiedingsset maken met drie variaties van hetzelfde rich media-element. Vervolgens kunt u met Adobe Target Standard/Premium bepalen welk element een betere conversielift biedt. U kunt aanbiedingen maken en sets aanbieden op basis van een standaardsjabloon of op basis van afzonderlijke afbeeldingen. Nadat de aanbiedingsreeks is geduwd op of opgeslagen aan Adobe Target Standard/Premium, waar de aanbiedingen aan dozen en ervaringen worden geassocieerd, kan Adobe Target Standard/Premium campagnes voeren. Deze campagnes bepalen welke variatie van een website waarschijnlijk het beste voor klikdoorloop en omzetting zal presteren.
 
-Gebruik Adobe Target Standard/Premium HTML-aanbiedingen voor meer aanpassing van dynamische Dynamic Media Classic-inhoud. Raadpleeg de [Adobe Target Standard/Premium productdocumentatie](https://experienceleague.adobe.com/docs/target.html) voor meer informatie.
+Voor een betere aanpassing van dynamische Adobe Dynamic Media Classic-inhoud gebruikt u de Adobe Target Standard/Premium HTML-aanbiedingen. Raadpleeg de [Adobe Target Standard/Premium productdocumentatie](https://experienceleague.adobe.com/docs/target.html) voor meer informatie.
 
 >[!NOTE]
 >
->Een geldige Adobe Target Standard/Premium-account is vereist als u Adobe Target Standard/Premium met Dynamic Media Classic wilt gebruiken.
+>Een geldige Adobe Target Standard/Premium-account is vereist als u Adobe Target Standard/Premium wilt gebruiken met Adobe Dynamic Media Classic.
 
 Deze snelle start is ontworpen om snel aan de slag te gaan met Adobe Target Standard/Premium HTML-aanbiedingen. Voer stap 1 tot en met 3 uit. Na elke stap is een verwijzing naar een onderwerprubriek waar u meer informatie kunt vinden.
 
 ## 1. Voer de Adobe Target Standard/Premium-URL in op de pagina Algemene instellingen voor toepassing
 
-Dynamic Media Classic heeft uw Adobe Target Standard/Premium-URL nodig om te integreren met Adobe Target Standard/Premium. Kopieer het gedeelte van uw Adobe Target Standard/Premium-URL tot en met `.com` en voer deze in op de pagina Dynamic Media Classic **[!UICONTROL Application General Settings]** in het tekstveld **[!UICONTROL Servers]** in het tekstveld **[!UICONTROL Test&Target Server Name]**. Zie [Dynamic Media Classic integreren met Adobe Target Standard/Premium](integrating-dmc-with-target.md#integrating-dmc-with-target).
+Adobe Dynamic Media Classic heeft uw Adobe Target Standard/Premium-URL nodig om te integreren met Adobe Target Standard/Premium. Kopieer het gedeelte van uw Adobe Target Standard/Premium-URL tot en met `.com` en voer deze in op de pagina Klassieke **[!UICONTROL Application General Settings]** van de Adobe Dynamic Media-klasse in het tekstveld **[!UICONTROL Test&Target Server Name]** in de groep **[!UICONTROL Servers]**. Zie [Adobe Dynamic Media Classic integreren met Adobe Target Standard/Premium](integrating-dmc-with-target.md#integrating-dmc-with-target).
 
 ## 2. De aanbiedingsset maken
 

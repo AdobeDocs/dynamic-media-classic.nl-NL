@@ -1,6 +1,6 @@
 ---
 title: Werken in de gedetailleerde weergave
-description: Leer hoe u in de gedetailleerde weergave werkt in Dynamic Media Classic.
+description: Leer hoe u in de detailweergave werkt in Adobe Dynamic Media Classic.
 uuid: cb62f765-9b7f-4a53-8206-99afae2fb80d
 contentOwner: admin
 content-type: reference
@@ -10,9 +10,9 @@ discoiquuid: eaa214ff-d1ef-4691-9148-d01bf243c810
 feature: Dynamic Media Classic,Asset Management
 role: User
 exl-id: 618ae6a4-6f60-4a80-b197-a9d35b3c47af
-source-git-commit: 47845c30311fb9afb3fffb8502b6e7c534e4bfdb
+source-git-commit: 1d71cbe6e2493ac8d47e837a20e194b6ae7a22d4
 workflow-type: tm+mt
-source-wordcount: '597'
+source-wordcount: '600'
 ht-degree: 0%
 
 ---
@@ -44,7 +44,7 @@ Als u elementen nauwkeurig wilt bekijken, voorvertonen of bewerken, kunt u deze 
 
 1. Voer in het deelvenster Bladeren een van de volgende handelingen uit:
 
-   * Selecteer het element. Selecteer in de rechterbovenhoek van de Dynamic Media Classic het pictogram **[!UICONTROL Detail View]**.
+   * Selecteer het element. Selecteer in de rechterbovenhoek van de Klassieke Adobe Dynamic Media het pictogram **[!UICONTROL Detail View]**.
    * Dubbelklik op het element.
    * Selecteer het element en ga naar **[!UICONTROL File]** > **[!UICONTROL Details]**.
 
@@ -54,7 +54,7 @@ Als u elementen nauwkeurig wilt bekijken, voorvertonen of bewerken, kunt u deze 
 
 ## Gegevens ophalen in de gedetailleerde weergave {#getting-information-in-detail-view}
 
-De gedetailleerde weergave biedt informatie over een element of bestand. Hier wordt deze informatie over een object getoond: de map waarin het is opgeslagen, de bestandsnaam, de datum waarop het item is geüpload naar Dynamic Media Classic en de publicatiegeschiedenis. U kunt metagegevens ook weergeven en bewerken en trefwoorden voor een element toevoegen in de gedetailleerde weergave.
+De gedetailleerde weergave biedt informatie over een element of bestand. Hier wordt deze informatie over een object getoond: de map waarin het is opgeslagen, de bestandsnaam, de datum waarop het item is geüpload naar Adobe Dynamic Media Classic en de publicatiegeschiedenis. U kunt metagegevens ook weergeven en bewerken en trefwoorden voor een element toevoegen in de gedetailleerde weergave.
 
 U kunt een middel-URL in de Gedetailleerde Mening verkrijgen; de URL is echter pas actief wanneer u het element publiceert. Voor afbeeldingen biedt de gedetailleerde weergave ook een lijst met samengestelde en afgeleide elementen en metagegevens, zoals zoomdoelen en Afbeeldingssets.
 

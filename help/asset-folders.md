@@ -1,27 +1,27 @@
 ---
 title: Werken met middelenmappen
-description: Leer hoe u met middelenmappen werkt in Dynamic Media Classic.
+description: Leer hoe u met middelenmappen werkt in Adobe Dynamic Media Classic.
 uuid: 3bd83701-e2c2-4e39-b225-c2d27ad836c2
 contentOwner: admin
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/managing_assets
 discoiquuid: 588944c3-78ba-4bd1-a8da-9a6dd99a27a9
-feature: Dynamic Media Classic, beheer van bedrijfsmiddelen
+feature: Dynamic Media Classic,Asset Management
 role: User
 exl-id: 8599d4a3-57eb-4432-812f-7e55a4315c1b
-source-git-commit: 1d30c98b76ebe78ff60bae87bd112de7a577182d
+source-git-commit: 1d71cbe6e2493ac8d47e837a20e194b6ae7a22d4
 workflow-type: tm+mt
-source-wordcount: '435'
+source-wordcount: '436'
 ht-degree: 0%
 
 ---
 
 # Werken met middelenmappen{#working-with-asset-folders}
 
-Bestandselementen in de Dynamic Media Classic worden in mappen opgeslagen. Deze mappen worden in alfabetische volgorde weergegeven in het deelvenster Elementenbibliotheek. Voordat u bestanden uploadt van uw computer of netwerk naar Dynamic Media Classic, wordt u gevraagd een naam op te geven voor de map waarin de bestanden worden opgeslagen. Maak deze mappen voordat u bestanden uploadt.
+Bestandselementen in de Adobe Dynamic Media Classic worden opgeslagen in mappen. Deze mappen worden in alfabetische volgorde weergegeven in het deelvenster Elementenbibliotheek. Voordat u bestanden uploadt van uw computer of netwerk naar Adobe Dynamic Media Classic, wordt u gevraagd een naam op te geven voor de map waarin de bestanden worden opgeslagen. Maak deze mappen voordat u bestanden uploadt.
 
-Zorg ervoor dat u een mapstructuur en organisatie voor het opslaan van uw bestanden op Dynamic Media Classic hebt voordat u bestanden uploadt.
+Zorg ervoor dat u een mapstructuur en organisatie voor het opslaan van bestanden op Adobe Dynamic Media Classic hebt voordat u bestanden uploadt.
 
 ## Mappen weergeven, verplaatsen, verbergen en openen {#displaying-moving-hiding-and-opening-folders}
 
@@ -47,7 +47,7 @@ In de elementenbibliotheek worden bestanden in een mappenstructuur weergegeven. 
 
    >[!NOTE]
    >
-   >U kunt ook mappen maken in Dynamic Media Classic wanneer u bestanden uploadt via FTP. Als u de optie **[!UICONTROL Include Subfolders]** selecteert wanneer u uploadt via FTP, wordt de mapstructuur op uw computer in het systeem gerepliceerd. Bestanden en submappen op uw computer of netwerk worden gerepliceerd in de Asset Library en de elementen die u uploadt, worden in deze mappen geplaatst.
+   >U kunt ook mappen maken in Adobe Dynamic Media Classic wanneer u bestanden uploadt via FTP. Als u de optie **[!UICONTROL Include Subfolders]** selecteert wanneer u uploadt via FTP, wordt de mapstructuur op uw computer in het systeem gerepliceerd. Bestanden en submappen op uw computer of netwerk worden gerepliceerd in de Asset Library en de elementen die u uploadt, worden in deze mappen geplaatst.
 
 ## Mappen verwijderen en hernoemen {#deleting-and-renaming-folders}
 
@@ -59,4 +59,4 @@ Selecteer een map en gebruik de volgende technieken om de map te verwijderen of 
 
 >[!NOTE]
 >
->U kunt geen mappen of elementen kopiëren, omdat hierdoor dubbele mappen en elementen op Dynamic Media Classic worden gemaakt en duplicaten niet zijn toegestaan.
+>U kunt geen mappen of elementen kopiëren, omdat hierdoor dubbele mappen en elementen op Adobe Dynamic Media Classic worden gemaakt en duplicaten niet zijn toegestaan.

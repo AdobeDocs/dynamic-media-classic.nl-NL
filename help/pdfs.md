@@ -1,25 +1,25 @@
 ---
 title: Werken met PDF's
-description: Leer hoe u met PDF's werkt in Dynamic Media Classic.
+description: Leer hoe u met PDF's werkt in Adobe Dynamic Media Classic.
 uuid: 26d70d28-9393-49b1-9051-d70456deca67
 contentOwner: admin
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/master_files
 discoiquuid: 5a073de3-6b1d-4c3e-8c03-9182f9f3874a
-feature: Dynamic Media Classic, beheer van bedrijfsmiddelen
+feature: Dynamic Media Classic,Asset Management
 role: User
 exl-id: 02892514-61fe-48ba-a2e3-eeb30580a1e4
-source-git-commit: df689ff5a127bfbc400ca5331168d1ff7bb0b42e
+source-git-commit: 1d71cbe6e2493ac8d47e837a20e194b6ae7a22d4
 workflow-type: tm+mt
-source-wordcount: '662'
+source-wordcount: '661'
 ht-degree: 0%
 
 ---
 
 # Werken met PDF&#39;s{#working-with-pdfs}
 
-PDF-bestanden (Portable Document Format) worden meestal gebruikt in Dynamic Media Classic om eCatalogs te maken. Wanneer u een PDF-bestand uploadt, worden de pagina&#39;s standaard gerasterd, of juist gerasterd, zodat de pagina&#39;s kunnen worden gebruikt om rich media te bouwen.
+PDF-bestanden (Portable Document Format) worden meestal gebruikt in Adobe Dynamic Media Classic voor het maken van e-catalogi. Wanneer u een PDF-bestand uploadt, worden de pagina&#39;s standaard gerasterd door Adobe Dynamic Media Classic, of worden de pagina&#39;s gerasterd, zodat de pagina&#39;s kunnen worden gebruikt om rich media te maken.
 
 ## Opties voor uploaden naar PDF {#pdf-upload-options}
 
@@ -59,7 +59,7 @@ Selecteer het menu Kleurruimte en kies een kleurruimte voor het PDF-bestand. De 
 
 * **Oorspronkelijke kleurruimte**  behouden - Behoudt de oorspronkelijke kleurruimte.
 
-* **Aangepast van > naar**  - opent menu&#39;s zodat u een Omzetten van en Omzetten in kleurenruimte kunt kiezen. U kunt een standaard Photoshop-kleurruimte kiezen of een kleurruimte die u naar Dynamic Media Classic hebt geüpload.
+* **Aangepast van > naar**  - opent menu&#39;s zodat u een Omzetten van en Omzetten in kleurenruimte kunt kiezen. U kunt een standaard Photoshop-kleurruimte kiezen of een kleurruimte die u hebt geüpload naar Adobe Dynamic Media Classic.
 
 Zie ook [ICC-profielen](/help/icc-profiles.md#icc_profiles).
 

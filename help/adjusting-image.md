@@ -1,31 +1,31 @@
 ---
 title: Een afbeelding aanpassen
-description: Leer hoe u een afbeelding aanpast in Dynamic Media Classic.
+description: Leer hoe u een afbeelding aanpast in Adobe Dynamic Media Classic.
 uuid: c052acd3-e8c1-4134-ad21-b9c41578097f
 contentOwner: admin
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/master_files
 discoiquuid: 47a23980-2886-4da3-ab2d-6cd50e00d188
-feature: Dynamic Media Classic, beheer van bedrijfsmiddelen
+feature: Dynamic Media Classic,Asset Management
 role: User
 exl-id: 880ee6d0-cb0a-4d53-9056-f0b8b292136e
-source-git-commit: 1d30c98b76ebe78ff60bae87bd112de7a577182d
+source-git-commit: 1d71cbe6e2493ac8d47e837a20e194b6ae7a22d4
 workflow-type: tm+mt
-source-wordcount: '515'
+source-wordcount: '512'
 ht-degree: 0%
 
 ---
 
 # Een afbeelding aanpassen{#adjusting-an-image}
 
-Dynamic Media Classic bevat verschillende opdrachten voor het aanpassen van de weergave van een afbeelding. U kunt een afbeelding spiegelen, roteren, vervagen, de kleurbalans wijzigen en inkleuren. Wanneer u met deze opdrachten experimenteert, kunt u de effecten van de opdrachten op de afbeelding zien waarmee u werkt.
+Adobe Dynamic Media Classic biedt verschillende opdrachten voor het aanpassen van de weergave van een afbeelding. U kunt een afbeelding spiegelen, roteren, vervagen, de kleurbalans wijzigen en inkleuren. Wanneer u met deze opdrachten experimenteert, kunt u de effecten van de opdrachten op de afbeelding zien waarmee u werkt.
 
 Zie ook [Een alias maken voor een afbeelding](adjusting-image.md#creating_an_alias_for_an_image).
 
 **Een afbeelding aanpassen:**
 
-1. Selecteer de rollover van de afbeelding Bewerken knop en kies Aanpassen of dubbelklik in het deelvenster Bladeren op de afbeelding zodat deze wordt geopend in de gedetailleerde weergave.
+1. Selecteer de rollover van de afbeelding Bewerken knop en kies Aanpassen of dubbelklik in het deelvenster Bladeren op de afbeelding zodat deze wordt geopend in Gedetailleerde weergave.
 1. Selecteer een grootte en Voorinstelling voor afbeelding (onder in het venster).
 1. Gebruik de opdrachten aan de rechterkant van het venster Editor aanpassen om de afbeelding aan te passen:
 

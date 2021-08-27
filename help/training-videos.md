@@ -1,10 +1,10 @@
 ---
-title: Dynamic Media Classic Training Video's
-description: Dynamic Media Classic trainingsvideo's over aan de slag gaan, dynamische beeldbewerking, video, mediaportaal, sjablonen en het ontwerpen en renderen van afbeeldingen.
+title: Adobe Dynamic Media Classic Training Video's
+description: Adobe Dynamic Media Classic-trainingsvideo's over aan de slag gaan, dynamische beeldbewerking, video, mediaportaal, sjablonen en het ontwerpen en renderen van afbeeldingen.
 feature: Dynamic Media Classic
 role: Admin,User
 exl-id: 21e67a41-16a2-4f41-8cfe-a5d7941c73a0
-source-git-commit: 885fcd16559d31d3b9bad88705b4b6bec18515ee
+source-git-commit: 1d71cbe6e2493ac8d47e837a20e194b6ae7a22d4
 workflow-type: tm+mt
 source-wordcount: '6546'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Adobe Dynamic Media Classic Training Video&#39;s {#training-videos}
 
-Dynamic Media Classic trainingsvideo&#39;s over aan de slag gaan, dynamische beeldbewerking, video, mediaportaal, sjablonen en het ontwerpen en renderen van afbeeldingen.
+Adobe Dynamic Media Classic-trainingsvideo&#39;s over aan de slag gaan, dynamische beeldbewerking, video, mediaportaal, sjablonen en het ontwerpen en renderen van afbeeldingen.
 
 ## Aan de slag {#get-started-training}
 

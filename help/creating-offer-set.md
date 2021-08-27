@@ -1,6 +1,6 @@
 ---
 title: Een aanbiedingsset maken
-description: Klik hier als je wilt weten hoe je een voorstel maakt dat is ingesteld in Dynamic Media Classic.
+description: Leer hoe u een voorstel maakt dat is ingesteld in Adobe Dynamic Media Classic.
 uuid: 6d6a4af9-70c0-4cfa-9a8f-855d6adfcc8f
 contentOwner: admin
 content-type: reference
@@ -10,9 +10,9 @@ discoiquuid: 59b6437d-c21e-4929-9291-3032dbb34565
 feature: Dynamic Media Classic
 role: Data Engineer,Admin,User
 exl-id: 05f2cce0-72bf-4933-87ab-c9003c848e35
-source-git-commit: 976f739e5233ae9da24b06cffa729353a7d03c46
+source-git-commit: 1d71cbe6e2493ac8d47e837a20e194b6ae7a22d4
 workflow-type: tm+mt
-source-wordcount: '1157'
+source-wordcount: '1162'
 ht-degree: 0%
 
 ---
@@ -27,11 +27,11 @@ U kunt elk van de volgende soorten aanbiedingen maken:
 
 Voor malplaatjes, selecteer **[!UICONTROL Add and Preview]**, dan plaats de parameters u kiest. De andere soorten aanbiedingsreeksen omvatten geen parameters, maar u kunt hen nog aanpassen door **[!UICONTROL Preview]** te selecteren en de beschikbare voorinstellingen te veranderen.
 
-Dynamic Media Classic bevat gereedschappen voor bewerking en het maken van aanbiedingssets.
+Adobe Dynamic Media Classic biedt tools voor bewerking en het maken van aanbiedingssets.
 
 >[!NOTE]
 >
->Voordat u een set voorstellen maakt, moet u alle elementen publiceren die u voor de set naar Dynamic Media Classic wilt gebruiken. Zie [Elementen handmatig publiceren](publishing-files.md#manually_publishing_assets) en [Publicaties van elementen handmatig ongedaan maken](publishing-files.md#manually_unpublishing_assets).
+>Voordat u een set voorstellen maakt, moet u alle elementen publiceren die u voor de set wilt gebruiken op Adobe Dynamic Media Classic. Zie [Elementen handmatig publiceren](publishing-files.md#manually_publishing_assets) en [Publicaties van elementen handmatig ongedaan maken](publishing-files.md#manually_unpublishing_assets).
 
 ## Soorten aanbiedingen {#types-of-offer-sets}
 
@@ -39,7 +39,7 @@ Maak een set aanbiedingen op basis van de volgende soorten aanbiedingen:
 
 * **Afbeeldingen**  - U kunt afbeeldingen samenstellen voor een set aanbiedingen. Elke afbeelding bevat een andere aanbieding in de set.
 
-* **Afbeeldingssjabloon**  - U kunt afbeeldingssjablonen in Dynamic Media Classic waarderen aan de hand van de opdracht Samenstellen > Sjabloonbasisbeginselen. Via parameters kunnen onderdelen van de sjabloon (de tekst in tekstkaders, de verschillende afbeeldingen) worden omgewisseld en aangepast. Voor een aanbiedingsreeks, kunt u malplaatjeparameters gebruiken om variaties op het zelfde beeld in uw aanbiedingsreeks tot stand te brengen, bijvoorbeeld. Zie Sjabloonparameters maken voor informatie over het maken van afbeeldingssjablonen en het toewijzen van parameters aan deze sjablonen.
+* **Afbeeldingssjabloon**  - U kunt afbeeldingssjablonen in Adobe Dynamic Media Classic waarderen met de opdracht Samenstellen > Sjabloonbasisbeginselen. Via parameters kunnen onderdelen van de sjabloon (de tekst in tekstkaders, de verschillende afbeeldingen) worden omgewisseld en aangepast. Voor een aanbiedingsreeks, kunt u malplaatjeparameters gebruiken om variaties op het zelfde beeld in uw aanbiedingsreeks tot stand te brengen, bijvoorbeeld. Zie Sjabloonparameters maken voor informatie over het maken van afbeeldingssjablonen en het toewijzen van parameters aan deze sjablonen.
 
 * **Video**  - U kunt video samenstellen voor een aanbiedingsset. Elke video heeft een andere aanbieding in de set.
 
@@ -122,7 +122,7 @@ Zie ook [Elementen handmatig publiceren](publishing-files.md#manually_publishing
 
 **Een set voorstellen bewerken:**
 
-1. Als u een aanbiedingsset wilt bewerken, geeft u de aanbieding weer die is ingesteld in de rasterweergave of lijstweergave en selecteert u de desbetreffende **[!UICONTROL Edit]**-rolloverknop.
+1. Als u een aanbiedingsset wilt bewerken, geeft u de aanbieding weer die is ingesteld in de rasterweergave of de lijstweergave en selecteert u de desbetreffende **[!UICONTROL Edit]**-rolloverknop.
 1. Voer een of meerdere van de volgende handelingen uit op de pagina Set voorstel testen&amp;Doel:
 
    * **Een aanbieding**  verwijderen - Selecteer de aanbieding en kies  **[!UICONTROL Delete]** om een aanbieding uit de set te verwijderen.
@@ -132,7 +132,7 @@ Zie ook [Elementen handmatig publiceren](publishing-files.md#manually_publishing
 
    >[!NOTE]
    >
-   >U kunt geen aanbiedingsreeks schrappen die met een campagne wordt geassocieerd. Als u een set aanbiedingen die aan een campagne is gekoppeld wilt verwijderen, meldt u zich aan bij Adobe Target Standard/Premium en verwijdert u eerst de campagnecorracties. Zelfs nadat u zich niet aan een campagne hebt gekoppeld, kan het middel alleen worden verwijderd uit Dynamic Media Classic, waarvoor u zich moet aanmelden bij Adobe Target Standard/Premium, en niet uit Adobe Target Standard/Premium.
+   >U kunt geen aanbiedingsreeks schrappen die met een campagne wordt geassocieerd. Als u een set aanbiedingen die aan een campagne is gekoppeld wilt verwijderen, meldt u zich aan bij Adobe Target Standard/Premium en verwijdert u eerst de campagnecorracties. Zelfs nadat u zich niet aan een campagne hebt gekoppeld, kan het middel alleen worden verwijderd uit Adobe Dynamic Media Classic, waarvoor u zich moet aanmelden bij Adobe Target Standard/Premium en niet uit Adobe Target Standard/Premium.
 
 1. Als u klaar bent met bewerken, controleert u of **[!UICONTROL Publish after save]** is geselecteerd (standaard) in de rechterbenedenhoek van de pagina.
 1. Selecteer **[!UICONTROL Save]**, selecteer een opslagomslag, ga een naam voor de reeks in, en selecteer dan **[!UICONTROL Save]**.

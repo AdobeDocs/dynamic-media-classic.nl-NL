@@ -1,6 +1,6 @@
 ---
 title: Persoonlijke instelling
-description: Alle gebruikers kunnen montages op het Persoonlijke scherm van de Opstelling van Dynamic Media Klassiek veranderen.
+description: Alle gebruikers kunnen montages op het Persoonlijke scherm van de Opstelling van Adobe Dynamic Media Klassiek veranderen.
 uuid: 29cb825a-f158-4a1e-9d5f-7636ee411b6e
 contentOwner: admin
 content-type: reference
@@ -10,9 +10,9 @@ discoiquuid: 6314e7b7-5bde-4fe2-8674-e4fc525d4d1c
 feature: Dynamic Media Classic
 role: Admin,User
 exl-id: a019f973-7647-466f-8af3-5312e9225e89
-source-git-commit: df689ff5a127bfbc400ca5331168d1ff7bb0b42e
+source-git-commit: 1d71cbe6e2493ac8d47e837a20e194b6ae7a22d4
 workflow-type: tm+mt
-source-wordcount: '802'
+source-wordcount: '803'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Alle gebruikers kunnen montages op het Persoonlijke scherm van de Opstelling ver
 
 >[!NOTE]
 >
->Het Persoonlijke scherm van de Opstelling maakt een lijst van welke gebruikersrol u in Classic Dynamic Media hebt: Bedrijfsbeheerder, beheerder of gebruiker.
+>Het Persoonlijke scherm van de Opstelling maakt een lijst van welke gebruikersrol u in de Klassiek van Adobe Dynamic Media hebt: Bedrijfsbeheerder, beheerder of gebruiker.
 
 De Persoonlijke montages van de Opstelling controleren het standaardgedrag van het Browse Comité, hoe u e-mail, en wachtwoordmontages ontvangt. Vergeet niet op Opslaan te klikken nadat u deze instellingen hebt gewijzigd.
 
@@ -45,7 +45,7 @@ U kunt de cache van afbeeldingen en elementen niet alleen wissen met de bureaubl
 
 **Adobe Dynamic Media Creative Suite Extension installeren:**
 
-1. Klik in Dynamic Media Classic op de werkbalk op **[!UICONTROL Setup]** > **[!UICONTROL Personal Setup]** onder Extensie Creative Suites op **[!UICONTROL Download Now]** om het `s7csxs.zxp`-bestand te downloaden.
+1. Klik in Adobe Dynamic Media Classic op de werkbalk op **[!UICONTROL Setup]** > **[!UICONTROL Personal Setup]** onder Extensie Creative Suites op **[!UICONTROL Download Now]** om het `s7csxs.zxp`-bestand te downloaden.
 1. Klik op de koppelingen **[!UICONTROL Installation]** en **[!UICONTROL System Requirements]** voor meer informatie over de extensie.
 
 <!--    A readme file is included at the root of the unzipped file to provide you with additional information about the extension.
@@ -76,7 +76,7 @@ The plug-in is now available for you to use in Adobe Illustrator. -->
 * **Standaardweergave**  van elementenbibliotheek - Hiermee bepaalt u of de elementen in de elementenbibliotheek voor buildsets als miniaturen of op naam worden weergegeven. Als u met grote hoeveelheden elementen werkt in de Asset Library, kunt u de elementen op naam bekijken. Als u bijvoorbeeld een grote eCatalog maakt met veel PDF-bestanden, kunt u de elementen op naam weergeven om de lijst korter te maken.
 * **Standaard Bladeren in sorteervolgorde**  - Hiermee bepaalt u de volgorde waarin elementen standaard in het deelvenster Bladeren worden weergegeven. Kies een sorteercriterium in het menu en bepaal of u oplopende of aflopende sortering wilt.
 * **Standaard door:bladeren Plaats**  - laat u de doorbladerplaats aan het gebrek, de laatste doorbladerde omslag, of aan een specifieke plaats plaatsen die u aan navigeert en identificeert. U kunt ook de locatie van de browsers instellen om de bestanden en mappen in oplopende of aflopende volgorde te sorteren.
-* **Standaardweergave**  Bladeren - Hiermee bepaalt u of de rasterweergave of lijstweergave de standaardweergave is die u ziet wanneer u het deelvenster Bladeren voor het eerst opent.
+* **Standaardweergave**  Bladeren - Hiermee bepaalt u of Rasterweergave of Lijstweergave de standaardweergave is die u ziet wanneer u het deelvenster Bladeren eerst opent.
 * **Welkomstscherm**  - Hiermee wordt bepaald of er welkomstschermen, inclusief het welkomstwelkomstscherm, worden weergegeven.
 * **Knopinfo**  tonen - Hiermee bepaalt u of knopinfo wordt weergegeven wanneer u de aanwijzer over knoppen, menu&#39;s en navigatiekoppelingen beweegt. Knopinfo beschrijft de interface-items op het scherm.
 * **Achtergrond**  van klembord - Hiermee geeft u een schaakbordlaag achter afbeeldingen weer, zodat u gemakkelijk de transparante gebieden van een afbeelding met een alfakanaal kunt zien.
@@ -95,7 +95,7 @@ The plug-in is now available for you to use in Adobe Illustrator. -->
 
 ## E-mail
 
-* **E-mailopties**  - Kies hoe u via Dynamic Media Classic per e-mail op de hoogte wilt brengen wanneer het uploaden en publiceren van taken is voltooid. U kunt berichten voor het voltooien van een taak alleen ontvangen als er waarschuwingen of fouten zijn opgetreden.
+* **E-mailopties**  - Kies hoe u Adobe Dynamic Media Classic u per e-mail op de hoogte wilt brengen wanneer het uploaden en publiceren taken zijn voltooid. U kunt berichten voor het voltooien van een taak alleen ontvangen als er waarschuwingen of fouten zijn opgetreden.
 * **E-mailbereik**  - Hiermee bepaalt u of u alle taken per e-mail voor uw bedrijf ontvangt of alleen e-mail over uploaden en publiceren van taken die u hebt gestart.
 * **E-mailtypen**  - Hiermee bepaalt u of u op de hoogte wordt gesteld wanneer het uploaden van taken en het publiceren van taken zijn voltooid.
 

@@ -10,16 +10,16 @@ discoiquuid: 753677ad-9957-43d9-97ad-bd73a5da5ccb
 feature: Dynamic Media Classic
 role: Admin,User
 exl-id: 7e99de68-a5de-4b42-9754-c394e9b41369
-source-git-commit: df689ff5a127bfbc400ca5331168d1ff7bb0b42e
+source-git-commit: 1d71cbe6e2493ac8d47e837a20e194b6ae7a22d4
 workflow-type: tm+mt
-source-wordcount: '186'
+source-wordcount: '185'
 ht-degree: 0%
 
 ---
 
 # Basisbeginselen van instellingen{#setup-basics}
 
-Voer uw persoonlijke instellingen in op de Dynamic Media Classic Setup-pagina. Als u een beheerder bent, opstelling uw bedrijfmontages. Om een pagina van de Opstelling, op de Globale bar van de Navigatie te openen, klik **[!UICONTROL Setup]**.
+Gebruik de Adobe Dynamic Media Klassieke pagina van de Opstelling om uw persoonlijke montages in te gaan. Als u een beheerder bent, opstelling uw bedrijfmontages. Om een pagina van de Opstelling, op de Globale bar van de Navigatie te openen, klik **[!UICONTROL Setup]**.
 
 Welke instellingen beschikbaar zijn op deze pagina, is afhankelijk van uw status als gebruiker of beheerder:
 
@@ -34,7 +34,7 @@ Beheerders kunnen ook voorinstellingen voor afbeeldingen en viewervoorinstelling
 
 >[!MORELIKETHIS]
 >
->* [Dynamic Media Classic-gebruikersrollen en -rechten](administration-setup.md#user_administration)
-* [Voorinstellingen afbeelding](application-setup.md#image_presets)
-* [Voorinstellingen viewer](application-setup.md#viewer_presets)
+>* [Adobe Dynamic Media Classic-gebruikersrollen en -rechten](administration-setup.md#user_administration)
+>* [Voorinstellingen afbeelding](application-setup.md#image_presets)
+>* [Voorinstellingen viewer](application-setup.md#viewer_presets)
 

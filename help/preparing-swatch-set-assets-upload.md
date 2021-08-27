@@ -10,9 +10,9 @@ discoiquuid: 0c851ecd-be05-46a9-8654-3d028f3217a4
 feature: Dynamic Media Classic,Viewers
 role: User
 exl-id: 90216519-4b14-4f8b-8e72-3d7ce9ec89ff
-source-git-commit: df689ff5a127bfbc400ca5331168d1ff7bb0b42e
+source-git-commit: 1d71cbe6e2493ac8d47e837a20e194b6ae7a22d4
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: '173'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ Als u een stalenset wilt maken, hebt u vignetten of verschillende opnamen van de
 * Een zwarte, bruine en groene opname van hetzelfde jasje.
 * Een zwart, bruin en groen kleurenstaal.
 
-Omdat gebruikers kunnen inzoomen op afbeeldingen in stalensets, moet u ervoor zorgen dat de afbeeldingen ten minste 2000 pixels groot zijn. Dynamic Media Classic ondersteunt veel bestandsindelingen voor afbeeldingen, maar het wordt aanbevolen afbeeldingen zonder verlies in de indeling TIFF, PNG en EPS te gebruiken.
+Omdat gebruikers kunnen inzoomen op afbeeldingen in stalensets, moet u ervoor zorgen dat de afbeeldingen ten minste 2000 pixels groot zijn. Adobe Dynamic Media Classic ondersteunt veel bestandsindelingen voor afbeeldingen, maar het wordt aanbevolen afbeeldingen zonder gegevensverlies in de indeling TIFF, PNG en EPS te gebruiken.
 
 Zie [Bestanden uploaden](uploading-files.md#uploading_files) voor gedetailleerde instructies voor het uploaden van elementen.
 

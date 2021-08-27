@@ -1,6 +1,6 @@
 ---
 title: Video distribueren naar uw websites en mobiele sites
-description: Leer hoe u video vanaf Dynamic Media Classic implementeert op uw websites en mobiele sites.
+description: Leer hoe u video vanaf Adobe Dynamic Media Classic kunt implementeren op uw websites en mobiele sites.
 uuid: 22bb4402-c0ab-4df0-89b9-99707d111927
 contentOwner: admin
 content-type: reference
@@ -10,16 +10,16 @@ discoiquuid: 0d006314-c4cc-4f6c-a51c-6075bb445e39
 feature: Dynamic Media Classic,Viewers,Video
 role: User
 exl-id: 3df22d48-edb5-4927-aefb-104b53f81f1a
-source-git-commit: 47845c30311fb9afb3fffb8502b6e7c534e4bfdb
+source-git-commit: 1d71cbe6e2493ac8d47e837a20e194b6ae7a22d4
 workflow-type: tm+mt
-source-wordcount: '1573'
+source-wordcount: '1588'
 ht-degree: 1%
 
 ---
 
 # Video distribueren naar uw websites en mobiele sites{#deploying-video-to-your-websites-and-mobile-sites}
 
-Websites, mobiele sites en bureaubladtoepassingen hebben via URL-tekenreeksen of ingesloten code toegang tot inhoud van de klassieke Dynamic Media-server, waaronder video. Dynamic Media Classic activeert deze URL-tekenreeksen tijdens het publicatieproces. Als u de URL-tekenreeks of insluitcode voor uw video wilt plaatsen in uw webpagina&#39;s, mobiele pagina&#39;s en bureaubladtoepassingen, kopieert u deze vanuit Dynamic Media Classic.
+Websites, mobiele sites en bureaubladtoepassingen hebben via URL-tekenreeksen of ingesloten code toegang tot Adobe Dynamic Media Classic-serverinhoud, zoals video. Adobe Dynamic Media Classic activeert deze URL-tekenreeksen tijdens het publicatieproces. Als u de URL-tekenreeks of insluitcode voor uw video wilt plaatsen in uw webpagina&#39;s, mobiele pagina&#39;s en bureaubladtoepassingen, kopieert u deze vanuit Adobe Dynamic Media Classic.
 
 >[!NOTE]
 >
@@ -27,15 +27,15 @@ Websites, mobiele sites en bureaubladtoepassingen hebben via URL-tekenreeksen of
 
 ## Video publiceren {#publishing-video}
 
-Als u een video publiceert, kunnen Dynamic Media Classic Servers video leveren aan uw website, mobiele site of toepassing.
+Als u een video publiceert, kunnen Adobe Dynamic Media Classic Servers video leveren aan uw website, mobiele site of toepassing.
 
 Er zijn twee verschillende methoden waarmee u video kunt publiceren:
 
-* **Video&#39;s automatisch en direct publiceren tijdens het uploaden**  - Als onderdeel van het video-uploadproces kan Dynamic Media Classic video&#39;s automatisch publiceren wanneer ze worden geüpload en gecodeerd. Als u de mogelijkheid hebt om onmiddellijk te publiceren, hoeft u video&#39;s niet afzonderlijk te publiceren.
+* **Video&#39;s automatisch en direct publiceren tijdens het uploaden**  - Als onderdeel van het video-uploadproces kan Adobe Dynamic Media Classic video&#39;s automatisch publiceren wanneer ze worden geüpload en gecodeerd. Als u de mogelijkheid hebt om onmiddellijk te publiceren, hoeft u video&#39;s niet afzonderlijk te publiceren.
 
 * **Video handmatig publiceren na het uploaden**  - Als u video&#39;s niet meteen wilt publiceren, kunt u de video&#39;s op elk gewenst moment handmatig publiceren.
 
-Nadat u video&#39;s hebt gepubliceerd, activeert Dynamic Media Classic de URL-tekenreeksen voor uw HTML-pagina of toepassingscode.
+Nadat u video&#39;s publiceert, activeert Adobe Dynamic Media Classic de URL-tekenreeksen voor uw HTML-pagina of toepassingscode.
 
 **Video publiceren:**
 
@@ -107,7 +107,7 @@ Zie ook [Een video-URL koppelen aan een mobiele site of een website](deploying-v
 
 ### Insluitcode implementeren voor het gebruik van HTML5-video met MP4-video-elementen {#implementing-embed-code-for-using-html-video-with-mp-video-assets}
 
-Als u de Dynamic Media Classic HTML5-videospeler niet gebruikt, maar in plaats daarvan de native HTML5 `<video>`-tag met MP4-video-elementen wilt gebruiken, kunt u het volgende ingesloten codevoorbeeld gebruiken:
+Als u de Adobe Dynamic Media Classic HTML5-videospeler niet gebruikt, maar in plaats daarvan de native HTML5 `<video>`-tag met MP4-video-elementen wilt gebruiken, kunt u het volgende voorbeeld van de ingesloten code gebruiken:
 
 ```as3
 <video poster="S7 video thumbnail URL" controls> 
@@ -131,11 +131,11 @@ Als u de Dynamic Media Classic HTML5-videospeler niet gebruikt, maar in plaats d
 
 ## Video implementeren met een externe videospeler {#deploying-video-using-a-third-party-video-player}
 
-Als u een videospeler van derden of een aangepaste videospeler gebruikt in plaats van een klassieke Dynamic Media-videoviewer, krijgt u de directe video-URL die geschikt is voor videostreaming met meerdere bitsnelheden van HLS of progressief downloaden.
+Als u een videospeler van derden of een aangepaste videospeler gebruikt in plaats van een Adobe Dynamic Media Classic-videoviewer, krijgt u de directe video-URL die geschikt is voor videostreaming met meerdere bitsnelheden of progressief downloaden met HLS.
 
 **Video implementeren met een externe videospeler:**
 
-1. Ga in Dynamic Media Classic op de algemene navigatiebalk naar **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL General Settings]**.
+1. Ga in Adobe Dynamic Media Classic op de algemene navigatiebalk naar **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL General Settings]**.
 1. Voer afhankelijk van het type URL dat u wilt gebruiken een van de volgende taken uit:
 
 * Een directe URL voor HLS-streaming video (multi-bitsnelheid) genereren
@@ -165,13 +165,13 @@ Als u een videospeler van derden of een aangepaste videospeler gebruikt in plaat
 
 ## Werken met videominiaturen {#working-with-video-thumbnails}
 
-Dynamic Media Classic genereert miniaturen voor gecodeerde video&#39;s en vooraf gecodeerde video&#39;s. U kunt videominiaturen gebruiken zoals elk afbeeldingselement. Bovendien kunt u URLs voor de videoduimnagels verkrijgen die Dynamic Media Classic produceert en deze URLs buiten de Klassiek van Dynamic Media opstelt. U kunt bijvoorbeeld de miniaturen in zoekresultaten, verwante videobestanden en videoafspeellijsten op een website implementeren.
+Adobe Dynamic Media Classic genereert miniaturen voor gecodeerde video&#39;s en vooraf gecodeerde video&#39;s. U kunt videominiaturen gebruiken zoals elk afbeeldingselement. Bovendien kunt u URLs voor de videoduimnagels verkrijgen die Adobe Dynamic Media Classic produceert en deze URLs buiten Adobe Dynamic Media Classic opstelt. U kunt bijvoorbeeld de miniaturen in zoekresultaten, verwante videobestanden en videoafspeellijsten op een website implementeren.
 
 Miniaturen worden gegenereerd op basis van het eerste heterogene frame (niet een volledig zwart frame, of een helemaal wit frame enzovoort) van de video.
 
 ### URL&#39;s met videominiaturen verkrijgen {#obtaining-video-thumbnail-urls}
 
-Dynamic Media Classic genereert automatisch videominiaturen tijdens het uploaden. De miniaturen worden weergegeven in de lijstweergave en de rasterweergave van het deelvenster Bladeren.
+Adobe Dynamic Media Classic genereert automatisch videominiaturen tijdens het uploaden. De miniaturen worden weergegeven in de Lijstweergave en de Rasterweergave in het deelvenster Bladeren.
 
 Als u URL&#39;s voor videominiaturen wilt genereren, voert u een publicatiebewerking uit.
 
@@ -181,7 +181,7 @@ Na publicatie kunt u videominiaturen-URL&#39;s opvragen in de gedetailleerde wee
 
 ### Posterframes in videoviewers wijzigen {#modifying-poster-frames-in-video-viewers}
 
-Het *posterframe* is het eerste frame dat in videoviewers wordt weergegeven voordat de video wordt afgespeeld. Dynamic Media Classic gebruikt videominiaturen als posterframes.
+Het *posterframe* is het eerste frame dat in videoviewers wordt weergegeven voordat de video wordt afgespeeld. Adobe Dynamic Media Classic gebruikt videominiaturen als posterframes.
 
 U kunt afbeeldingsaanpassingen toepassen op het posterframe. U kunt bijvoorbeeld het posterframe uitsnijden of transparant maken. Als u het posterframe wilt wijzigen, opent u het configuratiescherm voor de videoviewer en voert u modifiers in de sectie Modifiers voor posterafbeelding in.
 

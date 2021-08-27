@@ -1,6 +1,6 @@
 ---
 title: ECatalog-afbeeldingen met hyperlinks maken
-description: Leer hoe u eCatalog-afbeeldingen met hyperlinks maakt in Dynamic Media Classic.
+description: Leer hoe u eCatalog-afbeeldingen met hyperlinks maakt in Adobe Dynamic Media Classic.
 uuid: 943ad3f7-a885-4bc2-88cb-77083384bdf8
 contentOwner: admin
 content-type: reference
@@ -10,9 +10,9 @@ discoiquuid: 4cf63359-63b5-4da7-9498-335d91b4776c
 feature: Dynamic Media Classic,Viewers,eCatalog
 role: User
 exl-id: 5e7f39a5-36a6-40df-8752-064a582c9346
-source-git-commit: 7be3f63bfadeafa71eeb2567f982f579ccb85975
+source-git-commit: 1d71cbe6e2493ac8d47e837a20e194b6ae7a22d4
 workflow-type: tm+mt
-source-wordcount: '1448'
+source-wordcount: '1450'
 ht-degree: 0%
 
 ---
@@ -32,9 +32,9 @@ Voor eCatalogi, tekent u Kaarten van het Beeld op het lusje van de Pagina&#39;s 
 
    * **Rechthoekige structuurafbeelding** : selecteer het gereedschap Rechthoekafbeelding met hyperlinks en sleep op de pagina om de rechthoek te maken.
 
-   * **Veelhoekkaart**  - Selecteer het gereedschap Veelhoekafbeelding met hyperlinks en selecteer vervolgens zo vaak als nodig is rond de omtrek van de afbeelding. Terwijl u selecteert, tekent Dynamic Media Classic de randen van de afbeelding met hyperlinks.
+   * **Veelhoekkaart**  - Selecteer het gereedschap Veelhoekafbeelding met hyperlinks en selecteer vervolgens zo vaak als nodig is rond de omtrek van de afbeelding. Terwijl u selecteert, tekent Adobe Dynamic Media Classic de randen van de afbeelding met hyperlinks.
 
-      Nadat u een afbeelding met hyperlinks hebt getekend, wijst Dynamic Media Classic er een naam aan toe in de lijst Afbeeldingskaart. Om de naam te vormen, voegt Dynamic Media Classic een opeenvolgend aantal aan de naam van de eCatalog pagina toe waarin u werkt.
+      Nadat u een Kaart van het Beeld tekent, wijst Adobe Dynamic Media Klassiek het een naam in de lijst van de Kaart van het Beeld toe. Adobe Dynamic Media Classic voegt een volgnummer toe aan de naam van de eCatalog-pagina waarin u werkt.
 
 1. (Optioneel) In de lijst Afbeeldingskaart kunt u in de kolom [!UICONTROL Name] een nieuwe naam voor de afbeelding met hyperlinks invoeren. Plaats geen lege spaties in de naam die u invoert.
 1. U kunt gebruikers een nieuwe webpagina laten openen wanneer ze de Afbeeldingskaart selecteren. Voer in de URL-kolom in de lijst Afbeeldingskaart de URL van de webpagina in.
@@ -131,7 +131,7 @@ Ga als volgt te werk om Image Map-gegevens voor door u gemaakte afbeeldingen met
 
 ## Afbeeldingen met hyperlinks kopiëren naar een andere eCatalogus {#copying-image-maps-between-ecatalogs}
 
-U kunt alle afbeeldingen met hyperlinks in een eCatalog kopiëren naar een andere eCatalog. Het kopiëren van Afbeeldingen met hyperlinks op deze manier is een handige methode voor het kopiëren van afbeeldingen met hyperlinks tussen vertalingen in vreemde talen van dezelfde eCatalog. Dynamic Media Classic raadt u aan om eCatalogs te kopiëren met hetzelfde aantal pagina&#39;s en met dezelfde afbeeldingen, zodat het kopiëren lukt.
+U kunt alle afbeeldingen met hyperlinks in een eCatalog kopiëren naar een andere eCatalog. Het kopiëren van Afbeeldingen met hyperlinks op deze manier is een handige methode voor het kopiëren van afbeeldingen met hyperlinks tussen vertalingen in vreemde talen van dezelfde eCatalog. Adobe Adobe Dynamic Media Classic raadt u aan om eCatalogs te kopiëren met hetzelfde aantal pagina&#39;s en met dezelfde afbeeldingen, zodat het kopiëren lukt.
 
 >[!NOTE]
 >
@@ -143,4 +143,4 @@ Ga als volgt te werk om alle afbeeldingen met hyperlinks in een eCatalog te kopi
 1. Selecteer **[!UICONTROL Copy Maps]** op het tabblad Order Pages.
 1. Selecteer in het dialoogvenster Element selecteren de eCatalog waar u de Afbeeldingskaarten wilt kopiëren en selecteer **[!UICONTROL Select]**.
 
-In Dynamic Media Classic wordt een waarschuwingsbericht weergegeven als de eCatalog voor het doel (de eCatalogus waarnaar u Afbeeldingen met hyperlinks kopieert) een ander aantal pagina&#39;s of afbeeldingen van een andere grootte heeft. Selecteer **[!UICONTROL Continue]** om de Kaarten van het Beeld ondanks de waarschuwing te kopiëren.
+Adobe Dynamic Media Classic geeft een waarschuwingsbericht weer als de eCatalog voor het doel (de eCatalogus waarnaar u Afbeeldingen met hyperlinks kopieert) een ander aantal pagina&#39;s of afbeeldingen van een andere grootte heeft. Selecteer **[!UICONTROL Continue]** om de Kaarten van het Beeld ondanks de waarschuwing te kopiëren.

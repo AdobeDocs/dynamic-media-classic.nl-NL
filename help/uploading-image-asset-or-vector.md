@@ -7,9 +7,9 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 feature: Dynamic Media Classic
 role: User
 exl-id: 2ef78fe6-1e7c-4f48-86da-137ddaa55bbf
-source-git-commit: df689ff5a127bfbc400ca5331168d1ff7bb0b42e
+source-git-commit: 1d71cbe6e2493ac8d47e837a20e194b6ae7a22d4
 workflow-type: tm+mt
-source-wordcount: '1475'
+source-wordcount: '1473'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ Voordat u een afbeeldingselement kunt uploaden, vraagt u eerst om een sleutel vo
 
 Vraag een *gedeelde-geheime sleutel* door [gebruikend de Admin Console om een steungeval tot stand te brengen.](https://helpx.adobe.com/enterprise/admin-guide.html/enterprise/using/support-for-experience-cloud.ug.html) In uw steungeval, verzoek om een gedeelde geheime sleutel.
 
-Geef in het e-mailbericht de bedrijfsnaam op die u wilt gebruiken om afbeeldingselementen te uploaden. Nadat u de sleutel van de Klassiek van Dynamic Media ontvangt, bewaar het plaatselijk voor toekomstig gebruik.
+Geef in het e-mailbericht de bedrijfsnaam op die u wilt gebruiken om afbeeldingselementen te uploaden. Nadat u de sleutel van Adobe Dynamic Media Classic ontvangt, bewaar het plaatselijk voor toekomstig gebruik.
 
 ## Het uploadtoken ophalen {#retrieving-the-upload-token}
 

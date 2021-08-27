@@ -1,18 +1,18 @@
 ---
 title: Gebruikers van Media Portal toevoegen en beheren
-description: Leer om gebruikers van het Portaal van Media toe te voegen en te beheren in Dynamic Media Classic.
+description: Leer om gebruikers van het Portaal van Media toe te voegen en te beheren in Adobe Dynamic Media Classic.
 uuid: 96d4103c-6428-4ce1-b9e4-231599304f27
 contentOwner: admin
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/media_portal
 discoiquuid: 5e933045-ce1a-41b9-ba8b-2151c396b7a2
-feature: Dynamic Media Classic,Samenwerking,Asset Management
+feature: Dynamic Media Classic,Collaboration,Asset Management
 role: Admin,User
 exl-id: 9590c53c-fd38-4bf2-b723-cd7369702364
-source-git-commit: 1d30c98b76ebe78ff60bae87bd112de7a577182d
+source-git-commit: 1d71cbe6e2493ac8d47e837a20e194b6ae7a22d4
 workflow-type: tm+mt
-source-wordcount: '931'
+source-wordcount: '930'
 ht-degree: 0%
 
 ---
@@ -107,7 +107,7 @@ U kunt de namen en e-mailadressen van gebruikers van het Portaal van Media in ee
 
 ## Het welkomstbericht voor gebruikers van het Media Portal instellen {#setting-up-the-welcome-e-mail-message-for-media-portal-users}
 
-U kunt een welkome e-mail verzenden wanneer u nieuwe gebruikers van het Portaal van Media, medewerkers, en medewerker-gebruikers toevoegt. U kunt dit e-mailbericht configureren of Dynamic Media Classic vertellen het niet te verzenden.
+U kunt een welkome e-mail verzenden wanneer u nieuwe gebruikers van het Portaal van Media, medewerkers, en medewerker-gebruikers toevoegt. U kunt dit e-mailbericht configureren of Adobe Dynamic Media Classic laten weten het bericht niet te verzenden.
 
 1. Ga naar **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Administration Setup]** > **[!UICONTROL User Administration]**.
 1. In het scherm van de Opstelling van het Beleid van de Gebruiker, selecteer **[!UICONTROL Email Settings]**.
@@ -115,9 +115,9 @@ U kunt een welkome e-mail verzenden wanneer u nieuwe gebruikers van het Portaal 
 
    * **[!UICONTROL Send Email]** - Schakel deze optie uit als u nieuwe gebruikers niet via e-mail wilt laten weten dat u hen hebt aangemeld.
 
-   * **[!UICONTROL Default Password]** - Voer een tijdelijk wachtwoord in voor nieuwe gebruikers of laat het veld leeg om Dynamic Media Classic een willekeurig wachtwoord te laten genereren. Gebruikers wordt gevraagd wachtwoorden te wijzigen wanneer zij zich voor het eerst aanmelden.
+   * **[!UICONTROL Default Password]** - Voer een tijdelijk wachtwoord in voor nieuwe gebruikers of laat het veld leeg om Adobe Dynamic Media Classic een willekeurig wachtwoord te laten genereren. Gebruikers wordt gevraagd wachtwoorden te wijzigen wanneer zij zich voor het eerst aanmelden.
 
-   * **[!UICONTROL Replacement URL]** - Voer een andere URL in dan de standaard als uw gebruikers toegang krijgen tot Dynamic Media Classic via een andere URL.
+   * **[!UICONTROL Replacement URL]** - Voer een andere URL in dan de standaard als uw gebruikers via een andere URL toegang krijgen tot Adobe Dynamic Media Classic.
 
 ## Andere taken voor gebruikersbeheer {#other-user-management-tasks}
 
@@ -131,6 +131,6 @@ Beginnend op het scherm van de Opstelling van het Beleid van de Gebruiker, kunt 
 
 * **[!UICONTROL Edit user information]** - Voer actuele informatie in over een gebruiker.
 
-* **[!UICONTROL Create user-defined fields]** - Maak aangepaste, door de gebruiker gedefinieerde metagegevensvelden zodat u elementen in de Dynamic Media Classic kunt ordenen. De velden kunnen desgewenst ook worden geactiveerd of gedeactiveerd.
+* **[!UICONTROL Create user-defined fields]** - Maak aangepaste, door de gebruiker gedefinieerde metagegevensvelden zodat u elementen in de Adobe Dynamic Media Classic kunt ordenen. De velden kunnen desgewenst ook worden geactiveerd of gedeactiveerd.
 
 Zie [Door de gebruiker gedefinieerde velden](application-setup.md#user_defined_fields).

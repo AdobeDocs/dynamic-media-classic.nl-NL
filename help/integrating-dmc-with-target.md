@@ -10,7 +10,7 @@ discoiquuid: 3b4add18-4191-475e-a3a3-0184367a25fc
 feature: Dynamic Media Classic
 role: Data Engineer,Admin,User
 exl-id: c6f217fb-89cb-4c8d-aa7f-309fc42f7d46
-source-git-commit: bb387446f294cf1e90d26ae1df4422879ad29db7
+source-git-commit: 1d71cbe6e2493ac8d47e837a20e194b6ae7a22d4
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 0%
@@ -19,13 +19,13 @@ ht-degree: 0%
 
 # Adobe Dynamic Media Classic integreren met Adobe Target Standard/Premium {#integrating-dmc-with-target}
 
-Voordat u [!DNL Dynamic Media Classic] kunt integreren met [!DNL Target Standard/Premium], moet u de doel-URL invoeren in het scherm [!DNL Dynamic Media Classic] Algemene instellingen toepassing. Ga als volgt te werk om de doel-URL te verkrijgen en deze in te voeren op de pagina Algemene instellingen toepassing:
+Voordat u [!DNL Adobe Dynamic Media Classic] kunt integreren met [!DNL Target Standard/Premium], moet u de doel-URL invoeren in het scherm [!DNL Adobe Dynamic Media Classic] Algemene instellingen toepassing. Ga als volgt te werk om de doel-URL te verkrijgen en deze in te voeren op de pagina Algemene instellingen toepassing:
 
 1. Meld u aan bij uw [!DNL Adobe Experience Cloud]-account.[!DNL Target Standard/Premium]
 1. Kopieer de URL tot en met `.com` nadat u zich hebt aangemeld in de adresbalk van de browser.
 
    Als de *fictional* URL (URLs-paden bevatten altijd slashes, niet slashes zoals in dit voorbeeld) in de adresbalk `https:\\www.myfictionalsite.com/categories/admin/home.do` is, kopieert u bijvoorbeeld alleen dit gedeelte van de *fictional* URL: `https:\\www.myfictionalsite.com`.
 
-1. Ga in [!DNL Dynamic Media Classic] naar **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]**.
+1. Ga in [!DNL Adobe Dynamic Media Classic] naar **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]**.
 1. Plak op de pagina Algemene instellingen toepassing in het veld **[!UICONTROL Test&Target Server Name]** de URL die u in stap 2 hebt gekopieerd.
 1. Selecteer **[!UICONTROL Close]**.

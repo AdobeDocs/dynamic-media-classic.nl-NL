@@ -1,6 +1,6 @@
 ---
 title: Een centrifugeset maken
-description: Leer hoe u een centrifugeset maakt in Dynamic Media Classic.
+description: Leer hoe u een centrifugeset maakt in Adobe Dynamic Media Classic.
 uuid: 697bd78f-5e39-46bf-aa6d-ad8ab99fe40e
 contentOwner: admin
 content-type: reference
@@ -10,24 +10,24 @@ discoiquuid: 735b5867-e249-4627-a5a5-25c19c2255bf
 feature: Dynamic Media Classic,Viewers,Spin Sets
 role: User
 exl-id: 35e8e7fc-5b3c-441a-959c-df2e39ea0d4b
-source-git-commit: 976f739e5233ae9da24b06cffa729353a7d03c46
+source-git-commit: 1d71cbe6e2493ac8d47e837a20e194b6ae7a22d4
 workflow-type: tm+mt
-source-wordcount: '867'
+source-wordcount: '874'
 ht-degree: 0%
 
 ---
 
 # Een centrifugeset maken{#creating-a-spin-set}
 
-Als u een effectieve centrifugeset wilt maken, moet u controleren of de afbeeldingen op de juiste wijze zijn opgenomen. U kunt een in Dynamic Media Classic ingestelde Draai maken door de knop Build te selecteren en Draaisets te kiezen. Bewerk de centrifuges in het scherm Spin Sets.
+Als u een effectieve centrifugeset wilt maken, moet u controleren of de afbeeldingen op de juiste wijze zijn opgenomen. U kunt een centrifugeset maken in Adobe Dynamic Media Classic door de knop Build te selecteren en Draaisets te kiezen. Bewerk de centrifuges in het scherm Spin Sets.
 
 >[!NOTE]
 >
->In eerdere versies van Dynamic Media Classic konden geen tweedimensionale centrifuges worden gebruikt. Als u een centrifugeset hebt gemaakt in een vorige versie van Dynamic Media Classic, kunt u de eendimensionale centrifugeset niet opslaan zonder deze eerst onder een andere naam op te slaan. Selecteer **[!UICONTROL Save As]** in het scherm van de Reeks van de Rotatie en ga een nieuwe naam in zodat u het in de Klassiek van Dynamic Media kunt uitgeven.
+>In eerdere versies van Adobe Dynamic Media Classic konden geen tweedimensionale centrifuges worden gebruikt. Als u een centrifugeset hebt gemaakt in een vorige versie van Adobe Dynamic Media Classic, kunt u de eendimensionale centrifugeset niet opslaan zonder deze eerst onder een andere naam op te slaan. Selecteer **[!UICONTROL Save As]** in het scherm van de Reeks van de Rotatie en ga een nieuwe naam in zodat u het in de Klassiek van Adobe Dynamic Media kunt uitgeven.
 
 ## Richtlijnen voor het maken van centrifuges {#guidelines-for-shooting-spin-set-images}
 
-Over het algemeen geldt dat hoe meer afbeeldingen u in een centrifugeset hebt, hoe beter het effect van het draaien van de afbeelding is. Als u echter veel afbeeldingen in de set opneemt, neemt de laadtijd van de afbeeldingen toe. Dynamic Media Classic raadt de volgende richtlijnen aan voor het maken van foto&#39;s voor gebruik in centrifuges:
+Over het algemeen geldt dat hoe meer afbeeldingen u in een centrifugeset hebt, hoe beter het effect van het draaien van de afbeelding is. Als u echter veel afbeeldingen in de set opneemt, neemt de laadtijd van de afbeeldingen toe. Adobe Dynamic Media Classic raadt de volgende richtlijnen aan voor het maken van foto&#39;s voor gebruik in centrifuges:
 
 * Gebruik minimaal 8-12 afbeeldingen in een eendimensionale centrifuge en 16-24 afbeeldingen in een tweedimensionale centrifugeset.
 * Gebruik een indeling zonder verlies. TIFF en PNG worden aanbevolen.
@@ -37,7 +37,7 @@ Over het algemeen geldt dat hoe meer afbeeldingen u in een centrifugeset hebt, h
 
 ## Een centrifugeset maken {#create}
 
-De volgorde waarin de Spin-set is gemaakt of gemaakt in Dynamic Media Classic is belangrijk. Afhankelijk van de volgorde waarin u de elementen ordent wanneer u afbeeldingen naar het raster sleept op de pagina Draaien in set, draait de Spin-set in een bepaalde richting. Daarom is de volgorde waarin het element visueel wordt weergegeven in de builder de manier waarop het wordt gedraaid wanneer een gebruiker de muisaanwijzer beweegt of zijn vinger van links naar rechts beweegt.
+De volgorde waarin de Spin-set is gemaakt of gemaakt in Adobe Dynamic Media Classic is belangrijk. Afhankelijk van de volgorde waarin u de elementen ordent wanneer u afbeeldingen naar het raster sleept op de pagina Draaien in set, draait de Spin-set in een bepaalde richting. Daarom is de volgorde waarin het element visueel wordt weergegeven in de builder de manier waarop het wordt gedraaid wanneer een gebruiker de muisaanwijzer beweegt of zijn vinger van links naar rechts beweegt.
 
 Wanneer u een set maakt, heeft de optie **[!UICONTROL Publish after save]** op de volgende manieren invloed op de set en stelt u leden in:
 

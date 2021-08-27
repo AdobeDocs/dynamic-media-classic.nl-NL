@@ -1,6 +1,6 @@
 ---
 title: Zoomdoelen en afbeeldingen met hyperlinks opnemen in stalensets
-description: Leer hoe u zoomdoelen en afbeeldingen met hyperlinks opneemt in Staalsets in Dynamic Media Classic.
+description: Leer hoe u zoomdoelen en afbeeldingen met hyperlinks opneemt in Staalsets in Adobe Dynamic Media Classic.
 uuid: e46ebebd-b086-450c-9812-22290a92db8c
 contentOwner: admin
 content-type: reference
@@ -10,9 +10,9 @@ discoiquuid: f75f6d5b-d689-4640-838f-a32d77859f62
 feature: Dynamic Media Classic,Viewers
 role: User
 exl-id: 1eaffe17-1fa3-4726-b0a1-369fabb9ee7e
-source-git-commit: 20a5e54a9f3fa442d3a993afae07aa5b1b13e9c3
+source-git-commit: 1d71cbe6e2493ac8d47e837a20e194b6ae7a22d4
 workflow-type: tm+mt
-source-wordcount: '164'
+source-wordcount: '165'
 ht-degree: 0%
 
 ---

@@ -1,25 +1,25 @@
 ---
 title: Taakbestanden controleren
-description: Leer hoe u taakbestanden kunt controleren in Dynamic Media Classic.
+description: Leer hoe u taakbestanden kunt controleren in Adobe Dynamic Media Classic.
 uuid: 8241a894-3014-4a5c-96ef-71f3aaa3716a
 contentOwner: admin
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/upload_and_publish_assets
 discoiquuid: d53ae5dd-8daf-4d87-b9a6-3039bad30538
-feature: Dynamic Media Classic, beheer van bedrijfsmiddelen
+feature: Dynamic Media Classic,Asset Management
 role: User
 exl-id: b6b11e1c-5eda-4bdb-8ffb-ecd3678f2352
-source-git-commit: 7be3f63bfadeafa71eeb2567f982f579ccb85975
+source-git-commit: 1d71cbe6e2493ac8d47e837a20e194b6ae7a22d4
 workflow-type: tm+mt
-source-wordcount: '1530'
+source-wordcount: '1532'
 ht-degree: 0%
 
 ---
 
 # Taakbestanden controleren{#checking-job-files}
 
-Dynamic Media Classic biedt de pagina Taken aan om het uploaden van bestanden naar de Dynamic Media Classic te controleren en om bestanden die u publiceert naar de Dynamic Media Classic-servers te controleren. U kunt het uploaden en publiceren banen op de pagina van Banen herzien, de status van banen controleren, en het annuleren van het publiceren banen van deze pagina. U kunt ook uploads en publicatietaken plannen.
+Als u het uploaden van bestanden naar de Adobe Dynamic Media Classic wilt controleren en bestanden wilt publiceren naar Adobe Dynamic Media Classic-servers, biedt Adobe Dynamic Media Classic de pagina Taken. U kunt het uploaden en publiceren banen op de pagina van Banen herzien, de status van banen controleren, en het annuleren van het publiceren banen van deze pagina. U kunt ook uploads en publicatietaken plannen.
 
 Wanneer u elementen uploadt, wordt een draaiend pictogram weergegeven naast het menu Taken. Dit geeft aan dat een taak wordt uitgevoerd en dat het aantal bestanden in uitvoering is. U kunt het pictogram selecteren om meer informatie over de actieve taak weer te geven.
 
@@ -41,7 +41,7 @@ Taken worden in de volgende categorieën op het tabblad Historie van de pagina T
 
 * **[!UICONTROL Total]** - Het aantal overgedragen bestanden.
 
-* **[!UICONTROL W (warnings)]** - Het aantal waarschuwingen in de taak (indien aanwezig). Waarschuwingen geven problemen aan met de taak die geen invloed hadden op de algehele voltooiing van de taak. Deze waarschuwingen kunnen meestal worden genegeerd omdat ze worden gerapporteerd over verborgen bestanden. `.DS_store`-bestanden (Macintosh) en Thumbs.db-bestanden (Windows®) bevatten bijvoorbeeld informatie over het weergeven van afbeeldingsbestanden voor gebruikers. Waarschuwingsgegevens voor deze bestanden kunnen echter worden genegeerd omdat ze geen betrekking hebben op de manier waarop deze bestanden in Dynamic Media Classic worden gebruikt. U kunt dubbelklikken op een taaknaam voor gedetailleerde informatie over waarschuwingen.
+* **[!UICONTROL W (warnings)]** - Het aantal waarschuwingen in de taak (indien aanwezig). Waarschuwingen geven problemen aan met de taak die geen invloed hadden op de algehele voltooiing van de taak. Deze waarschuwingen kunnen meestal worden genegeerd omdat ze worden gerapporteerd over verborgen bestanden. `.DS_store`-bestanden (Macintosh) en Thumbs.db-bestanden (Windows®) bevatten bijvoorbeeld informatie over het weergeven van afbeeldingsbestanden voor gebruikers. Waarschuwingsgegevens voor deze bestanden kunnen echter worden genegeerd omdat ze geen betrekking hebben op de manier waarop deze bestanden worden gebruikt in Adobe Dynamic Media Classic. U kunt dubbelklikken op een taaknaam voor gedetailleerde informatie over waarschuwingen.
 
 * **[!UICONTROL E (errors)]** - Hier wordt het aantal eventuele fouten in de taak weergegeven. U kunt dubbelklikken op een taaknaam voor gedetailleerde informatie over fouten.
 
@@ -71,7 +71,7 @@ Gebruik deze technieken om taken te sorteren of uw weergave van het tabblad Hist
 
 ## Een rapport met taakdetails weergeven, kopiëren of afdrukken {#viewing-copying-or-printing-a-job-details-report}
 
-Dubbelklik op de naam van een rapport op de pagina Taken zodat de pagina Taakdetails wordt geopend. Deze pagina bevat een samenvattingsrapport over de bestanden in de taak. Selecteer **[!UICONTROL View Detail]** zodat u de Klassieke identiteitskaart van Dynamic Media van een ingang, bestemmingspad, en statusinformatie kunt zien. Als u een PDF- of PostScript-bestand hebt geüpload waarvoor fonts nodig zijn die niet beschikbaar zijn in Dynamic Media Classic, worden in het rapport de ontbrekende fonts vermeld.
+Dubbelklik op de naam van een rapport op de pagina Taken zodat de pagina Taakdetails wordt geopend. Deze pagina bevat een samenvattingsrapport over de bestanden in de taak. Selecteer **[!UICONTROL View Detail]** zodat kunt u de Klassieke identiteitskaart van Adobe Dynamic Media van een ingang, bestemmingspad, en statusinformatie zien. Als u een PDF- of PostScript-bestand hebt geüpload waarvoor fonts nodig zijn die niet beschikbaar zijn in Adobe Dynamic Media Classic, worden de ontbrekende fonts weergegeven in het rapport.
 
 U kunt deze gegevens naar het klembord kopiëren.
 
@@ -154,6 +154,6 @@ In deze lijst staan voorbeelden van tijdintervallen in het vak Regel:
 
 ## Een upload- of publicatietaak gebruiken als trigger {#using-an-upload-or-publish-job-as-a-trigger}
 
-Wanneer u elementen uploadt via FTP of een publicatietaak uitvoert, kunt u een volgende taak plannen die moet beginnen wanneer het uploaden is voltooid. (Als andere taken volgens planning moeten beginnen, wordt de taak die u hier instelt, in de wachtrij geplaatst.) De nieuwe baan verzendt een bericht naar het adres u specificeert zodat de code bij die plaats kan worden teweeggebracht. Deze opvolguploadtaak krijgt dezelfde naam als de huidige uploadtaak, maar met het voorvoegsel _Pub.
+Wanneer u elementen uploadt via FTP of een publicatietaak uitvoert, kunt u een volgende taak plannen die moet beginnen wanneer het uploaden is voltooid. (Als andere taken volgens de planning moeten beginnen, wordt de taak die u hier instelt, in de wachtrij geplaatst.) De nieuwe baan verzendt een bericht naar het adres u specificeert zodat de code bij die plaats kan worden teweeggebracht. Deze opvolguploadtaak krijgt dezelfde naam als de huidige uploadtaak, maar met het voorvoegsel _Pub.
 
 Als u een upload- of publicatietaak wilt laten activeren door een andere taak, selecteert u **[!UICONTROL Advanced]** op de pagina Uploaden of Publiceren. Voer vervolgens de URL in het tekstveld HTTP-kennisgeving in.

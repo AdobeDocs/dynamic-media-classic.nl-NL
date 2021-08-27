@@ -1,18 +1,18 @@
 ---
 title: Hoofdstukmarkeringen aan video toevoegen
-description: Leer hoe u hoofdstukmarkeringen aan een video kunt toevoegen in Dynamic Media Classic.
+description: Leer hoe u hoofdstukmarkeringen aan een video kunt toevoegen in Adobe Dynamic Media Classic.
 uuid: 4e1e6daf-afc6-49d9-ac90-183fe2a903b2
 contentOwner: admin
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/video
 discoiquuid: 8bc5e552-2abb-41f0-89d2-bdf3ae5d96c2
-feature: Dynamic Media Klassiek,Viewers,Video
+feature: Dynamic Media Classic,Viewers,Video
 role: User
 exl-id: a9250841-2dba-4fdc-8a6e-91b2fecef72f
-source-git-commit: 1d30c98b76ebe78ff60bae87bd112de7a577182d
+source-git-commit: 1d71cbe6e2493ac8d47e837a20e194b6ae7a22d4
 workflow-type: tm+mt
-source-wordcount: '621'
+source-wordcount: '619'
 ht-degree: 0%
 
 ---
@@ -57,7 +57,7 @@ Zie [WebVTT: De indeling Web Video Text Tracks](https://w3c.github.io/webvtt/).
 
 **Hoofdstukmarkeringen aan video toevoegen:**
 
-1. Maak met een eenvoudige teksteditor buiten Dynamic Media Classic een hoofdbestand voor de video.
+1. Maak met een eenvoudige teksteditor buiten Adobe Dynamic Media Classic een hoofdbestand voor de video.
 
    >[!NOTE]
    >
@@ -67,7 +67,7 @@ Zie [WebVTT: De indeling Web Video Text Tracks](https://w3c.github.io/webvtt/).
 
    Over het algemeen wilt u het hoofdstuk VTT-bestand dezelfde naam geven als het videobestand en het toevoegen met `chapters`. Hierdoor kunt u het genereren van video-URL&#39;s automatiseren met behulp van uw bestaande systeem voor webcontentbeheer.
 
-1. Upload in Dynamic Media Classic uw WebVTT-hoofdstukbestand.
+1. Upload in Adobe Dynamic Media Classic uw WebVTT-hoofdstukbestand.
 
    Zie [Bestanden uploaden](uploading-files.md#uploading_files).
 

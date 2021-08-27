@@ -1,6 +1,6 @@
 ---
 title: Een afbeelding uitsnijden
-description: Leer hoe u een afbeelding uitsnijdt in Dynamic Media Classic.
+description: Leer hoe u een afbeelding uitsnijdt in Adobe Dynamic Media Classic.
 uuid: 84f199de-cbfc-4d06-877f-6e9148e82e15
 contentOwner: admin
 content-type: reference
@@ -10,16 +10,16 @@ discoiquuid: 99dfa476-4f11-4569-a27e-a76ed7787674
 feature: Dynamic Media Classic,Asset Management
 role: User
 exl-id: aec4c256-f5ed-4307-afec-dec848be95f9
-source-git-commit: 976f739e5233ae9da24b06cffa729353a7d03c46
+source-git-commit: 1d71cbe6e2493ac8d47e837a20e194b6ae7a22d4
 workflow-type: tm+mt
-source-wordcount: '506'
+source-wordcount: '508'
 ht-degree: 0%
 
 ---
 
 # Een afbeelding uitsnijden{#cropping-an-image}
 
-U kunt afbeeldingen uitsnijden in de Dynamic Media Classic. Het systeem behoudt informatie over afbeeldingen die zijn uitgesneden, zodat u ze in hun oorspronkelijke staat kunt herstellen. U kunt ook een afbeelding uitsnijden en de bijgesneden versie onder een andere naam opslaan.
+U kunt afbeeldingen uitsnijden in de Adobe Dynamic Media Classic. Het systeem behoudt informatie over afbeeldingen die zijn uitgesneden, zodat u ze in hun oorspronkelijke staat kunt herstellen. U kunt ook een afbeelding uitsnijden en de bijgesneden versie onder een andere naam opslaan.
 
 U kunt een afbeelding uitsnijden om witruimte rondom de afbeelding te verwijderen of een gedeelte van de afbeelding uit te snijden.
 

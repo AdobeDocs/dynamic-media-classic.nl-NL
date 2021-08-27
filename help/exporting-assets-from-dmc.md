@@ -1,6 +1,6 @@
 ---
-title: Elementen exporteren uit Dynamic Media Classic
-description: Leer hoe u elementen exporteert van Dynamic Media Classic.
+title: Elementen exporteren uit Adobe Dynamic Media Classic
+description: Leer hoe u elementen exporteert van Adobe Dynamic Media Classic.
 uuid: d42b7a73-80c0-4a9a-a04e-7ef53e6fcf22
 contentOwner: admin
 content-type: reference
@@ -10,22 +10,22 @@ discoiquuid: eb850ec7-a669-41ea-b2b0-4c9178e34f95
 feature: Dynamic Media Classic,Asset Management
 role: User
 exl-id: 5e3b0002-5ae2-4437-862f-caa098b04362
-source-git-commit: 20a5e54a9f3fa442d3a993afae07aa5b1b13e9c3
+source-git-commit: 1d71cbe6e2493ac8d47e837a20e194b6ae7a22d4
 workflow-type: tm+mt
-source-wordcount: '407'
+source-wordcount: '413'
 ht-degree: 0%
 
 ---
 
-# Elementen exporteren uit Dynamic Media Classic{#exporting-assets-from-dmc}
+# Elementen exporteren uit Adobe Dynamic Media Classic{#exporting-assets-from-dmc}
 
-U kunt elementen die u in Dynamic Media Classic hebt bewerkt, opslaan op een lokaal netwerkstation. Geëxporteerde elementen worden in een ZIP-bestand gebundeld, zodat ze via e-mail kunnen worden gedownload of verzonden.
+U kunt elementen die u hebt bewerkt in Adobe Dynamic Media Classic opslaan op een lokale netwerkschijf. Geëxporteerde elementen worden in een ZIP-bestand gebundeld, zodat ze via e-mail kunnen worden gedownload of verzonden.
 
 Het gecomprimeerde ZIP-bestand heeft een maximale bestandsgrootte van 1 GB voor de exporttaak. Bovendien kunt u maximaal 500 elementen per exporttaak gebruiken.
 
-Dynamic Media Classic houdt een overzicht van exporttaken bij in het scherm Taken.
+Adobe Dynamic Media Classic houdt een overzicht bij van exporttaken in het scherm Taken.
 
-**Elementen exporteren uit Dynamic Media Classic:**
+**Elementen exporteren uit Adobe Dynamic Media Classic:**
 
 1. Selecteer de elementen die u wilt exporteren en ga naar **[!UICONTROL File]** > **[!UICONTROL Export]**.
 1. Klik in het venster Geselecteerde elementen exporteren op **[!UICONTROL Image Options]** en geef vervolgens een van de volgende opties op (beheerders bepalen welke opties beschikbaar zijn voor hun gebruikers):

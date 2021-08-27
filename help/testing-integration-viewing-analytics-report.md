@@ -10,20 +10,20 @@ discoiquuid: 1ddc89ff-d2e9-42eb-a442-aa6b9871c991
 feature: Dynamic Media Classic
 role: Data Engineer,Admin,User
 exl-id: 6186fcf0-99b4-447d-ae94-b4124dcb405b
-source-git-commit: df689ff5a127bfbc400ca5331168d1ff7bb0b42e
+source-git-commit: 1d71cbe6e2493ac8d47e837a20e194b6ae7a22d4
 workflow-type: tm+mt
-source-wordcount: '324'
+source-wordcount: '325'
 ht-degree: 0%
 
 ---
 
 # Integratie testen door een Adobe Analytics-rapport te bekijken{#testing-the-integration-by-viewing-an-adobe-analytics-report}
 
-Nadat u de benodigde variabelen in Adobe Analytics hebt gemaakt, deze aan Dynamic Media Classic-gebeurtenissen hebt gekoppeld en de benodigde implementatiestappen hebt uitgevoerd, kunt u de instellingen testen. U kunt testen en controleren of de gegevens worden vastgelegd in Adobe Analytics zelf. Als de opstelling hier werkt, dan zijn geen verdere stappen nodig. Ervan uitgaande dat u de bovenstaande stappen hebt uitgevoerd en uw Dynamic Media Classic-gebeurtenisgegevens aan een of meer variabelen voor aangepast verkeer hebt gekoppeld, volgt u deze workflow om uw gegevens in Adobe Analytics te testen.
+Nadat u de noodzakelijke variabelen in Adobe Analytics hebt gecreeerd, hen met Adobe Dynamic Media Klassieke gebeurtenissen, en de noodzakelijke implementatiestappen verbonden, kunt u de opstelling testen. U kunt testen en controleren of de gegevens worden vastgelegd in Adobe Analytics zelf. Als de opstelling hier werkt, dan zijn geen verdere stappen nodig. Ervan uitgaande dat u de bovenstaande stappen hebt uitgevoerd en uw Adobe Dynamic Media Classic-gebeurtenisgegevens aan een of meer variabelen voor aangepast verkeer hebt gekoppeld, volgt u deze workflow om uw gegevens in Adobe Analytics te testen.
 
 **U kunt als volgt de integratie testen door een Adobe Analytics-rapport te bekijken:**
 
-1. Start een Dynamic Media Classic viewer van uw account, met name een account dat de metrische gegevens die u wilt ophalen uitzendt, en communiceer ermee om gebeurtenisgegevens te maken.
+1. Start een Adobe Dynamic Media Classic-viewer van uw account, met name een viewer die de metrische gegevens die u wilt ophalen uitzendt en communiceer ermee om gebeurtenisgegevens te maken.
 
    Als u bijvoorbeeld populaire alternatieve weergaven in een set afbeeldingen wilt meten, geeft u een voorbeeld van een set afbeeldingen weer en klikt u op de verschillende miniatuurafbeeldingen.
 
@@ -35,6 +35,6 @@ Nadat u de benodigde variabelen in Adobe Analytics hebt gemaakt, deze aan Dynami
 
 >[!NOTE]
 >
->Alle Dynamic Media Classic viewergegevens worden weergegeven en gerapporteerd in Custom Traffic-rapporten of Custom Conversion-rapporten van Adobe Analytics.
+>Alle Adobe Dynamic Media Classic viewergegevens worden weergegeven en gerapporteerd in Custom Traffic-rapporten of Custom Conversion-rapporten van Adobe Analytics.
 
 Zie [Analytische Tutorials](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html) voor meer informatie.

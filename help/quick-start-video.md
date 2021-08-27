@@ -5,12 +5,12 @@ contentOwner: admin
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/video
-feature: Dynamic Media Klassiek,Viewers,Video
+feature: Dynamic Media Classic,Viewers,Video
 role: User
 exl-id: 1157400c-b33a-422e-848c-258660ddc748
-source-git-commit: df689ff5a127bfbc400ca5331168d1ff7bb0b42e
+source-git-commit: 1d71cbe6e2493ac8d47e837a20e194b6ae7a22d4
 workflow-type: tm+mt
-source-wordcount: '1377'
+source-wordcount: '1384'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Adobe Dynamic Media Classic Video is een end-to-end oplossing waarmee u eenvoudi
 
 Op een mobiel iOS-apparaat detecteert het bijvoorbeeld een bandbreedte zoals 3G, 4G of Wi-Fi. Vervolgens wordt automatisch de naar rechts gecodeerde video geselecteerd bij de verschillende bitsnelheden van de video in de adaptieve videoset. De video wordt gestreamd naar desktops, mobiele apparaten of tablets.
 
-Bovendien wordt de videokwaliteit automatisch dynamisch geschakeld als de netwerkomstandigheden veranderen op het bureaublad of op het mobiele apparaat. Ook, als een klant volledig-schermwijze op een Desktop ingaat, antwoordt de Adaptieve VideoReeks door een betere resolutie te gebruiken, verbeterend de het bekijken van de klant ervaring. Met Adaptieve videosets kunt u de best mogelijke weergave bieden voor klanten die Dynamic Media Classic-video op meerdere schermen en apparaten afspelen.
+Bovendien wordt de videokwaliteit automatisch dynamisch geschakeld als de netwerkomstandigheden veranderen op het bureaublad of op het mobiele apparaat. Ook, als een klant volledig-schermwijze op een Desktop ingaat, antwoordt de Adaptieve VideoReeks door een betere resolutie te gebruiken, verbeterend de het bekijken van de klant ervaring. Het gebruik van Adaptieve videosets biedt u de best mogelijke weergave voor klanten die Adobe Dynamic Media Classic-video op meerdere schermen en apparaten afspelen.
 
 De logica die een videospeler gebruikt om te bepalen welke gecodeerde video moet worden afgespeeld of tijdens het afspelen moet worden geselecteerd, is gebaseerd op het volgende algoritme:
 
@@ -33,9 +33,9 @@ De logica die een videospeler gebruikt om te bepalen welke gecodeerde video moet
 
 Zie de logica van het algoritme op [https://android.googlesource.com/platform/frameworks/av/+/master/media/libstagefright/httplive/LiveSession.cpp](https://android.googlesource.com/platform/frameworks/av/+/master/media/libstagefright/httplive/LiveSession.cpp) voor technische informatie over het.
 
-Dynamic Media Classic ondersteunt het volgende voor het beheer van afzonderlijke video- en adaptieve videosets:
+Adobe Dynamic Media Classic ondersteunt het volgende voor het beheer van afzonderlijke video- en adaptieve videosets:
 
-* Video uploaden van diverse ondersteunde video-indelingen en audio-indelingen en video coderen naar MP4 H.264-indeling, zodat deze op meerdere schermen kan worden afgespeeld. U kunt vooraf gedefinieerde Dynamic Media Classic adaptieve videovoorinstellingen, voorinstellingen voor één videocodering gebruiken of uw eigen codering aanpassen om de kwaliteit en de grootte van de video te bepalen.
+* Video uploaden van diverse ondersteunde video-indelingen en audio-indelingen en video coderen naar MP4 H.264-indeling, zodat deze op meerdere schermen kan worden afgespeeld. U kunt vooraf gedefinieerde Adobe Dynamic Media Classic adaptieve videovoorinstellingen, voorinstellingen voor één videocodering gebruiken of uw eigen codering aanpassen om de kwaliteit en de grootte van de video te bepalen.
 
    Wanneer een adaptieve videoset wordt gegenereerd, bevat deze MP4-video&#39;s.
 
@@ -56,7 +56,7 @@ Dynamic Media Classic ondersteunt het volgende voor het beheer van afzonderlijke
 
    Zie de nieuwste ondersteuning in de [Referentiehandleiding voor Adobe-viewers](https://experienceleague.adobe.com/docs/dynamic-media-developer-resources.html).
 
-   Dynamic Media Classic ondersteunt het afspelen van mobiele video voor MP4 H.264-video. U kunt op de volgende website naar BlackBerry®-apparaten zoeken die deze video-indeling ondersteunen:
+   Adobe Dynamic Media Classic ondersteunt het afspelen van mobiele video voor MP4 H.264-video. U kunt op de volgende website naar BlackBerry®-apparaten zoeken die deze video-indeling ondersteunen:
 
    Zie [Ondersteunde video-indelingen op BlackBerry®](https://support.blackberry.com/kb/articleDetail?ArticleNumber=000005482).
 
@@ -64,7 +64,7 @@ Dynamic Media Classic ondersteunt het volgende voor het beheer van afzonderlijke
 
    Zie [Ondersteunde video-indelingen op Windows® Phone](https://docs.microsoft.com/en-us/).
 
-* Speel de video af met gebruik van Dynamic Media Classic Viewer Presets, waaronder de volgende:
+* Speel de video af met gebruik van Adobe Dynamic Media Classic Viewer Presets, inclusief het volgende:
 
    * Afzonderlijke videoviewers.
    * Gemengde Media-viewers die zowel video- als afbeeldingsinhoud combineren.
@@ -74,14 +74,14 @@ Dynamic Media Classic ondersteunt het volgende voor het beheer van afzonderlijke
 
 **Snel starten**
 
-De volgende stapsgewijze workflowbeschrijving is ontworpen om u te helpen snel aan de slag te gaan met adaptieve videosets in Dynamic Media Classic. Na elke stap is een verwijzing naar een onderwerprubriek waar u meer informatie kunt vinden.
+De volgende stapsgewijze workflowbeschrijving is ontworpen om u te helpen snel aan de slag te gaan met adaptieve videosets in Adobe Dynamic Media Classic. Na elke stap is een verwijzing naar een onderwerprubriek waar u meer informatie kunt vinden.
 
 ## 1. Video&#39;s uploaden en coderen
 
 U kunt adaptieve videosets uploaden en genereren aan de hand van een van de volgende twee scenario&#39;s:
 
-* **Vooraf gecodeerde video**  uploaden - Als uw video&#39;s al buiten Dynamic Media Classic zijn gecodeerd, klikt u op de algemene navigatiebalk  **[!UICONTROL Upload]** om naar MP4-videobestanden te bladeren en deze rechtstreeks te uploaden naar Dynamic Media Classic. Klik vervolgens op **[!UICONTROL Build]** > **[!UICONTROL Adaptive Video Sets]**. Blader naar uw videobestanden. Sleep de gewenste videobestanden naar de tabel Adaptive Video Set en sla deze op.
-* **Master bronvideo**  uploaden - Als uw video&#39;s niet zijn gecodeerd, klikt u op de algemene navigatiebalk  **[!UICONTROL Upload]** om master videobronbestanden (niet-MP4) te uploaden en laat u deze via Dynamic Media Classic coderen naar MP4-bestanden. Selecteer **[!UICONTROL Adaptive Video]** onder **[!UICONTROL EVideo Options]** in het dialoogvenster **[!UICONTROL Upload Job Options]**.
+* **Vooraf gecodeerde video**  uploaden - Als uw video&#39;s al buiten Adobe Dynamic Media Classic zijn gecodeerd, klikt u op de algemene navigatiebalk  **[!UICONTROL Upload]** om MP4-videobestanden rechtstreeks naar Adobe Dynamic Media Classic te bladeren en te uploaden. Klik vervolgens op **[!UICONTROL Build]** > **[!UICONTROL Adaptive Video Sets]**. Blader naar uw videobestanden. Sleep de gewenste videobestanden naar de tabel Adaptive Video Set en sla deze op.
+* **Master bronvideo**  uploaden - Als uw video&#39;s niet zijn gecodeerd, klikt u op de algemene navigatiebalk  **[!UICONTROL Upload]** om master videobronbestanden (niet-MP4) te uploaden en laat Adobe Dynamic Media Classic deze coderen naar MP4-bestanden voor u. Selecteer **[!UICONTROL Adaptive Video]** onder **[!UICONTROL EVideo Options]** in het dialoogvenster **[!UICONTROL Upload Job Options]**.
 
    Met deze voorkeursoptie kunt u een adaptieve videoset maken die automatisch de juiste coderingsvoorinstelling op de video toepast, ongeacht of deze 16:9 of 4:3 is, zodat deze overeenkomt met de afmetingen van de video die u hebt geüpload. Wanneer u de uploadtaak verzendt, wordt automatisch een adaptieve videoset gemaakt die drie videocoderingen in de juiste hoogte-breedteverhouding bevat.
 
@@ -93,7 +93,7 @@ Zie [Video&#39;s uploaden en coderen](uploading-encoding-videos.md#uploading_and
 
 **Optioneel**
 
-Dynamic Media Classic bevat een groot aantal vooraf gedefinieerde voorinstellingen voor videocodering. Deze vooraf gedefinieerde voorinstellingen weerspiegelen de meest gangbare instellingen voor videocodering die vandaag worden gebruikt en zijn geoptimaliseerd voor afspelen op doelpagina&#39;s.
+Adobe Dynamic Media Classic biedt een groot aantal voorgedefinieerde voorinstellingen voor videocodering. Deze vooraf gedefinieerde voorinstellingen weerspiegelen de meest gangbare instellingen voor videocodering die vandaag worden gebruikt en zijn geoptimaliseerd voor afspelen op doelpagina&#39;s.
 
 Als verdere aanpassingen nodig zijn, kunnen beheerders echter videovoorinstellingen maken om de grootte en de afspeelervaring van Video&#39;s aan de eindgebruikers aan te passen. Beheerders kunnen videovoorinstellingen toevoegen en beheren via de pagina Voorinstellingen video die beschikbaar is onder **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Video Presets]** > **[!UICONTROL Single Encoding Presets]**. De pagina Voorinstellingen video biedt opties voor het toevoegen, bewerken, verwijderen en activeren van videovoorinstellingen.
 
@@ -109,7 +109,7 @@ U kunt de video afspelen op de voorvertoningspagina. U kunt ook verschillende vi
 
 **Optioneel**
 
-Aanpassing van voorinstellingen viewer - Dynamic Media Classic biedt vooraf gedefinieerde voorinstellingen voor viewers voor het afleveren van video. Deze voorinstellingen bepalen de vormgeving van de viewer en de werking van de afspeelbesturingselementen. Beheerders kunnen voorinstellingen voor viewers toevoegen en beheren via de pagina Voorinstellingen voor viewer om de videoviewer aan te passen. Als u deze pagina wilt openen, klikt u in de rechterbovenhoek van Dynamic Media Classic op **[!UICONTROL Setup]** > **[!UICONTROL Viewer Presets]**. De pagina Voorinstellingen viewer bevat opdrachten voor het toevoegen, bewerken, verwijderen en activeren van voorinstellingen van viewers.
+Aanpassing van voorinstellingen viewer - Adobe Dynamic Media Classic biedt vooraf gedefinieerde viewervoorinstellingen voor het afleveren van video. Deze voorinstellingen bepalen de vormgeving van de viewer en de werking van de afspeelbesturingselementen. Beheerders kunnen voorinstellingen voor viewers toevoegen en beheren via de pagina Voorinstellingen voor viewer om de videoviewer aan te passen. Als u deze pagina wilt openen, klikt u in de rechterbovenhoek van Adobe Dynamic Media Classic op **[!UICONTROL Setup]** > **[!UICONTROL Viewer Presets]**. De pagina Voorinstellingen viewer bevat opdrachten voor het toevoegen, bewerken, verwijderen en activeren van voorinstellingen van viewers.
 
 Zie [Werken met voorinstellingen voor videoviewers](previewing-videos-video-viewer.md#working_with_video_viewer_presets).
 
@@ -125,7 +125,7 @@ Als u video wilt integreren in uw website, kunt u een van de volgende handelinge
 
    >[!NOTE]
    >
-   >URL&#39;s worden alleen geactiveerd nadat u de video of de adaptieve videoset hebt gepubliceerd.
+   >URL&#39;s worden pas geactiveerd nadat u de video of de adaptieve videoset hebt gepubliceerd.
 
 * Geef de video weer die is ingesloten op de webpagina, in welk geval de functie **[!UICONTROL Embed Code]** wordt gebruikt.
 

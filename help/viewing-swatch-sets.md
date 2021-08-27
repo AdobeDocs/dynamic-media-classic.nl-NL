@@ -10,7 +10,7 @@ discoiquuid: 48de8604-2bb4-4862-82ee-0c7847f0d0e7
 feature: Dynamic Media Classic,Viewers
 role: User
 exl-id: 05769eeb-5f1b-42ff-9392-2669f5051140
-source-git-commit: df689ff5a127bfbc400ca5331168d1ff7bb0b42e
+source-git-commit: 1d71cbe6e2493ac8d47e837a20e194b6ae7a22d4
 workflow-type: tm+mt
 source-wordcount: '429'
 ht-degree: 0%
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 U kunt de stalensets bekijken in het voorvertoningsvenster met behulp van de beschikbare voorinstellingen. U gebruikt een zoomviewer: Voorinstelling aangepaste viewer voor stalensets.
 
-Dynamic Media Classic wordt geleverd met standaardvoorinstellingen voor viewers. Beheerders kunnen de Viewer-voorinstellingen maken of wijzigen.
+Adobe Dynamic Media Classic wordt geleverd met standaardvoorinstellingen voor viewers. Beheerders kunnen de Viewer-voorinstellingen maken of wijzigen.
 
 ## Voorinstellingen voor de zoomviewer instellen voor stalensets {#setting-up-zoom-viewer-presets-for-swatch-sets}
 
@@ -50,9 +50,9 @@ Met Voorvertoning kunt u zien hoe een element wordt weergegeven op een bepaald v
 1. In het paneel van de Bibliotheek van Activa op de linkerkant, navigeer de omslagen van Activa die de Reeks van het Monster bevatten die u met een kijker wilt voorproef.
 1. Voer een van de volgende handelingen uit:
 
-   * Klik in de rechterbovenhoek van het klassieke Dynamic Media-venster op het pictogram **[!UICONTROL List View]**. Houd de muisaanwijzer in het venster Element boven een element en klik vervolgens op **[!UICONTROL Preview]** (niet op de vervolgkeuzelijst Voorvertoning).
-   * Klik in de rechterbovenhoek van het klassieke Dynamic Media-venster op het pictogram **[!UICONTROL Grid View]**. Klik in het venster Middelen in een elementminiatuurvenster op **[!UICONTROL Preview]** (niet in de vervolgkeuzelijst Voorbeeld).
-   * Klik in de rechterbovenhoek van het klassieke Dynamic Media-venster op het pictogram **[!UICONTROL Detail View]**. Klik op **[!UICONTROL Preview]** op dezelfde werkbalk (niet op de vervolgkeuzelijst Voorvertoning).
+   * Klik in de rechterbovenhoek van het Klassieke venster van Adobe Dynamic Media op het pictogram **[!UICONTROL List View]**. Houd de muisaanwijzer in het venster Element boven een element en klik vervolgens op **[!UICONTROL Preview]** (niet op de vervolgkeuzelijst Voorvertoning).
+   * Klik in de rechterbovenhoek van het Klassieke venster van Adobe Dynamic Media op het pictogram **[!UICONTROL Grid View]**. Klik in het venster Middelen in een elementminiatuurvenster op **[!UICONTROL Preview]** (niet in de vervolgkeuzelijst Voorbeeld).
+   * Klik in de rechterbovenhoek van het Klassieke venster van Adobe Dynamic Media op het pictogram **[!UICONTROL Detail View]**. Klik op **[!UICONTROL Preview]** op dezelfde werkbalk (niet op de vervolgkeuzelijst Voorvertoning).
 
 1. (Optioneel) Selecteer in de vervolgkeuzelijst onderaan in het voorvertoningsvenster de URL-codering die u wilt toepassen op de URL van het element wanneer het element wordt gekopieerd.
 1. Klik op een viewerkoppeling om een voorvertoning van het element weer te geven in de geselecteerde viewer.

@@ -1,6 +1,6 @@
 ---
 title: Een sjabloon maken
-description: Leer hoe u een sjabloon maakt in Dynamic Media Classic.
+description: Leer hoe u een sjabloon maakt in Adobe Dynamic Media Classic.
 uuid: c762224b-7c6c-4434-bada-c26570079645
 contentOwner: admin
 content-type: reference
@@ -10,9 +10,9 @@ discoiquuid: 8f7093da-d215-4337-ac95-69f0a5bf8648
 feature: Dynamic Media Classic
 role: User
 exl-id: 23ac1a0f-c90b-4250-ae36-93702fb5ebd9
-source-git-commit: 976f739e5233ae9da24b06cffa729353a7d03c46
+source-git-commit: 1d71cbe6e2493ac8d47e837a20e194b6ae7a22d4
 workflow-type: tm+mt
-source-wordcount: '3238'
+source-wordcount: '3246'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Als u een sjabloon wilt maken, gaat u naar **[!UICONTROL Build]** > **[!UICONTRO
 
 >[!NOTE]
 >
->Als u een sjabloon bewerkt die in een eerdere versie van Dynamic Media Classic is gemaakt, wordt u bij het opslaan gevraagd of u een canvaslaag wilt toevoegen. Selecteer **[!UICONTROL No]** om het toevoegen van een basislaag te vermijden. Als u per ongeluk **[!UICONTROL Yes]** selecteert, schrapt `&allowCanvasPrompt` en `&layer=0` bepalingen in URL en drukt **[!UICONTROL Enter]** of **[!UICONTROL Return]**.
+>Als u een sjabloon bewerkt die in een eerdere versie van Adobe Dynamic Media Classic is gemaakt, wordt u bij het opslaan gevraagd &quot;Wilt u een canvaslaag toevoegen?&quot;. Selecteer **[!UICONTROL No]** om het toevoegen van een basislaag te vermijden. Als u per ongeluk **[!UICONTROL Yes]** selecteert, schrapt `&allowCanvasPrompt` en `&layer=0` bepalingen in URL en drukt **[!UICONTROL Enter]** of **[!UICONTROL Return]**.
 
 ## De eerste sjabloon maken {#creating-the-initial-template}
 
@@ -52,7 +52,7 @@ U kunt een sjabloon maken op basis van een bestaande sjabloon. Open de sjabloon,
 1. Selecteer **[!UICONTROL Save]**.
 1. Selecteer een map waarin u de sjabloon wilt opslaan, voer een naam voor de sjabloon in en selecteer **[!UICONTROL Submit]**.
 
-   In Dynamic Media Classic worden afbeeldingen zo nodig verkleind om ze op het canvas te passen, het gebied op het scherm Sjabloon waarin u de sjabloon definieert.
+   Adobe Dynamic Media Classic verkleint afbeeldingen indien nodig om deze op het canvas te passen, het gebied op het scherm Sjabloon waarin u de sjabloon definieert.
 
 ## Een sjabloonset bewerken {#editing-a-template-set}
 
@@ -103,7 +103,7 @@ Gebruik deze gereedschappen op het scherm Sjabloon, zodat u sjablonen kunt maken
 
    >[!NOTE]
    >
-   >Teksteditor v4.2 is bedoeld om te worden verwijderd als een optie in Dynamic Media Classic. Het wordt daarom aanbevolen om teksteditor 4.3 zo veel mogelijk te gebruiken. De optie **[!UICONTROL Word Wrap]** wordt opgenomen in een toekomstige versie van de Teksteditor.
+   >Teksteditor v4.2 is bedoeld om te worden verwijderd als een optie in Adobe Dynamic Media Classic. Het wordt daarom aanbevolen om teksteditor 4.3 zo veel mogelijk te gebruiken. De optie **[!UICONTROL Word Wrap]** wordt opgenomen in een toekomstige versie van de Teksteditor.
 
 * **[!UICONTROL Designer and Developer]** - Selecteer de optie die uw rol het best beschrijft.
 
@@ -121,7 +121,7 @@ Gebruik deze gereedschappen op het scherm Sjabloon, zodat u sjablonen kunt maken
 
    >[!NOTE]
    >
-   >Zo nodig verkleint Dynamic Media Classic afbeeldingen, zodat deze op het canvas passen wanneer u een afbeeldingslaag maakt.
+   >Indien nodig verkleint Adobe Dynamic Media Classic de afbeeldingen zodat deze op het canvas passen wanneer u een afbeeldingslaag maakt.
 
 ## Een tekstlaag maken {#creating-a-text-layer}
 
@@ -142,7 +142,7 @@ Ga als volgt te werk om tekst in een tekstlaag op te maken:
 1. Selecteer in het tekstvak van de Teksteditor de tekst die u wilt opmaken. U kunt alle tekst, delen van de tekst of afzonderlijke tekens selecteren.
 1. Geef een van de volgende opmaakopties op en selecteer **[!UICONTROL Apply]**.
 
-   * **[!UICONTROL Font]** - Kies een lettertype in het menu Lettertype. Als een lettertype dat u wilt gebruiken niet in het menu staat, kunt u het naar de Dynamic Media Classic uploaden. Zie Lettertypen.
+   * **[!UICONTROL Font]** - Kies een lettertype in het menu Lettertype. Als het gewenste lettertype niet in het menu staat, kunt u het lettertype uploaden naar de Klassieke Adobe Dynamic Media. Zie Lettertypen.
 
    * **[!UICONTROL Font Size]** - Kies een tekengrootte in het menu, typ een specifieke grootte in het vak of selecteer de  **[!UICONTROL Up]** of de  **[!UICONTROL Down]** pijlen om de grootte met twee punten te vergroten of te verkleinen.
 
@@ -244,7 +244,7 @@ Lagen moeten klein genoeg zijn om op het canvas te passen. U kunt de grootte van
 
 >[!NOTE]
 >
->Dynamic Media Classic raadt u aan een voorinstelling voor afbeeldingen te maken die de exacte grootte van uw sjabloon heeft. Als u de grootte van de voorinstelling Afbeelding afstemt op de sjabloongrootte, weet u zeker dat de uiteindelijke uitvoergrootte en de verscherpingsopties voor de sjabloon correct zijn ingesteld. Nadat u deze voorinstelling voor afbeelding hebt gemaakt, kunt u deze kiezen in het menu Voorinstelling toepassen op het scherm Sjabloonvoorvertoning. Het scherm toont u hoe het beeld eruit ziet wanneer het van de server wordt geleverd. Zie [Voorinstellingen voor afbeeldingen instellen](setting-image-presets.md#setting_up_image_presets).
+>Adobe Dynamic Media Classic raadt u aan een voorinstelling voor afbeeldingen te maken die de exacte grootte van uw sjabloon heeft. Als u de grootte van de voorinstelling Afbeelding afstemt op de sjabloongrootte, weet u zeker dat de uiteindelijke uitvoergrootte en de verscherpingsopties voor de sjabloon correct zijn ingesteld. Nadat u deze voorinstelling voor afbeelding hebt gemaakt, kunt u deze kiezen in het menu Voorinstelling toepassen op het scherm Sjabloonvoorvertoning. Het scherm toont u hoe het beeld eruit ziet wanneer het van de server wordt geleverd. Zie [Voorinstellingen voor afbeeldingen instellen](setting-image-presets.md#setting_up_image_presets).
 
 * **De grootte van een laag**  wijzigen - Als u de grootte van een laag of het canvas wilt wijzigen, selecteert u de laag of het canvas in de lijst Lagen en gebruikt u een van de volgende technieken:
 
@@ -288,7 +288,7 @@ Als u een achtergrondkleur, dekking en overvloeimodus voor een laag of het canva
 
 ## Schaduw- en gloedeffecten gebruiken op lagen {#using-shadow-and-glow-effects-on-layers}
 
-U kunt een schaduw of gloed op een laag toepassen. De schaduw of gloed wordt toegepast op de omtrek van de laag en wordt naar binnen of naar buiten uitgebreid, afhankelijk van de optie voor schaduw of gloed die u kiest. Als uw sjabloon is gemaakt met een PSD-bestand met schaduw- en gloedeffecten, kunt u deze effecten aanpassen in Dynamic Media Classic.
+U kunt een schaduw of gloed op een laag toepassen. De schaduw of gloed wordt toegepast op de omtrek van de laag en wordt naar binnen of naar buiten uitgebreid, afhankelijk van de optie voor schaduw of gloed die u kiest. Als uw sjabloon is gemaakt met een PSD-bestand met schaduw- en gloedeffecten, kunt u deze effecten aanpassen in Adobe Dynamic Media Classic.
 
 Nadat u een schaduw- of gloedeffect hebt toegepast, kunt u de grootte, kleur, dekking en positie aanpassen in het gedeelte Laageigenschappen van het scherm Sjabloon.
 

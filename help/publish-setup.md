@@ -1,22 +1,22 @@
 ---
 title: Publicatie-instelling
-description: Met de publicatie-instellingen kunt u bepalen hoe elementen standaard worden geleverd vanaf Dynamic Media Classic-servers naar websites of toepassingen.
+description: Met de publicatie-instellingen kunt u bepalen hoe elementen standaard worden geleverd van Adobe Dynamic Media Classic-servers naar websites of toepassingen.
 contentOwner: admin
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 feature: Dynamic Media Classic
 role: Admin
 exl-id: 699d4c12-e47b-4c6b-86f3-dc7aaaa56c1e
-source-git-commit: df689ff5a127bfbc400ca5331168d1ff7bb0b42e
+source-git-commit: 1d71cbe6e2493ac8d47e837a20e194b6ae7a22d4
 workflow-type: tm+mt
-source-wordcount: '2374'
+source-wordcount: '2387'
 ht-degree: 0%
 
 ---
 
 # Publicatie-instelling {#publish-setup}
 
-De pagina-instellingen voor Publicatie-instellingen bepalen hoe elementen standaard worden geleverd vanaf Dynamic Media Classic-servers naar websites of toepassingen. Als er geen instelling is opgegeven, levert de Klassieke Dynamic Media-server een element op basis van een standaardinstelling op een pagina Publicatie-instelling. Als u bijvoorbeeld een verzoek indient om een afbeelding te leveren die geen resolutiekenmerk bevat, wordt een afbeelding weergegeven met de standaardinstelling Objectresolutie op de pagina Afbeeldingsserver.
+De pagina-instellingen voor Publicatie-instellingen bepalen hoe elementen standaard worden geleverd van Adobe Dynamic Media Classic-servers naar websites of toepassingen. Als er geen instelling is opgegeven, levert de Classic-server van Adobe Dynamic Media een element volgens de standaardinstelling op een pagina Publicatie-instelling. Als u bijvoorbeeld een verzoek indient om een afbeelding te leveren die geen resolutiekenmerk bevat, wordt een afbeelding weergegeven met de standaardinstelling Objectresolutie op de pagina Afbeeldingsserver.
 
 Beheerders kunnen de standaardinstellingen op de pagina&#39;s Afbeeldingsserver, Afbeeldingsrenderer en Vignet wijzigen om standaardinstellingen voor het leveren van elementen van servers in te stellen.
 
@@ -24,15 +24,15 @@ Als u de pagina&#39;s voor publicatie-instellingen wilt openen, klikt u op **[!U
 
 >[!NOTE]
 >
->De pagina&#39;s van de Opstelling van de Publish zijn voor gebruik door ervaren websiteontwikkelaars en programmeurs. Dynamic Media Classic gaat ervan uit dat gebruikers die de instellingen op deze pagina&#39;s wijzigen, bekend zijn met Dynamic Media Classic, HTTP-protocolstandaarden en -conventies en de basistechnologie voor beeldbewerking.
+>De pagina&#39;s van de Opstelling van de Publish zijn voor gebruik door ervaren websiteontwikkelaars en programmeurs. Adobe Dynamic Media Classic gaat ervan uit dat gebruikers die instellingen op deze pagina&#39;s wijzigen, vertrouwd zijn met Adobe Dynamic Media Classic, HTTP-protocolstandaarden en -conventies en de basistechnologie voor beeldbewerking.
 
 ## Afbeeldingsserver {#image-server}
 
 De pagina van de Server van het Beeld vestigt standaardmontages voor het leveren van beelden van beeldservers. De montages zijn beschikbaar in deze vijf categorieën (zie de pagina van de Server van het Beeld zelf voor gedetailleerde beschrijvingen van de montages).
 
-Wijzig deze instellingen alleen met de hulp van een Dynamic Media Classic-ondersteuningspersoon.
+Wijzig deze instellingen alleen met de hulp van een Adobe Dynamic Media Classic-ondersteuningspersoon.
 
-* **Catalogusbeheer**  - Deze instellingen bepalen de interactie tussen Dynamic Media Classic en de catalogus. In tegenstelling tot de meeste webservers gaan URL-aanroepen van Dynamic Media Image Server naar een manifest-of catalogusbestand in plaats van naar het eigenlijke afbeeldingsbestand. Het catalogusbestand (dat niet moet worden verward met een eCatalog) bevat een lijst met alle inhoud die naar de afbeeldingsserver is gepubliceerd, samen met het pad naar elke afbeelding. Als u een Digimarc-id hebt, voert u uw gebruikersgegevens in het gedeelte Digimarc-gebruikersinfo in.
+* **Catalogusbeheer**  - Deze instellingen bepalen hoe Adobe Dynamic Media Classic en de catalogus op elkaar inwerken. In tegenstelling tot de meeste webservers gaan URL-aanroepen van Dynamic Media Image Server naar een manifest-of catalogusbestand in plaats van naar het eigenlijke afbeeldingsbestand. Het catalogusbestand (dat niet moet worden verward met een eCatalog) bevat een lijst met alle inhoud die naar de afbeeldingsserver is gepubliceerd, samen met het pad naar elke afbeelding. Als u een Digimarc-id hebt, voert u uw gebruikersgegevens in het gedeelte Digimarc-gebruikersinfo in.
 
 * **Attributen**  aanvragen - Met deze instellingen worden limieten ingesteld voor afbeeldingen die van de server kunnen worden geleverd. De *maximum* **[!UICONTROL Reply Image Size Limit]** is bijvoorbeeld **[!UICONTROL Width]** 5000 en **[!UICONTROL Height]** 5000.
 
@@ -59,9 +59,9 @@ Wijzig deze instellingen alleen met de hulp van een Dynamic Media Classic-onders
 
 >[!NOTE]
 >
->Als u Localization Support-opties wilt instellen in Dynamic Media Classic, zoals het veld Locale Map, [gebruik de Admin Console om een ondersteuningscase te maken.](https://helpx.adobe.com/enterprise/admin-guide.html/enterprise/using/support-for-experience-cloud.ug.html) In uw steungeval, verzoek opstelling hulp.
+>Als u Localization Support-opties wilt instellen in Adobe Dynamic Media Classic, zoals het veld Locale Map, [gebruik de Admin Console om een ondersteuningscase te maken.](https://helpx.adobe.com/enterprise/admin-guide.html/enterprise/using/support-for-experience-cloud.ug.html) In uw steungeval, verzoek opstelling hulp.
 
-Een algemene manier om Dynamic Media Classic te gebruiken is het beheren van productafbeeldingen op websites voor e-handel. Internationale bedrijven staan voor de uitdaging dat activa voor soortgelijke producten er van land tot land anders uitzien. Meestal zijn de verschillen voor een paar delen van de totale media. Het aanpakken van dergelijke verschillen door alle activa voor elk van de landen te kopiëren en alleen de verschillen te overschrijven is een enorme inspanning en is in tegenspraak met de enkele master metaforen. Dergelijke verschillen voor activa kunnen, van landspecifieke video&#39;s met verschillende audiosporen, aan subtiele maar belangrijke verschillen in een machtskoord blijven dat met het product wordt gebruikt. Dynamic Media Classic gebruikt een basisopzoekmechanisme. U bepaalt een orde van activa achtervoegsels waarin de Server van het Beeld kijkt, beginnend bij de vereiste scène.
+Een algemene manier om Adobe Dynamic Media Classic te gebruiken is het beheren van productafbeeldingen op e-Commerce-websites. Internationale bedrijven staan voor de uitdaging dat activa voor soortgelijke producten er van land tot land anders uitzien. Meestal zijn de verschillen voor een paar delen van de totale media. Het aanpakken van dergelijke verschillen door alle activa voor elk van de landen te kopiëren en alleen de verschillen te overschrijven is een enorme inspanning en is in tegenspraak met de enkele master metaforen. Dergelijke verschillen voor activa kunnen, van landspecifieke video&#39;s met verschillende audiosporen, aan subtiele maar belangrijke verschillen in een machtskoord blijven dat met het product wordt gebruikt. Adobe Dynamic Media Classic gebruikt een basisopzoekmechanisme. U bepaalt een orde van activa achtervoegsels waarin de Server van het Beeld kijkt, beginnend bij de vereiste scène.
 
 #### Hoe middelen worden gelokaliseerd
 
@@ -97,7 +97,7 @@ Enkele voordelen van het gebruik van `locale=` en `attribute::DefaultLocale` omv
 
 #### Locatie van middelen implementeren
 
-Dynamic Media Classic en Image Serving hebben een interface waarmee u afbeeldingen en statische inhoud kunt lokaliseren.
+Adobe Dynamic Media Classic en Image Serving hebben een interface waarmee u afbeeldingen en statische inhoud kunt lokaliseren.
 
 Zonder lokalisatie ziet een URL voor een afbeeldingsserver er als volgt uit:
 
@@ -117,7 +117,7 @@ Of een achtervoegselwaarde of een vervangingswaarde wordt toegepast hangt van de
 
 >[!NOTE]
 >
->De instelling Globale landinstelling is alleen mogelijk wanneer u deze instelt via de API, niet in de Classic-interface van Dynamic Media.
+>De instelling Globale landinstelling is alleen mogelijk wanneer u deze instelt via de API, niet in de Classic-interface van Adobe Dynamic Media.
 
 **Voorbeeld van achtervoegsel:**
 
@@ -137,7 +137,7 @@ Als een onbekende of lege landinstellingsparameter wordt geleverd bij `locale=`,
 
 #### Over defaultImage
 
-De server van het Beeld probeert de opties voor de gevraagde scène, één na andere. Als er geen overeenkomst wordt gevonden, worden de landinstellingsopties toegepast op defaultImage en wordt de overeenkomende versie geretourneerd. Daarom moet elke landinstelling een optie voor de afbeelding zonder lokalisatie bevatten of moeten gelokaliseerde standaardafbeeldingsversies beschikbaar worden gesteld in Dynamic Media Classic.
+De server van het Beeld probeert de opties voor de gevraagde scène, één na andere. Als er geen overeenkomst wordt gevonden, worden de landinstellingsopties toegepast op defaultImage en wordt de overeenkomende versie geretourneerd. Daarom moet elke landinstelling een optie voor de afbeelding zonder lokalisatie bevatten of moeten gelokaliseerde standaardafbeeldingsversies beschikbaar worden gesteld in Adobe Dynamic Media Classic.
 
 #### Scenario&#39;s voor het zoeken van de localeMap
 
@@ -220,7 +220,7 @@ Wanneer het eerste voorbeeld als basis wordt gebruikt, kunnen afbeeldingen voor 
 
 De pagina Renderer van het Beeld vestigt standaardmontages voor het leveren van de Reeksen van het Beeld van beeld het teruggeven servers. De montages zijn beschikbaar in deze vijf categorieën (zie de pagina van de Server van het Beeld zelf voor gedetailleerde beschrijvingen van de montages):
 
-* **Catalogusbeheer**  - Deze instellingen bepalen de interactie tussen Dynamic Media Classic en het catalogusbestand. De Klassieke van de Server URL van de Render van Dynamic Media vraag wordt gemaakt aan de catalogus, die beurtelings roept om beelden van de server te leveren. Wijzig deze instellingen alleen met de hulp van een Dynamic Media Classic-ondersteuningspersoon.
+* **Catalogusbeheer**  - Deze instellingen bepalen hoe Adobe Dynamic Media Classic en het catalogusbestand op elkaar inwerken. De Klassieke van de Server URL van de Render van Adobe Dynamic Media vraag wordt gemaakt aan de catalogus, die beurtelings roept om beelden van de server te leveren. Wijzig deze instellingen alleen met de hulp van een Adobe Dynamic Media Classic-ondersteuningspersoon.
 
 * **Sessiekenmerken**  - Met deze instellingen worden foutparameters, de URL voor relatieve afbeeldings-URL&#39;s en of objectoverlapping is toegestaan.
 

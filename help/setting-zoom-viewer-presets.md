@@ -7,25 +7,25 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/zoom
 discoiquuid: 5023a933-e229-4d3c-8e91-3ac5e9f4970b
-feature: Dynamic Media Klassiek,Viewers,Zoomen
+feature: Dynamic Media Classic,Viewers,Zoom
 role: User
 exl-id: ddaaff6c-5447-408e-9c92-bcdfd1a0e72e
-source-git-commit: df689ff5a127bfbc400ca5331168d1ff7bb0b42e
+source-git-commit: 1d71cbe6e2493ac8d47e837a20e194b6ae7a22d4
 workflow-type: tm+mt
-source-wordcount: '594'
+source-wordcount: '593'
 ht-degree: 0%
 
 ---
 
 # Voorinstellingen Zoomviewer instellen{#setting-up-zoom-viewer-presets}
 
-Voorinstellingen voor zoomviewer bepalen de stijl, het gedrag en de vormgeving van uw zoomviewers. Dynamic Media Classic biedt veel opties voor het aanpassen en toewijzen van weergaven. Dynamic Media Classic wordt geleverd met standaard basisvoorinstellingen (snel), flyout en aangepaste voorinstellingen voor de zoomviewer. Beheerders kunnen voorinstellingen voor de zoomviewer van het bedrijf maken of een standaardvoorinstelling bewerken en deze onder een andere naam opslaan.
+Voorinstellingen voor zoomviewer bepalen de stijl, het gedrag en de vormgeving van uw zoomviewers. Adobe Dynamic Media Classic biedt veel opties voor het aanpassen en toewijzen van weergaven. Adobe Dynamic Media Classic wordt geleverd met standaard basisvoorinstellingen (snel), flyout en aangepaste voorinstellingen voor de zoomviewer. Beheerders kunnen voorinstellingen voor de zoomviewer van het bedrijf maken of een standaardvoorinstelling bewerken en deze onder een andere naam opslaan.
 
 Alle zoomviewers beschikken over knoppen waarmee u kunt inzoomen, uitzoomen, pannen en de oorspronkelijke staat van de afbeelding kunt herstellen nadat u hebt ingezoomd. Hoe deze knoppen eruitzien en hoe het venster zelf eruitziet, is afhankelijk van uw keuze voor Voorinstellingen van Zoomviewer. U kunt een voorinstelling voor een zoomviewer configureren met verschillende kleuren, randen, lettertypen en afbeeldingsinstellingen. Wanneer u een Viewer met instructies voor zoomen configureert, kunt u ook kiezen waar u de zoomdoelen wilt plaatsen. Zoomdoelen zijn de miniaturen waarop gebruikers klikken om te zoomen op de gebieden die u opgeeft.
 
 ## Voorinstellingen Zoomviewer {#about-zoom-viewer-presets}
 
-Dynamic Media Classic bevat de volgende voorinstellingen voor de zoomviewer:
+Adobe Dynamic Media Classic biedt de volgende voorinstellingen voor de zoomviewer:
 
 * **Zoomviewer: Standaard**  - Hiermee kunt u eenvoudig inzoomen op de oorspronkelijke afbeelding.
 
@@ -35,7 +35,7 @@ Houd er bij het bepalen van het totale bandbreedtegebruik voor deze viewer reken
 
 Als de hoofdafbeelding bijvoorbeeld 350 x 350 pixels groot is, met een zoomfactor van 3, is de resulterende uitvliegafbeelding 1050 x 1050 pixels. Als de hoofdafbeeldingsgrootte 300 x 300 pixels is, met een zoomfactor van 4, is de vervolgafbeelding 1200 x 1200 pixels. Afhankelijk van de kwaliteitsinstelling voor JPEG (de aanbevolen instellingen liggen tussen 80 en 90), kunt u de bestandsgrootte aanzienlijk verkleinen. De aanbevolen zoomfactoren zijn 2,5 tot 4, afhankelijk van de grootte van de hoofdafbeelding.
 
-Dynamic Media Classic raadt de volgende parameters aan voor voorinstellingen van een uitgevouwen zoomviewer:
+Adobe Dynamic Media Classic raadt de volgende parameters aan voor voorinstellingen van de uitgevouwen zoomviewer:
 
 * **Grotere afbeeldingsgrootte** : ongeveer 1500 x 1500 pixels, maximaal 2000 x 2000 pixels.
 
