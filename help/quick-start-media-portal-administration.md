@@ -1,6 +1,6 @@
 ---
 title: '"Snel starten: Media Portal"'
-description: Een inleiding en Snel Begin aan het Portaal van Media om u te helpen snel met de technieken en het beleid van het Portaal van Media in gebruik worden.
+description: Een inleiding en Snel Begin aan het Portaal van Media om u te helpen snel met de technieken en het beleid van het Portaal van Media in Adobe Dynamic Media Klassiek aan de slag gaan.
 uuid: 0dbd6146-b392-4e03-955b-0b323b654b9f
 contentOwner: admin
 content-type: reference
@@ -10,9 +10,9 @@ discoiquuid: 1385a092-0b2c-4e05-ad1e-ce3685022300
 feature: Dynamic Media Classic,Collaboration,Asset Management
 role: Admin,User
 exl-id: bff613c8-a93b-4cca-94db-8cad1cc36296
-source-git-commit: 1d71cbe6e2493ac8d47e837a20e194b6ae7a22d4
+source-git-commit: 36f9aa3c2b4dc66e4cb851c2ce6837ae0ad4f64c
 workflow-type: tm+mt
-source-wordcount: '688'
+source-wordcount: '693'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Het Portaal van media laat bedrijven gemakkelijk verwerven, controleren en goedg
 
 Als beheerder, controleert u hoe de gebruikers, tot activa in het Portaal van Media bekijken en toegang hebben en gebruiken. Bovendien kunt u de interface van het Portaal van Media aanpassen om uw website en merk aan te passen. U kunt lettertype, lettertypekleur, tekengrootte opgeven en branding-elementen zoals logo&#39;s opnemen in de Media Portal-interface.
 
-Dit Snelle Begin wordt ontworpen om u met het beleid van het Portaal van Media snel op te staan en te werken. Aan het eind van elke stap, klik de onderwerpverbinding om meer te leren.
+Dit Snelle Begin wordt ontworpen om u met het beleid van het Portaal van Media snel op te staan en te werken. Aan het eind van elke stap, selecteer de onderwerpverbinding om meer te leren.
 
 ## 1. Gebruikerrollen in Media Portal begrijpen
 

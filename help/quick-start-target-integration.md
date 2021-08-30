@@ -1,6 +1,6 @@
 ---
 title: '"Snel starten: Adobe Target Standard/Premium-integratie"'
-description: Een introductie en Snel starten naar Adobe Target Standard/Premium om u te helpen snel aan de slag te gaan met de integratietechnieken Adobe Target Standard/Premium.
+description: Een introductie en Snel starten naar Adobe Target Standard/Premium om u te helpen snel aan de slag te gaan met Adobe Target Standard/Premium-integratietechnieken in Adobe Dynamic Media Classic.
 uuid: d8f79fbf-8be1-44fa-8058-3508060fcd70
 contentOwner: admin
 content-type: reference
@@ -10,16 +10,16 @@ discoiquuid: f8c25768-cf59-45ec-8193-522404191d57
 feature: Dynamic Media Classic
 role: Data Engineer,Admin,User
 exl-id: 4745ace5-7825-468e-8a82-bfbbcf1b0440
-source-git-commit: 1d71cbe6e2493ac8d47e837a20e194b6ae7a22d4
+source-git-commit: 36f9aa3c2b4dc66e4cb851c2ce6837ae0ad4f64c
 workflow-type: tm+mt
-source-wordcount: '490'
+source-wordcount: '496'
 ht-degree: 0%
 
 ---
 
 # Snel starten: Adobe Target Standard/Premium-integratie{#quick-start-target-integration}
 
-Met Adobe Target Standard/Premium wordt de controle rechtstreeks bij de marketers gelegd om snel en voortdurend meerdere A/B- en multivariate-tests uit te voeren, de doeltreffendheid te meten en de relevantie van online-inhoud te vergroten door segmentatie, doelgerichtheid en geautomatiseerde personalisatie.
+Met Adobe Target Standard/Premium wordt de controle rechtstreeks bij de marketers gelegd om snel en voortdurend meerdere A/B- en multivariate-tests uit te voeren, de doeltreffendheid te meten en de relevantie van online-inhoud te vergroten door segmentatie, doelgerichtheid en Automated Personalization.
 
 Met Adobe Dynamic Media Classic kunt u aanbiedingen maken en sets aanbieden voor Adobe Target Standard/Premium-campagnes. U kunt bijvoorbeeld een aanbiedingsset maken met drie variaties van hetzelfde rich media-element. Vervolgens kunt u met Adobe Target Standard/Premium bepalen welk element een betere conversielift biedt. U kunt aanbiedingen maken en sets aanbieden op basis van een standaardsjabloon of op basis van afzonderlijke afbeeldingen. Nadat de aanbiedingsreeks is geduwd op of opgeslagen aan Adobe Target Standard/Premium, waar de aanbiedingen aan dozen en ervaringen worden geassocieerd, kan Adobe Target Standard/Premium campagnes voeren. Deze campagnes bepalen welke variatie van een website waarschijnlijk het beste voor klikdoorloop en omzetting zal presteren.
 
@@ -37,11 +37,11 @@ Adobe Dynamic Media Classic heeft uw Adobe Target Standard/Premium-URL nodig om 
 
 ## 2. De aanbiedingsset maken
 
-Gebruik een geparametriseerde sjabloon of afbeeldingen om een aanbiedingsset te maken. U maakt HTML-aanbiedingssets op de pagina Set Test&amp;Target-voorstellen. Als u deze pagina wilt openen, selecteert u de sjabloon of de afbeeldingen en klikt u op **[!UICONTROL Build]** > **[!UICONTROL Test&Target Offer Set]** op de algemene navigatiebalk.
+Gebruik een geparametriseerde sjabloon of afbeeldingen om een aanbiedingsset te maken. U maakt HTML-aanbiedingssets op de pagina Set Test&amp;Target-voorstellen. Als u deze pagina wilt openen, selecteert u de sjabloon of de afbeeldingen en gaat u naar **[!UICONTROL Build]** > **[!UICONTROL Test&Target Offer Set]** op de algemene navigatiebalk.
 
-Als u een aanbieding met een sjabloon wilt maken, klikt u op **[!UICONTROL Add & Preview]**. Wijzig parameterwaarden op de pagina Toevoegen en voorvertonen.
+Als u een aanbieding met een sjabloon wilt maken, selecteert u **[!UICONTROL Add & Preview]**. Wijzig parameterwaarden op de pagina Toevoegen en voorvertonen.
 
-Als u een aanbieding met afbeeldingen wilt maken, sleept u afbeeldingen naar de pagina Set Test&amp;Target-aanbieding. Klik op **[!UICONTROL Preview]** en kies een voorinstelling voor een afbeelding of voor alle afbeeldingen in de aanbiedingsset.
+Als u een aanbieding met afbeeldingen wilt maken, sleept u afbeeldingen naar de pagina Set Test&amp;Target-aanbieding. Selecteer **[!UICONTROL Preview]** en kies een Voorinstelling voor afbeelding voor een afbeelding of voor alle afbeeldingen in de aanbiedingsset.
 
 Sla de aangeboden set op nadat u deze hebt gemaakt.
 
@@ -49,4 +49,4 @@ Zie [Een aanbiedingsset maken](creating-offer-set.md#creating_an_offer_set).
 
 ## 3. Push the aanbieding set to Adobe Target Standard/Premium
 
-Klik in de pagina Set Test&amp;Target-aanbiedingen op **[!UICONTROL Push Offers]** en voer uw aanmeldingsgegevens in het dialoogvenster Aanmelding test&amp;Doel in. Zie [Aanbiedingssets overdrukken op Adobe Target Standard/Premium](pushing-offer-sets-target.md#pushing_offer_sets_to_target).
+Selecteer **[!UICONTROL Push Offers]** in de pagina Set van &amp;doelaanbiedingen testen en voer uw aanmeldingsgegevens in het dialoogvenster Inloggen bij &amp;doel testen in. Zie [Push-aanbiedingen instellen op Adobe Target Standard/Premium](pushing-offer-sets-target.md#pushing_offer_sets_to_target).

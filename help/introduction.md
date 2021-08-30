@@ -5,9 +5,9 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 feature: Dynamic Media Classic
 role: Admin,User
 exl-id: 7bf94d8c-23ff-4a43-83cc-7e6879a7cded
-source-git-commit: 1d71cbe6e2493ac8d47e837a20e194b6ae7a22d4
+source-git-commit: 36f9aa3c2b4dc66e4cb851c2ce6837ae0ad4f64c
 workflow-type: tm+mt
-source-wordcount: '244'
+source-wordcount: '243'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 Welkom bij Adobe Adobe Dynamic Media Classic, het toonaangevende publicatiesysteem voor verschillende media op aanvraag voor het uploaden, beheren, verbeteren en publiceren van dynamische rijke inhoud naar alle apparaten en schermen. Adobe Dynamic Media Klassieke oplossingen omvatten het volgende:
 
-* Dynamic Imaging: Realtime bewerken, opmaken en vergroten/verkleinen, interactief zoomen en pannen; kleurwaarneming en structuurobservatie; 360 graden centrifuge; afbeeldingssjablonen; multimediaviewers.
+* Dynamic Imaging: Realtime bewerken, opmaken en vergroten/verkleinen, interactief zoomen en pannen; kleurwaarneming en structuurobservatie; 360° centrifugeren; afbeeldingssjablonen; multimediaviewers.
 * eCatalogi: Auteur, hotspot het verbinden, onderzoek-toegelaten, publiceer, en lever dynamisch gediende online catalogi in configureerbare kijkers.
 * Mediaportaal: Zelf-servermilieu die poortgebruikers van beheerder-gecontroleerde &quot;meningen&quot;in de Klassieke activa van Adobe Dynamic Media voor gemakkelijke toegang voorzien om, activa te uploaden, te doorbladeren, te zoeken, voor te vertonen en uit te voeren.
 * eVideo: Definitieve video&#39;s uploaden in elke gewenste indeling, beheren, bewerken, hotspots en videosjablonen maken, publiceren en streamen naar configureerbare videoviewers

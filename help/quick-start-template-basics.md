@@ -1,6 +1,6 @@
 ---
 title: '"Snel starten: Basisbeginselen van sjablonen"'
-description: Een inleiding en Snel Begin aan de Grondbeginselen van het Malplaatje helpen u aan de slag snel.
+description: Een inleiding en Snel Begin aan de Basisprincipes van het Malplaatje helpen u in Adobe Dynamic Media Klassiek opstaan en snel in werking stellen.
 uuid: 16d78cbb-f762-4263-aea9-5712eb933693
 contentOwner: admin
 content-type: reference
@@ -10,9 +10,9 @@ discoiquuid: dd0fbb39-3f6a-496b-a9b6-63b11dcb823a
 feature: Dynamic Media Classic
 role: User
 exl-id: bf695fee-821c-4396-829a-d57ccf475b0c
-source-git-commit: 1d71cbe6e2493ac8d47e837a20e194b6ae7a22d4
+source-git-commit: 36f9aa3c2b4dc66e4cb851c2ce6837ae0ad4f64c
 workflow-type: tm+mt
-source-wordcount: '755'
+source-wordcount: '762'
 ht-degree: 0%
 
 ---
@@ -35,14 +35,14 @@ Als u een PSD-bestand gebruikt om uw sjabloon te maken, selecteert u **[!UICONTR
 
 Als u afbeeldingsbestanden gebruikt, kunt u de afbeeldingen uitsnijden en ook een masker maken van uitknippaden in de afbeeldingen wanneer u deze uploadt.
 
-Klik op de algemene navigatiebalk op **[!UICONTROL Upload]** om een PSD-bestand of andere afbeeldingsbestanden van uw computer te uploaden naar een map op de klassieke Adobe Dynamic Media-server. Zie [Sjabloonbestanden uploaden](uploading-template-files.md#uploading_template_files).
+Selecteer **[!UICONTROL Upload]** op de algemene navigatiebalk om een PSD-bestand of andere afbeeldingsbestanden van uw computer te uploaden naar een map op Adobe Dynamic Media Classic. Zie [Sjabloonbestanden uploaden](uploading-template-files.md#uploading_template_files).
 
 ## 2. Een sjabloon maken
 
-Als u een sjabloon wilt maken van een PSD-bestand, selecteert u **[!UICONTROL Create Template]** wanneer u het bestand uploadt. Als u een sjabloon wilt maken op basis van afbeeldingen, klikt u op **[!UICONTROL Build]** > **[!UICONTROL Template Basics]** en voert u een breedte- en hoogtemeting voor het canvas in. Selecteer **[!UICONTROL Designer]** of **[!UICONTROL Developer]** in de rechterbovenhoek van de pagina en sleep afbeeldingen naar de sjabloonpagina. U kunt ook de afbeeldingen *vóór* selecteren en op **[!UICONTROL Build]** > **[!UICONTROL Template Basics]** klikken. De sjabloonpagina bevat gereedschappen voor:
+Als u een sjabloon wilt maken van een PSD-bestand, selecteert u **[!UICONTROL Create Template]** wanneer u het bestand uploadt. Als u een sjabloon wilt maken van afbeeldingen, gaat u op de algemene navigatiebalk naar **[!UICONTROL Build]** > **[!UICONTROL Template Basics]** en voert u een breedte- en hoogtemeting voor het canvas in. Selecteer **[!UICONTROL Designer]** of **[!UICONTROL Developer]** in de rechterbovenhoek van de pagina en sleep afbeeldingen naar de sjabloonpagina. U kunt ook de afbeeldingen *vóór* selecteren en naar **[!UICONTROL Build]** > **[!UICONTROL Template Basics]** gaan. De sjabloonpagina bevat gereedschappen voor:
 
 * Afbeeldingslagen toevoegen. Als u een laag wilt toevoegen, sleept u een afbeelding naar de sjabloonpagina.
-* Tekstlagen toevoegen. Klik op het pictogram **[!UICONTROL Text tool]**. Sleep de aanwijzer om een vak voor de tekstlaag te maken; Maak de tekst vervolgens op met gereedschappen op de tekstpagina.
+* Tekstlagen toevoegen. Selecteer het pictogram **[!UICONTROL Text tool]**. Sleep de aanwijzer om een vak voor de tekstlaag te maken; Maak de tekst vervolgens op met gereedschappen op de tekstpagina.
 * De grootte en positie van lagen wijzigen.
 * De volgorde van lagen wijzigen.
 * Schaduw- en gloedeffecten toepassen op afbeeldings- en tekstlagen.
@@ -53,7 +53,7 @@ Zie [Een sjabloon maken](creating-template.md#creating_a_template).
 
 De volgende stap bestaat uit het bepalen van de parameters van de eigenschappen op lagen om te bepalen welke laageigenschappen in het koord URL inbegrepen zijn. De parameters staan u toe om malplaatjes met maximumflexibiliteit te gebruiken. Nadat u een laageigenschap in een parameter hebt gemaakt, kunt u deze dynamisch wijzigen.
 
-Als u parameters wilt opgeven voor een laag, opent u de sjabloon in de sjabloonpagina en klikt u op **[!UICONTROL Parameters]** naast de naam van een laag. Selecteer op de pagina Parameters de optie naast elke parameter die u wilt toevoegen. Zie [Sjabloonparameters maken](creating-template-parameters.md#creating_template_parameters).
+Als u parameters wilt opgeven voor een laag, opent u de sjabloon in de sjabloonpagina en selecteert u **[!UICONTROL Parameters]** naast de naam van een laag. Selecteer op de pagina Parameters de optie naast elke parameter die u wilt toevoegen. Zie [Sjabloonparameters maken](creating-template-parameters.md#creating_template_parameters).
 
 ## 4. Sjablonen publiceren
 
@@ -61,10 +61,10 @@ Als u de sjabloon publiceert, wordt deze op Dynamic Media Image Servers geplaats
 
 Zorg ervoor dat u alle afbeeldingen publiceert die aan de sjabloon zijn gekoppeld.
 
-Als u een sjabloon wilt publiceren, markeert u deze voor publicatie en klikt u op **[!UICONTROL Publish]** op de algemene navigatiebalk. Klik vervolgens op **[!UICONTROL Submit Publish]**. Zie [Sjablonen publiceren](publishing-templates.md#publishing_templates).
+Als u een sjabloon wilt publiceren, markeert u deze voor publicatie en selecteert u **[!UICONTROL Publish]** op de algemene navigatiebalk. Selecteer vervolgens **[!UICONTROL Submit Publish]**. Zie [Sjablonen publiceren](publishing-templates.md#publishing_templates).
 
 ## 5. Een sjabloon koppelen aan een webpagina
 
 Dynamic Media Classic maakt URL&#39;s voor sjablonen en activeert de URL&#39;s wanneer u sjablonen publiceert naar Dynamic Media Image Servers. U kunt deze URL-tekenreeksen kopiëren vanaf de pagina Sjabloonvoorbeeld.
 
-Selecteer de sjabloon in het deelvenster Bladeren en klik op **[!UICONTROL Preview]** om de pagina Sjabloonvoorbeeld te openen. Kies een Voorinstelling voor afbeelding voor het afleveren van de sjabloon en klik op **[!UICONTROL Copy URL]**. Nadat u de URL van de voorvertoningspagina hebt gekopieerd, kunt u deze gebruiken in uw website of toepassing. Zie [Een sjabloon koppelen aan een webpagina](linking-template-web-page.md#linking_a_template_to_a_web_page).
+Selecteer de sjabloon in het deelvenster Bladeren en selecteer **[!UICONTROL Preview]** om de pagina Sjabloonvoorbeeld te openen. Kies een voorinstelling voor afbeeldingen voor het afleveren van uw sjabloon en selecteer **[!UICONTROL Copy URL]**. Nadat u de URL van de voorvertoningspagina hebt gekopieerd, kunt u deze gebruiken in uw website of toepassing. Zie [Een sjabloon koppelen aan een webpagina](linking-template-web-page.md#linking_a_template_to_a_web_page).

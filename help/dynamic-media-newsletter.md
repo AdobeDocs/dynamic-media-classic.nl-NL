@@ -5,9 +5,9 @@ keywords: dynamische media;nieuwsbrief;productupdates;tips en trucs;gebeurteniss
 feature: Dynamic Media Classic
 role: Admin,User
 exl-id: 5f2a0cfc-d627-42be-9e68-111b65680ad8
-source-git-commit: ad5270545be502d3aaabba574353787622ab0445
+source-git-commit: 36f9aa3c2b4dc66e4cb851c2ce6837ae0ad4f64c
 workflow-type: tm+mt
-source-wordcount: '1090'
+source-wordcount: '1089'
 ht-degree: 0%
 
 ---
@@ -128,7 +128,7 @@ In deze gearchiveerde nieuwsbrief van één-loketwinkel kunt u waardevolle kenni
    * Meer informatie over een webinar die binnenkort beschikbaar is voor de bescherming van uw digitale middelen.
    * De volgende einden op de informatie-gevulde Adobe Insider Tour.
    * Uitstekende mogelijkheden zijn beschikbaar als u Dynamic Media binnen Experience Manager Assets (Experience Manager Assets) hebt.
-   * Video&#39;s van 360 graden en aangepaste videominiaturen toevoegen aan uw website.
+   * 360°-video&#39;s en aangepaste videominiaturen aan uw website toevoegen.
    * Ontmoet `Andrew Hathaway`, de Belangrijkste Adviseur van Oplossingen voor Dynamic Media binnen de activa van de Experience Manager.
 
 * **[Juni 2019, uitgave 06](https://experienceleague.adobe.com/tools/dynamic-media-demo/newsletter/Dynamic_Media_Newsletter_06_2019_June.html)**

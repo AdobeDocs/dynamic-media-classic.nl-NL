@@ -1,5 +1,5 @@
 ---
-title: '"Snel starten: Video"'
+title: '"Snel starten: Video in Adobe Dynamic Media Classic"'
 description: Een inleiding en Snel aan de Adobe van de Klassieke Video van Dynamic Media om u te helpen snel aan de slag gaan.
 contentOwner: admin
 content-type: reference
@@ -8,14 +8,14 @@ geptopics: SG_SCENESEVENONDEMAND_PK/categories/video
 feature: Dynamic Media Classic,Viewers,Video
 role: User
 exl-id: 1157400c-b33a-422e-848c-258660ddc748
-source-git-commit: 1d71cbe6e2493ac8d47e837a20e194b6ae7a22d4
+source-git-commit: 36f9aa3c2b4dc66e4cb851c2ce6837ae0ad4f64c
 workflow-type: tm+mt
-source-wordcount: '1384'
+source-wordcount: '1396'
 ht-degree: 0%
 
 ---
 
-# Snel starten: Video{#quick-start-video}
+# Snel starten: Video in Adobe Dynamic Media Classic{#quick-start-video}
 
 Adobe Dynamic Media Classic Video is een end-to-end oplossing waarmee u eenvoudig Adaptieve video van hoge kwaliteit kunt publiceren voor streaming op meerdere schermen, waaronder mobiele apparaten voor desktops, iOS, Android™, BlackBerry® en Windows®. Een adaptieve videoreeks groepeert versies van de zelfde video die bij verschillende beetjetarieven en formaten zoals 400 kbps, 800 kbps, en 1000 kbps worden gecodeerd. De desktopcomputer of het mobiele apparaat detecteert de beschikbare bandbreedte.
 
@@ -80,10 +80,10 @@ De volgende stapsgewijze workflowbeschrijving is ontworpen om u te helpen snel a
 
 U kunt adaptieve videosets uploaden en genereren aan de hand van een van de volgende twee scenario&#39;s:
 
-* **Vooraf gecodeerde video**  uploaden - Als uw video&#39;s al buiten Adobe Dynamic Media Classic zijn gecodeerd, klikt u op de algemene navigatiebalk  **[!UICONTROL Upload]** om MP4-videobestanden rechtstreeks naar Adobe Dynamic Media Classic te bladeren en te uploaden. Klik vervolgens op **[!UICONTROL Build]** > **[!UICONTROL Adaptive Video Sets]**. Blader naar uw videobestanden. Sleep de gewenste videobestanden naar de tabel Adaptive Video Set en sla deze op.
-* **Master bronvideo**  uploaden - Als uw video&#39;s niet zijn gecodeerd, klikt u op de algemene navigatiebalk  **[!UICONTROL Upload]** om master videobronbestanden (niet-MP4) te uploaden en laat Adobe Dynamic Media Classic deze coderen naar MP4-bestanden voor u. Selecteer **[!UICONTROL Adaptive Video]** onder **[!UICONTROL EVideo Options]** in het dialoogvenster **[!UICONTROL Upload Job Options]**.
+* **Vooraf gecodeerde video**  uploaden: als uw video&#39;s al buiten Adobe Dynamic Media Classic zijn gecodeerd, selecteert u op de algemene navigatiebalk  **[!UICONTROL Upload]** om MP4-videobestanden rechtstreeks naar Adobe Dynamic Media Classic te bladeren en te uploaden. Ga vervolgens naar **[!UICONTROL Build]** > **[!UICONTROL Adaptive Video Sets]**. Blader naar uw videobestanden. Sleep de gewenste videobestanden naar de tabel Adaptive Video Set en sla deze op.
+* **Master bronvideo**  uploaden - Als uw video&#39;s niet zijn gecodeerd, selecteert u op de algemene navigatiebalk  **[!UICONTROL Upload]** om master videobronbestanden (niet-MP4) te uploaden. Adobe Dynamic Media Classic codeert deze voor u naar MP4-bestanden. Selecteer **[!UICONTROL Adaptive Video]** onder **[!UICONTROL EVideo Options]** in het dialoogvenster **[!UICONTROL Upload Job Options]**.
 
-   Met deze voorkeursoptie kunt u een adaptieve videoset maken die automatisch de juiste coderingsvoorinstelling op de video toepast, ongeacht of deze 16:9 of 4:3 is, zodat deze overeenkomt met de afmetingen van de video die u hebt geüpload. Wanneer u de uploadtaak verzendt, wordt automatisch een adaptieve videoset gemaakt die drie videocoderingen in de juiste hoogte-breedteverhouding bevat.
+   Met deze voorkeursoptie kunt u een adaptieve videoset maken die automatisch de juiste coderingsvoorinstelling op de video toepast, ongeacht of deze 16:9 of 4:3 is, zodat deze overeenkomt met de afmetingen van de video die u hebt geüpload. Wanneer u de uploadtaak verzendt, wordt automatisch een adaptieve videoset gemaakt die drie coderingsvideo-instellingen in de juiste hoogte-breedteverhouding bevat.
 
    Of vouw **[!UICONTROL Single Encoding Presets]** in hetzelfde **[!UICONTROL Job Options]** dialoogvenster onder **[!UICONTROL EVideo Options]** uit. Selecteer de afzonderlijke voorinstellingen voor videocodering die u wilt instellen op **Desktop**, **Mobiel (iPhone, iPad, Android™)** en **Tablet (iPad, Android™)**, zodat u de MP4-bestanden maakt.
 
@@ -101,7 +101,7 @@ Zie [Werken met voorinstellingen voor videocodering](uploading-encoding-videos.m
 
 ## 2. Video&#39;s voorvertonen in een videoviewer
 
-Als u wilt zien hoe een video wordt afgespeeld voor eindgebruikers op een desktopcomputer, uw website of een mobiel apparaat, selecteert u de video in het deelvenster Bladeren en klikt u op **[!UICONTROL Preview]**.
+Als u wilt zien hoe een video wordt afgespeeld voor eindgebruikers op een desktopcomputer, uw website of een mobiel apparaat, selecteert u de video in het deelvenster Bladeren en selecteert u **[!UICONTROL Preview]**.
 
 Zie [Video&#39;s voorvertonen in een videoviewer](previewing-videos-video-viewer.md#previewing_videos_in_a_video_viewer).
 
@@ -109,19 +109,19 @@ U kunt de video afspelen op de voorvertoningspagina. U kunt ook verschillende vi
 
 **Optioneel**
 
-Aanpassing van voorinstellingen viewer - Adobe Dynamic Media Classic biedt vooraf gedefinieerde viewervoorinstellingen voor het afleveren van video. Deze voorinstellingen bepalen de vormgeving van de viewer en de werking van de afspeelbesturingselementen. Beheerders kunnen voorinstellingen voor viewers toevoegen en beheren via de pagina Voorinstellingen voor viewer om de videoviewer aan te passen. Als u deze pagina wilt openen, klikt u in de rechterbovenhoek van Adobe Dynamic Media Classic op **[!UICONTROL Setup]** > **[!UICONTROL Viewer Presets]**. De pagina Voorinstellingen viewer bevat opdrachten voor het toevoegen, bewerken, verwijderen en activeren van voorinstellingen van viewers.
+Aanpassing van voorinstellingen viewer - Adobe Dynamic Media Classic biedt vooraf gedefinieerde viewervoorinstellingen voor het afleveren van video. Deze voorinstellingen bepalen de vormgeving van de viewer en de werking van de afspeelbesturingselementen. Beheerders kunnen voorinstellingen voor viewers toevoegen en beheren via de pagina Voorinstellingen voor viewer om de videoviewer aan te passen. Als u deze pagina wilt openen, gaat u in de rechterbovenhoek van Adobe Dynamic Media Classic naar **[!UICONTROL Setup]** > **[!UICONTROL Viewer Presets]**. De pagina Voorinstellingen viewer bevat opdrachten voor het toevoegen, bewerken, verwijderen en activeren van voorinstellingen van viewers.
 
 Zie [Werken met voorinstellingen voor videoviewers](previewing-videos-video-viewer.md#working_with_video_viewer_presets).
 
-## 3. Video&#39;s gebruiken voor uw websites en mobiele sites
+## 3. Video&#39;s distribueren naar uw websites en mobiele sites
 
 Als u video wilt integreren in uw website, kunt u een van de volgende handelingen uitvoeren:
 
 * Geef de video weer in een eigen pop-upvenster of in een modaal venster. In dat geval gebruikt u de functie **[!UICONTROL Copy URL]**.
 
-   Als u de URL voor een video wilt opvragen, selecteert u deze in de rasterweergave of lijstweergave in het deelvenster Bladeren. Klik **[!UICONTROL Preview]**, en klik dan **[!UICONTROL Copy URL]** rechts van `Universal_HTML5_Viewer`.
+   Als u de URL voor een video wilt opvragen, selecteert u deze in de rasterweergave of lijstweergave in het deelvenster Bladeren. Selecteer **[!UICONTROL Preview]** en selecteer vervolgens **[!UICONTROL Copy URL]** rechts van `Universal_HTML5_Viewer`.
 
-   Wanneer u **[!UICONTROL Copy URL]** klikt, wordt URL gekopieerd aan het Klembord. Plaats deze code in de HTML van uw website, mobiele site of toepassing.
+   Wanneer u **[!UICONTROL Copy URL]** selecteert, wordt URL gekopieerd aan het Klembord. Plaats deze code in de HTML van uw website, mobiele site of toepassing.
 
    >[!NOTE]
    >
@@ -129,9 +129,9 @@ Als u video wilt integreren in uw website, kunt u een van de volgende handelinge
 
 * Geef de video weer die is ingesloten op de webpagina, in welk geval de functie **[!UICONTROL Embed Code]** wordt gebruikt.
 
-   Als u de insluitcode voor een video wilt verkrijgen, selecteert u de video in het deelvenster Bladeren in de rasterweergave of de lijstweergave. Klik op **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]**. Klik in de kolom Acties van de tabel op **[!UICONTROL Embed Code]** rechts van `Universal_HTML5_Video`. Het bewerken van de code is niet toegestaan.
+   Als u de insluitcode voor een video wilt verkrijgen, selecteert u de video in het deelvenster Bladeren in de rasterweergave of de lijstweergave. Ga naar **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]**. Selecteer **[!UICONTROL Embed Code]** rechts van `Universal_HTML5_Video` in de kolom Acties van de tabel. Het bewerken van de code is niet toegestaan.
 
-   Klik op **[!UICONTROL Close]** en plak de insluitcode in uw webpagina&#39;s.
+   Selecteer **[!UICONTROL Close]** en plak de insluitcode in uw webpagina&#39;s.
 
    >[!NOTE]
    >

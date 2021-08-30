@@ -1,6 +1,6 @@
 ---
 title: '"Snel starten: Gemengde mediaset"'
-description: Een inleiding en Snel Begin aan Gemengde Reeksen van Media om u te helpen snel aan de slag gaan.
+description: Een inleiding en Snel Begin aan Gemengde Reeksen van Media om u te helpen snel in Adobe Dynamic Media Klassiek aan de slag gaan.
 uuid: 0ef033d5-b053-4d7c-b1e1-1980f899fd88
 contentOwner: admin
 content-type: reference
@@ -10,26 +10,26 @@ discoiquuid: 2708d077-94fc-4045-8992-ad3589ed9cfd
 feature: Dynamic Media Classic,Viewers,Mixed Media Sets
 role: User
 exl-id: 757893ae-7507-42a0-a67b-f6542e7231c7
-source-git-commit: 1d71cbe6e2493ac8d47e837a20e194b6ae7a22d4
+source-git-commit: 36f9aa3c2b4dc66e4cb851c2ce6837ae0ad4f64c
 workflow-type: tm+mt
-source-wordcount: '626'
+source-wordcount: '632'
 ht-degree: 0%
 
 ---
 
 # Snel starten: Gemengde mediasets{#quick-start-mixed-media-sets}
 
-Met gemengde mediasets hebben gebruikers een geïntegreerde kijkervaring. De gemengde Reeksen van Media kunnen beelden, de Reeksen van het Beeld, de Reeksen van het Monster, de Reeksen van de Rotatie, en video&#39;s omvatten. Gebruikers kunnen op verschillende tabbladen in de gemengde Media Viewer klikken om de items in de verschillende viewers weer te geven. Als er geen tabbladen zijn opgegeven, worden alle elementen samen weergegeven in de staalrij.
+Met gemengde mediasets hebben gebruikers een geïntegreerde kijkervaring. De gemengde Reeksen van Media kunnen beelden, de Reeksen van het Beeld, de Reeksen van het Monster, de Reeksen van de Rotatie, en video&#39;s omvatten. Gebruikers kunnen verschillende tabbladen selecteren in de gemengde Media Viewer om de items in de verschillende viewers weer te geven. Als er geen tabbladen zijn opgegeven, worden alle elementen samen weergegeven in de staalrij.
 
 Voorinstellingen voor gemengde mediaset voor viewers bevatten gemeenschapsopties waarmee eindgebruikers code kunnen insluiten, URL&#39;s kunnen kopiëren en een koppeling naar de hoofdwebsite kunnen maken. Gebruikers kunnen deze opties gebruiken om informatie over producten te delen op hun persoonlijke websites of sociale netwerksites.
 
 Dit Gemengde Snel Begin van de Plaatsen van Media wordt ontworpen om snel met Gemengde Media te worden in werking gesteld - vastgestelde technieken in Adobe Dynamic Media Klassiek.
 
-## 1. Afbeeldingen, staalbestanden en video&#39;s uploaden
+## 1. De afbeeldingen, staalbestanden en video&#39;s uploaden
 
 Begin door de beelden, de staaldossiers, en de video&#39;s voor uw Gemengde Reeksen van Media te uploaden. Omdat gebruikers kunnen inzoomen op afbeeldingen in de gemengde Media Set Viewer, moet u er rekening mee houden dat u afbeeldingen kunt kiezen. Zorg ervoor dat de afbeeldingen ten minste 2000 pixels groot zijn.
 
-Klik op de algemene navigatiebalk op **[!UICONTROL Upload]** om bestanden van uw computer te uploaden naar een map op Adobe Dynamic Media Classic.
+Selecteer **[!UICONTROL Upload]** op de algemene navigatiebalk om bestanden van uw computer te uploaden naar een map op Adobe Dynamic Media Classic.
 
 Zie [Uw bestanden uploaden](uploading-files.md#uploading-your-files).
 
@@ -41,7 +41,7 @@ Zie [Een afbeeldingsset maken](creating-image-set.md#creating-an-image-set), [Ee
 
 ## 3. Een gemengde mediaset maken
 
-Klik op **[!UICONTROL Build]** > **[!UICONTROL Mixed Media Sets]** op de algemene navigatiebalk. Sleep de afbeeldingen, stalensets, afbeeldingssets en video&#39;s naar de pagina Gemengde mediaset. Als u een soundtrack wilt toevoegen, sleept u een audiobestand naar het vak Soundtrack.
+Ga op de algemene navigatiebalk naar **[!UICONTROL Build]** > **[!UICONTROL Mixed Media Sets]**. Sleep de afbeeldingen, stalensets, afbeeldingssets en video&#39;s naar de pagina Gemengde mediaset. Als u een soundtrack wilt toevoegen, sleept u een audiobestand naar het vak Soundtrack.
 
 Zie [Een gemengde mediaset maken](creating-mixed-media-set.md#creating-a-mixed-media-set).
 
@@ -51,11 +51,11 @@ Adobe Dynamic Media Classic wordt geleverd met standaardviewervoorinstellingen v
 
 Als u een voorinstelling voor een gemengde mediaset van de viewer instelt, voegt u de voorinstellingen van de viewer toe voor alle andere elementen in de set. Als uw gemengde mediaset bijvoorbeeld video&#39;s bevat, voegt u een videoviewer-voorinstelling toe aan de voorinstelling voor de gemengde mediaset. U kunt ook een soundtrack toevoegen aan de viewer. Deze soundtrack wordt afgespeeld terwijl de viewer geopend is, maar wordt niet afgespeeld wanneer een video actief is.
 
-Zie [Een voorinstelling voor een gemengde mediaset voor de viewer instellen](setting-mixed-media-set-viewer.md#setting-up-a-mixed-media-set-viewer-preset) en [Viewer-voorinstellingen maken en bewerken](application-setup.md#adding-and-editing-viewer-presets).
+Zie [Een voorinstelling voor een gemengde mediaset instellen voor de viewer](setting-mixed-media-set-viewer.md#setting-up-a-mixed-media-set-viewer-preset) en [Viewer-voorinstellingen maken en bewerken](application-setup.md#adding-and-editing-viewer-presets).
 
-## 5. Een voorvertoning weergeven van een gemengde mediaset
+## 5. Een voorvertoning van een gemengde mediaset weergeven
 
-Klik op de knop **[!UICONTROL Preview]** van de gemengde mediaset. U kunt op de miniatuur- en staalpictogrammen klikken om de gemengde mediaset in de viewer voor gemengde mediaset te bekijken. U kunt verschillende Viewers kiezen in de menu&#39;s Voorinstellingen.
+Selecteer de **[!UICONTROL Preview]** knoop van de Gemengde Reeks van Media. U kunt de miniatuur- en staalpictogrammen selecteren om de gemengde mediaset te bekijken in de viewer voor gemengde mediaset. U kunt verschillende Viewers kiezen in de menu&#39;s Voorinstellingen.
 
 Zie [Voorvertoning van een element](previewing-asset.md#previewing-an-asset).
 
@@ -71,4 +71,4 @@ Zie [Een gemengde mediaset publiceren](publishing-mixed-media-set.md#publishing-
 
 Adobe Dynamic Media Classic activeert URL-aanroepen voor gemengde mediasets nadat u deze hebt gepubliceerd. U kunt deze URL&#39;s kopiëren vanaf de voorvertoningspagina.
 
-Selecteer de Gemengde Reeks van Media, en klik dan **[!UICONTROL Preview]**. Selecteer op de voorvertoningspagina een voorinstelling voor een gemengde mediaset voor de viewer en klik op **[!UICONTROL Copy URL]**. Zie [Een gemengde mediaset koppelen aan een webpagina](linking-mixed-media-set-web.md#linking-a-mixed-media-set-to-a-web-page).
+Selecteer de Gemengde Reeks van Media, en selecteer dan **[!UICONTROL Preview]**. Selecteer op de voorvertoningspagina een voorinstelling voor een gemengde mediaset voor de viewer en selecteer **[!UICONTROL Copy URL]**. Zie [Een gemengde mediaset koppelen aan een webpagina](linking-mixed-media-set-web.md#linking-a-mixed-media-set-to-a-web-page).
