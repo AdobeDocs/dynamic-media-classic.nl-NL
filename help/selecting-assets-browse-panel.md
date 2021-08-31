@@ -1,6 +1,6 @@
 ---
 title: Elementen selecteren in het deelvenster Bladeren
-description: Leer hoe u elementen selecteert in het deelvenster Bladeren.
+description: Leer hoe u elementen selecteert in het deelvenster Bladeren van Adobe Dynamic Media Classic.
 uuid: 0790e6d0-b898-42b1-977f-8316e6b19573
 contentOwner: admin
 content-type: reference
@@ -10,9 +10,9 @@ discoiquuid: 8e6ce2bf-c99b-4106-942a-1716f152c7b2
 feature: Dynamic Media Classic,Asset Management
 role: User
 exl-id: eb8afc39-7784-4e32-80b6-2b87f3e0acff
-source-git-commit: 1d71cbe6e2493ac8d47e837a20e194b6ae7a22d4
+source-git-commit: e47c22508230adbb1ece323be0c1413a3f27ad89
 workflow-type: tm+mt
-source-wordcount: '97'
+source-wordcount: '104'
 ht-degree: 0%
 
 ---
@@ -21,10 +21,10 @@ ht-degree: 0%
 
 Selecteer een element in het deelvenster Bladeren zodat u ermee kunt werken. Gebruik de volgende technieken om elementen te selecteren:
 
-* **Eén element** : klik op het element (dubbelklik op het element om het element te openen in de gedetailleerde weergave).
+* **Eén element** : selecteer het element (door te dubbelklikken wordt het element geopend in de gedetailleerde weergave).
 
 * **Verschillende elementen**  - Ctrl+klikken (Windows®) of Command+klikken (Macintosh) op elementen om elementen op verschillende plaatsen in het deelvenster Bladeren te selecteren. Houd Shift ingedrukt en klik (klik op een element en houd Shift ingedrukt en klik op een ander element) om aangrenzende elementen te selecteren.
 
-* **Alle elementen in het deelvenster**  Bladeren - Klik op  **[!UICONTROL Select]** >  **[!UICONTROL All]**.
+* **Alle elementen in het deelvenster**  Bladeren - Ga naar  **[!UICONTROL Select]** >  **[!UICONTROL All]**.
 
-* **Geen elementen**  - Klik op  **[!UICONTROL Select]** >  **[!UICONTROL None]**.
+* **Geen elementen**  - Ga naar  **[!UICONTROL Select]** >  **[!UICONTROL None]**.

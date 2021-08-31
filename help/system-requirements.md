@@ -10,9 +10,9 @@ discoiquuid: 27278fef-8b0e-41cd-b393-7a4c3625d5c0
 feature: Dynamic Media Classic
 role: Admin,User
 exl-id: 3460f3bd-1616-44e7-9ddb-fe74ee0c8729
-source-git-commit: a8b5ad338ef8c8b2c50acea5d4c0560820c40ae4
+source-git-commit: e47c22508230adbb1ece323be0c1413a3f27ad89
 workflow-type: tm+mt
-source-wordcount: '108'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 0%
 Voor een optimale ervaring met de Adobe Dynamic Media Classic-bureaubladtoepassing moet u ervoor zorgen dat uw systeem voldoet aan de volgende systeemvereisten en suggesties:
 
 * Microsoft® Windows® 7 of hoger of MacOS X 10.6 of hoger vereist Macintosh Intel®-processor.
-* 3 GB RAM of hoger vereist (4 GB of hoger voorgesteld).
+* 3-GB RAM of hoger vereist (4 GB of hoger voorgesteld).
 * Kleurenmonitor.
 * Videokaart met ondersteuning voor True Color bij een resolutie van 1280 x 1024 of hoger.
 * browser geschikt voor JAVA.

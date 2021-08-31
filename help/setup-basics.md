@@ -1,6 +1,6 @@
 ---
-title: Basisbeginselen van instellingen
-description: Leer hoe te om het scherm van de Opstelling te gebruiken om uw persoonlijke montages in te gaan. Als u een beheerder bent, opstelling uw bedrijfmontages.
+title: 'Basisbeginselen van instellingen '
+description: Leer hoe te om het scherm van de Opstelling te gebruiken om uw persoonlijke montages in Adobe Dynamic Media Klassiek in te gaan. Als u een beheerder bent, opstelling uw bedrijfmontages.
 uuid: 38f487d7-33f2-4a9e-a32e-bb08f3dd3284
 contentOwner: admin
 content-type: reference
@@ -10,16 +10,16 @@ discoiquuid: 753677ad-9957-43d9-97ad-bd73a5da5ccb
 feature: Dynamic Media Classic
 role: Admin,User
 exl-id: 7e99de68-a5de-4b42-9754-c394e9b41369
-source-git-commit: 1d71cbe6e2493ac8d47e837a20e194b6ae7a22d4
+source-git-commit: e47c22508230adbb1ece323be0c1413a3f27ad89
 workflow-type: tm+mt
-source-wordcount: '185'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
 # Basisbeginselen van instellingen{#setup-basics}
 
-Gebruik de Adobe Dynamic Media Klassieke pagina van de Opstelling om uw persoonlijke montages in te gaan. Als u een beheerder bent, opstelling uw bedrijfmontages. Om een pagina van de Opstelling, op de Globale bar van de Navigatie te openen, klik **[!UICONTROL Setup]**.
+Gebruik de Adobe Dynamic Media Klassieke pagina van de Opstelling om uw persoonlijke montages in te gaan. Als u een beheerder bent, opstelling uw bedrijfmontages. Om een pagina van de Opstelling, op de Globale bar van de Navigatie te openen, selecteer **[!UICONTROL Setup]**.
 
 Welke instellingen beschikbaar zijn op deze pagina, is afhankelijk van uw status als gebruiker of beheerder:
 

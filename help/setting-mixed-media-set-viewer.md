@@ -1,33 +1,33 @@
 ---
-title: Een voorinstelling voor een gemengde mediaset in de viewer instellen
-description: Leer hoe u een voorinstelling voor een gemengde mediaset voor de viewer instelt.
+title: Een voorinstelling voor een gemengde mediaset voor de viewer instellen
+description: Leer hoe u een voorinstelling voor een gemengde mediaset voor de viewer instelt in Adobe Dynamic Media Classic.
 uuid: d5bf1840-e453-445d-bebc-84889b29f3c8
 contentOwner: admin
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/mixed_media_sets
 discoiquuid: 8029aad8-d696-4d7c-99e2-3b08edb68181
-feature: Dynamic Media Klassiek,Viewers,Gemengde Mediasets
+feature: Dynamic Media Classic,Viewers,Mixed Media Sets
 role: User
 exl-id: d41b30e7-994a-43f3-8698-7dbfc36305ae
-source-git-commit: 591feb7ee4ac88e39941b429a8aa965d4d919738
+source-git-commit: e47c22508230adbb1ece323be0c1413a3f27ad89
 workflow-type: tm+mt
-source-wordcount: '587'
+source-wordcount: '586'
 ht-degree: 0%
 
 ---
 
-# Een voorinstelling voor een gemengde mediaset in de viewer instellen{#setting-up-a-mixed-media-set-viewer-preset}
+# Een voorinstelling voor een gemengde mediaset voor de viewer instellen{#setting-up-a-mixed-media-set-viewer-preset}
 
 Met voorinstellingen voor gemengde mediaset bepaalt u de stijl, het gedrag en de vormgeving van de hoofdviewer. Wanneer u een voorinstelling configureert, geeft u op welke andere viewers u in de gemengde Media Viewer wilt weergeven. Als u bijvoorbeeld een Afbeelding hebt opgenomen die is ingesteld in uw gemengde mediaset, geeft u een voorinstelling voor de afbeeldingsset Viewer op voor de viewer met gemengde mediaset.
 
 U kunt alle of sommige gemeenschapseigenschappen in de Gemengde Kijker van de Dataset opnemen. Met de functie Insluiten voegt u een koppeling toe aan de viewer waarmee gebruikers de code kunnen kopiëren die nodig is om de viewer weer te geven op een externe pagina (zoals een blog, website of sociale netwerksite). De functie Koppelen biedt de URL naar de viewer, zodat gebruikers een koppeling naar deze viewer kunnen maken. De functie Bezoek bevat een koppeling naar de website die u opgeeft.
 
-1. Klik op **[!UICONTROL Setup]** > **[!UICONTROL Viewer Presets]** op de algemene navigatiebalk.
+1. Ga op de algemene navigatiebalk naar **[!UICONTROL Setup]** > **[!UICONTROL Viewer Presets]**.
 1. Voer een van de volgende handelingen uit op de pagina Voorinstellingen viewer:
 
-   * Als u een voorinstelling wilt maken, klikt u op **[!UICONTROL Add]**. Kies in het dialoogvenster Voorinstelling viewer toevoegen een platform, kies **[!UICONTROL Mixed Media Set Viewer]** en klik op **[!UICONTROL Add]**.
-   * Als u een voorinstelling voor een gemengde mediaset wilt bewerken, selecteert u deze en klikt u op **[!UICONTROL Edit]**.
+   * Selecteer **[!UICONTROL Add]** om een voorinstelling te maken. Kies in het dialoogvenster Voorinstelling viewer toevoegen een platform, kies **[!UICONTROL Mixed Media Set Viewer]** en selecteer **[!UICONTROL Add]**.
+   * Als u een voorinstelling voor een gemengde mediaset wilt bewerken, selecteert u deze en selecteert u **[!UICONTROL Edit]**.
 
 1. Typ op de pagina Configuration Viewer een naam in het vak Naam voorinstelling voor de voorinstelling Gemengde Media Set Viewer.
 1. Geef **[!UICONTROL Tabs]** of **[!UICONTROL No Tabs]** op. Met tabs kunt u items op type van elkaar scheiden, zoals video&#39;s, stalen en centrifuges. Wanneer u geen tabbladen opgeeft, worden alle items in een rij onder het voorvertoningsvenster weergegeven.
@@ -40,31 +40,31 @@ U kunt alle of sommige gemeenschapseigenschappen in de Gemengde Kijker van de Da
 
    Als u bijvoorbeeld een stalenset toevoegt, kiest u **[!UICONTROL SwatchSet1-Colors]**.
 
-1. Klik op **[!UICONTROL Add]**.
+1. Selecteer **[!UICONTROL Add]**.
 
    De nieuwe voorinstelling van de viewer wordt weergegeven in de lijst.
 
 1. Herhaal stap 6 - 9 voor alle Viewer-voorinstellingen die u wilt toevoegen.
 1. Voer een van de volgende handelingen uit om de lijst met voorinstellingen te bewerken:
 
-   * Als u een voorinstelling uit de lijst wilt verwijderen, selecteert u de desbetreffende voorinstelling en klikt u op **[!UICONTROL Delete]**.
-   * Als u de volgorde van voorinstellingen in de lijst wilt wijzigen, selecteert u een voorinstelling en klikt u op de blauwe pijl **[!UICONTROL Up]** of **[!UICONTROL Down]**.
+   * Als u een voorinstelling uit de lijst wilt verwijderen, selecteert u deze en selecteert u **[!UICONTROL Delete]**.
+   * Als u de volgorde van voorinstellingen in de lijst wilt wijzigen, selecteert u een voorinstelling en selecteert u de blauwe pijl **[!UICONTROL Up]** of **[!UICONTROL Down]**.
 
 1. Als u communityfuncties (Insluiten, Koppeling, Bezoek) wilt toevoegen aan de viewer, geeft u opties op voor een van de volgende opties:
 
-   * **E-mail** - Klik  **[!UICONTROL On]** om een e-mailknop in de viewer in te schakelen. Wanneer gebruikers op de knop E-mail klikken terwijl ze de set bekijken, wordt een e-mail met de koppeling naar de set geopend.
+   * **E-mail**  - Selecteer deze optie  **[!UICONTROL On]** om een e-mailknop in de viewer in te schakelen. Wanneer gebruikers de knop E-mail selecteren terwijl ze de set bekijken, wordt een e-mail met de koppeling naar de set geopend.
 
-   * **Insluiten**  - klik  **[!UICONTROL Live]**. Typ in het vak Label van knop insluiten de naam die u in de viewer voor de knop Insluiten wilt weergeven. Klik desgewenst op **[!UICONTROL Browse]** om een aangepaste skin voor de knop te zoeken en te selecteren.
+   * **Insluiten**  - Selecteren  **[!UICONTROL Live]**. Typ in het vak Label van knop insluiten de naam die u in de viewer voor de knop Insluiten wilt weergeven. Selecteer desgewenst **[!UICONTROL Browse]** om een aangepaste skin voor de knop te zoeken en te selecteren.
 
-   * **Koppeling**  - klik  **[!UICONTROL Live]**. Typ in het vak Label van koppelingsknop de naam die u wilt weergeven in de viewer voor de knop Koppelen. Klik desgewenst op **[!UICONTROL Browse]** om een aangepaste skin voor de knop te zoeken en te selecteren.
+   * **Koppeling**  - Selecteren  **[!UICONTROL Live]**. Typ in het vak Label van koppelingsknop de naam die u wilt weergeven in de viewer voor de knop Koppelen. Selecteer desgewenst **[!UICONTROL Browse]** om een aangepaste skin voor de knop te zoeken en te selecteren.
 
-   * **Bezoek**  - klik  **[!UICONTROL Live]**. Typ in het vak Label van bezoekknop de naam die u in de viewer voor de knop Bezoek wilt weergeven. Typ in het vak Bezoek-URL de URL naar de website die u wilt openen wanneer op de koppeling wordt geklikt.
+   * **Bezoek**  - Selecteren  **[!UICONTROL Live]**. Typ in het vak Label van bezoekknop de naam die u in de viewer voor de knop Bezoek wilt weergeven. Typ in het vak Bezoek-URL de URL naar de website die u wilt openen wanneer op de koppeling wordt geklikt.
 
-1. Geef desgewenst andere opties op. Als u een beschrijving van een optie wilt zien, klikt u op het pictogram Info Tip naast de optie.
+1. Geef desgewenst andere opties op. Als u een beschrijving van een optie wilt zien, selecteert u het pictogram Info Tip naast de optie.
 
    Op de pagina Voorbeeld wordt de viewer weergegeven terwijl u instellingen bijwerkt en wijzigt.
 
-1. Klik op **[!UICONTROL Save]**.
+1. Selecteer **[!UICONTROL Save]**.
 
 >[!MORELIKETHIS]
 >

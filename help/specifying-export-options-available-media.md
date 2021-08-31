@@ -1,6 +1,6 @@
 ---
-title: Exportopties opgeven die beschikbaar zijn voor gebruikers van Media Portal
-description: Leer hoe u exportopties opgeeft die beschikbaar zijn voor gebruikers van Media Portal.
+title: Beschikbare exportopties voor gebruikers van Media Portal opgeven
+description: Leer hoe u exportopties opgeeft die beschikbaar zijn voor gebruikers van Media Portal in Adobe Dynamic Media Classic.
 uuid: 5258b8a4-0704-43cd-97d1-c9af2e4e298b
 contentOwner: admin
 content-type: reference
@@ -9,14 +9,14 @@ discoiquuid: 9bfd95da-3714-4e38-98af-331a04c685f5
 feature: Dynamic Media Classic,Collaboration,Asset Management
 role: Admin,User
 exl-id: c27df6c2-76f4-441c-bd26-cee98203291e
-source-git-commit: 1d71cbe6e2493ac8d47e837a20e194b6ae7a22d4
+source-git-commit: e47c22508230adbb1ece323be0c1413a3f27ad89
 workflow-type: tm+mt
-source-wordcount: '363'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-# Exportopties opgeven die beschikbaar zijn voor gebruikers van Media Portal {#specifying-export-options-available-to-media-portal-users}
+# Beschikbare exportopties voor gebruikers van Media Portal opgeven {#specifying-export-options-available-to-media-portal-users}
 
 Als de beheerder hun toestemming geeft, kunnen de gebruikers van het Portaal van Media beelden opnieuw formatteren aangezien zij hen uitvoeren. Ze kunnen bijvoorbeeld de grootte, de bestandsindeling en de afbeeldingskwaliteit wijzigen. Als u afbeeldingen automatisch opnieuw opmaakt terwijl ze worden geëxporteerd, bespaart u tijd omdat u de afbeeldingen niet afzonderlijk opnieuw hoeft op te maken. Bovendien kunnen beheerders een voorinstelling maken. Dit is een vooraf ingestelde selectie van instellingen voor de afbeeldingsindeling. U kunt een voorinstelling gebruiken wanneer u afbeeldingen exporteert om deze opnieuw op te maken volgens de specificaties van uw bedrijf.
 
@@ -29,7 +29,7 @@ Zie ook [Elementen exporteren uit Adobe Dynamic Media Classic](exporting-assets-
 
 **U kunt als volgt exportopties opgeven die beschikbaar zijn voor gebruikers van Media Portal:**
 
-1. Klik op **[!UICONTROL Setup]** > **[!UICONTROL Image Presets]** op de algemene navigatiebalk.
+1. Ga op de algemene navigatiebalk naar **[!UICONTROL Setup]** > **[!UICONTROL Image Presets]**.
 1. Selecteer een of meer van de volgende opties in het venster Voorinstellingen afbeelding:
 
    * **Door de gebruiker gedefinieerde omzetting**  inschakelen - Als deze optie is geselecteerd, kunnen gebruikers een andere optie kiezen in de  **[!UICONTROL Size]** vervolgkeuzelijst in het venster Geselecteerde elementen exporteren. Vervolgens kunnen gebruikers een maateenheid kiezen, zoals pixels of centimeters, en vervolgens de gewenste breedte en hoogte opgeven. Wanneer deze bestanden worden geëxporteerd of gedownload, worden de afbeeldingsbestanden opnieuw opgemaakt.

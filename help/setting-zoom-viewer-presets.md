@@ -1,6 +1,6 @@
 ---
 title: Voorinstellingen Zoomviewer instellen
-description: Leer hoe u voorinstellingen voor de zoomviewer instelt.
+description: Leer hoe u voorinstellingen voor de zoomviewer instelt in Adobe Dynamic Media Classic.
 uuid: 202d80cb-8282-45d4-89e8-942c8677aa93
 contentOwner: admin
 content-type: reference
@@ -10,9 +10,9 @@ discoiquuid: 5023a933-e229-4d3c-8e91-3ac5e9f4970b
 feature: Dynamic Media Classic,Viewers,Zoom
 role: User
 exl-id: ddaaff6c-5447-408e-9c92-bcdfd1a0e72e
-source-git-commit: 1d71cbe6e2493ac8d47e837a20e194b6ae7a22d4
+source-git-commit: e47c22508230adbb1ece323be0c1413a3f27ad89
 workflow-type: tm+mt
-source-wordcount: '593'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -45,21 +45,21 @@ Adobe Dynamic Media Classic raadt de volgende parameters aan voor voorinstelling
 
 ## Voorinstellingen van Zoomviewer maken en bewerken {#creating-and-editing-zoom-viewer-presets}
 
-1. Klik op **[!UICONTROL Setup]** > **[!UICONTROL Viewer Presets]** op de algemene navigatiebalk.
+1. Ga op de algemene navigatiebalk naar **[!UICONTROL Setup]** > **[!UICONTROL Viewer Presets]**.
 1. Voer een van de volgende handelingen uit:
 
-   * **Een voorinstelling**  maken. Klik  **[!UICONTROL Add]**. Kies een platform in het dialoogvenster Viewer-voorinstelling toevoegen, kies een zoomviewer en klik op **[!UICONTROL Add]**. Geef een naam voor de voorinstelling op in het vak Naam voorinstelling.
+   * **Een voorinstelling**  maken - Selecteren  **[!UICONTROL Add]**. Kies in het dialoogvenster Voorinstelling viewer toevoegen een platform, kies een zoomviewer en selecteer **[!UICONTROL Add]**. Geef een naam voor de voorinstelling op in het vak Naam voorinstelling.
 
-   * **Een voorinstelling**  bewerken - Selecteer een voorinstelling voor een zoomviewer en klik op  **[!UICONTROL Edit]**.
+   * **Een voorinstelling**  bewerken - Selecteer een voorinstelling voor een zoomviewer en selecteer  **[!UICONTROL Edit]**.
 
 1. Geef de gewenste instellingen op.
 
-   Als u een beschrijving van een optie wilt zien, klikt u op het pictogram **[!UICONTROL Info Tip]** naast de optie.
+   Als u een beschrijving van een optie wilt zien, selecteert u het pictogram **[!UICONTROL Info Tip]** naast de optie.
 
    Op de pagina Voorbeeld wordt de viewer weergegeven terwijl u instellingen bijwerkt en wijzigt.
 
-1. Klik op **[!UICONTROL Save]** of **[!UICONTROL Save As]**.
-1. Controleer op de pagina Voorinstellingen viewer de voorinstelling Zoomviewer of Voorinstelling voor Zoomen met instructies die u hebt gemaakt. Als het moet aanpassen, klik **[!UICONTROL Edit]**, verander montages op de Configure pagina van de Kijker, en klik ****[!UICONTROL Save]****.
+1. Selecteer **[!UICONTROL Save]** of **[!UICONTROL Save As]**.
+1. Controleer op de pagina Voorinstellingen viewer de voorinstelling Zoomviewer of Voorinstelling voor Zoomen met instructies die u hebt gemaakt. Als het moet aanpassen, selecteer **[!UICONTROL Edit]**, verander montages op de Configure pagina van de Kijker, en selecteer dan **[!UICONTROL Save]**.
 
 Zie [Viewer Presets](application-setup.md#viewer_presets) voor informatie over het beheren van Viewer-voorinstellingen op het scherm Viewer Presets.
 

@@ -8,9 +8,9 @@ geptopics: SG_SCENESEVENONDEMAND_PK/categories/getting_started
 feature: Dynamic Media Classic
 role: Admin,User
 exl-id: 8d70db72-b02b-4915-b4c3-6efb146b7f08
-source-git-commit: 1d71cbe6e2493ac8d47e837a20e194b6ae7a22d4
+source-git-commit: e47c22508230adbb1ece323be0c1413a3f27ad89
 workflow-type: tm+mt
-source-wordcount: '220'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -35,16 +35,16 @@ Controleer of u het volgende hebt voordat u de Klassieke Adobe-bureaubladtoepass
 Gebruik de volgende afbeelding om de productieomgeving te selecteren die u wilt gebruiken.
 
    | URL browser | Servernaam bureaubladtoepassing |
-   |---|---|
+   | --- | --- |
    | https://s7sps1.scene7.com/ | NA (Noord-Amerika) productie |
    | https://s7sps3.scene7.com/ | Productie EMEA (Europa, Midden-Oosten en Afrika) |
    | https://s7sps5.scene7.com/ | APAC-productie (Azië-Stille Oceaan) |
 
-1. Tik op **[!UICONTROL Sign in]**.
+1. Selecteer **[!UICONTROL Sign in]**.
 
 ## Afmelden bij Adobe Dynamic Media Classic {#dmc-sign-out}
 
-1. Tik in de rechterbovenhoek van de Klassieke bureaubladtoepassing van Adobe Dynamic Media op **[!UICONTROL Sign out]** en tik **[!UICONTROL Sign out]** nogmaals.
+1. Selecteer **[!UICONTROL Sign out]** in de rechterbovenhoek van de Klassieke bureaubladtoepassing van Adobe Dynamic Media en selecteer **[!UICONTROL Sign out]** nogmaals.
 
 >[!MORELIKETHIS]
 >

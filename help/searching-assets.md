@@ -1,6 +1,6 @@
 ---
-title: Elementen zoeken
-description: Leer hoe u middelen kunt zoeken.
+title: Dynamic Media Classic-middelen zoeken
+description: Leer hoe u middelen kunt zoeken in Adobe Dynamic Media Classic.
 uuid: 058209bc-bac4-4d5c-8261-e242a543beaf
 contentOwner: admin
 content-type: reference
@@ -10,14 +10,14 @@ discoiquuid: effef4e7-37c5-42e2-9266-ecd026cad628
 feature: Dynamic Media Classic,Asset Management
 role: User
 exl-id: 4b3f690c-7dff-4bf0-9366-085ba918fe6b
-source-git-commit: 1d71cbe6e2493ac8d47e837a20e194b6ae7a22d4
+source-git-commit: e47c22508230adbb1ece323be0c1413a3f27ad89
 workflow-type: tm+mt
-source-wordcount: '1369'
+source-wordcount: '1368'
 ht-degree: 0%
 
 ---
 
-# Elementen zoeken{#searching-assets}
+# Middelen zoeken in Adobe Dynamic Media Classic{#searching-assets}
 
 Als u bestandsmiddelen wilt zoeken in Adobe Dynamic Media Classic, kunt u elementen op type weergeven, elementen in het deelvenster Bladeren sorteren, een eenvoudige zoekopdracht uitvoeren, een geavanceerde zoekopdracht uitvoeren en naar elementen filteren.
 
@@ -31,11 +31,11 @@ Als u alleen bestanden van een bepaald type wilt weergeven terwijl u bladert, ki
 
 >[!NOTE]
 >
->Als u het deelvenster Elementenbibliotheek aan de linkerkant niet ziet, klikt u op de rechterdriehoekpijl aan de linkerkant, halverwege het klassieke venster van Adobe Dynamic Media om de Asset Library te openen.)
+>Als u het deelvenster Elementenbibliotheek aan de linkerkant niet ziet, selecteert u de rechterdriehoekpijl aan de linkerkant, halverwege het klassieke venster van Adobe Dynamic Media, om de Asset Library te openen.)
 
 ## Bestanden sorteren in het deelvenster Bladeren {#sorting-files-in-the-browse-panel}
 
-Als u de inhoud van een map of zoekresultaten wilt sorteren die in het deelvenster Bladeren aan de rechterkant, op de algemene navigatiebalk, klikt u op **[!UICONTROL Sort]** en kiest u een optie. De opties zijn **[!UICONTROL Name]**, **[!UICONTROL Size (KB)]**, **[!UICONTROL Type]**, **[!UICONTROL Date Created]**, en **[!UICONTROL Last Modified]**.
+Als u de inhoud van een map of zoekresultaten wilt sorteren die in het deelvenster Bladeren aan de rechterkant, op de algemene navigatiebalk, selecteert u **[!UICONTROL Sort]** en kiest u een optie. De opties zijn **[!UICONTROL Name]**, **[!UICONTROL Size (KB)]**, **[!UICONTROL Type]**, **[!UICONTROL Date Created]**, en **[!UICONTROL Last Modified]**.
 
 U kunt ook **[!UICONTROL Ascending]** of **[!UICONTROL Descending]** kiezen om elementen in oplopende of aflopende volgorde te sorteren op basis van de criteria die u kiest.
 
@@ -46,24 +46,24 @@ In de Lijstweergave kunt u sorteren door op een kolomnaam te klikken.
 Gebruik het veld Zoeken in de Asset Library, zodat u eenvoudig kunt zoeken. U kunt items zoeken op naam of zoeken op items waarvan de metagegevens een trefwoord bevatten.
 
 1. Selecteer in het deelvenster Elementenbibliotheek in **[!UICONTROL Folders]** de map die u wilt doorzoeken in een bepaalde map en de bijbehorende submappen.
-1. Klik links van het veld Zoeken in de elementenbibliotheek op het pictogram **[!UICONTROL Magnifying Glass]** om de vervolgkeuzelijst te openen.
+1. Selecteer links van het veld Zoeken in de elementenbibliotheek het pictogram **[!UICONTROL Magnifying Glass]** om de vervolgkeuzelijst te openen.
 1. Kies in de vervolgkeuzelijst een optie die beschrijft hoe smal of breed de zoekopdracht moet zijn. U kunt **[!UICONTROL Within All Files & Folders]**, **[!UICONTROL Within Selected Folder]**, of **[!UICONTROL Within Selected Folder & Subfolders]** kiezen.
 1. Voer in het veld Zoeken een zoekterm in.
-1. Klik rechts van het veld Zoeken op **[!UICONTROL Go]** of druk op **[!UICONTROL Enter]**.
+1. Rechts van het veld Zoeken selecteert u **[!UICONTROL Go]** of drukt u op **[!UICONTROL Enter]**.
 
    De resultaten van uw onderzoek verschijnen in het Browse Comité op het recht.
 
 <!-- Does not appear to be working anymore >[!NOTE]
 >
->Adobe Dynamic Media Classic tracks searches. To run a search a second time, click **[!UICONTROL Search]** and choose the name of a search at the bottom of the Search menu. -->
+>Adobe Dynamic Media Classic tracks searches. To run a search a second time, select **[!UICONTROL Search]** and choose the name of a search at the bottom of the Search menu. -->
 
 ## Een geavanceerde zoekopdracht uitvoeren {#conducting-an-advanced-search}
 
-Klik direct onder het veld Zoeken in in de elementenbibliotheek op **[!UICONTROL Advanced Search]** om te zoeken aan de hand van een groot aantal criteria, waaronder waarden in metagegevensvelden.
+Selecteer **[!UICONTROL Advanced Search]** in de Asset Library direct onder het veld Zoeken om te zoeken aan de hand van een groot aantal criteria, waaronder waarden in metagegevensvelden.
 
 Geef een of meer van de volgende criteria op in uw geavanceerde zoekopdracht:
 
-* **Filteren op type**  element - Verklein uw zoekopdracht naar één type element door een type element in het menu te kiezen.
+* **Filteren op type**  element - Verklein uw zoekopdracht tot één type element door een type element in het menu te kiezen.
 
 * **Bestanden en mappen**  - Kies waar u wilt zoeken:  **[!UICONTROL Within All Files & Folders]**,  **[!UICONTROL Within Selected Folder]** of  **[!UICONTROL Within Selected Folder & Subfolders]**.
 
@@ -73,21 +73,21 @@ Geef een of meer van de volgende criteria op in uw geavanceerde zoekopdracht:
 
 * **Zoekcriteria**  - Maak een of meer zoekvelden voor het zoeken naar metagegevens. Zoekvelden maken:
 
-   1. Klik in Geavanceerd zoeken onder de kop **[!UICONTROL Search criteria]** en links van het menu **[!UICONTROL Add a Field]**) op het pijlpictogram met de pijl omlaag om de vervolgkeuzelijst te openen. Kies een weergave Metagegevens. U kunt **[!UICONTROL All properties with values]**, **[!UICONTROL Compact View]**, **[!UICONTROL IPTC]**, **[!UICONTROL Metadata Server Publish Fields]**, of **[!UICONTROL XMP]** kiezen.
-   1. Klik op het vervolgkeuzemenu **[!UICONTROL Add a Field]** en kies een veldnaam.
+   1. Selecteer in Geavanceerd zoeken (onder de kop **[!UICONTROL Search criteria]** en links van het menu **[!UICONTROL Add a Field]**) het pijlpictogram omlaag om de vervolgkeuzelijst te openen. Kies een weergave Metagegevens. U kunt **[!UICONTROL All properties with values]**, **[!UICONTROL Compact View]**, **[!UICONTROL IPTC]**, **[!UICONTROL Metadata Server Publish Fields]**, of **[!UICONTROL XMP]** kiezen.
+   1. Selecteer het vervolgkeuzemenu **[!UICONTROL Add a Field]** en kies een veldnaam.
    1. Kies een optie **[!UICONTROL Contains]**: **[!UICONTROL Contains]**, **[!UICONTROL Does Not Contain]**, **[!UICONTROL Begins With]**, **[!UICONTROL Ends With]** of **[!UICONTROL Equals]**.
    1. Kies een waarde voor numerieke velden of voer een aangepast datumbereik in.
    1. (Optioneel) Herhaal stap 1-4 om meer zoekvelden te maken.
 
-Klik op het pictogram **[!UICONTROL Remove search field]** (cirkel met &quot;X&quot; binnenin) zodat het zoekveld wordt verwijderd.
+Selecteer het pictogram **[!UICONTROL Remove search field]** (cirkel met &quot;X&quot; binnenin) zodat wordt het zoekveld verwijderd.
 
-Klik in de rechterbenedenhoek van het deelvenster Geavanceerd zoeken op **[!UICONTROL Search]** om te beginnen met zoeken. De resultaten van het onderzoek verschijnen in het Browse Comité op het recht. U kunt elke zoekvoorwaarde wijzigen en op **[!UICONTROL Search]** klikken om de zoekopdracht opnieuw uit te voeren.
+Selecteer **[!UICONTROL Search]** in de rechterbenedenhoek van het deelvenster Geavanceerd zoeken om te beginnen met zoeken. De resultaten van het onderzoek verschijnen in het Browse Comité op het recht. U kunt elke zoekvoorwaarde wijzigen en **[!UICONTROL Search]** selecteren om de zoekopdracht opnieuw uit te voeren.
 
-Klik op **[!UICONTROL Clear]** om zoekcriteria te wissen en een nieuwe zoekopdracht te starten. Klik **[!UICONTROL Close]** wanneer u klaar bent met zoeken om het deelvenster Zoeken te sluiten.
+Selecteer **[!UICONTROL Clear]** om zoekcriteria te wissen en een nieuwe zoekopdracht te starten. Selecteer **[!UICONTROL Close]** wanneer u klaar bent met zoeken om het deelvenster Zoeken te sluiten.
 
 ## Elementen filteren met behulp van metagegevens {#filter-assets-using-metadata}
 
-Filter elementen op het tabblad Filters van de Asset Library. Als u elementen wilt filteren, gebruikt u metagegevenswaarden als criteria. Nadat u een metagegevensveld hebt gekozen waarop u wilt filteren, worden op het tabblad Filters alle metagegevenswaarden weergegeven die zijn ingevoerd in het veld dat u hebt gekozen. Het bevat ook het aantal elementen waaraan elke waarde is toegewezen. In een filterbewerking in het metagegevensveld Maker bevat het tabblad Filters bijvoorbeeld alle namen die zijn ingevoerd in het metagegevensveld Maker voor verschillende elementen. Er wordt ook voor elke naam een lijst weergegeven met het aantal elementen waaraan de naam is toegewezen. Vervolgens klikt u op een metagegevenswaarde om alle elementen weer te geven waaraan die waarde is toegewezen. In het voorbeeld klikt u op de metagegevenswaarde Prairie Cat om alle elementen weer te geven waarin de naam Prairie Cat is ingevoerd in het metagegevensveld Maker. U kunt filteren met meerdere metagegevensvelden als filtercriterium.
+Filter elementen op het tabblad Filters van de Asset Library. Als u elementen wilt filteren, gebruikt u metagegevenswaarden als criteria. Nadat u een metagegevensveld hebt gekozen waarop u wilt filteren, worden op het tabblad Filters alle metagegevenswaarden weergegeven die zijn ingevoerd in het veld dat u hebt gekozen. Het bevat ook het aantal elementen waaraan elke waarde is toegewezen. In een filterbewerking op het metagegevensveld **[!UICONTROL Creator]** bevat het tabblad **[!UICONTROL Filters]** bijvoorbeeld alle namen die zijn ingevoerd in het metagegevensveld **[!UICONTROL Creator]** voor verschillende elementen. Er wordt ook voor elke naam een lijst weergegeven met het aantal elementen waaraan de naam is toegewezen. Vervolgens selecteert u een metagegevenswaarde om alle elementen weer te geven waaraan die waarde is toegewezen. In het voorbeeld selecteert u de metagegevenswaarde `Prairie Cat` om alle elementen weer te geven waarin de naam `Prairie Cat` is ingevoerd in het metagegevensveld **[!UICONTROL Creator]**. U kunt filteren met meerdere metagegevensvelden als filtercriterium.
 
 U kunt filterbewerkingen opslaan zodat ze meerdere malen worden uitgevoerd.
 
@@ -97,21 +97,21 @@ U kunt filterbewerkingen opslaan zodat ze meerdere malen worden uitgevoerd.
 
 Zie [Metagegevensweergaven](application-setup.md#metadata_views).
 
-### Filterbewerking uitvoeren {#running-a-filter-operation}
+### Een filterbewerking uitvoeren {#running-a-filter-operation}
 
 Voer de volgende stappen uit, zodat u elementen kunt zoeken door te filteren met de bijbehorende metagegevenswaarden:
 
-1. Klik in de elementenbibliotheek op het tabblad **[!UICONTROL Filters]**.
+1. Selecteer in de elementenbibliotheek het tabblad **[!UICONTROL Filters]**.
 
    De criteria van de vorige filterbewerking worden weergegeven in het deelvenster Filters. Het deelvenster Filters bestaat uit deelvensters, waarbij elk deelvenster een metagegevensveld vertegenwoordigt. In de deelvensters kunt u kiezen met welke metagegevensvelden en binnen elk veld u een metagegevenswaarde voor de filterbewerking wilt filteren.
 
-   Als u een filterbewerking wilt uitvoeren die u hebt gemaakt en opgeslagen, klikt u op **[!UICONTROL Select Preset]** en kiest u vervolgens de naam van de bewerking in het menu.
+   Als u een filterbewerking wilt uitvoeren die u hebt gemaakt en opgeslagen, selecteert u **[!UICONTROL Select Preset]** en kiest u vervolgens de naam van de bewerking in het menu.
 
    Zie [Filterbewerkingen opslaan, herhalen en verwijderen](searching-assets.md#saving_repeating_and_deleting_filter_operations).
 
-1. Klik **[!UICONTROL Field]** op een paneel, dan volg deze instructies zodat kunt u het het filtreren menu tonen en de filterverrichting construeren:
+1. Selecteer **[!UICONTROL Field]** op een paneel, dan volg deze instructies zodat kunt u het het filtreren menu tonen en de filterverrichting construeren:
 
-   * **Een metagegevensveld**  kiezen - Selecteer de naam van het veld in het filtermenu.
+   * **Kies een metagegevensveld** . Selecteer de naam van het veld in het filtermenu.
 
       >[!NOTE]
       >
@@ -119,9 +119,9 @@ Voer de volgende stappen uit, zodat u elementen kunt zoeken door te filteren met
 
       Zie [Metagegevensweergaven](application-setup.md#metadata_views).
 
-   * **Een metagegevensveld**  toevoegen - Klik  **[!UICONTROL Add a Panel]**. Nadat het deelvenster wordt weergegeven in het deelvenster Filters, klikt u op de knop **[!UICONTROL Field]** en kiest u de naam van een metagegevensveld in het filtermenu.
+   * **Een metagegevensveld**  toevoegen - Selecteren  **[!UICONTROL Add a Panel]**. Nadat het deelvenster in het deelvenster Filters wordt weergegeven, selecteert u de desbetreffende **[!UICONTROL Field]**-knop en kiest u de naam van een metagegevensveld in het filtermenu.
 
-   * **Een metagegevensveld**  verwijderen - Klik  **[!UICONTROL Remove This Panel]** op het filtermenu.
+   * **Een metagegevensveld**  verwijderen - Selecteren  **[!UICONTROL Remove This Panel]** in het filtermenu.
 
    Wanneer u een metagegevensveld kiest, wordt in het deelvenster ervan het volgende weergegeven:
 
@@ -136,37 +136,37 @@ Voer de volgende stappen uit, zodat u elementen kunt zoeken door te filteren met
 
    >[!NOTE]
    >
-   >Als u een veld tijdelijk uit de filterbewerking wilt verwijderen, klikt u op **[!UICONTROL Deselect All]**. Deze optie bevindt zich boven aan elk deelvenster, boven de waarden van metagegevens.
+   >Selecteer **[!UICONTROL Deselect All]** om een veld tijdelijk uit de filterbewerking te verwijderen. Deze optie bevindt zich boven aan elk deelvenster, boven de waarden van metagegevens.
 
-1. (Optioneel) Als u de filterbewerking wilt opslaan en later wilt kunnen uitvoeren, klikt u op **[!UICONTROL Select Preset]** > **[!UICONTROL Save Current As New Presets]** en voert u een naam in het dialoogvenster **[!UICONTROL Save]** in.
+1. (Optioneel) Als u de filterbewerking wilt opslaan en later wilt kunnen uitvoeren, selecteert u **[!UICONTROL Select Preset]** > **[!UICONTROL Save Current As New Presets]** en voert u een naam in het dialoogvenster **[!UICONTROL Save]** in.
 
 ### Filterbewerkingen opslaan, herhalen en verwijderen {#saving-repeating-and-deleting-filter-operations}
 
 Volg deze instructies op het tabblad Filters zodat u filterbewerkingen kunt opslaan, herhalen en verwijderen:
 
-* **Een filterbewerking**  opslaan: klik op  **[!UICONTROL Select Preset]** >  **[!UICONTROL Save Current As New Presets]** en voer een naam in het  **[!UICONTROL Save]** dialoogvenster in.
+* **Sla een filterbewerking**  op: Ga naar  **[!UICONTROL Select Preset]** >  **[!UICONTROL Save Current As New Presets]** en voer een naam in het  **[!UICONTROL Save]** dialoogvenster in.
 
-* **Herhalend een filterverrichting**  - klik  **[!UICONTROL Select Preset]** en kies de naam van een filterverrichting op het menu. Het menu bevat filterbewerkingen die u hebt opgeslagen.
+* **Herhaal een filterbewerking**  - Kies  **[!UICONTROL Select Preset]** en kies de naam van een filterbewerking in het menu. Het menu bevat filterbewerkingen die u hebt opgeslagen.
 
-* **Een filterbewerking verwijderen uit het menu**  Voorinstelling selecteren - De filterbewerking uitvoeren. Klik vervolgens op **[!UICONTROL Select Preset]** > **[!UICONTROL Delete Preset]** in het menu.
+* **Verwijder een filterbewerking uit het menu**  Voorinstelling selecteren en voer de filterbewerking uit. Ga vervolgens naar **[!UICONTROL Select Preset]** > **[!UICONTROL Delete Preset]** in het menu.
 
 ## De metagegevensserver gebruiken {#using-the-metadata-server}
 
 De metagegevensserver is een openbare API die u kunt gebruiken om via http-verzoeken te zoeken naar elementen op basis van metagegevens.
 
-Als u de metagegevensserver wilt configureren, klikt u op **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Publish Setup]** > **[!UICONTROL Metadata Server]**.
+Als u de metagegevensserver wilt configureren, gaat u naar **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Publish Setup]** > **[!UICONTROL Metadata Server]**.
 
 Op de pagina Publiceren Metagegevensserver kunt u de volgende opties instellen:
 
-* **Onmiddellijk publiceren**  - duwt automatisch om het even welke meta-gegevensveranderingen wanneer zij worden aangebracht, met inbegrip van nieuwe activa, sleutelwoordveranderingen, etc.
+* **[!UICONTROL Instant Publish]** - Hiermee worden wijzigingen in metagegevens automatisch doorgevoerd wanneer deze worden aangebracht, zoals nieuwe elementen, trefwoordwijzigingen, enzovoort.
 
-* **XMP Pakket**  - publiceert het XMP Pakket. Dit pakket wordt niet gebruikt voor het zoeken, maar verstrekt de meest bijgewerkte XMP.
+* **[!UICONTROL XMP Packet]** - Hiermee publiceert u het XMP. Dit pakket wordt niet gebruikt voor het zoeken, maar verstrekt de meest bijgewerkte XMP.
 
-* **Trefwoorden**  - Uw trefwoorden worden naar de metagegevensserver gepubliceerd voor gebruik in zoekopdrachten.
+* **[!UICONTROL Keywords]** - Hiermee publiceert u uw trefwoorden naar de metagegevensserver voor gebruik in zoekopdrachten.
 
-* **Metagegevensserver publiceert velden**  - selecteer de velden die u wilt opnemen in de metagegevens. Met deze optie kunt u bepalen hoeveel informatie over uw elementen beschikbaar is voor het publiek. Deze velden worden ook weergegeven in Metagegevensweergaven, maar kunnen alleen worden gewijzigd op de metagegevensserver.
+* **[!UICONTROL Metadata Server Publish Fields]** - Selecteer de velden die u wilt opnemen in de metagegevens. Met deze optie kunt u bepalen hoeveel informatie over uw elementen beschikbaar is voor het publiek. Deze velden worden ook weergegeven in Metagegevensweergaven, maar kunnen alleen worden gewijzigd op de metagegevensserver.
 
-Klik **[!UICONTROL Publish Now]** om de baan te beginnen. Er wordt een bevestiging weergegeven met de mededeling dat de taak is gestart.
+Selecteer **[!UICONTROL Publish Now]** om de taak te starten. Er wordt een bevestiging weergegeven met de mededeling dat de taak is gestart.
 
 >[!MORELIKETHIS]
 >

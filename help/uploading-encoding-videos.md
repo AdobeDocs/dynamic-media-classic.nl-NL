@@ -11,10 +11,10 @@ discoiquuid: a0941823-850c-4373-9e37-f32032de3805
 feature: Dynamic Media Classic,Viewers,Video
 role: User
 exl-id: 93ad91d7-f3dd-484b-b62c-633fcb864bbf
-source-git-commit: 1d71cbe6e2493ac8d47e837a20e194b6ae7a22d4
+source-git-commit: 6ed77dbc14b0b1f62f119b7ceb0ada21679781c1
 workflow-type: tm+mt
-source-wordcount: '3789'
-ht-degree: 1%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -84,9 +84,9 @@ Zie [Voorinstellingen voor videocodering op bureaublad](application-setup.md#des
 1. Vouw **[!UICONTROL EVideo Options]** in het dialoogvenster Elementen opnieuw verwerken uit en voer vervolgens een van de volgende handelingen uit:
    * U kunt het beste de volgende methode gebruiken. Selecteer **Adaptieve video**.
 Zie [Adaptieve video (standaard)](application-setup.md#adaptive-video-default).
-   * Optioneel. Als u afzonderlijke coderingsinstellingen wilt gebruiken, vouwt u ****[!UICONTROL Single Encoding Presets]**** uit en selecteert u de gewenste coderingsopties voor Desktop, Mobile en Tablet.
+   * Optioneel. Als u afzonderlijke coderingsinstellingen wilt gebruiken, vouwt u **[!UICONTROL Single Encoding Presets]** uit en selecteert u de gewenste coderingsopties voor Desktop, Mobile en Tablet.
 Zie [Voorinstellingen voor videocodering op bureaublad](application-setup.md#desktop-video-encoding-presets), [Voorinstellingen voor videocodering op mobiele apparaten](application-setup.md#mobile-video-encoding-presets), [Voorinstellingen voor videocodering op tablet](application-setup.md#tablet-video-encoding-presets).
-1. Klik in het dialoogvenster Elementen opnieuw verwerken op **[!UICONTROL Submit]**.
+1. Selecteer **[!UICONTROL Submit]** in het dialoogvenster Elementen opnieuw verwerken.
 
 Wanneer u een voorinstelling voor adaptieve videocodering gebruikt of meerdere voorinstellingen voor enkele codering gebruikt, is het resultaat een adaptieve videoset die automatisch met meerdere videocoderingen wordt gemaakt. U kunt ook handmatig een adaptieve videoset maken door afzonderlijke video&#39;s te selecteren.
 
@@ -140,7 +140,7 @@ Wanneer u een videobestand codeert, gebruikt u een videobronbestand van de hoogs
 In de volgende tabel worden de aanbevolen grootte, hoogte-breedteverhouding en minimale bitsnelheid beschreven die uw bronvideobestanden moeten hebben wanneer u ze codeert:
 
 | Grootte | Hoogte-breedteverhouding | Minimale bitsnelheid |
-|--- |--- |--- |
+| --- | --- | --- |
 | 1024 x 768 | 4:3 | 4500 kbps voor de meeste video&#39;s. |
 | 1280 x 720 | 16:9 | 3000 - 6000 kbps, afhankelijk van de hoeveelheid beweging in de video. |
 | 1920 x 1080 | 16:9 | 6000 - 8000 kbps, afhankelijk van de mate van beweging in de video. |
@@ -149,7 +149,7 @@ In de volgende tabel worden de aanbevolen grootte, hoogte-breedteverhouding en m
 
 U kunt de metagegevens van een bestand verkrijgen door de metagegevens van het bestand te bekijken in Adobe Dynamic Media Classic, met een programma voor videobewerking of met een toepassing die is ontworpen voor het verkrijgen van metagegevens. Hieronder vindt u instructies voor het gebruik van MediaInfo, een toepassing van derden, voor het verkrijgen van de metagegevens van een videobestand:
 
-1. Ga naar deze webpagina: [https://mediainfo.sourceforge.net/en/Download](https://mediainfo.sourceforge.net/en/Download).
+1. Ga naar deze webpagina: [https://mediaarea.net/en/MediaInfo](https://mediaarea.net/en/MediaInfo).
 1. Selecteer en download het installatieprogramma voor de GUI-versie en volg de installatie-instructies.
 1. Klik na de installatie met de rechtermuisknop op het videobestand (alleen Windows®) en selecteer MediaInfo, of open MediaInfo en sleep het videobestand naar de toepassing. U ziet alle metagegevens die aan het videobestand zijn gekoppeld, inclusief de breedte, hoogte en fps.
 
@@ -187,7 +187,7 @@ In deze tabel wordt de gegevenssnelheid beschreven van standaardverbindingssnelh
 | Snelheid (Kbps) | Verbindingstype |
 |--- |--- |
 | 256 | Inbelverbinding. |
-| 600 | Normale mobiele verbinding. Kies hiervoor een gegevenssnelheid tussen 400 en maximaal 800 voor 3G-ervaringen. |
+| 800 | Normale mobiele verbinding. Kies hiervoor een gegevenssnelheid tussen 400 en maximaal 800 voor 3G-ervaringen. |
 | 2000 | Standaardbreedbandverbinding voor desktops. Voor deze verbinding, richt een gegevenstarief in de waaier 800-2000 Kbps, met de meeste doelstellingen gemiddeld 1200-1500 Kbps. |
 | 5000 | Typische breedbandverbinding. Codering in dit bovenste bereik wordt niet aanbevolen, omdat de video bij deze snelheid niet beschikbaar is voor de meeste consumenten. |
 
@@ -242,9 +242,9 @@ Stel dat uw bronvideo bijvoorbeeld 1920 x 1080 is. In de volgende tabel bieden d
 
 | Videotype | Breedte x hoogte | Breedteverhouding | Hoogteverhouding |
 |--- |--- |--- |--- |
-| Bron | 1920 x 1080 | 1 | 1 |
+| Bron | 1920 x 1080 | 3 | 1 |
 | Gecodeerd | 960 x 540 | 2 | 2 |
-| Gecodeerd | 640 x 360 | 3 | 1 |
+| Gecodeerd | 640 x 360 | 3 | 3 |
 | Gecodeerd | 480 x 270 | 4 | 4 |
 
 ### Gecodeerde videobestandsindeling {#encoded-video-file-format}

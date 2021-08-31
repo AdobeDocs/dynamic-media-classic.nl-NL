@@ -10,7 +10,7 @@ discoiquuid: 6314e7b7-5bde-4fe2-8674-e4fc525d4d1c
 feature: Dynamic Media Classic
 role: Admin,User
 exl-id: a019f973-7647-466f-8af3-5312e9225e89
-source-git-commit: 3185824deca4d4b3c5549bda2e47f179094110e7
+source-git-commit: e47c22508230adbb1ece323be0c1413a3f27ad89
 workflow-type: tm+mt
 source-wordcount: '745'
 ht-degree: 0%
@@ -95,9 +95,9 @@ The plug-in is now available for you to use in Adobe Illustrator. -->
 
 ## E-mail
 
-* ****[!UICONTROL Email Options]**** - Kies hoe u Adobe Dynamic Media Classic u per e-mail op de hoogte wilt brengen wanneer het uploaden en publiceren taken zijn voltooid. U kunt berichten voor het voltooien van een taak alleen ontvangen als er waarschuwingen of fouten zijn opgetreden.
-* ****[!UICONTROL Email Scope]**** - Hiermee bepaalt u of u alle taken per e-mail voor uw bedrijf ontvangt of alleen e-mail over uploads en publicatietaken die u hebt gestart.
-* ****[!UICONTROL Email Types]**** - Hiermee bepaalt u of u op de hoogte wordt gesteld wanneer het uploaden van taken en het publiceren van taken zijn voltooid.
+* **[!UICONTROL Email Options]** - Kies hoe u Adobe Dynamic Media Classic u per e-mail op de hoogte wilt brengen wanneer het uploaden en publiceren taken zijn voltooid. U kunt berichten voor het voltooien van een taak alleen ontvangen als er waarschuwingen of fouten zijn opgetreden.
+* **[!UICONTROL Email Scope]** - Hiermee bepaalt u of u alle taken per e-mail voor uw bedrijf ontvangt of alleen e-mail over uploads en publicatietaken die u hebt gestart.
+* **[!UICONTROL Email Types]** - Hiermee bepaalt u of u op de hoogte wordt gesteld wanneer het uploaden van taken en het publiceren van taken zijn voltooid.
 
 ## Taal
 
