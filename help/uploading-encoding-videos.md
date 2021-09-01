@@ -1,8 +1,6 @@
 ---
 title: Video's uploaden en coderen
-seo-title: Uploading and encoding videos
-description: Leer video's uploaden en coderen.
-seo-description: Learn how to upload and encode videos.
+description: Leer video's uploaden en coderen in Adobe Dynamic Media Classic.
 uuid: 9a7d6513-b10c-40b0-aebb-18a795c2b8d1
 contentOwner: admin
 content-type: reference
@@ -11,10 +9,10 @@ discoiquuid: a0941823-850c-4373-9e37-f32032de3805
 feature: Dynamic Media Classic,Viewers,Video
 role: User
 exl-id: 93ad91d7-f3dd-484b-b62c-633fcb864bbf
-source-git-commit: 6ed77dbc14b0b1f62f119b7ceb0ada21679781c1
+source-git-commit: 8bc49ae3704f0551c70d68a0ddd63725bdcc645c
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '3804'
+ht-degree: 1%
 
 ---
 
@@ -54,33 +52,33 @@ Voer een van de volgende handelingen uit.
 
 *Als uw video&#39;s al zijn gecodeerd*
 
-1. Klik op **[!UICONTROL Upload]** op de algemene navigatiebalk.
-1. Klik op **[!UICONTROL From Desktop]** tabblad op de pagina Uploaden.
-1. Klik op de pagina Uploaden in het deelvenster **[!UICONTROL Select Files for Upload]** op **[!UICONTROL Browse]**, navigeer naar een MP4-videobestand en klik vervolgens op **[!UICONTROL Open]**.
+1. Selecteer **[!UICONTROL Upload]** op de algemene navigatiebalk.
+1. Selecteer **[!UICONTROL From Desktop]** tab op de uploadpagina.
+1. Selecteer **[!UICONTROL Browse]** in het deelvenster **[!UICONTROL Select Files for Upload]** op de uploadpagina, navigeer naar een MP4-videobestand en selecteer **[!UICONTROL Open]**.
 1. Selecteer in het deelvenster **[!UICONTROL Choose Folder Destination]** een map voor het geüploade bestand.
 1. Controleer op de pagina Uploaden of **[!UICONTROL Publish After Uploading]** is ingeschakeld.
-1. Klik op **[!UICONTROL Submit Upload]**.
+1. Selecteer **[!UICONTROL Submit Upload]**.
 
 *Als u uw video&#39;s wilt coderen met Adobe Dynamic Media Classic*
 
-1. Klik op **[!UICONTROL Upload]** op de algemene navigatiebalk.
-1. Klik op **[!UICONTROL From Desktop]** tabblad op de pagina Uploaden.
-1. Klik in het deelvenster **[!UICONTROL Select Files to Upload]** op **[!UICONTROL Browse]**, navigeer naar een master bronvideobestand en klik vervolgens op **[!UICONTROL Open]**.
+1. Selecteer **[!UICONTROL Upload]** op de algemene navigatiebalk.
+1. Selecteer **[!UICONTROL From Desktop]** tab op de uploadpagina.
+1. Selecteer **[!UICONTROL Select Files to Upload]** in het deelvenster **[!UICONTROL Browse]**, navigeer naar een master bronvideobestand en selecteer **[!UICONTROL Open]**.
 1. Selecteer in het deelvenster **[!UICONTROL Choose Folder Destination]** een map voor het geüploade bestand.
-1. Klik in de rechterbenedenhoek van de pagina op **[!UICONTROL Job Options]**,
+1. Selecteer **[!UICONTROL Job Options]** in de rechterbenedenhoek van de pagina.
 1. Vouw **[!UICONTROL EVideo Options]** in het dialoogvenster Taakopties uploaden uit en voer een van de volgende handelingen uit:
 
    * U kunt het beste **[!UICONTROL Adaptive Video Encoding]** selecteren. Zie [Adaptieve video (standaard)](application-setup.md#adaptive-video-default).
    * Optioneel. Als u afzonderlijke coderingsinstellingen wilt gebruiken, vouwt u **[!UICONTROL Single Encoding Presets]** uit en selecteert u de gewenste coderingsopties voor Desktop, Mobile en Tablet.
 Zie [Voorinstellingen voor videocodering op bureaublad](application-setup.md#desktop-video-encoding-presets), [Voorinstellingen voor videocodering op mobiele apparaten](application-setup.md#mobile-video-encoding-presets), [Voorinstellingen voor videocodering op tablet](application-setup.md#tablet-video-encoding-presets).
-1. Klik in het dialoogvenster Taakopties uploaden op **[!UICONTROL Save]**.
+1. Selecteer **[!UICONTROL Save]** in het dialoogvenster Taakopties uploaden.
 1. Controleer op de pagina Uploaden of **[!UICONTROL Publish After Uploading]** is ingeschakeld.
-1. Klik in de rechterbenedenhoek op de pagina Uploaden op **[!UICONTROL Submit Upload]**.
+1. Selecteer **[!UICONTROL Submit Upload]** in de rechterbenedenhoek op de pagina Uploaden.
 
 *Als u een eerder geüpload videobestand opnieuw wilt coderen*
 
 1. Navigeer in Adobe Dynamic Media Classic in het deelvenster Bladeren naar de video en selecteer deze.
-1. Klik op **[!UICONTROL File]** > **[!UICONTROL Reprocess]**.
+1. Ga naar **[!UICONTROL File]** > **[!UICONTROL Reprocess]**.
 1. Vouw **[!UICONTROL EVideo Options]** in het dialoogvenster Elementen opnieuw verwerken uit en voer vervolgens een van de volgende handelingen uit:
    * U kunt het beste de volgende methode gebruiken. Selecteer **Adaptieve video**.
 Zie [Adaptieve video (standaard)](application-setup.md#adaptive-video-default).
@@ -101,7 +99,7 @@ De volgende tabel bevat een lijst met videobestandstypen (met toegestane videoco
 * **Videocodecs**  - Een videocodec beschrijft het algoritme waarmee een video wordt gecodeerd. Een videospeler decodeert de video volgens zijn codec en geeft vervolgens een reeks beelden, of kaders, op het scherm weer. Met codecs minimaliseert u de hoeveelheid informatie die videobestanden nodig hebben om video af te spelen. In plaats van informatie over elk afzonderlijk frame wordt alleen informatie over de verschillen tussen het ene frame en het volgende opgeslagen. Omdat de meeste video&#39;s weinig van het ene frame naar het andere veranderen, maken codecs hoge compressiesnelheden mogelijk, waardoor de bestanden kleiner worden.
 
    | Videobestandsindeling | Videocodecs |
-   |:--- |:--- |
+   | --- | --- |
    | 3GP | H.263, H.264 |
    | AVI | DivX, DV |
    | M2P | MPEG-2 PS |
@@ -145,7 +143,7 @@ In de volgende tabel worden de aanbevolen grootte, hoogte-breedteverhouding en m
 | 1280 x 720 | 16:9 | 3000 - 6000 kbps, afhankelijk van de hoeveelheid beweging in de video. |
 | 1920 x 1080 | 16:9 | 6000 - 8000 kbps, afhankelijk van de mate van beweging in de video. |
 
-### De metagegevens van een bestand ophalen {#obtaining-a-file-s-metadata}
+### De metagegevens van een bestand verkrijgen {#obtaining-a-file-s-metadata}
 
 U kunt de metagegevens van een bestand verkrijgen door de metagegevens van het bestand te bekijken in Adobe Dynamic Media Classic, met een programma voor videobewerking of met een toepassing die is ontworpen voor het verkrijgen van metagegevens. Hieronder vindt u instructies voor het gebruik van MediaInfo, een toepassing van derden, voor het verkrijgen van de metagegevens van een videobestand:
 
@@ -157,14 +155,14 @@ U kunt de metagegevens van een bestand verkrijgen door de metagegevens van het b
 
 Wanneer u een voorinstelling voor videocodering kiest of maakt voor het master videobestand, moet u ervoor zorgen dat de voorinstelling dezelfde hoogte-breedteverhouding heeft als het master videobestand. De *hoogte-breedteverhouding* is de verhouding tussen de breedte en de hoogte van de video.
 
-Als u de hoogte-breedteverhouding van een videobestand wilt bepalen, vraagt u de metagegevens van het bestand op en noteert u de breedte en hoogte van het bestand (zie [De metagegevens van een bestand ophalen](uploading-encoding-videos.md#obtaining_a_file_s_metadata)). Gebruik vervolgens deze formule om de hoogte-breedteverhouding te bepalen:
+Als u de hoogte-breedteverhouding van een videobestand wilt bepalen, vraagt u de metagegevens van het bestand op en noteert u de breedte en hoogte van het bestand (zie [De metagegevens van een bestand verkrijgen](uploading-encoding-videos.md#obtaining_a_file_s_metadata)). Gebruik vervolgens deze formule om de hoogte-breedteverhouding te bepalen:
 
 width/height = hoogte-breedteverhouding
 
 In de volgende tabel wordt beschreven hoe de resultaten van de formule worden omgezet in algemene opties voor de hoogte-breedteverhouding:
 
 | Resultaat van formule | Hoogte-breedteverhouding |
-|--- |--- |
+| --- | --- |
 | 1,33 | 4:3 |
 | 0,75 | 3:4 |
 | 1,78 | 16:9 |
@@ -185,7 +183,7 @@ Wanneer u een voorinstelling voor videocodering kiest, moet u rekening houden me
 In deze tabel wordt de gegevenssnelheid beschreven van standaardverbindingssnelheden.
 
 | Snelheid (Kbps) | Verbindingstype |
-|--- |--- |
+| --- | --- |
 | 256 | Inbelverbinding. |
 | 800 | Normale mobiele verbinding. Kies hiervoor een gegevenssnelheid tussen 400 en maximaal 800 voor 3G-ervaringen. |
 | 2000 | Standaardbreedbandverbinding voor desktops. Voor deze verbinding, richt een gegevenstarief in de waaier 800-2000 Kbps, met de meeste doelstellingen gemiddeld 1200-1500 Kbps. |
@@ -198,7 +196,7 @@ In deze tabel wordt de gegevenssnelheid beschreven van standaardverbindingssnelh
 Resolutie en gegevenssnelheid zijn twee geïntegreerde gekoppelde factoren die de videokwaliteit bepalen. Als u dezelfde videokwaliteit wilt behouden, geldt dat hoe hoger het aantal pixels in een videobestand (hoe hoger de resolutie), hoe hoger de gegevenssnelheid. Neem bijvoorbeeld het aantal pixels per frame in een videobestand met een resolutie van 320 x 240 en een resolutie van 640 x 480:
 
 | Resolutie | Pixels per frame |
-|--- |--- |
+| --- | --- |
 | 320 x 240 | 76 800 |
 | 640 x 480 | 307 200 |
 
@@ -216,7 +214,7 @@ Omdat de resolutie en de gegevenssnelheid zijn gekoppeld, hebt u twee opties bij
 Wanneer u een voorinstelling voor videocodering kiest (of maakt) voor het master videobestand, gebruikt u deze tabel om de juiste resolutie in te stellen:
 
 | Resolutie | Hoogte (pixels) | Schermgrootte |
-|--- |--- |--- |
+| --- | --- | --- |
 | 240p | 240 | Glanzend scherm |
 | 300p | 300 | Klein scherm, meestal voor mobiele apparaten |
 | 360p | 360 | Klein scherm |
@@ -241,10 +239,10 @@ Als de resulterende verhouding een geheel geheel getal is, betekent dit dat de v
 Stel dat uw bronvideo bijvoorbeeld 1920 x 1080 is. In de volgende tabel bieden de drie gecodeerde video&#39;s de optimale coderingsinstellingen.
 
 | Videotype | Breedte x hoogte | Breedteverhouding | Hoogteverhouding |
-|--- |--- |--- |--- |
-| Bron | 1920 x 1080 | 3 | 1 |
+| --- | --- | --- | --- |
+| Bron | 1920 x 1080 | 1 | 1 |
 | Gecodeerd | 960 x 540 | 2 | 2 |
-| Gecodeerd | 640 x 360 | 3 | 3 |
+| Gecodeerd | 640 x 360 | 1 | 3 |
 | Gecodeerd | 480 x 270 | 4 | 4 |
 
 ### Gecodeerde videobestandsindeling {#encoded-video-file-format}
@@ -294,7 +292,7 @@ U kunt ook filteren op basis van een afspeelapparaatoptie om de lijst te beperke
 
 **De lijst met videocoderingsvoorinstellingen filteren:**
 
-1. Klik in Adobe Dynamic Media Classic op de algemene navigatiebalk op **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Video Presets]** > **[!UICONTROL Adaptive Video Presets]** of **[!UICONTROL Single Encoding Presets]**.
+1. Ga in Adobe Dynamic Media Classic op de algemene navigatiebalk naar **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Video Presets]** > **[!UICONTROL Adaptive Video Presets]** of **[!UICONTROL Single Encoding Presets]**.
 
    De pagina&#39;s voor Adaptieve videovoorinstellingen en Eén codering bevatten een tabel met de status Actief, Naam voorinstelling, het beoogde afspeelapparaat, de videoafmetingen en de gegevenssnelheid van elke videovoorinstelling.
 
@@ -307,11 +305,11 @@ U kunt ook filteren op basis van een afspeelapparaatoptie om de lijst te beperke
 
 Geactiveerde videovoorinstellingen worden weergegeven in het dialoogvenster Taakopties uploaden. Het dialoogvenster wordt weergegeven wanneer een gebruiker videobestanden uploadt tijdens het uploaden. Ze kunnen kiezen uit een lijst met alle geactiveerde coderingsvoorinstellingen.
 
-1. Klik in Adobe Dynamic Media Classic op de algemene navigatiebalk op **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Video Presets]**.
+1. Ga in Adobe Dynamic Media Classic op de algemene navigatiebalk naar **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Video Presets]**.
 1. Voer een van de volgende handelingen uit:
 
-   * Klik op **[!UICONTROL Adaptive Video Presets]**.
-   * Klik op **[!UICONTROL Single Encoding Presets]**.
+   * Selecteer **[!UICONTROL Adaptive Video Presets]**.
+   * Selecteer **[!UICONTROL Single Encoding Presets]**.
 
 1. Voer een van de volgende handelingen uit:
 
@@ -322,7 +320,7 @@ Geactiveerde videovoorinstellingen worden weergegeven in het dialoogvenster Taak
       >
       >Inactieve videovoorinstellingen worden niet weergegeven in het dialoogvenster Opties voor uploaden.
 
-1. Klik in de rechterbenedenhoek van de pagina op **[!UICONTROL Close]**.
+1. Selecteer **[!UICONTROL Close]** in de rechterbenedenhoek van de pagina.
 
 ### Een voorinstelling voor videocodering toevoegen of bewerken {#adding-or-editing-a-video-encoding-preset}
 
@@ -336,12 +334,12 @@ Adobe Dynamic Media Classic heeft maximale limieten ingesteld voor de gegevenssn
 
 **Een voorinstelling voor videocodering toevoegen of bewerken:**
 
-1. Klik in Adobe Dynamic Media Classic op de algemene navigatiebalk op **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Video Presets]**.
-1. Klik op **[!UICONTROL Single Encoding Presets]**.
+1. Ga in Adobe Dynamic Media Classic op de algemene navigatiebalk naar **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Video Presets]**.
+1. Selecteer **[!UICONTROL Single Encoding Presets]**.
 1. Voer op de pagina Voorinstellingen video een van de volgende handelingen uit:
 
-   * Klik op de werkbalk Voorinstellingen video op **[!UICONTROL Add]** zodat u een voorinstelling voor video kunt toevoegen.
-   * Selecteer een videovoorinstelling. Klik op **[!UICONTROL Edit]** op de werkbalk.
+   * Selecteer **[!UICONTROL Add]** op de werkbalk Voorinstellingen video, zodat u een voorinstelling voor video kunt toevoegen.
+   * Selecteer een videovoorinstelling. Selecteer **[!UICONTROL Edit]** op de werkbalk.
 
       U kunt vooraf gedefinieerde voorinstellingen voor Adobe Dynamic Media Classic niet bewerken. u kunt een voorinstelling alleen maken op basis van een bestaande voorinstelling door **[!UICONTROL Save As]** te kiezen.
 
@@ -350,34 +348,34 @@ Adobe Dynamic Media Classic heeft maximale limieten ingesteld voor de gegevenssn
    Zie [Aanbevolen werkwijzen voor videocodering](uploading-encoding-videos.md#best-practices-for-video-encoding) voor aanbevolen instellingen.
 
    | Voorinstelling video, optie | Beschrijving |
-   |--- |--- |
+   | --- | --- |
    | Naam voorinstelling | Voer een beschrijvende naam in voor de videovoorinstelling. De naam die u invoert, wordt weergegeven in het dialoogvenster Taakopties uploaden, waarin gebruikers opties voor transcodering kiezen. |
    | Beschrijving | Beschrijf de videovoorinstelling. Wat u invoert, verschijnt als knopinfo wanneer u de aanwijzer over de naam van de voorinstelling in het dialoogvenster Taakopties uploaden verplaatst, waarin gebruikers opties voor transcodering kiezen. |
    | Afspeelapparaat | Kies het apparaat waarop de video moet worden afgespeeld. De opties zijn Computer (desktops), Mobiel (iPhone, iPad, Android™); of Tablet (alleen iPad). Deze instelling bepaalt automatisch de juiste video- en audiocodec die tijdens het coderen wordt gebruikt. |
    | Doelgegevenssnelheid | Voer de gemiddelde snelheid van de internetverbinding (in kilobits per seconde) van de eindgebruiker in. U kunt de snelheid invoeren of de schuifregelaar slepen om deze in te voeren. Het spectrum van de Snelheid van de Verbinding van de Gebruiker maakt een lijst van typische snelheden voor breedband, DSL, mobiel, en dial-up verbindingen. Deze instelling bepaalt automatisch de gecombineerde video- en audiogegevenssnelheid. Met andere woorden, de hoeveelheid gegevens die wordt gecodeerd om één seconde van videoplayback te maken. Hoe hoger de gegevenssnelheid, hoe beter de kwaliteit van de resulterende video. Te hoge gegevenssnelheden resulteren echter in grote bestanden die een subpariteit weergeven voor gebruikers met een lage bandbreedte. U kunt het beste een evenwicht vinden tussen hoge en lage gegevenssnelheden. Doel is een weergave van goede kwaliteit te maken zonder gebruikers met een smalle bandbreedte van elkaar te vervreemden. |
-   | Hoogte-breedteverhouding | De verhouding is de verhouding tussen de breedte en de hoogte van de video. De eerste twee onderstaande hoogte-breedteverhoudingen worden vaak gebruikt om video horizontaal weer te geven:<ul><li> 4:3 - Wordt gebruikt voor bijna alle standaarddefinitie van tv-inhoud.</li><li>16:9 - Wordt gebruikt voor vrijwel alle HDTV-inhoud (High-Definition TV) en films voor breedbeeldschermen.</li><li>Automatisch schalen - (standaard) Eén coderingsvoorinstelling die met een willekeurige hoogte-breedteverhouding werkt om video&#39;s te maken die u kunt afspelen op mobiele apparaten, tablets en desktops. Geüploade bronvideo&#39;s die met deze voorinstelling zijn gecodeerd, worden ingesteld met een vaste hoogte. De breedte wordt echter automatisch geschaald om de hoogte-breedteverhouding van de video te behouden (hoogte-breedteverhouding).</li><li>Aangepast - Wordt gebruikt wanneer u een niet-standaardvideogrootte wilt definiëren.</li><li>De gekozen hoogte-breedteverhouding bepaalt de breedte- en hoogteinstellingen voor de resolutiegrootte. de breedte- en hoogtewaarde worden automatisch geschaald naar de juiste hoogte-breedteverhouding.</li></ul> |
-   | Formaat resolutie | De grootte wordt bepaald door de resolutiegrootte, die wordt uitgedrukt door het aantal pixels breed en het aantal pixels hoog. Voer een breedte- en hoogtewaarde in pixels in of sleep de schuifregelaar om deze waarden in te voeren. Het spectrum Resolutie geeft een overzicht van de typische resolutiegrootten. De waarden voor breedte en hoogte passen automatisch de geselecteerde hoogte-breedteverhouding toe. Als u bijvoorbeeld 4:3 selecteert als hoogte-breedteverhouding en 400 invoert als breedte, wordt 300 automatisch ingevoerd als hoogte. Als u voor de instelling Verhouding automatisch schalen hebt geselecteerd, wordt de waarde voor Breedte voor de resolutiegrootte automatisch ingesteld op Automatisch. Klik op Voorvertoning als u een browservenster wilt openen en de resolutieopties in dat venster wilt bekijken. |
+   | Hoogte-breedteverhouding | De verhouding is de verhouding tussen de breedte en de hoogte van de video. De eerste twee onderstaande hoogte-breedteverhoudingen worden vaak gebruikt om video horizontaal weer te geven:<ul><li> 4:3 - Wordt gebruikt voor bijna alle standaarddefinitie van tv-inhoud.</li><li>16:9 - Wordt gebruikt voor vrijwel alle breedbeeldinhoud en films op HDTV (High-Definition Television).</li><li>Automatisch schalen - (standaard) Eén coderingsvoorinstelling die met een willekeurige hoogte-breedteverhouding werkt om video&#39;s te maken die u kunt afspelen op mobiele apparaten, tablets en desktops. Geüploade bronvideo&#39;s die met deze voorinstelling zijn gecodeerd, worden ingesteld met een vaste hoogte. De breedte wordt echter automatisch geschaald om de hoogte-breedteverhouding van de video te behouden (hoogte-breedteverhouding).</li><li>Aangepast - Wordt gebruikt wanneer u een niet-standaardvideogrootte wilt definiëren.</li><li>De gekozen hoogte-breedteverhouding bepaalt de breedte- en hoogteinstellingen voor de resolutiegrootte. de breedte- en hoogtewaarde worden automatisch geschaald naar de juiste hoogte-breedteverhouding.</li></ul> |
+   | Formaat resolutie | De grootte wordt bepaald door de resolutiegrootte, die wordt uitgedrukt door het aantal pixels breed en het aantal pixels hoog. Voer een breedte- en hoogtewaarde in pixels in of sleep de schuifregelaar om deze waarden in te voeren. Het spectrum Resolutie geeft een overzicht van de typische resolutiegrootten. De waarden voor breedte en hoogte passen automatisch de geselecteerde hoogte-breedteverhouding toe. Als u bijvoorbeeld 4:3 selecteert als hoogte-breedteverhouding en 400 invoert als breedte, wordt 300 automatisch ingevoerd als hoogte. Als u voor de instelling Verhouding automatisch schalen hebt geselecteerd, wordt de waarde voor Breedte voor de resolutiegrootte automatisch ingesteld op Automatisch. Selecteer **[!UICONTROL Preview]** zodat u een browservenster kunt openen en uw resolutieopties daar kunt bekijken. |
    | Achtervoegsel van bestand coderen | Voer een achtervoegsel in. Dit achtervoegsel wordt toegevoegd aan het resulterende gecodeerde videobestand. U kunt een koppelteken en een onderstrepingsteken in de naam invoeren; spaties en speciale tekens zijn niet toegestaan. |
    | Overige instellingen | Adobe Dynamic Media Classic bepaalt automatisch alle andere coderingsinstellingen volgens de best practices voor codering. |
 
 1. Voer een van de volgende handelingen uit:
 
-   * Klik op **[!UICONTROL Save]** als u een videovoorinstelling hebt toegevoegd of bewerkt.
-   * Klik op **[!UICONTROL Save As]** als u een videovoorinstelling hebt toegevoegd door te beginnen met een bestaande voorinstelling.
+   * Selecteer **[!UICONTROL Save]** als u een videovoorinstelling hebt toegevoegd of bewerkt.
+   * Selecteer **[!UICONTROL Save As]** als u een videovoorinstelling hebt toegevoegd door te beginnen met een bestaande voorinstelling.
 
 ### Een voorinstelling voor videocodering verwijderen {#deleting-a-video-encoding-preset}
 
 Beheerders kunnen aangepaste videovoorinstellingen verwijderen. Videovoorinstellingen die bij Adobe Dynamic Media Classic worden geleverd, kunnen niet worden verwijderd.
 
-1. Klik in Adobe Dynamic Media Classic op de algemene navigatiebalk op **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Video Presets]**.
-1. Klik op **[!UICONTROL Single Encoding Presets]**.
+1. Ga in Adobe Dynamic Media Classic op de algemene navigatiebalk naar **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Video Presets]**.
+1. Selecteer **[!UICONTROL Single Encoding Presets]**.
 1. Selecteer op de pagina Voorinstellingen video een voorinstelling voor video in de tabel die u niet langer wilt of nodig hebt.
-1. Klik op **[!UICONTROL Delete]** op de werkbalk Voorinstellingen video.
-1. Klik in het dialoogvenster Voorinstelling verwijderen op **[!UICONTROL Delete]**.
+1. Selecteer **[!UICONTROL Delete]** op de werkbalk Voorinstellingen video.
+1. Selecteer **[!UICONTROL Delete]** in het dialoogvenster Voorinstelling verwijderen.
 
 >[!MORELIKETHIS]
 >
->* [Snel starten: Video](quick-start-video.md#quick-start-video)
+>* [Snel starten: Video in Adobe Dynamic Media Classic](quick-start-video.md#quick-start-video)
 >* [Video&#39;s uploaden en coderen](uploading-encoding-videos.md#uploading-and-encoding-videos)
 >* [Werken met voorinstellingen voor videoviewers](previewing-videos-video-viewer.md#working-with-video-viewer-presets)
 

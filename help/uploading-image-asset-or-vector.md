@@ -1,15 +1,15 @@
 ---
 title: Een afbeeldingselement of een vectorelement uploaden
-description: Leer hoe u een afbeeldingselement of een vectorelement uploadt.
+description: Leer hoe u een afbeeldingselement of een vectorelement uploadt naar Adobe Dynamic Media Classic
 contentOwner: admin
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 feature: Dynamic Media Classic
 role: User
 exl-id: 2ef78fe6-1e7c-4f48-86da-137ddaa55bbf
-source-git-commit: 1d71cbe6e2493ac8d47e837a20e194b6ae7a22d4
+source-git-commit: 8bc49ae3704f0551c70d68a0ddd63725bdcc645c
 workflow-type: tm+mt
-source-wordcount: '1473'
+source-wordcount: '1482'
 ht-degree: 0%
 
 ---
@@ -68,7 +68,7 @@ Sla het token voor uploaden lokaal op voor gebruik met toekomstige aanvragen.
 U kunt de volgende velden in de URL-queryreeks gebruiken om een token voor uploaden op te halen:
 
 | URL-parameter | Vereist of optioneel | Waarde |
-|--- |--- |--- |
+| --- | --- | --- |
 | op | Vereist | get_uploadtoken |
 | shared_geheime | Vereist | De sleutel van het gedeelde geheim voor het bedrijf dat uploadt. |
 | verloopt | Optioneel | Aantal seconden dat de uploadtoken geldig is. De standaardwaarde is 300 seconden, als deze niet is opgegeven. |
@@ -88,7 +88,7 @@ U kunt nu een afbeeldingselement uploaden.
 
 Zie [Een afbeeldingselement uploaden](uploading-image-asset-or-vector.md#uploading_an_image_asset).
 
-## Afbeeldingselementen uploaden {#uploading-an-image-asset}
+## Een afbeeldingselement uploaden {#uploading-an-image-asset}
 
 Nadat u een uploadtoken hebt opgehaald dat gedurende een bepaalde periode geldig is, kunt u een afbeeldingselement uploaden. U uploadt het element als multipart/form post terwijl het verzenden van de rest waarden als URL vraagkoord, zoals aangetoond in dit voorbeeld:
 
@@ -113,7 +113,7 @@ Met de parameter `file_limit` wordt de maximale bestandsgrootte in bytes opgegev
 Er wordt een algemene limiet ingesteld in de toepassing voor de maximale bestandsgrootte en de toegestane bestandsextensies. Als wat u in het verzoek verzendt een ondergroep van de globale grenzen is, wordt het geëerd. De globale limieten zijn als volgt:
 
 | Globale limiet | Waarde |
-|--- |--- |
+| --- | --- |
 | Bestandsgrootte voor alle clients | 20 MB |
 | Ondersteunde bestandsindelingen voor afbeeldingen die u wilt uploaden | BMP, GIF, JPG, PNG, PSD |
 
@@ -125,7 +125,7 @@ In het volgende HTML-formulier kan een gebruiker een element uploaden. In het fo
 * Een lijst met bestandsextensies.
 * Of het kleurprofiel en de bestandsnaam die aan het element zijn gekoppeld, behouden moeten blijven.
 * Of de achtergrond uitnemen moet worden gebruikt. Als u Achtergrond uitnemen inschakelt, stelt u de Hoek, Tolerantie en Vulmethode in.
-Zie Achtergrond uitnemen in [Opties voor het bewerken van afbeeldingen tijdens het uploaden](image-editing-options-upload.md#image-editing-options-at-upload).
+Zie Achtergrond uitnemen in [Opties voor het perfectioneren van afbeeldingen bij het uploaden](image-editing-options-upload.md#image-editing-options-at-upload).
 * De naam van het bestand dat moet worden geüpload.
 
 <!-- 
@@ -138,11 +138,11 @@ Last Modified Date:
 
  -->
 
-U kunt de HTML-broncode bekijken die aan het bovenstaande formulier is gekoppeld door te klikken op [https://s7ugc1.scene7.com/ugc/upload.html](https://s7ugc1.scene7.com/ugc/upload.html)
+U kunt de HTML-broncode bekijken die aan het bovenstaande formulier is gekoppeld door [https://s7ugc1.scene7.com/ugc/upload.html](https://s7ugc1.scene7.com/ugc/upload.html) te selecteren
 
-Klik in Firefox met de rechtermuisknop in het browservenster en klik vervolgens op **[!UICONTROL View Page Source]**. De code toont het overeenkomstige URL vraagkoord en de methode van de POST die in werking worden gesteld wanneer de gebruiker **[!UICONTROL Submit]** klikt.
+Klik in Firefox met de rechtermuisknop in het browservenster en selecteer **[!UICONTROL View Page Source]**. De code toont het overeenkomstige URL vraagkoord en de methode van de POST die in werking worden gesteld wanneer de gebruiker **[!UICONTROL Submit]** klikt.
 
-Als u de XML-reactie in Internet Explorer wilt weergeven, klikt u op **[!UICONTROL View]** > **[!UICONTROL Source]**. Als u de XML-reactie in Firefox wilt weergeven, klikt u op **[!UICONTROL Tools]** > **[!UICONTROL Browser Tools]** > **[!UICONTROL Web Developer Tools]**. Firefox wordt aanbevolen voor het weergeven van XML-reacties.
+Als u de XML-reactie wilt weergeven in Internet Explorer, gaat u naar **[!UICONTROL View]** > **[!UICONTROL Source]**. Als u de XML-reactie in Firefox wilt weergeven, gaat u naar **[!UICONTROL Tools]** > **[!UICONTROL Browser Tools]** > **[!UICONTROL Web Developer Tools]**. Firefox wordt aanbevolen voor het weergeven van XML-reacties.
 
 Hier volgt een voorbeeldreactie van een geslaagde upload:
 
@@ -179,7 +179,7 @@ https://s7w2p1.scene7.com/is/image/S7WebUGC/ugc/9536356.tif?&wid=800&hei=100&fit
 Verzend het element dat u wilt uploaden als multipart/form-post terwijl u de overige waarden verzendt als een URL-queryreeks. U kunt de volgende velden in de URL-queryreeks gebruiken om een element te uploaden:
 
 | URL-parameter | Vereist of optioneel | Waarde |
-|--- |--- |--- |
+| --- | --- | --- |
 | `op` | Vereist | uploaden |
 | `upload_token` | Vereist | Upload token voor de sleutel voor gedeeld geheim die aan het bedrijf is gekoppeld. |
 | `company_name` | Vereist | Naam van het bedrijf dat de upload uitvoert. |
@@ -235,7 +235,7 @@ Een voorbeeld van een succesvolle reactie lijkt op het volgende:
 U kunt de volgende velden in de URL-queryreeks gebruiken om informatie voor een element aan te vragen:
 
 | URL-parameter | Vereist of optioneel | Waarde |
-|--- |--- |--- |
+| --- | --- | --- |
 | `op` | Vereist | image_info |
 | `shared_secret` | Vereist | De gedeelde geheime sleutel voor het bedrijf. |
 | `image_name` | Vereist | Naam van de afbeelding. |
@@ -273,7 +273,7 @@ Met de parameter `file_limit` wordt de maximale bestandsgrootte in bytes opgegev
 Er wordt een algemene limiet ingesteld in de toepassing voor de maximale bestandsgrootte en de toegestane bestandsextensies. Als wat u in het verzoek verzendt een ondergroep van de globale grenzen is, wordt het geëerd. De globale limieten zijn als volgt:
 
 | Globale limiet | Waarde |
-|--- |--- |
+| --- | --- |
 | Bestandsgrootte voor alle clients | 20 MB |
 | Ondersteunde vectorbestandsindelingen voor uploaden | AI, EPS, PDF (alleen wanneer de PDF eerder is geopend en opgeslagen in Adobe Illustrator CS6) |
 
@@ -285,7 +285,7 @@ In het volgende HTML-formulier kan een gebruiker een element uploaden. In het fo
 * Een lijst met bestandsextensies.
 * Of het kleurprofiel en de bestandsnaam die aan het element zijn gekoppeld, behouden moeten blijven.
 * Of de achtergrond uitnemen moet worden gebruikt. Als u Achtergrond uitnemen inschakelt, stelt u de Hoek, Tolerantie en Vulmethode in.
-Zie Achtergrond uitnemen in [Opties voor het bewerken van afbeeldingen tijdens het uploaden](image-editing-options-upload.md#image-editing-options-at-upload).
+Zie Achtergrond uitnemen in [Opties voor het perfectioneren van afbeeldingen bij het uploaden](image-editing-options-upload.md#image-editing-options-at-upload).
 * De naam van het bestand dat moet worden geüpload.
 
 <!-- 
@@ -298,7 +298,7 @@ Last Modified Date:
 
  -->
 
-De volgende HTML-code wordt weergegeven wanneer u met de rechtermuisknop in het browservenster klikt en vervolgens **[!UICONTROL View Source]** klikt voor het formulier dat in het voorbeeld wordt weergegeven. De code toont het overeenkomstige URL vraagkoord en de methode van de POST die in werking worden gesteld wanneer de gebruiker **[!UICONTROL Submit]** klikt.
+De volgende HTML-code wordt weergegeven wanneer u met de rechtermuisknop in het browservenster klikt en vervolgens **[!UICONTROL View Source]** selecteert voor het formulier dat in het voorbeeld wordt weergegeven. De code toont het overeenkomstige URL vraagkoord en de methode van de POST die in werking worden gesteld wanneer de gebruiker **[!UICONTROL Submit]** selecteert.
 
 ```as3
 <body> 
@@ -324,7 +324,7 @@ return true;
 </tr> 
 <tr><td colspan="2"></td></tr> 
 <tr> 
-<td><strong>Click Submit to upload your Vector: </strong></td> 
+<td><strong>Select Submit to upload your Vector: </strong></td> 
 <td><input type="submit" value="Submit"></td> 
 </tr> 
 </table> 
@@ -332,7 +332,7 @@ return true;
 </body>
 ```
 
-Als u de XML-reactie in Internet Explorer wilt weergeven, klikt u op **[!UICONTROL View]** > **[!UICONTROL Source]**. Als u de XML-reactie in Firefox wilt weergeven, klikt u op **[!UICONTROL Tools]** > **[!UICONTROL Browser Tools]** > **[!UICONTROL Page Source]**. Firefox wordt aanbevolen voor het weergeven van XML-reacties.
+Als u de XML-reactie wilt weergeven in Internet Explorer, gaat u naar **[!UICONTROL View]** > **[!UICONTROL Source]**. Als u de XML-reactie in Firefox wilt weergeven, gaat u naar **[!UICONTROL Tools]** > **[!UICONTROL Browser Tools]** > **[!UICONTROL Page Source]**. Firefox wordt aanbevolen voor het weergeven van XML-reacties.
 
 Hier volgt een voorbeeldreactie van een geslaagde upload:
 
@@ -371,7 +371,7 @@ https://s7w2p1.scene7.com/is/agm/W2PTest/ugc/8875744.fxg?fmt=png&wid=500&hei=500
 Verzend het element dat u wilt uploaden als multipart/form-post terwijl u de overige waarden verzendt als een URL-queryreeks. U kunt de volgende velden in de URL-queryreeks gebruiken om een element te uploaden:
 
 | URL-parameter | Vereist of optioneel | Waarde |
-|--- |--- |--- |
+| --- | --- | --- |
 | `op` | Vereist | uploaden |
 | `upload_token` | Vereist | Upload token voor de sleutel voor gedeeld geheim die aan het bedrijf is gekoppeld. |
 | `company_name` | Vereist | Naam van het bedrijf dat de upload uitvoert. |

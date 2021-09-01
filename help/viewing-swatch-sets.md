@@ -1,6 +1,6 @@
 ---
 title: Staalsets weergeven
-description: Leer hoe u staalsets kunt weergeven.
+description: Leer hoe u staalsets kunt weergeven in Adobe Dynamic Media Classic.
 uuid: 80df403b-b03f-428f-9784-c3f774567bd0
 contentOwner: admin
 content-type: reference
@@ -10,9 +10,9 @@ discoiquuid: 48de8604-2bb4-4862-82ee-0c7847f0d0e7
 feature: Dynamic Media Classic,Viewers
 role: User
 exl-id: 05769eeb-5f1b-42ff-9392-2669f5051140
-source-git-commit: 1d71cbe6e2493ac8d47e837a20e194b6ae7a22d4
+source-git-commit: 8bc49ae3704f0551c70d68a0ddd63725bdcc645c
 workflow-type: tm+mt
-source-wordcount: '429'
+source-wordcount: '435'
 ht-degree: 0%
 
 ---
@@ -27,22 +27,22 @@ Adobe Dynamic Media Classic wordt geleverd met standaardvoorinstellingen voor vi
 
 U kunt Viewer-voorinstellingen maken en aanpassen aan uw wensen.
 
-1. Klik op **[!UICONTROL Setup]** > **[!UICONTROL Viewer Presets]** op de algemene navigatiebalk.
+1. Ga op de algemene navigatiebalk naar **[!UICONTROL Setup]** > **[!UICONTROL Viewer Presets]**.
 1. Voer een van de volgende handelingen uit:
 
-   * Als u een voorinstelling wilt maken, klikt u op **[!UICONTROL Add]**. Kies **[!UICONTROL Swatch Set Viewer]** in het dialoogvenster Voorinstelling viewer toevoegen in de vervolgkeuzelijst Viewer en klik op **[!UICONTROL Add]**.
-   * Als u een bestaande voorinstelling voor een Staalset-viewer wilt bewerken, selecteert u de voorinstelling en klikt u op **[!UICONTROL Edit]**.
+   * Selecteer **[!UICONTROL Add]** om een voorinstelling te maken. Kies **[!UICONTROL Swatch Set Viewer]** in het dialoogvenster Voorinstelling viewer toevoegen in de vervolgkeuzelijst Viewer en selecteer **[!UICONTROL Add]**.
+   * Als u een bestaande voorinstelling voor een Staalset-viewer wilt bewerken, selecteert u de voorinstelling en selecteert u **[!UICONTROL Edit]**.
 
 1. Typ in het tekstveld Naam voorinstelling op de pagina Viewer configureren een naam voor de voorinstelling Staalset Viewer.
 1. Kies opties in het scherm Viewer configureren.
 
-   Als u een beschrijving van een optie wilt zien, klikt u op het pictogram **[!UICONTROL Info Tip]** rechts van de optie.
+   Als u een beschrijving van een optie wilt zien, selecteert u het pictogram **[!UICONTROL Info Tip]** rechts van de optie.
 
    Op de pagina Voorbeeld wordt de viewer weergegeven terwijl u instellingen bijwerkt en wijzigt.
 
-1. Klik op **[!UICONTROL Save]**.
+1. Selecteer **[!UICONTROL Save]**.
 
-## Voorvertoning weergeven van staalsets in een viewer {#previewing-swatch-sets-in-a-viewer}
+## Staalsets voorvertonen in een viewer {#previewing-swatch-sets-in-a-viewer}
 
 Met Voorvertoning kunt u zien hoe een element wordt weergegeven op een bepaald viewertype, zoals HTML5. Afhankelijk van het type element en de bijbehorende viewer die u hebt geselecteerd voor de voorvertoning, zijn niet alle platforms voor viewertypen beschikbaar in Voorvertoning.
 
@@ -50,17 +50,17 @@ Met Voorvertoning kunt u zien hoe een element wordt weergegeven op een bepaald v
 1. In het paneel van de Bibliotheek van Activa op de linkerkant, navigeer de omslagen van Activa die de Reeks van het Monster bevatten die u met een kijker wilt voorproef.
 1. Voer een van de volgende handelingen uit:
 
-   * Klik in de rechterbovenhoek van het Klassieke venster van Adobe Dynamic Media op het pictogram **[!UICONTROL List View]**. Houd de muisaanwijzer in het venster Element boven een element en klik vervolgens op **[!UICONTROL Preview]** (niet op de vervolgkeuzelijst Voorvertoning).
-   * Klik in de rechterbovenhoek van het Klassieke venster van Adobe Dynamic Media op het pictogram **[!UICONTROL Grid View]**. Klik in het venster Middelen in een elementminiatuurvenster op **[!UICONTROL Preview]** (niet in de vervolgkeuzelijst Voorbeeld).
-   * Klik in de rechterbovenhoek van het Klassieke venster van Adobe Dynamic Media op het pictogram **[!UICONTROL Detail View]**. Klik op **[!UICONTROL Preview]** op dezelfde werkbalk (niet op de vervolgkeuzelijst Voorvertoning).
+   * Selecteer in de rechterbovenhoek van het Klassieke venster van Adobe Dynamic Media het pictogram **[!UICONTROL List View]**. Houd de muisaanwijzer boven een element in het venster Element en selecteer **[!UICONTROL Preview]** (niet de vervolgkeuzelijst Voorvertoning).
+   * Selecteer in de rechterbovenhoek van het Klassieke venster van Adobe Dynamic Media het pictogram **[!UICONTROL Grid View]**. Selecteer **[!UICONTROL Preview]** (niet de vervolgkeuzelijst Voorvertoning) in het venster Middelen, in een elementminiatuurvenster.
+   * Selecteer in de rechterbovenhoek van het Klassieke venster van Adobe Dynamic Media het pictogram **[!UICONTROL Detail View]**. Selecteer **[!UICONTROL Preview]** op dezelfde werkbalk (niet de vervolgkeuzelijst Voorvertoning).
 
 1. (Optioneel) Selecteer in de vervolgkeuzelijst onderaan in het voorvertoningsvenster de URL-codering die u wilt toepassen op de URL van het element wanneer het element wordt gekopieerd.
-1. Klik op een viewerkoppeling om een voorvertoning van het element weer te geven in de geselecteerde viewer.
+1. Selecteer een viewerkoppeling om een voorvertoning van het element weer te geven in de geselecteerde viewer.
 
-   Wanneer u op een bepaalde viewerkoppeling klikt, wordt de bijbehorende URL automatisch naar het klembord gekopieerd.
+   Wanneer u een bepaalde viewerkoppeling selecteert, wordt de bijbehorende URL automatisch naar het klembord gekopieerd.
 
 1. Sluit de weergegeven viewer om terug te keren naar de voorvertoningspagina.
-1. Klik op **[!UICONTROL Close]** om terug te keren naar de elementenpagina.
+1. Selecteer **[!UICONTROL Close]** om terug te keren naar de elementenpagina.
 
 >[!MORELIKETHIS]
 >

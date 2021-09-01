@@ -9,7 +9,7 @@ discoiquuid: b2bc3bf9-e313-481a-8670-c3bedde21b1a
 feature: Dynamic Media Classic,Asset Management
 role: User
 exl-id: 8dfcfb3f-6472-4efd-bc87-d5111eee45ce
-source-git-commit: 44045daa35052f01a26c67e0b2a0fb1405c53292
+source-git-commit: 8bc49ae3704f0551c70d68a0ddd63725bdcc645c
 workflow-type: tm+mt
 source-wordcount: '3654'
 ht-degree: 0%
@@ -128,7 +128,7 @@ Zorg ervoor dat alle gebruikers in uw bedrijf deze regels voor het benoemen van 
 Gewoonlijk kan de bestandsnaam van een element hetzelfde zijn als het itemnummer, de product-SKU of een andere naam als in het volgende voorbeeld:
 
 | Item | Bestandsnaam | Element-id |
-|--- |--- |--- |
+| --- | --- | --- |
 | 896649 | 896649.jpg | 896649 |
 | 48A3_2X | 48A3_2X.tif | 48A3_2X |
 
@@ -234,7 +234,7 @@ Selecteer deze optie als u submappen wilt uploaden van de map die u wilt uploade
 Zie [Metagegevens importeren (via FTP)](viewing-adding-exporting-metadata.md#import-metadata).
 
 
-* **OPTIONS**  UITSNIJDEN - Als u pixels in witruimte automatisch wilt uitsnijden in een afbeelding, opent u het  **[!UICONTROL Crop]** menu, selecteert u  **[!UICONTROL Manual]** en voert u pixelmetingen in in de tekstvelden Boven, Rechts, Onder en Links om van de zijkanten uit te snijden. U kunt **[!UICONTROL Trim]** op het menu van het Gewas ook selecteren en deze opties kiezen:
+* **Uitsnijdopties**  - Als u pixels in witruimte automatisch wilt uitsnijden in een afbeelding, opent u het  **[!UICONTROL Crop]** menu, selecteert u  **[!UICONTROL Manual]** en voert u pixelmetingen in de tekstvelden Boven, Rechts, Onder en Links in om van de zijkanten uit te snijden. U kunt **[!UICONTROL Trim]** op het menu van het Gewas ook selecteren en deze opties kiezen:
 
    * **[!UICONTROL Trim Away Based On]** - Kies of u wilt uitsnijden op basis van kleur of transparantie:
       * **[!UICONTROL Color]** - Kies de optie Kleur. Selecteer vervolgens het menu Hoek en kies de hoek van de afbeelding met de kleur die het beste overeenkomt met de kleur voor de witruimte die u wilt uitsnijden.
@@ -243,7 +243,7 @@ Bijsnijden op basis van kleur: Geef 0 op om alleen pixels uit te snijden als dez
 Bijsnijden op basis van transparantie: Geef 0 op om alleen pixels bij te snijden als deze transparant zijn; De cijfers dichter aan 1 staan voor meer transparantie.
       * **[!UICONTROL Tolerance]** - Sleep de schuifregelaar om een tolerantie tussen 0 en 1 op te geven.
 
-* **OPTIONS**  KLEURPROFIEL - Kies een kleurconversie wanneer u geoptimaliseerde bestanden maakt die worden gebruikt voor Klassieke, dynamische levering van Adobe Dynamic Media:
+* **Opties**  voor kleurprofiel - Kies een kleurconversie wanneer u geoptimaliseerde bestanden maakt die worden gebruikt voor Adobe Dynamic Media Klassieke dynamische levering:
 
    * **[!UICONTROL Default Color Preservation]** - De kleuren van de bronafbeelding blijven behouden wanneer de afbeeldingen kleurruimte-informatie bevatten. er is geen kleurconversie. In bijna alle afbeeldingen van vandaag is het juiste kleurprofiel al ingesloten. Als een CMYK-bronafbeelding echter geen ingesloten kleurprofiel bevat, worden de kleuren omgezet in de kleurruimte sRGB (standaard rood-groen-blauw). sRGB is de aanbevolen kleurruimte voor het weergeven van afbeeldingen op webpagina&#39;s.
    * **[!UICONTROL Keep Original Color Space]** - Behoudt de oorspronkelijke kleuren zonder kleurconversie op het punt van inname in Adobe Dynamic Media Classic. Voor afbeeldingen zonder ingesloten kleurprofiel wordt de vereiste kleurconversie voor het verwerken van aanvragen voor de afbeelding uitgevoerd met de standaardkleurprofielen die zijn geconfigureerd in de Publicatie-instellingen. Deze kleurprofielen worden niet altijd uitgelijnd op de kleur in de bestanden die met deze optie worden gemaakt. Daarom wordt u aangeraden de optie Standaardkleurbehoud te gebruiken.
@@ -252,7 +252,7 @@ Bijsnijden op basis van transparantie: Geef 0 op om alleen pixels bij te snijden
 * **Beeldbewerkingsopties**  - U kunt de  &lt;> knipmaskers in afbeeldingen behouden en een kleurprofiel kiezen.
 Zie [Opties voor het perfectioneren van afbeeldingen bij het uploaden](image-editing-options-upload.md#image-editing-options-at-upload).
 
-* **Opties**  voor PostScript® - U kunt PostScript® rasteren, bestanden uitsnijden, transparante achtergronden behouden, een resolutie kiezen en een kleurruimte kiezen.
+* **PostScript®-opties**  - U kunt PostScript® rasteren, bestanden uitsnijden, transparante achtergronden behouden, een resolutie kiezen en een kleurruimte kiezen.
 Zie [Werken met PostScript- en Illustrator-bestanden](postscript-illustrator-files.md#working_with_postscript_and_illustrator_files).
 
 * **Photoshop-opties**  - U kunt sjablonen maken van Adobe® Photoshop®-bestanden, lagen behouden, opgeven hoe lagen worden benoemd, tekst uitnemen en opgeven hoe afbeeldingen in sjablonen worden verankerd.

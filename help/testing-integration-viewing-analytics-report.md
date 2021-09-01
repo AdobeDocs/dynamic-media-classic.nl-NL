@@ -1,6 +1,6 @@
 ---
-title: Integratie testen door een Adobe Analytics-rapport te bekijken
-description: Leren hoe u de integratie kunt testen door een Adobe Analytics-rapport te bekijken.
+title: De integratie testen door een Adobe Analytics-rapport te bekijken
+description: Leer hoe u de integratie in Adobe Dynamic Media Classic kunt testen door een Adobe Analytics-rapport te bekijken.
 uuid: 937375e0-6dea-4baa-a2b0-4f3e461c9ee2
 contentOwner: admin
 content-type: reference
@@ -10,14 +10,14 @@ discoiquuid: 1ddc89ff-d2e9-42eb-a442-aa6b9871c991
 feature: Dynamic Media Classic
 role: Data Engineer,Admin,User
 exl-id: 6186fcf0-99b4-447d-ae94-b4124dcb405b
-source-git-commit: ad5270545be502d3aaabba574353787622ab0445
+source-git-commit: 8bc49ae3704f0551c70d68a0ddd63725bdcc645c
 workflow-type: tm+mt
-source-wordcount: '325'
+source-wordcount: '329'
 ht-degree: 0%
 
 ---
 
-# Integratie testen door een Adobe Analytics-rapport te bekijken{#testing-the-integration-by-viewing-an-adobe-analytics-report}
+# De integratie testen door een Adobe Analytics-rapport te bekijken{#testing-the-integration-by-viewing-an-adobe-analytics-report}
 
 Nadat u de noodzakelijke variabelen in Adobe Analytics hebt gecreeerd, hen met Adobe Dynamic Media Klassieke gebeurtenissen, en de noodzakelijke implementatiestappen verbonden, kunt u de opstelling testen. U kunt testen en controleren of de gegevens worden vastgelegd in Adobe Analytics zelf. Als de opstelling hier werkt, dan zijn geen verdere stappen nodig. Ervan uitgaande dat u de bovenstaande stappen hebt uitgevoerd en uw Adobe Dynamic Media Classic-gebeurtenisgegevens aan een of meer variabelen voor aangepast verkeer hebt gekoppeld, volgt u deze workflow om uw gegevens in Adobe Analytics te testen.
 

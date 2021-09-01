@@ -1,6 +1,6 @@
 ---
 title: Elementen testen voordat ze openbaar worden gemaakt
-description: Leer hoe u elementen kunt testen voordat u ze openbaar maakt.
+description: Leer hoe u elementen test in Adobe Dynamic Media Classic voordat u ze openbaar maakt.
 uuid: 5e8f3bec-6cf1-408e-8ea1-aebde0012a70
 contentOwner: admin
 content-type: reference
@@ -10,9 +10,9 @@ discoiquuid: 52fadf99-7d11-46f7-8483-a9f87ffc2f67
 feature: Dynamic Media Classic,Asset Management
 role: User
 exl-id: fd78d535-391e-43eb-a8aa-25fa6c2885cb
-source-git-commit: 1d71cbe6e2493ac8d47e837a20e194b6ae7a22d4
+source-git-commit: 8bc49ae3704f0551c70d68a0ddd63725bdcc645c
 workflow-type: tm+mt
-source-wordcount: '1014'
+source-wordcount: '1025'
 ht-degree: 0%
 
 ---
@@ -37,7 +37,7 @@ Maak indien gewenst een testomgeving in plaats van elementen openbaar te maken, 
 
 De meeste bedrijven voeren hun Internet achter een firewall in werking. De toegang tot Internet is mogelijk door bepaalde routes en typisch door een beperkte waaier van openbare IP adressen.
 
-Van uw collectief netwerk, kunt u uw openbare IP adres ontdekken gebruikend websites zoals https://whatismyip.com of om deze informatie van uw collectieve organisatie van IT verzoeken.
+Van uw collectief netwerk, kunt u uw openbaar IP adres ontdekken gebruikend websites zoals [https://www.whatismyip.com](https://www.whatismyip.com/) of deze informatie van uw collectieve organisatie van IT verzoeken.
 
 Met het Veilige Testen, vestigt Adobe Dynamic Media Classic een specifieke server van het Beeld voor het opvoeren van milieu&#39;s of interne toepassingen. Om het even welk verzoek aan deze server controleert het oorsprongIP adres. Als het inkomende verzoek niet binnen de goedgekeurde lijst van IP adressen is, is een mislukkingsreactie teruggekeerd. De Adobe Dynamic Media Klassieke Beheerder van het Bedrijf vormt de goedgekeurde lijst van IP adressen voor het Veilige Testen van hun bedrijf milieu.
 
@@ -80,7 +80,7 @@ De volgende elementtypen en -functies worden momenteel niet ondersteund:
 
 ## De service Beveiligde tests testen {#testing-the-secure-testing-service}
 
-Test de Secure Testing service om te controleren of deze naar behoren werkt.
+Test de Secure Testing service zodat u zeker weet dat deze naar behoren functioneert.
 
 <!-- >[!NOTE]
 >
@@ -99,9 +99,9 @@ Last Modified Date:
  -->
 
 1. Neem contact op met de klantenservice van Adobe en verzoek hen om Beveiligingstests op uw account in te schakelen.
-1. Klik in Adobe Dynamic Media Classic op de algemene navigatiebalk op **[!UICONTROL Setup]** > **[!UICONTROL Publish Setup]** > **[!UICONTROL Image Server]**.
+1. Ga in Adobe Dynamic Media Classic op de algemene navigatiebalk naar **[!UICONTROL Setup]** > **[!UICONTROL Publish Setup]** > **[!UICONTROL Image Server]**.
 1. Selecteer **[!UICONTROL Test Image Serving]** in de vervolgkeuzelijst op de pagina Publiceren afbeeldingsserver.**[!UICONTROL Publish Context]**
-1. Voor de Filter van het Adres van de Cliënt, klik **[!UICONTROL Add]**.
+1. Voor de Filter van het Adres van de Cliënt, uitgezochte **[!UICONTROL Add]**.
 1. Schakel het selectievakje in zodat het adres is ingeschakeld en typ vervolgens een IP-adres en een netmasker in de desbetreffende tekstvelden.
 
    >[!NOTE]
@@ -111,16 +111,16 @@ Last Modified Date:
 1. Voer een van de volgende handelingen uit:
    * Herhaal de vorige twee stappen als u meer IP adressen moet toevoegen.
    * Ga door met de volgende stap.
-1. Klik linksonder op de pagina Publiceren afbeeldingsserver op **[!UICONTROL Save]**
+1. Selecteer **[!UICONTROL Save]** linksonder op de pagina Publiceren afbeeldingsserver
 1. Upload de gewenste afbeeldingen naar uw Adobe Dynamic Media Classic-account.
 
    Zie [Bestanden uploaden](uploading-files.md#uploading_files).
 
 1. Zorg ervoor dat sommige afbeeldingen zijn gemarkeerd voor publicatie en andere niet zijn gemarkeerd en verzend vervolgens de publicatietaak.
 
-   Zie [Publiceren](publishing-files.md#publishing_files).
+   Zie [Bestanden publiceren](publishing-files.md#publishing_files).
 
-1. Bepaal de naam van uw service Beveiligd testen door te klikken op **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL General Settings]**.
+1. Bepaal de naam van uw service Beveiligd testen door naar **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL General Settings]** te gaan.
 1. Voor de pagina van de Montages van de Toepassing Algemene, onder de groep van Servers, vind de naam rechts van **[!UICONTROL Test Publish Context Server Name]**.
 
 Neem contact op met de Adobe-service als de servernaam ontbreekt of als de URL&#39;s naar de server niet werken.

@@ -1,6 +1,6 @@
 ---
 title: Zoomafbeeldingen uploaden
-description: Leer hoe u Zoom-afbeeldingen uploadt.
+description: Leer hoe u Zoom-afbeeldingen uploadt naar Adobe Dynamic Media Classic.
 uuid: 5814ec28-3a06-4b92-b70e-0aa5b83e7b0e
 contentOwner: admin
 content-type: reference
@@ -10,9 +10,9 @@ discoiquuid: e84b7b0e-527a-4c64-bc2a-e5e64d47b2d6
 feature: Dynamic Media Classic,Viewers,Zoom
 role: User
 exl-id: 44a82437-7592-484f-b45f-17ed1f6efbec
-source-git-commit: 1d71cbe6e2493ac8d47e837a20e194b6ae7a22d4
+source-git-commit: 8bc49ae3704f0551c70d68a0ddd63725bdcc645c
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '219'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Zoomafbeeldingen moeten een hoog aantal pixels hebben. Er is een groot aantal pixels nodig, zodat gebruikers de details van de afbeelding duidelijk kunnen zien wanneer ze op afbeeldingen inzoomen. Zorg ervoor dat de afbeeldingen die u gebruikt de juiste grootte hebben voordat u ze uploadt naar Adobe Dynamic Media Classic.
 
-Klik op **[!UICONTROL Upload]** op de algemene navigatiebalk om afbeeldingen te uploaden.
+Selecteer **[!UICONTROL Upload]** op de algemene navigatiebalk om afbeeldingen te uploaden.
 
 Zie [Bestanden uploaden](uploading-files.md#uploading_files) voor gedetailleerde instructies voor het uploaden van afbeeldingen.
 
