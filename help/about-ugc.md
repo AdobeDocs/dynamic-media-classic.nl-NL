@@ -9,9 +9,9 @@ discoiquuid: c1594abf-8cc2-46dd-88bf-af93db7db607
 feature: Dynamic Media Classic
 role: Admin,User
 exl-id: 14729192-7b9d-4f42-99da-6564a3f35959
-source-git-commit: 1d71cbe6e2493ac8d47e837a20e194b6ae7a22d4
+source-git-commit: 30f1aa8c30c0a1f7cf0f4298530e1e80597d7c3e
 workflow-type: tm+mt
-source-wordcount: '146'
+source-wordcount: '164'
 ht-degree: 0%
 
 ---
@@ -24,6 +24,10 @@ UGC ondersteunt de volgende bestandsindelingen:
 
 * Raster: JPG, PNG, TIFF
 * Vector: AI, EPS (EPS-bestanden van Adobe Illustrator 2018 worden niet ondersteund), PDF (alleen als het PDF-bestand eerder is geopend en opgeslagen in Adobe Illustrator CS6)
+
+>[!IMPORTANT]
+>
+>De ondersteuning voor nieuwe of bestaande UGC-vectorafbeeldingselementen in Adobe Dynamic Media Classic loopt af op 30 september 2021.
 
 Voordat u elementen uploadt, ontvangt u een sleutel voor een gedeeld geheim. U gebruikt deze sleutel om een upload token op te halen. U verzendt het uploadtoken wanneer u elementen uploadt en andere UGC-taken uitvoert.
 

@@ -10,9 +10,9 @@ discoiquuid: 52fadf99-7d11-46f7-8483-a9f87ffc2f67
 feature: Dynamic Media Classic,Asset Management
 role: User
 exl-id: fd78d535-391e-43eb-a8aa-25fa6c2885cb
-source-git-commit: e8e2eeba81f93cd72bdf5e09d5441de9bd3bc776
+source-git-commit: 30f1aa8c30c0a1f7cf0f4298530e1e80597d7c3e
 workflow-type: tm+mt
-source-wordcount: '1027'
+source-wordcount: '1045'
 ht-degree: 0%
 
 ---
@@ -77,6 +77,10 @@ De volgende elementtypen en -functies worden momenteel niet ondersteund:
 * UGC-services (door de gebruiker gegenereerde inhoud)
 * Web-to-print
 * Adobe Dynamic Media Klassieke Info of eCatalog onderzoek
+
+>[!IMPORTANT]
+>
+>De ondersteuning voor nieuwe of bestaande UGC-vectorafbeeldingselementen in Adobe Dynamic Media Classic loopt af op 30 september 2021.
 
 ## De service Beveiligde tests testen {#testing-the-secure-testing-service}
 

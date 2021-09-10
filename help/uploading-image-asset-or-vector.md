@@ -7,9 +7,9 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 feature: Dynamic Media Classic
 role: User
 exl-id: 2ef78fe6-1e7c-4f48-86da-137ddaa55bbf
-source-git-commit: 8bc49ae3704f0551c70d68a0ddd63725bdcc645c
+source-git-commit: 30f1aa8c30c0a1f7cf0f4298530e1e80597d7c3e
 workflow-type: tm+mt
-source-wordcount: '1482'
+source-wordcount: '1518'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,10 @@ ht-degree: 0%
 # Een afbeeldingselement of een vectorelement uploaden{#uploading-an-image-asset-or-a-vector-asset}
 
 Voordat u een afbeeldingselement kunt uploaden, vraagt u eerst om een sleutel voor een gedeeld geheim. U gebruikt deze sleutel voor gedeeld geheim om een token voor uploaden op te halen. Vervolgens gebruikt u het token voor uploaden om afbeeldingselementen of vectorelementen te uploaden.
+
+>[!IMPORTANT]
+>
+>De ondersteuning voor nieuwe of bestaande UGC-vectorafbeeldingselementen in Adobe Dynamic Media Classic loopt af op 30 september 2021.
 
 ## Een gedeelde geheime sleutel aanvragen {#requesting-a-shared-secret-key}
 
@@ -249,6 +253,10 @@ U kunt de volgende velden in de URL-queryreeks gebruiken om informatie voor een 
 GET en POST
 
 ## Een vectorelement uploaden {#uploading-a-vector-asset}
+
+>[!IMPORTANT]
+>
+>De ondersteuning voor nieuwe of bestaande UGC-vectorafbeeldingselementen in Adobe Dynamic Media Classic loopt af op 30 september 2021.
 
 Nadat u een uploadtoken hebt opgehaald dat gedurende een bepaalde periode geldig is, kunt u een vectorelement uploaden. U uploadt het element als multipart/form post terwijl het verzenden van de rest waarden als URL vraagkoord, zoals aangetoond in dit voorbeeld:
 
