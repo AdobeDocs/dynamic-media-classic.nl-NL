@@ -8,9 +8,9 @@ geptopics: SG_SCENESEVENONDEMAND_PK/categories/introducing_adobe_dynamic_media_c
 feature: Dynamic Media Classic
 role: Admin,User
 exl-id: 604b4630-4704-4254-84b5-91b33bb19d58
-source-git-commit: 474fc6022557a1eee782a22cb40d39f2ad9aa01d
+source-git-commit: e3c2dcaa245e486ada62edd554db5a39d495483e
 workflow-type: tm+mt
-source-wordcount: '1756'
+source-wordcount: '1792'
 ht-degree: 0%
 
 ---
@@ -106,11 +106,11 @@ Zie ook:
 
    Zie de volgende afbeelding voor de productieomgeving voor informatie over het gebruik van **[!UICONTROL Server]**:
 
-   | Servernaam bureaubladtoepassing | URL browser |
+   | URL browser | Servernaam bureaubladtoepassing |
    | --- | --- |
-   | NA (Noord-Amerika) productie | `https://s7sps1.scene7.com/` |
-   | Productie EMEA (Europa, Midden-Oosten en Afrika) | `https://s7sps3.scene7.com/` |
-   | APAC-productie (Azië-Stille Oceaan) | `https://s7sps5.scene7.com/` |
+   | https://s7sps1.scene7.com/ | NA (Noord-Amerika) productie |
+   | https://s7sps3.scene7.com/ | Productie EMEA (Europa, Midden-Oosten en Afrika) |
+   | https://s7sps5.scene7.com/ | APAC-productie (Azië-Stille Oceaan) |
 
 1. Na aanmelden ziet u de vertrouwde ervaring van de gebruikersinterface van de browser. U kunt uw dagelijkse Adobe Dynamic Media Classic-activiteiten op de desktopapp op de gebruikelijke wijze voortzetten.
 
@@ -123,7 +123,7 @@ Zie ook:
 
 Als u de nieuwste versie van de Adobe Dynamic Media Classic-bureaubladtoepassing op MacOS wilt downloaden en *silent* wilt installeren:
 
-1. Verwijder eventuele oudere versies van de Adobe Dynamic Media Classic-bureaubladtoepassing op uw systeem door de Adobe Dynamic Media Classic.app naar de prullenmand te verplaatsen.
+1. Verwijder eventuele oudere versies van de Adobe Dynamic Media Classic-bureaubladtoepassing op uw systeem.
 
 1. Download het nieuwste installatieprogramma voor de Adobe Dynamic Media Classic-bureaubladtoepassing voor macOS.
 
@@ -148,11 +148,11 @@ Als u de nieuwste versie van de Adobe Dynamic Media Classic-bureaubladtoepassing
 
    Zie de volgende afbeelding voor de productieomgeving voor informatie over het gebruik van **[!UICONTROL Server]**:
 
-   | Servernaam bureaubladtoepassing | URL browser |
+   | URL browser | Servernaam bureaubladtoepassing |
    | --- | --- |
-   | NA (Noord-Amerika) productie | `https://s7sps1.scene7.com/` |
-   | Productie EMEA (Europa, Midden-Oosten en Afrika) | `https://s7sps3.scene7.com/` |
-   | APAC-productie (Azië-Stille Oceaan) | `https://s7sps5.scene7.com/` |
+   | https://s7sps1.scene7.com/ | NA (Noord-Amerika) productie |
+   | https://s7sps3.scene7.com/ | Productie EMEA (Europa, Midden-Oosten en Afrika) |
+   | https://s7sps5.scene7.com/ | APAC-productie (Azië-Stille Oceaan) |
 
 ## Download en *silent* installeer de nieuwste Adobe Dynamic Media Classic desktop app op Windows® {#install-silent-windows-dmc-app}
 
@@ -193,11 +193,12 @@ Als u de nieuwste versie van de Adobe Dynamic Media Classic-bureaubladtoepassing
 
    Zie de volgende afbeelding voor de productieomgeving voor informatie over het gebruik van **[!UICONTROL Server]**:
 
-   | Servernaam bureaubladtoepassing | URL browser |
+   | URL browser | Servernaam bureaubladtoepassing |
    | --- | --- |
-   | NA (Noord-Amerika) productie | `https://s7sps1.scene7.com/` |
-   | Productie EMEA (Europa, Midden-Oosten en Afrika) | `https://s7sps3.scene7.com/` |
-   | APAC-productie (Azië-Stille Oceaan) | `https://s7sps5.scene7.com/` |
+   | https://s7sps1.scene7.com/ | NA (Noord-Amerika) productie |
+   | https://s7sps3.scene7.com/ | Productie EMEA (Europa, Midden-Oosten en Afrika) |
+   | https://s7sps5.scene7.com/ | APAC-productie (Azië-Stille Oceaan) |
+
 
 ## Video doorlopen bij gebruik van Adobe Dynamic Media Classic Desktop App {#dmc-app-video-walk-through}
 
