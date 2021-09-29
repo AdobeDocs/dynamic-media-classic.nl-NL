@@ -8,9 +8,9 @@ geptopics: SG_SCENESEVENONDEMAND_PK/categories/introducing_adobe_dynamic_media_c
 feature: Dynamic Media Classic
 role: Admin,User
 exl-id: 604b4630-4704-4254-84b5-91b33bb19d58
-source-git-commit: e3c2dcaa245e486ada62edd554db5a39d495483e
+source-git-commit: 4e42d90747af895d27c64fa3fb5830f73e3a0a95
 workflow-type: tm+mt
-source-wordcount: '1792'
+source-wordcount: '1855'
 ht-degree: 0%
 
 ---
@@ -38,22 +38,34 @@ Adobe Dynamic Media Classic-bureaubladtoepassing is compatibel met de volgende b
 >
 >Het upgrademelding binnen de Klassieke Adobe-bureaubladtoepassing wordt niet gegenereerd voor *minor*-releases. Klanten die van moeilijke situaties in een minder belangrijke versie profiteren kunnen bevorderen.
 
-## Oplossingen in de kleine release (20.21.2) {#minor-release}
+## Oplossingen in de nieuwste versie (20.21.3) {#release-sept2021}
 
-* Bekende beperking in 20.21.1 van de dropdown van de Server die leeg is.
+* Verbroken miniaturen voor elementen die zijn weergegeven na een periode van inactiviteit in de bureaubladtoepassing.
+* Desktop-app reageert niet meer, meestal na bewerkingen instellen.
+* Modus Verduistering en vergrendeling aanvragen automatisch ingeschakeld onder **[!UICONTROL Test Image Serving]**.
+
+   Zie [De service Beveiligd testen](/help/testing-assets-making-them-public.md#testing-the-secure-testing-service) testen.
+
+* Bijgewerkt verificatiemechanisme met Adobe Analytics. Relevant voor nieuwe integraties of als bepaalde analytische variabelen moeten worden bijgewerkt vanuit de Dynamic Media Classic-bureaubladtoepassing.
+
+   Zie [Aanmelden bij Adobe Analytics](/help/log-analytics.md) voor bijgewerkte stappen.
+
+## Oplossingen in release 20.21.2 {#minor-release}
+
+* Bekende beperking in 20.21.1: de vervolgkeuzelijst **[!UICONTROL Server]** op het aanmeldingsscherm was leeg.
 * In **[!UICONTROL Upload Job Options]** is de standaardwaarde voor laagnaamgeving onder **[!UICONTROL Photoshop Options]** nu **[!UICONTROL Photoshop and Layer Name]**. Lagen in het PSD-bestand worden geüpload als afzonderlijke afbeeldingen.
    * De eerdere standaardinstelling van **[!UICONTROL Layer name]** noemde de afbeeldingen na hun laagnaam of laagnummer in het PSD-bestand. Het laagnummer werd gebruikt als de laagnamen in het PSD-bestand standaard Photoshop-laagnamen waren.
    * De nieuwe standaardinstelling **[!UICONTROL Photoshop and Layer Name]** geeft de afbeeldingen een naam na het PSD-bestand gevolgd door de laagnaam of het laagnummer. Het laagnummer wordt gebruikt als de laagnamen in het PSD-bestand standaard Photoshop-laagnamen zijn.
    * Aangezien laagafbeeldingen in Adobe Dynamic Media Classic nu unieke namen hebben, worden bestaande PSD- of sjablonen niet bijgewerkt (welke gedeelde laagnamen in de originele PSD-bestanden).
 * Verbroken miniaturen van elementen.
 
-## Oplossingen in de meest recente versie (20.21.1) {#latest-fixes-desktop-app}
+## Oplossingen in release 20.21.1 {#latest-fixes-desktop-app}
 
 * Aanmeldingsproblemen vanwege time-out resulterend in het volgende bericht: *Deze gebruiker kan zonder toestemming aan de groep of groepen worden toegewezen. Neem contact op met uw beheerder.*
 * Viewer-voorinstellingen worden gedupliceerd bij elke onjuiste wachtwoordpoging.
 * Bureaubladtoepassing reageert niet meer vanwege de vele middelen in de hoofdmap. (Vast in Windows®) naar wens werken op MacOS.)
 
-## Oplossingen in de vorige versie (20.20.2) {#previous-version-fixes-desktop-app}
+## Oplossingen in release 20.20.2 {#previous-version-fixes-desktop-app}
 
 * Geen beperking op het aantal bestanden dat u kunt uploaden via de gebruikersinterface van de bureaubladtoepassing voor zowel MacOS als Windows®.
 * U hoeft zich niet af te melden bij de bureaubladtoepassing om te schakelen tussen bedrijven.
@@ -71,14 +83,14 @@ Zie ook:
 
 1. Download het nieuwste installatieprogramma voor de Adobe Dynamic Media Classic-bureaubladtoepassing.
 
-   * De meest recente versie (20.21.2) is beschikbaar op het volgende adres:
+   * De meest recente versie (20.21.3) is beschikbaar op het volgende adres:
+
+      * [macOS (.DMG) - Download](https://download.macromedia.com/dynamic-media-classic/20.21.3/adobe-dynamic-media-classic-20.21.3.dmg)
+      * [Windows® (.EXE) - Downloaden](https://download.macromedia.com/dynamic-media-classic/20.21.3/adobe-dynamic-media-classic-20.21.3.exe)
+   * De vorige versie (20.21.2) is beschikbaar op:
 
       * [macOS (.DMG) - Download](https://download.macromedia.com/dynamic-media-classic/20.21.2/adobe-dynamic-media-classic-20.21.2.dmg)
       * [Windows® (.EXE) - Downloaden](https://download.macromedia.com/dynamic-media-classic/20.21.2/adobe-dynamic-media-classic-20.21.2.exe)
-   * De vorige versie (20.21.1) is beschikbaar op:
-
-      * [macOS (.DMG) - Download](https://download.macromedia.com/dynamic-media-classic/20.21.1/adobe-dynamic-media-classic-20.21.1.dmg)
-      * [Windows® (.EXE) - Downloaden](https://download.macromedia.com/dynamic-media-classic/20.21.1/adobe-dynamic-media-classic-20.21.1.exe)
 
 
 <!--         * [macOS (.DMG) - Download.](https://download.macromedia.com/dynamic-media-classic/20.20.2/adobe-dynamic-media-classic-20.20.2.dmg)
@@ -106,11 +118,11 @@ Zie ook:
 
    Zie de volgende afbeelding voor de productieomgeving voor informatie over het gebruik van **[!UICONTROL Server]**:
 
-   | URL browser | Servernaam bureaubladtoepassing |
+   | Server | URL browser |
    | --- | --- |
-   | https://s7sps1.scene7.com/ | NA (Noord-Amerika) productie |
-   | https://s7sps3.scene7.com/ | Productie EMEA (Europa, Midden-Oosten en Afrika) |
-   | https://s7sps5.scene7.com/ | APAC-productie (Azië-Stille Oceaan) |
+   | NA Productie (Noord-Amerika) | https://s7sps1.scene7.com/ |
+   | EMEA Production (Europe, Middle East, and Africa) | https://s7sps3.scene7.com/ |
+   | APAC-productie (Azië-Stille Oceaan) | https://s7sps5.scene7.com/ |
 
 1. Na aanmelden ziet u de vertrouwde ervaring van de gebruikersinterface van de browser. U kunt uw dagelijkse Adobe Dynamic Media Classic-activiteiten op de desktopapp op de gebruikelijke wijze voortzetten.
 
@@ -127,11 +139,11 @@ Als u de nieuwste versie van de Adobe Dynamic Media Classic-bureaubladtoepassing
 
 1. Download het nieuwste installatieprogramma voor de Adobe Dynamic Media Classic-bureaubladtoepassing voor macOS.
 
-   * [macOS (.DMG) - Download](https://download.macromedia.com/dynamic-media-classic/20.21.2/adobe-dynamic-media-classic-20.21.2.dmg)
+   * [macOS (.DMG) - Download](https://download.macromedia.com/dynamic-media-classic/20.21.3/adobe-dynamic-media-classic-20.21.3.dmg)
 
 1. Koppel het gedownloade beeld van de Schijf (.DMG) aan een montageselocatie gebruikend het volgende bevel:
 
-   `hdiutil attach adobe-dynamic-media-classic-20.21.2.dmg -mountpoint <mount_point_path>`
+   `hdiutil attach adobe-dynamic-media-classic-20.21.3.dmg -mountpoint <mount_point_path>`
 
 1. Kopieer het APP-bestand naar **[!UICONTROL Applications]** met de volgende opdracht:
 
@@ -148,11 +160,11 @@ Als u de nieuwste versie van de Adobe Dynamic Media Classic-bureaubladtoepassing
 
    Zie de volgende afbeelding voor de productieomgeving voor informatie over het gebruik van **[!UICONTROL Server]**:
 
-   | URL browser | Servernaam bureaubladtoepassing |
+   | Server | URL browser |
    | --- | --- |
-   | https://s7sps1.scene7.com/ | NA (Noord-Amerika) productie |
-   | https://s7sps3.scene7.com/ | Productie EMEA (Europa, Midden-Oosten en Afrika) |
-   | https://s7sps5.scene7.com/ | APAC-productie (Azië-Stille Oceaan) |
+   | NA Productie (Noord-Amerika) | https://s7sps1.scene7.com/ |
+   | EMEA Production (Europe, Middle East, and Africa) | https://s7sps3.scene7.com/ |
+   | APAC-productie (Azië-Stille Oceaan) | https://s7sps5.scene7.com/ |
 
 ## Download en *silent* installeer de nieuwste Adobe Dynamic Media Classic desktop app op Windows® {#install-silent-windows-dmc-app}
 
@@ -169,19 +181,19 @@ Als u de nieuwste versie van de Adobe Dynamic Media Classic-bureaubladtoepassing
 
 1. Download het nieuwste installatieprogramma voor de Adobe Dynamic Media Classic-bureaubladtoepassing.
 
-   * [Windows® (.EXE) - Downloaden](https://download.macromedia.com/dynamic-media-classic/20.21.2/adobe-dynamic-media-classic-20.21.2.exe)
+   * [Windows® (.EXE) - Downloaden](https://download.macromedia.com/dynamic-media-classic/20.21.3/adobe-dynamic-media-classic-20.21.3.exe)
 
 1. Voer het installatieprogramma in recordmodus uit met de volgende opdracht:
 
-   `adobe-dynamic-media-classic-20.21.2.exe /r /f1"C:\Setup.iss"`
+   `adobe-dynamic-media-classic-20.21.3.exe /r /f1"C:\Setup.iss"`
 
 1. Voer in het venster van het GUI-installatieprogramma de stappen uit om te installeren, zodat interacties/invoer, zoals de installatielocatie, worden opgenomen in het `Setup.iss`-bestand.
 
-1. Kopieer het gemaakte `Setup.iss`-bestand en `adobe-dynamic-media-classic-20.21.2.exe` naar een andere computer.
+1. Kopieer het gemaakte `Setup.iss`-bestand en `adobe-dynamic-media-classic-20.21.3.exe` naar een andere computer.
 
 1. Voer de volgende opdracht voor een installatie op de achtergrond uit:
 
-   `adobe-dynamic-media-classic-20.21.2.exe /s /f1"C:\Setup.iss"`
+   `adobe-dynamic-media-classic-20.21.3.exe /s /f1"C:\Setup.iss"`
 
    De details over bevel-lijn parameters zijn beschikbaar bij [Setup.exe en Update.exe bevel-Lijn Parameters.](https://docs.revenera.com/installshield19helplib/helplibrary/IHelpSetup_EXECmdLine.htm)
 
@@ -193,12 +205,11 @@ Als u de nieuwste versie van de Adobe Dynamic Media Classic-bureaubladtoepassing
 
    Zie de volgende afbeelding voor de productieomgeving voor informatie over het gebruik van **[!UICONTROL Server]**:
 
-   | URL browser | Servernaam bureaubladtoepassing |
+   | Server | URL browser |
    | --- | --- |
-   | https://s7sps1.scene7.com/ | NA (Noord-Amerika) productie |
-   | https://s7sps3.scene7.com/ | Productie EMEA (Europa, Midden-Oosten en Afrika) |
-   | https://s7sps5.scene7.com/ | APAC-productie (Azië-Stille Oceaan) |
-
+   | NA Productie (Noord-Amerika) | https://s7sps1.scene7.com/ |
+   | EMEA Production (Europe, Middle East, and Africa) | https://s7sps3.scene7.com/ |
+   | APAC-productie (Azië-Stille Oceaan) | https://s7sps5.scene7.com/ |
 
 ## Video doorlopen bij gebruik van Adobe Dynamic Media Classic Desktop App {#dmc-app-video-walk-through}
 
