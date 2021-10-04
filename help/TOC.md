@@ -6,9 +6,9 @@ user-guide-title: Adobe Dynamic Media Classic Guide
 breadcrumb-title: Dynamic Media Classic Guide
 user-guide-description: Meer informatie over het gebruik van Adobe Dynamic Media Classic
 index: y
-source-git-commit: 3185824deca4d4b3c5549bda2e47f179094110e7
+source-git-commit: f92109182283f3bf046604b1b6910180f858d73e
 workflow-type: tm+mt
-source-wordcount: '778'
+source-wordcount: '775'
 ht-degree: 0%
 
 ---
@@ -164,7 +164,7 @@ ht-degree: 0%
    + [Door de gebruiker gegenereerde inhoud](about-ugc.md)
    + [Een geüpload element verwijderen](deleting-uploaded-asset.md)
    + [Schijfgebruiksgegevens ophalen](getting-disk-usage-information.md)
-   + [Een afbeeldingselement of een vectorelement uploaden](uploading-image-asset-or-vector.md)
+   + [Een rasterafbeeldingselement uploaden](uploading-image-asset-or-vector.md)
 + Master bestanden {#master-files}
    + [Aanbevolen procedures voor het optimaliseren van de kwaliteit van uw afbeeldingen](best-practices-optimizing-quality-images.md)
    + [Afbeeldingen bewerken](editing-images.md)

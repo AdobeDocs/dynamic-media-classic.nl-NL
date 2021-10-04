@@ -1,30 +1,30 @@
 ---
-title: Een afbeeldingselement of een vectorelement uploaden
-description: Leer hoe u een afbeeldingselement of een vectorelement uploadt naar Adobe Dynamic Media Classic
+title: Een rasterafbeeldingselement uploaden
+description: Leer hoe u rasterafbeeldingen kunt uploaden naar Adobe Dynamic Media Classic
 contentOwner: admin
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 feature: Dynamic Media Classic
 role: User
 exl-id: 2ef78fe6-1e7c-4f48-86da-137ddaa55bbf
-source-git-commit: 30f1aa8c30c0a1f7cf0f4298530e1e80597d7c3e
+source-git-commit: f92109182283f3bf046604b1b6910180f858d73e
 workflow-type: tm+mt
-source-wordcount: '1518'
+source-wordcount: '982'
 ht-degree: 0%
 
 ---
 
-# Een afbeeldingselement of een vectorelement uploaden{#uploading-an-image-asset-or-a-vector-asset}
+# Een rasterafbeeldingselement uploaden {#uploading-an-image-asset-or-a-vector-asset}
 
-Voordat u een afbeeldingselement kunt uploaden, vraagt u eerst om een sleutel voor een gedeeld geheim. U gebruikt deze sleutel voor gedeeld geheim om een token voor uploaden op te halen. Vervolgens gebruikt u het token voor uploaden om afbeeldingselementen of vectorelementen te uploaden.
+Voordat u een afbeeldingselement kunt uploaden, vraagt u eerst om een sleutel voor een gedeeld geheim. U gebruikt deze sleutel voor gedeeld geheim om een token voor uploaden op te halen. Vervolgens gebruikt u het uploadtoken om rasterafbeeldingselementen te uploaden.
 
 >[!IMPORTANT]
 >
->De ondersteuning voor nieuwe of bestaande UGC-vectorafbeeldingselementen in Adobe Dynamic Media Classic loopt af op 30 september 2021.
+>Ondersteuning voor nieuwe of bestaande UGC-vectorelementen in Adobe Dynamic Media Classic beëindigd op 30 september 2021.
 
 ## Een gedeelde geheime sleutel aanvragen {#requesting-a-shared-secret-key}
 
-Vraag een *gedeelde-geheime sleutel* door [gebruikend de Admin Console om een steungeval tot stand te brengen.](https://helpx.adobe.com/enterprise/admin-guide.html/enterprise/using/support-for-experience-cloud.ug.html) In uw steungeval, verzoek om een gedeelde geheime sleutel.
+Vraag een *gedeelde-geheime sleutel* door [gebruikend de Admin Console om een steungeval tot stand te brengen.](https://helpx.adobe.com/enterprise/using/support-for-experience-cloud.html) In uw steungeval, verzoek om een gedeelde geheime sleutel.
 
 Geef in het e-mailbericht de bedrijfsnaam op die u wilt gebruiken om afbeeldingselementen te uploaden. Nadat u de sleutel van Adobe Dynamic Media Classic ontvangt, bewaar het plaatselijk voor toekomstig gebruik.
 
@@ -34,11 +34,11 @@ Met de *upload-token* kan niemand dezelfde sleutel voor gedeeld geheim gebruiken
 
 Het uploadtoken is een alfanumerieke tekenreeks die alleen voor een bepaalde hoeveelheid tijd beschikbaar is. Gebruik de volgende URL&#39;s, waarbij u de sleutel voor een gedeeld geheim vervangt, zodat u het token voor uploaden kunt ophalen.
 
-* Afbeelding
+* Rasterafbeelding
    `https://s7ugc1.scene7.com/ugc/image?op=get_uploadtoken&shared_secret=fece4b21-87ee-47fc-9b99-2e29b78b602`In dit voorbeeld is de sleutel voor gedeeld geheim  `fece4b21-87ee-47fc-9b99-2e29b78b602`
 
-* Vector
-   `https://s7ugc1.scene7.com/ugc/vector?op=get_uploadtoken&shared_secret=2d19f60e-890a-4e79-a1a5-9ac2875429b9`In dit voorbeeld is de sleutel voor gedeeld geheim  `2d19f60e-890a-4e79-a1a5-9ac2875429b9`
+<!-- * Vector
+  `https://s7ugc1.scene7.com/ugc/vector?op=get_uploadtoken&shared_secret=2d19f60e-890a-4e79-a1a5-9ac2875429b9`In this example, the shared-secret key is `2d19f60e-890a-4e79-a1a5-9ac2875429b9` -->
 
 Standaard verloopt het uploadtoken vijf minuten (300 seconden) nadat u het hebt opgehaald. Als u meer tijd wilt aanvragen, neemt u `expires` op in de URL en neemt u de hoeveelheid tijd op die u nodig hebt in seconden. Met de volgende voorbeeldafbeelding haalt u bijvoorbeeld een uploadtoken op dat 1800 seconden geldig is:
 
@@ -77,13 +77,13 @@ U kunt de volgende velden in de URL-queryreeks gebruiken om een token voor uploa
 | shared_geheime | Vereist | De sleutel van het gedeelde geheim voor het bedrijf dat uploadt. |
 | verloopt | Optioneel | Aantal seconden dat de uploadtoken geldig is. De standaardwaarde is 300 seconden, als deze niet is opgegeven. |
 
-**URL van voorbeeldafbeelding:**
+**Voorbeeld van URL van rasterafbeelding:**
 
 `https://s7ugc1.scene7.com/ugc/image?op=get_uploadtoken&shared_secret=fece4b21-87ee-47fc-9b99-2e29b78b602&expires=600`
 
-**Voorbeeld-URL voor vector:**
+<!-- **Sample vector URL:**
 
-`https://s7ugc1.scene7.com/ugc/vector?op=get_uploadtoken&shared_secret=2d19f60e-890a-4e79-a1a5-9ac2875429b9&expires=5000`
+`https://s7ugc1.scene7.com/ugc/vector?op=get_uploadtoken&shared_secret=2d19f60e-890a-4e79-a1a5-9ac2875429b9&expires=5000` -->
 
 **Toegestane HTTP-methoden:**
 `GET` en  `POST`
@@ -92,7 +92,7 @@ U kunt nu een afbeeldingselement uploaden.
 
 Zie [Een afbeeldingselement uploaden](uploading-image-asset-or-vector.md#uploading_an_image_asset).
 
-## Een afbeeldingselement uploaden {#uploading-an-image-asset}
+## Een rasterafbeeldingselement uploaden {#uploading-an-image-asset}
 
 Nadat u een uploadtoken hebt opgehaald dat gedurende een bepaalde periode geldig is, kunt u een afbeeldingselement uploaden. U uploadt het element als multipart/form post terwijl het verzenden van de rest waarden als URL vraagkoord, zoals aangetoond in dit voorbeeld:
 
@@ -119,7 +119,7 @@ Er wordt een algemene limiet ingesteld in de toepassing voor de maximale bestand
 | Globale limiet | Waarde |
 | --- | --- |
 | Bestandsgrootte voor alle clients | 20 MB |
-| Ondersteunde bestandsindelingen voor afbeeldingen die u wilt uploaden | BMP, GIF, JPG, PNG, PSD |
+| Ondersteunde bestandsindelingen voor afbeeldingen die u wilt uploaden | BMP, GIF, JPG, PNG, PSD, TIFF |
 
 In het volgende HTML-formulier kan een gebruiker een element uploaden. In het formulier wordt de gebruiker gevraagd de volgende gegevens in te voeren:
 
@@ -131,16 +131,6 @@ In het volgende HTML-formulier kan een gebruiker een element uploaden. In het fo
 * Of de achtergrond uitnemen moet worden gebruikt. Als u Achtergrond uitnemen inschakelt, stelt u de Hoek, Tolerantie en Vulmethode in.
 Zie Achtergrond uitnemen in [Opties voor het perfectioneren van afbeeldingen bij het uploaden](image-editing-options-upload.md#image-editing-options-at-upload).
 * De naam van het bestand dat moet worden geüpload.
-
-<!-- 
-
-Comment Type: remark
-Last Modified By: unknown unknown 
-Last Modified Date: 
-
-<p>Art Spec: If not leaving art spec, delete only the first of the 2 &lt;draft-comment> elements under &lt;adobefig>.</p>
-
- -->
 
 U kunt de HTML-broncode bekijken die aan het bovenstaande formulier is gekoppeld door [https://s7ugc1.scene7.com/ugc/upload.html](https://s7ugc1.scene7.com/ugc/upload.html) te selecteren
 
@@ -252,61 +242,51 @@ U kunt de volgende velden in de URL-queryreeks gebruiken om informatie voor een 
 
 GET en POST
 
-## Een vectorelement uploaden {#uploading-a-vector-asset}
+<!-- ## Upload a vector asset {#uploading-a-vector-asset}
 
 >[!IMPORTANT]
 >
->De ondersteuning voor nieuwe of bestaande UGC-vectorafbeeldingselementen in Adobe Dynamic Media Classic loopt af op 30 september 2021.
+>Support for new or existing UGC vector image assets in Adobe Dynamic Media Classic end on September 30, 2021.
 
-Nadat u een uploadtoken hebt opgehaald dat gedurende een bepaalde periode geldig is, kunt u een vectorelement uploaden. U uploadt het element als multipart/form post terwijl het verzenden van de rest waarden als URL vraagkoord, zoals aangetoond in dit voorbeeld:
+After you retrieve an upload token that is valid for a specific amount of time, you can upload a vector asset. You upload the asset as a multipart/form post while sending the rest of the values as a URL query string, as shown in this example:
 
 ```as3
 https://s7ugc1.scene7.com/ugc/image?op=upload&upload_token=aa2a378a-cd25-4c80-994d- 312094e0ef20_18000&company_name=000Company
 ```
 
-De velden `upload_token` en `company_name` zijn vereist.
+The `upload_token` and `company_name` fields are required.
 
-Zie [De uploadtoken](uploading-image-asset-or-vector.md#retrieving_the_upload_token) ophalen.
+See [Retrieve the upload token](uploading-image-asset-or-vector.md#retrieving_the_upload_token).
 
-Zie [Een sleutel van een gedeeld geheim ophalen](uploading-image-asset-or-vector.md#requesting_a_shared_secret_key).
+See [Retrieve a shared-secret key](uploading-image-asset-or-vector.md#requesting_a_shared_secret_key).
 
-U kunt ook andere optionele waarden verzenden als URL-querytekenreeksen, zoals in dit voorbeeld:
+You can also send other optional values as URL query strings, as in this example:
 
 ```as3
 https://s7ugc1.scene7.com/ugc/vector?op=upload&upload_token=aa2a378a-cd25-4c80-994d- 312094e0ef20_18000&company_name=000Company&file_limit=2000000&file_exts=ai,pdf
 ```
 
-Met de parameter `file_limit` wordt de maximale bestandsgrootte in bytes opgegeven. Met de parameter `file_exts` worden de bestandsextensies opgegeven die mogen worden geüpload. Beide waarden zijn optioneel.
+The `file_limit` parameter specifies the file-size limit in bytes. The `file_exts` parameter specifies the filename extensions that are allowed for upload. Both of these values are optional.
 
-Er wordt een algemene limiet ingesteld in de toepassing voor de maximale bestandsgrootte en de toegestane bestandsextensies. Als wat u in het verzoek verzendt een ondergroep van de globale grenzen is, wordt het geëerd. De globale limieten zijn als volgt:
+A global limit is set in the application for the file size limit and the filename extensions allowed. If what you send in the request is a subset of the global limits, it is honored. The global limits are the following:
 
-| Globale limiet | Waarde |
+| Global limit | Value |
 | --- | --- |
-| Bestandsgrootte voor alle clients | 20 MB |
-| Ondersteunde vectorbestandsindelingen voor uploaden | AI, EPS, PDF (alleen wanneer de PDF eerder is geopend en opgeslagen in Adobe Illustrator CS6) |
+| File size for all clients | 20 MB |
+| Supported vector file formats for upload | AI, EPS, PDF (only when the PDF is previously opened and saved in Adobe Illustrator CS6) |
 
-In het volgende HTML-formulier kan een gebruiker een element uploaden. In het formulier wordt de gebruiker gevraagd de volgende gegevens in te voeren:
+The following HTML form lets a user upload an asset. The form asks the user to enter the following information:
 
-* Een bedrijfsnaam.
-* Een token voor uploaden.
-* Een maximale bestandsgrootte.
-* Een lijst met bestandsextensies.
-* Of het kleurprofiel en de bestandsnaam die aan het element zijn gekoppeld, behouden moeten blijven.
-* Of de achtergrond uitnemen moet worden gebruikt. Als u Achtergrond uitnemen inschakelt, stelt u de Hoek, Tolerantie en Vulmethode in.
-Zie Achtergrond uitnemen in [Opties voor het perfectioneren van afbeeldingen bij het uploaden](image-editing-options-upload.md#image-editing-options-at-upload).
-* De naam van het bestand dat moet worden geüpload.
+* A company name.
+* An upload token.
+* A file size limit.
+* A list of filename extensions.
+* Whether to preserve the color profile and file name associated with the asset.
+* Whether to use Knockout Background. If you enable Knockout Background, set the Corner, Tolerance, and Fill Method.
+See Knockout Background in [Image fine-tuning options at upload](image-editing-options-upload.md#image-editing-options-at-upload).
+* The name of the file to upload.
 
-<!-- 
-
-Comment Type: remark
-Last Modified By: unknown unknown 
-Last Modified Date: 
-
-<p>Art Spec: If not leaving art spec, delete only the first of the 2 &lt;draft-comment> elements under &lt;adobefig>.</p>
-
- -->
-
-De volgende HTML-code wordt weergegeven wanneer u met de rechtermuisknop in het browservenster klikt en vervolgens **[!UICONTROL View Source]** selecteert voor het formulier dat in het voorbeeld wordt weergegeven. De code toont het overeenkomstige URL vraagkoord en de methode van de POST die in werking worden gesteld wanneer de gebruiker **[!UICONTROL Submit]** selecteert.
+The following HTML code is displayed when you right-click in the browser window, and then select **[!UICONTROL View Source]** for the form shown in the example. The code shows the corresponding URL query string and the POST method that are run when the user selects **[!UICONTROL Submit]**.
 
 ```as3
 <body> 
@@ -340,9 +320,9 @@ return true;
 </body>
 ```
 
-Als u de XML-reactie wilt weergeven in Internet Explorer, gaat u naar **[!UICONTROL View]** > **[!UICONTROL Source]**. Als u de XML-reactie in Firefox wilt weergeven, gaat u naar **[!UICONTROL Tools]** > **[!UICONTROL Browser Tools]** > **[!UICONTROL Page Source]**. Firefox wordt aanbevolen voor het weergeven van XML-reacties.
+To view the XML response in Internet Explorer, go to **[!UICONTROL View]** > **[!UICONTROL Source]**. To view XML response in Firefox, go to **[!UICONTROL Tools]** > **[!UICONTROL Browser Tools]** > **[!UICONTROL Page Source]**. Firefox is recommended for viewing XML responses.
 
-Hier volgt een voorbeeldreactie van een geslaagde upload:
+The following is a sample response from a successful upload:
 
 ```as3
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?> 
@@ -368,32 +348,33 @@ Hier volgt een voorbeeldreactie van een geslaagde upload:
 
 >[!NOTE]
 >
->Het geüploade element (AI, EPS, PDF enzovoort) wordt geconverteerd naar de FXG-indeling en het antwoord verstuurt een directe koppeling naar dat FXG-element.
+>The uploaded asset (AI, EPS, PDF so on) is converted to the FXG format and the response sends a direct link to that FXG asset.
 
-Het middel is als elke andere Web-aan-druk middel; als u er verwerkingsquery&#39;s op toepast. De volgende URL converteert bijvoorbeeld een FXG-bron naar een afbeelding van 500 x 500 png.
+The asset is like any other Web-to-print resource; you apply processing queries to it. For example, the following URL converts an FXG resource into a 500x500 png image.
 
 ```as3
 https://s7w2p1.scene7.com/is/agm/W2PTest/ugc/8875744.fxg?fmt=png&wid=500&hei=500
 ```
 
-Verzend het element dat u wilt uploaden als multipart/form-post terwijl u de overige waarden verzendt als een URL-queryreeks. U kunt de volgende velden in de URL-queryreeks gebruiken om een element te uploaden:
+Send the asset to upload as a multipart/form post while sending the rest of the values as a URL query string. You can use the following fields in the URL query string to upload an asset:
 
-| URL-parameter | Vereist of optioneel | Waarde |
+| URL Parameter | Required or Optional | Value |
 | --- | --- | --- |
-| `op` | Vereist | uploaden |
-| `upload_token` | Vereist | Upload token voor de sleutel voor gedeeld geheim die aan het bedrijf is gekoppeld. |
-| `company_name` | Vereist | Naam van het bedrijf dat de upload uitvoert. |
-| `file_limit` | Optioneel | Bestandsgroottelimiet, in bytes, voor het element. |
-| `file_exts` | Optioneel | Lijst met toegestane extensies voor het elementbestand. |
+| `op` | Required | upload |
+| `upload_token` | Required | Upload token for the shared-secret key associated with the company. |
+| `company_name` | Required | Name of the company performing the upload. |
+| `file_limit` | Optional | File size limit, in bytes, for the asset. |
+| `file_exts` | Optional | List of allowable extensions for the asset file. |
 
 >[!NOTE]
 >
->U moet het te uploaden element verzenden als het enige veld in een aanvraag voor een multipart-POST.
+>You are required to send the asset to be uploaded as the only field in a multipart POST request.
 
-**Voorbeeld-URL:**
+**Sample URL:**
 
 `https://s7ugc1.scene7.com/ugc/vector?op=upload&upload_to ken=aa2a378a-cd25-4c80-994d- 312094e0ef20_18000&company_name=000Company`
 
-**Toegestane HTTP-methode:**
+**Allowed HTTP method:**
 
 POST
+ -->

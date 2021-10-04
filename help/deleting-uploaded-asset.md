@@ -9,9 +9,9 @@ discoiquuid: dd338c8c-06c6-44d5-8493-dc2087eeeafb
 feature: Dynamic Media Classic
 role: User
 exl-id: d845bcb2-f914-4727-8df2-049dc172f266
-source-git-commit: 30f1aa8c30c0a1f7cf0f4298530e1e80597d7c3e
+source-git-commit: f92109182283f3bf046604b1b6910180f858d73e
 workflow-type: tm+mt
-source-wordcount: '114'
+source-wordcount: '102'
 ht-degree: 0%
 
 ---
@@ -48,16 +48,18 @@ U kunt de volgende velden in de URL-queryreeks gebruiken om een element te verwi
 | --- | --- | --- |
 | `op` | Vereist | delete |
 | `shared_secret` | Vereist | De gedeelde geheime sleutel voor het bedrijf. |
-| <ul><li>Voor afbeeldingen:image_name</li><li>Voor Vector:fxg_name</li></ul> | Vereist | Naam van het element dat moet worden verwijderd. |
+| `image_name` | Vereist | Naam van het element dat moet worden verwijderd. |
+
+<!-- <li>For Vector:fxg_name</li> -->
 
 >[!IMPORTANT]
 >
->De ondersteuning voor nieuwe of bestaande UGC-vectorafbeeldingselementen in Adobe Dynamic Media Classic loopt af op 30 september 2021.
+>Ondersteuning voor nieuwe of bestaande UGC-elementen voor vectorafbeeldingen in Adobe Dynamic Media Classic is beëindigd op 30 september 2021.
 
 **URL van voorbeeldafbeelding:**
 
 `https://s7ugc1.scene7.com/ugc/image?op=delete&shared_secret=fece4b21-87ee-47fc-9b99-2e29b78b602&image_name=1442564.tif`
 
-**Voorbeeld-URL voor vector:**
+<!-- **Sample vector URL:**
 
-`https://s7ugc1.scene7.com/ugc/vector?op=delete&shared_secret=2160a8fa-cec6-45ba-8d59- ca595f6d2b47& &fxg_name=8875744.fxg`
+`https://s7ugc1.scene7.com/ugc/vector?op=delete&shared_secret=2160a8fa-cec6-45ba-8d59- ca595f6d2b47& &fxg_name=8875744.fxg` -->
