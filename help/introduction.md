@@ -1,20 +1,20 @@
 ---
 title: Adobe Dynamic Media Classic Help
-description: Welkom bij Adobe Adobe Dynamic Media Classic, het toonaangevende publicatiesysteem voor verschillende media op aanvraag voor het uploaden, beheren, verbeteren en publiceren van dynamische rijke inhoud naar alle apparaten en schermen.
+description: Welkom bij Adobe Dynamic Media Classic, het toonaangevende publicatiesysteem voor verschillende media op aanvraag voor het uploaden, beheren, verbeteren en publiceren van dynamische rijke inhoud naar alle apparaten en schermen.
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 feature: Dynamic Media Classic
 role: Admin,User
 exl-id: 7bf94d8c-23ff-4a43-83cc-7e6879a7cded
-source-git-commit: 352b1c383195fa03294ad3501207d63f3cfe3e42
+source-git-commit: 2616c067215196e8145043ba57fba1e3a5667cdc
 workflow-type: tm+mt
-source-wordcount: '445'
+source-wordcount: '443'
 ht-degree: 0%
 
 ---
 
 # Adobe Dynamic Media Classic Help {#scene7-overview}
 
-Welkom bij Adobe Adobe Dynamic Media Classic, het toonaangevende publicatiesysteem voor verschillende media op aanvraag voor het uploaden, beheren, verbeteren en publiceren van dynamische rijke inhoud naar alle apparaten en schermen. De oplossingen van Adobe Dynamic Media Classic omvatten het volgende:
+Welkom bij Adobe Dynamic Media Classic, het toonaangevende publicatiesysteem voor verschillende media op aanvraag voor het uploaden, beheren, verbeteren en publiceren van dynamische rijke inhoud naar alle apparaten en schermen. De oplossingen van Adobe Dynamic Media Classic omvatten het volgende:
 
 * Dynamic Imaging: Realtime bewerken, opmaken en vergroten/verkleinen, interactief zoomen en pannen; kleurwaarneming en structuurobservatie; 360° centrifugeren; afbeeldingssjablonen; multimediaviewers.
 * eCatalogi: Auteur, hotspot het verbinden, onderzoek-toegelaten, publiceer, en lever dynamisch gediende online catalogi in configureerbare kijkers.

@@ -10,9 +10,9 @@ discoiquuid: 2b134cfa-7f46-4f5f-959e-b30aae610bb9
 feature: Dynamic Media Classic
 role: Admin,User
 exl-id: ac50cb9c-fd87-4608-80cb-8d40a0b8f131
-source-git-commit: 352b1c383195fa03294ad3501207d63f3cfe3e42
+source-git-commit: 2616c067215196e8145043ba57fba1e3a5667cdc
 workflow-type: tm+mt
-source-wordcount: '530'
+source-wordcount: '527'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ De belangrijkste Adobe Dynamic Media Classic-workflowstappen zijn:
 
 * **Rijke media**  maken - verschillende configuraties van uw elementen maken, zoals eCatalogi, Afbeeldingssets, Draaisets, Staalsets, Gemengde Mediasets, Standaardsjablonen en FXG-sjablonen.
 
-* **Publiceer en beheer**  - publiceer activa aan het netwerk van Adobe Dynamic Media Classic SaaS, evenals controleer de status van activa wanneer zij worden gepubliceerd, beheer gebruikersrechten, en handhaaf veiligheid.
+* **Publiceer en beheer**  - publiceer activa aan het netwerk van Adobe Dynamic Media Classic SaaS. De status van elementen controleren wanneer deze worden gepubliceerd. Gebruikersrechten beheren en de beveiliging handhaven.
 
 * **server** : media leveren van het Adobe Dynamic Media Classic SaaS-netwerk naar webpagina&#39;s, toepassingen en mobiele apparaten; de media zijn geoptimaliseerd voor prestaties en worden geleverd met CDN-caching. Adobe Dynamic Media Classic biedt u een URL voor elk element. Nadat u het element hebt gepubliceerd, wordt de URL actief.
 
