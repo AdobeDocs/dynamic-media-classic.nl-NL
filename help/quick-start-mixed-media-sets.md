@@ -1,6 +1,6 @@
 ---
 title: '"Snel starten: Gemengde mediaset"'
-description: Een inleiding en Snel Begin aan Gemengde Reeksen van Media om u te helpen snel in Adobe Dynamic Media Klassiek aan de slag gaan.
+description: Een inleiding en Snel beginnen aan Gemengde Reeksen van Media om u te helpen snel in Adobe Dynamic Media Classic aan de slag gaan.
 uuid: 0ef033d5-b053-4d7c-b1e1-1980f899fd88
 contentOwner: admin
 content-type: reference
@@ -10,9 +10,9 @@ discoiquuid: 2708d077-94fc-4045-8992-ad3589ed9cfd
 feature: Dynamic Media Classic,Viewers,Mixed Media Sets
 role: User
 exl-id: 757893ae-7507-42a0-a67b-f6542e7231c7
-source-git-commit: 36f9aa3c2b4dc66e4cb851c2ce6837ae0ad4f64c
+source-git-commit: 352b1c383195fa03294ad3501207d63f3cfe3e42
 workflow-type: tm+mt
-source-wordcount: '632'
+source-wordcount: '692'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Met gemengde mediasets hebben gebruikers een geïntegreerde kijkervaring. De gem
 
 Voorinstellingen voor gemengde mediaset voor viewers bevatten gemeenschapsopties waarmee eindgebruikers code kunnen insluiten, URL&#39;s kunnen kopiëren en een koppeling naar de hoofdwebsite kunnen maken. Gebruikers kunnen deze opties gebruiken om informatie over producten te delen op hun persoonlijke websites of sociale netwerksites.
 
-Dit Gemengde Snel Begin van de Plaatsen van Media wordt ontworpen om snel met Gemengde Media te worden in werking gesteld - vastgestelde technieken in Adobe Dynamic Media Klassiek.
+Deze gemengde Mediasets Snel starten is ontworpen om u snel aan de slag te krijgen met gemengde mediasettechnieken in Adobe Dynamic Media Classic.
 
 ## 1. De afbeeldingen, staalbestanden en video&#39;s uploaden
 
@@ -52,6 +52,8 @@ Adobe Dynamic Media Classic wordt geleverd met standaardviewervoorinstellingen v
 Als u een voorinstelling voor een gemengde mediaset van de viewer instelt, voegt u de voorinstellingen van de viewer toe voor alle andere elementen in de set. Als uw gemengde mediaset bijvoorbeeld video&#39;s bevat, voegt u een videoviewer-voorinstelling toe aan de voorinstelling voor de gemengde mediaset. U kunt ook een soundtrack toevoegen aan de viewer. Deze soundtrack wordt afgespeeld terwijl de viewer geopend is, maar wordt niet afgespeeld wanneer een video actief is.
 
 Zie [Een voorinstelling voor een gemengde mediaset instellen voor de viewer](setting-mixed-media-set-viewer.md#setting-up-a-mixed-media-set-viewer-preset) en [Viewer-voorinstellingen maken en bewerken](application-setup.md#adding-and-editing-viewer-presets).
+
+Zie ook [Viewer presets](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&amp;emailurl=https://s7d5.scene7.com/s7/emailFriend&amp;serverUrl=https://s7d5.scene7.com/is/image/&amp;config=Scene7SharedAssets/Universal_HTML5_Video&amp;contenturl=https://s7d5.scene7.com/skins/&amp;asset=S7tutorials/550_viewer-presets_converted%20renamed_Done-AVS) trainingsvideo.
 
 ## 5. Een voorvertoning van een gemengde mediaset weergeven
 

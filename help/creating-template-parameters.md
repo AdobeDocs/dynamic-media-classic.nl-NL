@@ -10,9 +10,9 @@ discoiquuid: d263f041-5a0d-4c4f-9266-aeff51a5a7e2
 feature: Dynamic Media Classic
 role: User
 exl-id: 118806ea-c8a7-4aaf-9ae3-739c6b04ea77
-source-git-commit: 1d71cbe6e2493ac8d47e837a20e194b6ae7a22d4
+source-git-commit: 352b1c383195fa03294ad3501207d63f3cfe3e42
 workflow-type: tm+mt
-source-wordcount: '776'
+source-wordcount: '837'
 ht-degree: 0%
 
 ---
@@ -26,6 +26,8 @@ Wanneer u malplaatjeparameters creeert, verklaart u in feite welke delen van het
 In tekstlaagparameters kunt u de tekstreeks ook een dynamisch veld maken dat is gekoppeld aan waarden in een database. Het is bijvoorbeeld handig om tekst aan een database te koppelen in promoties. U kunt sjabloonafbeeldingen aanpassen zodat ze de naam van de klant of de klant weergeven. U kunt een parameter van de tekstlaag aan een prijsgegevensbestand ook verbinden om de prijs van een punt in een malplaatjebeeld te tonen.
 
 U kunt meerdere keren naar een parameter verwijzen. Gebruik de keuzelijst met invoervak voor elke opdracht in het parameterdialoogvenster om een parameter te selecteren die overeenkomt met die opdracht. Alle grootteparameters zijn bijvoorbeeld beschikbaar voor de opdracht `size=`. U kunt de parameterverwijzing aan om het even welke parameter opnieuw toewijzen reeds in de combodoos, en aan iets anders noemen niet in de combodoos. In het laatste geval moet de naam uniek zijn. Anders geeft een fout aan dat de parameter bestaat. Wanneer u een parameterverwijzing verwijdert, wordt de parameter verwijderd uit de URL als nergens anders naar wordt verwezen. Wanneer u de standaardwaarde voor een tekstparameter wijzigt, worden alle verwijzingen naar die parameter bijgewerkt. U kunt de update in de laaglijst, in het teruggeven van het malplaatje, en in URL zien. Wanneer u een laagkenmerk wijzigt door grepen vergroten/verkleinen of waarden in het deelvenster Eigenschappen te typen, wordt de parameterwaarde bijgewerkt en worden alle verwijzingen naar de parameter bijgewerkt. Als u bijvoorbeeld de grootte van twee lagen hebt bepaald met behulp van één parameter, worden beide laaggrootten bijgewerkt wanneer een van de laaggrootten wordt gewijzigd. Wanneer u een voorbeeld van een sjabloon bekijkt en een parameter wijzigt, worden alle verwijzingen naar die parameter bijgewerkt.
+
+Zie ook [Sjabloongrondbeginselen](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&amp;emailurl=https://s7d5.scene7.com/s7/emailFriend&amp;serverUrl=https://s7d5.scene7.com/is/image/&amp;config=Scene7SharedAssets/Universal_HTML5_Video&amp;contenturl=https://s7d5.scene7.com/skins/&amp;asset=S7tutorials/553_Template%20Basics_converted%20renamed_Dynamic%20Banners-AVS) trainingsvideo.
 
 ## Een laag waarderen {#parameterizing-a-layer}
 

@@ -10,9 +10,9 @@ discoiquuid: 559c986d-313d-46df-a5ff-0b49316ad3a7
 feature: Dynamic Media Classic,Viewers,Zoom
 role: User
 exl-id: eae35207-000c-4ced-b9ab-714c2384a9e7
-source-git-commit: 36f9aa3c2b4dc66e4cb851c2ce6837ae0ad4f64c
+source-git-commit: 352b1c383195fa03294ad3501207d63f3cfe3e42
 workflow-type: tm+mt
-source-wordcount: '801'
+source-wordcount: '925'
 ht-degree: 0%
 
 ---
@@ -21,15 +21,17 @@ ht-degree: 0%
 
 Met Zoomen kunt u op interactieve wijze details met een hoge resolutie weergeven in afbeeldingen. U kunt bijvoorbeeld de kleuren, opties, hoeken en details van een afbeelding bekijken in een dynamische, volledig configureerbare, geïntegreerde viewer. Deze viewer kan op een webpagina worden ingesloten of in een pop-upvenster worden weergegeven. U kunt afbeeldingen van dichtbij controleren en afbeeldingen met hoge resoluties pannen om ze nauwkeurig te bekijken. Zooming biedt uw klanten een aantrekkelijke, informatieve en interactieve kijkervaring.
 
-Met Adobe Dynamic Media Classic kunt u ook met instructies zoomen, zodat u de belangrijkste functies van een afbeelding kunt markeren. Als u bijvoorbeeld de aandacht van kijkers op een logo wilt richten, kunt u een zoomdoel voor het logo maken. Wanneer gebruikers dit zoomdoel selecteren, zoomen ze op het logo.
+Adobe Dynamic Media Classic beschikt ook over Bewerken met instructies voor zoomen. Hiermee kunt u de belangrijke functies in een afbeelding benadrukken. Als u bijvoorbeeld de aandacht van kijkers op een logo wilt richten, kunt u een zoomdoel voor het logo maken. Wanneer gebruikers dit zoomdoel selecteren, zoomen ze op het logo.
 
-Alle zoomafbeeldingen worden gemaakt en aangeboden op basis van afzonderlijke master afbeeldingen, afbeeldingen en databasegestuurde kenmerken. Adobe Dynamic Media Classic zooming verlaagt aanzienlijk de tijd en kosten voor het maken en leveren van afbeeldingen. Met Zoomviewers kunt u in- en uitzoomen op afbeeldingen. De zoomviewer bevat knoppen die u kunt selecteren om te zoomen en te pannen; u kunt ook pannen door op het scherm te slepen. Met Voorinstellingen van Zoomviewer kunt u de zoomviewer configureren waarin u in- en uitzoomafbeeldingen kunt inzoomen.
+Alle zoomafbeeldingen worden gemaakt en aangeboden op basis van afzonderlijke master afbeeldingen, afbeeldingen en databasegestuurde kenmerken. Met Adobe Dynamic Media Classic zooming worden de tijd en kosten voor het maken en leveren van afbeeldingen aanzienlijk verminderd. Met Zoomviewers kunt u in- en uitzoomen op afbeeldingen. De zoomviewer bevat knoppen die u kunt selecteren om te zoomen en te pannen; u kunt ook pannen door op het scherm te slepen. Met Voorinstellingen van Zoomviewer kunt u de zoomviewer configureren waarin u in- en uitzoomafbeeldingen kunt inzoomen.
 
-Deze zoomfunctie Snel starten is ontworpen om snel aan de slag te gaan met Zoomtechnieken in Adobe Dynamic Media Classic. Voer stap 1 tot en met 6 uit. Na elke stap is een verwijzing naar een onderwerprubriek waar u meer informatie kunt vinden.
+Zie [Zoomdoel: Dynamic Imaging](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&amp;emailurl=https://s7d5.scene7.com/s7/emailFriend&amp;serverUrl=https://s7d5.scene7.com/is/image/&amp;config=Scene7SharedAssets/Universal_HTML5_Video&amp;contenturl=https://s7d5.scene7.com/skins/&amp;asset=S7tutorials/559_Zoom%20Target%20Tool_converted%20renamed_Dynamic%20Imaging-AVS) en [Zoomen: Dynamic Imaging](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&amp;emailurl=https://s7d5.scene7.com/s7/emailFriend&amp;serverUrl=https://s7d5.scene7.com/is/image/&amp;config=Scene7SharedAssets/Universal_HTML5_Video&amp;contenturl=https://s7d5.scene7.com/skins/&amp;asset=S7tutorials/560_Zoom_converted%20renamed_Dynamic%20Imaging-AVS) trainingsvideo&#39;s.
+
+De volgende Zoom Quick Start is ontworpen om u snel aan de slag te krijgen met Zoomtechnieken in Adobe Dynamic Media Classic. Voer stap 1 tot en met 6 uit. Na elke stap is een verwijzing naar een onderwerprubriek waar u meer informatie kunt vinden.
 
 ## 1. Zoomafbeeldingen uploaden
 
-Begin door uw zoomafbeeldingen te uploaden naar Adobe Dynamic Media Classic. Voor optimaal zoomen, adviseert Adobe Dynamic Media Classic dat de beelden minstens 2000 pixel in de langste grootte zijn.
+Begin door uw zoomafbeeldingen naar Adobe Dynamic Media Classic te uploaden. Voor optimaal zoomen raadt Adobe Dynamic Media Classic aan dat de afbeeldingen ten minste 2000 pixels groot zijn.
 
 Selecteer **[!UICONTROL Upload]** op de algemene navigatiebalk om afbeeldingen van uw computer of netwerk te uploaden naar een map op Adobe Dynamic Media Classic. Zie [Zoomafbeeldingen uploaden](uploading-zoom-images.md#uploading_zoom_images).
 

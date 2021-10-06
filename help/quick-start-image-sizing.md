@@ -10,28 +10,30 @@ discoiquuid: dcaa9b21-b925-4dbb-865e-7918cdbda50c
 feature: Dynamic Media Classic,Asset Management
 role: User
 exl-id: f1d46f03-57a1-43d8-a0ee-74b92b590736
-source-git-commit: 36f9aa3c2b4dc66e4cb851c2ce6837ae0ad4f64c
+source-git-commit: 352b1c383195fa03294ad3501207d63f3cfe3e42
 workflow-type: tm+mt
-source-wordcount: '844'
+source-wordcount: '907'
 ht-degree: 0%
 
 ---
 
 # Snel starten: Afbeeldingsgrootte{#quick-start-image-sizing}
 
-Afbeeldingsgrootte heeft betrekking op de mogelijkheid van Adobe Dynamic Media Classic om meerdere afgeleide afbeeldingen te maken op basis van één afbeelding met hoge resolutie. In plaats van handmatig meerdere afbeeldingen voor uw website of toepassing te maken, bijvoorbeeld een miniatuur en een afbeelding in een vergrote weergave, geeft u één master afbeelding op. Adobe Dynamic Media Classic genereert alle gewijzigde afbeeldingen op dezelfde manier als u ze aanvraagt. Het dynamisch leveren van afbeeldingen op basis van één master afbeelding heeft veel voordelen:
+Afbeeldingsgrootte heeft betrekking op de mogelijkheid van Adobe Dynamic Media Classic om meerdere afgeleide afbeeldingen te maken op basis van één afbeelding met hoge resolutie. In plaats van handmatig meerdere afbeeldingen voor uw website of toepassing te maken, bijvoorbeeld een miniatuur en een afbeelding in een vergrote weergave, geeft u één master afbeelding op. Adobe Dynamic Media Classic genereert alle gewijzigde afbeeldingen op dezelfde manier als u ze vraagt. Het dynamisch leveren van afbeeldingen op basis van één master afbeelding heeft veel voordelen:
 
-* U hoeft niet handmatig meerdere exemplaren van de afbeelding met verschillende grootten te maken. U levert één master afbeelding aan Adobe Dynamic Media Classic en Adobe Dynamic Media Classic genereert derivaten van verschillende grootte uit de master afbeelding.
+* U hoeft niet handmatig meerdere exemplaren van de afbeelding met verschillende grootten te maken. U levert één master afbeelding aan Adobe Dynamic Media Classic en Adobe Dynamic Media Classic genereert derivaten van verschillende grootte van de master afbeelding.
 * U kunt de grootte van een afbeeldingstype snel wijzigen op uw website of in de toepassing. Als u bijvoorbeeld alle miniatuurafbeeldingen wilt wijzigen, kunt u de voorinstelling &quot;miniatuurafbeelding&quot; wijzigen. Een voorinstelling voor afbeeldingen, die lijkt op een macro, is een verzameling kenmerken voor grootte en opmaak. U kunt de voorinstelling &quot;miniatuurafbeelding&quot; wijzigen om de grootte van alle miniatuurafbeeldingen te wijzigen op de hele website of in de toepassing.
 * U hoeft de stramienen en alle verschillende derivaten niet intern of extern te beheren in een van uw systemen voor inhoud of middelenbeheer.
 
 ![U kunt meerdere afgeleide afbeeldingen maken met een verschillende grootte en hetzelfde master bestand met hoge resolutie.](/help/assets/is_derivative_sizes_popup.png)
 
-Deze Snel starten met afbeeldingsgrootte is ontworpen om u te helpen snel aan de slag te gaan met technieken voor afbeeldingsgrootte in Adobe Dynamic Media Classic. Voer de stappen 1 tot en met 5 uit. Na elke stap is een kruisverwijzing waar u meer informatie kunt vinden als u die nodig hebt.
+Zie [Afbeeldingsgrootte: Dynamic Imaging](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&amp;emailurl=https://s7d5.scene7.com/s7/emailFriend&amp;serverUrl=https://s7d5.scene7.com/is/image/&amp;config=Scene7SharedAssets/Universal_HTML5_Video&amp;contenturl=https://s7d5.scene7.com/skins/&amp;asset=S7tutorials/557_Image%20Sizing_converted%20renamed_Dynamic%20Imaging-AVS) trainingsvideo.
+
+De volgende snelstarthandleidingen voor Afbeeldingsgrootte zijn ontworpen om u te helpen snel aan de slag te gaan met technieken voor afbeeldingsgrootte in Adobe Dynamic Media Classic. Voer de stappen 1 tot en met 5 uit. Na elke stap is een kruisverwijzing waar u meer informatie kunt vinden als u die nodig hebt.
 
 ## 1. Master afbeeldingen uploaden
 
-Begin door uw master afbeeldingen te uploaden naar Adobe Dynamic Media Classic. Wat de grootte betreft, raadt Adobe Dynamic Media Classic u aan om afbeeldingen te gebruiken van het grootste formaat dat u op uw website of toepassing wilt gebruiken. Als u bijvoorbeeld wilt dat gebruikers in- of uitzoomen op afbeeldingen, uploadt u afbeeldingen die minstens 2000 pixels groot zijn. Adobe Dynamic Media Classic ondersteunt veel bestandsindelingen voor afbeeldingen, maar het wordt aangeraden afbeeldingen zonder verlies in de indeling TIFF en PNG te gebruiken.
+Begin door uw master afbeeldingen naar Adobe Dynamic Media Classic te uploaden. Wat de grootte betreft, raadt Adobe Dynamic Media Classic u aan afbeeldingen te gebruiken van het grootste formaat dat u op uw website of toepassing wilt gebruiken. Als u bijvoorbeeld wilt dat gebruikers in- of uitzoomen op afbeeldingen, uploadt u afbeeldingen die minstens 2000 pixels groot zijn. Adobe Dynamic Media Classic ondersteunt veel bestandsindelingen voor afbeeldingen, maar TIFF- en PNG-afbeeldingen zonder gegevensverlies worden aanbevolen.
 
 Selecteer **[!UICONTROL Upload]** op de algemene navigatiebalk om bestanden van uw computer te uploaden naar een map op Adobe Dynamic Media Classic. Zie [master afbeeldingen uploaden](uploading-master-images.md#uploading_master_images).
 
@@ -58,7 +60,7 @@ Zie [Een voorvertoning van een afbeeldingselement weergeven op basis van de afbe
 Het publiceren van master afbeeldingsbestanden heeft twee essentiële doelen:
 
 * Uw master afbeeldingen publiceren naar Dynamic Media Image Servers (Image Servers), zodat afbeeldingen dynamisch kunnen worden geleverd aan uw website en toepassing.
-* Met Publiceren activeert u de URL-tekenreeksen voor het aanroepen van afbeeldingen van Dynamic Media Image Servers naar uw website of toepassing. Na publicatie kunt u waar nodig de door Adobe Dynamic Media gegenereerde URL&#39;s in de klassieke kopiëren en plaatsen in uw website of toepassing.
+* Met Publiceren activeert u de URL-tekenreeksen voor het aanroepen van afbeeldingen van Dynamic Media Image Servers naar uw website of toepassing. Na publicatie kunt u waar nodig de door Adobe Dynamic Media Classic gegenereerde URL&#39;s kopiëren en plaatsen op uw website of toepassing.
 
 Selecteer **[!UICONTROL Publish]** op de algemene navigatiebalk om een publicatietaak te starten. Selecteer **[!UICONTROL Submit Publish]** in het dialoogvenster Publiceren. Zie [master afbeeldingen publiceren](publishing-master-images.md#publishing_master_images).
 

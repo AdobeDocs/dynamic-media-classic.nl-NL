@@ -10,9 +10,9 @@ discoiquuid: 8f7093da-d215-4337-ac95-69f0a5bf8648
 feature: Dynamic Media Classic
 role: User
 exl-id: 23ac1a0f-c90b-4250-ae36-93702fb5ebd9
-source-git-commit: 1d71cbe6e2493ac8d47e837a20e194b6ae7a22d4
+source-git-commit: 352b1c383195fa03294ad3501207d63f3cfe3e42
 workflow-type: tm+mt
-source-wordcount: '3246'
+source-wordcount: '3307'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,11 @@ ht-degree: 0%
 
 Als u een sjabloon wilt maken, gaat u naar **[!UICONTROL Build]** > **[!UICONTROL Template Basics]**. Selecteer Designer of Developer. Op deze pagina kunt u afbeeldings- en tekstlagen toevoegen. U kunt lagen ook opnieuw ordenen, de grootte en positie van lagen wijzigen en schaduw- en gloedeffecten toepassen op afbeeldingen en tekst.
 
+Zie ook [Sjabloongrondbeginselen](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&amp;emailurl=https://s7d5.scene7.com/s7/emailFriend&amp;serverUrl=https://s7d5.scene7.com/is/image/&amp;config=Scene7SharedAssets/Universal_HTML5_Video&amp;contenturl=https://s7d5.scene7.com/skins/&amp;asset=S7tutorials/553_Template%20Basics_converted%20renamed_Dynamic%20Banners-AVS) trainingsvideo.
+
 >[!NOTE]
 >
->Als u een sjabloon bewerkt die in een eerdere versie van Adobe Dynamic Media Classic is gemaakt, wordt u bij het opslaan gevraagd &quot;Wilt u een canvaslaag toevoegen?&quot;. Selecteer **[!UICONTROL No]** om het toevoegen van een basislaag te vermijden. Als u per ongeluk **[!UICONTROL Yes]** selecteert, schrapt `&allowCanvasPrompt` en `&layer=0` bepalingen in URL en drukt **[!UICONTROL Enter]** of **[!UICONTROL Return]**.
+>Als u een sjabloon bewerkt die in een eerdere versie van Adobe Dynamic Media Classic is gemaakt, wordt u gevraagd of u de sjabloon wilt opslaan. Wilt u een canvaslaag toevoegen?. Selecteer **[!UICONTROL No]** om het toevoegen van een basislaag te vermijden. Als u per ongeluk **[!UICONTROL Yes]** selecteert, schrapt `&allowCanvasPrompt` en `&layer=0` bepalingen in URL en drukt **[!UICONTROL Enter]** of **[!UICONTROL Return]**.
 
 ## De eerste sjabloon maken {#creating-the-initial-template}
 
@@ -42,17 +44,17 @@ U kunt een sjabloon maken op basis van een bestaande sjabloon. Open de sjabloon,
 
 1. Gebruik een van de volgende methoden om uw oorspronkelijke sjabloon te maken:
 
-   * **Selecteer eerst**  de PSD of de afbeeldingen. Selecteer in het deelvenster Bladeren het PSD-bestand of de afbeeldingen die u voor de sjabloon wilt gebruiken, ga naar  **[!UICONTROL Build]** >  **[!UICONTROL Template Basics]**.
+   * **Selecteer eerst**  de PSD of afbeeldingen. Selecteer in het deelvenster Bladeren het PSD-bestand of de afbeeldingen die u voor de sjabloon wilt gebruiken, ga naar  **[!UICONTROL Build]** >  **[!UICONTROL Template Basics]**.
 
    * **Begin vanuit het scherm**  Sjabloon - Ga naar  **[!UICONTROL Build]** >  **[!UICONTROL Template Basics]**. Selecteer Designer of Developer.
 
 1. Voer in het dialoogvenster Canvasgrootte invoeren afmetingen voor de breedte en hoogte van de sjabloon in.
-1. Selecteer een map in de elementenbibliotheek en sleep het PSD-bestand of de afbeeldingen die u voor de sjabloon wilt gebruiken naar het scherm Sjabloon.
+1. Selecteer een map in de elementenbibliotheek en sleep het gewenste PSD-bestand of de gewenste afbeeldingen voor de sjabloon naar het scherm Sjabloon.
 1. Als u klaar bent, controleert u of **[!UICONTROL Publish after save]** is geselecteerd (standaard) in de rechterbenedenhoek van de pagina.
 1. Selecteer **[!UICONTROL Save]**.
 1. Selecteer een map waarin u de sjabloon wilt opslaan, voer een naam voor de sjabloon in en selecteer **[!UICONTROL Submit]**.
 
-   Adobe Dynamic Media Classic verkleint afbeeldingen indien nodig om deze op het canvas te passen, het gebied op het scherm Sjabloon waarin u de sjabloon definieert.
+   Adobe Dynamic Media Classic verkleint afbeeldingen indien nodig om deze op het canvas te passen, het gebied op het scherm Sjabloon waarin u de sjabloon kunt definiëren.
 
 ## Een sjabloonset bewerken {#editing-a-template-set}
 
@@ -103,7 +105,7 @@ Gebruik deze gereedschappen op het scherm Sjabloon, zodat u sjablonen kunt maken
 
    >[!NOTE]
    >
-   >Teksteditor v4.2 is bedoeld om te worden verwijderd als een optie in Adobe Dynamic Media Classic. Het wordt daarom aanbevolen om teksteditor 4.3 zo veel mogelijk te gebruiken. De optie **[!UICONTROL Word Wrap]** wordt opgenomen in een toekomstige versie van de Teksteditor.
+   >Teksteditor v4.2 is bedoeld om als optie te worden verwijderd in Adobe Dynamic Media Classic. Het wordt daarom aanbevolen om teksteditor 4.3 zo veel mogelijk te gebruiken. De optie **[!UICONTROL Word Wrap]** wordt opgenomen in een toekomstige versie van de Teksteditor.
 
 * **[!UICONTROL Designer and Developer]** - Selecteer de optie die uw rol het best beschrijft.
 
@@ -121,7 +123,7 @@ Gebruik deze gereedschappen op het scherm Sjabloon, zodat u sjablonen kunt maken
 
    >[!NOTE]
    >
-   >Indien nodig verkleint Adobe Dynamic Media Classic de afbeeldingen zodat deze op het canvas passen wanneer u een afbeeldingslaag maakt.
+   >Indien nodig verkleint Adobe Dynamic Media Classic de afbeeldingen, zodat deze op het canvas passen wanneer u een afbeeldingslaag maakt.
 
 ## Een tekstlaag maken {#creating-a-text-layer}
 
@@ -142,7 +144,7 @@ Ga als volgt te werk om tekst in een tekstlaag op te maken:
 1. Selecteer in het tekstvak van de Teksteditor de tekst die u wilt opmaken. U kunt alle tekst, delen van de tekst of afzonderlijke tekens selecteren.
 1. Geef een van de volgende opmaakopties op en selecteer **[!UICONTROL Apply]**.
 
-   * **[!UICONTROL Font]** - Kies een lettertype in het menu Lettertype. Als het gewenste lettertype niet in het menu staat, kunt u het lettertype uploaden naar de Klassieke Adobe Dynamic Media. Zie Lettertypen.
+   * **[!UICONTROL Font]** - Kies een lettertype in het menu Lettertype. Als het gewenste lettertype niet in het menu staat, kunt u het naar de Adobe Dynamic Media Classic uploaden. Zie Lettertypen.
 
    * **[!UICONTROL Font Size]** - Kies een tekengrootte in het menu, typ een specifieke grootte in het vak of selecteer de  **[!UICONTROL Up]** of de  **[!UICONTROL Down]** pijlen om de grootte met twee punten te vergroten of te verkleinen.
 
@@ -278,7 +280,7 @@ U kunt een laag- of laageffect verbergen door het oogpictogram naast de naam van
 
 Als u een achtergrondkleur, dekking en overvloeimodus voor een laag of het canvas wilt kiezen, selecteert u de laag of het canvas en gebruikt u de volgende technieken:
 
-* **Voorgrondkleur**  - Selecteer  **[!UICONTROL Foreground Color]** en kies een kleurstaal om de kleur van de schaduw of gloed te wijzigen. U kunt ook een parameter color-value in het vak invoeren. De achtergrondkleur wordt alleen toegepast op lagen die transparantie gebruiken. Het is bijvoorbeeld van toepassing op een gedeeltelijk transparante laag in een prijstag of de achtergrond van een tekstveld. Lagen die bestaan uit een PSD-, TIFF- of PNG-afbeelding waarop transparantie is ingeschakeld, kunnen transparante achtergronden hebben.
+* **Voorgrondkleur**  - Selecteer  **[!UICONTROL Foreground Color]** en kies een kleurstaal om de kleur van de schaduw of gloed te wijzigen. U kunt ook een parameter color-value in het vak invoeren. De achtergrondkleur wordt alleen toegepast op lagen die transparantie gebruiken. Het is bijvoorbeeld van toepassing op een gedeeltelijk transparante laag in een prijstag of de achtergrond van een tekstveld. Lagen die bestaan uit een PSD-, TIFF- of PNG-afbeelding waarop transparantie is ingeschakeld, kunnen een transparante achtergrond hebben.
 
 * **Achtergrondkleur**  - Selecteer  **[!UICONTROL Background Color]** en kies een kleurstaal om de kleur van de opgevulde gebieden te wijzigen.
 

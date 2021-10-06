@@ -10,9 +10,9 @@ discoiquuid: 6a2e6df1-9186-42e2-9b85-01f132936c72
 feature: Dynamic Media Classic,Viewers,Video
 role: User
 exl-id: b8d1a0b4-67ab-482d-a685-a087fb850143
-source-git-commit: 3185824deca4d4b3c5549bda2e47f179094110e7
+source-git-commit: 352b1c383195fa03294ad3501207d63f3cfe3e42
 workflow-type: tm+mt
-source-wordcount: '735'
+source-wordcount: '852'
 ht-degree: 0%
 
 ---
@@ -41,23 +41,27 @@ Zie [Voorinstellingen van viewer toevoegen en bewerken](application-setup.md#add
 
 >[!NOTE]
 >
->Adobe Dynamic Media Classic biedt een handige methode voor het voorvertonen van MP4-video op het bureaublad. Gebruik deze methode om mobiele inhoud op het bureaublad voor te vertonen zonder deze fysiek te testen op mobiele apparaten. Houd er echter rekening mee dat wat in de voorvertoning op het bureaublad wordt weergegeven, niet op realistische wijze aangeeft hoe het afspelen op het mobiele apparaat eruitziet. Als u een voorvertoning wilt bekijken van de weergave en het afspelen van video op een mobiel apparaat, gaat u naar het voorvertoningsscherm, selecteert u **[!UICONTROL Copy URL]** en voert u die URL in de webbrowser van een mobiel apparaat in. Zie [Video distribueren naar uw websites en mobiele sites](deploying-video-websites-mobile-sites.md#deploying_video_to_your_websites_and_mobile_sites) voor meer informatie.
+>Adobe Dynamic Media Classic biedt een handige methode voor het voorvertonen van MP4-video&#39;s op het bureaublad. Gebruik deze methode om mobiele inhoud op het bureaublad voor te vertonen zonder deze fysiek te testen op mobiele apparaten. Houd er echter rekening mee dat wat in de voorvertoning op het bureaublad wordt weergegeven, niet op realistische wijze aangeeft hoe het afspelen op het mobiele apparaat eruitziet. Als u een voorvertoning wilt bekijken van de weergave en het afspelen van video op een mobiel apparaat, gaat u naar het voorvertoningsscherm, selecteert u **[!UICONTROL Copy URL]** en voert u die URL in de webbrowser van een mobiel apparaat in. Zie [Video distribueren naar uw websites en mobiele sites](deploying-video-websites-mobile-sites.md#deploying_video_to_your_websites_and_mobile_sites) voor meer informatie.
 
 ## Werken met voorinstellingen voor videoviewers {#working-with-video-viewer-presets}
 
 Gebruikers bekijken video&#39;s in de Video-viewer. Hoe de VideoKijker zich gedraagt, hoe het kijkt, en hoe zijn playbackcontroles werken hangt van de Kijker af vooraf ingesteld u voor het spelen van de video kiest. Kies een voorinstelling voor de viewer op het voorvertoningsscherm. Nadat u een voorinstelling hebt gekozen, kunt u de URL of de insluitcode voor het afspelen van de video opvragen met de door u gekozen voorinstelling voor de viewer.
 
-Adobe Dynamic Media Classic wordt geleverd met veel vooraf gedefinieerde voorinstellingen voor viewers voor het afspelen van video. Als u een beheerder bent, kunt u aangepaste voorinstellingen voor viewers maken. Er zijn meer dan een dozijn verschillende instellingen voor het configureren van de video-viewer. U kunt de grootte, kleur, video- en audiobesturingselementen, voortgangsbalk, skin voor de gebruikersinterface en sociale functies configureren.
+Adobe Dynamic Media Classic wordt geleverd met veel vooraf gedefinieerde Viewer-voorinstellingen voor het afspelen van video. Als u een beheerder bent, kunt u aangepaste Viewer-voorinstellingen maken. Er zijn meer dan een dozijn verschillende instellingen voor het configureren van de video-viewer. U kunt de grootte, kleur, video- en audiobesturingselementen, voortgangsbalk, skin voor de gebruikersinterface en sociale functies configureren.
 
-Zie ook [Video&#39;s voorvertonen in een videoviewer](previewing-videos-video-viewer.md#previewing_videos_in_a_video_viewer).
+Zie [Video&#39;s voorvertonen in een videoviewer](previewing-videos-video-viewer.md#previewing_videos_in_a_video_viewer).
+
+Zie ook [Video presets](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&amp;emailurl=https://s7d5.scene7.com/s7/emailFriend&amp;serverUrl=https://s7d5.scene7.com/is/image/&amp;config=Scene7SharedAssets/Universal_HTML5_Video&amp;contenturl=https://s7d5.scene7.com/skins/&amp;asset=S7tutorials/549_video-presets_converted%20renamed_Done-AVS) trainingsvideo.
 
 ### Een voorinstelling voor een videoviewer toevoegen of bewerken {#adding-or-editing-a-video-viewer-preset}
 
-U kunt Viewer-voorinstellingen gebruiken om verschillende viewertypen en hun vooraf gedefinieerde instellingen weer te geven. U kunt ook uw eigen aangepaste viewervoorinstellingen toevoegen en bewerken of bestaande viewervoorinstellingen bewerken die bij Adobe Dynamic Media Classic worden geleverd.
+U kunt Viewer-voorinstellingen gebruiken om verschillende viewertypen en hun vooraf gedefinieerde instellingen weer te geven. U kunt ook uw eigen aangepaste viewervoorinstellingen toevoegen en bewerken of bestaande viewervoorinstellingen die bij Adobe Dynamic Media Classic worden geleverd, bewerken.
 
 In Viewer-voorinstellingen kunt u voorinstellingen van viewers activeren, filteren, sorteren en voorvertonen.
 
 Zie [Viewer Presets](application-setup.md#viewer_presets).
+
+Zie ook [Video presets](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&amp;emailurl=https://s7d5.scene7.com/s7/emailFriend&amp;serverUrl=https://s7d5.scene7.com/is/image/&amp;config=Scene7SharedAssets/Universal_HTML5_Video&amp;contenturl=https://s7d5.scene7.com/skins/&amp;asset=S7tutorials/549_video-presets_converted%20renamed_Done-AVS) trainingsvideo.
 
 **Een voorinstelling voor een videoviewer toevoegen of bewerken:**
 

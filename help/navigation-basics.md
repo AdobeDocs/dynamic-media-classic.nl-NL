@@ -10,20 +10,20 @@ discoiquuid: 825b8949-f961-4ef9-828c-07349013d40d
 feature: Dynamic Media Classic
 role: Admin,User
 exl-id: 3ffcfab2-c29d-4b0f-b223-c4a5ca99f21a
-source-git-commit: 1d71cbe6e2493ac8d47e837a20e194b6ae7a22d4
+source-git-commit: 352b1c383195fa03294ad3501207d63f3cfe3e42
 workflow-type: tm+mt
-source-wordcount: '604'
+source-wordcount: '665'
 ht-degree: 0%
 
 ---
 
 # Basisbeginselen van navigatie{#navigation-basics}
 
-Het Klassieke scherm van Adobe Dynamic Media omvat drie belangrijke gebieden: De globale bar van de Navigatie, de Bibliotheek van Activa, het lusje van de Filters van Activa, doorbladert Comité/bouwt Comité, en Kart van Media (slechts Portaal van Media).
+Het Adobe Dynamic Media Classic-scherm bevat drie belangrijke gebieden: De globale bar van de Navigatie, de Bibliotheek van Activa, het lusje van de Filters van Activa, doorbladert Comité/bouwt Comité, en Kart van Media (slechts Portaal van Media).
 
 ![Basisbeginselen ](/help/assets/gs_navigation_basics_popup_popup.png)
-*van navigatieBelangrijkste Adobe Dynamic Media Klassieke*
-*gebiedenA) Algemene navigatiebalk B) Deelvenster Middelenbibliotheek C) Tabblad Asset Filters D) Bladeren deelvenster E) Media Kart (alleen Media Portal)*
+*van navigatieBelangrijkste Adobe Dynamic Media Classic-*
+*gebiedenA) Algemene navigatiebalk B) Deelvenster Asset Library (C) Tabblad Asset Filters (D) Bladeren deelvenster E) Media Kart (alleen Media Portal)*
 
 ## Algemene navigatiebalk {#global-navigation-bar}
 
@@ -35,7 +35,7 @@ De algemene navigatiebalk, die zich boven aan het scherm bevindt, bevat knoppen 
 
 * **[!UICONTROL Build]** - Kies een bouwsteentaak in het menu. Het deelvenster Samenstellen wordt geopend, zodat u een elementtype kunt maken.
 
-* **[!UICONTROL Publish]** - Hiermee opent u het scherm Publiceren, zodat u rich media-elementen kunt publiceren naar Adobe Dynamic Media Image Servers en de rest van de Classic SAAS-infrastructuur van Adobe Dynamic Media.
+* **[!UICONTROL Publish]** - Hiermee opent u het scherm Publiceren, zodat u rich media-elementen kunt publiceren naar Adobe Dynamic Media Image Servers en de rest van de Adobe Dynamic Media Classic SAAS-infrastructuur.
 
 * **[!UICONTROL Jobs]** - Opent het scherm van Banen zodat kunt u verslagen van upload onderzoeken en banen publiceren.
 
@@ -48,7 +48,7 @@ De algemene navigatiebalk, die zich boven aan het scherm bevindt, bevat knoppen 
    * **[!UICONTROL Help On This Topic]** - Hiermee opent u het Help-systeem naar een pagina met informatie over de taak die u momenteel uitvoert.
    * **[!UICONTROL Video Tutorial]** - Hiermee krijgt u toegang tot video&#39;s over specifieke onderwerpen, waarin wordt getoond hoe u aan de slag kunt gaan met elke publicatieworkflow voor veelzijdige media.
    * **[!UICONTROL Help Contents]** - Hiermee opent u het Help-systeem naar de pagina Introductie. U kunt door de Inhoudslijst selecteren om verschillende onderwerpen te vinden en te bekijken.
-   * **[!UICONTROL About]** - Vertelt u welke versie van Adobe Dynamic Media Classic u gebruikt.
+   * **[!UICONTROL About]** - Vertelt u welke versie van Adobe Dynamic Media Classic u loopt.
    * **[!UICONTROL Support]** - Vertelt u hoe te om technische steun van Adobe Dynamic Media Classic te krijgen.
 
 * **[!UICONTROL Sign out]** - Sluit Adobe Dynamic Media Classic af.
@@ -70,6 +70,8 @@ In het deelvenster Bladeren/Samenstellen doet u veel van uw werk. Welke functies
 * **[!UICONTROL Browse mode]** - Als u de inhoud van een map wilt weergeven en ermee wilt werken in het deelvenster Bladeren, selecteert u een map in de Asset Library. In dit deelvenster vindt u de menu&#39;s **[!UICONTROL File]**, **[!UICONTROL Preview]**, **[!UICONTROL Select All]**, **[!UICONTROL Select None]** en **[!UICONTROL Sort]** voor het werken met elementen. U kunt elementen ook op verschillende manieren weergeven door de schuifregelaar te verplaatsen of **[!UICONTROL Grid View]**, **[!UICONTROL List View]** of **[!UICONTROL Detail View]** te selecteren. Als u **[!UICONTROL Detail View]** selecteert of dubbelklikt op een element, wordt het element geopend in de gedetailleerde weergave, waar u elementafhankelijke bestandsbewerkingen kunt uitvoeren.
 
 * **[!UICONTROL Build mode]** - Selecteer  **[!UICONTROL Build]** en kies een optie zodat u een eCatalog, Afbeeldingsset, Draaiset of een van de andere beschikbare items in het menu Samenstellen kunt gaan maken. De pagina Build wordt geopend. U kunt de elementen selecteren waarmee u wilt werken voordat of nadat u de modus Samenstellen hebt geactiveerd.
+
+Zie ook [Navigatie basics](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&amp;emailurl=https://s7d5.scene7.com/s7/emailFriend&amp;serverUrl=https://s7d5.scene7.com/is/image/&amp;config=Scene7SharedAssets/Universal_HTML5_Video&amp;contenturl=https://s7d5.scene7.com/skins/&amp;asset=S7tutorials/571_Navigation%20Basics_converted%20renamed_Getting%20Started-AVS) trainingsvideo.
 
 >[!MORELIKETHIS]
 >

@@ -1,6 +1,6 @@
 ---
 title: '"Snel starten: Video in Adobe Dynamic Media Classic"'
-description: Een inleiding en Snel aan de Adobe van de Klassieke Video van Dynamic Media om u te helpen snel aan de slag gaan.
+description: Een inleiding en Snel aan de Video van Adobe Dynamic Media Classic beginnen om u te helpen snel aan de slag gaan.
 contentOwner: admin
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
@@ -8,20 +8,20 @@ geptopics: SG_SCENESEVENONDEMAND_PK/categories/video
 feature: Dynamic Media Classic,Viewers,Video
 role: User
 exl-id: 1157400c-b33a-422e-848c-258660ddc748
-source-git-commit: 36f9aa3c2b4dc66e4cb851c2ce6837ae0ad4f64c
+source-git-commit: 352b1c383195fa03294ad3501207d63f3cfe3e42
 workflow-type: tm+mt
-source-wordcount: '1396'
+source-wordcount: '1758'
 ht-degree: 0%
 
 ---
 
 # Snel starten: Video in Adobe Dynamic Media Classic{#quick-start-video}
 
-Adobe Dynamic Media Classic Video is een end-to-end oplossing waarmee u eenvoudig Adaptieve video van hoge kwaliteit kunt publiceren voor streaming op meerdere schermen, waaronder mobiele apparaten voor desktops, iOS, Android™, BlackBerry® en Windows®. Een adaptieve videoreeks groepeert versies van de zelfde video die bij verschillende beetjetarieven en formaten zoals 400 kbps, 800 kbps, en 1000 kbps worden gecodeerd. De desktopcomputer of het mobiele apparaat detecteert de beschikbare bandbreedte.
+Adobe Dynamic Media Classic Video is een end-to-end oplossing waarmee u eenvoudig Adaptieve video van hoge kwaliteit kunt publiceren voor streaming op meerdere schermen, zoals desktopcomputers, iOS, Android™, BlackBerry® en mobiele apparaten van Windows®. Een adaptieve videoreeks groepeert versies van de zelfde video die bij verschillende beetjetarieven en formaten zoals 400 kbps, 800 kbps, en 1000 kbps worden gecodeerd. De desktopcomputer of het mobiele apparaat detecteert de beschikbare bandbreedte.
 
-Op een mobiel iOS-apparaat detecteert het bijvoorbeeld een bandbreedte zoals 3G, 4G of Wi-Fi. Vervolgens wordt automatisch de naar rechts gecodeerde video geselecteerd bij de verschillende bitsnelheden van de video in de adaptieve videoset. De video wordt gestreamd naar desktops, mobiele apparaten of tablets.
+Op een mobiel iOS-apparaat wordt bijvoorbeeld een bandbreedte gedetecteerd, zoals 3G, 4G of Wi-Fi. Vervolgens wordt automatisch de naar rechts gecodeerde video geselecteerd bij de verschillende bitsnelheden van de video in de adaptieve videoset. De video wordt gestreamd naar desktops, mobiele apparaten of tablets.
 
-Bovendien wordt de videokwaliteit automatisch dynamisch geschakeld als de netwerkomstandigheden veranderen op het bureaublad of op het mobiele apparaat. Ook, als een klant volledig-schermwijze op een Desktop ingaat, antwoordt de Adaptieve VideoReeks door een betere resolutie te gebruiken, verbeterend de het bekijken van de klant ervaring. Het gebruik van Adaptieve videosets biedt u de best mogelijke weergave voor klanten die Adobe Dynamic Media Classic-video op meerdere schermen en apparaten afspelen.
+Bovendien wordt de videokwaliteit automatisch dynamisch geschakeld als de netwerkomstandigheden veranderen op het bureaublad of op het mobiele apparaat. Ook, als een klant volledig-schermwijze op een Desktop ingaat, antwoordt de Adaptieve VideoReeks door een betere resolutie te gebruiken, verbeterend de het bekijken van de klant ervaring. Met Adaptieve videosets kunt u Adobe Dynamic Media Classic-video op meerdere schermen en apparaten het best afspelen.
 
 De logica die een videospeler gebruikt om te bepalen welke gecodeerde video moet worden afgespeeld of tijdens het afspelen moet worden geselecteerd, is gebaseerd op het volgende algoritme:
 
@@ -35,22 +35,26 @@ Zie de logica van het algoritme op [https://android.googlesource.com/platform/fr
 
 Adobe Dynamic Media Classic ondersteunt het volgende voor het beheer van afzonderlijke video- en adaptieve videosets:
 
-* Video uploaden van diverse ondersteunde video-indelingen en audio-indelingen en video coderen naar MP4 H.264-indeling, zodat deze op meerdere schermen kan worden afgespeeld. U kunt vooraf gedefinieerde Adobe Dynamic Media Classic adaptieve videovoorinstellingen, voorinstellingen voor één videocodering gebruiken of uw eigen codering aanpassen om de kwaliteit en de grootte van de video te bepalen.
+* Video uploaden van diverse ondersteunde video-indelingen en audio-indelingen en video coderen naar MP4 H.264-indeling, zodat deze op meerdere schermen kan worden afgespeeld. U kunt vooraf gedefinieerde adaptieve Adobe Dynamic Media Classic-videovoorinstellingen, voorinstellingen voor één videocodering gebruiken of uw eigen codering aanpassen om de kwaliteit en de grootte van de video te bepalen.
 
-   Wanneer een adaptieve videoset wordt gegenereerd, bevat deze MP4-video&#39;s.
+Zie [Aangepaste videovoorinstellingen activeren of deactiveren](/help/application-setup.md#activating-or-deactivating-adaptive-video-presets)
 
-   >[!NOTE]
-   >
-   >Master/bronvideo&#39;s en andere bronopmaakvideo worden *niet* toegevoegd aan een adaptieve videoset.
+Zie ook [Video presets](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&amp;emailurl=https://s7d5.scene7.com/s7/emailFriend&amp;serverUrl=https://s7d5.scene7.com/is/image/&amp;config=Scene7SharedAssets/Universal_HTML5_Video&amp;contenturl=https://s7d5.scene7.com/skins/&amp;asset=S7tutorials/549_video-presets_converted%20renamed_Done-AVS) trainingsvideo.
 
-* Video-ondertiteling in de viewers Univeral_HTML5_Video, Universal_HTML5_MixedMedia_donker en Universal_HTML5_MixedMedia_light en de navigatie in videohoofdstukken in de viewers Univeral_HTML5_Video, Universal_HTML5_MixedMedia_donker en Universal_HTML5_MixedMedia_light.
+Wanneer een adaptieve videoset wordt gegenereerd, bevat deze MP4-video&#39;s.
+
+>[!NOTE]
+>
+>Master/bronvideo&#39;s en andere bronopmaakvideo worden *niet* toegevoegd aan een adaptieve videoset.
+
+* Video ondertiteling in de de kijkers van Univeral_HTML5_Video, Universal_HTML5_MixedMedia_donker, en Universal_HTML5_MixedMedia_light en videohoofdstuknavigatie in Univeral_HTML5_Video, Universal_HTML5_MixedMedia_donker, en Universal_HTML5_MixedMedia_light.
 
    Zie [Bijschriften toevoegen aan video](adding-captions-video.md).
 
    Zie [Hoofdstukmarkeringen toevoegen aan video](adding-chapter-markers-video.md).
 
 * Video organiseren, doorbladeren en doorzoeken met volledige metagegevensondersteuning voor een efficiënt beheer van video-elementen.
-* Lever Adaptieve videosets naar het web en naar desktops en mobiele apparaten, waaronder de iPhone, iPad, Android™, BlackBerry® en Windows®-telefoon.
+* Lever Adaptieve videosets naar het web en naar desktops en mobiele apparaten, zoals de iPhone, iPad, Android™, BlackBerry® en Windows®-telefoon.
 
    Adaptieve videostreaming wordt ondersteund op verschillende iOS-platforms.
 
@@ -64,13 +68,22 @@ Adobe Dynamic Media Classic ondersteunt het volgende voor het beheer van afzonde
 
    Zie [Ondersteunde video-indelingen op Windows® Phone](https://docs.microsoft.com/en-us/).
 
-* Speel de video af met gebruik van Adobe Dynamic Media Classic Viewer Presets, inclusief het volgende:
+* De video afspelen met gebruik van voorinstellingen voor Adobe Dynamic Media Classic Viewer, waaronder de volgende:
 
    * Afzonderlijke videoviewers.
    * Gemengde Media-viewers die zowel video- als afbeeldingsinhoud combineren.
 
 * Configureer videospelers om aan uw brandingbehoeften te voldoen.
 * Video met een eenvoudige URL of insluitcode integreren in uw website, mobiele site of mobiele toepassing.
+
+Bekijk de volgende trainingsvideo&#39;s:
+* [Overzicht van MP4-video](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&amp;emailurl=https://s7d5.scene7.com/s7/emailFriend&amp;serverUrl=https://s7d5.scene7.com/is/image/&amp;config=Scene7SharedAssets/Universal_HTML5_Video&amp;contenturl=https://s7d5.scene7.com/skins/&amp;asset=S7tutorials/563_MP4%20Video%20Overview_converted%20renamed_eVideos-AVS)
+
+* [MP4-videovoorvertoning](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&amp;emailurl=https://s7d5.scene7.com/s7/emailFriend&amp;serverUrl=https://s7d5.scene7.com/is/image/&amp;config=Scene7SharedAssets/Universal_HTML5_Video&amp;contenturl=https://s7d5.scene7.com/skins/&amp;asset=S7tutorials/564_MP4%20Video%20Preview_converted%20renamed_eVideos-AVS)
+
+* [MP4-video uploaden](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&amp;emailurl=https://s7d5.scene7.com/s7/emailFriend&amp;serverUrl=https://s7d5.scene7.com/is/image/&amp;config=Scene7SharedAssets/Universal_HTML5_Video&amp;contenturl=https://s7d5.scene7.com/skins/&amp;asset=S7tutorials/565_MP4%20Video%20Upload_converted%20renamed_eVideos-AVS)
+
+* [Overzicht van streaming](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&amp;emailurl=https://s7d5.scene7.com/s7/emailFriend&amp;serverUrl=https://s7d5.scene7.com/is/image/&amp;config=Scene7SharedAssets/Universal_HTML5_Video&amp;contenturl=https://s7d5.scene7.com/skins/&amp;asset=S7tutorials/567_Streaming%20Overview_master_eVideos_converted%20renamed_eVideos-AVS)
 
 **Snel starten**
 
@@ -80,12 +93,12 @@ De volgende stapsgewijze workflowbeschrijving is ontworpen om u te helpen snel a
 
 U kunt adaptieve videosets uploaden en genereren aan de hand van een van de volgende twee scenario&#39;s:
 
-* **Vooraf gecodeerde video**  uploaden: als uw video&#39;s al buiten Adobe Dynamic Media Classic zijn gecodeerd, selecteert u op de algemene navigatiebalk  **[!UICONTROL Upload]** om MP4-videobestanden rechtstreeks naar Adobe Dynamic Media Classic te bladeren en te uploaden. Ga vervolgens naar **[!UICONTROL Build]** > **[!UICONTROL Adaptive Video Sets]**. Blader naar uw videobestanden. Sleep de gewenste videobestanden naar de tabel Adaptive Video Set en sla deze op.
-* **Master bronvideo**  uploaden - Als uw video&#39;s niet zijn gecodeerd, selecteert u op de algemene navigatiebalk  **[!UICONTROL Upload]** om master videobronbestanden (niet-MP4) te uploaden. Adobe Dynamic Media Classic codeert deze voor u naar MP4-bestanden. Selecteer **[!UICONTROL Adaptive Video]** onder **[!UICONTROL EVideo Options]** in het dialoogvenster **[!UICONTROL Upload Job Options]**.
+* **Vooraf gecodeerde video**  uploaden - Als uw video&#39;s al buiten Adobe Dynamic Media Classic zijn gecodeerd, selecteert u op de algemene navigatiebalk  **[!UICONTROL Upload]** om MP4-videobestanden rechtstreeks naar Adobe Dynamic Media Classic te bladeren en te uploaden. Ga vervolgens naar **[!UICONTROL Build]** > **[!UICONTROL Adaptive Video Sets]**. Blader naar uw videobestanden. Sleep de gewenste videobestanden naar de tabel Adaptive Video Set en sla deze op.
+* **Master bronvideo**  uploaden - Als uw video&#39;s niet zijn gecodeerd, selecteert u op de algemene navigatiebalk  **[!UICONTROL Upload]** om master videobronbestanden (niet-MP4) te uploaden. Adobe Dynamic Media Classic codeert ze voor u naar MP4-bestanden. Selecteer **[!UICONTROL Adaptive Video]** onder **[!UICONTROL EVideo Options]** in het dialoogvenster **[!UICONTROL Upload Job Options]**.
 
    Met deze voorkeursoptie kunt u een adaptieve videoset maken die automatisch de juiste coderingsvoorinstelling op de video toepast, ongeacht of deze 16:9 of 4:3 is, zodat deze overeenkomt met de afmetingen van de video die u hebt geüpload. Wanneer u de uploadtaak verzendt, wordt automatisch een adaptieve videoset gemaakt die drie coderingsvideo-instellingen in de juiste hoogte-breedteverhouding bevat.
 
-   Of vouw **[!UICONTROL Single Encoding Presets]** in hetzelfde **[!UICONTROL Job Options]** dialoogvenster onder **[!UICONTROL EVideo Options]** uit. Selecteer de afzonderlijke voorinstellingen voor videocodering die u wilt instellen op **Desktop**, **Mobiel (iPhone, iPad, Android™)** en **Tablet (iPad, Android™)**, zodat u de MP4-bestanden maakt.
+   Of vouw **[!UICONTROL Single Encoding Presets]** in hetzelfde **[!UICONTROL Job Options]** dialoogvenster onder **[!UICONTROL EVideo Options]** uit. Selecteer de afzonderlijke voorinstellingen voor videocodering die u wilt instellen op **Desktop**, **Mobile (iPhone, iPad, Android™)** en **Tablet (iPad, Android™)**, zodat u de MP4-bestanden maakt.
 
 * Of u kunt een master video opnieuw verwerken met de functie **[!UICONTROL Reprocess]**. De zojuist gecodeerde video&#39;s worden toegevoegd aan de bestaande adaptieve videoset.
 
@@ -93,7 +106,7 @@ Zie [Video&#39;s uploaden en coderen](uploading-encoding-videos.md#uploading_and
 
 **Optioneel**
 
-Adobe Dynamic Media Classic biedt een groot aantal voorgedefinieerde voorinstellingen voor videocodering. Deze vooraf gedefinieerde voorinstellingen weerspiegelen de meest gangbare instellingen voor videocodering die vandaag worden gebruikt en zijn geoptimaliseerd voor afspelen op doelpagina&#39;s.
+Adobe Dynamic Media Classic beschikt over een groot aantal vooraf gedefinieerde voorinstellingen voor videocodering. Deze vooraf gedefinieerde voorinstellingen weerspiegelen de meest gangbare instellingen voor videocodering die vandaag worden gebruikt en zijn geoptimaliseerd voor afspelen op doelpagina&#39;s.
 
 Als verdere aanpassingen nodig zijn, kunnen beheerders echter videovoorinstellingen maken om de grootte en de afspeelervaring van Video&#39;s aan de eindgebruikers aan te passen. Beheerders kunnen videovoorinstellingen toevoegen en beheren via de pagina Voorinstellingen video die beschikbaar is onder **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Video Presets]** > **[!UICONTROL Single Encoding Presets]**. De pagina Voorinstellingen video biedt opties voor het toevoegen, bewerken, verwijderen en activeren van videovoorinstellingen.
 
@@ -105,13 +118,15 @@ Als u wilt zien hoe een video wordt afgespeeld voor eindgebruikers op een deskto
 
 Zie [Video&#39;s voorvertonen in een videoviewer](previewing-videos-video-viewer.md#previewing_videos_in_a_video_viewer).
 
-U kunt de video afspelen op de voorvertoningspagina. U kunt ook verschillende videoviewers kiezen om te zien hoe uw video er in verschillende spelers uitziet. U kunt de HTML5-videospeler het beste gebruiken voor weergave op meerdere schermen op computers, tablets en mobiele apparaten.
+U kunt de video afspelen op de voorvertoningspagina. U kunt ook verschillende videoviewers kiezen om te zien hoe uw video er in verschillende spelers uitziet. U kunt de HTML5-videospeler het beste gebruiken voor weergave op meerdere schermen op een desktopcomputer, tablet of mobiel apparaat.
 
 **Optioneel**
 
-Aanpassing van voorinstellingen viewer - Adobe Dynamic Media Classic biedt vooraf gedefinieerde viewervoorinstellingen voor het afleveren van video. Deze voorinstellingen bepalen de vormgeving van de viewer en de werking van de afspeelbesturingselementen. Beheerders kunnen voorinstellingen voor viewers toevoegen en beheren via de pagina Voorinstellingen voor viewer om de videoviewer aan te passen. Als u deze pagina wilt openen, gaat u in de rechterbovenhoek van Adobe Dynamic Media Classic naar **[!UICONTROL Setup]** > **[!UICONTROL Viewer Presets]**. De pagina Voorinstellingen viewer bevat opdrachten voor het toevoegen, bewerken, verwijderen en activeren van voorinstellingen van viewers.
+Aanpassing voorinstelling viewer - Adobe Dynamic Media Classic biedt vooraf gedefinieerde viewervoorinstellingen voor het afleveren van video. Deze voorinstellingen bepalen de vormgeving van de viewer en de werking van de afspeelbesturingselementen. Beheerders kunnen voorinstellingen voor viewers toevoegen en beheren via de pagina Voorinstellingen voor viewer om de videoviewer aan te passen. Als u deze pagina wilt openen, gaat u in de rechterbovenhoek van Adobe Dynamic Media Classic naar **[!UICONTROL Setup]** > **[!UICONTROL Viewer Presets]**. De pagina Voorinstellingen viewer bevat opdrachten voor het toevoegen, bewerken, verwijderen en activeren van voorinstellingen van viewers.
 
 Zie [Werken met voorinstellingen voor videoviewers](previewing-videos-video-viewer.md#working_with_video_viewer_presets).
+
+Zie ook [Video presets](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&amp;emailurl=https://s7d5.scene7.com/s7/emailFriend&amp;serverUrl=https://s7d5.scene7.com/is/image/&amp;config=Scene7SharedAssets/Universal_HTML5_Video&amp;contenturl=https://s7d5.scene7.com/skins/&amp;asset=S7tutorials/549_video-presets_converted%20renamed_Done-AVS) trainingsvideo.
 
 ## 3. Video&#39;s distribueren naar uw websites en mobiele sites
 

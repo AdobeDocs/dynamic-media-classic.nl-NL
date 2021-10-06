@@ -1,6 +1,6 @@
 ---
 title: '"Snel starten: Media Portal"'
-description: Een inleiding en Snel Begin aan het Portaal van Media om u te helpen snel met de technieken en het beleid van het Portaal van Media in Adobe Dynamic Media Klassiek aan de slag gaan.
+description: Een inleiding en Snel Begin aan het Portaal van Media om u te helpen snel met de technieken en het beleid van het Portaal van Media in Adobe Dynamic Media Classic opstaan.
 uuid: 0dbd6146-b392-4e03-955b-0b323b654b9f
 contentOwner: admin
 content-type: reference
@@ -10,20 +10,28 @@ discoiquuid: 1385a092-0b2c-4e05-ad1e-ce3685022300
 feature: Dynamic Media Classic,Collaboration,Asset Management
 role: Admin,User
 exl-id: bff613c8-a93b-4cca-94db-8cad1cc36296
-source-git-commit: 36f9aa3c2b4dc66e4cb851c2ce6837ae0ad4f64c
+source-git-commit: 352b1c383195fa03294ad3501207d63f3cfe3e42
 workflow-type: tm+mt
-source-wordcount: '693'
+source-wordcount: '872'
 ht-degree: 0%
 
 ---
 
 # Snel starten: Media Portal{#quick-start-media-portal}
 
-Het Portaal van media laat bedrijven gemakkelijk verwerven, controleren en goedgekeurde activa aan externe partners en kanalen, en interne gebruikers van een bedrijf verspreiden. Deze op browser-gebaseerde, &quot;zelf-dient&quot;milieu voorziet de gebruikers van Media Portal van beheerder-gecontroleerde &quot;meningen&quot;in de Klassieke activa van Adobe Dynamic Media voor gemakkelijke toegang tot, doorbladeren, onderzoek, voorproef, en de uitvoeractiva in collectief-goedgekeurd formaat.
+Het Portaal van media laat bedrijven gemakkelijk verwerven, controleren en goedgekeurde activa aan externe partners en kanalen, en interne gebruikers van een bedrijf verspreiden. Deze op browser-gebaseerde, &quot;zelf-server&quot;milieu voorziet de gebruikers van Media Portal van beheerder-gecontroleerde &quot;meningen&quot;in de activa van Adobe Dynamic Media Classic voor gemakkelijke toegang tot, doorbladeren, onderzoek, voorproef, en de uitvoeractiva in collectief-goedgekeurd formaat.
 
 Als beheerder, controleert u hoe de gebruikers, tot activa in het Portaal van Media bekijken en toegang hebben en gebruiken. Bovendien kunt u de interface van het Portaal van Media aanpassen om uw website en merk aan te passen. U kunt lettertype, lettertypekleur, tekengrootte opgeven en branding-elementen zoals logo&#39;s opnemen in de Media Portal-interface.
 
-Dit Snelle Begin wordt ontworpen om u met het beleid van het Portaal van Media snel op te staan en te werken. Aan het eind van elke stap, selecteer de onderwerpverbinding om meer te leren.
+Bekijk de volgende trainingsvideo&#39;s:
+
+* [Overzicht van Media Portal](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&amp;emailurl=https://s7d5.scene7.com/s7/emailFriend&amp;serverUrl=https://s7d5.scene7.com/is/image/&amp;config=Scene7SharedAssets/Universal_HTML5_Video&amp;contenturl=https://s7d5.scene7.com/skins/&amp;asset=S7tutorials/544_mp_overview1_converted%20renamed_Done-AVS)
+
+* [Media Portal tour 1](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&amp;emailurl=https://s7d5.scene7.com/s7/emailFriend&amp;serverUrl=https://s7d5.scene7.com/is/image/&amp;config=Scene7SharedAssets/Universal_HTML5_Video&amp;contenturl=https://s7d5.scene7.com/skins/&amp;asset=S7tutorials/545_mp_tour1_user_converted%20renamed_Done-AVS)
+
+* [Media Portal tour 2](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&amp;emailurl=https://s7d5.scene7.com/s7/emailFriend&amp;serverUrl=https://s7d5.scene7.com/is/image/&amp;config=Scene7SharedAssets/Universal_HTML5_Video&amp;contenturl=https://s7d5.scene7.com/skins/&amp;asset=S7tutorials/546_mp_tour2_admin_converted%20renamed_Done-AVS)
+
+Het volgende Snelle Begin wordt ontworpen om u met het beleid van het Portaal van Media snel op te staan en in werking te stellen. Aan het eind van elke stap, selecteer de onderwerpverbinding om meer te leren.
 
 ## 1. Gebruikerrollen in Media Portal begrijpen
 
@@ -69,7 +77,7 @@ Zie [Voorinstellingen voor afbeeldingen maken en inschakelen](creating-enabling-
 
 ## 7. Voorinstellingen voor metagegevens en door de gebruiker gedefinieerde metagegevensvelden maken
 
-Met metagegevens wordt een bestand beschreven en geïdentificeerd. wordt gebruikt voor het zoeken naar en het ordenen van elementen. Om ervoor te zorgen dat de meta-gegevens correct worden ingegaan en dat de meta-gegevensgebieden die gegevens vereisen worden ingevuld, kunt u meta-gegevensvoorinstellingen tot stand brengen. Een voorinstelling voor metagegevens is een vooraf gedefinieerde set metagegevensitems. U kunt ook metagegevensvelden maken die een unieke beschrijving geven van de bestanden waarmee u werkt.
+Met metagegevens wordt een bestand beschreven en geïdentificeerd. wordt gebruikt voor het zoeken naar en ordenen van elementen. Om ervoor te zorgen dat de meta-gegevens correct worden ingegaan en dat de meta-gegevensgebieden die gegevens vereisen worden ingevuld, kunt u meta-gegevensvoorinstellingen tot stand brengen. Een voorinstelling voor metagegevens is een vooraf gedefinieerde set metagegevensitems. U kunt ook metagegevensvelden maken die een unieke beschrijving geven van de bestanden waarmee u werkt.
 
 Zie [Efficiënter gebruik van metagegevens maken](making-efficient-metadata.md#making_more_efficient_use_of_metadata).
 

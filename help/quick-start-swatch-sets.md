@@ -10,18 +10,18 @@ discoiquuid: 1ea70fdf-3cbd-409c-ae7d-06286c99c6ac
 feature: Dynamic Media Classic,Viewers
 role: User
 exl-id: b0c345dc-539f-4b03-a873-091681e2f2c2
-source-git-commit: 36f9aa3c2b4dc66e4cb851c2ce6837ae0ad4f64c
+source-git-commit: 352b1c383195fa03294ad3501207d63f3cfe3e42
 workflow-type: tm+mt
-source-wordcount: '386'
+source-wordcount: '387'
 ht-degree: 0%
 
 ---
 
 # Snel starten: Staalsets{#quick-start-swatch-sets}
 
-Adobe Dynamic Media Klassieke staalsets bieden gebruikers een geïntegreerde kijkervaring. In de dynamische Staalsetviewer kunnen gebruikers een item dat wordt gerenderd in een andere kleur, een ander materiaal, een andere structuur, een andere afwerking of een andere structuur alleen zien door op een miniatuur te klikken.
+Met Adobe Dynamic Media Classic Swatch Sets hebben gebruikers een geïntegreerde kijkervaring. In de dynamische Staalsetviewer kunnen gebruikers een item dat wordt gerenderd in een andere kleur, een ander materiaal, een andere structuur, een andere afwerking of een andere structuur alleen zien door op een miniatuur te klikken.
 
-Met dit staal wordt Snel aan de slag gegaan met Staalsettechnieken in Adobe Dynamic Media Classic.
+Met deze stalensets kunt u snel aan de slag met Staalsettechnieken in Adobe Dynamic Media Classic.
 
 ## 1. Afbeeldingen en staalbestanden uploaden
 
@@ -35,7 +35,7 @@ Als u een stalenset wilt maken, gaat u op de algemene navigatiebalk naar **[!UIC
 
 ## 3. Voorinstellingen voor stalensets van viewer instellen
 
-Beheerders kunnen voorinstellingen voor de afbeeldingsset Viewer maken of wijzigen. Adobe Dynamic Media Classic wordt geleverd met standaard viewervoorinstellingen voor elk rich-mediatype. Gebruik de zoomviewer: Aangepast > Voorinstellingen Afbeeldingssets/Kleurstalen om uw staalsets weer te geven.
+Beheerders kunnen voorinstellingen voor de afbeeldingsset Viewer maken of wijzigen. Adobe Dynamic Media Classic wordt geleverd met standaard Viewer-voorinstellingen voor elk rich-mediatype. Gebruik de zoomviewer: Aangepast > Voorinstellingen Afbeeldingssets/Kleurstalen om uw staalsets weer te geven.
 
 Zie [Voorinstellingen voor viewers maken en bewerken](application-setup.md#adding-and-editing-viewer-presets).
 
@@ -55,6 +55,6 @@ Zie [Bestanden publiceren](publishing-files.md#publishing-files).
 
 ## 6. Een stalenset koppelen aan een webpagina
 
-Adobe Dynamic Media Classic maakt URL-aanroepen voor stalensets en activeert deze nadat u deze hebt gepubliceerd. U kunt deze URL&#39;s kopiëren vanaf de voorvertoningspagina.
+Adobe Dynamic Media Classic maakt URL-aanroepen voor stalensets en activeert deze nadat u de URL hebt gepubliceerd. U kunt deze URL&#39;s kopiëren vanaf de voorvertoningspagina.
 
 Selecteer de Staalset en selecteer vervolgens de knop Voorvertoning. De pagina Voorbeeld wordt geopend. Selecteer een Staalset met voorinstelling voor viewer en selecteer de knop URL kopiëren. Zie [Een staal koppelen dat is ingesteld op een webpagina](linking-swatch-set-web-page.md#linking-a-swatch-set-to-a-web-page).

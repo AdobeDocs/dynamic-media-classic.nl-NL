@@ -1,6 +1,6 @@
 ---
 title: '"Snel starten: Sets draaien"'
-description: Een inleiding en Snel starten om te draaien zodat u snel aan de slag kunt in Adobe Dynamic Media Classic.
+description: Een inleiding en Snel starten om te draaien zodat u in Adobe Dynamic Media Classic snel aan de slag kunt.
 uuid: d0af9db6-cb6f-48f0-89f6-f3ab2da0659f
 contentOwner: admin
 content-type: reference
@@ -10,9 +10,9 @@ discoiquuid: 282b8e83-b20f-43f7-b9f8-6eebd5b1c5a7
 feature: Dynamic Media Classic,Viewers,Spin Sets
 role: User
 exl-id: 26e3cd5b-f070-4b92-af36-25631723460e
-source-git-commit: 36f9aa3c2b4dc66e4cb851c2ce6837ae0ad4f64c
+source-git-commit: 352b1c383195fa03294ad3501207d63f3cfe3e42
 workflow-type: tm+mt
-source-wordcount: '702'
+source-wordcount: '768'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,9 @@ Draaisets accepteren ook afbeeldingen met hyperlinks. Een afbeelding met hyperli
 
 Zie [Afbeeldingskaarten maken](creating-image-maps.md).
 
-Deze centrifugeert Snel starten is ontworpen om snel aan de slag te gaan met centrifugetechnieken in Adobe Dynamic Media Classic. Voer stap 1 tot en met 7 uit. Aan het eind van elke stap, kunt u een onderwerpverbinding selecteren om meer te leren.
+Zie [Afbeeldings- en centrifuges: Dynamic Imaging](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&amp;emailurl=https://s7d5.scene7.com/s7/emailFriend&amp;serverUrl=https://s7d5.scene7.com/is/image/&amp;config=Scene7SharedAssets/Universal_HTML5_Video&amp;contenturl=https://s7d5.scene7.com/skins/&amp;asset=S7tutorials/556_Image%20&amp;%20Spin%20Sets_converted%20renamed_Dynamic%20Imaging-AVS) trainingsvideo.
+
+Deze centrifuges zijn ontworpen om snel aan de slag te gaan met centrifuge-technieken in Adobe Dynamic Media Classic. Voer stap 1 tot en met 7 uit. Aan het eind van elke stap, kunt u een onderwerpverbinding selecteren om meer te leren.
 
 ## 1. De afbeeldingen maken en uploaden
 
@@ -65,7 +67,7 @@ Zie [Een voorvertoning van een centrifugeset weergeven](previewing-spin-set.md#p
 
 ## 6. Een centrifugeerset publiceren
 
-Als u een Spin-set publiceert, wordt deze op Adobe Dynamic Media Classic-servers geplaatst, zodat deze dynamisch aan uw website of toepassing kunnen worden geleverd. Het activeert ook de URL-tekenreeks die de Spin Set van Dynamic Media Image-servers naar uw website of toepassing aanroept.
+Als u een Spin-set publiceert, wordt deze op Adobe Dynamic Media Classic-servers geplaatst, zodat deze dynamisch op uw website of toepassing kunnen worden geleverd. Het activeert ook de URL-tekenreeks die de Spin Set van Dynamic Media Image-servers naar uw website of toepassing aanroept.
 
 Als u een centrifugeset wilt publiceren, markeert u deze voor publicatie door het pictogram **[!UICONTROL Mark for Publish]** naast de naam ervan in het deelvenster Bladeren te selecteren. Selecteer **[!UICONTROL Publish]** op de algemene navigatiebalk om een publicatie te starten. Selecteer **[!UICONTROL Submit Publish]** in het scherm Publiceren.
 
@@ -73,7 +75,7 @@ Zie [Een centrifugeerset publiceren](publishing-spin-set.md#publishing-a-spin-se
 
 ## 7. Een centrifugeerset koppelen aan een webpagina
 
-Adobe Dynamic Media Classic maakt URL-bijschrifttekenreeksen voor centrifuges en activeert deze na publicatie. U kunt deze URL&#39;s kopiëren vanaf de voorvertoningspagina.
+Adobe Dynamic Media Classic maakt URL-callout-tekenreeksen voor centrifuges en activeert deze na publicatie. U kunt deze URL&#39;s kopiëren vanaf de voorvertoningspagina.
 
 Selecteer de centrifugeset en selecteer **[!UICONTROL Preview]**. Selecteer een voorinstelling voor een centrifugeset viewer. Selecteer vervolgens **[!UICONTROL Copy URL]**.
 

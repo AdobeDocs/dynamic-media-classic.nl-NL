@@ -1,6 +1,6 @@
 ---
 title: Ondersteuning
-description: Meer informatie over de technische ondersteuningsopties voor Adobe Dynamic Media Classic.
+description: Meer informatie over opties voor technische ondersteuning voor Adobe Dynamic Media Classic.
 contentOwner: admin
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
@@ -8,16 +8,16 @@ geptopics: SG_SCENESEVENONDEMAND_PK/categories/introducing_adobe_scene7
 feature: Dynamic Media Classic
 role: Admin,User
 exl-id: 708f32f1-fdbb-4a32-a1b7-836c99b458be
-source-git-commit: 523d6e82a5410d8b1ae1a69b4ea2c0a0a4793fc7
+source-git-commit: 352b1c383195fa03294ad3501207d63f3cfe3e42
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '192'
 ht-degree: 0%
 
 ---
 
 # Ondersteuning {#support}
 
-De technische steunaanbiedingen worden ontworpen om aan de behoeften van om het even welk groottebedrijf te voldoen. In de volgende tabel vindt u een beschrijving van het Klassieke aanbod van de Adobe Dynamic Media-klantenservice:
+De technische steunaanbiedingen worden ontworpen om aan de behoeften van om het even welk groottebedrijf te voldoen. In de volgende tabel vindt u een beschrijving van het Adobe Dynamic Media Classic-aanbod voor klantenservice:
 
 | Ondersteuning | Abonnement |
 | --- | --- |

@@ -1,6 +1,6 @@
 ---
 title: '"Snel starten: Afbeeldingssets"'
-description: Een inleiding en Snel aan de Reeksen van het Beeld beginnen om u te helpen snel met de Vastgestelde technieken van het Beeld in de Klassiek van Adobe Dynamic Media aan de slag gaan.
+description: Een inleiding en Snel aan de Reeksen van het Beeld beginnen om u te helpen snel met de Vastgestelde technieken van het Beeld in Adobe Dynamic Media Classic opduiken.
 uuid: daf17d13-9c06-41f0-8fc5-2e56d460d341
 contentOwner: admin
 content-type: reference
@@ -10,9 +10,9 @@ discoiquuid: 612a425f-2840-46c4-8e5a-c0bc5f738f4e
 feature: Dynamic Media Classic,Viewers,Image Sets
 role: User
 exl-id: 280e7201-84d6-46b1-94bb-0499beca2992
-source-git-commit: 36f9aa3c2b4dc66e4cb851c2ce6837ae0ad4f64c
+source-git-commit: 352b1c383195fa03294ad3501207d63f3cfe3e42
 workflow-type: tm+mt
-source-wordcount: '536'
+source-wordcount: '603'
 ht-degree: 0%
 
 ---
@@ -23,11 +23,13 @@ Adobe Dynamic Media Classic Image Sets geeft gebruikers een geïntegreerde kijke
 
 De viewer voor Afbeeldingsset biedt zoomgereedschappen waarmee u afbeeldingen nauwkeurig kunt bekijken. Desgewenst kunt u doelen voor zoomen met instructies en afbeeldingen met hyperlinks in de afbeeldingsset opnemen. Afbeeldingssets zorgen voor een meer gecoördineerde, intieme kijkervaring.
 
-Deze afbeelding stelt snel aan de slag met de Image Set-technieken in Adobe Dynamic Media Classic.
+Zie [Afbeeldings- en centrifuges: Dynamic Imaging](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&amp;emailurl=https://s7d5.scene7.com/s7/emailFriend&amp;serverUrl=https://s7d5.scene7.com/is/image/&amp;config=Scene7SharedAssets/Universal_HTML5_Video&amp;contenturl=https://s7d5.scene7.com/skins/&amp;asset=S7tutorials/556_Image%20&amp;%20Spin%20Sets_converted%20renamed_Dynamic%20Imaging-AVS) trainingsvideo.
+
+De volgende Afbeeldingssets zijn ontworpen om snel aan de slag te gaan met de Image Set-technieken in Adobe Dynamic Media Classic.
 
 ## 1. Upload uw master afbeeldingen voor meerdere weergaven en stalen
 
-Begin door de beelden voor uw Reeksen van het Beeld te uploaden. Omdat gebruikers kunnen inzoomen op afbeeldingen in de Image Set Viewer, dient u rekening te houden met deze mogelijkheid wanneer u afbeeldingen kiest. Zorg ervoor dat de afbeeldingen ten minste 2000 pixels groot zijn. Adobe Dynamic Media Classic ondersteunt veel bestandsindelingen voor afbeeldingen, maar het wordt aanbevolen afbeeldingen zonder gegevensverlies in de indeling TIFF, PNG en EPS te gebruiken.
+Begin door de beelden voor uw Reeksen van het Beeld te uploaden. Omdat gebruikers kunnen inzoomen op afbeeldingen in de Image Set Viewer, dient u rekening te houden met deze mogelijkheid wanneer u afbeeldingen kiest. Zorg ervoor dat de afbeeldingen ten minste 2000 pixels groot zijn. Adobe Dynamic Media Classic ondersteunt veel bestandsindelingen voor afbeeldingen, maar TIFF-, PNG- en EPS-afbeeldingen zonder gegevensverlies worden aanbevolen.
 
 Selecteer **[!UICONTROL Upload]** op de algemene navigatiebalk om bestanden van uw computer te uploaden naar een map op Adobe Dynamic Media Classic.
 
@@ -45,7 +47,7 @@ Zie ook [Zoomdoelen en afbeeldingen met hyperlinks opnemen in afbeeldingssets](/
 
 ## 3. Voorinstellingen van viewer voor afbeeldingsset voorbereiden, indien nodig
 
-Beheerders kunnen voorinstellingen voor de afbeeldingsset Viewer maken of wijzigen. Adobe Dynamic Media Classic wordt geleverd met standaard viewervoorinstellingen voor elk rich-mediatype. Gebruik de zoomviewer: **[!UICONTROL Custom]** > **[!UICONTROL Images]** of **[!UICONTROL Image Sets]**/**[!UICONTROL Multiple Views]** vooraf instelt om uw Reeksen van het Beeld te bekijken.
+Beheerders kunnen voorinstellingen voor de afbeeldingsset Viewer maken of wijzigen. Adobe Dynamic Media Classic wordt geleverd met standaard Viewer-voorinstellingen voor elk rich-mediatype. Gebruik de zoomviewer: **[!UICONTROL Custom]** > **[!UICONTROL Images]** of **[!UICONTROL Image Sets]**/**[!UICONTROL Multiple Views]** vooraf instelt om uw Reeksen van het Beeld te bekijken.
 
 U voegt Viewer-voorinstellingen toe of bewerkt deze via het scherm Toepassingsinstellingen.
 

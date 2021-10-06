@@ -1,6 +1,6 @@
 ---
 title: Een aanbiedingsset maken
-description: Leer hoe u een voorstel maakt dat is ingesteld in Adobe Dynamic Media Classic.
+description: Klik hier als je wilt weten hoe je een aanbieding maakt in Adobe Dynamic Media Classic.
 uuid: 6d6a4af9-70c0-4cfa-9a8f-855d6adfcc8f
 contentOwner: admin
 content-type: reference
@@ -10,9 +10,9 @@ discoiquuid: 59b6437d-c21e-4929-9291-3032dbb34565
 feature: Dynamic Media Classic
 role: Data Engineer,Admin,User
 exl-id: 05f2cce0-72bf-4933-87ab-c9003c848e35
-source-git-commit: 1d71cbe6e2493ac8d47e837a20e194b6ae7a22d4
+source-git-commit: 352b1c383195fa03294ad3501207d63f3cfe3e42
 workflow-type: tm+mt
-source-wordcount: '1162'
+source-wordcount: '1222'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ Adobe Dynamic Media Classic biedt tools voor bewerking en het maken van aanbiedi
 
 >[!NOTE]
 >
->Voordat u een set voorstellen maakt, moet u alle elementen publiceren die u voor de set wilt gebruiken op Adobe Dynamic Media Classic. Zie [Elementen handmatig publiceren](publishing-files.md#manually_publishing_assets) en [Publicaties van elementen handmatig ongedaan maken](publishing-files.md#manually_unpublishing_assets).
+>Voordat u een set voorstellen maakt, moet u alle elementen publiceren die u voor de set op Adobe Dynamic Media Classic wilt gebruiken. Zie [Elementen handmatig publiceren](publishing-files.md#manually_publishing_assets) en [Publicaties van elementen handmatig ongedaan maken](publishing-files.md#manually_unpublishing_assets).
 
 ## Soorten aanbiedingen {#types-of-offer-sets}
 
@@ -39,7 +39,9 @@ Maak een set aanbiedingen op basis van de volgende soorten aanbiedingen:
 
 * **Afbeeldingen**  - U kunt afbeeldingen samenstellen voor een set aanbiedingen. Elke afbeelding bevat een andere aanbieding in de set.
 
-* **Afbeeldingssjabloon**  - U kunt afbeeldingssjablonen in Adobe Dynamic Media Classic waarderen met de opdracht Samenstellen > Sjabloonbasisbeginselen. Via parameters kunnen onderdelen van de sjabloon (de tekst in tekstkaders, de verschillende afbeeldingen) worden omgewisseld en aangepast. Voor een aanbiedingsreeks, kunt u malplaatjeparameters gebruiken om variaties op het zelfde beeld in uw aanbiedingsreeks tot stand te brengen, bijvoorbeeld. Zie Sjabloonparameters maken voor informatie over het maken van afbeeldingssjablonen en het toewijzen van parameters aan deze sjablonen.
+* **Afbeeldingssjabloon**  - U kunt in Adobe Dynamic Media Classic de parameters bepalen voor afbeeldingssjablonen met de opdracht  **[!UICONTROL Build]** > Sjabloonbasis. Via parameters kunnen onderdelen van de sjabloon (de tekst in tekstkaders, de verschillende afbeeldingen) worden omgewisseld en aangepast. Voor een aanbiedingsreeks, kunt u malplaatjeparameters gebruiken om variaties op het zelfde beeld in uw aanbiedingsreeks tot stand te brengen, bijvoorbeeld. Zie [Sjabloonparameters maken](creating-template-parameters.md#creating_template_parameters) voor informatie over het maken en het bepalen van parameters voor afbeeldingssjablonen.
+
+Zie ook [Sjabloongrondbeginselen](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&amp;emailurl=https://s7d5.scene7.com/s7/emailFriend&amp;serverUrl=https://s7d5.scene7.com/is/image/&amp;config=Scene7SharedAssets/Universal_HTML5_Video&amp;contenturl=https://s7d5.scene7.com/skins/&amp;asset=S7tutorials/553_Template%20Basics_converted%20renamed_Dynamic%20Banners-AVS) trainingsvideo.
 
 * **Video**  - U kunt video samenstellen voor een aanbiedingsset. Elke video heeft een andere aanbieding in de set.
 
@@ -132,7 +134,7 @@ Zie ook [Elementen handmatig publiceren](publishing-files.md#manually_publishing
 
    >[!NOTE]
    >
-   >U kunt geen aanbiedingsreeks schrappen die met een campagne wordt geassocieerd. Als u een set aanbiedingen die aan een campagne is gekoppeld wilt verwijderen, meldt u zich aan bij Adobe Target Standard/Premium en verwijdert u eerst de campagnecorracties. Zelfs nadat u zich niet aan een campagne hebt gekoppeld, kan het middel alleen worden verwijderd uit Adobe Dynamic Media Classic, waarvoor u zich moet aanmelden bij Adobe Target Standard/Premium en niet uit Adobe Target Standard/Premium.
+   >U kunt geen aanbiedingsreeks schrappen die met een campagne wordt geassocieerd. Als u een set aanbiedingen die aan een campagne is gekoppeld wilt verwijderen, meldt u zich aan bij Adobe Target Standard/Premium en verwijdert u eerst de campagnecorracties. Zelfs nadat u zich niet aan een campagne hebt gekoppeld, kan het middel alleen uit Adobe Dynamic Media Classic worden verwijderd, waarvoor een aanmelding bij Adobe Target Standard/Premium vereist is, en niet vanuit Adobe Target Standard/Premium.
 
 1. Als u klaar bent met bewerken, controleert u of **[!UICONTROL Publish after save]** is geselecteerd (standaard) in de rechterbenedenhoek van de pagina.
 1. Selecteer **[!UICONTROL Save]**, selecteer een opslagomslag, ga een naam voor de reeks in, en selecteer dan **[!UICONTROL Save]**.

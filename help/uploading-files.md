@@ -9,20 +9,20 @@ discoiquuid: b2bc3bf9-e313-481a-8670-c3bedde21b1a
 feature: Dynamic Media Classic,Asset Management
 role: User
 exl-id: 8dfcfb3f-6472-4efd-bc87-d5111eee45ce
-source-git-commit: 8bc49ae3704f0551c70d68a0ddd63725bdcc645c
+source-git-commit: 352b1c383195fa03294ad3501207d63f3cfe3e42
 workflow-type: tm+mt
-source-wordcount: '3654'
+source-wordcount: '3713'
 ht-degree: 0%
 
 ---
 
 # Bestanden uploaden{#uploading-files}
 
-Voordat u elementbestanden uploadt naar Adobe Dynamic Media Classic, moet u controleren of de elementbestanden een juiste naam hebben en of de mapstructuur op de gewenste manier is ingesteld en ingedeeld. U kunt bestanden uploaden vanaf een door Adobe Dynamic Media Classic verschafte FTP-site of rechtstreeks vanaf uw computer of netwerk. Adobe Dynamic Media Classic biedt opties voor het optimaliseren van bestanden terwijl u deze uploadt. Als u Adobe Dynamic Media Classic-bureaubladtoepassing hebt geïnstalleerd, kunt u bestanden en mappen uploaden door deze rechtstreeks vanaf uw bureaublad te slepen. Zie [Algemene instellingen van toepassing](application-setup.md#general_settings).
+Voordat u bestanden met elementen uploadt naar Adobe Dynamic Media Classic, moet u controleren of de elementbestanden een juiste naam hebben en of de mapstructuur op de gewenste manier is ingesteld en ingedeeld. U kunt bestanden uploaden vanaf een door Adobe Dynamic Media Classic verschafte FTP-site of rechtstreeks vanaf uw computer of netwerk. Adobe Dynamic Media Classic biedt opties voor het optimaliseren van bestanden tijdens het uploaden. Als u de Adobe Dynamic Media Classic-bureaubladtoepassing hebt geïnstalleerd, kunt u bestanden en mappen uploaden door deze rechtstreeks vanaf uw bureaublad te slepen. Zie [Algemene instellingen van toepassing](application-setup.md#general_settings).
 
 ## Elementen en mappen voorbereiden voor uploaden {#preparing-your-assets-and-folders-for-uploading}
 
-Voordat u elementen uploadt naar Adobe Dynamic Media Classic, moet u controleren of ze de juiste indeling en grootte hebben. U moet ook de Klassieke regels van Adobe Dynamic Media voor het benoemen van activa in acht nemen. Door een maporganisatie en -structuur voor de bestanden in te stellen, zorgt u ervoor dat u bestanden gemakkelijk kunt vinden en ermee kunt werken.
+Voordat u elementen uploadt naar Adobe Dynamic Media Classic, moet u controleren of ze de juiste indeling en grootte hebben. U moet ook de Adobe Dynamic Media Classic-regels voor het benoemen van elementen in acht nemen. Door een maporganisatie en -structuur voor de bestanden in te stellen, zorgt u ervoor dat u bestanden gemakkelijk kunt vinden en ermee kunt werken.
 
 ### Ondersteunde bestandsindelingen {#supported-asset-file-formats}
 
@@ -42,7 +42,7 @@ In deze tabel worden de bestandsindelingen weergegeven die door Adobe Dynamic Me
 | PDF | PDF |
 | Photoshop | PSD, FXG en Camera Raw |
 | PostScript | EPS, PS |
-| Adobe Dynamic Media Classic Image Authoring | VNC, VNT, VNW |
+| Adobe Dynamic Media Classic-ontwerpen van afbeeldingen | VNC, VNT, VNW |
 | SVG | SVG, SVGX |
 | TAR | TAR |
 | Video | 3GP, AVI, M2P, M2T, M2TS, M2V, M4V, MOV, MP4, MPEG, MPG, MTS, OGV, TS, VOB, WMV/ASF |
@@ -62,19 +62,19 @@ Zie ook [Niet-ondersteunde bestandsindelingen detecteren voor Dynamic Media](htt
 * PSD-bestanden met een andere kleurruimte dan CMYK, RGB, Grijswaarden of Bitmap worden niet ondersteund. DuoTone-, Lab- en Geïndexeerde kleurruimten worden niet ondersteund.
 * PSD-bestanden met een bitdiepte groter dan 16.
 * TIFF-bestanden met zwevende-kommagegevens.
-* TIFF-bestanden met LAB-kleurruimte.
+* TIFF-bestanden met Lab-kleurruimte.
 
 ### Elementen {#asset-types}
 
-Voor optimale resultaten met het Klassieke programma van Adobe Dynamic Media moet u de aanbevolen bestandsindelingen en -grootten gebruiken. In deze tabel worden de elementtypen weergegeven, waarvan sommige de aanbevolen indelingen en bestandsgrootten hebben voor veelgebruikte elementen.
+Voor optimale resultaten met het Adobe Dynamic Media Classic-programma moet u de aanbevolen bestandsindelingen en -grootten gebruiken. In deze tabel worden de elementtypen weergegeven, waarvan sommige de aanbevolen indelingen en bestandsgrootten hebben voor veelgebruikte elementen.
 
 | Type element | Beschrijving/Recommendations |
 | --- | --- |
 | Audio | Invoergeluidsindelingen voor audio-elementen zijn AAC, HE-AAC, AC3, WAV, WMA, AIFF, MP3. U kunt audio naar de volgende indelingen transcoderen: MP3, AAC en HE-AAC. |
-| Afbeeldingen (voor Afbeeldingsgrootte, Zoomen, Afbeeldingssets, Spin-sets) | Afbeeldingen moeten ten minste 2000 pixels groot zijn; De meeste afbeeldingen hebben een maximale grootte van 1500 tot 2500 pixels. Het wordt aanbevolen afbeeldingen zonder verlies in te stellen, zoals TIFF- en PNG-bestanden. Als u een JPEG-afbeelding gebruikt, gebruikt u de instellingen voor de hoogste kwaliteit. GIF-bestanden met animatie worden op dezelfde manier verwerkt als andere statische inhoud. |
-| eCatalogs | Gebruik PDF-bestanden met hoge resolutie die zijn gemaakt in Adobe® Acrobat® of een Creative Suite-toepassing die is opgeslagen als &#39;geschikt voor drukpers&#39;. PDF&#39;s bevatten alle benodigde lettertypen, afbeeldingen, maskers en grafische elementen waarnaar wordt verwezen, zoals enkele pagina&#39;s, spreads met twee pagina&#39;s of in een indeling met meerdere pagina&#39;s. Volgorde uw pagina&#39;s door de dossiers in alfanumerieke orde te noemen. Plaats alle PDF&#39;s voor uw eCatalog in één map, zodat u ze eenvoudig kunt uploaden. U kunt opties voor uitsnijden selecteren bij het uploaden om het bijsnijdgebied van PDF&#39;s te verwijderen, zoals snijtekens, registratiedoelen of kleurenbalken. De meeste PDF-bestanden die klaar zijn voor drukken bevinden zich in de CMYK-kleurruimte. Het is daarom belangrijk dat u het CMYK ICC-kleurprofiel opgeeft dat wordt gebruikt bij uw PDF-bestanden. |
-| Sjablonen | Een gelaagde afbeelding of lay-outontwerp dat tekst, afbeeldingen en lagen kan bevatten. Afbeeldingslagen, tekstreeksen en kenmerken, zoals kleur en grootte, kunnen worden geparametriseerd zodat variabele gegevens kunnen worden aangepast. Afbeeldingsvereisten voor gebruik in sjablonen zijn gelijk aan die voor andere afbeeldingen. Bereid uw afbeeldingen voor in Photoshop of een ander beeldbewerkingsprogramma. Sla elke afbeelding op als een afgevlakt transparant bestand in de TIFF- of PNG-indeling. Zorg ervoor dat de afbeeldingsresolutie geschikt is voor het verwachte gebruik. Afbeeldingen die u wilt afdrukken, zijn 300 ppi. |
-| Video&#39;s | Adobe Dynamic Media Classic ondersteunt videobestanden die zijn opgeslagen in de OGV- en MP4-indeling. U kunt bestanden tijdens het uploaden naar MP4-indeling transcoderen. Zie [Ondersteunde bestandsindelingen voor elementen](#supported-static-file-formats). |
+| Afbeeldingen (voor Afbeeldingsgrootte, Zoomen, Afbeeldingssets, Spin-sets) | Afbeeldingen moeten ten minste 2000 pixels groot zijn; De meeste afbeeldingen hebben een maximale grootte van 1500 tot 2500 pixels. Het wordt aanbevolen afbeeldingen zonder verlies in te stellen, zoals TIFF- en PNG-bestanden. Als u een JPEG-afbeelding gebruikt, gebruikt u de instellingen voor de hoogste kwaliteit. Animate GIF-bestanden worden op dezelfde manier verwerkt als andere statische inhoud. |
+| eCatalogs | Gebruik PDF-bestanden met hoge resolutie die zijn gemaakt in Adobe® Acrobat® of een Creative Suite-toepassing die is opgeslagen als &#39;geschikt voor drukpers&#39;. PDF bevatten alle benodigde lettertypen, afbeeldingen, maskers en grafische elementen waarnaar wordt verwezen, zoals enkele pagina&#39;s, spreads met twee pagina&#39;s of in een indeling met meerdere pagina&#39;s. Volgorde uw pagina&#39;s door de dossiers in alfanumerieke orde te noemen. Plaats alle PDF voor uw eCatalog in één enkele omslag voor gemak om te uploaden. U kunt opties voor uitsnijden selecteren bij het uploaden om het bijsnijdgebied te verwijderen uit PDF, zoals snijtekens, registratiedoelen of kleurenbalken. De meeste PDF-bestanden die klaar zijn voor gebruik op de drukpers bevinden zich in de CMYK-kleurruimte. Het is daarom belangrijk dat u het CMYK ICC-kleurprofiel opgeeft dat wordt gebruikt bij de PDF-bestanden. |
+| Sjablonen | Een gelaagde afbeelding of lay-outontwerp dat tekst, afbeeldingen en lagen kan bevatten. Afbeeldingslagen, tekstreeksen en kenmerken, zoals kleur en grootte, kunnen worden geparametriseerd zodat variabele gegevens kunnen worden aangepast. Afbeeldingsvereisten voor gebruik in sjablonen zijn gelijk aan die voor andere afbeeldingen. Bereid uw afbeeldingen voor in Photoshop of een ander beeldbewerkingsprogramma. Sla elke afbeelding op als een afgevlakt transparant bestand in TIFF- of PNG-indeling. Zorg ervoor dat de afbeeldingsresolutie geschikt is voor het verwachte gebruik. Afbeeldingen die u wilt afdrukken, zijn 300 ppi. |
+| Video&#39;s | Adobe Dynamic Media Classic ondersteunt videobestanden die zijn opgeslagen in de indeling OGV en MP4. U kunt bestanden tijdens het uploaden naar MP4-indeling transcoderen. Zie [Ondersteunde bestandsindelingen voor elementen](#supported-static-file-formats). |
 | Lettertypen | Geüpload TrueType, Type1 (alleen Windows®), OpenType®-lettertypen en PhotoFonts. |
 | Afbeeldingen | Afbeeldingen en gelaagde afbeeldingsbestanden. |
 | Afbeeldingssets en stalensets | Een reeks verwante afbeeldingen die in een viewer kunnen worden weergegeven. |
@@ -89,7 +89,7 @@ Voor optimale resultaten met het Klassieke programma van Adobe Dynamic Media moe
 
 >[!NOTE]
 >
->Wanneer u afbeeldingsbestanden en PDF-bestanden uploadt naar Adobe Dynamic Media Classic, worden deze bronbestanden door het systeem geconverteerd naar P-TIFF-bestanden (Pyramid TIFF). Deze P-TIFF&#39;s zijn de bestanden die later worden gepubliceerd naar Dynamic Media Image Servers. Adobe Dynamic Media Classic gebruikt de Piramid Tiff-bestandsindeling omdat deze diverse zoomverhoudingen bevat waarmee u snel kunt inzoomen bij weergave met een Adobe Dynamic Media Classic Zoom Viewer.
+>Wanneer u afbeeldingsbestanden en PDF uploadt naar Adobe Dynamic Media Classic, zet het systeem deze bronbestanden om in P-TIFF (Pyramid TIFF)-bestanden. Deze P-TIFF-bestanden zijn de bestanden die later worden gepubliceerd naar Dynamic Media Image Servers. Adobe Dynamic Media Classic gebruikt de Piramid Tiff-bestandsindeling omdat deze diverse zoomverhoudingen bevat waarmee u snel kunt inzoomen bij weergave met een Adobe Dynamic Media Classic Zoom Viewer.
 
 ### Ondersteunde statische bestandsindelingen {#supported-static-file-formats}
 
@@ -97,22 +97,22 @@ Adobe Dynamic Media Classic ondersteunt verschillende statische bestandsindeling
 
 De volgende bestandstypen kunnen worden gepubliceerd:
 
-* Geanimeerde GIF
+* Geanimeerd GIF
 * Audiobestanden
 * CSS
 * JavaScript (wanneer het bedrijf met zijn eigen domein wordt gevormd)
 * Master video
-* PDF (als de PDF is gemarkeerd voor publiceren na uploaden, om te voorkomen dat alle PDF&#39;s worden geleverd voor de bestaande eCatalog/PDF-workflow)
+* PDF (wanneer PDF is gemarkeerd voor publiceren na uploaden, om levering van alle PDF voor bestaande eCatalog/PDF-workflow te voorkomen)
 * PrX-video
 * SVG
 * XML
 * ZIP
 
-Adobe Dynamic Media Classic beschikt niet over de optie om een voorbeeld-URL van statische inhoud te genereren.
+Adobe Dynamic Media Classic biedt geen optie om een voorbeeld-URL van statische inhoud te genereren.
 
 ### Bestandsnaamvereisten {#filename-requirements}
 
-Omdat bestandsextensies tijdens het uploaden worden verwijderd uit bestandsnamen, staat het systeem niet toe dat bestanden dezelfde hoofdnaam hebben. In het Klassieke systeem van Adobe Dynamic Media wordt de naam van het element minus de bestandsnaamextensie de element-id voor het element. Daarom kunnen geen twee elementen dezelfde naam hebben.
+Omdat bestandsextensies tijdens het uploaden worden verwijderd uit bestandsnamen, staat het systeem niet toe dat bestanden dezelfde hoofdnaam hebben. In het Adobe Dynamic Media Classic-systeem wordt de bestandsnaam van het element minus de bestandsnaamextensie de element-id voor het element. Daarom kunnen geen twee elementen dezelfde naam hebben.
 
 Zorg ervoor dat alle gebruikers in uw bedrijf deze regels voor het benoemen van bestanden begrijpen:
 
@@ -134,12 +134,12 @@ Gewoonlijk kan de bestandsnaam van een element hetzelfde zijn als het itemnummer
 
 ### Maporganisatie en -structuur {#folder-organization-and-structure}
 
-Organiseer en structureer mappen en submappen voor uw inhoud in Adobe Dynamic Media Classic voordat u uw inhoud uploadt naar het systeem. Het plannen op deze manier heeft twee belangrijke voordelen:
+Organiseer en structureer mappen en submappen voor uw inhoud in Adobe Dynamic Media Classic voordat u de inhoud uploadt naar het systeem. Het plannen op deze manier heeft twee belangrijke voordelen:
 
-* Wanneer u de inhoud via FTP uploadt naar Adobe Dynamic Media Classic, kunt u het systeem de mapstructuur laten repliceren tijdens het uploaden. Op deze manier wordt uw inhoud in dezelfde mappen en submappen in Adobe Dynamic Media Classic geordend als op uw computer of netwerk. (Als u de mapstructuur wilt repliceren in Adobe Dynamic Media Classic, selecteert u de optie Submappen opnemen wanneer u elementen uploadt via FTP.)
+* Wanneer u de inhoud via FTP uploadt naar Adobe Dynamic Media Classic, kunt u het systeem de mapstructuur laten repliceren tijdens het uploaden. Op deze manier wordt uw inhoud in dezelfde mappen en submappen in Adobe Dynamic Media Classic geordend als op uw computer of netwerk. (Als u de mapstructuur in Adobe Dynamic Media Classic wilt repliceren, selecteert u de optie Submappen opnemen wanneer u elementen uploadt via FTP.)
 * Het is veel moeilijker om mappen in het systeem opnieuw te ordenen nadat bestanden zijn geüpload dan met een zorgvuldig overwogen mapstructuur te beginnen.
 
-De benadering en structuur van mapnamen die u kiest voor het opslaan van uw inhoud op de Adobe Dynamic Media Classic zijn afhankelijk van de behoeften van uw organisatie. Hier volgen enkele voorbeelden van mapstructuren:
+De methode en structuur voor het benoemen van mappen die u kiest voor het opslaan van uw inhoud op de Adobe Dynamic Media Classic, zijn afhankelijk van de behoeften van uw organisatie. Hier volgen enkele voorbeelden van mapstructuren:
 
 **Op SKU gebaseerd**  - De Omslagen worden genoemd volgens SKUs of puntaantallen. Er worden bijvoorbeeld aparte mappen gemaakt voor alle reeksen 0, 20 en 30 cijfers.
 
@@ -153,7 +153,7 @@ De benadering en structuur van mapnamen die u kiest voor het opslaan van uw inho
 
 U kunt afzonderlijke bestanden uploaden vanaf het bureaublad of mappen uploaden via FTP. Als u meer dan 100 MB dossiers wilt uploaden of volledige omslagen en subfolders uploaden, selecteer **VIA FTP** tabel.
 
-Adobe Dynamic Media Classic stuurt u een e-mailbericht om te bevestigen wanneer uw uploadtaak begint en eindigt en om u op de hoogte te stellen van eventuele problemen.
+Adobe Dynamic Media Classic stuurt je een e-mailbericht om te bevestigen wanneer je uploadtaak begint en eindigt en om je op de hoogte te stellen van eventuele problemen.
 
 Tijdens (of direct na) een grote uploadtaak kunnen sommige nieuwe items het bericht &quot;Afbeelding nog niet geoptimaliseerd&quot; weergeven. Dit bericht wordt weergegeven omdat de bestanden nog niet volledig zijn verwerkt en aan Adobe Dynamic Media Classic zijn toegevoegd. U kunt deze bestanden later optimaliseren. Zie [Bestanden optimaliseren](application-setup.md#optimize_files).
 
@@ -161,11 +161,11 @@ Tijdens (of direct na) een grote uploadtaak kunnen sommige nieuwe items het beri
 
 Met de Adobe Dynamic Media Classic Desktop-toepassing kunt u bestanden en mappen uploaden door te slepen.
 
-1. Selecteer **[!UICONTROL Upload]** in de Klassieke bureaubladtoepassing van Adobe Dynamic Media op de algemene navigatiebalk.
+1. Selecteer **[!UICONTROL Upload]** in de Adobe Dynamic Media Classic Desktop-toepassing op de algemene navigatiebalk.
 1. Selecteer op de pagina Uploaden het tabblad **[!UICONTROL From Desktop]**.
 1. Selecteer **[!UICONTROL Browse]** in het gebied **[!UICONTROL Select Files for Upload]** aan de linkerkant van de pagina Uploaden om de bestanden of mappen te selecteren die u wilt uploaden en selecteer **[!UICONTROL Open]**.
 1. Navigeer rechts van de pagina Uploaden in het gebied **Kies Mapdoel** naar een doelmap waar u de geüploade bestanden of mappen wilt toevoegen.
-1. (Optioneel) Voer onder aan de pagina Uploaden in het tekstveld Taaknaam de nieuwe naam van de uploadtaak in. U kunt ook gewoon de standaardnaam gebruiken die door het systeem wordt gegenereerd en die Adobe Dynamic Media Classic biedt. De baan en andere upload en het publiceren banen worden geregistreerd op de pagina van Banen, waar u de status van banen kunt controleren. Zie [Taakbestanden controleren](checking-job-files.md#checking_job_files).
+1. (Optioneel) Voer onder aan de pagina Uploaden in het tekstveld Taaknaam de nieuwe naam van de uploadtaak in. U kunt ook gewoon de standaardnaam gebruiken die door het systeem wordt gegenereerd en die door Adobe Dynamic Media Classic wordt opgegeven. De baan en andere upload en het publiceren banen worden geregistreerd op de pagina van Banen, waar u de status van banen kunt controleren. Zie [Taakbestanden controleren](checking-job-files.md#checking_job_files).
 1. (Optioneel) Selecteer **[!UICONTROL Publish After Uploading]** onder aan de pagina Uploaden als u de elementen die u uploadt automatisch wilt publiceren.
 Wanneer u bestanden publiceert, worden deze naar live servers verzonden. URL&#39;s voor deze bestanden kunnen vervolgens worden gebruikt op externe websites en toepassingen. Deze optie is ook beschikbaar in het dialoogvenster Taakopties.
 1. (Optioneel) Selecteer **[!UICONTROL Overwrite in any folder, same base asset name regardless of extension]** onder aan de pagina Uploaden als u wilt dat de bestanden die u uploadt, bestaande bestanden vervangen door dezelfde naam. Deze optie is ook beschikbaar in het dialoogvenster Taakopties.
@@ -176,16 +176,16 @@ De naam van deze optie kan verschillen, afhankelijk van de instellingen in **[!U
 
 1. Selecteer **[!UICONTROL Save]** in het dialoogvenster Taakopties uploaden.
 1. Selecteer **[!UICONTROL Submit Upload]** in de rechterbenedenhoek van de pagina Uploaden.
-Als u de voortgang van het uploaden wilt zien, selecteert u **[!UICONTROL Jobs]** op de algemene navigatiebalk. U kunt blijven werken in Adobe Dynamic Media Classic en op elk gewenst moment terugkeren naar de pagina Taken om een actieve taak te controleren. Als u een actieve uploadtaak wilt annuleren, selecteert u **[!UICONTROL Cancel]** naast de duur.
+Als u de voortgang van het uploaden wilt zien, selecteert u **[!UICONTROL Jobs]** op de algemene navigatiebalk. U kunt in Adobe Dynamic Media Classic blijven werken en op elk gewenst moment terugkeren naar de pagina Taken om een actieve taak te controleren. Als u een actieve uploadtaak wilt annuleren, selecteert u **[!UICONTROL Cancel]** naast de duur.
 
 ### Bestanden uploaden via het tabblad VIA FTP {#upload-files-using-via-ftp}
 
-1. Meld u aan bij de Classic FTP-site van Adobe Dynamic Media die specifiek is voor uw specifieke regio. Gebruik de FTP-gebruikersnaam en het wachtwoord die u van de beheerder hebt ontvangen.
+1. Meld u aan bij de FTP-site van Adobe Dynamic Media Classic die specifiek is voor uw specifieke regio. Gebruik de FTP-gebruikersnaam en het wachtwoord die u van de beheerder hebt ontvangen.
 1. Selecteer **[!UICONTROL Upload]** op de algemene navigatiebalk in Adobe Dynamic Media Classic.
 1. Selecteer op de pagina Uploaden het tabblad **[!UICONTROL VIA FTP]**.
 1. Kies links op de pagina Uploaden in het gebied **[!UICONTROL Choose FTP Folder For Upload]** een FTP-map waaruit u bestanden wilt uploaden.
 1. Kies rechts van de pagina Uploaden in het gebied **[!UICONTROL Choose Adobe Dynamic Media Folder Destination]** een doelmap in Adobe Dynamic Media Classic.
-1. (Optioneel) Voer onder aan de pagina Uploaden in het tekstveld Taaknaam de nieuwe naam van de uploadtaak in. U kunt ook gewoon de standaardnaam gebruiken die door het systeem wordt gegenereerd en die Adobe Dynamic Media Classic biedt. De baan en andere upload en het publiceren banen worden geregistreerd op de pagina van Banen, waar u de status van banen kunt controleren.
+1. (Optioneel) Voer onder aan de pagina Uploaden in het tekstveld Taaknaam de nieuwe naam van de uploadtaak in. U kunt ook gewoon de standaardnaam gebruiken die door het systeem wordt gegenereerd en die door Adobe Dynamic Media Classic wordt opgegeven. De baan en andere upload en het publiceren banen worden geregistreerd op de pagina van Banen, waar u de status van banen kunt controleren.
 Zie [Taakbestanden controleren](checking-job-files.md#checking_job_files).
 1. (Optioneel) Selecteer **[!UICONTROL Publish After Upload]** onder aan de pagina Uploaden als u de elementen die u uploadt automatisch wilt publiceren.
 Wanneer u bestanden publiceert, worden deze naar live servers verzonden. URL&#39;s voor deze bestanden kunnen vervolgens worden gebruikt op externe websites en toepassingen. Deze optie is ook beschikbaar in het dialoogvenster Taakopties.
@@ -199,7 +199,7 @@ De naam van deze optie kan verschillen, afhankelijk van de instellingen in **[!U
 1. Selecteer **[!UICONTROL Save]** in het dialoogvenster Taakopties uploaden.
 1. Selecteer **[!UICONTROL Submit Upload]** in de rechterbenedenhoek van de pagina Uploaden.
 
-   Als u de voortgang van het uploaden wilt zien, selecteert u **[!UICONTROL Jobs]** op de algemene navigatiebalk. De pagina van Banen toont u de vooruitgang van het uploaden. U kunt blijven werken in Adobe Dynamic Media Classic en op elk gewenst moment terugkeren naar de pagina Taken om een actieve taak te controleren.
+   Als u de voortgang van het uploaden wilt zien, selecteert u **[!UICONTROL Jobs]** op de algemene navigatiebalk. De pagina van Banen toont u de vooruitgang van het uploaden. U kunt in Adobe Dynamic Media Classic blijven werken en op elk gewenst moment terugkeren naar de pagina Taken om een actieve taak te controleren.
 
 Als u een actieve uploadtaak wilt annuleren, selecteert u **[!UICONTROL Cancel]** naast de duur.
 
@@ -243,7 +243,7 @@ Bijsnijden op basis van kleur: Geef 0 op om alleen pixels uit te snijden als dez
 Bijsnijden op basis van transparantie: Geef 0 op om alleen pixels bij te snijden als deze transparant zijn; De cijfers dichter aan 1 staan voor meer transparantie.
       * **[!UICONTROL Tolerance]** - Sleep de schuifregelaar om een tolerantie tussen 0 en 1 op te geven.
 
-* **Opties**  voor kleurprofiel - Kies een kleurconversie wanneer u geoptimaliseerde bestanden maakt die worden gebruikt voor Adobe Dynamic Media Klassieke dynamische levering:
+* **Opties**  voor kleurprofiel - Kies een kleurconversie wanneer u geoptimaliseerde bestanden maakt die worden gebruikt voor dynamische levering via Adobe Dynamic Media Classic:
 
    * **[!UICONTROL Default Color Preservation]** - De kleuren van de bronafbeelding blijven behouden wanneer de afbeeldingen kleurruimte-informatie bevatten. er is geen kleurconversie. In bijna alle afbeeldingen van vandaag is het juiste kleurprofiel al ingesloten. Als een CMYK-bronafbeelding echter geen ingesloten kleurprofiel bevat, worden de kleuren omgezet in de kleurruimte sRGB (standaard rood-groen-blauw). sRGB is de aanbevolen kleurruimte voor het weergeven van afbeeldingen op webpagina&#39;s.
    * **[!UICONTROL Keep Original Color Space]** - Behoudt de oorspronkelijke kleuren zonder kleurconversie op het punt van inname in Adobe Dynamic Media Classic. Voor afbeeldingen zonder ingesloten kleurprofiel wordt de vereiste kleurconversie voor het verwerken van aanvragen voor de afbeelding uitgevoerd met de standaardkleurprofielen die zijn geconfigureerd in de Publicatie-instellingen. Deze kleurprofielen worden niet altijd uitgelijnd op de kleur in de bestanden die met deze optie worden gemaakt. Daarom wordt u aangeraden de optie Standaardkleurbehoud te gebruiken.
@@ -256,10 +256,10 @@ Zie [Opties voor het perfectioneren van afbeeldingen bij het uploaden](image-edi
 Zie [Werken met PostScript- en Illustrator-bestanden](postscript-illustrator-files.md#working_with_postscript_and_illustrator_files).
 
 * **Photoshop-opties**  - U kunt sjablonen maken van Adobe® Photoshop®-bestanden, lagen behouden, opgeven hoe lagen worden benoemd, tekst uitnemen en opgeven hoe afbeeldingen in sjablonen worden verankerd.
-Zie [Uploadopties voor PSD](psd-files.md#psd_upload_options).
+Zie [Opties voor het uploaden naar PSD](psd-files.md#psd_upload_options).
 
 * **PDF-opties**  - U kunt de bestanden rasteren, zoekwoorden en koppelingen extraheren, automatisch een eCatalog genereren, de resolutie instellen en een kleurruimte kiezen.
-Zie [Opties voor PDF-upload](pdfs.md#pdf_upload_options).
+Zie [Opties voor het uploaden naar PDF](pdfs.md#pdf_upload_options).
 
 * **Illustrator-opties**  - U kunt Adobe Illustrator®-bestanden rasteren, transparante achtergronden behouden, een resolutie kiezen en een kleurruimte kiezen.
 Zie [Werken met PostScript- en Illustrator-bestanden](postscript-illustrator-files.md#working_with_postscript_and_illustrator_files).
@@ -268,7 +268,7 @@ Zie [Werken met PostScript- en Illustrator-bestanden](postscript-illustrator-fil
 Zie [Werken met voorinstellingen voor videocodering](uploading-encoding-videos.md#working_with_video_encoding_presets).
 
 * **Extra metagegevens**  - Voer trefwoorden in die de bestanden beschrijven die u wilt uploaden. Trefwoorden scheiden door komma&#39;s. Met trefwoorden kunt u gemakkelijker naar elementen zoeken.
-Zie [Een geavanceerde zoekopdracht uitvoeren](searching-assets.md#conducting_an_advanced_search).
+Zie [Een geavanceerde zoekopdracht uitvoeren](searching-assets.md#conducting_an_advanced_search). Zie ook [Trefwoorden uploaden](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&amp;emailurl=https://s7d5.scene7.com/s7/emailFriend&amp;serverUrl=https://s7d5.scene7.com/is/image/&amp;config=Scene7SharedAssets/Universal_HTML5_Video&amp;contenturl=https://s7d5.scene7.com/skins/&amp;asset=S7tutorials/548_upload-keywords_converted%20renamed_Done-AVS) trainingsvideo.
 
 * **Voorinstellingen**  voor batchset - Als u een Afbeeldingsset, Puntset of Staalset wilt maken van de geüploade bestanden, selecteert u de  **[!UICONTROL Active]** kolom voor de voorinstelling die u wilt gebruiken. U kunt meerdere voorinstellingen selecteren. U maakt de voorinstellingen op de pagina Voorinstellingen voor toepassingsinstellingen/batchsets.
 Zie [Voorinstellingen batchset](application-setup.md#batch_set_presets).

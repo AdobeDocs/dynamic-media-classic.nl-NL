@@ -6,9 +6,9 @@ user-guide-title: Adobe Dynamic Media Classic Guide
 breadcrumb-title: Dynamic Media Classic Guide
 user-guide-description: Meer informatie over het gebruik van Adobe Dynamic Media Classic
 index: y
-source-git-commit: f92109182283f3bf046604b1b6910180f858d73e
+source-git-commit: 352b1c383195fa03294ad3501207d63f3cfe3e42
 workflow-type: tm+mt
-source-wordcount: '775'
+source-wordcount: '776'
 ht-degree: 0%
 
 ---
@@ -18,10 +18,10 @@ ht-degree: 0%
 
 + [Adobe Dynamic Media Classic Guide](home.md)
 + [Zelfstudie over best practices voor Adobe Dynamic Media-klasse](https://experienceleague.adobe.com/docs/experience-manager-learn/dynamic-media-classic-tutorial/overview.html)
-+ [NEW Adobe Dynamic Media Classic Sign-in-ervaring nu beschikbaar](new-ui-2020.md)
++ [NIEUWE Adobe Dynamic Media Classic-aanmeldervaring nu beschikbaar](new-ui-2020.md)
 + [Adobe Dynamic Media-nieuwsarchief per Experience League](dynamic-media-newsletter.md)
 + Introductie van Adobe Dynamic Media Classic {#intro}
-   + [Adobe Dynamic Media Classic-bureaubladtoepassing - Nu beschikbaar](dynamic-media-classic-desktop-app.md)
+   + [Adobe Dynamic Media Classic Desktop-app - Nu beschikbaar](dynamic-media-classic-desktop-app.md)
    + [Informatie over Adobe Dynamic Media Classic Help](introduction.md)
    + [Bronnen voor ontwikkelaars](developer-resources.md)
    + [Nieuwe functies](whats-new.md)
@@ -29,7 +29,7 @@ ht-degree: 0%
    + [Ondersteuning](support.md)
    + [Help voor Adobe Dynamic Media Classic Media Portal](help-dmc-media-portal.md)
    + [Adobe Training](training-services.md)
-   + [Populaire bronnen](popular-resources.md)
+   + [Veelvoorkomende leerbronnen](popular-resources.md)
    + [Trainingsvideo&#39;s](training-videos.md)
 + Aan de slag {#getting-started}
    + [Overzicht van Adobe Dynamic Media Classic-programma](dmc-platform-overview.md)
@@ -98,7 +98,7 @@ ht-degree: 0%
    + [Inhoud van deelvenster Info in eCatalogs beheren](info-panel-content-ecatalog.md)
    + [Voorinstellingen eCatalog-viewer instellen](setting-ecatalog-viewer-presets.md)
    + [Voorvertoning van eCatalogi weergeven in de eCatalog-viewer](previewing-ecatalogs-ecatalog-viewer.md)
-   + [E-catalogi en bijbehorende PDF&#39;s publiceren](publishing-ecatalogs-associated-pdfs.md)
+   + [E-catalogi en bijbehorende PDF publiceren](publishing-ecatalogs-associated-pdfs.md)
    + [Een eCatalog koppelen aan een webpagina](linking-ecatalog-web-page.md)
 + Afbeeldingssets {#image-sets}
    + [Snel starten: Afbeeldingssets](quick-start-image-sets.md)
@@ -173,7 +173,7 @@ ht-degree: 0%
    + [Een afbeelding verscherpen](sharpening-image.md)
    + [Een afbeelding aanpassen](adjusting-image.md)
    + [Opties voor het perfectioneren van afbeeldingen tijdens het uploaden](image-editing-options-upload.md)
-   + [Werken met PDF&#39;s](pdfs.md)
+   + [Werken met PDF](pdfs.md)
    + [Werken met PSD-bestanden](psd-files.md)
    + [Werken met PostScript- en Illustrator-bestanden](postscript-illustrator-files.md)
    + [Werken met vignet-, venster- en kabinetsbestanden](vignette-window-covering-cabinet-files.md)
