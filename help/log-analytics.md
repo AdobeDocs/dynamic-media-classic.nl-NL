@@ -10,9 +10,9 @@ discoiquuid: e5b510a8-8b7f-4c60-869e-d664a8157e63
 feature: Dynamic Media Classic
 role: Data Engineer,Admin,User
 exl-id: 261b8f7c-c61c-4ce3-b9dc-8549347aca2e
-source-git-commit: 876b4c61167b28f7d5e50a656564eafcbe5b9eab
+source-git-commit: 8111895ac527b92b152382ea80b7b383659f00a9
 workflow-type: tm+mt
-source-wordcount: '758'
+source-wordcount: '756'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ Wanneer u zich aanmeldt, kunt u de Experience Cloud Org-id invoeren om de meest 
 >
 >Als uw Adobe Analytics-account voor aanmelding is gemigreerd naar op Adobe IMS gebaseerde verificatie (Identity Management System), werkt het invoeren van directe referenties niet.
 
-**Aanmelden bij Adobe Analytics vanuit Adobe Dynamic Media Classic:**
+## Aanmelden bij Adobe Analytics vanuit Adobe Dynamic Media Classic {#log-in-to-analytics-from-dmc}
 
 Begin met het integreren van Dynamic Media Classic met Adobe Analytics OAuth. De Adobe Analytics OAuth-integratie met Dynamic Media Classic wordt doorgaans slechts eenmaal per gebruiker uitgevoerd.
 
@@ -64,7 +64,7 @@ Begin met het integreren van Dynamic Media Classic met Adobe Analytics OAuth. De
    * Onder **[!UICONTROL Client ID]**, selecteert u **[!UICONTROL Copy]** om de waarde te kopiëren. U hebt deze waarde nodig voor de daaropvolgende configuratie Analytics in de Dynamic Media Classic-bureaubladtoepassing die moet worden uitgevoerd.
    * Onder **[!UICONTROL Client Secret]**, selecteert u **[!UICONTROL Retrieve client secret]** om de bijbehorende waarde weer te geven. Selecteren **[!UICONTROL Copy]** om de waarde te kopiëren. U hebt deze waarde nodig voor de volgende Adobe Analytics-configuratie in Dynamic Media Classic-bureaubladtoepassing die moet worden uitgevoerd.
 
-**Adobe Analytics configureren in Dynamic Media Classic-bureaubladtoepassing**
+## Adobe Analytics configureren in Adobe Dynamic Media Classic {#configure-analytics-in-dmc}
 
 >[!NOTE]
 >
