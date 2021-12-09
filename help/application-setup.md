@@ -8,7 +8,7 @@ geptopics: SG_SCENESEVENONDEMAND_PK/categories/setup
 feature: Dynamic Media Classic
 role: Admin
 exl-id: 3f96606e-ef5c-4c01-aa0f-3148f14e28be
-source-git-commit: 352b1c383195fa03294ad3501207d63f3cfe3e42
+source-git-commit: 121081e90b68357f7602924cd6ced0c0256b378f
 workflow-type: tm+mt
 source-wordcount: '10717'
 ht-degree: 2%
@@ -25,13 +25,13 @@ U kunt de pagina&#39;s van de Opstelling van de Toepassing gebruiken om algemene
 
 ## Algemene instellingen {#general-settings}
 
-Als u de pagina Algemene instellingen toepassing wilt openen, gaat u op de algemene navigatiebalk naar **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL General Settings]**.
+Ga naar **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL General Settings]**.
 
 ### Servers
 
 Bij het maken van accounts verschaft Adobe Dynamic Media Classic automatisch de toegewezen servers voor uw bedrijf. Deze servers worden gebruikt om URL-tekenreeksen voor uw website en toepassingen samen te stellen. Deze URL-aanroepen gelden specifiek voor uw account.
 
-Zie ook [Test de service Beveiligd testen](testing-assets-making-them-public.md#testing_the_secure_testing_service).
+Zie ook [De service Beveiligde tests testen](testing-assets-making-them-public.md#testing_the_secure_testing_service).
 
 * **[!UICONTROL Published Server Name]** - Deze server is de CDN-server (Live Content Deliver Network) die wordt gebruikt in alle door het systeem gegenereerde URL-aanroepen die specifiek zijn voor uw account. Wijzig deze servernaam alleen als een Adobe Dynamic Media Classic-supporttechnicus u hiervoor instructies geeft.
 
@@ -39,15 +39,15 @@ Zie ook [Test de service Beveiligd testen](testing-assets-making-them-public.md#
 
 <!-- **AGM Server Name** This server is used for Web-to-Print templates. This server is set on a company-wide basis. Do not change this server name unless instructed to do so by an Adobe DynamicMedia Classic support technician. -->
 
-* **[!UICONTROL Test&Target Server Name]** - Test&amp;Target URL tot en met .com. Zie [!DNL Adobe Dynamic Media Classic] integreren met [!DNL Adobe Target Standard/Premium] voor instructies over het verkrijgen van deze URL.
+* **[!UICONTROL Test&Target Server Name]** - Test&amp;Target URL tot en met .com. Zie Integratie voor instructies over het verkrijgen van deze URL [!DNL Adobe Dynamic Media Classic] with [!DNL Adobe Target Standard/Premium].
 
 <!-- **Test Publish Context Server Name** -->
 
-* **[!UICONTROL iOS Streaming Server Name]** - De URL naar uw  [!DNL Adobe Dynamic Media Classic] iOS-streamingserver. Deze server levert streaming video aan op iOS gebaseerde apparaten gebruikend het protocol van HTTP.
+* **[!UICONTROL iOS Streaming Server Name]** - De URL naar uw [!DNL Adobe Dynamic Media Classic] iOS-streamingserver. Deze server levert streaming video aan op iOS gebaseerde apparaten gebruikend het protocol van HTTP.
 
-* **[!UICONTROL Progressive Video Server Name]** - De URL naar uw  [!DNL Adobe Dynamic Media Classic] progressieve videoserver. Deze server levert progressieve video gebruikend het protocol van HTTP.
+* **[!UICONTROL Progressive Video Server Name]** - De URL naar uw [!DNL Adobe Dynamic Media Classic] progressieve videoserver. Deze server levert progressieve video gebruikend het protocol van HTTP.
 
-* **[!UICONTROL Show URL for unpublished assets]** - Selecteer deze optie als u een URL wilt weergeven  [!DNL Adobe Dynamic Media Classic] als u een voorvertoning van een element wilt weergeven, ongeacht of het is gepubliceerd of niet. Als het element niet is gepubliceerd, werkt de URL niet. U kunt de URL echter ook gebruiken voor plannings- of organisatorische doeleinden.
+* **[!UICONTROL Show URL for unpublished assets]** - Selecteer deze optie als u wilt [!DNL Adobe Dynamic Media Classic] om een URL weer te geven wanneer u een voorbeeld weergeeft van een element, ongeacht of dit is gepubliceerd of niet. Als het element niet is gepubliceerd, werkt de URL niet. U kunt de URL echter ook gebruiken voor plannings- of organisatorische doeleinden.
 
 <!-- **Allow AIR install** Select this option to allow users to download Adobe Dynamic Media Classic desktop version to their local hard drives. Users install the application from the Desktop Version area of the Personal Setup screen. -->
 
@@ -55,29 +55,29 @@ Zie ook [Test de service Beveiligd testen](testing-assets-making-them-public.md#
 
 * **[!UICONTROL CDN Invalidation Template]** - Geeft de sjabloon op die wordt gebruikt voor het ongeldig maken van de CDN-cache (Content Delivery Network).
 
-   Stel bijvoorbeeld dat u een URL voor een afbeelding (inclusief voorinstellingen of modifiers voor afbeeldingen) opgeeft die verwijst naar `<ID>`, in plaats van een specifieke afbeeldings-id zoals in het volgende voorbeeld:
+   Stel dat u bijvoorbeeld een afbeeldings-URL invoert (inclusief voorinstellingen of wijzigingstoetsen voor afbeeldingen) die verwijst naar `<ID>`in plaats van een specifieke afbeelding-id zoals in het volgende voorbeeld:
 
    `https://sample.scene7.com/is/image/Company/<ID>?$s7product$`
 
-   Als de sjabloon alleen `<ID>` bevat, vult Adobe Dynamic Media Classic `https://<server>/is/image` in, waarbij `<server>` de naam van de publicatieserver is die is gedefinieerd in Algemene instellingen.
+   Als de sjabloon alleen bevat `<ID>`en vervolgens vult Adobe Dynamic Media Classic de `https://<server>/is/image`, waarbij `<server>` Dit is de naam van de publicatieserver die is gedefinieerd in Algemene instellingen.
 
-   Als u CDN invalidate Template instelt, selecteert u een afbeelding met de naam Backpack_B en gaat u naar **[!UICONTROL File]** > **[!UICONTROL Invalidate CDN]** resulteert in de volgende gegenereerde URL in de interface CDN invalidate:
+   Het plaatsen van CDN ongeldig Malplaatje, selecteert een beeld genoemd Backpack_B, en gaat dan naar **[!UICONTROL File]** > **[!UICONTROL Invalidate CDN]** resulteert in volgende geproduceerde URL in CDN ongeldig maakt interface:
 
    `https://sample.scene7.com/is/image/Company/Backpack_B?$s7product$`
 
-   Selecteer **[!UICONTROL Continue]** in de keuzelijst URL om de cache voor die specifieke URL-aanroep van de afbeelding te wissen. U kunt ook URL&#39;s toevoegen door deze in het vak URL-lijst te typen of te plakken; u hoeft de sjabloon niet vooraf in te stellen.
+   Selecteer in de keuzelijst URL de optie **[!UICONTROL Continue]** om het geheime voorgeheugen voor die specifieke beeldURL vraag te ontruimen. U kunt ook URL&#39;s toevoegen door deze in het vak URL-lijst te typen of te plakken; u hoeft de sjabloon niet vooraf in te stellen.
 
    Nadat u uw Malplaatje van de Invalidatie CDN hebt geselecteerd, en een ongeldig CDN verzoek gemaakt, duikt een indicator op in het gebruikersinterface. Het geeft u een schatting van hoe lang het duurt om het geheime voorgeheugen te ontruimen.
 
-   Als er in Adobe Dynamic Media Classic meerdere afbeeldingen zijn geselecteerd wanneer u naar **[!UICONTROL File]** > **[!UICONTROL Invalidate CDN]** gaat, wordt er naar elke afbeelding verwezen in de opgeslagen sjabloon-URL. Daarom kunt u CDN bepalen ongeldig Malplaatje dat van verwijzingen voorziet elke URL die op uw Website (zoals productdetail en onderzoeksresultaten) wordt voorzien. Wanneer u vervolgens een of meer afbeeldingen selecteert om ongeldig te worden gemaakt door het cachegeheugen, vullen de URL&#39;s automatisch de interface in.
+   Op dezelfde manier als er in Adobe Dynamic Media Classic meerdere afbeeldingen zijn geselecteerd wanneer u naar **[!UICONTROL File]** > **[!UICONTROL Invalidate CDN]**, wordt naar elke afbeelding verwezen in de opgeslagen sjabloon-URL. Daarom kunt u CDN bepalen ongeldig Malplaatje dat van verwijzingen voorziet elke URL die op uw Website (zoals productdetail en onderzoeksresultaten) wordt voorzien. Wanneer u vervolgens een of meer afbeeldingen selecteert om ongeldig te worden gemaakt door het cachegeheugen, vullen de URL&#39;s automatisch de interface in.
 
    Zie [Inhoud in cache plaatsen](dmc-platform-overview.md#content_caching).
 
-   Zie [Opnieuw gepubliceerde elementen en CDN-vertragingen](publishing-files.md#republished_assets_and_cdn_delays).
+   Zie [Hergepubliceerde elementen en CDN-vertragingen](publishing-files.md#republished_assets_and_cdn_delays).
 
 ### Bladeren
 
-* **[!UICONTROL Show Projects]** - Hiermee bepaalt u of Projecten beschikbaar zijn als manier om uw Adobe Dynamic Media Classic-middelen te organiseren. Zie [Uw werk organiseren met Projecten](/help/organizing-projects.md).
+* **[!UICONTROL Show Projects]** - Hiermee bepaalt u of Projecten beschikbaar zijn als manier om uw Adobe Dynamic Media Classic-middelen te organiseren. Zie [Uw werk organiseren met projecten](/help/organizing-projects.md).
 
 * **[!UICONTROL Show Sample eVideo Content]** - Schakel de weergave van de inhoud van het eVideo-voorbeeld in of uit.
 
@@ -89,13 +89,13 @@ Zie ook [Test de service Beveiligd testen](testing-assets-making-them-public.md#
 
    U kunt echter wel toegang krijgen tot individuele gecodeerde video&#39;s uit de Master video of de adaptieve videoset. Dubbelklik hiertoe op de miniatuurafbeelding van de video om de gedetailleerde weergave te openen. Selecteer vervolgens **[!UICONTROL Encoded Videos]** in het rechterdeelvenster, zodat u toegang hebt tot alle &#39;onderliggende&#39; video&#39;s.
 
-   U kunt ook naar **[!UICONTROL File]** > **[!UICONTROL Reprocess]** gaan om meer gecodeerde &quot;onderliggende&quot;video&#39;s direct van een Aangepaste VideoReeks tot stand te brengen. Adobe Dynamic Media Classic zoekt automatisch naar de &#39;bovenliggende&#39; Master video van de adaptieve videoset en gebruikt die als de bronvideo voor transcodering. Wanneer u de nieuwe individuele gecodeerde video&#39;s opslaat, worden deze echter niet weergegeven wanneer u doorzoekt of bladert. Ze zijn echter nog steeds toegankelijk via het tabblad Gecodeerde video&#39;s in de gedetailleerde weergave.
+   U kunt ook naar **[!UICONTROL File]** > **[!UICONTROL Reprocess]** om meer gecodeerde &#39;onderliggende&#39; video&#39;s rechtstreeks vanuit een adaptieve videoset te maken. Adobe Dynamic Media Classic zoekt automatisch naar de &#39;bovenliggende&#39; Master video van de adaptieve videoset en gebruikt die als de bronvideo voor transcodering. Wanneer u de nieuwe individuele gecodeerde video&#39;s opslaat, worden deze echter niet weergegeven wanneer u doorzoekt of bladert. Ze zijn echter nog steeds toegankelijk via het tabblad Gecodeerde video&#39;s in de gedetailleerde weergave.
 
-   Zie [Video uploaden en transcoderen](uploading-encoding-videos.md#uploading_and_encoding_videos).
+   Zie [Video&#39;s uploaden en transcoderen](uploading-encoding-videos.md#uploading_and_encoding_videos).
 
-   Selecteer **[!UICONTROL Show Encoded Videos]** als u wilt doorgaan met de mogelijkheid om toegang te krijgen tot al uw gecodeerde videoderivaten wanneer u doorzoekt en bladert.
+   Selecteer **[!UICONTROL Show Encoded Videos]**.
 
-   Er zijn bepaalde acties in het menu Opbouwen die alleen werken, of optioneel werken, met afzonderlijke video&#39;s. Deze functionaliteit maakt het noodzakelijk om alle gecodeerde videoderivaten te tonen die u kunt selecteren, ongeacht hoe u **[!UICONTROL Show Encoded Videos]** plaatst. De acties van de Bouwstijl die **[!UICONTROL Show Encoded Videos]** plaatsen met voeten treden omvatten **[!UICONTROL Adaptive Video Sets]**, en **[!UICONTROL eCatalogs]**.
+   Er zijn bepaalde acties in het menu Opbouwen die alleen werken, of optioneel werken, met afzonderlijke video&#39;s. Deze functionaliteit maakt het noodzakelijk om alle gecodeerde videoderivaten te tonen die u kunt selecteren, ongeacht hoe u plaatst **[!UICONTROL Show Encoded Videos]**. De acties van de Bouwstijl die met voeten treden **[!UICONTROL Show Encoded Videos]** instellen, include **[!UICONTROL Adaptive Video Sets]**, en **[!UICONTROL eCatalogs]**.
 
    >[!NOTE]
    >
@@ -127,17 +127,17 @@ Zie ook [Standaardopties voor uploadtaken](https://s7d5.scene7.com/s7viewers/htm
 
 * **[!UICONTROL Default Color Profiles]** - Hiermee geeft u de kleurprofielen op die worden toegepast als onderdeel van de standaardopties voor kleurprofielen bij het toevoegen van CMYK-afbeeldingen.
 
-* **[!UICONTROL Default Upload Options]** - Hiermee opent u het dialoogvenster Taakopties uploaden, waarin u de standaardopties voor uploaden kunt opgeven. Zie [Opties voor uploaden](/help/uploading-files.md#upload_options) voor informatie over deze opties.
+* **[!UICONTROL Default Upload Options]** - Hiermee opent u het dialoogvenster Taakopties uploaden, waarin u de standaardopties voor uploaden kunt opgeven. Voor informatie over deze opties raadpleegt u [Uploadopties](/help/uploading-files.md#upload_options).
 
 ### Afbeeldingskaarteditor, naar toepassing
 
 * **[!UICONTROL Default Image Mapping HREF]** - Hiermee definieert u de standaard-URL die wordt gebruikt voor de HREF-kolom in afbeeldingstoewijzing. Deze URL is de standaard-URL die u ziet wanneer u Afbeeldingen met hyperlinks maakt.
 
-* **[!UICONTROL Default Image Mapping Template]** - Definieert de standaard JavaScript voor de HREF-sjabloon in afbeeldingstoewijzing. U kunt hier aangepaste code instellen die wordt uitgevoerd wanneer u een afbeelding met hyperlinks selecteert.
+* **[!UICONTROL Default Image Mapping Template]** - Definieert de standaard JavaScript voor de HREF-sjabloon in afbeeldingstoewijzing. U kunt hier aangepaste code instellen die moet worden uitgevoerd wanneer u een afbeelding met hyperlinks selecteert.
 
 ### Overige instellingen, naar toepassing
 
-* **[!UICONTROL Trash Can Clean Up Warnings]** - Elementen in de prullenbak worden automatisch binnen zeven dagen verwijderd. Selecteer &quot;E-mails verzenden voordat de prullenmand automatisch wordt verwijderd&quot; als u wilt dat meldingen worden verzonden naar bedrijfsbeheerders wanneer elementen in de prullenmand vier dagen verwijderd zijn van definitieve verwijdering. Zie [De prullenmand beheren](/help/trash-folder.md).
+* **[!UICONTROL Trash Can Clean Up Warnings]** - Elementen in de prullenbak worden automatisch binnen zeven dagen verwijderd. Selecteer &quot;E-mails verzenden voordat de prullenmand automatisch wordt verwijderd&quot; als u wilt dat meldingen worden verzonden naar bedrijfsbeheerders wanneer elementen in de prullenmand vier dagen verwijderd zijn van definitieve verwijdering. Zie [De map Prullenmand beheren](/help/trash-folder.md).
 
 ## De optie Afbeeldingen overschrijven gebruiken {#using-the-overwrite-images-option}
 
@@ -145,7 +145,7 @@ Adobe Dynamic Media Classic staat niet toe dat twee bestanden dezelfde naam hebb
 
 Als u eerder afbeeldingen hebt geüpload en vervolgens de originele bestanden hebt gewijzigd (of deze hebt vervangen), bepaalt de gekozen optie Overschrijven hoe Adobe Dynamic Media Classic de afbeeldingen vervangt. Er wordt geen informatie over de afbeelding gewijzigd, maar de oude wordt vervangen door de nieuwe afbeelding. Als de map ook afbeeldingen bevat die nog niet in Adobe Dynamic Media Classic staan, worden deze afbeeldingen toegevoegd.
 
-Gebruik deze optie als de afbeeldingen die u hebt geüpload op een of andere manier zijn gewijzigd (de afbeelding is gewijzigd), maar de verwijzing naar de afbeelding ongewijzigd blijft. Overschrijven is ook handig bij het uploaden en rippen van Adobe®-PDF. Als u wilt instellen hoe de afbeelding in Adobe Dynamic Media Classic *wordt bijgesneden, past u de ICC-kleurprofielopties in het dialoogvenster Uploaden aan en uploadt u deze opnieuw met de functie Overschrijven.*
+Gebruik deze optie als de afbeeldingen die u hebt geüpload op een of andere manier zijn gewijzigd (de afbeelding is gewijzigd), maar de verwijzing naar de afbeelding ongewijzigd blijft. Overschrijven is ook handig bij het uploaden en rippen van Adobe®-PDF. Hoe Adobe Dynamic Media Classic verfijnen *rips* in de afbeelding, past u de ICC-kleurprofielopties aan in het dialoogvenster Uploaden en uploadt u de afbeelding opnieuw met de functie Overschrijven.
 
 De Adobe Dynamic Media Classic-id&#39;s die worden gebruikt om toegang te krijgen tot afbeeldingen van de productieservers, zijn afgeleid van de bestandsnamen van de afbeeldingen. Het gebruik van hoofdletters en kleine letters in de bestandsnaam is belangrijk, zowel voor de vervanging van bestaande bestanden als voor de Adobe Dynamic Media Classic-id&#39;s die worden gebruikt om de afbeelding te openen. Zorg ervoor dat het gebruik van hoofdletters en kleine letters in bestandsnamen correct is voordat u bestanden uploadt naar Adobe Dynamic Media Classic. Op deze manier voorkomt u Adobe Dynamic Media Classic-id&#39;s die alleen verschillen in hoofdletters en kleine letters voor dezelfde afbeelding.
 
@@ -157,7 +157,7 @@ Het scherm Voorinstellingen afbeelding is bedoeld voor het maken en bewerken van
 
 Beheerders kunnen voorinstellingen maken voor het exporteren van elementen. Gebruikers kunnen bij het exporteren van afbeeldingen een voorinstelling kiezen die de afbeeldingen opnieuw opmaakt volgens de specificaties die de beheerder heeft opgegeven.
 
-Als u het scherm Voorinstelling afbeelding wilt openen, gaat u op de algemene navigatiebalk naar **[!UICONTROL Setup]** > **[!UICONTROL Image Presets]**.
+Ga naar **[!UICONTROL Setup]** > **[!UICONTROL Image Presets]**.
 
 Zie [Slimme beeldverwerking](https://experienceleague.adobe.com/docs/experience-manager-65/assets/dynamic/imaging-faq.html#dynamic).
 
@@ -166,18 +166,18 @@ Zie [Slimme beeldverwerking](https://experienceleague.adobe.com/docs/experience-
 1. Ga naar **[!UICONTROL Setup]** > **[!UICONTROL Image Presets]**.
 1. Maak een voorinstelling of begin met een bestaande voorinstelling:
 
-   * **Een voorinstelling**  voor afbeeldingen maken - Selecteren  **[!UICONTROL Add]**.
-   * **Een voorinstelling voor afbeelding maken op basis van een bestaande voorinstelling** . Selecteer de voorinstelling voor afbeelding die het meest lijkt op de voorinstelling die u wilt maken en selecteer  **[!UICONTROL Edit]**.
+   * **Een voorinstelling voor afbeeldingen maken** - Selecteer **[!UICONTROL Add]**.
+   * **Een voorinstelling voor afbeeldingen maken op basis van een bestaande voorinstelling** - Selecteer de voorinstelling voor afbeeldingen die het meest lijkt op de voorinstelling die u wilt maken en selecteer **[!UICONTROL Edit]**.
 
 1. Voer op de pagina Voorinstelling toevoegen (of bewerken) een naam in voor de voorinstelling.
 1. Stel de gewenste voorinstellingsopties in.
 
-   Zie [Opties voor voorinstellingen afbeelding](application-setup.md#image_preset_options).
+   Zie [Voorinstellingsopties voor afbeelding](application-setup.md#image_preset_options).
 
-1. Selecteer **[!UICONTROL Save]** of **[!UICONTROL Save As]** als u vanuit een bestaande voorinstelling bent begonnen.
-1. Als u de voorinstelling wilt voorvertonen met uw eigen afbeelding, selecteert u **[!UICONTROL Browse]** en selecteert u een afbeelding. Selecteer **[!UICONTROL Reset]** om een voorvertoning weer te geven met de standaardafbeelding.
+1. Selecteren **[!UICONTROL Save]** of als u vanuit een bestaande voorinstelling bent begonnen, selecteert u **[!UICONTROL Save As]**.
+1. Selecteer **[!UICONTROL Browse]** en selecteer vervolgens een afbeelding. Selecteer **[!UICONTROL Reset]**.
 
-U kunt een Voorinstelling afbeelding bewerken door de naam ervan te selecteren in het scherm Voorinstellingen afbeelding en vervolgens **[!UICONTROL Edit]** te selecteren. Als u een voorinstelling voor afbeeldingen wilt verwijderen, selecteert u deze en selecteert u **[!UICONTROL Delete]**.
+U kunt een Voorinstelling afbeelding bewerken door de naam ervan te selecteren in het scherm Voorinstellingen afbeelding en vervolgens **[!UICONTROL Edit]**. Als u een voorinstelling voor afbeeldingen wilt verwijderen, selecteert u deze en selecteert u vervolgens **[!UICONTROL Delete]**.
 
 ### Voorinstellingsopties voor afbeelding {#image-preset-options}
 
@@ -191,13 +191,13 @@ In het scherm Voorinstelling toevoegen en Voorinstelling bewerken vindt u de vol
 
    * Kwantiseringsopties voor kleur GIF
 
-      * **[!UICONTROL Type]** - Selecteer Adaptief (standaard), Web of Macintosh. Als u **[!UICONTROL GIF With Alpha]** selecteert, is de optie Macintosh niet beschikbaar.
+      * **[!UICONTROL Type]** - Selecteer Adaptief (standaard), Web of Macintosh. Als u **[!UICONTROL GIF With Alpha]**, is de optie Macintosh niet beschikbaar.
 
       * **[!UICONTROL Dither]** - Selecteer Onscherp of Uit.
 
       * **[!UICONTROL Number Of Colors]** - Sleep de schuifregelaar om 2-255 in te voeren.
 
-      * **[!UICONTROL Color List]** - Voer een door komma&#39;s gescheiden lijst in. Voer bijvoorbeeld `000000,888888,ffffff` in voor wit, grijs en zwart.
+      * **[!UICONTROL Color List]** - Voer een door komma&#39;s gescheiden lijst in. Voor wit, grijs en zwart voert u bijvoorbeeld de volgende gegevens in: `000000,888888,ffffff`.
    * JPEG-opties
 
       * **[!UICONTROL Quality]** - Hiermee bepaalt u het compressieniveau JPEG. Deze instelling is van invloed op zowel de bestandsgrootte als de afbeeldingskwaliteit. De schaal van de kwaliteit van de JPEG is 1-100.
@@ -213,7 +213,7 @@ In het scherm Voorinstelling toevoegen en Voorinstelling bewerken vindt u de vol
 
 * **[!UICONTROL Sharpening]** - Selecteer de optie Eenvoudig verscherpen inschakelen om een standaard verscherpingsfilter toe te passen op de afbeelding nadat alle schaling heeft plaatsgevonden. Verscherpen kan helpen de vervaging te compenseren die kan optreden wanneer u een afbeelding met een andere grootte weergeeft.
 
-   Zie [Een afbeelding verscherpen](sharpening-image.md#sharpening_an_image) voor meer informatie over verscherpen, modi voor opnieuw berekenen en onscherp maskeren. Zie ook [Video over training](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&amp;emailurl=https://s7d5.scene7.com/s7/emailFriend&amp;serverUrl=https://s7d5.scene7.com/is/image/&amp;config=Scene7SharedAssets/Universal_HTML5_Video&amp;contenturl=https://s7d5.scene7.com/skins/&amp;asset=S7tutorials/547_sharpening1_converted%20renamed_Done-AVS).
+   Zie voor meer informatie over verscherpen, nieuwe beeldpixels berekenen en onscherp maskeren [Een afbeelding verscherpen](sharpening-image.md#sharpening_an_image). Zie ook [Verscherpen](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&amp;emailurl=https://s7d5.scene7.com/s7/emailFriend&amp;serverUrl=https://s7d5.scene7.com/is/image/&amp;config=Scene7SharedAssets/Universal_HTML5_Video&amp;contenturl=https://s7d5.scene7.com/skins/&amp;asset=S7tutorials/547_sharpening1_converted%20renamed_Done-AVS) trainingsvideo.
 
 * **[!UICONTROL Resample Mode]** - Selecteer een optie voor de modus Nieuwe pixels berekenen. Met deze opties verscherpt u de afbeelding wanneer deze wordt gedownsampled:
 
@@ -237,7 +237,7 @@ In het scherm Voorinstelling toevoegen en Voorinstelling bewerken vindt u de vol
 
 * **[!UICONTROL Color]** Kies de volgende opties:
 
-* **[!UICONTROL Output Color Profile]** - Selecteer  **[!UICONTROL Use Default]** of een van de ICC-kleurprofielen die beschikbaar zijn op de Adobe Dynamic Media Classic.
+* **[!UICONTROL Output Color Profile]** - Selecteer **[!UICONTROL Use Default]** of een van de ICC-kleurprofielen die beschikbaar zijn op de Adobe Dynamic Media Classic.
 
    Zie ook [ICC-profielen](icc-profiles.md#icc_profiles).
 
@@ -256,9 +256,9 @@ In het scherm Voorinstelling toevoegen en Voorinstelling bewerken vindt u de vol
 1. Ga naar **[!UICONTROL Setup]** > **[!UICONTROL Image Presets]**.
 1. Selecteer in het scherm Voorinstellingen afbeelding een voorinstelling in de tabel en voer een van de volgende handelingen uit:
 
-   * Selecteer **[!UICONTROL Edit]** en geef vervolgens nieuwe opties op in het dialoogvenster Voorinstelling bewerken.
-   * Selecteer **[!UICONTROL Delete]** om de voorinstelling uit de lijst te verwijderen.
-   * Schakel het selectievakje **[!UICONTROL Active]** naast de naam van een voorinstelling uit als u deze wilt verwijderen uit de volledige Adobe Dynamic Media Classic-gebruikersinterface voor MediaPortal-gebruikers.
+   * Selecteren **[!UICONTROL Edit]** en geeft u nieuwe opties op in het dialoogvenster Voorinstelling bewerken.
+   * Selecteren **[!UICONTROL Delete]** om de voorinstelling uit de lijst te verwijderen.
+   * Schakel de optie **[!UICONTROL Active]** Schakel het selectievakje naast de naam van een voorinstelling in als u deze wilt verwijderen uit de volledige Adobe Dynamic Media Classic-gebruikersinterface voor MediaPortal-gebruikers.
 
 ## Aangepaste videovoorinstellingen activeren of deactiveren {#activating-or-deactivating-adaptive-video-presets}
 
@@ -268,17 +268,17 @@ Alleen coderingsvoorinstellingen voor Adaptieve video worden standaard geactivee
 
 Zie [Video&#39;s uploaden en coderen](uploading-encoding-videos.md#uploading_and_encoding_videos).
 
-Zie ook [Video presets](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&amp;emailurl=https://s7d5.scene7.com/s7/emailFriend&amp;serverUrl=https://s7d5.scene7.com/is/image/&amp;config=Scene7SharedAssets/Universal_HTML5_Video&amp;contenturl=https://s7d5.scene7.com/skins/&amp;asset=S7tutorials/549_video-presets_converted%20renamed_Done-AVS) trainingsvideo.
+Zie ook [Videovoorinstellingen](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&amp;emailurl=https://s7d5.scene7.com/s7/emailFriend&amp;serverUrl=https://s7d5.scene7.com/is/image/&amp;config=Scene7SharedAssets/Universal_HTML5_Video&amp;contenturl=https://s7d5.scene7.com/skins/&amp;asset=S7tutorials/549_video-presets_converted%20renamed_Done-AVS) trainingsvideo.
 
 **Aangepaste videovoorinstellingen activeren of deactiveren:**
 
 1. Ga in de rechterbovenhoek van Adobe Dynamic Media Classic naar **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Video Presets]** > **[!UICONTROL Adaptive Video Presets]**.
 1. Schakel op de pagina Voorinstellingen adaptieve video het selectievakje naast de naam van een voorinstelling uit om de voorinstelling te verwijderen uit de lijst EVideo-opties in het dialoogvenster Taakopties uploaden.
-1. Selecteer **[!UICONTROL Close]**.
+1. Selecteren **[!UICONTROL Close]**.
 
 ## Videovoorinstellingen voor het coderen van videobestanden {#video-presets-for-encoding-video-files}
 
-Als u een coderingsvoorinstelling wilt selecteren, selecteert u **[!UICONTROL Job Options]** in de rechterbenedenhoek van de pagina Uploaden. Vouw de eVideo-opties in het dialoogvenster Taakopties uploaden uit en selecteer de gewenste voorinstellingen voor videocodering.
+Als u een coderingsvoorinstelling wilt selecteren, selecteert u in de rechterbenedenhoek van de pagina Uploaden de optie **[!UICONTROL Job Options]**. Vouw de eVideo-opties in het dialoogvenster Taakopties uploaden uit en selecteer de gewenste voorinstellingen voor videocodering.
 
 >[!NOTE]
 >
@@ -296,9 +296,9 @@ Als u een coderingsvoorinstelling wilt selecteren, selecteert u **[!UICONTROL Jo
 
       Zie [Een voorinstelling voor videocodering toevoegen of bewerken](uploading-encoding-videos.md#adding_or_editing_a_video_encoding_preset).
 
-   * **[!UICONTROL Adaptive Video Encoding (16:9 or 4:3)]** - Maak zowel video&#39;s met een hoogte-breedteverhouding van 16:9 als 4:3 voor levering aan desktops, mobiele apparaten (iPhone, iPad, Android™) en tablets (iPad, Android™). Alles geoptimaliseerd met de resolutie en bitsnelheid die het beste overeenkomen met de verbindingssnelheid van de viewer.
+   * **[!UICONTROL Adaptive Video Encoding (16:9 or 4:3)]** - Maak zowel video&#39;s met de beeldverhouding 16:9 als 4:3 voor levering aan desktops, mobiele apparaten (iPhone, iPad, Android™) en tablets (iPad, Android™). Alles geoptimaliseerd met de resolutie en bitsnelheid die het beste overeenkomen met de verbindingssnelheid van de viewer.
 
-      Zie [Aangepaste videocodering (16:9 of 4:3) voor videovoorinstellingen](application-setup.md#adaptive_video_encoding_16_9_or_4_3_video_presets).
+      Zie [Adaptieve videocodering (16:9 of 4:3), videovoorinstellingen](application-setup.md#adaptive_video_encoding_16_9_or_4_3_video_presets).
 
    * **[!UICONTROL Single Encoding Presets]**
 
@@ -310,7 +310,7 @@ Als u een coderingsvoorinstelling wilt selecteren, selecteert u **[!UICONTROL Jo
       * Selecteer een coderingsvoorinstelling op basis van de resolutiegrootte en de bandbreedte waarmee u de video wilt afspelen.
       * U kunt Adaptieve videocodering en een of meer coderingsvoorinstellingen per video selecteren. U kunt bijvoorbeeld een bestand coderen voor zowel desktop als mobiel in één uploadtaak.
 
-Nadat u **[!UICONTROL Start Upload]** hebt geselecteerd, wordt het originele master videobestand geüpload en worden gecodeerde bestanden gegenereerd van het master bestand.
+Nadat u **[!UICONTROL Start Upload]**, wordt het oorspronkelijke master videobestand geüpload en worden gecodeerde bestanden gegenereerd vanuit het master bestand.
 
 ### Voorinstellingsopties voor codering {#about-encoding-preset-options}
 
@@ -344,9 +344,9 @@ Een coderingsvoorinstelling die werkt met een willekeurige hoogte-breedteverhoud
 
 ### Adaptieve videocodering (16:9 of 4:3), videovoorinstellingen {#adaptive-video-encoding-or-video-presets}
 
-Deze aangepaste videocoderingsvoorinstellingen combineren een reeks afzonderlijke coderingsvoorinstellingen die automatisch voor u worden geselecteerd op basis van de hoogte-breedteverhouding van de video die u hebt geüpload. Als u bijvoorbeeld een 4:3-video uploadt, wordt deze automatisch gecodeerd met alle vijf voorinstellingen van 4:3 die zich in de lijst met master voorinstellingen bevinden in de optie **Adaptieve videocodering (16:9 of 4:3)**.
+Deze aangepaste videocoderingsvoorinstellingen combineren een reeks afzonderlijke coderingsvoorinstellingen die automatisch voor u worden geselecteerd op basis van de hoogte-breedteverhouding van de video die u hebt geüpload. Als u bijvoorbeeld een 4:3-video uploadt, wordt deze automatisch gecodeerd met alle vijf voorinstellingen van 4:3 die zich in de lijst met master voorinstellingen in het dialoogvenster **Adaptieve videocodering (16:9 of 4:3)** optie.
 
-Zie [Informatie over coderingsvoorinstellingsopties](application-setup.md#about_encoding_preset_options) voor informatie over parameters voor coderingsopties.
+Zie voor informatie over parameters voor coderingsopties [Voorinstellingsopties voor codering](application-setup.md#about_encoding_preset_options).
 
 **Voorinstellingen voor Adaptieve videocodering (16:9 of 4:3)**
 
@@ -367,7 +367,7 @@ Zie [Informatie over coderingsvoorinstellingsopties](application-setup.md#about_
 
 Voorinstellingen voor videocodering voor MP4 en OGV op bureaubladcomputers.
 
-Zie [Informatie over de coderingsvoorinstellingsopties](application-setup.md#about_encoding_preset_options) voor informatie over parameters voor coderingsopties.
+Zie voor informatie over parameters voor coderingsopties [De voorinstellingsopties voor codering](application-setup.md#about_encoding_preset_options).
 
 **H264 Main 3.2 - Audio AAC, MP4-bestandsextensie**
 
@@ -399,7 +399,7 @@ Zie [Informatie over de coderingsvoorinstellingsopties](application-setup.md#abo
 
 Hetzelfde als bron-fps. Voorinstellingen voor videocodering voor mobiele iPhone-, iPad- en Android™-apparaten.
 
-Zie [Informatie over de coderingsvoorinstellingsopties](application-setup.md#about_encoding_preset_options) voor informatie over parameters voor coderingsopties.
+Zie voor informatie over parameters voor coderingsopties [De voorinstellingsopties voor codering](application-setup.md#about_encoding_preset_options).
 
 **H264 Baseline 2.1 - Audio AAC, MP4-bestandsextensie**
 
@@ -420,9 +420,9 @@ Zie [Informatie over de coderingsvoorinstellingsopties](application-setup.md#abo
 
 >[!NOTE]
 >
->**Flash Viewers End-of-Life Notice**  - Vanaf 31 januari 2017 heeft Adobe Dynamic Media Classic officieel de ondersteuning voor het Flash-viewerplatform beëindigd.
+>**Eindbericht voor Flash Viewers** - Met ingang van 31 januari 2017 heeft Adobe Dynamic Media Classic officieel de ondersteuning van het Flash-viewerplatform beëindigd.
 
-Een *Voorinstelling voor viewer* is een verzameling instellingen die bepalen hoe gebruikers rich-media-elementen weergeven op hun computerschermen en mobiele apparaten. Als beheerder kunt u Viewer-voorinstellingen maken. Er zijn instellingen beschikbaar voor een array met viewerconfiguratieopties. U kunt bijvoorbeeld de weergavegrootte, het zoomgedrag, de kleurenschema&#39;s, de randen en de lettertypen van de viewer wijzigen.
+A *Voorinstelling viewer* is een verzameling instellingen die bepalen hoe gebruikers rich-media-elementen op hun computerschermen en mobiele apparaten weergeven. Als beheerder kunt u Viewer-voorinstellingen maken. Er zijn instellingen beschikbaar voor een array met viewerconfiguratieopties. U kunt bijvoorbeeld de weergavegrootte, het zoomgedrag, de kleurenschema&#39;s, de randen en de lettertypen van de viewer wijzigen.
 
 U kunt het beste Adobe Dynamic Media Classic HTML5-videoviewers gebruiken. De voorinstellingen die worden gebruikt in HTML5-videoviewers zijn robuuste videospelers.
 
@@ -434,21 +434,21 @@ Door het volgende te combineren in één speler:
 
 U vergroot het bereik van uw rijke media-inhoud tot gebruikers op het bureaublad, het tablet en het mobiele apparaat en zorgt voor een gestroomlijnde videobeleving.
 
-Zie [Informatie over HTML5 Viewers](https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/library/viewers-for-aem-assets-only/c-html5-aem-asset-viewers.html?lang=en#viewers-for-aem-assets-only) in de Gids van de Verwijzing van de Kijkers van de Adobe.
+Zie [HTML5-viewers](https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/library/viewers-for-aem-assets-only/c-html5-aem-asset-viewers.html?lang=en#viewers-for-aem-assets-only) in de Adobe Viewers Reference Guide.
 
-Zie [Compatibiliteitsmatrix voor voorinstellingen van Adobe Dynamic Media Classic Viewer](application-setup.md#scene7_viewer_preset_compatibility_matrix).
+Zie [Compatibiliteitsmatrix voor Adobe Dynamic Media Classic Viewer-voorinstellingen](application-setup.md#scene7_viewer_preset_compatibility_matrix).
 
-Zie [Beste werkwijzen: De HTML5-videoviewer](best-practice-using-html5-video.md#best_practice_using_the_html5_video_viewer) gebruiken.
+Zie [Beste praktijken: De HTML5-videoviewer gebruiken](best-practice-using-html5-video.md#best_practice_using_the_html5_video_viewer).
 
 Afhankelijk van de viewer kunt u communityfuncties toevoegen. De communautaire eigenschappen omvatten een Embed knoop, E-mail knoop, de knoop van de Verbinding, en de knoop van de Plaats van het Bezoek. Met deze knoppen kunnen gebruikers die de viewer gebruiken de viewer delen met anderen of de Adobe Dynamic Media Classic-website openen.
 
-Zie ook [Adobe Viewers Reference Library Examples](https://landing.adobe.com/en/na/dynamic-media/ctir-2755/live-demos.html).
+Zie ook [Voorbeelden van Adobe Viewers Reference Library](https://landing.adobe.com/en/na/dynamic-media/ctir-2755/live-demos.html).
 
 ### Viewer-ondersteuning voor responsieve webpagina&#39;s {#viewer-support-for-responsive-designed-web-pages}
 
-Verschillende webpagina&#39;s hebben verschillende behoeften. Soms wilt u een webpagina die een koppeling bevat waarmee de HTML5-viewer wordt geopend in een apart browservenster. In andere gevallen moet u de HTML5 Viewer rechtstreeks insluiten op de hostpagina. In het laatste geval heeft de webpagina waarschijnlijk een statische indeling. Of de interface reageert op de toepassing en wordt anders weergegeven op verschillende apparaten of voor verschillende venstergrootten in de browser. Om aan deze behoeften te voldoen, ondersteunen de HTML5 Viewers die bij Adobe Dynamic Media Classic worden geleverd zowel statische webpagina&#39;s als responsieve webpagina&#39;s.
+Verschillende webpagina&#39;s hebben verschillende behoeften. Soms wilt u een webpagina die een koppeling bevat waarmee de HTML5-viewer wordt geopend in een apart browservenster. In andere gevallen moet u de HTML5 Viewer rechtstreeks insluiten op de hostpagina. In het laatste geval heeft de webpagina waarschijnlijk een statische indeling. Of de interface reageert op een ander scherm en wordt op verschillende apparaten of voor verschillende venstergrootten van de browser anders weergegeven. Om aan deze behoeften te voldoen, ondersteunen de HTML5 Viewers die bij Adobe Dynamic Media Classic worden geleverd zowel statische webpagina&#39;s als responsieve webpagina&#39;s.
 
-Zie [Informatie over responsieve afbeeldingsbibliotheek](https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/image-serving-api/image-serving-api/responsive-static-image-library/c-about-responsive-static-image-library.html#image-serving-api), [Responsieve afbeeldingsbibliotheek gebruiken](https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/image-serving-api/image-serving-api/responsive-static-image-library/t-using-responsive-static-image-library.html#image-serving-api) en [Opdrachtverwijzing - Opdrachtkenmerken](https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/image-serving-api/image-serving-api/responsive-static-image-library/t-using-responsive-static-image-library.html#responsive-static-image-library) voor meer informatie over het insluiten van responsieve viewers op uw webpagina&#39;s.
+Ga voor meer informatie over het insluiten van responsieve viewers op uw webpagina&#39;s naar [De bibliotheek met responsieve afbeeldingen](https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/image-serving-api/image-serving-api/responsive-static-image-library/c-about-responsive-static-image-library.html#image-serving-api), [Responsieve afbeeldingsbibliotheek gebruiken](https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/image-serving-api/image-serving-api/responsive-static-image-library/t-using-responsive-static-image-library.html#image-serving-api), en [Command reference - Command attributes](https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/image-serving-api/image-serving-api/responsive-static-image-library/t-using-responsive-static-image-library.html#responsive-static-image-library).
 
 ### Voorinstellingstypen voor viewer {#viewer-preset-types}
 
@@ -462,7 +462,7 @@ Beheerders kunnen de volgende typen voorinstellingen voor viewers maken en aanpa
 
 * **[!UICONTROL Spin Set Viewer]** - Biedt meerdere weergaven van een afbeelding, zodat gebruikers het object kunnen draaien om de verschillende zijden en hoeken te bekijken.
 
-* **Video-viewer** : geeft video&#39;s weer met de resolutieafmetingen van het bronbestand of een aangepaste grootte. Adobe Dynamic Media Classic wordt geleverd met veel vooraf gedefinieerde Viewer-voorinstellingen voor het afspelen van video. Als u een beheerder bent, kunt u aangepaste Video Viewer-voorinstellingen maken. Er zijn meer dan een dozijn verschillende instellingen voor het configureren van de video-viewer. U kunt de grootte, de voor- en achtergrondkleur, video- en audiobesturingselementen, de voortgangsbalk, de skin van de gebruikersinterface, de sociale functies en de Help configureren.
+* **Video-viewer** - Hiermee geeft u video&#39;s weer met de resolutieafmetingen van het bronbestand of een aangepaste grootte. Adobe Dynamic Media Classic wordt geleverd met veel vooraf gedefinieerde Viewer-voorinstellingen voor het afspelen van video. Als u een beheerder bent, kunt u aangepaste Video Viewer-voorinstellingen maken. Er zijn meer dan een dozijn verschillende instellingen voor het configureren van de video-viewer. U kunt de grootte, de voor- en achtergrondkleur, video- en audiobesturingselementen, de voortgangsbalk, de skin van de gebruikersinterface, de sociale functies en de Help configureren.
 
 * **[!UICONTROL Zoom Viewers]** - Biedt een keuze uit drie soorten zoomviewers:
 
@@ -476,15 +476,15 @@ Als de hoofdafbeelding bijvoorbeeld 350 x 350 pixels groot is, met een zoomfacto
 
 ### Compatibiliteitsmatrix voor Adobe Dynamic Media Classic Viewer-voorinstellingen {#scene-viewer-preset-compatibility-matrix}
 
-**Eindbericht** voor Flash-viewers: Met ingang van 31 januari 2017 heeft Adobe Dynamic Media Classic officieel de ondersteuning voor het Flash-viewerplatform beëindigd.
+**Eindbericht voor Flash Viewers**: Met ingang van 31 januari 2017 heeft Adobe Dynamic Media Classic officieel de ondersteuning voor het Flash-viewerplatform beëindigd.
 
 In de volgende tabel worden de momenteel beschikbare Adobe Dynamic Media Classic Viewer-voorinstellingen weergegeven. In de tabel wordt ook aangegeven of de viewer compatibel is met mobiele en desktopapparaten en welke technologie voor elke viewer wordt gebruikt.
 
-Zie ook [Adobe Viewers Reference Library Examples](https://landing.adobe.com/en/na/dynamic-media/ctir-2755/live-demos.html).
+Zie ook [Voorbeelden van Adobe Viewers Reference Library](https://landing.adobe.com/en/na/dynamic-media/ctir-2755/live-demos.html).
 
 Voor informatie over ondersteunde webbrowsers en besturingssysteemversies voor Viewers kunt u de Opmerkingen bij de release Viewers bekijken.
 
-Zie [Opmerkingen bij de release Adobe Viewers Reference](https://experienceleague.adobe.com/docs/dynamic-media-developer-resources.html).
+Zie [Opmerkingen bij de release Adobe Viewers](https://experienceleague.adobe.com/docs/dynamic-media-developer-resources.html).
 
 |  | Viewertechnologie | Desktop | Apple iPhone | Apple iPad | Android™-smartphone | Android™-tablet |
 |--- |--- |--- |--- |--- |--- |--- |
@@ -530,7 +530,7 @@ Adobe Dynamic Media Classic ondersteunt het afspelen van mobiele video voor MP4 
 
 |  | Viewertechnologie | Desktop | Apple iPhone | Apple iPad | Android™-smartphone | Android™-tablet | BlackBerry® Smartphone | Windows®-telefoon |
 |--- |--- |--- |--- |--- |--- |--- |--- |--- |
-| Universal_HTML5_Video(Inclusief ondersteuning voor ondertiteling.) Zie [Beste werkwijzen: De Universal HTML5 Video-viewer gebruiken.](best-practice-using-html5-video.md#best_practice_using_the_html5_video_viewer) | HTML5 | X | X | X | X | X | X | X |
+| Universal_HTML5_Video(Inclusief ondersteuning voor ondertiteling.) Zie [Beste praktijken: De Universal HTML5 Video-viewer gebruiken.](best-practice-using-html5-video.md#best_practice_using_the_html5_video_viewer) | HTML5 | X | X | X | X | X | X | X |
 | Universal_HTML5_Video_social(Inclusief ondersteuning voor ondertiteling en sociale media.) | HTML5 | X | X | X | X | X | X | X |
 
 |  | Viewertechnologie | Desktop | Apple iPhone | Apple iPad | Android™-smartphone | Android™-tablet |
@@ -552,46 +552,46 @@ In de volgende tabel worden de bewegingen van de mobiele viewer weergegeven die 
 
 ### Het scherm Voorinstellingen van viewer {#about-the-viewer-preset-screen}
 
-Maak en beheer Viewer Presets op het scherm Viewer Presets. Ga naar **[!UICONTROL Setup]** > **[!UICONTROL Viewer Presets]** om dit scherm te openen.
+Maak en beheer Viewer Presets op het scherm Viewer Presets. Ga naar **[!UICONTROL Setup]** > **[!UICONTROL Viewer Presets]**.
 
 Het scherm Voorinstellingen viewer bevat gereedschappen voor de volgende taken:
 
-* **Een voorinstelling**  toevoegen - Selecteren  **[!UICONTROL Add]** en keuzen maken in het dialoogvenster Voorinstelling viewer toevoegen.
+* **Een voorinstelling toevoegen** - Selecteer **[!UICONTROL Add]** en maakt u keuzen in het dialoogvenster Voorinstelling viewer toevoegen.
 
        Zie [Viewer-voorinstellingen toevoegen en bewerken](application-setup.md#adding_and_editing_viewer_presets).
    
-* **Een voorinstelling**  bewerken - Selecteer een voorinstelling en selecteer  **[!UICONTROL Edit]**.
+* **Een voorinstelling bewerken** - Selecteer een voorinstelling en selecteer vervolgens **[!UICONTROL Edit]**.
 
        Zie [Viewer-voorinstellingen toevoegen en bewerken](application-setup.md#adding_and_editing_viewer_presets).
    
-* **Een voorinstelling**  verwijderen - Selecteer een voorinstelling en selecteer  **[!UICONTROL Delete]**.
+* **Een voorinstelling verwijderen** - Selecteer een voorinstelling en selecteer vervolgens **[!UICONTROL Delete]**.
 
-* **Een voorinstelling**  exporteren - Selecteer een HTML5-viewervoorinstelling en selecteer vervolgens  **[!UICONTROL Export]** om de viewerskin te downloaden, zodat u deze kunt gebruiken als basis voor het maken en toevoegen van een andere viewervoorinstelling.
+* **Een voorinstelling exporteren** - Selecteer een HTML5-viewervoorinstelling en selecteer **[!UICONTROL Export]** om de viewerskin te downloaden, zodat u deze kunt gebruiken als basis voor het maken en toevoegen van een andere viewervoorinstelling.
 
        Zie [Een HTML5 Viewer-voorinstelling exporteren](application-setup.md#exporting_an_html5_viewer_preset).
    
-* **Filter de lijst met**  voorinstellingen voor viewer - Gebruik deze gereedschappen om de lijst te filteren:
+* **De voorinstellingenlijst van de viewer filteren** - Gebruik deze gereedschappen om de lijst te filteren:
 
        * Open de vervolgkeuzelijst **Actief/Inactief** en selecteer een optie om actieve voorinstellingen, inactieve voorinstellingen of alle voorinstellingen weer te geven.
-       * Open de vervolgkeuzelijst **Viewer** en selecteer een optie om alleen bepaalde viewers weer te geven. Selecteer **[!UICONTROL All Viewers]** om alle viewers weer te geven.
+       * Open de vervolgkeuzelijst **Viewer** en selecteer een optie om alleen bepaalde viewers weer te geven. Selecteren **[!UICONTROL All Viewers]** om alle viewers weer te geven.
    
-* **Voorinstellingen**  sorteren - Selecteer een kolomkop (**[!UICONTROL Active]**,  **[!UICONTROL Type]**,  **[!UICONTROL Preset]** of  **[!UICONTROL Platform]**) om de lijst in een kolom te sorteren. Selecteer nogmaals een kolomkop om de lijst in aflopende (of oplopende) volgorde te sorteren.
+* **Voorinstellingen sorteren** - Selecteer een kolomkop (**[!UICONTROL Active]**, **[!UICONTROL Type]**, **[!UICONTROL Preset]**, of **[!UICONTROL Platform]**) om de lijst in een kolom te sorteren. Selecteer nogmaals een kolomkop om de lijst in aflopende (of oplopende) volgorde te sorteren.
 
-* **Voorinstellingen**  activeren en deactiveren: selecteer een voorinstelling en schakel vervolgens de optie Actief in om deze te activeren of te deactiveren.
+* **Voorinstellingen activeren en deactiveren** - Selecteer een voorinstelling en selecteer vervolgens de optie Actief om deze te activeren of deactiveren.
 
        Zie [Viewer-voorinstellingen activeren of deactiveren](application-setup.md#activating_or_deactivating_viewer_presets).
    
 >[!NOTE]
 >
->Selecteer **[!UICONTROL Preview]** aan de rechterkant van de pagina Voorinstellingen viewer, zodat u kunt zien hoe een element eruitziet in de door u geselecteerde voorinstelling voor viewers. Als u een ander element wilt zien, selecteert u **[!UICONTROL Browse]** op de pagina Voorinstellingen viewer en selecteert u een ander element in het dialoogvenster Voorvertoning van element selecteren.
+>Selecteren **[!UICONTROL Preview]** aan de rechterkant van de pagina Voorinstellingen viewer, zodat u kunt zien hoe een element eruitziet in de door u geselecteerde voorinstelling voor viewers. Selecteer **[!UICONTROL Browse]** op de pagina Voorinstellingen viewer en selecteer een ander element in het dialoogvenster Voorvertoning van element selecteren.
 
 ### Viewer-voorinstellingen toevoegen en bewerken {#adding-and-editing-viewer-presets}
 
-Naast het toevoegen van voorinstellingen voor viewers met **[!UICONTROL Add]** in de gebruikersinterface, kunt u ook **[!UICONTROL Export]** gebruiken om een voorinstelling voor viewers toe te voegen. U exporteert gewoon een bestaande HTML5-viewervoorinstelling en gebruikt deze vervolgens als basis voor de nieuwe voorinstelling.
+Naast het toevoegen van kijkervoorinstellingen door te gebruiken **[!UICONTROL Add]** in de gebruikersinterface kunt u ook **[!UICONTROL Export]** om een viewervoorinstelling toe te voegen. U exporteert gewoon een bestaande HTML5-viewervoorinstelling en gebruikt deze vervolgens als basis voor de nieuwe voorinstelling.
 
 Zie [Een HTML5 Viewer-voorinstelling exporteren](application-setup.md#exporting_an_html5_viewer_preset).
 
-Zie ook [Viewer presets](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&amp;emailurl=https://s7d5.scene7.com/s7/emailFriend&amp;serverUrl=https://s7d5.scene7.com/is/image/&amp;config=Scene7SharedAssets/Universal_HTML5_Video&amp;contenturl=https://s7d5.scene7.com/skins/&amp;asset=S7tutorials/550_viewer-presets_converted%20renamed_Done-AVS) trainingsvideo.
+Zie ook [Viewer-voorinstellingen](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&amp;emailurl=https://s7d5.scene7.com/s7/emailFriend&amp;serverUrl=https://s7d5.scene7.com/is/image/&amp;config=Scene7SharedAssets/Universal_HTML5_Video&amp;contenturl=https://s7d5.scene7.com/skins/&amp;asset=S7tutorials/550_viewer-presets_converted%20renamed_Done-AVS) trainingsvideo.
 
 **Viewer-voorinstellingen toevoegen en bewerken:**
 
@@ -601,39 +601,39 @@ Zie ook [Viewer presets](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.htm
 
 1. Voeg op de pagina Voorinstellingen viewer de voorinstelling Viewer toe of bewerk deze in het scherm Voorinstellingen viewer.
 
-   * **Toevoegen** - Op de werkbalk selecteert u  **[!UICONTROL Add]**. Selecteer een platform in het dialoogvenster Voorinstelling viewer toevoegen en selecteer een type rich-media-element.
+   * **Toevoegen** - Selecteer op de werkbalk de optie **[!UICONTROL Add]**. Selecteer een platform in het dialoogvenster Voorinstelling viewer toevoegen en selecteer een type rich-media-element.
 
-          Selecteer **[!UICONTROL Save As]** wanneer u klaar bent met het maken van de voorinstelling Viewer.
+          Selecteren **[!UICONTROL Save As]** wanneer u klaar bent met het maken van de voorinstelling Viewer.
       
-   * **Toevoegen door te beginnen met een bestaande viewervoorinstelling** . Selecteer in de tabel een voorinstelling voor de video-viewer en selecteer vervolgens  **[!UICONTROL Edit]** op de werkbalk.
+   * **Toevoegen via een bestaande viewervoorinstelling** - Selecteer in de tabel een voorinstelling voor de video-viewer en selecteer **[!UICONTROL Edit]** op de werkbalk.
 
-          Nadat u de video-viewer opnieuw hebt geconfigureerd, selecteert u **[!UICONTROL Save As]** om de voorinstelling op te slaan onder een andere naam in het tekstveld Naam voorinstelling.
+          Selecteer ** nadat u de video-viewer opnieuw hebt geconfigureerd[!UICONTROL Save As]** om de voorinstelling op te slaan onder een andere naam in het tekstveld Naam voorinstelling.
       
-   * **Bewerken**  - Selecteer een bestaande voorinstelling voor de viewer en selecteer  **[!UICONTROL Edit]**.
+   * **Bewerken** - Selecteer een bestaande voorinstelling voor de viewer en selecteer **[!UICONTROL Edit]**.
 
 1. Voer in het scherm Viewer configureren de naam van de voorinstelling in het veld Naam voorinstelling in of bewerk de naam van de voorinstelling.
 1. Stel de overige gewenste opties in.
 
    >[!NOTE]
    >
-   >Selecteer **[!UICONTROL Same As Source]** om de video-viewer automatisch te vergroten tot de resolutiegrootte van de gecodeerde video zelf. Als u deze optie selecteert, kunt u de breedte van het werkgebied en de hoogte van het werkgebied niet invoeren. In plaats daarvan komen deze opties uit de video zelf. Als u **[!UICONTROL Same As Source]** selecteert, stelt u de optie Grootte marge in om de afmetingen van de skin buiten het afspeelgebied van de video weer te geven. Deze margegrootte is de pixelhoogte en -breedte van de videobesturingselementen. U kunt de volgende afbeelding gebruiken om de margegrootten te bepalen die u wilt gebruiken.*
+   >Selecteren **[!UICONTROL Same As Source]** om de grootte van de video-viewer automatisch aan te passen aan de resolutiegrootte van de gecodeerde video zelf. Als u deze optie selecteert, kunt u de breedte van het werkgebied en de hoogte van het werkgebied niet invoeren. In plaats daarvan komen deze opties uit de video zelf. Als u **[!UICONTROL Same As Source]**, stelt u de optie Grootte marge in om de afmetingen van de skin buiten het afspeelgebied van de video weer te geven. Deze margegrootte is de pixelhoogte en -breedte van de videobesturingselementen. U kunt de volgende afbeelding gebruiken om de margegrootten te bepalen die u wilt gebruiken.*
 
    ![Margeconfiguratie van videoviewer](assets/vs_video_viewer_configure_margin.png)
 
 1. Voer een van de volgende handelingen uit:
 
-   * Selecteer **[!UICONTROL Save As]** als u een Viewer-voorinstelling hebt toegevoegd door te beginnen met een bestaande voorinstelling.
-   * Selecteer **[!UICONTROL Save]** als u een Viewer-voorinstelling hebt toegevoegd of bewerkt.
+   * Selecteren **[!UICONTROL Save As]** als u een Viewer-voorinstelling hebt toegevoegd door te beginnen met een bestaande voorinstelling.
+   * Selecteren **[!UICONTROL Save]** als u een Viewer-voorinstelling hebt toegevoegd of bewerkt.
 
 ### Een voorinstelling voor een HTML5-viewer exporteren {#exporting-an-html-viewer-preset}
 
 U kunt een bestaande voorinstelling voor de HTML5-viewer exporteren en deze gebruiken als basis voor het maken van een voorinstelling voor de HTML5-viewer. Deze exportoptie is handig omdat u de viewer niet helemaal opnieuw hoeft te maken. In plaats daarvan exporteert u een voorinstelling die er zo uitziet en zich dicht bij u gedraagt. Vervolgens kunt u deze voorinstelling als uitgangspunt gebruiken om ontwerpaanpassingen aan te brengen.
 
-Alle standaard, out-of-box CSS-bestanden met viewervoorinstellingen in Adobe Dynamic Media Classic gebruiken relatieve paden die verwijzen naar elementen op `Scene7SharedAssets`. Hier volgt bijvoorbeeld een relatief pad naar een afbeeldingselement in een CSS-bestand met een Viewer-voorinstelling op
+Alle standaard, buiten-van-doos vooraf ingestelde CSS-bestanden van de Kijker in Adobe Dynamic Media Classic gebruiken relatieve beelddienpaden die aan activa op wijzen `Scene7SharedAssets`. Hier volgt bijvoorbeeld een relatief pad naar een afbeeldingselement in een CSS-bestand met een Viewer-voorinstelling op
 
-`Scene7SharedAsset`:  `.s7videoviewer .s7fullscreenbutton[state][selected] { background-image: url(/is/image/Scene7SharedAssets/FullScreenButton_dark_sprite?scl=1&fmt=png-alpha); }`
+`Scene7SharedAsset`: `.s7videoviewer .s7fullscreenbutton[state][selected] { background-image: url(/is/image/Scene7SharedAssets/FullScreenButton_dark_sprite?scl=1&fmt=png-alpha); }`
 
-Als u echter CSS-bestanden van de viewer host op uw eigen site, moet u deze relatieve paden naar afbeeldingen oplossen door in uw eigen omgeving een expliciet pad naar de afbeeldingsserver te gebruiken. Als u bijvoorbeeld het relatieve pad boven naar een expliciet pad wilt bijwerken, ziet het er als volgt uit: `https://s7d1.scene7.com` is het directe pad naar uw afbeeldingsserver: `https://s7d1.scene7.com/is/image/Scene7SharedAssets/FullScreenButton_dark_sprite?scl=1&fmt=png-alpha`
+Als u echter CSS-bestanden van de viewer host op uw eigen site, moet u deze relatieve paden naar afbeeldingen oplossen door in uw eigen omgeving een expliciet pad naar de afbeeldingsserver te gebruiken. Als u bijvoorbeeld het relatieve pad boven een expliciet pad wilt bijwerken, ziet het er als volgt uit: `https://s7d1.scene7.com` is het directe pad naar uw afbeeldingsserver: `https://s7d1.scene7.com/is/image/Scene7SharedAssets/FullScreenButton_dark_sprite?scl=1&fmt=png-alpha`
 
 **Een HTML5 Viewer-voorinstelling exporteren:**
 
@@ -647,11 +647,11 @@ https://s7d1.scene7.com/is/image/Scene7SharedAssets/FullScreenButton_dark_sprite
 ```
 
 1. Ga naar **[!UICONTROL Setup]** > **[!UICONTROL Viewer Presets]**.
-1. Selecteer **[!UICONTROL HTML5]** in de tweede vervolgkeuzelijst links op de werkbalk Voorinstellingen viewer.
-1. Selecteer **[!UICONTROL All Viewers]** in de derde vervolgkeuzelijst links.
+1. Selecteer in de tweede vervolgkeuzelijst links op de werkbalk Voorinstellingen viewer de optie **[!UICONTROL HTML5]**.
+1. Selecteer in de derde vervolgkeuzelijst aan de linkerkant de optie **[!UICONTROL All Viewers]**.
 1. Selecteer de viewervoorinstelling die u als basis voor een nieuwe HTML5 Viewer-voorinstelling wilt gebruiken.
-1. Selecteer **[!UICONTROL Export]** op de werkbalk.
-1. Selecteer **[!UICONTROL Submit Export]** in het dialoogvenster Geselecteerde elementen exporteren.
+1. Selecteer in de werkbalk de optie **[!UICONTROL Export]**.
+1. Selecteer in het dialoogvenster Geselecteerde elementen exporteren de optie **[!UICONTROL Submit Export]**.
 
    Na het exporteren krijgt u een CSS-bestand. Download en decomprimeer het bestand.
 
@@ -666,18 +666,18 @@ https://s7d1.scene7.com/is/image/Scene7SharedAssets/FullScreenButton_dark_sprite
 
 1. Voeg de nieuwe viewervoorinstelling zoals gewoonlijk toe. Selecteer het CSS-bestand van de viewer dat u hebt geüpload.
 
-   Zie [Voorinstellingen van viewer toevoegen en bewerken](application-setup.md#adding_and_editing_viewer_presets).
+   Zie [Viewer-voorinstellingen toevoegen en bewerken](application-setup.md#adding_and_editing_viewer_presets).
 
 ### Viewer-voorinstellingen activeren of deactiveren {#activating-or-deactivating-viewer-presets}
 
-Als u een URL wilt maken voor het weergeven van elementen, opent u de vervolgkeuzelijst Voorinstellingen in het dialoogvenster Voorvertoning, selecteert u een voorinstelling voor viewer en selecteert u **[!UICONTROL Copy URL]** (zie [De URL van een voorinstelling voor viewer kopiëren](application-setup.md#copying_the_url_of_a_viewer_preset)). Deze lijst met voorinstellingen bevat voorinstellingen voor viewers die beheerders toevoegen en beheren in het scherm Voorinstellingen viewer. Alle actieve voorinstellingen voor de eCatalog-viewer worden bijvoorbeeld weergegeven in de vervolgkeuzelijst Voorinstellingen in het dialoogvenster Voorvertoning wanneer een gebruiker een voorvertoning van een eCatalog weergeeft.
+Als u een URL wilt maken voor het weergeven van elementen, openen gebruikers de vervolgkeuzelijst Voorinstellingen in het dialoogvenster Voorvertoning, selecteert u een voorinstelling voor de viewer en selecteert u **[!UICONTROL Copy URL]** (zie [De URL van een voorinstelling voor viewers kopiëren](application-setup.md#copying_the_url_of_a_viewer_preset)). Deze lijst met voorinstellingen bevat voorinstellingen voor viewers die beheerders toevoegen en beheren in het scherm Voorinstellingen viewer. Alle actieve voorinstellingen voor de eCatalog-viewer worden bijvoorbeeld weergegeven in de vervolgkeuzelijst Voorinstellingen in het dialoogvenster Voorvertoning wanneer een gebruiker een voorvertoning van een eCatalog weergeeft.
 
 Tenzij u de Viewer-voorinstellingen in het scherm Voorinstellingen viewer deactiveert, kan de vervolgkeuzelijst Voorinstellingen in het dialoogvenster Voorvertoning vol raken.
 
 **Viewer-voorinstellingen activeren of deactiveren:**
 
 1. Ga naar **[!UICONTROL Setup]** > **[!UICONTROL Viewer Presets]**.
-1. Schakel op de pagina Voorinstellingen viewer de optie **[!UICONTROL Active]** in of uit om Voorinstellingen viewer te activeren of deactiveren.
+1. Schakel op de pagina Voorinstellingen viewer de optie **[!UICONTROL Active]** opties om Viewer-voorinstellingen te activeren of te deactiveren.
 
 ### De URL van een voorinstelling voor viewers kopiëren {#copying-the-url-of-a-viewer-preset}
 
@@ -690,16 +690,16 @@ De URL wordt naar het klembord gekopieerd. U kunt deze desgewenst gebruiken in d
 1. Selecteer het element in het deelvenster Bladeren.
 1. Voer boven het deelvenster Asset Browse een van de volgende handelingen uit aan de rechterkant van de werkbalk:
 
-   * Selecteer **[!UICONTROL Grid View]**. Dubbelklik in het deelvenster Asset Browse op één element om dit te openen in de gedetailleerde weergave. Selecteer **[!UICONTROL Copy URL]** rechts van de gewenste viewer in de URL&#39;s en het deelvenster Code insluiten.
-   * Selecteer **[!UICONTROL Grid View]**. Selecteer in het deelvenster Asset Browse één element en ga vervolgens onder de miniatuurafbeelding naar **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]**.
+   * Selecteren **[!UICONTROL Grid View]**. Dubbelklik in het deelvenster Asset Browse op één element om dit te openen in de gedetailleerde weergave. Selecteer in de URL&#39;s en het deelvenster Code insluiten aan de rechterkant de optie **[!UICONTROL Copy URL]** rechts van de gewenste viewer.
+   * Selecteren **[!UICONTROL Grid View]**. Selecteer in het deelvenster Asset Browse één element en ga vervolgens onder de miniatuurafbeelding naar **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]**.
 
-   Selecteer **[!UICONTROL Copy URL]** onder de kolom Acties van de tabel in de Viewer List.
+   Selecteer in de pagina Viewer List onder de kolom Acties van de tabel de optie **[!UICONTROL Copy URL]**.
 
-   * Selecteer **[!UICONTROL List View]**. Selecteer in het deelvenster Asset Browse één element en ga vervolgens rechts van de miniatuurafbeelding naar **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]**.
-   Selecteer **[!UICONTROL Copy URL]** onder de kolom Acties van de tabel in de Viewer List.
+   * Selecteren **[!UICONTROL List View]**. Selecteer in het deelvenster Asset Browse één element en ga vervolgens rechts van de miniatuurafbeelding naar **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]**.
+   Selecteer in de pagina Viewer List onder de kolom Acties van de tabel de optie **[!UICONTROL Copy URL]**.
 
-   * Selecteer **[!UICONTROL Grid View]**, **[!UICONTROL List View]** of **[!UICONTROL Detail View]**. Ga op dezelfde werkbalk naar **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]**.
-   Selecteer **[!UICONTROL Copy URL]** onder de kolom Acties van de tabel in de Viewer List.
+   * Selecteren **[!UICONTROL Grid View]**, **[!UICONTROL List View]**, of **[!UICONTROL Detail View]**. Ga op dezelfde werkbalk naar **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]**.
+   Selecteer in de pagina Viewer List onder de kolom Acties van de tabel de optie **[!UICONTROL Copy URL]**.
 
 ### De insluitcode van een Viewer-voorinstelling kopiëren {#copying-the-embed-code-of-a-viewer-preset}
 
@@ -712,19 +712,19 @@ Het bewerken van de code is niet toegestaan in het dialoogvenster Code insluiten
 1. Selecteer het element in het deelvenster Bladeren van element.
 1. Voer boven het deelvenster Asset Browse een van de volgende handelingen uit aan de rechterkant van de werkbalk:
 
-   * Selecteer **[!UICONTROL Grid View]**. Dubbelklik in het deelvenster Asset Browse op één element om dit te openen in de gedetailleerde weergave. Selecteer **[!UICONTROL Embed Code]** in het deelvenster URL&#39;s aan de rechterkant.
-   * Selecteer **[!UICONTROL Grid View]**. Selecteer in het deelvenster Asset Browse één element en ga vervolgens onder de miniatuurafbeelding naar **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]**.
+   * Selecteren **[!UICONTROL Grid View]**. Dubbelklik in het deelvenster Asset Browse op één element om dit te openen in de gedetailleerde weergave. Selecteer in het deelvenster URL&#39;s aan de rechterkant de optie **[!UICONTROL Embed Code]**.
+   * Selecteren **[!UICONTROL Grid View]**. Selecteer in het deelvenster Asset Browse één element en ga vervolgens onder de miniatuurafbeelding naar **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]**.
 
-   Selecteer **[!UICONTROL Embed Code]** onder de kolom Acties van de tabel in de Viewer List.
+   Selecteer in de pagina Viewer List onder de kolom Acties van de tabel de optie **[!UICONTROL Embed Code]**.
 
-   * Selecteer **[!UICONTROL List View]**. Selecteer in het deelvenster Asset Browse één element en ga vervolgens rechts van de miniatuurafbeelding naar **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]**.
-   Selecteer **[!UICONTROL Embed Code]** onder de kolom Acties van de tabel in de Viewer List.
+   * Selecteren **[!UICONTROL List View]**. Selecteer in het deelvenster Asset Browse één element en ga vervolgens rechts van de miniatuurafbeelding naar **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]**.
+   Selecteer in de pagina Viewer List onder de kolom Acties van de tabel de optie **[!UICONTROL Embed Code]**.
 
-   * Selecteer **[!UICONTROL Grid View]**, **[!UICONTROL List View]** of **[!UICONTROL Detail View]**. Ga op dezelfde werkbalk naar **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]**.
-   Selecteer **[!UICONTROL Embed Code]** onder de kolom Acties van de tabel in de Viewer List.
+   * Selecteren **[!UICONTROL Grid View]**, **[!UICONTROL List View]**, of **[!UICONTROL Detail View]**. Ga op dezelfde werkbalk naar **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]**.
+   Selecteer in de pagina Viewer List onder de kolom Acties van de tabel de optie **[!UICONTROL Embed Code]**.
 
-1. Selecteer **[!UICONTROL Copy to Clipboard]** in het dialoogvenster Code insluiten.
-1. Selecteer **[!UICONTROL Close]**.
+1. Selecteer in het dialoogvenster Code insluiten de optie **[!UICONTROL Copy to Clipboard]**.
+1. Selecteren **[!UICONTROL Close]**.
 
 ## Standaardviewers configureren {#configuring-default-viewers}
 
@@ -740,28 +740,28 @@ Met Standaardviewers kunt u de standaardviewer configureren die aan een element 
 
 **Standaardviewers configureren:**
 
-1. Selecteer **[!UICONTROL Application Setup]** in de vervolgkeuzelijst Setup.
-1. Ga in het venster Setup (Instellingen) in het linkervenster naar **[!UICONTROL Application Setup]** > **[!UICONTROL Viewers]**
-1. Selecteer **[!UICONTROL Default Viewers]**.
+1. Selecteer in de vervolgkeuzelijst Instellen de optie **[!UICONTROL Application Setup]**.
+1. Ga in het venster Setup (Instellingen) in het linkerdeelvenster naar **[!UICONTROL Application Setup]** > **[!UICONTROL Viewers]**
+1. Selecteren **[!UICONTROL Default Viewers]**.
 1. Selecteer in het venster Standaardviewers in de vervolgkeuzelijst voor elk type element de viewer die u aan de voorvertoning van het element wilt koppelen.
-1. Selecteer **[!UICONTROL Save Settings]** in de rechterbenedenhoek van het venster Standaardviewers.
-1. Selecteer **[!UICONTROL Close]** in de rechterbenedenhoek van het venster Instellen om terug te keren naar het venster Middelen.
+1. Selecteer in de rechterbenedenhoek van het venster Standaardviewers de optie **[!UICONTROL Save Settings]**.
+1. Selecteer in de rechterbenedenhoek van het venster Instellen de optie **[!UICONTROL Close]** om terug te keren naar het venster Middelen.
 
 ## Weergaven metagegevens {#metadata-views}
 
-** Metadatais: gestandaardiseerde informatie over een middel. U kunt metagegevens gebruiken om uw workflow te stroomlijnen, uw elementen te ordenen en het zoeken te verbeteren. Adobe Dynamic Media Classic ondersteunt de IPTC-standaard (International Press Telecommunications Council) en de XMP (Extensible metadata Platform). Voordat gebruikers metagegevens over een element weergeven of invoeren in de gedetailleerde weergave, kunnen ze het menu Weergaven metagegevens openen. Hiervanaf kunnen ze de set metagegevensvelden selecteren die ze willen bekijken of gebruiken om het element te beschrijven.
+*Metagegevens* is gestandaardiseerde informatie over een actief. U kunt metagegevens gebruiken om uw workflow te stroomlijnen, uw elementen te ordenen en het zoeken te verbeteren. Adobe Dynamic Media Classic ondersteunt de IPTC-standaard (International Press Telecommunications Council) en de XMP (Extensible metadata Platform). Voordat gebruikers metagegevens over een element weergeven of invoeren in de gedetailleerde weergave, kunnen ze het menu Weergaven metagegevens openen. Hiervanaf kunnen ze de set metagegevensvelden selecteren die ze willen bekijken of gebruiken om het element te beschrijven.
 
 Adobe Dynamic Media Classic wordt geleverd met vooraf gedefinieerde weergaven van metagegevens en beheerders kunnen hun eigen weergaven van metagegevens maken, zodat gebruikers kunnen kiezen wanneer ze metagegevens invoeren.
 
 ### Een metagegevensweergave maken {#creating-a-metadata-view}
 
 1. Ga naar **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Metadata]** > **[!UICONTROL Metadata Views]**.
-1. Selecteer **[!UICONTROL Add]**.
+1. Selecteren **[!UICONTROL Add]**.
 1. Typ een naam voor de weergave in het tekstveld Naam voorinstelling.
-1. (Optioneel) Schakel **[!UICONTROL Make Default]** in om van deze weergave de weergave te maken die gebruikers zien wanneer zij het deelvenster Metagegevens openen in de gedetailleerde weergave.
+1. (Optioneel) Schakel **[!UICONTROL Make Default]** om van deze weergave de weergave te maken die gebruikers zien wanneer zij het deelvenster Metagegevens openen in de gedetailleerde weergave.
 1. (Optioneel) Selecteer **[!UICONTROL Include UDF]** om door de gebruiker gedefinieerde velden op te nemen in de weergave. Door gebruiker gedefinieerde velden staan boven aan het deelvenster Metagegevens in de gedetailleerde weergave.
 1. Selecteer de velden die u voor de weergave wilt gebruiken (selecteer **[!UICONTROL Select All]** om alle velden te selecteren).
-1. Selecteer **[!UICONTROL Save]**.
+1. Selecteren **[!UICONTROL Save]**.
 
    De geselecteerde categorieën en velden voor de weergave worden weergegeven in het deelvenster Voorbeeld.
 
@@ -771,13 +771,13 @@ Adobe Dynamic Media Classic wordt geleverd met vooraf gedefinieerde weergaven va
 1. Voer een van de volgende handelingen uit:
 
    * Als u een voorvertoning van een weergave wilt weergeven, selecteert u deze. De velden in de weergave worden weergegeven in het deelvenster Voorvertoning.
-   * Als u een weergave wilt bewerken, selecteert u deze en selecteert u **[!UICONTROL Edit]**. Schakel vervolgens veldnamen in of uit in het deelvenster Voorvertoning en selecteer of hef de selectie van de optie **[!UICONTROL Include UDF]** op.
-   * Als u een weergave wilt verwijderen, selecteert u deze en selecteert u **[!UICONTROL Delete]**.
-   * Als u een weergave als standaard wilt instellen, selecteert u deze en selecteert u **[!UICONTROL Make Default]**. De standaardweergave is de weergave die gebruikers zien wanneer ze elementen openen in de gedetailleerde weergave en naar het deelvenster Metagegevens gaan.
+   * Als u een weergave wilt bewerken, selecteert u deze en selecteert u vervolgens **[!UICONTROL Edit]**. Schakel vervolgens veldnamen in of uit in het deelvenster Voorvertoning en selecteer de optie **[!UICONTROL Include UDF]** optie.
+   * Als u een weergave wilt verwijderen, selecteert u deze en selecteert u vervolgens **[!UICONTROL Delete]**.
+   * Als u een weergave als standaard wilt instellen, selecteert u deze en selecteert u vervolgens **[!UICONTROL Make Default]**. De standaardweergave is de weergave die gebruikers zien wanneer ze elementen openen in de gedetailleerde weergave en naar het deelvenster Metagegevens gaan.
 
 ## Voorinstellingen metagegevens {#metadata-presets}
 
-Met voorinstellingen voor metagegevens kunnen beheerders metagegevens beheren die aan elementen zijn toegewezen. In de Gedetailleerde weergave kan een gebruiker metagegevens over een element invoeren in velden die voor dat doel zijn opgegeven. Een gebruiker kan bijvoorbeeld een naam, copyrightbeschrijving en adres van de eigenaar invoeren. Om ervoor te zorgen dat de gebruikers deze informatie nauwkeurig en volledig ingaan, kunt u Meta-gegevensvooraf instelt tot stand brengen. Als u een metagegevensvoorinstelling kiest in de gedetailleerde weergave, worden metagegevensvelden gevuld met vooraf gedefinieerde waarden. Zo worden automatisch een naam, copyrightbeschrijving en adres van de eigenaar ingevoerd.
+Met voorinstellingen voor metagegevens kunnen beheerders metagegevens beheren die aan elementen zijn toegewezen. In de Gedetailleerde weergave kan een gebruiker metagegevens over een element invoeren in velden die voor dat doel zijn opgegeven. Een gebruiker kan bijvoorbeeld een naam, copyrightbeschrijving en adres van de eigenaar invoeren. Om ervoor te zorgen dat gebruikers deze informatie correct en volledig invoeren, kunt u Voorinstellingen voor metagegevens maken. Als u een metagegevensvoorinstelling kiest in de gedetailleerde weergave, worden metagegevensvelden gevuld met vooraf gedefinieerde waarden. Zo worden automatisch een naam, copyrightbeschrijving en adres van de eigenaar ingevoerd.
 
 Maak een voorinstelling voor metagegevens voor elke set waarden voor metagegevens die gebruikers automatisch moeten kunnen invoeren in de gedetailleerde weergave om een element te beschrijven.
 
@@ -786,11 +786,11 @@ Maak een voorinstelling voor metagegevens voor elke set waarden voor metagegeven
 1. Ga naar **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Metadata]** > **[!UICONTROL Metadata Presets]**.
 1. Voer een van de volgende handelingen uit in het scherm Metagegevensvoorinstellingen:
 
-   * Selecteer **[!UICONTROL Add]** om een voorinstelling te maken. Typ een naam voor de voorinstelling in het tekstveld Sjabloonnaam metagegevens. Selecteer **[!UICONTROL Metadata Views]**, en selecteer dan een mening van de drop-down lijst (zie [Meta-gegevensmeningen](application-setup.md#metadata_views)).
-   * Als u een bestaande voorinstelling wilt bewerken, selecteert u de voorinstelling in de lijst Voorinstellingen metagegevens en selecteert u **[!UICONTROL Edit]**.
+   * Als u een voorinstelling wilt maken, selecteert u **[!UICONTROL Add]**. Typ een naam voor de voorinstelling in het tekstveld Sjabloonnaam metagegevens. Selecteren **[!UICONTROL Metadata Views]** en selecteert u vervolgens een weergave in de vervolgkeuzelijst (zie [Weergaven metagegevens](application-setup.md#metadata_views)).
+   * Als u een bestaande voorinstelling wilt bewerken, selecteert u de voorinstelling in de lijst Voorinstellingen metagegevens en selecteert u vervolgens **[!UICONTROL Edit]**.
 
 1. Vouw de koppen die u in de voorinstelling wilt opnemen uit en voer waarden in in de verschillende velden die u in de voorinstelling wilt opnemen.
-1. Selecteer **[!UICONTROL Save]**.
+1. Selecteren **[!UICONTROL Save]**.
 
    De geselecteerde categorieën en velden voor de voorinstelling worden weergegeven in het deelvenster Voorvertoning.
 
@@ -806,20 +806,20 @@ Maak een voorinstelling voor metagegevens voor elke set waarden voor metagegeven
 
 Een beheerder van Media Portal of een Beheerder van het Bedrijf kan douane, user-defined meta-gegevensgebieden tot stand brengen. Met aangepaste velden kunt u elementen ordenen in Adobe Dynamic Media Classic. U kunt de velden desgewenst als Actief markeren. Als deze optie is ingeschakeld, worden de namen van deze aangepaste metagegevensvelden weergegeven in het deelvenster Metagegevens in de gedetailleerde weergave. Gebruikers kunnen informatie invoeren in door de gebruiker gedefinieerde metagegevensvelden om elementen te beschrijven. Gebruikers kunnen ook een door de gebruiker gedefinieerd metagegevensveld als criterium gebruiken bij zoekopdrachten.
 
-Een effectief gebruik van door de gebruiker gedefinieerde metagegevensvelden is het vertragen van de activeringstijd van een element voor een specifieke opstart of verkoop. U definieert een veld &quot;activation&quot; op basis van het type *Date*. Vervolgens kunt u met het deelvenster **[!UICONTROL Metadata]** in de gedetailleerde weergave of **[!UICONTROL File]** > **[!UICONTROL Edit Info]** opgeven wanneer het element wordt geactiveerd. Adobe Dynamic Media Classic controleert de publicatiestatus van een element en de publicatiegeschiedenis. Als de publicatie niet binnen de activeringstijd valt, wordt de status Niet gepubliceerd weergegeven.
+Een effectief gebruik van door de gebruiker gedefinieerde metagegevensvelden is het vertragen van de activeringstijd van een element voor een specifieke opstart of verkoop. U definieert een veld voor activering op basis van het type *Datum*. Gebruik vervolgens de **[!UICONTROL Metadata]** in de gedetailleerde weergave of **[!UICONTROL File]** > **[!UICONTROL Edit Info]** kunt u opgeven wanneer het element wordt geactiveerd. Adobe Dynamic Media Classic controleert de publicatiestatus van een element en de publicatiegeschiedenis. Als de publicatie niet binnen de activeringstijd valt, wordt de status Niet gepubliceerd weergegeven.
 
 >[!NOTE]
 >
->Als u wilt dat door de gebruiker gedefinieerde velden worden weergegeven in het deelvenster Metagegevens in de gedetailleerde weergave, neemt u door de gebruiker gedefinieerde velden op in de weergave Metagegevens. Selecteer in het scherm Weergaven metagegevens de optie Inclusief UDF (door de gebruiker gedefinieerde velden). Zie [Weergaven van metagegevens](application-setup.md#metadata_views) voor meer informatie.
+>Als u wilt dat door de gebruiker gedefinieerde velden worden weergegeven in het deelvenster Metagegevens in de gedetailleerde weergave, neemt u door de gebruiker gedefinieerde velden op in de weergave Metagegevens. Selecteer in het scherm Weergaven metagegevens de optie Inclusief UDF (door de gebruiker gedefinieerde velden). Zie voor meer informatie [Weergaven metagegevens](application-setup.md#metadata_views).
 
 >[!NOTE]
 >
->Als u wilt zoeken naar elementen met behulp van aangepaste, door de gebruiker gedefinieerde velden, gaat u naar **[!UICONTROL Setup]** > **[!UICONTROL Personal Setup]** en selecteert u **[!UICONTROL Include UDFs in Search]**. Zie [Persoonlijke installatie](personal-setup.md#personal_setup).
+>Ga naar **[!UICONTROL Setup]** > **[!UICONTROL Personal Setup]** en selecteer vervolgens **[!UICONTROL Include UDFs in Search]**. Zie [Persoonlijke instelling](personal-setup.md#personal_setup).
 
 ### Een door de gebruiker gedefinieerd metagegevensveld maken {#creating-a-user-defined-metadata-field}
 
 1. Ga naar **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Metadata]** > **[!UICONTROL User-Defined Fields]**.
-1. **[!UICONTROL Add]** selecteren
+1. Selecteren **[!UICONTROL Add]**
 1. Stel in het dialoogvenster Aangepast veld de gewenste opties in.
 
    * **[!UICONTROL Name]** - Voer een naam in voor het metagegevensveld.
@@ -850,9 +850,9 @@ Een effectief gebruik van door de gebruiker gedefinieerde metagegevensvelden is 
 
       >[!NOTE]
       >
-      >Selecteer een optie **[!UICONTROL Applies To]** zorgvuldig omdat u de optie **[!UICONTROL Applies To]** niet kunt wijzigen nadat u een door de gebruiker gedefinieerd veld hebt gemaakt. Met Adobe Dynamic Media Classic kunt u de naam, het type en de standaardwaarde van een door de gebruiker gedefinieerd veld bewerken, maar niet de instelling **[!UICONTROL Applies To]**. *
+      >Selecteer een **[!UICONTROL Applies To]** zorgvuldig te wijzigen, omdat u de **[!UICONTROL Applies To]** nadat u een door de gebruiker gedefinieerd veld hebt gemaakt. Met Adobe Dynamic Media Classic kunt u de naam, het type en de standaardwaarde van een door de gebruiker gedefinieerd veld bewerken, maar niet de **[!UICONTROL Applies To]** instellen. *
 
-1. Selecteer **[!UICONTROL Save]** wanneer u klaar bent met het maken van het metagegevensveld.
+1. Selecteren **[!UICONTROL Save]** als u klaar bent met het maken van het metagegevensveld.
 
 ### Door de gebruiker gedefinieerde velden beheren {#manage-user-defined-fields}
 
@@ -860,13 +860,13 @@ Het scherm Door gebruiker gedefinieerde velden bevat opdrachten voor het beheer 
 
 Alleen een beheerder van het Media Portal of een bedrijfsbeheerder kan door de gebruiker gedefinieerde velden beheren.
 
-Als u dit scherm wilt openen, gaat u naar **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Metadata]** > **[!UICONTROL User-Defined Fields]**.
+Ga naar **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Metadata]** > **[!UICONTROL User-Defined Fields]**.
 
-* **Een veld**  bewerken - Selecteer het veld en selecteer  **[!UICONTROL Edit]**.
+* **Een veld bewerken** - Selecteer het veld en selecteer vervolgens **[!UICONTROL Edit]**.
 
-* **Een veld**  verwijderen - Selecteer het veld en selecteer  **[!UICONTROL Delete]**.
+* **Een veld verwijderen** - Selecteer het veld en selecteer vervolgens **[!UICONTROL Delete]**.
 
-* **Veld**  activeren - Schakel de  **[!UICONTROL Active]** optie naast de naam van een veld in of uit. Als u in een rol van het bedrijfbeleid bent, wordt deze optie niet getoond. Omdat deze optie met MediaPortal verwant is, moet u (draai) Eigenschappen MediaPortal in Persoonlijke Opstelling tonen selecteren om de activerende gebieden te zien.
+* **Veld activeren** - Schakel het selectievakje **[!UICONTROL Active]** naast de naam van een veld. Als u in een rol van het bedrijfbeleid bent, wordt deze optie niet getoond. Omdat deze optie met MediaPortal verwant is, moet u (draai) Eigenschappen MediaPortal in Persoonlijke Opstelling tonen selecteren om de activerende gebieden te zien.
 
 ## Bestanden optimaliseren {#optimize-files}
 
@@ -874,8 +874,8 @@ Wanneer u bestanden uploadt naar de Adobe Dynamic Media Classic, worden deze geo
 
 Adobe Dynamic Media Classic doorzoekt uw bestanden en optimaliseert alleen de afbeeldingen die nog niet volledig zijn geoptimaliseerd.
 
-1. Ga naar **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** en selecteer **[!UICONTROL Optimize Files]**.
-1. Voer informatie in voor de optimalisatietaak en selecteer **[!UICONTROL Submit]**.
+1. Ga naar **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** en selecteer vervolgens **[!UICONTROL Optimize Files]**.
+1. Geef informatie op voor de optimalisatietaak en selecteer **[!UICONTROL Submit]**.
 
    Als u met meer dan één bedrijf werkt, optimaliseer dossiers die tot verschillende bedrijven afzonderlijk behoren.
 
@@ -896,15 +896,15 @@ U hoeft geen standaardnaamgevingsconventie in te stellen als u de functie voor v
 1. Ga naar **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Batch Set Presets]** > **[!UICONTROL Default Naming]**.
 1. Selecteer **[!UICONTROL View Form]** of **[!UICONTROL View Code]** om op te geven hoe u informatie over elke asset wilt weergeven en invoeren.
 
-   U kunt het selectievakje **[!UICONTROL View Code]** inschakelen om de waarde van de reguliere expressie naast de formulierselecties weer te geven. U kunt deze waarden invoeren of wijzigen om de elementen van de naamgevingsconventie te definiëren, als de formulierweergave u beperkt om welke reden dan ook. Als uw waarden niet kunnen worden geparseerd in de formulierweergave, worden de formuliervelden inactief.
+   U kunt de **[!UICONTROL View Code]** Schakel het selectievakje in om de waarde van de reguliere expressie naast de formulierselecties weer te geven. U kunt deze waarden invoeren of wijzigen om de elementen van de naamgevingsconventie te definiëren, als de formulierweergave u beperkt om welke reden dan ook. Als uw waarden niet kunnen worden geparseerd in de formulierweergave, worden de formuliervelden inactief.
 
    >[!NOTE]
    >
    >De-geactiveerde formuliervelden geven geen ongeldige reguliere expressie aan. Er is geen validatie die aangeeft dat de reguliere expressies juist zijn. U zult resultaten van de regelmatige uitdrukking zien u voor elk element na de resultaatlijn bouwt. De volledige reguliere expressie wordt onder aan de pagina weergegeven.
 
 1. Vouw indien nodig elk element uit en voer de naamgevingsconventies in die u wilt gebruiken.
-1. Indien nodig selecteert u **[!UICONTROL Add]** om een andere naamgevingsconventie voor een element toe te voegen. Of selecteer **[!UICONTROL Remove]** om een naamgevingsconventie voor een element te verwijderen.
-1. Selecteer **[!UICONTROL Save As]** en typ een naam voor de voorinstelling. Of selecteer **[!UICONTROL Save]** als u een bestaande voorinstelling bewerkt.
+1. Selecteer zo nodig **[!UICONTROL Add]** om een andere naamgevingsconventie voor een element toe te voegen. Of selecteer **[!UICONTROL Remove]** om een naamgevingsconventie voor een element te verwijderen.
+1. Selecteren **[!UICONTROL Save As]** en typ een naam voor de voorinstelling. Of selecteer **[!UICONTROL Save]** als u een bestaande voorinstelling bewerkt.
 
 U kunt ook Code weergeven gebruiken zonder formuliervelden. In deze weergave maakt u uw definities van de naamgevingsconventie volledig met behulp van reguliere expressies.
 
@@ -916,42 +916,42 @@ Adobe Dynamic Media Classic gebruikt vooraf ingestelde batchsets om elementen di
 
 Met Voorinstelling Batchset kunt u voorinstellingen voor batchsets maken, bewerken en beheren. U kunt zo veel voorinstellingen maken als nodig is om alle taken voor het opnemen van elementen die u nodig hebt, te kunnen uitvoeren. Er zijn twee vormen van vooraf ingestelde batch-definities: een voor een standaardnaamgevingsconventie die u hebt ingesteld en een conventie voor aangepaste naamgevingsconventies die u direct maakt.
 
-U kunt de methode voor formuliervelden gebruiken om een voorinstelling voor een batchset te definiëren of de methode voor code, waarmee u reguliere expressies kunt gebruiken. Zoals in **[!UICONTROL Default Naming]**, kunt u **[!UICONTROL Code View]** tezelfdertijd selecteren u in de Mening van het Vorm en gebruik van regelmatige uitdrukkingen bepaalt om uw definities te bouwen. U kunt ook de optie voor het uitsluitend gebruiken van de ene weergave of de andere uitschakelen.
+U kunt de methode voor formuliervelden gebruiken om een voorinstelling voor een batchset te definiëren of de methode voor code, waarmee u reguliere expressies kunt gebruiken. Als in **[!UICONTROL Default Naming]**, kunt u **[!UICONTROL Code View]** tegelijkertijd definieert u in de formulierweergave en gebruikt u reguliere expressies om uw definities samen te stellen. U kunt ook de optie voor het uitsluitend gebruiken van de ene weergave of de andere uitschakelen.
 
-Zie ook [Een voorinstelling voor een batchset maken voor het automatisch genereren van een 2D-reeks voor draaien](application-setup.md#creating_a_batch_set_preset_for_the_auto_generation_of_a_2d_spin_set).
+Zie ook [Een voorinstelling voor een batchset maken voor het automatisch genereren van een 2D-reeks met draaien](application-setup.md#creating_a_batch_set_preset_for_the_auto_generation_of_a_2d_spin_set).
 
-Zie ook [2D spin sets](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&amp;emailurl=https://s7d5.scene7.com/s7/emailFriend&amp;serverUrl=https://s7d5.scene7.com/is/image/&amp;config=Scene7SharedAssets/Universal_HTML5_Video&amp;contenturl=https://s7d5.scene7.com/skins/&amp;asset=S7tutorials/537_2d-spin_converted%20renamed_Done-AVS) trainingsvideo.
+Zie ook [2D-centrifuges](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&amp;emailurl=https://s7d5.scene7.com/s7/emailFriend&amp;serverUrl=https://s7d5.scene7.com/is/image/&amp;config=Scene7SharedAssets/Universal_HTML5_Video&amp;contenturl=https://s7d5.scene7.com/skins/&amp;asset=S7tutorials/537_2d-spin_converted%20renamed_Done-AVS) trainingsvideo.
 
 **Een voorinstelling voor een batch-set maken:**
 
 1. Ga naar **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Batch Set Presets]** > **[!UICONTROL Batch Set Preset]**. **[!UICONTROL View Form]**, zoals ingesteld in de rechterbovenhoek van de pagina Details, is de standaardweergave.
-1. Selecteer **[!UICONTROL Add]** in het deelvenster Lijst met voorinstellingen om de definitievelden te activeren in het deelvenster Details aan de rechterkant van de pagina.
+1. Selecteer in het deelvenster Lijst met voorinstellingen de optie **[!UICONTROL Add]** om de definitievelden in het paneel van Details op de rechterkant van de pagina te activeren.
 1. Typ in het veld Naam voorinstelling in het deelvenster Details een naam voor de voorinstelling.
 1. Selecteer een type voorinstelling in het keuzemenu Type batch.
 
-   Als u automatisch een 2D-centrifugeset wilt genereren, selecteert u **[!UICONTROL Multi-Axis Spin Set]** in de vervolgkeuzelijst Type batch-set.
+   Selecteer **[!UICONTROL Multi-Axis Spin Set]** in de vervolgkeuzelijst Type batch.
 
 1. Voer een van de volgende handelingen uit:
 
-   * Als u een standaardnaamgevingsconventie gebruikt die u eerder hebt ingesteld onder **[!UICONTROL Application Setup]** > **[!UICONTROL Batch Set Presets]** > **[!UICONTROL Default Naming]**, vouwt u **[!UICONTROL Asset Naming Conventions]** uit en selecteert u **[!UICONTROL Default]** in de vervolgkeuzelijst Bestandsnaamgeving.
-   * Als u een naamgevingsconventie wilt definiëren terwijl u de voorinstelling instelt, vouwt u **[!UICONTROL Asset Naming Conventions]** uit en selecteert u **[!UICONTROL Custom]** in de vervolgkeuzelijst Bestandsnaamgeving.
+   * Als u een standaardnaamgevingsconventie gebruikt die u eerder hebt ingesteld onder **[!UICONTROL Application Setup]** > **[!UICONTROL Batch Set Presets]** > **[!UICONTROL Default Naming]**, uitbreiden **[!UICONTROL Asset Naming Conventions]** en selecteer vervolgens in de vervolgkeuzelijst Bestandsnaamgeving de optie **[!UICONTROL Default]**.
+   * Als u een naamgevingsconventie wilt definiëren terwijl u de voorinstelling instelt, vouwt u **[!UICONTROL Asset Naming Conventions]** en selecteer vervolgens in de vervolgkeuzelijst Bestandsnaamgeving de optie **[!UICONTROL Custom]**.
 
 1. Definieer bij Volgorde de volgorde voor de afbeeldingen nadat de set in Adobe Dynamic Media Classic is gegroepeerd. Uw elementen worden standaard alfanumeriek geordend. U kunt echter een door komma&#39;s gescheiden lijst met reguliere expressies gebruiken om de volgorde te definiëren.
 1. Geef bij Naamgeving instellen en Creatieconcept het achtervoegsel of het voorvoegsel op van de basisnaam die u in de Naamgevingsconventie voor middelen hebt gedefinieerd. Definieer ook waar de afbeeldingsset wordt gemaakt in de Adobe Dynamic Media Classic-mapstructuur.
 
    Als u grote aantallen afbeeldingssets definieert, moet u deze sets gescheiden houden van de mappen die de elementen zelf bevatten. Vele klanten creëren een omslag van de Reeksen van het Beeld en leiden de toepassing om partij te plaatsen geproduceerde reeksen hier.
 
-1. Selecteer **[!UICONTROL Save]** in het paneel van Details.
+1. Selecteren **[!UICONTROL Save]** in het deelvenster Details.
 
 ### Een voorinstelling voor een batchset maken voor het automatisch genereren van een 2D-reeks met draaien {#creating-a-batch-set-preset-for-the-auto-generation-of-a-d-spin-set}
 
-U kunt het Type van Type van Reeks **Meerassige Reeks** gebruiken om een &quot;recept&quot;tot stand te brengen dat de generatie van 2D Reeksen van de Draai automatiseert. Bij het groeperen van afbeeldingen worden de reguliere expressies Rij en Kolom gebruikt, zodat de afbeeldingselementen op de juiste wijze worden uitgelijnd op de corresponderende locatie in de multidimensionale array.
+U kunt het type Batch-set gebruiken **Draaiset met meerdere assen** om een &quot;recept&quot; te maken dat het genereren van 2D-centrifuges automatiseert. Bij het groeperen van afbeeldingen worden de reguliere expressies Rij en Kolom gebruikt, zodat de afbeeldingselementen op de juiste wijze worden uitgelijnd op de corresponderende locatie in de multidimensionale array.
 
 Zie ook [Een voorinstelling voor een batchset maken](application-setup.md#creating_a_batch_set_preset).
 
 Er is geen minimum- of maximumaantal rijen of kolommen dat u in een centrifugeerset moet hebben.
 
-Als voorbeeld, veronderstel u een multi-as goot reeks genoemd *spin-2dspin* wilt tot stand brengen. U hebt een set afbeeldingen met een set centrifuges die drie rijen bevatten, met 12 afbeeldingen per rij. De afbeeldingen krijgen de volgende naam:
+Stel dat u een spin-set met meerdere assen wilt maken met de naam *spin-2dspin*. U hebt een set afbeeldingen met een set centrifuges die drie rijen bevatten, met 12 afbeeldingen per rij. De afbeeldingen krijgen de volgende naam:
 
 ```as3
 spin-01-01
@@ -969,23 +969,23 @@ Met deze informatie kunt u het recept voor Type batch-set als volgt maken:
 
 De groepering voor het gedeelde element naamdeel van de spinset wordt toegevoegd aan het veld Overeenkomst (zoals gemarkeerd). Het variabele gedeelte van de naam van de asset met de rij en kolom wordt toegevoegd aan respectievelijk de velden Rij en Kolom.
 
-Wanneer de Spin-set wordt geüpload en gepubliceerd, activeert u de naam van het recept voor de 2D-centrifugeset dat onder **[!UICONTROL Batch Set Presets]** wordt weergegeven in het dialoogvenster Opties voor uploaden van taak.
+Wanneer de centrifugeerset wordt geüpload en gepubliceerd, activeert u de naam van het 2D-centrifugesetrecept dat onder **[!UICONTROL Batch Set Presets]** in het dialoogvenster Taakopties uploaden.
 
 **Een voorinstelling voor een batch-set maken voor het automatisch genereren van een 2D-reeks voor draaien:**
 
 1. Ga naar **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Batch Set Presets]** > **[!UICONTROL Batch Set Preset]**. **[!UICONTROL View Form]**, zoals ingesteld in de rechterbovenhoek van de pagina Details, is de standaardweergave.
-1. Selecteer **[!UICONTROL Add]** in het deelvenster Lijst met voorinstellingen om de definitievelden te activeren in het deelvenster Details rechts op de pagina.
+1. Selecteer in het deelvenster Lijst met voorinstellingen de optie **[!UICONTROL Add]** om de definitievelden in het paneel van Details aan de rechterkant van de pagina te activeren.
 1. Typ in het veld Naam voorinstelling in het deelvenster Details een naam voor de voorinstelling.
 1. Selecteer in het vervolgkeuzemenu Batchsettype de optie **[!UICONTROL Asset Set]**.
-1. Selecteer **[!UICONTROL Multi-Axis Spin Set]** in de vervolgkeuzelijst Subtype.
-1. Vouw **[!UICONTROL Asset Naming Conventions]** uit en selecteer **[!UICONTROL Custom]** in de vervolgkeuzelijst Bestandsnaamgeving.
+1. Selecteer in de vervolgkeuzelijst Subtype de optie **[!UICONTROL Multi-Axis Spin Set]**.
+1. Uitbreiden **[!UICONTROL Asset Naming Conventions]** en selecteer vervolgens in de vervolgkeuzelijst Bestandsnaamgeving de optie **[!UICONTROL Custom]**.
 1. Gebruik de kenmerken **[!UICONTROL Match]** en (optioneel) **[!UICONTROL Base Name]** om een reguliere expressie te definiëren voor de naamgeving van afbeeldingsassets waaruit de groepering bestaat.
 
    De reguliere expressie Letterlijke overeenkomst kan er bijvoorbeeld als volgt uitzien:
 
    `(\w+)-\w+-\w+`
 
-1. Vouw **[!UICONTROL Row Column Position]** uit en definieer vervolgens de naamnotatie voor de positie van het afbeeldingselement binnen de 2D-array met spellingsets.
+1. Uitbreiden **[!UICONTROL Row Column Position]** en definieert u vervolgens de naamindeling voor de positie van het afbeeldingselement binnen de 2D-array met spellingsets.
 
    Gebruik het haakje om de rij- of kolompositie in de bestandsnaam in te sluiten.
 
@@ -1015,7 +1015,7 @@ Wanneer de Spin-set wordt geüpload en gepubliceerd, activeert u de naam van het
 
    Als u grote aantallen afbeeldingssets definieert, moet u deze sets gescheiden houden van de mappen die de elementen zelf bevatten. Vele klanten creëren een omslag van de Reeksen van het Beeld en leiden de toepassing om partij te plaatsen geproduceerde reeksen hier.
 
-1. Selecteer **[!UICONTROL Save]** in het paneel van Details.
+1. Selecteren **[!UICONTROL Save]** in het deelvenster Details.
 1. Upload en publiceer de centrifugeerset op de gebruikelijke manier. Zorg ervoor dat u de naam van de 2D-centrifugeset activeert in het dialoogvenster Opties voor laden van taak, onder Voorinstellingen voor batchset.
 
 >[!MORELIKETHIS]
