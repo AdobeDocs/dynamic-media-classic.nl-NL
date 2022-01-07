@@ -8,9 +8,9 @@ geptopics: SG_SCENESEVENONDEMAND_PK/categories/introducing_adobe_dynamic_media_c
 feature: Dynamic Media Classic
 role: Admin,User
 exl-id: 604b4630-4704-4254-84b5-91b33bb19d58
-source-git-commit: df41d69e2fa6e9db806d8ffbb06edc42b70d1011
+source-git-commit: a575c698fec3f85e537ad07f5948e7e65912ca52
 workflow-type: tm+mt
-source-wordcount: '1858'
+source-wordcount: '1909'
 ht-degree: 0%
 
 ---
@@ -40,21 +40,13 @@ De Adobe Dynamic Media Classic-bureaubladtoepassing is compatibel met de volgend
 
 ## Oplossingen in de nieuwste versie (20.22.1) {#release-jan2022}
 
-* 
+Beeldbewerking **[!UICONTROL Save]** de knoppen waren niet functioneel.
 
-   <!-- CQ-4333853 :  -->Image editing **[!UICONTROL Save]** buttons were non-functional.
-* 
-
-   <!-- CQ-4334638 :  -->In the Set editors, the **[!UICONTROL Close]**, **[!UICONTROL Save]**, and **[!UICONTROL Save As]** buttons become disabled after scrolling assets in the **[!UICONTROL Add Assets]** panel.
-* 
-
-   <!-- CQ-4335992 :  -->**[!UICONTROL Play]** button in Video Detail view did not work.
-* 
-
-   <!-- CQ-4336687 :  -->Could not enter `d` and `e` in **[!UICONTROL Username]** and **[!UICONTROL Password]** fields when running macOS Monterey.
-* 
-
-   <!-- CQ-4334197 :  -->Moved the remaining analytics APIs to version 2.0.
+* Beeldbewerking **[!UICONTROL Save]** de knoppen waren niet functioneel.
+* In de Vastgestelde redacteurs, **[!UICONTROL Close]**, **[!UICONTROL Save]**, en **[!UICONTROL Save As]** knoppen worden uitgeschakeld na het schuiven van elementen in het dialoogvenster **[!UICONTROL Add Assets]** deelvenster.
+* **[!UICONTROL Play]** werkte niet.
+* Kan niet invoeren `d` en `e` in **[!UICONTROL Username]** en **[!UICONTROL Password]** velden wanneer macOS Monterey wordt uitgevoerd.
+* De resterende analyse-API&#39;s zijn verplaatst naar versie 2.0.
 
 ## Oplossingen in release (20.21.3) {#release-sept2021}
 
@@ -160,7 +152,7 @@ Om te downloaden en *stil* Installeer de nieuwste versie van de Adobe Dynamic Me
 
 1. Download het nieuwste installatieprogramma voor de Adobe Dynamic Media Classic-bureaubladtoepassing voor macOS.
 
-   * [macOS (.DMG) - Downloaden](https://download.macromedia.com/dynamic-media-classic/20.21.3/adobe-dynamic-media-classic-20.21.3.dmg)
+   * [macOS (.DMG) - Downloaden](https://download.macromedia.com/dynamic-media-classic/20.22.1/adobe-dynamic-media-classic-20.22.1.dmg)
 
 1. Koppel het gedownloade beeld van de Schijf (.DMG) aan een montageselocatie gebruikend het volgende bevel:
 
