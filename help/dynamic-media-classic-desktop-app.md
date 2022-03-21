@@ -1,16 +1,16 @@
 ---
 title: Adobe Dynamic Media Classic-bureaubladtoepassing - Nu beschikbaar
 description: Meer weten over Adobe Dynamic Media Classic-bureaubladtoepassingen?
-contentOwner: admin
+contentOwner: rbrough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/introducing_adobe_dynamic_media_classic
 feature: Dynamic Media Classic
 role: Admin,User
 exl-id: 604b4630-4704-4254-84b5-91b33bb19d58
-source-git-commit: 92c3cccbd03f8e159ca6e1ae90558826a5b1443b
+source-git-commit: f0c02d40a1a84e52b25d1c4558958af970859a07
 workflow-type: tm+mt
-source-wordcount: '1904'
+source-wordcount: '1933'
 ht-degree: 0%
 
 ---
@@ -32,11 +32,14 @@ Zie de veelgestelde vragen voor de [Nieuwe Adobe Dynamic Media Classic-aanmelder
 De Adobe Dynamic Media Classic-bureaubladtoepassing is compatibel met de volgende besturingssystemen:
 
 * macOS 10.10 of hoger.
+
+   >[!NOTE]
+   >
+   >De Dynamic Media Classic-bureaubladtoepassing heeft een verminderde functionaliteit bij gebruik in macOS Monterey. Als zodanig werkt Adobe de komende weken aan het uitbrengen van een nieuwe bureaubladversie.
+
 * Windows® 7 of hoger.
 
->[!NOTE]
->
->Upgrademelding in de Adobe Dynamic Media Classic-bureaubladtoepassing wordt niet gegenereerd voor *klein* lozingen. Klanten die van moeilijke situaties in een minder belangrijke versie profiteren kunnen bevorderen.
+Upgrademelding in de Adobe Dynamic Media Classic-bureaubladtoepassing wordt niet gegenereerd voor *klein* lozingen. Klanten die van moeilijke situaties in een minder belangrijke versie profiteren kunnen bevorderen.
 
 ## Oplossingen in de nieuwste versie (20.22.1) {#release-jan2022}
 
