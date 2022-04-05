@@ -8,9 +8,9 @@ geptopics: SG_SCENESEVENONDEMAND_PK/categories/introducing_adobe_dynamic_media_c
 feature: Dynamic Media Classic
 role: Admin,User
 exl-id: 604b4630-4704-4254-84b5-91b33bb19d58
-source-git-commit: f0c02d40a1a84e52b25d1c4558958af970859a07
+source-git-commit: a53245c3a9c82fb68db1b62798b962dd3283be12
 workflow-type: tm+mt
-source-wordcount: '1933'
+source-wordcount: '1919'
 ht-degree: 0%
 
 ---
@@ -32,14 +32,13 @@ Zie de veelgestelde vragen voor de [Nieuwe Adobe Dynamic Media Classic-aanmelder
 De Adobe Dynamic Media Classic-bureaubladtoepassing is compatibel met de volgende besturingssystemen:
 
 * macOS 10.10 of hoger.
-
-   >[!NOTE]
-   >
-   >De Dynamic Media Classic-bureaubladtoepassing heeft een verminderde functionaliteit bij gebruik in macOS Monterey. Als zodanig werkt Adobe de komende weken aan het uitbrengen van een nieuwe bureaubladversie.
-
 * Windows® 7 of hoger.
 
 Upgrademelding in de Adobe Dynamic Media Classic-bureaubladtoepassing wordt niet gegenereerd voor *klein* lozingen. Klanten die van moeilijke situaties in een minder belangrijke versie profiteren kunnen bevorderen.
+
+## Opgelost in de meest recente release (20.22.2) - alleen macOS {#release-feb2022}
+
+* macOS Monterey - Pagina voor het uploaden van bestanden bevroren bij volgende uploads. <!-- https://jira.corp.adobe.com/browse/ASSETS-7948 -->
 
 ## Oplossingen in de nieuwste versie (20.22.1) {#release-jan2022}
 
@@ -94,15 +93,17 @@ Zie ook:
 
 1. Download het nieuwste installatieprogramma voor de Adobe Dynamic Media Classic-bureaubladtoepassing.
 
-   * De meest recente versie (20.22.1) is beschikbaar op het volgende adres:
+   * De meest recente versie is beschikbaar op het volgende adres:
+
+      * [macOS (.DMG) - Downloaden](https://download.macromedia.com/dynamic-media-classic/20.22.2/adobe-dynamic-media-classic-20.22.2.dmg)
+      * [Windows (.EXE) - Downloaden](https://download.macromedia.com/dynamic-media-classic/20.22.1/adobe-dynamic-media-classic-20.22.1.exe)
+   * De vorige versie is beschikbaar op het volgende:
 
       * [macOS (.DMG) - Downloaden](https://download.macromedia.com/dynamic-media-classic/20.22.1/adobe-dynamic-media-classic-20.22.1.dmg)
-      * [Windows (.EXE) - Downloaden](https://download.macromedia.com/dynamic-media-classic/20.22.1/adobe-dynamic-media-classic-20.22.1.exe)
-   * De vorige versie (20.21.3) is beschikbaar op:
-
-      * [macOS (.DMG) - Downloaden](https://download.macromedia.com/dynamic-media-classic/20.21.3/adobe-dynamic-media-classic-20.21.3.dmg)
       * [Windows® (.EXE) - Downloaden](https://download.macromedia.com/dynamic-media-classic/20.21.3/adobe-dynamic-media-classic-20.21.3.exe)
 
+
+<!--         * [macOS (.DMG) - Download](https://download.macromedia.com/dynamic-media-classic/20.21.3/adobe-dynamic-media-classic-20.21.3.dmg) -->
 
 <!--    * [macOS (.DMG) - Download](https://download.macromedia.com/dynamic-media-classic/20.21.2/adobe-dynamic-media-classic-20.21.2.dmg)
         * [Windows® (.EXE) - Download](https://download.macromedia.com/dynamic-media-classic/20.21.2/adobe-dynamic-media-classic-20.21.2.exe) -->
@@ -153,11 +154,11 @@ Om te downloaden en *stil* Installeer de nieuwste versie van de Adobe Dynamic Me
 
 1. Download het nieuwste installatieprogramma voor de Adobe Dynamic Media Classic-bureaubladtoepassing voor macOS.
 
-   * [macOS (.DMG) - Downloaden](https://download.macromedia.com/dynamic-media-classic/20.22.1/adobe-dynamic-media-classic-20.22.1.dmg)
+   * [macOS (.DMG) - Downloaden](https://download.macromedia.com/dynamic-media-classic/20.22.2/adobe-dynamic-media-classic-20.22.2.dmg)
 
 1. Koppel het gedownloade beeld van de Schijf (.DMG) aan een montageselocatie gebruikend het volgende bevel:
 
-   `hdiutil attach adobe-dynamic-media-classic-20.22.1.dmg -mountpoint <mount_point_path>`
+   `hdiutil attach adobe-dynamic-media-classic-20.22.2.dmg -mountpoint <mount_point_path>`
 
 1. Het APP-bestand kopiëren naar **[!UICONTROL Applications]** met de volgende opdracht:
 
