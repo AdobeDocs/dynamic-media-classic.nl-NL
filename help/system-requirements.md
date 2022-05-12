@@ -1,6 +1,6 @@
 ---
 title: Systeemvereisten voor Adobe Dynamic Media Classic-bureaubladtoepassing
-description: 'Meer informatie over de systeemvereisten voor de beste ervaring met Adobe Dynamic Media Classic. '
+description: 'Meer informatie over de systeemvereisten voor een optimale ervaring met Adobe Dynamic Media Classic. '
 uuid: 8dfc925b-7350-41af-9207-3b2a743c0998
 contentOwner: admin
 content-type: reference
@@ -10,18 +10,18 @@ discoiquuid: 27278fef-8b0e-41cd-b393-7a4c3625d5c0
 feature: Dynamic Media Classic
 role: Admin,User
 exl-id: 3460f3bd-1616-44e7-9ddb-fe74ee0c8729
-source-git-commit: e47c22508230adbb1ece323be0c1413a3f27ad89
+source-git-commit: 3345861b5d65f46071578a81913e6b0a4eeb6b8d
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '108'
 ht-degree: 0%
 
 ---
 
 # Systeemvereisten voor Adobe Dynamic Media Classic-bureaubladtoepassing {#system-requirements}
 
-Voor een optimale ervaring met de Adobe Dynamic Media Classic-bureaubladtoepassing moet u ervoor zorgen dat uw systeem voldoet aan de volgende systeemvereisten en suggesties:
+Voor de beste ervaring met het gebruik van de Adobe Dynamic Media Classic-bureaubladtoepassing moet u ervoor zorgen dat uw systeem voldoet aan de volgende systeemvereisten en suggesties:
 
-* Microsoft® Windows® 7 of hoger of MacOS X 10.6 of hoger vereist Macintosh Intel®-processor.
+* Microsoft® Windows® 7 of hoger of macOS X 10.10 of nieuwer Macintosh Intel® processor vereist.
 * 3-GB RAM of hoger vereist (4 GB of hoger voorgesteld).
 * Kleurenmonitor.
 * Videokaart met ondersteuning voor True Color bij een resolutie van 1280 x 1024 of hoger.

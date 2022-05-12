@@ -8,9 +8,9 @@ geptopics: SG_SCENESEVENONDEMAND_PK/categories/introducing_adobe_dynamic_media_c
 feature: Dynamic Media Classic
 role: Admin,User
 exl-id: 604b4630-4704-4254-84b5-91b33bb19d58
-source-git-commit: a53245c3a9c82fb68db1b62798b962dd3283be12
+source-git-commit: 3345861b5d65f46071578a81913e6b0a4eeb6b8d
 workflow-type: tm+mt
-source-wordcount: '1919'
+source-wordcount: '1934'
 ht-degree: 0%
 
 ---
@@ -34,9 +34,11 @@ De Adobe Dynamic Media Classic-bureaubladtoepassing is compatibel met de volgend
 * macOS 10.10 of hoger.
 * Windows® 7 of hoger.
 
+Zie de volledige systeemvereisten op [Systeemvereisten voor Adobe Dynamic Media Classic-bureaubladtoepassing](/help/system-requirements.md).
+
 Upgrademelding in de Adobe Dynamic Media Classic-bureaubladtoepassing wordt niet gegenereerd voor *klein* lozingen. Klanten die van moeilijke situaties in een minder belangrijke versie profiteren kunnen bevorderen.
 
-## Opgelost in de meest recente release (20.22.2) - alleen macOS {#release-feb2022}
+## Alleen opgelost in de nieuwste release (20.22.2) macOS {#release-feb2022}
 
 * macOS Monterey - Pagina voor het uploaden van bestanden bevroren bij volgende uploads. <!-- https://jira.corp.adobe.com/browse/ASSETS-7948 -->
 
