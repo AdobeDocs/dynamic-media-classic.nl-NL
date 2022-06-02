@@ -1,6 +1,6 @@
 ---
 title: Een centrifugeset maken
-description: Leer hoe u een centrifugeset maakt in Adobe Dynamic Media Classic.
+description: Leer hoe u een Spin-set maakt in Adobe Dynamic Media Classic.
 uuid: 697bd78f-5e39-46bf-aa6d-ad8ab99fe40e
 contentOwner: admin
 content-type: reference
@@ -10,22 +10,22 @@ discoiquuid: 735b5867-e249-4627-a5a5-25c19c2255bf
 feature: Dynamic Media Classic,Viewers,Spin Sets
 role: User
 exl-id: 35e8e7fc-5b3c-441a-959c-df2e39ea0d4b
-source-git-commit: 1d71cbe6e2493ac8d47e837a20e194b6ae7a22d4
+source-git-commit: ac9cba2c33fb1df65e64746dea2557632b7b2903
 workflow-type: tm+mt
-source-wordcount: '874'
+source-wordcount: '903'
 ht-degree: 0%
 
 ---
 
 # Een centrifugeset maken{#creating-a-spin-set}
 
-Als u een effectieve centrifugeset wilt maken, moet u controleren of de afbeeldingen op de juiste wijze zijn opgenomen. U kunt een centrifugeset maken in Adobe Dynamic Media Classic door de knop Build te selecteren en Draaisets te kiezen. Bewerk de centrifuges in het scherm Spin Sets.
+Als u een effectieve centrifugeset wilt maken, moet u controleren of de afbeeldingen op de juiste wijze zijn opgenomen. U kunt een in Adobe Dynamic Media Classic ingestelde centrifugeset maken door de knop Build te selecteren en de optie Spin-sets te kiezen. Bewerk de centrifuges in het scherm Spin Sets.
 
 >[!NOTE]
 >
->In eerdere versies van Adobe Dynamic Media Classic konden geen tweedimensionale centrifuges worden gebruikt. Als u een centrifugeset hebt gemaakt in een vorige versie van Adobe Dynamic Media Classic, kunt u de eendimensionale centrifugeset niet opslaan zonder deze eerst onder een andere naam op te slaan. Selecteer **[!UICONTROL Save As]** in het scherm van de Reeks van de Rotatie en ga een nieuwe naam in zodat u het in de Klassiek van Adobe Dynamic Media kunt uitgeven.
+>In eerdere versies van Adobe Dynamic Media Classic konden tweedimensionale centrifuges niet worden gebruikt. Als u een Spin-reeks in een vorige versie van Adobe Dynamic Media Classic creeerde, kunt u niet uw eendimensionale Reeks van de Draai bewaren zonder het onder een verschillende naam eerst op te slaan. Selecteren **[!UICONTROL Save As]** in het scherm Spin Set en voer een nieuwe naam in zodat u deze in Adobe Dynamic Media Classic kunt bewerken.
 
-## Richtlijnen voor het maken van centrifuges {#guidelines-for-shooting-spin-set-images}
+## Richtlijnen voor het maken van centrifuge-afbeeldingen {#guidelines-for-shooting-spin-set-images}
 
 Over het algemeen geldt dat hoe meer afbeeldingen u in een centrifugeset hebt, hoe beter het effect van het draaien van de afbeelding is. Als u echter veel afbeeldingen in de set opneemt, neemt de laadtijd van de afbeeldingen toe. Adobe Dynamic Media Classic raadt de volgende richtlijnen aan voor het maken van foto&#39;s voor gebruik in centrifuges:
 
@@ -37,9 +37,9 @@ Over het algemeen geldt dat hoe meer afbeeldingen u in een centrifugeset hebt, h
 
 ## Een centrifugeset maken {#create}
 
-De volgorde waarin de Spin-set is gemaakt of gemaakt in Adobe Dynamic Media Classic is belangrijk. Afhankelijk van de volgorde waarin u de elementen ordent wanneer u afbeeldingen naar het raster sleept op de pagina Draaien in set, draait de Spin-set in een bepaalde richting. Daarom is de volgorde waarin het element visueel wordt weergegeven in de builder de manier waarop het wordt gedraaid wanneer een gebruiker de muisaanwijzer beweegt of zijn vinger van links naar rechts beweegt.
+De volgorde waarin de Spin-set is gemaakt of gemaakt in Adobe Dynamic Media Classic, is belangrijk. Afhankelijk van de volgorde waarin u de elementen ordent wanneer u afbeeldingen naar het raster sleept op de pagina Draaien in set, draait de Spin-set in een bepaalde richting. Daarom is de volgorde waarin het element visueel wordt weergegeven in de builder de manier waarop het wordt gedraaid wanneer een gebruiker de muisaanwijzer beweegt of zijn vinger van links naar rechts beweegt.
 
-Wanneer u een set maakt, heeft de optie **[!UICONTROL Publish after save]** op de volgende manieren invloed op de set en stelt u leden in:
+Wanneer u een set maakt, **[!UICONTROL Publish after save]** Deze optie is op de volgende manieren van invloed op de set en de set leden:
 
 | **[!UICONTROL Publish after save]** optie geselecteerd voor opslaan? | Status van set na opslaan | Status van ingestelde leden na opslaan |
 | --- | --- | --- |
@@ -48,27 +48,37 @@ Wanneer u een set maakt, heeft de optie **[!UICONTROL Publish after save]** op d
 
 Zie ook [Elementen handmatig publiceren](publishing-files.md#manually-publishing-assets) en [Publicaties van elementen handmatig ongedaan maken](publishing-files.md#manually-unpublishing-assets).
 
+>[!NOTE]
+>
+>Wanneer u een reeks van de Rotatie creeert, adviseert Adobe de volgende beste praktijkrichtlijn en gedwongen grens.
+>
+>* Maximumaantal rijen/kolommen per 2D-centrifugeset
+   > 
+   >   * Beste praktijken: 1000
+   >   * Afgedwongen limiet: 1000
+
+
 Nadat u een Spin-reeks hebt opgeslagen, kunt u Voorvertoning gebruiken in de Build: Met de optie Spin Set kunt u zien hoe de centrifugeset er in de standaardviewer uitziet.
 
 **Een centrifugeset maken:**
 
-1. Selecteer **[!UICONTROL Spin Sets]** in het vervolgkeuzemenu **[!UICONTROL Build]**.
+1. Op de **[!UICONTROL Build]** vervolgkeuzelijst, selecteert u **[!UICONTROL Spin Sets]**.
 1. Stel in het dialoogvenster Grootte van paginaset het gewenste aantal rijen en cellen in.
 
    Als u een eendimensionale centrifuge wilt maken, selecteert u slechts één rij.
 
    Als u een tweedimensionale centrifugeerset wilt maken, selecteert u twee of meer rijen.
 
-1. Selecteer **[!UICONTROL OK]**.
+1. Selecteren **[!UICONTROL OK]**.
 1. Sleep afbeeldingen naar het raster op het scherm Spin Set.
-1. Als u klaar bent, gaat u naar de rechterbenedenhoek van de pagina en controleert u of **Publiceren na opslaan** is geselecteerd (standaard).
-1. Selecteer **[!UICONTROL Save]**.
+1. Wanneer u klaar bent, gaat u naar de rechterbenedenhoek van de pagina en zorgt u ervoor dat **Publiceren na opslaan** is geselecteerd (standaard).
+1. Selecteren **[!UICONTROL Save]**.
 1. Selecteer in het dialoogvenster Opslaan een map waarin u de centrifugeset wilt opslaan. Voer in het veld Bestandsnaam de naam van de spin-set in.
-1. Selecteer **[!UICONTROL Save]**.
+1. Selecteren **[!UICONTROL Save]**.
 
 ## Een draaiset bewerken {#editing-a-spin-set}
 
-Of u een gepubliceerde set of een niet-gepubliceerde set bewerkt, de optie **[!UICONTROL Publish after save]** heeft op de volgende manieren invloed op de set en stelt leden in:
+Of u een gepubliceerde set of een niet-gepubliceerde set bewerkt, **[!UICONTROL Publish after save]** Deze optie is op de volgende manieren van invloed op de set en de set leden:
 
 | Reeds gepubliceerd instellen? | **[!UICONTROL Publish after save]** optie geselecteerd voordat u de bewerking opslaat? | Status van set na opslaan | Status van ingestelde leden na opslaan |
 | --- | --- | --- | --- |
@@ -79,21 +89,21 @@ Of u een gepubliceerde set of een niet-gepubliceerde set bewerkt, de optie **[!U
 
 Zie ook [Elementen handmatig publiceren](publishing-files.md#manually-publishing-assets) en [Publicaties van elementen handmatig ongedaan maken](publishing-files.md#manually-unpublishing-assets).
 
-**Een centrifugeset bewerken:**
+**Een centrifuusset bewerken:**
 
-1. Selecteer de rollover **[!UICONTROL Edit]**-knop van de centrifugeset.
+1. De rollover van de centrifugeset selecteren **[!UICONTROL Edit]** knop.
 1. Voer een van de volgende handelingen uit:
 
-   * **Afbeeldingen**  verwijderen: selecteer de afbeelding en selecteer  **[!UICONTROL Delete]**.
+   * **Afbeeldingen verwijderen** - Selecteer de afbeelding en selecteer vervolgens **[!UICONTROL Delete]**.
 
-   * **Afbeeldingen**  toevoegen: sleep de afbeelding naar een cel.
+   * **Afbeeldingen toevoegen** - Sleep de afbeelding naar een cel.
 
-   * **Rijen opnieuw ordenen (tweedimensionale centrifuges)**  - Selecteer een vak met een rijkiezer (links van de rij) en selecteer  **[!UICONTROL Move Row Down]** of  **[!UICONTROL Move Row Up]**.
+   * **Rijen opnieuw ordenen (tweedimensionale centrifuges)** - Selecteer een vak met een rijkiezer (links van de rij) en selecteer vervolgens **[!UICONTROL Move Row Down]** of **[!UICONTROL Move Row Up]**.
 
-   * **Rijen en cellen**  toevoegen - Voer een getal in het vak Rijen en Cellen in om het aantal rijen en het aantal cellen in elke rij te bepalen.
+   * **Rijen en cellen toevoegen** - Voer in het vak Rijen en Cellen een getal in om het aantal rijen en het aantal cellen in elke rij te bepalen.
 
-1. Als u klaar bent met bewerken, controleert u of **[!UICONTROL Publish after save]** is geselecteerd (standaard) in de rechterbenedenhoek van de pagina.
-1. Selecteer **[!UICONTROL Save]**, selecteer een opslagomslag, ga een naam voor de reeks in, en selecteer dan **[!UICONTROL Save]**.
+1. Wanneer u klaar bent met bewerken, gaat u naar de rechterbenedenhoek van de pagina en zorgt u ervoor dat **[!UICONTROL Publish after save]** is geselecteerd (standaard).
+1. Selecteren **[!UICONTROL Save]**, selecteert u een opslagmap, voert u een naam voor de set in en selecteert u **[!UICONTROL Save]**.
 
 ## Een centrifugeerset verwijderen {#deleting-a-spin-set}
 

@@ -6,9 +6,9 @@ user-guide-title: Adobe Dynamic Media Classic Guide
 breadcrumb-title: Dynamic Media Classic Guide
 user-guide-description: Meer informatie over het gebruik van Adobe Dynamic Media Classic
 index: y
-source-git-commit: 352b1c383195fa03294ad3501207d63f3cfe3e42
+source-git-commit: ac9cba2c33fb1df65e64746dea2557632b7b2903
 workflow-type: tm+mt
-source-wordcount: '776'
+source-wordcount: '787'
 ht-degree: 0%
 
 ---
@@ -38,13 +38,13 @@ ht-degree: 0%
    + [Basisbeginselen van navigatie](navigation-basics.md)
    + [Basisbeginselen van instellingen](setup-basics.md)
    + [Rijke media](rich-media.md)
-+ {#setup} instellen
++ Instellen {#setup}
    + [Persoonlijke instelling](personal-setup.md)
    + [Toepassing instellen](application-setup.md)
    + [Publicatie-instelling](publish-setup.md)
    + [Video-SEO (Optimalisatie zoekmachine)](video-seo-search-engine-optimization.md)
    + [Instellingen voor beheer](administration-setup.md)
-+ Mediaportaal {#media-portal}
++ Media Portal {#media-portal}
    + [Systeemvereisten voor Media Portal in Adobe Dynamic Media Classic](system-requirements-media-portal.md)
    + [Snel starten: Media Portal](quick-start-media-portal-administration.md)
    + [Gebruikersrollen van Media Portal](media-portal-user-roles.md)
@@ -59,9 +59,10 @@ ht-degree: 0%
    + [Elementen uploaden en publiceren](about-asset-upload-publish.md)
    + [Bestanden uploaden](uploading-files.md)
    + [Bestanden publiceren](publishing-files.md)
+   + [Aanbevolen werkwijzen en door Dynamic Media opgelegde limieten voor soorten activa](best-practices-enforced-limits.md)
    + [Elementen testen voordat ze openbaar worden gemaakt](testing-assets-making-them-public.md)
    + [Taakbestanden controleren](checking-job-files.md)
-+ Elementen {#managing-assets} beheren
++ Elementen beheren {#managing-assets}
    + [Over het beheren van elementen](about-managing-assets.md)
    + [Werken met middelenmappen](asset-folders.md)
    + [Elementen weergeven in het deelvenster Bladeren](viewing-assets-browse-panel.md)
@@ -90,7 +91,7 @@ ht-degree: 0%
    + [Afbeeldingselementen voorvertonen met verschillende zoomviewers](previewing-image-assets-different-zoom.md)
    + [Zoomafbeeldingen publiceren](publishing-zoom-images.md)
    + [Zoomviewers koppelen aan uw webpagina&#39;s](linking-zoom-viewers-web-pages.md)
-+ eCatalogi {#ecatalogs}
++ eCatalogs {#ecatalogs}
    + [Snel starten: eCatalogs](quick-start-ecatalog.md)
    + [De PDF-bestanden uploaden](uploading-pdf-files.md)
    + [Een eCatalog maken](creating-ecatalog.md)
@@ -100,7 +101,7 @@ ht-degree: 0%
    + [Voorvertoning van eCatalogi weergeven in de eCatalog-viewer](previewing-ecatalogs-ecatalog-viewer.md)
    + [E-catalogi en bijbehorende PDF publiceren](publishing-ecatalogs-associated-pdfs.md)
    + [Een eCatalog koppelen aan een webpagina](linking-ecatalog-web-page.md)
-+ Afbeeldingssets {#image-sets}
++ Afbeeldingsets {#image-sets}
    + [Snel starten: Afbeeldingssets](quick-start-image-sets.md)
    + [Afbeeldingsset-elementen voorbereiden voor uploaden](preparing-image-set-assets-upload.md)
    + [Een afbeeldingsset maken](creating-image-set.md)
@@ -116,14 +117,14 @@ ht-degree: 0%
    + [Een stalenset maken](creating-swatch-set.md)
    + [Staalsets weergeven](viewing-swatch-sets.md)
    + [Een stalenset koppelen aan een webpagina](linking-swatch-set-web-page.md)
-+ Spinsets {#spin-sets}
++ Sets draaien {#spin-sets}
    + [Snel starten: Sets draaien](quick-start-spin-sets.md)
    + [Een centrifugeset maken](creating-spin-set.md)
    + [Een voorvertoning van een centrifugeset weergeven](previewing-spin-set.md)
    + [Een centrifugeerset publiceren](publishing-spin-set.md)
    + [Voorinstellingen voor draaiende viewer instellen](setting-spin-set-viewer-presets.md)
    + [Een centrifugeerset koppelen aan een webpagina](linking-spin-set-web-page.md)
-+ Basisbeginselen van sjablonen {#template-basics}
++ Grondbeginselen van sjablonen {#template-basics}
    + [Snel starten: Grondbeginselen van sjablonen](quick-start-template-basics.md)
    + [Sjabloonbestanden uploaden](uploading-template-files.md)
    + [Een sjabloon maken](creating-template.md)

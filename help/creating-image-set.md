@@ -7,12 +7,12 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/image_sets
 discoiquuid: 3f356410-b30e-4870-ad95-6e5a9dc126c8
-feature: Dynamic Media Classic,Viewers,Image Sets
+feature: Dynamic Media Classic,Viewers,Image Sets,Spin Sets
 role: User
 exl-id: c18bb98c-b087-45d0-a4c9-44f58a3b514f
-source-git-commit: 1d71cbe6e2493ac8d47e837a20e194b6ae7a22d4
+source-git-commit: fe765d1acfa37e9d13f5ef1b655f8cf04195a8a6
 workflow-type: tm+mt
-source-wordcount: '553'
+source-wordcount: '591'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Als u een Afbeeldingsset met meerdere weergaven wilt maken, hebt u afbeeldingen 
 
 ## Een afbeeldingsset maken {#create}
 
-Wanneer u een set maakt, heeft de optie **[!UICONTROL Publish after save]** op de volgende manieren invloed op de set en stelt u leden in:
+Wanneer u een set maakt, **[!UICONTROL Publish after save]** Deze optie is op de volgende manieren van invloed op de set en de set leden:
 
 | **[!UICONTROL Publish after save]** optie geselecteerd voor opslaan? | Status van set na opslaan | Status van ingestelde leden na opslaan |
 | --- | --- | --- |
@@ -32,22 +32,34 @@ Wanneer u een set maakt, heeft de optie **[!UICONTROL Publish after save]** op d
 
 Zie ook [Elementen handmatig publiceren](publishing-files.md#manually_publishing_assets) en [Publicaties van elementen handmatig ongedaan maken](publishing-files.md#manually_unpublishing_assets).
 
+>[!NOTE]
+>
+>Wanneer u een Reeks van het Beeld creeert, adviseert Adobe de volgende beste praktijkrichtlijnen en gedwongen grenzen.
+>
+>* Aantal dubbele elementen per afbeeldingsset
+   >   * Beste praktijken: 20
+   >   * Afgedwongen limiet: 20
+> * Maximumaantal pagina&#39;s per afbeeldingsset
+   >   * Beste praktijken: 1000
+   >   * Uitgebreide limiet: 1000
+
+
 **Een afbeeldingsset maken:**
 
 1. Voer een van de volgende handelingen uit:
 
-   * **Selecteer eerst**  de afbeeldingen. Selecteer in het deelvenster Bladeren de afbeeldingen die u voor de set afbeeldingen wilt gebruiken en ga naar  **[!UICONTROL Build]** >  **[!UICONTROL Image Sets]**.
+   * **Selecteer eerst de afbeeldingen** - Selecteer in het deelvenster Bladeren de afbeeldingen die u wilt instellen als afbeeldingsset, ga naar **[!UICONTROL Build]** > **[!UICONTROL Image Sets]**.
 
-   * **Begin in het scherm**  Afbeeldingsset - Ga naar  **[!UICONTROL Build]** >  **[!UICONTROL Image Sets]**. Het scherm Afbeeldingsset wordt geopend. Selecteer een map in de elementenbibliotheek en sleep de afbeeldingen die u voor de afbeeldingsset wilt instellen naar het scherm Afbeeldingsset.
+   * **Begin van het Vastgestelde scherm van het Beeld** - Ga naar **[!UICONTROL Build]** > **[!UICONTROL Image Sets]**. Het scherm Afbeeldingsset wordt geopend. Selecteer een map in de elementenbibliotheek en sleep de afbeeldingen die u voor de afbeeldingsset wilt instellen naar het scherm Afbeeldingsset.
 
 1. Als u de volgorde van de afbeeldingen wilt wijzigen, sleept u de afbeeldingen naar nieuwe locaties.
-1. Zorg dat in de rechterbenedenhoek van de pagina **[!UICONTROL Publish after save]** is geselecteerd (standaardwaarde).
-1. Selecteer **[!UICONTROL Save]**, selecteer een omslag voor het opslaan van uw Reeks van het Beeld, ga een naam voor de reeks in, en selecteer dan **[!UICONTROL Save]**.
-1. Selecteer **[!UICONTROL Preview]** op het scherm Afbeeldingsset om de Afbeeldingsset in de Afbeeldingsset-viewer weer te geven. U kunt staalminiaturen selecteren in de Vastgestelde Kijker van het Beeld om te zien hoe zij zich gedragen.
+1. Zorg ervoor dat rechts onder op de pagina de volgende informatie wordt weergegeven: **[!UICONTROL Publish after save]** is geselecteerd (standaard).
+1. Selecteren **[!UICONTROL Save]** selecteert u een map waarin u de afbeeldingsset wilt opslaan, geeft u een naam voor de set op en selecteert u **[!UICONTROL Save]**.
+1. Selecteer **[!UICONTROL Preview]** op het scherm Afbeeldingsset. U kunt staalminiaturen selecteren in de Vastgestelde Kijker van het Beeld om te zien hoe zij zich gedragen.
 
 ## Een afbeeldingsset bewerken {#editing-an-image-set}
 
-Of u een gepubliceerde of een niet-gepubliceerde set bewerkt, de optie **[!UICONTROL Publish after save]** heeft op de volgende manieren invloed op de set en stelt leden in:
+Of u een gepubliceerde of een niet-gepubliceerde set bewerkt, **[!UICONTROL Publish after save]** Deze optie is op de volgende manieren van invloed op de set en de set leden:
 
 | Reeds gepubliceerd instellen? | **[!UICONTROL Publish after save]** optie geselecteerd voordat u de bewerking opslaat? | Status van set na opslaan | Status van ingestelde leden na opslaan |
 | --- | --- | --- | --- |
@@ -60,15 +72,15 @@ Zie ook [Elementen handmatig publiceren](publishing-files.md#manually_publishing
 
 **Een afbeeldingsset bewerken:**
 
-1. Blader in de rasterweergave naar een ImageSet en selecteer **[!UICONTROL Edit]** onder de afbeelding.
+1. Blader in de rasterweergave naar een ImageSet en selecteer vervolgens onder de afbeelding de optie **[!UICONTROL Edit]**.
 1. Voer een van de volgende handelingen uit:
 
-   * Als u een afbeelding wilt toevoegen (gepubliceerd of niet gepubliceerd), sleept u deze uit een map in Elementen toevoegen naar de pagina **[!UICONTROL Views]** van de Afbeeldingsset.
-   * Als u een afbeelding wilt verwijderen, selecteert u deze en selecteert u **[!UICONTROL Delete]** op de werkbalk.
+   * Als u een (gepubliceerde of niet-gepubliceerde) afbeelding wilt toevoegen, sleept u deze uit een map in Middelen toevoegen naar de afbeeldingsset **[!UICONTROL Views]** pagina.
+   * Als u een afbeelding wilt verwijderen, selecteert u deze en selecteert u vervolgens **[!UICONTROL Delete]** op de werkbalk.
    * Als u de volgorde van afbeeldingen wilt wijzigen, sleept u een afbeelding naar een nieuwe positie.
 
-1. Als u klaar bent met het bewerken van de set, controleert u of **[!UICONTROL Publish after save]** is geselecteerd (standaard) in de rechterbenedenhoek van de pagina.
-1. Selecteer **[!UICONTROL Save]**, selecteer een opslagomslag voor uw reeks, ga een naam voor de reeks in, en selecteer dan **[!UICONTROL Save]**.
+1. Wanneer u klaar bent met het bewerken van de set, in de rechterbenedenhoek van de pagina, controleert u of **[!UICONTROL Publish after save]** is geselecteerd (standaard).
+1. Selecteren **[!UICONTROL Save]**, selecteert u een opslagmap voor de set, voert u een naam voor de set in en selecteert u **[!UICONTROL Save]**.
 
 ## Een afbeeldingsset verwijderen {#deleting-an-image-set}
 
