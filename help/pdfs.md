@@ -10,9 +10,9 @@ discoiquuid: 5a073de3-6b1d-4c3e-8c03-9182f9f3874a
 feature: Dynamic Media Classic,Asset Management
 role: User
 exl-id: 02892514-61fe-48ba-a2e3-eeb30580a1e4
-source-git-commit: d5293a2983e1105c65005634e7eb4147e17e8328
+source-git-commit: d5dcb990783932f3c5fdd101d1a4c631e73fcdde
 workflow-type: tm+mt
-source-wordcount: '650'
+source-wordcount: '655'
 ht-degree: 0%
 
 ---
@@ -26,6 +26,8 @@ Wanneer u een PDF uploadt voor pagina-extractie, past Adobe de volgende limiet t
 | Type PDF-limiet | Implementatielimiet | Wijzigingen voor limiet 31 december 2022 |
 | --- | --- | --- |
 | Maximumaantal pagina&#39;s voor een PDF dat voor extractie in aanmerking komt | 5000 (voor nieuwe uploads) | 100 |
+
+Zie ook [Dynamic Media-beperkingen](/help/limitations.md).
 
 ## Uploadopties voor PDF {#pdf-upload-options}
 

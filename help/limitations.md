@@ -8,9 +8,9 @@ geptopics: SG_SCENESEVENONDEMAND_PK/categories/ecatalogs
 feature: Dynamic Media Classic,Asset Management,Viewers,Image Sets,Spin Sets,eCatalog
 role: User
 exl-id: ee30a2c1-2b26-41bd-8758-e7337a3727bb
-source-git-commit: d5293a2983e1105c65005634e7eb4147e17e8328
+source-git-commit: d5dcb990783932f3c5fdd101d1a4c631e73fcdde
 workflow-type: tm+mt
-source-wordcount: '182'
+source-wordcount: '171'
 ht-degree: 2%
 
 ---
@@ -22,7 +22,8 @@ In de volgende secties worden beperkingen in Dynamic Media beschreven.
 Dit onderwerp omvat de volgende secties:
 
 * Aanbevolen werkwijzen en door Dynamic Media opgelegde limieten voor soorten activa
-* Niet-ondersteunde combinaties van webbrowsers en besturingssystemen voor Dynamic Media Viewers
+
+<!-- * Unsupported web browser and operating system combinations for Dynamic Media Viewers -->
 
 ## Aanbevolen werkwijzen en door Dynamic Media opgelegde limieten voor soorten activa
 
@@ -36,6 +37,8 @@ Als u een centrifugeset of een afbeeldingsset maakt of PDF uploadt voor het uitn
 | **Afbeeldingsset** - Maximumaantal afbeeldingen per set | 5-10 afbeeldingen per set | 1000 |
 | **Set draaien** - Maximumaantal rijen/kolommen per 2D-set | 12-18 afbeeldingen per set | 1000 |
 | **PDF** - Maximumaantal pagina&#39;s voor een PDF dat in aanmerking komt voor extractie |  | 5000 (voor nieuwe uploads) | 100 |
+
+<!-- See also [Dynamic Media limitations](/help/limitations.md) -->
 
 <!-- ## Unsupported web browser and operating system combinations for Dynamic Media Viewers
 

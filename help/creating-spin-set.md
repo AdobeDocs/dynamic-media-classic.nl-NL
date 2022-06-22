@@ -10,9 +10,9 @@ discoiquuid: 735b5867-e249-4627-a5a5-25c19c2255bf
 feature: Dynamic Media Classic,Viewers,Spin Sets
 role: User
 exl-id: 35e8e7fc-5b3c-441a-959c-df2e39ea0d4b
-source-git-commit: d5293a2983e1105c65005634e7eb4147e17e8328
+source-git-commit: d5dcb990783932f3c5fdd101d1a4c631e73fcdde
 workflow-type: tm+mt
-source-wordcount: '911'
+source-wordcount: '916'
 ht-degree: 0%
 
 ---
@@ -53,6 +53,8 @@ Wanneer u een reeks van de Rotatie creeert, adviseert Adobe de volgende beste pr
 | Limiettype voor centrifugeren instellen | Beste praktijken | Implementatielimiet |
 | --- | --- | --- |
 | Maximumaantal rijen/kolommen per 2D-set | 12-18 afbeeldingen per set | 1000 |
+
+Zie ook [Dynamic Media-beperkingen](/help/limitations.md).
 
 Nadat u een Spin-reeks hebt opgeslagen, kunt u Voorvertoning gebruiken in de Build: Met de optie Spin Set kunt u zien hoe de centrifugeset er in de standaardviewer uitziet.
 

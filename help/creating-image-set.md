@@ -10,9 +10,9 @@ discoiquuid: 3f356410-b30e-4870-ad95-6e5a9dc126c8
 feature: Dynamic Media Classic,Viewers,Image Sets,Spin Sets
 role: User
 exl-id: c18bb98c-b087-45d0-a4c9-44f58a3b514f
-source-git-commit: d5293a2983e1105c65005634e7eb4147e17e8328
+source-git-commit: d5dcb990783932f3c5fdd101d1a4c631e73fcdde
 workflow-type: tm+mt
-source-wordcount: '602'
+source-wordcount: '607'
 ht-degree: 0%
 
 ---
@@ -38,6 +38,8 @@ Wanneer u een Reeks van het Beeld creeert, adviseert Adobe de volgende beste pra
 | --- | --- | --- | --- |
 | Aantal dubbele elementen per set | Geen duplicaten | 100 | 20 |
 | Maximumaantal afbeeldingen per set | 5-10 afbeeldingen per set | 1000 |
+
+Zie ook [Dynamic Media-beperkingen](/help/limitations.md).
 
 **Een afbeeldingsset maken:**
 
