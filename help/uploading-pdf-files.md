@@ -9,9 +9,9 @@ discoiquuid: 0097cba5-c886-4115-bc35-7ae7a500202f
 feature: Dynamic Media Classic,Viewers,eCatalog
 role: User
 exl-id: a787d6b5-48c8-4cf7-b136-60ba3d3eb2f2
-source-git-commit: ac9cba2c33fb1df65e64746dea2557632b7b2903
+source-git-commit: d5293a2983e1105c65005634e7eb4147e17e8328
 workflow-type: tm+mt
-source-wordcount: '784'
+source-wordcount: '786'
 ht-degree: 0%
 
 ---
@@ -20,14 +20,20 @@ ht-degree: 0%
 
 Adobe PDF-bestanden zijn doorgaans de bron voor een eCatalog. Deze bestanden bevatten alle afbeeldingsgegevens, lettertypen en vectorafbeeldingen. U kunt ook een eCatalog met afbeeldingen maken. Nadat u de PDF-bestanden hebt voorbereid voor uploaden, selecteert u op de algemene navigatiebalk de optie **[!UICONTROL Upload]** om te beginnen met het uploaden van de PDF.
 
+Wanneer u een PDF uploadt voor pagina-extractie, past Adobe de volgende limiet toe:
+
+| Type PDF-limiet | Implementatielimiet | Wijzigingen voor limiet 31 december 2022 |
+| --- | --- | --- |
+| Maximumaantal pagina&#39;s voor een PDF dat voor extractie in aanmerking komt | 5000 (voor nieuwe uploads) | 100 |
+
+<!-- 
 >[!NOTE]
 >
->Wanneer u een PDF uploadt voor het uitnemen van pagina&#39;s, stelt Adobe de volgende richtlijnen voor best practices en een afgedwongen limiet op.
+>When you upload a PDF for page extraction, Adobe imposes the following best practice guideline and enforced limit.d
 >
->* Maximumaantal pagina&#39;s per PDF dat wordt gebruikt voor extractie
-   >   * Beste praktijken: 100
-   >   * Afgedwongen limiet: 1000 (voor uploads vernieuwen)
-
+>* Maximum page size of a PDF to be considered for extraction
+>   * Best practice: 100
+>   * Enforced limit: 1000 (for refresh uploads) -->
 
 ## PDF-bestanden voorbereiden {#preparing-your-pdf-files}
 

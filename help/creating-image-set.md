@@ -10,9 +10,9 @@ discoiquuid: 3f356410-b30e-4870-ad95-6e5a9dc126c8
 feature: Dynamic Media Classic,Viewers,Image Sets,Spin Sets
 role: User
 exl-id: c18bb98c-b087-45d0-a4c9-44f58a3b514f
-source-git-commit: fe765d1acfa37e9d13f5ef1b655f8cf04195a8a6
+source-git-commit: d5293a2983e1105c65005634e7eb4147e17e8328
 workflow-type: tm+mt
-source-wordcount: '591'
+source-wordcount: '602'
 ht-degree: 0%
 
 ---
@@ -32,17 +32,12 @@ Wanneer u een set maakt, **[!UICONTROL Publish after save]** Deze optie is op de
 
 Zie ook [Elementen handmatig publiceren](publishing-files.md#manually_publishing_assets) en [Publicaties van elementen handmatig ongedaan maken](publishing-files.md#manually_unpublishing_assets).
 
->[!NOTE]
->
->Wanneer u een Reeks van het Beeld creeert, adviseert Adobe de volgende beste praktijkrichtlijnen en gedwongen grenzen.
->
->* Aantal dubbele elementen per afbeeldingsset
-   >   * Beste praktijken: 20
-   >   * Afgedwongen limiet: 20
-> * Maximumaantal pagina&#39;s per afbeeldingsset
-   >   * Beste praktijken: 1000
-   >   * Uitgebreide limiet: 1000
+Wanneer u een Reeks van het Beeld creeert, adviseert Adobe de volgende beste praktijken en handhaaft de volgende grenzen:
 
+| Limiettype voor afbeeldingsset | Beste praktijken | Implementatie van limiet | Wijzigingen voor limiet 31 december 2022 |
+| --- | --- | --- | --- |
+| Aantal dubbele elementen per set | Geen duplicaten | 100 | 20 |
+| Maximumaantal afbeeldingen per set | 5-10 afbeeldingen per set | 1000 |
 
 **Een afbeeldingsset maken:**
 

@@ -10,9 +10,9 @@ discoiquuid: 5a073de3-6b1d-4c3e-8c03-9182f9f3874a
 feature: Dynamic Media Classic,Asset Management
 role: User
 exl-id: 02892514-61fe-48ba-a2e3-eeb30580a1e4
-source-git-commit: ac9cba2c33fb1df65e64746dea2557632b7b2903
+source-git-commit: d5293a2983e1105c65005634e7eb4147e17e8328
 workflow-type: tm+mt
-source-wordcount: '648'
+source-wordcount: '650'
 ht-degree: 0%
 
 ---
@@ -21,14 +21,11 @@ ht-degree: 0%
 
 PDF-bestanden (Portable Document Format) worden meestal in Adobe Dynamic Media Classic gebruikt om e-catalogi te maken. Wanneer u een PDF-bestand uploadt, worden de pagina&#39;s standaard omgezet in pixels of worden de pagina&#39;s gerasterd, zodat de pagina&#39;s kunnen worden gebruikt om rich media samen te stellen.
 
->[!NOTE]
->
->Wanneer u een PDF uploadt voor het uitnemen van pagina&#39;s, stelt Adobe de volgende richtlijnen voor best practices en een afgedwongen limiet op.
->
->* Maximumaantal pagina&#39;s per PDF dat wordt gebruikt voor extractie
-   >   * Beste praktijken: 100
-   >   * Afgedwongen limiet: 1000 (voor uploads vernieuwen)
+Wanneer u een PDF uploadt voor pagina-extractie, past Adobe de volgende limiet toe:
 
+| Type PDF-limiet | Implementatielimiet | Wijzigingen voor limiet 31 december 2022 |
+| --- | --- | --- |
+| Maximumaantal pagina&#39;s voor een PDF dat voor extractie in aanmerking komt | 5000 (voor nieuwe uploads) | 100 |
 
 ## Uploadopties voor PDF {#pdf-upload-options}
 

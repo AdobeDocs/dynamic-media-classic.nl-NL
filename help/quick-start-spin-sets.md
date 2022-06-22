@@ -10,9 +10,9 @@ discoiquuid: 282b8e83-b20f-43f7-b9f8-6eebd5b1c5a7
 feature: Dynamic Media Classic,Viewers,Spin Sets
 role: User
 exl-id: 26e3cd5b-f070-4b92-af36-25631723460e
-source-git-commit: 5040b1916794d3b54f952a1df5f060be2f31006a
+source-git-commit: d5293a2983e1105c65005634e7eb4147e17e8328
 workflow-type: tm+mt
-source-wordcount: '797'
+source-wordcount: '805'
 ht-degree: 0%
 
 ---
@@ -29,15 +29,11 @@ Zie [Afbeeldingen met hyperlinks maken](creating-image-maps.md).
 
 Zie [Afbeeldings- en centrifuges: Dynamic Imaging](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&amp;emailurl=https://s7d5.scene7.com/s7/emailFriend&amp;serverUrl=https://s7d5.scene7.com/is/image/&amp;config=Scene7SharedAssets/Universal_HTML5_Video&amp;contenturl=https://s7d5.scene7.com/skins/&amp;asset=S7tutorials/556_Image%20&amp;%20Spin%20Sets_converted%20renamed_Dynamic%20Imaging-AVS) trainingsvideo.
 
->[!NOTE]
->
->Wanneer u een reeks van de Rotatie creeert, adviseert Adobe de volgende beste praktijkrichtlijn en gedwongen grens.
->
->* Maximumaantal rijen/kolommen per 2D-centrifugeset
-   > 
-   >   * Beste praktijken: 1000
-   >   * Afgedwongen limiet: 1000
+Wanneer u een reeks van de Rotatie creeert, adviseert Adobe de volgende beste praktijken en handhaaft de volgende grens:
 
+| Limiettype voor centrifugeren instellen | Beste praktijken | Implementatielimiet |
+| --- | --- | --- |
+| Maximumaantal rijen/kolommen per 2D-set | 12-18 afbeeldingen per set | 1000 |
 
 Deze centrifuges zijn ontworpen om snel aan de slag te gaan met centrifuge-technieken in Adobe Dynamic Media Classic. Voer stap 1 tot en met 7 uit. Aan het eind van elke stap, kunt u een onderwerpverbinding selecteren om meer te leren.
 

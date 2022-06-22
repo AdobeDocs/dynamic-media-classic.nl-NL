@@ -6,9 +6,9 @@ user-guide-title: Adobe Dynamic Media Classic Guide
 breadcrumb-title: Dynamic Media Classic Guide
 user-guide-description: Meer informatie over het gebruik van Adobe Dynamic Media Classic
 index: y
-source-git-commit: ac9cba2c33fb1df65e64746dea2557632b7b2903
+source-git-commit: d5293a2983e1105c65005634e7eb4147e17e8328
 workflow-type: tm+mt
-source-wordcount: '787'
+source-wordcount: '779'
 ht-degree: 0%
 
 ---
@@ -59,7 +59,7 @@ ht-degree: 0%
    + [Elementen uploaden en publiceren](about-asset-upload-publish.md)
    + [Bestanden uploaden](uploading-files.md)
    + [Bestanden publiceren](publishing-files.md)
-   + [Aanbevolen werkwijzen en door Dynamic Media opgelegde limieten voor soorten activa](best-practices-enforced-limits.md)
+   + [Dynamic Media-beperkingen](limitations.md)
    + [Elementen testen voordat ze openbaar worden gemaakt](testing-assets-making-them-public.md)
    + [Taakbestanden controleren](checking-job-files.md)
 + Elementen beheren {#managing-assets}

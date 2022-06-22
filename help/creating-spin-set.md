@@ -10,9 +10,9 @@ discoiquuid: 735b5867-e249-4627-a5a5-25c19c2255bf
 feature: Dynamic Media Classic,Viewers,Spin Sets
 role: User
 exl-id: 35e8e7fc-5b3c-441a-959c-df2e39ea0d4b
-source-git-commit: ac9cba2c33fb1df65e64746dea2557632b7b2903
+source-git-commit: d5293a2983e1105c65005634e7eb4147e17e8328
 workflow-type: tm+mt
-source-wordcount: '903'
+source-wordcount: '911'
 ht-degree: 0%
 
 ---
@@ -48,15 +48,11 @@ Wanneer u een set maakt, **[!UICONTROL Publish after save]** Deze optie is op de
 
 Zie ook [Elementen handmatig publiceren](publishing-files.md#manually-publishing-assets) en [Publicaties van elementen handmatig ongedaan maken](publishing-files.md#manually-unpublishing-assets).
 
->[!NOTE]
->
->Wanneer u een reeks van de Rotatie creeert, adviseert Adobe de volgende beste praktijkrichtlijn en gedwongen grens.
->
->* Maximumaantal rijen/kolommen per 2D-centrifugeset
-   > 
-   >   * Beste praktijken: 1000
-   >   * Afgedwongen limiet: 1000
+Wanneer u een reeks van de Rotatie creeert, adviseert Adobe de volgende beste praktijken en handhaaft de volgende grens:
 
+| Limiettype voor centrifugeren instellen | Beste praktijken | Implementatielimiet |
+| --- | --- | --- |
+| Maximumaantal rijen/kolommen per 2D-set | 12-18 afbeeldingen per set | 1000 |
 
 Nadat u een Spin-reeks hebt opgeslagen, kunt u Voorvertoning gebruiken in de Build: Met de optie Spin Set kunt u zien hoe de centrifugeset er in de standaardviewer uitziet.
 

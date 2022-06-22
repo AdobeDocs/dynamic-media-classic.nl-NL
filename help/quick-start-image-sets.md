@@ -10,9 +10,9 @@ discoiquuid: 612a425f-2840-46c4-8e5a-c0bc5f738f4e
 feature: Dynamic Media Classic,Viewers,Image Sets
 role: User
 exl-id: 280e7201-84d6-46b1-94bb-0499beca2992
-source-git-commit: 5040b1916794d3b54f952a1df5f060be2f31006a
+source-git-commit: d5293a2983e1105c65005634e7eb4147e17e8328
 workflow-type: tm+mt
-source-wordcount: '641'
+source-wordcount: '652'
 ht-degree: 0%
 
 ---
@@ -25,17 +25,12 @@ De viewer voor Afbeeldingsset biedt zoomgereedschappen waarmee u afbeeldingen na
 
 Zie [Afbeeldings- en centrifuges: Dynamic Imaging](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&amp;emailurl=https://s7d5.scene7.com/s7/emailFriend&amp;serverUrl=https://s7d5.scene7.com/is/image/&amp;config=Scene7SharedAssets/Universal_HTML5_Video&amp;contenturl=https://s7d5.scene7.com/skins/&amp;asset=S7tutorials/556_Image%20&amp;%20Spin%20Sets_converted%20renamed_Dynamic%20Imaging-AVS) trainingsvideo.
 
->[!NOTE]
->
->Wanneer u een Reeks van het Beeld creeert, adviseert Adobe de volgende beste praktijkrichtlijnen en gedwongen grenzen.
->
->* Aantal dubbele elementen per afbeeldingsset
-   >   * Beste praktijken: 20
-   >   * Afgedwongen limiet: 20
->* Maximumaantal pagina&#39;s per afbeeldingsset
-   >   * Beste praktijken: 1000
-   >   * Uitgebreide limiet: 1000
+Wanneer u een Reeks van het Beeld creeert, adviseert Adobe de volgende beste praktijken en handhaaft de volgende grenzen:
 
+| Limiettype voor afbeeldingsset | Beste praktijken | Implementatie van limiet | Wijzigingen voor limiet 31 december 2022 |
+| --- | --- | --- | --- |
+| Aantal dubbele elementen per set | Geen duplicaten | 100 | 20 |
+| Maximumaantal afbeeldingen per set | 5-10 afbeeldingen per set | 1000 |
 
 De volgende Afbeeldingssets zijn ontworpen om snel aan de slag te gaan met de Image Set-technieken in Adobe Dynamic Media Classic.
 
