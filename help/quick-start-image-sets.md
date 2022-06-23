@@ -10,9 +10,9 @@ discoiquuid: 612a425f-2840-46c4-8e5a-c0bc5f738f4e
 feature: Dynamic Media Classic,Viewers,Image Sets
 role: User
 exl-id: 280e7201-84d6-46b1-94bb-0499beca2992
-source-git-commit: d5dcb990783932f3c5fdd101d1a4c631e73fcdde
+source-git-commit: 92a28b7868e03802f4ef1c113ec3f8b34f57ed56
 workflow-type: tm+mt
-source-wordcount: '657'
+source-wordcount: '650'
 ht-degree: 0%
 
 ---
@@ -27,9 +27,9 @@ Zie [Afbeeldings- en centrifuges: Dynamic Imaging](https://s7d5.scene7.com/s7vie
 
 Wanneer u een Reeks van het Beeld creeert, adviseert Adobe de volgende beste praktijken en handhaaft de volgende grenzen:
 
-| Limiettype voor afbeeldingsset | Beste praktijken | Implementatie van limiet | Wijzigingen voor limiet 31 december 2022 |
-| --- | --- | --- | --- |
-| Aantal dubbele elementen per set | Geen duplicaten | 100 | 20 |
+| Type limiet | Beste praktijken | Oplegde limiet |
+| --- | --- | --- |
+| Aantal dubbele elementen per set | Geen duplicaten | 20 |
 | Maximumaantal afbeeldingen per set | 5-10 afbeeldingen per set | 1000 |
 
 Zie ook [Dynamic Media-beperkingen](/help/limitations.md).

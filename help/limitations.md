@@ -8,10 +8,10 @@ geptopics: SG_SCENESEVENONDEMAND_PK/categories/ecatalogs
 feature: Dynamic Media Classic,Asset Management,Viewers,Image Sets,Spin Sets,eCatalog
 role: User
 exl-id: ee30a2c1-2b26-41bd-8758-e7337a3727bb
-source-git-commit: d5dcb990783932f3c5fdd101d1a4c631e73fcdde
+source-git-commit: 92a28b7868e03802f4ef1c113ec3f8b34f57ed56
 workflow-type: tm+mt
-source-wordcount: '171'
-ht-degree: 2%
+source-wordcount: '173'
+ht-degree: 1%
 
 ---
 
@@ -31,12 +31,12 @@ Als u een centrifugeset of een afbeeldingsset maakt of PDF uploadt voor het uitn
 
 <!-- | **Image** - Number of Smart Crops per image | 5 | 100 |  | -->
 
-| Element - Type limiet | Beste praktijken | Implementatielimiet | Wijzigingen voor limiet 31 december 2022 |
+| Element - Type limiet | Beste praktijken | Oplegde limiet | Wijziging tot limiet op 31 december 2022 |
 | --- | --- | --- | --- |
-| **Afbeeldingsset** - Aantal dubbele elementen per set | Geen duplicaten | 100 | 20 |
-| **Afbeeldingsset** - Maximumaantal afbeeldingen per set | 5-10 afbeeldingen per set | 1000 |
+| **Alle sets** - Aantal dubbele elementen per set | Geen duplicaten | 20 |  |
+| **Alle sets** - Maximumaantal activa per set | 5-10 afbeeldingen per set | 1000 |
 | **Set draaien** - Maximumaantal rijen/kolommen per 2D-set | 12-18 afbeeldingen per set | 1000 |
-| **PDF** - Maximumaantal pagina&#39;s voor een PDF dat in aanmerking komt voor extractie |  | 5000 (voor nieuwe uploads) | 100 |
+| **PDF** - Maximumaantal pagina&#39;s voor een PDF dat in aanmerking komt voor extractie |  | 5000 (voor nieuwe uploads) | 100 (voor alle PDF) |
 
 <!-- See also [Dynamic Media limitations](/help/limitations.md) -->
 

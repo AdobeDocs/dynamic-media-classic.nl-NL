@@ -10,7 +10,7 @@ discoiquuid: 735b5867-e249-4627-a5a5-25c19c2255bf
 feature: Dynamic Media Classic,Viewers,Spin Sets
 role: User
 exl-id: 35e8e7fc-5b3c-441a-959c-df2e39ea0d4b
-source-git-commit: d5dcb990783932f3c5fdd101d1a4c631e73fcdde
+source-git-commit: 92a28b7868e03802f4ef1c113ec3f8b34f57ed56
 workflow-type: tm+mt
 source-wordcount: '916'
 ht-degree: 0%
@@ -50,7 +50,7 @@ Zie ook [Elementen handmatig publiceren](publishing-files.md#manually-publishing
 
 Wanneer u een reeks van de Rotatie creeert, adviseert Adobe de volgende beste praktijken en handhaaft de volgende grens:
 
-| Limiettype voor centrifugeren instellen | Beste praktijken | Implementatielimiet |
+| Limiettype voor centrifugeren instellen | Beste praktijken | Oplegde limiet |
 | --- | --- | --- |
 | Maximumaantal rijen/kolommen per 2D-set | 12-18 afbeeldingen per set | 1000 |
 
