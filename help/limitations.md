@@ -8,10 +8,10 @@ geptopics: SG_SCENESEVENONDEMAND_PK/categories/ecatalogs
 feature: Dynamic Media Classic,Asset Management,Viewers,Image Sets,Spin Sets,eCatalog
 role: User
 exl-id: ee30a2c1-2b26-41bd-8758-e7337a3727bb
-source-git-commit: 92a28b7868e03802f4ef1c113ec3f8b34f57ed56
+source-git-commit: 7a718386b128f650b98193dbba60e1b45abac53f
 workflow-type: tm+mt
-source-wordcount: '173'
-ht-degree: 1%
+source-wordcount: '254'
+ht-degree: 2%
 
 ---
 
@@ -21,37 +21,34 @@ In de volgende secties worden beperkingen in Dynamic Media beschreven.
 
 Dit onderwerp omvat de volgende secties:
 
-* Aanbevolen werkwijzen en door Dynamic Media opgelegde limieten voor soorten activa
+* [Aanbevolen werkwijzen en door Dynamic Media opgelegde limieten voor soorten activa](#best-practice-enforced-limits)
+* [Niet-ondersteunde combinaties van webbrowsers en besturingssystemen voor Dynamic Media Viewers](#unsupported-browser-os)
 
-<!-- * Unsupported web browser and operating system combinations for Dynamic Media Viewers -->
-
-## Aanbevolen werkwijzen en door Dynamic Media opgelegde limieten voor soorten activa
+## Aanbevolen werkwijzen en door Dynamic Media opgelegde limieten voor soorten activa {#best-practice-enforced-limits}
 
 Als u een centrifugeset of een afbeeldingsset maakt of PDF uploadt voor het uitnemen van pagina&#39;s, raadt Adobe u de volgende aanbevolen procedures aan en worden de volgende limieten in acht genomen:
 
-<!-- | **Image** - Number of Smart Crops per image | 5 | 100 |  | -->
-
 | Element - Type limiet | Beste praktijken | Oplegde limiet | Wijziging tot limiet op 31 december 2022 |
 | --- | --- | --- | --- |
-| **Alle sets** - Aantal dubbele elementen per set | Geen duplicaten | 20 |  |
-| **Alle sets** - Maximumaantal activa per set | 5-10 afbeeldingen per set | 1000 |
-| **Set draaien** - Maximumaantal rijen/kolommen per 2D-set | 12-18 afbeeldingen per set | 1000 |
+| **Afbeelding** - Aantal slimme uitsnijdingen per afbeelding | 5 | 100 | 20 |
+| **Alle sets** - Aantal dubbele elementen per set | Geen duplicaten | 20 | Niet van toepassing |
+| **Alle sets** - Maximumaantal activa per set | 5-10 afbeeldingen per set | 1000 | Niet van toepassing |
+| **Set draaien** - Maximumaantal rijen/kolommen per 2D-set | 12-18 afbeeldingen per set | 1000 | Niet van toepassing |
 | **PDF** - Maximumaantal pagina&#39;s voor een PDF dat in aanmerking komt voor extractie |  | 5000 (voor nieuwe uploads) | 100 (voor alle PDF) |
 
-<!-- See also [Dynamic Media limitations](/help/limitations.md) -->
+<!-- See also [Dynamic Media limitations](/help/assets/limitations.md). -->
 
-<!-- ## Unsupported web browser and operating system combinations for Dynamic Media Viewers
+## Niet-ondersteunde combinaties van webbrowsers en besturingssystemen voor Dynamic Media Viewers {#unsupported-browser-os}
 
-Dynamic Media Viewers do not support following combinations of web browser and operating system.
+Dynamic Media Viewers ondersteunen de volgende webbrowser- en besturingssysteemcombinaties niet.
 
 * Internet Explorer 11 + Windows 7
 * Internet Explorer 11 + Windows 8.1
 * Internet Explorer 11 + Windows Phone 8.1
-* Internet Explorer 11 + Windows Phone 8.1 Update
+* Internet Explorer 11 + Windows Phone 8.1-update
 * Safari 6 + iOS 6.0.1
 * Safari 7 + iOS 7.1
-* Safari 7 + macOS X 10.9 Mavericks
+* Safari 7 + OS X 10.9 Mavericks
 * Safari 8 + iOS 8.4
-* Safari 8 + macOS X 10.10 Yosemite -->
-
+* Safari 8 + OS X 10.10 Yosemite
 
