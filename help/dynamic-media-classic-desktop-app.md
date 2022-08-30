@@ -8,9 +8,9 @@ geptopics: SG_SCENESEVENONDEMAND_PK/categories/introducing_adobe_dynamic_media_c
 feature: Dynamic Media Classic
 role: Admin,User
 exl-id: 604b4630-4704-4254-84b5-91b33bb19d58
-source-git-commit: 3345861b5d65f46071578a81913e6b0a4eeb6b8d
+source-git-commit: 43e0c03b535d30ffed13e1e389935e34563baa9e
 workflow-type: tm+mt
-source-wordcount: '1934'
+source-wordcount: '1944'
 ht-degree: 0%
 
 ---
@@ -185,11 +185,12 @@ Om te downloaden en *stil* Installeer de nieuwste versie van de Adobe Dynamic Me
 
 ## Downloaden en *stil* de nieuwste Adobe Dynamic Media Classic-bureaubladtoepassing installeren op Windows® {#install-silent-windows-dmc-app}
 
-Het bevel dat u gebruikt is voor een basisMSI stille installatie. Het installatieprogramma van de Adobe Dynamic Media Classic-bureaubladtoepassing is echter een installatieprogramma van InstallScript MSI dat is gemaakt met InstallShield. Wanneer u het installatieprogramma uitvoert in de recordmodus, wordt gebruikersinteractie opgenomen in een reactiebestand. Dit reactiebestand wordt vervolgens gebruikt voor een installatie op de achtergrond, zoals beschreven in [Installaties uitvoeren in de modus Stil.](https://docs.revenera.com/installshield19helplib/helplibrary/SilentInstall.htm)
+Het bevel dat u gebruikt is voor een basisMSI stille installatie. Het installatieprogramma van de Adobe Dynamic Media Classic-bureaubladtoepassing is echter een installatieprogramma van InstallScript MSI dat is gemaakt met InstallShield. Wanneer u het installatieprogramma uitvoert in de recordmodus, wordt gebruikersinteractie opgenomen in een reactiebestand. Dit reactiebestand wordt vervolgens gebruikt voor een installatie op de achtergrond, zoals beschreven in [Installatie in stille modus uitvoeren](https://docs.revenera.com/installshield25helplib/installshield25helplib.htm#helplibrary/SilentInstall.htm).
 
 Zie ook:
 
 * [Download en installeer de nieuwste Adobe Dynamic Media Classic desktop app op Mac of Windows®](#installation-dmc-app)
+
 * [Download en stil de nieuwste Adobe Dynamic Media Classic desktop app op macOS](#install-silent-mac-dmc-app)
 
 Om te downloaden en *stil* Installeer de nieuwste versie van de Adobe Dynamic Media Classic-bureaubladtoepassing op Windows®:
@@ -212,7 +213,7 @@ Om te downloaden en *stil* Installeer de nieuwste versie van de Adobe Dynamic Me
 
    `adobe-dynamic-media-classic-20.22.1.exe /s /f1"C:\Setup.iss"`
 
-   Details over opdrachtregelparameters zijn beschikbaar op [Opstelling.exe en Update.exe bevel-Lijn Parameters.](https://docs.revenera.com/installshield19helplib/helplibrary/IHelpSetup_EXECmdLine.htm)
+   Details over opdrachtregelparameters zijn beschikbaar op [De bevel-lijn van Setup.exe en Update.exe parameters](https://docs.revenera.com/installshield25helplib/installshield25helplib.htm#helplibrary/IHelpSetup_EXECmdLine.htm?Highlight=Setup.exe%20and%20Update.exe%20Command-Line%20Parameters).
 
 1. Wanneer u de toepassing opent, wordt de nieuwe Adobe Dynamic Media Classic-aanmeldingspagina weergegeven:
 
