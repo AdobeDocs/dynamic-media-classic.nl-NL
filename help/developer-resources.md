@@ -9,20 +9,18 @@ discoiquuid: a802ead0-401e-4600-aedf-e6414f7983e1
 feature: Dynamic Media Classic,SDK/API
 role: Developer
 exl-id: eaa6bf7b-ff38-4a15-b5b5-c60c3b75a35f
-source-git-commit: fe98d962624284b70a1297d7276478de1453c83e
+source-git-commit: 61c433567870cedfa36b89c6e7be97abd3b0fdca
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '184'
+ht-degree: 7%
 
 ---
 
 # Bronnen voor ontwikkelaars {#developer-resources}
 
-Adobe Dynamic Media Classic biedt documentatie voor de nieuwste belangrijkste versie van elke Adobe Dynamic Media Classic-softwaremodule. De documenten van de module zijn beschikbaar voor de Authoring van het Beeld, Adobe Dynamic Media Classic, de Server van het Beeld en het Teruggeven van het Beeld, en Kijkers.
+De gidsen van de verwijzing aan Kijkers, het Serven van het Beeld en het Teruggeven van het Beeld, en het Systeem van de Productie van het Beeld beschrijven de http protocollen voor deze servermodules. Ontwikkelaars van websites die veelzijdige Adobe Dynamic Media Classic-media voor een website of aangepaste toepassing verder willen aanpassen en gebruiken, kunnen deze handleidingen gebruiken. Aangenomen wordt dat de gebruiker bekend is met de Dynamic Media Classic-bureaubladtoepassing, de algemene http-protocolstandaarden en -conventies en de basisterminologie voor beeldbewerking.
 
-De nota&#39;s van de versie zijn ook beschikbaar voor sommige modules. Opmerkingen bij de release bevatten informatie over de release, zoals verbeteringen, nieuwe functionaliteit, tips voor het oplossen van problemen en bekende onopgeloste problemen. Opmerkingen bij de release bevatten ook interactieve voorbeelden van functies voor veelzijdige media en hoe u deze kunt activeren. Daarnaast bieden Release Notes installatie- en configuratieinstructies voor clients met gelicentieerde software.
-
-De Gidsen van de verwijzing aan het Serven van het Beeld en het Teruggeven van het Beeld, en de Kijkers beschrijven de protocollen van http voor deze servermodules. Ontwikkelaars van websites die veelzijdige Adobe Dynamic Media Classic-media voor een website of aangepaste toepassing verder willen aanpassen en gebruiken, kunnen deze handleidingen gebruiken. Adobe Dynamic Media Classic gaat ervan uit dat de gebruiker bekend is met de bureaubladtoepassing, de algemene http-protocolstandaarden en -conventies en de basisterminologie voor beeldbewerking.
+Zie ook [Dynamic Media Developer Resources](https://experienceleague.adobe.com/docs/dynamic-media-developer-resources.html).
 
 ## Viewers {#viewers-guide}
 
@@ -43,19 +41,19 @@ De Gidsen van de verwijzing aan het Serven van het Beeld en het Teruggeven van h
 | --- | --- |
 | API-naslaggids | [https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/image-production-api/c-overview.html](https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/image-production-api/c-overview.html) |
 
-## Afbeeldingen ontwerpen {#ia}
+<!-- ## Image Authoring {#ia}
 
-| Document | Webadres |
+| Document| Web address |
 | --- | --- |
-| Handboek | Neem voor deze documentatie contact op met de technische ondersteuning van Adobe Dynamic Media Classic. |
-| Opmerkingen bij de release | Neem voor deze documentatie contact op met de technische ondersteuning van Adobe Dynamic Media Classic. |
+| User Guide | Contact Adobe Dynamic Media Classic technical support for this documentation. |
+| Release Notes | Contact Adobe Dynamic Media Classic technical support for this documentation. |
 
 ## Dynamic Media Classic API {#dmc-api}
 
-| Document | Webadres |
+| Document | Web address |
 | --- | --- |
-| API-naslaggids | Neem voor documentatie contact op met de technische ondersteuning van Adobe Dynamic Media Classic. |
-
+| API Reference Guide | Contact Adobe Dynamic Media Classic technical support for documentation. |
+ -->
 
 
 
