@@ -1,8 +1,8 @@
 ---
-title: '"Snel starten: Staalsets"'
+title: "Snel starten: Staalsets"
 description: Een inleiding en Staalset snel starten om u te helpen snel aan de slag te gaan in Adobe Dynamic Media Classic.
 uuid: 6f8a95e8-e82a-477f-9f21-d2b7b511f8ae
-contentOwner: admin
+contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/swatch_sets
@@ -10,7 +10,7 @@ discoiquuid: 1ea70fdf-3cbd-409c-ae7d-06286c99c6ac
 feature: Dynamic Media Classic,Viewers
 role: User
 exl-id: b0c345dc-539f-4b03-a873-091681e2f2c2
-source-git-commit: 352b1c383195fa03294ad3501207d63f3cfe3e42
+source-git-commit: d43b0791e67d43ff56a7ab85570b9639c2375e05
 workflow-type: tm+mt
 source-wordcount: '387'
 ht-degree: 0%
@@ -27,7 +27,7 @@ Met deze stalensets kunt u snel aan de slag met Staalsettechnieken in Adobe Dyna
 
 Begin door de beelden en de monsterdossiers voor uw Reeksen van het Monster te uploaden.
 
-Selecteer **[!UICONTROL Upload]** op de algemene navigatiebalk om bestanden van uw computer te uploaden naar een map op Adobe Dynamic Media Classic. Zie [Staalsets voorbereiden voor uploaden](preparing-swatch-set-assets-upload.md#preparing-swatch-set-assets-for-upload) en [Uw bestanden uploaden](uploading-files.md#uploading-your-files).
+Selecteer op de algemene navigatiebalk de optie **[!UICONTROL Upload]** om bestanden van uw computer te uploaden naar een map op Adobe Dynamic Media Classic. Zie [Staalsets voorbereiden voor uploaden](preparing-swatch-set-assets-upload.md#preparing-swatch-set-assets-for-upload) en [Uw bestanden uploaden](uploading-files.md#uploading-your-files).
 
 ## 2. Een stalenset maken
 
@@ -37,19 +37,19 @@ Als u een stalenset wilt maken, gaat u op de algemene navigatiebalk naar **[!UIC
 
 Beheerders kunnen voorinstellingen voor de afbeeldingsset Viewer maken of wijzigen. Adobe Dynamic Media Classic wordt geleverd met standaard Viewer-voorinstellingen voor elk rich-mediatype. Gebruik de zoomviewer: Aangepast > Voorinstellingen Afbeeldingssets/Kleurstalen om uw staalsets weer te geven.
 
-Zie [Voorinstellingen voor viewers maken en bewerken](application-setup.md#adding-and-editing-viewer-presets).
+Zie [Viewer-voorinstellingen maken en bewerken](application-setup.md#adding-and-editing-viewer-presets).
 
 ## 4. Een voorvertoning van een stalenset weergeven
 
-Selecteer de Staalreeks in het Browse Comité, en selecteer dan **[!UICONTROL Preview]**. Uw stalenset wordt op deze pagina weergegeven. Selecteer de miniatuur- en staalpictogrammen, zodat u de staalset kunt bekijken in de geselecteerde viewer. U kunt verschillende Viewers kiezen in het menu Voorinstellingen.
+Selecteer de Staalset in het deelvenster Bladeren en selecteer **[!UICONTROL Preview]**. Uw stalenset wordt op deze pagina weergegeven. Selecteer de miniatuur- en staalpictogrammen, zodat u de staalset kunt bekijken in de geselecteerde viewer. U kunt verschillende Viewers kiezen in het menu Voorinstellingen.
 
-Zie [Voorvertoning van een element](previewing-asset.md#previewing-an-asset).
+Zie [Een voorvertoning van een element weergeven](previewing-asset.md#previewing-an-asset).
 
 ## 5. Een stalenset publiceren
 
 Als u een stalenset publiceert, wordt deze op Adobe Dynamic Media Classic-servers geplaatst en wordt de URL-tekenreeks geactiveerd.
 
-Selecteer het pictogram **[!UICONTROL Mark For Publish]** links van zijn naam in het Browse Comité. Selecteer vervolgens **[!UICONTROL Publish]**. Selecteer **[!UICONTROL Submit Publish]** op de pagina Publiceren.
+Selecteer **[!UICONTROL Mark For Publish]** links van de naam in het deelvenster Bladeren. Selecteer vervolgens **[!UICONTROL Publish]**. Selecteer op de pagina Publiceren de optie **[!UICONTROL Submit Publish]**.
 
 Zie [Bestanden publiceren](publishing-files.md#publishing-files).
 
@@ -57,4 +57,4 @@ Zie [Bestanden publiceren](publishing-files.md#publishing-files).
 
 Adobe Dynamic Media Classic maakt URL-aanroepen voor stalensets en activeert deze nadat u de URL hebt gepubliceerd. U kunt deze URL&#39;s kopiëren vanaf de voorvertoningspagina.
 
-Selecteer de Staalset en selecteer vervolgens de knop Voorvertoning. De pagina Voorbeeld wordt geopend. Selecteer een Staalset met voorinstelling voor viewer en selecteer de knop URL kopiëren. Zie [Een staal koppelen dat is ingesteld op een webpagina](linking-swatch-set-web-page.md#linking-a-swatch-set-to-a-web-page).
+Selecteer de Staalset en selecteer vervolgens de knop Voorvertoning. De pagina Voorbeeld wordt geopend. Selecteer een Staalset met voorinstelling voor viewer en selecteer de knop URL kopiëren. Zie [Een stalenset koppelen aan een webpagina](linking-swatch-set-web-page.md#linking-a-swatch-set-to-a-web-page).

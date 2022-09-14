@@ -2,7 +2,7 @@
 title: Staalsets voorbereiden voor uploaden
 description: Leer hoe u stalensetelementen voorbereidt voor uploaden naar Adobe Dynamic Media Classic.
 uuid: ed78da8c-d708-418b-97ce-3c37d9df9c90
-contentOwner: admin
+contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/swatch_sets
@@ -10,9 +10,9 @@ discoiquuid: 0c851ecd-be05-46a9-8654-3d028f3217a4
 feature: Dynamic Media Classic,Viewers
 role: User
 exl-id: 90216519-4b14-4f8b-8e72-3d7ce9ec89ff
-source-git-commit: 3185824deca4d4b3c5549bda2e47f179094110e7
+source-git-commit: d43b0791e67d43ff56a7ab85570b9639c2375e05
 workflow-type: tm+mt
-source-wordcount: '178'
+source-wordcount: '179'
 ht-degree: 0%
 
 ---
@@ -26,9 +26,9 @@ Als u een stalenset wilt maken, hebt u vignetten of verschillende opnamen van de
 * Een zwarte, bruine en groene opname van hetzelfde jasje.
 * Een zwart, bruin en groen kleurenstaal.
 
-Omdat gebruikers kunnen inzoomen op afbeeldingen in stalensets, moet u ervoor zorgen dat de afbeeldingen ten minste 2000 pixels groot zijn. Adobe Dynamic Media Classic ondersteunt veel bestandsindelingen voor afbeeldingen, maar het wordt aanbevolen afbeeldingen zonder gegevensverlies in de indeling TIFF, PNG en EPS te gebruiken.
+Omdat gebruikers kunnen inzoomen op afbeeldingen in stalensets, moet u ervoor zorgen dat de afbeeldingen ten minste 2000 pixels groot zijn. Adobe Dynamic Media Classic ondersteunt veel bestandsindelingen voor afbeeldingen, maar TIFF-, PNG- en EPS-afbeeldingen zonder gegevensverlies worden aanbevolen.
 
-Zie [Bestanden uploaden](uploading-files.md#uploading_files) voor gedetailleerde instructies voor het uploaden van elementen.
+Voor gedetailleerde instructies over het uploaden van elementen raadpleegt u [Bestanden uploaden](uploading-files.md#uploading_files).
 
 >[!MORELIKETHIS]
 >

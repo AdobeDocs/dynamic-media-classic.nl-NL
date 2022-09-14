@@ -1,13 +1,13 @@
 ---
 title: XML-bestanden
 description: Websites die een op XML gebaseerd systeem gebruiken om afbeeldingen en afbeeldingsgegevens te beheren, kunnen XML-bestanden uploaden naar Adobe Dynamic Media Classic. Meer informatie over XML-bestanden.
-contentOwner: admin
+contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 feature: Dynamic Media Classic
 role: User
 exl-id: 6eaecd25-7de3-492c-81e0-86a78145feb0
-source-git-commit: 1d71cbe6e2493ac8d47e837a20e194b6ae7a22d4
+source-git-commit: d43b0791e67d43ff56a7ab85570b9639c2375e05
 workflow-type: tm+mt
 source-wordcount: '122'
 ht-degree: 0%

@@ -1,16 +1,16 @@
 ---
 title: Aanbevolen procedures voor het optimaliseren van de kwaliteit van uw afbeeldingen
 description: Leer de beste werkwijzen voor het optimaliseren van de kwaliteit van uw afbeeldingen.
-contentOwner: admin
+contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/master_files
 feature: Dynamic Media Classic,Asset Management
 role: User
 exl-id: 3c50e706-b9ed-49db-8c08-f179de52b9cf
-source-git-commit: 44045daa35052f01a26c67e0b2a0fb1405c53292
+source-git-commit: cb55e09a997b9d36002c4ac429603576d52fb8bd
 workflow-type: tm+mt
-source-wordcount: '1463'
+source-wordcount: '1462'
 ht-degree: 3%
 
 ---
@@ -26,28 +26,28 @@ Zie ook [Slimme beeldverwerking](https://experienceleague.adobe.com/docs/experie
 ## Aanbevolen werkwijzen voor afbeeldingsindeling (&amp;fmt=) {#best-practices-for-image-format-fmt}
 
 * JPG of PNG zijn de beste keuze om afbeeldingen van goede kwaliteit en met beheerbare grootte en gewicht te leveren.
-* Als er geen indelingsopdracht in de URL wordt opgegeven, wordt voor levering standaard JPG gebruikt voor Dynamic Media Image Serving.
+* Als er geen indelingsopdracht in de URL is opgegeven, wordt Dynamic Media Image Serving standaard ingesteld op JPG voor levering.
 * JPG wordt met een verhouding van 10:1 gecomprimeerd en levert doorgaans kleinere afbeeldingsbestanden op. PNG wordt gecomprimeerd met een verhouding van ongeveer 2:1, behalve soms wanneer afbeeldingen een lege achtergrond bevatten. PNG-bestanden zijn doorgaans echter groter dan JPG-bestanden.
-* JPG maakt gebruik van compressie met verlies. Dit betekent dat afbeeldingselementen (pixels) tijdens compressie verloren gaan. PNG gebruikt daarentegen compressie zonder verlies.
-* In JPG worden foto&#39;s vaak gecomprimeerd met een hogere kwaliteit dan in synthetische afbeeldingen met scherpe randen en contrast.
+* JPG maakt gebruik van compressie met verlies. Dit betekent dat afbeeldingselementen (pixels) bij compressie verloren gaan. PNG gebruikt daarentegen compressie zonder verlies.
+* JPG comprimeert foto&#39;s vaak met een betere beeldkwaliteit dan synthetische afbeeldingen met scherpe randen en contrast.
 * Als uw afbeeldingen transparantie bevatten, gebruikt u PNG omdat JPG geen transparantie ondersteunt.
 
-Als beste praktijken voor beeldformaat, begin met het gemeenschappelijkste plaatsen `&fmt=JPG`.
+Als beste manier voor afbeeldingsindeling begint u met de meest gebruikelijke instelling `&fmt=JPG`.
 
 ## Aanbevolen werkwijzen voor afbeeldingsgrootte {#best-practices-for-image-size}
 
 Het dynamisch verkleinen van de afbeeldingsgrootte is een van de meestvoorkomende taken die Dynamic Media Image Serving uitvoert. Hierbij moet u de grootte opgeven en desgewenst ook welke downsamplingmodus wordt gebruikt om de schaal van de afbeelding te verkleinen.
 
-* Voor het aanpassen van de afbeeldingsgrootte is de beste en meest duidelijke benadering `&wid=<value>` en `&hei=<value>` of `&hei=<value>` te gebruiken. Met deze parameters wordt de afbeeldingsbreedte automatisch ingesteld op basis van de hoogte-breedteverhouding.
-* `&resMode=<value>` regelt het algoritme dat wordt gebruikt voor downsampling. Begin met `&resMode=sharp2`. Deze waarde biedt de beste afbeeldingskwaliteit. Terwijl het gebruiken van de downsampling waarde `=bilin` sneller is, resulteert het vaak in aliasing van artefacten.
+* Voor afbeeldingsgrootten is het gebruik van `&wid=<value>` en `&hei=<value>` of alleen `&hei=<value>`. Met deze parameters wordt de afbeeldingsbreedte automatisch ingesteld op basis van de hoogte-breedteverhouding.
+* `&resMode=<value>` regelt het algoritme dat wordt gebruikt voor downsampling. Beginnen met `&resMode=sharp2`. Deze waarde biedt de beste afbeeldingskwaliteit. Tijdens het gebruik van de downsamplingwaarde `=bilin` is sneller, leidt dit vaak tot aliasing van artefacten.
 
-Gebruik `&wid=<value>&hei=<value>&resMode=sharp2` of `&hei=<value>&resMode=sharp2`
+U kunt het beste de afbeeldingsgrootte op de beste manier aanpassen `&wid=<value>&hei=<value>&resMode=sharp2` of `&hei=<value>&resMode=sharp2`
 
 ## Aanbevolen procedures voor verscherpen van afbeeldingen {#best-practices-for-image-sharpening}
 
-Het verscherpen van afbeeldingen is het meest complexe aspect van het beheren van afbeeldingen op uw website en er worden veel fouten gemaakt. Neem de tijd om meer te leren over hoe verscherpen en onscherp maskeren werken in Adobe Dynamic Media Classic door naar de volgende nuttige bronnen te verwijzen:
+Het verscherpen van afbeeldingen is het meest complexe aspect van het beheren van afbeeldingen op uw website en er worden veel fouten gemaakt. Neem de tijd om meer te weten te komen over hoe verscherpen en onscherp maskeren werken in Adobe Dynamic Media Classic door naar de volgende nuttige bronnen te verwijzen:
 
-Best practices white paper [Verscherp afbeeldingen in Adobe Dynamic Media Classic en op afbeeldingsserver](/help/assets/s7_sharpening_images.pdf).
+whitepaper over aanbevolen werkwijzen [Afbeeldingen verscherpen in Adobe Dynamic Media Classic en op afbeeldingsserver](/help/assets/s7_sharpening_images.pdf).
 
 <!-- Give a 404 See also [Sharpening an image with unsharp mask](https://helpx.adobe.com/photoshop/atv/cs6-tutorials/sharpening-an-image-with-unsharp-mask.html). -->
 
@@ -55,7 +55,7 @@ Met Adobe Dynamic Media Classic kunt u afbeeldingen verscherpen bij inname, bij 
 
 U kunt twee methoden voor het verscherpen van afbeeldingen gebruiken:
 
-* Eenvoudig verscherpen ( `&op_sharpen`) - Vergelijkbaar met het verscherpingsfilter dat in Photoshop wordt gebruikt, wordt met eenvoudige verscherping elementaire verscherping toegepast op de uiteindelijke weergave van de afbeelding na dynamisch vergroten of verkleinen. Deze methode kan echter niet door de gebruiker worden geconfigureerd. De beste praktijken moeten `&op_sharpen` niet gebruiken tenzij vereist.
+* Eenvoudig verscherpen ( `&op_sharpen`) - Vergelijkbaar met het verscherpingsfilter dat in Photoshop wordt gebruikt, wordt bij eenvoudige verscherping de standaardverscherping toegepast op de uiteindelijke weergave van de afbeelding na dynamisch vergroten of verkleinen. Deze methode kan echter niet door de gebruiker worden geconfigureerd. De beste manier is niet om te gebruiken `&op_sharpen` tenzij dit vereist is.
 * Onscherp maskeren ( `&op_USM`) - Onscherp maskeren is een industriestandaard filter voor verscherpen. U kunt afbeeldingen het beste verscherpen met onscherp maskeren volgens de onderstaande richtlijnen. Met Onscherp maskeren kunt u de volgende drie parameters instellen:
 
    * `&op_sharpen=amount,radius,threshold`
@@ -63,15 +63,15 @@ U kunt twee methoden voor het verscherpen van afbeeldingen gebruiken:
       * `amount` (0-5, sterkte van het effect.)
       * `radius` (0-250, breedte van de &#39;verscherpingslijnen&#39; die worden getekend rond het verscherpte object, zoals wordt gemeten in pixels.)
 
-         Onthoud dat de parameters `radius` en `amount` tegen elkaar werken. Vermindering van `radius` kan worden gecompenseerd door een verhoging van `amount`. `Radius` Hiermee kunt u nauwkeuriger bepalen, aangezien bij een lagere waarde alleen de randpixels worden verscherpt, terwijl bij een hogere waarde een grotere groep pixels wordt verscherpt.
+         Houd er rekening mee dat de parameters `radius` en `amount` tegen elkaar werken. Beperken `radius` kan worden gecompenseerd door `amount`. `Radius` Hiermee kunt u nauwkeuriger bepalen, aangezien bij een lagere waarde alleen de randpixels worden verscherpt, terwijl bij een hogere waarde een grotere groep pixels wordt verscherpt.
 
       * `threshold` (0-255, gevoeligheid van effect.)
 
          Deze parameter bepaalt hoe verschillend de verscherpte pixels van het omringende gebied moeten zijn alvorens zij als randpixels worden beschouwd en het filter deze scherper maakt. Met Drempel voorkomt u te veel verscherpte gebieden met vergelijkbare kleuren, zoals huidskleuren. Als u bijvoorbeeld een drempelwaarde van 12 instelt, worden kleine variaties in de helderheid van de huidskleur genegeerd om &quot;ruis&quot; te voorkomen, terwijl randcontrast nog steeds wordt toegevoegd aan gebieden met hoog contrast, zoals waar de wimpers de huid raken.
 
-         Zie [Afbeeldingen verscherpen in Adobe Dynamic Media Classic en op Afbeeldingsserver](/help/assets/s7_sharpening_images.pdf) voor meer informatie over hoe u deze drie parameters instelt, inclusief aanbevolen werkwijzen voor gebruik met het filter.
+         Voor meer informatie over hoe u deze drie parameters plaatst, met inbegrip van beste praktijken om met de filter te gebruiken, zie [Afbeeldingen verscherpen in Adobe Dynamic Media Classic en op afbeeldingsserver](/help/assets/s7_sharpening_images.pdf).
 
-      * Met Adobe Dynamic Media Classic kunt u ook een vierde parameter beheren: monochroom ( `0,1`). Deze parameter bepaalt of onscherp maskeren wordt toegepast op elke kleurcomponent afzonderlijk met de waarde `0` of op de helderheid/intensiteit van de afbeelding met de waarde `1`.
+      * Met Adobe Dynamic Media Classic kunt u ook een vierde parameter instellen: monochroom ( `0,1`). Deze parameter bepaalt of onscherp maskeren wordt toegepast op elke kleurcomponent afzonderlijk met behulp van de waarde `0` of op de helderheid/intensiteit van de afbeelding met behulp van de waarde `1`.
 
 Als beste praktijken, begin met de onscherpe parameter van de maskerstraal. De volgende instellingen voor Straal kunt u gebruiken:
 
@@ -86,25 +86,25 @@ Laat de monochrome parameter-instelling op 0 staan.
 
 ## Aanbevolen werkwijzen voor JPEG-compressie (&amp;qlt=) {#best-practices-for-jpeg-compression-qlt}
 
-* Deze parameter bepaalt de JPG-coderingskwaliteit. Een hogere waarde betekent een afbeelding van hogere kwaliteit, maar een groot bestand. Een lagere waarde betekent ook een afbeelding van lagere kwaliteit, maar een kleiner bestand. Het bereik voor deze parameter is 0-100.
-* Stel de parameterwaarde niet in op 100 om te optimaliseren voor kwaliteit. Het verschil tussen een instelling van 90 of 95 en 100 is bijna onwaarneembaar, maar met 100 wordt het afbeeldingsbestand onnodig groter. Om de kwaliteit te optimaliseren maar te voorkomen dat afbeeldingsbestanden te groot worden, stelt u de waarde `qlt=` daarom in op 90 of 95.
-* Als u wilt optimaliseren voor een kleine bestandsgrootte van de afbeelding, maar de afbeeldingskwaliteit op een acceptabel niveau wilt houden, stelt u de waarde `qlt=` in op 80. Waarden lager dan 70 tot 75 resulteren in een aanzienlijke verslechtering van de beeldkwaliteit.
-* Als beste praktijken, om in het midden te blijven, plaats `qlt=` waarde aan 85 om in het midden te blijven.
+* Deze parameter bepaalt de coderingskwaliteit van de JPG. Een hogere waarde betekent een afbeelding van hogere kwaliteit, maar een groot bestand. Een lagere waarde betekent ook een afbeelding van lagere kwaliteit, maar een kleiner bestand. Het bereik voor deze parameter is 0-100.
+* Stel de parameterwaarde niet in op 100 om te optimaliseren voor kwaliteit. Het verschil tussen een instelling van 90 of 95 en 100 is bijna onwaarneembaar, maar met 100 wordt het afbeeldingsbestand onnodig groter. Om de kwaliteit te optimaliseren maar te voorkomen dat afbeeldingsbestanden te groot worden, stelt u daarom de optie `qlt=` waarde 90 of 95.
+* Als u wilt optimaliseren voor een kleine bestandsgrootte van de afbeelding, maar de afbeeldingskwaliteit op een aanvaardbaar niveau wilt houden, stelt u de optie `qlt=` waarde 80. Waarden lager dan 70 tot 75 resulteren in een aanzienlijke verslechtering van de beeldkwaliteit.
+* Als beste praktijk, om in het midden te blijven, plaats `qlt=` waarde tot 85 om in het midden te blijven.
 * De chromamarkering gebruiken in `qlt=`
 
-   * De parameter `qlt=` heeft een tweede instelling waarmee u RGB-chromaticiteitsdownsampling kunt inschakelen met de normale waarde `,0` (standaardwaarde), of uitschakelen met de waarde `,1`.
-   * Om het eenvoudig te houden, begin met RGB het chromaticiteitdownsampling uitgezet ( `,1`). Deze instelling resulteert doorgaans in een betere beeldkwaliteit, vooral bij synthetische afbeeldingen met veel scherpe randen en contrast.
+   * De `qlt=` parameter heeft een tweede instelling waarmee u downsampling van RGB-chromaticiteit met de normale waarde kunt inschakelen `,0` (standaardwaarde) of schakel deze uit met de waarde `,1`.
+   * Om het eenvoudig te houden, start u met RGB-chromaticiteitsdownsampling uitgeschakeld ( `,1`). Deze instelling resulteert doorgaans in een betere beeldkwaliteit, vooral bij synthetische afbeeldingen met veel scherpe randen en contrast.
 
-Gebruik `&qlt=85,0` als aanbevolen methode voor JPG-compressie.
+Als beste praktijken voor het gebruik van de compressie van JPG `&qlt=85,0`.
 
-## Aanbevolen werkwijzen voor JPEG-formaat (&amp;jpegSize=) {#best-practices-for-jpeg-sizing-jpegsize}
+## Aanbevolen werkwijzen voor JPEG vergroten/verkleinen (&amp;jpegSize=) {#best-practices-for-jpeg-sizing-jpegsize}
 
-De parameter `jpegSize` is nuttig als u wilt garanderen dat een afbeelding een bepaalde grootte niet overschrijdt voor levering aan apparaten met beperkt geheugen.
+De parameter `jpegSize` Dit is handig als u wilt garanderen dat een afbeelding een bepaalde grootte niet overschrijdt voor levering aan apparaten met een beperkt geheugen.
 
 * Deze parameter wordt ingesteld in kilobytes ( `jpegSize=<size_in_kilobytes>`). Hiermee wordt de maximaal toegestane grootte voor het leveren van de afbeelding gedefinieerd.
-* `&jpegSize=` communiceert met de JPG-compressieparameter  `&qlt=`. Als de JPG-reactie met de opgegeven JPG-compressieparameter ( `&qlt=`) de `jpegSize`-waarde niet overschrijdt, wordt de afbeelding geretourneerd met `&qlt=` zoals gedefinieerd. Anders wordt `&qlt=` geleidelijk verkleind totdat de afbeelding past in de maximaal toegestane grootte, of totdat het systeem bepaalt dat de afbeelding niet past en een fout retourneert.
+* `&jpegSize=` communiceert met de compressieparameter JPG `&qlt=`. Als de JPG reageert met de opgegeven JPG-compressieparameter ( `&qlt=`) niet hoger is dan `jpegSize` waarde, de afbeelding wordt geretourneerd met `&qlt=` zoals gedefinieerd. Anders, `&qlt=` wordt geleidelijk verkleind totdat de afbeelding past in de maximaal toegestane grootte, of totdat het systeem bepaalt dat de afbeelding niet past en een fout retourneert.
 
-U kunt het beste `&jpegSize=` instellen en de parameter `&qlt=` toevoegen als u JPG-afbeeldingen levert aan apparaten met beperkt geheugen.
+Stel `&jpegSize=` en voeg de parameter toe `&qlt=` als u JPG-afbeeldingen levert aan apparaten met een beperkt geheugen.
 
 ## Overzicht van best practices {#best-practices-summary}
 
@@ -120,6 +120,6 @@ Als de verscherpingsresultaten nog steeds niet bevredigend zijn, vergroot u de s
 
 Tijdens het experimenteren zijn de volgende algemene suggesties nuttig om uw workflow te optimaliseren:
 
-* Probeer verschillende parameters in real-time uit en test ze rechtstreeks op een URL of met gebruik van de functie voor het aanpassen van afbeeldingen van Adobe Dynamic Media Classic. De laatste biedt real-time voorvertoningen voor aanpassingstransacties.
-* U kunt het beste de opdrachten Dynamic Media Image Serving groeperen in een voorinstelling voor afbeeldingen. Een voorinstelling voor een afbeelding bestaat in feite uit URL-opdrachtmacro&#39;s met aangepaste namen voor voorinstellingen, zoals `$thumb_low$` en `&product_high$`. Deze voorinstellingen worden aangeroepen door de naam van de aangepaste voorinstelling in een URL-pad. Met deze functionaliteit kunt u opdrachten en kwaliteitsinstellingen voor verschillende gebruikspatronen van afbeeldingen op uw website beheren en de totale lengte van URL&#39;s verkorten.
+* Probeer verschillende parameters in real-time uit en test ze rechtstreeks op een URL of met gebruik van de Adobe Dynamic Media Classic-functionaliteit voor het aanpassen van afbeeldingen. De laatste biedt real-time voorvertoningen voor aanpassingstransacties.
+* U kunt het beste de opdrachten Dynamic Media Image Serving groeperen in een voorinstelling voor afbeeldingen. Een voorinstelling voor afbeeldingen bestaat in feite uit URL-opdrachtmacro&#39;s met aangepaste namen voor voorinstellingen, zoals `$thumb_low$` en `&product_high$`. Deze voorinstellingen worden aangeroepen door de naam van de aangepaste voorinstelling in een URL-pad. Met deze functionaliteit kunt u opdrachten en kwaliteitsinstellingen voor verschillende gebruikspatronen van afbeeldingen op uw website beheren en de totale lengte van URL&#39;s verkorten.
 * Adobe Dynamic Media Classic biedt ook geavanceerdere manieren om de afbeeldingskwaliteit af te stemmen, zoals het toepassen van verscherping bij opname van afbeeldingen. Voor geavanceerd gebruik waarbij het verder afstemmen en optimaliseren van gerenderde resultaten een optie is, kan Adobe Professional Services u helpen met aangepaste inzichten en aanbevolen procedures.

@@ -1,8 +1,8 @@
 ---
 title: Lettertypen
-description: Leer hoe u lettertypen gebruikt in Adobe Dynamic Media Classic.
+description: Leer hoe u lettertypen in Adobe Dynamic Media Classic kunt gebruiken.
 uuid: bddec9c2-8530-4bbd-8db7-1562a347e482
-contentOwner: admin
+contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/support_files
@@ -10,7 +10,7 @@ discoiquuid: 97cecd6a-30aa-44fe-a611-fd71b02fd5ae
 feature: Dynamic Media Classic
 role: User
 exl-id: 186f4c7f-16f6-42f5-bc0e-55362c55e794
-source-git-commit: 1d71cbe6e2493ac8d47e837a20e194b6ae7a22d4
+source-git-commit: d43b0791e67d43ff56a7ab85570b9639c2375e05
 workflow-type: tm+mt
 source-wordcount: '408'
 ht-degree: 0%
@@ -29,7 +29,7 @@ Adobe Dynamic Media Classic ondersteunt de volgende lettertypen:
 * OpenType-/PostScript-lettertypen
 * PhotoFonts
 
-Nadat een lettertypebestand is geüpload, kunt u de klassieke Adobe Dynamic Media-id, de lettertypenaam en de typegegevens wijzigen in het scherm Info bewerken.
+Nadat een lettertypebestand is geüpload, kunt u de Adobe Dynamic Media Classic-id, de lettertypenaam en de typegegevens wijzigen in het scherm Info bewerken.
 
 >[!NOTE]
 >
@@ -37,11 +37,11 @@ Nadat een lettertypebestand is geüpload, kunt u de klassieke Adobe Dynamic Medi
 
 ## Fontbestanden uploaden {#uploading-font-files}
 
-Upload doopvontdossiers met de zelfde technieken u gebruikt om andere dossiers te uploaden. U kunt lettertypebestanden opslaan in elke Adobe Dynamic Media Classic-map. Zie [Uw bestanden uploaden](uploading-files.md#uploading_your_files).
+Upload doopvontdossiers met de zelfde technieken u gebruikt om andere dossiers te uploaden. U kunt lettertypebestanden opslaan in elke Adobe Dynamic Media Classic-map. Zie [Bestanden uploaden](uploading-files.md#uploading_your_files).
 
 ## Informatie over lettertypebestanden bewerken {#editing-font-file-information}
 
-U kunt de id-naam van een lettertype en de informatie over het type wijzigen. Het bewerken van een lettertypebestand kan nuttig zijn bij zoekopdrachten en het gemakkelijker maken lettertypen te identificeren.
+U kunt de id-naam van een lettertype en de tekstgegevens wijzigen. Het bewerken van een lettertypebestand kan nuttig zijn bij zoekopdrachten en het gemakkelijker maken lettertypen te identificeren.
 
 Selecteer in het deelvenster Bladeren het lettertypebestand dat u wilt bewerken in de gedetailleerde weergave en kies Bestand > Info bewerken. Het scherm Info bewerken wordt geopend. Kies de volgende opties en selecteer **[!UICONTROL Submit]**.
 
@@ -59,10 +59,10 @@ Selecteer in het deelvenster Bladeren het lettertypebestand dat u wilt bewerken 
 
 * **[!UICONTROL Font Type Abbreviation]** - De opties zijn als volgt:
 
-   * **[!UICONTROL TTF]** - TrueType-lettertypebestanden die worden gebruikt voor PDF/PostScript-rendering en afbeeldingsserving.
+   * **[!UICONTROL TTF]** - TrueType-lettertypebestanden die worden gebruikt voor PDF-/PostScript-rendering en beeldweergave.
 
    * **[!UICONTROL AFM]** - Adobe PostScript-lettertypebestanden die Adobe Font Metrics-informatie bevatten en worden gebruikt voor beeldserving.
 
    * **[!UICONTROL PFM]** - Adobe PostScript-lettertypebestanden met binaire metrische informatie over lettertypen.
 
-   * **[!UICONTROL PFB]** - Adobe PostScript-lettertypebestanden met binaire informatie over lettertypecontouren die worden gebruikt voor PDF/PostScript-rendering en afbeeldingsweergave.
+   * **[!UICONTROL PFB]** - Adobe PostScript-lettertypebestanden met binaire informatie over lettertypecontouren die worden gebruikt voor PDF/PostScript-rendering en beeldweergave.

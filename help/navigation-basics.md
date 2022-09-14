@@ -2,7 +2,7 @@
 title: Basisbeginselen van navigatie
 description: Meer informatie over navigeren in de gebruikersinterface van Adobe Dynamic Media Classic.
 uuid: ee143695-e42d-479d-b907-fe61ef6cfc0f
-contentOwner: admin
+contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/getting_started
@@ -10,7 +10,7 @@ discoiquuid: 825b8949-f961-4ef9-828c-07349013d40d
 feature: Dynamic Media Classic
 role: Admin,User
 exl-id: 3ffcfab2-c29d-4b0f-b223-c4a5ca99f21a
-source-git-commit: 352b1c383195fa03294ad3501207d63f3cfe3e42
+source-git-commit: d43b0791e67d43ff56a7ab85570b9639c2375e05
 workflow-type: tm+mt
 source-wordcount: '665'
 ht-degree: 0%
@@ -21,9 +21,9 @@ ht-degree: 0%
 
 Het Adobe Dynamic Media Classic-scherm bevat drie belangrijke gebieden: De globale bar van de Navigatie, de Bibliotheek van Activa, het lusje van de Filters van Activa, doorbladert Comité/bouwt Comité, en Kart van Media (slechts Portaal van Media).
 
-![Basisbeginselen ](/help/assets/gs_navigation_basics_popup_popup.png)
-*van navigatieBelangrijkste Adobe Dynamic Media Classic-*
-*gebiedenA) Algemene navigatiebalk B) Deelvenster Asset Library (C) Tabblad Asset Filters (D) Bladeren deelvenster E) Media Kart (alleen Media Portal)*
+![Basisbeginselen van navigatie](/help/assets/gs_navigation_basics_popup_popup.png)
+*Belangrijkste Adobe Dynamic Media Classic-gebieden*
+*A) Algemene navigatiebalk B) Deelvenster Asset Library C) Tabblad Asset Filters D) Bladeren deelvenster E) Media Cart (alleen Media Portal)*
 
 ## Algemene navigatiebalk {#global-navigation-bar}
 
@@ -41,7 +41,7 @@ De algemene navigatiebalk, die zich boven aan het scherm bevindt, bevat knoppen 
 
 * **[!UICONTROL Recent]** - Hiermee opent u het scherm Recente activiteiten, zodat u de namen van onlangs gewijzigde middelen en recente upload- en publicatietaken kunt bekijken.
 
-* **[!UICONTROL Setup]** - Hiermee opent u het scherm Setup, zodat u instellingen of beheeropties kunt kiezen voor het optimaliseren van het gebruik van Adobe Dynamic Media Classic. Zie [Setup](/help/setup-basics.md).
+* **[!UICONTROL Setup]** - Hiermee opent u het scherm Setup, zodat u instellingen of beheeropties kunt kiezen voor het optimaliseren van het gebruik van Adobe Dynamic Media Classic. Zie [Instellen](/help/setup-basics.md).
 
 * **[!UICONTROL Help]** Kies een Help-optie:
 
@@ -57,21 +57,21 @@ De algemene navigatiebalk, die zich boven aan het scherm bevindt, bevat knoppen 
 
 Gebruik de Asset Library om de elementen te ordenen waarmee u werkt. U kunt mappen en submappen maken om uw elementen te ordenen in de Asset Library.
 
-Bovenaan in het deelvenster Elementenbibliotheek staan opdrachten voor het zoeken naar elementen. U kunt zoeken naar elementen en filteren om elementen te zoeken. Selecteer het pictogram **[!UICONTROL Trash]** onder aan de Asset Library als u elementen wilt bekijken die u hebt verwijderd.
+Bovenaan in het deelvenster Elementenbibliotheek staan opdrachten voor het zoeken naar elementen. U kunt zoeken naar elementen en filteren om elementen te zoeken. Selecteer **[!UICONTROL Trash]** onder aan de Bibliotheek van Activa als u activa wilt onderzoeken u schrapte.
 
 >[!NOTE]
 >
->U kunt **[!UICONTROL Asset Library]** controles selecteren om de Bibliotheek van Activa te openen of te sluiten en meer ruimte te krijgen om op het scherm te werken. Selecteer **[!UICONTROL Expand]**/**[!UICONTROL Collapse]** controle om het paneel uit te breiden of te sluiten. Deze besturingselementen staan links in het deelvenster.
+>U kunt **[!UICONTROL Asset Library]** besturingselementen voor het openen of sluiten van de Asset Library en voor meer ruimte om op het scherm te werken. Selecteer **[!UICONTROL Expand]**/**[!UICONTROL Collapse]** besturingselement voor het uitvouwen of sluiten van het deelvenster. Deze besturingselementen staan links in het deelvenster.
 
 ## Bladeren in deelvenster/deelvenster Samenstellen {#browse-panel-build-panel}
 
 In het deelvenster Bladeren/Samenstellen doet u veel van uw werk. Welke functies beschikbaar zijn in dit deelvenster, is afhankelijk van de modus Bladeren of de modus Samenstellen.
 
-* **[!UICONTROL Browse mode]** - Als u de inhoud van een map wilt weergeven en ermee wilt werken in het deelvenster Bladeren, selecteert u een map in de Asset Library. In dit deelvenster vindt u de menu&#39;s **[!UICONTROL File]**, **[!UICONTROL Preview]**, **[!UICONTROL Select All]**, **[!UICONTROL Select None]** en **[!UICONTROL Sort]** voor het werken met elementen. U kunt elementen ook op verschillende manieren weergeven door de schuifregelaar te verplaatsen of **[!UICONTROL Grid View]**, **[!UICONTROL List View]** of **[!UICONTROL Detail View]** te selecteren. Als u **[!UICONTROL Detail View]** selecteert of dubbelklikt op een element, wordt het element geopend in de gedetailleerde weergave, waar u elementafhankelijke bestandsbewerkingen kunt uitvoeren.
+* **[!UICONTROL Browse mode]** - Als u de inhoud van een map wilt weergeven en ermee wilt werken in het deelvenster Bladeren, selecteert u een map in de Asset Library. Dit paneel biedt de **[!UICONTROL File]**, **[!UICONTROL Preview]**, **[!UICONTROL Select All]**, **[!UICONTROL Select None]**, en **[!UICONTROL Sort]** menu&#39;s voor het werken met elementen. U kunt elementen ook op verschillende manieren weergeven door de schuifregelaar te verplaatsen of **[!UICONTROL Grid View]**, **[!UICONTROL List View]**, of **[!UICONTROL Detail View]**. Selecteren **[!UICONTROL Detail View]** Als u dubbelklikt op een element, wordt het element geopend in de gedetailleerde weergave, waar u elementafhankelijke bestandsbewerkingen kunt uitvoeren.
 
-* **[!UICONTROL Build mode]** - Selecteer  **[!UICONTROL Build]** en kies een optie zodat u een eCatalog, Afbeeldingsset, Draaiset of een van de andere beschikbare items in het menu Samenstellen kunt gaan maken. De pagina Build wordt geopend. U kunt de elementen selecteren waarmee u wilt werken voordat of nadat u de modus Samenstellen hebt geactiveerd.
+* **[!UICONTROL Build mode]** - Selecteer **[!UICONTROL Build]** kiest u vervolgens een optie, zodat u een eCatalog, Afbeeldingsset, Draaiset of een van de andere beschikbare items in het menu Samenstellen kunt gaan maken. De pagina Build wordt geopend. U kunt de elementen selecteren waarmee u wilt werken voordat of nadat u de modus Samenstellen hebt geactiveerd.
 
-Zie ook [Navigatie basics](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&amp;emailurl=https://s7d5.scene7.com/s7/emailFriend&amp;serverUrl=https://s7d5.scene7.com/is/image/&amp;config=Scene7SharedAssets/Universal_HTML5_Video&amp;contenturl=https://s7d5.scene7.com/skins/&amp;asset=S7tutorials/571_Navigation%20Basics_converted%20renamed_Getting%20Started-AVS) trainingsvideo.
+Zie ook [Basisbeginselen van navigatie](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&amp;emailurl=https://s7d5.scene7.com/s7/emailFriend&amp;serverUrl=https://s7d5.scene7.com/is/image/&amp;config=Scene7SharedAssets/Universal_HTML5_Video&amp;contenturl=https://s7d5.scene7.com/skins/&amp;asset=S7tutorials/571_Navigation%20Basics_converted%20renamed_Getting%20Started-AVS) trainingsvideo.
 
 >[!MORELIKETHIS]
 >

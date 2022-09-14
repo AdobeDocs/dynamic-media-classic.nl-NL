@@ -1,8 +1,8 @@
 ---
 title: Persoonlijke instelling
-description: Alle gebruikers kunnen montages op het Persoonlijke scherm van de Opstelling van Adobe Dynamic Media Klassiek veranderen.
+description: Alle gebruikers kunnen montages op het Persoonlijke scherm van de Opstelling van Adobe Dynamic Media Classic veranderen.
 uuid: 29cb825a-f158-4a1e-9d5f-7636ee411b6e
-contentOwner: admin
+contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/setup
@@ -10,22 +10,22 @@ discoiquuid: 6314e7b7-5bde-4fe2-8674-e4fc525d4d1c
 feature: Dynamic Media Classic
 role: Admin,User
 exl-id: a019f973-7647-466f-8af3-5312e9225e89
-source-git-commit: e47c22508230adbb1ece323be0c1413a3f27ad89
+source-git-commit: cb55e09a997b9d36002c4ac429603576d52fb8bd
 workflow-type: tm+mt
-source-wordcount: '745'
+source-wordcount: '746'
 ht-degree: 0%
 
 ---
 
 # Persoonlijke instelling {#personal-setup}
 
-Alle gebruikers kunnen montages op het Persoonlijke scherm van de Opstelling veranderen. Ga naar **[!UICONTROL Setup]** > **[!UICONTROL Personal Setup]** om het scherm Persoonlijke instellingen te openen.
+Alle gebruikers kunnen montages op het Persoonlijke scherm van de Opstelling veranderen. Ga naar **[!UICONTROL Setup]** > **[!UICONTROL Personal Setup]**.
 
 >[!NOTE]
 >
->Het Persoonlijke scherm van de Opstelling maakt een lijst van welke gebruikersrol u in de Klassiek van Adobe Dynamic Media hebt: Bedrijfsbeheerder, beheerder of gebruiker.
+>Het Persoonlijke scherm van de Opstelling maakt een lijst van welke gebruikersrol u in Adobe Dynamic Media Classic hebt: Bedrijfsbeheerder, beheerder of gebruiker.
 
-De Persoonlijke montages van de Opstelling controleren het standaardgedrag van het Browse Comité, hoe u e-mail, en wachtwoordmontages ontvangt. Vergeet niet **[!UICONTROL Save]** te selecteren nadat u deze instellingen hebt gewijzigd.
+De Persoonlijke montages van de Opstelling controleren het standaardgedrag van het Browse Comité, hoe u e-mail, en wachtwoordmontages ontvangt. Vergeet niet te selecteren **[!UICONTROL Save]** nadat u deze instellingen hebt gewijzigd.
 
 ## Mijn accountgegevens
 
@@ -33,8 +33,8 @@ Hiermee worden uw accountnaam, naam, gebruikersnaam (e-mailadres) en toegewezen 
 
 ## Desktop
 
-* **Cache**  van afbeelding wissen - Hiermee worden alle in de Adobe Dynamic Media-cache opgeslagen afbeeldingsbestanden van de computer verwijderd.
-* **Asset Cache**  wissen - Hiermee worden alle elementbestanden uit de Adobe Dynamic Media-cache van de computer verwijderd.
+* **Afbeeldingscache wissen** - Hiermee verwijdert u alle afbeeldingsbestanden uit de Adobe Dynamic Media-cache van uw computer.
+* **Asset Cache wissen** - Hiermee verwijdert u alle elementbestanden uit de Adobe Dynamic Media-cache van uw computer.
 
 U kunt de cache van afbeeldingen en elementen niet alleen wissen met de bureaubladtoepassing, maar u kunt de cache ook handmatig rechtstreeks wissen vanuit het bestandssysteem. Navigeer op basis van uw besturingssysteem naar het volgende:
 
@@ -45,8 +45,8 @@ U kunt de cache van afbeeldingen en elementen niet alleen wissen met de bureaubl
 
 **Adobe Dynamic Media Creative Suite Extension installeren:**
 
-1. Ga in Adobe Dynamic Media Classic op de werkbalk naar **[!UICONTROL Setup]** > **[!UICONTROL Personal Setup]**, selecteer **[!UICONTROL Download Now]** onder Extensie Creative Suites om het `s7csxs.zxp`-bestand te downloaden.
-1. Selecteer de koppelingen **[!UICONTROL Installation]** en **[!UICONTROL System Requirements]** voor aanvullende informatie over de extensie.
+1. Ga in Adobe Dynamic Media Classic op de werkbalk naar **[!UICONTROL Setup]** > **[!UICONTROL Personal Setup]** Selecteer onder Extensie Creative Suites de optie **[!UICONTROL Download Now]** om de `s7csxs.zxp` bestand.
+1. Selecteer **[!UICONTROL Installation]** en **[!UICONTROL System Requirements]** koppelingen voor aanvullende informatie over de extensie.
 
 <!--    A readme file is included at the root of the unzipped file to provide you with additional information about the extension.
 
@@ -89,19 +89,19 @@ The plug-in is now available for you to use in Adobe Illustrator. -->
 
    Zie ook [Door gebruiker gedefinieerde velden](application-setup.md#user_defined_fields).
 
-* **[!UICONTROL Basic Search Type]** - U kunt uit twee opties selecteren:  **[!UICONTROL Contains]** zoekt de volledige tekenreeks naar de opgegeven waarde;  **[!UICONTROL StartsWith]** zoekt vanaf het begin van de tekenreeks en retourneert sneller dan  **[!UICONTROL Contains]**. Bij beide opties wordt de standaardinstelling genegeerd die door de beheerder in **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Application General Settings]** is ingesteld.
+* **[!UICONTROL Basic Search Type]** - U kunt uit twee opties selecteren: **[!UICONTROL Contains]** zoekt de volledige tekenreeks naar de opgegeven waarde; **[!UICONTROL StartsWith]** zoekt vanaf het begin van de tekenreeks en retourneert sneller resultaten dan **[!UICONTROL Contains]**. Beide opties overschrijven de standaard die is ingesteld in **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Application General Settings]** door de beheerder.
 * **[!UICONTROL Show Command Feedback]** - Selecteer deze optie om de weergave van opdrachtaanvragen op de server in te schakelen; Schakel deze optie uit om de selectie uit te schakelen.
 * **[!UICONTROL Show Dialog During Export]** - Selecteer deze optie om een pop-upvenster weer te geven tijdens het exporteren. Als u deze optie uitschakelt (uitschakelt), kunt u nog steeds naar de pagina Taken gaan om de resultaten van de export op te halen.
 
 ## E-mail
 
-* **[!UICONTROL Email Options]** - Kies hoe u Adobe Dynamic Media Classic u per e-mail op de hoogte wilt brengen wanneer het uploaden en publiceren taken zijn voltooid. U kunt berichten voor het voltooien van een taak alleen ontvangen als er waarschuwingen of fouten zijn opgetreden.
+* **[!UICONTROL Email Options]** - Kies hoe Adobe Dynamic Media Classic u per e-mail op de hoogte moet brengen wanneer het uploaden en publiceren taken zijn voltooid. U kunt berichten voor het voltooien van een taak alleen ontvangen als er waarschuwingen of fouten zijn opgetreden.
 * **[!UICONTROL Email Scope]** - Hiermee bepaalt u of u alle taken per e-mail voor uw bedrijf ontvangt of alleen e-mail over uploads en publicatietaken die u hebt gestart.
 * **[!UICONTROL Email Types]** - Hiermee bepaalt u of u op de hoogte wordt gesteld wanneer het uploaden van taken en het publiceren van taken zijn voltooid.
 
 ## Taal
 
-* **[!UICONTROL Preferred Language]** - Bepaalt de taal u voor de interface wilt gebruiken.
+* **[!UICONTROL Preferred Language]** - Bepaalt de taal die u voor de interface wilt gebruiken.
 
 ## Wachtwoord
 

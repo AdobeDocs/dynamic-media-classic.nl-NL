@@ -2,7 +2,7 @@
 title: Een sjabloon maken
 description: Leer hoe u een sjabloon maakt in Adobe Dynamic Media Classic.
 uuid: c762224b-7c6c-4434-bada-c26570079645
-contentOwner: admin
+contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/template_basics
@@ -10,26 +10,26 @@ discoiquuid: 8f7093da-d215-4337-ac95-69f0a5bf8648
 feature: Dynamic Media Classic
 role: User
 exl-id: 23ac1a0f-c90b-4250-ae36-93702fb5ebd9
-source-git-commit: 352b1c383195fa03294ad3501207d63f3cfe3e42
+source-git-commit: d43b0791e67d43ff56a7ab85570b9639c2375e05
 workflow-type: tm+mt
-source-wordcount: '3307'
+source-wordcount: '3310'
 ht-degree: 0%
 
 ---
 
 # Een sjabloon maken {#creating-a-template}
 
-Als u een sjabloon wilt maken, gaat u naar **[!UICONTROL Build]** > **[!UICONTROL Template Basics]**. Selecteer Designer of Developer. Op deze pagina kunt u afbeeldings- en tekstlagen toevoegen. U kunt lagen ook opnieuw ordenen, de grootte en positie van lagen wijzigen en schaduw- en gloedeffecten toepassen op afbeeldingen en tekst.
+Ga naar **[!UICONTROL Build]** > **[!UICONTROL Template Basics]**. Selecteer Designer of Developer. Op deze pagina kunt u afbeeldings- en tekstlagen toevoegen. U kunt lagen ook opnieuw ordenen, de grootte en positie van lagen wijzigen en schaduw- en gloedeffecten toepassen op afbeeldingen en tekst.
 
-Zie ook [Sjabloongrondbeginselen](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&amp;emailurl=https://s7d5.scene7.com/s7/emailFriend&amp;serverUrl=https://s7d5.scene7.com/is/image/&amp;config=Scene7SharedAssets/Universal_HTML5_Video&amp;contenturl=https://s7d5.scene7.com/skins/&amp;asset=S7tutorials/553_Template%20Basics_converted%20renamed_Dynamic%20Banners-AVS) trainingsvideo.
+Zie ook [Grondbeginselen van sjablonen](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&amp;emailurl=https://s7d5.scene7.com/s7/emailFriend&amp;serverUrl=https://s7d5.scene7.com/is/image/&amp;config=Scene7SharedAssets/Universal_HTML5_Video&amp;contenturl=https://s7d5.scene7.com/skins/&amp;asset=S7tutorials/553_Template%20Basics_converted%20renamed_Dynamic%20Banners-AVS) trainingsvideo.
 
 >[!NOTE]
 >
->Als u een sjabloon bewerkt die in een eerdere versie van Adobe Dynamic Media Classic is gemaakt, wordt u gevraagd of u de sjabloon wilt opslaan. Wilt u een canvaslaag toevoegen?. Selecteer **[!UICONTROL No]** om het toevoegen van een basislaag te vermijden. Als u per ongeluk **[!UICONTROL Yes]** selecteert, schrapt `&allowCanvasPrompt` en `&layer=0` bepalingen in URL en drukt **[!UICONTROL Enter]** of **[!UICONTROL Return]**.
+>Als u een sjabloon bewerkt die in een eerdere versie van Adobe Dynamic Media Classic is gemaakt, wordt u gevraagd of u de sjabloon wilt opslaan. Wilt u een canvaslaag toevoegen?. Selecteren **[!UICONTROL No]** om te voorkomen dat u een basislaag toevoegt. Als u per ongeluk **[!UICONTROL Yes]**, verwijdert u de `&allowCanvasPrompt` en `&layer=0` modifiers in URL en druk **[!UICONTROL Enter]** of **[!UICONTROL Return]**.
 
 ## De eerste sjabloon maken {#creating-the-initial-template}
 
-Wanneer u een sjabloonset maakt, heeft de optie **[!UICONTROL Publish after save]** op de volgende manieren invloed op de set en stelt u leden in:
+Wanneer u een sjabloonset maakt, kunt u **[!UICONTROL Publish after save]** Deze optie is op de volgende manieren van invloed op de set en de set leden:
 
 | **[!UICONTROL Publish after save]** optie geselecteerd voor opslaan? | Status van set na opslaan | Status van ingestelde leden na opslaan |
 | --- | --- | --- |
@@ -38,27 +38,27 @@ Wanneer u een sjabloonset maakt, heeft de optie **[!UICONTROL Publish after save
 
 Zie ook [Elementen handmatig publiceren](publishing-files.md#manually_publishing_assets) en [Publicaties van elementen handmatig ongedaan maken](publishing-files.md#manually_unpublishing_assets).
 
-U kunt een sjabloon maken op basis van een bestaande sjabloon. Open de sjabloon, selecteer **[!UICONTROL Save As]** en voer een nieuwe naam in het dialoogvenster Opslaan als in.
+U kunt een sjabloon maken op basis van een bestaande sjabloon. Open de sjabloon en selecteer **[!UICONTROL Save As]** en voert u een nieuwe naam in het dialoogvenster Opslaan als in.
 
 **De eerste sjabloon maken:**
 
 1. Gebruik een van de volgende methoden om uw oorspronkelijke sjabloon te maken:
 
-   * **Selecteer eerst**  de PSD of afbeeldingen. Selecteer in het deelvenster Bladeren het PSD-bestand of de afbeeldingen die u voor de sjabloon wilt gebruiken, ga naar  **[!UICONTROL Build]** >  **[!UICONTROL Template Basics]**.
+   * **Selecteer eerst de PSD of afbeeldingen** - Selecteer in het deelvenster Bladeren het PSD-bestand of de afbeeldingen die u voor de sjabloon wilt gebruiken. Ga naar **[!UICONTROL Build]** > **[!UICONTROL Template Basics]**.
 
-   * **Begin vanuit het scherm**  Sjabloon - Ga naar  **[!UICONTROL Build]** >  **[!UICONTROL Template Basics]**. Selecteer Designer of Developer.
+   * **Beginnen vanaf het scherm Sjabloon** - Ga naar **[!UICONTROL Build]** > **[!UICONTROL Template Basics]**. Selecteer Designer of Developer.
 
 1. Voer in het dialoogvenster Canvasgrootte invoeren afmetingen voor de breedte en hoogte van de sjabloon in.
 1. Selecteer een map in de elementenbibliotheek en sleep het gewenste PSD-bestand of de gewenste afbeeldingen voor de sjabloon naar het scherm Sjabloon.
-1. Als u klaar bent, controleert u of **[!UICONTROL Publish after save]** is geselecteerd (standaard) in de rechterbenedenhoek van de pagina.
-1. Selecteer **[!UICONTROL Save]**.
+1. Wanneer u klaar bent, gaat u naar de rechterbenedenhoek van de pagina en zorgt u ervoor dat **[!UICONTROL Publish after save]** is geselecteerd (standaard).
+1. Selecteren **[!UICONTROL Save]**.
 1. Selecteer een map waarin u de sjabloon wilt opslaan, voer een naam voor de sjabloon in en selecteer **[!UICONTROL Submit]**.
 
    Adobe Dynamic Media Classic verkleint afbeeldingen indien nodig om deze op het canvas te passen, het gebied op het scherm Sjabloon waarin u de sjabloon kunt definiëren.
 
 ## Een sjabloonset bewerken {#editing-a-template-set}
 
-Of u een gepubliceerde set of een niet-gepubliceerde sjabloonset bewerkt, de optie **[!UICONTROL Publish after save]** heeft op de volgende manieren invloed op de set en stelt leden in:
+Of u een gepubliceerde set of een niet-gepubliceerde sjabloonset bewerkt, **[!UICONTROL Publish after save]** Deze optie is op de volgende manieren van invloed op de set en de set leden:
 
 | Reeds gepubliceerd instellen? | **[!UICONTROL Publish after save]** optie geselecteerd voordat u de bewerking opslaat? | Status van set na opslaan | Status van ingestelde leden na opslaan |
 | --- | --- | --- | --- |
@@ -71,10 +71,10 @@ Zie ook [Elementen handmatig publiceren](publishing-files.md#manually_publishing
 
 **Een sjabloonset bewerken:**
 
-1. Blader in de rasterweergave naar een Sjabloonset en selecteer **[!UICONTROL Edit]** onder de afbeelding.
+1. Blader in de rasterweergave naar een Sjabloonset en selecteer vervolgens onder de afbeelding de optie **[!UICONTROL Edit]**.
 1. Wijzig de sjabloon naar wens.
-1. Als u klaar bent met bewerken, controleert u of **[!UICONTROL Publish after save]** is geselecteerd (standaard) in de rechterbenedenhoek van de pagina.
-1. Selecteer **[!UICONTROL Save]**, selecteer een opslagomslag, ga een naam voor de reeks in, en selecteer dan **[!UICONTROL Save]**.
+1. Wanneer u klaar bent met bewerken, gaat u naar de rechterbenedenhoek van de pagina en zorgt u ervoor dat **[!UICONTROL Publish after save]** is geselecteerd (standaard).
+1. Selecteren **[!UICONTROL Save]**, selecteert u een opslagmap, voert u een naam voor de set in en selecteert u **[!UICONTROL Save]**.
 
 ## Een sjabloon verwijderen {#deleting-a-template}
 
@@ -105,7 +105,7 @@ Gebruik deze gereedschappen op het scherm Sjabloon, zodat u sjablonen kunt maken
 
    >[!NOTE]
    >
-   >Teksteditor v4.2 is bedoeld om als optie te worden verwijderd in Adobe Dynamic Media Classic. Het wordt daarom aanbevolen om teksteditor 4.3 zo veel mogelijk te gebruiken. De optie **[!UICONTROL Word Wrap]** wordt opgenomen in een toekomstige versie van de Teksteditor.
+   >Teksteditor v4.2 is bedoeld om als optie te worden verwijderd in Adobe Dynamic Media Classic. Het wordt daarom aanbevolen om teksteditor 4.3 zo veel mogelijk te gebruiken. De **[!UICONTROL Word Wrap]** Deze optie wordt opgenomen in een toekomstige versie van de Teksteditor.
 
 * **[!UICONTROL Designer and Developer]** - Selecteer de optie die uw rol het best beschrijft.
 
@@ -127,14 +127,14 @@ Gebruik deze gereedschappen op het scherm Sjabloon, zodat u sjablonen kunt maken
 
 ## Een tekstlaag maken {#creating-a-text-layer}
 
-1. Selecteer het gereedschap **[!UICONTROL Text]**.
+1. Selecteer **[!UICONTROL Text]** gebruiken.
 1. Sleep om een tekstvak te maken op het canvas of op een afbeelding.
 1. Voeg in het tekstscherm dat wordt geopend, tekst toe door een van de volgende handelingen uit te voeren op het tabblad Voorbeeld:
 
    * Typ tekst in het tekstvak. Kies Tekst passend maken om de tekst in het tekstvak te laten passen.
    * Plak tekst van het klembord in het tekstvak.
 
-1. Selecteer **[!UICONTROL Apply]** en sluit dan het scherm van de Tekst.
+1. Selecteren **[!UICONTROL Apply]** en sluit vervolgens het tekstscherm.
 
 ### Tekst opmaken {#format-text}
 
@@ -142,17 +142,17 @@ Ga als volgt te werk om tekst in een tekstlaag op te maken:
 
 1. Dubbelklik in de lijst Lagen op de naam van het tekstvak met tekst die u wilt bewerken. De Teksteditor wordt geopend.
 1. Selecteer in het tekstvak van de Teksteditor de tekst die u wilt opmaken. U kunt alle tekst, delen van de tekst of afzonderlijke tekens selecteren.
-1. Geef een van de volgende opmaakopties op en selecteer **[!UICONTROL Apply]**.
+1. Geef een of meer van de volgende opmaakopties op en selecteer **[!UICONTROL Apply]**.
 
    * **[!UICONTROL Font]** - Kies een lettertype in het menu Lettertype. Als het gewenste lettertype niet in het menu staat, kunt u het naar de Adobe Dynamic Media Classic uploaden. Zie Lettertypen.
 
-   * **[!UICONTROL Font Size]** - Kies een tekengrootte in het menu, typ een specifieke grootte in het vak of selecteer de  **[!UICONTROL Up]** of de  **[!UICONTROL Down]** pijlen om de grootte met twee punten te vergroten of te verkleinen.
+   * **[!UICONTROL Font Size]** - Kies een tekengrootte in het menu, typ een specifieke grootte in het vak of selecteer de optie **[!UICONTROL Up]** of **[!UICONTROL Down]** pijlen om de grootte met twee punten te vergroten of te verkleinen.
 
    * **[!UICONTROL Color]** - Selecteer deze optie om een kleur voor tekst te kiezen.
 
-   * **[!UICONTROL Bold]**,  **[!UICONTROL Italic]** of  **[!UICONTROL Underline]** - Selecteer de tekst en selecteer vervolgens het pictogram voor het type opmaak dat u op de tekst wilt toepassen.
+   * **[!UICONTROL Bold]**, **[!UICONTROL Italic]**, of **[!UICONTROL Underline]** - Selecteer de tekst en selecteer vervolgens het pictogram voor het type opmaak dat u op de tekst wilt toepassen.
 
-   * **[!UICONTROL All Caps]**,  **[!UICONTROL Superscript]** of  **[!UICONTROL Subscript]** - Selecteer de tekst en selecteer vervolgens het pictogram voor het type opmaak dat u op de tekst wilt toepassen.
+   * **[!UICONTROL All Caps]**, **[!UICONTROL Superscript]**, of **[!UICONTROL Subscript]** - Selecteer de tekst en selecteer vervolgens het pictogram voor het type opmaak dat u op de tekst wilt toepassen.
 
    * **[!UICONTROL Alignment]** - Kies een uitlijningsknop om tekst in de tekstlaag links uit te lijnen, te centreren of rechts uit te lijnen.
 
@@ -166,13 +166,13 @@ Ga als volgt te werk om tekst in een tekstlaag op te maken:
 
 >[!NOTE]
 >
->Selecteer **[!UICONTROL Undo]** als u de laatste handeling wilt omkeren. Selecteer **[!UICONTROL Redo]** als u van mening verandert over het omkeren van een handeling nadat u **[!UICONTROL Undo]** hebt geselecteerd.
+>Selecteren **[!UICONTROL Undo]** als u de laatste handeling wilt omkeren. Selecteren **[!UICONTROL Redo]** als u van gedachten verandert over het omkeren van een handeling nadat u **[!UICONTROL Undo]**.
 
 ### Alinea&#39;s opmaken {#format-paragraphs}
 
 1. Dubbelklik in de lijst Lagen op de naam van het tekstvak met tekst die u wilt bewerken. De Teksteditor wordt geopend.
 1. Selecteer de alinea die u wilt opmaken.
-1. Geef een van de volgende opmaakopties op en selecteer **[!UICONTROL Apply]**.
+1. Geef een of meer van de volgende opmaakopties op en selecteer **[!UICONTROL Apply]**.
 
    * **[!UICONTROL Alignment]** - Selecteer deze optie om het type uitlijning op te geven: Hiermee lijnt u links uit, lijnt u het middelpunt uit, lijnt u rechts uit of rechtvaardigt u het uitvullen.
 
@@ -182,7 +182,7 @@ Ga als volgt te werk om tekst in een tekstlaag op te maken:
 
    * **[!UICONTROL Indent All]** - Selecteer deze optie om de mate waarin de tekst wordt ingesprongen te verhogen.
 
-   * **[!UICONTROL Remove Indent]** - Selecteer deze optie om de mate waarin de tekst wordt ingesprongen te verminderen.
+   * **[!UICONTROL Remove Indent]** - Selecteer deze optie om de inspringing van de tekst te verminderen.
 
    * **[!UICONTROL Indent First Line]** - Geef de hoeveelheid op waarmee u de eerste tekstregel wilt laten inspringen.
 
@@ -218,12 +218,12 @@ Ga als volgt te werk om tekst in een tekstlaag op te maken:
 De informatie op het tabblad Bron van de Teksteditor is ter referentie. Bewerk de tekst alleen als u bekend bent met het bewerken van broncode.
 
 1. Dubbelklik in de lijst Lagen op de naam van het tekstvak met tekst die u wilt bewerken. De Teksteditor wordt geopend.
-1. Als u in de Teksteditor de broncode voor de tekst wilt weergeven, selecteert u het tabblad **[!UICONTROL Source]** in de Teksteditor.
+1. Selecteer in de Teksteditor de optie **[!UICONTROL Source]** in de Teksteditor.
 1. Bekijk of bewerk de tekst naar wens.
 
    De wijzigingen blijven intact als u heen en weer schakelt tussen de voorvertoning en de bronweergave.
 
-1. Selecteer **[!UICONTROL Apply]** om de bewerkingen te renderen.
+1. Selecteren **[!UICONTROL Apply]** om de bewerkingen te renderen.
 
 ## Werken met lagen {#working-with-layers}
 
@@ -246,31 +246,31 @@ Lagen moeten klein genoeg zijn om op het canvas te passen. U kunt de grootte van
 
 >[!NOTE]
 >
->Adobe Dynamic Media Classic raadt u aan een voorinstelling voor afbeeldingen te maken die de exacte grootte van uw sjabloon heeft. Als u de grootte van de voorinstelling Afbeelding afstemt op de sjabloongrootte, weet u zeker dat de uiteindelijke uitvoergrootte en de verscherpingsopties voor de sjabloon correct zijn ingesteld. Nadat u deze voorinstelling voor afbeelding hebt gemaakt, kunt u deze kiezen in het menu Voorinstelling toepassen op het scherm Sjabloonvoorvertoning. Het scherm toont u hoe het beeld eruit ziet wanneer het van de server wordt geleverd. Zie [Voorinstellingen voor afbeeldingen instellen](setting-image-presets.md#setting_up_image_presets).
+>Adobe Dynamic Media Classic raadt u aan een voorinstelling voor afbeeldingen te maken die de exacte grootte van uw sjabloon heeft. Als u de grootte van de voorinstelling Afbeelding afstemt op de sjabloongrootte, weet u zeker dat de uiteindelijke uitvoergrootte en de verscherpingsopties voor de sjabloon correct zijn ingesteld. Nadat u deze voorinstelling voor afbeelding hebt gemaakt, kunt u deze kiezen in het menu Voorinstelling toepassen op het scherm Sjabloonvoorvertoning. Het scherm toont u hoe het beeld eruit ziet wanneer het van de server wordt geleverd. Zie [Voorinstellingen afbeelding instellen](setting-image-presets.md#setting_up_image_presets).
 
-* **De grootte van een laag**  wijzigen - Als u de grootte van een laag of het canvas wilt wijzigen, selecteert u de laag of het canvas in de lijst Lagen en gebruikt u een van de volgende technieken:
+* **De grootte van een laag wijzigen** - Als u de grootte van een laag of het canvas wilt wijzigen, selecteert u de laag of het canvas in de lijst Lagen en gebruikt u een van de volgende technieken:
 
-* **Grootte**  handmatig wijzigen - Selecteer en sleep een hoek van de laag of het canvas. Met tekstlagen kunt u ook een zijde van de laag slepen. Houd Shift ingedrukt terwijl u sleept om de grootte te wijzigen, maar de hoogte-breedteverhouding (de vorm) te behouden.
+* **Grootte handmatig wijzigen** - Selecteer en sleep een hoek van de laag of het canvas. Met tekstlagen kunt u ook een zijde van de laag slepen. Houd Shift ingedrukt terwijl u sleept om de grootte te wijzigen, maar de hoogte-breedteverhouding (de vorm) te behouden.
 
-* **Metingen**  voor laaggrootte invoeren - Voer pixelmetingen in in de tekstvakken B (Breedte) en H (Hoogte) in het gebied Laageigenschappen.
+* **Metingen voor laaggrootte invoeren** - Voer pixelmetingen in in de tekstvakken B (Breedte) en H (Hoogte) in het gebied Laageigenschappen.
 
 U kunt een laag niet alleen vergroten of verkleinen, maar ook verkleinen. Voer hiertoe een opvullingsmeting in in het vak Links, Rechts, Boven en Onder in het gebied Laageigenschappen. Door opvulling wordt een marge aan de huidige laag toegevoegd die wordt verschoven ten opzichte van de omtrek van de basislaag. Opvulling is handig als u een slagschaduw of een effect Buitenste gloed toevoegt en u het effect beter zichtbaar wilt maken. Door opvulling wordt een laag groter en wordt de achtergrondkleur weergegeven in het uitgebreide gebied met opvulling. De basislaag verplaatst zichzelf ten opzichte van de nieuwe grootte van de laag. Als de huidige laag bijvoorbeeld is gecentreerd op de basislaag en u de linkerzijde van de laag uitbreidt, wordt deze verder naar rechts van de basislaag verplaatst.
 
-* **De positie van een laag**  wijzigen - Als u de positie van een laag op het canvas wilt wijzigen, selecteert u de naam van de laag in de lijst Lagen en gebruikt u een van de volgende technieken:
+* **De positie van een laag wijzigen** - Als u de positie van een laag op het canvas wilt wijzigen, selecteert u de naam van de laag in de lijst Lagen en gebruikt u een van de volgende technieken:
 
-* **Positie**  handmatig wijzigen - Verplaats de aanwijzer naar een laaggrens, maar niet naar een andere positie. Selecteer en sleep wanneer u de pijl met vier punten ziet.
+* **Positie handmatig wijzigen** - Plaats de aanwijzer in de buurt van een laaggrens, maar niet boven een laaggrens. Als u de pijl met vier punten ziet, selecteert en sleept u.
 
-* **Plaatsingsverschuivingsmetingen**  invoeren - Voer de X- en Y-verschuivingsmetingen in de tekstvakken X en Y in. Deze metingen vertegenwoordigen de x- en y-verschuiving van het ankerpunt in pixels.
+* **Positieverschuivingsmetingen invoeren** - Voer X- en Y-verschuivingsmetingen in de tekstvakken X en Y in. Deze metingen vertegenwoordigen de x- en y-verschuiving van het ankerpunt in pixels.
 
-* **Een laag**  roteren - In het vak Roteren wordt de hoek weergegeven waarop de laag is geroteerd. Als u een laag wilt roteren, selecteert u de naam van de laag in de lijst Lagen en gebruikt u een van de volgende technieken:
+* **Een laag roteren** - In het vak Roteren wordt de hoek weergegeven waarop de laag is geroteerd. Als u een laag wilt roteren, selecteert u de naam van de laag in de lijst Lagen en gebruikt u een van de volgende technieken:
 
-* **Handmatig roteren**  - De cursor verplaatsen naar, maar niet naar een hoek van de laag. Wanneer u de rotatiecursor ziet, sleept u de hoek van de laag. Houd Shift tijdens het slepen ingedrukt om in stappen van 15 graden te roteren.
+* **Handmatig roteren** - Plaats de cursor in de buurt van de laag, maar niet boven een hoek van de laag. Wanneer u de rotatiecursor ziet, sleept u de hoek van de laag. Houd Shift tijdens het slepen ingedrukt om in stappen van 15 graden te roteren.
 
-* **Een gradenmeting**  invoeren - Voer het aantal graden in om de laag te roteren. de rotatie rechtsom is; Voer een negatief getal in om linksom te roteren.
+* **Een gradenmaat invoeren** - Voer het aantal graden in om de laag te roteren. de rotatie rechtsom is; Voer een negatief getal in om linksom te roteren.
 
 **Een laag of een laageffect verbergen:**
 
-U kunt een laag- of laageffect verbergen door het oogpictogram naast de naam van een laag of effect te selecteren. Verborgen lagen worden niet weergegeven in voorvertoningen of uitvoer. De laaggegevens worden niet verwijderd uit de URL. In plaats daarvan wordt `hide=1` toegevoegd aan de URL om te zien dat de laag verborgen is. Bijvoorbeeld:
+U kunt een laag- of laageffect verbergen door het oogpictogram naast de naam van een laag of effect te selecteren. Verborgen lagen worden niet weergegeven in voorvertoningen of uitvoer. De laaggegevens worden niet verwijderd uit de URL. In plaats daarvan, `hide=1` wordt toegevoegd aan de URL om te zien dat de laag verborgen is. Bijvoorbeeld:
 
 `layer=5&src=is{PortalCo/title}&pos=274,192&effect=-1&.effect=Drop Shadow&blendmode`
 
@@ -280,13 +280,13 @@ U kunt een laag- of laageffect verbergen door het oogpictogram naast de naam van
 
 Als u een achtergrondkleur, dekking en overvloeimodus voor een laag of het canvas wilt kiezen, selecteert u de laag of het canvas en gebruikt u de volgende technieken:
 
-* **Voorgrondkleur**  - Selecteer  **[!UICONTROL Foreground Color]** en kies een kleurstaal om de kleur van de schaduw of gloed te wijzigen. U kunt ook een parameter color-value in het vak invoeren. De achtergrondkleur wordt alleen toegepast op lagen die transparantie gebruiken. Het is bijvoorbeeld van toepassing op een gedeeltelijk transparante laag in een prijstag of de achtergrond van een tekstveld. Lagen die bestaan uit een PSD-, TIFF- of PNG-afbeelding waarop transparantie is ingeschakeld, kunnen een transparante achtergrond hebben.
+* **Voorgrondkleur** - Selecteer **[!UICONTROL Foreground Color]** en kiest u een kleurstaal om de kleur van de schaduw of gloed te wijzigen. U kunt ook een parameter color-value in het vak invoeren. De achtergrondkleur wordt alleen toegepast op lagen die transparantie gebruiken. Het is bijvoorbeeld van toepassing op een gedeeltelijk transparante laag in een prijstag of de achtergrond van een tekstveld. Lagen die bestaan uit een PSD-, TIFF- of PNG-afbeelding waarop transparantie is ingeschakeld, kunnen een transparante achtergrond hebben.
 
-* **Achtergrondkleur**  - Selecteer  **[!UICONTROL Background Color]** en kies een kleurstaal om de kleur van de opgevulde gebieden te wijzigen.
+* **Achtergrondkleur** - Selecteer **[!UICONTROL Background Color]** en kiest u een kleurstaal om de kleur van de opgevulde gebieden te wijzigen.
 
-* **Dekking**  - Sleep de schuifregelaar Dekking om een laag doorzichtig te maken, zodat een deel van de onderliggende afbeelding zichtbaar wordt. De instelling van 100 procent is dekkend. 0 is transparant.
+* **Dekking** - Sleep de schuifregelaar Dekking om een laag doorzichtig te maken, zodat een deel van de onderliggende afbeelding zichtbaar wordt. De instelling van 100 procent is dekkend. 0 is transparant.
 
-* **Overvloeimodus**  - Kies een optie om een van de overvloeimodi te simuleren die beschikbaar zijn in Photoshop. De opties zijn Normaal, Verspreiden, Lichter, Donkerder, Vermenigvuldigen en Scherm. Deze opties zijn beschikbaar voor lagen, niet voor het canvas.
+* **Overvloeimodus** - Kies een optie om een van de overvloeimodi te simuleren die beschikbaar zijn in Photoshop. De opties zijn Normaal, Verspreiden, Lichter, Donkerder, Vermenigvuldigen en Scherm. Deze opties zijn beschikbaar voor lagen, niet voor het canvas.
 
 ## Schaduw- en gloedeffecten gebruiken op lagen {#using-shadow-and-glow-effects-on-layers}
 
@@ -307,7 +307,7 @@ Nadat u een schaduw- of gloedeffect hebt toegepast, kunt u de grootte, kleur, de
 
    * **[!UICONTROL Inner Glow]** - Hiermee past u een gloedeffect toe binnen alle randen van de laag.
 
-Nadat u een effect hebt toegepast, wordt in de lijst Lagen een effectnaam weergegeven. Als u een effect wilt verwijderen, selecteert u de naam in de lijst Lagen en selecteert u **[!UICONTROL Delete]**.
+Nadat u een effect hebt toegepast, wordt in de lijst Lagen een effectnaam weergegeven. Als u een effect wilt verwijderen, selecteert u de naam in de lijst Lagen en selecteert u vervolgens **[!UICONTROL Delete]**.
 
 >[!NOTE]
 >
@@ -331,7 +331,7 @@ Als u een schaduw- of gloedeffect wilt aanpassen, selecteert u eerst de naam van
 
 ## Lagen maskeren {#masking-layers}
 
-De lijst Lagen bevat een knop Masker die aangeeft hoe het masker of het alfakanaal van een laag wordt gebruikt. Met de knop Masker kunt u het effect van een achtergrondlaag toepassen op een bepaalde laag of op de gehele bovenliggende laag in de sjabloon. Selecteer een laag in de lijst Lagen en selecteer **[!UICONTROL Mask]** om door deze staten te doorlopen:
+De lijst Lagen bevat een knop Masker die aangeeft hoe het masker of het alfakanaal van een laag wordt gebruikt. Met de knop Masker kunt u het effect van een achtergrondlaag toepassen op een bepaalde laag of op de gehele bovenliggende laag in de sjabloon. Selecteer een laag in de lijst Lagen en selecteer **[!UICONTROL Mask]** deze staten doorlopen :
 
 * De achtergrond van de laag is dekkend.
 * De laaginhoud wordt omgekeerd en de achtergrond van de laag wordt gevuld met effen zwart.

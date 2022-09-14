@@ -6,7 +6,7 @@ user-guide-title: Adobe Dynamic Media Classic Guide
 breadcrumb-title: Dynamic Media Classic Guide
 user-guide-description: Meer informatie over het gebruik van Adobe Dynamic Media Classic
 index: y
-source-git-commit: d5293a2983e1105c65005634e7eb4147e17e8328
+source-git-commit: d43b0791e67d43ff56a7ab85570b9639c2375e05
 workflow-type: tm+mt
 source-wordcount: '779'
 ht-degree: 0%
@@ -79,8 +79,8 @@ ht-degree: 0%
    + [Uw werk organiseren met projecten](organizing-projects.md)
 + Afbeeldingsgrootte {#image-sizing}
    + [Snel starten: Afbeeldingsgrootte](quick-start-image-sizing.md)
-   + [Master afbeeldingen uploaden](uploading-master-images.md)
-   + [Master afbeeldingen publiceren](publishing-master-images.md)
+   + [Primaire afbeeldingen uploaden](uploading-master-images.md)
+   + [Primaire afbeeldingen publiceren](publishing-master-images.md)
    + [Voorinstellingen afbeelding instellen](setting-image-presets.md)
    + [URL&#39;s koppelen aan uw webtoepassing](linking-urls-web-application.md)
 + Zoomen {#zoom}
@@ -166,7 +166,7 @@ ht-degree: 0%
    + [Een geüpload element verwijderen](deleting-uploaded-asset.md)
    + [Schijfgebruiksgegevens ophalen](getting-disk-usage-information.md)
    + [Een rasterafbeeldingselement uploaden](uploading-image-asset-or-vector.md)
-+ Master bestanden {#master-files}
++ Primaire bestanden {#master-files}
    + [Aanbevolen procedures voor het optimaliseren van de kwaliteit van uw afbeeldingen](best-practices-optimizing-quality-images.md)
    + [Afbeeldingen bewerken](editing-images.md)
    + [Afbeeldingen met hyperlinks maken](creating-image-maps.md)

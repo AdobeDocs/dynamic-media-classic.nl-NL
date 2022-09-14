@@ -2,7 +2,7 @@
 title: Gebruikersrollen van Media Portal
 description: Meer informatie over de verschillende gebruikersrollen die beschikbaar zijn in Media Portal in Adobe Dynamic Media Classic.
 uuid: 1bf2cc85-3655-428f-81ab-5fdaa1e9401b
-contentOwner: admin
+contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/media_portal
@@ -10,9 +10,9 @@ discoiquuid: 1bd7cb5d-156c-4dad-a725-e177f05ccedf
 feature: Dynamic Media Classic,Collaboration,Asset Management
 role: Admin,User
 exl-id: ce9b5a41-cc3e-4801-8080-607cf7be338b
-source-git-commit: 1d71cbe6e2493ac8d47e837a20e194b6ae7a22d4
+source-git-commit: d43b0791e67d43ff56a7ab85570b9639c2375e05
 workflow-type: tm+mt
-source-wordcount: '301'
+source-wordcount: '303'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ Het Portaal van media verstrekt de volgende rollen, elk met verschillende toegan
 
 * **[!UICONTROL Media Portal Contributor]** - U kunt bestanden en metagegevens uploaden, voorvertonen en doorbladeren in gebieden waarvoor een beheerder machtigingen heeft verleend. Een contribuant kan geen bestanden downloaden. Medewerkers kunnen metagegevens bewerken, de namen van bestanden wijzigen, bestanden naar andere mappen verplaatsen en bestanden verwijderen.
 
-* **[!UICONTROL Media Portal Contributor-User]** - Heeft toegang tot mappen en bestanden. Een medewerker-gebruiker kan door afbeeldingen en metagegevens bladeren, deze voorvertonen, downloaden en uploaden. Medewerkers kunnen de namen van bestanden wijzigen, bestanden naar andere mappen verplaatsen en bestanden verwijderen.
+* **[!UICONTROL Media Portal Contributor-User]** - Heeft toegang tot mappen en bestanden. Een gebruiker van de contribuant kan door afbeeldingen en metagegevens bladeren, deze voorvertonen, downloaden en uploaden. Gebruikers van Contribute kunnen de namen van bestanden wijzigen, bestanden naar andere mappen verplaatsen en bestanden verwijderen.
 
 In deze tabel worden de taken beschreven die gebruikers met verschillende rollen kunnen uitvoeren. Beheerders en gebruikers die een bijdrage leveren, kunnen alle taken uitvoeren die in deze tabel worden vermeld:
 

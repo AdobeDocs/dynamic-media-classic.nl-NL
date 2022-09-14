@@ -2,7 +2,7 @@
 title: Voorinstellingen afbeelding maken en inschakelen
 description: Leer hoe u voorinstellingen voor afbeeldingen maakt en inschakelt in Adobe Dynamic Media Classic.
 uuid: 62cfc6fa-da91-4c42-a3ed-10956384d633
-contentOwner: admin
+contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/media_portal
@@ -10,7 +10,7 @@ discoiquuid: 84257b2a-681c-4fe9-a6e5-3633c1d61d8c
 feature: Dynamic Media Classic,Collaboration,Image Presets,Asset Management
 role: Admin,User
 exl-id: 94c6c388-226b-4172-a6c7-a8dcf9c0f0cf
-source-git-commit: 1d71cbe6e2493ac8d47e837a20e194b6ae7a22d4
+source-git-commit: d43b0791e67d43ff56a7ab85570b9639c2375e05
 workflow-type: tm+mt
 source-wordcount: '258'
 ht-degree: 0%
@@ -31,10 +31,10 @@ Bij het exporteren van afbeeldingselementen gelden de volgende beperkingen:
 
 >[!NOTE]
 >
->Deze beperkingen gelden alleen voor het exporteren van afgeleide afbeeldingselementen, niet voor het exporteren van master bestanden.
+>Deze beperkingen gelden alleen voor het exporteren van afgeleide afbeeldingselementen, niet voor het exporteren van primaire bestanden.
 
-Zie [Voorinstellingen afbeelding](application-setup.md#image_presets) om voorinstellingen voor afbeeldingen te maken.
+Als u voorinstellingen voor afbeeldingen wilt maken, raadpleegt u [Voorinstellingen afbeelding](application-setup.md#image_presets).
 
-Om gebruikers toe te laten om het Beeld te kiezen vooraf instelt wanneer zij dossiers uitvoeren, zie [Specificerend de uitvoeropties beschikbaar aan gebruikers van het Portaal van Media](specifying-export-options-available-media.md#specifying_export_options_available_to_media_portal_users).
+Gebruikers kunnen tijdens het exporteren van bestanden voorinstellingen voor afbeeldingen kiezen op de website [Exportopties opgeven die beschikbaar zijn voor gebruikers van Media Portal](specifying-export-options-available-media.md#specifying_export_options_available_to_media_portal_users).
 
-Zie [Toegangsmachtigingen voor voorinstellingen afbeelding kiezen voor een groep](creating-media-portal-groups.md#choosing_image_preset_access_permissions_for_a_group) om te kiezen welke voorinstellingen afbeelding beschikbaar zijn voor de leden van een groep.
+Als u wilt kiezen welke voorinstellingen afbeelding beschikbaar zijn voor de leden van een groep, raadpleegt u [Toegangsrechten voor een groep kiezen voor Voorinstelling afbeelding](creating-media-portal-groups.md#choosing_image_preset_access_permissions_for_a_group).

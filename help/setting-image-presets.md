@@ -2,7 +2,7 @@
 title: Voorinstellingen afbeelding instellen
 description: Leer hoe u voorinstellingen voor afbeeldingen instelt in Adobe Dynamic Media Classic.
 uuid: 90530948-dee9-41bd-b39e-684140446abc
-contentOwner: admin
+contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/image_sizing
@@ -10,9 +10,9 @@ discoiquuid: 1ec39fe5-7b2a-4034-9570-6b5595f97052
 feature: Dynamic Media Classic,Image Presets
 role: User
 exl-id: 336802cc-b032-49b2-b2e6-d699bc997ee5
-source-git-commit: e47c22508230adbb1ece323be0c1413a3f27ad89
+source-git-commit: d43b0791e67d43ff56a7ab85570b9639c2375e05
 workflow-type: tm+mt
-source-wordcount: '639'
+source-wordcount: '640'
 ht-degree: 10%
 
 ---
@@ -21,36 +21,36 @@ ht-degree: 10%
 
 Net als bij een macro is een voorinstelling voor afbeeldingen een vooraf gedefinieerde verzameling opdrachten voor het vergroten of verkleinen en opmaken van de grootte die onder een naam zijn opgeslagen. Als u wilt weten hoe Voorinstellingen afbeelding werken, veronderstelt u dat elke productafbeelding op uw website moet worden weergegeven met twee verschillende grootten: 500 x 500 pixels en 150 x 150 pixels. U maakt twee voorinstellingen voor afbeeldingen, een voorinstelling genaamd &quot;Vergroten&quot;, waarmee u afbeeldingen met 500 x 500 pixels kunt weergeven en een voorinstelling genaamd &quot;Miniatuur&quot; om afbeeldingen met 150 x 150 pixels weer te geven. Als u afbeeldingen wilt leveren met de grootte &quot;Vergroten&quot; en &quot;Miniatuur&quot;, zoekt een Dynamic Media Image Server naar de definitie van de voorinstelling Afbeelding vergroten en Afbeelding miniatuur. Vervolgens genereert de server dynamisch een afbeelding met de grootte en opmaakspecificaties van elke voorinstelling voor afbeeldingen.
 
-Adobe Dynamic Media Classic wordt geleverd met verschillende &#39;aanbevolen procedures&#39; voor voorinstellingen voor afbeeldingen die al zijn ingesteld voor gebruik. Beheerders kunnen ook voorinstellingen voor afbeeldingen maken. Als u een voorinstelling voor afbeeldingen wilt maken, begint u helemaal opnieuw of u kunt een bestaande voorinstelling opnieuw gebruiken en opslaan onder een andere naam.
+Adobe Dynamic Media Classic wordt geleverd met verschillende &quot;best practice&quot;-voorinstellingen voor afbeeldingen die al zijn ingesteld voor gebruik. Beheerders kunnen ook voorinstellingen voor afbeeldingen maken. Als u een voorinstelling voor afbeeldingen wilt maken, begint u helemaal opnieuw of u kunt een bestaande voorinstelling opnieuw gebruiken en opslaan onder een andere naam.
 
 Afbeeldingen die kleiner worden wanneer ze dynamisch van een server worden geleverd, kunnen scherper en gedetailleerder worden. Daarom bevat elke voorinstelling voor afbeeldingen opmaakbesturingselementen waarmee u een afbeelding kunt optimaliseren wanneer deze met een bepaalde grootte wordt geleverd. Met deze besturingselementen zorgt u ervoor dat uw afbeeldingen scherp en duidelijk zijn wanneer ze aan uw website of toepassing worden geleverd.
 
 ## Een voorinstelling voor afbeeldingen maken {#creating-an-image-preset}
 
-U kunt uw eigen Voorinstellingen voor afbeeldingen maken als u een bedrijfsbeheerder bent. U kunt voorinstellingen voor afbeeldingen maken of beginnen met een standaardvoorinstelling voor afbeeldingen die beschikbaar is in Adobe Dynamic Media Classic, deze bewerken en opslaan onder een andere naam.
+U kunt uw eigen Voorinstellingen voor afbeeldingen maken als u een bedrijfsbeheerder bent. U kunt voorinstellingen voor afbeeldingen maken of beginnen met een standaardvoorinstelling voor afbeeldingen die door Adobe Dynamic Media Classic wordt verschaft, deze bewerken en opslaan onder een andere naam.
 
 **Een voorinstelling voor afbeeldingen maken:**
 
 1. Ga naar **[!UICONTROL Setup]** > **[!UICONTROL Image Presets]**.
 
-   U kunt naar de naam van een voorinstelling voor afbeeldingen op dit scherm bladeren om een voorvertoning van een bestaande voorinstelling voor afbeeldingen weer te geven. Als u een naam selecteert voor de voorinstelling Afbeelding, wijzigt de grootte en de weergave van de voorbeeldafbeelding in het voorvertoningsvenster.
+   U kunt naar de naam van een voorinstelling voor afbeeldingen op dit scherm bladeren om een voorvertoning van een bestaande voorinstelling voor afbeeldingen weer te geven. Als u een naam selecteert voor een voorinstelling voor afbeelding, wijzigt de grootte en de weergave van de voorbeeldafbeelding in het voorvertoningsvenster.
 
 1. Voer een van de volgende handelingen uit:
 
-   * **Een voorinstelling**  voor afbeeldingen maken - Selecteren  **[!UICONTROL Add]**.
-   * **Een voorinstelling**  voor afbeeldingen bewerken - Blader naar de voorinstelling voor afbeeldingen die het meest lijkt op de voorinstelling die u wilt maken en selecteer  **[!UICONTROL Edit]**.
+   * **Een voorinstelling voor afbeeldingen maken** - Selecteer **[!UICONTROL Add]**.
+   * **Een voorinstelling voor afbeeldingen bewerken** - Blader naar de voorinstelling voor afbeeldingen die het meest lijkt op de voorinstelling die u wilt maken en selecteer **[!UICONTROL Edit]**.
 
 1. Voer een naam in voor de voorinstelling voor afbeelding.
 1. Voer afmetingen voor de breedte en hoogte in pixels in. Deze metingen bepalen de grootte waarmee afbeeldingen worden geleverd.
-1. Vul het scherm Voorinstelling toevoegen of Voorinstelling bewerken in. Zie [Opties voor voorinstellingen afbeelding](application-setup.md#image_preset_options) voor meer informatie.
+1. Vul het scherm Voorinstelling toevoegen of Voorinstelling bewerken in. Zie voor meer informatie [Voorinstellingsopties voor afbeelding](application-setup.md#image_preset_options).
 
    Adobe Dynamic Media Classic raadt de volgende opties voor &#39;best practices&#39; aan om te beginnen:
 
-   * **[!UICONTROL Format]** - Kies JPEG of een andere indeling die aan uw vereisten voldoet. Alle webbrowsers ondersteunen de JPEG-afbeeldingsindeling. Deze biedt een goede balans tussen kleine bestandsgrootten en afbeeldingskwaliteit. JPEG-afbeeldingen gebruiken echter een compressieschema met dataverlies dat ongewenste afbeeldingsartefacten kan veroorzaken als de compressie-instelling te laag is. Daarom raadt Adobe Dynamic Media Classic aan de compressiekwaliteit (op de schuifregelaar) in te stellen op 75. Deze instelling biedt een goede balans tussen afbeeldingskwaliteit en kleine bestandsgrootte.
+   * **[!UICONTROL Format]** - Kies JPEG of een andere indeling die aan uw eisen voldoet. Alle webbrowsers ondersteunen de JPEG-afbeeldingsindeling. Deze biedt een goede balans tussen kleine bestandsgrootten en afbeeldingskwaliteit. JPEG-afbeeldingen gebruiken echter een compressieschema met dataverlies dat ongewenste afbeeldingsartefacten kan veroorzaken als de compressie-instelling te laag is. Daarom raadt Adobe Dynamic Media Classic aan de compressiekwaliteit (op de schuifregelaar) in te stellen op 75. Deze instelling biedt een goede balans tussen afbeeldingskwaliteit en kleine bestandsgrootte.
 
-   * **[!UICONTROL Sharpening]** - Selecteer Verscherpen niet (dit verscherpingsfilter biedt minder controle dan  **[!UICONTROL Unsharp Masking]** instellingen).
+   * **[!UICONTROL Sharpening]** - Selecteer Verscherpen niet (dit verscherpingsfilter biedt minder controle dan **[!UICONTROL Unsharp Masking]** instellingen).
 
-   * **[!UICONTROL Resample Mode]** - Kies  **[!UICONTROL Bi-Cubic]**.
+   * **[!UICONTROL Resample Mode]** - Kies **[!UICONTROL Bi-Cubic]**.
 
    * **[!UICONTROL Unsharp Masking]** (USM) - Voer de volgende instellingen in:
 
@@ -58,12 +58,12 @@ U kunt uw eigen Voorinstellingen voor afbeeldingen maken als u een bedrijfsbehee
    | --- | --- | --- | --- | --- |
    | Cross-Sell (miniatuur) | 75 x 75 | 1,5 | 0,8 | 5 |
    | Miniatuur | 150 x 150 | 1,1 | 1 | 5 |
-   | Hoofd | 350 x 350 | 3 | 3 | 6 |
+   | Hoofd | 350 x 350 | 1 | 1 | 6 |
    | Vergroten | 500 x 500 | 1,2 | 1,2 | 5 |
 
-1. Selecteer **[!UICONTROL Save]**.
+1. Selecteren **[!UICONTROL Save]**.
 
-De Adobe Dynamic Media Classic &quot;beste praktijken&quot;opties voor het creëren van Beeld hier worden vermeld die vooraf instelt zijn algemene aanbevelingen; verscherpen is zeer subjectief . Deze &quot;beste praktijken&quot;montages waren gebaseerd op een 2000x 2000 master beeld; de instellingen voor grotere of kleinere stramienen kunnen verschillend zijn. Als u de instellingen voor Onscherp masker wilt aanpassen, raadt Adobe Dynamic Media Classic deze bereiken aan:
+De Adobe Dynamic Media Classic-opties voor &#39;best practices&#39; voor het maken van voorinstellingen voor afbeeldingen in deze lijst zijn algemene aanbevelingen. verscherpen is zeer subjectief . Deze &quot;best practices&quot;-instellingen waren gebaseerd op een primaire afbeelding van 2000 x 2000; de instellingen voor grotere of kleinere primaire bestanden kunnen verschillend zijn. Adobe Dynamic Media Classic raadt het volgende bereik aan als u de instellingen voor Onscherp masker wilt aanpassen:
 
 * **[!UICONTROL Amount]** - tussen 0,8 en 1,5.
 
@@ -71,7 +71,7 @@ De Adobe Dynamic Media Classic &quot;beste praktijken&quot;opties voor het creë
 
 * **[!UICONTROL Threshold]** - Van 1 tot en met 6.
 
-Als u een voorinstelling voor afbeelding wilt verwijderen, selecteert u deze in het scherm Voorinstellingen afbeelding en selecteert u **[!UICONTROL Delete]**.
+Als u een voorinstelling voor afbeelding wilt verwijderen, selecteert u deze in het scherm Voorinstellingen afbeelding en selecteert u vervolgens **[!UICONTROL Delete]**.
 
 >[!MORELIKETHIS]
 >

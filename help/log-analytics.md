@@ -2,7 +2,7 @@
 title: Aanmelden bij Adobe Analytics
 description: Leer hoe u zich vanuit Adobe Dynamic Media Classic aanmeldt bij Adobe Analytics.
 uuid: 5614babe-1097-4228-a3dc-27e5a25366d5
-contentOwner: admin
+contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/adobe_analytics_instrumentation_kit
@@ -10,9 +10,9 @@ discoiquuid: e5b510a8-8b7f-4c60-869e-d664a8157e63
 feature: Dynamic Media Classic
 role: Data Engineer,Admin,User
 exl-id: 261b8f7c-c61c-4ce3-b9dc-8549347aca2e
-source-git-commit: d54290ca376096965c2908444230b6a0071fa43e
+source-git-commit: d43b0791e67d43ff56a7ab85570b9639c2375e05
 workflow-type: tm+mt
-source-wordcount: '756'
+source-wordcount: '758'
 ht-degree: 0%
 
 ---
@@ -32,7 +32,7 @@ Wanneer u zich aanmeldt, kunt u de Experience Cloud Org-id invoeren om de meest 
 Begin met het integreren van Dynamic Media Classic met Adobe Analytics OAuth. De Adobe Analytics OAuth-integratie met Dynamic Media Classic wordt doorgaans slechts eenmaal per gebruiker uitgevoerd.
 
 1. Toegang [Adobe Developer Console](https://developer.adobe.com/console). Zorg ervoor dat uw account beheerdersmachtigingen heeft voor de organisatie waarvoor de integratie is vereist.
-1. Selecteer in de rechterbovenhoek van de startpagina het juiste bedrijf in de vervolgkeuzelijst. (Het onderstaande screenshot is uitsluitend ter informatie; de werkelijke bedrijfsnaam die u selecteert, kan variëren.)
+1. Selecteer in de rechterbovenhoek van de startpagina het juiste bedrijf in de vervolgkeuzelijst. (Het onderstaande screenshot dient uitsluitend ter informatie; de daadwerkelijke bedrijfsnaam die u selecteert, kan variëren.)
 
    ![Een nieuw project maken](assets/analytics-oauth1.png)
 
@@ -73,7 +73,6 @@ Begin met het integreren van Dynamic Media Classic met Adobe Analytics OAuth. De
 >* Een nieuw rapport wordt toegevoegd in Analytics en de gebruiker wil beginnen gegevens naar dat nieuwe rapport te verzenden.
 >* De trackingserver wordt bijgewerkt in Adobe Analytics.
 >* Een nieuwe volgvariabele wordt geïntroduceerd in een rapport en u wilt een specifieke variabele van de Kijker in het gebruikersinterface van Dynamic Media Classic met die nieuwe variabele van de Analytics verbinden.
-
 >
 
 

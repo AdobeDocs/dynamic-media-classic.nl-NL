@@ -1,8 +1,8 @@
 ---
 title: Elementen testen voordat ze openbaar worden gemaakt
-description: Leer hoe u elementen test in Adobe Dynamic Media Classic voordat u ze openbaar maakt.
+description: Leer hoe u elementen in Adobe Dynamic Media Classic kunt testen voordat u ze openbaar maakt.
 uuid: 5e8f3bec-6cf1-408e-8ea1-aebde0012a70
-contentOwner: admin
+contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/upload_and_publish_assets
@@ -10,7 +10,7 @@ discoiquuid: 52fadf99-7d11-46f7-8483-a9f87ffc2f67
 feature: Dynamic Media Classic,Asset Management
 role: User
 exl-id: fd78d535-391e-43eb-a8aa-25fa6c2885cb
-source-git-commit: f92109182283f3bf046604b1b6910180f858d73e
+source-git-commit: d43b0791e67d43ff56a7ab85570b9639c2375e05
 workflow-type: tm+mt
 source-wordcount: '1044'
 ht-degree: 0%
@@ -31,23 +31,23 @@ Maak indien gewenst een testomgeving in plaats van elementen openbaar te maken, 
 
 >[!NOTE]
 >
->Beveiligd testen heeft geen invloed op de toegang tot Adobe Dynamic Media Classic. Adobe Dynamic Media Classic blijft consistent en vereist de gebruikelijke referenties voor toegang tot Adobe Dynamic Media Classic en verwante webservices.
+>Beveiligd testen heeft geen invloed op de toegang tot Adobe Dynamic Media Classic. De beveiliging van Adobe Dynamic Media Classic blijft consistent en vereist de gebruikelijke aanmeldingsgegevens voor toegang tot Adobe Dynamic Media Classic en verwante webservices.
 
 ## Hoe Veilig testen werkt {#how-secure-testing-works}
 
 De meeste bedrijven voeren hun Internet achter een firewall in werking. De toegang tot Internet is mogelijk door bepaalde routes en typisch door een beperkte waaier van openbare IP adressen.
 
-Van uw collectief netwerk, kunt u uw openbaar IP adres ontdekken gebruikend websites zoals [https://www.whatismyip.com](https://www.whatismyip.com/) of deze informatie van uw collectieve organisatie van IT verzoeken.
+Van uw collectief netwerk, kunt u uw openbaar IP adres uitvinden gebruikend websites zoals [https://www.whatismyip.com](https://www.whatismyip.com/) of vraag deze informatie aan bij uw IT-organisatie van uw bedrijf.
 
-Met het Veilige Testen, vestigt Adobe Dynamic Media Classic een specifieke server van het Beeld voor het opvoeren van milieu&#39;s of interne toepassingen. Om het even welk verzoek aan deze server controleert het oorsprongIP adres. Als het inkomende verzoek niet binnen de goedgekeurde lijst van IP adressen is, is een mislukkingsreactie teruggekeerd. De Adobe Dynamic Media Klassieke Beheerder van het Bedrijf vormt de goedgekeurde lijst van IP adressen voor het Veilige Testen van hun bedrijf milieu.
+Met het Veilige Testen, vestigt Adobe Dynamic Media Classic een specifieke Server van het Beeld voor het opvoeren van milieu&#39;s of interne toepassingen. Om het even welk verzoek aan deze server controleert het oorsprongIP adres. Als het inkomende verzoek niet binnen de goedgekeurde lijst van IP adressen is, is een mislukkingsreactie teruggekeerd. De Beheerder van het Bedrijf van Adobe Dynamic Media Classic vormt de goedgekeurde lijst van IP adressen voor het Veilige Testen van hun bedrijf milieu.
 
 Omdat de plaats van het originele verzoek moet worden bevestigd, wordt het verkeer van de Veilige Testende dienst niet verpletterd door een netwerk van de inhoudsdistributie zoals het openbare verkeer van de Server van het Beeld van Dynamic Media. Verzoeken naar de service Beveiligd testen hebben een iets hogere latentie dan de openbare Dynamic Media Image Servers.
 
-Niet-gepubliceerde middelen zijn direct beschikbaar bij de services voor het beveiligen van tests, zonder dat ze hoeven te worden gepubliceerd. Op deze manier kunt u een voorvertoning uitvoeren voordat elementen worden gepubliceerd naar de openbare server met afbeeldingen.
+Niet-gepubliceerde middelen zijn direct beschikbaar bij de services voor het beveiligen van tests, zonder dat ze hoeven te worden gepubliceerd. Op deze manier kunt u een voorvertoning uitvoeren voordat elementen worden gepubliceerd naar hun openbare afbeeldingsserver.
 
 >[!NOTE]
 >
->De veilige Testende diensten gebruiken de Server van de Catalogus die met een interne publicatiecontext wordt gevormd. Daarom als uw bedrijf wordt gevormd om te publiceren om het Veilige Testen te beveiligen, om het even welke geuploade activa in Adobe Dynamic Media Klassiek onmiddellijk beschikbaar op de Veilige Testende diensten te worden. Deze functionaliteit is van toepassing, ongeacht of de elementen zijn gemarkeerd voor publiceren tijdens het uploaden.
+>De veilige Testende diensten gebruiken de Server van de Catalogus die met een interne publicatiecontext wordt gevormd. Als uw bedrijf is geconfigureerd om te publiceren voor Secure Testing, worden geüploade middelen in Adobe Dynamic Media Classic daarom direct beschikbaar voor de services voor Beveiligd testen. Deze functionaliteit is van toepassing, ongeacht of de elementen zijn gemarkeerd voor publiceren tijdens het uploaden.
 
 De Secure Testing-services bieden momenteel ondersteuning voor de volgende typen middelen en functies:
 
@@ -65,7 +65,7 @@ Last Modified Date:
 * Vignettes (aanvragen van Server renderen).
 * Serveraanvragen renderen (ondersteund, maar moet expliciet door de klant worden aangevraagd).
 * Sets, inclusief afbeeldingssets, eCatalog, rendersets en mediasets.
-* Standaard Adobe Dynamic Media Classic-viewers voor rijke media.
+* Standaard Adobe Dynamic Media Classic-viewers met rijke media.
 * Adobe Dynamic Media Classic OnDemand JSP-pagina&#39;s.
 * Statische inhoud, zoals PDF-bestanden en progressief bediende video&#39;s.
 * HTTP-videostreaming.
@@ -73,14 +73,14 @@ Last Modified Date:
 
 De volgende elementtypen en -functies worden momenteel niet ondersteund:
 
-* Adobe Dynamic Media Klassieke Info of eCatalog onderzoek
+* Zoeken in Adobe Dynamic Media Classic Info of eCatalog
 * RTMP-videostreaming
 * Web-to-print
 * UGC-services (door de gebruiker gegenereerde inhoud)
 
 >[!IMPORTANT]
 >
->Ondersteuning voor nieuwe of bestaande UGC-elementen voor vectorafbeeldingen in Adobe Dynamic Media Classic is beëindigd op 30 september 2021.
+>De ondersteuning voor nieuwe of bestaande UGC-vectorafbeeldingselementen in Adobe Dynamic Media Classic is afgelopen op 30 september 2021.
 
 ## De service Beveiligde tests testen {#testing-the-secure-testing-service}
 
@@ -103,19 +103,19 @@ Last Modified Date:
  -->
 
 1. Neem contact op met de klantenservice van Adobe en verzoek hen om Beveiligingstests op uw account in te schakelen.
-1. Ga in Adobe Dynamic Media Classic op de algemene navigatiebalk naar **[!UICONTROL Setup]** > **[!UICONTROL Publish Setup]** > **[!UICONTROL Image Server]**.
-1. Selecteer **[!UICONTROL Test Image Serving]** in de vervolgkeuzelijst op de pagina Publiceren afbeeldingsserver.**[!UICONTROL Publish Context]**
-1. Voor de Filter van het Adres van de Cliënt, uitgezochte **[!UICONTROL Add]**.
+1. Ga in Adobe Dynamic Media Classic op de Global Navigation Bar naar **[!UICONTROL Setup]** > **[!UICONTROL Publish Setup]** > **[!UICONTROL Image Server]**.
+1. Op de pagina van de Server van het Beeld publiceren, in **[!UICONTROL Publish Context]** vervolgkeuzelijst, selecteert u **[!UICONTROL Test Image Serving]**.
+1. Voor de Filter van het Adres van de Cliënt, selecteer **[!UICONTROL Add]**.
 1. Schakel het selectievakje in zodat het adres is ingeschakeld en typ vervolgens een IP-adres en een netmasker in de desbetreffende tekstvelden.
 
    >[!NOTE]
    >
-   >Als u één enkel IP adres en netto masker toevoegt, kan dat adres activavraag maken. Nochtans, zijn om het even welke andere IP adressen en netmaskers die u toevoegt niet toegestaan om activa te maken vraag. Als dusdanig, denk na onbruikbaar makend (draai weg) de controledoos in de stap hierboven om de capaciteit uit te zetten om een IP adres en een netto masker te specificeren. Het doen van dit laat effectief *alle* IP adressen toe om activa vraag te maken, en zij verschijnen allen.
+   >Als u één enkel IP adres en netto masker toevoegt, kan dat adres activavraag maken. Nochtans, zijn om het even welke andere IP adressen en netmaskers die u toevoegt niet toegestaan om activa te maken vraag. Als dusdanig, denk na onbruikbaar makend (draai weg) de controledoos in de stap hierboven om de capaciteit uit te zetten om een IP adres en een netto masker te specificeren. Zo effectief mogelijk maken *alles* IP adressen om activavraag te maken, en zij allen verschijnen.
 
 1. Voer een van de volgende handelingen uit:
    * Herhaal de vorige twee stappen als u meer IP adressen moet toevoegen.
    * Ga door met de volgende stap.
-1. Selecteer **[!UICONTROL Save]** linksonder op de pagina Publiceren afbeeldingsserver
+1. Linksonder op de pagina Publiceren afbeeldingsserver selecteert u **[!UICONTROL Save]**
 1. Upload de gewenste afbeeldingen naar uw Adobe Dynamic Media Classic-account.
 
    Zie [Bestanden uploaden](uploading-files.md#uploading_files).
@@ -124,8 +124,8 @@ Last Modified Date:
 
    Zie [Bestanden publiceren](publishing-files.md#publishing_files).
 
-1. Bepaal de naam van uw service Beveiligd testen door naar **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL General Settings]** te gaan.
-1. Voor de pagina van de Montages van de Toepassing Algemene, onder de groep van Servers, vind de naam rechts van **[!UICONTROL Test Publish Context Server Name]**.
+1. Bepaal de naam van uw Veilige het Testen dienst door te gaan **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL General Settings]**.
+1. Zoek op de pagina Algemene instellingen van toepassing de naam rechts van **[!UICONTROL Test Publish Context Server Name]**.
 
 Neem contact op met de Adobe-service als de servernaam ontbreekt of als de URL&#39;s naar de server niet werken.
 
@@ -144,7 +144,7 @@ Voer de volgende tests uit:
 
    Vanuit het bedrijfsnetwerk dat door het eerder gedefinieerde IP-adresbereik wordt geïdentificeerd, worden in de testversie van de website alle afbeeldingen weergegeven, ongeacht of deze zijn gemarkeerd voor publicatie of niet. Zo kunt u testen zonder dat u per ongeluk afbeeldingen ter beschikking stelt voordat u een voorvertoning van goedkeuring of het product start.
 
-   Bevestig dat in de openbare versie van uw site gepubliceerde middelen worden weergegeven zoals die eerder met Adobe Dynamic Media Classic werden ervaren.
+   Bevestig dat in de openbare versie van uw site de gepubliceerde middelen worden weergegeven zoals die eerder met Adobe Dynamic Media Classic zijn gebruikt.
 
 1. Van buiten uw bedrijfsnetwerk, verifieer dat nonpublished activa (d.w.z. unmarked voor publiceren) tegen derdetoegang worden beschermd.
 

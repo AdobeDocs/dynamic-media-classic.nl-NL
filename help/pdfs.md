@@ -2,7 +2,7 @@
 title: Werken met PDF
 description: Leer hoe u met PDF werkt in Adobe Dynamic Media Classic.
 uuid: 26d70d28-9393-49b1-9051-d70456deca67
-contentOwner: admin
+contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/master_files
@@ -10,9 +10,9 @@ discoiquuid: 5a073de3-6b1d-4c3e-8c03-9182f9f3874a
 feature: Dynamic Media Classic,Asset Management
 role: User
 exl-id: 02892514-61fe-48ba-a2e3-eeb30580a1e4
-source-git-commit: 92a28b7868e03802f4ef1c113ec3f8b34f57ed56
+source-git-commit: d43b0791e67d43ff56a7ab85570b9639c2375e05
 workflow-type: tm+mt
-source-wordcount: '657'
+source-wordcount: '661'
 ht-degree: 0%
 
 ---
@@ -95,4 +95,4 @@ U kunt de drukkersmarkeringen handmatig van de zijkanten van de pagina&#39;s in 
 1. Selecteer in het menu Uitsnijden de optie **[!UICONTROL Manual]**.
 1. Geef pixelinstellingen op in de tekstvakken Boven, Rechts, Onder en Links om vanaf de bovenkant, onder en zijkanten van pagina&#39;s bij te snijden.
 
-Hoeveel van de pagina wordt bijgesneden, is afhankelijk van de resolutie PX/Inch-instelling die u voor het PDF-bestand hebt ingevoerd. Als u bijvoorbeeld 150 (de standaardinstelling) invoert als resolutie PX/Inch en 75 pixels van de zijkanten van pagina&#39;s bijsnijdt, wordt een halve inch bijgesneden. bij 150 pixels per inch is 75 pixels gelijk aan een halve inch.
+Hoeveel van de pagina wordt bijgesneden, is afhankelijk van de resolutie PX/Inch-instelling die u voor het PDF-bestand hebt ingevoerd. Stel dat u 150 (de standaardinstelling) invoert als de instelling Resolutie PX/inch. Vervolgens snijdt u 75 pixels uit van de zijkanten van pagina&#39;s. In dat geval: 0,5 inch. is uitgesneden. Bij 150 pixels per inch is 75 pixels gelijk aan een halve inch.

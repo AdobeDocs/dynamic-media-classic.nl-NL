@@ -2,7 +2,7 @@
 title: Elementwijzigingen delen met peers in real-time
 description: Leer hoe u wijzigingen in bedrijfsmiddelen in real-time kunt delen met collega's in Adobe Dynamic Media Classic.
 uuid: 13fa4f6e-66bf-4682-96a9-0e7040706f53
-contentOwner: admin
+contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/managing_assets
@@ -10,9 +10,9 @@ discoiquuid: ca7c8a7f-76f4-4a25-8c36-617a029e55be
 feature: Dynamic Media Classic,Asset Management,Collaboration
 role: Admin,User
 exl-id: d74b4966-fe43-4349-bbe1-3a379c49bf1f
-source-git-commit: e47c22508230adbb1ece323be0c1413a3f27ad89
+source-git-commit: d43b0791e67d43ff56a7ab85570b9639c2375e05
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '277'
 ht-degree: 0%
 
 ---
@@ -32,6 +32,6 @@ Nadat er een wijziging is aangebracht in de oorspronkelijke client, worden alle 
 
 Wanneer u zich aanmeldt, wordt u gevraagd peer-updates toe te staan of te weigeren. U kunt de keuze &quot;onthouden&quot;, zodat u slechts één keer wordt gevraagd. Als u uw keuze wilt wissen, verwijdert u de desbetreffende site uit het deelvenster Peer-ondersteund netwerken in Algemene instellingen.
 
-Als u een middel bewerkt dat door een peer wordt gewijzigd, wordt u gevraagd de wijziging in te voeren in de builder of editor. Als u **[!UICONTROL Yes]** kiest, dan verwerpt de bouwer of de redacteur om het even welke veranderingen die aan het element worden aangebracht en voert het bijgewerkte element in. Als u **[!UICONTROL No]** kiest, is de activa onveranderd in de bouwer of de redacteur en om het even welke veranderingen u hebt aangebracht blijven in die zitting bestaan.
+Als u een middel bewerkt dat door een peer wordt gewijzigd, wordt u gevraagd de wijziging in te voeren in de builder of editor. Als u **[!UICONTROL Yes]**, verwijdert de builder of editor eventuele wijzigingen die in het element zijn aangebracht en importeert het bijgewerkte element. Als u **[!UICONTROL No]**, blijft het element ongewijzigd in de builder of editor en blijven eventuele wijzigingen die u hebt aangebracht, in die sessie bestaan.
 
 Wanneer u het element opslaat, ontvangt u een melding dat er een nieuwere versie bestaat en wordt u gevraagd of u het element wilt overschrijven met uw wijzigingen.

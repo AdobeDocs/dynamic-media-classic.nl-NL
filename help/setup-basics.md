@@ -1,8 +1,8 @@
 ---
-title: 'Basisbeginselen van instellingen '
+title: Basisbeginselen van instellingen
 description: Leer hoe u het scherm Setup kunt gebruiken om uw persoonlijke instellingen in Adobe Dynamic Media Classic in te voeren. Als u een beheerder bent, opstelling uw bedrijfmontages.
 uuid: 38f487d7-33f2-4a9e-a32e-bb08f3dd3284
-contentOwner: admin
+contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/getting_started
@@ -10,7 +10,7 @@ discoiquuid: 753677ad-9957-43d9-97ad-bd73a5da5ccb
 feature: Dynamic Media Classic
 role: Admin,User
 exl-id: 7e99de68-a5de-4b42-9754-c394e9b41369
-source-git-commit: 352b1c383195fa03294ad3501207d63f3cfe3e42
+source-git-commit: d43b0791e67d43ff56a7ab85570b9639c2375e05
 workflow-type: tm+mt
 source-wordcount: '249'
 ht-degree: 0%
@@ -23,14 +23,14 @@ Gebruik de pagina Adobe Dynamic Media Classic Setup om uw persoonlijke instellin
 
 Welke instellingen beschikbaar zijn op deze pagina, is afhankelijk van uw status als gebruiker of beheerder:
 
-* Gebruikers hebben alleen toegang tot **[!UICONTROL Personal Setup]** en de rekeningen van ondernemingen waarvan zij lid zijn; zij kunnen geen administratieve taken uitvoeren.
-* Beheerders hebben toegang tot **[!UICONTROL Personal Setup]** en kunnen hun eigen bedrijfsaccounts bekijken en beheren. Zij kunnen alle functies van de toepassingsopstelling, en alle beleidsfuncties, met inbegrip van het toevoegen van beheerders en gebruikers ook uitvoeren.
+* Gebruikers hebben alleen toegang **[!UICONTROL Personal Setup]** en de rekeningen van de vennootschappen waarvan zij lid zijn; zij kunnen geen administratieve taken uitvoeren.
+* Beheerders hebben toegang tot **[!UICONTROL Personal Setup]** en hun eigen bedrijfsrekeningen te bekijken en te beheren. Zij kunnen alle functies van de toepassingsopstelling, en alle beleidsfuncties, met inbegrip van het toevoegen van beheerders en gebruikers ook uitvoeren.
 
-Beheerders kunnen ook voorinstellingen voor afbeeldingen en viewervoorinstellingen instellen op de pagina **[!UICONTROL Setup]**:
+Beheerders kunnen ook voorinstellingen voor afbeeldingen en viewervoorinstellingen instellen in het dialoogvenster **[!UICONTROL Setup]** pagina:
 
-* **Voorinstellingen**  afbeelding - Voorinstellingen afbeelding zijn opgeslagen indelingen voor de weergave van primaire afbeeldingen in verschillende formaten en formaten.
+* **Voorinstellingen afbeelding** - Voorinstellingen voor afbeeldingen zijn opgeslagen indelingen voor de weergave van primaire afbeeldingen in verschillende formaten en formaten.
 
-* **Voorinstellingen**  viewer - Voorinstellingen viewer bepalen hoe de rijke media worden weergegeven wanneer deze in een viewer worden weergegeven.
+* **Voorinstellingen viewer** - Viewer Presets bepaalt hoe de rijke media worden weergegeven in een viewer.
 
 >[!MORELIKETHIS]
 >

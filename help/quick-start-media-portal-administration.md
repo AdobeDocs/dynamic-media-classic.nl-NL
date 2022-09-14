@@ -1,8 +1,8 @@
 ---
-title: '"Snel starten: Media Portal"'
+title: "Snel starten: Media Portal"
 description: Een inleiding en Snel Begin aan het Portaal van Media om u te helpen snel met de technieken en het beleid van het Portaal van Media in Adobe Dynamic Media Classic opstaan.
 uuid: 0dbd6146-b392-4e03-955b-0b323b654b9f
-contentOwner: admin
+contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/media_portal
@@ -10,7 +10,7 @@ discoiquuid: 1385a092-0b2c-4e05-ad1e-ce3685022300
 feature: Dynamic Media Classic,Collaboration,Asset Management
 role: Admin,User
 exl-id: bff613c8-a93b-4cca-94db-8cad1cc36296
-source-git-commit: 352b1c383195fa03294ad3501207d63f3cfe3e42
+source-git-commit: d43b0791e67d43ff56a7ab85570b9639c2375e05
 workflow-type: tm+mt
 source-wordcount: '872'
 ht-degree: 0%
@@ -37,7 +37,7 @@ Het volgende Snelle Begin wordt ontworpen om u met het beleid van het Portaal va
 
 De gebruikers van het Portaal van media vallen in drie rollen - gebruiker, medewerker, en gebruiker-medewerker. Elke rol kan een verschillende reeks taken uitvoeren. Bijvoorbeeld, kan een contribuant dossiers en omslagen anders noemen en schrappen, maar een gebruiker kan niet die taken doen. Begrijp de verschillende rollen zodat wanneer u gebruikers toevoegt, u begrijpt welke verantwoordelijkheden u hen geeft.
 
-Zie [Gebruikersrollen van het Portaal van media](media-portal-user-roles.md#media_portal_user_roles).
+Zie [Gebruikersrollen van Media Portal](media-portal-user-roles.md#media_portal_user_roles).
 
 ## 2. Groepen maken om gebruikers te beheren
 
@@ -61,28 +61,28 @@ Zie [FTP-accounts beheren](ftp-accounts.md#managing_ftp_accounts).
 >
 >Alleen beheerders van Media Portal kunnen deze FTP-accounts beheren. Bovendien kunnen alleen gebruikers met de rol van Medewerker-Gebruiker van Media Portal of Medewerker van Media Portal bestanden uploaden.
 
-Zie [Gebruikersrollen van het Portaal van media](media-portal-user-roles.md#media_portal_user_roles).
+Zie [Gebruikersrollen van Media Portal](media-portal-user-roles.md#media_portal_user_roles).
 
 ## 5. Exportopties opgeven
 
-Gebruikers van Media Portal kunnen tijdens het exporteren van bestanden de bestanden opnieuw opmaken en oorspronkelijke master bestanden exporteren, als u ze hiervoor toestemming geeft. Als beheerder bepaalt u hoe gebruikers bestanden exporteren.
+Gebruikers van Media Portal kunnen tijdens het exporteren van bestanden de bestanden opnieuw opmaken en oorspronkelijke primaire bestanden exporteren, als u ze hiervoor toestemming geeft. Als beheerder bepaalt u hoe gebruikers bestanden exporteren.
 
-Zie [Exportopties opgeven die beschikbaar zijn voor gebruikers van Media Portal](specifying-export-options-available-media.md#specifying_export_options_available_to_media_portal_users).
+Zie [Beschikbare exportopties voor gebruikers van Media Portal opgeven](specifying-export-options-available-media.md#specifying_export_options_available_to_media_portal_users).
 
 ## 6. Voorinstellingen afbeelding maken
 
 Een voorinstelling voor afbeeldingen is een verzameling vooraf gedefinieerde instellingen die de grootte, afbeeldingskwaliteit, indeling, resolutie en andere aspecten van de weergave van een afbeelding tijdens het exporteren wijzigen. U kunt Voorinstellingen afbeelding maken om te bepalen hoe afbeeldingen opnieuw worden opgemaakt wanneer gebruikers deze exporteren.
 
-Zie [Voorinstellingen voor afbeeldingen maken en inschakelen](creating-enabling-image-presets.md#creating_and_enabling_image_presets).
+Zie [Voorinstellingen afbeelding maken en inschakelen](creating-enabling-image-presets.md#creating_and_enabling_image_presets).
 
 ## 7. Voorinstellingen voor metagegevens en door de gebruiker gedefinieerde metagegevensvelden maken
 
-Met metagegevens wordt een bestand beschreven en geïdentificeerd. wordt gebruikt voor het zoeken naar en ordenen van elementen. Om ervoor te zorgen dat de meta-gegevens correct worden ingegaan en dat de meta-gegevensgebieden die gegevens vereisen worden ingevuld, kunt u meta-gegevensvoorinstellingen tot stand brengen. Een voorinstelling voor metagegevens is een vooraf gedefinieerde set metagegevensitems. U kunt ook metagegevensvelden maken die een unieke beschrijving geven van de bestanden waarmee u werkt.
+Met metagegevens wordt een bestand beschreven en geïdentificeerd. wordt gebruikt voor het zoeken naar en het ordenen van elementen. Om ervoor te zorgen dat de meta-gegevens correct worden ingegaan en dat de meta-gegevensgebieden die gegevens vereisen worden ingevuld, kunt u meta-gegevensvoorinstellingen tot stand brengen. Een voorinstelling voor metagegevens is een vooraf gedefinieerde set metagegevensitems. U kunt ook metagegevensvelden maken die een unieke beschrijving geven van de bestanden waarmee u werkt.
 
-Zie [Efficiënter gebruik van metagegevens maken](making-efficient-metadata.md#making_more_efficient_use_of_metadata).
+Zie [Efficiënter gebruik van metagegevens](making-efficient-metadata.md#making_more_efficient_use_of_metadata).
 
 ## 8. De pagina Media Portal aanpassen
 
 Met de Media Portal-stijlinstellingen kunt u de pagina Media Portal voorzien van uw bedrijfslogo en -kleuren. Gebruik de stijlinstellingen om uw bedrijf branding op het Portaal van Media te zetten.
 
-Zie [De pagina van het Portaal van Media aanpassen](customizing-media-portal-screen.md#customizing_the_media_portal_screen).
+Zie [De pagina Media Portal aanpassen](customizing-media-portal-screen.md#customizing_the_media_portal_screen).

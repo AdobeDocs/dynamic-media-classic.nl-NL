@@ -2,16 +2,16 @@
 title: Bestanden uploaden
 description: Leer hoe u bestanden uploadt in Adobe Dynamic Media Classic.
 uuid: b3025f84-4f28-4276-bc9c-f0c0c2a26e12
-contentOwner: admin
+contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 discoiquuid: b2bc3bf9-e313-481a-8670-c3bedde21b1a
 feature: Dynamic Media Classic,Asset Management
 role: User
 exl-id: 8dfcfb3f-6472-4efd-bc87-d5111eee45ce
-source-git-commit: ec1a981dd5cfa92ce4ae8e2676dd131d1509216f
+source-git-commit: d43b0791e67d43ff56a7ab85570b9639c2375e05
 workflow-type: tm+mt
-source-wordcount: '3714'
+source-wordcount: '3717'
 ht-degree: 0%
 
 ---
@@ -85,7 +85,7 @@ Voor optimale resultaten met het Adobe Dynamic Media Classic-programma moet u de
 | SVG-bestanden | Schaalbare vectorafbeeldingsbestanden die servers van Image Serving kunnen renderen. |
 | XML-bestanden | Bestanden die voorbewerkingsregels definiëren die worden gebruikt om het pad te wijzigen en delen van verzoeken te zoeken. |
 | Cascading Style Sheet-bestanden. | CSS-skins uploaden om HTML5-viewers aan te passen. |
-| JavaScript-bestanden | JavaScript-bestanden worden gebruikt voor viewerinstrumentatie voor het bevatten van accountgegevens. Adobe Security raadt dit type element alleen aan voor clientaccounts die een afzonderlijk domein in gebruik hebben voor levering (om cross-site scripting te voorkomen). |
+| JavaScript-bestanden | JavaScript-bestanden worden gebruikt voor viewerinstrumentatie voor het bevatten van accountgegevens. Adobe Security raadt dit type element alleen aan voor clientaccounts die een afzonderlijk domein in gebruik hebben voor levering (om scripts die verwijzen naar andere sites te voorkomen). |
 
 >[!NOTE]
 >
@@ -101,7 +101,7 @@ De volgende bestandstypen kunnen worden gepubliceerd:
 * Audiobestanden
 * CSS
 * JavaScript (wanneer het bedrijf met zijn eigen domein wordt gevormd)
-* Master video
+* Primaire video
 * PDF (wanneer PDF is gemarkeerd voor publiceren na uploaden, om levering van alle PDF voor bestaande eCatalog/PDF-workflow te voorkomen)
 * PrX-video
 * SVG
@@ -114,14 +114,14 @@ Adobe Dynamic Media Classic biedt geen optie om een voorbeeld-URL van statische 
 
 Omdat bestandsextensies tijdens het uploaden worden verwijderd uit bestandsnamen, staat het systeem niet toe dat bestanden dezelfde hoofdnaam hebben. In het Adobe Dynamic Media Classic-systeem wordt de bestandsnaam van het element minus de bestandsnaamextensie de element-id voor het element. Daarom kunnen geen twee elementen dezelfde naam hebben.
 
-Zorg ervoor dat alle gebruikers in uw bedrijf deze regels voor het benoemen van bestanden begrijpen:
+Zorg ervoor dat alle gebruikers in uw bedrijf deze regels voor het noemen van dossiers begrijpen:
 
 * Element-id&#39;s met dezelfde exacte naam zijn niet toegestaan in het systeem.
 * Namen van element-id zijn hoofdlettergevoelig.
 * Als beste praktijken, zorg ervoor dat activa IDs geen lege ruimten (bijvoorbeeld, zwarte jasje.tif en blauw jpg) bevat. Adobe Dynamic Media Classic ASCII codeert lege spaties in elementnamen wanneer elementnamen worden gebruikt om URL-tekenreeksen samen te stellen. Deze ASCII-codes zijn moeilijk leesbaar, waardoor het lezen van URL&#39;s moeilijker kan worden.
 * Taalspecifieke tekens zijn toegestaan in bestandsnamen. De volgende tekens zijn echter niet toegestaan in bestandsnamen:
 
-   \ ; / ? : @ &amp; = + $ , * &quot; &lt; > | &#39; { } %
+   \ ; / ? : @ &amp; = + $ , &#42; &quot; &lt; > | &#39; { } %
 
    Als een bestandsnaam een of meer van de bovenstaande tekens bevat, worden de tekens tijdens het uploaden uit de bestandsnaam verwijderd.
 
@@ -279,7 +279,7 @@ Zie [Voorinstellingen batchset](application-setup.md#batch_set_presets).
 
 Wanneer u items uploadt met gebruik van FTP, kunt u een volgende taak plannen die moet beginnen wanneer het uploaden is voltooid. Als andere taken volgens de planning moeten beginnen, wordt de taak die u hier plant, na deze taken in de wachtrij geplaatst.
 
-De nieuwe baan verzendt een bericht naar het adres u specificeert zodat de code bij die plaats kan worden teweeggebracht. Deze vervolgpublicatietaak gebruikt dezelfde naam als de uploadtaak, maar met de tekst *Pub_* toegevoegd aan het begin.
+De nieuwe baan verzendt een bericht naar het adres dat u specificeert zodat de code bij die plaats kan worden teweeggebracht. Deze vervolgpublicatietaak gebruikt dezelfde naam als de uploadtaak, maar met de tekst *Pub_* toegevoegd aan het begin.
 
 **Een upload volgen met een andere taak:**
 

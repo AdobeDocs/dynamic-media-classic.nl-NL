@@ -2,7 +2,7 @@
 title: Video's voorvertonen in een videoviewer
 description: Leer hoe u video's kunt voorvertonen in een videoviewer.
 uuid: 7ab4e805-6e5d-461b-bd99-5e09b9ced950
-contentOwner: admin
+contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/video
@@ -10,9 +10,9 @@ discoiquuid: 6a2e6df1-9186-42e2-9b85-01f132936c72
 feature: Dynamic Media Classic,Viewers,Video
 role: User
 exl-id: b8d1a0b4-67ab-482d-a685-a087fb850143
-source-git-commit: 352b1c383195fa03294ad3501207d63f3cfe3e42
+source-git-commit: d43b0791e67d43ff56a7ab85570b9639c2375e05
 workflow-type: tm+mt
-source-wordcount: '852'
+source-wordcount: '850'
 ht-degree: 0%
 
 ---
@@ -21,37 +21,37 @@ ht-degree: 0%
 
 U kunt een voorvertoning weergeven van hoe een video eruitziet en hoe deze wordt afgespeeld in de Video-viewer.
 
-Zie [Voorinstellingen van viewer toevoegen en bewerken](application-setup.md#adding_and_editing_viewer_presets).
+Zie [Viewer-voorinstellingen toevoegen en bewerken](application-setup.md#adding_and_editing_viewer_presets).
 
 **Een voorvertoning weergeven van video&#39;s in een videoviewer:**
 
-1. Selecteer **[!UICONTROL Video]** (enkele gecodeerde video&#39;s) of **[!UICONTROL Adaptive Video Set]** in de vervolgkeuzelijst Weergeven links in het deelvenster Elementenbibliotheek. Wanneer de voorinstelling Adaptieve videocodering wordt gebruikt, resulteert dit in een set gecodeerde video&#39;s met meerdere bitsnelheden.
+1. Selecteer in het deelvenster Elementenbibliotheek aan de linkerkant van de vervolgkeuzelijst Tonen de optie **[!UICONTROL Video]** (enkele gecodeerde video&#39;s) of **[!UICONTROL Adaptive Video Set]**. Wanneer de voorinstelling Adaptieve videocodering wordt gebruikt, resulteert dit in een set gecodeerde video&#39;s met meerdere bitsnelheden.
 1. In het paneel van de Bibliotheek van Activa op de linkerkant, navigeer de elementenomslagen om de video te selecteren die u wilt voorproef.
 1. Voer een van de volgende handelingen uit
 
-   * Selecteer **[!UICONTROL List View]** rechts van de werkbalk boven het middelenvenster. Houd de muisaanwijzer boven een element in het venster Element en selecteer **[!UICONTROL Preview]**.
-   * Selecteer **[!UICONTROL Grid View]** rechts van de werkbalk boven het middelenvenster. Selecteer **[!UICONTROL Preview]** in het venster Middelen, in een elementminiatuurvenster.
-   * Selecteer **[!UICONTROL Detail View]** rechts van de werkbalk boven het middelenvenster. Selecteer **[!UICONTROL Preview]** op dezelfde werkbalk.
+   * Selecteer boven het middelenvenster rechts op de werkbalk de optie **[!UICONTROL List View]**. Houd de muisaanwijzer boven een element in het venster Element en selecteer vervolgens **[!UICONTROL Preview]**.
+   * Selecteer boven het middelenvenster rechts op de werkbalk de optie **[!UICONTROL Grid View]**. Selecteer in het venster Middelen in een elementminiatuurvenster de optie **[!UICONTROL Preview]**.
+   * Selecteer boven het middelenvenster rechts op de werkbalk de optie **[!UICONTROL Detail View]**. Selecteer op dezelfde werkbalk de optie **[!UICONTROL Preview]**.
    * Selecteer een element in het venster Element. Ga in de werkbalk naar **[!UICONTROL File]** > **[!UICONTROL Preview]**.
 
 1. (Optioneel) Selecteer in de vervolgkeuzelijst onderaan in het voorvertoningsvenster de URL-codering die u wilt toepassen op de URL van het element wanneer het element wordt gekopieerd.
-1. Selecteer de koppeling **[!UICONTROL Preview]** zodat u het element in de geselecteerde viewer kunt bekijken.
+1. Selecteer **[!UICONTROL Preview]** zodat u het element in de geselecteerde viewer kunt bekijken.
 1. Sluit de weergegeven viewer.
-1. Selecteer **[!UICONTROL Close]** om terug te keren naar het scherm Middelen.
+1. Selecteren **[!UICONTROL Close]** om terug te keren naar het scherm Middelen.
 
 >[!NOTE]
 >
->Adobe Dynamic Media Classic biedt een handige methode voor het voorvertonen van MP4-video&#39;s op het bureaublad. Gebruik deze methode om mobiele inhoud op het bureaublad voor te vertonen zonder deze fysiek te testen op mobiele apparaten. Houd er echter rekening mee dat wat in de voorvertoning op het bureaublad wordt weergegeven, niet op realistische wijze aangeeft hoe het afspelen op het mobiele apparaat eruitziet. Als u een voorvertoning wilt bekijken van de weergave en het afspelen van video op een mobiel apparaat, gaat u naar het voorvertoningsscherm, selecteert u **[!UICONTROL Copy URL]** en voert u die URL in de webbrowser van een mobiel apparaat in. Zie [Video distribueren naar uw websites en mobiele sites](deploying-video-websites-mobile-sites.md#deploying_video_to_your_websites_and_mobile_sites) voor meer informatie.
+>Adobe Dynamic Media Classic biedt een handige methode voor het voorvertonen van MP4-video&#39;s op het bureaublad. Gebruik deze methode om mobiele inhoud op het bureaublad voor te vertonen zonder deze fysiek te testen op mobiele apparaten. Houd er echter rekening mee dat wat in de voorvertoning op het bureaublad wordt weergegeven, niet op realistische wijze aangeeft hoe het afspelen op het mobiele apparaat eruitziet. Als u wilt voorvertonen hoe video er uitziet en op een mobiel apparaat wordt afgespeeld, gaat u naar het voorvertoningsscherm en selecteert u **[!UICONTROL Copy URL]** en voer die URL in de webbrowser van een mobiel apparaat in. Zie voor meer informatie [Video distribueren naar uw websites en mobiele sites](deploying-video-websites-mobile-sites.md#deploying_video_to_your_websites_and_mobile_sites).
 
 ## Werken met voorinstellingen voor videoviewers {#working-with-video-viewer-presets}
 
 Gebruikers bekijken video&#39;s in de Video-viewer. Hoe de VideoKijker zich gedraagt, hoe het kijkt, en hoe zijn playbackcontroles werken hangt van de Kijker af vooraf ingesteld u voor het spelen van de video kiest. Kies een voorinstelling voor de viewer op het voorvertoningsscherm. Nadat u een voorinstelling hebt gekozen, kunt u de URL of de insluitcode voor het afspelen van de video opvragen met de door u gekozen voorinstelling voor de viewer.
 
-Adobe Dynamic Media Classic wordt geleverd met veel vooraf gedefinieerde Viewer-voorinstellingen voor het afspelen van video. Als u een beheerder bent, kunt u aangepaste Viewer-voorinstellingen maken. Er zijn meer dan een dozijn verschillende instellingen voor het configureren van de video-viewer. U kunt de grootte, kleur, video- en audiobesturingselementen, voortgangsbalk, skin voor de gebruikersinterface en sociale functies configureren.
+Adobe Dynamic Media Classic wordt geleverd met veel vooraf gedefinieerde Viewer-voorinstellingen voor het afspelen van video. Als u een beheerder bent, kunt u aangepaste Viewer-voorinstellingen maken. Er zijn meer dan 12 verschillende instellingen voor het configureren van de Video-viewer. U kunt de grootte, kleur, video- en audiobesturingselementen, voortgangsbalk, skin voor de gebruikersinterface en sociale functies configureren.
 
 Zie [Video&#39;s voorvertonen in een videoviewer](previewing-videos-video-viewer.md#previewing_videos_in_a_video_viewer).
 
-Zie ook [Video presets](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&amp;emailurl=https://s7d5.scene7.com/s7/emailFriend&amp;serverUrl=https://s7d5.scene7.com/is/image/&amp;config=Scene7SharedAssets/Universal_HTML5_Video&amp;contenturl=https://s7d5.scene7.com/skins/&amp;asset=S7tutorials/549_video-presets_converted%20renamed_Done-AVS) trainingsvideo.
+Zie ook [Videovoorinstellingen](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&amp;emailurl=https://s7d5.scene7.com/s7/emailFriend&amp;serverUrl=https://s7d5.scene7.com/is/image/&amp;config=Scene7SharedAssets/Universal_HTML5_Video&amp;contenturl=https://s7d5.scene7.com/skins/&amp;asset=S7tutorials/549_video-presets_converted%20renamed_Done-AVS) trainingsvideo.
 
 ### Een voorinstelling voor een videoviewer toevoegen of bewerken {#adding-or-editing-a-video-viewer-preset}
 
@@ -59,9 +59,9 @@ U kunt Viewer-voorinstellingen gebruiken om verschillende viewertypen en hun voo
 
 In Viewer-voorinstellingen kunt u voorinstellingen van viewers activeren, filteren, sorteren en voorvertonen.
 
-Zie [Viewer Presets](application-setup.md#viewer_presets).
+Zie [Voorinstellingen viewer](application-setup.md#viewer_presets).
 
-Zie ook [Video presets](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&amp;emailurl=https://s7d5.scene7.com/s7/emailFriend&amp;serverUrl=https://s7d5.scene7.com/is/image/&amp;config=Scene7SharedAssets/Universal_HTML5_Video&amp;contenturl=https://s7d5.scene7.com/skins/&amp;asset=S7tutorials/549_video-presets_converted%20renamed_Done-AVS) trainingsvideo.
+Zie ook [Videovoorinstellingen](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&amp;emailurl=https://s7d5.scene7.com/s7/emailFriend&amp;serverUrl=https://s7d5.scene7.com/is/image/&amp;config=Scene7SharedAssets/Universal_HTML5_Video&amp;contenturl=https://s7d5.scene7.com/skins/&amp;asset=S7tutorials/549_video-presets_converted%20renamed_Done-AVS) trainingsvideo.
 
 **Een voorinstelling voor een videoviewer toevoegen of bewerken:**
 
@@ -71,13 +71,13 @@ Zie ook [Video presets](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html
 
 1. Een voorinstelling voor de viewer toevoegen of bewerken voor het weergeven van video:
 
-   * **Toevoegen**  - Selecteren  **[!UICONTROL Add]** op de werkbalk. Kies in het dialoogvenster Voorinstelling viewer toevoegen een platform en viewer in de respectievelijke vervolgkeuzelijsten en selecteer **[!UICONTROL Add]**.
-   Zie ook [Voorinstellingen voor viewers toevoegen en bewerken](application-setup.md#adding_and_editing_viewer_presets).
+   * **Toevoegen** - Selecteer **[!UICONTROL Add]** in de werkbalk. Kies in het dialoogvenster Voorinstelling viewer toevoegen een platform en viewer in de respectievelijke vervolgkeuzelijsten en selecteer **[!UICONTROL Add]**.
+   Zie ook [Viewer-voorinstellingen toevoegen en bewerken](application-setup.md#adding_and_editing_viewer_presets).
 
-   * **Voeg toe door van een bestaande Vooraf ingestelde**  Kijker te beginnen - in de lijst, selecteer een VideoKijker Vooraf ingesteld, en selecteer dan  **[!UICONTROL Edit]** in de toolbar.
-   Nadat u de video-viewer opnieuw hebt geconfigureerd, selecteert u **[!UICONTROL Save As]** om de voorinstelling op te slaan onder een andere naam in het tekstveld Naam voorinstelling.
+   * **Toevoegen door te beginnen met een bestaande viewervoorinstelling** - Selecteer in de tabel een voorinstelling voor de video-viewer en selecteer **[!UICONTROL Edit]** in de werkbalk.
+   Nadat u de videoviewer opnieuw hebt geconfigureerd, selecteert u **[!UICONTROL Save As]** om de voorinstelling op te slaan onder een andere naam in het tekstveld Naam voorinstelling.
 
-   * **Bewerken**  - Selecteer een voorinstelling voor de video-viewer en selecteer  **[!UICONTROL Edit]**.
+   * **Bewerken** - Selecteer een voorinstelling voor de video-viewer en selecteer **[!UICONTROL Edit]**.
 
 
 
@@ -88,8 +88,8 @@ Zie ook [Video presets](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html
 
 1. Voer een van de volgende handelingen uit:
 
-   * Selecteer **[!UICONTROL Save As]** als u een voorinstelling voor de viewer hebt toegevoegd door te beginnen met een bestaande voorinstelling.
-   * Selecteer **[!UICONTROL Save]** als u een Viewer-voorinstelling hebt toegevoegd of bewerkt.
+   * Selecteren **[!UICONTROL Save As]** als u een Viewer-voorinstelling hebt toegevoegd door te beginnen met een bestaande voorinstelling.
+   * Selecteren **[!UICONTROL Save]** als u een voorinstelling voor de viewer hebt toegevoegd of bewerkt.
 
 >[!MORELIKETHIS]
 >

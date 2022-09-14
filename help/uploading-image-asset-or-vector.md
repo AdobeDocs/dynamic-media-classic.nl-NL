@@ -1,13 +1,13 @@
 ---
 title: Een rasterafbeeldingselement uploaden
 description: Leer hoe u rasterafbeeldingen kunt uploaden naar Adobe Dynamic Media Classic
-contentOwner: admin
+contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 feature: Dynamic Media Classic
 role: User
 exl-id: 2ef78fe6-1e7c-4f48-86da-137ddaa55bbf
-source-git-commit: f92109182283f3bf046604b1b6910180f858d73e
+source-git-commit: d43b0791e67d43ff56a7ab85570b9639c2375e05
 workflow-type: tm+mt
 source-wordcount: '982'
 ht-degree: 0%
@@ -20,27 +20,27 @@ Voordat u een afbeeldingselement kunt uploaden, vraagt u eerst om een sleutel vo
 
 >[!IMPORTANT]
 >
->Ondersteuning voor nieuwe of bestaande UGC-vectorelementen in Adobe Dynamic Media Classic beëindigd op 30 september 2021.
+>De ondersteuning voor nieuwe of bestaande UGC-vectorelementen in Adobe Dynamic Media Classic liep af op 30 september 2021.
 
 ## Een gedeelde geheime sleutel aanvragen {#requesting-a-shared-secret-key}
 
-Vraag een *gedeelde-geheime sleutel* door [gebruikend de Admin Console om een steungeval tot stand te brengen.](https://helpx.adobe.com/enterprise/using/support-for-experience-cloud.html) In uw steungeval, verzoek om een gedeelde geheime sleutel.
+Verzoek om een *gedeelde geheime sleutel* door [het gebruiken van de Admin Console om een steungeval tot stand te brengen.](https://helpx.adobe.com/enterprise/using/support-for-experience-cloud.html) In uw steungeval, verzoek om een gedeelde geheime sleutel.
 
 Geef in het e-mailbericht de bedrijfsnaam op die u wilt gebruiken om afbeeldingselementen te uploaden. Nadat u de sleutel van Adobe Dynamic Media Classic ontvangt, bewaar het plaatselijk voor toekomstig gebruik.
 
 ## Het uploadtoken ophalen {#retrieving-the-upload-token}
 
-Met de *upload-token* kan niemand dezelfde sleutel voor gedeeld geheim gebruiken om elementen te uploaden. Het zorgt ervoor dat de upload legitiem is en uit een vertrouwde bron komt.
+De *uploadtoken* zorgt ervoor dat niemand de zelfde gedeelde geheime sleutel kan gebruiken om activa te uploaden. Het zorgt ervoor dat de upload legitiem is en uit een vertrouwde bron komt.
 
 Het uploadtoken is een alfanumerieke tekenreeks die alleen voor een bepaalde hoeveelheid tijd beschikbaar is. Gebruik de volgende URL&#39;s, waarbij u de sleutel voor een gedeeld geheim vervangt, zodat u het token voor uploaden kunt ophalen.
 
 * Rasterafbeelding
-   `https://s7ugc1.scene7.com/ugc/image?op=get_uploadtoken&shared_secret=fece4b21-87ee-47fc-9b99-2e29b78b602`In dit voorbeeld is de sleutel voor gedeeld geheim  `fece4b21-87ee-47fc-9b99-2e29b78b602`
+   `https://s7ugc1.scene7.com/ugc/image?op=get_uploadtoken&shared_secret=fece4b21-87ee-47fc-9b99-2e29b78b602`In dit voorbeeld is de sleutel voor gedeeld geheim `fece4b21-87ee-47fc-9b99-2e29b78b602`
 
 <!-- * Vector
   `https://s7ugc1.scene7.com/ugc/vector?op=get_uploadtoken&shared_secret=2d19f60e-890a-4e79-a1a5-9ac2875429b9`In this example, the shared-secret key is `2d19f60e-890a-4e79-a1a5-9ac2875429b9` -->
 
-Standaard verloopt het uploadtoken vijf minuten (300 seconden) nadat u het hebt opgehaald. Als u meer tijd wilt aanvragen, neemt u `expires` op in de URL en neemt u de hoeveelheid tijd op die u nodig hebt in seconden. Met de volgende voorbeeldafbeelding haalt u bijvoorbeeld een uploadtoken op dat 1800 seconden geldig is:
+Standaard verloopt het uploadtoken vijf minuten (300 seconden) nadat u het hebt opgehaald. Als u meer tijd wilt aanvragen, neemt u `expires` in de URL en de tijd die u nodig hebt, in seconden. Met de volgende voorbeeldafbeelding haalt u bijvoorbeeld een uploadtoken op dat 1800 seconden geldig is:
 
 ```as3
 https://s7ugc1.scene7.com/ugc/image?op=get_uploadtoken&shared_secret=fece4b21-87ee-47fc-9b99-2e29b78b602&expires=1800
@@ -86,7 +86,7 @@ U kunt de volgende velden in de URL-queryreeks gebruiken om een token voor uploa
 `https://s7ugc1.scene7.com/ugc/vector?op=get_uploadtoken&shared_secret=2d19f60e-890a-4e79-a1a5-9ac2875429b9&expires=5000` -->
 
 **Toegestane HTTP-methoden:**
-`GET` en  `POST`
+`GET` en `POST`
 
 U kunt nu een afbeeldingselement uploaden.
 
@@ -100,9 +100,9 @@ Nadat u een uploadtoken hebt opgehaald dat gedurende een bepaalde periode geldig
 https://s7ugc1.scene7.com/ugc/image?op=upload&upload_token=aa2a378a-cd25-4c80-994d-312094e0ef20_18000&company_name=000Company
 ```
 
-De velden `upload_token` en `company_name` zijn vereist.
+De `upload_token` en `company_name` velden zijn vereist.
 
-Zie [De uploadtoken](uploading-image-asset-or-vector.md#retrieving_the_upload_token) ophalen.
+Zie [Het uploadtoken ophalen](uploading-image-asset-or-vector.md#retrieving_the_upload_token).
 
 Zie [Een sleutel van een gedeeld geheim ophalen](uploading-image-asset-or-vector.md#requesting_a_shared_secret_key).
 
@@ -112,7 +112,7 @@ U kunt ook andere optionele waarden verzenden als URL-querytekenreeksen, zoals i
 https://s7ugc1.scene7.com/ugc/image?op=upload&upload_token=aa2a378a-cd25-4c80-994d-312094e0ef20_18000&company_name=000Company&file_limit=2000000&file_exts=jpg,gif
 ```
 
-Met de parameter `file_limit` wordt de maximale bestandsgrootte in bytes opgegeven. Met de parameter `file_exts` worden de bestandsextensies opgegeven die mogen worden geüpload. Beide waarden zijn optioneel.
+De `file_limit` parameter geeft de maximale bestandsgrootte op in bytes. De `file_exts` parameter geeft de bestandsextensies aan die mogen worden geüpload. Beide waarden zijn optioneel.
 
 Er wordt een algemene limiet ingesteld in de toepassing voor de maximale bestandsgrootte en de toegestane bestandsextensies. Als wat u in het verzoek verzendt een ondergroep van de globale grenzen is, wordt het geëerd. De globale limieten zijn als volgt:
 
@@ -121,7 +121,7 @@ Er wordt een algemene limiet ingesteld in de toepassing voor de maximale bestand
 | Bestandsgrootte voor alle clients | 20 MB |
 | Ondersteunde bestandsindelingen voor afbeeldingen die u wilt uploaden | BMP, GIF, JPG, PNG, PSD, TIFF |
 
-In het volgende HTML-formulier kan een gebruiker een element uploaden. In het formulier wordt de gebruiker gevraagd de volgende gegevens in te voeren:
+Met het volgende HTML-formulier kan een gebruiker een element uploaden. In het formulier wordt de gebruiker gevraagd de volgende gegevens in te voeren:
 
 * Een bedrijfsnaam.
 * Een token voor uploaden.
@@ -129,14 +129,14 @@ In het volgende HTML-formulier kan een gebruiker een element uploaden. In het fo
 * Een lijst met bestandsextensies.
 * Of het kleurprofiel en de bestandsnaam die aan het element zijn gekoppeld, behouden moeten blijven.
 * Of de achtergrond uitnemen moet worden gebruikt. Als u Achtergrond uitnemen inschakelt, stelt u de Hoek, Tolerantie en Vulmethode in.
-Zie Achtergrond uitnemen in [Opties voor het perfectioneren van afbeeldingen bij het uploaden](image-editing-options-upload.md#image-editing-options-at-upload).
+Zie Achtergrond uitnemen in [Opties voor het verfijnen van afbeeldingen tijdens het uploaden](image-editing-options-upload.md#image-editing-options-at-upload).
 * De naam van het bestand dat moet worden geüpload.
 
-U kunt de HTML-broncode bekijken die aan het bovenstaande formulier is gekoppeld door [https://s7ugc1.scene7.com/ugc/upload.html](https://s7ugc1.scene7.com/ugc/upload.html) te selecteren
+U kunt de broncode van de HTML die aan het bovenstaande formulier is gekoppeld, bekijken door [https://s7ugc1.scene7.com/ugc/upload.html](https://s7ugc1.scene7.com/ugc/upload.html)
 
-Klik in Firefox met de rechtermuisknop in het browservenster en selecteer **[!UICONTROL View Page Source]**. De code toont het overeenkomstige URL vraagkoord en de methode van de POST die in werking worden gesteld wanneer de gebruiker **[!UICONTROL Submit]** klikt.
+Klik in Firefox met de rechtermuisknop in het browservenster en selecteer **[!UICONTROL View Page Source]**. De code toont het overeenkomstige URL vraagkoord en de methode van de POST die in werking worden gesteld wanneer de gebruiker klikt **[!UICONTROL Submit]**.
 
-Als u de XML-reactie wilt weergeven in Internet Explorer, gaat u naar **[!UICONTROL View]** > **[!UICONTROL Source]**. Als u de XML-reactie in Firefox wilt weergeven, gaat u naar **[!UICONTROL Tools]** > **[!UICONTROL Browser Tools]** > **[!UICONTROL Web Developer Tools]**. Firefox wordt aanbevolen voor het weergeven van XML-reacties.
+Ga naar **[!UICONTROL View]** > **[!UICONTROL Source]**. Ga naar **[!UICONTROL Tools]** > **[!UICONTROL Browser Tools]** > **[!UICONTROL Web Developer Tools]**. Firefox wordt aanbevolen voor het weergeven van XML-reacties.
 
 Hier volgt een voorbeeldreactie van een geslaagde upload:
 
@@ -162,7 +162,7 @@ Hier volgt een voorbeeldreactie van een geslaagde upload:
 
 >[!NOTE]
 >
->Het geüploade element (JPG, GIF, enzovoort) wordt geconverteerd naar de PTIFF-indeling en het antwoord verzendt een directe koppeling naar dat PTIFF-element.
+>Het geüploade element (JPG, GIF, enzovoort) wordt geconverteerd naar de PTIFF-indeling en de reactie verstuurt een directe koppeling naar dat PTIFF-element.
 
 Het middel is als elke andere bron ImageServing; U kunt er verwerkingsquery&#39;s op toepassen. De volgende URL vraagt bijvoorbeeld om een element dat naar de opgegeven breedte en hoogte wordt uitgerekt.
 
@@ -196,7 +196,7 @@ POST
 
 ### Metagegevens van elementen ophalen voor afbeeldingen {#getting-asset-metadata-for-images}
 
-U kunt `image_info` gebruiken om meta-gegevens voor activa terug te winnen die u uploadde, zoals aangetoond in het volgende voorbeeld:
+U kunt `image_info` om metagegevens op te halen voor een element dat u hebt geüpload, zoals in het volgende voorbeeld wordt getoond:
 
 ```as3
 https://s7ugc1.scene7.com/ugc/image?op=image_info&shared_secret=fece4b21-87ee-47fc-9b99-2e29b78b602&image_name=1442564.tif
@@ -226,7 +226,7 @@ Een voorbeeld van een succesvolle reactie lijkt op het volgende:
 </scene7>
 ```
 
-U kunt de volgende velden in de URL-queryreeks gebruiken om informatie voor een element aan te vragen:
+U kunt de volgende velden in de URL-queryreeks gebruiken om informatie voor een element op te vragen:
 
 | URL-parameter | Vereist of optioneel | Waarde |
 | --- | --- | --- |

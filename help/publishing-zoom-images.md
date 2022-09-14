@@ -2,7 +2,7 @@
 title: Zoomafbeeldingen publiceren
 description: Leer hoe u Zoom-afbeeldingen publiceert vanuit Adobe Dynamic Media Classic.
 uuid: d7e7a474-8af5-46a7-94df-063396f67554
-contentOwner: admin
+contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/zoom
@@ -10,7 +10,7 @@ discoiquuid: 34a99fd0-8148-41d4-843a-909637542dd9
 feature: Dynamic Media Classic,Viewers,Zoom
 role: User
 exl-id: 74cf0346-be79-4916-8a98-16865c3ba3de
-source-git-commit: ad5270545be502d3aaabba574353787622ab0445
+source-git-commit: d43b0791e67d43ff56a7ab85570b9639c2375e05
 workflow-type: tm+mt
 source-wordcount: '146'
 ht-degree: 0%
@@ -23,11 +23,11 @@ Bij het publiceren worden uw zoomafbeeldingen op Dynamic Media Image Servers gep
 
 ## Afbeeldingen markeren voor publicatie {#marking-images-for-publish}
 
-Afbeeldingen moeten zijn gemarkeerd voor publicatie zodat ze naar Dynamic Media Image Servers kunnen worden gekopieerd. U kunt uw afbeeldingen voor publicatie markeren in het deelvenster Bladeren door het pictogram **[!UICONTROL Mark for Publish]** te selecteren. U kunt afbeeldingen ook markeren voor publicatie wanneer u ze uploadt.
+Afbeeldingen moeten zijn gemarkeerd voor publicatie zodat ze naar Dynamic Media Image Servers kunnen worden gekopieerd. U kunt uw afbeeldingen voor publicatie markeren in het deelvenster Bladeren door het selectievakje **[!UICONTROL Mark for Publish]** pictogram. U kunt afbeeldingen ook markeren voor publicatie wanneer u ze uploadt.
 
 ## De afbeeldingen publiceren {#publishing-the-images}
 
-Als u zoomafbeeldingen wilt publiceren, selecteert u **[!UICONTROL Publish]** op de algemene navigatiebalk en selecteert u vervolgens een **[!UICONTROL When]**-optie (**[!UICONTROL One-Time]** of **[!UICONTROL Recurring]**). U kunt desgewenst een naam voor de publicatietaak invoeren. Selecteer **Publiceren verzenden**.
+Als u zoomafbeeldingen wilt publiceren, selecteert u op de algemene navigatiebalk de optie **[!UICONTROL Publish]** Selecteer vervolgens een **[!UICONTROL When]** option (**[!UICONTROL One-Time]** of **[!UICONTROL Recurring]**). U kunt desgewenst een naam voor de publicatietaak invoeren. Selecteren **Publiceren verzenden**.
 
 >[!MORELIKETHIS]
 >

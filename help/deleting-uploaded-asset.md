@@ -1,15 +1,15 @@
 ---
 title: Een geüpload element verwijderen
-description: Leer hoe u een geüpload element verwijdert in Adobe Dynamic Media Classic.
+description: Leer hoe u een geüpload element in Adobe Dynamic Media Classic verwijdert.
 uuid: edd2b688-c377-4be1-ba16-d2dd2e6f716d
-contentOwner: admin
+contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 discoiquuid: dd338c8c-06c6-44d5-8493-dc2087eeeafb
 feature: Dynamic Media Classic
 role: User
 exl-id: d845bcb2-f914-4727-8df2-049dc172f266
-source-git-commit: f92109182283f3bf046604b1b6910180f858d73e
+source-git-commit: d43b0791e67d43ff56a7ab85570b9639c2375e05
 workflow-type: tm+mt
 source-wordcount: '102'
 ht-degree: 0%
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 # Een geüpload element verwijderen{#deleting-an-uploaded-asset}
 
-Met de parameter `delete` in deze notatie kunt u een element verwijderen:
+U kunt de `delete` parameter in deze notatie om een element te verwijderen:
 
 ```as3
 https://s7ugc1.scene7.com/ugc/image?op=delete&shared_secret=fece4b21-87ee-47fc-9b99-2e29b78b602&image_name=1442564.tif
@@ -54,7 +54,7 @@ U kunt de volgende velden in de URL-queryreeks gebruiken om een element te verwi
 
 >[!IMPORTANT]
 >
->Ondersteuning voor nieuwe of bestaande UGC-elementen voor vectorafbeeldingen in Adobe Dynamic Media Classic is beëindigd op 30 september 2021.
+>De ondersteuning voor nieuwe of bestaande UGC-vectorafbeeldingselementen in Adobe Dynamic Media Classic is afgelopen op 30 september 2021.
 
 **URL van voorbeeldafbeelding:**
 

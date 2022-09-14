@@ -7,10 +7,10 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 feature: Dynamic Media Classic
 role: Admin,User
 exl-id: af29eabb-f7c6-420b-9c63-9d60ee2dc148
-source-git-commit: 7550df5eea7f4f6e84e083fe0e6cc57e2c34f096
+source-git-commit: d43b0791e67d43ff56a7ab85570b9639c2375e05
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '577'
+ht-degree: 1%
 
 ---
 
@@ -35,7 +35,7 @@ Zie [Veelgestelde vragen](new-ui-2020.md). Nieuwe updates vanaf 7 mei 2020.
 * [Zelfstudie over best practices voor Adobe Dynamic Media Classic](https://experienceleague.adobe.com/docs/experience-manager-learn/dynamic-media-classic-tutorial/overview.html)
 * [Hulplijn: Handleiding met aanbevolen procedures voor het verscherpen van afbeeldingen](/help/assets/s7_sharpening_images.pdf)
 * [Hulplijn: Hoe Adobe Dynamic Media Classic SEO ondersteunt](/help/assets/s7_seo.pdf) - Zoekprogramma&#39;s maken het momenteel mogelijk naar websites en afbeeldingen te zoeken. Adobe Dynamic Media Classic ondersteunt pogingen om afbeeldingen zo gebruiksvriendelijk te maken dat meer verkeer naar de website van de Adobe Dynamic Media Classic-gebruiker wordt geleid. Deze gids in PDF geeft u de achtergrond en de implementatieaanbevelingen om dat te doen gebeuren.
-<!-- * [Webinar: Best Practices for Responsive Design](http://offers.adobe.com/en/na/marketing/landings/_40458_responsive_design_live_on_demand_webinar.html) - Learn practical tips on how to improve your mobile strategy. See real-world examples of responsive design in action. Create one master asset that works across multiple devices and increase mobile performance by dynamically changing the resolution of images or the orientation of images for portrait or landscape displays. Learn how to also dynamically crop, scale, or resize images. -->
+<!-- * [Webinar: Best Practices for Responsive Design](http://offers.adobe.com/en/na/marketing/landings/_40458_responsive_design_live_on_demand_webinar.html) - Learn practical tips on how to improve your mobile strategy. See real-world examples of responsive design in action. Create one primary asset that works across multiple devices and increase mobile performance by dynamically changing the resolution of images or the orientation of images for portrait or landscape displays. Learn how to also dynamically crop, scale, or resize images. -->
 * [Webinar: Beste praktijken leveren Interactieve Ervaringen met Adobe Dynamic Media Classic](https://seminars.adobeconnect.com/p7wb8ej3u6d/) - Leer hoe u inhoud ophaalt in en uit Adobe Dynamic Media Classic en hoe u voorinstellingen voor afbeeldingen instelt voor optimale prestaties en ervaring. U leert ook over viewervoorinstellingen en cacheconfiguraties.
 * [Webinar: ROI van uw bedrijfsmiddelen maximaliseren](https://adobecustomersuccess.adobeconnect.com/p5ar3hfrrec/?launcher=false&amp;fcsContent=true&amp;pbMode=normal&amp;proto=true) - Leer de beste praktijken in de branche om rijke media over uw plaatsen en mobiele apps te leveren. In dit webinar, geeft Adobe voorbeelden en demonstraties die u tonen hoe te om video efficiënt over apparaten te leveren, dynamisch creatief in uw marketing campagnes te leveren, en omzetting te verhogen door om het even welk beeld, stijlgids, of lookbook shoppable te maken.
 * [Webinar: Versnel uw levenscyclus van de levering van inhoud](https://adobecustomersuccess.adobeconnect.com/p88ducm9pqv/) - Een introductie en demonstratie van Adobe Experience Manager Assets - Op aanvraag, het platform van de volgende generatie voor beheer en levering van rijke media. Leer hoe u samen kunt werken en middelen kunt delen tussen creatieve en marketingteams om de processen voor het evalueren van bedrijfsmiddelen te stroomlijnen. Leer de beste praktijken zodat u activa meta-gegevens efficiënt kunt beheren om activa gemakkelijk te vinden, te gebruiken, hergebruik en te delen, en hoe te om interactieve dwars-kanaal rijke media ervaringen te leveren.

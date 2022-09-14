@@ -1,14 +1,14 @@
 ---
 title: Ondersteuning
 description: Meer informatie over opties voor technische ondersteuning voor Adobe Dynamic Media Classic.
-contentOwner: admin
+contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/introducing_adobe_scene7
 feature: Dynamic Media Classic
 role: Admin,User
 exl-id: 708f32f1-fdbb-4a32-a1b7-836c99b458be
-source-git-commit: 352b1c383195fa03294ad3501207d63f3cfe3e42
+source-git-commit: d43b0791e67d43ff56a7ab85570b9639c2375e05
 workflow-type: tm+mt
 source-wordcount: '192'
 ht-degree: 0%
@@ -23,12 +23,12 @@ De technische steunaanbiedingen worden ontworpen om aan de behoeften van om het 
 | --- | --- |
 | Limiet voor problemen | Onbeperkt. |
 | De status van het Adobe-systeem controleren | [Adobe Dynamic Media Classic System Status](https://status.adobe.com/products/1175). |
-| Kan je geen antwoord vinden? | [Voor hulp van Steun, open een kaartje](https://experienceleague.adobe.com/?support-solution=General#support). |
-| Forum van de Gemeenschap | [Forum](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community) van de Experience Manager-gemeenschap. |
+| Kan je geen antwoord vinden? | [Om hulp van Steun te krijgen, open een kaartje](https://experienceleague.adobe.com/?support-solution=General#support). |
+| Forum van de Gemeenschap | [Forum van de Experience Manager-gemeenschap](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community). |
 | SLA (Service Level Agreements) | [Ondersteuningsservices / Voorwaarden](https://helpx.adobe.com/support/programs/support-policies-terms-conditions.html). |
 | Ondersteunde gebruikers | Tot tien gebruikers per organisatie kunnen worden aangewezen als ondersteunde gebruikers, die zaken kunnen openen met de klantenservice. |
 | Gratis live webtrainings- en instructievideo&#39;s | Opgenomen. |
-| Telefonische ondersteuning | <ul><li>VS en Canada: 1-800-497-0335 </li><li>[Telefoonnummers voor andere gebieden](https://helpx.adobe.com/contact/dma-external/DMACustomeCareRegionalPhoneNumbers.html). </li></ul> |
+| Telefonische ondersteuning | <ul><li>VS en Canada: 1-800-497-0335 </li><li>[Telefoonnummers voor andere gebieden](https://experienceleague.adobe.com/?support-tab=home#support). </li></ul> |
 
 <!-- |Create a support case| [https://helpx.adobe.com/enterprise/admin-guide.html/enterprise/using/support-for-experience-cloud.ug.html](https://helpx.adobe.com/enterprise/admin-guide.html/enterprise/using/support-for-experience-cloud.ug.html) | -->
 
