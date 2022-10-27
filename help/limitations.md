@@ -1,17 +1,17 @@
 ---
 title: Dynamic Media-beperkingen
-description: Leer over de beste praktijken en de gedwongen grenzen wanneer u een Reeks van het Beeld of een Reeks van de Rotatie creeert, of een PDF uploadt. Meer informatie over niet-ondersteunde combinaties van webbrowsers en besturingssystemen voor Dynamic Media Viewers.
+description: Leer over de beste praktijken en de gedwongen grenzen wanneer u een Reeks van het Beeld of een Reeks van de Rotatie creeert, of een PDF uploadt. Meer informatie over niet-ondersteunde combinaties van webbrowsers en besturingssystemen voor Dynamic Media.
 contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/ecatalogs
-feature: Dynamic Media Classic,Asset Management,Viewers,Image Sets,Spin Sets,eCatalog
+feature: Dynamic Media Classic,Asset Management,Image Sets,Spin Sets,eCatalog
 role: User
 exl-id: ee30a2c1-2b26-41bd-8758-e7337a3727bb
-source-git-commit: cb55e09a997b9d36002c4ac429603576d52fb8bd
+source-git-commit: 09f105e47eddee81fc9612282a4ef305e9ccb105
 workflow-type: tm+mt
-source-wordcount: '286'
-ht-degree: 2%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -22,7 +22,7 @@ In de volgende secties worden beperkingen in Dynamic Media beschreven.
 Dit onderwerp omvat de volgende secties:
 
 * [Aanbevolen werkwijzen en door Dynamic Media opgelegde limieten voor soorten activa](#best-practice-enforced-limits)
-* [Niet-ondersteunde combinaties van webbrowsers en besturingssystemen voor Dynamic Media Viewers](#unsupported-browser-os)
+* [Niet-ondersteunde combinaties van webbrowsers en besturingssystemen voor Dynamic Media](#unsupported-browser-os)
 
 ## Aanbevolen werkwijzen en door Dynamic Media opgelegde limieten voor soorten activa {#best-practice-enforced-limits}
 
@@ -38,11 +38,11 @@ Als u een centrifugeset of een afbeeldingsset maakt of PDF uploadt voor het uitn
 
 <!-- See also [Dynamic Media limitations](/help/assets/limitations.md). -->
 
-## Niet-ondersteunde combinaties van webbrowsers en besturingssystemen voor Dynamic Media Viewers {#unsupported-browser-os}
+## Niet-ondersteunde combinaties van webbrowsers en besturingssystemen voor Dynamic Media {#unsupported-browser-os}
 
 <!-- CQDOC-19433 -->
 
-Adobe Dynamic Media Viewers ondersteunen de volgende webbrowser- en besturingssysteemcombinaties niet.
+Adobe Dynamic Media biedt geen ondersteuning voor de volgende combinaties van webbrowsers en besturingssystemen.
 
 * Internet Explorer 11 + Windows 7
 * Internet Explorer 11 + Windows 8.1
@@ -58,7 +58,7 @@ Adobe Dynamic Media Viewers ondersteunen de volgende webbrowser- en besturingssy
 
 <!-- CQDOC-19433 -->
 
-Vanaf 30 september 2022 beëindigt Adobe Dynamic Media Viewers de ondersteuning voor:
+Met ingang van 30 september 2022 beëindigt Adobe Dynamic Media de ondersteuning voor:
 
 * TLS (Transport Layer Security) 1.0 en 1.1
 * De volgende zwakke ciphers in TLS 1.2:
