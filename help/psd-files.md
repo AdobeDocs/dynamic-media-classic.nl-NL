@@ -10,9 +10,9 @@ discoiquuid: 4086e3db-5aca-41a0-8f15-302afbf67ddb
 feature: Dynamic Media Classic,Asset Management
 role: User
 exl-id: e3b8c4b9-e9c4-4d7f-84de-2efb456755a1
-source-git-commit: d43b0791e67d43ff56a7ab85570b9639c2375e05
+source-git-commit: dc1ec666b208cec8fffe836d64ed501f6ccf4e7b
 workflow-type: tm+mt
-source-wordcount: '926'
+source-wordcount: '940'
 ht-degree: 0%
 
 ---
@@ -34,12 +34,12 @@ Deze opties zijn beschikbaar wanneer u PSD-bestanden uploadt:
 * **Opties voor uitsnijden** - Gelokaliseerd onder **[!UICONTROL Crop Options]**. Selecteren **[!UICONTROL Trim]** witruimte automatisch laten bijsnijden vanaf de randen van een PSD-bestand; selecteren **[!UICONTROL Manual]** om zijden van het PSD-bestand uit te snijden:
 
    * **[!UICONTROL Trim]** - Selecteer de **[!UICONTROL Trim Away Based On]** en kiest u **[!UICONTROL Color]** of **[!UICONTROL Transparency]**.
+   Als u **[!UICONTROL Color]** selecteert u het menu Hoek en kiest u de hoek van de PSD met de kleur die het beste overeenkomt met de kleur van de witruimte die u wilt uitsnijden.
 
-      Als u **[!UICONTROL Color]** selecteert u het menu Hoek en kiest u de hoek van de PSD met de kleur die het beste overeenkomt met de kleur van de witruimte die u wilt uitsnijden.
-
-      Sleep de schuifregelaar om een tolerantie tussen 0 en 1 op te geven. Als u wilt bijsnijden op basis van kleur, geeft u 0 op om alleen pixels bij te snijden als deze exact overeenkomen met de kleur die u in de hoek van de PSD hebt geselecteerd. De aantallen dichter aan 1 staan voor meer kleurenverschil toe. Als u wilt bijsnijden op basis van transparantie, geeft u 0 op om alleen pixels bij te snijden als deze transparant zijn. De cijfers dichter aan 1 staan voor meer transparantie.
+   Sleep de schuifregelaar om een tolerantie tussen 0 en 1 op te geven. Als u wilt bijsnijden op basis van kleur, geeft u 0 op om alleen pixels bij te snijden als deze exact overeenkomen met de kleur die u in de hoek van de PSD hebt geselecteerd. De aantallen dichter aan 1 staan voor meer kleurenverschil toe. Als u wilt bijsnijden op basis van transparantie, geeft u 0 op om alleen pixels bij te snijden als deze transparant zijn. De cijfers dichter aan 1 staan voor meer transparantie.
 
    * **[!UICONTROL Manual]** - Voer het aantal pixels in dat u wilt uitsnijden vanaf elke zijde van de afbeelding. Hoeveel van de afbeelding wordt uitgesneden, is afhankelijk van de ppi-instelling (pixels per inch) in het afbeeldingsbestand. Als de afbeelding bijvoorbeeld 150 ppi weergeeft en u 75 invoert in de tekstvakken Boven, Rechts, Onder en Links, 0,5 inch. wordt aan elke kant van de afbeelding uitgesneden.
+
 
 * **Opties voor kleurprofiel** - Gelokaliseerd onder **[!UICONTROL Color Profile Options]**.
 
@@ -72,6 +72,10 @@ Deze opties zijn beschikbaar wanneer u PSD-bestanden uploadt:
 ## Lagen weergeven en bewerken in een PSD-bestand {#viewing-and-editing-layers-in-a-psd-file}
 
 Als u tijdens het uploaden van de PSD de optie Lagen behouden hebt geselecteerd, heeft Adobe Dynamic Media Classic de afzonderlijke lagen in elementen geknipt. U kunt de elementlagen die bij een PSD-bestand horen weergeven en bewerken door het bestand te openen in het deelvenster Bladeren in de gedetailleerde weergave.
+
+>[!NOTE]
+>
+>Adobe Dynamic Media Classic ondersteunt maximaal vijf niveaus in een geneste laaggroep.
 
 1. Dubbelklik op het volledige PSD-bestand in het deelvenster Bladeren. Het bestand wordt geopend in de gedetailleerde weergave.
 
