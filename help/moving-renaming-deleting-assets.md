@@ -10,9 +10,9 @@ discoiquuid: 1c9e29f0-3083-4d22-a439-2a01faf59683
 feature: Dynamic Media Classic,Asset Management
 role: User
 exl-id: 391eb7ce-ed89-47a8-a6c6-5adb3e95bf78
-source-git-commit: d43b0791e67d43ff56a7ab85570b9639c2375e05
+source-git-commit: 13d9199e0613c7b1eb664ffee859a79dd3f9faca
 workflow-type: tm+mt
-source-wordcount: '550'
+source-wordcount: '601'
 ht-degree: 0%
 
 ---
@@ -25,6 +25,8 @@ U kunt elementen verplaatsen, hernoemen en verwijderen vanuit het deelvenster Bl
 
 U kunt elementen naar verschillende mappen verplaatsen in het deelvenster Bladeren.
 
+**Elementen verplaatsen:**
+
 1. Selecteer de elementen in het deelvenster Bladeren en voer een van de volgende handelingen uit:
 
    * Geef de map weer waarnaar u de elementen wilt verplaatsen in de elementenbibliotheek en sleep de elementen naar de map.
@@ -35,9 +37,7 @@ U kunt elementen naar verschillende mappen verplaatsen in het deelvenster Blader
 1. Selecteer het element in het deelvenster Bladeren en voer een van de volgende handelingen uit:
 
    * Selecteer de naam, typ een nieuwe naam en druk op **[!UICONTROL Enter]** of selecteer een andere naam dan de naam.
-   * Ga naar **[!UICONTROL File]** > **[!UICONTROL Rename]**. De naam van het element wordt gemarkeerd. Voer een nieuwe naam in en druk op **[!UICONTROL Enter]**.
-
-Zorg ervoor dat u de naam van een bestaand Adobe Dynamic Media Classic-element niet invoert.
+   * Ga naar **[!UICONTROL File]** > **[!UICONTROL Rename]**. De naam van het element wordt gemarkeerd. Voer een nieuwe naam in en druk op **[!UICONTROL Enter]**. Zorg ervoor dat u de naam van een bestaand Adobe Dynamic Media Classic-element niet invoert.
 
 ## Elementen verwijderen {#delete-assets}
 
@@ -45,9 +45,13 @@ U kunt geselecteerde elementen verwijderen uit het deelvenster Bladeren en volle
 
 Wanneer u een element verwijdert, worden ook alle elementen die ervan zijn afgeleid, verwijderd. Als u bijvoorbeeld een afbeelding verwijdert waarvoor u zoomdoelen hebt gemaakt, worden de zoomdoelen samen met de afbeelding verwijderd.
 
->[!NOTE]
+Zoomdoelen, afbeeldingskenmerken en historiegegevens worden permanent verwijderd wanneer u de elementen verwijdert waaruit ze afkomstig zijn. Ze worden niet samen met het element verplaatst naar de map Prullenbak. ze kunnen niet vanuit de prullenbak worden hersteld.
+
+>[!IMPORTANT]
 >
->Zoomdoelen, afbeeldingskenmerken en historiegegevens worden permanent verwijderd wanneer u de elementen verwijdert waaruit ze afkomstig zijn. Ze worden niet samen met het element verplaatst naar de map Prullenbak. ze kunnen niet vanuit de prullenbak worden hersteld.
+>Bulkverwijdering is een intensieve bewerking. Zorg ervoor dat u bulkverwijderingen opeenvolgend uitvoert in plaats van als gelijktijdige, zware verwijderingsbewerkingen. Adobe raadt u aan de verwijderbewerkingen te beperken tot maximaal 5000 verwijderingen per uur. Een getal groter dan 5000 per uur kan snelheidsbeperking veroorzaken.
+
+**Elementen verwijderen:**
 
 1. Voer een van de volgende handelingen uit:
 
@@ -56,9 +60,7 @@ Wanneer u een element verwijdert, worden ook alle elementen die ervan zijn afgel
 
       Als u een map verwijdert, worden de map, alle elementen in de map en alle elementen in de submappen verwijderd.
 
->[!NOTE]
->
->Adobe Dynamic Media Classic raadt aan elementbestanden te overschrijven in plaats van ze te verwijderen als u een elementbestand verwijdert door een andere naam te vervangen.
+Adobe Dynamic Media Classic raadt aan elementbestanden te overschrijven in plaats van ze te verwijderen als u een elementbestand verwijdert door een andere naam te vervangen.
 
 ## Meerdere elementen met een tekstbestand verwijderen {#delete-multiple-assets-with-a-text-file}
 
