@@ -6,7 +6,7 @@ user-guide-title: Adobe Dynamic Media Classic Guide
 breadcrumb-title: Dynamic Media Classic Guide
 user-guide-description: Meer informatie over het gebruik van Adobe Dynamic Media Classic
 index: y
-source-git-commit: d43b0791e67d43ff56a7ab85570b9639c2375e05
+source-git-commit: 779f152007ee7ec797c3206765c1d103e384962e
 workflow-type: tm+mt
 source-wordcount: '779'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 # Adobe Dynamic Media Classic Guide {#using}
 
 + [Adobe Dynamic Media Classic Guide](home.md)
-+ [Zelfstudie over best practices voor Adobe Dynamic Media-klasse](https://experienceleague.adobe.com/docs/experience-manager-learn/dynamic-media-classic-tutorial/overview.html)
++ [Zelfstudie over best practices voor Adobe Dynamic Media Classic](https://experienceleague.adobe.com/docs/experience-manager-learn/dynamic-media-classic-tutorial/overview.html)
 + [NIEUWE Adobe Dynamic Media Classic-aanmeldervaring nu beschikbaar](new-ui-2020.md)
 + [Adobe Dynamic Media-nieuwsarchief per Experience League](dynamic-media-newsletter.md)
 + Introductie van Adobe Dynamic Media Classic {#intro}
@@ -101,7 +101,7 @@ ht-degree: 0%
    + [Voorvertoning van eCatalogi weergeven in de eCatalog-viewer](previewing-ecatalogs-ecatalog-viewer.md)
    + [E-catalogi en bijbehorende PDF publiceren](publishing-ecatalogs-associated-pdfs.md)
    + [Een eCatalog koppelen aan een webpagina](linking-ecatalog-web-page.md)
-+ Afbeeldingsets {#image-sets}
++ Afbeeldingssets {#image-sets}
    + [Snel starten: Afbeeldingssets](quick-start-image-sets.md)
    + [Afbeeldingsset-elementen voorbereiden voor uploaden](preparing-image-set-assets-upload.md)
    + [Een afbeeldingsset maken](creating-image-set.md)
