@@ -10,7 +10,7 @@ discoiquuid: 753677ad-9957-43d9-97ad-bd73a5da5ccb
 feature: Dynamic Media Classic
 role: Admin,User
 exl-id: 7e99de68-a5de-4b42-9754-c394e9b41369
-source-git-commit: d43b0791e67d43ff56a7ab85570b9639c2375e05
+source-git-commit: 532d4ec9515b561682678d3a0140096c8b3deae8
 workflow-type: tm+mt
 source-wordcount: '249'
 ht-degree: 0%
@@ -28,14 +28,14 @@ Welke instellingen beschikbaar zijn op deze pagina, is afhankelijk van uw status
 
 Beheerders kunnen ook voorinstellingen voor afbeeldingen en viewervoorinstellingen instellen in het dialoogvenster **[!UICONTROL Setup]** pagina:
 
-* **Voorinstellingen afbeelding** - Voorinstellingen voor afbeeldingen zijn opgeslagen indelingen voor de weergave van primaire afbeeldingen in verschillende formaten en formaten.
+* **Voorinstellingen voor afbeeldingen** - Voorinstellingen voor afbeeldingen zijn opgeslagen indelingen voor de weergave van primaire afbeeldingen in verschillende formaten en formaten.
 
-* **Voorinstellingen viewer** - Viewer Presets bepaalt hoe de rijke media worden weergegeven in een viewer.
+* **Viewer-voorinstellingen** - Viewervoorinstellingen bepalen hoe rijke media worden weergegeven in een viewer.
 
 >[!MORELIKETHIS]
 >
 >* [Video over basistraining voor instellingen](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&amp;emailurl=https://s7d5.scene7.com/s7/emailFriend&amp;serverUrl=https://s7d5.scene7.com/is/image/&amp;config=Scene7SharedAssets/Universal_HTML5_Video&amp;contenturl=https://s7d5.scene7.com/skins/&amp;asset=S7tutorials/573_Setup%20Basics_converted%20renamed_Getting%20Started-AVS)
 >* [Adobe Dynamic Media Classic-gebruikersrollen en -rechten](administration-setup.md#user_administration)
->* [Voorinstellingen afbeelding](application-setup.md#image_presets)
->* [Voorinstellingen viewer](application-setup.md#viewer_presets)
+>* [Voorinstellingen voor afbeeldingen](application-setup.md#image_presets)
+>* [Viewer-voorinstellingen](application-setup.md#viewer_presets)
 
