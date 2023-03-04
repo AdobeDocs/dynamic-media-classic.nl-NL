@@ -7,9 +7,9 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 feature: Dynamic Media Classic
 role: Admin,User
 exl-id: d61ea80a-a98e-43e6-9e2e-4389962134f1
-source-git-commit: d43b0791e67d43ff56a7ab85570b9639c2375e05
+source-git-commit: 6bdf08b98c5c8167f4a4da49452efa977beb136e
 workflow-type: tm+mt
-source-wordcount: '1088'
+source-wordcount: '1087'
 ht-degree: 0%
 
 ---
@@ -82,7 +82,7 @@ Er is geen SKU- of licentiewijziging vereist voor het gebruik van de nieuwe Adob
 +++
 
 +++**_Hoe zijn upgrades naar de Adobe Dynamic Media Classic-bureaubladtoepassing ingeschakeld?_**
-Na de release van de Adobe Dynamic Media Classic-bureaubladtoepassing op 30 juni 2020 moeten klanten de nieuwe versie downloaden en installeren als Adobe een nieuwe versie loslaat (vervang de bestaande app in **[!UICONTROL Applications]**). U wordt op de hoogte gesteld van de nieuwe release via uw CSM (Customer Success Manager) en een meldingsmechanisme voor upgrades in de app waarmee gebruikers op de hoogte worden gesteld van een upgrade.
+Na de release van de Adobe Dynamic Media Classic-bureaubladtoepassing op 30 juni 2020 moeten klanten de nieuwe versie downloaden en installeren als Adobe een nieuwe versie loslaat (vervang de bestaande app in **[!UICONTROL Applications]**). U wordt op de hoogte gesteld van de nieuwe versie via uw Adobe-accountteam en een mechanisme voor upgrademelding in de app waarmee gebruikers op de hoogte worden gesteld van een upgrade.
 +++
 
 +++**_Hoe krijg ik hulp voor problemen die ik heb met Adobe Dynamic Media Classic desktop app?_**

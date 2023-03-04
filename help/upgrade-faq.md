@@ -3,9 +3,9 @@ title: Veelgestelde vragen over upgrades
 description: Veelgestelde vragen (FAQ) wanneer u een upgrade uitvoert van [!DNL Adobe Dynamic Media Classic] bureaubladtoepassing naar [!DNL Dynamic Media] op [!DNL Adobe Experience Manager] Elementen.
 feature: Dynamic Media Classic
 role: Admin,User
-source-git-commit: 25e4f0d893c5963b648d75f65d099bca09e0f72f
+source-git-commit: 6bdf08b98c5c8167f4a4da49452efa977beb136e
 workflow-type: tm+mt
-source-wordcount: '1539'
+source-wordcount: '1540'
 ht-degree: 0%
 
 ---
@@ -60,7 +60,7 @@ Huidig [!DNL Dynamic Media Classic] (voorheen Scene7) klanten die ook [!DNL Expe
 +++
 
 +++**Hoe begin ik het verbeteringsproces?**
-Neem contact op met uw Adobe CSM-vertegenwoordiger (Customer Service Management) of [s7support@adobe.com](mailto:s7support@adobe.com) met de onderwerpregel `[!DNL Dynamic Media] Upgrade Program`.
+Neem contact op met uw Adobe-accountvertegenwoordiger of [s7support@adobe.com](mailto:s7support@adobe.com) met de onderwerpregel `[!DNL Dynamic Media] Upgrade Program`.
 
 +++
 
@@ -90,7 +90,7 @@ De tijd van het verbeteringsproces varieert gebaseerd op verscheidene factoren, 
 +++
 
 +++**Is er een verschil in licentiekosten?**
-Werk samen met uw Adobe CSM-vertegenwoordiger voor meer informatie over prijzen.
+Werk voor meer informatie over prijzen samen met uw Adobe Account Team-vertegenwoordiger.
 
 +++
 
@@ -195,7 +195,7 @@ Adobe voert een automatische validatie uit voor alle elementen waarnaar wordt ve
 +++
 
 +++**Is er een SLA voor [!DNL Dynamic Media]?**
-Ja. Neem contact op met uw Adobe CSM-vertegenwoordiger voor meer informatie.
+Ja. Neem voor meer informatie contact op met uw Adobe-accountvertegenwoordiger.
 
 +++
 
@@ -251,7 +251,7 @@ Telefoon: 1-800-898-9743 (VS) | +44 (0)20 35641782 (VK) | +81-3-6743-9632 (Japan
 +++**Waar kan ik meer leren over betaalde trainingsopties?**
 Zie [Adobe Digital Learning-services](https://learning.adobe.com).
 
-Neem voor aangepaste of individuele training contact op met uw Adobe CSM-vertegenwoordiger.
+Neem voor aangepaste of individuele training contact op met uw Adobe-accountteamvertegenwoordiger.
 
 +++
 
