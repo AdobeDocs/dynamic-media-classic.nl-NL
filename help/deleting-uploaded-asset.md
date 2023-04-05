@@ -1,5 +1,5 @@
 ---
-title: Een geüpload element verwijderen
+title: Een geüpload rasterafbeeldingselement verwijderen
 description: Leer hoe u een geüpload element in Adobe Dynamic Media Classic verwijdert.
 uuid: edd2b688-c377-4be1-ba16-d2dd2e6f716d
 contentOwner: Rick Brough
@@ -9,9 +9,9 @@ discoiquuid: dd338c8c-06c6-44d5-8493-dc2087eeeafb
 feature: Dynamic Media Classic
 role: User
 exl-id: d845bcb2-f914-4727-8df2-049dc172f266
-source-git-commit: d43b0791e67d43ff56a7ab85570b9639c2375e05
+source-git-commit: e235cdf331a1366ea81bd609e4e264c0c2cd8264
 workflow-type: tm+mt
-source-wordcount: '102'
+source-wordcount: '133'
 ht-degree: 0%
 
 ---
@@ -53,6 +53,10 @@ U kunt de volgende velden in de URL-queryreeks gebruiken om een element te verwi
 <!-- <li>For Vector:fxg_name</li> -->
 
 >[!IMPORTANT]
+>
+>Vanaf 1 mei 2023 zijn UGC-rasterelementen in Dynamic Media Classic beschikbaar voor gebruik tot 60 dagen na de uploaddatum. Na 60 dagen worden de middelen verwijderd.
+
+>[!NOTE]
 >
 >De ondersteuning voor nieuwe of bestaande UGC-vectorafbeeldingselementen in Adobe Dynamic Media Classic is afgelopen op 30 september 2021.
 

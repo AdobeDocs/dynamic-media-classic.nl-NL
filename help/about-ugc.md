@@ -9,23 +9,28 @@ discoiquuid: c1594abf-8cc2-46dd-88bf-af93db7db607
 feature: Dynamic Media Classic
 role: Admin,User
 exl-id: 14729192-7b9d-4f42-99da-6564a3f35959
-source-git-commit: f92109182283f3bf046604b1b6910180f858d73e
+source-git-commit: e235cdf331a1366ea81bd609e4e264c0c2cd8264
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '168'
 ht-degree: 0%
 
 ---
 
 # Door gebruiker gegenereerde inhoud in Adobe Dynamic Media Classic {#about-user-generated-content}
 
-Het gebruik van UGC (door de gebruiker gegenereerde inhoud) bestaat uit het uploaden van elementen naar een speciale Adobe Dynamic Media Classic-opslagruimte en het uitvoeren van gerelateerde bewerkingen.
+Het gebruik van UGC (door de gebruiker gegenereerde inhoud) bestaat uit het uploaden van elementen naar een speciale Adobe Dynamic Media Classic-opslagplaats en het uitvoeren van gerelateerde bewerkingen.
 
-UGC ondersteunt de bestandsindelingen BMP, GIF, JPG, PNG, PSD en TIFF voor rasterafbeeldingen.
-<!-- * Vector: AI, EPS (EPS files from Adobe Illustrator 2018 are not supported), PDF (only when the PDF file is previously opened and saved in Adobe Illustrator CS6) -->
+UGC ondersteunt de bestandsindelingen BMP, GIF, JPG, PNG, PSD, TIFF.
 
 >[!IMPORTANT]
 >
->Ondersteuning voor nieuwe of bestaande UGC-elementen voor vectorafbeeldingen in Adobe Dynamic Media Classic is beëindigd op 30 september 2021.
+>Vanaf 1 mei 2023 zijn UGC-rasterelementen in Dynamic Media Classic beschikbaar voor gebruik tot 60 dagen na de uploaddatum. Na 60 dagen worden de middelen verwijderd.
+
+<!-- * Vector: AI, EPS (EPS files from Adobe Illustrator 2018 are not supported), PDF (only when the PDF file is previously opened and saved in Adobe Illustrator CS6) -->
+
+>[!NOTE]
+>
+>De ondersteuning voor nieuwe of bestaande UGC-vectorafbeeldingselementen in Adobe Dynamic Media Classic is afgelopen op 30 september 2021.
 
 Voordat u elementen uploadt, ontvangt u een sleutel voor een gedeeld geheim. U gebruikt deze sleutel om een upload token op te halen. U verzendt het uploadtoken wanneer u elementen uploadt en andere UGC-taken uitvoert.
 
@@ -34,4 +39,4 @@ Nadat u een sleutel van het gedeelde geheim terugwint en token uploadt, kunt u d
 * Een element uploaden.
 * Metagegevens over afbeeldingselementen ophalen.
 * Een geüpload element verwijderen.
-* Krijg informatie over het gebruik van de schijfruimte van een bedrijf.
+* Meer informatie over het gebruik van schijfruimte door een bedrijf.
