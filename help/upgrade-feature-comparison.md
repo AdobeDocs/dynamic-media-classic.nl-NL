@@ -3,13 +3,13 @@ title: Functievergelijking
 description: Vergelijkingstabel voor functies tussen [!DNL Dynamic Media] in [!DNL Adobe Experience Manager] Activa en [!DNL Adobe Dynamic Media Classic] bureaubladtoepassing.
 feature: Dynamic Media Classic
 role: Admin,User
-source-git-commit: 1b18fbc086fb6296aef8674d8471dd5b15a845c7
+exl-id: eb56533a-4e31-4367-8b68-879cd70c761e
+source-git-commit: fa69e9df791597462db1bad9204c40896ea74020
 workflow-type: tm+mt
-source-wordcount: '151'
+source-wordcount: '157'
 ht-degree: 0%
 
 ---
-
 
 # Functievergelijking
 
@@ -38,8 +38,8 @@ Een tabel voor functievergelijking tussen [!DNL Dynamic Media] in [!DNL Adobe Ex
 | Videocodering | ✓ | ✓ |
 | Toegankelijkheid van viewer | ✓ | ✓ |
 | Viewer Integration met Analytics | ✓ | ✓ |
-| 1:1-sjablonen | - | ✓ |
-| Visual Configurator<br>(productpersonalisatie) | - | ✓ |
+| 1:1-sjablonen | ✓<br>*Gepersonaliseerde mediabundel* | ✓ |
+| Visual Configurator<br>(productpersonalisatie) | ✓<br>*Gepersonaliseerde mediabundel* | ✓ |
 | 3D - Experience Manager Sites<br>WCM-component | ✓ | - |
 | 3D - Interactive Experience Viewer | ✓ | - |
 | 3D - AIR/VR en belangrijkste 3D-bestanden publiceren | ✓ | - |
