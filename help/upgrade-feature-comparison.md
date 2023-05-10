@@ -4,7 +4,7 @@ description: Vergelijkingstabel voor functies tussen [!DNL Dynamic Media] in [!D
 feature: Dynamic Media Classic
 role: Admin,User
 exl-id: eb56533a-4e31-4367-8b68-879cd70c761e
-source-git-commit: 39dabb64c1c14422bf0dff234c01e6daad8ab0b5
+source-git-commit: 56efe781a1f4366f0c9d726332fd6633f50abc99
 workflow-type: tm+mt
 source-wordcount: '157'
 ht-degree: 0%
@@ -29,7 +29,7 @@ Een tabel voor functievergelijking tussen [!DNL Dynamic Media] in [!DNL Adobe Ex
 | Interactieve viewers | ✓ | ✓ |
 | Bestanden manipuleren | ✓ | ✓ |
 | Media Portal | ✓<br>*Bekend als &quot;Brand Portal&quot;* | ✓ |
-| Regelbladen | ✓ | ✓ |
+| Regelsets | ✓ | ✓ |
 | Beveiligde voorvertoning | ✓ | ✓ |
 | Sets (Afbeelding, Draaien, Gemengde media) | ✓<br>*Geen spaties met meerdere assen* | ✓ |
 | Slimme afbeeldingen | ✓ | ✓ |
