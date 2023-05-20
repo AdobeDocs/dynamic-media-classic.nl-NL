@@ -13,7 +13,7 @@ exl-id: 336802cc-b032-49b2-b2e6-d699bc997ee5
 source-git-commit: d43b0791e67d43ff56a7ab85570b9639c2375e05
 workflow-type: tm+mt
 source-wordcount: '640'
-ht-degree: 10%
+ht-degree: 1%
 
 ---
 
@@ -46,7 +46,7 @@ U kunt uw eigen Voorinstellingen voor afbeeldingen maken als u een bedrijfsbehee
 
    Adobe Dynamic Media Classic raadt de volgende opties voor &#39;best practices&#39; aan om te beginnen:
 
-   * **[!UICONTROL Format]** - Kies JPEG of een andere indeling die aan uw eisen voldoet. Alle webbrowsers ondersteunen de JPEG-afbeeldingsindeling. Deze biedt een goede balans tussen kleine bestandsgrootten en afbeeldingskwaliteit. JPEG-afbeeldingen gebruiken echter een compressieschema met dataverlies dat ongewenste afbeeldingsartefacten kan veroorzaken als de compressie-instelling te laag is. Daarom raadt Adobe Dynamic Media Classic aan de compressiekwaliteit (op de schuifregelaar) in te stellen op 75. Deze instelling biedt een goede balans tussen afbeeldingskwaliteit en kleine bestandsgrootte.
+   * **[!UICONTROL Format]** - Kies JPEG of een andere indeling die aan uw eisen voldoet. Alle webbrowsers ondersteunen de indeling voor JPEG-afbeeldingen. het biedt een goede balans tussen kleine bestandsgrootten en afbeeldingskwaliteit. Voor afbeeldingen in de indeling JPEG wordt echter een compressieschema met verlies gebruikt dat ongewenste afbeeldingsartefacten kan veroorzaken als de compressie-instelling te laag is. Daarom raadt Adobe Dynamic Media Classic aan de compressiekwaliteit (op de schuifregelaar) in te stellen op 75. Deze instelling biedt een goede balans tussen afbeeldingskwaliteit en kleine bestandsgrootte.
 
    * **[!UICONTROL Sharpening]** - Selecteer Verscherpen niet (dit verscherpingsfilter biedt minder controle dan **[!UICONTROL Unsharp Masking]** instellingen).
 
@@ -56,10 +56,10 @@ U kunt uw eigen Voorinstellingen voor afbeeldingen maken als u een bedrijfsbehee
 
    | Type voorinstelling | Grootte | USM: Hoeveelheid | USM: Straal | USM: Drempel |
    | --- | --- | --- | --- | --- |
-   | Cross-Sell (miniatuur) | 75 x 75 | 1,5 | 0,8 | 5 |
-   | Miniatuur | 150 x 150 | 1,1 | 1 | 5 |
+   | Cross-Sell (miniatuur) | 75 x 75 | 1.5 | 0.8 | 5 |
+   | Miniatuur | 150 x 150 | 1.1 | 1 | 5 |
    | Hoofd | 350 x 350 | 1 | 1 | 6 |
-   | Vergroten | 500 x 500 | 1,2 | 1,2 | 5 |
+   | Vergroten | 500 x 500 | 1.2 | 1.2 | 5 |
 
 1. Selecteren **[!UICONTROL Save]**.
 

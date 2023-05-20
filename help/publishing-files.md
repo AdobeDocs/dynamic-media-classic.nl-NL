@@ -37,7 +37,7 @@ Sommige &quot;onderliggende&quot; elementen worden automatisch gemarkeerd voor p
 
 | Bovenliggend item (groep) | Onderliggende items (lid) |
 | --- | --- |
-| Afbeeldingsets | Afbeeldingen in de set. |
+| Afbeeldingssets | Afbeeldingen in de set. |
 | Staalsets | Stalen in de set. |
 | Sets draaien | Afbeeldingen in de set. |
 | Sjablonen | Sjabloonbestanden, pagina&#39;s en afbeeldingen. |

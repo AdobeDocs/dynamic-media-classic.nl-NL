@@ -29,7 +29,7 @@ Als beheerder kunt u gebruikers toevoegen en beheren, beslissen of ze wachtwoord
 
 De gebruikers van het Portaal van media, de medewerkers, en de medewerker-gebruikers worden verzonden een welkome e-mailbericht met een wachtwoord wanneer u hen omhoog ondertekent. Beheerders kunnen bepalen of gebruikers van Media Portal dit wachtwoord kunnen wijzigen.
 
-1. Ga naar **[!UICONTROL Setup]** > **[!UICONTROL Media Portal Setup]** > **[!UICONTROL General Settings]**.
+1. Navigeren naar **[!UICONTROL Setup]** > **[!UICONTROL Media Portal Setup]** > **[!UICONTROL General Settings]**.
 1. Schakel op de pagina Algemene instellingen de optie **[!UICONTROL Allow Media Portal user to change Password]**.
 1. Selecteren **[!UICONTROL Save]**.
 
@@ -39,7 +39,7 @@ De gebruikers van het Portaal van media, de medewerkers, en de medewerker-gebrui
 
 ## Gebruikers van een mediaportaal toevoegen {#adding-a-media-portal-user}
 
-1. Ga naar **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Administration Setup]** > **[!UICONTROL User Administration]**.
+1. Navigeren naar **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Administration Setup]** > **[!UICONTROL User Administration]**.
 1. Selecteer op de pagina Gebruikersbeheer de optie **Toevoegen**.
 1. Voer in het dialoogvenster Gebruiker toevoegen in het deelvenster Gebruikersinfo de voornaam, achternaam en e-mailadres van de gebruiker in en selecteer vervolgens **[!UICONTROL Next]**.
 1. Selecteer in het deelvenster Bedrijf/Rol in de vervolgkeuzelijst Bedrijven een bedrijf of bedrijven voor de gebruiker.
@@ -101,7 +101,7 @@ Elke gebruiker in de lijst wordt automatisch toegevoegd aan de opgegeven groepen
 
 U kunt de namen en e-mailadressen van gebruikers van het Portaal van Media in een pop-up venster tonen. Deze lijst is nuttig als u gebruikersnamen en adressen voor gebruik buiten het Portaal van Media wilt knippen en kleven.
 
-1. Ga naar **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Administration Setup]** > **[!UICONTROL User Administration]**.
+1. Navigeren naar **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Administration Setup]** > **[!UICONTROL User Administration]**.
 1. In de **[!UICONTROL By User Role]** drop-down lijst, kies de naam van een Poortgebruikersrol van Media, en selecteer **[!UICONTROL Refresh]** om de namen van één klasse van de gebruiker van het Portaal van Media te tonen.
 1. Selecteren **[!UICONTROL Popup List]**. Kopieer en plak deze lijst.
 
@@ -109,7 +109,7 @@ U kunt de namen en e-mailadressen van gebruikers van het Portaal van Media in ee
 
 U kunt een welkome e-mail verzenden wanneer u nieuwe gebruikers van het Portaal van Media, medewerkers, en medewerker-gebruikers toevoegt. U kunt dit e-mailbericht configureren of Adobe Dynamic Media Classic vertellen het niet te verzenden.
 
-1. Ga naar **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Administration Setup]** > **[!UICONTROL User Administration]**.
+1. Navigeren naar **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Administration Setup]** > **[!UICONTROL User Administration]**.
 1. In het scherm van de Opstelling van het Beleid van de Gebruiker, selecteer **[!UICONTROL Email Settings]**.
 1. Geef in het dialoogvenster E-mailinstellingen een of meer van de volgende instellingen op:
 

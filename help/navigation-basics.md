@@ -53,7 +53,7 @@ De algemene navigatiebalk, die zich boven aan het scherm bevindt, bevat knoppen 
 
 * **[!UICONTROL Sign out]** - Sluit Adobe Dynamic Media Classic af.
 
-## Assetbibliotheek {#asset-library}
+## Elementenbibliotheek {#asset-library}
 
 Gebruik de Asset Library om de elementen te ordenen waarmee u werkt. U kunt mappen en submappen maken om uw elementen te ordenen in de Asset Library.
 

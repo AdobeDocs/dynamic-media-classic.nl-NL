@@ -17,9 +17,9 @@ ht-degree: 0%
 
 # Adobe Analytics-videorapporten inschakelen{#enabling-adobe-analytics-video-reports}
 
-Als u Adobe Analytics-videoverslagen op basis van hartslag gebruikt, hoeft u de vier videoviewergebeurtenissen (Play, Pause, Stop, Milestone) niet meer in te schakelen wanneer u Adobe Analytics in Adobe Dynamic Media Classic configureert. De videokaart werkt met Adobe Dynamic Media Classic HTML 25 Video en Gemengde Media-viewers buiten de box. De videospeler genereert trackinggegevens voor weergave in Adobe Analytics Video Reports.
+Als u Adobe Analytics-videoverslagen op basis van hartslag gebruikt, hoeft u de vier videoviewergebeurtenissen (Play, Pause, Stop, Milestone) niet meer in te schakelen wanneer u Adobe Analytics in Adobe Dynamic Media Classic configureert. De videorecart werkt met Adobe Dynamic Media Classic HTML 25 Video en Gemengde Media-viewers buiten de box. De videospeler genereert trackinggegevens voor weergave in Adobe Analytics Video Reports.
 
-* Voor een inleiding op streamingmedia en &quot;hartslagmeting&quot; raadpleegt u [Informatie over Adobe Analytics for Streaming Media](https://experienceleague.adobe.com/docs/media-analytics/using/media-overview.html#about-adobe-analytics-for-streaming-media).
+* Voor een inleiding op streamingmedia en &quot;hartslagmeting&quot; raadpleegt u [Informatie over Adobe Analytics voor Streaming Media](https://experienceleague.adobe.com/docs/media-analytics/using/media-overview.html#about-adobe-analytics-for-streaming-media).
 
 * De integratie van Adobe Analytics-videorapporten met Adobe Dynamic Media Classic ondersteunt oplossingsvariabelen, maar geen aangepaste variabelen.
 

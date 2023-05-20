@@ -58,7 +58,7 @@ Er worden drie basisuitvoeracties ondersteund:
 
 De volgende elementtypen kunnen niet worden geëxporteerd. Alle andere genereren een exportbewerking.
 
-* Afbeeldingsets
+* Afbeeldingssets
 * Rendersets
 * Sets draaien
 * Mediasets

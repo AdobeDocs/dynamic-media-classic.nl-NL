@@ -21,9 +21,9 @@ Uw werk in Adobe Dynamic Media Classic valt op drie basisgebieden:
 
 * Bestandselementen uploaden naar Adobe Dynamic Media Classic.
 * Uw bestanden beheren zodat u ze kunt gebruiken om rich-media-elementen te maken.
-* Elementbestanden publiceren naar een Dynamic Media Classic-server, zodat deze beschikbaar zijn voor levering aan uw website en toepassing.
+* Elementbestanden publiceren naar een Dynamic Media Classic-server zodat deze beschikbaar zijn voor levering aan uw website en toepassing.
 
-Wanneer u elementbestanden uploadt naar Adobe Dynamic Media Classic en wanneer u elementbestanden publiceert naar Adobe Dynamic Media Classic-servers, registreert het systeem deze bestandsoverdrachten op de **[!UICONTROL Jobs]**-pagina. U kunt naar deze pagina gaan om uw upload- en publicatieactiviteiten te volgen en te controleren.
+Wanneer u elementbestanden uploadt naar Adobe Dynamic Media Classic en elementbestanden publiceert naar Adobe Dynamic Media Classic-servers, worden deze bestandsoverdrachten door het systeem vastgelegd op de **[!UICONTROL Jobs]** pagina. U kunt naar deze pagina gaan om uw upload- en publicatieactiviteiten te volgen en te controleren.
 
 >[!NOTE]
 >

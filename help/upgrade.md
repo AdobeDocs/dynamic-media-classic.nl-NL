@@ -3,13 +3,13 @@ title: Upgrade uitvoeren vanaf Adobe [!DNL Dynamic Media Classic] tot [!DNL Dyna
 description: Upgrade uitvoeren vanaf [!DNL Adobe Dynamic Media Classic] tot [!DNL Dynamic Media] op [!DNL Adobe Experience Manager]. Meer informatie over de belangrijkste voordelen en mogelijkheden van [!DNL Dynamic Media]. Bekijk de vergelijkingslijst van de functielijst, upgrade FAQ en lijst met gereedheidscontroles.
 feature: Dynamic Media Classic
 role: Admin,User
-source-git-commit: 25e4f0d893c5963b648d75f65d099bca09e0f72f
+exl-id: 5e322d81-1303-494b-b5dd-df29b5c5d8e2
+source-git-commit: efe51280ac33579a8e690eb6483488eea9069159
 workflow-type: tm+mt
 source-wordcount: '560'
 ht-degree: 0%
 
 ---
-
 
 # Waarom upgrade uitvoeren naar [!DNL Dynamic Media]?
 
@@ -55,16 +55,3 @@ De nieuwe [!DNL Dynamic Media] op [!DNL Adobe Experience Manager] bouwt op de fu
 * Medialeverancier met de meeste mogelijkheden tot internethandel 1000, negen jaar achter elkaar.
 * 24/7/265 ondersteuning, 99,95% SLA&#39;s, Adobe Professional Services.
 * Aantoonbare infrastructuur die wereldwijd meer dan 800 klanten bedient, 3,5 petabytes per maand en meer dan 500 miljoen bedrijfsmiddelen in beheer, 60% groei van het verkeer van jaar tot jaar.
-
-
-
-
-
-
-
-
-
-
-
-
-

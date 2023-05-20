@@ -45,7 +45,7 @@ Zie ook [Een alias voor een afbeelding maken](adjusting-image.md#creating_an_ali
 
    * Als u de afbeelding wilt opslaan als een nieuwe master afbeelding, selecteert u **[!UICONTROL Save As]**.
 
-      Selecteer in de vervolgkeuzelijst  de optie **[!UICONTROL Save as new master]**.
+      Selecteer in de vervolgkeuzelijst de optie **[!UICONTROL Save as new master]**.
 In de **[!UICONTROL Folder Name]** selecteert u de map waarin u de nieuwe primaire afbeelding wilt opslaan.
 Selecteren **[!UICONTROL Save]**.
 

@@ -60,7 +60,7 @@ Wanneer u Afbeeldingskaarten maakt, kunt u het volgende doen:
 
 1. Als u rollovertekst wilt weergeven wanneer gebruikers de aanwijzer over de Afbeeldingskaart bewegen, voert u de tekst in de lijst Afbeeldingskaart in. Selecteer in de lijst Afbeeldingskaart de optie **[!UICONTROL Show]** en selecteert u **[!UICONTROL Rollover Text]**. Voer vervolgens de tekst in die gebruikers op het scherm moeten zien. U kunt de tekst in een tekstverwerker schrijven en het kopiëren in het de tekstgebied van het Omvergooien.
 
-1. Als u een ander actieeffect wilt voorkomen wanneer de gebruikers de muis over een Kaart van het Beeld bewegen, bepaal de actie. Selecteer in de vervolgkeuzelijst **[!UICONTROL Show]** de optie **[!UICONTROL Other Actions]**. Voer de kenmerken van de handeling in. (Ga naar **[!UICONTROL Show]** > **[!UICONTROL Both]** om rollover-tekst en een handeling voor een afbeelding met hyperlinks te maken.)
+1. Als u een ander actieeffect wilt voorkomen wanneer de gebruikers de muis over een Kaart van het Beeld bewegen, bepaal de actie. In de **[!UICONTROL Show]** vervolgkeuzelijst, selecteert u **[!UICONTROL Other Actions]**. Voer de kenmerken van de handeling in. (Ga naar **[!UICONTROL Show]** > **[!UICONTROL Both]** om rollover-tekst en een handeling voor een afbeelding met hyperlinks te maken.)
 
    Zie [Andere handelingen voor afbeeldingen met hyperlinks definiëren](creating-image-maps.md#defining_other_actions_for_image_maps).
 
@@ -212,7 +212,7 @@ Raadpleeg de Help bij Adobe InDesign of Adobe Acrobat voor meer informatie.
 1. Herhaal stap 2 tot en met 6 voor alle afbeeldingen met hyperlinks die u wilt maken.
 1. Exporteer het bestand als een PDF.
 1. Upload de PDF naar Adobe Dynamic Media Classic.
-1. In **[!UICONTROL PDF Options]** selecteert u **[!UICONTROL Extract Links]**.
+1. In **[!UICONTROL PDF Options]**, selecteert u **[!UICONTROL Extract Links]**.
 
 ### Afbeeldingen met hyperlinks maken in Adobe Acrobat {#to-create-image-maps-in-adobe-acrobat}
 

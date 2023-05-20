@@ -3,13 +3,13 @@ title: Gereedheid voor upgrade
 description: Controlelijst voor gereedheid voor upgrades wanneer u wilt overstappen van [!DNL Adobe Dynamic Media Classic] tot [!DNL Dynamic Media] op [!DNL Adobe Experience Manager].
 feature: Dynamic Media Classic
 role: Admin,User
-source-git-commit: 25e4f0d893c5963b648d75f65d099bca09e0f72f
+exl-id: 86537998-b7e9-449c-83eb-6fd04533a00f
+source-git-commit: efe51280ac33579a8e690eb6483488eea9069159
 workflow-type: tm+mt
 source-wordcount: '216'
 ht-degree: 0%
 
 ---
-
 
 # Controlelijst voor gereedheid voor upgrade
 

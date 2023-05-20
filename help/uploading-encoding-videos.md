@@ -163,10 +163,10 @@ In de volgende tabel wordt beschreven hoe de resultaten van de formule worden om
 
 | Resultaat van formule | Hoogte-breedteverhouding |
 | --- | --- |
-| 1,33 | 4:3 |
-| 0,75 | 3:4 |
-| 1,78 | 16:9 |
-| 0,56 | 9:16 |
+| 1.33 | 4:3 |
+| 0.75 | 3:4 |
+| 1.78 | 16:9 |
+| 0.56 | 9:16 |
 
 Een video van 1440 x 1080 hoogte heeft bijvoorbeeld een hoogte-breedteverhouding van 1440/1080 of 1,33. In dit geval kiest u een voorinstelling voor videocodering met een hoogte-breedteverhouding van 4:3 om het videobestand te coderen.
 
@@ -197,8 +197,8 @@ Resolutie en gegevenssnelheid zijn twee geïntegreerde gekoppelde factoren die d
 
 | Resolutie | Pixels per frame |
 | --- | --- |
-| 320 x 240 | 76 800 |
-| 640 x 480 | 307 200 |
+| 320 x 240 | 76,800 |
+| 640 x 480 | 307,200 |
 
 Het bestand van 640 x 480 heeft vier keer zoveel pixels per frame. Als u voor deze twee voorbeeldresoluties dezelfde gegevenssnelheid wilt bereiken, past u viermaal de compressie toe op het bestand van 640 x 480, waardoor de kwaliteit van de video kan afnemen. Daarom levert een videogegevenssnelheid van 250 Kbps beelden van hoge kwaliteit bij een resolutie van 320 x 240, maar niet bij een resolutie van 640 x 480.
 

@@ -85,7 +85,7 @@ In deze tabel wordt aangegeven welke andere opties beschikbaar zijn voor verschi
 | FXG-bestanden | Bewerken | Ja |
 | ICC-profielen | Profielgegevens bewerken | Nee |
 | Illustrator-bestanden | Nee (tenzij omgezet in FXG) | Nee |
-| Afbeeldingsets | Bewerken | Ja |
+| Afbeeldingssets | Bewerken | Ja |
 | InDesign-bestanden | Nee (tenzij omgezet in FXG) | Nee |
 | PDF-bestanden | Nee | Nee |
 | PSD-bestanden | Ja voor afzonderlijke lagen | Ja voor afzonderlijke lagen |

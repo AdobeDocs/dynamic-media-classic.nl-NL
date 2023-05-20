@@ -11,7 +11,7 @@ exl-id: 3f96606e-ef5c-4c01-aa0f-3148f14e28be
 source-git-commit: d43b0791e67d43ff56a7ab85570b9639c2375e05
 workflow-type: tm+mt
 source-wordcount: '10713'
-ht-degree: 2%
+ht-degree: 1%
 
 ---
 
@@ -69,7 +69,7 @@ Zie ook [De service Beveiligde tests testen](testing-assets-making-them-public.m
 
    Nadat u uw Malplaatje van de Invalidatie CDN hebt geselecteerd, en een ongeldig CDN verzoek gemaakt, duikt een indicator op in het gebruikersinterface. Het geeft u een schatting van hoe lang het duurt om het geheime voorgeheugen te ontruimen.
 
-   Op dezelfde manier als er in Adobe Dynamic Media Classic meerdere afbeeldingen zijn geselecteerd wanneer u naar **[!UICONTROL File]** > **[!UICONTROL Invalidate CDN]**, wordt naar elke afbeelding verwezen in de opgeslagen sjabloon-URL. Daarom kunt u CDN bepalen ongeldig Malplaatje dat van verwijzingen voorziet elke URL die op uw Website (zoals productdetail en onderzoeksresultaten) wordt voorzien. Wanneer u vervolgens een of meer afbeeldingen selecteert om ongeldig te worden gemaakt door het cachegeheugen, vullen de URL&#39;s automatisch de interface in.
+   Op dezelfde manier als er in Adobe Dynamic Media Classic meerdere afbeeldingen zijn geselecteerd wanneer u naar **[!UICONTROL File]** > **[!UICONTROL Invalidate CDN]**, wordt naar elke afbeelding verwezen in de opgeslagen sjabloon-URL. Daarom kunt u CDN bepalen ongeldig Malplaatje dat van verwijzingen voorziet elke URL die op uw Website (zoals productdetail en onderzoeksresultaten) wordt voorzien. Wanneer u vervolgens een of meer afbeeldingen selecteert om te worden geannuleerd door het cachegeheugen, vullen de URL&#39;s automatisch de interface in.
 
    Zie [Inhoud in cache plaatsen](dmc-platform-overview.md#content_caching).
 
@@ -550,7 +550,7 @@ In de volgende tabel worden de bewegingen van de mobiele viewer weergegeven die 
 | Universal_HTML5_ImageSet_donker | HTML5 | X | X | X | X | X |
 | Universal_HTML5_ImageSet_light | HTML5 | X | X | X | X | X |
 
-### Het scherm Voorinstellingen van viewer {#about-the-viewer-preset-screen}
+### Het scherm Viewer Preset {#about-the-viewer-preset-screen}
 
 Maak en beheer Viewer Presets op het scherm Viewer Presets. Ga naar **[!UICONTROL Setup]** > **[!UICONTROL Viewer Presets]**.
 
@@ -894,7 +894,7 @@ De bedrijfsbeheerder maakt een standaardnaamgevingsconventie die wordt gebruikt 
 U hoeft geen standaardnaamgevingsconventie in te stellen als u de functie voor voorinstellingen voor batchsets wilt gebruiken. Nochtans, adviseert de beste praktijken van de Adobe dat u een standaardnoemende overeenkomst gebruikt om zo vele elementen van uw noemende overeenkomst te bepalen die u in een reeks wilt groeperen. Zo kunt u het maken van batchsets stroomlijnen.
 
 1. Ga naar **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Batch Set Presets]** > **[!UICONTROL Default Naming]**.
-1. Selecteer **[!UICONTROL View Form]** of **[!UICONTROL View Code]** om op te geven hoe u informatie over elke asset wilt weergeven en invoeren.
+1. Selecteren **[!UICONTROL View Form]** of **[!UICONTROL View Code]** om op te geven hoe u informatie over elk element wilt weergeven en invoeren.
 
    U kunt de **[!UICONTROL View Code]** Schakel het selectievakje in om de waarde van de reguliere expressie naast de formulierselecties weer te geven. U kunt deze waarden invoeren of wijzigen om de elementen van de naamgevingsconventie te definiëren, als de formulierweergave u beperkt om welke reden dan ook. Als uw waarden niet kunnen worden geparseerd in de formulierweergave, worden de formuliervelden inactief.
 
@@ -967,7 +967,7 @@ Met deze informatie kunt u het recept voor Type batch-set als volgt maken:
 
 ![Batchsetrecept](assets/se_batch_set_recipe.png)
 
-De groepering voor het gedeelde element naamdeel van de spinset wordt toegevoegd aan het veld Overeenkomst (zoals gemarkeerd). Het variabele gedeelte van de naam van de asset met de rij en kolom wordt toegevoegd aan respectievelijk de velden Rij en Kolom.
+De groepering voor het gedeelde element naamdeel van de spinset wordt toegevoegd aan het veld Overeenkomst (zoals gemarkeerd). Het variabele gedeelte van de elementnaam die de rij en kolom bevat, wordt toegevoegd aan respectievelijk de velden Rij en Kolom.
 
 Wanneer de centrifugeerset wordt geüpload en gepubliceerd, activeert u de naam van het 2D-centrifugesetrecept dat onder **[!UICONTROL Batch Set Presets]** in het dialoogvenster Taakopties uploaden.
 
@@ -976,10 +976,10 @@ Wanneer de centrifugeerset wordt geüpload en gepubliceerd, activeert u de naam 
 1. Ga naar **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Batch Set Presets]** > **[!UICONTROL Batch Set Preset]**. **[!UICONTROL View Form]**, zoals ingesteld in de rechterbovenhoek van de pagina Details, is de standaardweergave.
 1. Selecteer in het deelvenster Lijst met voorinstellingen de optie **[!UICONTROL Add]** om de definitievelden in het paneel van Details aan de rechterkant van de pagina te activeren.
 1. Typ in het veld Naam voorinstelling in het deelvenster Details een naam voor de voorinstelling.
-1. Selecteer in het vervolgkeuzemenu Batchsettype de optie **[!UICONTROL Asset Set]**.
+1. Selecteer in de vervolgkeuzelijst Batchsettype de optie **[!UICONTROL Asset Set]**.
 1. Selecteer in de vervolgkeuzelijst Subtype de optie **[!UICONTROL Multi-Axis Spin Set]**.
 1. Uitbreiden **[!UICONTROL Asset Naming Conventions]** en selecteer vervolgens in de vervolgkeuzelijst Bestandsnaamgeving de optie **[!UICONTROL Custom]**.
-1. Gebruik de kenmerken **[!UICONTROL Match]** en (optioneel) **[!UICONTROL Base Name]** om een reguliere expressie te definiëren voor de naamgeving van afbeeldingsassets waaruit de groepering bestaat.
+1. Gebruik de **[!UICONTROL Match]** en eventueel **[!UICONTROL Base Name]** kenmerken om een reguliere expressie te definiëren voor de naamgeving van afbeeldingselementen waaruit de groepering bestaat.
 
    De reguliere expressie Letterlijke overeenkomst kan er bijvoorbeeld als volgt uitzien:
 

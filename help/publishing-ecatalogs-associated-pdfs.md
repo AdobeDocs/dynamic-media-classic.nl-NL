@@ -33,7 +33,7 @@ Bij het publiceren worden uw eCatalog en PDF op Dynamic Media Image Servers gepl
 
    Als u uw eCatalog opstelt zodat de kijkers sleutelwoordonderzoeken kunnen uitvoeren, zorg ervoor dat de sleutelwoordgegevens worden gepubliceerd. Selecteer in het dialoogvenster Publiceren de optie **[!UICONTROL Advanced]**. Van de **[!UICONTROL Publish]** vervolgkeuzelijst, selecteert u **[!UICONTROL Full w/ Search Data]**. Deze optie is standaard ingeschakeld.
 
-1. Klik op **[!UICONTROL Submit Publish]**.
+1. Klikken **[!UICONTROL Submit Publish]**.
 
 >[!MORELIKETHIS]
 >

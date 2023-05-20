@@ -13,7 +13,7 @@ exl-id: bfb9c5a4-5068-4adb-9fe2-a4ead8656289
 source-git-commit: d43b0791e67d43ff56a7ab85570b9639c2375e05
 workflow-type: tm+mt
 source-wordcount: '841'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -99,4 +99,4 @@ Met het scherm Pagina&#39;s toewijzen kunt u de tekst in het deelvenster Info vo
 1. Selecteren **[!UICONTROL Map Pages]**.
 1. Kies boven aan de tabel rechts in het scherm de optie **[!UICONTROL Info Panel]** in het menu Tonen.
 
-   De rollover-toetstekst verschijnt naast elke afbeelding met hyperlinks die tekst van het infodeelvenster bevat.
+   De rollover-sleuteltekst verschijnt naast elke Kaart van het Beeld die de tekst van het Comité van Info bevat.
