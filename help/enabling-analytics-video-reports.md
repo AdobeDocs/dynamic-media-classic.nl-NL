@@ -8,7 +8,7 @@ geptopics: SG_SCENESEVENONDEMAND_PK/categories/adobe_analytics_instrumentation_k
 feature: Dynamic Media Classic
 role: Data Engineer,Admin,User
 exl-id: 9d017742-1ed2-411d-a8a6-438102bf1557
-source-git-commit: d43b0791e67d43ff56a7ab85570b9639c2375e05
+source-git-commit: 972e5d4f468f14bd40e970c989465a639fd5e6fb
 workflow-type: tm+mt
 source-wordcount: '250'
 ht-degree: 0%
@@ -19,11 +19,11 @@ ht-degree: 0%
 
 Als u Adobe Analytics-videoverslagen op basis van hartslag gebruikt, hoeft u de vier videoviewergebeurtenissen (Play, Pause, Stop, Milestone) niet meer in te schakelen wanneer u Adobe Analytics in Adobe Dynamic Media Classic configureert. De videorecart werkt met Adobe Dynamic Media Classic HTML 25 Video en Gemengde Media-viewers buiten de box. De videospeler genereert trackinggegevens voor weergave in Adobe Analytics Video Reports.
 
-* Voor een inleiding op streamingmedia en &quot;hartslagmeting&quot; raadpleegt u [Informatie over Adobe Analytics voor Streaming Media](https://experienceleague.adobe.com/docs/media-analytics/using/media-overview.html#about-adobe-analytics-for-streaming-media).
+* Voor een inleiding op streamingmedia en &#39;hartslagmeting&#39; raadpleegt u [Informatie over Adobe Analytics voor Streaming Media](https://experienceleague.adobe.com/docs/media-analytics/using/media-overview.html#about-adobe-analytics-for-streaming-media).
 
 * De integratie van Adobe Analytics-videorapporten met Adobe Dynamic Media Classic ondersteunt oplossingsvariabelen, maar geen aangepaste variabelen.
 
-   Zie [Parameters voor audio en video](https://experienceleague.adobe.com/docs/media-analytics/using/metrics-and-metadata/audio-video-parameters.html#metrics-and-metadata) voor meer informatie over oplossingsvariabelen en douanevariabelen.
+   Zie [Parameters voor audio en video](https://experienceleague.adobe.com/docs/media-analytics/using/implementation/variables/audio-video-parameters.html) voor meer informatie over oplossingsvariabelen en douanevariabelen.
 
 * De uit-van-de-doos segmenten van één-minieme toename worden gesteund. Aangepaste segmentrapportage, zoals door de klant gedefinieerde mijlpalen op basis van tijdstappen, procentuele mijlpaal of verschuivingsmijlpalen, wordt echter niet ondersteund.
 

@@ -9,7 +9,7 @@ discoiquuid: a0941823-850c-4373-9e37-f32032de3805
 feature: Dynamic Media Classic,Viewers,Video
 role: User
 exl-id: 93ad91d7-f3dd-484b-b62c-633fcb864bbf
-source-git-commit: d43b0791e67d43ff56a7ab85570b9639c2375e05
+source-git-commit: 972e5d4f468f14bd40e970c989465a639fd5e6fb
 workflow-type: tm+mt
 source-wordcount: '3862'
 ht-degree: 1%
@@ -23,7 +23,7 @@ Als u één video of adaptieve videosets wilt maken voor levering op het web of 
 * **MP4** - Adobe Dynamic Media Classic raadt MP4 aan als de voorkeursindeling voor videobestanden. Gebruik MP4-bestanden voor het volgende:
 
    * HTTP Dynamic Streaming op desktops.
-   * Live HTTP-streaming (streamingprotocol van Apple).
+   * Live HTTP-streaming (Apple-streamingprotocol).
    * Progressieve video-levering aan mobiele Android™-, BlackBerry®- en Windows®-apparaten
 
    Adobe Dynamic Media Classic biedt twee workflows voor het uploaden van videobestanden:
@@ -108,7 +108,7 @@ De volgende tabel bevat een lijst met videobestandstypen (met toegestane videoco
    | M2V | MPEG-2 ES |
    | M4V | H.264 |
    | MOV | DV, DVCPro 50, H.261, H.263, H.264, Sorenson Video 1 |
-   | MP4 | H.264/MPEG-4 AVC |
+   | MP4 | H.264 / MPEG-4 AVC |
    | MPEG | MPEG-2 SS |
    | MPG | MPEG-2 SS |
    | MTS | MPEG-2 |
@@ -178,7 +178,7 @@ De *gegevenssnelheid* (ook wel *bitsnelheid*) is de hoeveelheid gegevens die is 
 >
 >Omdat in alle codecs compressie met verlies wordt gebruikt, is de gegevenssnelheid de belangrijkste factor voor de videokwaliteit. Bij compressie met verlies neemt de kwaliteit af naarmate u een videobestand comprimeert. Daarom zijn alle andere eigenschappen gelijk (de resolutie, framesnelheid en codec), hoe lager de gegevenssnelheid, hoe lager de kwaliteit van het gecomprimeerde bestand.
 
-Wanneer u een voorinstelling voor videocodering kiest, moet u rekening houden met de verbindingssnelheid van de eindgebruiker van het doel. Kies een voorinstelling met een gegevenssnelheid van 80 procent van die snelheid. Als de verbindingssnelheid van de eindgebruiker van het doel bijvoorbeeld 1000 Kbps is, is de beste voorinstelling een snelheid met een videogegevenssnelheid van 800 Kbps.
+Wanneer u een voorinstelling voor videocodering kiest, moet u rekening houden met de verbindingssnelheid van de eindgebruiker. Kies een voorinstelling met een gegevenssnelheid van 80 procent van die snelheid. Als de verbindingssnelheid van de eindgebruiker van het doel bijvoorbeeld 1000 Kbps is, is de beste voorinstelling een snelheid met een videogegevenssnelheid van 800 Kbps.
 
 In deze tabel wordt de gegevenssnelheid beschreven van standaardverbindingssnelheden.
 

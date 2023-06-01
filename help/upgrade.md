@@ -4,9 +4,9 @@ description: Upgrade uitvoeren vanaf [!DNL Adobe Dynamic Media Classic] tot [!DN
 feature: Dynamic Media Classic
 role: Admin,User
 exl-id: 5e322d81-1303-494b-b5dd-df29b5c5d8e2
-source-git-commit: efe51280ac33579a8e690eb6483488eea9069159
+source-git-commit: 972e5d4f468f14bd40e970c989465a639fd5e6fb
 workflow-type: tm+mt
-source-wordcount: '560'
+source-wordcount: '559'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ De nieuwe [!DNL Dynamic Media] op [!DNL Adobe Experience Manager] bouwt op de fu
 | Eenvoudig ontwerpen | Ontwikkel, pas, en lanceer rijke ervaringen zonder de behoefte aan technische hulp snel aan. |
 | Intuïtieve interface | Bewerk beeldviewers en videospelers met een eenvoudig te gebruiken WYSIWYG-interface (Wat u ziet wat u krijgt). |
 | Schorsbare media | Maak onoverzichtelijke afbeeldingen, video&#39;s en carrousels met hotspots voor afbeeldingen en klikbare koppelingen. |
-| Schaalbare CDN | Heb toegang tot het best-in-klasse Netwerk van de Levering van de Inhoud (CDN) met bewezen schaal en prestaties om aan om het even welke vraag te voldoen. |
+| Scalable CDN (Content Delivery Network) | Heb toegang tot best-in-klasse CDN met bewezen schaal en prestaties om aan om het even welke vraag te voldoen. |
 | Dynamic Imaging | Met één primair bestand genereert en publiceert u een onbeperkt aantal versies, waarbij u de grootte, indeling, resolutie, uitsnijding of effect wijzigt. |
 | Dynamische video | Volledige video wordt automatisch van formaat aangepast voor alle schermen en wordt adaptief gestreamd voor een consistente gebruikerservaring van kwaliteit. |
 | Personalisatie | Eenvoudig maken en publiceren [!DNL Dynamic Media] interactieve ervaringen, zoals productconfigurators, gepersonaliseerde banners, en e-mails. |
@@ -54,4 +54,4 @@ De nieuwe [!DNL Dynamic Media] op [!DNL Adobe Experience Manager] bouwt op de fu
 * Sterke prestaties in 2016 Online Video Platform rapport.
 * Medialeverancier met de meeste mogelijkheden tot internethandel 1000, negen jaar achter elkaar.
 * 24/7/265 ondersteuning, 99,95% SLA&#39;s, Adobe Professional Services.
-* Aantoonbare infrastructuur die wereldwijd meer dan 800 klanten bedient, 3,5 petabytes per maand en meer dan 500 miljoen bedrijfsmiddelen in beheer, 60% groei van het verkeer van jaar tot jaar.
+* Bewezen infrastructuur die wereldwijd meer dan 800 klanten bedient, 3,5-petabytes verkeer per maand en meer dan 500 miljoen activa in beheer, 60% groei van verkeer jaar-over-jaar.

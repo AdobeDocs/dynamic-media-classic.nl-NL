@@ -10,7 +10,7 @@ discoiquuid: ba5d1fb1-af54-471c-a471-853ace7f72fd
 feature: Dynamic Media Classic,Viewers,Image Sets
 role: User
 exl-id: 09fafdb4-51e2-4719-83b6-056f79d1ba9e
-source-git-commit: 1d71cbe6e2493ac8d47e837a20e194b6ae7a22d4
+source-git-commit: 972e5d4f468f14bd40e970c989465a639fd5e6fb
 workflow-type: tm+mt
 source-wordcount: '754'
 ht-degree: 0%
@@ -66,7 +66,7 @@ Houd bij het opmaken van broninhoud rekening met de volgende richtlijnen:
 ### CSV-inhoud importeren in afbeeldingssets vanaf een extern gehoste locatie {#import-csv-content-into-image-sets-from-an-externally-hosted-location}
 
 1. Dubbelklik op de Afbeeldingsset zodat deze in de gedetailleerde weergave wordt geopend.
-1. Selecteren **[!UICONTROL InfoPanel Datafeed]**.
+1. Selecteren **[!UICONTROL InfoPanel Data feed]**.
 1. Voer in het tekstveld HTTP (External Hosted CSV file location) de URL naar het CSV-bestand in.
 1. (Optioneel) Geef in de velden Update plannen een tijd op om de inhoud bij te werken en selecteer vervolgens **[!UICONTROL Add]**.
 
