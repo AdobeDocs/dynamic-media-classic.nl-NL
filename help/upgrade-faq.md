@@ -4,9 +4,9 @@ description: Veelgestelde vragen (FAQ) wanneer u een upgrade uitvoert van [!DNL 
 feature: Dynamic Media Classic
 role: Admin,User
 exl-id: 5c2e2937-fe4f-4b64-bee8-9572ca84695b
-source-git-commit: 972e5d4f468f14bd40e970c989465a639fd5e6fb
+source-git-commit: 358284e6c9888e5188bec35eb7b5408563a71bad
 workflow-type: tm+mt
-source-wordcount: '1532'
+source-wordcount: '1540'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ ht-degree: 0%
 * Beheer van digitale middelen op bedrijfsniveau met robuuste ondersteuning voor metagegevens, slim zoeken, lichtbak en verzamelingen, versiebeheer en veilig delen van middelen voor gebruik door leveranciers, partners en franchisenemers Workflows voor revisie en goedkeuring van werk in procesmiddelen.
 * Eenvoudig te implementeren en te gebruiken met nieuwe gebruikersinterface.
 * Maak schitterende/interactieve media-ervaringen met afbeeldingen en video die de conversie stimuleren en de betrokkenheid en tevredenheid van gebruikers vergroten.
-* Gestroomlijnd klikken op winkelwagentje door campagnemiddelen te combineren met productinformatie.
+* Combineer campagnemiddelen met productinformatie om de klik naar winkelwagentje te stroomlijnen.
 * Maak, pas interactieve viewers eenvoudig aan, merk ze aan en implementeer ze met de WYSIWYG Viewer Designer.
 * Geoptimaliseerde rijke media leveren aan [!DNL Experience Cloud] oplossingen.
 * Integratie met [!DNL Experience Cloud] voor geavanceerde assetanalyse, richten zich, en activa hergebruik over marketing aanraakpunten. Deze aanraakpunten omvatten: [!DNL Adobe Campaign] voor e-mail, [!DNL Adobe Social] voor sociale kanalen, en [!DNL Experience Manager] Sites voor responsieve web- en mobiele apps.
@@ -43,7 +43,7 @@ Ja, [!DNL Dynamic Media] Maakt gebruik van robuuste Adobe, op hoofdniveau.
 
 * Medialeverancier met de meeste mogelijkheden tot internethandel 1000, negen jaar achter elkaar.
 * 24/7/265 ondersteuning, 99,95% SLA&#39;s.
-* Bewezen infrastructuur die wereldwijd meer dan 800 klanten, 3,5-PB verkeer per maand en meer dan 500 miljoen activa in beheer, 60% groei van het verkeer over jaar.
+* Aantoonbare infrastructuur die wereldwijd meer dan 800 klanten bedient, 3,5 petabytes per maand en meer dan 500 miljoen bedrijfsmiddelen, 60% groei van het verkeer per jaar.
 
 +++
 
@@ -175,7 +175,7 @@ Adobe blijft volledig ondersteunen en onderhouden [!DNL Dynamic Media Classic] (
 +++
 
 +++**Hoeveel opslagruimte wordt meegeleverd [!DNL Dynamic Media]?**
-Opslag van 60 GB is inbegrepen. U kunt extra opslagruimte aanschaffen in blokken van 250 GB. Controleer de contractgegevens om de huidige opslagtoewijzing te verkrijgen.
+Er is 60 gigabyte opslagruimte inbegrepen. U kunt extra opslagruimte aanschaffen in blokken van 250 GB. Controleer uw contractdetails om uw huidige opslagtoewijzing te verkrijgen.
 
 +++
 
@@ -205,7 +205,7 @@ Ja. U kunt uw eigen CDN gebruiken met [!DNL Dynamic Media].
 +++
 
 +++**doet [!DNL Dynamic Media] Heb ik de functies die ik moet upgraden? Welke functies zijn beschikbaar bij [!DNL Dynamic Media] op [!DNL Experience Manager] Middelen?**
-Zie de [Functievergelijking](/help/upgrade-feature-comparison.md) pagina.
+Zie de [Functievergelijking](/help/upgrade-feature-comparison.md) pagina voor meer informatie.
 
 +++
 
@@ -216,7 +216,7 @@ Klanten die het volgende vereisen, kunnen toegang blijven hebben tot [!DNL Dynam
 * Afbeeldingssjablonen.
 * eCatalogs.
 
-Zie ook de [Functievergelijking](/help/upgrade-feature-comparison.md) pagina.
+Zie ook de [Functievergelijking](/help/upgrade-feature-comparison.md) pagina voor meer informatie.
 
 +++
 

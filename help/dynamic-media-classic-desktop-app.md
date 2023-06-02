@@ -8,7 +8,7 @@ geptopics: SG_SCENESEVENONDEMAND_PK/categories/introducing_adobe_dynamic_media_c
 feature: Dynamic Media Classic
 role: Admin,User
 exl-id: 604b4630-4704-4254-84b5-91b33bb19d58
-source-git-commit: 972e5d4f468f14bd40e970c989465a639fd5e6fb
+source-git-commit: 358284e6c9888e5188bec35eb7b5408563a71bad
 workflow-type: tm+mt
 source-wordcount: '1944'
 ht-degree: 0%
@@ -44,7 +44,7 @@ Upgrademelding in de Adobe Dynamic Media Classic-bureaubladtoepassing wordt niet
 
 ## Oplossingen in de nieuwste versie (20.22.1) {#release-jan2022}
 
-* Afbeelding bewerken **[!UICONTROL Save]** de knoppen waren niet functioneel.
+* Beeldbewerking **[!UICONTROL Save]** de knoppen waren niet functioneel.
 * In de Vastgestelde redacteurs, **[!UICONTROL Close]**, **[!UICONTROL Save]**, en **[!UICONTROL Save As]** knoppen worden uitgeschakeld na het schuiven van elementen in het dialoogvenster **[!UICONTROL Add Assets]** deelvenster.
 * **[!UICONTROL Play]** werkte niet.
 * Kan niet invoeren `d` en `e` in **[!UICONTROL Username]** en **[!UICONTROL Password]** velden wanneer macOS Monterey wordt uitgevoerd.
@@ -89,7 +89,7 @@ Upgrademelding in de Adobe Dynamic Media Classic-bureaubladtoepassing wordt niet
 Zie ook:
 
 * [Download en stil de nieuwste Adobe Dynamic Media Classic desktop app op Mac](#install-silent-mac-dmc-app)
-* [Download en stil de nieuwste Adobe Dynamic Media Classic-bureaubladtoepassing in Windows](#install-silent-windows-dmc-app)
+* [Download en stil de nieuwste Adobe Dynamic Media Classic desktop app op Windows®](#install-silent-windows-dmc-app)
 
 1. Verwijder eventuele oudere versies van Adobe Dynamic Media Classic-bureaubladtoepassingen op uw systeem.
 
@@ -108,7 +108,7 @@ Zie ook:
 <!--         * [macOS (.DMG) - Download](https://download.macromedia.com/dynamic-media-classic/20.21.3/adobe-dynamic-media-classic-20.21.3.dmg) -->
 
 <!--    * [macOS (.DMG) - Download](https://download.macromedia.com/dynamic-media-classic/20.21.2/adobe-dynamic-media-classic-20.21.2.dmg)
-        * [Windows&reg; (.EXE) - Download](https://download.macromedia.com/dynamic-media-classic/20.21.2/adobe-dynamic-media-classic-20.21.2.exe) -->
+        * [Windows® (.EXE) - Download](https://download.macromedia.com/dynamic-media-classic/20.21.2/adobe-dynamic-media-classic-20.21.2.exe) -->
 
 <!--    * [macOS (.DMG) - Download.](https://download.macromedia.com/dynamic-media-classic/20.20.2/adobe-dynamic-media-classic-20.20.2.dmg)
         * [Windows (.EXE) - Download.](https://download.macromedia.com/dynamic-media-classic/20.20.2/adobe-dynamic-media-classic-20.20.2.exe) -->
@@ -147,8 +147,8 @@ Zie ook:
 
 Zie ook:
 
-* [Download en installeer de nieuwste Adobe Dynamic Media Classic-bureaubladtoepassing op Mac of Windows](#installation-dmc-app)
-* [Download en stil de nieuwste Adobe Dynamic Media Classic-bureaubladtoepassing in Windows](#install-silent-windows-dmc-app)
+* [Download en installeer de nieuwste Adobe Dynamic Media Classic desktop app op Mac of Windows®](#installation-dmc-app)
+* [Download en stil de nieuwste Adobe Dynamic Media Classic desktop app op Windows®](#install-silent-windows-dmc-app)
 
 Om te downloaden en *stil* Installeer de nieuwste versie van de Adobe Dynamic Media Classic-bureaubladtoepassing op macOS:
 
@@ -189,7 +189,7 @@ Het bevel dat u gebruikt is voor een basisMSI stille installatie. Het installati
 
 Zie ook:
 
-* [Download en installeer de nieuwste Adobe Dynamic Media Classic-bureaubladtoepassing op Mac of Windows](#installation-dmc-app)
+* [Download en installeer de nieuwste Adobe Dynamic Media Classic desktop app op Mac of Windows®](#installation-dmc-app)
 
 * [Download en stil de nieuwste Adobe Dynamic Media Classic desktop app op macOS](#install-silent-mac-dmc-app)
 

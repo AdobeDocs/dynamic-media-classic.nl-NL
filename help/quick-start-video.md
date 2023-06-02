@@ -8,7 +8,7 @@ geptopics: SG_SCENESEVENONDEMAND_PK/categories/video
 feature: Dynamic Media Classic,Viewers,Video
 role: User
 exl-id: 1157400c-b33a-422e-848c-258660ddc748
-source-git-commit: 972e5d4f468f14bd40e970c989465a639fd5e6fb
+source-git-commit: 358284e6c9888e5188bec35eb7b5408563a71bad
 workflow-type: tm+mt
 source-wordcount: '1760'
 ht-degree: 0%
@@ -21,7 +21,7 @@ Adobe Dynamic Media Classic Video is een end-to-end oplossing waarmee u eenvoudi
 
 Op een mobiel iOS-apparaat wordt bijvoorbeeld een bandbreedte gedetecteerd, zoals 3G, 4G of Wi-Fi. Vervolgens wordt automatisch de naar rechts gecodeerde video geselecteerd bij de verschillende bitsnelheden van de video in de adaptieve videoset. De video wordt gestreamd naar desktops, mobiele apparaten of tablets.
 
-Bovendien wordt de videokwaliteit automatisch dynamisch geschakeld als de netwerkomstandigheden veranderen op het bureaublad of op het mobiele apparaat. Als een klant de modus Volledig scherm op een desktopcomputer inschakelt, reageert de Adaptive Video Set met een betere resolutie, waardoor de kijkervaring van de klant wordt verbeterd. Met Adaptieve videosets kunt u Adobe Dynamic Media Classic-video op meerdere schermen en apparaten het best afspelen.
+Bovendien wordt de videokwaliteit automatisch dynamisch geschakeld als de netwerkomstandigheden veranderen op het bureaublad of op het mobiele apparaat. Ook, als een klant volledig-schermwijze op een Desktop ingaat, antwoordt de Adaptieve VideoReeks door een betere resolutie te gebruiken, verbeterend de het bekijken van de klant ervaring. Met Adaptieve videosets kunt u Adobe Dynamic Media Classic-video op meerdere schermen en apparaten het best afspelen.
 
 De logica die een videospeler gebruikt om te bepalen welke gecodeerde video moet worden afgespeeld of tijdens het afspelen moet worden geselecteerd, is gebaseerd op het volgende algoritme:
 
@@ -66,7 +66,7 @@ Wanneer een adaptieve videoset wordt gegenereerd, bevat deze MP4-video&#39;s.
 
    U kunt Windows®-apparaten die deze video-indeling ondersteunen als volgt vinden:
 
-   Zie [Ondersteunde video-indelingen op Windows® Phone](https://learn.microsoft.com/en-us/).
+   Zie [Ondersteunde video-indelingen op Windows® Phone](https://docs.microsoft.com/en-us/).
 
 * De video afspelen met gebruik van voorinstellingen voor Adobe Dynamic Media Classic Viewer, waaronder de volgende:
 
