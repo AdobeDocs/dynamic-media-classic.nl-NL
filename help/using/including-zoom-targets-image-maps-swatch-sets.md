@@ -10,7 +10,9 @@ discoiquuid: f75f6d5b-d689-4640-838f-a32d77859f62
 feature: Dynamic Media Classic,Viewers
 role: User
 exl-id: 1eaffe17-1fa3-4726-b0a1-369fabb9ee7e
-source-git-commit: 65e3b69bdcbd651a5f9ab100592217e61a8c05ef
+topic: Content Management
+level: Intermediate
+source-git-commit: d82f816553f807b514f4690827dab672a6baf690
 workflow-type: tm+mt
 source-wordcount: '165'
 ht-degree: 0%
@@ -27,4 +29,3 @@ Als u zoomdoelen en afbeeldingen met hyperlinks beschikbaar wilt maken voor gebr
 >
 >* [Zoomdoelen maken voor zoomen met instructies](creating-zoom-targets-guided-zoom.md#creating_zoom_targets_for_guided_zoom)
 >* [Afbeeldingen met hyperlinks maken](creating-image-maps.md#creating_image_maps)
-

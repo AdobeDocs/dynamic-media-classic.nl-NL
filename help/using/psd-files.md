@@ -10,7 +10,9 @@ discoiquuid: 4086e3db-5aca-41a0-8f15-302afbf67ddb
 feature: Dynamic Media Classic,Asset Management
 role: User
 exl-id: e3b8c4b9-e9c4-4d7f-84de-2efb456755a1
-source-git-commit: 38d7f8d6e5888e1c5ba9260ada45b79fb16b338f
+topic: Integrations, Development
+level: Experienced
+source-git-commit: 5d8b7cb8b4616a998346675d7324b568634698fb
 workflow-type: tm+mt
 source-wordcount: '940'
 ht-degree: 0%
@@ -34,12 +36,12 @@ Deze opties zijn beschikbaar wanneer u PSD-bestanden uploadt:
 * **Opties voor uitsnijden** - Gelokaliseerd onder **[!UICONTROL Crop Options]**. Selecteren **[!UICONTROL Trim]** witruimte automatisch laten bijsnijden vanaf de randen van een PSD-bestand; selecteren **[!UICONTROL Manual]** om zijden van het PSD-bestand uit te snijden:
 
    * **[!UICONTROL Trim]** - Selecteer de **[!UICONTROL Trim Away Based On]** en kiest u **[!UICONTROL Color]** of **[!UICONTROL Transparency]**.
-   Als u **[!UICONTROL Color]** selecteert u het menu Hoek en kiest u de hoek van de PSD met de kleur die het beste overeenkomt met de kleur van de witruimte die u wilt uitsnijden.
 
-   Sleep de schuifregelaar om een tolerantie tussen 0 en 1 op te geven. Als u wilt bijsnijden op basis van kleur, geeft u 0 op om alleen pixels bij te snijden als deze exact overeenkomen met de kleur die u in de hoek van de PSD hebt geselecteerd. De aantallen dichter aan 1 staan voor meer kleurenverschil toe. Als u wilt bijsnijden op basis van transparantie, geeft u 0 op om alleen pixels bij te snijden als deze transparant zijn. De cijfers dichter aan 1 staan voor meer transparantie.
+  Als u **[!UICONTROL Color]** selecteert u het menu Hoek en kiest u de hoek van de PSD met de kleur die het beste overeenkomt met de kleur van de witruimte die u wilt uitsnijden.
+
+  Sleep de schuifregelaar om een tolerantie tussen 0 en 1 op te geven. Als u wilt bijsnijden op basis van kleur, geeft u 0 op om alleen pixels bij te snijden als deze exact overeenkomen met de kleur die u in de hoek van de PSD hebt geselecteerd. De aantallen dichter aan 1 staan voor meer kleurenverschil toe. Als u wilt bijsnijden op basis van transparantie, geeft u 0 op om alleen pixels bij te snijden als deze transparant zijn. De cijfers dichter aan 1 staan voor meer transparantie.
 
    * **[!UICONTROL Manual]** - Voer het aantal pixels in dat u wilt uitsnijden vanaf elke zijde van de afbeelding. Hoeveel van de afbeelding wordt uitgesneden, is afhankelijk van de ppi-instelling (pixels per inch) in het afbeeldingsbestand. Als de afbeelding bijvoorbeeld 150 ppi weergeeft en u 75 invoert in de tekstvakken Boven, Rechts, Onder en Links, 0,5 inch. wordt aan elke kant van de afbeelding uitgesneden.
-
 
 * **Opties voor kleurprofiel** - Gelokaliseerd onder **[!UICONTROL Color Profile Options]**.
 
@@ -66,8 +68,8 @@ Deze opties zijn beschikbaar wanneer u PSD-bestanden uploadt:
       * **[!UICONTROL Photoshop and layer number]** - De afbeeldingen krijgen een naam na hun laagnummer in het PSD-bestand, waarbij de namen van de oorspronkelijke lagen worden genegeerd. Afbeeldingen krijgen de naam Photoshop en een toegevoegd laagnummer. Bijvoorbeeld de tweede laag van een dossier genoemd `Spring Ad.psd` is benoemd `Spring Ad_2` zelfs als het een niet-standaardnaam in Photoshop had.
 
       * **[!UICONTROL Photoshop and layer name]** - De afbeeldingen krijgen een naam na het PSD-bestand gevolgd door de naam van de laag of het laagnummer. Het laagnummer wordt gebruikt als de laagnamen in het PSD-bestand standaard Photoshop-laagnamen zijn. Een laag met de naam `Price Tag` in een PSD-bestand met de naam `SpringAd` is benoemd `Spring Ad_Price Tag`. Een laag met de standaardnaam Laag 2 wordt genoemd `Spring Ad_2`.
-   * **[!UICONTROL Anchor]** - Geef op hoe afbeeldingen worden verankerd in sjablonen die worden gegenereerd op basis van de laagsamenstelling die uit het PSD-bestand is samengesteld. Standaard is het anker het middelpunt. Met een middelste anker kunnen vervangende afbeeldingen dezelfde ruimte het beste vullen, ongeacht de hoogte-breedteverhouding van de vervangende afbeelding. Afbeeldingen met een ander aspect dat deze afbeelding vervangt, nemen bij het verwijzen naar de sjabloon en het gebruik van parametervervanging in feite dezelfde ruimte in. Schakel over naar een andere instelling als de vervangende afbeeldingen de toegewezen ruimte in de sjabloon moeten vullen.
 
+   * **[!UICONTROL Anchor]** - Geef op hoe afbeeldingen worden verankerd in sjablonen die worden gegenereerd op basis van de laagsamenstelling die uit het PSD-bestand is samengesteld. Standaard is het anker het middelpunt. Met een middelste anker kunnen vervangende afbeeldingen dezelfde ruimte het beste vullen, ongeacht de hoogte-breedteverhouding van de vervangende afbeelding. Afbeeldingen met een ander aspect dat deze afbeelding vervangt, nemen bij het verwijzen naar de sjabloon en het gebruik van parametervervanging in feite dezelfde ruimte in. Schakel over naar een andere instelling als de vervangende afbeeldingen de toegewezen ruimte in de sjabloon moeten vullen.
 
 ## Lagen weergeven en bewerken in een PSD-bestand {#viewing-and-editing-layers-in-a-psd-file}
 

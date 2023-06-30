@@ -10,7 +10,9 @@ discoiquuid: 5a073de3-6b1d-4c3e-8c03-9182f9f3874a
 feature: Dynamic Media Classic,Asset Management
 role: User
 exl-id: 02892514-61fe-48ba-a2e3-eeb30580a1e4
-source-git-commit: 38d7f8d6e5888e1c5ba9260ada45b79fb16b338f
+topic: Integrations, Development
+level: Experienced
+source-git-commit: 5d8b7cb8b4616a998346675d7324b568634698fb
 workflow-type: tm+mt
 source-wordcount: '661'
 ht-degree: 0%
@@ -81,12 +83,12 @@ Zie ook [ICC-profielen](/help/using/icc-profiles.md#icc_profiles).
       * **[!UICONTROL Color]** - Kies de optie Kleur. Selecteer vervolgens de **[!UICONTROL Corner]** en kiest u de hoek van de PDF met de kleur die het meest overeenkomt met de kleur voor de witruimte die u wilt uitsnijden.
 
       * **[!UICONTROL Transparency]** - Kies de optie Transparantie.
+
    * **[!UICONTROL Tolerance]** - Sleep de schuifregelaar om een tolerantie tussen 0 en 1 op te geven.
 
    * **[!UICONTROL Trimming based on color]** - Geef 0 op om alleen pixels bij te snijden als deze exact overeenkomen met de kleur die u in de hoek van de PDF hebt geselecteerd. De aantallen dichter aan 1 staan voor meer kleurenverschil toe.
 
    * **[!UICONTROL Trimming based on transparency]** - Geef 0 op om pixels alleen uit te snijden als ze transparant zijn; De cijfers dichter aan 1 staan voor meer transparantie.
-
 
 ## Uitsnijden vanaf de zijkanten van PDF pagina&#39;s {#cropping-from-the-sides-of-pdf-pages}
 

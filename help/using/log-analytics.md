@@ -10,7 +10,9 @@ discoiquuid: e5b510a8-8b7f-4c60-869e-d664a8157e63
 feature: Dynamic Media Classic
 role: Data Engineer,Admin,User
 exl-id: 261b8f7c-c61c-4ce3-b9dc-8549347aca2e
-source-git-commit: 65e3b69bdcbd651a5f9ab100592217e61a8c05ef
+topic: Integrations, Development
+level: Experienced
+source-git-commit: 5d8b7cb8b4616a998346675d7324b568634698fb
 workflow-type: tm+mt
 source-wordcount: '758'
 ht-degree: 0%
@@ -75,7 +77,6 @@ Begin met het integreren van Dynamic Media Classic met Adobe Analytics OAuth. De
 >* Een nieuwe volgvariabele wordt geïntroduceerd in een rapport en u wilt een specifieke variabele van de Kijker in het gebruikersinterface van Dynamic Media Classic met die nieuwe variabele van de Analytics verbinden.
 >
 
-
 1. Ga in de rechterbovenhoek van de Adobe Dynamic Media Classic-bureaubladtoepassing naar **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]**.
 1. In het linkerdeelvenster, onder **[!UICONTROL Application Setup]**, selecteert u **[!UICONTROL Adobe Analytics]**.
 1. Op de **[!UICONTROL Adobe Analytics Configuration]** pagina, selecteert u **[!UICONTROL Adobe Analytics Login]**.
@@ -105,4 +106,3 @@ Begin met het integreren van Dynamic Media Classic met Adobe Analytics OAuth. De
 >[!MORELIKETHIS]
 >
 >* [Adobe Analytics-rapporten configureren](configuring-analytics-reports.md#configuring_adobe_analytics_reports)
-

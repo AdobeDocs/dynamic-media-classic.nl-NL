@@ -10,7 +10,9 @@ discoiquuid: 8bc5e552-2abb-41f0-89d2-bdf3ae5d96c2
 feature: Dynamic Media Classic,Viewers,Video
 role: User
 exl-id: a9250841-2dba-4fdc-8a6e-91b2fecef72f
-source-git-commit: 65e3b69bdcbd651a5f9ab100592217e61a8c05ef
+topic: Content Management
+level: Intermediate
+source-git-commit: d82f816553f807b514f4690827dab672a6baf690
 workflow-type: tm+mt
 source-wordcount: '619'
 ht-degree: 0%
@@ -77,14 +79,14 @@ Zie [WebVTT: De indeling Webvideoteksttracks](https://w3c.github.io/webvtt/).
 
    * Voor een pop-upviewerervaring voor video selecteert u **[!UICONTROL Copy URL]** helemaal rechts van de naam.
 
-      Voeg de gekopieerde URL van de video toe aan de volgende syntaxis, zodat u deze kunt koppelen aan de gekopieerde URL naar het bijschriftbestand:
+     Voeg de gekopieerde URL van de video toe aan de volgende syntaxis, zodat u deze kunt koppelen aan de gekopieerde URL naar het bijschriftbestand:
 
-      `&navigation=*<full Copy URL path to the chapter navigation file .vtt>*`
+     `&navigation=*<full Copy URL path to the chapter navigation file .vtt>*`
 
    * Voor een ingesloten videoviewerervaring selecteert u **[!UICONTROL Embed Code]** helemaal rechts van de naam.
 
-      Selecteer in het dialoogvenster Code insluiten de optie **[!UICONTROL Copy to Clipboard]**.
+     Selecteer in het dialoogvenster Code insluiten de optie **[!UICONTROL Copy to Clipboard]**.
 
-      Voor de HTML5 `Universal_HTML5_Video` voegt u de gekopieerde insluitcode als volgt toe aan de viewer:
+     Voor de HTML5 `Universal_HTML5_Video` voegt u de gekopieerde insluitcode als volgt toe aan de viewer:
 
-      `videoViewer.setParam("navigation","*<full Copy URL path to the chapter navigation file .vtt>*”`
+     `videoViewer.setParam("navigation","*<full Copy URL path to the chapter navigation file .vtt>*”`

@@ -8,7 +8,9 @@ geptopics: SG_SCENESEVENONDEMAND_PK/categories/introducing_adobe_dynamic_media_c
 feature: Dynamic Media Classic
 role: Admin,User
 exl-id: 604b4630-4704-4254-84b5-91b33bb19d58
-source-git-commit: 38d7f8d6e5888e1c5ba9260ada45b79fb16b338f
+topic: Administration
+level: Intermediate
+source-git-commit: d82f816553f807b514f4690827dab672a6baf690
 workflow-type: tm+mt
 source-wordcount: '1944'
 ht-degree: 0%
@@ -56,11 +58,11 @@ Upgrademelding in de Adobe Dynamic Media Classic-bureaubladtoepassing wordt niet
 * Desktop-app reageert niet meer, meestal na bewerkingen instellen.
 * Modus Verduistering en vergrendeling aanvragen ingeschakeld onder **[!UICONTROL Test Image Serving]**.
 
-   Zie [De service Beveiligde tests testen](/help/using/testing-assets-making-them-public.md#testing-the-secure-testing-service).
+  Zie [De service Beveiligde tests testen](/help/using/testing-assets-making-them-public.md#testing-the-secure-testing-service).
 
 * Bijgewerkt verificatiemechanisme met Adobe Analytics. Relevant voor nieuwe integraties of als sommige analytische variabelen moeten worden bijgewerkt vanuit de Dynamic Media Classic-bureaubladtoepassing.
 
-   Zie [Aanmelden bij Adobe Analytics](/help/using/log-analytics.md) voor bijgewerkte stappen.
+  Zie [Aanmelden bij Adobe Analytics](/help/using/log-analytics.md) voor bijgewerkte stappen.
 
 ## Oplossingen in release 20.21.2 {#minor-release}
 
@@ -99,11 +101,11 @@ Zie ook:
 
       * [macOS (.DMG) - Downloaden](https://download.macromedia.com/dynamic-media-classic/20.22.2/adobe-dynamic-media-classic-20.22.2.dmg)
       * [Windows (.EXE) - Downloaden](https://download.macromedia.com/dynamic-media-classic/20.22.1/adobe-dynamic-media-classic-20.22.1.exe)
+
    * De vorige versie is beschikbaar op het volgende:
 
       * [macOS (.DMG) - Downloaden](https://download.macromedia.com/dynamic-media-classic/20.22.1/adobe-dynamic-media-classic-20.22.1.dmg)
       * [Windows® (.EXE) - Downloaden](https://download.macromedia.com/dynamic-media-classic/20.21.3/adobe-dynamic-media-classic-20.21.3.exe)
-
 
 <!--         * [macOS (.DMG) - Download](https://download.macromedia.com/dynamic-media-classic/20.21.3/adobe-dynamic-media-classic-20.21.3.dmg) -->
 
@@ -118,12 +120,12 @@ Zie ook:
 
    * **macOS** -In de **[!UICONTROL Drag & drop to install]** dialoogvenster, slepen **[!UICONTROL Adobe Dynamic Media Classic]** en zet hem neer **[!UICONTROL Applications]**.
 
-      ![Installeren via slepen en neerzetten op macOS](/help/using/assets/dragondrop-install1.png)
+     ![Installeren via slepen en neerzetten op macOS](/help/using/assets/dragondrop-install1.png)
 
    * In de **[!UICONTROL Applications]** tikt u op het Adobe Dynamic Media Classic-pictogram.
    * Tik in het dialoogvenster op **[!UICONTROL Open]** om de Adobe Dynamic Media Classic-bureaubladtoepassing te openen.
 
-      ![Gedownloade app openen](/help/using/assets/open-dmclassicapp1.png)
+     ![Gedownloade app openen](/help/using/assets/open-dmclassicapp1.png)
 
    * **Windows** - Voer het binaire bestand van het installatieprogramma uit en volg de aanwijzingen op het scherm om de bureaubladtoepassing te installeren.
 
@@ -263,7 +265,7 @@ U kunt de cache van afbeeldingen en elementen niet alleen wissen met de bureaubl
 * Selecteer in de Adobe Dynamic Media Classic-app het nieuwe bedrijf in de vervolgkeuzelijst met bedrijven.
 * Tik op **[!UICONTROL OK]** om u af te melden en de app te sluiten.
 
-   ![Start de app opnieuw om het nieuwe bedrijf te gebruiken](/help/using/assets/dmclassic-new-company1.png)
+  ![Start de app opnieuw om het nieuwe bedrijf te gebruiken](/help/using/assets/dmclassic-new-company1.png)
 
 * Start Adobe Dynamic Media Classic opnieuw en meld u vervolgens op de gebruikelijke wijze aan om met het nieuwe bedrijf te werken.
 

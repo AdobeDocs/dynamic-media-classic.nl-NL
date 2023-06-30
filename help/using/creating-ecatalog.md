@@ -10,7 +10,9 @@ discoiquuid: 28889c60-596a-40d2-85d4-f48a4f86b932
 feature: Dynamic Media Classic,Viewers,eCatalog
 role: User
 exl-id: 51d411b2-b4bc-4cf6-afca-dd0ed0d219a1
-source-git-commit: 65e3b69bdcbd651a5f9ab100592217e61a8c05ef
+topic: Integrations, Development
+level: Experienced
+source-git-commit: 5d8b7cb8b4616a998346675d7324b568634698fb
 workflow-type: tm+mt
 source-wordcount: '911'
 ht-degree: 0%
@@ -42,9 +44,9 @@ Zie ook [Elementen handmatig publiceren](publishing-files.md#manually_publishing
 
    * **Starten vanaf het eCatalog-scherm** - Ga naar **[!UICONTROL Build]** > **[!UICONTROL eCatalogs]**. Selecteer een map in de elementenbibliotheek en sleep bestanden van de map naar het tabblad Order Pages op de pagina eCatalog.
 
-      >[!NOTE]
-      >
-      >Als u de items in de elementenbibliotheek op naam wilt weergeven in plaats van op miniatuur, selecteert u de optie Naam voor de weergave Standaard in de elementenbibliotheek in Persoonlijke instellingen.
+     >[!NOTE]
+     >
+     >Als u de items in de elementenbibliotheek op naam wilt weergeven in plaats van op miniatuur, selecteert u de optie Naam voor de weergave Standaard in de elementenbibliotheek in Persoonlijke instellingen.
 
 1. Selecteer een algemene lay-out voor uw eCatalog. Selecteren **[!UICONTROL 1 Up]** voor enkele pagina&#39;s, **[!UICONTROL 2 Up]** voor spreads met twee pagina&#39;s, of **[!UICONTROL Custom]** voor paginaspreiding van meer dan twee pagina&#39;s. In de **[!UICONTROL Change eCatalog Layout]** selecteert u het dialoogvenster **[!UICONTROL All Spreads]** en selecteert u **[!UICONTROL OK]**.
 1. U kunt desgewenst de indeling van afzonderlijke pagina&#39;s of paginaspread wijzigen door deze te selecteren en vervolgens **[!UICONTROL 1 Up]**, **[!UICONTROL 2 Up]**, of **[!UICONTROL Custom]** knop. In de **[!UICONTROL Change eCatalog Layout]** selecteert u het dialoogvenster **[!UICONTROL Selected Spreads]** en selecteert u **[!UICONTROL OK]**.

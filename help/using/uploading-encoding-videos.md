@@ -9,7 +9,9 @@ discoiquuid: a0941823-850c-4373-9e37-f32032de3805
 feature: Dynamic Media Classic,Viewers,Video
 role: User
 exl-id: 93ad91d7-f3dd-484b-b62c-633fcb864bbf
-source-git-commit: 65e3b69bdcbd651a5f9ab100592217e61a8c05ef
+topic: Content Management
+level: Intermediate
+source-git-commit: d82f816553f807b514f4690827dab672a6baf690
 workflow-type: tm+mt
 source-wordcount: '3862'
 ht-degree: 1%
@@ -26,7 +28,7 @@ Als u één video of adaptieve videosets wilt maken voor levering op het web of 
    * Live HTTP-streaming (streamingprotocol van Apple).
    * Progressieve video-levering aan mobiele Android™-, BlackBerry®- en Windows®-apparaten
 
-   Adobe Dynamic Media Classic biedt twee workflows voor het uploaden van videobestanden:
+  Adobe Dynamic Media Classic biedt twee workflows voor het uploaden van videobestanden:
 
 * **Vooraf gecodeerde video&#39;s** - U uploadt MP4-bestanden rechtstreeks naar Adobe Dynamic Media Classic. Met deze workflow worden bestanden niet gecodeerd op het moment dat u ze uploadt. De bestanden worden vooraf gecodeerd ter voorbereiding op levering op het bureaublad en op mobiele apparaten.
 
@@ -34,13 +36,13 @@ Als u één video of adaptieve videosets wilt maken voor levering op het web of 
 
    * Zorg ervoor dat de primaire bronvideobestanden die u wilt coderen, worden ondersteund.
 
-      Zie [Ondersteunde videobestandstypen voor codering](uploading-encoding-videos.md#supported-video-file-types-for-encoding).
+     Zie [Ondersteunde videobestandstypen voor codering](uploading-encoding-videos.md#supported-video-file-types-for-encoding).
 
    * Kies een voorinstelling voor videocodering.
 
-      Zie [Videovoorinstellingen voor het coderen van videobestanden](application-setup.md#video-presets-for-encoding-video-files).
+     Zie [Videovoorinstellingen voor het coderen van videobestanden](application-setup.md#video-presets-for-encoding-video-files).
 
-      Zie [Aanbevolen procedures voor videocodering](uploading-encoding-videos.md#best-practices-for-video-encoding).
+     Zie [Aanbevolen procedures voor videocodering](uploading-encoding-videos.md#best-practices-for-video-encoding).
 
 Adobe Dynamic Media Classic genereert ook videominiaturen. Meer informatie over videominiaturen, hoe u de URL&#39;s opgeeft en posterframes wijzigt.
 
@@ -98,28 +100,28 @@ De volgende tabel bevat een lijst met videobestandstypen (met toegestane videoco
 
 * **Videocodecs** - Een videocodec beschrijft het algoritme waarmee een video wordt gecodeerd. Een videospeler decodeert de video volgens zijn codec en geeft vervolgens een reeks beelden, of kaders, op het scherm weer. Met codecs minimaliseert u de hoeveelheid informatie die videobestanden nodig hebben om video af te spelen. In plaats van informatie over elk afzonderlijk frame wordt alleen informatie over de verschillen tussen het ene frame en het volgende opgeslagen. Omdat de meeste video&#39;s weinig van het ene frame naar het andere veranderen, maken codecs hoge compressiesnelheden mogelijk, waardoor de bestanden kleiner worden.
 
-   | Videobestandsindeling | Videocodecs |
-   | --- | --- |
-   | 3GP | H.263, H.264 |
-   | AVI | DivX, DV |
-   | M2P | MPEG-2 PS |
-   | M2T | MPEG-2 TS |
-   | M2TS | MPEG-2 TS |
-   | M2V | MPEG-2 ES |
-   | M4V | H.264 |
-   | MOV | DV, DVCPro 50, H.261, H.263, H.264, Sorenson Video 1 |
-   | MP4 | H.264/MPEG-4 AVC |
-   | MPEG | MPEG-2 SS |
-   | MPG | MPEG-2 SS |
-   | MTS | MPEG-2 |
-   | ProRes | APCN, APCS, APCO, APCH, AP4H |
-   | TS | DVCPro 50 |
-   | VOB | MPEG-2 |
-   | WMV/ASF | VC-1, Windows® Media Video 7, Windows® Media Video 8 |
+  | Videobestandsindeling | Videocodecs |
+  | --- | --- |
+  | 3GP | H.263, H.264 |
+  | AVI | DivX, DV |
+  | M2P | MPEG-2 PS |
+  | M2T | MPEG-2 TS |
+  | M2TS | MPEG-2 TS |
+  | M2V | MPEG-2 ES |
+  | M4V | H.264 |
+  | MOV | DV, DVCPro 50, H.261, H.263, H.264, Sorenson Video 1 |
+  | MP4 | H.264/MPEG-4 AVC |
+  | MPEG | MPEG-2 SS |
+  | MPG | MPEG-2 SS |
+  | MTS | MPEG-2 |
+  | ProRes | APCN, APCS, APCO, APCH, AP4H |
+  | TS | DVCPro 50 |
+  | VOB | MPEG-2 |
+  | WMV/ASF | VC-1, Windows® Media Video 7, Windows® Media Video 8 |
 
-   >[!NOTE]
-   >
-   >Het scherm van Banen alarmeert u als u uploadt en probeert om een videodossier te coderen maar het dossier wordt verworpen omdat het een incompatibele codec of dossiercontainer bevat. Zie voor meer informatie [Taakbestanden controleren](checking-job-files.md).
+  >[!NOTE]
+  >
+  >Het scherm van Banen alarmeert u als u uploadt en probeert om een videodossier te coderen maar het dossier wordt verworpen omdat het een incompatibele codec of dossiercontainer bevat. Zie voor meer informatie [Taakbestanden controleren](checking-job-files.md).
 
 ## Aanbevolen procedures voor videocodering {#best-practices-for-video-encoding}
 
@@ -316,9 +318,9 @@ Geactiveerde videovoorinstellingen worden weergegeven in het dialoogvenster Taak
    * Als u een videovoorinstelling wilt activeren, selecteert u op de pagina met voorinstellingen onder de kolom Actief het vakje naast de naam van een voorinstelling.
    * Als u een videovoorinstelling wilt deactiveren, schakelt u het vakje naast de videovoorinstellingen die u inactief wilt maken uit.
 
-      >[!NOTE]
-      >
-      >Inactieve videovoorinstellingen worden niet weergegeven in het dialoogvenster Opties voor uploaden.
+     >[!NOTE]
+     >
+     >Inactieve videovoorinstellingen worden niet weergegeven in het dialoogvenster Opties voor uploaden.
 
 1. Selecteer in de rechterbenedenhoek van de pagina de optie **[!UICONTROL Close]**.
 
@@ -341,7 +343,7 @@ Adobe Dynamic Media Classic heeft maximale limieten ingesteld voor de doelgegeve
    * Selecteer op de werkbalk Voorinstellingen video de optie **[!UICONTROL Add]** zodat u een videovoorinstelling kunt toevoegen.
    * Selecteer een videovoorinstelling. Selecteer in de werkbalk de optie **[!UICONTROL Edit]**.
 
-      U kunt vooraf gedefinieerde Adobe Dynamic Media Classic-voorinstellingen niet bewerken. u kunt alleen een voorinstelling maken op basis van een bestaande voorinstelling als u **[!UICONTROL Save As]**.
+     U kunt vooraf gedefinieerde Adobe Dynamic Media Classic-voorinstellingen niet bewerken. u kunt alleen een voorinstelling maken op basis van een bestaande voorinstelling als u **[!UICONTROL Save As]**.
 
 1. Stel op de pagina Voorinstelling video toevoegen of Voorinstelling video bewerken de gewenste opties voor videovoorinstellingen in.
 
@@ -379,4 +381,3 @@ Beheerders kunnen aangepaste videovoorinstellingen verwijderen. Videovoorinstell
 >* [Video&#39;s uploaden en coderen](uploading-encoding-videos.md#uploading-and-encoding-videos)
 >* [Werken met voorinstellingen voor videoviewers](previewing-videos-video-viewer.md#working-with-video-viewer-presets)
 >* [Videovoorinstellingen](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&amp;emailurl=https://s7d5.scene7.com/s7/emailFriend&amp;serverUrl=https://s7d5.scene7.com/is/image/&amp;config=Scene7SharedAssets/Universal_HTML5_Video&amp;contenturl=https://s7d5.scene7.com/skins/&amp;asset=S7tutorials/549_video-presets_converted%20renamed_Done-AVS) trainingsvideo
-

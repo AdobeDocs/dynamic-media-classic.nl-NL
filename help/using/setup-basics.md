@@ -10,7 +10,9 @@ discoiquuid: 753677ad-9957-43d9-97ad-bd73a5da5ccb
 feature: Dynamic Media Classic
 role: Admin,User
 exl-id: 7e99de68-a5de-4b42-9754-c394e9b41369
-source-git-commit: 65e3b69bdcbd651a5f9ab100592217e61a8c05ef
+topic: Administration, Content Management
+level: Intermediate
+source-git-commit: 5d8b7cb8b4616a998346675d7324b568634698fb
 workflow-type: tm+mt
 source-wordcount: '249'
 ht-degree: 0%
@@ -38,4 +40,3 @@ Beheerders kunnen ook voorinstellingen voor afbeeldingen en viewervoorinstelling
 >* [Adobe Dynamic Media Classic-gebruikersrollen en -rechten](administration-setup.md#user_administration)
 >* [Voorinstellingen voor afbeeldingen](application-setup.md#image_presets)
 >* [Viewer-voorinstellingen](application-setup.md#viewer_presets)
-

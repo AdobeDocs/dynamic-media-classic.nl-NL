@@ -8,7 +8,9 @@ geptopics: SG_SCENESEVENONDEMAND_PK/categories/video
 feature: Dynamic Media Classic,Viewers,Video
 role: User
 exl-id: 1157400c-b33a-422e-848c-258660ddc748
-source-git-commit: 38d7f8d6e5888e1c5ba9260ada45b79fb16b338f
+topic: Content Management
+level: Beginner
+source-git-commit: d82f816553f807b514f4690827dab672a6baf690
 workflow-type: tm+mt
 source-wordcount: '1760'
 ht-degree: 0%
@@ -49,24 +51,24 @@ Wanneer een adaptieve videoset wordt gegenereerd, bevat deze MP4-video&#39;s.
 
 * Video ondertiteling in de de kijkers van Univeral_HTML5_Video, Universal_HTML5_MixedMedia_donker, en Universal_HTML5_MixedMedia_light en videohoofdstuknavigatie in Univeral_HTML5_Video, Universal_HTML5_MixedMedia_donker, en Universal_HTML5_MixedMedia_light.
 
-   Zie [Bijschriften toevoegen aan video](adding-captions-video.md).
+  Zie [Bijschriften toevoegen aan video](adding-captions-video.md).
 
-   Zie [Hoofdstukmarkeringen aan video toevoegen](adding-chapter-markers-video.md).
+  Zie [Hoofdstukmarkeringen aan video toevoegen](adding-chapter-markers-video.md).
 
 * Video organiseren, doorbladeren en doorzoeken met volledige metagegevensondersteuning voor een efficiënt beheer van video-elementen.
 * Lever Adaptieve videosets naar het web en naar desktops en mobiele apparaten, zoals de iPhone, iPad, Android™, BlackBerry® en Windows®-telefoon.
 
-   Adaptieve videostreaming wordt ondersteund op verschillende iOS-platforms.
+  Adaptieve videostreaming wordt ondersteund op verschillende iOS-platforms.
 
-   Zie de nieuwste ondersteuning in de [Referentiehandleiding voor Adobe Viewers](https://experienceleague.adobe.com/docs/dynamic-media-developer-resources.html).
+  Zie de nieuwste ondersteuning in de [Referentiehandleiding voor Adobe Viewers](https://experienceleague.adobe.com/docs/dynamic-media-developer-resources.html).
 
-   Adobe Dynamic Media Classic ondersteunt het afspelen van mobiele video voor MP4 H.264-video. U kunt op de volgende website naar BlackBerry®-apparaten zoeken die deze video-indeling ondersteunen:
+  Adobe Dynamic Media Classic ondersteunt het afspelen van mobiele video voor MP4 H.264-video. U kunt op de volgende website naar BlackBerry®-apparaten zoeken die deze video-indeling ondersteunen:
 
-   Zie [Ondersteunde video-indelingen op BlackBerry®](https://support.blackberry.com/kb/articleDetail?ArticleNumber=000005482).
+  Zie [Ondersteunde video-indelingen op BlackBerry®](https://support.blackberry.com/kb/articleDetail?ArticleNumber=000005482).
 
-   U kunt Windows®-apparaten die deze video-indeling ondersteunen als volgt vinden:
+  U kunt Windows®-apparaten die deze video-indeling ondersteunen als volgt vinden:
 
-   Zie [Ondersteunde video-indelingen op Windows® Phone](https://docs.microsoft.com/en-us/).
+  Zie [Ondersteunde video-indelingen op Windows® Phone](https://docs.microsoft.com/en-us/).
 
 * De video afspelen met gebruik van voorinstellingen voor Adobe Dynamic Media Classic Viewer, waaronder de volgende:
 
@@ -96,9 +98,9 @@ U kunt adaptieve videosets uploaden en genereren aan de hand van een van de volg
 * **Vooraf gecodeerde video&#39;s uploaden** - Als uw video&#39;s al buiten Adobe Dynamic Media Classic zijn gecodeerd, selecteert u op de algemene navigatiebalk de optie **[!UICONTROL Upload]** om MP4-videobestanden rechtstreeks naar Adobe Dynamic Media Classic te bladeren en te uploaden. Ga vervolgens naar **[!UICONTROL Build]** > **[!UICONTROL Adaptive Video Sets]**. Blader naar uw videobestanden. Sleep de gewenste videobestanden naar de tabel Adaptive Video Set en sla deze op.
 * **Primaire bronvideo&#39;s uploaden** - Als uw video&#39;s niet zijn gecodeerd, selecteert u op de algemene navigatiebalk de optie **[!UICONTROL Upload]** primaire videobronbestanden (niet-MP4) uploaden. Adobe Dynamic Media Classic codeert ze voor u naar MP4-bestanden. In de **[!UICONTROL Upload Job Options]** dialoogvenster, onder **[!UICONTROL EVideo Options]**, selecteert u **[!UICONTROL Adaptive Video]**.
 
-   Met deze voorkeursoptie kunt u een adaptieve videoset maken die automatisch de juiste coderingsvoorinstelling op de video toepast, ongeacht of deze 16:9 of 4:3 is, zodat deze overeenkomt met de afmetingen van de video die u hebt geüpload. Wanneer u de uploadtaak verzendt, wordt automatisch een adaptieve videoset gemaakt die drie coderingsvideo-instellingen in de juiste hoogte-breedteverhouding bevat.
+  Met deze voorkeursoptie kunt u een adaptieve videoset maken die automatisch de juiste coderingsvoorinstelling op de video toepast, ongeacht of deze 16:9 of 4:3 is, zodat deze overeenkomt met de afmetingen van de video die u hebt geüpload. Wanneer u de uploadtaak verzendt, wordt automatisch een adaptieve videoset gemaakt die drie coderingsvideo-instellingen in de juiste hoogte-breedteverhouding bevat.
 
-   Of in dezelfde **[!UICONTROL Job Options]** dialoogvenster, onder **[!UICONTROL EVideo Options]**, uitbreiden **[!UICONTROL Single Encoding Presets]**. Afzonderlijke voorinstellingen voor videocodering selecteren waarvan u wilt **Desktop**, **Mobiel (iPhone, iPad, Android™)**, en **Tablet (iPad, Android™)** zodat u de MP4-bestanden maakt.
+  Of in dezelfde **[!UICONTROL Job Options]** dialoogvenster, onder **[!UICONTROL EVideo Options]**, uitbreiden **[!UICONTROL Single Encoding Presets]**. Afzonderlijke voorinstellingen voor videocodering selecteren waarvan u wilt **Desktop**, **Mobiel (iPhone, iPad, Android™)**, en **Tablet (iPad, Android™)** zodat u de MP4-bestanden maakt.
 
 * Of u kunt een primaire video opnieuw verwerken met de opdracht **[!UICONTROL Reprocess]** gebruiken. De zojuist gecodeerde video&#39;s worden toegevoegd aan de bestaande adaptieve videoset.
 
@@ -134,27 +136,26 @@ Als u video wilt integreren in uw website, kunt u een van de volgende handelinge
 
 * Geef de video weer in een eigen pop-upvenster of in een modaal venster. Gebruik in dat geval de opdracht **[!UICONTROL Copy URL]** gebruiken.
 
-   Als u de URL voor een video wilt opvragen, selecteert u deze in de rasterweergave of lijstweergave in het deelvenster Bladeren. Selecteren **[!UICONTROL Preview]** en selecteer vervolgens **[!UICONTROL Copy URL]** aan het recht van `Universal_HTML5_Viewer`.
+  Als u de URL voor een video wilt opvragen, selecteert u deze in de rasterweergave of lijstweergave in het deelvenster Bladeren. Selecteren **[!UICONTROL Preview]** en selecteer vervolgens **[!UICONTROL Copy URL]** aan het recht van `Universal_HTML5_Viewer`.
 
-   Wanneer u **[!UICONTROL Copy URL]**, wordt de URL naar het klembord gekopieerd. Plaats deze code in de HTML van uw website, mobiele site of toepassing.
+  Wanneer u **[!UICONTROL Copy URL]**, wordt de URL naar het klembord gekopieerd. Plaats deze code in de HTML van uw website, mobiele site of toepassing.
 
-   >[!NOTE]
-   >
-   >URL&#39;s worden pas geactiveerd nadat u de video of de adaptieve videoset hebt gepubliceerd.
+  >[!NOTE]
+  >
+  >URL&#39;s worden pas geactiveerd nadat u de video of de adaptieve videoset hebt gepubliceerd.
 
 * Geef de video weer die is ingesloten op de webpagina, in welk geval u de opdracht **[!UICONTROL Embed Code]** gebruiken.
 
-   Als u de insluitcode voor een video wilt verkrijgen, selecteert u de video in het deelvenster Bladeren in de rasterweergave of de lijstweergave. Ga naar **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]**. Selecteer onder de kolom Acties van de tabel de optie **[!UICONTROL Embed Code]** aan het recht van `Universal_HTML5_Video`. Het bewerken van de code is niet toegestaan.
+  Als u de insluitcode voor een video wilt verkrijgen, selecteert u de video in het deelvenster Bladeren in de rasterweergave of de lijstweergave. Ga naar **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]**. Selecteer onder de kolom Acties van de tabel de optie **[!UICONTROL Embed Code]** aan het recht van `Universal_HTML5_Video`. Het bewerken van de code is niet toegestaan.
 
-   Selecteren **[!UICONTROL Close]** en plak de insluitcode in uw webpagina&#39;s.
+  Selecteren **[!UICONTROL Close]** en plak de insluitcode in uw webpagina&#39;s.
 
-   >[!NOTE]
-   >
-   >Insluitcode wordt alleen geactiveerd nadat u de video of adaptieve videoset hebt gepubliceerd.
+  >[!NOTE]
+  >
+  >Insluitcode wordt alleen geactiveerd nadat u de video of adaptieve videoset hebt gepubliceerd.
 
 Zie [Video distribueren naar uw websites en mobiele sites](deploying-video-websites-mobile-sites.md#deploying_video_to_your_websites_and_mobile_sites).
 
 >[!MORELIKETHIS]
 >
 >* [Aanbevolen procedures voor videocodering](uploading-encoding-videos.md#best_practices_for_video_encoding)
-

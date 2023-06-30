@@ -10,7 +10,9 @@ discoiquuid: 0d006314-c4cc-4f6c-a51c-6075bb445e39
 feature: Dynamic Media Classic,Viewers,Video
 role: User
 exl-id: 3df22d48-edb5-4927-aefb-104b53f81f1a
-source-git-commit: 65e3b69bdcbd651a5f9ab100592217e61a8c05ef
+topic: Content Management
+level: Intermediate
+source-git-commit: d82f816553f807b514f4690827dab672a6baf690
 workflow-type: tm+mt
 source-wordcount: '1590'
 ht-degree: 0%
@@ -61,15 +63,15 @@ Zie ook [De videoviewer insluiten op een webpagina](deploying-video-websites-mob
    * Selecteren **[!UICONTROL Grid View]** of **[!UICONTROL List View]**. Dubbelklik in het deelvenster Asset Browse op de videominiatuur van één element om dit te openen in de gedetailleerde weergave. Selecteer in de URL&#39;s en het deelvenster Code insluiten rechts onder HTTP-streaming de optie **[!UICONTROL Copy URL]** rechts van de gewenste viewer. U kunt het beste de URL kopiëren die is gekoppeld aan de opdracht `Universal_HTML5_Video` viewer.
    * Selecteren **[!UICONTROL Grid View]**. Selecteer in het deelvenster Asset Browse één element en ga vervolgens onder de miniatuurafbeelding naar **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]**.
 
-      Selecteer in de pagina Viewer List onder de kolom Acties van de tabel de optie **[!UICONTROL Copy URL]**. U kunt het beste de URL kopiëren die is gekoppeld aan de opdracht `Universal_HTML5_Video` viewer.
+     Selecteer in de pagina Viewer List onder de kolom Acties van de tabel de optie **[!UICONTROL Copy URL]**. U kunt het beste de URL kopiëren die is gekoppeld aan de opdracht `Universal_HTML5_Video` viewer.
 
    * Selecteren **[!UICONTROL List View]**. Selecteer in het deelvenster Asset Browse één element en ga vervolgens rechts van de miniatuurafbeelding naar **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]**.
 
-      Selecteer in de pagina Viewer List onder de kolom Acties van de tabel de optie **[!UICONTROL Copy URL]**. U kunt het beste de URL kopiëren die is gekoppeld aan de opdracht `Universal_HTML5_Video` viewer.
+     Selecteer in de pagina Viewer List onder de kolom Acties van de tabel de optie **[!UICONTROL Copy URL]**. U kunt het beste de URL kopiëren die is gekoppeld aan de opdracht `Universal_HTML5_Video` viewer.
 
    * Selecteren **[!UICONTROL Grid View]**, **[!UICONTROL List View]**, of **[!UICONTROL Detail View]**. Ga op dezelfde werkbalk naar **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]**.
 
-      Selecteer in de pagina Viewer List onder de kolom Acties van de tabel de optie **[!UICONTROL Copy URL]**. U kunt het beste de URL kopiëren die is gekoppeld aan de opdracht `Universal_HTML5_Video` viewer.
+     Selecteer in de pagina Viewer List onder de kolom Acties van de tabel de optie **[!UICONTROL Copy URL]**. U kunt het beste de URL kopiëren die is gekoppeld aan de opdracht `Universal_HTML5_Video` viewer.
 
 1. Plak de video-URL-koppeling HTML5 op uw website en mobiele site.
 
@@ -88,15 +90,15 @@ Zie ook [Een video-URL koppelen aan een mobiele site of website](deploying-video
    * Selecteren **[!UICONTROL Grid View]** of **[!UICONTROL List View]**. Dubbelklik in het deelvenster Asset Browse op de videominiatuur van één element om dit te openen in de gedetailleerde weergave. Selecteer in de URL&#39;s en het deelvenster Code insluiten rechts onder HTTP-streaming de optie **[!UICONTROL Embed Code]** rechts van de gewenste viewer. Selecteer **[!UICONTROL Embed Code]** die verband houdt met de `Universal_HTML5_Video` viewer.
    * Selecteren **[!UICONTROL Grid View]**. Selecteer in het deelvenster Asset Browse één element en selecteer vervolgens onder de miniatuurafbeelding van de video de optie **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]**.
 
-      Selecteer in de pagina Viewer List onder de kolom Acties van de tabel de optie **[!UICONTROL Embed Code]**. Selecteer **[!UICONTROL Embed Code]** die verband houdt met de `Universal_HTML5_Video` viewer.
+     Selecteer in de pagina Viewer List onder de kolom Acties van de tabel de optie **[!UICONTROL Embed Code]**. Selecteer **[!UICONTROL Embed Code]** die verband houdt met de `Universal_HTML5_Video` viewer.
 
    * Selecteren **[!UICONTROL List View]**. Selecteer in het deelvenster Asset Browse één element en ga vervolgens rechts van de miniatuurafbeelding naar **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]**.
 
-      Selecteer in de pagina Viewer List onder de kolom Acties van de tabel de optie **[!UICONTROL Embed Code]**. Selecteer **[!UICONTROL Embed Code]** die verband houdt met de `Universal_HTML5_Video` viewer.
+     Selecteer in de pagina Viewer List onder de kolom Acties van de tabel de optie **[!UICONTROL Embed Code]**. Selecteer **[!UICONTROL Embed Code]** die verband houdt met de `Universal_HTML5_Video` viewer.
 
    * Selecteren **[!UICONTROL Grid View]**, **[!UICONTROL List View]**, of **[!UICONTROL Detail View]**. Ga op dezelfde werkbalk naar **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]**.
 
-      Selecteer in de pagina Viewer List onder de kolom Acties van de tabel de optie **[!UICONTROL Embed Code]**. Selecteer **[!UICONTROL Embed Code]** die verband houdt met de `Universal_HTML5_Video` viewer.
+     Selecteer in de pagina Viewer List onder de kolom Acties van de tabel de optie **[!UICONTROL Embed Code]**. Selecteer **[!UICONTROL Embed Code]** die verband houdt met de `Universal_HTML5_Video` viewer.
 
 1. Selecteer in het dialoogvenster Code insluiten de optie **[!UICONTROL Copy to Clipboard]**.
 
@@ -119,15 +121,15 @@ Als u de Adobe Dynamic Media Classic HTML5-videospeler niet gebruikt, maar de na
 
 * Vervangen `"S7 video thumbnail URL"` met de URL van de miniatuur van de video. Dit is de miniatuurafbeelding van de video die een gebruiker ziet voordat hij of zij de video afspeelt.
 
-   Zie [URL&#39;s met videominiaturen verkrijgen](deploying-video-websites-mobile-sites.md#obtaining_video_thumbnail_urls).
+  Zie [URL&#39;s met videominiaturen verkrijgen](deploying-video-websites-mobile-sites.md#obtaining_video_thumbnail_urls).
 
 * Vervangen `"S7 OGG video asset URL (no player)"` met de progressieve URL van de video voor OGG-video.
 
-   Zie [Een video-URL koppelen aan een mobiele site of website](deploying-video-websites-mobile-sites.md#linking_a_video_url_to_a_mobile_site_or_a_website).
+  Zie [Een video-URL koppelen aan een mobiele site of website](deploying-video-websites-mobile-sites.md#linking_a_video_url_to_a_mobile_site_or_a_website).
 
 * Vervangen `"S7 MP4 mobile progressive video asset URL (no player)"` met de progressieve URL van de mobiele telefoon van de video.
 
-   Zie [Een video-URL koppelen aan een mobiele site of website](deploying-video-websites-mobile-sites.md#linking_a_video_url_to_a_mobile_site_or_a_website).
+  Zie [Een video-URL koppelen aan een mobiele site of website](deploying-video-websites-mobile-sites.md#linking_a_video_url_to_a_mobile_site_or_a_website).
 
 ## Video implementeren met een externe videospeler {#deploying-video-using-a-third-party-video-player}
 
@@ -140,28 +142,28 @@ Als u een videospeler van derden of een aangepaste videospeler gebruikt in plaat
 
 * Een directe URL voor HLS-streaming video (multi-bitsnelheid) genereren
 
-   Op de **[!UICONTROL Application General Settings]** pagina, in de **[!UICONTROL Servers]** in de **[!UICONTROL Published Server Name]** tekstveld, construeert de directe URL. Gebruik de volgende syntaxis: `server/is/content/company/folder/filename.m3u8`
+  Op de **[!UICONTROL Application General Settings]** pagina, in de **[!UICONTROL Servers]** in de **[!UICONTROL Published Server Name]** tekstveld, construeert de directe URL. Gebruik de volgende syntaxis: `server/is/content/company/folder/filename.m3u8`
 
-   Stel dat de naam van de gepubliceerde server `https://s7d9.scene7.com/.` Met de syntaxis in stap 2 kan de directe URL er als volgt uitzien:
-   `https://s7d9.scene7.com/is/content/GeoRetail/AdobeRIA-AVS.m3u8`
+  Stel dat de naam van de gepubliceerde server `https://s7d9.scene7.com/.` Met de syntaxis in stap 2 kan de directe URL er als volgt uitzien:
+  `https://s7d9.scene7.com/is/content/GeoRetail/AdobeRIA-AVS.m3u8`
 
 * Een directe URL voor HLS-streaming video (enkele bitsnelheid) genereren
 
-   Op de **[!UICONTROL Application General Settings]** pagina, in de **[!UICONTROL Servers]** in de **[!UICONTROL HLS Streaming Server Name]** tekstveld, construeert u de directe URL met behulp van de volgende syntaxis:
+  Op de **[!UICONTROL Application General Settings]** pagina, in de **[!UICONTROL Servers]** in de **[!UICONTROL HLS Streaming Server Name]** tekstveld, construeert u de directe URL met behulp van de volgende syntaxis:
 
-   `server/company/folder/filename.ext.m3u8`
+  `server/company/folder/filename.ext.m3u8`
 
-   Stel dat de naam van de HLS-streamingserver `https://s7mbrstream.scene7.com/hls-vod/`. Met de syntaxis in stap 2 kan de directe URL er als volgt uitzien:
-   `https://s7mbrstream.scene7.com/hls-vod/GeoRetail/MBR/ToyStory3\_Teaser1\_High\_iPad\_768x432\_1296K.mp4.m3u8`
+  Stel dat de naam van de HLS-streamingserver `https://s7mbrstream.scene7.com/hls-vod/`. Met de syntaxis in stap 2 kan de directe URL er als volgt uitzien:
+  `https://s7mbrstream.scene7.com/hls-vod/GeoRetail/MBR/ToyStory3\_Teaser1\_High\_iPad\_768x432\_1296K.mp4.m3u8`
 
 * Een direct progressieve video-URL genereren
 
-   Op de **[!UICONTROL Application General Settings]** pagina, in de **[!UICONTROL Servers]** in de **[!UICONTROL Progressive Video Server Name]** in het tekstveld de directe eVideo-URL samenstellen met behulp van de volgende syntaxis:
+  Op de **[!UICONTROL Application General Settings]** pagina, in de **[!UICONTROL Servers]** in de **[!UICONTROL Progressive Video Server Name]** in het tekstveld de directe eVideo-URL samenstellen met behulp van de volgende syntaxis:
 
-   `server/company/folder/filename`
+  `server/company/folder/filename`
 
-   Stel dat de naam van de progressieve videoserver `https://s7d9.scene7.com/is/content/`. Met de syntaxis in stap 2 kan de directe URL er als volgt uitzien:
-   `https://s7d9.scene7.com/e2/GeoRetail/SourceVideo/outdoors.mp4`
+  Stel dat de naam van de progressieve videoserver `https://s7d9.scene7.com/is/content/`. Met de syntaxis in stap 2 kan de directe URL er als volgt uitzien:
+  `https://s7d9.scene7.com/e2/GeoRetail/SourceVideo/outdoors.mp4`
 
 ## Werken met videominiaturen {#working-with-video-thumbnails}
 

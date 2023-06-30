@@ -10,7 +10,9 @@ discoiquuid: 8b000c25-c9c3-481e-9b25-96257471571f
 feature: Dynamic Media Classic,Collaboration,Asset Management
 role: Admin,User
 exl-id: b0c5f70a-2388-42aa-a1ed-fd745ff90518
-source-git-commit: 65e3b69bdcbd651a5f9ab100592217e61a8c05ef
+topic: Collaboration, Content Management
+level: Intermediate
+source-git-commit: 5d8b7cb8b4616a998346675d7324b568634698fb
 workflow-type: tm+mt
 source-wordcount: '327'
 ht-degree: 0%
@@ -37,7 +39,7 @@ Ga naar **[!UICONTROL Setup]** > **[!UICONTROL Media Portal Setup]** > **[!UICON
 
 * **[!UICONTROL Alert]** - Kies een achtergrondkleur voor waarschuwingsberichtvensters.
 
-* **[!UICONTROL Progress Bar]** - Kies een kleur voor de balk die de voortgang van uploads en downloads aangeeft.
+* **[!UICONTROL Progress Bar]** - Kies een kleur voor de balk die de voortgang van het uploaden en downloaden aangeeft.
 
 Voor gebruikers van Media Portal om de stijlmontages te zien die u verkoos, moeten zij toevoegen `?company=(company name)` aan URL waarmee zij tot het Portaal van Media toegang hebben. Bijvoorbeeld, om stijlmontages te zien, de gebruikers van het Portaal van Media die tot het bedrijf PortalCo bij het volgende toegang hebben:
 

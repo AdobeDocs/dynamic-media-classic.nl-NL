@@ -8,7 +8,9 @@ geptopics: SG_SCENESEVENONDEMAND_PK/categories/setup
 feature: Dynamic Media Classic
 role: Admin
 exl-id: 3f96606e-ef5c-4c01-aa0f-3148f14e28be
-source-git-commit: 38d7f8d6e5888e1c5ba9260ada45b79fb16b338f
+topic: Administration
+level: Intermediate
+source-git-commit: d82f816553f807b514f4690827dab672a6baf690
 workflow-type: tm+mt
 source-wordcount: '10713'
 ht-degree: 1%
@@ -55,25 +57,25 @@ Zie ook [De service Beveiligde tests testen](testing-assets-making-them-public.m
 
 * **[!UICONTROL CDN Invalidation Template]** - Geeft de sjabloon op die wordt gebruikt voor het ongeldig maken van de CDN-cache (Content Delivery Network).
 
-   Stel dat u bijvoorbeeld een afbeeldings-URL invoert (inclusief voorinstellingen of wijzigingstoetsen voor afbeeldingen) die verwijst naar `<ID>`in plaats van een specifieke afbeelding-id zoals in het volgende voorbeeld:
+  Stel dat u bijvoorbeeld een afbeeldings-URL invoert (inclusief voorinstellingen of wijzigingstoetsen voor afbeeldingen) die verwijst naar `<ID>`in plaats van een specifieke afbeelding-id zoals in het volgende voorbeeld:
 
-   `https://sample.scene7.com/is/image/Company/<ID>?$s7product$`
+  `https://sample.scene7.com/is/image/Company/<ID>?$s7product$`
 
-   Als de sjabloon alleen bevat `<ID>`en vervolgens vult Adobe Dynamic Media Classic de `https://<server>/is/image`, waarbij `<server>` Dit is de naam van de publicatieserver die is gedefinieerd in Algemene instellingen.
+  Als de sjabloon alleen bevat `<ID>`en vervolgens vult Adobe Dynamic Media Classic de `https://<server>/is/image`, waarbij `<server>` Dit is de naam van de publicatieserver die is gedefinieerd in Algemene instellingen.
 
-   Het plaatsen van CDN ongeldig Malplaatje, selecteert een beeld genoemd Backpack_B, en gaat dan naar **[!UICONTROL File]** > **[!UICONTROL Invalidate CDN]** resulteert in volgende geproduceerde URL in CDN ongeldig maakt interface:
+  Het plaatsen van CDN ongeldig Malplaatje, selecteert een beeld genoemd Backpack_B, en gaat dan naar **[!UICONTROL File]** > **[!UICONTROL Invalidate CDN]** resulteert in volgende geproduceerde URL in CDN ongeldig maakt interface:
 
-   `https://sample.scene7.com/is/image/Company/Backpack_B?$s7product$`
+  `https://sample.scene7.com/is/image/Company/Backpack_B?$s7product$`
 
-   Selecteer in de keuzelijst URL de optie **[!UICONTROL Continue]** om het geheime voorgeheugen voor die specifieke beeldURL vraag te ontruimen. U kunt ook URL&#39;s toevoegen door deze in het vak URL-lijst te typen of te plakken; u hoeft de sjabloon niet vooraf in te stellen.
+  Selecteer in de keuzelijst URL de optie **[!UICONTROL Continue]** om het geheime voorgeheugen voor die specifieke beeldURL vraag te ontruimen. U kunt ook URL&#39;s toevoegen door deze in het vak URL-lijst te typen of te plakken; u hoeft de sjabloon niet vooraf in te stellen.
 
-   Nadat u uw Malplaatje van de Invalidatie CDN hebt geselecteerd, en een ongeldig CDN verzoek gemaakt, duikt een indicator op in het gebruikersinterface. Het geeft u een schatting van hoe lang het duurt om het geheime voorgeheugen te ontruimen.
+  Nadat u uw Malplaatje van de Invalidatie CDN hebt geselecteerd, en een ongeldig CDN verzoek gemaakt, duikt een indicator op in het gebruikersinterface. Het geeft u een schatting van hoe lang het duurt om het geheime voorgeheugen te ontruimen.
 
-   Op dezelfde manier als er in Adobe Dynamic Media Classic meerdere afbeeldingen zijn geselecteerd wanneer u naar **[!UICONTROL File]** > **[!UICONTROL Invalidate CDN]**, wordt naar elke afbeelding verwezen in de opgeslagen sjabloon-URL. Daarom kunt u CDN bepalen ongeldig Malplaatje dat van verwijzingen voorziet elke URL die op uw Website (zoals productdetail en onderzoeksresultaten) wordt voorzien. Wanneer u vervolgens een of meer afbeeldingen selecteert om te worden geannuleerd door het cachegeheugen, vullen de URL&#39;s automatisch de interface in.
+  Op dezelfde manier als er in Adobe Dynamic Media Classic meerdere afbeeldingen zijn geselecteerd wanneer u naar **[!UICONTROL File]** > **[!UICONTROL Invalidate CDN]**, wordt naar elke afbeelding verwezen in de opgeslagen sjabloon-URL. Daarom kunt u CDN bepalen ongeldig Malplaatje dat van verwijzingen voorziet elke URL die op uw Website (zoals productdetail en onderzoeksresultaten) wordt voorzien. Wanneer u vervolgens een of meer afbeeldingen selecteert om te worden geannuleerd door het cachegeheugen, vullen de URL&#39;s automatisch de interface in.
 
-   Zie [Inhoud in cache plaatsen](dmc-platform-overview.md#content_caching).
+  Zie [Inhoud in cache plaatsen](dmc-platform-overview.md#content_caching).
 
-   Zie [Hergepubliceerde elementen en CDN-vertragingen](publishing-files.md#republished_assets_and_cdn_delays).
+  Zie [Hergepubliceerde elementen en CDN-vertragingen](publishing-files.md#republished_assets_and_cdn_delays).
 
 ### Bladeren
 
@@ -85,21 +87,21 @@ Zie ook [De service Beveiligde tests testen](testing-assets-making-them-public.m
 
 * **[!UICONTROL Show Encoded Videos]** - Deze optie is standaard uitgeschakeld.
 
-   Als u snel naar video&#39;s in Adobe Dynamic Media Classic wilt zoeken en deze wilt bekijken zonder dat u door een groot aantal gecodeerde derivaten van dezelfde video hoeft te navigeren, schakelt u deze optie uit (standaard). Alleen de miniatuur Primaire video (de bronvideo die u hebt geüpload en gebruikt om de derivaten te maken) en de miniatuur &#39;Oudere&#39; Adaptieve videoset (die de &#39;onderliggende&#39; derivaten van de gecodeerde videoset bevat) worden weergegeven.
+  Als u snel naar video&#39;s in Adobe Dynamic Media Classic wilt zoeken en deze wilt bekijken zonder dat u door een groot aantal gecodeerde derivaten van dezelfde video hoeft te navigeren, schakelt u deze optie uit (standaard). Alleen de miniatuur Primaire video (de bronvideo die u hebt geüpload en gebruikt om de derivaten te maken) en de miniatuur &#39;Oudere&#39; Adaptieve videoset (die de &#39;onderliggende&#39; derivaten van de gecodeerde videoset bevat) worden weergegeven.
 
-   U kunt echter wel toegang krijgen tot individuele gecodeerde video&#39;s via de primaire video of de adaptieve videoset. Dubbelklik hiertoe op de miniatuurafbeelding van de video om de gedetailleerde weergave te openen. Selecteer vervolgens **[!UICONTROL Encoded Videos]** in het rechterdeelvenster, zodat u toegang hebt tot alle &#39;onderliggende&#39; video&#39;s.
+  U kunt echter wel toegang krijgen tot individuele gecodeerde video&#39;s via de primaire video of de adaptieve videoset. Dubbelklik hiertoe op de miniatuurafbeelding van de video om de gedetailleerde weergave te openen. Selecteer vervolgens **[!UICONTROL Encoded Videos]** in het rechterdeelvenster, zodat u toegang hebt tot alle &#39;onderliggende&#39; video&#39;s.
 
-   U kunt ook naar **[!UICONTROL File]** > **[!UICONTROL Reprocess]** om meer gecodeerde &#39;onderliggende&#39; video&#39;s rechtstreeks vanuit een adaptieve videoset te maken. Adobe Dynamic Media Classic zoekt automatisch de &quot;bovenliggende&quot; primaire video van de adaptieve videoset en gebruikt die als de bronvideo voor transcodering. Wanneer u de nieuwe individuele gecodeerde video&#39;s opslaat, worden deze echter niet weergegeven wanneer u doorzoekt of bladert. Ze zijn echter nog steeds toegankelijk via het tabblad Gecodeerde video&#39;s in de gedetailleerde weergave.
+  U kunt ook naar **[!UICONTROL File]** > **[!UICONTROL Reprocess]** om meer gecodeerde &#39;onderliggende&#39; video&#39;s rechtstreeks vanuit een adaptieve videoset te maken. Adobe Dynamic Media Classic zoekt automatisch de &quot;bovenliggende&quot; primaire video van de adaptieve videoset en gebruikt die als de bronvideo voor transcodering. Wanneer u de nieuwe individuele gecodeerde video&#39;s opslaat, worden deze echter niet weergegeven wanneer u doorzoekt of bladert. Ze zijn echter nog steeds toegankelijk via het tabblad Gecodeerde video&#39;s in de gedetailleerde weergave.
 
-   Zie [Video&#39;s uploaden en transcoderen](uploading-encoding-videos.md#uploading_and_encoding_videos).
+  Zie [Video&#39;s uploaden en transcoderen](uploading-encoding-videos.md#uploading_and_encoding_videos).
 
-   Selecteer **[!UICONTROL Show Encoded Videos]**.
+  Selecteer **[!UICONTROL Show Encoded Videos]**.
 
-   Er zijn bepaalde acties in het menu Opbouwen die alleen werken, of optioneel werken, met afzonderlijke video&#39;s. Deze functionaliteit maakt het noodzakelijk om alle gecodeerde videoderivaten te tonen die u kunt selecteren, ongeacht hoe u plaatst **[!UICONTROL Show Encoded Videos]**. De acties van de Bouwstijl die met voeten treden **[!UICONTROL Show Encoded Videos]** instellen, include **[!UICONTROL Adaptive Video Sets]**, en **[!UICONTROL eCatalogs]**.
+  Er zijn bepaalde acties in het menu Opbouwen die alleen werken, of optioneel werken, met afzonderlijke video&#39;s. Deze functionaliteit maakt het noodzakelijk om alle gecodeerde videoderivaten te tonen die u kunt selecteren, ongeacht hoe u plaatst **[!UICONTROL Show Encoded Videos]**. De acties van de Bouwstijl die met voeten treden **[!UICONTROL Show Encoded Videos]** instellen, include **[!UICONTROL Adaptive Video Sets]**, en **[!UICONTROL eCatalogs]**.
 
-   >[!NOTE]
-   >
-   >Als u Adobe Dynamic Media Classic niet hebt gebruikt om uw video-elementen te uploaden en te coderen, geeft Adobe Dynamic Media Classic al uw individuele gecodeerde video&#39;s weer, zelfs als deze optie is uitgeschakeld.
+  >[!NOTE]
+  >
+  >Als u Adobe Dynamic Media Classic niet hebt gebruikt om uw video-elementen te uploaden en te coderen, geeft Adobe Dynamic Media Classic al uw individuele gecodeerde video&#39;s weer, zelfs als deze optie is uitgeschakeld.
 
 * **[!UICONTROL Show Refresh Subfolders Button]** - Schakel de weergave van de knop Submappen vernieuwen in of uit.
 
@@ -198,22 +200,22 @@ In het scherm Voorinstelling toevoegen en Voorinstelling bewerken vindt u de vol
       * **[!UICONTROL Number Of Colors]** - Sleep de schuifregelaar om 2-255 in te voeren.
 
       * **[!UICONTROL Color List]** - Voer een door komma&#39;s gescheiden lijst in. Voor wit, grijs en zwart voert u bijvoorbeeld de volgende gegevens in: `000000,888888,ffffff`.
+
    * JPEG-opties
 
       * **[!UICONTROL Quality]** - Hiermee bepaalt u het compressieniveau JPEG. Deze instelling is van invloed op zowel de bestandsgrootte als de afbeeldingskwaliteit. De schaal van de kwaliteit van de JPEG is 1-100.
 
       * **[!UICONTROL Enable JPG Chrominance Downsampling]** - Omdat het oog minder gevoelig is voor hoogfrequente kleurinformatie dan hoogfrequente luminantie, verdelen JPEG-afbeeldingen de afbeeldingsgegevens in luminantie en kleurcomponenten. Wanneer een JPEG-afbeelding wordt gecomprimeerd, blijft de luminantiecomponent op volledige resolutie staan, terwijl de kleurcomponenten worden gedownsampled door het gemiddelde te nemen van pixelgroepen. Door downsampling wordt het gegevensvolume met de helft of met een derde verminderd, zonder dat dit van invloed is op de waargenomen kwaliteit. Downsampling is niet van toepassing op grijswaardenafbeeldingen. Met deze techniek vermindert u de hoeveelheid compressie die handig is voor afbeeldingen met veel contrast (bijvoorbeeld afbeeldingen met overlappende tekst).
+
    * Opties voor PDF en TIFF
 
       * **[!UICONTROL Compression]** - Selecteer een compressiealgoritme.
-
-
 
 * **[!UICONTROL Colorspace]** - Selecteer een kleurruimte.
 
 * **[!UICONTROL Sharpening]** - Selecteer de optie Eenvoudig verscherpen inschakelen om een standaard verscherpingsfilter toe te passen op de afbeelding nadat alle schaling heeft plaatsgevonden. Verscherpen kan helpen de vervaging te compenseren die kan optreden wanneer u een afbeelding met een andere grootte weergeeft.
 
-   Zie voor meer informatie over verscherpen, nieuwe beeldpixels berekenen en onscherp maskeren [Een afbeelding verscherpen](sharpening-image.md#sharpening_an_image). Zie ook [Verscherpen](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&amp;emailurl=https://s7d5.scene7.com/s7/emailFriend&amp;serverUrl=https://s7d5.scene7.com/is/image/&amp;config=Scene7SharedAssets/Universal_HTML5_Video&amp;contenturl=https://s7d5.scene7.com/skins/&amp;asset=S7tutorials/547_sharpening1_converted%20renamed_Done-AVS) trainingsvideo.
+  Zie voor meer informatie over verscherpen, nieuwe beeldpixels berekenen en onscherp maskeren [Een afbeelding verscherpen](sharpening-image.md#sharpening_an_image). Zie ook [Verscherpen](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&amp;emailurl=https://s7d5.scene7.com/s7/emailFriend&amp;serverUrl=https://s7d5.scene7.com/is/image/&amp;config=Scene7SharedAssets/Universal_HTML5_Video&amp;contenturl=https://s7d5.scene7.com/skins/&amp;asset=S7tutorials/547_sharpening1_converted%20renamed_Done-AVS) trainingsvideo.
 
 * **[!UICONTROL Resample Mode]** - Selecteer een optie voor de modus Nieuwe pixels berekenen. Met deze opties verscherpt u de afbeelding wanneer deze wordt gedownsampled:
 
@@ -239,7 +241,7 @@ In het scherm Voorinstelling toevoegen en Voorinstelling bewerken vindt u de vol
 
 * **[!UICONTROL Output Color Profile]** - Selecteer **[!UICONTROL Use Default]** of een van de ICC-kleurprofielen die beschikbaar zijn op de Adobe Dynamic Media Classic.
 
-   Zie ook [ICC-profielen](icc-profiles.md#icc_profiles).
+  Zie ook [ICC-profielen](icc-profiles.md#icc_profiles).
 
 * **[!UICONTROL Rendering Intent]** - Selecteer een optie als u de standaard rendering intent van het kleurprofiel wilt overschrijven. Gebruik deze optie als een van de standaard-ICC-profielen de doelkleurruimte van een kleuromzetting is. Of een uitvoerapparaat (printer of monitor) wordt gekarakteriseerd door dit profiel en de opgegeven rendering intent is geldig voor dit profiel.
 
@@ -292,19 +294,19 @@ Als u een coderingsvoorinstelling wilt selecteren, selecteert u in de rechterben
 
    * **[!UICONTROL Adaptive Video]** - Eén coderingsvoorinstelling die met elke verhouding werkt om video&#39;s te maken die u kunt afspelen op mobiele apparaten, tablets en desktops. Geüploade bronvideo&#39;s die met deze voorinstelling zijn gecodeerd, worden ingesteld met een vaste hoogte. De breedte wordt echter automatisch geschaald om de hoogte-breedteverhouding van de video te behouden.
 
-      Deze flexibiliteit van een &#39;Automatisch schalen&#39; is standaard ook beschikbaar wanneer u uw eigen voorinstelling voor aangepaste videocodering maakt.
+     Deze flexibiliteit van een &#39;Automatisch schalen&#39; is standaard ook beschikbaar wanneer u uw eigen voorinstelling voor aangepaste videocodering maakt.
 
-      Zie [Een voorinstelling voor videocodering toevoegen of bewerken](uploading-encoding-videos.md#adding_or_editing_a_video_encoding_preset).
+     Zie [Een voorinstelling voor videocodering toevoegen of bewerken](uploading-encoding-videos.md#adding_or_editing_a_video_encoding_preset).
 
    * **[!UICONTROL Adaptive Video Encoding (16:9 or 4:3)]** - Maak zowel video&#39;s met de beeldverhouding 16:9 als 4:3 voor levering aan desktops, mobiele apparaten (iPhone, iPad, Android™) en tablets (iPad, Android™). Alles geoptimaliseerd met de resolutie en bitsnelheid die het beste overeenkomen met de verbindingssnelheid van de viewer.
 
-      Zie [Adaptieve videocodering (16:9 of 4:3), videovoorinstellingen](application-setup.md#adaptive_video_encoding_16_9_or_4_3_video_presets).
+     Zie [Adaptieve videocodering (16:9 of 4:3), videovoorinstellingen](application-setup.md#adaptive_video_encoding_16_9_or_4_3_video_presets).
 
    * **[!UICONTROL Single Encoding Presets]**
 
-      >[!NOTE]
-      >
-      >Als u video wilt leveren aan iPads, kunt u een voorinstelling voor mobiele codering of een voorinstelling voor tabletcodering selecteren. Tabletvoorinstellingen zijn speciaal ontworpen voor de iPad, meestal met een hogere resolutie en kwaliteit, zodat u kunt profiteren van de grotere schermgrootte en bandbreedteverbinding. Als u videobestanden wilt leveren die zijn gecodeerd met een voorinstelling voor tablets, moet u apparaatdetectiecode opnemen op uw mobiele site of toepassing. Deze code schakelt tussen een iPhone- of iPad-videobeleving, afhankelijk van het afspeelapparaat. Een mobiele voorinstelling kiezen voor het leveren van videobestanden naar de iPad is een eenvoudigere workflow. De reden hiervoor is dat u hetzelfde videobestand kunt gebruiken voor zowel iPhones als iPads. De kwaliteit wordt echter gestandaardiseerd aan de hand van de iPhone-ervaring met lagere resolutie.
+     >[!NOTE]
+     >
+     >Als u video wilt leveren aan iPads, kunt u een voorinstelling voor mobiele codering of een voorinstelling voor tabletcodering selecteren. Tabletvoorinstellingen zijn speciaal ontworpen voor de iPad, meestal met een hogere resolutie en kwaliteit, zodat u kunt profiteren van de grotere schermgrootte en bandbreedteverbinding. Als u videobestanden wilt leveren die zijn gecodeerd met een voorinstelling voor tablets, moet u apparaatdetectiecode opnemen op uw mobiele site of toepassing. Deze code schakelt tussen een iPhone- of iPad-videobeleving, afhankelijk van het afspeelapparaat. Een mobiele voorinstelling kiezen voor het leveren van videobestanden naar de iPad is een eenvoudigere workflow. De reden hiervoor is dat u hetzelfde videobestand kunt gebruiken voor zowel iPhones als iPads. De kwaliteit wordt echter gestandaardiseerd aan de hand van de iPhone-ervaring met lagere resolutie.
 
       * Selecteer Naam of Grootte onder de groep Coderingsvoorinstellingen in de vervolgkeuzelijst Codering sorteren als u voorinstellingen op naam of grootte wilt sorteren.
       * Selecteer een coderingsvoorinstelling op basis van de resolutiegrootte en de bandbreedte waarmee u de video wilt afspelen.
@@ -558,29 +560,29 @@ Het scherm Voorinstellingen viewer bevat gereedschappen voor de volgende taken:
 
 * **Een voorinstelling toevoegen** - Selecteer **[!UICONTROL Add]** en maakt u keuzen in het dialoogvenster Voorinstelling viewer toevoegen.
 
-       Zie [Viewer-voorinstellingen toevoegen en bewerken](application-setup.md#adding_and_editing_viewer_presets).
-   
+      Zie [Viewer-voorinstellingen toevoegen en bewerken](application-setup.md#adding_and_editing_viewer_presets).
+  
 * **Een voorinstelling bewerken** - Selecteer een voorinstelling en selecteer vervolgens **[!UICONTROL Edit]**.
 
-       Zie [Viewer-voorinstellingen toevoegen en bewerken](application-setup.md#adding_and_editing_viewer_presets).
-   
+      Zie [Viewer-voorinstellingen toevoegen en bewerken](application-setup.md#adding_and_editing_viewer_presets).
+  
 * **Een voorinstelling verwijderen** - Selecteer een voorinstelling en selecteer vervolgens **[!UICONTROL Delete]**.
 
 * **Een voorinstelling exporteren** - Selecteer een HTML5-viewervoorinstelling en selecteer **[!UICONTROL Export]** om de viewerskin te downloaden, zodat u deze kunt gebruiken als basis voor het maken en toevoegen van een andere viewervoorinstelling.
 
-       Zie [Een HTML5 Viewer-voorinstelling exporteren](application-setup.md#exporting_an_html5_viewer_preset).
-   
+      Zie [Een HTML5 Viewer-voorinstelling exporteren](application-setup.md#exporting_an_html5_viewer_preset).
+  
 * **De voorinstellingenlijst van de viewer filteren** - Gebruik deze gereedschappen om de lijst te filteren:
 
-       * Open de vervolgkeuzelijst **Actief/Inactief** en selecteer een optie om actieve voorinstellingen, inactieve voorinstellingen of alle voorinstellingen weer te geven.
-       * Open de vervolgkeuzelijst **Viewer** en selecteer een optie om alleen bepaalde viewers weer te geven. Selecteren **[!UICONTROL All Viewers]** om alle viewers weer te geven.
-   
+      * Open de vervolgkeuzelijst **Actief/Inactief** en selecteer een optie om actieve voorinstellingen, inactieve voorinstellingen of alle voorinstellingen weer te geven.
+      * Open de vervolgkeuzelijst **Viewer** en selecteer een optie om alleen bepaalde viewers weer te geven. Selecteren **[!UICONTROL All Viewers]** om alle viewers weer te geven.
+  
 * **Voorinstellingen sorteren** - Selecteer een kolomkop (**[!UICONTROL Active]**, **[!UICONTROL Type]**, **[!UICONTROL Preset]**, of **[!UICONTROL Platform]**) om de lijst in een kolom te sorteren. Selecteer nogmaals een kolomkop om de lijst in aflopende (of oplopende) volgorde te sorteren.
 
 * **Voorinstellingen activeren en deactiveren** - Selecteer een voorinstelling en selecteer vervolgens de optie Actief om deze te activeren of deactiveren.
 
-       Zie [Viewer-voorinstellingen activeren of deactiveren](application-setup.md#activating_or_deactivating_viewer_presets).
-   
+      Zie [Viewer-voorinstellingen activeren of deactiveren](application-setup.md#activating_or_deactivating_viewer_presets).
+  
 >[!NOTE]
 >
 >Selecteren **[!UICONTROL Preview]** aan de rechterkant van de pagina Voorinstellingen viewer, zodat u kunt zien hoe een element eruitziet in de door u geselecteerde voorinstelling voor viewers. Selecteer **[!UICONTROL Browse]** op de pagina Voorinstellingen viewer en selecteer een ander element in het dialoogvenster Voorvertoning van element selecteren.
@@ -603,12 +605,12 @@ Zie ook [Viewer-voorinstellingen](https://s7d5.scene7.com/s7viewers/html5/VideoV
 
    * **Toevoegen** - Selecteer op de werkbalk de optie **[!UICONTROL Add]**. Selecteer een platform in het dialoogvenster Voorinstelling viewer toevoegen en selecteer een type rich-media-element.
 
-          Selecteren **[!UICONTROL Save As]** wanneer u klaar bent met het maken van de voorinstelling Viewer.
-      
+         Selecteren **[!UICONTROL Save As]** wanneer u klaar bent met het maken van de voorinstelling Viewer.
+     
    * **Toevoegen via een bestaande viewervoorinstelling** - Selecteer in de tabel een voorinstelling voor de video-viewer en selecteer **[!UICONTROL Edit]** op de werkbalk.
 
-          Selecteer ** nadat u de video-viewer opnieuw hebt geconfigureerd[!UICONTROL Save As]** om de voorinstelling op te slaan onder een andere naam in het tekstveld Naam voorinstelling.
-      
+         Selecteer ** nadat u de video-viewer opnieuw hebt geconfigureerd[!UICONTROL Save As]** om de voorinstelling op te slaan onder een andere naam in het tekstveld Naam voorinstelling.
+     
    * **Bewerken** - Selecteer een bestaande voorinstelling voor de viewer en selecteer **[!UICONTROL Edit]**.
 
 1. Voer in het scherm Viewer configureren de naam van de voorinstelling in het veld Naam voorinstelling in of bewerk de naam van de voorinstelling.
@@ -696,9 +698,11 @@ De URL wordt naar het klembord gekopieerd. U kunt deze desgewenst gebruiken in d
    Selecteer in de pagina Viewer List onder de kolom Acties van de tabel de optie **[!UICONTROL Copy URL]**.
 
    * Selecteren **[!UICONTROL List View]**. Selecteer in het deelvenster Asset Browse één element en ga vervolgens rechts van de miniatuurafbeelding naar **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]**.
+
    Selecteer in de pagina Viewer List onder de kolom Acties van de tabel de optie **[!UICONTROL Copy URL]**.
 
    * Selecteren **[!UICONTROL Grid View]**, **[!UICONTROL List View]**, of **[!UICONTROL Detail View]**. Ga op dezelfde werkbalk naar **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]**.
+
    Selecteer in de pagina Viewer List onder de kolom Acties van de tabel de optie **[!UICONTROL Copy URL]**.
 
 ### De insluitcode van een Viewer-voorinstelling kopiëren {#copying-the-embed-code-of-a-viewer-preset}
@@ -718,9 +722,11 @@ Het bewerken van de code is niet toegestaan in het dialoogvenster Code insluiten
    Selecteer in de pagina Viewer List onder de kolom Acties van de tabel de optie **[!UICONTROL Embed Code]**.
 
    * Selecteren **[!UICONTROL List View]**. Selecteer in het deelvenster Asset Browse één element en ga vervolgens rechts van de miniatuurafbeelding naar **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]**.
+
    Selecteer in de pagina Viewer List onder de kolom Acties van de tabel de optie **[!UICONTROL Embed Code]**.
 
    * Selecteren **[!UICONTROL Grid View]**, **[!UICONTROL List View]**, of **[!UICONTROL Detail View]**. Ga op dezelfde werkbalk naar **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]**.
+
    Selecteer in de pagina Viewer List onder de kolom Acties van de tabel de optie **[!UICONTROL Embed Code]**.
 
 1. Selecteer in het dialoogvenster Code insluiten de optie **[!UICONTROL Copy to Clipboard]**.
@@ -848,9 +854,9 @@ Een effectief gebruik van door de gebruiker gedefinieerde metagegevensvelden is 
 
    * **[!UICONTROL Applies To]** - Selecteer desgewenst een elementtype als u het metagegevensveld alleen wilt toepassen op een bepaald type element.
 
-      >[!NOTE]
-      >
-      >Selecteer een **[!UICONTROL Applies To]** zorgvuldig te wijzigen, omdat u de **[!UICONTROL Applies To]** nadat u een door de gebruiker gedefinieerd veld hebt gemaakt. Met Adobe Dynamic Media Classic kunt u de naam, het type en de standaardwaarde van een door de gebruiker gedefinieerd veld bewerken, maar niet de **[!UICONTROL Applies To]** instellen. *
+     >[!NOTE]
+     >
+     >Selecteer een **[!UICONTROL Applies To]** zorgvuldig te wijzigen, omdat u de **[!UICONTROL Applies To]** nadat u een door de gebruiker gedefinieerd veld hebt gemaakt. Met Adobe Dynamic Media Classic kunt u de naam, het type en de standaardwaarde van een door de gebruiker gedefinieerd veld bewerken, maar niet de **[!UICONTROL Applies To]** instellen. *
 
 1. Selecteren **[!UICONTROL Save]** als u klaar bent met het maken van het metagegevensveld.
 
@@ -1024,4 +1030,3 @@ Wanneer de centrifugeerset wordt geüpload en gepubliceerd, activeert u de naam 
 >* [Voorinstellingen afbeelding instellen](setting-image-presets.md#setting_up_image_presets)
 >* [Metagegevens weergeven, toevoegen en exporteren](viewing-adding-exporting-metadata.md#viewing_adding_and_exporting_metadata)
 >* [Taakbestanden controleren](checking-job-files.md#checking_job_files)
-

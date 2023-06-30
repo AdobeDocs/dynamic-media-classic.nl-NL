@@ -8,7 +8,9 @@ geptopics: SG_SCENESEVENONDEMAND_PK/categories/upload_and_publish_assets
 feature: Dynamic Media Classic,Asset Management
 role: User
 exl-id: 91b73a09-c5b5-4001-b36f-6bebe65717ff
-source-git-commit: 38d7f8d6e5888e1c5ba9260ada45b79fb16b338f
+topic: Content Management
+level: Intermediate
+source-git-commit: d82f816553f807b514f4690827dab672a6baf690
 workflow-type: tm+mt
 source-wordcount: '1681'
 ht-degree: 0%
@@ -122,7 +124,7 @@ Niet-gepubliceerde elementen worden in de gebruikersinterface aangeduid met een 
 
    * Gebruik in de rasterweergave, lijstweergave of detailweergave de standaardmethoden voor het selecteren van bestanden om een of meer niet-gepubliceerde elementen te selecteren.
 
-      Ga op de algemene navigatiebalk naar **[!UICONTROL File]** > **[!UICONTROL Publish]**.
+     Ga op de algemene navigatiebalk naar **[!UICONTROL File]** > **[!UICONTROL Publish]**.
 
    * Selecteer in de rasterweergave, lijstweergave of detailweergave het grijze, ronde pictogram met een schuine streep erdoorheen, links van de naam van het element.
 
@@ -138,7 +140,7 @@ Gepubliceerde elementen worden in de gebruikersinterface aangeduid met een rond,
 
    * Selecteer een of meer gepubliceerde elementen in de rasterweergave, lijstweergave of detailweergave.
 
-      Ga op de algemene navigatiebalk naar **[!UICONTROL File]** > **[!UICONTROL Unpublish]**.
+     Ga op de algemene navigatiebalk naar **[!UICONTROL File]** > **[!UICONTROL Unpublish]**.
 
    * Selecteer in de rasterweergave, de lijstweergave of de detailweergave het ronde groene vinkje links van de naam van het element.
 
@@ -162,4 +164,3 @@ Ga naar **[!UICONTROL File]** > **[!UICONTROL Invalidate CDN]**. Alle geselectee
 >
 >* [Taakbestanden controleren](checking-job-files.md)
 >* [Herhaalde taken bewerken, verwijderen, pauzeren en hervatten](checking-job-files.md#editing-deleting-pausing-and-resuming-recurring-jobs)
-

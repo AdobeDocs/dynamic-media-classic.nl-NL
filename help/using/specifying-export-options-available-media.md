@@ -9,7 +9,9 @@ discoiquuid: 9bfd95da-3714-4e38-98af-331a04c685f5
 feature: Dynamic Media Classic,Collaboration,Asset Management
 role: Admin,User
 exl-id: c27df6c2-76f4-441c-bd26-cee98203291e
-source-git-commit: 65e3b69bdcbd651a5f9ab100592217e61a8c05ef
+topic: Collaboration, Content Management
+level: Intermediate
+source-git-commit: 5d8b7cb8b4616a998346675d7324b568634698fb
 workflow-type: tm+mt
 source-wordcount: '369'
 ht-degree: 0%
@@ -34,9 +36,9 @@ Zie ook [Elementen exporteren uit Adobe Dynamic Media Classic](exporting-assets-
 
    * **Door gebruiker gedefinieerde conversie inschakelen** - Als deze optie is geselecteerd, kunnen gebruikers andere opties kiezen in het menu **[!UICONTROL Size]** vervolgkeuzelijst in het venster Geselecteerde elementen exporteren. Vervolgens kunnen gebruikers een maateenheid kiezen, zoals pixels of centimeters, en vervolgens de gewenste breedte en hoogte opgeven. Wanneer deze bestanden worden geëxporteerd of gedownload, worden de afbeeldingsbestanden opnieuw opgemaakt.
 
-      Wanneer **[!UICONTROL pixels]** worden gekozen uit de **[!UICONTROL Size]** in de vervolgkeuzelijst kan de resulterende breedte x hoogte van de afbeelding niet groter zijn dan 100 miljoen pixels. Deze grootte is 10.000 x 10.000 pixels voor een vierkante afbeelding of ongeveer 8.000 x 12.000 pixels voor een afbeelding met de hoogte-breedteverhouding 2x3. Deze formaatbeperking geldt niet als u originele primaire afbeeldingen exporteert.
+     Wanneer **[!UICONTROL pixels]** worden gekozen uit de **[!UICONTROL Size]** in de vervolgkeuzelijst kan de resulterende breedte x hoogte van de afbeelding niet groter zijn dan 100 miljoen pixels. Deze grootte is 10.000 x 10.000 pixels voor een vierkante afbeelding of ongeveer 8.000 x 12.000 pixels voor een afbeelding met de hoogte-breedteverhouding 2x3. Deze formaatbeperking geldt niet als u originele primaire afbeeldingen exporteert.
 
-      Schakel deze optie uit als u wilt dat gebruikers bestanden downloaden zonder ze opnieuw op te maken terwijl ze worden gedownload.
+     Schakel deze optie uit als u wilt dat gebruikers bestanden downloaden zonder ze opnieuw op te maken terwijl ze worden gedownload.
 
    * **Origineel exporteren inschakelen** - Hiermee kunt u oorspronkelijke primaire afbeeldingen exporteren. In de **[!UICONTROL Export Selected Assets]** kunnen gebruikers de **[!UICONTROL Conversion]** en kiest u **[!UICONTROL Export Original]** om oorspronkelijke bestanden te exporteren. Schakel deze optie uit als u gebruikers wilt dwingen een voorinstelling voor afbeeldingen te kiezen of conversieopties wilt kiezen wanneer ze afbeeldingen exporteren.
 
@@ -44,4 +46,3 @@ Zie ook [Elementen exporteren uit Adobe Dynamic Media Classic](exporting-assets-
 >
 >* [Voorinstellingen afbeelding](application-setup.md#image_presets)
 >* [Toegangsrechten voor een groep kiezen voor Voorinstelling afbeelding](creating-media-portal-groups.md#choosing_image_preset_access_permissions_for_a_group)
-

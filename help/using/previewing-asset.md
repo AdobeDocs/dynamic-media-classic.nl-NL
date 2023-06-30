@@ -10,7 +10,9 @@ discoiquuid: 17d0bfd6-fc62-4ed6-8a51-7ac1a6bb96cc
 feature: Dynamic Media Classic,Asset Management,Viewers
 role: User
 exl-id: 7e6f652c-b197-4171-b11b-f532795f7cf2
-source-git-commit: 65e3b69bdcbd651a5f9ab100592217e61a8c05ef
+topic: Content Management
+level: Intermediate
+source-git-commit: d82f816553f807b514f4690827dab672a6baf690
 workflow-type: tm+mt
 source-wordcount: '947'
 ht-degree: 0%
@@ -68,13 +70,13 @@ Voor een bepaald viewerplatform kunt u in het venster Viewer List visueel zien w
 
    * Selecteer in het venster Viewer List onder de kolom Acties van de tabel de optie **[!UICONTROL Copy URL]** voor een geselecteerde viewer- en platformtype.
 
-      Wanneer u **[!UICONTROL Copy URL]**, wordt de bijbehorende URL automatisch naar het klembord gekopieerd.
+     Wanneer u **[!UICONTROL Copy URL]**, wordt de bijbehorende URL automatisch naar het klembord gekopieerd.
 
    * Selecteer in het venster Viewer List onder de kolom Acties van de tabel de optie **[!UICONTROL Embed Code]**.
 
-      Wanneer u **[!UICONTROL Embed Code]**, wordt het venster Code insluiten geopend waarin u de viewercode kunt bekijken. Het bewerken van de code is niet toegestaan in het venster. U kunt de code ook naar het klembord kopiëren, zodat u deze in uw webpagina&#39;s kunt plakken.
+     Wanneer u **[!UICONTROL Embed Code]**, wordt het venster Code insluiten geopend waarin u de viewercode kunt bekijken. Het bewerken van de code is niet toegestaan in het venster. U kunt de code ook naar het klembord kopiëren, zodat u deze in uw webpagina&#39;s kunt plakken.
 
-      Sluit de weergegeven voorvertoning.
+     Sluit de weergegeven voorvertoning.
 
 1. Selecteer in de rechterbenedenhoek van het venster Viewer List de optie **[!UICONTROL Close]** om terug te keren naar het scherm Middelen.
 

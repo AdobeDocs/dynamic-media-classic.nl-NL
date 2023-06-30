@@ -7,7 +7,9 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 feature: Dynamic Media Classic,Viewers,Video
 role: User
 exl-id: 66a1ab20-6036-4c3d-bb66-dd06d917c7f2
-source-git-commit: 65e3b69bdcbd651a5f9ab100592217e61a8c05ef
+topic: Content Management
+level: Intermediate
+source-git-commit: d82f816553f807b514f4690827dab672a6baf690
 workflow-type: tm+mt
 source-wordcount: '894'
 ht-degree: 0%
@@ -56,18 +58,18 @@ Zie [Statische (niet-grafische) inhoud serveren](https://experienceleague.adobe.
 
    * Voor een pop-upviewerervaring voor video selecteert u **[!UICONTROL Copy URL]** helemaal rechts van de naam.
 
-      Voeg de gekopieerde URL van de video toe aan de volgende syntaxis, zodat u deze kunt koppelen aan de gekopieerde URL naar het bijschriftbestand:
+     Voeg de gekopieerde URL van de video toe aan de volgende syntaxis, zodat u deze kunt koppelen aan de gekopieerde URL naar het bijschriftbestand:
 
-      `&caption=<full Copy URL path to the caption file .vtt>,1`
+     `&caption=<full Copy URL path to the caption file .vtt>,1`
 
-      Noteer de `,1` aan het einde van het pad voor de bijschrift-URL. Onmiddellijk na de VTT-bestandsnaamextensie in het pad kunt u de knop voor een gesloten bijschrift op de videospelerbalk desgewenst in- of uitschakelen door in te stellen op `1` of `0`, respectievelijk.
+     Noteer de `,1` aan het einde van het pad voor de bijschrift-URL. Onmiddellijk na de VTT-bestandsnaamextensie in het pad kunt u de knop voor een gesloten bijschrift op de videospelerbalk desgewenst in- of uitschakelen door in te stellen op `1` of `0`, respectievelijk.
 
    * Voor een ingesloten videoviewerervaring selecteert u **[!UICONTROL Embed Code]** helemaal rechts van de naam.
 
-      Selecteer in het dialoogvenster Code insluiten de optie **[!UICONTROL Copy to Clipboard]**.
+     Selecteer in het dialoogvenster Code insluiten de optie **[!UICONTROL Copy to Clipboard]**.
 
-      Voor de HTML5 `Universal_HTML5_Video`, `Universal_HTML5_MixedMedia_dark`, of `Universal_HTML5_MixedMedia_light` viewers, voegt u de gekopieerde insluitcode als volgt toe:
+     Voor de HTML5 `Universal_HTML5_Video`, `Universal_HTML5_MixedMedia_dark`, of `Universal_HTML5_MixedMedia_light` viewers, voegt u de gekopieerde insluitcode als volgt toe:
 
-      `videoViewer.setParam("caption","<full Copy URL path to the caption file .vtt>,1”`
+     `videoViewer.setParam("caption","<full Copy URL path to the caption file .vtt>,1”`
 
-      Noteer de `,1` aan het einde van het URL-pad. Onmiddellijk na de VTT-bestandsnaamextensie in het URL-pad kunt u de bijschriftknop op de videospelerbalk desgewenst in- of uitschakelen door in te stellen op `1` of `0`, respectievelijk.
+     Noteer de `,1` aan het einde van het URL-pad. Onmiddellijk na de VTT-bestandsnaamextensie in het URL-pad kunt u de bijschriftknop op de videospelerbalk desgewenst in- of uitschakelen door in te stellen op `1` of `0`, respectievelijk.

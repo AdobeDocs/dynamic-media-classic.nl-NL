@@ -9,7 +9,9 @@ discoiquuid: b2bc3bf9-e313-481a-8670-c3bedde21b1a
 feature: Dynamic Media Classic,Asset Management
 role: User
 exl-id: 8dfcfb3f-6472-4efd-bc87-d5111eee45ce
-source-git-commit: 65e3b69bdcbd651a5f9ab100592217e61a8c05ef
+topic: Content Management
+level: Intermediate
+source-git-commit: d82f816553f807b514f4690827dab672a6baf690
 workflow-type: tm+mt
 source-wordcount: '3717'
 ht-degree: 0%
@@ -73,7 +75,7 @@ Voor optimale resultaten met het Adobe Dynamic Media Classic-programma moet u de
 | Audio | Invoergeluidsindelingen voor audio-elementen zijn AAC, HE-AAC, AC3, WAV, WMA, AIFF, MP3. U kunt audio naar de volgende indelingen transcoderen: MP3, AAC en HE-AAC. |
 | Afbeeldingen (voor Afbeeldingsgrootte, Zoomen, Afbeeldingssets, Spin-sets) | Afbeeldingen moeten ten minste 2000 pixels groot zijn; De meeste afbeeldingen hebben een maximale grootte van 1500 tot 2500 pixels. Het wordt aanbevolen afbeeldingen zonder verlies in te stellen, zoals TIFF- en PNG-bestanden. Als u een JPEG-afbeelding gebruikt, gebruikt u de instellingen voor de hoogste kwaliteit. Animate GIF-bestanden worden op dezelfde manier verwerkt als andere statische inhoud. |
 | eCatalogs | Gebruik PDF-bestanden met hoge resolutie die zijn gemaakt in Adobe Acrobat of een Adobe Creative Suite-toepassing die is opgeslagen als &#39;geschikt voor drukpers&#39;. PDF bevatten alle benodigde lettertypen, afbeeldingen, maskers en grafische elementen waarnaar wordt verwezen, zoals enkele pagina&#39;s, spreads met twee pagina&#39;s of in een indeling met meerdere pagina&#39;s. Volgorde uw pagina&#39;s door de dossiers in alfanumerieke orde te noemen. Plaats alle PDF voor uw eCatalog in één enkele omslag voor gemak om te uploaden. U kunt opties voor uitsnijden selecteren bij het uploaden om het bijsnijdgebied te verwijderen uit PDF, zoals snijtekens, registratiedoelen of kleurenbalken. De meeste PDF-bestanden die klaar zijn voor gebruik op de drukpers bevinden zich in de CMYK-kleurruimte. Het is daarom belangrijk dat u het CMYK ICC-kleurprofiel opgeeft dat wordt gebruikt bij de PDF-bestanden. |
-| Sjablonen | Een gelaagde afbeelding of lay-outontwerp dat tekst, afbeeldingen en lagen kan bevatten. Afbeeldingslagen, tekstreeksen en kenmerken, zoals kleur en grootte, kunnen worden geparametriseerd zodat variabele gegevens kunnen worden aangepast. Afbeeldingsvereisten voor gebruik in sjablonen zijn gelijk aan die voor andere afbeeldingen. Bereid uw afbeeldingen voor in Photoshop of een ander beeldbewerkingsprogramma. Sla elke afbeelding op als een afgevlakt transparant bestand in TIFF- of PNG-indeling. Zorg ervoor dat de afbeeldingsresolutie geschikt is voor het verwachte gebruik. Afbeeldingen die u wilt afdrukken, zijn 300 ppi. |
+| Sjablonen | Een gelaagde afbeelding of lay-outontwerp dat tekst, afbeeldingen en lagen kan bevatten. Afbeeldingslagen, tekstreeksen en kenmerken, zoals kleur en grootte, kunnen worden geparametereerd zodat variabele gegevens kunnen worden aangepast. Afbeeldingsvereisten voor gebruik in sjablonen zijn gelijk aan die voor andere afbeeldingen. Bereid uw afbeeldingen voor in Photoshop of een ander beeldbewerkingsprogramma. Sla elke afbeelding op als een afgevlakt transparant bestand in TIFF- of PNG-indeling. Zorg ervoor dat de afbeeldingsresolutie geschikt is voor het verwachte gebruik. Afbeeldingen die u wilt afdrukken, zijn 300 ppi. |
 | Video&#39;s | Adobe Dynamic Media Classic ondersteunt videobestanden die zijn opgeslagen in de indeling OGV en MP4. U kunt bestanden tijdens het uploaden naar MP4-indeling transcoderen. Zie [Ondersteunde bestandsindelingen](#supported-static-file-formats). |
 | Lettertypen | Geüpload TrueType, Type1 (alleen Windows®), OpenType®-lettertypen en PhotoFonts. |
 | Afbeeldingen | Afbeeldingen en gelaagde afbeeldingsbestanden. |
@@ -121,9 +123,9 @@ Zorg ervoor dat alle gebruikers in uw bedrijf deze regels voor het noemen van do
 * Als beste praktijken, zorg ervoor dat activa IDs geen lege ruimten (bijvoorbeeld, zwarte jasje.tif en blauw jpg) bevat. Adobe Dynamic Media Classic ASCII codeert lege spaties in elementnamen wanneer elementnamen worden gebruikt om URL-tekenreeksen samen te stellen. Deze ASCII-codes zijn moeilijk leesbaar, waardoor het lezen van URL&#39;s moeilijker kan worden.
 * Taalspecifieke tekens zijn toegestaan in bestandsnamen. De volgende tekens zijn echter niet toegestaan in bestandsnamen:
 
-   \ ; / ? : @ &amp; = + $ , &#42; &quot; &lt; > | &#39; { } %
+  \ ; / ? : @ &amp; = + $ , &#42; &quot; &lt; > | &#39; { } %
 
-   Als een bestandsnaam een of meer van de bovenstaande tekens bevat, worden de tekens tijdens het uploaden uit de bestandsnaam verwijderd.
+  Als een bestandsnaam een of meer van de bovenstaande tekens bevat, worden de tekens tijdens het uploaden uit de bestandsnaam verwijderd.
 
 Gewoonlijk kan de bestandsnaam van een element hetzelfde zijn als het itemnummer, de product-SKU of een andere naam als in het volgende voorbeeld:
 
@@ -209,7 +211,7 @@ Bij het uploaden van bestanden kunt u uit de volgende opties kiezen in het dialo
 
 * **JOB** - Selecteer **[!UICONTROL JOB]** om opties te kiezen die de volledige uploadtaak beïnvloeden.
 
-   U kunt ook *default* opties voor het uploaden van taken met behulp van de **[!UICONTROL Default Upload Options]** in Algemene instellingen. Ga naar **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL General Settings]** > **[!UICONTROL Default Upload Options]** Stel vervolgens de gewenste standaardopties in.
+  U kunt ook *default* opties voor het uploaden van taken met behulp van de **[!UICONTROL Default Upload Options]** in Algemene instellingen. Ga naar **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL General Settings]** > **[!UICONTROL Default Upload Options]** Stel vervolgens de gewenste standaardopties in.
 
    * **[!UICONTROL When]** - Deze optie is alleen beschikbaar als u de optie **[!UICONTROL VIA FTP]** tab.
       * **[!UICONTROL One-Time]** - Geef een uploadtaak op die één keer wordt uitgevoerd. U kunt onder andere de volgende opties kiezen:
@@ -220,6 +222,7 @@ Bij het uploaden van bestanden kunt u uit de volgende opties kiezen in het dialo
          * **[!UICONTROL Weekly]** - Kies een specifieke dag van de week en het tijdstip waarop de taak moet worden uitgevoerd.
          * **[!UICONTROL Monthly]** - Kies een specifieke dag van de maand of de dag van de week, inclusief de begintijd, waarop de taak moet worden uitgevoerd.
          * **[!UICONTROL Custom]** - Pas een upload- of publicatietaakinterval aan uw eigen specificaties aan. Zie [Een aangepast tijdinterval voor uploaden of publiceren maken](checking-job-files.md#creating-a-custom-upload-or-publish-job-time-interval).
+
    * **[!UICONTROL Publish After Uploading]** - Beschikbaar als u een van de **[!UICONTROL FROM DESKTOP]** of de **[!UICONTROL VIA FTP]** tab. Selecteer deze optie als u de elementen die u uploadt automatisch wilt publiceren. Wanneer u bestanden publiceert, worden deze naar live servers verzonden. URL&#39;s voor deze bestanden kunnen vervolgens worden gebruikt op externe websites en toepassingen. Deze optie is ook beschikbaar op de Upload pagina.
 
    * **[!UICONTROL Overwrite in any folder, same base asset name regardless of extension]** - Beschikbaar als u een van de **[!UICONTROL FROM DESKTOP]** of de **[!UICONTROL VIA FTP]** tab. Selecteer deze optie als u wilt dat de bestanden die u uploadt, bestaande bestanden met dezelfde naam vervangen. Deze optie is ook beschikbaar op de Upload pagina. De naam van deze optie kan verschillen, afhankelijk van de instellingen in **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL General Settings]** > **[!UICONTROL Upload to Application]** > **[!UICONTROL Overwrite Images]**.
@@ -232,7 +235,6 @@ Selecteer deze optie als u submappen wilt uploaden van de map die u wilt uploade
 
    * **[!UICONTROL Process metadata files]** - Alleen beschikbaar als u een van de opties **[!UICONTROL VIA FTP]** tab. Selecteer deze optie als u een door tabs gescheiden of XML-bestand wilt uploaden om metagegevens aan meerdere elementen toe te voegen.
 Zie [Metagegevens importeren (via FTP)](viewing-adding-exporting-metadata.md#import-metadata).
-
 
 * **Opties voor uitsnijden** - Als u pixels met witruimte automatisch wilt uitsnijden in een afbeelding, opent u het dialoogvenster **[!UICONTROL Crop]** menu, selecteert u **[!UICONTROL Manual]** en voert u pixelmetingen in in de tekstvelden Boven, Rechts, Onder en Links om vanaf de zijkanten uit te snijden. U kunt ook **[!UICONTROL Trim]** in het menu Uitsnijden en kies de volgende opties:
 
@@ -307,4 +309,3 @@ De nieuwe baan verzendt een bericht naar het adres dat u specificeert zodat de c
 >* [Werken met middelenmappen](asset-folders.md#working_with_asset_folders)
 >* [Herhalende upload- en publicatietaken verwerken](checking-job-files.md#handling_recurring_upload_and_publish_jobs)
 >* [Een upload- of publicatietaak gebruiken als trigger](checking-job-files.md#using_an_upload_or_publish_job_as_a_trigger)
-

@@ -10,7 +10,9 @@ discoiquuid: 4cf63359-63b5-4da7-9498-335d91b4776c
 feature: Dynamic Media Classic,Viewers,eCatalog
 role: User
 exl-id: 5e7f39a5-36a6-40df-8752-064a582c9346
-source-git-commit: 65e3b69bdcbd651a5f9ab100592217e61a8c05ef
+topic: Integrations, Development
+level: Experienced
+source-git-commit: 5d8b7cb8b4616a998346675d7324b568634698fb
 workflow-type: tm+mt
 source-wordcount: '1449'
 ht-degree: 0%
@@ -34,7 +36,7 @@ Voor eCatalogi, tekent u Kaarten van het Beeld op het lusje van de Pagina&#39;s 
 
    * **Veelhoekige kaart** - Selecteer het gereedschap Veelhoekafbeelding met hyperlinks en selecteer vervolgens zo vaak als nodig is rond de omtrek van de afbeelding. Terwijl u selecteert, tekent Adobe Dynamic Media Classic de randen van de Afbeeldingskaart.
 
-      Nadat u een afbeelding met hyperlinks hebt getekend, wijst Adobe Dynamic Media Classic er een naam aan toe in de lijst Afbeeldingskaart. Adobe Dynamic Media Classic voegt een volgnummer toe aan de naam van de eCatalog-pagina waarin u werkt.
+     Nadat u een afbeelding met hyperlinks hebt getekend, wijst Adobe Dynamic Media Classic er een naam aan toe in de lijst Afbeeldingskaart. Adobe Dynamic Media Classic voegt een volgnummer toe aan de naam van de eCatalog-pagina waarin u werkt.
 
 1. (Optioneel) Kies in de lijst Afbeeldingskaart de optie [!UICONTROL Name] kunt u een nieuwe naam voor de Afbeeldingskaart invoeren. Plaats geen lege spaties in de naam die u invoert.
 1. U kunt gebruikers een nieuwe webpagina laten openen wanneer ze de Afbeeldingskaart selecteren. Voer in de URL-kolom in de lijst Afbeeldingskaart de URL van de webpagina in.
@@ -77,23 +79,23 @@ Ga als volgt te werk om eCatalog Image Maps te bewerken:
 
 * **De positie aanpassen** - Selecteer het gereedschap Pannen en verplaats de aanwijzer in de buurt maar niet boven de rand van de kaart. Wanneer de aanwijzer een pijl met vier punten toont, sleept u de hele afbeelding met hyperlinks naar een nieuwe locatie.
 
-   Zie [De positie, vorm en grootte van afbeeldingskaarten aanpassen](creating-image-maps.md#adjusting_the_position_shape_and_size_of_image_maps).
+  Zie [De positie, vorm en grootte van afbeeldingskaarten aanpassen](creating-image-maps.md#adjusting_the_position_shape_and_size_of_image_maps).
 
 * **Vorm en grootte wijzigen** - Als u het formaat van een rechthoekige afbeelding met hyperlinks wilt wijzigen, selecteert u het gereedschap Pannen. Plaats de aanwijzer vervolgens boven een rand of een hoek en sleep wanneer u het pictogram met de dubbele pijl ziet. Als u de grootte van een veelhoekige afbeelding met hyperlinks wilt wijzigen, sleept u een vierkante selectiegreep. Als u een selectiegreep wilt maken, selecteert u de rand van de Afbeeldingskaart en sleept u.
 
-   Zie [De positie, vorm en grootte van afbeeldingskaarten aanpassen](creating-image-maps.md#adjusting_the_position_shape_and_size_of_image_maps).
+  Zie [De positie, vorm en grootte van afbeeldingskaarten aanpassen](creating-image-maps.md#adjusting_the_position_shape_and_size_of_image_maps).
 
 * **Afbeeldingen met hyperlinks verwijderen** - Selecteer het gereedschap Pannen, selecteer de afbeelding met hyperlinks om deze te selecteren en selecteer vervolgens **[!UICONTROL Delete]**.
 
-   Als u alle afbeeldingen met hyperlinks uit een eCatalog wilt verwijderen, selecteert u de optie **[!UICONTROL Order Pages]** en selecteert u vervolgens **[!UICONTROL Clear Maps]**.
+  Als u alle afbeeldingen met hyperlinks uit een eCatalog wilt verwijderen, selecteert u de optie **[!UICONTROL Order Pages]** en selecteert u vervolgens **[!UICONTROL Clear Maps]**.
 
 * **Overlappende afbeeldingen met hyperlinks verwerken** - Sleep om de volgorde van Afbeeldingskaarten in de lijst Afbeeldingskaart te wijzigen.
 
-   Zie [Overlappende afbeeldingen met hyperlinks verwerken](creating-image-maps.md#handling_overlapping_image_maps).
+  Zie [Overlappende afbeeldingen met hyperlinks verwerken](creating-image-maps.md#handling_overlapping_image_maps).
 
 * **Afbeeldingen met hyperlinks kopiëren naar andere pagina&#39;s** - Selecteer **[!UICONTROL Copy Maps To]** (Controleer of u zich op het tabblad Kaartpagina&#39;s bevindt). Selecteer in het scherm Afbeeldingen selecteren de pagina of pagina&#39;s waarop u de Afbeeldingen met hyperlinks wilt kopiëren en selecteer **[!UICONTROL Select]**.
 
-   Zie [Afbeeldingen met hyperlinks kopiëren naar andere afbeeldingen](creating-image-maps.md#copying_image_maps).
+  Zie [Afbeeldingen met hyperlinks kopiëren naar andere afbeeldingen](creating-image-maps.md#copying_image_maps).
 
 >[!NOTE]
 >

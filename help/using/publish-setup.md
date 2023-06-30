@@ -7,7 +7,9 @@ products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 feature: Dynamic Media Classic
 role: Admin
 exl-id: 699d4c12-e47b-4c6b-86f3-dc7aaaa56c1e
-source-git-commit: 65e3b69bdcbd651a5f9ab100592217e61a8c05ef
+topic: Administration, Content Management
+level: Intermediate
+source-git-commit: 5d8b7cb8b4616a998346675d7324b568634698fb
 workflow-type: tm+mt
 source-wordcount: '2340'
 ht-degree: 0%
@@ -48,12 +50,12 @@ Wijzig deze instellingen alleen met hulp van een Adobe Dynamic Media Classic-med
 
 * **[!UICONTROL Localization Support]*** - Met deze instellingen kunt u meerdere kenmerken voor de landinstelling beheren. U kunt hiermee ook een landinstellingenkaarttekenreeks opgeven, zodat u kunt definiëren welke talen u wilt ondersteunen voor de verschillende knopinfo in Viewers.
 
-   Als u bijvoorbeeld een nationaal merk bent dat in verschillende landen verkoopt, kunt u ervoor zorgen dat elk land zijn eigen landspecifieke viewer heeft. Voor deze functionaliteit geeft u een tekenreeks voor de landinstellingenkaart op. Vervolgens kunt u de knopinfo-tekst in de voorinstelling van een viewer bewerken door de vertaalde tekstreeksen toe te voegen voor de gewenste taal.
+  Als u bijvoorbeeld een nationaal merk bent dat in verschillende landen verkoopt, kunt u ervoor zorgen dat elk land zijn eigen landspecifieke viewer heeft. Voor deze functionaliteit geeft u een tekenreeks voor de landinstellingenkaart op. Vervolgens kunt u de knopinfo-tekst in de voorinstelling van een viewer bewerken door de vertaalde tekstreeksen toe te voegen voor de gewenste taal.
 
-   >[!NOTE]
-   > Voor het instellen van opties voor Localization Support [gebruik de Admin Console om een steungeval tot stand te brengen.](https://helpx.adobe.com/enterprise/using/support-for-experience-cloud.html) In uw steungeval, verzoek opstelling hulp.
+  >[!NOTE]
+  > Voor het instellen van opties voor Localization Support [gebruik de Admin Console om een steungeval tot stand te brengen.](https://helpx.adobe.com/enterprise/using/support-for-experience-cloud.html) In uw steungeval, verzoek opstelling hulp.
 
-   Meer informatie over het instellen van **[!UICONTROL Localization Support]**, zie [Overwegingen bij het instellen van lokalisatie van middelen](publish-setup.md#considerations_when_setting_up_localization_of_assets).
+  Meer informatie over het instellen van **[!UICONTROL Localization Support]**, zie [Overwegingen bij het instellen van lokalisatie van middelen](publish-setup.md#considerations_when_setting_up_localization_of_assets).
 
 ### Overwegingen bij het instellen van lokalisatie van middelen {#considerations-when-setting-up-localization-of-assets}
 

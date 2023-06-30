@@ -10,7 +10,9 @@ discoiquuid: 6a2e6df1-9186-42e2-9b85-01f132936c72
 feature: Dynamic Media Classic,Viewers,Video
 role: User
 exl-id: b8d1a0b4-67ab-482d-a685-a087fb850143
-source-git-commit: 65e3b69bdcbd651a5f9ab100592217e61a8c05ef
+topic: Content Management
+level: Intermediate
+source-git-commit: d82f816553f807b514f4690827dab672a6baf690
 workflow-type: tm+mt
 source-wordcount: '850'
 ht-degree: 0%
@@ -72,14 +74,14 @@ Zie ook [Videovoorinstellingen](https://s7d5.scene7.com/s7viewers/html5/VideoVie
 1. Een voorinstelling voor de viewer toevoegen of bewerken voor het weergeven van video:
 
    * **Toevoegen** - Selecteer **[!UICONTROL Add]** in de werkbalk. Kies in het dialoogvenster Voorinstelling viewer toevoegen een platform en viewer in de respectievelijke vervolgkeuzelijsten en selecteer **[!UICONTROL Add]**.
+
    Zie ook [Viewer-voorinstellingen toevoegen en bewerken](application-setup.md#adding_and_editing_viewer_presets).
 
    * **Toevoegen door te beginnen met een bestaande viewervoorinstelling** - Selecteer in de tabel een voorinstelling voor de video-viewer en selecteer **[!UICONTROL Edit]** in de werkbalk.
+
    Nadat u de videoviewer opnieuw hebt geconfigureerd, selecteert u **[!UICONTROL Save As]** om de voorinstelling op te slaan onder een andere naam in het tekstveld Naam voorinstelling.
 
    * **Bewerken** - Selecteer een voorinstelling voor de video-viewer en selecteer **[!UICONTROL Edit]**.
-
-
 
 1. Voer in het veld Naam voorinstelling van de pagina Viewer configureren de naam van de voorinstelling in of bewerk deze.
 1. Stel de overige gewenste opties in.
@@ -95,4 +97,3 @@ Zie ook [Videovoorinstellingen](https://s7d5.scene7.com/s7viewers/html5/VideoVie
 >
 >* [Aanbevolen procedures voor videocodering](uploading-encoding-videos.md#best_practices_for_video_encoding)
 >* [Werken met voorinstellingen voor videocodering](uploading-encoding-videos.md#working_with_video_encoding_presets)
-

@@ -10,7 +10,9 @@ discoiquuid: 1c9e29f0-3083-4d22-a439-2a01faf59683
 feature: Dynamic Media Classic,Asset Management
 role: User
 exl-id: 391eb7ce-ed89-47a8-a6c6-5adb3e95bf78
-source-git-commit: 65e3b69bdcbd651a5f9ab100592217e61a8c05ef
+topic: Content Management
+level: Intermediate
+source-git-commit: d82f816553f807b514f4690827dab672a6baf690
 workflow-type: tm+mt
 source-wordcount: '601'
 ht-degree: 0%
@@ -58,7 +60,7 @@ Zoomdoelen, afbeeldingskenmerken en historiegegevens worden permanent verwijderd
    * Als u een of meer elementen wilt verwijderen, selecteert u de elementen in het deelvenster Bladeren en drukt u op **[!UICONTROL Delete]** of ga naar **[!UICONTROL File]** > **[!UICONTROL Delete]**.
    * Als u een map wilt verwijderen, selecteert u de map in de Asset Library en selecteert u **[!UICONTROL Remove Folder]**.
 
-      Als u een map verwijdert, worden de map, alle elementen in de map en alle elementen in de submappen verwijderd.
+     Als u een map verwijdert, worden de map, alle elementen in de map en alle elementen in de submappen verwijderd.
 
 Adobe Dynamic Media Classic raadt aan elementbestanden te overschrijven in plaats van ze te verwijderen als u een elementbestand verwijdert door een andere naam te vervangen.
 
@@ -81,4 +83,3 @@ Als u elementen verwijdert uit een tekstbestand en er geen Adobe Dynamic Media C
 >* [Elementen selecteren in het deelvenster Bladeren](selecting-assets-browse-panel.md#selecting_assets_in_the_browse_panel)
 >* [Elementen en mappen voorbereiden voor uploaden](uploading-files.md#preparing_your_assets_and_folders_for_uploading)
 >* [Elementen herstellen vanuit de map Prullenbak](trash-folder.md#restoring_assets_from_the_trash_folder)
-

@@ -10,7 +10,9 @@ discoiquuid: 8f7093da-d215-4337-ac95-69f0a5bf8648
 feature: Dynamic Media Classic
 role: User
 exl-id: 23ac1a0f-c90b-4250-ae36-93702fb5ebd9
-source-git-commit: 65e3b69bdcbd651a5f9ab100592217e61a8c05ef
+topic: Content Management
+level: Experienced
+source-git-commit: d82f816553f807b514f4690827dab672a6baf690
 workflow-type: tm+mt
 source-wordcount: '3310'
 ht-degree: 0%
@@ -103,9 +105,9 @@ Gebruik deze gereedschappen op het scherm Sjabloon, zodat u sjablonen kunt maken
 
 * **[!UICONTROL Text Editor v4.3 and Text Editor v4.2]** - U kunt kiezen voor de meest recente en meest complete teksteditor, Text Editor v4.3 of de vorige teksteditor, Text Editor v4.2. Bij het maken van sjablonen is Teksteditor v4.3 standaard geselecteerd. Als u oudere sjablonen bewerkt, is Teksteditor v4.2 standaard geselecteerd. Teksteditor v4.3 biedt momenteel geen ondersteuning voor tekstomloop, dus wanneer u oudere sjablonen bewerkt die tekstomloop gebruiken, gebruikt u Teksteditor v4.2 om de kwaliteit van de sjabloon volledig intact te houden. Als uw oudere sjabloon geen tekstomloop gebruikt, kunt u Teksteditor v4.3 kiezen om te profiteren van de vele nieuwe functies die deze biedt. U kunt bijvoorbeeld Marges verhogen, Marges verlagen, tekst in hoofdletters instellen en tekst passend maken kopiëren.
 
-   >[!NOTE]
-   >
-   >Teksteditor v4.2 is bedoeld om als optie te worden verwijderd in Adobe Dynamic Media Classic. Het wordt daarom aanbevolen om teksteditor 4.3 zo veel mogelijk te gebruiken. De **[!UICONTROL Word Wrap]** Deze optie wordt opgenomen in een toekomstige versie van de Teksteditor.
+  >[!NOTE]
+  >
+  >Teksteditor v4.2 is bedoeld om als optie te worden verwijderd in Adobe Dynamic Media Classic. Het wordt daarom aanbevolen om teksteditor 4.3 zo veel mogelijk te gebruiken. De **[!UICONTROL Word Wrap]** Deze optie wordt opgenomen in een toekomstige versie van de Teksteditor.
 
 * **[!UICONTROL Designer and Developer]** - Selecteer de optie die uw rol het best beschrijft.
 

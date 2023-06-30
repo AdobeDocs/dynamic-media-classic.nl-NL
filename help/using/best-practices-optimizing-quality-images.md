@@ -8,7 +8,9 @@ geptopics: SG_SCENESEVENONDEMAND_PK/categories/master_files
 feature: Dynamic Media Classic,Asset Management
 role: User
 exl-id: 3c50e706-b9ed-49db-8c08-f179de52b9cf
-source-git-commit: 38d7f8d6e5888e1c5ba9260ada45b79fb16b338f
+topic: Content Management
+level: Intermediate
+source-git-commit: d82f816553f807b514f4690827dab672a6baf690
 workflow-type: tm+mt
 source-wordcount: '1569'
 ht-degree: 0%
@@ -75,13 +77,13 @@ U kunt twee methoden voor het verscherpen van afbeeldingen gebruiken:
       * `amount` (0-5, sterkte van het effect.)
       * `radius` (0-250, breedte van de &#39;verscherpingslijnen&#39; die worden getekend rond het verscherpte object, zoals wordt gemeten in pixels.)
 
-         Houd er rekening mee dat de parameters `radius` en `amount` tegen elkaar werken. Beperken `radius` kan worden gecompenseerd door `amount`. `Radius` Hiermee kunt u nauwkeuriger bepalen, aangezien bij een lagere waarde alleen de randpixels worden verscherpt, terwijl bij een hogere waarde een grotere groep pixels wordt verscherpt.
+        Houd er rekening mee dat de parameters `radius` en `amount` tegen elkaar werken. Beperken `radius` kan worden gecompenseerd door `amount`. `Radius` Hiermee kunt u nauwkeuriger bepalen, aangezien bij een lagere waarde alleen de randpixels worden verscherpt, terwijl bij een hogere waarde een grotere groep pixels wordt verscherpt.
 
       * `threshold` (0-255, gevoeligheid van effect.)
 
-         Deze parameter bepaalt hoe verschillend de verscherpte pixel van het omringende gebied moeten zijn alvorens zij als randpixel worden beschouwd en de filter scherpt hen. Met Drempel voorkomt u te veel verscherpte gebieden met vergelijkbare kleuren, zoals huidskleuren. Als u bijvoorbeeld een drempelwaarde van 12 instelt, worden kleine variaties in de helderheid van de huidskleur genegeerd om &#39;ruis&#39; te voorkomen, terwijl randcontrast wordt toegevoegd aan gebieden met hoog contrast, zoals waar de wimpers de huid raken.
+        Deze parameter bepaalt hoe verschillend de verscherpte pixel van het omringende gebied moeten zijn alvorens zij als randpixel worden beschouwd en de filter scherpt hen. Met Drempel voorkomt u te veel verscherpte gebieden met vergelijkbare kleuren, zoals huidskleuren. Als u bijvoorbeeld een drempelwaarde van 12 instelt, worden kleine variaties in de helderheid van de huidskleur genegeerd om &#39;ruis&#39; te voorkomen, terwijl randcontrast wordt toegevoegd aan gebieden met hoog contrast, zoals waar de wimpers de huid raken.
 
-         Voor meer informatie over hoe u deze drie parameters plaatst, met inbegrip van beste praktijken om met de filter te gebruiken, zie [Afbeeldingen verscherpen in Adobe Dynamic Media Classic en op afbeeldingsserver](/help/using/assets/s7_sharpening_images.pdf).
+        Voor meer informatie over hoe u deze drie parameters plaatst, met inbegrip van beste praktijken om met de filter te gebruiken, zie [Afbeeldingen verscherpen in Adobe Dynamic Media Classic en op afbeeldingsserver](/help/using/assets/s7_sharpening_images.pdf).
 
       * Met Adobe Dynamic Media Classic kunt u ook een vierde parameter instellen: monochroom ( `0,1`). Deze parameter bepaalt of onscherp maskeren wordt toegepast op elke kleurcomponent afzonderlijk met behulp van de waarde `0` of op de helderheid/intensiteit van de afbeelding met behulp van de waarde `1`.
 

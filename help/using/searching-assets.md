@@ -10,7 +10,9 @@ discoiquuid: effef4e7-37c5-42e2-9266-ecd026cad628
 feature: Dynamic Media Classic,Asset Management
 role: User
 exl-id: 4b3f690c-7dff-4bf0-9366-085ba918fe6b
-source-git-commit: 65e3b69bdcbd651a5f9ab100592217e61a8c05ef
+topic: Content Management
+level: Intermediate
+source-git-commit: d82f816553f807b514f4690827dab672a6baf690
 workflow-type: tm+mt
 source-wordcount: '1373'
 ht-degree: 0%
@@ -113,11 +115,11 @@ Voer de volgende stappen uit, zodat u elementen kunt zoeken door te filteren met
 
    * **Een metagegevensveld kiezen** - Selecteer de naam van het veld in het filtermenu.
 
-      >[!NOTE]
-      >
-      >Alleen de namen van metagegevensvelden in de standaardweergave Metagegevens worden weergegeven in het filtermenu.
+     >[!NOTE]
+     >
+     >Alleen de namen van metagegevensvelden in de standaardweergave Metagegevens worden weergegeven in het filtermenu.
 
-      Zie [Weergaven metagegevens](application-setup.md#metadata_views).
+     Zie [Weergaven metagegevens](application-setup.md#metadata_views).
 
    * **Een metagegevensveld toevoegen** - Selecteer **[!UICONTROL Add a Panel]**. Nadat het deelvenster op het deelvenster Filters wordt weergegeven, selecteert u de desbetreffende selectie **[!UICONTROL Field]** en kiest u de naam van een metagegevensveld in het filtermenu.
 
@@ -127,7 +129,6 @@ Voer de volgende stappen uit, zodat u elementen kunt zoeken door te filteren met
 
    * Alle waarden voor metagegevens die in het veld worden ingevoerd.
    * Voor elke metagegevenswaarde het aantal elementen op basis van de waarde.
-
 
 1. Herhaal stap 2 zo vaak als nodig is om alle metagegevensvelden voor de filterbewerking op deelvensters weer te geven.
 1. Selecteer in elk deelvenster een metagegevenswaarde waarop u wilt filteren. U kunt niet meer dan één metagegevenswaarde in elk deelvenster selecteren.
@@ -172,4 +173,3 @@ Selecteren **[!UICONTROL Publish Now]** om de taak te starten. Er wordt een beve
 >
 >* [Basisbeginselen van navigatie](navigation-basics.md#navigation_basics)
 >* [Metagegevens weergeven, toevoegen en exporteren](viewing-adding-exporting-metadata.md#viewing_adding_and_exporting_metadata)
-

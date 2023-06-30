@@ -10,7 +10,9 @@ discoiquuid: 1bd7cb5d-156c-4dad-a725-e177f05ccedf
 feature: Dynamic Media Classic,Collaboration,Asset Management
 role: Admin,User
 exl-id: ce9b5a41-cc3e-4801-8080-607cf7be338b
-source-git-commit: 65e3b69bdcbd651a5f9ab100592217e61a8c05ef
+topic: Administration, Collaboration
+level: Intermediate
+source-git-commit: 5d8b7cb8b4616a998346675d7324b568634698fb
 workflow-type: tm+mt
 source-wordcount: '303'
 ht-degree: 0%
@@ -37,12 +39,12 @@ In deze tabel worden de taken beschreven die gebruikers met verschillende rollen
 | Metagegevens zoeken | X | X | X |
 | Bestanden voorvertonen | X | X | X |
 | Bestanden zoeken | X | X | X |
-| Bestanden uploaden naar Adobe Dynamic Media Classic |  | X | X |
-| Metagegevens van elementen bewerken en importeren |  | X | X |
-| Mappen maken, hernoemen en verwijderen |  | X | X |
-| Metagegevens van elementen exporteren | X |  | X |
-| Bestandsnamen wijzigen |  | X | X |
-| Bestanden verplaatsen naar andere mappen |  | X | X |
-| Bestandsnamen wijzigen |  | X | X |
-| Bestanden verwijderen |  | X | X |
-| Bestanden exporteren (downloaden) vanuit Adobe Dynamic Media Classic | X |  | X |
+| Bestanden uploaden naar Adobe Dynamic Media Classic | | X | X |
+| Metagegevens van elementen bewerken en importeren | | X | X |
+| Mappen maken, hernoemen en verwijderen | | X | X |
+| Metagegevens van elementen exporteren | X | | X |
+| Bestandsnamen wijzigen | | X | X |
+| Bestanden verplaatsen naar andere mappen | | X | X |
+| Bestandsnamen wijzigen | | X | X |
+| Bestanden verwijderen | | X | X |
+| Bestanden exporteren (downloaden) vanuit Adobe Dynamic Media Classic | X | | X |

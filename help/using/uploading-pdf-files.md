@@ -9,7 +9,9 @@ discoiquuid: 0097cba5-c886-4115-bc35-7ae7a500202f
 feature: Dynamic Media Classic,Viewers,eCatalog
 role: User
 exl-id: a787d6b5-48c8-4cf7-b136-60ba3d3eb2f2
-source-git-commit: 38d7f8d6e5888e1c5ba9260ada45b79fb16b338f
+topic: Integrations, Development
+level: Experienced
+source-git-commit: 5d8b7cb8b4616a998346675d7324b568634698fb
 workflow-type: tm+mt
 source-wordcount: '796'
 ht-degree: 0%
@@ -38,7 +40,7 @@ PDF-bestanden voorbereiden voordat u ze uploadt naar Adobe Dynamic Media Classic
 * Als u wilt dat de kijkers uw eCatalog door sleutelwoord zoeken, kom te weten of uw dossiers van de PDF &quot;afgevlakt.&quot; zijn U kunt zoekwoorden niet extraheren uit samengevoegde PDF-bestanden. Als u wilt weten of een PDF is afgevlakt, selecteert u de tekst in de afbeelding. Als u geen tekst kunt selecteren, wordt de PDF afgevlakt en kunnen de kijkers niet op sleutelwoord in uw eCatalog zoeken.
 * PDF-bestanden bevatten meestal CMYK-afbeeldingen, omdat ze moeten worden afgedrukt. Adobe Dynamic Media Classic kan deze CMYK-afbeeldingen standaard op intelligente wijze detecteren en converteren met een intern CMYK-kleurprofiel. Als u echter een aangepast kleurprofiel wilt gebruiken om CMYK-afbeeldingen om te zetten, kunt u dat doen.
 
-   Zie [ICC-profielen (International Color Consortium)](icc-profiles.md#icc_profiles).
+  Zie [ICC-profielen (International Color Consortium)](icc-profiles.md#icc_profiles).
 
 ## Beste praktijken PDF uploadopties {#best-practice-pdf-upload-options}
 
@@ -58,7 +60,7 @@ Selecteer de bestanden die u wilt uploaden en selecteer deze *beste praktijken* 
 
 * **Kleurruimte** - Selecteer in het dialoogvenster Opties voor uploaden de optie **[!UICONTROL PDF Options]**. Kies in de vervolgkeuzelijst Kleurruimte de optie **[!UICONTROL Detect automatically]**. Gewoonlijk zijn PDF die voor afdrukuitvoer zijn gemaakt, in CMYK; PDF voor online weergave zijn RGB. Als een PDF beide kleurruimten gebruikt, kunt u een specifieke kleurruimte selecteren door Forceren als RGB of Forceren als CMYK te kiezen. PDF gebruiken beide kleurruimten, bijvoorbeeld wanneer paginaafbeeldingen een CMYK-kleurruimte gebruiken, maar afbeeldingen RGB gebruiken. Als u een ICC-profiel hebt geüpload, wordt de naam ervan weergegeven in het menu Kleurruimte en kunt u het daar kiezen.
 
-   Zie [ICC-profielen (International Color Consortium)](/help/using/icc-profiles.md).
+  Zie [ICC-profielen (International Color Consortium)](/help/using/icc-profiles.md).
 
 * **Opties voor kleurprofiel** - Selecteer in het dialoogvenster Opties voor uploaden de optie **[!UICONTROL Color Profile Options]** en kies vervolgens een optie voor Kleurprofiel:
 
