@@ -1,21 +1,21 @@
 ---
 title: Dynamic Media-nieuwsarchief
-description: "De gearchiveerde Dynamic Media-nieuwsbrief per Experience League was een maandelijkse nieuwsbrief. Het is ontworpen om u te helpen snel aan de slag te gaan met Dynamic Media en Adobe Dynamic Media Classic zodat u meteen waarde kunt behalen. De gearchiveerde nieuwsbrieven bevatten waardevolle kennis-bouwende middelen die in deze één-loketnieuwsbrief beschikbaar waren die nu wordt stopgezet. Gearchiveerde nieuwsbrieven bevatten instructievideo's en overzichten van oplossingen. Er zijn ook introducties voor belangrijke functies en mogelijkheden zoals voorinstellingen voor afbeeldingen, voorinstellingen voor viewers en videoprofielen."
+description: "De gearchiveerde Dynamic Media-nieuwsbrief per Experience League was een maandelijkse nieuwsbrief. Het is ontworpen om u te helpen snel aan de slag te gaan met Dynamic Media en Adobe Dynamic Media Classic zodat u meteen waarde kunt behalen. De gearchiveerde nieuwsbrieven bevatten waardevolle kennis-bouwende middelen die in deze één-loketnieuwsbrief beschikbaar waren die nu wordt beëindigd. Gearchiveerde nieuwsbrieven bevatten instructievideo's en overzichten van oplossingen. Er zijn ook introducties voor belangrijke functies en mogelijkheden, zoals voorinstellingen voor afbeeldingen, voorinstellingen voor viewers en videoprofielen."
 keywords: dynamische media;nieuwsbrief;productupdates;tips en trucs;gebeurtenissen;succes van de klant;blog;blogs;beelden;video;eigenschappen;mogelijkheden
 feature: Dynamic Media Classic
 role: Admin,User
 exl-id: 5f2a0cfc-d627-42be-9e68-111b65680ad8
 topic: Content Management
 level: Intermediate
-source-git-commit: d82f816553f807b514f4690827dab672a6baf690
+source-git-commit: 1b90beb99b161b76da81403f5aed9755b3a92c8b
 workflow-type: tm+mt
-source-wordcount: '1090'
+source-wordcount: '1089'
 ht-degree: 0%
 
 ---
 
 
-# ![Dynamic Media Newsletter-logo](/help/using/assets/dynamic-media-newsletter-logo.png)
+# ![Dynamic Media-nieuwsbrief](/help/using/assets/dynamic-media-newsletter-logo.png)
 
 >[!NOTE]
 >
@@ -52,11 +52,11 @@ In deze gearchiveerde nieuwsbrief van één-loketwinkel kunt u waardevolle kenni
 
   In dit verband:
 
-   * Onderzoek drie manieren uw rijke media investering tijdens deze uitdagende tijden kan helpen.
+   * Onderzoek drie manieren die uw rijke media investering tijdens deze uitdagende tijden kan helpen.
    * Meld u aan voor het webinar om te leren hoe u de pagina lichter kunt laden met Slimme afbeeldingen.
-   * Bekijk de webinars van de Bouwer van de Vaardigheid op bestelling voor Adobe Dynamic Media Classic.
+   * Bekijk het webinar van de Bouwer van de Vaardigheid op bestelling voor Adobe Dynamic Media Classic.
    * Bekijk de Dynamic Media-sessies vanuit Online Adobe Summit 2020.
-   * Meer weten over gratis Adobe Dynamic Media Classic-controles voor Adobe?
+   * Meer weten over gratis Adobe Dynamic Media Classic-controles van Adobe?
    * Meet `John Monroe`, Senior Program Manager for Adobe Customer Solutions.
 
 * **[Februari 2020, uitgave 2](https://experienceleague.adobe.com/tools/dynamic-media-demo/newsletter/Dynamic_Media_Newsletter_02_2020_Feb.html)**
@@ -76,7 +76,7 @@ In deze gearchiveerde nieuwsbrief van één-loketwinkel kunt u waardevolle kenni
 
    * Vijf nieuwe Webinars van de Bouwer van de Vaardigheid om uw vaardigheden van Adobe Dynamic Media Classic te versterken.
    * Een gratis controle om meer waarde te krijgen van Adobe Dynamic Media Classic.
-   * Een vakantieboodschappenseizoen met een recordinstelling voor klanten met rijke media in de Adobe.
+   * Een vakantieboodschappenseizoen met een recordinstelling voor rijke mediaclanen van de Adobe.
    * Uw gids voor het selecteren van een DAM (Digital Asset Manager) die aan uw behoeften voor vandaag voldoet en u voorbereidt op wat nieuw is in rijke media morgen.
    * Meet `Mark Dean`, Digital Media Specialist.
 
@@ -86,7 +86,7 @@ In deze gearchiveerde nieuwsbrief van één-loketwinkel kunt u waardevolle kenni
 
    * Een vernieuwing van de Adobe Dynamic Media Classic-gebruikersinterface.
    * Krachtige nieuwe beveiligingsfuncties.
-   * Hoe Adobe zich voorbereidt, zodat je een succesvol vakantieseizoen hebt.
+   * Hoe de Adobe zich voorbereidt, zodat je een succesvol vakantieseizoen hebt.
    * Deel de nieuwsbrief met uw collega&#39;s om teamexpertise op te bouwen.
    * Meet `Apoorva Gupta`, Senior Product Manager, Dynamic Media.
 
@@ -95,7 +95,7 @@ In deze gearchiveerde nieuwsbrief van één-loketwinkel kunt u waardevolle kenni
   In dit verband:
 
    * Hoe u geavanceerde analyses krijgt over de acties die bezoekers uitvoeren in uw Dynamic Media-viewers.
-   * Een infografisch element met tips voor het uitnemen van schitterende resultaten bij afbeeldingen en video&#39;s van hoge kwaliteit.
+   * Een infografisch element met tips voor het afnemen van kaakjes, waarmee u beelden en video&#39;s van hoge kwaliteit kunt leveren.
    * Een artikel CMSwire dat u helpt begrijpen hoe te om uw rijke media strategie bij te werken om aan de klantenverwachtingen van vandaag te voldoen.
    * Toegang tot webinar op bestelling op Dynamic Media van de reeks van de Bouwer van de Vaardigheid.
    * Meet `Nick Peters`, Manager, Site Reliability Engineering, Adobe Experience Manager.
@@ -105,7 +105,7 @@ In deze gearchiveerde nieuwsbrief van één-loketwinkel kunt u waardevolle kenni
 
   In dit verband:
 
-   * U kunt uw klantenervaring opvullen door deze 9 &quot;gotchas&quot; te verwijderen.
+   * Maak uw klant nog beter door deze 9 &quot;gotchas&quot; te verwijderen.
    * Ontdek hoe het Dynamic Media-team u kan helpen zich voor te bereiden op een dag met een hoger bezoekersverkeer dan normaal.
    * Een tweede kans om twee recente webinars van de Bouwer van de Vaardigheid te vangen.
    * Bekijk de webinar op aanvraag over het beschermen van uw digitale middelen tegen piraterij.
@@ -120,7 +120,7 @@ In deze gearchiveerde nieuwsbrief van één-loketwinkel kunt u waardevolle kenni
    * Meer informatie over een webinar-serie die ontworpen is om je op Experience Manager Assets en Dynamic Media aan te passen.
    * Begin aan je reis die waarde krijgt van Dynamic Media op Experience League.
    * Ontdek een gulle blik op een krachtige integratie die deze maand september komt en u laat analyseren hoe bezoekers met uw rijke media omgaan.
-   * Meet `PieterJan Pieper`, Dynamic Media technische support wiz.
+   * Meet `PieterJan Pieper`, Dynamic Media Technical Support guru.
 
 * **[Juli 2019, uitgave 07](https://experienceleague.adobe.com/tools/dynamic-media-demo/newsletter/Dynamic_Media_Newsletter_07_2019_July.html)**
 
@@ -128,7 +128,7 @@ In deze gearchiveerde nieuwsbrief van één-loketwinkel kunt u waardevolle kenni
 
    * Bronnen en informatie waarmee u uw waardevolle middelen op de juiste manier kunt beheren en op een betrouwbare manier ervaringen kunt bieden die ervoor zorgen dat uw bezoekers niet terugkomen.
    * Meer informatie over een webinar die binnenkort beschikbaar is voor de bescherming van uw digitale middelen.
-   * De volgende einden op de informatie-gevulde Adobe Insider Tour.
+   * De volgende keer stoppen met de Adobe Insider Tour die is ingevuld.
    * Buitengewone mogelijkheden die beschikbaar zijn wanneer u Dynamic Media hebt in Experience Manager Assets (Experience Manager Assets).
    * 360°-video&#39;s en aangepaste videominiaturen aan uw website toevoegen.
    * Meet `Andrew Hathaway`, Principal Solutions Consultant voor Dynamic Media in Experience Manager Assets.
@@ -138,7 +138,7 @@ In deze gearchiveerde nieuwsbrief van één-loketwinkel kunt u waardevolle kenni
   In dit verband:
 
    * Geniet van video&#39;s die de aandacht vestigen op het gemak van upgrades naar Dynamic Media in Experience Manager Assets.
-   * Bekijk hoe video&#39;s in Experience League zijn.
+   * Bekijk toetsvideo&#39;s in Experience League.
    * Meer informatie over de komende Adobe Insider Tour.
    * Lees hoe u uw digitale middelen kunt beschermen tegen piraterij.
    * Leer meer over door AI aangedreven Smart Crop voor afbeeldingen.
@@ -149,19 +149,19 @@ In deze gearchiveerde nieuwsbrief van één-loketwinkel kunt u waardevolle kenni
   In dit verband:
 
    * Ontdek de tien verborgen functies van Adobe Dynamic Media Classic in een blogbericht.
-   * Bekijk hoe video&#39;s in Experience League zijn.
+   * Bekijk toetsvideo&#39;s in Experience League.
    * Meer informatie over de komende Adobe Insider Tour.
    * Lees een driedelige blogreeks om uw strategie voor rijke media bij te werken.
    * Leer meer over slim uitsnijden met AI-video&#39;s.
 
 * **[April 2019, uitgave 04](https://experienceleague.adobe.com/tools/dynamic-media-demo/newsletter/Dynamic_Media_Newsletter_04_2019_April.html)**
 
-  Welkom bij de inauguratieuitgave van de Dynamic Media Newsletter. Adobe wordt maandelijks gevuld met nieuws, evenementen en bronnen. De inhoud is voor gebruikers van Dynamic Media in Experience Manager Assets en Adobe Dynamic Media Classic.
+  Welkom bij de inauguratieuitgave van de Dynamic Media Newsletter. De nieuwe maandelijkse nieuwsbrief van Adobe wordt gevuld met nieuws, evenementen en bronnen. De inhoud is voor gebruikers van Dynamic Media in Experience Manager Assets en Adobe Dynamic Media Classic.
 
   In dit verband:
 
-   * Register voor Adobe Verborgen functies.
-   * Om u te helpen uw strategie ontwikkelen, leer over uw rijke media-vraag webinar reeks.
-   * Lees voor meer informatie over gebruiksscenario&#39;s en Adobe-oplossingen.
+   * Registreer u voor het webinar Verborgen functies van Dynamic Media Classic van Adobe.
+   * Om u te helpen uw rijke media strategie ontwikkelen, leer over de webinarreeks van de Adobe op bestelling.
+   * Lees meer over de belangrijkste gebruiksscenario&#39;s voor media en de oplossingen van de Adobe voor deze.
    * ... en nog veel meer!
 

@@ -1,20 +1,18 @@
 ---
 title: "Snel starten: eCatalogs"
 description: Een inleiding en Snel starten met eCatalogi om u te helpen snel aan de slag te gaan met eCatalog technieken in Adobe Dynamic Media Classic.
-uuid: 1ec41927-3df6-4845-8d9d-bb92cf6dca08
 contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/ecatalogs
-discoiquuid: 781dacd0-ef0c-42b7-92e0-12791994874d
 feature: Dynamic Media Classic,Viewers,eCatalog
 role: User
 exl-id: 9e2df814-465d-412a-a032-ef3e8cb462ba
 topic: Integrations
 level: Experienced
-source-git-commit: d82f816553f807b514f4690827dab672a6baf690
+source-git-commit: 1b90beb99b161b76da81403f5aed9755b3a92c8b
 workflow-type: tm+mt
-source-wordcount: '1530'
+source-wordcount: '1531'
 ht-degree: 0%
 
 ---
@@ -25,15 +23,15 @@ Een eCatalog is een digitale, webversie van drukmateriaal, bijvoorbeeld een cata
 
 Zie ook de volgende trainingsvideo&#39;s:
 
-* [Snel starten 1: eCatalogs](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&amp;emailurl=https://s7d5.scene7.com/s7/emailFriend&amp;serverUrl=https://s7d5.scene7.com/is/image/&amp;config=Scene7SharedAssets/Universal_HTML5_Video&amp;contenturl=https://s7d5.scene7.com/skins/&amp;asset=S7tutorials/561_Quick%20Start%20-%20Part%201_converted%20renamed_eCatalogs-AVS)
-* [Snelle start 2: eCatalogs](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&amp;emailurl=https://s7d5.scene7.com/s7/emailFriend&amp;serverUrl=https://s7d5.scene7.com/is/image/&amp;config=Scene7SharedAssets/Universal_HTML5_Video&amp;contenturl=https://s7d5.scene7.com/skins/&amp;asset=S7tutorials/562_Quick%20Start%20-%20Part%202_converted%20renamed_eCatalogs-AVS)
+* [Snel starten 1: eCatalogi](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&amp;emailurl=https://s7d5.scene7.com/s7/emailFriend&amp;serverUrl=https://s7d5.scene7.com/is/image/&amp;config=Scene7SharedAssets/Universal_HTML5_Video&amp;contenturl=https://s7d5.scene7.com/skins/&amp;asset=S7tutorials/561_Quick%20Start%20-%20Part%201_converted%20renamed_eCatalogs-AVS)
+* [Snel starten 2: eCatalogi](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&amp;emailurl=https://s7d5.scene7.com/s7/emailFriend&amp;serverUrl=https://s7d5.scene7.com/is/image/&amp;config=Scene7SharedAssets/Universal_HTML5_Video&amp;contenturl=https://s7d5.scene7.com/skins/&amp;asset=S7tutorials/562_Quick%20Start%20-%20Part%202_converted%20renamed_eCatalogs-AVS)
 
 Afhankelijk van de instellingen die u kiest voor uw eCatalog, kunt u in de viewer het volgende doen:
 
-* Zoek in de catalogus naar een trefwoord of trefwoorden. De zoekresultaten worden weergegeven als een lijst met miniaturen in een zoekvenster links in de catalogus. Elke klikbare miniatuur vertegenwoordigt een catalogusspread waar de gemarkeerde zoekterm is gevonden.
+* Zoek in de catalogus naar een trefwoord of trefwoorden. De zoekresultaten worden weergegeven als een lijst met miniaturen in een zoekvenster links in de catalogus. Elke aanklikbare miniatuur vertegenwoordigt een catalogusspread waar de gemarkeerde zoekterm is gevonden.
 
-* De catalogus delen via sociale media; de catalogus downloaden om offline te bekijken; Schakel Favorieten in om items te markeren waarnaar u snel wilt terugkeren of druk de catalogus af.
-* Navigeer in de catalogus met de inhoudsopgave of de weergave van het paginaraster. Klik op de middelste rand van een pagina voor- of achteruit.
+* Deel de catalogus via sociale media, download de catalogus om deze offline weer te geven en schakel Favorieten in om items te markeren die u snel wilt retourneren of druk de catalogus af.
+* Navigeer in de catalogus met de inhoudsopgave of de weergave van het paginaraster. Klik op de middelste rand van een pagina voor of achter de catalogus.
 * Zoom in, zoom uit en pannen om items op een pagina te bekijken.
 * Plaats de aanwijzer boven een paginagebied (de zogeheten Afbeeldingskaart), zodat u een pop-upvenster kunt zien met informatie over een item.
 * Selecteer een paginagebied zodat er een nieuwe webpagina met meer informatie over een item wordt geopend.
@@ -50,7 +48,7 @@ Als onderdeel van het maken van uw eCatalog kunt u pagina&#39;s of paginaspread 
 
 >[!NOTE]
 >
->Als u de modus Dynamic Media - Scene7 gebruikt en eCatalogs wilt gebruiken, bewerkt u de `pdfbrochure` waarde in CRXDE Lite. Ga hiervoor in Adobe Experience Manager naar **[!UICONTROL Tools]** > **[!UICONTROL General]** > **[!UICONTROL CRXDE Lite]**. Navigeer in de navigatiestructuur van het linkerdeelvenster naar `/conf/global/settings/cloudconfigs/dmscene7/jcr:content/mimeTypes/application_pdf`.
+>Als u in de Dynamic Media- Scene7-modus werkt en eCatalogi wilt gebruiken, bewerkt u de `pdfbrochure` waarde in CRXDE Lite. Ga hiervoor in Adobe Experience Manager naar **[!UICONTROL Tools]** > **[!UICONTROL General]** > **[!UICONTROL CRXDE Lite]**. Navigeer in de navigatiestructuur van het linkerdeelvenster naar `/conf/global/settings/cloudconfigs/dmscene7/jcr:content/mimeTypes/application_pdf`.
 >
 >In de laag juiste ruit, in **[!UICONTROL Properties]** selecteert u de `jobParam` rij. Stel de waarde in voor `pdfbrochure` van `false` tot `true`. Als in `pdfbrochure=true`
 >
@@ -60,11 +58,11 @@ Als onderdeel van het maken van uw eCatalog kunt u pagina&#39;s of paginaspread 
 
 Deze eCatalog Quick Start is ontworpen om u te helpen snel aan de slag te gaan met eCatalogs. Voer stap 1 tot en met 7 uit. Na elke stap, is er een verwijzing naar een onderwerprubriek waar u meer informatie kunt vinden.
 
-## 1. De PDF-bestanden uploaden
+## 1. Upload de PDF-bestanden
 
 Adobe PDF-bestanden zijn meestal de bron van een eCatalog. PDF-bestanden bevatten meestal CMYK-afbeeldingen, omdat ze moeten worden afgedrukt. Adobe Dynamic Media Classic detecteert deze afbeeldingen en zet deze om met een standaard CMYK-kleurprofiel. U moet echter wel een aangepast kleurprofiel uploaden en gebruiken.
 
-Selecteer op de algemene navigatiebalk de optie **[!UICONTROL Upload]** om PDF-bestanden of afbeeldingen voor uw eCatalog te uploaden. U kunt bestanden uploaden vanaf uw bureaublad of via FTP; FTP wordt aanbevolen als u veel bestanden of bestanden van meer dan 100 MB uploadt.
+Selecteer op de algemene navigatiebalk de optie **[!UICONTROL Upload]** om PDF-bestanden of afbeeldingen voor uw eCatalog te uploaden. U kunt bestanden uploaden vanaf uw bureaublad of via FTP. FTP wordt aanbevolen als u veel bestanden of bestanden uploadt die groter zijn dan 100 MB.
 
 Onder Opties voor PDF biedt het scherm Uploaden opties voor het uploaden van PDF-bestanden met de juiste resolutie en het corrigeren van de kleurruimte. Een resolutie van 150 pixels per inch wordt aanbevolen. U kunt de optie E-catalogus automatisch genereren selecteren om een eCatalog te maken wanneer u een PDF-bestand uploadt.
 
@@ -86,7 +84,7 @@ Zie [Een eCatalog maken](creating-ecatalog.md).
 
 Afbeeldingen met hyperlinks voegen nog een aspect toe aan eCatalog-pagina&#39;s. Een afbeelding met hyperlinks is een gebied op een pagina dat meer informatie over een item bevat. Wanneer de kijkers de wijzer over een Kaart van het Beeld rollen, zien zij een beschrijving van het punt. Als u op een afbeelding met hyperlinks klikt, wordt een externe verwijzing geactiveerd waarmee een nieuwe webpagina wordt geopend waarin u meer kunt leren over een item.
 
-Open het eCatalog-scherm om een afbeelding met hyperlinks te maken. Ga vervolgens naar de **[!UICONTROL Map Pages]** van het eCatalog-scherm, en kader de kaart met het hulpmiddel van de Kaart van het Beeld van de Rechthoek of het hulpmiddel van de Kaart van het Beeld van de Veelhoek. U kunt de positie en de grootte van Afbeeldingen met hyperlinks aanpassen door kaartranden te slepen met het gereedschap Pannen.
+Open het eCatalog-scherm om een afbeelding met hyperlinks te maken. Ga vervolgens naar de **[!UICONTROL Map Pages]** van het eCatalog-scherm en kader de kaart met het gereedschap Afbeelding met rechthoek of Veelhoekafbeelding met hyperlinks. U kunt de positie en de grootte van Afbeeldingen met hyperlinks aanpassen door kaartranden te slepen met het gereedschap Pannen.
 
 Nadat u de Kaart van het Beeld kader, ga het URL adres in dat u wilt gaan wanneer u de Kaart van het Beeld selecteert. U kunt ook de rollover-tekst invoeren die wordt weergegeven wanneer u de aanwijzer over de Afbeeldingskaart beweegt.
 
@@ -106,7 +104,7 @@ Als u een voorinstelling voor een eCatalog-viewer wilt maken, selecteert u op de
 
 Zie [Voorinstellingen eCatalog-viewer instellen](setting-ecatalog-viewer-presets.md#setting-up-ecatalog-viewer-presets).
 
-## 5. Voorvertoning van eCatalogi weergeven in de eCatalog-viewer
+## 5. E-catalogi voorvertonen in de eCatalog-viewer
 
 De eCatalog Viewer-voorinstellingen bepalen de stijl en het gedrag van uw eCatalog-viewers.
 
@@ -124,7 +122,7 @@ Nadat u uw eCatalog en PDF voor publicatie in het deelvenster Bladeren hebt gema
 
 Zie [E-catalogi en bijbehorende PDF publiceren](publishing-ecatalogs-associated-pdfs.md#publishing-ecatalogs-and-associated-pdfs).
 
-## 7. Een eCatalog koppelen aan een webpagina
+## 7. Een eCatalog aan een webpagina koppelen
 
 Adobe Dynamic Media Classic activeert de URL-bijschrifttekenreeks die nodig is voor de weergave van uw eCatalog wanneer u deze publiceert naar Dynamic Media Image Servers. U kunt deze URL-tekenreeks kopiëren vanuit het voorvertoningsscherm en het deelvenster Bladeren (in de gedetailleerde weergave) door URL&#39;s te selecteren in het deelvenster. Nadat u de URL-tekenreeks hebt gekopieerd, is deze beschikbaar voor uw websites en toepassingen.
 

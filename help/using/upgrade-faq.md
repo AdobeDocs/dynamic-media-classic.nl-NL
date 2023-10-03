@@ -6,9 +6,9 @@ role: Admin,User
 exl-id: 5c2e2937-fe4f-4b64-bee8-9572ca84695b
 topic: Content Management
 level: Intermediate
-source-git-commit: d82f816553f807b514f4690827dab672a6baf690
+source-git-commit: 1b90beb99b161b76da81403f5aed9755b3a92c8b
 workflow-type: tm+mt
-source-wordcount: '1540'
+source-wordcount: '1550'
 ht-degree: 0%
 
 ---
@@ -18,11 +18,11 @@ ht-degree: 0%
 ## Algemene informatie
 
 +++**Wat is [!DNL Dynamic Media] in [!DNL Adobe Experience Manager] Middelen?**
-[!DNL Dynamic Media] is de volgende generatie evolutie van [!DNL Adobe Dynamic Media Classic] (voorheen Scene7) mogelijkheden binnen [!DNL Experience Manager] Elementen. De oplossing combineert de kracht van het beheer van bedrijfsmiddelen met de levering van rijke media. De mogelijkheden omvatten het volgende:
+[!DNL Dynamic Media] is de volgende generatie evolutie van [!DNL Adobe Dynamic Media Classic] (voorheen Scene7) mogelijkheden binnen [!DNL Experience Manager] Elementen. De oplossing combineert de kracht van het beheer van bedrijfsmiddelen met de levering van rijke media. Mogelijkheden zijn onder andere:
 
 * Eén gebruikersinterface en één platform voor het beheren van afbeeldingen en video.
 * Innovatieve functies voor het verhandelen van goederen.
-* Adobe en bewezen levering
+* het robuuste en bewezen leveringsplatform van de Adobe.
 * Naadloze eenwording met [!DNL Experience Manager] Elementen.
 
 +++
@@ -33,19 +33,19 @@ ht-degree: 0%
 * Beheer van digitale middelen op bedrijfsniveau met robuuste ondersteuning voor metagegevens, slim zoeken, lichtbak en verzamelingen, versiebeheer en veilig delen van middelen voor gebruik door leveranciers, partners en franchisenemers Workflows voor revisie en goedkeuring van werk in procesmiddelen.
 * Eenvoudig te implementeren en te gebruiken met nieuwe gebruikersinterface.
 * Maak schitterende/interactieve media-ervaringen met afbeeldingen en video die de conversie stimuleren en de betrokkenheid en tevredenheid van gebruikers vergroten.
-* Combineer campagnemiddelen met productinformatie om de klik naar winkelwagentje te stroomlijnen.
+* Combineer campagnemiddelen met productinformatie zodat u de klik kunt stroomlijnen om te winkelen.
 * Maak, pas interactieve viewers eenvoudig aan, merk ze aan en implementeer ze met de WYSIWYG Viewer Designer.
 * Geoptimaliseerde rijke media leveren aan [!DNL Experience Cloud] oplossingen.
 * Integratie met [!DNL Experience Cloud] voor geavanceerde assetanalyse, richten zich, en activa hergebruik over marketing aanraakpunten. Deze aanraakpunten omvatten: [!DNL Adobe Campaign] voor e-mail, [!DNL Adobe Social] voor sociale kanalen, en [!DNL Experience Manager] Sites voor responsieve web- en mobiele apps.
 
 +++
 
-+++**doet [!DNL Dynamic Media] het bestaande Adobe CDN (het Netwerk van de Levering van de Inhoud) gebruiken?**
-Ja, [!DNL Dynamic Media] Maakt gebruik van robuuste Adobe, op hoofdniveau.
++++**doet [!DNL Dynamic Media] de bestaande Adobe CDN (het Netwerk van de Levering van de Inhoud) gebruiken?**
+Ja, [!DNL Dynamic Media] gebruikt robuust, top-tier leveringsnetwerk van de Adobe.
 
 * Medialeverancier met de meeste mogelijkheden tot internethandel 1000, negen jaar achter elkaar.
 * 24/7/265 ondersteuning, 99,95% SLA&#39;s.
-* Aantoonbare infrastructuur die wereldwijd meer dan 800 klanten bedient, 3,5 petabytes per maand en meer dan 500 miljoen bedrijfsmiddelen, 60% groei van het verkeer per jaar.
+* Bewezen infrastructuur die wereldwijd meer dan 800 klanten, 3,5-petabytes verkeer per maand en meer dan 500 miljoen activa in beheer, 60% groei van het verkeer over jaar.
 
 +++
 
@@ -54,7 +54,7 @@ Adobe heeft de naam van Adobe Scene7 gewijzigd in [!DNL Dynamic Media Classic].
 
 +++
 
-## Upgradeproces en -gereedschappen
+## Upgradeproces en tools
 
 +++**Wie komt in aanmerking voor het upgradeprogramma?**
 Huidig [!DNL Dynamic Media Classic] (voorheen Scene7) klanten die ook [!DNL Experience Manager].
@@ -62,12 +62,12 @@ Huidig [!DNL Dynamic Media Classic] (voorheen Scene7) klanten die ook [!DNL Expe
 +++
 
 +++**Hoe begin ik het verbeteringsproces?**
-Neem contact op met uw Adobe-accountvertegenwoordiger of [s7support@adobe.com](mailto:s7support@adobe.com) met de onderwerpregel `[!DNL Dynamic Media] Upgrade Program`.
+Neem contact op met uw accountvertegenwoordiger of [s7support@adobe.com](mailto:s7support@adobe.com) met de onderwerpregel `[!DNL Dynamic Media] Upgrade Program`.
 
 +++
 
 +++**Hoe wordt het verbeteringsproces behandeld?**
-De verbetering wordt behandeld door AGS (de Globale Diensten van Adobe) en behandeld als de dienstproject. Adobe biedt alleen migratie van de elementen. De klant, AGS, of de Partner is verantwoordelijk voor alle andere verbeteringsaspecten en stappen. Op een overzichtsniveau, bevat een verbeteringsplan het volgende:
+De verbetering wordt behandeld door AGS (de Globale Diensten van de Adobe) en behandeld als de dienstproject. Adobe biedt alleen migratie van de elementen. De klant, AGS, of de Partner is verantwoordelijk voor alle andere verbeteringsaspecten en stappen. Op een overzichtsniveau, bevat een verbeteringsplan het volgende:
 
 * Voorzieningen van bedrijven/gebruikers.
 * Elementen repliceren van [!DNL Dynamic Media Classic] (voorheen Scene7) aan de [!DNL Dynamic Media] onderdeel van [!DNL Experience Manager] Middelen (verstrekt door Adobe door een geautomatiseerd verbeteringshulpmiddel).
@@ -77,22 +77,22 @@ De verbetering wordt behandeld door AGS (de Globale Diensten van Adobe) en behan
 +++
 
 +++**Hoe lang duurt het upgradeproces?**
-De tijd van het verbeteringsproces varieert gebaseerd op verscheidene factoren, met inbegrip van maar niet beperkt tot: het aantal activa en de omvang van de activa. AGS of de Partner beheert de projectchronologie.
+De tijd van het upgradeproces varieert op basis van verschillende factoren, waaronder, maar niet beperkt tot: het aantal activa en de omvang van de activa. AGS of de Partner beheert de projectchronologie.
 
 +++
 
 +++**Hoe kan ik de status van mijn upgrade controleren?**
-De tijd van het verbeteringsproces varieert gebaseerd op verscheidene factoren, met inbegrip van maar niet beperkt tot: het aantal activa en de omvang van de activa. AGS of de Partner beheert de projectchronologie.
+De tijd van het upgradeproces varieert op basis van verschillende factoren, waaronder, maar niet beperkt tot: het aantal activa en de omvang van de activa. AGS of de Partner beheert de projectchronologie.
 
 +++
 
 +++**Zijn er om het even welke die contractveranderingen worden vereist om te bevorderen aan [!DNL Dynamic Media]?**
-De tijd van het verbeteringsproces varieert gebaseerd op verscheidene factoren, met inbegrip van maar niet beperkt tot: het aantal activa en de omvang van de activa. AGS of de Partner beheert de projectchronologie.
+De tijd van het upgradeproces varieert op basis van verschillende factoren, waaronder, maar niet beperkt tot: het aantal activa en de omvang van de activa. AGS of de Partner beheert de projectchronologie.
 
 +++
 
 +++**Is er een verschil in licentiekosten?**
-Werk voor meer informatie over prijzen samen met uw Adobe Account Team-vertegenwoordiger.
+Werk voor meer informatie over prijzen samen met de medewerker van het accountteam van de Adobe.
 
 +++
 
@@ -107,14 +107,14 @@ Nee. De [Gereedheidscontrolelijst](/help/using/upgrade-readiness.md) bevat verpl
 +++
 
 +++**Moet ik upgraden?**
-Nee. Adobe blijft volledig ondersteunen en onderhouden [!DNL Dynamic Media Classic] (klant-gevraagde insectenmoeilijke situaties, veiligheidsmoeilijke situaties, platformscalability, en betrouwbaarheid) nu en in de toekomst.
+Nee. Adobe blijft volledig steun verlenen en handhaven [!DNL Dynamic Media Classic] (klant-gevraagde insectenmoeilijke situaties, veiligheidsmoeilijke situaties, platformscalability, en betrouwbaarheid) nu en in de toekomst.
 
 U kunt een upgrade uitvoeren wanneer u de nieuwe functies van [!DNL Dynamic Media].
 
 +++
 
 +++**Mag ik blijven gebruiken [!DNL Dynamic Media Classic] (voorheen Adobe Scene7) nadat ik ben geüpgraded naar [!DNL Dynamic Media]?**
-Nadat u hebt geüpgraded naar [!DNL Dynamic Media], dient u Dynamic Media alleen te gebruiken voor beeldbewerking en video. U kunt doorgaan met het gebruik [!DNL Dynamic Media Classic] alleen voor functies die nog niet beschikbaar zijn in [!DNL Dynamic Media] met inbegrip van:
+Nadat u hebt bijgewerkt naar [!DNL Dynamic Media], dient u Dynamic Media alleen te gebruiken voor beeldbewerking en video. U kunt blijven gebruiken [!DNL Dynamic Media Classic] alleen voor functies die nog niet in [!DNL Dynamic Media] met inbegrip van:
 
 * Visuele configurator (beeldauteur, beeldteruggeven).
 * Afbeeldingssjablonen.
@@ -122,28 +122,28 @@ Nadat u hebt geüpgraded naar [!DNL Dynamic Media], dient u Dynamic Media alleen
 
 +++
 
-+++**Welke hulpmiddelen verstrekt Adobe om het verbeteringsproces te automatiseren?**
-Voor de eerste keer dat het upgradeprogramma wordt gestart, biedt Adobe gereedschappen waarmee elementen automatisch worden verplaatst van [!DNL Dynamic Media Classic] tot [!DNL Dynamic Media] in [!DNL Experience Manager] Elementen.
++++**Welke hulpmiddelen verstrekt de Adobe om het verbeteringsproces te automatiseren?**
+Voor de eerste keer dat het upgradeprogramma wordt gestart, biedt de Adobe hulpprogramma&#39;s om elementen automatisch van [!DNL Dynamic Media Classic] tot [!DNL Dynamic Media] in [!DNL Experience Manager] Elementen.
 
 +++
 
-+++**Bestaande [!DNL Dynamic Media Classic] URL&#39;s, API-integratie en viewers blijven tijdens en na de upgrade werken?**
++++**Bestaande functies [!DNL Dynamic Media Classic] URL&#39;s, API-integratie en viewers blijven tijdens en na de upgrade werken?**
 Ja. U kunt de [!DNL Dynamic Media Classic] (voorheen Adobe Scene7) infrastructuur voor publicatie en levering zoals deze in de [!DNL Dynamic Media] oplossing.
 
 +++
 
 +++**Moet ik mijn productie-URL&#39;s bijwerken?**
-Nee. Adobe blijft de [!DNL Dynamic Media Classic] de publicatie- en leveringsinfrastructuur [!DNL Dynamic Media] oplossing. Het voordeel van deze aanpak is dat u geen productie-URL&#39;s op uw webpagina&#39;s hoeft te wijzigen, zodat het risico en de moeite van migratie naar [!DNL Dynamic Media].
+Nee. Adobe blijft de [!DNL Dynamic Media Classic] de publicatie- en leveringsinfrastructuur in de [!DNL Dynamic Media] oplossing. Het voordeel van deze aanpak is dat u geen productie-URL&#39;s op uw webpagina&#39;s hoeft te wijzigen, zodat het risico en de moeite van migratie naar [!DNL Dynamic Media].
 
 +++
 
 +++**Moet ik API-integratie en andere automatiseringsscripts herschrijven?**
-Nee. Adobe blijft de [!DNL Dynamic Media Classic] de publicatie- en leveringsinfrastructuur [!DNL Dynamic Media] oplossing. Daarnaast worden alle elementen gerepliceerd naar [!DNL Dynamic Media Classic]. Het voordeel van deze benadering is dat u geen API-gebaseerde integraties of automatiseringsscripts hoeft te herschrijven, zodat het risico en de inspanning van migratie naar [!DNL Dynamic Media].
+Nee. Adobe blijft de [!DNL Dynamic Media Classic] de publicatie- en leveringsinfrastructuur in de [!DNL Dynamic Media] oplossing. Daarnaast worden alle elementen gerepliceerd naar [!DNL Dynamic Media Classic]. Het voordeel van deze benadering is dat u geen API-gebaseerde integraties of automatiseringsscripts hoeft te herschrijven, zodat het risico en de inspanning van migratie naar [!DNL Dynamic Media].
 
 +++
 
 +++**Moet ik wijzigingen aanbrengen of mijn aangepaste viewers opnieuw ontwikkelen?**
-Nee. Adobe blijft de [!DNL Dynamic Media Classic] de publicatie- en leveringsinfrastructuur [!DNL Dynamic Media] oplossing. Het voordeel van deze aanpak is dat u uw aangepaste viewers kunt blijven gebruiken, zodat het risico en de inspanning van migratie naar [!DNL Dynamic Media].
+Nee. Adobe blijft de [!DNL Dynamic Media Classic] de publicatie- en leveringsinfrastructuur in de [!DNL Dynamic Media] oplossing. Het voordeel van deze aanpak is dat u uw aangepaste viewers kunt blijven gebruiken, zodat het risico en de inspanning van migratie naar [!DNL Dynamic Media].
 +++
 
 +++**Hoe kan ik mijn instellingen (zoals voorinstellingen voor afbeeldingen, videocoderingen) migreren naar [!DNL Dynamic Media]?**
@@ -156,13 +156,13 @@ Instellingen moeten opnieuw worden gemaakt binnen [!DNL Dynamic Media]. Als deel
 
 +++
 
-+++**Kan ik FTP nog steeds gebruiken om uploadmiddelen te batchgewijs/bulksgewijs te uploaden?**
++++**Kan ik FTP nog steeds gebruiken om uploadmiddelen in batches/bulkpakketten te maken?**
 Ja. U hoeft uw bestaande workflows niet te wijzigen voor inname en kunt op FTP gebaseerde uploads blijven plannen.
 
 +++
 
 +++**Welke middelen zijn beschikbaar voor de opleiding van nieuwe gebruikers?**
-De training is beschikbaar via ADLS (Adobe Digital Learning Services). [!DNL Dynamic Media] de mogelijkheden worden in twee cursussen behandeld : Digitale middelen beheren en leveren en Digitale middelen aanpassen.
+De training is beschikbaar via ADLS (Adobe Digital Learning Services). [!DNL Dynamic Media] De mogelijkheden worden gedekt door twee cursussen: Digitale middelen beheren en leveren en Digitale middelen aanpassen.
 
 +++
 
@@ -171,13 +171,13 @@ Ja. Adobe heeft datacenters in Noord-Amerika, Europa en Azië-Pacific.
 
 +++
 
-+++**Hoe lang is [!DNL Dynamic Media Classic] als zelfstandig product?**
-Adobe blijft volledig ondersteunen en onderhouden [!DNL Dynamic Media Classic] (klant-gevraagde insectenmoeilijke situaties, veiligheidsmoeilijke situaties, platformscalability, en betrouwbaarheid) nu en in de toekomst.
++++**Hoe lang is [!DNL Dynamic Media Classic] als een zelfstandig product?**
+Adobe blijft volledig steun verlenen en handhaven [!DNL Dynamic Media Classic] (klant-gevraagde insectenmoeilijke situaties, veiligheidsmoeilijke situaties, platformscalability, en betrouwbaarheid) nu en in de toekomst.
 
 +++
 
 +++**Hoeveel opslagruimte wordt meegeleverd [!DNL Dynamic Media]?**
-Er is 60 gigabyte opslagruimte inbegrepen. U kunt extra opslagruimte aanschaffen in blokken van 250 GB. Controleer uw contractdetails om uw huidige opslagtoewijzing te verkrijgen.
+Dynamic Media wordt geleverd met 60 GB opslagruimte. U kunt extra opslagruimte aanschaffen in blokken van 250 GB. Controleer uw contractdetails zodat kunt u uw huidige opslagtoewijzing verkrijgen.
 
 +++
 
@@ -192,22 +192,22 @@ Adobe werkt agressief aan het toevoegen van persoonlijke mediafuncties aan [!DNL
 +++
 
 +++**Hoe worden middelen gevalideerd tijdens de upgrade? Moet ik handmatige validatie uitvoeren?**
-Adobe voert een automatische validatie uit voor alle elementen waarnaar wordt verplaatst [!DNL Dynamic Media]. Een algemene handmatige validatie van belangrijke sites, pagina&#39;s en ervaringen aangedreven door [!DNL Dynamic Media] aanbevolen.
+Adobe voert een automatische validatie uit voor alle elementen die worden verplaatst naar [!DNL Dynamic Media]. Een algemene handmatige validatie van belangrijke sites, pagina&#39;s en ervaringen aangedreven door [!DNL Dynamic Media] wordt aanbevolen.
 
 +++
 
 +++**Is er een SLA voor [!DNL Dynamic Media]?**
-Ja. Neem voor meer informatie contact op met uw Adobe-accountvertegenwoordiger.
+Ja. Neem voor meer informatie contact op met de accountvertegenwoordiger van de Adobe.
 
 +++
 
-+++**Kan ik mijn eigen CDN (Content Delivery Network) gebruiken met [!DNL Dynamic Media]?**
++++**Kan ik mijn eigen CDN (het Netwerk van de Levering van de Inhoud) met gebruiken [!DNL Dynamic Media]?**
 Ja. U kunt uw eigen CDN gebruiken met [!DNL Dynamic Media].
 
 +++
 
-+++**doet [!DNL Dynamic Media] Heb ik de functies die ik moet upgraden? Welke functies zijn beschikbaar bij [!DNL Dynamic Media] op [!DNL Experience Manager] Middelen?**
-Zie de [Functievergelijking](/help/using/upgrade-feature-comparison.md) pagina voor meer informatie.
++++**doet [!DNL Dynamic Media] heb ik de functies die ik nodig heb om een upgrade uit te voeren? Welke functies zijn beschikbaar bij [!DNL Dynamic Media] op [!DNL Experience Manager] Middelen?**
+Zie de [Functievergelijking](/help/using/upgrade-feature-comparison.md) pagina waar u meer kunt leren.
 
 +++
 
@@ -218,7 +218,7 @@ Klanten die het volgende vereisen, kunnen toegang blijven hebben tot [!DNL Dynam
 * Afbeeldingssjablonen.
 * eCatalogs.
 
-Zie ook de [Functievergelijking](/help/using/upgrade-feature-comparison.md) pagina voor meer informatie.
+Zie ook de [Functievergelijking](/help/using/upgrade-feature-comparison.md) pagina waar u meer kunt leren.
 
 +++
 
@@ -235,7 +235,7 @@ Nee. Werk samen met uw Adobe-medewerker en AGS om het bereik van de upgrade te b
 +++
 
 +++**Hoe ziet het dienstenproject eruit?**
-Adobe werkt met u samen om het project te plannen. Adobe is verantwoordelijk voor provisioning en configuratie van accounts, replicatie van middelen, testen en valideren.
+Adobe werkt met u samen om het project te plannen. Adobe is verantwoordelijk voor provisioning en het configureren van accounts, replicatie van middelen, testen en valideren.
 
 De klanten zijn hoofdzakelijk verantwoordelijk voor veranderingsbeheer met inbegrip van trainingsgebruikers, het uitgeven van productieprocessen, en het opstellen van nieuwe eigenschappen.
 
@@ -251,9 +251,9 @@ Telefoon: 1-800-898-9743 (VS) | +44 (0)20 35641782 (VK) | +81-3-6743-9632 (Japan
 +++
 
 +++**Waar kan ik meer leren over betaalde trainingsopties?**
-Zie [Adobe Digital Learning-services](https://learning.adobe.com).
+Zie [Adobe digitale leerservices](https://learning.adobe.com).
 
-Neem voor aangepaste of individuele training contact op met uw Adobe-accountteamvertegenwoordiger.
+Neem voor aangepaste of individuele training contact op met uw accountvertegenwoordiger van de Adobe.
 
 +++
 

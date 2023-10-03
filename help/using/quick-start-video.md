@@ -10,9 +10,9 @@ role: User
 exl-id: 1157400c-b33a-422e-848c-258660ddc748
 topic: Content Management
 level: Beginner
-source-git-commit: d82f816553f807b514f4690827dab672a6baf690
+source-git-commit: 1b90beb99b161b76da81403f5aed9755b3a92c8b
 workflow-type: tm+mt
-source-wordcount: '1760'
+source-wordcount: '1769'
 ht-degree: 0%
 
 ---
@@ -23,21 +23,21 @@ Adobe Dynamic Media Classic Video is een end-to-end oplossing waarmee u eenvoudi
 
 Op een mobiel iOS-apparaat wordt bijvoorbeeld een bandbreedte gedetecteerd, zoals 3G, 4G of Wi-Fi. Vervolgens wordt automatisch de naar rechts gecodeerde video geselecteerd bij de verschillende bitsnelheden van de video in de adaptieve videoset. De video wordt gestreamd naar desktops, mobiele apparaten of tablets.
 
-Bovendien wordt de videokwaliteit automatisch dynamisch geschakeld als de netwerkomstandigheden veranderen op het bureaublad of op het mobiele apparaat. Ook, als een klant volledig-schermwijze op een Desktop ingaat, antwoordt de Adaptieve VideoReeks door een betere resolutie te gebruiken, verbeterend de het bekijken van de klant ervaring. Met Adaptieve videosets kunt u Adobe Dynamic Media Classic-video op meerdere schermen en apparaten het best afspelen.
+Bovendien wordt de videokwaliteit automatisch dynamisch geschakeld als de netwerkomstandigheden veranderen op het bureaublad of op het mobiele apparaat. Als een klant de modus Volledig scherm op een desktopcomputer inschakelt, reageert de Adaptive Video Set met een betere resolutie, waardoor de kijkervaring van de klant wordt verbeterd. Met Adaptieve videosets kunt u Adobe Dynamic Media Classic-video op meerdere schermen en apparaten het best afspelen.
 
 De logica die een videospeler gebruikt om te bepalen welke gecodeerde video moet worden afgespeeld of tijdens het afspelen moet worden geselecteerd, is gebaseerd op het volgende algoritme:
 
-1. Videospeler laadt het eerste videofragment op basis van de bitsnelheid die het dichtst bij de waarde ligt die is ingesteld voor de &#39;initiële bitsnelheid&#39; in de speler zelf.
+1. Videospeler laadt het eerste videofragment op basis van de bitsnelheid die het dichtst bij de waarde ligt die is ingesteld voor de beginbitsnelheid in de speler zelf.
 1. De videospelerschakelaars die op veranderingen in de bandbreedtesnelheid worden gebaseerd die de volgende criteria gebruiken:
 
    1. De speler kiest de hoogste bandbreedtestroom onder of gelijk aan de geschatte bandbreedte.
-   1. De speler overweegt slechts 80% van de beschikbare bandbreedte. Als het echter overschakelt, is het conservatiever bij slechts 70% om overschatting te voorkomen en onmiddellijk terug te moeten schakelen.
+   1. De speler overweegt slechts 80% van de beschikbare bandbreedte. Als het echter naar boven overschakelt, is het conservatiever bij slechts 70% om overschatting te voorkomen en onmiddellijk terug te moeten schakelen.
 
 Zie de logica van het algoritme op [https://android.googlesource.com/platform/frameworks/av/+/master/media/libstagefright/httplive/LiveSession.cpp](https://android.googlesource.com/platform/frameworks/av/+/master/media/libstagefright/httplive/LiveSession.cpp) voor technische informatie hierover.
 
-Adobe Dynamic Media Classic ondersteunt het volgende voor het beheer van afzonderlijke video- en adaptieve videosets:
+Adobe Dynamic Media Classic ondersteunt het volgende voor het beheer van afzonderlijke video&#39;s en Adaptieve videosets:
 
-* Video uploaden van diverse, ondersteunde video-indelingen en audio-indelingen en video coderen naar MP4 H.264-indeling, zodat deze op meerdere schermen kan worden afgespeeld. U kunt vooraf gedefinieerde adaptieve Adobe Dynamic Media Classic-videovoorinstellingen, voorinstellingen voor één videocodering gebruiken of uw eigen codering aanpassen om de kwaliteit en de grootte van de video te bepalen.
+* Video uploaden van diverse ondersteunde video-indelingen en audio-indelingen en video coderen naar MP4 H.264-indeling, zodat deze op meerdere schermen kan worden afgespeeld. U kunt vooraf gedefinieerde adaptieve Adobe Dynamic Media Classic-videovoorinstellingen, voorinstellingen voor één videocodering gebruiken of uw eigen codering aanpassen om de kwaliteit en de grootte van de video te bepalen.
 
 Zie [Aangepaste videovoorinstellingen activeren of deactiveren](/help/using/application-setup.md#activating-or-deactivating-adaptive-video-presets)
 
@@ -47,7 +47,7 @@ Wanneer een adaptieve videoset wordt gegenereerd, bevat deze MP4-video&#39;s.
 
 >[!NOTE]
 >
->Primaire video&#39;s/bronvideo&#39;s en andere bronvideo&#39;s zijn *niet* toegevoegd aan een adaptieve videoset.
+>Primaire video&#39;s/bronvideo&#39;s en andere bronvideo zijn *niet* toegevoegd aan een adaptieve videoset.
 
 * Video ondertiteling in de de kijkers van Univeral_HTML5_Video, Universal_HTML5_MixedMedia_donker, en Universal_HTML5_MixedMedia_light en videohoofdstuknavigatie in Univeral_HTML5_Video, Universal_HTML5_MixedMedia_donker, en Universal_HTML5_MixedMedia_light.
 
@@ -68,11 +68,11 @@ Wanneer een adaptieve videoset wordt gegenereerd, bevat deze MP4-video&#39;s.
 
   U kunt Windows®-apparaten die deze video-indeling ondersteunen als volgt vinden:
 
-  Zie [Ondersteunde video-indelingen op Windows® Phone](https://docs.microsoft.com/en-us/).
+  Zie [Ondersteunde video-indelingen op Windows® Phone](https://learn.microsoft.com/en-us/windows/uwp/audio-video-camera/supported-codecs).
 
 * De video afspelen met gebruik van voorinstellingen voor Adobe Dynamic Media Classic Viewer, waaronder de volgende:
 
-   * Afzonderlijke videoviewers.
+   * Enkele videoviewers.
    * Gemengde Media-viewers die zowel video- als afbeeldingsinhoud combineren.
 
 * Configureer videospelers om aan uw brandingbehoeften te voldoen.
@@ -120,11 +120,11 @@ Als u wilt zien hoe een video wordt afgespeeld voor eindgebruikers op een deskto
 
 Zie [Video&#39;s voorvertonen in een videoviewer](previewing-videos-video-viewer.md#previewing_videos_in_a_video_viewer).
 
-U kunt de video afspelen op de voorvertoningspagina. U kunt ook verschillende videoviewers kiezen om te zien hoe uw video er in verschillende spelers uitziet. U kunt de HTML5-videospeler het beste gebruiken voor weergave op meerdere schermen op een desktopcomputer, tablet of mobiel apparaat.
+U kunt de video afspelen op de pagina Voorvertoning. U kunt ook verschillende videoviewers kiezen om te zien hoe uw video er in verschillende spelers uitziet. U kunt de HTML5-videospeler het beste gebruiken voor weergave op meerdere schermen op een desktopcomputer, tablet of mobiel apparaat.
 
 **Optioneel**
 
-Aanpassing voorinstelling viewer - Adobe Dynamic Media Classic biedt vooraf gedefinieerde viewervoorinstellingen voor het afleveren van video. Deze voorinstellingen bepalen de vormgeving van de viewer en de werking van de afspeelbesturingselementen. Beheerders kunnen viewervoorinstellingen toevoegen en beheren via de pagina Voorinstellingen viewer om de videoviewer aan te passen. Ga naar **[!UICONTROL Setup]** > **[!UICONTROL Viewer Presets]**. De pagina Voorinstellingen viewer bevat opdrachten voor het toevoegen, bewerken, verwijderen en activeren van voorinstellingen van viewers.
+Aanpassing voorinstelling viewer - Adobe Dynamic Media Classic biedt vooraf gedefinieerde viewervoorinstellingen voor het afleveren van video. Deze voorinstellingen bepalen de vormgeving van de viewer en de werking van de afspeelbesturingselementen. Beheerders kunnen voorinstellingen voor viewers toevoegen en beheren via de pagina Voorinstellingen voor viewer om de videoviewer aan te passen. Ga naar **[!UICONTROL Setup]** > **[!UICONTROL Viewer Presets]**. De pagina Voorinstellingen viewer bevat opdrachten voor het toevoegen, bewerken, verwijderen en activeren van voorinstellingen van viewers.
 
 Zie [Werken met voorinstellingen voor videoviewers](previewing-videos-video-viewer.md#working_with_video_viewer_presets).
 
@@ -144,11 +144,11 @@ Als u video wilt integreren in uw website, kunt u een van de volgende handelinge
   >
   >URL&#39;s worden pas geactiveerd nadat u de video of de adaptieve videoset hebt gepubliceerd.
 
-* Geef de video weer die is ingesloten op de webpagina, in welk geval u de opdracht **[!UICONTROL Embed Code]** gebruiken.
+* Geef de video weer die is ingesloten op de webpagina, in welk geval de **[!UICONTROL Embed Code]** gebruiken.
 
   Als u de insluitcode voor een video wilt verkrijgen, selecteert u de video in het deelvenster Bladeren in de rasterweergave of de lijstweergave. Ga naar **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]**. Selecteer onder de kolom Acties van de tabel de optie **[!UICONTROL Embed Code]** aan het recht van `Universal_HTML5_Video`. Het bewerken van de code is niet toegestaan.
 
-  Selecteren **[!UICONTROL Close]** en plak de insluitcode in uw webpagina&#39;s.
+  Selecteren **[!UICONTROL Close]** en plak de insluitcode in een of meer van uw webpagina&#39;s.
 
   >[!NOTE]
   >

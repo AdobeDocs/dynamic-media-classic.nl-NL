@@ -12,7 +12,7 @@ role: Admin,User
 exl-id: 0deb7133-b895-4c3f-8e5e-8604a6f2d16b
 topic: Administration, Collaboration
 level: Intermediate
-source-git-commit: 5d8b7cb8b4616a998346675d7324b568634698fb
+source-git-commit: 1b90beb99b161b76da81403f5aed9755b3a92c8b
 workflow-type: tm+mt
 source-wordcount: '789'
 ht-degree: 0%
@@ -21,13 +21,13 @@ ht-degree: 0%
 
 # Mediaportaalgroepen maken en beheren{#creating-and-managing-media-portal-groups}
 
-*Groepen* zijn ontworpen om u te helpen de gebruikers van het Portaal van Media beheren. Om tot activa toegang te hebben, moet een gebruiker een lid van minstens één groep zijn die toestemming heeft om tot dat activa toegang te hebben. Wanneer u een gebruiker toevoegt, wijst u de gebruiker aan een of meer groepen toe. Op die manier verleent u de gebruiker toegang tot mappen waaraan de groep is toegewezen. U kunt ook kiezen welke voorinstellingen voor afbeeldingen beschikbaar zijn voor een groep.
+*Groepen* zijn ontworpen om u te helpen de gebruikers van het Portaal van Media beheren. Om tot activa toegang te hebben, moet een gebruiker een lid van minstens één groep zijn die toestemming heeft om tot dat activa toegang te hebben. Wanneer u een gebruiker toevoegt, wijst u de gebruiker aan een of meer groepen toe. Hierbij verleent u de gebruiker toegang tot mappen waaraan de groep is toegewezen. U kunt ook kiezen welke voorinstellingen voor afbeeldingen beschikbaar zijn voor een groep.
 
 ## Groepen gebruiken om de toegang tot mappen, elementen en voorinstellingen voor afbeeldingen te beperken {#using-groups-to-restrict-access-to-folders-assets-and-image-presets}
 
 Om toegangstoestemming op verschillende niveaus te verlenen, creeert u groepen. Voor elke groep wijst u lees-, schrijf- en verwijdermachtigingen toe aan verschillende mappen en elementen in mappen. U bepaalt ook welke voorinstellingen voor afbeeldingen beschikbaar zijn voor de groep. Vervolgens wijst u gebruikers toe aan groepen. Een gebruiker kan lid zijn van meerdere groepen. Het groepsconcept biedt u de flexibiliteit om toegang toe te wijzen aan beperkte reeksen van de totale inhoud.
 
-Als u niet specifiek groepsmachtigingen toekent aan een middel of map, neemt dat middel of die map de machtigingen over die u aan de bovenliggende map hebt toegewezen (de map erboven in de mappenhiërarchie). Verleen toestemmingen aan een ouderomslag als u wilt ervoor zorgen dat al zijn kindomslagen de zelfde toestemmingen erven.
+Als u niet specifiek groepsmachtigingen toekent aan een middel of map, overerft dat middel of die map de machtigingen die u aan de bovenliggende map hebt toegewezen (de map erboven in de mappenhiërarchie). Verleen toestemmingen aan een ouderomslag als u wilt ervoor zorgen dat al zijn kindomslagen de zelfde toestemmingen erven.
 
 >[!NOTE]
 >
@@ -89,7 +89,7 @@ Zie ook [Beschikbare exportopties voor gebruikers van Media Portal opgeven](spec
 1. Voer een van de volgende handelingen uit op de lijstpagina Groepen:
 
    * Als u een groep wilt toevoegen en wilt opgeven welke voorinstellingen voor afbeeldingen er beschikbaar zijn, selecteert u **[!UICONTROL Add]**. Voer in het dialoogvenster Groep toevoegen een naam voor de groep in en selecteer **[!UICONTROL Add Group]** en voegt u gebruikers toe aan de groep.
-   * Als u de voorinstellingsopties voor afbeeldingen van een groep wilt bewerken, selecteert u de groep en selecteert u vervolgens **[!UICONTROL Edit]**.
+   * Als u de voorinstellingsopties voor afbeeldingen van een groep wilt bewerken, selecteert u de groep en selecteert u **[!UICONTROL Edit]**.
 
 1. Selecteer in het dialoogvenster Groep toevoegen of groep bewerken de optie **[!UICONTROL Image Preset Access Permissions]** tab.
 1. Als u wilt opgeven welke voorinstellingen beschikbaar zijn voor gebruikers van Media Portal wanneer zij elementen exporteren, schakelt u Voorinstellingen afbeelding in of uit.

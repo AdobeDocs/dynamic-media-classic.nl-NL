@@ -12,7 +12,7 @@ role: User
 exl-id: 880ee6d0-cb0a-4d53-9056-f0b8b292136e
 topic: Content Management
 level: Intermediate
-source-git-commit: d82f816553f807b514f4690827dab672a6baf690
+source-git-commit: 1b90beb99b161b76da81403f5aed9755b3a92c8b
 workflow-type: tm+mt
 source-wordcount: '512'
 ht-degree: 0%
@@ -32,7 +32,7 @@ Zie ook [Een alias voor een afbeelding maken](adjusting-image.md#creating_an_ali
 1. Gebruik de opdrachten aan de rechterkant van het venster Editor aanpassen om de afbeelding aan te passen:
 
    * Gebruik de opties voor spiegelen om een afbeelding horizontaal of verticaal om te draaien.
-   * Gebruik de schuifregelaar Roteren om de afbeelding te roteren. U kunt waarden invoeren in het veld Roteren om een afbeelding te roteren. Met een positieve waarde wordt de waarde rechtsom geroteerd; negatieve waarden roteren linksom.
+   * Gebruik de schuifregelaar Roteren om de afbeelding te roteren. U kunt waarden invoeren in het veld Roteren om een afbeelding te roteren. Bij een positieve waarde wordt de waarde rechtsom geroteerd en bij een negatieve waarde wordt de waarde linksom geroteerd.
    * Gebruik de schuifregelaar Vervagen of het bijbehorende vak om een afbeelding te vervagen. Hoe hoger de waarde, hoe vager de afbeelding wordt.
    * Gebruik de opties Contrast, Helderheid, Verzadiging, Kleurtoon en Kleurbalans om de kleur en helderheid aan te passen. Deze effecten zijn cumulatief. Wijzigingen in de instellingen voor Magenta/Groen worden bijvoorbeeld toegevoegd aan wijzigingen die zijn aangebracht in de instellingen voor Kleurtoon.
    * Gebruik de opties voor Vullen met kleur om een afbeelding te vullen met behoud van schaduwen en hooglichten. Wijzigingen in de opties voor Vullen met kleur zijn ook cumulatief. Kies in het menu Helderheid de optie **[!UICONTROL No Compensation]** dus u schakelt automatische helderheidscompensatie uit. Stel de contrastwaarde in op 0 om het contrastbereik van de oorspronkelijke afbeelding te behouden of geef een contrastbereik op met een waarde groter dan 0. Bij een waarde van 100 wordt het contrast gemaximaliseerd. De typische waarden liggen in het bereik 30-70.
@@ -41,11 +41,11 @@ Zie ook [Een alias voor een afbeelding maken](adjusting-image.md#creating_an_ali
 
    * Selecteren **[!UICONTROL Save]**.
 
-   * Als u het origineel van de afbeelding wilt vervangen, selecteert u **[!UICONTROL Save As]**.
+   * Als u het origineel wilt vervangen, selecteert u **[!UICONTROL Save As]**.
 
      Selecteer in de vervolgkeuzelijst de optie **[!UICONTROL Replace original]** en selecteer vervolgens **[!UICONTROL Save]**.
 
-   * Als u de afbeelding wilt opslaan als een nieuwe master afbeelding, selecteert u **[!UICONTROL Save As]**.
+   * Selecteer **[!UICONTROL Save As]**.
 
      Selecteer in de vervolgkeuzelijst de optie **[!UICONTROL Save as new master]**.
 In de **[!UICONTROL Folder Name]** selecteert u de map waarin u de nieuwe primaire afbeelding wilt opslaan.

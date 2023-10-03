@@ -12,7 +12,7 @@ role: User
 exl-id: 2be50cc7-9a8b-4f7b-8ebf-18a3208654f2
 topic: Content Management
 level: Intermediate
-source-git-commit: d82f816553f807b514f4690827dab672a6baf690
+source-git-commit: 1b90beb99b161b76da81403f5aed9755b3a92c8b
 workflow-type: tm+mt
 source-wordcount: '2188'
 ht-degree: 0%
@@ -21,11 +21,11 @@ ht-degree: 0%
 
 # Metagegevens weergeven, toevoegen en exporteren{#viewing-adding-and-exporting-metadata}
 
-U kunt gegevens opslaan die specifiek zijn voor de bestanden waarmee u werkt in Adobe Dynamic Media Classic. deze informatie wordt *metagegevens*. U kunt metagegevens in Adobe Dynamic Media Classic gebruiken voor het ordenen, zoeken, filteren en sorteren van uw elementen.
+U kunt gegevens opslaan die specifiek zijn voor de bestanden waarmee u werkt in Adobe Dynamic Media Classic. Deze gegevens worden *metagegevens*. U kunt metagegevens in Adobe Dynamic Media Classic gebruiken voor het ordenen, zoeken, filteren en sorteren van uw elementen.
 
 Metagegevens worden samen met door Adobe Dynamic Media Classic gegenereerde informatie weergegeven in de Gedetailleerde weergave, zoals de aanmaakdatum van het bestand, de publicatiedatum en trefwoorden. Als u metagegevens wilt weergeven, opent u het element in de gedetailleerde weergave en selecteert u het deelvenster Metagegevens. U kunt metagegevens invoeren en bewerken in de gedetailleerde weergave.
 
-Sommige metagegevens worden rechtstreeks in een bestand ingesloten. Als een bestand deze metagegevens bevat, wordt deze automatisch door Adobe Dynamic Media Classic met het bestand geüpload. U kunt metagegevens insluiten in bronelementen in Adobe Photoshop, InDesign, Illustrator en andere toepassingen. Adobe Dynamic Media Classic herkent deze metagegevens. U kunt ook metagegevens toevoegen aan afzonderlijke bestanden in het deelvenster Metagegevens in de gedetailleerde weergave. Om consistentie tussen activa te verzekeren, leiden de bedrijfbeheerders Meta-gegevensmalplaatjes die de meta-gegevensgebieden verstrekken die kunnen worden ingevuld.
+Sommige metagegevens worden rechtstreeks in een bestand ingesloten. Als een bestand deze metagegevens bevat, wordt deze automatisch door Adobe Dynamic Media Classic met het bestand geüpload. U kunt metagegevens insluiten in bronelementen in Adobe Photoshop, InDesign, Illustrator en andere toepassingen. Deze metagegevens worden door Adobe Dynamic Media Classic herkend. U kunt ook metagegevens toevoegen aan afzonderlijke bestanden in het deelvenster Metagegevens in de gedetailleerde weergave. Om consistentie tussen activa te verzekeren, leiden de bedrijfbeheerders Meta-gegevensmalplaatjes die de meta-gegevensgebieden verstrekken die kunnen worden ingevuld.
 
 Zie voor meer informatie over ingesloten metagegevens [Extensible Metadata Platform](https://www.adobe.com/products/xmp.html).
 
@@ -70,7 +70,7 @@ Als u tijdens deze sessie trefwoorden hebt toegevoegd aan andere bestanden of al
    * Typ een trefwoord in het tekstvak en selecteer **[!UICONTROL Add]**.
    * Selecteer een trefwoord in het dialoogvenster **[!UICONTROL Keyword Suggestions]** tabel.
 
-1. Als u een trefwoord wilt verwijderen, selecteert u het en selecteert u het **[!UICONTROL Remove]**. De tabel gaat naar de tabel Suggesties voor trefwoorden.
+1. Als u een trefwoord wilt verwijderen, selecteert u het en selecteert u het **[!UICONTROL Remove]**. Het beweegt zich aan de lijst van Suggesties van het Sleutelwoord.
 
 >[!NOTE]
 >
@@ -86,7 +86,7 @@ In plaats van handmatig metagegevens één element tegelijk in te voeren, kunt u
 >U kunt een sjabloon maken voor het invoeren van metagegevens, zodat deze op de juiste manier naar Adobe Dynamic Media Classic kunnen worden geïmporteerd. Nadat u de sjabloon hebt gemaakt, kunt u deze gebruiken om de metagegevens in te voeren.
 >Zie [Een sjabloon maken voor het invoeren van te uploaden metagegevens](viewing-adding-exporting-metadata.md#create_a_template_for_entering_metadata_to_upload).
 
-Meer informatie over gestandaardiseerde eigenschappen vindt u op [Adobe XMP Developer Center](https://www.adobe.com/devnet/xmp.html).
+Meer informatie over gestandaardiseerde eigenschappen vindt u op [Adobe XMP Ontwikkelaarscentrum](https://www.adobe.com/devnet/xmp.html).
 
 1. Selecteer in het deelvenster Bladeren de afbeeldingen waaraan u metagegevens wilt toevoegen uit het bestand met tabs of XML.
 1. Ga naar **[!UICONTROL File]** > **[!UICONTROL Import Metadata]**.
@@ -99,17 +99,17 @@ Meer informatie over gestandaardiseerde eigenschappen vindt u op [Adobe XMP Deve
 
 Houd rekening met het volgende wanneer u verschillende typen metagegevens identificeert die u wilt importeren:
 
-* Door de gebruiker gedefinieerde velden worden aangeduid met hun naam zoals deze is gemaakt in **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Metadata]** > **[!UICONTROL User-Defined fields]**. Gebruik de functie Bestanden genereren om een lijst met alle gedefinieerde PDF&#39;s in de juiste importindeling op te halen.
+* Door de gebruiker gedefinieerde velden worden aangeduid met hun naam, zoals deze is gemaakt in **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Metadata]** > **[!UICONTROL User-Defined fields]**. Gebruik de functie Bestanden genereren om een lijst met alle gedefinieerde PDF&#39;s in de juiste importindeling op te halen.
 * XMP eigenschappen van metagegevens moeten het gerelateerde XMP-voorvoegsel vóór de naam (eigenschap-) hebben. Een dubbele punt scheidt het voorvoegsel en de naam. Het XMP voorvoegsel vindt u in **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Metadata]** > **[!UICONTROL Metadata Schema]** editor. De technische namen zijn te vinden in documentatie van verwant XMP schema. XMP eigenschappen worden niet weergegeven in de functie Bestand genereren.
 * Eigenschappen van Metagegevensschema moeten het verwante voorvoegsel vóór de naam (eigenschap-) hebben. Een dubbele punt scheidt het voorvoegsel en de naam. Het voorvoegsel en de eigenschapnamen worden gedefinieerd in de editor voor het metagegevensschema. Namen van metagegevensschema-eigenschappen worden niet weergegeven in de functie Bestand genereren.
 
-Bijvoorbeeld: De XMP eigenschap voor trefwoorden is het XMP schema &quot;Dublin Core&quot; met het voorvoegsel `dc` en `subject` is de technische XMP. Het voorvoegsel en de technische XMP worden in de `dc:subject` volledige eigenschapsnaam. In de indeling voor het importeren van XML-metagegevens `dc.subject` moet de eigenschapsnaam zijn. In de door tabs gescheiden importindeling moet dit de kolomkop zijn.
+Bijvoorbeeld, is het XMP bezit voor sleutelwoorden het XMP schema &quot;Dublin Core&quot;met het prefix `dc` en `subject` is de technische XMP. Het voorvoegsel en de technische XMP worden gecombineerd in de `dc:subject` volledige eigenschapsnaam. In de indeling voor het importeren van XML-metagegevens `dc.subject` moet de eigenschapsnaam zijn. In de door tabs gescheiden importindeling moet dit de kolomkop zijn.
 
 ### Trefwoorden importeren
 
 Trefwoorden kunnen worden geïmporteerd als een lijst met door komma&#39;s gescheiden waarden. Als een komma in een van de afzonderlijke waarden voorkomt, moet deze worden beschermd door een backslash (\). Een letterlijke backslash is de gebruikelijke dubbele backslash (\\).
 
-Een bestand met metagegevens dat de waarde bevat `Hello\, World!,back\\slash,foo` for `dc:subject` stelt drie XMP trefwoorden in op het element: `Hello, World!,` `back\slash,` en `foo`.
+Bijvoorbeeld een bestand met metagegevens die de waarde bevatten `Hello\, World!,back\\slash,foo` for `dc:subject` stelt drie XMP trefwoorden in op het element: `Hello, World!,` `back\slash,` en `foo`.
 
 ### XMP- en metagegevensschema-XMP importeren
 
@@ -129,7 +129,7 @@ Het voorvoegsel moet worden toegevoegd aan de gerelateerde kolomkop van het impo
 
 ## Metagegevens importeren (via FTP) {#import-metadata-via-ftp}
 
-U kunt metagegevens voor meerdere bestanden importeren door de metagegevens in te voeren in een door tabs gescheiden of XML-bestand en **[!UICONTROL Process metadata files]** op de pagina Opties voor uploaden van taak (via het tabblad FTP).
+U kunt metagegevens voor meerdere bestanden importeren door de metagegevens in te voeren in een door tabs gescheiden of XML-bestand en **[!UICONTROL Process metadata files]** op de pagina Upload Job Options (Via FTP tab).
 
 Zorg ervoor dat de gegevens in het door tabs gescheiden of XML-bestand de juiste indeling hebben. Voer in de eerste rij het veld Id in, gevolgd door de namen van de metagegevensvelden die moeten worden gewijzigd. Voer in elke volgende rij de naam van een element-id in, gevolgd door metagegevenswaarden. Velden die niet zijn opgenomen in het door tabs gescheiden of XML-bestand, worden niet gewijzigd.
 
@@ -137,7 +137,7 @@ Selecteer op de algemene navigatiebalk de optie **[!UICONTROL Upload]**. Als u d
 
 ## Naam-id&#39;s wijzigen in batch met metagegevens {#batch-rename-ids-using-metadata}
 
-U kunt de naam van Adobe Dynamic Media Classic-id&#39;s wijzigen met metagegevens die zijn geïmporteerd uit een door tabs gescheiden bestand of XML-bestand. De geïmporteerde metagegevens worden alleen toegepast op de afbeeldingen die in het metagegevensbestand zelf zijn opgegeven. Het maakt niet uit of afbeeldingen zijn geselecteerd in het deelvenster Bladeren.
+U kunt de naam van Adobe Dynamic Media Classic-id&#39;s wijzigen door metagegevens te importeren uit een door tabs gescheiden bestand of XML-bestand. De geïmporteerde metagegevens worden alleen toegepast op de afbeeldingen die in het metagegevensbestand zelf zijn opgegeven. Het maakt niet uit of afbeeldingen zijn geselecteerd in het deelvenster Bladeren.
 
 Als u de naam van de Adobe Dynamic Media Classic-id van een afbeelding wilt wijzigen, voegt u een kolom met het label *newipsid* aan het lusje-afgebakende dossier, of voeg een genoemd gebied toe `new_vc_objectname` op de XML-gegevens.
 
@@ -146,7 +146,7 @@ Bijvoorbeeld:
 | | newipsid |
 | --- | --- |
 | testjasje_1 | Jasje_test_1 |
-| testjasje_blauw | Jasje_test_2 |
+| testvest_blue | Jasje_test_2 |
 
 In het taaklogboek voor de metagegevenstaak wordt aangegeven welke id&#39;s zijn hernoemd en welke niet.
 
@@ -165,7 +165,7 @@ Adobe Dynamic Media Classic biedt een opdracht voor het maken van een sjabloon v
 
 Een bedrijfbeheerder kan een lijst van alle beschikbare schema&#39;s bekijken. Ga op de algemene navigatiebalk naar **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Metadata]** > **[!UICONTROL Metadata Schema]**.
 
-In eerste instantie is de lijst met algemene standaardschema&#39;s zoals XMP verborgen. Ze kunnen worden weergegeven met het selectievakje onder aan de lijst.
+In eerste instantie is de lijst met algemene standaardschema&#39;s, zoals XMP, verborgen. Ze kunnen worden weergegeven met het selectievakje onder aan de lijst.
 
 De bedrijfbeheerder kan een douaneschema tot stand brengen, of een bestaand douaneschema uitgeven.
 
@@ -205,7 +205,7 @@ De eigenschappen beschrijven de meta-gegevens die met dit schema in het XMP blok
 | --- | --- |
 | ID | Technische id voor deze eigenschap. De id is niet zichtbaar in de gebruikersinterface van Adobe Dynamic Media Classic, maar wordt gebruikt wanneer metagegevens voor een element worden opgeslagen in het XMP en de database. De id wordt gebruikt om zoekopdrachten te maken op de Metagegevensserver. De id heeft een aantal beperkingen, zoals: <ul><li>Geen spaties</li><li>Geen &quot;.&quot;, &quot;:&quot;, &quot;$&quot;</li><li>Geen getal als eerste teken</li><li>De beste manier is om a-z of A-Z als eerste teken te gebruiken</li></ul> <br>Nadat de id is gemaakt, kan deze niet worden gewijzigd. |
 | Label | UI-naam voor deze eigenschap. |
-| Structuur | Bepaalt het type van het bezit samen met het Type van Gegevens. Structuur kan een van de volgende zijn:<ul><li>Eenvoudig type: enkele waarde van gegevenstype</li><li>Volgorde: een lijst met waarden van hetzelfde gegevenstype</li><li>Open keuze: Selecteer een item in een lijst met vooraf gedefinieerde waarden of voer vrije tekst in. Kan alleen van het gegevenstype String of Integer zijn</li><li>Gesloten keuze: selecteert u een item in een lijst met vooraf gedefinieerde waarden (een pop-up- of keuzelijst met invoervak)</li></ul> |
+| Structuur | Bepaalt het type van het bezit samen met het Type van Gegevens. Structuur kan een van de volgende zijn:<ul><li>Eenvoudig type: enkele waarde van gegevenstype</li><li>Reeks: een lijst met waarden van hetzelfde gegevenstype</li><li>Open Keuze: selecteer een item in een lijst met vooraf gedefinieerde waarden of voer vrije tekst in. Kan alleen van het gegevenstype String of Integer zijn</li><li>Gesloten keuze: selecteer een item uit een lijst met vooraf gedefinieerde waarden (een keuzelijst of keuzelijst met invoervak)</li></ul> |
 | Gegevenstype | Maak een keuze uit de volgende beschikbare typen: <ul><li>String</li><li>Geheel</li><li>Float</li><li>Ja/Nee (Boolean)</li><li>Datum</li></ul> |
 
 Wanneer de eigenschap de structuur Open Keuze of Gesloten Keuze heeft, moet u ten minste één Keuzewaarde opgeven. De optie Open Keuze kan worden gewijzigd. Gesloten keuze kan niet worden gewijzigd. Alle Keuzevelden hebben het gegevenstype van de eigenschap.

@@ -1,7 +1,7 @@
 ---
-source-git-commit: cb55e09a997b9d36002c4ac429603576d52fb8bd
+source-git-commit: 1b90beb99b161b76da81403f5aed9755b3a92c8b
 workflow-type: tm+mt
-source-wordcount: '687'
+source-wordcount: '685'
 ht-degree: 0%
 
 ---
@@ -9,9 +9,9 @@ ht-degree: 0%
 
 ## Adobe Dynamic Media Classic Documentation Philosophy
 
-We weten dat Adobe Dynamic Media Classic-gebruikers werken in zeer concurrerende omgevingen en ernaar streven om digitale ervaringen te creëren die hen onderscheiden van hun concurrenten. Daarom is het van essentieel belang dat, wanneer Adobe geavanceerde nieuwe instrumenten biedt, deze instrumenten worden aangevuld met nauwkeurige en duidelijke documentatie. Als u dit doet, kan de klant onmiddellijk gebruikmaken van de Adobe Dynamic Media Classic-investering en het rendement op de investering maximaliseren.
+De Adobe weet dat Adobe Dynamic Media Classic-gebruikers in een zeer concurrerende omgeving werken en ernaar streven om digitale ervaringen te creëren die hen onderscheiden van hun concurrenten. Daarom is het van essentieel belang dat, wanneer Adobe geavanceerde nieuwe instrumenten biedt, deze instrumenten worden aangevuld met nauwkeurige en duidelijke documentatie. Als u dit doet, kan de klant onmiddellijk gebruikmaken van de Adobe Dynamic Media Classic-investering en het rendement op de investering maximaliseren.
 
-Het doel van de documentatie is om zo snel mogelijk actuele documentatie in de handen van gebruikers te krijgen. Daarom geven wij prioriteit aan nauwkeurige, bruikbare documentatie en streven wij ernaar deze voortdurend bij te werken en te verbeteren.
+Het doel van de documentatie is om zo snel mogelijk actuele documentatie in de handen van gebruikers te krijgen. Daarom geeft de Adobe prioriteit aan nauwkeurige, bruikbare documentatie en wordt ernaar gestreefd deze voortdurend bij te werken en te verbeteren.
 
 ## Documentatiebijdragen
 
@@ -19,15 +19,15 @@ Om de documentatie voortdurend te verbeteren, is de hele gebruikersgemeenschap w
 
 ## Documentatienormen
 
-Hoewel wij blij zijn met de bijdragen aan onze documentatie, moet elke bijdrage aan de documentatie, in de vorm van een pull-verzoek of een kwestie, in overeenstemming zijn met onze bijdrage- en documentatienormen.
+Hoewel de Adobe de bijdragen aan haar documentatie toejuicht, moet elke bijdrage aan de documentatie, hetzij in de vorm van een pull-verzoek, hetzij in de vorm van een kwestie, in overeenstemming zijn met de bijdrage- en documentatienormen van de Adobe.
 
 Bijdragen die niet aan deze normen voldoen, kunnen worden afgewezen.
 
-### We documenteren standaardgebruiksgevallen.
+### Adobe documenteert standaard gebruiksgevallen.
 
 De documentatie heeft betrekking op gevallen van standaardgebruik. Gebruiksgevallen die buiten het bereik van de standaardinstallatie en het standaardgebruik van het product vallen, maken geen deel uit van de documentatie.
 
-### In het algemeen documenteren we geen bugs of hun aanraakpunten.
+### Adobe documenteert over het algemeen geen insecten of hun aanraakpunten.
 
 De documentatie heeft betrekking op gevallen van standaardgebruik. Daarom zijn bugs, effecten die door bugs worden veroorzaakt en werkargumenten voor bugs niet gedocumenteerd.
 
@@ -37,9 +37,9 @@ De uitzonderingen op deze regel zijn op de versienota&#39;s van toepassing waar 
 
 Alle ideeën die u eventueel nodig hebt om de documentatie te verbeteren, zijn welkom als bijdragen. Opmerkingen, problemen en intrekkingsverzoeken zijn echter bedoeld voor *bijdragen* alleen. Ze zijn niet bedoeld om uw vragen te beantwoorden over hoe u Adobe Dynamic Media Classic kunt gebruiken, uw project kunt implementeren of technische problemen kunt oplossen.
 
-Eventuele vragen over het gebruik van Adobe Dynamic Media Classic of technische fouten moeten via de [Experience Cloud Enterprise Support-portal](https://experienceleague.adobe.com/?support-solution=General&amp;support-tab=home#support) of in de [Experience Cloud-gemeenschap](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community).
+Eventuele vragen over het gebruik van Adobe Dynamic Media Classic of technische fouten moeten via de [Enterprise Support-portal van Experience Cloud](https://experienceleague.adobe.com/?support-solution=General&amp;support-tab=home#support) of in de [Experience Cloud gemeenschap](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community).
 
-***De bijdragen van de documentatie zijn geen vervanging voor de klantendienst van Adobe*** en dergelijke bijdragen die vragen om antwoorden op ondersteunende vragen worden afgewezen.
+***Documentatiebijdragen zijn geen vervanging voor de Adobe van de klantenservice*** en dergelijke bijdragen die vragen om antwoorden op ondersteunende vragen worden afgewezen.
 
 ### Bijdragen moeten duidelijk verwijzen naar betrokken documentatiepagina&#39;s.
 
@@ -49,15 +49,15 @@ Dit geldt niet voor pull-aanvragen, omdat pull-aanvragen verwijzen naar de betro
 
 ## Documentatierichtlijnen
 
-Wij vragen dat bij alle bijdragen aan onze documentatie bepaalde stijlrichtlijnen worden gevolgd.
+Adobe vraagt dat bijdragen aan haar documentatie bepaalde stijlrichtlijnen volgen.
 
-Door deze richtlijnen te volgen wordt de revisie van uw bijdrage gemakkelijker en daarom is integratie in onze documentatie sneller.
+Met deze richtlijnen wordt de beoordeling van uw bijdrage eenvoudiger en wordt uw bijdrage sneller opgenomen in de documentatie bij de Adobe.
 
 ### Taal en stijl
 
 #### Taal
 
-* De documentatie is ontworpen en onderhouden in het Engels van de VS.
+* De documentatie is geschreven en wordt onderhouden in het Engels van de V.S.
 * Zin zo eenvoudig mogelijk houden.
 * Houd de taal duidelijk en beknopt.
 
@@ -65,7 +65,7 @@ Alle lezers van de documentatie zijn overal ter wereld. Er kan niet worden verwa
 
 #### Handleiding Microsoft® volgen
 
-[De Microsoft®-handleiding](https://docs.microsoft.com/en-us/style-guide/welcome/) is een vrij beschikbare documentatie stijlgids die zich op softwaredocumentatie en de documentatie van Adobe Dynamic Media Classic concentreert volgt waar mogelijk deze gids.
+[De Microsoft®-handleiding](https://learn.microsoft.com/en-us/style-guide/welcome/) is een vrij beschikbare documentatie stijlgids die zich op softwaredocumentatie en de documentatie van Adobe Dynamic Media Classic concentreert volgt waar mogelijk deze gids.
 
 ### Opmaak
 
@@ -75,9 +75,9 @@ Alle lezers van de documentatie zijn overal ter wereld. Er kan niet worden verwa
 | Bestandsnaam, pad, gebruikersinvoer, parameterwaarden | `monospaced` |
 | Code, opdrachtregel | ```Code Block``` |
 
-### Schermpresentaties
+### Screenshots
 
-Schermopnamen moeten met de nodige voorzichtigheid worden gebruikt en alleen wanneer een tekstbeschrijving niet volstaat.
+Schermafbeeldingen moeten met de nodige voorzichtigheid worden gebruikt en alleen wanneer een tekstbeschrijving niet volstaat.
 
 Markeertekens of andere annotaties in schermafbeeldingen (zoals rode kaders, pijlen of tekst) mogen niet worden gebruikt. Op deze manier zijn de schermafbeeldingen gemakkelijker te hergebruiken of in gelokaliseerde versies van de documentatie te herhalen.
 

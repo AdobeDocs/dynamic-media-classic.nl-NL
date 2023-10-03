@@ -1,17 +1,17 @@
 ---
-source-git-commit: c168511f3fe08a6f0262da758e45117af4bda029
+source-git-commit: 1b90beb99b161b76da81403f5aed9755b3a92c8b
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '427'
 ht-degree: 0%
 
 ---
-# Gedragscode Adobe
+# Gedragscode van de Adobe
 
-## Onze belofte
+## Toezegging Adobe
 
-Om een open en welkome omgeving te bevorderen, verbinden wij als contribuanten en onderhoudsgerechtigden ons ertoe om van deelname aan ons project en onze gemeenschap een pesterijen-vrije ervaring te maken voor iedereen. Dit gedrag is waar, ongeacht het volgende:
+Om een open en welkome omgeving te bevorderen, verbinden de contribuanten en de onderhoudsleiders zich ertoe om van deelname aan het project van de Adobe en de gemeenschap een pesterijen-vrije ervaring te maken voor iedereen. Dit gedrag is waar, ongeacht het volgende:
 
-* leeftijd
+* ouderdom
 * lichaamsgrootte
 * invaliditeit
 * etniciteit
@@ -20,17 +20,17 @@ Om een open en welkome omgeving te bevorderen, verbinden wij als contribuanten e
 * nationaliteit
 * persoonlijke verschijning
 * wedrennen
-* godsdienst
+* religie
 * seksuele identiteit en geaardheid
 
-## Onze standaarden
+## Standaarden van de Adobe
 
 Voorbeelden van gedrag dat bijdraagt tot het maken van een positieve omgeving zijn:
 
 * Het gebruiken van verwelkomings en inclusieve taal
 * Naleving van verschillende standpunten en ervaringen
 * Erg vriendelijk constructieve kritiek te aanvaarden
-* Focus op wat het beste is voor de gemeenschap
+* Focussen op wat het beste is voor de gemeenschap
 * Empathie tonen ten opzichte van andere leden van de gemeenschap
 
 Voorbeelden van onacceptabel gedrag van deelnemers zijn:
@@ -41,7 +41,7 @@ Voorbeelden van onacceptabel gedrag van deelnemers zijn:
 * Persoonlijke gegevens van anderen publiceren, zoals een fysiek of elektronisch adres, zonder uitdrukkelijke toestemming
 * Andere gedragingen die redelijkerwijs als ongeschikt in een professionele omgeving kunnen worden beschouwd
 
-## Onze verantwoordelijkheden
+## Taken van de Adobe
 
 Projectbeheerders zijn verantwoordelijk voor het verduidelijken van de normen voor aanvaardbaar gedrag en zullen naar verwachting passende en eerlijke corrigerende maatregelen nemen in geval van onaanvaardbare gedragingen.
 
@@ -50,11 +50,11 @@ Projectbeheerders hebben het recht en de verantwoordelijkheid om
 * verwijderen of bewerken
 * of opmerkingen, toezeggingen, code, wiki-bewerkingen, problemen en andere bijdragen afwijzen
 
-Die zijn niet in overeenstemming met deze gedragscode. Of, om tijdelijk of permanent een bijdrage te verbieden voor ander gedrag dat zij ongeschikt, bedreigend, aanstootgevend of schadelijk achten.
+Niet in overeenstemming met deze gedragscode. Of, om tijdelijk of permanent een bijdrage te verbieden voor ander gedrag dat zij ongeschikt, bedreigend, aanstootgevend of schadelijk achten.
 
 ## Toepassingsgebied
 
-Deze gedragscode is zowel van toepassing binnen projectruimten als in openbare ruimten wanneer een individu het project of zijn gemeenschap vertegenwoordigt. Voorbeelden van het vertegenwoordigen van een project of gemeenschap zijn het gebruik van een officieel e-mailadres voor een project, het posten via een officiële sociale-mediaaccount of het optreden als een aangewezen vertegenwoordiger tijdens een online- of offline-evenement. De representatie van een project kan nader worden omschreven en verduidelijkt door projectbeheerders.
+Deze gedragscode is zowel van toepassing binnen projectruimten als in openbare ruimten wanneer een individu het project of zijn gemeenschap vertegenwoordigt. Voorbeelden van het vertegenwoordigen van een project of gemeenschap zijn het gebruik van een officieel e-mailadres voor een project, het posten via een officiële sociale-mediaaccount of het optreden als een aangestelde vertegenwoordiger tijdens een online- of offlineevenement. De representatie van een project kan nader worden omschreven en verduidelijkt door de projectbeheerders.
 
 ## Handhaving
 
