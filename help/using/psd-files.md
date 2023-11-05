@@ -12,9 +12,9 @@ role: User
 exl-id: e3b8c4b9-e9c4-4d7f-84de-2efb456755a1
 topic: Integrations, Development
 level: Experienced
-source-git-commit: 5d8b7cb8b4616a998346675d7324b568634698fb
+source-git-commit: 51c05c62448b39a75facb2e90cc9da5d0f26ab45
 workflow-type: tm+mt
-source-wordcount: '940'
+source-wordcount: '942'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ ht-degree: 0%
 
 PSD (Photoshop-documentbestanden) worden meestal in Adobe Dynamic Media Classic gebruikt om sjablonen te maken. Wanneer u een PSD-bestand uploadt, kunt u automatisch een Adobe Dynamic Media Classic-sjabloon maken vanuit het bestand (selecteer de optie Sjabloon maken in het scherm Uploaden).
 
-Adobe Dynamic Media Classic maakt meerdere afbeeldingen van een PSD-bestand met lagen als u het bestand gebruikt om een sjabloon te maken. er wordt één afbeelding voor elke laag gemaakt.
+Adobe Dynamic Media Classic maakt meerdere afbeeldingen van een PSD-bestand met lagen als u het bestand gebruikt om een sjabloon te maken. Voor elke laag wordt één afbeelding gemaakt.
 
 ## Uploadopties voor PSD {#psd-upload-options}
 
@@ -33,13 +33,13 @@ U vindt opties voor het uploaden van PSD-bestanden onder Photoshop-opties in het
 
 Deze opties zijn beschikbaar wanneer u PSD-bestanden uploadt:
 
-* **Opties voor uitsnijden** - Gelokaliseerd onder **[!UICONTROL Crop Options]**. Selecteren **[!UICONTROL Trim]** witruimte automatisch laten bijsnijden vanaf de randen van een PSD-bestand; selecteren **[!UICONTROL Manual]** om zijden van het PSD-bestand uit te snijden:
+* **Opties voor uitsnijden** - Gelokaliseerd onder **[!UICONTROL Crop Options]**. Selecteren **[!UICONTROL Trim]** om witruimte automatisch bij te snijden vanaf de randen van een PSD-bestand; selecteer **[!UICONTROL Manual]** om zijden van het PSD-bestand uit te snijden:
 
    * **[!UICONTROL Trim]** - Selecteer de **[!UICONTROL Trim Away Based On]** en kiest u **[!UICONTROL Color]** of **[!UICONTROL Transparency]**.
 
   Als u **[!UICONTROL Color]** selecteert u het menu Hoek en kiest u de hoek van de PSD met de kleur die het beste overeenkomt met de kleur van de witruimte die u wilt uitsnijden.
 
-  Sleep de schuifregelaar om een tolerantie tussen 0 en 1 op te geven. Als u wilt bijsnijden op basis van kleur, geeft u 0 op om alleen pixels bij te snijden als deze exact overeenkomen met de kleur die u in de hoek van de PSD hebt geselecteerd. De aantallen dichter aan 1 staan voor meer kleurenverschil toe. Als u wilt bijsnijden op basis van transparantie, geeft u 0 op om alleen pixels bij te snijden als deze transparant zijn. De cijfers dichter aan 1 staan voor meer transparantie.
+  Sleep de schuifregelaar om een tolerantie tussen 0 en 1 op te geven. Als u wilt bijsnijden op basis van kleur, geeft u 0 op om alleen pixels bij te snijden als deze exact overeenkomen met de kleur die u in de hoek van de PSD hebt geselecteerd. De aantallen dichter aan 1 staan voor meer kleurenverschil toe. Als u wilt bijsnijden op basis van transparantie, geeft u 0 op voor het bijsnijden van pixels alleen als deze transparant zijn. Bij nummers die dichter bij 1 liggen, is meer transparantie mogelijk.
 
    * **[!UICONTROL Manual]** - Voer het aantal pixels in dat u wilt uitsnijden vanaf elke zijde van de afbeelding. Hoeveel van de afbeelding wordt uitgesneden, is afhankelijk van de ppi-instelling (pixels per inch) in het afbeeldingsbestand. Als de afbeelding bijvoorbeeld 150 ppi weergeeft en u 75 invoert in de tekstvakken Boven, Rechts, Onder en Links, 0,5 inch. wordt aan elke kant van de afbeelding uitgesneden.
 
@@ -89,11 +89,11 @@ Als u tijdens het uploaden van de PSD de optie Lagen behouden hebt geselecteerd,
 1. Dubbelklik op een laag en voer een van de volgende handelingen uit:
 
    * Als u een afbeeldingskaart op de laag wilt maken, selecteert u **[!UICONTROL Image Map]** pictogram. (Zie [Afbeeldingen met hyperlinks maken](creating-image-maps.md#creating_image_maps).)
-   * Als u zoomdoelen op de laag wilt maken, selecteert u **[!UICONTROL Zoom Targets]** pictogram. (Zie [Zoomdoelen maken voor zoomen met instructies](creating-zoom-targets-guided-zoom.md#creating_zoom_targets_for_guided_zoom).)
-   * Als u de laag wilt uitsnijden, selecteert u **[!UICONTROL Crop]** pictogram. (Zie [Een afbeelding uitsnijden](cropping-image.md#cropping_an_image).)
+   * Selecteer **[!UICONTROL Zoom Targets]** pictogram. (Zie [Zoomdoelen maken voor zoomen met instructies](creating-zoom-targets-guided-zoom.md#creating_zoom_targets_for_guided_zoom).)
+   * Selecteer **[!UICONTROL Crop]** pictogram. (Zie [Een afbeelding uitsnijden](cropping-image.md#cropping_an_image).)
    * Selecteer **[!UICONTROL Sharpen]**. (Zie [Een afbeelding verscherpen](sharpening-image.md#sharpening_an_image).)
-   * Als u de laag wilt aanpassen, selecteert u **[!UICONTROL Adjust]**. (Zie [Een afbeelding aanpassen](adjusting-image.md#adjusting_an_image).)
+   * Selecteer **[!UICONTROL Adjust]**. (Zie [Een afbeelding aanpassen](adjusting-image.md#adjusting_an_image).)
 
 1. Selecteren **[!UICONTROL Save]** of **[!UICONTROL Save As]**.
 1. Als u een andere laag wilt weergeven of bewerken, selecteert u een pijl onder aan de voorvertoning van de laag.
-1. Als u de weergave Laagdetails wilt afsluiten, selecteert u de optie **[!UICONTROL Grid View]** pictogram.
+1. Als u de Gedetailleerde weergave van de laag wilt afsluiten, selecteert u de optie **[!UICONTROL Grid View]** pictogram.

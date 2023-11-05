@@ -10,9 +10,9 @@ role: Admin
 exl-id: 3f96606e-ef5c-4c01-aa0f-3148f14e28be
 topic: Administration
 level: Intermediate
-source-git-commit: 1b90beb99b161b76da81403f5aed9755b3a92c8b
+source-git-commit: 51c05c62448b39a75facb2e90cc9da5d0f26ab45
 workflow-type: tm+mt
-source-wordcount: '10711'
+source-wordcount: '10703'
 ht-degree: 1%
 
 ---
@@ -23,7 +23,7 @@ U kunt de pagina&#39;s van de Opstelling van de Toepassing gebruiken om algemene
 
 >[!NOTE]
 >
->Alleen Adobe Dynamic Media Classic-beheerders kunnen de instellingen op de pagina&#39;s wijzigen in Toepassingsinstellingen.
+>Alleen Adobe Dynamic Media Classic-beheerders kunnen instellingen wijzigen in Application Setup.
 
 ## Algemene instellingen {#general-settings}
 
@@ -131,13 +131,13 @@ Zie ook [Standaardopties voor uploadtaken](https://s7d5.scene7.com/s7viewers/htm
 
 * **[!UICONTROL Default Upload Options]** - Hiermee opent u het dialoogvenster Taakopties uploaden, waarin u de standaardopties voor uploaden kunt opgeven. Zie voor informatie over deze opties [Uploadopties](/help/using/uploading-files.md#upload_options).
 
-### Afbeeldingskaarteditor, naar toepassing
+### Afbeeldingskaarteditor (naar toepassing)
 
 * **[!UICONTROL Default Image Mapping HREF]** - Hiermee definieert u de standaard-URL die wordt gebruikt voor de HREF-kolom in afbeeldingstoewijzing. Deze URL is de standaard-URL die u ziet wanneer u afbeeldingen met hyperlinks maakt.
 
 * **[!UICONTROL Default Image Mapping Template]** - Definieert de standaard JavaScript voor de HREF-sjabloon in afbeeldingstoewijzing. U kunt hier aangepaste code instellen die moet worden uitgevoerd wanneer u een afbeelding met hyperlinks selecteert.
 
-### Overige instellingen, naar toepassing
+### Overige instellingen (op toepassing)
 
 * **[!UICONTROL Trash Can Clean Up Warnings]** - Elementen in de prullenbak worden automatisch binnen zeven dagen verwijderd. Selecteer &quot;E-mails verzenden voordat de prullenmand automatisch wordt verwijderd&quot; als u wilt dat meldingen worden verzonden naar bedrijfsbeheerders wanneer elementen in de prullenmand vier dagen verwijderd zijn van definitieve verwijdering. Zie [De map Prullenmand beheren](/help/using/trash-folder.md).
 
@@ -223,7 +223,7 @@ In het scherm Voorinstelling toevoegen en Voorinstelling bewerken vindt u de vol
 
 * **[!UICONTROL Bi-Cubic]** - Verhoogt het CPU-gebruik op de afbeeldingsserver, maar geeft scherpere beelden met minder merkbare aliasing artefacten.
 
-* **[!UICONTROL Sharp2]** - Dit levert iets scherpere resultaten op dan de optie Bi-Cubic, maar met nog hogere CPU-kosten voor de afbeeldingsserver.
+* **[!UICONTROL `Sharp 2`]** - Dit levert iets scherpere resultaten op dan de optie Bi-Cubic, maar met nog hogere CPU-kosten voor de afbeeldingsserver.
 
 * **[!UICONTROL Tri-Linear]** - Gebruikt zowel hogere als lagere resoluties, als beschikbaar; geadviseerd slechts wanneer aliasing een kwestie is. Deze methode vermindert de grootte van JPEG als gevolg van gereduceerde gegevens met hoge frequentie.
 
@@ -308,7 +308,7 @@ Als u een coderingsvoorinstelling wilt selecteren, selecteert u in de rechterben
      >
      >Als u video wilt leveren aan iPads, kunt u een voorinstelling voor mobiele codering of een voorinstelling voor tabletcodering selecteren. Tabletvoorinstellingen zijn speciaal ontworpen voor de iPad, meestal met een hogere resolutie en kwaliteit, zodat u kunt profiteren van de grotere schermgrootte en bandbreedteverbinding. Als u videobestanden wilt leveren die zijn gecodeerd met een voorinstelling voor tablets, moet u apparaatdetectiecode opnemen op uw mobiele site of toepassing. Deze code schakelt tussen een iPhone- of iPad-videobeleving, afhankelijk van het afspeelapparaat. Een mobiele voorinstelling kiezen voor het leveren van videobestanden naar de iPad is een eenvoudigere workflow. De reden hiervoor is dat u hetzelfde videobestand kunt gebruiken voor zowel iPhones als iPads. De kwaliteit wordt echter gestandaardiseerd aan de hand van de iPhone-ervaring met lagere resolutie.
 
-      * Selecteer Naam of Grootte onder de groep Coderingsvoorinstellingen in de vervolgkeuzelijst Codering sorteren als u voorinstellingen op naam of grootte wilt sorteren.
+      * Selecteer Naam of Grootte onder de groep Coderingsvoorinstellingen in de vervolgkeuzelijst Codering sorteren om voorinstellingen op naam of grootte te sorteren.
       * Selecteer een coderingsvoorinstelling op basis van de resolutiegrootte en de bandbreedte waarmee u de video wilt afspelen.
       * U kunt Adaptieve videocodering en een of meer coderingsvoorinstellingen per video selecteren. U kunt bijvoorbeeld een bestand coderen voor zowel desktop als mobiel in één uploadtaak.
 
@@ -340,9 +340,9 @@ Een coderingsvoorinstelling die werkt met een willekeurige hoogte-breedteverhoud
 
 |  | Naam/knopinfotekst coderen van voorinstelling | Achtervoegsel van gecodeerd bestand | Videogegevenssnelheid (Kbps) | Breedte/Hoogte (pixels) | Fps | Audiobitsnelheid (kbps) | Recommendations |
 |--- |--- |--- |--- |--- |--- |--- |--- |
-| 1 | Automatisch x 360, 800 Kbps | _Mobile_Autox360p_800K | 800 | Autox360 | Gelijk aan bron | 64 | Voor mobiele apparaten (iPhone, iPad, Android™) |
-| 2 | Automatisch x 480, 1400 Kbps | _Tablet_Autox480p_1400K | 1400 | Autox480 | Gelijk aan bron | 96 | Voor tablets (iPad, Android™) |
-| 3 | Automatische x 720, 2600 Kbps | _Desktop_Autox720p_2600K | 2600 | Autox720 | Gelijk aan bron | 128 | Voor bureaublad |
+| 1 | Automatisch × 360, 800 Kbps | _Mobile_Auto×360p_800K | 800 | Automatisch×360 | Gelijk aan bron | 64 | Voor mobiele apparaten (iPhone, iPad, Android™) |
+| 2 | Automatisch × 480, 1400 Kbps | _Tablet_Auto×480p_1400K | 1400 | Automatisch×480 | Gelijk aan bron | 96 | Voor tablets (iPad, Android™) |
+| 3 | Automatisch × 720, 2600 Kbps | _Desktop_Auto×720p_2600K | 2600 | Automatisch×720 | Gelijk aan bron | 128 | Voor bureaublad |
 
 ### Adaptieve videocodering (16:9 of 4:3), videovoorinstellingen {#adaptive-video-encoding-or-video-presets}
 
@@ -635,7 +635,7 @@ Alle standaard, buiten-van-doos vooraf ingestelde CSS dossiers van de Kijker in 
 
 `Scene7SharedAsset`: `.s7videoviewer .s7fullscreenbutton[state][selected] { background-image: url(/is/image/Scene7SharedAssets/FullScreenButton_dark_sprite?scl=1&fmt=png-alpha); }`
 
-Als u echter CSS-bestanden van de viewer host op uw eigen site, moet u deze relatieve paden naar afbeeldingen oplossen door in uw eigen omgeving een expliciet pad naar de afbeeldingsserver te gebruiken. Als u bijvoorbeeld het relatieve pad boven een expliciet pad wilt bijwerken, ziet het er als volgt uit: `https://s7d1.scene7.com` is het directe pad naar uw afbeeldingsserver: `https://s7d1.scene7.com/is/image/Scene7SharedAssets/FullScreenButton_dark_sprite?scl=1&fmt=png-alpha`
+Als u echter CSS-bestanden van de viewer host op uw eigen site, moet u deze relatieve paden naar afbeeldingen oplossen door in uw eigen omgeving een expliciet pad naar de afbeeldingsserver te gebruiken. Als u bijvoorbeeld het relatieve pad boven een expliciet pad hebt bijgewerkt, ziet het er als volgt uit: `https://s7d1.scene7.com` is het directe pad naar uw afbeeldingsserver: `https://s7d1.scene7.com/is/image/Scene7SharedAssets/FullScreenButton_dark_sprite?scl=1&fmt=png-alpha`
 
 **Een HTML5 Viewer-voorinstelling exporteren:**
 
@@ -926,7 +926,7 @@ U kunt de methode voor formuliervelden gebruiken om een voorinstelling voor een 
 
 Zie ook [Een voorinstelling voor een batchset maken voor het automatisch genereren van een 2D-reeks met draaien](application-setup.md#creating_a_batch_set_preset_for_the_auto_generation_of_a_2d_spin_set).
 
-Zie ook [2D-centrifuges](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&amp;emailurl=https://s7d5.scene7.com/s7/emailFriend&amp;serverUrl=https://s7d5.scene7.com/is/image/&amp;config=Scene7SharedAssets/Universal_HTML5_Video&amp;contenturl=https://s7d5.scene7.com/skins/&amp;asset=S7tutorials/537_2d-spin_converted%20renamed_Done-AVS) trainingsvideo.
+Zie ook [2D-draaiset](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&amp;emailurl=https://s7d5.scene7.com/s7/emailFriend&amp;serverUrl=https://s7d5.scene7.com/is/image/&amp;config=Scene7SharedAssets/Universal_HTML5_Video&amp;contenturl=https://s7d5.scene7.com/skins/&amp;asset=S7tutorials/537_2d-spin_converted%20renamed_Done-AVS) trainingsvideo.
 
 **Een voorinstelling voor een batch-set maken:**
 

@@ -10,16 +10,16 @@ role: User
 exl-id: 8bb1c744-270a-4752-b163-443708fca6c2
 topic: Content Management
 level: Intermediate
-source-git-commit: d82f816553f807b514f4690827dab672a6baf690
+source-git-commit: 51c05c62448b39a75facb2e90cc9da5d0f26ab45
 workflow-type: tm+mt
-source-wordcount: '633'
+source-wordcount: '634'
 ht-degree: 0%
 
 ---
 
 # Een stalenset koppelen aan een webpagina{#linking-a-swatch-set-to-a-web-page}
 
-Nadat u een Staalset hebt gepubliceerd, kunt u de URL of insluitcode van de Staalset gebruiken in uw website of toepassing. Vervolgens kunt u de URL of de insluitcode naar wens implementeren, zodat gebruikers de stalenset op uw website of toepassing kunnen bekijken.
+Nadat u een Staalset hebt gepubliceerd, kunt u de bijbehorende URL of insluitcode gebruiken in uw website of toepassing. Vervolgens kunt u de URL of de insluitcode naar wens implementeren, zodat gebruikers de stalenset op uw website of toepassing kunnen bekijken.
 
 >[!NOTE]
 >
@@ -48,11 +48,11 @@ Nadat u een Staalset hebt gepubliceerd, kunt u de URL of insluitcode van de Staa
 
 De meest gebruikelijke manier om Staalsets te implementeren is het plaatsen van een koppeling (via een navigatiepictogram) op uw webpagina. Wanneer op de koppeling wordt geklikt, wordt een dynamische pagina (ASP of JSP) gestart die de stalenset in een pop-upzoomvenster weergeeft. Met de zoomkoppeling wordt een pop-upvenster geopend dat de eigenlijke zoomfunctie bevat.
 
-Zie voor meer informatie en codevoorbeelden [HTML5-zoomviewer insluiten in de naslaggids voor Adobe Viewers](https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/library/viewers-aem-assets-dmc/zoom/c-html5-20-zoom-viewer-about.html#section-e1c3106f5b3e445d9b95be337c2f94e2).
+Zie voor meer informatie en codevoorbeelden [HTML5-zoomviewer insluiten in de Adobe Viewers Reference Guide](https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/library/viewers-aem-assets-dmc/zoom/c-html5-20-zoom-viewer-about.html#section-e1c3106f5b3e445d9b95be337c2f94e2).
 
 ## De insluitcode van een Staalset-viewer kopiëren {#copying-the-embed-code-of-a-swatch-set-viewer}
 
-Met de functie Code insluiten kunt u de viewercode voor de geselecteerde stalenset controleren. U kunt de code ook naar het klembord kopiëren, zodat u de code op uw webpagina&#39;s kunt plakken en de viewer kunt implementeren. Het bewerken van de code is niet toegestaan in het dialoogvenster Code insluiten.
+Met de functie Code insluiten kunt u de viewercode voor de geselecteerde stalenset controleren. U kunt de code ook naar het klembord kopiëren, zodat u de code op uw webpagina&#39;s kunt plakken en de viewer kunt implementeren. U mag de code niet bewerken in het dialoogvenster Code insluiten.
 
 **De insluitcode van een Staalsetviewer kopiëren:**
 
@@ -73,7 +73,7 @@ Met de functie Code insluiten kunt u de viewercode voor de geselecteerde stalens
 
      Selecteer in de pagina Viewer List onder de kolom Acties van de tabel de optie **[!UICONTROL Embed Code]**.
 
-1. Selecteer in het dialoogvenster Code insluiten de optie **[!UICONTROL Copy to Clipboard]**.
+1. Selecteer in het dialoogvenster Code insluiten **[!UICONTROL Copy to Clipboard]**.
 
    Het bewerken van de code is niet toegestaan in het dialoogvenster Code insluiten.
 

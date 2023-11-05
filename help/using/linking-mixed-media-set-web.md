@@ -1,27 +1,25 @@
 ---
 title: Een gemengde mediaset koppelen aan een webpagina
 description: Leer hoe u een gemengde mediaset koppelt aan een webpagina in Adobe Dynamic Media Classic.
-uuid: 120326a2-77e9-4d6f-9b02-0a00fa9cbab1
 contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/mixed_media_sets
-discoiquuid: b33dacc4-509d-4878-a769-76642bfaeb4e
 feature: Dynamic Media Classic,Viewers,Mixed Media Sets
 role: User
 exl-id: 76a7530c-0cc7-4a7f-bc31-2950c4946871
 topic: Content Management
 level: Intermediate
-source-git-commit: d82f816553f807b514f4690827dab672a6baf690
+source-git-commit: 51c05c62448b39a75facb2e90cc9da5d0f26ab45
 workflow-type: tm+mt
-source-wordcount: '585'
+source-wordcount: '586'
 ht-degree: 0%
 
 ---
 
 # Een gemengde mediaset koppelen aan een webpagina{#linking-a-mixed-media-set-to-a-web-page}
 
-Nadat u een gemengde mediaset hebt gepubliceerd, kunt u de bijbehorende URL verkrijgen voor gebruik in uw website of toepassing. Vervolgens kunt u indien nodig de URL implementeren, zodat gebruikers de gemengde mediaset op uw website of toepassing kunnen bekijken.
+Nadat u een gemengde mediaset hebt gepubliceerd, kunt u de bijbehorende URL ophalen voor gebruik in uw website of toepassing. Vervolgens kunt u indien nodig de URL implementeren, zodat gebruikers de gemengde mediaset op uw website of toepassing kunnen bekijken.
 
 ## Een gemengde URL voor mediaset verkrijgen {#obtain-a-mixed-media-set-url}
 
@@ -48,7 +46,7 @@ De gemeenschappelijkste manier om een Gemengde Reeks van Media op te stellen is 
 
 ## De insluitcode van een viewer met gemengde mediaset kopiëren {#copying-the-embed-code-of-a-mixed-media-set-viewer}
 
-Met de functie Code insluiten kunt u de viewercode voor de geselecteerde gemengde mediaset controleren. U kunt de code ook naar het klembord kopiëren, zodat u de code op uw webpagina&#39;s kunt plakken en de viewer kunt implementeren. Het bewerken van de code is niet toegestaan in het dialoogvenster Code insluiten.
+Met de functie Code insluiten kunt u de viewercode voor de geselecteerde gemengde mediaset controleren. U kunt de code ook naar het klembord kopiëren, zodat u de code op uw webpagina&#39;s kunt plakken en de viewer kunt implementeren. U mag de code niet bewerken in het dialoogvenster Code insluiten.
 
 **U kunt als volgt de insluitcode van een viewer met gemengde mediaset kopiëren:**
 
@@ -69,7 +67,7 @@ Met de functie Code insluiten kunt u de viewercode voor de geselecteerde gemengd
 
      Selecteer in de pagina Viewer List onder de kolom Acties van de tabel de optie **[!UICONTROL Embed Code]**.
 
-1. Selecteer in het dialoogvenster Code insluiten de optie **[!UICONTROL Copy to Clipboard]**.
+1. Selecteer in het dialoogvenster Code insluiten **[!UICONTROL Copy to Clipboard]**.
 
    Het bewerken van de code is niet toegestaan in het dialoogvenster Code insluiten.
 

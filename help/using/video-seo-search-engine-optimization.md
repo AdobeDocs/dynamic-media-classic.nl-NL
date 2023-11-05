@@ -12,7 +12,7 @@ role: Admin
 exl-id: f76b0e09-f148-46aa-b710-ec35bfebcb37
 topic: Content Management
 level: Intermediate
-source-git-commit: d82f816553f807b514f4690827dab672a6baf690
+source-git-commit: 51c05c62448b39a75facb2e90cc9da5d0f26ab45
 workflow-type: tm+mt
 source-wordcount: '998'
 ht-degree: 0%
@@ -33,7 +33,7 @@ Met Adobe Dynamic Media Classic Video SEO kunt u videometagegevens toepassen om 
 >
 >Google ondersteunt zowel het Video Sitemap- als het mRSS-feed-protocol voor het verzenden van informatie naar zoekmachines.
 
-Adobe Dynamic Media Classic kan videobeelden Sitemaps en mRSS-feeds genereren op basis van metagegevens die bij elke video worden opgeslagen. Wanneer u videositemaps en mRSS-feeds maakt, bepaalt u welke metagegevensvelden van videobestanden moeten worden opgenomen. Op deze manier beschrijft u uw video&#39;s naar zoekprogramma&#39;s, zodat zoekprogramma&#39;s het verkeer naar video&#39;s op uw website nauwkeuriger kunnen sturen
+Adobe Dynamic Media Classic kan videobeelden Sitemaps en mRSS-feeds genereren op basis van metagegevens die bij elke video worden opgeslagen. Wanneer u videositemaps en mRSS-feeds maakt, bepaalt u welke metagegevensvelden van videobestanden moeten worden opgenomen. Op deze manier beschrijft u uw video&#39;s aan zoekmachines zodat zoekprogramma&#39;s het verkeer naar video&#39;s op uw website nauwkeuriger kunnen sturen.
 
 >[!NOTE]
 >
@@ -67,7 +67,7 @@ Op de **[!UICONTROL Generation Mode]** drop-down lijst, kies een rapportwijze:
 
 Op de **[!UICONTROL Automatic/Manual Mode]** kiest u of u automatisch of handmatig wilt genereren:
 
-* **Automatische modus** - Adobe Dynamic Media Classic genereert automatisch elke dag één videositemap, Media RSS-feed (mRSS) of beide. Selecteer **[!UICONTROL Mark for Publish]** om het door Adobe Dynamic Media Classic gegenereerde XML-bestand automatisch te markeren voor publicatie.
+* **Automatische modus** - Adobe Dynamic Media Classic genereert automatisch elke dag één videositemap, Media RSS-feed (mRSS) of beide. Selecteer de **[!UICONTROL Mark for Publish]** om het door Adobe Dynamic Media Classic gegenereerde XML-bestand automatisch te markeren voor publicatie.
 
    * **Markeren voor publicatie** Markeringen voor het publiceren van het XML-bestand dat wordt gegenereerd.
 
@@ -113,6 +113,6 @@ Kopieer een van deze URL&#39;s naar de webstramiengereedschappen van het zoekpro
 
 ## Video SEO-rapporten weergeven {#viewing-video-seo-reports}
 
-Bekijk video SEO rapporten op de Videopagina van het Rapport van de Optimalisering van de Motor van het Onderzoek. Ga naar **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Video SEO]** > **[!UICONTROL Reports]**.
+Bekijk video SEO rapporten op de Videopagina van het Rapport van de Optimalisering van de Motor van het Onderzoek van het Onderzoek. Ga naar **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Video SEO]** > **[!UICONTROL Reports]**.
 
 Als de fouten voorkwamen toen een rapport werd geproduceerd, zijn zij vermeld op de pagina van het Rapport.

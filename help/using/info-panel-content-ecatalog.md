@@ -1,18 +1,16 @@
 ---
 title: Inhoud van deelvenster Info in eCatalogs beheren
 description: Leer hoe u de inhoud van het deelvenster Info in eCatalogs in Adobe Dynamic Media Classic beheert.
-uuid: 5aa634f9-0874-4bb5-a3d9-8ce4d5577941
 contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/ecatalogs
-discoiquuid: be277831-77cc-4011-ae30-e75c18eec99b
 feature: Dynamic Media Classic,Viewers,eCatalog
 role: User
 exl-id: bfb9c5a4-5068-4adb-9fe2-a4ead8656289
 topic: Integrations
 level: Experienced
-source-git-commit: d82f816553f807b514f4690827dab672a6baf690
+source-git-commit: 51c05c62448b39a75facb2e90cc9da5d0f26ab45
 workflow-type: tm+mt
 source-wordcount: '841'
 ht-degree: 0%
@@ -32,7 +30,7 @@ U kunt de InfoPanel-instellingen en -gegevens beheren met de volgende functies i
 
 ## Een reactiesjabloon voor eCatalogs instellen {#set-up-a-response-template-for-ecatalogs}
 
-U kunt een van de drie vooraf ingestelde reactiesjablonen selecteren om tekst weer te geven in een deelvenster Info. Deze vooraf ingestelde reactiesjablonen bepalen hoe uw gegevens worden weergegeven in het deelvenster Info: hoeveel kolommen en rijen, tekengrootte, lettertype enzovoort. U kunt een vooraf ingestelde reactiesjabloon selecteren of een eigen sjabloon maken.
+U kunt een van de drie vooraf ingestelde reactiesjablonen selecteren om tekst weer te geven in een deelvenster Info. Deze vooraf ingestelde reactiesjablonen bepalen hoe uw informatie wordt weergegeven in het deelvenster Info: hoeveel kolommen en rijen, tekengrootte, lettertype, enzovoort. U kunt een vooraf ingestelde reactiesjabloon selecteren of een eigen sjabloon maken.
 
 >[!NOTE]
 >
@@ -41,14 +39,14 @@ U kunt een van de drie vooraf ingestelde reactiesjablonen selecteren om tekst we
 >Zie [Voorinstellingen eCatalog-viewer instellen](setting-ecatalog-viewer-presets.md#setting_up_ecatalog_viewer_presets).
 
 1. Dubbelklik op uw eCatalog zodat deze in de gedetailleerde weergave wordt geopend.
-1. Selecteer **[!UICONTROL InfoPanel Setup]** deelvenster.
+1. Selecteer de **[!UICONTROL InfoPanel Setup]** deelvenster.
 1. Selecteer een antwoordsjabloon:
 
    * Selecteer een voorinstelling in het menu Reactiesjabloon. De XML voor het sjabloonontwerp wordt weergegeven in het vak Sjabloon gebruiker.
-   * Als u uw eigen reactiesjabloon wilt maken, selecteert u **[!UICONTROL Custom]**. Typ de XML-definitie van de sjabloon in het vak Sjabloon gebruiker. U kunt de vooraf ingestelde malplaatjes als basis voor uw gebruiken.
+   * Als u uw eigen reactiesjabloon wilt maken, selecteert u **[!UICONTROL Custom]**. Typ de XML-definitie van de sjabloon in het vak Sjabloon gebruiker. U kunt de vooraf ingestelde sjablonen als basis voor uw eigen sjablonen gebruiken.
 
 1. (Optioneel) Typ in het vak Standaardreactie de tekst die u wilt weergeven als er in Adobe Dynamic Media Classic een fout optreedt bij het ophalen van informatie voor een afbeeldingskaart. Als het systeem bijvoorbeeld een bedrijfsnaam en een eCatalog-naam ontvangt, maar geen rollover-id, wordt dit bericht voor de gebruiker weergegeven.
-1. Voer in het vak TTL-antwoord het aantal uren in dat u wilt wachten voordat u de gegevens in cache plaatst:
+1. Voer in het vak TTL-antwoord het aantal uren in dat u wilt wachten voordat u de gegevens in de cache plaatst:
 
    * Stel een lager getal in als de gegevens vaak gedurende een dag worden bijgewerkt.
    * Stel een hoger getal in als de gegevens relatief stabiel zijn en niet regelmatig hoeven te worden bijgewerkt. De standaardwaarde is tien uur.
@@ -68,7 +66,7 @@ Houd bij het opmaken van broninhoud rekening met de volgende richtlijnen:
 ### CSV-inhoud vanuit een extern gehoste locatie importeren in eCatalogi {#import-csv-content-into-ecatalogs-from-an-externally-hosted-location}
 
 1. Dubbelklik op de eCatalog zodat deze in de gedetailleerde weergave wordt geopend.
-1. Selecteer **[!UICONTROL InfoPanel Datafeed]** deelvenster.
+1. Selecteer de **[!UICONTROL InfoPanel Datafeed]** deelvenster.
 1. Voer de URL voor het CSV-bestand in het vak Extern gehoste locatie voor het CSV-bestand in. U kunt de URL in dit veld plakken of rechtstreeks typen.
 1. (Optioneel) Geef een tijd op om de inhoud bij te werken met de menu&#39;s Update plannen en selecteer **[!UICONTROL Add]**. U kunt meerdere malen selecteren voor bijwerken. Elke updatetijd wordt weergegeven in het vak Update Times. (Als u een tijd wilt verwijderen, selecteert u deze en selecteert u **[!UICONTROL Delete]**.)
 1. (Optioneel) Selecteer **[!UICONTROL Run Update Now]** om de inhoud onmiddellijk bij te werken.
@@ -86,7 +84,7 @@ Last Modified Date:
  -->
 
 1. Dubbelklik op de eCatalog zodat deze in de gedetailleerde weergave wordt geopend.
-1. Selecteer **[!UICONTROL InfoPanel Setup]** deelvenster.
+1. Selecteer de **[!UICONTROL InfoPanel Setup]** deelvenster.
 1. Selecteren **[!UICONTROL Upload S7Info Content]**.
 1. Selecteren **[!UICONTROL Browse]** selecteert u het TXT-bestand, het CSV-bestand of het SSV-bestand met tabs als scheidingsteken en selecteert u **[!UICONTROL Open]**.
 1. Selecteren **[!UICONTROL Upload]**.

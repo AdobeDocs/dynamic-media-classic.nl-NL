@@ -6,7 +6,7 @@ role: Admin,User
 exl-id: 5c2e2937-fe4f-4b64-bee8-9572ca84695b
 topic: Content Management
 level: Intermediate
-source-git-commit: 1b90beb99b161b76da81403f5aed9755b3a92c8b
+source-git-commit: 51c05c62448b39a75facb2e90cc9da5d0f26ab45
 workflow-type: tm+mt
 source-wordcount: '1550'
 ht-degree: 0%
@@ -45,7 +45,7 @@ Ja, [!DNL Dynamic Media] gebruikt robuust, top-tier leveringsnetwerk van de Adob
 
 * Medialeverancier met de meeste mogelijkheden tot internethandel 1000, negen jaar achter elkaar.
 * 24/7/265 ondersteuning, 99,95% SLA&#39;s.
-* Bewezen infrastructuur die wereldwijd meer dan 800 klanten, 3,5-petabytes verkeer per maand en meer dan 500 miljoen activa in beheer, 60% groei van het verkeer over jaar.
+* Aantoonbare infrastructuur die wereldwijd meer dan 800 klanten bedient, 3,5 PB verkeer per maand en meer dan 500 miljoen activa in beheer, 60% groei van het verkeer per jaar.
 
 +++
 

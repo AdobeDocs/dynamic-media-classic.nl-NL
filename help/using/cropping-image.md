@@ -1,20 +1,18 @@
 ---
 title: Een afbeelding uitsnijden
 description: Leer hoe u een afbeelding uitsnijdt in Adobe Dynamic Media Classic.
-uuid: 84f199de-cbfc-4d06-877f-6e9148e82e15
 contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/master_files
-discoiquuid: 99dfa476-4f11-4569-a27e-a76ed7787674
 feature: Dynamic Media Classic,Asset Management
 role: User
 exl-id: aec4c256-f5ed-4307-afec-dec848be95f9
 topic: Content Management
 level: Intermediate
-source-git-commit: d82f816553f807b514f4690827dab672a6baf690
+source-git-commit: 51c05c62448b39a75facb2e90cc9da5d0f26ab45
 workflow-type: tm+mt
-source-wordcount: '508'
+source-wordcount: '507'
 ht-degree: 0%
 
 ---
@@ -27,17 +25,17 @@ U kunt een afbeelding uitsnijden om witruimte rondom de afbeelding te verwijdere
 
 >[!NOTE]
 >
->Nadat u hebt uitgesneden, kunt u selecteren **[!UICONTROL Save As]** en sla een bijgesneden versie van de afbeelding op onder een andere naam. Selecteer in het venster Opslaan als de optie **[!UICONTROL Save As New Master]** om een tweede kopie van de afbeelding op te slaan. Selecteren **[!UICONTROL Save As Addition View Of Master]** zodat u het origineel en de bijgesneden versie onder een andere naam kunt opslaan. Selecteren **[!UICONTROL Replace Original]** om het oorspronkelijke bestand te verwijderen waaruit u de afbeelding hebt bijgesneden. Voer vervolgens een naam voor de afbeelding in en selecteer **[!UICONTROL Submit]**.
+>Nadat u hebt uitgesneden, kunt u selecteren **[!UICONTROL Save As]** en sla een bijgesneden versie van de afbeelding op onder een andere naam. In het venster Opslaan als selecteert u **[!UICONTROL Save As New Master]** om een tweede kopie van de afbeelding op te slaan. Selecteren **[!UICONTROL Save As Addition View Of Master]** zodat u het origineel en de bijgesneden versie onder een andere naam kunt opslaan. Selecteren **[!UICONTROL Replace Original]** om het oorspronkelijke bestand te verwijderen waaruit u de afbeelding hebt bijgesneden. Voer vervolgens een naam voor de afbeelding in en selecteer **[!UICONTROL Submit]**.
 
 ## Uitsnijden om witruimte rondom een afbeelding te verwijderen {#crop-to-remove-white-space-around-an-image}
 
 U kunt de transparante of effen kleurpixels uitsnijden vanaf de rand van een afbeelding.
 
 1. Als u een afbeelding wilt uitsnijden, selecteert u de rollover **[!UICONTROL Edit]** en selecteert u vervolgens **[!UICONTROL Crop]** of in het deelvenster Bladeren in de detailweergave en selecteer de optie **[!UICONTROL Crop]** knop.
-1. Voer een van de volgende handelingen uit op de pagina Snijbewerker:
+1. Voer een van de volgende handelingen uit op de pagina Uitsnijdbewerker:
 
    * Ga naar **[!UICONTROL Trim]** > **[!UICONTROL Color]**. In de **[!UICONTROL Auto Crop By Color]** selecteert u het dialoogvenster **[!UICONTROL Corner]** en kiest u een hoek met de achtergrondkleur die u wilt wegsnijden. Voer vervolgens een **[!UICONTROL Tolerance]** instelling 0 tot en met 1. Met de instelling 0 worden alleen pixels uitgesneden als deze exact overeenkomen met de kleur die u in de hoek van de afbeelding hebt geselecteerd. De aantallen dichter aan 1 staan voor meer kleurenverschil toe. Selecteren **[!UICONTROL Crop]**.
-   * Ga naar **[!UICONTROL Trim]** > **[!UICONTROL Transparent]**. In de **[!UICONTROL Auto Crop By Transparency]** voert u een tolerantie in tussen 0 en 1. Met de instelling 0 worden alleen pixels uitgesneden als deze transparant zijn. De aantallen dichter aan 1 staan voor meer transparantie toe. Selecteren **[!UICONTROL Crop]**.
+   * Ga naar **[!UICONTROL Trim]** > **[!UICONTROL Transparent]**. In de **[!UICONTROL Auto Crop By Transparency]** voert u een tolerantiewaarde in tussen 0 en 1. Met de instelling 0 worden alleen pixels uitgesneden als deze transparant zijn. De aantallen dichter aan 1 staan voor meer transparantie toe. Selecteren **[!UICONTROL Crop]**.
 
 1. Selecteren **[!UICONTROL Save]**.
 
@@ -64,6 +62,6 @@ U kunt de transparante of effen kleurpixels uitsnijden vanaf de rand van een afb
 
 >[!MORELIKETHIS]
 >
->* [Opties voor het bewerken van afbeeldingen tijdens het uploaden](image-editing-options-upload.md#image-editing-options-at-upload)
+>* [Opties voor beeldbewerking tijdens uploaden](image-editing-options-upload.md#image-editing-options-at-upload)
 >* [Witruimte uitsnijden vanuit een PDF-bestand](pdfs.md#cropping_white_space_from_a_pdf_file)
 >* [Uitsnijden vanaf de zijkanten van PDF pagina&#39;s](pdfs.md#cropping_from_the_sides_of_pdf_pages)

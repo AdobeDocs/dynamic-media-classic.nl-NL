@@ -12,9 +12,9 @@ role: User
 exl-id: 51d411b2-b4bc-4cf6-afca-dd0ed0d219a1
 topic: Integrations, Development
 level: Experienced
-source-git-commit: 5d8b7cb8b4616a998346675d7324b568634698fb
+source-git-commit: 51c05c62448b39a75facb2e90cc9da5d0f26ab45
 workflow-type: tm+mt
-source-wordcount: '911'
+source-wordcount: '913'
 ht-degree: 0%
 
 ---
@@ -87,7 +87,7 @@ Zie ook [Elementen handmatig publiceren](publishing-files.md#manually_publishing
 
 ## Een eCatalog verwijderen {#deleting-an-ecatalog}
 
-Wanneer u een set verwijdert, wordt de set zelf naar de prullenbak verplaatst. De leden (of &quot;kinderen&quot;) in die reeks worden echter niet beïnvloed; in plaats daarvan behouden zij elk hun bestaande gepubliceerde of niet - gepubliceerde staat .
+Wanneer u een set verwijdert, wordt de set zelf naar de prullenbak verplaatst. De leden (of &quot;kinderen&quot;) binnen die set worden echter niet beïnvloed, maar ze behouden hun bestaande gepubliceerde of niet-gepubliceerde status.
 
 Zie ook [Elementen handmatig publiceren](publishing-files.md#manually_publishing_assets) en [Publicaties van elementen handmatig ongedaan maken](publishing-files.md#manually_unpublishing_assets).
 
@@ -114,7 +114,7 @@ Als u de paginanamen een voor een handmatig wilt invoeren, gaat u naar het tabbl
 
 Het wordt aanbevolen paginanamen te importeren als u te maken hebt met een eCatalog met veel pagina&#39;s. U kunt de namen importeren uit een door tabs gescheiden of XML-bestand.
 
-Het label van de inhoudsopgave wordt opgeslagen in het veld Gebruikersgegevens van een afbeelding. deze gegevens opmaken als een lijst met `name=<value>` ` pairs separated by two question marks “??” `. Als u bijvoorbeeld één label wilt instellen voor een inhoudsopgaveveld met de naam `tocEN`stelt u de gebruikersgegevens van de afbeelding in op:
+Het label van de inhoudsopgave wordt opgeslagen in het veld Gebruikersgegevens van een afbeelding; zet deze gegevens op als een lijst met `name=<value>` ` pairs separated by two question marks "??" `. Als u bijvoorbeeld één label wilt instellen voor een veld met inhoudsopgave dat een naam heeft `tocEN`stelt u de gebruikersgegevens van de afbeelding in op:
 
 `tocEN=&lt;EN_page_label>`
 

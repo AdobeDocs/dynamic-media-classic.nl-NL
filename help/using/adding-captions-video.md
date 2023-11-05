@@ -9,9 +9,9 @@ role: User
 exl-id: 66a1ab20-6036-4c3d-bb66-dd06d917c7f2
 topic: Content Management
 level: Intermediate
-source-git-commit: d82f816553f807b514f4690827dab672a6baf690
+source-git-commit: 51c05c62448b39a75facb2e90cc9da5d0f26ab45
 workflow-type: tm+mt
-source-wordcount: '894'
+source-wordcount: '893'
 ht-degree: 0%
 
 ---
@@ -46,14 +46,14 @@ Zie [Statische (niet-grafische) inhoud serveren](https://experienceleague.adobe.
 
    | Type viewer | Ondertitelingsbestand |
    |--- |--- |
-   | HTML5 | Als u een HTML5-videoviewer gebruikt, moet u ervoor zorgen dat het bijschriftbestand dat u maakt, voldoet aan de WebVTT-standaard (Web Video Text Tracks). De bestandsnaamextensie voor ondertiteling is .vtt. U kunt meer informatie over de WebVTT ondertitelingsnorm leren.<br><br>[Zie WebVTT](https://w3c.github.io/webvtt/): De indeling Webvideoteksttracks. <br><br>Er zijn zowel gratis als tegen betaling voor gereedschappen en services die u kunt gebruiken voor het maken van bijschriftbestanden buiten Adobe Dynamic Media Classic. Als u bijvoorbeeld een eenvoudig videobijschriftbestand zonder opmaak wilt maken, kunt u de volgende gratis gereedschappen voor het maken en bewerken van bijschriften gebruiken: <br><br>[WebVTT Caption Maker](https://testdrive-archive.azurewebsites.net/Graphics/CaptionMaker/Default.html) <br><br>U bereikt het beste resultaat met het gereedschap in Internet Explorer 9 of hoger, Google Chrome of Safari. <br><br>In het hulpmiddel, in <b>URL van videobestand invoeren</b> veld, plakt u de URL van het videobestand en selecteert u <b>Laden</b>. <br><br>Als u bijvoorbeeld een Adobe Dynamic Media Classic-URL voor uw videobestand gebruikt, dubbelklikt u op een afzonderlijk video-element (geen adaptieve videoset of primaire video) om deze te openen in de gedetailleerde weergave. Vouw URL&#39;s uit en sluit code in in het rechterdeelvenster van de detailweergave. Selecteer vervolgens onder de groep Mobiele apparaten, rechts van Mobiel (progressief) <b>URL kopiëren</b>. Dit proces geeft u URL aan het videodossier zelf dat u dan in het <b>URL van videobestand invoeren</b> veld. Internet Explorer, Chrome of Safari kunnen de video vervolgens op een native manier afspelen. Volg nu de aanwijzingen op het scherm van de site om het WebVTT-bestand te ontwerpen en op te slaan. Wanneer u klaar bent, kopieert u de inhoud van het bijschriftbestand en plakt u deze in een teksteditor zonder opmaak en slaat u het bestand op met de bestandsnaamextensie VTT. <br><br><b>Opmerking:</b> Voor algemene ondersteuning van videobijschriften in andere talen dan het Engels, vereist de WebVTT-standaard dat u afzonderlijke .vtt-bestanden maakt en dat u elke taal die u wilt ondersteunen, aanroept. <br><br>Over het algemeen wilt u het VTT-bestand van het bijschrift dezelfde naam geven als het videobestand en dit bestand toevoegen met bijschriften. Hierdoor kunt u het genereren van video-URL&#39;s automatiseren met behulp van uw bestaande systeem voor webcontentbeheer. |
+   | HTML5 | Als u een HTML5-videoviewer gebruikt, moet u ervoor zorgen dat het bijschriftbestand dat u maakt, voldoet aan de WebVTT-standaard (Web Video Text Tracks). De bestandsnaamextensie voor ondertiteling is .vtt. U kunt meer informatie over de WebVTT ondertitelingsnorm leren.<br><br>[Zie WebVTT](https://w3c.github.io/webvtt/): De indeling Webvideoteksttracks. <br><br>Er zijn zowel gratis als tegen betaling gebaseerde gereedschappen en services die u kunt gebruiken voor het maken van bijschriftbestanden buiten Adobe Dynamic Media Classic. Als u bijvoorbeeld een eenvoudig videobijschriftbestand zonder opmaak wilt maken, kunt u de volgende gratis gereedschappen voor het maken en bewerken van bijschriften gebruiken: <br><br>[WebVTT Caption Maker](https://testdrive-archive.azurewebsites.net/Graphics/CaptionMaker/Default.html) <br><br>U bereikt het beste resultaat met het gereedschap in Internet Explorer 9 of hoger, Google Chrome of Safari. <br><br>In het hulpmiddel, in <b>URL van videobestand invoeren</b> veld, plakt u de URL van het videobestand en selecteert u <b>Laden</b>. <br><br>Als u bijvoorbeeld een Adobe Dynamic Media Classic-URL voor uw videobestand gebruikt, dubbelklikt u op een afzonderlijk video-element (geen adaptieve videoset of primaire video) om deze te openen in de gedetailleerde weergave. Vouw in het rechterdeelvenster van de detailweergave de URL&#39;s uit en sluit de code in. Selecteer vervolgens onder de groep Mobiele apparaten, rechts van Mobiel (progressief) <b>URL kopiëren</b>. Dit proces geeft u URL aan het videodossier zelf dat u in het videodossier kunt dan kleven <b>URL van videobestand invoeren</b> veld. Internet Explorer, Chrome of Safari kunnen de video vervolgens op een native manier afspelen. Volg nu de aanwijzingen op het scherm van de site om het WebVTT-bestand te ontwerpen en op te slaan. Wanneer u klaar bent, kopieert u de inhoud van het bijschriftbestand en plakt u deze in een teksteditor zonder opmaak en slaat u het bestand op met de bestandsnaamextensie VTT. <br><br><b>Opmerking:</b> Voor algemene ondersteuning van videobijschriften in andere talen dan het Engels, vereist de WebVTT-standaard dat u afzonderlijke .vtt-bestanden maakt en dat u elke taal die u wilt ondersteunen, aanroept. <br><br>Over het algemeen wilt u het VTT-bestand van het bijschrift dezelfde naam geven als het videobestand en dit bestand toevoegen met bijschriften. Op deze manier kunt u het genereren van video-URL&#39;s automatiseren met behulp van uw bestaande systeem voor webcontentbeheer. |
 
 1. Upload in Adobe Dynamic Media Classic uw WebVTT-, DFXP- of SMPTE XML-bijschriftbestand.
 
    Zie [Bestanden uploaden](uploading-files.md#uploading_files).
 
 1. Navigeer in het deelvenster Elementenbibliotheek aan de linkerkant naar de elementenmap die het videobestand bevat dat u wilt koppelen aan het bijschriftbestand dat u hebt geüpload.
-1. Selecteer in het deelvenster Asset Browse één video-element en selecteer vervolgens onder de miniatuurafbeelding van het element de optie **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]**.
+1. Selecteer in het deelvenster Asset Browse één video-element en selecteer vervolgens onder de miniatuurafbeelding van het element **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]**.
 1. Zoek in de tabel Viewer List naar de HTML5-viewer met de naam **Univeral_HTML5_Video**, **Universal_HTML5_GemengdMedia_donker**, of **Universal_HTML5_MixedMedia_light** Voer vervolgens een van de volgende handelingen uit:
 
    * Voor een pop-upviewerervaring voor video selecteert u **[!UICONTROL Copy URL]** helemaal rechts van de naam.
@@ -66,10 +66,10 @@ Zie [Statische (niet-grafische) inhoud serveren](https://experienceleague.adobe.
 
    * Voor een ingesloten videoviewerervaring selecteert u **[!UICONTROL Embed Code]** helemaal rechts van de naam.
 
-     Selecteer in het dialoogvenster Code insluiten de optie **[!UICONTROL Copy to Clipboard]**.
+     Selecteer in het dialoogvenster Code insluiten **[!UICONTROL Copy to Clipboard]**.
 
      Voor de HTML5 `Universal_HTML5_Video`, `Universal_HTML5_MixedMedia_dark`, of `Universal_HTML5_MixedMedia_light` viewers, voegt u de gekopieerde insluitcode als volgt toe:
 
-     `videoViewer.setParam("caption","<full Copy URL path to the caption file .vtt>,1”`
+     `videoViewer.setParam("caption","<full Copy URL path to the caption file .vtt>,1"`
 
      Noteer de `,1` aan het einde van het URL-pad. Onmiddellijk na de VTT-bestandsnaamextensie in het URL-pad kunt u de bijschriftknop op de videospelerbalk desgewenst in- of uitschakelen door in te stellen op `1` of `0`, respectievelijk.

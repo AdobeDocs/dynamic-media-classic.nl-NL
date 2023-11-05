@@ -12,9 +12,9 @@ role: Admin,User
 exl-id: 94c6c388-226b-4172-a6c7-a8dcf9c0f0cf
 topic: Content Management
 level: Intermediate
-source-git-commit: d82f816553f807b514f4690827dab672a6baf690
+source-git-commit: 51c05c62448b39a75facb2e90cc9da5d0f26ab45
 workflow-type: tm+mt
-source-wordcount: '258'
+source-wordcount: '255'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ Beheerders van Media Portal kunnen voorinstellingen voor afbeeldingen maken om t
 
 Bij het exporteren van afbeeldingselementen gelden de volgende beperkingen:
 
-* De breedte x hoogte moet kleiner zijn dan of gelijk zijn aan 100 MB per afbeelding. De afbeelding kan bijvoorbeeld niet groter zijn dan 10 K x 10 K of een van de onderstaande aspecten, zoals 8 K x 12 K.
+* De breedte × hoogte moet kleiner zijn dan of gelijk zijn aan 100 MB per afbeelding. De afbeelding kan bijvoorbeeld niet groter zijn dan 10 K × 10 K of een van de onderstaande aspecten, zoals 8 K × 12 K.
 * Er is een maximum van 1-GB totale dossiergrootte per de uitvoerbaan.
 * Per exporttaak kunt u maximaal 500 elementen in totaal gebruiken.
 

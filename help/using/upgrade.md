@@ -6,7 +6,7 @@ role: Admin,User
 exl-id: 5e322d81-1303-494b-b5dd-df29b5c5d8e2
 topic: Administration, Migration
 level: Intermediate
-source-git-commit: 5d8b7cb8b4616a998346675d7324b568634698fb
+source-git-commit: 51c05c62448b39a75facb2e90cc9da5d0f26ab45
 workflow-type: tm+mt
 source-wordcount: '560'
 ht-degree: 0%
@@ -19,9 +19,9 @@ Adobe gemaakt [!DNL Dynamic Media] met u in gedachten.
 
 De nieuwe [!DNL Dynamic Media] op [!DNL Adobe Experience Manager] bouwt op de functionaliteit voort die u van bent gekomen te verwachten [!DNL Dynamic Media Classic] (voorheen Scene7). Het geeft uw organisatie nieuwe en verbeterde hulpmiddelen om betere, boeiendere, ervaringen te bouwen.
 
-[!DNL Dynamic Media] verbetert de inhoud bouwend ervaring door visuele bouwmachines in real time te gebruiken. Het plaatsen aan Adobe probeerde, vertrouwde, en scalable leveringsnetwerk en samengevoegd met intuïtief [!DNL Adobe Experience Manager] gebruikersinterface, [!DNL Dynamic Media] biedt de mogelijkheden om boeiende ervaringen op het volgende niveau te ontwerpen, te herhalen en te leveren.
+[!DNL Dynamic Media] verbetert de inhoud bouwend ervaring door visuele bouwmachines in real time te gebruiken. Het plaatsen van aan de Adobe probeert, vertrouwde, en scalable leveringsnetwerk en met intuïtief wordt samengevoegd [!DNL Adobe Experience Manager] gebruikersinterface, [!DNL Dynamic Media] biedt de mogelijkheden om boeiende ervaringen op het volgende niveau te ontwerpen, te herhalen en te leveren.
 
-| Wat u krijgt [!DNL Dynamic Media] | Beschrijving |
+| Wat u krijgt met [!DNL Dynamic Media] | Beschrijving |
 | --- | --- |
 | Primaire bestandenbenadering | Upload een volledig-formaatmiddel, dan [!DNL Dynamic Media] maakt automatisch de vereiste formaten. |
 | Eenvoudig ontwerpen | Ontwikkel, pas, en lanceer rijke ervaringen zonder de behoefte aan technische hulp snel aan. |
@@ -46,7 +46,7 @@ De nieuwe [!DNL Dynamic Media] op [!DNL Adobe Experience Manager] bouwt op de fu
 
 | Capaciteit | Beschrijving |
 | --- | --- |
-| Snellere creatie en levering van inhoud | ・ Samenwerking en gedeelde bestandssync met [!DNL Adobe Creative Cloud] toepassingen.<br>・ Voldoet aan alle vereiste criteria van Dynamic Asset Management: Maak, werk samen, beheer en lever alles in één toepassing, één interface, één netwerk.<br>・ Beheer van digitale bedrijfsmiddelen met robuuste ondersteuning voor metagegevens, slim zoeken, lichtbak en verzamelingen, versiebeheer en veilig delen van bedrijfsmiddelen voor gebruik door leveranciers, partners en franchisehouders<br>・ Workflows voor het beoordelen en goedkeuren van tijdens het werk gebruikte middelen. |
+| Snellere creatie en levering van inhoud | ・ Samenwerking en gedeelde bestandssync met [!DNL Adobe Creative Cloud] toepassingen.<br>・ Voldoet aan alle vereiste criteria van Dynamic Asset Management: maak, werk samen, beheer en lever alles in één toepassing, één interface, één netwerk.<br>・ Beheer van digitale bedrijfsmiddelen met robuuste ondersteuning voor metagegevens, slim zoeken, lichtbak en verzamelingen, versiebeheer en veilig delen van bedrijfsmiddelen voor gebruik door leveranciers, partners en franchisehouders<br>・ Workflows voor het beoordelen en goedkeuren van tijdens het werk gebruikte middelen. |
 | Easy Interactive Experience UI Elements | ・ Maak gemakkelijk ervaringen met niet-technische, realtime builders.<br>・ Schoppbare/interactieve media, combineer campagnemiddelen met productinformatie.<br>・ De klantentevredenheid en aandrijvingsomzetting verhogen. |
 | Inclusieve end-to-end workflow | ・ Geoptimaliseerde rijke media leveren aan alle aanraakpunten, inclusief de volledige [!DNL Adobe Experience Cloud] oplossingen.<br>・ Integratie met [!DNL Adobe Experience Cloud] voor geavanceerde asset analytics, het richten, en activa hergebruik over marketing touchpoints. Enkele van deze aanraakpunten zijn [!DNL Adobe Campaign] voor e-mail, [!DNL Adobe Social] voor sociale kanalen, en [!DNL Adobe Experience Manager] Sites voor responsieve web- en mobiele apps. |
 
@@ -56,4 +56,4 @@ De nieuwe [!DNL Dynamic Media] op [!DNL Adobe Experience Manager] bouwt op de fu
 * Sterke prestaties in 2016 Online Video Platform rapport.
 * Medialeverancier met de meeste mogelijkheden tot internethandel 1000, negen jaar achter elkaar.
 * 24/7/265 ondersteuning, 99,95% SLA&#39;s, Adobe Professional Services.
-* Aantoonbare infrastructuur die wereldwijd meer dan 800 klanten bedient, 3,5 petabytes per maand en meer dan 500 miljoen bedrijfsmiddelen in beheer, 60% groei van het verkeer van jaar tot jaar.
+* Aantoonbare infrastructuur die wereldwijd meer dan 800 klanten bedient, 3,5 PB verkeer per maand en meer dan 500 miljoen activa in beheer, 60% groei van het verkeer van jaar tot jaar.

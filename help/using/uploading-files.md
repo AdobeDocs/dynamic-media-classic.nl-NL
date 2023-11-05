@@ -11,9 +11,9 @@ role: User
 exl-id: 8dfcfb3f-6472-4efd-bc87-d5111eee45ce
 topic: Content Management
 level: Intermediate
-source-git-commit: d82f816553f807b514f4690827dab672a6baf690
+source-git-commit: 51c05c62448b39a75facb2e90cc9da5d0f26ab45
 workflow-type: tm+mt
-source-wordcount: '3717'
+source-wordcount: '3716'
 ht-degree: 0%
 
 ---
@@ -28,7 +28,7 @@ Voordat u elementen uploadt naar Adobe Dynamic Media Classic, moet u controleren
 
 ### Ondersteunde bestandsindelingen {#supported-asset-file-formats}
 
-In deze tabel worden de bestandsindelingen weergegeven die door Adobe Dynamic Media Classic worden ondersteund. Voor informatie over ondersteunde Camera Raw bestanden raadpleegt u [https://helpx.adobe.com/camera-raw/using/supported-cameras.html](https://helpx.adobe.com/camera-raw/using/supported-cameras.html).
+In deze tabel worden de bestandsindelingen weergegeven die door Adobe Dynamic Media Classic worden ondersteund. Zie voor informatie over ondersteunde Camera Raw bestanden [https://helpx.adobe.com/camera-raw/using/supported-cameras.html](https://helpx.adobe.com/camera-raw/using/supported-cameras.html).
 
 | Indelingen voor elementbestanden | Beschrijving |
 | --- | --- |
@@ -60,7 +60,7 @@ In de volgende lijst worden de subtypen beschreven van de bestandsindelingen voo
 Zie ook [Niet-ondersteunde bestandsindelingen detecteren voor Dynamic Media](https://helpx.adobe.com/experience-manager/kb/detect-unsupported-assets-for-dynamic-media.html).
 
 * PNG-bestanden met een IDAT-segmentgrootte groter dan 100 MB.
-* PSB-bestanden.
+* PSB-bestanden
 * PSD-bestanden met een andere kleurruimte dan CMYK, RGB, Grijswaarden of Bitmap worden niet ondersteund. DuoTone-, Lab- en Geïndexeerde kleurruimten worden niet ondersteund.
 * PSD-bestanden met een bitdiepte groter dan 16.
 * TIFF-bestanden met zwevende-kommagegevens.
@@ -73,21 +73,21 @@ Voor optimale resultaten met het Adobe Dynamic Media Classic-programma moet u de
 | Type element | Beschrijving/Recommendations |
 | --- | --- |
 | Audio | Invoergeluidsindelingen voor audio-elementen zijn AAC, HE-AAC, AC3, WAV, WMA, AIFF, MP3. U kunt audio naar de volgende indelingen transcoderen: MP3, AAC en HE-AAC. |
-| Afbeeldingen (voor Afbeeldingsgrootte, Zoomen, Afbeeldingssets, Spin-sets) | Afbeeldingen moeten ten minste 2000 pixels groot zijn; De meeste afbeeldingen hebben een maximale grootte van 1500 tot 2500 pixels. Het wordt aanbevolen afbeeldingen zonder verlies in te stellen, zoals TIFF- en PNG-bestanden. Als u een JPEG-afbeelding gebruikt, gebruikt u de instellingen voor de hoogste kwaliteit. Animate GIF-bestanden worden op dezelfde manier verwerkt als andere statische inhoud. |
-| eCatalogs | Gebruik PDF-bestanden met hoge resolutie die zijn gemaakt in Adobe Acrobat of een Adobe Creative Suite-toepassing die is opgeslagen als &#39;geschikt voor drukpers&#39;. PDF bevatten alle benodigde lettertypen, afbeeldingen, maskers en grafische elementen waarnaar wordt verwezen, zoals enkele pagina&#39;s, spreads met twee pagina&#39;s of in een indeling met meerdere pagina&#39;s. Volgorde uw pagina&#39;s door de dossiers in alfanumerieke orde te noemen. Plaats alle PDF voor uw eCatalog in één enkele omslag voor gemak om te uploaden. U kunt opties voor uitsnijden selecteren bij het uploaden om het bijsnijdgebied te verwijderen uit PDF, zoals snijtekens, registratiedoelen of kleurenbalken. De meeste PDF-bestanden die klaar zijn voor gebruik op de drukpers bevinden zich in de CMYK-kleurruimte. Het is daarom belangrijk dat u het CMYK ICC-kleurprofiel opgeeft dat wordt gebruikt bij de PDF-bestanden. |
+| Afbeeldingen (voor Afbeeldingsgrootte, Zoomen, Afbeeldingssets, Spin-sets) | Afbeeldingen moeten ten minste 2000 pixels groot zijn. De meeste afbeeldingen hebben een maximale grootte van 1500 tot 2500 pixels. Het wordt aanbevolen afbeeldingen zonder verlies in te stellen, zoals TIFF- en PNG-bestanden. Als u een JPEG-afbeelding gebruikt, gebruikt u de instellingen voor de hoogste kwaliteit. Animate GIF-bestanden worden op dezelfde manier verwerkt als andere statische inhoud. |
+| eCatalogs | Gebruik PDF-bestanden met hoge resolutie die zijn gemaakt in Adobe Acrobat of een Adobe-Creative Suite-toepassing die is opgeslagen als &#39;geschikt voor drukpers&#39;. PDF bevatten alle benodigde lettertypen, afbeeldingen, maskers en grafische elementen waarnaar wordt verwezen, zoals enkele pagina&#39;s, spreads met twee pagina&#39;s of in een indeling met meerdere pagina&#39;s. Volgorde uw pagina&#39;s door de dossiers in alfanumerieke orde te noemen. Plaats alle PDF voor uw eCatalog in één enkele omslag voor gemak om te uploaden. U kunt opties voor uitsnijden selecteren bij het uploaden om het bijsnijdgebied te verwijderen uit PDF, zoals snijtekens, registratiedoelen of kleurenbalken. De meeste PDF-bestanden die klaar zijn voor gebruik op de drukpers bevinden zich in de CMYK-kleurruimte. Het is daarom belangrijk dat u het CMYK ICC-kleurprofiel opgeeft dat wordt gebruikt bij de PDF-bestanden. |
 | Sjablonen | Een gelaagde afbeelding of lay-outontwerp dat tekst, afbeeldingen en lagen kan bevatten. Afbeeldingslagen, tekstreeksen en kenmerken, zoals kleur en grootte, kunnen worden geparametereerd zodat variabele gegevens kunnen worden aangepast. Afbeeldingsvereisten voor gebruik in sjablonen zijn gelijk aan die voor andere afbeeldingen. Bereid uw afbeeldingen voor in Photoshop of een ander beeldbewerkingsprogramma. Sla elke afbeelding op als een afgevlakt transparant bestand in TIFF- of PNG-indeling. Zorg ervoor dat de afbeeldingsresolutie geschikt is voor het verwachte gebruik. Afbeeldingen die u wilt afdrukken, zijn 300 ppi. |
 | Video&#39;s | Adobe Dynamic Media Classic ondersteunt videobestanden die zijn opgeslagen in de indeling OGV en MP4. U kunt bestanden tijdens het uploaden naar MP4-indeling transcoderen. Zie [Ondersteunde bestandsindelingen](#supported-static-file-formats). |
-| Lettertypen | Geüpload TrueType, Type1 (alleen Windows®), OpenType®-lettertypen en PhotoFonts. |
+| Lettertypen | Uploaded TrueType, `Type1` (Alleen Windows®), OpenType®-lettertypen en PhotoFonts. |
 | Afbeeldingen | Afbeeldingen en gelaagde afbeeldingsbestanden. |
 | Afbeeldingssets en stalensets | Een reeks verwante afbeeldingen die in een viewer kunnen worden weergegeven. |
 | ICC-profielen | Een kleurprofiel dat u kunt gebruiken om een geüploade afbeelding vanuit de bronkleurruimte om te zetten in een andere kleurruimte. |
 | Vignetten | Afbeeldingen die zijn gemaakt met het programma Image Authoring en verwante bestanden. |
-| Inhoudsbestanden | Adobe InDesign-, Illustrator- of Photoshop-inhoudsbestanden. |
+| Inhoudbestanden | Adobe InDesign, Illustrator of Photoshop-inhoudsbestanden. |
 | FXG-bestanden | Afbeeldingsindelingsbestanden met een resolutie-onafhankelijke indeling die u kunt gebruiken om aanpasbare sjablonen te maken voor uitvoer naar afdrukken, web, e-mail, bureaublad en apparaten. |
 | SVG-bestanden | Schaalbare vectorafbeeldingsbestanden die servers van Image Serving kunnen renderen. |
 | XML-bestanden | Bestanden die voorbewerkingsregels definiëren die worden gebruikt om het pad te wijzigen en delen van verzoeken te zoeken. |
 | Cascading Style Sheet-bestanden. | CSS-skins uploaden om HTML5-viewers aan te passen. |
-| JavaScript-bestanden | JavaScript-bestanden worden gebruikt voor viewerinstrumentatie voor het bevatten van accountgegevens. Adobe Security raadt dit type element alleen aan voor clientaccounts die een afzonderlijk domein in gebruik hebben voor levering (om scripts die verwijzen naar andere sites te voorkomen). |
+| JavaScript-bestanden | JavaScript-bestanden worden gebruikt voor viewerinstrumentatie voor het bevatten van accountgegevens. De Veiligheid van de Adobe adviseert dit activatype slechts voor cliëntrekeningen die een afzonderlijk domein in gebruik voor levering hebben (om dwars-plaats scripting te vermijden). |
 
 >[!NOTE]
 >
@@ -163,9 +163,9 @@ Tijdens (of direct na) een grote uploadtaak kunnen sommige nieuwe items het beri
 
 Met de Adobe Dynamic Media Classic Desktop-toepassing kunt u bestanden en mappen uploaden door te slepen.
 
-1. Selecteer in de Adobe Dynamic Media Classic Desktop-toepassing op de algemene navigatiebalk de optie **[!UICONTROL Upload]**.
+1. Selecteer in Adobe Dynamic Media Classic Desktop op de algemene navigatiebalk de optie **[!UICONTROL Upload]**.
 1. Selecteer op de pagina Uploaden de optie **[!UICONTROL From Desktop]** tab.
-1. Aan de linkerkant van de pagina Uploaden, in het dialoogvenster **[!UICONTROL Select Files for Upload]** gebied selecteren **[!UICONTROL Browse]** om de bestanden of mappen te selecteren die u wilt uploaden, selecteert u **[!UICONTROL Open]**.
+1. Aan de linkerkant van de pagina Uploaden, in het dialoogvenster **[!UICONTROL Select Files for Upload]** gebied, selecteren **[!UICONTROL Browse]** om de bestanden of mappen te selecteren die u wilt uploaden, selecteert u vervolgens **[!UICONTROL Open]**.
 1. Aan de rechterkant van de pagina Uploaden, in het dialoogvenster **Mapdoel kiezen** navigeer naar een doelmap waar u de geüploade bestanden of mappen wilt toevoegen.
 1. (Optioneel) Voer onder aan de pagina Uploaden in het tekstveld Taaknaam de nieuwe naam van de uploadtaak in. U kunt ook gewoon de standaardnaam gebruiken die door het systeem wordt gegenereerd en die door Adobe Dynamic Media Classic wordt opgegeven. De baan en andere upload en het publiceren banen worden geregistreerd op de pagina van Banen, waar u de status van banen kunt controleren. Zie [Taakbestanden controleren](checking-job-files.md#checking_job_files).
 1. (Optioneel) Selecteer onder aan de pagina Uploaden de optie **[!UICONTROL Publish After Uploading]** als u de elementen die u uploadt automatisch wilt publiceren.
@@ -178,7 +178,7 @@ De naam van deze optie kan verschillen, afhankelijk van de instellingen in **[!U
 
 1. Selecteer in het dialoogvenster Opties voor uploaden de optie **[!UICONTROL Save]**.
 1. Selecteer in de rechterbenedenhoek van de pagina Uploaden de optie **[!UICONTROL Submit Upload]**.
-Selecteer **[!UICONTROL Jobs]** op de algemene navigatiebalk. U kunt in Adobe Dynamic Media Classic blijven werken en op elk gewenst moment terugkeren naar de pagina Taken om een actieve taak te controleren. Als u een uploadtaak die wordt uitgevoerd wilt annuleren, selecteert u **[!UICONTROL Cancel]** naast de tijd van de Duur.
+Selecteer **[!UICONTROL Jobs]** op de algemene navigatiebalk. U kunt in Adobe Dynamic Media Classic blijven werken en op elk gewenst moment terugkeren naar de pagina Taken om een actieve taak te controleren. Als u een actieve uploadtaak wilt annuleren, selecteert u **[!UICONTROL Cancel]** naast de tijd van de Duur.
 
 ### Bestanden uploaden via het tabblad VIA FTP {#upload-files-using-via-ftp}
 
@@ -203,7 +203,7 @@ De naam van deze optie kan verschillen, afhankelijk van de instellingen in **[!U
 
    Als u de voortgang van het uploaden wilt zien, selecteert u op de algemene navigatiebalk de optie **[!UICONTROL Jobs]**. De pagina van Banen toont u de vooruitgang van het uploaden. U kunt in Adobe Dynamic Media Classic blijven werken en op elk gewenst moment terugkeren naar de pagina Taken om een actieve taak te controleren.
 
-Als u een uploadtaak die wordt uitgevoerd wilt annuleren, selecteert u **[!UICONTROL Cancel]** naast de tijd van de Duur.
+Als u een actieve uploadtaak wilt annuleren, selecteert u **[!UICONTROL Cancel]** naast de tijd van de Duur.
 
 ## Opties voor uploaden, dialoogvenster {#upload-options}
 
@@ -218,7 +218,7 @@ Bij het uploaden van bestanden kunt u uit de volgende opties kiezen in het dialo
          * **[!UICONTROL Now]** - Hiermee wordt de uploadtaak direct uitgevoerd nadat u **[!UICONTROL Save]** in het dialoogvenster Opties voor uploaden selecteert u vervolgens **[!UICONTROL Submit Upload]** op de uploadpagina.
          * **[!UICONTROL Schedule For Later]** - Selecteer het jaar, de maand, de dag en de tijd (in stappen van 15 minuten) waarop u de uploadtaak wilt uitvoeren.
       * **[!UICONTROL Recurring]** - Geef een uploadtaak op die dagelijks, wekelijks of maandelijks wordt uitgevoerd. Of pas de uploadtaak aan uw eigen specificaties aan.
-         * **[!UICONTROL Daily]** - Stel de tijd in waarop de taak elke dag moet worden uitgevoerd. Selecteer **[!UICONTROL Weekdays Only]**.
+         * **[!UICONTROL Daily]** - Stel de tijd in waarop de taak elke dag moet worden uitgevoerd. Als u de taak slechts van maandag tot en met vrijdag wilt uitvoeren, selecteert u **[!UICONTROL Weekdays Only]**.
          * **[!UICONTROL Weekly]** - Kies een specifieke dag van de week en het tijdstip waarop de taak moet worden uitgevoerd.
          * **[!UICONTROL Monthly]** - Kies een specifieke dag van de maand of de dag van de week, inclusief de begintijd, waarop de taak moet worden uitgevoerd.
          * **[!UICONTROL Custom]** - Pas een upload- of publicatietaakinterval aan uw eigen specificaties aan. Zie [Een aangepast tijdinterval voor uploaden of publiceren maken](checking-job-files.md#creating-a-custom-upload-or-publish-job-time-interval).
@@ -233,21 +233,21 @@ Selecteer deze optie als u automatisch alle bestanden uit het geüploade ZIP- of
    * **[!UICONTROL Include subfolders]** - Alleen beschikbaar als u de optie **[!UICONTROL VIA FTP]** tab.
 Selecteer deze optie als u submappen wilt uploaden van de map die u wilt uploaden. De namen van de map en de submappen die u uploadt, worden automatisch ingevoerd in Adobe Dynamic Media Classic.
 
-   * **[!UICONTROL Process metadata files]** - Alleen beschikbaar als u een van de opties **[!UICONTROL VIA FTP]** tab. Selecteer deze optie als u een door tabs gescheiden of XML-bestand wilt uploaden om metagegevens aan meerdere elementen toe te voegen.
+   * **[!UICONTROL Process metadata files]** - Alleen beschikbaar als u de optie **[!UICONTROL VIA FTP]** tab. Selecteer deze optie als u een door tabs gescheiden of XML-bestand wilt uploaden om metagegevens aan meerdere elementen toe te voegen.
 Zie [Metagegevens importeren (via FTP)](viewing-adding-exporting-metadata.md#import-metadata).
 
 * **Opties voor uitsnijden** - Als u pixels met witruimte automatisch wilt uitsnijden in een afbeelding, opent u het dialoogvenster **[!UICONTROL Crop]** menu, selecteert u **[!UICONTROL Manual]** en voert u pixelmetingen in in de tekstvelden Boven, Rechts, Onder en Links om vanaf de zijkanten uit te snijden. U kunt ook **[!UICONTROL Trim]** in het menu Uitsnijden en kies de volgende opties:
 
    * **[!UICONTROL Trim Away Based On]** - Kies of u wilt uitsnijden op basis van kleur of transparantie:
       * **[!UICONTROL Color]** - Kies de optie Kleur. Selecteer vervolgens het menu Hoek en kies de hoek van de afbeelding met de kleur die het beste overeenkomt met de kleur voor de witruimte die u wilt uitsnijden.
-Bijsnijden op basis van kleur: Geef 0 op om alleen pixels uit te snijden als deze exact overeenkomen met de kleur die u in de hoek van de afbeelding hebt geselecteerd. De aantallen dichter aan 1 staan voor meer kleurenverschil toe.
-      * **[!UICONTROL Transparency]** - Kies de **[!UICONTROL Transparency]** optie.
-Bijsnijden op basis van transparantie: Geef 0 op om alleen pixels bij te snijden als deze transparant zijn; De cijfers dichter aan 1 staan voor meer transparantie.
+Bijsnijden op basis van kleur: geef 0 op om alleen pixels bij te snijden als deze exact overeenkomen met de kleur die u in de hoek van de afbeelding hebt geselecteerd. De aantallen dichter aan 1 staan voor meer kleurenverschil toe.
+      * **[!UICONTROL Transparency]** - Kies de **[!UICONTROL Transparency]** -optie.
+Bijsnijden op basis van transparantie: geef 0 op om pixels alleen bij te snijden als ze transparant zijn; getallen dichter bij 1 zorgen voor meer transparantie.
       * **[!UICONTROL Tolerance]** - Sleep de schuifregelaar om een tolerantie tussen 0 en 1 op te geven.
 
 * **Opties voor kleurprofielen** - Kies een kleurconversie wanneer u geoptimaliseerde bestanden maakt die worden gebruikt voor dynamische levering via Adobe Dynamic Media Classic:
 
-   * **[!UICONTROL Default Color Preservation]** - De kleuren van de bronafbeelding blijven behouden wanneer de afbeeldingen kleurruimte-informatie bevatten. er is geen kleurconversie. In bijna alle afbeeldingen van vandaag is het juiste kleurprofiel al ingesloten. Als een CMYK-bronafbeelding echter geen ingesloten kleurprofiel bevat, worden de kleuren omgezet in de kleurruimte sRGB (standaard rood-groen-blauw). sRGB is de aanbevolen kleurruimte voor het weergeven van afbeeldingen op webpagina&#39;s.
+   * **[!UICONTROL Default Color Preservation]** - De kleuren van de bronafbeelding blijven behouden wanneer de afbeeldingen kleurruimte-informatie bevatten; er is geen kleuromzetting. In bijna alle afbeeldingen van vandaag is het juiste kleurprofiel al ingesloten. Als een CMYK-bronafbeelding echter geen ingesloten kleurprofiel bevat, worden de kleuren omgezet in de kleurruimte sRGB (standaard rood-groen-blauw). sRGB is de aanbevolen kleurruimte voor het weergeven van afbeeldingen op webpagina&#39;s.
    * **[!UICONTROL Keep Original Color Space]** - Behoudt de oorspronkelijke kleuren zonder kleurconversie op het punt van inname in Adobe Dynamic Media Classic. Voor afbeeldingen zonder ingesloten kleurprofiel wordt de vereiste kleurconversie voor het verwerken van aanvragen voor de afbeelding uitgevoerd met de standaardkleurprofielen die zijn geconfigureerd in de Publicatie-instellingen. Deze kleurprofielen worden niet altijd uitgelijnd op de kleur in de bestanden die met deze optie worden gemaakt. Daarom wordt u aangeraden de optie Standaardkleurbehoud te gebruiken.
    * **[!UICONTROL Custom From]** > **[!UICONTROL To]** - Hiermee opent u menu&#39;s, zodat u een **[!UICONTROL Convert From]** en **[!UICONTROL Convert To]** kleurruimte. Deze geavanceerde optie negeert alle kleurinformatie die in het bronbestand is ingesloten. Selecteer deze optie alleen als alle afbeeldingen die u verzendt onjuiste of ontbrekende kleurprofielgegevens bevatten.
 
@@ -285,7 +285,7 @@ De nieuwe baan verzendt een bericht naar het adres dat u specificeert zodat de c
 
 **Een upload volgen met een andere taak:**
 
-1. Selecteren **[!UICONTROL Upload]** Selecteer vervolgens de **[!UICONTROL VIA FTP]** tab.
+1. Selecteren **[!UICONTROL Upload]** en selecteert u vervolgens de **[!UICONTROL VIA FTP]** tab.
 1. Selecteer in de rechterbenedenhoek van de pagina Uploaden de optie **[!UICONTROL Job Options]**.
 1. Vouw in het dialoogvenster Taakopties uploaden de optie **[!UICONTROL ADVANCED]** sectie.
 1. Kies een van de volgende opties in het menu **[!UICONTROL Follow Upload with another job]** vervolgkeuzelijst:

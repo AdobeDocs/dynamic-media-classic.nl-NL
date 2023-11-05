@@ -12,9 +12,9 @@ role: User
 exl-id: 23ac1a0f-c90b-4250-ae36-93702fb5ebd9
 topic: Content Management
 level: Experienced
-source-git-commit: d82f816553f807b514f4690827dab672a6baf690
+source-git-commit: 51c05c62448b39a75facb2e90cc9da5d0f26ab45
 workflow-type: tm+mt
-source-wordcount: '3310'
+source-wordcount: '3309'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ Zie ook [Grondbeginselen van sjablonen](https://s7d5.scene7.com/s7viewers/html5/
 
 >[!NOTE]
 >
->Als u een sjabloon bewerkt die in een eerdere versie van Adobe Dynamic Media Classic is gemaakt, wordt u gevraagd of u de sjabloon wilt opslaan. Wilt u een canvaslaag toevoegen?. Selecteren **[!UICONTROL No]** om te voorkomen dat u een basislaag toevoegt. Als u per ongeluk **[!UICONTROL Yes]**, verwijdert u de `&allowCanvasPrompt` en `&layer=0` modifiers in URL en druk **[!UICONTROL Enter]** of **[!UICONTROL Return]**.
+>Als u een sjabloon bewerkt die in een eerdere versie van Adobe Dynamic Media Classic is gemaakt, wordt u gevraagd of u de sjabloon wilt opslaan. Wilt u een canvaslaag toevoegen?. Selecteren **[!UICONTROL No]** om te voorkomen dat u een basislaag toevoegt. Als u per ongeluk **[!UICONTROL Yes]**, de `&allowCanvasPrompt` en `&layer=0` modifiers in URL en druk **[!UICONTROL Enter]** of **[!UICONTROL Return]**.
 
 ## De eerste sjabloon maken {#creating-the-initial-template}
 
@@ -80,7 +80,7 @@ Zie ook [Elementen handmatig publiceren](publishing-files.md#manually_publishing
 
 ## Een sjabloon verwijderen {#deleting-a-template}
 
-Wanneer u een Sjabloonset verwijdert, wordt de set zelf naar de prullenbak verplaatst. De leden (of &quot;kinderen&quot;) in die reeks worden echter niet beïnvloed; in plaats daarvan behouden zij elk hun bestaande gepubliceerde of niet - gepubliceerde staat .
+Wanneer u een Sjabloonset verwijdert, wordt de set zelf naar de prullenbak verplaatst. De leden (of &quot;kinderen&quot;) binnen die set worden echter niet beïnvloed, maar ze behouden hun bestaande gepubliceerde of niet-gepubliceerde status.
 
 Zie ook [Elementen handmatig publiceren](publishing-files.md#manually_publishing_assets) en [Publicaties van elementen handmatig ongedaan maken](publishing-files.md#manually_unpublishing_assets).
 
@@ -111,9 +111,9 @@ Gebruik deze gereedschappen op het scherm Sjabloon, zodat u sjablonen kunt maken
 
 * **[!UICONTROL Designer and Developer]** - Selecteer de optie die uw rol het best beschrijft.
 
-* **[!UICONTROL Canvas]** - Hiermee definieert u het totale beschikbare gebied, in pixels, voor het definiëren van de sjabloon. De standaardgrootte is 300 x 300 pixels. Lagen worden op het canvas geplaatst.
+* **[!UICONTROL Canvas]** - Hiermee definieert u het totale beschikbare gebied, in pixels, voor het definiëren van de sjabloon. De standaardgrootte is 300 × 300 pixels. Lagen worden op het canvas geplaatst.
 
-* **[!UICONTROL Layers list]** - Hier wordt de naam van lagen in de sjabloon weergegeven. Als u een laag wilt selecteren, selecteert u de naam van de laag in de lijst Lagen. De lijst Lagen bevat gereedschappen voor het toevoegen van effecten aan lagen, het verwijderen van lagen, het opnieuw ordenen van lagen en het bepalen van parameters voor lagen. Zie [Werken met lagen](#working-with-layers).
+* **[!UICONTROL Layers list]** - Hier wordt de naam van lagen in de sjabloon weergegeven. Als u een laag wilt selecteren, selecteert u de naam ervan in de lijst Lagen. De lijst Lagen bevat gereedschappen voor het toevoegen van effecten aan lagen, het verwijderen van lagen, het opnieuw ordenen van lagen en het bepalen van parameters voor lagen. Zie [Werken met lagen](#working-with-layers).
 
 * **[!UICONTROL Layer Properties area]** - Hier vindt u gereedschappen voor het wijzigen van de achtergrondkleur, dekking, grootte en positie van een laag, en van de achtergrondkleur, dekking en grootte van het canvas. U kunt ook schaduw- en gloedeffecten aanpassen. Zie [Werken met lagen](#working-with-layers).
 
@@ -129,7 +129,7 @@ Gebruik deze gereedschappen op het scherm Sjabloon, zodat u sjablonen kunt maken
 
 ## Een tekstlaag maken {#creating-a-text-layer}
 
-1. Selecteer **[!UICONTROL Text]** gebruiken.
+1. Selecteer de **[!UICONTROL Text]** gebruiken.
 1. Sleep om een tekstvak te maken op het canvas of op een afbeelding.
 1. Voeg in het tekstscherm dat wordt geopend, tekst toe door een van de volgende handelingen uit te voeren op het tabblad Voorbeeld:
 
@@ -144,7 +144,7 @@ Ga als volgt te werk om tekst in een tekstlaag op te maken:
 
 1. Dubbelklik in de lijst Lagen op de naam van het tekstvak met tekst die u wilt bewerken. De Teksteditor wordt geopend.
 1. Selecteer in het tekstvak van de Teksteditor de tekst die u wilt opmaken. U kunt alle tekst, delen van de tekst of afzonderlijke tekens selecteren.
-1. Geef een of meer van de volgende opmaakopties op en selecteer **[!UICONTROL Apply]**.
+1. Geef de volgende opmaakopties op en selecteer **[!UICONTROL Apply]**.
 
    * **[!UICONTROL Font]** - Kies een lettertype in het menu Lettertype. Als het gewenste lettertype niet in het menu staat, kunt u het naar de Adobe Dynamic Media Classic uploaden. Zie Lettertypen.
 
@@ -174,17 +174,17 @@ Ga als volgt te werk om tekst in een tekstlaag op te maken:
 
 1. Dubbelklik in de lijst Lagen op de naam van het tekstvak met tekst die u wilt bewerken. De Teksteditor wordt geopend.
 1. Selecteer de alinea die u wilt opmaken.
-1. Geef een of meer van de volgende opmaakopties op en selecteer **[!UICONTROL Apply]**.
+1. Geef de volgende opmaakopties op en selecteer **[!UICONTROL Apply]**.
 
-   * **[!UICONTROL Alignment]** - Selecteer deze optie om het type uitlijning op te geven: Hiermee lijnt u links uit, lijnt u het middelpunt uit, lijnt u rechts uit of rechtvaardigt u het uitvullen.
+   * **[!UICONTROL Alignment]** - Selecteer deze optie om het type uitlijning op te geven: links uitlijnen, centreren, rechts uitlijnen of uitvullen.
 
-   * **[!UICONTROL End of Paragraph Justification]** - Selecteer deze optie om het type uitvulling voor de laatste regel in de alinea op te geven: laatste regel links uitgelijnd; laatste regel wordt gecentreerd; en laatste regel rechts uitgelijnd.
+   * **[!UICONTROL End of Paragraph Justification]** - Selecteer deze optie om het type uitvulling voor de laatste regel in de alinea op te geven: de laatste regel wordt links uitgelijnd, de laatste regel wordt gecentreerd en de laatste regel wordt rechts uitgelijnd.
 
    * **[!UICONTROL Line Spacing]** - Typ of selecteer een numerieke waarde waarmee u de hoeveelheid ruimte tussen alle regels in de alinea wilt aanpassen.
 
    * **[!UICONTROL Indent All]** - Selecteer deze optie om de mate waarin de tekst wordt ingesprongen te verhogen.
 
-   * **[!UICONTROL Remove Indent]** - Selecteer deze optie om de inspringing van de tekst te verminderen.
+   * **[!UICONTROL Remove Indent]** - Selecteer deze optie om de mate waarin de tekst wordt ingesprongen te verminderen.
 
    * **[!UICONTROL Indent First Line]** - Geef de hoeveelheid op waarmee u de eerste tekstregel wilt laten inspringen.
 
@@ -192,9 +192,9 @@ Ga als volgt te werk om tekst in een tekstlaag op te maken:
 
    * **[!UICONTROL Space After Paragraph]** - Geef de hoeveelheid ruimte op die u onder de laatste tekstregel in de alinea wilt weergeven.
 
-   * **[!UICONTROL Vertical Align]** - Selecteer waar u de tekst verticaal in het tekstvak wilt weergeven: Boven, Midden, Onder.
+   * **[!UICONTROL Vertical Align]** - Selecteer de plaats waar de tekst verticaal in het tekstvak moet worden weergegeven: Boven, Midden, Onder.
 
-   * **[!UICONTROL Text Direction]** - Selecteer de richting waarin u de tekst wilt weergeven: Van rechts naar links of van links naar rechts.
+   * **[!UICONTROL Text Direction]** - Selecteer de richting waarin de tekst moet worden weergegeven: van rechts naar links of van links naar rechts.
 
 ### Eigenschappen van tekstlagen aanpassen {#adjust-text-layer-properties}
 
@@ -268,7 +268,7 @@ U kunt een laag niet alleen vergroten of verkleinen, maar ook verkleinen. Voer h
 
 * **Handmatig roteren** - Plaats de cursor in de buurt van de laag, maar niet boven een hoek van de laag. Wanneer u de rotatiecursor ziet, sleept u de hoek van de laag. Houd Shift tijdens het slepen ingedrukt om in stappen van 15 graden te roteren.
 
-* **Een gradenmaat invoeren** - Voer het aantal graden in om de laag te roteren. de rotatie rechtsom is; Voer een negatief getal in om linksom te roteren.
+* **Een gradenmaat invoeren** - Voer het aantal graden in om de laag te roteren. De rotatie is rechtsom. Als u de selectie linksom wilt roteren, voert u een negatief getal in.
 
 **Een laag of een laageffect verbergen:**
 
@@ -282,11 +282,11 @@ U kunt een laag- of laageffect verbergen door het oogpictogram naast de naam van
 
 Als u een achtergrondkleur, dekking en overvloeimodus voor een laag of het canvas wilt kiezen, selecteert u de laag of het canvas en gebruikt u de volgende technieken:
 
-* **Voorgrondkleur** - Selecteer **[!UICONTROL Foreground Color]** en kiest u een kleurstaal om de kleur van de schaduw of gloed te wijzigen. U kunt ook een parameter color-value in het vak invoeren. De achtergrondkleur wordt alleen toegepast op lagen die transparantie gebruiken. Het is bijvoorbeeld van toepassing op een gedeeltelijk transparante laag in een prijstag of de achtergrond van een tekstveld. Lagen die bestaan uit een PSD-, TIFF- of PNG-afbeelding waarop transparantie is ingeschakeld, kunnen een transparante achtergrond hebben.
+* **Voorgrondkleur** - Selecteer **[!UICONTROL Foreground Color]** en kiest u een kleurstaal om de kleur van de schaduw of gloed te wijzigen. U kunt ook een parameter color-value in het vak invoeren. De achtergrondkleur is alleen van toepassing op lagen die transparantie gebruiken. Het is bijvoorbeeld van toepassing op een gedeeltelijk transparante laag in een prijstag of de achtergrond van een tekstveld. Lagen die bestaan uit een PSD-, TIFF- of PNG-afbeelding waarop transparantie is ingeschakeld, kunnen een transparante achtergrond hebben.
 
 * **Achtergrondkleur** - Selecteer **[!UICONTROL Background Color]** en kiest u een kleurstaal om de kleur van de opgevulde gebieden te wijzigen.
 
-* **Dekking** - Sleep de schuifregelaar Dekking om een laag doorzichtig te maken, zodat een deel van de onderliggende afbeelding zichtbaar wordt. De instelling van 100 procent is dekkend. 0 is transparant.
+* **Dekking** - Sleep de schuifregelaar Dekking om een laag doorzichtig te maken, zodat een deel van de onderliggende afbeelding zichtbaar wordt. De instelling van 100 procent is dekkend en 0 is transparant.
 
 * **Overvloeimodus** - Kies een optie om een van de overvloeimodi te simuleren die beschikbaar zijn in Photoshop. De opties zijn Normaal, Verspreiden, Lichter, Donkerder, Vermenigvuldigen en Scherm. Deze opties zijn beschikbaar voor lagen, niet voor het canvas.
 

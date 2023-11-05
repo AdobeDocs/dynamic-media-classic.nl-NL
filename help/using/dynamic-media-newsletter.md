@@ -1,15 +1,15 @@
 ---
 title: Dynamic Media-nieuwsarchief
-description: "De gearchiveerde Dynamic Media-nieuwsbrief per Experience League was een maandelijkse nieuwsbrief. Het is ontworpen om u te helpen snel aan de slag te gaan met Dynamic Media en Adobe Dynamic Media Classic zodat u meteen waarde kunt behalen. De gearchiveerde nieuwsbrieven bevatten waardevolle kennis-bouwende middelen die in deze één-loketnieuwsbrief beschikbaar waren die nu wordt beëindigd. Gearchiveerde nieuwsbrieven bevatten instructievideo's en overzichten van oplossingen. Er zijn ook introducties voor belangrijke functies en mogelijkheden, zoals voorinstellingen voor afbeeldingen, voorinstellingen voor viewers en videoprofielen."
+description: De gearchiveerde Dynamic Media-nieuwsbrief per Experience League was een maandelijkse nieuwsbrief die u in AEM en Dynamic Media Classic helpt om snel aan de slag te gaan.
 keywords: dynamische media;nieuwsbrief;productupdates;tips en trucs;gebeurtenissen;succes van de klant;blog;blogs;beelden;video;eigenschappen;mogelijkheden
 feature: Dynamic Media Classic
 role: Admin,User
 exl-id: 5f2a0cfc-d627-42be-9e68-111b65680ad8
 topic: Content Management
 level: Intermediate
-source-git-commit: 1b90beb99b161b76da81403f5aed9755b3a92c8b
+source-git-commit: 51c05c62448b39a75facb2e90cc9da5d0f26ab45
 workflow-type: tm+mt
-source-wordcount: '1089'
+source-wordcount: '1038'
 ht-degree: 0%
 
 ---
@@ -130,7 +130,7 @@ In deze gearchiveerde nieuwsbrief van één-loketwinkel kunt u waardevolle kenni
    * Meer informatie over een webinar die binnenkort beschikbaar is voor de bescherming van uw digitale middelen.
    * De volgende keer stoppen met de Adobe Insider Tour die is ingevuld.
    * Buitengewone mogelijkheden die beschikbaar zijn wanneer u Dynamic Media hebt in Experience Manager Assets (Experience Manager Assets).
-   * 360°-video&#39;s en aangepaste videominiaturen aan uw website toevoegen.
+   * Video&#39;s van 360 graden en aangepaste videominiaturen toevoegen aan uw website.
    * Meet `Andrew Hathaway`, Principal Solutions Consultant voor Dynamic Media in Experience Manager Assets.
 
 * **[Juni 2019, uitgave 06](https://experienceleague.adobe.com/tools/dynamic-media-demo/newsletter/Dynamic_Media_Newsletter_06_2019_June.html)**

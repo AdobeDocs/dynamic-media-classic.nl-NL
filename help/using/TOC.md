@@ -4,11 +4,11 @@ product: adobe dynamic media classic
 audience: end-user
 user-guide-title: Adobe Dynamic Media Classic Guide
 breadcrumb-title: Dynamic Media Classic Guide
-user-guide-description: Meer informatie over het gebruik van Adobe Dynamic Media Classic
+user-guide-description: Meer informatie over Adobe Dynamic Media Classic gebruiken
 index: y
-source-git-commit: 65e3b69bdcbd651a5f9ab100592217e61a8c05ef
+source-git-commit: 51c05c62448b39a75facb2e90cc9da5d0f26ab45
 workflow-type: tm+mt
-source-wordcount: '801'
+source-wordcount: '800'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 0%
    + [Controlelijst voor gereedheid voor upgrade](upgrade-readiness.md)
 + [Adobe Dynamic Media Classic Guide](home.md)
 + [Zelfstudie over best practices voor Adobe Dynamic Media Classic](https://experienceleague.adobe.com/docs/experience-manager-learn/dynamic-media-classic-tutorial/overview.html)
-+ [NIEUWE Adobe Dynamic Media Classic-aanmeldervaring nu beschikbaar](new-ui-2020.md)
++ [NIEUWE Adobe Dynamic Media Classic-aanmelding nu beschikbaar](new-ui-2020.md)
 + [Adobe Dynamic Media-nieuwsarchief per Experience League](dynamic-media-newsletter.md)
 + Introductie van Adobe Dynamic Media Classic {#intro}
    + [Adobe Dynamic Media Classic Desktop-app - Nu beschikbaar](dynamic-media-classic-desktop-app.md)
@@ -84,7 +84,7 @@ ht-degree: 0%
    + [Uw werk organiseren met projecten](organizing-projects.md)
 + Afbeeldingsgrootte {#image-sizing}
    + [Snel starten: Afbeeldingsgrootte](quick-start-image-sizing.md)
-   + [Primaire afbeeldingen uploaden](uploading-master-images.md)
+   + [primaire afbeeldingen uploaden](uploading-master-images.md)
    + [Primaire afbeeldingen publiceren](publishing-master-images.md)
    + [Voorinstellingen afbeelding instellen](setting-image-presets.md)
    + [URL&#39;s koppelen aan uw webtoepassing](linking-urls-web-application.md)
@@ -114,7 +114,7 @@ ht-degree: 0%
    + [Inhoud in deelvenster Info beheren in afbeeldingssets](info-panel-content-image-sets.md)
    + [Afbeeldingssets weergeven](viewing-image-sets.md)
    + [Genereren van afbeeldingsset automatiseren](automated-image-set-generation.md)
-   + [Een afbeeldingsset koppelen aan een webpagina](linking-image-set-web-page.md)
+   + [Een Afbeeldingsset koppelen aan een webpagina](linking-image-set-web-page.md)
 + Staalsets {#swatch-sets}
    + [Snel starten: Staalsets](quick-start-swatch-sets.md)
    + [Zoomdoelen en afbeeldingen met hyperlinks opnemen in stalensets](including-zoom-targets-image-maps-swatch-sets.md)
@@ -123,14 +123,14 @@ ht-degree: 0%
    + [Staalsets weergeven](viewing-swatch-sets.md)
    + [Een stalenset koppelen aan een webpagina](linking-swatch-set-web-page.md)
 + Sets draaien {#spin-sets}
-   + [Snel starten: Sets draaien](quick-start-spin-sets.md)
+   + [Snel starten: centrifuges](quick-start-spin-sets.md)
    + [Een centrifugeset maken](creating-spin-set.md)
    + [Een voorvertoning van een centrifugeset weergeven](previewing-spin-set.md)
    + [Een centrifugeerset publiceren](publishing-spin-set.md)
    + [Voorinstellingen voor draaiende viewer instellen](setting-spin-set-viewer-presets.md)
    + [Een centrifugeerset koppelen aan een webpagina](linking-spin-set-web-page.md)
 + Grondbeginselen van sjablonen {#template-basics}
-   + [Snel starten: Grondbeginselen van sjablonen](quick-start-template-basics.md)
+   + [Snel starten: Sjabloonbasisbeginselen](quick-start-template-basics.md)
    + [Sjabloonbestanden uploaden](uploading-template-files.md)
    + [Een sjabloon maken](creating-template.md)
    + [Sjabloonparameters maken](creating-template-parameters.md)
@@ -139,7 +139,7 @@ ht-degree: 0%
    + [Inhoudsvariaties beheren](content-variations.md)
 + Video {#video}
    + [Snel starten: Video](quick-start-video.md)
-   + [Beste praktijken: De HTML5-videoviewer gebruiken](best-practice-using-html5-video.md)
+   + [Tips en trucs: De HTML5-videoviewer gebruiken](best-practice-using-html5-video.md)
    + [Video&#39;s uploaden en coderen](uploading-encoding-videos.md)
    + [Video&#39;s voorvertonen in een videoviewer](previewing-videos-video-viewer.md)
    + [Bijschriften toevoegen aan video](adding-captions-video.md)
@@ -147,7 +147,7 @@ ht-degree: 0%
    + [Video distribueren naar uw websites en mobiele sites](deploying-video-websites-mobile-sites.md)
    + [Bron- en gecodeerde video&#39;s exporteren](exporting-source-encoded-videos.md)
 + Gemengde mediasets {#mixed-media-sets}
-   + [Snel starten: Gemengde mediasets](quick-start-mixed-media-sets.md)
+   + [Snel starten: gemengde mediasets](quick-start-mixed-media-sets.md)
    + [Een voorinstelling voor een gemengde mediaset voor de viewer instellen](setting-mixed-media-set-viewer.md)
    + [Een gemengde mediaset maken](creating-mixed-media-set.md)
    + [Een gemengde mediaset publiceren](publishing-mixed-media-set.md)

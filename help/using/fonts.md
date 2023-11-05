@@ -12,9 +12,9 @@ role: User
 exl-id: 186f4c7f-16f6-42f5-bc0e-55362c55e794
 topic: Content Management
 level: Intermediate
-source-git-commit: d82f816553f807b514f4690827dab672a6baf690
+source-git-commit: 51c05c62448b39a75facb2e90cc9da5d0f26ab45
 workflow-type: tm+mt
-source-wordcount: '408'
+source-wordcount: '405'
 ht-degree: 0%
 
 ---
@@ -35,7 +35,7 @@ Nadat een lettertypebestand is geüpload, kunt u de Adobe Dynamic Media Classic-
 
 >[!NOTE]
 >
->Adobe Dynamic Media Classic raadt aan alle lettertypestijlen (vet, cursief, vet/cursief en standaard) te uploaden als u lettertypen in sjabloonlagen wilt gebruiken. Adobe Dynamic Media Classic heeft deze lettertypestijlen nodig om aanvragen te verwerken. Het wordt ook aanbevolen alle PostScript/Adobe Type1-bestanden te uploaden die aan een lettertype zijn gekoppeld, omdat sommige van deze lettertypen gedetailleerde tekenspatiëringsgegevens bevatten.
+>Adobe Dynamic Media Classic raadt aan alle lettertypestijlen (vet, cursief, vet/cursief en standaard) te uploaden als u lettertypen in sjabloonlagen wilt gebruiken. Adobe Dynamic Media Classic heeft deze lettertypestijlen nodig om aanvragen te verwerken. Alles uploaden `PostScript/Adobe Type1` bestanden die aan een lettertype zijn gekoppeld, worden ook aangeraden omdat sommige van deze lettertypen gedetailleerde tekenspatiëringsgegevens bevatten.
 
 ## Fontbestanden uploaden {#uploading-font-files}
 
@@ -43,7 +43,7 @@ Upload doopvontdossiers met de zelfde technieken u gebruikt om andere dossiers t
 
 ## Informatie over lettertypebestanden bewerken {#editing-font-file-information}
 
-U kunt de id-naam van een lettertype en de tekstgegevens wijzigen. Het bewerken van een lettertypebestand kan nuttig zijn bij zoekopdrachten en het gemakkelijker maken lettertypen te identificeren.
+U kunt de id-naam van een lettertype en de informatie over het type wijzigen. Het bewerken van een lettertypebestand kan nuttig zijn bij zoekopdrachten en het gemakkelijker maken lettertypen te identificeren.
 
 Selecteer in het deelvenster Bladeren het lettertypebestand dat u wilt bewerken in de gedetailleerde weergave en kies Bestand > Info bewerken. Het scherm Info bewerken wordt geopend. Kies de volgende opties en selecteer **[!UICONTROL Submit]**.
 
@@ -63,7 +63,7 @@ Selecteer in het deelvenster Bladeren het lettertypebestand dat u wilt bewerken 
 
    * **[!UICONTROL TTF]** - TrueType-lettertypebestanden die worden gebruikt voor PDF-/PostScript-rendering en beeldweergave.
 
-   * **[!UICONTROL AFM]** - Adobe PostScript-lettertypebestanden die Adobe Font Metrics-informatie bevatten en worden gebruikt voor beeldserving.
+   * **[!UICONTROL AFM]** - Adobe PostScript-lettertypebestanden met Adobe Font Metrics-informatie die worden gebruikt voor beeldserving.
 
    * **[!UICONTROL PFM]** - Adobe PostScript-lettertypebestanden met binaire metrische informatie over lettertypen.
 
