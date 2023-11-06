@@ -12,7 +12,7 @@ role: User
 exl-id: cffeec19-43fd-4a97-bdcc-df81af108ddd
 topic: Content Management
 level: Intermediate
-source-git-commit: d82f816553f807b514f4690827dab672a6baf690
+source-git-commit: faa1784e1d19b1167cad5749dc04227e3ff388e5
 workflow-type: tm+mt
 source-wordcount: '536'
 ht-degree: 0%
@@ -21,17 +21,17 @@ ht-degree: 0%
 
 # De map Prullenmand beheren{#managing-the-trash-folder}
 
-Items die u uit Adobe Dynamic Media Classic verwijdert, worden naar de map Prullenbak verplaatst. Het verwijderde bestand blijft zeven dagen in deze map staan totdat het wordt hersteld of definitief wordt verwijderd. U kunt verwijderde items bekijken door op de knop **[!UICONTROL Trash]** onder aan de elementenbibliotheek en items op de mappagina Prullenbak weergeven.
+Items die u uit Adobe Dynamic Media Classic verwijdert, worden naar de map Prullenbak verplaatst. Het verwijderde bestand blijft zeven dagen in deze map staan totdat het wordt hersteld of definitief wordt verwijderd. U kunt verwijderde items controleren door de optie **[!UICONTROL Trash]** onder aan de elementenbibliotheek en items op de mappagina Prullenbak weergeven.
 
 Alle gebruikers kunnen items in de map met prullenmand terugzetten naar de mappen waaruit ze zijn verwijderd. Alle gebruikers kunnen ook de prullenmand leeg maken met alle inhoud ervan.
 
-Als u items verwijdert uit de map met prullenmand, worden deze items definitief uit Adobe Dynamic Media Classic verwijderd. items die uit de map Prullenbak zijn verwijderd, kunnen niet meer worden hersteld. Voor informatie over het instellen van meldingen voor bedrijfsbeheerders wanneer elementen automatisch uit de prullenbak worden verwijderd, raadpleegt u [Algemene instellingen van toepassing](application-setup.md#general_settings).
+Als u items verwijdert uit de map met prullenmand, worden items definitief verwijderd uit Adobe Dynamic Media Classic. Items die worden verwijderd uit de map met prullenmand kunnen niet meer worden hersteld. Voor informatie over het instellen van meldingen voor bedrijfsbeheerders wanneer elementen automatisch uit de prullenbak worden verwijderd, raadpleegt u [Algemene instellingen van toepassing](application-setup.md#general_settings).
 
 >[!NOTE]
 >
 >Middelen die naar de map Prullenmand zijn verplaatst, zijn nog steeds geregistreerd op Adobe Dynamic Media Classic. Als u een bestand probeert te uploaden dat dezelfde naam heeft als een verwijderd bestand in de map met prullenmand, behandelt Adobe Dynamic Media Classic het element dat u wilt uploaden als een gedupliceerd element. Er wordt dan een nummer aan de naam toegevoegd.
 
-## De map Prullenbak {#about-the-trash-folder}
+## De map Prullenmand {#about-the-trash-folder}
 
 Als u een item in een map verwijdert, wordt het item in de map Prullenbak geplaatst. Het volgende gebeurt wanneer u een item verwijdert en naar de map Prullenbak verplaatst:
 
@@ -39,9 +39,9 @@ Als u een item in een map verwijdert, wordt het item in de map Prullenbak geplaa
 * Het item kan niet worden gepubliceerd. Zelfs als het item was gemarkeerd voor publicatie toen u het wist, wordt het niet gepubliceerd.
 * Het item blijft in de map Prullenbak totdat het wordt hersteld, een periode van zeven dagen of iemand anders kiest het **[!UICONTROL Empty the Trash]** gebruiken. Na zeven dagen verwijdert een automatische opschoonbewerking het item definitief.
 
-## Elementen herstellen vanuit de map Prullenbak {#restoring-assets-from-the-trash-folder}
+## Elementen herstellen vanuit de map Prullenmand {#restoring-assets-from-the-trash-folder}
 
-Het is niet nodig dat de persoon die een actief heeft verwijderd, het terugzet; iedereen kan middelen herstellen vanuit de map Prullenmand. Elementen die worden hersteld, worden geplaatst in de mappen waaruit ze zijn verwijderd. Als deze mappen niet meer bestaan, maakt Adobe Dynamic Media Classic ze opnieuw en worden de herstelde elementen in de opnieuw gemaakte mappen geplaatst.
+Het is niet nodig dat de persoon die een middel heeft verwijderd het herstelt; iedereen kan activa van de omslag van het Afval herstellen. Elementen die worden hersteld, worden geplaatst in de mappen waaruit ze zijn verwijderd. Als deze mappen niet meer bestaan, maakt Adobe Dynamic Media Classic ze opnieuw en worden de herstelde elementen in de opnieuw gemaakte mappen geplaatst.
 
 Ga als volgt te werk om middelen van de map Prullenmand te herstellen naar de mappen waaruit ze zijn verwijderd:
 

@@ -12,7 +12,7 @@ role: User
 exl-id: b0010107-248c-4ebc-955c-7514462f351d
 topic: Content Management
 level: Intermediate
-source-git-commit: d82f816553f807b514f4690827dab672a6baf690
+source-git-commit: faa1784e1d19b1167cad5749dc04227e3ff388e5
 workflow-type: tm+mt
 source-wordcount: '155'
 ht-degree: 0%
@@ -21,11 +21,11 @@ ht-degree: 0%
 
 # Primaire afbeeldingen publiceren{#publishing-master-images}
 
-Als u afbeeldingsbestanden publiceert, worden deze gepubliceerd naar Dynamic Media Image Servers, waar ze beschikbaar zijn op uw website en toepassing. Bovendien activeert Adobe Dynamic Media Classic tijdens het publicatieproces de URL-tekenreeksen die u voor uw website en toepassing nodig hebt.
+Als u uw afbeeldingsbestanden publiceert, worden deze gepubliceerd naar Dynamic Media Image Servers, waar ze beschikbaar zijn op uw website en toepassing. Bovendien activeert Adobe Dynamic Media Classic tijdens het publicatieproces de URL-tekenreeksen die u voor uw website en toepassing nodig hebt.
 
 ## Primaire afbeeldingen markeren voor publicatie {#marking-master-images-for-publish}
 
-Primaire afbeeldingen moeten zijn gemarkeerd voor publicatie, zodat ze naar Dynamic Media Image Servers kunnen worden gekopieerd. U kunt uw primaire afbeeldingen voor publicatie markeren in het deelvenster Bladeren door op **[!UICONTROL Mark for Publish]** pictogram. U kunt afbeeldingen ook markeren voor publicatie wanneer u ze uploadt naar Adobe Dynamic Media Classic.
+Primaire afbeeldingen moeten zijn gemarkeerd voor publicatie, zodat ze naar Dynamic Media Image Servers kunnen worden gekopieerd. U kunt uw primaire afbeeldingen voor publicatie markeren in het deelvenster Bladeren door **[!UICONTROL Mark for Publish]** pictogram. U kunt afbeeldingen ook markeren voor publicatie wanneer u ze uploadt naar Adobe Dynamic Media Classic.
 
 ## Uw primaire afbeeldingen publiceren {#publishing-your-master-images}
 

@@ -11,9 +11,9 @@ role: User
 exl-id: 8dfcfb3f-6472-4efd-bc87-d5111eee45ce
 topic: Content Management
 level: Intermediate
-source-git-commit: 51c05c62448b39a75facb2e90cc9da5d0f26ab45
+source-git-commit: 597b7d6bd98c59a644984baeecb888f86a8975c9
 workflow-type: tm+mt
-source-wordcount: '3716'
+source-wordcount: '3722'
 ht-degree: 0%
 
 ---
@@ -153,7 +153,7 @@ De methode en structuur voor het benoemen van mappen die u kiest voor het opslaa
 
 ## Bestanden uploaden {#uploading-your-files}
 
-U kunt afzonderlijke bestanden uploaden vanaf het bureaublad of mappen uploaden via FTP. Als u meer dan 100 MB dossiers of uploadt volledige omslagen en subfolders wilt uploaden, selecteer **VIA FTP** tab.
+U kunt afzonderlijke bestanden uploaden vanaf het bureaublad of via FTP mappen uploaden. Als u meer dan 100 MB dossiers of uploadt volledige omslagen en subfolders wilt uploaden, selecteer **VIA FTP** tab.
 
 Adobe Dynamic Media Classic stuurt je een e-mailbericht om te bevestigen wanneer je uploadtaak begint en eindigt en om je op de hoogte te stellen van eventuele problemen.
 
@@ -193,7 +193,7 @@ Zie [Taakbestanden controleren](checking-job-files.md#checking_job_files).
 Wanneer u bestanden publiceert, worden deze naar live servers verzonden. URL&#39;s voor deze bestanden kunnen vervolgens worden gebruikt op externe websites en toepassingen. Deze optie is ook beschikbaar in het dialoogvenster Taakopties.
 1. (Optioneel) Selecteer onder aan de pagina Uploaden de optie **[!UICONTROL Overwrite in any folder, same base asset name regardless of extension]** als u wilt dat de bestanden die u uploadt, bestaande bestanden met dezelfde naam vervangen. Deze optie is ook beschikbaar in het dialoogvenster Taakopties.
 De naam van deze optie kan verschillen, afhankelijk van de instellingen in **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL General Settings]** > **[!UICONTROL Upload to Application]** > **[!UICONTROL Overwrite Images]**.
-1. Optioneel; alleen beschikbaar als u op de knop **[!UICONTROL VIA FTP]** tab. Selecteer onder aan de pagina Uploaden de optie **[!UICONTROL Uncompress Zip or Tar Files on Upload]** als u automatisch alle bestanden uit het geüploade ZIP- of TAR-bestand wilt extraheren. Deze optie is ook beschikbaar in het dialoogvenster Taakopties.
+1. Optioneel; alleen beschikbaar als u de optie **[!UICONTROL VIA FTP]** tab. Selecteer onder aan de pagina Uploaden de optie **[!UICONTROL Uncompress Zip or Tar Files on Upload]** als u automatisch alle bestanden uit het geüploade ZIP- of TAR-bestand wilt extraheren. Deze optie is ook beschikbaar in het dialoogvenster Taakopties.
 1. Selecteer in de rechterbenedenhoek van de pagina Uploaden de optie **[!UICONTROL Job Options]** en geeft u de gewenste opties op.
 
    Zie [Uploadopties](uploading-files.md#upload_options).

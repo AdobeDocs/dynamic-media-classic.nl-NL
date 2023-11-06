@@ -9,7 +9,7 @@ role: User
 exl-id: 2ef78fe6-1e7c-4f48-86da-137ddaa55bbf
 topic: Content Management
 level: Intermediate
-source-git-commit: d82f816553f807b514f4690827dab672a6baf690
+source-git-commit: faa1784e1d19b1167cad5749dc04227e3ff388e5
 workflow-type: tm+mt
 source-wordcount: '1009'
 ht-degree: 0%
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 # Een rasterafbeeldingselement uploaden {#uploading-an-image-asset-or-a-vector-asset}
 
-Voordat u een afbeeldingselement kunt uploaden, vraagt u eerst om een sleutel voor een gedeeld geheim. U gebruikt deze sleutel voor gedeeld geheim om een token voor uploaden op te halen. Vervolgens gebruikt u het uploadtoken om rasterafbeeldingselementen te uploaden.
+Voordat u een afbeeldingselement kunt uploaden, vraagt u eerst om een sleutel voor een gedeeld geheim. U gebruikt deze sleutel voor gedeeld geheim om een token voor uploaden op te halen. Vervolgens gebruikt u het token voor uploaden om rasterafbeeldingselementen te uploaden.
 
 >[!IMPORTANT]
 >
@@ -46,7 +46,7 @@ Het uploadtoken is een alfanumerieke tekenreeks die alleen voor een bepaalde hoe
 <!-- * Vector
   `https://s7ugc1.scene7.com/ugc/vector?op=get_uploadtoken&shared_secret=2d19f60e-890a-4e79-a1a5-9ac2875429b9`In this example, the shared-secret key is `2d19f60e-890a-4e79-a1a5-9ac2875429b9` -->
 
-Standaard verloopt het uploadtoken vijf minuten (300 seconden) nadat u het hebt opgehaald. Als u meer tijd wilt aanvragen, neemt u `expires` in de URL en de tijd die u nodig hebt, in seconden. Met de volgende voorbeeldafbeelding haalt u bijvoorbeeld een uploadtoken op dat 1800 seconden geldig is:
+Standaard verloopt het uploadtoken vijf minuten (300 seconden) nadat u het hebt opgehaald. Als u meer tijd wilt aanvragen, neemt u `expires` in de URL en de tijd die u nodig hebt, in seconden. Met de volgende voorbeeld-URL van de afbeelding wordt bijvoorbeeld een uploadtoken opgehaald dat 1800 seconden geldig is:
 
 ```as3
 https://s7ugc1.scene7.com/ugc/image?op=get_uploadtoken&shared_secret=fece4b21-87ee-47fc-9b99-2e29b78b602&expires=1800
@@ -136,11 +136,11 @@ Met het volgende HTML-formulier kan een gebruiker een element uploaden. In het f
 * Of het kleurprofiel en de bestandsnaam die aan het element zijn gekoppeld, behouden moeten blijven.
 * Of de achtergrond uitnemen moet worden gebruikt. Als u Achtergrond uitnemen inschakelt, stelt u de Hoek, Tolerantie en Vulmethode in.
 Zie Achtergrond uitnemen in [Opties voor het verfijnen van afbeeldingen tijdens het uploaden](image-editing-options-upload.md#image-editing-options-at-upload).
-* De naam van het bestand dat moet worden geüpload.
+* The name of the file to upload.
 
 U kunt de broncode van de HTML die aan het bovenstaande formulier is gekoppeld, bekijken door [https://s7ugc1.scene7.com/ugc/upload.html](https://s7ugc1.scene7.com/ugc/upload.html)
 
-Klik in Firefox met de rechtermuisknop in het browservenster en selecteer **[!UICONTROL View Page Source]**. De code toont het overeenkomstige URL vraagkoord en de methode van de POST die in werking worden gesteld wanneer de gebruiker klikt **[!UICONTROL Submit]**.
+Klik in Firefox met de rechtermuisknop in het browservenster en selecteer **[!UICONTROL View Page Source]**. De code toont het overeenkomstige URL vraagkoord en de methode van de POST die in werking worden gesteld wanneer de gebruiker selecteert **[!UICONTROL Submit]**.
 
 Ga naar **[!UICONTROL View]** > **[!UICONTROL Source]**. Ga naar **[!UICONTROL Tools]** > **[!UICONTROL Browser Tools]** > **[!UICONTROL Web Developer Tools]**. Firefox wordt aanbevolen voor het weergeven van XML-reacties.
 
@@ -170,7 +170,7 @@ Hier volgt een voorbeeldreactie van een geslaagde upload:
 >
 >Het geüploade element (JPG, GIF, enzovoort) wordt geconverteerd naar de PTIFF-indeling en de reactie verstuurt een directe koppeling naar dat PTIFF-element.
 
-Het middel is als elke andere bron ImageServing; U kunt er verwerkingsquery&#39;s op toepassen. De volgende URL vraagt bijvoorbeeld om een element dat naar de opgegeven breedte en hoogte wordt uitgerekt.
+Het middel is als om het even welke andere bron ImageServing; u kunt verwerkingsvragen op het toepassen. De volgende URL vraagt bijvoorbeeld om een element dat naar de opgegeven breedte en hoogte wordt uitgerekt.
 
 ```as3
 https://s7w2p1.scene7.com/is/image/S7WebUGC/ugc/9536356.tif?&wid=800&hei=100&fit=stretch
@@ -192,7 +192,7 @@ Verzend het element dat u wilt uploaden als multipart/form-post terwijl u de ove
 >
 >U moet het te uploaden element verzenden als het enige veld in een aanvraag voor een multipart-POST.
 
-**Voorbeeld-URL:**
+**URL voorbeeld:**
 
 `https://s7ugc1.scene7.com/ugc/image?op=upload&upload_token=aa2a378a-cd25-4c80-994d-312094e0ef20_18000&company_name=000Company`
 
@@ -240,7 +240,7 @@ U kunt de volgende velden in de URL-queryreeks gebruiken om informatie voor een 
 | `shared_secret` | Vereist | De gedeelde geheime sleutel voor het bedrijf. |
 | `image_name` | Vereist | Naam van de afbeelding. |
 
-**Voorbeeld-URL:**
+**URL voorbeeld:**
 
 `https://s7ugc1.scene7.com/ugc/image?op=image_info&shared_secret=fece4b21-87ee-47fc-9b99-2e29b78b602&image_name=1442564.tif`
 

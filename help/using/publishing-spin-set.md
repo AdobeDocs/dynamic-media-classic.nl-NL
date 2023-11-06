@@ -12,7 +12,7 @@ role: User
 exl-id: b085f7ea-4623-402e-97f5-ed8ad5f368c7
 topic: Content Management
 level: Intermediate
-source-git-commit: d82f816553f807b514f4690827dab672a6baf690
+source-git-commit: faa1784e1d19b1167cad5749dc04227e3ff388e5
 workflow-type: tm+mt
 source-wordcount: '171'
 ht-degree: 0%
@@ -25,11 +25,11 @@ Als u een Spin-set publiceert, worden de afbeeldingen in de set op Dynamic Media
 
 ## Een centrifugeerset markeren voor publicatie {#marking-a-spin-set-for-publish}
 
-Markeer de centrifugeset voor publicatie zodat deze naar Adobe Dynamic Media Classic-afbeeldingsservers wordt gekopieerd. U kunt de paginaset markeren voor publicatie in het deelvenster Bladeren door op de knop **[!UICONTROL Mark for Publish]** links van de naam ervan. Alle afbeeldingen in de set worden gemarkeerd voor publicatie wanneer u de paginaset markeert voor publicatie.
+Markeer de centrifugeset voor publicatie zodat deze naar Adobe Dynamic Media Classic-afbeeldingsservers wordt gekopieerd. U kunt de paginaset markeren voor publicatie in het deelvenster Bladeren door de optie **[!UICONTROL Mark for Publish]** links van de naam ervan. Alle afbeeldingen in de set worden gemarkeerd voor publicatie wanneer u de paginaset markeert voor publicatie.
 
 ## De centrifugeset publiceren {#publishing-the-spin-set}
 
-Als u een centrifugeerset wilt publiceren naar Dynamic Media Image Servers, selecteert u op de algemene navigatiebalk de optie **[!UICONTROL Publish]**. Selecteer vervolgens een **[!UICONTROL When]** optie. U kunt desgewenst een naam voor de publicatietaak invoeren. Selecteren **[!UICONTROL Submit Publish]**.
+Als u een centrifugeerset wilt publiceren naar Dynamic Media Image Servers, selecteert u op de algemene navigatiebalk de optie **[!UICONTROL Publish]**. Selecteer vervolgens een **[!UICONTROL When]** -optie. U kunt desgewenst een naam voor de publicatietaak invoeren. Selecteren **[!UICONTROL Submit Publish]**.
 
 >[!MORELIKETHIS]
 >

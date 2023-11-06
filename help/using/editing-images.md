@@ -12,7 +12,7 @@ role: User
 exl-id: 1c368c25-78e6-4bcc-b390-d9133073821a
 topic: Content Management
 level: Intermediate
-source-git-commit: d82f816553f807b514f4690827dab672a6baf690
+source-git-commit: faa1784e1d19b1167cad5749dc04227e3ff388e5
 workflow-type: tm+mt
 source-wordcount: '310'
 ht-degree: 0%
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 # Afbeeldingen bewerken{#editing-images}
 
-Adobe Dynamic Media Classic biedt veel gereedschappen voor het maken van multimedia-effecten. Deze gereedschappen zijn beschikbaar door op de rollover te klikken **[!UICONTROL Edit]** en in het Browse Comité in de Gedetailleerde Mening. In Adobe Dynamic Media Classic kunt u de volgende beeldbewerkingstaken uitvoeren:
+Adobe Dynamic Media Classic biedt veel gereedschappen voor het maken van multimedia-effecten. Deze gereedschappen zijn beschikbaar door de rollover te selecteren **[!UICONTROL Edit]** en in het Browse Comité in de Gedetailleerde Mening. In Adobe Dynamic Media Classic kunt u de volgende beeldbewerkingstaken uitvoeren:
 
 * **Afbeeldingen met hyperlinks maken** - Als u een afbeelding met hyperlinks wilt maken, selecteert u de opdracht Afbeelding of **[!UICONTROL Image Map]** knop. Een afbeelding met hyperlinks is een hotspot op een afbeelding, een eCatalog-pagina of een afbeelding in een SpinSet die een deelvenster met rollovertekst weergeeft. Gebruikers kunnen bijvoorbeeld een Afbeeldingskaart selecteren om een nieuwe webpagina te starten. Zie [Afbeeldingen met hyperlinks maken](/help/using/creating-image-maps.md).
 
@@ -29,9 +29,9 @@ Adobe Dynamic Media Classic biedt veel gereedschappen voor het maken van multime
 
 * **Een afbeelding uitsnijden** - Als u een afbeelding wilt uitsnijden, selecteert u de opdracht Uitsnijden of **[!UICONTROL Crop]** knop. Zie [Een afbeelding uitsnijden](/help/using/cropping-image.md).
 
-* **Een afbeelding verscherpen** - Selecteer de opdracht Verscherpen of de opdracht **[!UICONTROL Sharpen]** knop. Zie [Een afbeelding verscherpen](/help/using/sharpening-image.md).
+* **Een afbeelding verscherpen** - Als u een afbeelding wilt verscherpen en de omtrekken ervan minder vaag en duidelijker wilt maken, selecteert u de opdracht Verscherpen of de opdracht **[!UICONTROL Sharpen]** knop. Zie [Een afbeelding verscherpen](/help/using/sharpening-image.md).
 
-* **Een afbeelding aanpassen** - Selecteer de opdracht Aanpassen of de opdracht **[!UICONTROL Adjust]** om de kleurbalans van een afbeelding te spiegelen, te roteren, te vervagen, te kleuren of te wijzigen. Zie [Een afbeelding aanpassen](/help/using/adjusting-image.md).
+* **Een afbeelding aanpassen** - Selecteer de opdracht Aanpassen of **[!UICONTROL Adjust]** om de kleurbalans van een afbeelding te spiegelen, te roteren, te vervagen, te kleuren of te wijzigen. Zie [Een afbeelding aanpassen](/help/using/adjusting-image.md).
 
 * **Lagen bewerken** - Als u afzonderlijke, bewerkbare lagen in een PSD-bestand wilt weergeven, selecteert u de optie **[!UICONTROL Layers]** tab. Wanneer u een PSD-bestand uploadt, worden alle lagen afzonderlijk geüpload als aparte bestanden, zodat u ze in Adobe Dynamic Media Classic kunt bewerken.
 

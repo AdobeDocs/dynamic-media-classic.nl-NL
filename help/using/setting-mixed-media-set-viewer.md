@@ -12,7 +12,7 @@ role: User
 exl-id: d41b30e7-994a-43f3-8698-7dbfc36305ae
 topic: Content Management
 level: Intermediate
-source-git-commit: d82f816553f807b514f4690827dab672a6baf690
+source-git-commit: faa1784e1d19b1167cad5749dc04227e3ff388e5
 workflow-type: tm+mt
 source-wordcount: '586'
 ht-degree: 0%
@@ -28,8 +28,8 @@ U kunt alle of sommige gemeenschapseigenschappen in de Gemengde Kijker van de Da
 1. Ga op de algemene navigatiebalk naar **[!UICONTROL Setup]** > **[!UICONTROL Viewer Presets]**.
 1. Voer een van de volgende handelingen uit op de pagina Voorinstellingen viewer:
 
-   * Als u een voorinstelling wilt maken, selecteert u **[!UICONTROL Add]**. Kies in het dialoogvenster Voorinstelling viewer toevoegen een platform en kies **[!UICONTROL Mixed Media Set Viewer]** selecteert u vervolgens **[!UICONTROL Add]**.
-   * Als u een voorinstelling voor een gemengde mediaset van de viewer wilt bewerken, selecteert u deze voorinstelling en selecteert u vervolgens **[!UICONTROL Edit]**.
+   * Selecteer **[!UICONTROL Add]**. Kies in het dialoogvenster Voorinstelling viewer toevoegen een platform en kies **[!UICONTROL Mixed Media Set Viewer]** selecteert u vervolgens **[!UICONTROL Add]**.
+   * Als u een voorinstelling voor een gemengde mediaset van de viewer wilt bewerken, selecteert u deze en selecteert u vervolgens **[!UICONTROL Edit]**.
 
 1. Typ op de pagina Configuration Viewer een naam in het vak Naam voorinstelling voor de voorinstelling Gemengde Media Set Viewer.
 1. Opgeven **[!UICONTROL Tabs]** of **[!UICONTROL No Tabs]**. Met tabs kunt u items op type van elkaar scheiden, zoals video&#39;s, stalen en centrifuges. Wanneer u geen tabbladen opgeeft, worden alle items in een rij onder het voorvertoningsvenster weergegeven.
@@ -40,7 +40,7 @@ U kunt alle of sommige gemeenschapseigenschappen in de Gemengde Kijker van de Da
 1. Kies in het menu Viewer het type element dat u wilt weergeven, zoals Staalsets.
 1. Kies in het menu Voorinstelling een voorinstelling voor het gekozen elementtype.
 
-   Als u bijvoorbeeld een stalenset toevoegt, kiest u **[!UICONTROL SwatchSet1-Colors]**.
+   Als u bijvoorbeeld een staalset toevoegt, kiest u **[!UICONTROL SwatchSet1-Colors]**.
 
 1. Selecteren **[!UICONTROL Add]**.
 
@@ -60,7 +60,7 @@ U kunt alle of sommige gemeenschapseigenschappen in de Gemengde Kijker van de Da
 
    * **Koppeling** - Selecteer **[!UICONTROL Live]**. Typ in het vak Label van koppelingsknop de naam die u wilt weergeven in de viewer voor de knop Koppelen. Selecteer desgewenst **[!UICONTROL Browse]** om een aangepaste skin voor de knop te zoeken en te selecteren.
 
-   * **Bezoek** - Selecteer **[!UICONTROL Live]**. Typ in het vak Label van bezoekknop de naam die u in de viewer voor de knop Bezoek wilt weergeven. Typ in het vak Bezoek-URL de URL naar de website die u wilt openen wanneer op de koppeling wordt geklikt.
+   * **Bezoek** - Selecteer **[!UICONTROL Live]**. Typ in het vak Label van bezoekknop de naam die u in de viewer voor de knop Bezoek wilt weergeven. Typ in het vak Bezoek-URL de URL naar de website die u wilt openen wanneer de koppeling is geselecteerd.
 
 1. Geef desgewenst andere opties op. Als u een beschrijving van een optie wilt zien, selecteert u het pictogram Info Tip naast de optie.
 

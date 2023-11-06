@@ -12,7 +12,7 @@ role: User
 exl-id: 280e7201-84d6-46b1-94bb-0499beca2992
 topic: Content Management
 level: Beginner
-source-git-commit: d82f816553f807b514f4690827dab672a6baf690
+source-git-commit: faa1784e1d19b1167cad5749dc04227e3ff388e5
 workflow-type: tm+mt
 source-wordcount: '650'
 ht-degree: 0%
@@ -21,13 +21,13 @@ ht-degree: 0%
 
 # Snel starten: Afbeeldingssets{#quick-start-image-sets}
 
-Adobe Dynamic Media Classic Image Sets geeft gebruikers een geïntegreerde kijkervaring. In de dynamische viewer voor instellen afbeelding kunnen gebruikers verschillende weergaven van een item zien door op een miniatuurafbeelding te klikken. Met Afbeeldingssets kunt u alternatieve weergaven met hoge resolutie van een item presenteren.
+Met Adobe Dynamic Media Classic Image Sets hebben gebruikers een geïntegreerde kijkervaring. In de dynamische viewer voor de set afbeeldingen kunnen gebruikers verschillende weergaven van een item zien door een miniatuurafbeelding te selecteren. Met Afbeeldingssets kunt u alternatieve weergaven met hoge resolutie van een item presenteren.
 
 De viewer voor Afbeeldingsset biedt zoomgereedschappen waarmee u afbeeldingen nauwkeurig kunt bekijken. Desgewenst kunt u doelen voor zoomen met instructies en afbeeldingen met hyperlinks in de afbeeldingsset opnemen. Afbeeldingssets zorgen voor een meer gecoördineerde, intieme kijkervaring.
 
 Zie [Afbeeldings- en centrifuges: Dynamic Imaging](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&amp;emailurl=https://s7d5.scene7.com/s7/emailFriend&amp;serverUrl=https://s7d5.scene7.com/is/image/&amp;config=Scene7SharedAssets/Universal_HTML5_Video&amp;contenturl=https://s7d5.scene7.com/skins/&amp;asset=S7tutorials/556_Image%20&amp;%20Spin%20Sets_converted%20renamed_Dynamic%20Imaging-AVS) trainingsvideo.
 
-Wanneer u een Reeks van het Beeld creeert, adviseert Adobe de volgende beste praktijken en handhaaft de volgende grenzen:
+Wanneer u een Reeks van het Beeld creeert, beveelt de Adobe de volgende beste praktijken aan en handhaaft de volgende grenzen:
 
 | Type limiet | Beste praktijken | Oplegde limiet |
 | --- | --- | --- |
@@ -56,7 +56,7 @@ Zie [Een afbeeldingsset maken](creating-image-set.md#creating-an-image-set).
 
 Zie ook [Zoomdoelen en afbeeldingen met hyperlinks opnemen in afbeeldingssets](/help/using/including-zoom-targets-image-maps-image-sets.md)
 
-## 3. Voorinstellingen van viewer voor afbeeldingsset voorbereiden, indien nodig
+## 3. Voorinstellingen voor de afbeeldingsset Viewer voorbereiden, indien nodig
 
 Beheerders kunnen voorinstellingen voor de afbeeldingsset Viewer maken of wijzigen. Adobe Dynamic Media Classic wordt geleverd met standaard Viewer-voorinstellingen voor elk rich-mediatype. Gebruik de zoomviewer: **[!UICONTROL Custom]** > **[!UICONTROL Images]** of **[!UICONTROL Image Sets]**/**[!UICONTROL Multiple Views]** voorinstellingen om uw afbeeldingssets te bekijken.
 
@@ -82,10 +82,10 @@ Selecteren **[!UICONTROL Mark for Publish]** links van de naam in het deelvenste
 
 Zie [Bestanden publiceren](publishing-files.md#publishing-files).
 
-## 6. Een afbeeldingsset koppelen aan uw website
+## 6. Koppel een afbeeldingsset aan uw website
 
 Adobe Dynamic Media Classic maakt URL-aanroepen voor afbeeldingssets en activeert deze nadat u de bestanden hebt gepubliceerd. U kunt deze URL&#39;s kopiëren vanuit het voorvertoningsscherm.
 
-Selecteer de set afbeeldingen en selecteer vervolgens **[!UICONTROL Preview]**. Selecteer nu een voorinstelling voor de afbeeldingsset Viewer en selecteer **[!UICONTROL Copy URL]**.
+Selecteer de set afbeeldingen en selecteer vervolgens **[!UICONTROL Preview]**. Selecteer nu een voorinstelling voor de Afbeeldingsset Viewer en selecteer **[!UICONTROL Copy URL]**.
 
-Zie [Een afbeeldingsset koppelen aan een webpagina](linking-image-set-web-page.md#linking-an-image-set-to-a-web-page).
+Zie [Een Afbeeldingsset koppelen aan een webpagina](linking-image-set-web-page.md#linking-an-image-set-to-a-web-page).

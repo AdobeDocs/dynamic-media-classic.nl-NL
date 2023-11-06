@@ -12,9 +12,9 @@ role: User
 exl-id: 8599d4a3-57eb-4432-812f-7e55a4315c1b
 topic: Content Management
 level: Intermediate
-source-git-commit: d82f816553f807b514f4690827dab672a6baf690
+source-git-commit: 597b7d6bd98c59a644984baeecb888f86a8975c9
 workflow-type: tm+mt
-source-wordcount: '436'
+source-wordcount: '440'
 ht-degree: 0%
 
 ---
@@ -44,12 +44,12 @@ In de elementenbibliotheek worden bestanden in een mappenstructuur weergegeven. 
 ## Mappen maken {#creating-folders}
 
 1. Selecteer in de elementenbibliotheek de map waarin u een map wilt maken.
-1. Selecteer **[!UICONTROL Add Folder]** knop. Dit pictogram bevindt zich boven aan de mappenlijst.
+1. Selecteer de **[!UICONTROL Add Folder]** knop. Dit pictogram bevindt zich boven aan de mappenlijst.
 1. Voer een beschrijvende naam in voor de nieuwe map of submap door deze in te voeren in het veld naast het mappictogram.
 
    >[!NOTE]
    >
-   >U kunt ook mappen maken in Adobe Dynamic Media Classic wanneer u bestanden uploadt via FTP. Het selecteren van **[!UICONTROL Include Subfolders]** als u uploadt via FTP, wordt de mapstructuur op uw computer in het systeem gerepliceerd. Bestanden en submappen op uw computer of netwerk worden gerepliceerd in de Asset Library en de elementen die u uploadt, worden in deze mappen geplaatst.
+   >U kunt ook mappen maken in Adobe Dynamic Media Classic wanneer u bestanden uploadt via FTP. De **[!UICONTROL Include Subfolders]** als u uploadt via FTP, wordt de mapstructuur op uw computer in het systeem gerepliceerd. Bestanden en submappen op uw computer of netwerk worden gerepliceerd in de Asset Library en de elementen die u uploadt, worden in deze mappen geplaatst.
 
 ## Mappen verwijderen en hernoemen {#deleting-and-renaming-folders}
 

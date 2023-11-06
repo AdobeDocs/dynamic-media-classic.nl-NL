@@ -10,9 +10,9 @@ role: User
 exl-id: 8bb1c744-270a-4752-b163-443708fca6c2
 topic: Content Management
 level: Intermediate
-source-git-commit: 51c05c62448b39a75facb2e90cc9da5d0f26ab45
+source-git-commit: 597b7d6bd98c59a644984baeecb888f86a8975c9
 workflow-type: tm+mt
-source-wordcount: '634'
+source-wordcount: '636'
 ht-degree: 0%
 
 ---
@@ -46,7 +46,7 @@ Nadat u een Staalset hebt gepubliceerd, kunt u de bijbehorende URL of insluitcod
 
 ## Staalset-URL&#39;s toevoegen aan uw webpagina {#adding-swatch-set-urls-to-your-web-page}
 
-De meest gebruikelijke manier om Staalsets te implementeren is het plaatsen van een koppeling (via een navigatiepictogram) op uw webpagina. Wanneer op de koppeling wordt geklikt, wordt een dynamische pagina (ASP of JSP) gestart die de stalenset in een pop-upzoomvenster weergeeft. Met de zoomkoppeling wordt een pop-upvenster geopend dat de eigenlijke zoomfunctie bevat.
+De gemeenschappelijkste manier om de Reeksen van het Monster op te stellen is een verbinding (door een navigatiepictogram) op uw Web-pagina te plaatsen. Als deze optie is geselecteerd, wordt een dynamische pagina (ASP of JSP) gestart die de stalenset in een pop-upzoomvenster weergeeft. Met de zoomkoppeling wordt een pop-upvenster geopend dat de eigenlijke zoomfunctie bevat.
 
 Zie voor meer informatie en codevoorbeelden [HTML5-zoomviewer insluiten in de Adobe Viewers Reference Guide](https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/library/viewers-aem-assets-dmc/zoom/c-html5-20-zoom-viewer-about.html#section-e1c3106f5b3e445d9b95be337c2f94e2).
 

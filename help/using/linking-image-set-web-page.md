@@ -10,9 +10,9 @@ role: User
 exl-id: df4e5218-2a66-413c-b247-b2a16d884041
 topic: Content Management
 level: Intermediate
-source-git-commit: 51c05c62448b39a75facb2e90cc9da5d0f26ab45
+source-git-commit: 597b7d6bd98c59a644984baeecb888f86a8975c9
 workflow-type: tm+mt
-source-wordcount: '630'
+source-wordcount: '632'
 ht-degree: 0%
 
 ---
@@ -46,7 +46,7 @@ Nadat u een Afbeeldingsset hebt gepubliceerd, kunt u de bijbehorende URL of de b
 
 ## URL&#39;s van afbeeldingssets toevoegen aan uw webpagina {#adding-image-set-urls-to-your-web-page}
 
-De gemeenschappelijkste manier om de Reeksen van het Beeld op te stellen is een verbinding (via een navigatiepictogram) op uw Web-pagina te plaatsen. Wanneer op de koppeling wordt geklikt, wordt een dynamische pagina (JSP) gestart die de set Afbeelding in een pop-upzoomvenster weergeeft. Met de zoomkoppeling wordt een pop-upvenster geopend dat de eigenlijke zoomfunctie bevat.
+De gemeenschappelijkste manier om de Reeksen van het Beeld op te stellen is een verbinding (door een navigatiepictogram) op uw Web-pagina te plaatsen. Als deze optie is geselecteerd, wordt een dynamische pagina (JSP) gestart waarop de Afbeeldingsset wordt weergegeven in een pop-upzoomvenster. Met de zoomkoppeling wordt een pop-upvenster geopend dat de eigenlijke zoomfunctie bevat.
 
 Zie voor meer informatie en codevoorbeelden [HTML5-zoomviewer insluiten in de naslaggids voor Adobe viewers](https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/library/viewers-aem-assets-dmc/zoom/c-html5-20-zoom-viewer-about.html#section-e1c3106f5b3e445d9b95be337c2f94e2).
 

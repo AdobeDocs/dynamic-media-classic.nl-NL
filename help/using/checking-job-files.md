@@ -12,9 +12,9 @@ role: User
 exl-id: b6b11e1c-5eda-4bdb-8ffb-ecd3678f2352
 topic: Administration, Content Management
 level: Intermediate
-source-git-commit: 1b90beb99b161b76da81403f5aed9755b3a92c8b
+source-git-commit: 597b7d6bd98c59a644984baeecb888f86a8975c9
 workflow-type: tm+mt
-source-wordcount: '1538'
+source-wordcount: '1542'
 ht-degree: 0%
 
 ---
@@ -105,7 +105,7 @@ Zie [Een aangepast tijdinterval voor uploaden of publiceren maken](checking-job-
 
 ### Een aangepast tijdinterval voor uploaden of publiceren maken {#creating-a-custom-upload-or-publish-job-time-interval}
 
-Als u een aangepast tijdinterval wilt maken voor een upload (via FTP) of een publicatietaak, gaat u naar **[!UICONTROL Repeat]** > **[!UICONTROL Custom]**. Dan ga aantallen en vervangingen in het vakje van de Regel in beschrijvend een tijdinterval voor uploaden of publiceer banen om opnieuw te komen.
+Als u een aangepast tijdinterval wilt maken voor een upload (via FTP) of een publicatietaak, gaat u op de pagina Uploaden of Publiceren naar **[!UICONTROL Repeat]** > **[!UICONTROL Custom]**. Dan ga aantallen en vervangingen in het vakje van de Regel in beschrijvend een tijdinterval voor uploaden of publiceer banen om opnieuw te komen.
 
 De syntaxis voor het beschrijven van aangepaste upload en publicatietijdintervallen in het vak Regel is:
 

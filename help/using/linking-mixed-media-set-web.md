@@ -10,7 +10,7 @@ role: User
 exl-id: 76a7530c-0cc7-4a7f-bc31-2950c4946871
 topic: Content Management
 level: Intermediate
-source-git-commit: 51c05c62448b39a75facb2e90cc9da5d0f26ab45
+source-git-commit: faa1784e1d19b1167cad5749dc04227e3ff388e5
 workflow-type: tm+mt
 source-wordcount: '586'
 ht-degree: 0%
@@ -42,7 +42,7 @@ Nadat u een gemengde mediaset hebt gepubliceerd, kunt u de bijbehorende URL opha
 
 ## Gemengde mediaset-URL&#39;s toevoegen aan uw webpagina {#add-mixed-media-set-urls-to-your-web-page}
 
-De gemeenschappelijkste manier om een Gemengde Reeks van Media op te stellen is een verbinding (door een navigatiepictogram) op uw Web-pagina te plaatsen. Wanneer geklikt, lanceert de verbinding een dynamische pagina (ASPIS of JSP) die de Gemengde Geplaatste Media in de Gemengde Kijker van de Geplaatst Media toont.
+De gemeenschappelijkste manier om een Gemengde Reeks van Media op te stellen is een verbinding (door een navigatiepictogram) op uw Web-pagina te plaatsen. Als deze optie is geselecteerd, wordt een dynamische pagina (ASP of JSP) gestart waarop de gemengde mediaset in de gemengde mediaset van de viewer wordt weergegeven.
 
 ## De insluitcode van een viewer met gemengde mediaset kopiëren {#copying-the-embed-code-of-a-mixed-media-set-viewer}
 

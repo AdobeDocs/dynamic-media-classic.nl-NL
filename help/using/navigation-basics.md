@@ -12,16 +12,16 @@ role: User
 exl-id: 3ffcfab2-c29d-4b0f-b223-c4a5ca99f21a
 topic: Content Management
 level: Intermediate
-source-git-commit: d82f816553f807b514f4690827dab672a6baf690
+source-git-commit: 597b7d6bd98c59a644984baeecb888f86a8975c9
 workflow-type: tm+mt
-source-wordcount: '665'
+source-wordcount: '667'
 ht-degree: 0%
 
 ---
 
 # Basisbeginselen van navigatie{#navigation-basics}
 
-Het Adobe Dynamic Media Classic-scherm bevat drie belangrijke gebieden: De globale bar van de Navigatie, de Bibliotheek van Activa, het lusje van de Filters van Activa, doorbladert Comité/bouwt Comité, en Kart van Media (slechts Portaal van Media).
+Het Adobe Dynamic Media Classic-scherm bevat drie belangrijke gebieden: de algemene navigatiebalk, de Asset Library, het tabblad Asset Filters, het deelvenster Bladeren/Samenstellen en de Media Cart (alleen Media Portal).
 
 ![Basisbeginselen van navigatie](/help/using/assets/gs_navigation_basics_popup_popup.png)
 *Belangrijkste Adobe Dynamic Media Classic-gebieden*
@@ -33,11 +33,11 @@ De algemene navigatiebalk, die zich boven aan het scherm bevindt, bevat knoppen 
 
 * **[!UICONTROL Select Company]** - Kies het bedrijf dat u wilt openen in het menu. Deze knop is niet beschikbaar als u met één bedrijf werkt.
 
-* **[!UICONTROL Upload]** - Hiermee opent u het uploadscherm, zodat u bestanden van uw computer of netwerk kunt uploaden naar Adobe Dynamic Media Classic. U kunt bestanden uploaden vanaf uw bureaublad of via FTP. Zie [Bestanden uploaden](/help/using/uploading-files.md).
+* **[!UICONTROL Upload]** - Opent het uploadscherm zodat u bestanden van uw computer of netwerk kunt uploaden naar Adobe Dynamic Media Classic. U kunt bestanden uploaden vanaf uw bureaublad of via FTP. Zie [Bestanden uploaden](/help/using/uploading-files.md).
 
 * **[!UICONTROL Build]** - Kies een bouwsteentaak in het menu. Het deelvenster Samenstellen wordt geopend, zodat u een elementtype kunt maken.
 
-* **[!UICONTROL Publish]** - Hiermee opent u het scherm Publiceren, zodat u rich media-elementen kunt publiceren naar Adobe Dynamic Media Image Servers en de rest van de Adobe Dynamic Media Classic SAAS-infrastructuur.
+* **[!UICONTROL Publish]** - Hiermee opent u het scherm Publiceren, zodat u rich media-elementen kunt publiceren naar de Adobe van Dynamic Media Image Servers en de rest van de Adobe Dynamic Media Classic SAAS-infrastructuur.
 
 * **[!UICONTROL Jobs]** - Opent het scherm van Banen zodat kunt u verslagen van upload onderzoeken en banen publiceren.
 
@@ -59,11 +59,11 @@ De algemene navigatiebalk, die zich boven aan het scherm bevindt, bevat knoppen 
 
 Gebruik de Asset Library om de elementen te ordenen waarmee u werkt. U kunt mappen en submappen maken om uw elementen te ordenen in de Asset Library.
 
-Bovenaan in het deelvenster Elementenbibliotheek staan opdrachten voor het zoeken naar elementen. U kunt zoeken naar elementen en filteren om elementen te zoeken. Selecteer **[!UICONTROL Trash]** onder aan de Bibliotheek van Activa als u activa wilt onderzoeken u schrapte.
+Bovenaan in het deelvenster Elementenbibliotheek staan opdrachten voor het zoeken naar elementen. U kunt zoeken naar elementen en filteren om elementen te zoeken. Selecteer de **[!UICONTROL Trash]** onder aan de Bibliotheek van Activa als u activa wilt onderzoeken u schrapte.
 
 >[!NOTE]
 >
->U kunt **[!UICONTROL Asset Library]** besturingselementen voor het openen of sluiten van de Asset Library en voor meer ruimte om op het scherm te werken. Selecteer **[!UICONTROL Expand]**/**[!UICONTROL Collapse]** besturingselement voor het uitvouwen of sluiten van het deelvenster. Deze besturingselementen staan links in het deelvenster.
+>U kunt **[!UICONTROL Asset Library]** besturingselementen voor het openen of sluiten van de Asset Library en voor meer ruimte om op het scherm te werken. Selecteer de **[!UICONTROL Expand]**/**[!UICONTROL Collapse]** besturingselement voor het uitvouwen of sluiten van het deelvenster. Deze besturingselementen staan links in het deelvenster.
 
 ## Bladeren in deelvenster/deelvenster Samenstellen {#browse-panel-build-panel}
 

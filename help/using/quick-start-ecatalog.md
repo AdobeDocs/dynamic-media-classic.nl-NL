@@ -10,9 +10,9 @@ role: User
 exl-id: 9e2df814-465d-412a-a032-ef3e8cb462ba
 topic: Integrations
 level: Experienced
-source-git-commit: 1b90beb99b161b76da81403f5aed9755b3a92c8b
+source-git-commit: 597b7d6bd98c59a644984baeecb888f86a8975c9
 workflow-type: tm+mt
-source-wordcount: '1531'
+source-wordcount: '1533'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ Afhankelijk van de instellingen die u kiest voor uw eCatalog, kunt u in de viewe
 * Zoek in de catalogus naar een trefwoord of trefwoorden. De zoekresultaten worden weergegeven als een lijst met miniaturen in een zoekvenster links in de catalogus. Elke aanklikbare miniatuur vertegenwoordigt een catalogusspread waar de gemarkeerde zoekterm is gevonden.
 
 * Deel de catalogus via sociale media, download de catalogus om deze offline weer te geven en schakel Favorieten in om items te markeren die u snel wilt retourneren of druk de catalogus af.
-* Navigeer in de catalogus met de inhoudsopgave of de weergave van het paginaraster. Klik op de middelste rand van een pagina voor of achter de catalogus.
+* Navigeer in de catalogus met de inhoudsopgave of de weergave van het paginaraster. Selecteer de middelste rand van een pagina om de catalogus voor of achter de catalogus te plaatsen.
 * Zoom in, zoom uit en pannen om items op een pagina te bekijken.
 * Plaats de aanwijzer boven een paginagebied (de zogeheten Afbeeldingskaart), zodat u een pop-upvenster kunt zien met informatie over een item.
 * Selecteer een paginagebied zodat er een nieuwe webpagina met meer informatie over een item wordt geopend.
@@ -76,7 +76,7 @@ Op de pagina eCatalog, op **[!UICONTROL Order Pages]** selecteert u een lay-outo
 
 Als u pagina&#39;s wilt toevoegen, selecteert u een map in de elementenbibliotheek en sleept u vervolgens PDF- of afbeeldingsbestanden van de map naar het scherm Pagina&#39;s bestellen. In plaats van de standaardpaginanummers kunt u aangepaste paginanamen opgeven of een groot aantal paginanamen importeren.
 
-Selecteren **[!UICONTROL Save]** voert u een naam in voor uw eCatalog, kiest u een Adobe Dynamic Media Classic-map om deze op te slaan en selecteert u **[!UICONTROL Save]**. Elke keer dat u de paginavolgorde wijzigt of uw eCatalog bewerkt, slaat u de wijzigingen op door op **[!UICONTROL Save]**.
+Selecteren **[!UICONTROL Save]** voert u een naam in voor uw eCatalog, kiest u een Adobe Dynamic Media Classic-map om deze op te slaan en selecteert u **[!UICONTROL Save]**. Elke keer dat u de paginavolgorde wijzigt of uw eCatalog bewerkt, slaat u de wijzigingen op door **[!UICONTROL Save]**.
 
 Zie [Een eCatalog maken](creating-ecatalog.md).
 
