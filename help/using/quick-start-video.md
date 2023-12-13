@@ -10,9 +10,9 @@ role: User
 exl-id: 1157400c-b33a-422e-848c-258660ddc748
 topic: Content Management
 level: Beginner
-source-git-commit: 1b90beb99b161b76da81403f5aed9755b3a92c8b
+source-git-commit: a30bc34b1943d63620cb12098b7bd2db4714086d
 workflow-type: tm+mt
-source-wordcount: '1769'
+source-wordcount: '1391'
 ht-degree: 0%
 
 ---
@@ -62,13 +62,13 @@ Wanneer een adaptieve videoset wordt gegenereerd, bevat deze MP4-video&#39;s.
 
   Zie de nieuwste ondersteuning in de [Referentiehandleiding voor Adobe Viewers](https://experienceleague.adobe.com/docs/dynamic-media-developer-resources.html).
 
-  Adobe Dynamic Media Classic ondersteunt het afspelen van mobiele video voor MP4 H.264-video. U kunt op de volgende website naar BlackBerry®-apparaten zoeken die deze video-indeling ondersteunen:
+  Adobe Dynamic Media Classic ondersteunt het afspelen van mobiele video voor MP4 H.264-video. <!-- LINK IS 404; NO SUITABLE REPLACEMENT WAS FOUND You can find BlackBerry&reg; devices that support this video format at the following website: -->
 
-  Zie [Ondersteunde video-indelingen op BlackBerry®](https://support.blackberry.com/kb/articleDetail?ArticleNumber=000005482).
+  <!-- See [Supported video formats on BlackBerry&reg;](https://support.blackberry.com/kb/articleDetail?ArticleNumber=000005482). -->
 
   U kunt Windows®-apparaten die deze video-indeling ondersteunen als volgt vinden:
 
-  Zie [Ondersteunde video-indelingen op Windows® Phone](https://learn.microsoft.com/en-us/windows/uwp/audio-video-camera/supported-codecs).
+  [Ondersteunde video-indelingen op Windows® Phone](https://learn.microsoft.com/en-us/windows/uwp/audio-video-camera/supported-codecs).
 
 * De video afspelen met gebruik van voorinstellingen voor Adobe Dynamic Media Classic Viewer, waaronder de volgende:
 
