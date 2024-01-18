@@ -1,7 +1,6 @@
 ---
 title: Aanmelden bij Adobe Analytics
 description: Leer hoe u zich vanuit Adobe Dynamic Media Classic aanmeldt bij Adobe Analytics.
-uuid: 5614babe-1097-4228-a3dc-27e5a25366d5
 contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
@@ -12,18 +11,18 @@ role: Data Engineer,Admin,User
 exl-id: 261b8f7c-c61c-4ce3-b9dc-8549347aca2e
 topic: Integrations, Development
 level: Experienced
-source-git-commit: 5d8b7cb8b4616a998346675d7324b568634698fb
+source-git-commit: ae7d0c6d3047d68ed3da4187ef516dc51c95de30
 workflow-type: tm+mt
-source-wordcount: '758'
+source-wordcount: '756'
 ht-degree: 0%
 
 ---
 
 # Aanmelden bij Adobe Analytics{#log-in-to-adobe-analytics}
 
-Alvorens u login om de rapporten van Adobe Analytics te vormen en de rapportvariabelen van Adobe Analytics aan de gebeurtenissen van Adobe Dynamic Media Classic aan te passen, verifieer dat u een lid van de groep van de Toegang van de Dienst van het Web in Adobe Analytics bent. De leden in deze groep kunnen tot alle rapporten in de gespecificeerde rapportreeksen door middel van de Diensten API van het Web van Experience Cloud toegang hebben ongeacht de toestemmingen die in de interface worden geplaatst. Ga in Adobe Analytics naar **[!UICONTROL Admin Tools]** > **[!UICONTROL User Management]** > **[!UICONTROL Edit Groups]**.
+Alvorens u login om de rapporten van Adobe Analytics te vormen en de rapportvariabelen van Adobe Analytics aan de gebeurtenissen van Adobe Dynamic Media Classic aan te passen, verifieer dat u een lid van de groep van de Toegang van de Dienst van het Web in Adobe Analytics bent. De leden in deze groep kunnen tot alle rapporten in de gespecificeerde rapportreeksen door middel van de Diensten API van het Web van het Experience Cloud ongeacht de toestemmingen toegang hebben die in de interface worden geplaatst. Ga in Adobe Analytics naar **[!UICONTROL Admin Tools]** > **[!UICONTROL User Management]** > **[!UICONTROL Edit Groups]**.
 
-Wanneer u zich aanmeldt, kunt u de Experience Cloud Org-id invoeren om de meest recente videoanalytische implementatie te gebruiken. Als u ervoor kiest om uw id niet in te voeren, werkt het rapporteren van video nog steeds. De gegevens worden echter mogelijk niet correct geïntegreerd met andere gegevens voor die client van buiten Adobe Dynamic Media Classic.
+Wanneer u zich aanmeldt, kunt u de Experience Cloud-Org-id invoeren om de meest recente videoanalytische implementatie te gebruiken. Als u ervoor kiest om uw id niet in te voeren, werkt het rapporteren van video nog steeds. De gegevens worden echter mogelijk niet correct geïntegreerd met andere gegevens voor die client van buiten Adobe Dynamic Media Classic.
 
 >[!NOTE]
 >
@@ -34,7 +33,7 @@ Wanneer u zich aanmeldt, kunt u de Experience Cloud Org-id invoeren om de meest 
 Begin met het integreren van Dynamic Media Classic met Adobe Analytics OAuth. De Adobe Analytics OAuth-integratie met Dynamic Media Classic wordt doorgaans slechts eenmaal per gebruiker uitgevoerd.
 
 1. Toegang [Adobe Developer Console](https://developer.adobe.com/console). Zorg ervoor dat uw account beheerdersmachtigingen heeft voor de organisatie waarvoor de integratie is vereist.
-1. Selecteer in de rechterbovenhoek van de startpagina het juiste bedrijf in de vervolgkeuzelijst. (Het onderstaande screenshot dient uitsluitend ter informatie; de daadwerkelijke bedrijfsnaam die u selecteert, kan variëren.)
+1. Selecteer in de rechterbovenhoek van de startpagina het juiste bedrijf in de vervolgkeuzelijst. (Het onderstaande screenshot is alleen ter informatie. De werkelijke bedrijfsnaam die u selecteert, kan variëren.)
 
    ![Een nieuw project maken](assets/analytics-oauth1.png)
 
@@ -63,8 +62,8 @@ Begin met het integreren van Dynamic Media Classic met Adobe Analytics OAuth. De
 1. Selecteer in de rechterbenedenhoek van de pagina de optie **[!UICONTROL Save configured API]**.
 1. In het navigatievenster, links op de Adobe Analytics-pagina, onder **[!UICONTROL Credentials]**, selecteert u **[!UICONTROL OAuth Web]**.
 1. Onder **[!UICONTROL Credential details]** Ga als volgt te werk:
-   * Onder **[!UICONTROL Client ID]**, selecteert u **[!UICONTROL Copy]** om de waarde te kopiëren. U hebt deze waarde nodig voor de daaropvolgende configuratie Analytics in de Dynamic Media Classic-bureaubladtoepassing die moet worden uitgevoerd.
-   * Onder **[!UICONTROL Client Secret]**, selecteert u **[!UICONTROL Retrieve client secret]** om de bijbehorende waarde weer te geven. Selecteren **[!UICONTROL Copy]** om de waarde te kopiëren. U hebt deze waarde nodig voor de volgende Adobe Analytics-configuratie in Dynamic Media Classic-bureaubladtoepassing die moet worden uitgevoerd.
+   * Onder **[!UICONTROL Client ID]**, selecteert u **[!UICONTROL Copy]** de waarde kopiëren. U hebt deze waarde nodig voor de daaropvolgende configuratie Analytics in de Dynamic Media Classic-bureaubladtoepassing die moet worden uitgevoerd.
+   * Onder **[!UICONTROL Client Secret]**, selecteert u **[!UICONTROL Retrieve client secret]** om de bijbehorende waarde weer te geven. Selecteren **[!UICONTROL Copy]** de waarde kopiëren. U hebt deze waarde nodig voor de volgende Adobe Analytics-configuratie in Dynamic Media Classic-bureaubladtoepassing die moet worden uitgevoerd.
 
 ## Adobe Analytics configureren in Adobe Dynamic Media Classic {#configure-analytics-in-dmc}
 
@@ -80,8 +79,8 @@ Begin met het integreren van Dynamic Media Classic met Adobe Analytics OAuth. De
 1. Ga in de rechterbovenhoek van de Adobe Dynamic Media Classic-bureaubladtoepassing naar **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]**.
 1. In het linkerdeelvenster, onder **[!UICONTROL Application Setup]**, selecteert u **[!UICONTROL Adobe Analytics]**.
 1. Op de **[!UICONTROL Adobe Analytics Configuration]** pagina, selecteert u **[!UICONTROL Adobe Analytics Login]**.
-1. In de **[!UICONTROL Adobe Analytics Login]** in het dialoogvenster **[!UICONTROL CLIENT ID]** en **[!UICONTROL CLIENT SECRET]** plakken de waarden die u eerder hebt gekopieerd.
-1. Selecteer in de rechterbenedenhoek van het dialoogvenster de optie **[!UICONTROL Login]** en voer uw Adobe IMS-aanmelding (Identity Management Services) uit.
+1. In de **[!UICONTROL Adobe Analytics Login]** in het dialoogvenster **[!UICONTROL CLIENT ID]** en de **[!UICONTROL CLIENT SECRET]** plakken de waarden die u eerder hebt gekopieerd.
+1. Selecteer rechtsonder in het dialoogvenster de optie **[!UICONTROL Login]** en voer uw Adobe IMS-aanmelding (Identity Management Services) uit.
 
    Wanneer u zich met succes hebt aangemeld, verschijnt het dialoogvenster Adobe Analytics-aanmelding opnieuw samen met het dialoogvenster **[!UICONTROL COMPANIES]** vervolgkeuzelijst, geopend door de bedrijven die u ter beschikking staan.
 
@@ -93,7 +92,7 @@ Begin met het integreren van Dynamic Media Classic met Adobe Analytics OAuth. De
 
    >[!NOTE]
    >
-   >De gebruiker moet zich er standaard van bewust zijn dat beide **[!UICONTROL COMPANIES]** en **[!UICONTROL SUITES]** vervolgkeuzelijsten zijn leeg. De gebruiker moet daarom in elke lijst een waarde selecteren.
+   >Standaard moet de gebruiker weten dat beide **[!UICONTROL COMPANIES]** en **[!UICONTROL SUITES]** vervolgkeuzelijsten zijn leeg. De gebruiker moet daarom in elke lijst een waarde selecteren.
 
 1. Selecteren **[!UICONTROL OK]** zodat kunt u de configuratie opslaan.
 

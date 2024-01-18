@@ -12,7 +12,7 @@ role: User
 exl-id: eb8afc39-7784-4e32-80b6-2b87f3e0acff
 topic: Content Management
 level: Intermediate
-source-git-commit: d82f816553f807b514f4690827dab672a6baf690
+source-git-commit: ae7d0c6d3047d68ed3da4187ef516dc51c95de30
 workflow-type: tm+mt
 source-wordcount: '104'
 ht-degree: 0%
@@ -25,7 +25,7 @@ Selecteer een element in het deelvenster Bladeren zodat u ermee kunt werken. Geb
 
 * **Eén middel** - Selecteer het element (door te dubbelklikken wordt het element geopend in de gedetailleerde weergave).
 
-* **Verschillende activa** - Houd Ctrl (Windows®) of Command (Macintosh) ingedrukt en klik op elementen om elementen op verschillende plaatsen in het deelvenster Bladeren te selecteren. Houd Shift ingedrukt en klik (klik op een element en houd Shift ingedrukt en klik op een ander element) om aangrenzende elementen te selecteren.
+* **Verschillende activa** - Houd Ctrl (Windows®) of Command (Mac) ingedrukt en klik op elementen om elementen op verschillende plaatsen in het deelvenster Bladeren te selecteren. Houd Shift ingedrukt en klik (klik op een element en houd Shift ingedrukt en klik op een ander element) om aangrenzende elementen te selecteren.
 
 * **Alle elementen in het deelvenster Bladeren** - Ga naar **[!UICONTROL Select]** > **[!UICONTROL All]**.
 

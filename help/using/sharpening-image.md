@@ -12,9 +12,9 @@ role: User
 exl-id: 4b3e8368-f8f5-46d9-9130-361a8273de2c
 topic: Content Management
 level: Intermediate
-source-git-commit: 51c05c62448b39a75facb2e90cc9da5d0f26ab45
+source-git-commit: ae7d0c6d3047d68ed3da4187ef516dc51c95de30
 workflow-type: tm+mt
-source-wordcount: '2223'
+source-wordcount: '2154'
 ht-degree: 0%
 
 ---
@@ -128,7 +128,7 @@ De opties voor Kwaliteit JPG bepalen het compressieniveau JPG:
 
 Als u geen Vooraf ingesteld Beeld gebruikt of specifieke het scherpen protocollen van de Server van het Beeld langs het URL koord overgaat, dan wordt uw beeld niet verscherpt wanneer het wordt gedownsampled. Als dit gebrek aan verscherping optreedt, kunt u echter standaardwaarden voor verscherpen instellen en wordt elke afbeelding altijd wat verscherpt.
 
-Ga naar **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Publish Setup]** > **[!UICONTROL Image Server]**. Als u de standaardmodus voor het berekenen van nieuwe pixels instelt op **[!UICONTROL `Sharp2`]**, wordt de afbeelding altijd verscherpt wanneer het downsamplen wordt uitgevoerd.
+Ga naar **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Publish Setup]** > **[!UICONTROL Image Server]**. Als u de standaardmodus voor het berekenen van nieuwe pixels instelt op **`Sharp2`**, wordt de afbeelding altijd verscherpt wanneer het downsamplen wordt uitgevoerd.
 
 **Verscherpen toevoegen aan viewervoorinstellingen**
 

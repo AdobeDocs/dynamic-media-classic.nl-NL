@@ -12,9 +12,9 @@ role: User
 exl-id: 5e3b0002-5ae2-4437-862f-caa098b04362
 topic: Content Management
 level: Intermediate
-source-git-commit: d82f816553f807b514f4690827dab672a6baf690
+source-git-commit: ae7d0c6d3047d68ed3da4187ef516dc51c95de30
 workflow-type: tm+mt
-source-wordcount: '414'
+source-wordcount: '419'
 ht-degree: 0%
 
 ---
@@ -36,7 +36,7 @@ Adobe Dynamic Media Classic houdt een overzicht van exporttaken bij in het scher
 
    * **[!UICONTROL Conversion]** - Zet het elementbestand of de oorspronkelijke afbeelding om.
 
-   * **[!UICONTROL Size]** - U kunt een standaardgrootte selecteren. U kunt ook **[!UICONTROL Other]** van de **[!UICONTROL Size]** kiest u de gewenste maateenheid en geeft u de breedte en hoogte op.
+   * **[!UICONTROL Size]** - U kunt een standaardgrootte selecteren. U kunt ook **[!UICONTROL Other]** van de **[!UICONTROL Size]** kiest u de gewenste maateenheid en geeft u vervolgens de breedte en de hoogte op.
 
      Zie ook [Beschikbare exportopties voor gebruikers van Media Portal opgeven](specifying-export-options-available-media.md#specifying_export_options_available_to_media_portal_users).
 
@@ -48,7 +48,7 @@ Adobe Dynamic Media Classic houdt een overzicht van exporttaken bij in het scher
 
    * **[!UICONTROL Job Name]** - U kunt een taaknaam aan het exporteren toewijzen.
 
-   * **[!UICONTROL Send Email To]** - U kunt desgewenst een e-mailadres invoeren als u de middelen per e-mail wilt verzenden. Het e-mailbericht bevat de URL waar de ontvanger de elementen kan downloaden.
+   * **[!UICONTROL Send Email To]** - U kunt desgewenst een e-mailadres invoeren als u de middelen per e-mail wilt verzenden. In het e-mailbericht wordt de URL weergegeven waar de ontvanger de elementen kan downloaden.
 
 1. Selecteren **[!UICONTROL Export]**.
 
@@ -77,7 +77,7 @@ Met conversie kunt u de volgende elementtypen exporteren:
 * PDF (geconverteerde pagina&#39;s worden gegenereerd)
 * PostScript®
 
-Het volgende gedrag treedt op wanneer een groot aantal verschillende soorten activa in de exporter worden ingevoerd:
+Het volgende gedrag treedt op wanneer een grote selectie van verschillende soorten activa in de exporter wordt ingevoerd:
 
 * Alle elementtypen die niet kunnen worden geëxporteerd, worden uit de lijst verwijderd voordat de taak wordt verzonden
 * Als een conversie wordt aangevraagd, worden alle typen die kunnen worden omgezet, geëxporteerd als origineel

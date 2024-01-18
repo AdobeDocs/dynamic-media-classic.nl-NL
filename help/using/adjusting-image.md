@@ -12,9 +12,9 @@ role: User
 exl-id: 880ee6d0-cb0a-4d53-9056-f0b8b292136e
 topic: Content Management
 level: Intermediate
-source-git-commit: 1b90beb99b161b76da81403f5aed9755b3a92c8b
+source-git-commit: ae7d0c6d3047d68ed3da4187ef516dc51c95de30
 workflow-type: tm+mt
-source-wordcount: '512'
+source-wordcount: '516'
 ht-degree: 0%
 
 ---
@@ -29,13 +29,13 @@ Zie ook [Een alias voor een afbeelding maken](adjusting-image.md#creating_an_ali
 
 1. Selecteer de rollover van de afbeelding Bewerken knop en kies Aanpassen of dubbelklik in het deelvenster Bladeren op de afbeelding zodat deze wordt geopend in Gedetailleerde weergave.
 1. Selecteer een grootte en Voorinstelling voor afbeelding (onder in het venster).
-1. Gebruik de opdrachten aan de rechterkant van het venster Editor aanpassen om de afbeelding aan te passen:
+1. Gebruik de opdrachten aan de rechterkant van het dialoogvenster `Adjust Editor` venster zodat u de afbeelding kunt aanpassen:
 
    * Gebruik de opties voor spiegelen om een afbeelding horizontaal of verticaal om te draaien.
    * Gebruik de schuifregelaar Roteren om de afbeelding te roteren. U kunt waarden invoeren in het veld Roteren om een afbeelding te roteren. Bij een positieve waarde wordt de waarde rechtsom geroteerd en bij een negatieve waarde wordt de waarde linksom geroteerd.
    * Gebruik de schuifregelaar Vervagen of het bijbehorende vak om een afbeelding te vervagen. Hoe hoger de waarde, hoe vager de afbeelding wordt.
    * Gebruik de opties Contrast, Helderheid, Verzadiging, Kleurtoon en Kleurbalans om de kleur en helderheid aan te passen. Deze effecten zijn cumulatief. Wijzigingen in de instellingen voor Magenta/Groen worden bijvoorbeeld toegevoegd aan wijzigingen die zijn aangebracht in de instellingen voor Kleurtoon.
-   * Gebruik de opties voor Vullen met kleur om een afbeelding te vullen met behoud van schaduwen en hooglichten. Wijzigingen in de opties voor Vullen met kleur zijn ook cumulatief. Kies in het menu Helderheid de optie **[!UICONTROL No Compensation]** dus u schakelt automatische helderheidscompensatie uit. Stel de contrastwaarde in op 0 om het contrastbereik van de oorspronkelijke afbeelding te behouden of geef een contrastbereik op met een waarde groter dan 0. Bij een waarde van 100 wordt het contrast gemaximaliseerd. De typische waarden liggen in het bereik 30-70.
+   * Gebruik de `Colorize` opties voor het inkleuren van een afbeelding met behoud van schaduwen en hooglichten. Wijzigingen in de opties voor Vullen met kleur zijn ook cumulatief. Kies in het menu Helderheid de optie **[!UICONTROL No Compensation]** dus u schakelt automatische helderheidscompensatie uit. Stel de contrastwaarde in op 0 om het contrastbereik van de oorspronkelijke afbeelding te behouden of geef een contrastbereik op met een waarde groter dan 0. Bij een waarde van 100 wordt het contrast gemaximaliseerd. De typische waarden liggen in het bereik 30-70.
 
 1. Voer een van de volgende handelingen uit wanneer u klaar bent met het aanpassen van de afbeelding:
 
@@ -47,25 +47,25 @@ Zie ook [Een alias voor een afbeelding maken](adjusting-image.md#creating_an_ali
 
    * Selecteer **[!UICONTROL Save As]**.
 
-     Selecteer in de vervolgkeuzelijst de optie **[!UICONTROL Save as new master]**.
+     Selecteer in de vervolgkeuzelijst de optie **[!UICONTROL Save as new primary]**.
 In de **[!UICONTROL Folder Name]** selecteert u de map waarin u de nieuwe primaire afbeelding wilt opslaan.
 Selecteren **[!UICONTROL Save]**.
 
    * De afbeelding opslaan als een andere weergave van de primaire afbeelding. u kunt een alias voor het tot stand brengen. Selecteren **[!UICONTROL Save As]**.
 
-     In de **[!UICONTROL Save As]** in de vervolgkeuzelijst selecteert u **[!UICONTROL Save as another view of master]**.
+     Van de drop-down lijst in **[!UICONTROL Save As]** dialoogvenster selecteert u **[!UICONTROL Save as another view of primary]**.
 In de **[!UICONTROL Folder Name]** selecteert u de map waarin u de nieuwe primaire afbeelding wilt opslaan.
 Selecteren **[!UICONTROL Save]**.
 
 ## Een alias voor een afbeelding maken {#creating-an-alias-for-an-image}
 
-Wanneer u een afbeelding hebt aangepast, kunt u deze opslaan als een andere weergave van de primaire afbeelding. Hiertoe kunt u een alias voor de afbeelding maken met de opdracht **[!UICONTROL Save as additional view of master]** gebruiken.
+Wanneer u een afbeelding hebt aangepast, kunt u deze opslaan als een andere weergave van de primaire afbeelding. Hiertoe kunt u een alias voor de afbeelding maken met de opdracht **[!UICONTROL Save as additional view of primary]** gebruiken.
 
 **Een alias voor een afbeelding maken:**
 
 1. In de rasterweergave of lijstweergave, in het dialoogvenster **[!UICONTROL Edit]** vervolgkeuzelijst naast een afbeelding waarvoor u een alias wilt maken, selecteert u **[!UICONTROL Adjust]**.
 1. Selecteer in de rechterbenedenhoek van de pagina de optie **[!UICONTROL Save As]**.
-1. In de **[!UICONTROL Save As]** in de vervolgkeuzelijst selecteert u **[!UICONTROL Save as additional view of master]**.
+1. Van de drop-down lijst in **[!UICONTROL Save As]** dialoogvenster selecteert u **[!UICONTROL Save as additional view of primary]**.
 1. In de **[!UICONTROL Folder Name]** selecteert u de map waarin u de aliased afbeelding wilt opslaan.
 1. In de **[!UICONTROL File Name]** veld, typt u de naam die u voor de alias wilt gebruiken.
 1. Selecteren **[!UICONTROL Save]**.

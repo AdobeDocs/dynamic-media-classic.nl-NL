@@ -1,7 +1,7 @@
 ---
-source-git-commit: 597b7d6bd98c59a644984baeecb888f86a8975c9
+source-git-commit: ae7d0c6d3047d68ed3da4187ef516dc51c95de30
 workflow-type: tm+mt
-source-wordcount: '429'
+source-wordcount: '425'
 ht-degree: 0%
 
 ---
@@ -58,7 +58,7 @@ Deze gedragscode is zowel van toepassing binnen projectruimten als in openbare r
 
 ## Handhaving
 
-Gevallen van misbruik, pesterijen of anderszins onacceptabel gedrag kunnen worden gemeld door contact op te nemen met het projectteam op Grp-opensourceoffice@adobe.com. Alle klachten worden onderzocht en onderzocht. Er wordt een antwoord gegeven dat noodzakelijk en passend wordt geacht in de gegeven omstandigheden. Het projectteam is verplicht de vertrouwelijkheid ten aanzien van de melder van een incident te handhaven. Nadere bijzonderheden over het specifieke handhavingsbeleid kunnen afzonderlijk worden vermeld.
+Gevallen van misbruik, pesterijen of anderszins onacceptabel gedrag kunnen worden gemeld door contact op te nemen met het projectteam op Grp-opensourceoffice@adobe.com. Alle klachten worden onderzocht en onderzocht. Er wordt een antwoord gegeven dat noodzakelijk en passend wordt geacht voor de omstandigheden. Het projectteam is verplicht de vertrouwelijkheid ten aanzien van de melder van een incident te handhaven. Nadere bijzonderheden over het specifieke handhavingsbeleid kunnen afzonderlijk worden vermeld.
 
 Projectbeheerders die de gedragscode te goeder trouw niet naleven of handhaven, kunnen tijdelijke of permanente gevolgen ondervinden, zoals bepaald door andere leiders van het project.
 

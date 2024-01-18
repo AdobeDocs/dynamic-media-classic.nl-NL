@@ -10,9 +10,9 @@ role: User
 exl-id: aec4c256-f5ed-4307-afec-dec848be95f9
 topic: Content Management
 level: Intermediate
-source-git-commit: 51c05c62448b39a75facb2e90cc9da5d0f26ab45
+source-git-commit: ae7d0c6d3047d68ed3da4187ef516dc51c95de30
 workflow-type: tm+mt
-source-wordcount: '507'
+source-wordcount: '515'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ U kunt een afbeelding uitsnijden om witruimte rondom de afbeelding te verwijdere
 
 >[!NOTE]
 >
->Nadat u hebt uitgesneden, kunt u selecteren **[!UICONTROL Save As]** en sla een bijgesneden versie van de afbeelding op onder een andere naam. In het venster Opslaan als selecteert u **[!UICONTROL Save As New Master]** om een tweede kopie van de afbeelding op te slaan. Selecteren **[!UICONTROL Save As Addition View Of Master]** zodat u het origineel en de bijgesneden versie onder een andere naam kunt opslaan. Selecteren **[!UICONTROL Replace Original]** om het oorspronkelijke bestand te verwijderen waaruit u de afbeelding hebt bijgesneden. Voer vervolgens een naam voor de afbeelding in en selecteer **[!UICONTROL Submit]**.
+>Nadat u hebt uitgesneden, kunt u selecteren **[!UICONTROL Save As]** en sla een bijgesneden versie van de afbeelding op onder een andere naam. In het venster Opslaan als selecteert u **[!UICONTROL Save As New Primary]** om een tweede kopie van de afbeelding op te slaan. Selecteren **[!UICONTROL Save As Addition View Of Primary]** zodat u het origineel en de bijgesneden versie onder een andere naam kunt opslaan. Selecteren **[!UICONTROL Replace Original]** om het oorspronkelijke bestand te verwijderen waaruit u de afbeelding hebt bijgesneden. Voer vervolgens een naam voor de afbeelding in en selecteer **[!UICONTROL Submit]**.
 
 ## Uitsnijden om witruimte rondom een afbeelding te verwijderen {#crop-to-remove-white-space-around-an-image}
 

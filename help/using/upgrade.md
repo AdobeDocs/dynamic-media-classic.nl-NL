@@ -6,9 +6,9 @@ role: Admin,User
 exl-id: 5e322d81-1303-494b-b5dd-df29b5c5d8e2
 topic: Administration, Migration
 level: Intermediate
-source-git-commit: 51c05c62448b39a75facb2e90cc9da5d0f26ab45
+source-git-commit: ae7d0c6d3047d68ed3da4187ef516dc51c95de30
 workflow-type: tm+mt
-source-wordcount: '560'
+source-wordcount: '572'
 ht-degree: 0%
 
 ---
@@ -56,4 +56,4 @@ De nieuwe [!DNL Dynamic Media] op [!DNL Adobe Experience Manager] bouwt op de fu
 * Sterke prestaties in 2016 Online Video Platform rapport.
 * Medialeverancier met de meeste mogelijkheden tot internethandel 1000, negen jaar achter elkaar.
 * 24/7/265 ondersteuning, 99,95% SLA&#39;s, Adobe Professional Services.
-* Aantoonbare infrastructuur die wereldwijd meer dan 800 klanten bedient, 3,5 PB verkeer per maand en meer dan 500 miljoen activa in beheer, 60% groei van het verkeer van jaar tot jaar.
+* Bewezen infrastructuur die wereldwijd meer dan 800 klanten, 3,5 petabytes aan verkeer per maand en meer dan 500 miljoen activa in beheer, 60% groei van het verkeer jaar in jaar uit.

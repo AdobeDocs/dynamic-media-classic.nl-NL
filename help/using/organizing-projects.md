@@ -12,7 +12,7 @@ role: User
 exl-id: 69aabf4a-21bc-4bd8-8aad-33c2cfb9cf57
 topic: Content Management
 level: Intermediate
-source-git-commit: d82f816553f807b514f4690827dab672a6baf690
+source-git-commit: ae7d0c6d3047d68ed3da4187ef516dc51c95de30
 workflow-type: tm+mt
 source-wordcount: '466'
 ht-degree: 0%
@@ -33,7 +33,7 @@ U kunt een project maken wanneer u bestanden uploadt of projecten maakt in het d
 
 >[!NOTE]
 >
->Voor u om activa in Projecten te organiseren, moet uw beheerder u opstelling hebben om hen te gebruiken. Als er onder aan de elementenbibliotheek geen sectie voor de map Projecten wordt weergegeven, is deze methode voor het ordenen van elementen niet beschikbaar voor u. Zie [Algemene instellingen van toepassing](application-setup.md#general-settings).
+>Voor u om activa in Projecten te organiseren, moet uw beheerder u opstelling hebben om hen te gebruiken. Als u geen sectie van de omslag van Projecten bij de bodem van de Bibliotheek van Middelen ziet, is deze methode om activa te organiseren niet beschikbaar aan u. Zie [Algemene instellingen van toepassing](application-setup.md#general-settings).
 
 ## Een projectmap maken {#creating-a-project-folder}
 
@@ -41,11 +41,11 @@ U kunt een projectmap maken die begint in de elementenbibliotheek of wanneer u b
 
 * **In de Middelenbibliotheek** - Blader naar de onderkant van de elementenbibliotheek, naar de sectie Projecten en selecteer **[!UICONTROL Add Project]**. Voer een naam in voor het project.
 
-* **Bij het uploaden van bestanden** - Ga in het uploadscherm naar **[!UICONTROL Add to Project]** > **[!UICONTROL Create Project]**. Voer een naam in voor het project.
+* **Bestanden uploaden** - Ga in het uploadscherm naar **[!UICONTROL Add to Project]** > **[!UICONTROL Create Project]**. Voer een naam in voor het project.
 
 >[!NOTE]
 >
->Het gebied Projecten in de Middelenbibliotheek is één enkele niveauomslaglijst. submappen zijn niet toegestaan.
+>Het gebied Projecten in de Middelenbibliotheek is een maplijst op één niveau; submappen zijn niet toegestaan.
 
 ## Werken met projectmappen {#working-with-project-folders}
 
@@ -53,7 +53,7 @@ Voer een van de volgende handelingen uit om een projectmap weer te geven, te ver
 
 * **Bladeren door inhoud** - Selecteer de naam van de map in de elementenbibliotheek. De bijbehorende elementen worden weergegeven in het deelvenster Bladeren.
 
-* **Projectmappen verwijderen** - Selecteer de map Project en selecteer vervolgens **[!UICONTROL Remove Project]**. Als u elementen verwijdert uit een projectmap, worden deze niet verwijderd uit Adobe Dynamic Media Classic. de elementen blijven in de oorspronkelijke mappen waarin ze zijn opgeslagen.
+* **Projectmappen verwijderen** - Selecteer de map Project en selecteer vervolgens **[!UICONTROL Remove Project]**. Als u elementen uit een projectmap verwijdert, worden deze niet uit Adobe Dynamic Media Classic verwijderd. De elementen blijven in de oorspronkelijke mappen staan waarin ze zijn opgeslagen.
 
 * **Naam van projectmappen wijzigen** - Dubbelklik op de naam van de map in het deelvenster Elementen en voer een nieuwe naam in.
 
@@ -61,6 +61,6 @@ Voer een van de volgende handelingen uit om een projectmap weer te geven, te ver
 
 U kunt afbeeldingen toevoegen aan een projectmap die begint in het deelvenster Bladeren of wanneer u bestanden uploadt naar Adobe Dynamic Media Classic:
 
-* **Van het Browse Comité** - Selecteer de elementen en sleep deze naar een projectmap. U kunt ook naar **[!UICONTROL File]** > **[!UICONTROL Add To Project]**. Selecteer een naam voor de projectmap in het dialoogvenster Project selecteren en selecteer vervolgens **[!UICONTROL Submit]**.
+* **Van het Browse Comité** selecteert u de elementen en sleept u deze naar een projectmap. U kunt ook naar **[!UICONTROL File]** > **[!UICONTROL Add To Project]**. Selecteer een naam voor de projectmap in het dialoogvenster Project selecteren en selecteer vervolgens **[!UICONTROL Submit]**.
 
-* **Bij het uploaden van bestanden** - Selecteer op de pagina Uploaden de optie **[!UICONTROL Job Options]**. Selecteer in het dialoogvenster Opties voor uploaden de optie **[!UICONTROL Projects]** en selecteer vervolgens een projectnaam.
+* **Bestanden uploaden** - Selecteer op de pagina Uploaden de optie **[!UICONTROL Job Options]**. Selecteer in het dialoogvenster Opties voor uploaden de optie **[!UICONTROL Projects]** en selecteer vervolgens een projectnaam.

@@ -12,7 +12,7 @@ role: User
 exl-id: 23d6727b-0b48-4dac-be9f-f284d8d10de1
 topic: Content Management
 level: Intermediate
-source-git-commit: d82f816553f807b514f4690827dab672a6baf690
+source-git-commit: ae7d0c6d3047d68ed3da4187ef516dc51c95de30
 workflow-type: tm+mt
 source-wordcount: '48'
 ht-degree: 0%
@@ -22,5 +22,5 @@ ht-degree: 0%
 # Elementen afdrukken{#printing-assets}
 
 1. Selecteer in het deelvenster Bladeren het element dat of de elementen die u wilt afdrukken.
-1. Ga naar **[!UICONTROL File]** > **[!UICONTROL Print]** of drukken `Ctrl+P` (Windows®) of `Command+P` (Macintosh).
+1. Ga naar **[!UICONTROL File]** > **[!UICONTROL Print]** of drukken `Ctrl+P` (Windows®) of `Command+P` (Mac)
 1. Kies in het dialoogvenster Afdrukken hoeveel exemplaren u wilt afdrukken en klik op **[!UICONTROL Print]**.

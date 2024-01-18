@@ -12,9 +12,9 @@ role: User
 exl-id: bf695fee-821c-4396-829a-d57ccf475b0c
 topic: Content Management
 level: Intermediate
-source-git-commit: 1b90beb99b161b76da81403f5aed9755b3a92c8b
+source-git-commit: ae7d0c6d3047d68ed3da4187ef516dc51c95de30
 workflow-type: tm+mt
-source-wordcount: '825'
+source-wordcount: '777'
 ht-degree: 0%
 
 ---
@@ -43,7 +43,7 @@ Selecteer op de algemene navigatiebalk de optie **[!UICONTROL Upload]** om een P
 
 ## 2. Een sjabloon maken
 
-Als u een sjabloon wilt maken van een PSD-bestand, selecteert u **[!UICONTROL Create Template]** wanneer u het bestand uploadt. Als u een sjabloon wilt maken van afbeeldingen, gaat u op de algemene navigatiebalk naar **[!UICONTROL Build]** > **[!UICONTROL Template Basics]** voert u een breedte- en hoogtemeting in voor het canvas. Selecteer in de rechterbovenhoek van de pagina een van de **[!UICONTROL Designer]** of **[!UICONTROL Developer]** en sleep afbeeldingen naar de sjabloonpagina. U kunt ook de afbeeldingen selecteren *voor* ga naar **[!UICONTROL Build]** > **[!UICONTROL Template Basics]**. De sjabloonpagina bevat gereedschappen voor:
+Als u een sjabloon wilt maken van een PSD-bestand, selecteert u **[!UICONTROL Create Template]** wanneer u het bestand uploadt. Als u een sjabloon wilt maken van afbeeldingen, gaat u op de algemene navigatiebalk naar **[!UICONTROL Build]** > **[!UICONTROL Template Basics]** voert u een breedte- en hoogtemeting voor het canvas in. Selecteer in de rechterbovenhoek van de pagina een van de **[!UICONTROL Designer]** of **[!UICONTROL Developer]** en sleep afbeeldingen naar de sjabloonpagina. U kunt ook de afbeeldingen selecteren *voor* ga naar **[!UICONTROL Build]** > **[!UICONTROL Template Basics]**. De sjabloonpagina bevat gereedschappen voor:
 
 * Afbeeldingslagen toevoegen. Als u een laag wilt toevoegen, sleept u een afbeelding naar de sjabloonpagina.
 * Tekstlagen toevoegen. Selecteer de **[!UICONTROL Text tool]** pictogram. Sleep de aanwijzer om een vak voor de tekstlaag te maken en maak de tekst vervolgens op met gereedschappen op de tekstpagina.

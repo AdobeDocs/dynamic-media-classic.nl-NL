@@ -12,9 +12,9 @@ role: User
 exl-id: 618ae6a4-6f60-4a80-b197-a9d35b3c47af
 topic: Content Management
 level: Intermediate
-source-git-commit: d82f816553f807b514f4690827dab672a6baf690
+source-git-commit: ae7d0c6d3047d68ed3da4187ef516dc51c95de30
 workflow-type: tm+mt
-source-wordcount: '602'
+source-wordcount: '603'
 ht-degree: 0%
 
 ---
@@ -56,9 +56,9 @@ Als u elementen nauwkeurig wilt bekijken, voorvertonen of bewerken, kunt u deze 
 
 ## Gegevens ophalen in de gedetailleerde weergave {#getting-information-in-detail-view}
 
-De gedetailleerde weergave biedt informatie over een element of bestand. Hier wordt deze informatie over een object getoond: de map waarin het is opgeslagen, de bestandsnaam, de datum waarop het item naar Adobe Dynamic Media Classic is geüpload en de publicatiegeschiedenis. U kunt metagegevens ook weergeven en bewerken en trefwoorden voor een element toevoegen in de gedetailleerde weergave.
+De gedetailleerde weergave biedt informatie over een element of bestand. Deze informatie over een item wordt weergegeven: de map waarin het is opgeslagen, de bestandsnaam, de datum waarop het item naar Adobe Dynamic Media Classic is geüpload en de publicatiegeschiedenis. U kunt metagegevens ook weergeven en bewerken en trefwoorden voor een element toevoegen in de gedetailleerde weergave.
 
-U kunt een middel-URL in de Gedetailleerde Mening verkrijgen; de URL is echter pas actief wanneer u het element publiceert. Voor afbeeldingen biedt de gedetailleerde weergave ook een lijst met samengestelde en afgeleide elementen en metagegevens, zoals zoomdoelen en Afbeeldingssets.
+U kunt een middel-URL in de Gedetailleerde Mening verkrijgen; nochtans, is URL niet actief tot u de activa publiceert. Voor afbeeldingen biedt de gedetailleerde weergave ook een lijst met samengestelde en afgeleide elementen en metagegevens, zoals zoomdoelen en Afbeeldingssets.
 
 ## Werken met elementen in de gedetailleerde weergave {#working-with-assets-in-detail-view}
 
@@ -80,15 +80,15 @@ In deze tabel wordt aangegeven welke andere opties beschikbaar zijn voor verschi
 
 | Type element | Bewerken/aanpassen | Voorvertoning |
 | --- | --- | --- |
-| Afbeeldingen | Afbeeldingen met hyperlinks toevoegen<br>Zoomdoelen toevoegen<br>Uitsnijden<br>Verscherpen<br>Aangepaste weergaven maken | Ja; Voorinstellingen voor zoomen en afbeeldingen |
-| Afbeeldingen in kast en vensterbekleding | Nee | Miniatuur |
+| Afbeeldingen | Afbeeldingen met hyperlinks toevoegen<br>Zoomdoelen toevoegen<br>Uitsnijden<br>Verscherpen<br>Aangepaste weergaven maken | Ja; voorinstellingen voor zoomen en afbeeldingen |
+| Afbeeldingen in behuizing en venster | Nee | Miniatuur |
 | eCatalogs | Bewerken | Ja<br>Deelvenster Info is ook beschikbaar |
 | Lettertypen | Lettertypegegevens bewerken | Nee |
 | FXG-bestanden | Bewerken | Ja |
 | ICC-profielen | Profielgegevens bewerken | Nee |
 | Illustrator-bestanden | Nee (tenzij omgezet in FXG) | Nee |
 | Afbeeldingssets | Bewerken | Ja |
-| InDesign-bestanden | Nee (tenzij omgezet in FXG) | Nee |
+| InDesigns | Nee (tenzij omgezet in FXG) | Nee |
 | PDF-bestanden | Nee | Nee |
 | PSD-bestanden | Ja voor afzonderlijke lagen | Ja voor afzonderlijke lagen |
 | Sets draaien | Bewerken | Ja |

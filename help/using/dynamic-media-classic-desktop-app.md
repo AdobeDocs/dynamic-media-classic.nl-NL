@@ -10,9 +10,9 @@ role: Admin,User
 exl-id: 604b4630-4704-4254-84b5-91b33bb19d58
 topic: Administration
 level: Intermediate
-source-git-commit: 51c05c62448b39a75facb2e90cc9da5d0f26ab45
+source-git-commit: ae7d0c6d3047d68ed3da4187ef516dc51c95de30
 workflow-type: tm+mt
-source-wordcount: '1943'
+source-wordcount: '1889'
 ht-degree: 0%
 
 ---
@@ -273,7 +273,7 @@ U kunt de cache van afbeeldingen en elementen niet alleen wissen met de bureaubl
 
 **_Ik kan het deelvenster Media Cart niet zien op de landingspagina van Adobe Dynamic Media Classic._**<br>Tik in Adobe Dynamic Media Classic op **[!UICONTROL Setup > Personal Setup]**. Controleer of in de sectie Browser **[!UICONTROL Show MediaPortal Features]**is geselecteerd (ingeschakeld). Tikken **[!UICONTROL Save > Close]**.
 
-**_De publicatiestatus (groene indicator) van een element wordt niet correct weergegeven._**<br>In de gebruikersinterface van de browser was opnieuw aanmelden bij de gebruikersinterface vereist om de juiste publicatiestatus van elementen te zien. In de bureaubladtoepassing heeft Adobe een **[!UICONTROL Refresh]**op de werkbalk, rechts van **[!UICONTROL Select None]**knop. Tik op de knop **[!UICONTROL Refresh]**om de laatste status van alle elementen op de opgegeven pagina te zien. Geen nieuwe aanmelding vereist zoals met de gebruikersinterface van de browser.
+**_De publicatiestatus (groene indicator) van een element wordt niet correct weergegeven._**<br>In de gebruikersinterface van de browser was opnieuw aanmelden bij de gebruikersinterface vereist om de juiste publicatiestatus van elementen te zien. In de bureaubladtoepassing heeft Adobe een **[!UICONTROL Refresh]**op de werkbalk, rechts van **[!UICONTROL Select None]**knop. Tik op de knop **[!UICONTROL Refresh]**om de laatste status van alle elementen op de opgegeven pagina te zien. Geen heraanmelding vereist zoals met de gebruikersinterface van de browser.
 
 ![Pictogram Vernieuwen](/help/using/assets/refresh-icon1.png)
 *Pictogram Vernieuwen*

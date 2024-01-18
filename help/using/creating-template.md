@@ -12,9 +12,9 @@ role: User
 exl-id: 23ac1a0f-c90b-4250-ae36-93702fb5ebd9
 topic: Content Management
 level: Experienced
-source-git-commit: 51c05c62448b39a75facb2e90cc9da5d0f26ab45
+source-git-commit: ae7d0c6d3047d68ed3da4187ef516dc51c95de30
 workflow-type: tm+mt
-source-wordcount: '3309'
+source-wordcount: '3261'
 ht-degree: 0%
 
 ---
@@ -50,7 +50,7 @@ U kunt een sjabloon maken op basis van een bestaande sjabloon. Open de sjabloon 
 
    * **Beginnen vanaf het scherm Sjabloon** - Ga naar **[!UICONTROL Build]** > **[!UICONTROL Template Basics]**. Selecteer Designer of Developer.
 
-1. Voer in het dialoogvenster Canvasgrootte invoeren afmetingen voor de breedte en hoogte van de sjabloon in.
+1. Voer in het dialoogvenster Canvasgrootte invoeren de afmetingen voor breedte en hoogte van de sjabloon in.
 1. Selecteer een map in de elementenbibliotheek en sleep het gewenste PSD-bestand of de gewenste afbeeldingen voor de sjabloon naar het scherm Sjabloon.
 1. Wanneer u klaar bent, gaat u naar de rechterbenedenhoek van de pagina en zorgt u ervoor dat **[!UICONTROL Publish after save]** is geselecteerd (standaard).
 1. Selecteren **[!UICONTROL Save]**.
@@ -248,7 +248,7 @@ Lagen moeten klein genoeg zijn om op het canvas te passen. U kunt de grootte van
 
 >[!NOTE]
 >
->Adobe Dynamic Media Classic raadt u aan een voorinstelling voor afbeeldingen te maken die de exacte grootte van uw sjabloon heeft. Als u de grootte van de voorinstelling Afbeelding afstemt op de sjabloongrootte, weet u zeker dat de uiteindelijke uitvoergrootte en de verscherpingsopties voor de sjabloon correct zijn ingesteld. Nadat u deze voorinstelling voor afbeelding hebt gemaakt, kunt u deze kiezen in het menu Voorinstelling toepassen op het scherm Sjabloonvoorvertoning. Het scherm toont u hoe het beeld eruit ziet wanneer het van de server wordt geleverd. Zie [Voorinstellingen afbeelding instellen](setting-image-presets.md#setting_up_image_presets).
+>Adobe Dynamic Media Classic raadt u aan een voorinstelling voor afbeeldingen te maken die de exacte grootte van uw sjabloon heeft. Als u de grootte van de voorinstelling Afbeelding afstemt op de sjabloongrootte, weet u zeker dat de uiteindelijke uitvoergrootte en de verscherpingsopties voor de sjabloon correct zijn ingesteld. Nadat u deze Voorinstelling afbeelding hebt gemaakt, kunt u deze kiezen in het menu Voorinstelling toepassen op het scherm Sjabloonvoorvertoning. Het scherm toont u hoe het beeld eruit ziet wanneer het van de server wordt geleverd. Zie [Voorinstellingen afbeelding instellen](setting-image-presets.md#setting_up_image_presets).
 
 * **De grootte van een laag wijzigen** - Als u de grootte van een laag of het canvas wilt wijzigen, selecteert u de laag of het canvas in de lijst Lagen en gebruikt u een van de volgende technieken:
 

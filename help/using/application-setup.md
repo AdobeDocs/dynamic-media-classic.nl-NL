@@ -10,9 +10,9 @@ role: Admin
 exl-id: 3f96606e-ef5c-4c01-aa0f-3148f14e28be
 topic: Administration
 level: Intermediate
-source-git-commit: 51c05c62448b39a75facb2e90cc9da5d0f26ab45
+source-git-commit: ae7d0c6d3047d68ed3da4187ef516dc51c95de30
 workflow-type: tm+mt
-source-wordcount: '10703'
+source-wordcount: '10399'
 ht-degree: 1%
 
 ---
@@ -161,7 +161,7 @@ Beheerders kunnen voorinstellingen maken voor het exporteren van elementen. Gebr
 
 Ga naar **[!UICONTROL Setup]** > **[!UICONTROL Image Presets]**.
 
-Zie [Slimme beeldverwerking](https://experienceleague.adobe.com/docs/experience-manager-65/assets/dynamic/imaging-faq.html#dynamic).
+Zie [Slimme beeldverwerking](https://experienceleague.adobe.com/docs/experience-manager-65/assets/dynamic/imaging-faq.html).
 
 ### Voorinstellingen voor afbeeldingen maken en bewerken {#creating-and-editing-image-presets}
 
@@ -193,7 +193,7 @@ In het scherm Voorinstelling toevoegen en Voorinstelling bewerken vindt u de vol
 
    * Kwantiseringsopties voor kleur GIF
 
-      * **[!UICONTROL Type]** - Selecteer Adaptief (standaard), Web of Macintosh. Als u **[!UICONTROL GIF With Alpha]**, is de optie Macintosh niet beschikbaar.
+      * **[!UICONTROL Type]** - Selecteer Adaptief (standaard), Web of Mac. Als u **[!UICONTROL GIF With Alpha]**, is de optie Mac niet beschikbaar.
 
       * **[!UICONTROL Dither]** - Selecteer Onscherp of Uit.
 
@@ -491,37 +491,37 @@ Zie [Opmerkingen bij de release Adobe Viewers](https://experienceleague.adobe.co
 |  | Viewertechnologie | Desktop | Apple iPhone | Apple iPad | Android™-smartphone | Android™-tablet |
 |--- |--- |--- |--- |--- |--- |--- |
 | Zoomviewers |  |  |  |  |  |  |
-| Universal_HTML5_Flyout | HTML5 | X | X | X | X | X |
-| Universal_HTML5_Zoom_inline | HTML5 | X | X | X | X | X |
-| Universal_HTML5_Zoomen_donker | HTML5 | X | X | X | X | X |
-| Universal_HTML5_Zoomen_licht | HTML5 | X | X | X | X | X |
+| Universal_HTML5_Flyout | HTML 5 | X | X | X | X | X |
+| Universal_HTML5_Zoom_inline | HTML 5 | X | X | X | X | X |
+| Universal_HTML5_Zoomen_donker | HTML 5 | X | X | X | X | X |
+| Universal_HTML5_Zoomen_licht | HTML 5 | X | X | X | X | X |
 
 
 |  | Viewertechnologie | Desktop | Apple iPhone | Apple iPad | Android™-smartphone | Android™-tablet |
 |--- |--- |--- |--- |--- |--- |--- |
 | Afbeeldingssetviewers |  |  |  |  |  |  |
-| Universal_HTML5_Flyout | HTML5 | X | X | X | X | X |
-| Universal_HTML5_ImageSet_donker | HTML5 | X | X | X | X | X |
-| Universal_HTML5_ImageSet_light | HTML5 | X | X | X | X | X |
+| Universal_HTML5_Flyout | HTML 5 | X | X | X | X | X |
+| Universal_HTML5_ImageSet_donker | HTML 5 | X | X | X | X | X |
+| Universal_HTML5_ImageSet_light | HTML 5 | X | X | X | X | X |
 
 |  | Viewertechnologie | Desktop | Apple iPhone | Apple iPad | Android™-smartphone | Android™-tablet |
 |--- |--- |--- |--- |--- |--- |--- |
 | Viewers voor stalensets |  |  |  |  |  |  |
-| Universal_HTML5_Flyout | HTML5 | X | X | X | X | X |
-| Universal_HTML5_SwatchSet_black | HTML5 | X | X | X | X | X |
-| Universal_HTML5_SwatchSet_light | HTML5 | X | X | X | X | X |
+| Universal_HTML5_Flyout | HTML 5 | X | X | X | X | X |
+| Universal_HTML5_SwatchSet_black | HTML 5 | X | X | X | X | X |
+| Universal_HTML5_SwatchSet_light | HTML 5 | X | X | X | X | X |
 
 |  | Viewertechnologie | Desktop | Apple iPhone | Apple iPad | Android™-smartphone | Android™-tablet |
 |--- |--- |--- |--- |--- |--- |--- |
 | eCatalog-viewers |  |  |  |  |  |  |
-| Universal_HTML5_eCatalog_Adv(Bevat ondersteuning voor sociale media en zoeken naar catalogi.) | HTML5 | X | X | X | X | X |
-| Universal_HTML5_eCatalog(Inclusief ondersteuning voor sociale media en zoeken naar catalogi.) | HTML5 | X | X | X | X | X |
+| Universal_HTML5_eCatalog_Adv(Bevat ondersteuning voor sociale media en zoeken naar catalogi.) | HTML 5 | X | X | X | X | X |
+| Universal_HTML5_eCatalog(Inclusief ondersteuning voor sociale media en zoeken naar catalogi.) | HTML 5 | X | X | X | X | X |
 
 |  | Viewertechnologie | Desktop | Apple iPhone | Apple iPad | Android™-smartphone | Android™-tablet |
 |--- |--- |--- |--- |--- |--- |--- |
 | Weergaven draaien |  |  |  |  |  |  |
-| Universal_HTML5_SpinSet_donker | HTML5 | X | X | X | X | X |
-| Universal_HTML5_SpinSet_light | HTML5 | X | X | X | X | X |
+| Universal_HTML5_SpinSet_donker | HTML 5 | X | X | X | X | X |
+| Universal_HTML5_SpinSet_light | HTML 5 | X | X | X | X | X |
 
 **eVideo-viewers**
 
@@ -532,14 +532,14 @@ Adobe Dynamic Media Classic ondersteunt het afspelen van mobiele video voor MP4 
 
 |  | Viewertechnologie | Desktop | Apple iPhone | Apple iPad | Android™-smartphone | Android™-tablet | BlackBerry® Smartphone | Windows®-telefoon |
 |--- |--- |--- |--- |--- |--- |--- |--- |--- |
-| Universal_HTML5_Video(Inclusief ondersteuning voor ondertiteling.) Zie [Beste praktijken: Het gebruiken van de Universele HTML5 Videokijker.](best-practice-using-html5-video.md#best_practice_using_the_html5_video_viewer) | HTML5 | X | X | X | X | X | X | X |
-| Universal_HTML5_Video_social(Inclusief ondersteuning voor ondertiteling en sociale media.) | HTML5 | X | X | X | X | X | X | X |
+| Universal_HTML5_Video(Inclusief ondersteuning voor ondertiteling.) Zie [Beste praktijken: Het gebruiken van de Universele HTML5 Videokijker.](best-practice-using-html5-video.md#best_practice_using_the_html5_video_viewer) | HTML 5 | X | X | X | X | X | X | X |
+| Universal_HTML5_Video_social(Inclusief ondersteuning voor ondertiteling en sociale media.) | HTML 5 | X | X | X | X | X | X | X |
 
 |  | Viewertechnologie | Desktop | Apple iPhone | Apple iPad | Android™-smartphone | Android™-tablet |
 |--- |--- |--- |--- |--- |--- |--- |
 | Gemengde mediasetviewers |  |  |  |  |  |  |
-| Universal_HTML5_GemengdMedia_donker | HTML5 | X | X | X | X | X |
-| Universal_HTML5_MixedMedia_light | HTML5 | X | X | X | X | X |
+| Universal_HTML5_GemengdMedia_donker | HTML 5 | X | X | X | X | X |
+| Universal_HTML5_MixedMedia_light | HTML 5 | X | X | X | X | X |
 
 ### Ondersteunde matrix voor bewegingen voor mobiele viewers {#supported-mobile-viewers-gestures-matrix}
 
@@ -548,9 +548,9 @@ In de volgende tabel worden de bewegingen van de mobiele viewer weergegeven die 
 |  | Viewertechnologie | Desktop | Apple iPhone | Apple iPad | Android™-smartphone | Android™-tablet |
 |--- |--- |--- |--- |--- |--- |--- |
 | Afbeeldingssetviewers |  |  |  |  |  |  |
-| Universal_HTML5_Flyout | HTML5 | X | X | X | X | X |
-| Universal_HTML5_ImageSet_donker | HTML5 | X | X | X | X | X |
-| Universal_HTML5_ImageSet_light | HTML5 | X | X | X | X | X |
+| Universal_HTML5_Flyout | HTML 5 | X | X | X | X | X |
+| Universal_HTML5_ImageSet_donker | HTML 5 | X | X | X | X | X |
+| Universal_HTML5_ImageSet_light | HTML 5 | X | X | X | X | X |
 
 ### Het scherm Viewer Preset {#about-the-viewer-preset-screen}
 

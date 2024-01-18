@@ -6,9 +6,9 @@ role: Admin,User
 exl-id: 5c2e2937-fe4f-4b64-bee8-9572ca84695b
 topic: Content Management
 level: Intermediate
-source-git-commit: 51c05c62448b39a75facb2e90cc9da5d0f26ab45
+source-git-commit: ae7d0c6d3047d68ed3da4187ef516dc51c95de30
 workflow-type: tm+mt
-source-wordcount: '1550'
+source-wordcount: '1563'
 ht-degree: 0%
 
 ---
@@ -45,7 +45,7 @@ Ja, [!DNL Dynamic Media] gebruikt robuust, top-tier leveringsnetwerk van de Adob
 
 * Medialeverancier met de meeste mogelijkheden tot internethandel 1000, negen jaar achter elkaar.
 * 24/7/265 ondersteuning, 99,95% SLA&#39;s.
-* Aantoonbare infrastructuur die wereldwijd meer dan 800 klanten bedient, 3,5 PB verkeer per maand en meer dan 500 miljoen activa in beheer, 60% groei van het verkeer per jaar.
+* Aantoonbare infrastructuur die wereldwijd meer dan 800 klanten bedient, 3,5 petabytes aan verkeer per maand en meer dan 500 miljoen activa in beheer, 60% groei van het verkeer over jaar.
 
 +++
 
@@ -113,7 +113,7 @@ U kunt een upgrade uitvoeren wanneer u de nieuwe functies van [!DNL Dynamic Medi
 
 +++
 
-+++**Mag ik blijven gebruiken [!DNL Dynamic Media Classic] (voorheen Adobe Scene7) nadat ik ben geüpgraded naar [!DNL Dynamic Media]?**
++++**Mag ik nog steeds gebruiken? [!DNL Dynamic Media Classic] (voorheen Adobe Scene7) nadat ik ben geüpgraded naar [!DNL Dynamic Media]?**
 Nadat u hebt bijgewerkt naar [!DNL Dynamic Media], dient u Dynamic Media alleen te gebruiken voor beeldbewerking en video. U kunt blijven gebruiken [!DNL Dynamic Media Classic] alleen voor functies die nog niet in [!DNL Dynamic Media] met inbegrip van:
 
 * Visuele configurator (beeldauteur, beeldteruggeven).

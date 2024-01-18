@@ -12,9 +12,9 @@ role: User
 exl-id: 35e8e7fc-5b3c-441a-959c-df2e39ea0d4b
 topic: Content Management
 level: Intermediate
-source-git-commit: d82f816553f807b514f4690827dab672a6baf690
+source-git-commit: ae7d0c6d3047d68ed3da4187ef516dc51c95de30
 workflow-type: tm+mt
-source-wordcount: '916'
+source-wordcount: '922'
 ht-degree: 0%
 
 ---
@@ -27,19 +27,19 @@ Als u een effectieve centrifugeset wilt maken, moet u controleren of de afbeeldi
 >
 >In eerdere versies van Adobe Dynamic Media Classic konden tweedimensionale centrifuges niet worden gebruikt. Als u een Spin-reeks in een vorige versie van Adobe Dynamic Media Classic creeerde, kunt u niet uw eendimensionale Reeks van de Draai bewaren zonder het onder een verschillende naam eerst op te slaan. Selecteren **[!UICONTROL Save As]** in het scherm Spin Set en voer een nieuwe naam in zodat u deze in Adobe Dynamic Media Classic kunt bewerken.
 
-## Richtlijnen voor het maken van centrifuge-afbeeldingen {#guidelines-for-shooting-spin-set-images}
+## Richtlijnen voor het maken van centrifuges {#guidelines-for-shooting-spin-set-images}
 
 Over het algemeen geldt dat hoe meer afbeeldingen u in een centrifugeset hebt, hoe beter het effect van het draaien van afbeeldingen is. Als u echter veel afbeeldingen in de set opneemt, neemt de laadtijd van de afbeeldingen toe. Adobe Dynamic Media Classic raadt de volgende richtlijnen aan voor het maken van foto&#39;s voor gebruik in centrifuges:
 
 * Gebruik minimaal 8-12 afbeeldingen in een eendimensionale centrifuge en 16-24 afbeeldingen in een tweedimensionale centrifugeset.
-* Gebruik een indeling zonder verlies. TIFF en PNG worden aanbevolen.
+* Gebruik een indeling zonder verlies. U wordt aangeraden TIFF en PNG te gebruiken.
 * Masker alle afbeeldingen zodat het item op een zuiver witte of andere achtergrond met veel contrast wordt weergegeven. Voeg desgewenst schaduwen toe.
 * Zorg ervoor dat de productdetails goed verlicht en in nadruk zijn.
 * Neem spin beelden voor modekleding met een mannequin of een model. Vaak wordt de mannequin gemaskeerd (met behulp van een glazen mannequin) of wordt in de afbeelding een gestileerde mannequin/dressform weergegeven. U kunt een draaiset van een model maken door het aantal hoeken te definiëren. Markeer elke hoek met band op de vloer zodat u het model kunt begeleiden en in de richting van elke opname kunt kijken.
 
 ## Een centrifugeset maken {#create}
 
-De volgorde waarin de Spin-set is gemaakt of gemaakt in Adobe Dynamic Media Classic, is belangrijk. Afhankelijk van de volgorde waarin u de elementen ordent wanneer u afbeeldingen naar het raster sleept op de pagina Draaien in set, draait de Spin-set in een bepaalde richting. Daarom is de volgorde waarin het element visueel wordt weergegeven in de builder de manier waarop het wordt gedraaid wanneer een gebruiker de muisaanwijzer beweegt of zijn vinger van links naar rechts beweegt.
+De volgorde waarin de Spin-set is gemaakt of gemaakt in Adobe Dynamic Media Classic, is belangrijk. Afhankelijk van de volgorde waarin u de elementen ordent wanneer u afbeeldingen naar het raster sleept op de pagina Draaien en instellen, draait de Spin-set in een bepaalde richting. Daarom is de volgorde waarin het element visueel wordt weergegeven in de builder de manier waarop het wordt gedraaid wanneer een gebruiker de muisaanwijzer beweegt of zijn vinger van links naar rechts beweegt.
 
 Wanneer u een set maakt, **[!UICONTROL Publish after save]** Deze optie is op de volgende manieren van invloed op de set en de set leden:
 
@@ -50,7 +50,7 @@ Wanneer u een set maakt, **[!UICONTROL Publish after save]** Deze optie is op de
 
 Zie ook [Elementen handmatig publiceren](publishing-files.md#manually-publishing-assets) en [Publicaties van elementen handmatig ongedaan maken](publishing-files.md#manually-unpublishing-assets).
 
-Wanneer u een reeks van de Rotatie creeert, adviseert Adobe de volgende beste praktijken en handhaaft de volgende grens:
+Wanneer u een reeks van de Rotatie creeert, adviseert de Adobe de volgende beste praktijken en handhaaft de volgende grens:
 
 | Limiettype voor centrifugeren instellen | Beste praktijken | Oplegde limiet |
 | --- | --- | --- |
@@ -58,7 +58,7 @@ Wanneer u een reeks van de Rotatie creeert, adviseert Adobe de volgende beste pr
 
 Zie ook [Dynamic Media-beperkingen](/help/using/limitations.md).
 
-Nadat u een Spin-reeks hebt opgeslagen, kunt u Voorvertoning gebruiken in de Build: Met de optie Spin Set kunt u zien hoe de centrifugeset er in de standaardviewer uitziet.
+Nadat u een Spin-set hebt opgeslagen, kunt u Voorvertoning in de Build: Spin-set gebruiken om te zien hoe de Spin-set er in de standaardviewer uitziet.
 
 **Een centrifugeset maken:**
 
@@ -76,7 +76,7 @@ Nadat u een Spin-reeks hebt opgeslagen, kunt u Voorvertoning gebruiken in de Bui
 1. Selecteer in het dialoogvenster Opslaan een map waarin u de centrifugeset wilt opslaan. Voer in het veld Bestandsnaam de naam van de spin-set in.
 1. Selecteren **[!UICONTROL Save]**.
 
-## Een draaiset bewerken {#editing-a-spin-set}
+## Een centrifugeset bewerken {#editing-a-spin-set}
 
 Of u een gepubliceerde set of een niet-gepubliceerde set bewerkt, **[!UICONTROL Publish after save]** Deze optie is op de volgende manieren van invloed op de set en de set leden:
 
@@ -105,13 +105,13 @@ Zie ook [Elementen handmatig publiceren](publishing-files.md#manually-publishing
 1. Wanneer u klaar bent met bewerken, gaat u naar de rechterbenedenhoek van de pagina en zorgt u ervoor dat **[!UICONTROL Publish after save]** is geselecteerd (standaard).
 1. Selecteren **[!UICONTROL Save]**, selecteert u een opslagmap, voert u een naam voor de set in en selecteert u **[!UICONTROL Save]**.
 
-## Een centrifugeerset verwijderen {#deleting-a-spin-set}
+## Een centrifugeset verwijderen {#deleting-a-spin-set}
 
-Wanneer u een set verwijdert, wordt de set zelf naar de prullenbak verplaatst. De leden (of &quot;kinderen&quot;) in die reeks worden echter niet beïnvloed; in plaats daarvan behouden zij elk hun bestaande gepubliceerde of niet - gepubliceerde staat .
+Wanneer u een set verwijdert, wordt de set zelf naar de prullenbak verplaatst. De leden (of &quot;kinderen&quot;) binnen die set worden echter niet beïnvloed, maar ze behouden hun bestaande gepubliceerde of niet-gepubliceerde status.
 
 Zie ook [Elementen handmatig publiceren](publishing-files.md#manually-publishing-assets) en [Publicaties van elementen handmatig ongedaan maken](publishing-files.md#manually-unpublishing-assets).
 
-**Een centrifugeset verwijderen:**
+**Een centrifuusset verwijderen:**
 
 1. Selecteer een of meer centrifuges in de rasterweergave, lijstweergave of detailweergave.
 1. Ga op de algemene navigatiebalk naar **[!UICONTROL File]** > **[!UICONTROL Delete]** > **[!UICONTROL Delete]**.

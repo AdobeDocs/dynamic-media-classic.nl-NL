@@ -1,20 +1,18 @@
 ---
 title: Inhoud in deelvenster Info beheren in afbeeldingssets
 description: Leer hoe u de inhoud van het deelvenster Info in Afbeeldingssets in Adobe Dynamic Media Classic beheert.
-uuid: ed7b4344-f180-41fc-a95a-62a9767dc056
 contentOwner: rbrough
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 content-type: reference
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/image_sets
-discoiquuid: ba5d1fb1-af54-471c-a471-853ace7f72fd
 feature: Dynamic Media Classic,Viewers,Image Sets
 role: User
 exl-id: 09fafdb4-51e2-4719-83b6-056f79d1ba9e
 topic: Content Management
 level: Intermediate
-source-git-commit: d82f816553f807b514f4690827dab672a6baf690
+source-git-commit: ae7d0c6d3047d68ed3da4187ef516dc51c95de30
 workflow-type: tm+mt
-source-wordcount: '754'
+source-wordcount: '755'
 ht-degree: 0%
 
 ---
@@ -26,12 +24,12 @@ Naast het gebruiken van de tekst van de Kaart van het Beeld voor uw omvergooien 
 U kunt de InfoPanel-instellingen en -gegevens beheren met de volgende functies in Adobe Dynamic Media Classic:
 
 * In het deelvenster InfoPanel Setup kunt u de sjabloon opgeven die wordt gebruikt voor het weergeven van de tekst in het deelvenster Info, een standaardreactie voor fouten en het aantal uren dat de informatie in de cache wordt opgeslagen. Bovendien kunt u specificeren of de Reeks van het Beeld automatisch wordt gepubliceerd.
-* In het deelvenster InfoPanel-gegevensinvoer kunt u een CSV-bestand opgeven met de tekst die u wilt weergeven in de rollovertekst van het deelvenster Info en de tijdstippen voor het bijwerken van de informatie.
+* In het venster InfoPanel Data feed kunt u een CSV-bestand opgeven met de tekst die u wilt weergeven in de rollovertekst van het deelvenster Info en de tijdstippen voor het bijwerken van de informatie.
 * Met het dialoogvenster Metagegevens importeren kunt u een TXT-bestand met tabs als scheidingsteken importeren dat de gegevens over de rollover-tekst bevat. U kunt deze optie TXT of het de voederpaneel van Gegevens InfoPanel met de Csv- dossieroptie voor uw het omvergooientekst gebruiken.
 
 ## Een reactiesjabloon instellen voor afbeeldingssets {#set-up-a-response-template-for-image-sets}
 
-U kunt een van de drie vooraf ingestelde reactiesjablonen selecteren om tekst weer te geven in een deelvenster Info. Deze vooraf ingestelde reactiesjablonen bepalen hoe uw gegevens worden weergegeven in het deelvenster Info: hoeveel kolommen en rijen, tekengrootte, lettertype enzovoort. U kunt een vooraf ingestelde reactiesjabloon selecteren of een eigen sjabloon maken.
+U kunt een van de drie vooraf ingestelde reactiesjablonen selecteren om tekst weer te geven in een deelvenster Info. Deze vooraf ingestelde reactiesjablonen bepalen hoe uw informatie wordt weergegeven in het deelvenster Info: hoeveel kolommen en rijen, tekengrootte, lettertype, enzovoort. U kunt een vooraf ingestelde reactiesjabloon selecteren of een eigen sjabloon maken.
 
 **Een reactiesjabloon instellen voor Afbeeldingssets:**
 
@@ -43,7 +41,7 @@ U kunt een van de drie vooraf ingestelde reactiesjablonen selecteren om tekst we
    * Als u uw eigen reactiesjabloon wilt maken, selecteert u **[!UICONTROL Custom]**. Typ de XML-definitie van de sjabloon in het tekstvak Gebruikerssjabloon. U kunt de standaardsjabloon die al in het tekstvak is gedefinieerd, gebruiken als basis voor uw eigen reactie.
 
 1. (Optioneel) Typ in het vak Standaardreactie de tekst die u wilt weergeven als er in Adobe Dynamic Media Classic een fout optreedt bij het ophalen van informatie voor een afbeeldingskaart. Als het systeem bijvoorbeeld een bedrijfsnaam en een naam van een afbeeldingsset ontvangt, maar geen rollover-id, wordt dit bericht voor de gebruiker weergegeven.
-1. In het de tekstgebied van TTL van de Reactie, ga het aantal uren in dat u wilt wachten alvorens de gegevens in het voorgeheugen onder te brengen.
+1. In het de tekstgebied van TTL van de Reactie, ga het aantal uren in dat u wilt wachten alvorens de gegevens in cache te plaatsen.
 
    * Stel een lager getal in als de gegevens regelmatig worden bijgewerkt.
    * Stel een hoger getal in als de gegevens relatief stabiel zijn en niet regelmatig hoeven te worden bijgewerkt. De standaardwaarde is tien uur.
@@ -68,7 +66,7 @@ Houd bij het opmaken van broninhoud rekening met de volgende richtlijnen:
 ### CSV-inhoud importeren in afbeeldingssets vanaf een extern gehoste locatie {#import-csv-content-into-image-sets-from-an-externally-hosted-location}
 
 1. Dubbelklik op de Afbeeldingsset zodat deze in de gedetailleerde weergave wordt geopend.
-1. Selecteren **[!UICONTROL InfoPanel Datafeed]**.
+1. Selecteren **[!UICONTROL InfoPanel Data feed]**.
 1. Voer in het tekstveld HTTP (External Hosted CSV file location) de URL naar het CSV-bestand in.
 1. (Optioneel) Geef in de velden Update plannen een tijd op om de inhoud bij te werken en selecteer vervolgens **[!UICONTROL Add]**.
 

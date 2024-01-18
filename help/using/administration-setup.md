@@ -11,9 +11,9 @@ role: Admin
 exl-id: 14e3d8be-f265-4cec-aa8e-19ef71526b68
 topic: Administration
 level: Intermediate
-source-git-commit: d82f816553f807b514f4690827dab672a6baf690
+source-git-commit: ae7d0c6d3047d68ed3da4187ef516dc51c95de30
 workflow-type: tm+mt
-source-wordcount: '1845'
+source-wordcount: '1846'
 ht-degree: 0%
 
 ---
@@ -36,7 +36,7 @@ Adobe Dynamic Media Classic ondersteunt verschillende gebruikersrollen. Deze rol
 
 <!-- **Adobe Dynamic Media Classic Administrator** Can view and administer all features in Adobe Dynamic Media Classic, as well as set up companies and add administrators and users. -->
 
-**Adobe Dynamic Media Classic-gebruiker** toegang hebben tot de ondernemingen waaraan zij zijn toegewezen; geen administratieve taken kan vervullen.
+**Adobe Dynamic Media Classic-gebruiker** Kan toegang krijgen tot de ondernemingen waaraan zij zijn toegewezen; kan geen administratieve taken uitvoeren.
 
 **Adobe Dynamic Media Classic Company Admin** Alleen hun eigen bedrijven kunnen weergeven en beheren. Een beheerder van het Bedrijf kan alle beleidsfuncties ook uitvoeren, met inbegrip van het toevoegen van beheerders en gebruikers. Een bedrijfsbeheerder kan een gebruiker toevoegen aan de DMC-bedrijfsbeheeraccounts. (Deze rol is de standaardgebruikersrol.)
 
@@ -50,7 +50,7 @@ Nadat u een gebruiker hebt toegevoegd, stuurt Adobe Dynamic Media Classic de geb
 
    >[!NOTE]
    >
-   >Het apostrof-teken (`‘`) is niet toegestaan in e-mailadressen.
+   >Het apostrof-teken (`'`) is niet toegestaan in e-mailadressen.
 
 1. Als u een rol aan de gebruiker wilt toewijzen, kiest u een optie Rol.
 
@@ -62,7 +62,7 @@ Nadat u een gebruiker hebt toegevoegd, stuurt Adobe Dynamic Media Classic de geb
 
    Na het bewaren, vraagt een herinnering of wilt u een gebruiker aan een ander bedrijf toevoegen. Selecteren **[!UICONTROL Add]** als u de gebruiker aan een bedrijf wilt toevoegen.
 
-   Alle nieuwe gebruikers krijgen een willekeurig gegenereerd wachtwoord. gebruikers moeten de wachtwoorden wijzigen wanneer zij zich voor het eerst aanmelden bij de Adobe Dynamic Media Classic-bureaubladtoepassing.
+   Alle nieuwe gebruikers krijgen een willekeurig gegenereerd wachtwoord. Gebruikers moeten de wachtwoorden wijzigen wanneer zij zich voor het eerst aanmelden bij de Adobe Dynamic Media Classic-bureaubladtoepassing.
 
    Nieuwe gebruikers krijgen een welkomstbericht nadat u ze hebt toegevoegd. Het e-mailbericht bevat een tijdelijk wachtwoord en legt uit hoe u zich bij Adobe Dynamic Media Classic kunt aanmelden.
 
@@ -84,7 +84,7 @@ U kunt gebruikers uit Adobe Dynamic Media Classic verwijderen door ze ongeldig t
 Gebruikers die zijn gedeactiveerd, hebben niet langer toestemming om de account in te voeren die boven aan het menu Selecteer accounts om toegang te krijgen wordt vermeld.
 
 1. Ga naar **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Administration Setup]** > **[!UICONTROL User Administration]**.
-1. Schakel in de gebruikerslijst de optie **[!UICONTROL Active]** naast de naam van de gebruiker.
+1. Schakel in de gebruikerslijst de optie **[!UICONTROL Active]** naast de gebruikersnaam.
 
 ### Gebruikersgegevens bewerken {#editing-user-information}
 
@@ -107,7 +107,7 @@ U kunt de volgende gebruikerslijst-filtrerende technieken gebruiken:
 
 * **Filteren op gebruikersrol** - Selecteer de **[!UICONTROL By User Role]** en kiest u een optie om de lijst te beperken tot gebruikers of beheerders van verschillende typen.
 
-* **Filteren op veldnaam** - Selecteer **[!UICONTROL Enable Filter By Field]**. Selecteer vervolgens de **[!UICONTROL By Field Name]** kiest u een kolom voor het filteren van de lijst, selecteert u het menu Filterteken en kiest u een letter. De lijst wordt op een van de kolommen gefilterd met de letter die u hebt gekozen. Als u de volledige lijst wilt weergeven, schakelt u de optie **[!UICONTROL Enable Filter By Field]** optie.
+* **Filteren op veldnaam** - Selecteer **[!UICONTROL Enable Filter By Field]**. Selecteer vervolgens de optie **[!UICONTROL By Field Name]** kiest u een kolom voor het filteren van de lijst, selecteert u het menu Filterteken en kiest u een letter. De lijst wordt op een van de kolommen gefilterd met de letter die u hebt gekozen. Als u de volledige lijst wilt weergeven, schakelt u de optie **[!UICONTROL Enable Filter By Field]** -optie.
 
 * **Ongeldige gebruikers filteren** - Selectie opheffen **[!UICONTROL Include Invalid]**. In de zoekresultaten worden alleen gebruikers weergegeven die zich in het systeem bevinden. Ongeldige gebruikers zijn verwijderd uit het systeem en de accounts die u beheert.
 
@@ -140,7 +140,7 @@ You can link an Adobe IMS user identity to an Adobe Dynamic Media Classic IPS us
 
       https://s7spsN.scene7.com/IpsWeb?ims=1
 
-      Replace “N” in the above path with the number for your IPS company region. That is, N = 1 for North America; 3 for EMEA; or 5 for JAPAC.
+      Replace "N" in the above path with the number for your IPS company region. That is, N = 1 for North America; 3 for EMEA; or 5 for JAPAC.
  -->
 
 ## Bandbreedte en opslag {#bandwidth-storage}
@@ -168,7 +168,7 @@ Het rapport Inhoud afbeelding biedt informatie over verzoeken om de volgende afb
 
 * **Aanvraag miniatuur** - Verzoeken om stalen of alternatieve afbeeldingen in viewers.
 
-* **Maskeraanvraag** - Verzoeken om afbeeldingen die grijswaardenmaskers retourneren.
+* **Maskeraanvraag** - Verzoeken om afbeeldingen met grijswaardenmaskers.
 
 * **Tegelaanvraag viewer** - Afbeeldingsverzoeken die door een viewer zijn geladen.
 
@@ -194,7 +194,7 @@ Een rapport over bandbreedte, opslag, afbeeldingsinhoud, domein, videostreaming 
 
 Nadat u een rapport hebt gegenereerd op de pagina Bandbreedte en opslag, kunt u opties kiezen voor het weergeven van informatie. U kunt kiezen hoe informatie wordt voorgesteld, informatie in een grafiek of gegevensnet bekijken, en een tijdspanne specificeren voor het vangen van informatie. In de weergave Gegevens kunt u ook gegevens sorteren en kolommen opnieuw rangschikken.
 
-* **Gegevens weergeven in een diagram of gegevensraster** - Selecteer **[!UICONTROL Chart View]** gegevens in een grafiek te zien; selecteren **[!UICONTROL Data View]** om gegevens in een gegevensraster weer te geven.
+* **Gegevens weergeven in een diagram of gegevensraster** - Selecteer **[!UICONTROL Chart View]** om gegevens in een grafiek te zien; selecteer **[!UICONTROL Data View]** om gegevens in een gegevensraster weer te geven.
 
 * **Kies een presentatietype voor een rapport** - Selecteer in het menu Type rapport de optie **[!UICONTROL Summary]**, **[!UICONTROL Daily]**, of **[!UICONTROL Monthly]** om gegevens in summiere vorm, door dag, of door maand te organiseren. Niet alle rapporten verstrekken deze optie.
 
@@ -226,9 +226,9 @@ Adobe Dynamic Media Classic-beheerders kunnen rapporten met afbeeldingsfouten ge
 
    * Als u fouten wilt sorteren op de koptekstgegevens, selecteert u een kop. Standaard worden fouten gesorteerd op aantal exemplaren, hoogste op laagste.
    * Beweeg de curseur over het gebied van de Reactie voor een fout om het specifieke foutenbericht te zien.
-   * Als u de koppeling naar de webpagina van de afbeelding of referentie wilt zien, plaatst u de cursor boven het URL-veld of het veld Referenter.
+   * Als u de koppeling naar de afbeelding of de verwijzingswebpagina wilt zien, plaatst u de cursor boven het URL-veld of het veld Referenter.
    * Selecteer **[!UICONTROL URL Copy URL]**. U kunt deze koppeling in een browservenster plakken om naar de afbeelding te gaan en de fout te onderzoeken.
-   * Als u de koppeling naar de verwijzende webpagina wilt kopiëren, selecteert u **[!UICONTROL Referrer Copy URL]**.
+   * Selecteer **[!UICONTROL Referrer Copy URL]**.
 
 De getoonde fouten zijn voor het bedrijf u momenteel het programma wordt geopend aan. Elke fout bevat de volgende informatie:
 

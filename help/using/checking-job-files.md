@@ -12,9 +12,9 @@ role: User
 exl-id: b6b11e1c-5eda-4bdb-8ffb-ecd3678f2352
 topic: Administration, Content Management
 level: Intermediate
-source-git-commit: 597b7d6bd98c59a644984baeecb888f86a8975c9
+source-git-commit: ae7d0c6d3047d68ed3da4187ef516dc51c95de30
 workflow-type: tm+mt
-source-wordcount: '1542'
+source-wordcount: '1560'
 ht-degree: 0%
 
 ---
@@ -43,7 +43,7 @@ Taken worden in de volgende categorieën op het tabblad Historie van de pagina T
 
 * **[!UICONTROL Total]** - Het aantal overgedragen bestanden.
 
-* **[!UICONTROL W (warnings)]** - Het aantal waarschuwingen in de taak (indien aanwezig). Waarschuwingen geven problemen aan met de taak die geen invloed hadden op de algehele voltooiing van de taak. Deze waarschuwingen kunnen meestal worden genegeerd omdat ze worden gerapporteerd over verborgen bestanden. Bijvoorbeeld: `.DS_store` de bestanden (Macintosh) en de bestanden Thumbs.db (Windows®) bevatten informatie over hoe te om beelddossiers aan gebruikers te tonen. Waarschuwingsgegevens met betrekking tot deze bestanden kunnen echter worden genegeerd omdat ze geen betrekking hebben op de manier waarop deze bestanden in Adobe Dynamic Media Classic worden gebruikt. U kunt dubbelklikken op een taaknaam voor gedetailleerde informatie over waarschuwingen.
+* **[!UICONTROL W (warnings)]** - Het aantal waarschuwingen in de taak (indien aanwezig). Waarschuwingen geven problemen aan met de taak die geen invloed hadden op de algehele voltooiing van de taak. Deze waarschuwingen kunnen meestal worden genegeerd omdat ze worden gerapporteerd over verborgen bestanden. Bijvoorbeeld: `.DS_store` bestanden (Mac) en bestanden Thumbs.db (Windows®) bevatten informatie over het weergeven van afbeeldingsbestanden voor gebruikers. Waarschuwingsgegevens met betrekking tot deze bestanden kunnen echter worden genegeerd omdat ze geen betrekking hebben op de manier waarop deze bestanden in Adobe Dynamic Media Classic worden gebruikt. U kunt dubbelklikken op een taaknaam voor gedetailleerde informatie over waarschuwingen.
 
 * **[!UICONTROL E (errors)]** - Hier wordt het aantal eventuele fouten in de taak weergegeven. U kunt dubbelklikken op een taaknaam voor gedetailleerde informatie over fouten.
 

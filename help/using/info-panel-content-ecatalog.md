@@ -10,9 +10,9 @@ role: User
 exl-id: bfb9c5a4-5068-4adb-9fe2-a4ead8656289
 topic: Integrations
 level: Experienced
-source-git-commit: 51c05c62448b39a75facb2e90cc9da5d0f26ab45
+source-git-commit: ae7d0c6d3047d68ed3da4187ef516dc51c95de30
 workflow-type: tm+mt
-source-wordcount: '841'
+source-wordcount: '844'
 ht-degree: 0%
 
 ---
@@ -24,8 +24,8 @@ Naast het gebruiken van de tekst van de Kaart van het Beeld voor uw rollovers in
 U kunt de InfoPanel-instellingen en -gegevens beheren met de volgende functies in Adobe Dynamic Media Classic:
 
 * In het deelvenster InfoPanel Setup kunt u de sjabloon opgeven die wordt gebruikt om de tekst in het deelvenster Info weer te geven, een standaardreactie voor fouten en het aantal uren dat de informatie in de cache wordt opgeslagen. Bovendien kunt u opgeven of de eCatalogs automatisch worden gepubliceerd.
-* In het deelvenster InfoPanel-gegevensinvoer kunt u een CSV-bestand opgeven met de tekst die u wilt weergeven in de rollovertekst van InfoPanel en de tijdstippen voor het bijwerken van de informatie.
-* Met het dialoogvenster Metagegevens importeren (dat u opent vanuit de weergave Pagina&#39;s toewijzen) kunt u een TXT-bestand met tabs als scheidingsteken importeren dat de gegevens over de rollover-tekst bevat. U kunt deze optie TXT of het paneel Datafeed met de Csv- dossieroptie voor uw het omvergooientekst gebruiken.
+* In het deelvenster InfoPanel-gegevenstoevoer kunt u een CSV-bestand opgeven met de tekst die u wilt weergeven in de rollovertekst van InfoPanel en kunt u de tijden voor het bijwerken van de informatie vastleggen.
+* Met het dialoogvenster Metagegevens importeren (dat u opent vanuit de weergave Pagina&#39;s toewijzen) kunt u een TXT-bestand met tabs als scheidingsteken importeren dat de gegevens over de rollover-tekst bevat. U kunt deze optie TXT of het paneel van de voer van Gegevens met de Csv- dossieroptie voor uw het omvergooientekst gebruiken.
 * In de weergave Pagina&#39;s toewijzen kunt u een voorvertoning weergeven van de xml die voor specifieke afbeeldingen met hyperlinks wordt weergegeven.
 
 ## Een reactiesjabloon voor eCatalogs instellen {#set-up-a-response-template-for-ecatalogs}
@@ -66,7 +66,7 @@ Houd bij het opmaken van broninhoud rekening met de volgende richtlijnen:
 ### CSV-inhoud vanuit een extern gehoste locatie importeren in eCatalogi {#import-csv-content-into-ecatalogs-from-an-externally-hosted-location}
 
 1. Dubbelklik op de eCatalog zodat deze in de gedetailleerde weergave wordt geopend.
-1. Selecteer de **[!UICONTROL InfoPanel Datafeed]** deelvenster.
+1. Selecteer de **[!UICONTROL InfoPanel Data feed]** deelvenster.
 1. Voer de URL voor het CSV-bestand in het vak Extern gehoste locatie voor het CSV-bestand in. U kunt de URL in dit veld plakken of rechtstreeks typen.
 1. (Optioneel) Geef een tijd op om de inhoud bij te werken met de menu&#39;s Update plannen en selecteer **[!UICONTROL Add]**. U kunt meerdere malen selecteren voor bijwerken. Elke updatetijd wordt weergegeven in het vak Update Times. (Als u een tijd wilt verwijderen, selecteert u deze en selecteert u **[!UICONTROL Delete]**.)
 1. (Optioneel) Selecteer **[!UICONTROL Run Update Now]** om de inhoud onmiddellijk bij te werken.

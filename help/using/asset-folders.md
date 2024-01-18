@@ -12,7 +12,7 @@ role: User
 exl-id: 8599d4a3-57eb-4432-812f-7e55a4315c1b
 topic: Content Management
 level: Intermediate
-source-git-commit: 597b7d6bd98c59a644984baeecb888f86a8975c9
+source-git-commit: ae7d0c6d3047d68ed3da4187ef516dc51c95de30
 workflow-type: tm+mt
 source-wordcount: '440'
 ht-degree: 0%
@@ -55,7 +55,7 @@ In de elementenbibliotheek worden bestanden in een mappenstructuur weergegeven. 
 
 Selecteer een map en gebruik de volgende technieken om de map te verwijderen of de naam ervan te wijzigen:
 
-* **Verwijderen** - Selecteer de **[!UICONTROL Remove Folder]** knop . Middelen in een verwijderde map worden in de map Prullenbak geplaatst. Je kunt ze daar herstellen.
+* **Verwijderen** - Selecteer de **[!UICONTROL Remove Folder]** knop. Middelen in een verwijderde map worden in de map Prullenbak geplaatst. Je kunt ze daar herstellen.
 
 * **Naam wijzigen** - Dubbelklik op de naam en voer een nieuwe naam in.
 
