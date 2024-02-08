@@ -1,6 +1,6 @@
 ---
 title: Voorinstellingen eCatalog-viewer instellen
-description: Leer hoe u voorinstellingen voor eCatalog-viewers instelt in Adobe Dynamic Media Classic.
+description: Leer hoe u eCatalog Viewer-voorinstellingen instelt in Adobe Dynamic Media Classic.
 uuid: aca66bc5-8491-4d81-9a06-1d3531860a14
 contentOwner: Rick Brough
 content-type: reference
@@ -11,9 +11,9 @@ role: User
 exl-id: 4357e6b8-fbc5-4e93-9476-db92a7dc7464
 topic: Integrations, Development
 level: Experienced
-source-git-commit: 5d8b7cb8b4616a998346675d7324b568634698fb
+source-git-commit: a9bd472705bce32f63a5710c3266e51256d17a00
 workflow-type: tm+mt
-source-wordcount: '465'
+source-wordcount: '464'
 ht-degree: 0%
 
 ---
@@ -35,8 +35,8 @@ Voer de volgende stappen uit, zodat u een voorinstelling voor een eCatalog-viewe
 
    * **Een voorinstelling voor een eCatalog-viewer bewerken** - Selecteer een voorinstelling voor een eCatalog-viewer en selecteer **[!UICONTROL Edit]**. Selecteren **[!UICONTROL Save As]** nadat u de voorinstelling hebt gemaakt.
 
-1. Voer in het scherm Viewer configureren een naam in voor uw voorinstelling voor de eCatalog-viewer.
-1. Stel in het scherm Viewer configureren de gewenste opties in.
+1. Voer op de pagina Viewer configureren een naam in voor uw voorinstelling voor de eCatalog-viewer.
+1. Stel op de pagina Viewer configureren de gewenste opties in.
 
    Selecteer de **[!UICONTROL Info Tip]** als u de beschrijving van de optie wilt lezen.
 

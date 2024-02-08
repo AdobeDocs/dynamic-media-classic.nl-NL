@@ -12,7 +12,7 @@ role: User
 exl-id: 05769eeb-5f1b-42ff-9392-2669f5051140
 topic: Content Management
 level: Intermediate
-source-git-commit: d82f816553f807b514f4690827dab672a6baf690
+source-git-commit: a9bd472705bce32f63a5710c3266e51256d17a00
 workflow-type: tm+mt
 source-wordcount: '435'
 ht-degree: 0%
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 # Staalsets weergeven{#viewing-swatch-sets}
 
-U kunt de stalensets bekijken in het voorvertoningsvenster met behulp van de beschikbare voorinstellingen. U gebruikt een zoomviewer: Voorinstelling aangepaste viewer voor stalensets.
+U kunt de stalensets bekijken in het voorvertoningsvenster met behulp van de beschikbare voorinstellingen. U gebruikt een zoomviewer: aangepaste viewer-voorinstelling voor stalensets.
 
 Adobe Dynamic Media Classic wordt geleverd met standaardvoorinstellingen voor viewers. Beheerders kunnen de Viewer-voorinstellingen maken of wijzigen.
 
@@ -32,11 +32,11 @@ U kunt Viewer-voorinstellingen maken en aanpassen aan uw wensen.
 1. Ga op de algemene navigatiebalk naar **[!UICONTROL Setup]** > **[!UICONTROL Viewer Presets]**.
 1. Voer een van de volgende handelingen uit:
 
-   * Als u een voorinstelling wilt maken, selecteert u **[!UICONTROL Add]**. Kies in het dialoogvenster Voorinstelling viewer toevoegen in de vervolgkeuzelijst Viewer de optie **[!UICONTROL Swatch Set Viewer]** selecteert u vervolgens **[!UICONTROL Add]**.
-   * Als u een bestaande voorinstelling voor een Staalset-viewer wilt bewerken, selecteert u de voorinstelling en selecteert u **[!UICONTROL Edit]**.
+   * Selecteer **[!UICONTROL Add]**. Kies in het dialoogvenster Voorinstelling viewer toevoegen in de vervolgkeuzelijst Viewer de optie **[!UICONTROL Swatch Set Viewer]** selecteert u vervolgens **[!UICONTROL Add]**.
+   * Als u een bestaande voorinstelling voor een Staalset Viewer wilt bewerken, selecteert u de voorinstelling en selecteert u **[!UICONTROL Edit]**.
 
 1. Typ in het tekstveld Naam voorinstelling op de pagina Viewer configureren een naam voor de voorinstelling Staalset Viewer.
-1. Kies opties in het scherm Viewer configureren.
+1. Selecteer opties op de pagina Configure Viewer.
 
    Als u een beschrijving van een optie wilt weergeven, selecteert u de optie **[!UICONTROL Info Tip]** rechts van de optie.
 
@@ -48,7 +48,7 @@ U kunt Viewer-voorinstellingen maken en aanpassen aan uw wensen.
 
 Met Voorvertoning kunt u zien hoe een element wordt weergegeven op een bepaald viewertype, zoals HTML5. Afhankelijk van het type element en de bijbehorende viewer die u hebt geselecteerd voor de voorvertoning, zijn niet alle platforms voor viewertypen beschikbaar in Voorvertoning.
 
-1. In het paneel van de Bibliotheek van Activa op de linkerkant, in **[!UICONTROL Show]** vervolgkeuzelijst, selecteert u een op een stalenset gebaseerd elementtype, zoals **[!UICONTROL Swatch Set]**.
+1. In het paneel van de Bibliotheek van Activa op de linkerkant, in **[!UICONTROL Show]** vervolgkeuzelijst, selecteert u een op een stalenset gebaseerd elementtype zoals **[!UICONTROL Swatch Set]**.
 1. In het paneel van de Bibliotheek van Activa op de linkerkant, navigeer de omslagen van Activa die de Reeks van het Monster bevatten die u met een kijker wilt voorproef.
 1. Voer een van de volgende handelingen uit:
 

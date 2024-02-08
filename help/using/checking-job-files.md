@@ -12,7 +12,7 @@ role: User
 exl-id: b6b11e1c-5eda-4bdb-8ffb-ecd3678f2352
 topic: Administration, Content Management
 level: Intermediate
-source-git-commit: ae7d0c6d3047d68ed3da4187ef516dc51c95de30
+source-git-commit: a9bd472705bce32f63a5710c3266e51256d17a00
 workflow-type: tm+mt
 source-wordcount: '1560'
 ht-degree: 0%
@@ -131,7 +131,7 @@ In deze tabel worden de tijdtoename, de toegestane waarden en de jokertekens wee
 In deze tabel worden de jokertekens beschreven die zijn toegestaan in het vak Regel en hoe u deze kunt gebruiken:
 
 | Jokerteken | Naam | Beschrijving |
-|--- |--- |--- |
+| --- | --- | --- |
 | `*` | Sterretje | Alle waarden (bijvoorbeeld &quot;elke minuut&quot;). |
 | `?` | Vraagteken | Geen specifieke waarde (bijvoorbeeld &quot;een minuut binnen het opgegeven uur&quot;). |
 | `,` | Komma | Overige waarden (bijvoorbeeld &quot;maandag en woensdag&quot;). |
@@ -139,7 +139,7 @@ In deze tabel worden de jokertekens beschreven die zijn toegestaan in het vak Re
 | `/` | slash | Toename (bijvoorbeeld &quot;om de 15 minuten&quot;). |
 | `L` | Kapitaal L | Laatste &quot;dag van de maand&quot; of &quot;dag van de week&quot; (alleen beschikbaar voor deze velden). Als de maand bijvoorbeeld januari is, plant een L-waarde voor het veld &quot;dag van de maand&quot; de taak voor 31 januari. Voor het veld &quot;Dag van de week&quot; kunt u dit teken alleen invoeren om de taak op zaterdag te plannen. U kunt deze met een getal gebruiken (bijvoorbeeld `6L`) om de laatste vrijdag van de maand te specificeren. Niet opgeven `L` met de jokertekens voor komma&#39;s of koppeltekens. |
 | `#` | Nummerteken | &quot;Nde&quot; weekdag van de maand (alleen beschikbaar voor het veld &quot;Dag van de week&quot;). Bijvoorbeeld: `6#3` in het veld &quot;dag van de week&quot; de derde vrijdag van de maand. De `6` geeft &quot;vrijdag&quot; aan (de zesde dag van de week) en `3` geeft het derde exemplaar in de maand aan. |
-| `C` | # Kapitaal C | Eerste kalender &quot;dag van de maand&quot; of &quot;dag van de week&quot; (alleen beschikbaar voor deze velden). Als u bijvoorbeeld de waarde `1C` voor &quot;dag van de maand&quot; de eerste dag in de kalender die op of na de vijfde dag plaatsvindt. Voor het veld &quot;dag van de week&quot; geeft u `1C` plant de eerste dag in de kalender die op of na zondag voorkomt |
+| `C` | # Kapitaal C | Eerste kalender &quot;dag van de maand&quot; of &quot;dag van de week&quot; (alleen beschikbaar voor deze velden). Als u bijvoorbeeld de waarde `1C` voor &quot;dag van de maand&quot; de eerste dag in de kalender die op of na de vijfde dag plaatsvindt. Voor het veld &quot;dag van de week&quot; geeft u `1C` plant de eerste dag in de kalender die op of na zondag voorkomt. |
 
 In deze lijst staan voorbeelden van tijdintervallen in het vak Regel:
 

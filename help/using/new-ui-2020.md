@@ -9,9 +9,9 @@ role: Admin,User
 exl-id: d61ea80a-a98e-43e6-9e2e-4389962134f1
 topic: Administration
 level: Intermediate
-source-git-commit: ae7d0c6d3047d68ed3da4187ef516dc51c95de30
+source-git-commit: a9bd472705bce32f63a5710c3266e51256d17a00
 workflow-type: tm+mt
-source-wordcount: '1073'
+source-wordcount: '1077'
 ht-degree: 0%
 
 ---
@@ -72,7 +72,7 @@ Sommige bedrijven laten u software en toepassingen niet zonder goedkeuring downl
 +++
 
 +++**_Kunnen meerdere exemplaren van de nieuwe bureaubladtoepassing tegelijk worden geopend?_**
-Nee, de AIR-technologie waarop de nieuwe Adobe Dynamic Media Classic-bureaubladtoepassing is gebouwd, beperkt een gebruiker ervan dat meerdere exemplaren van de app tegelijk geopend zijn.
+Nee. De AIR-technologie waarop de nieuwe Adobe Dynamic Media Classic-bureaubladtoepassing is gebouwd, beperkt een gebruiker ertoe meerdere exemplaren van de app tegelijk te openen.
 +++
 
 +++**_Zijn er beperkingen op het aantal bestanden dat via een lokale computer naar Adobe Dynamic Media Classic kan worden geüpload?_**
@@ -80,7 +80,7 @@ Als u de nieuwe Adobe Dynamic Media Classic-bureaubladtoepassing in Windows® ge
 +++
 
 +++**_Vereist de nieuwe Adobe Dynamic Media Classic desktop app een nieuwe SKU? Is er sprake van licentiekosten?_**
-Er is geen SKU- of licentiewijziging vereist voor het gebruik van de nieuwe Adobe Dynamic Media Classic-bureaubladtoepassing.
+Nee op beide vragen. Er is geen SKU- of licentiewijziging vereist voor het gebruik van de nieuwe Adobe Dynamic Media Classic-bureaubladtoepassing.
 +++
 
 +++**_Hoe zijn upgrades naar de Adobe Dynamic Media Classic-bureaubladtoepassing ingeschakeld?_**

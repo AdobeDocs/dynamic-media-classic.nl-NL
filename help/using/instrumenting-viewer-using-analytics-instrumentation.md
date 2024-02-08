@@ -12,9 +12,9 @@ role: Data Engineer,Admin,User
 exl-id: 9ea1546d-e6d1-4ba4-8fa1-26b4e69375ba
 topic: Integrations, Development
 level: Experienced
-source-git-commit: 5d8b7cb8b4616a998346675d7324b568634698fb
+source-git-commit: a9bd472705bce32f63a5710c3266e51256d17a00
 workflow-type: tm+mt
-source-wordcount: '302'
+source-wordcount: '301'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 Met de Adobe Analytics Instrumentation Kit kunt u een HTML5-viewer integreren met Adobe Analytics.
 
-Als u een van de vooraf gedefinieerde Adobe Dynamic Media Classic HTML5-viewervoorinstellingen gebruikt, bevatten deze al de implementatiecode die nodig is om gegevens naar Adobe Analytics te verzenden. u hebt geen verdere instrumentatie nodig.
+Als u een van de vooraf gedefinieerde Adobe Dynamic Media Classic HTML5-viewervoorinstellingen gebruikt, bevatten deze al de implementatiecode die nodig is om gegevens naar Adobe Analytics te verzenden. U hebt geen verdere instrumentatie meer nodig.
 
 ## Adobe Analytics-tracking instellen vanuit Adobe Dynamic Media Classic {#set-up-adobe-analytics-tracking-from-scene-publishing-system}
 

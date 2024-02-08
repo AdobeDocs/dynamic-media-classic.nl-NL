@@ -10,7 +10,7 @@ role: Admin
 exl-id: 3f96606e-ef5c-4c01-aa0f-3148f14e28be
 topic: Administration
 level: Intermediate
-source-git-commit: ae7d0c6d3047d68ed3da4187ef516dc51c95de30
+source-git-commit: a9bd472705bce32f63a5710c3266e51256d17a00
 workflow-type: tm+mt
 source-wordcount: '10399'
 ht-degree: 1%
@@ -613,7 +613,7 @@ Zie ook [Viewer-voorinstellingen](https://s7d5.scene7.com/s7viewers/html5/VideoV
      
    * **Bewerken** - Selecteer een bestaande Viewer-voorinstelling en selecteer **[!UICONTROL Edit]**.
 
-1. Voer in het scherm Viewer configureren de naam van de voorinstelling in het veld Naam voorinstelling in of bewerk de naam van de voorinstelling.
+1. Voer in het veld Naam voorinstelling van de pagina Viewer configureren de naam van de voorinstelling in of bewerk deze.
 1. Stel de overige gewenste opties in.
 
    >[!NOTE]
