@@ -10,9 +10,9 @@ role: User
 exl-id: ee30a2c1-2b26-41bd-8758-e7337a3727bb
 topic: Content Management
 level: Intermediate
-source-git-commit: e2d60d18784c31c9973276960c935464ee4fd843
+source-git-commit: 0e1b2e9dcbee182f3ec0da53b56b5b8d3eb29cce
 workflow-type: tm+mt
-source-wordcount: '309'
+source-wordcount: '348'
 ht-degree: 1%
 
 ---
@@ -33,10 +33,12 @@ Wanneer u een centrifugeset of een Afbeeldingsset maakt of PDF uploadt voor het 
 | Element - Type limiet | Beste praktijken | Oplegde limiet |
 | --- | --- | --- |
 | **Afbeelding** - Aantal slimme uitsnijdingen per afbeelding | 5 | 100 |
-| **Alle sets** - Aantal dubbele elementen per set | Geen duplicaten | 20 |
+| **Alle sets** - Aantal dubbele elementen per set | Geen duplicaten | 20‡ |
 | **Alle sets** - Maximumaantal activa per set | 5-10 afbeeldingen per set | 1000 |
 | **Set draaien** - Maximumaantal rijen/kolommen per 2D-set | 12-18 afbeeldingen per set | 1000 |
 | **PDF** - Maximumaantal pagina&#39;s voor een PDF dat in aanmerking komt voor extractie |  | 100 (voor alle PDF) |
+
+‡ De beste manier is om geen dubbele elementen in een set te hebben. De limiet is 20 duplicaten voor één element. Als u nog een duplicaat voor dat element toevoegt (binnen die set), geeft de aanvraag een fout of wordt het duplicaat genegeerd.
 
 <!-- See also [Dynamic Media limitations](/help/using/assets/limitations.md). -->
 

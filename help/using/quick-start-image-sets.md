@@ -1,20 +1,18 @@
 ---
 title: "Snel starten: Afbeeldingssets"
 description: Een inleiding en Snel aan de Reeksen van het Beeld beginnen om u te helpen snel met de Vastgestelde technieken van het Beeld in Adobe Dynamic Media Classic opduiken.
-uuid: daf17d13-9c06-41f0-8fc5-2e56d460d341
 contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/image_sets
-discoiquuid: 612a425f-2840-46c4-8e5a-c0bc5f738f4e
 feature: Dynamic Media Classic,Viewers,Image Sets
 role: User
 exl-id: 280e7201-84d6-46b1-94bb-0499beca2992
 topic: Content Management
 level: Beginner
-source-git-commit: faa1784e1d19b1167cad5749dc04227e3ff388e5
+source-git-commit: 0e1b2e9dcbee182f3ec0da53b56b5b8d3eb29cce
 workflow-type: tm+mt
-source-wordcount: '650'
+source-wordcount: '643'
 ht-degree: 0%
 
 ---
@@ -31,8 +29,10 @@ Wanneer u een Reeks van het Beeld creeert, beveelt de Adobe de volgende beste pr
 
 | Type limiet | Beste praktijken | Oplegde limiet |
 | --- | --- | --- |
-| Aantal dubbele elementen per set | Geen duplicaten | 20 |
+| Aantal dubbele elementen per set | Geen duplicaten | 20‡ |
 | Maximumaantal afbeeldingen per set | 5-10 afbeeldingen per set | 1000 |
+
+‡ De beste manier is om geen dubbele elementen in een set te hebben. De limiet is 20 duplicaten voor één element. Als u nog een duplicaat voor dat element toevoegt (binnen die set), geeft de aanvraag een fout of wordt het duplicaat genegeerd.
 
 Zie ook [Dynamic Media-beperkingen](/help/using/limitations.md).
 
