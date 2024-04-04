@@ -6,9 +6,9 @@ user-guide-title: Adobe Dynamic Media Classic Guide
 breadcrumb-title: Dynamic Media Classic Guide
 user-guide-description: Meer informatie over Adobe Dynamic Media Classic gebruiken
 index: y
-source-git-commit: ae7d0c6d3047d68ed3da4187ef516dc51c95de30
+source-git-commit: 910410706fbd9dd79a8dda402af454a50132cc41
 workflow-type: tm+mt
-source-wordcount: '795'
+source-wordcount: '796'
 ht-degree: 0%
 
 ---
@@ -22,8 +22,8 @@ ht-degree: 0%
    + [Vergelijking van lijst met functies](upgrade-feature-comparison.md)
    + [Controlelijst voor gereedheid voor upgrade](upgrade-readiness.md)
 + [Adobe Dynamic Media Classic Guide](home.md)
-+ [Zelfstudie over best practices voor Adobe Dynamic Media Classic](https://experienceleague.adobe.com/docs/experience-manager-learn/dynamic-media-classic-tutorial/overview.html)
-+ [NIEUWE Adobe Dynamic Media Classic-aanmelding nu beschikbaar](new-ui-2020.md)
++ [Zelfstudie over best practices voor Adobe Dynamic Media Classic](https://experienceleague.adobe.com/en/docs/experience-manager-learn/dynamic-media-classic-tutorial/overview)
++ [Aanmelden bij NIEUWE Adobe Dynamic Media Classic nu beschikbaar](new-ui-2020.md)
 + [Adobe Dynamic Media-nieuwsarchief per Experience League](dynamic-media-newsletter.md)
 + Introductie van Adobe Dynamic Media Classic {#intro}
    + [Adobe Dynamic Media Classic Desktop-app - Nu beschikbaar](dynamic-media-classic-desktop-app.md)
@@ -182,7 +182,7 @@ ht-degree: 0%
    + [Werken met PDF](pdfs.md)
    + [Werken met PSD-bestanden](psd-files.md)
    + [Werken met PostScript- en Illustrator-bestanden](postscript-illustrator-files.md)
-   + [Werken met vignet-, venster- en kabinetsbestanden](vignette-window-covering-cabinet-files.md)
+   + [Werken met vignetten, vensteromslagen en kabinetsbestanden](vignette-window-covering-cabinet-files.md)
 + Ondersteuningsbestanden {#support-files}
    + [Lettertypen](fonts.md)
    + [XML-bestanden](xml-files.md)

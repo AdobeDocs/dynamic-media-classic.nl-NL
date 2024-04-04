@@ -9,9 +9,9 @@ role: User
 exl-id: 93ad91d7-f3dd-484b-b62c-633fcb864bbf
 topic: Content Management
 level: Intermediate
-source-git-commit: a9bd472705bce32f63a5710c3266e51256d17a00
+source-git-commit: f054057d383b26e9088582f418f62504c3f327d8
 workflow-type: tm+mt
-source-wordcount: '3882'
+source-wordcount: '3883'
 ht-degree: 0%
 
 ---
@@ -55,7 +55,7 @@ Voer een van de volgende handelingen uit.
 1. Selecteer op de algemene navigatiebalk de optie **[!UICONTROL Upload]**.
 1. Selecteer op de pagina Uploaden de optie **[!UICONTROL From Desktop]** tab.
 1. Op de Upload pagina, in **[!UICONTROL Select Files for Upload]** deelvenster, selecteert u **[!UICONTROL Browse]**, navigeert u naar een MP4-videobestand en selecteert u **[!UICONTROL Open]**.
-1. In de **[!UICONTROL Choose Folder Destination]** selecteert u een map voor het geüploade bestand.
+1. In de gekozen **[!UICONTROL Folder Destination]** selecteert u een map voor het geüploade bestand.
 1. Controleer op de pagina Uploaden of **[!UICONTROL Publish After Uploading]** is ingeschakeld.
 1. Selecteren **[!UICONTROL Submit Upload]**.
 
@@ -64,7 +64,7 @@ Voer een van de volgende handelingen uit.
 1. Selecteer op de algemene navigatiebalk de optie **[!UICONTROL Upload]**.
 1. Selecteer op de pagina Uploaden de optie **[!UICONTROL From Desktop]** tab.
 1. In de **[!UICONTROL Select Files to Upload]** deelvenster, selecteert u **[!UICONTROL Browse]** navigeer naar een primair bronvideobestand en selecteer **[!UICONTROL Open]**.
-1. In de **[!UICONTROL Choose Folder Destination]** selecteert u een map voor het geüploade bestand.
+1. In de gekozen **[!UICONTROL Folder Destination]** selecteert u een map voor het geüploade bestand.
 1. Selecteer in de rechterbenedenhoek van de pagina de optie **[!UICONTROL Job Options]**,
 1. Vouw in het dialoogvenster Taakopties uploaden de optie **[!UICONTROL EVideo Options]** Voer vervolgens een van de volgende handelingen uit:
 
@@ -78,7 +78,7 @@ Zie [Voorinstellingen voor videocodering op bureaublad](application-setup.md#des
 *Als u een eerder geüpload videobestand opnieuw wilt coderen*
 
 1. Navigeer in Adobe Dynamic Media Classic in het deelvenster Bladeren naar de video en selecteer deze.
-1. Ga naar **[!UICONTROL File]** > **[!UICONTROL Reprocess]**.
+1. Ga naar **[!UICONTROL File]** > **[!UICONTROL Reprocess]**.&quot;
 1. Vouw in het dialoogvenster Elementen opnieuw verwerken het item uit **[!UICONTROL EVideo Options]** Voer vervolgens een van de volgende handelingen uit:
    * U kunt het beste de volgende methode gebruiken. Selecteren **Adaptieve video**.
 Zie [Adaptieve video (standaard)](application-setup.md#adaptive-video-default).
@@ -363,7 +363,7 @@ Adobe Dynamic Media Classic heeft maximale limieten ingesteld voor de doelgegeve
    * Selecteren **[!UICONTROL Save]** als u een videovoorinstelling hebt toegevoegd of bewerkt.
    * Selecteren **[!UICONTROL Save As]** als u een videovoorinstelling hebt toegevoegd door te beginnen met een bestaande voorinstelling.
 
-### Een voorinstelling voor videocodering verwijderen {#deleting-a-video-encoding-preset}
+### Een voorinstelling voor videocodering verwijderen {#delete-a-video-encoding-preset}
 
 Beheerders kunnen aangepaste videovoorinstellingen verwijderen. Videovoorinstellingen die bij Adobe Dynamic Media Classic worden geleverd, kunnen niet worden verwijderd.
 

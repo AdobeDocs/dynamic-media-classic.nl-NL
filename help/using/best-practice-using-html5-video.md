@@ -1,20 +1,18 @@
 ---
 title: Aanbevolen procedures voor het gebruik van de HTML5-videoviewer
 description: Leer meer over de beste werkwijzen voor het gebruik van de HTML5-videoviewer.
-uuid: 3c8924dc-7bea-4c25-b77b-005f57b71b64
 contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/video
-discoiquuid: 4b11cab7-88cf-42dd-8554-2eea530753bb
 feature: Dynamic Media Classic,Viewers,Video
 role: User
 exl-id: ce49e4ce-8dc0-41e1-865a-249f23757553
 topic: Content Management
 level: Intermediate
-source-git-commit: d82f816553f807b514f4690827dab672a6baf690
+source-git-commit: f054057d383b26e9088582f418f62504c3f327d8
 workflow-type: tm+mt
-source-wordcount: '488'
+source-wordcount: '432'
 ht-degree: 0%
 
 ---
@@ -29,11 +27,11 @@ Door de volgende mogelijkheden te combineren tot één speler:
 
 * Afspeelcomponenten die zijn ontworpen met HTML5 en CSS
 * Ingesloten afspelen
-* Het gebruik van adaptieve en progressieve streaming op basis van de browsermogelijkheden
+* Gebruik van adaptieve en progressieve streaming op basis van de browsermogelijkheden
 
 U vergroot het bereik van uw rijke media-inhoud tot gebruikers op het bureaublad en mobiele apparaten. U zorgt ook voor een gestroomlijnde videobeleving.
 
-Zie ook [HTML5-viewers](https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/library/viewers-for-aem-assets-only/c-html5-aem-asset-viewers.html?lang=en#viewers-for-aem-assets-only) in de Adobe Viewers Reference Guide.
+Zie ook [Informatie over HTML5-viewers](https://experienceleague.adobe.com/en/docs/dynamic-media-developer-resources/library/viewers-for-aem-assets-only/c-html5-aem-asset-viewers#viewers-for-aem-assets-only) in de Adobe Viewers Reference Guide.
 
 Zie ook [Viewer-voorinstellingen](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&amp;emailurl=https://s7d5.scene7.com/s7/emailFriend&amp;serverUrl=https://s7d5.scene7.com/is/image/&amp;config=Scene7SharedAssets/Universal_HTML5_Video&amp;contenturl=https://s7d5.scene7.com/skins/&amp;asset=S7tutorials/550_viewer-presets_converted%20renamed_Done-AVS) trainingsvideo.
 

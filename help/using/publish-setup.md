@@ -9,9 +9,9 @@ role: Admin
 exl-id: 699d4c12-e47b-4c6b-86f3-dc7aaaa56c1e
 topic: Administration, Content Management
 level: Intermediate
-source-git-commit: a9bd472705bce32f63a5710c3266e51256d17a00
+source-git-commit: f054057d383b26e9088582f418f62504c3f327d8
 workflow-type: tm+mt
-source-wordcount: '2324'
+source-wordcount: '2322'
 ht-degree: 0%
 
 ---
@@ -123,15 +123,15 @@ Of een achtervoegselwaarde of een vervangingswaarde wordt toegepast, is afhankel
 
 **Voorbeeld van achtervoegsel:**
 
-| URL | localeMap-id&#39;s | Resultaat |
-| --- | --- | --- |
-| `https://server/is/image/company/image?locale=de_DE` | `de_DE,_DE,|fr_FR,_FR,` | Er is geen GlobalLocale gedefinieerd. De parameter de_DE voor landinstellingen komt overeen met het eerste item in het dialoogvenster `localeMap`. De eerste overeenkomstige waarde _DE wordt toegevoegd als achtervoegsel aan activa image_DE en een poging wordt gemaakt om het op de Server van het Beeld te vinden. Als deze op de server wordt gevonden, wordt deze geretourneerd. Anders wordt de tweede waarde &quot;&quot; gebruikt als achtervoegsel, waardoor de afbeelding zelf wordt geretourneerd. |
+| URL | localeMap-id&#39;s | Resultaat | Notities |
+| --- | --- | --- | --- |
+| `https://server/is/image/company/image?locale=de_DE` | `de_DE,_DE,` | `fr_FR,_FR,` | Er is geen GlobalLocale gedefinieerd. De parameter de_DE voor landinstellingen komt overeen met het eerste item in het dialoogvenster `localeMap`. De eerste overeenkomstige waarde _DE wordt toegevoegd als achtervoegsel aan activa image_DE en een poging wordt gemaakt om het op de Server van het Beeld te vinden. Als deze op de server wordt gevonden, wordt deze geretourneerd. Anders wordt de tweede waarde &quot;&quot; gebruikt als achtervoegsel, waardoor de afbeelding zelf wordt geretourneerd. |
 
 **Voorbeeld van vervanging:**
 
-| URL | `GlobalLocale` en `localeMap` ID&#39;s | Resultaat |
-|--- |--- |--- |
-| `https://server/is/image/company/image-main-01?locale=de_DE` | `GlobalLocale=mainlocaleMap -` <br><br/> `de_DE,de,main|fr_FR,fr,main` | In het bovenstaande vervangingsvoorbeeld is GlobalLocale ingesteld op main. De parameter de_DE voor landinstellingen komt overeen met het eerste item in het dialoogvenster `localeMap`. De subtekenreeks van GlobalLocale wordt gevonden en vervangen door de eerste overeenkomende waarde `de` in de `localeMap`: `image-de-01`. Als het op de Server van het Beeld wordt gevonden, is het teruggekeerd. Zo niet, dan wordt de tweede waarde vervangen, wat resulteert in `image-main-01`. |
+| URL | `GlobalLocale` en `localeMap` ID&#39;s | Resultaat | Notities |
+| --- | --- | --- | --- |
+| `https://server/is/image/company/image-main-01?locale=de_DE` | `GlobalLocale=mainlocaleMap -` <br><br/> `de_DE,de,main` | `fr_FR,fr,main` | In het bovenstaande vervangingsvoorbeeld is GlobalLocale ingesteld op main. De parameter de_DE voor landinstellingen komt overeen met het eerste item in het dialoogvenster `localeMap`. De subtekenreeks van GlobalLocale wordt gevonden en vervangen door de eerste overeenkomende waarde `de` in de `localeMap`: `image-de-01`. Indien gevonden op de Server van het Beeld, is het teruggekeerd. Zo niet, dan wordt de tweede waarde vervangen, wat resulteert in `image-main-01`. |
 
 Als er geen landinstelling is gedefinieerd in de URL, gebruikt de afbeeldingsserver de DefaultLocale (indien deze is gedefinieerd) en past deze toe op de URL.
 

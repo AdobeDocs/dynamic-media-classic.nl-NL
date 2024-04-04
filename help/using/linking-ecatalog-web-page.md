@@ -1,20 +1,18 @@
 ---
 title: Een eCatalog koppelen aan een webpagina
 description: Leer hoe u een eCatalog koppelt aan een webpagina in Adobe Dynamic Media Classic.
-uuid: 90098a90-180b-477a-8533-24a52a93200b
 contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/ecatalogs
-discoiquuid: 140640f2-3ca4-4b6c-a240-5f01be87fa9c
 feature: Dynamic Media Classic,Viewers,eCatalog
 role: User
 exl-id: aee72576-1e3e-401c-953d-cc2be27f7dfd
 topic: Integrations, Development
 level: Experienced
-source-git-commit: 5d8b7cb8b4616a998346675d7324b568634698fb
+source-git-commit: f054057d383b26e9088582f418f62504c3f327d8
 workflow-type: tm+mt
-source-wordcount: '629'
+source-wordcount: '610'
 ht-degree: 0%
 
 ---
@@ -50,11 +48,11 @@ Uw websites en toepassingen hebben via URL-tekenreeksen of ingesloten code toega
 
 De meest gebruikelijke manier om een eCatalog in te voeren is een verbinding in de vorm van een eCatalog duimnagelomslag op uw Web-pagina te plaatsen. Werk samen met uw IT-team om ervoor te zorgen dat de eCatalog wordt gestart in een schoon, gecentreerd pop-upvenster. Vraag uw IT-team om de werkbalk en adresbalk in de browser niet weer te geven.
 
-Zie voor meer informatie en codevoorbeelden [HTML5 eCatalog Viewer insluiten in de Adobe Viewers Reference Guide](https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/library/viewers-aem-assets-dmc/ecatalog/c-html5-20-ecatalog-viewer-about.html#section-e1c3106f5b3e445d9b95be337c2f94e2).
+Zie voor meer informatie en codevoorbeelden [HTML5 eCatalog Viewer insluiten in de Adobe Viewers Reference Guide](https://experienceleague.adobe.com/en/docs/dynamic-media-developer-resources/library/viewers-aem-assets-dmc/ecatalog/c-html5-20-ecatalog-viewer-about#section-e1c3106f5b3e445d9b95be337c2f94e2).
 
 ## De insluitcode van een eCatalog-viewer kopiëren {#copying-the-embed-code-of-an-ecatalog-viewer}
 
-Met de functie Code insluiten kunt u de viewercode voor de geselecteerde eCatalog controleren. U kunt de code ook naar het klembord kopiëren, zodat u de code op uw webpagina&#39;s kunt plakken en de viewer kunt implementeren. Het bewerken van de code is niet toegestaan in het dialoogvenster Code insluiten.
+Met de functie Code insluiten kunt u de viewercode voor de geselecteerde eCatalog controleren. U kunt de code ook naar het klembord kopiëren, zodat u de code op uw webpagina&#39;s kunt plakken en de viewer kunt implementeren. U mag de code niet bewerken in het dialoogvenster Code insluiten.
 
 **De insluitcode van een eCatalog-viewer kopiëren:**
 
@@ -75,7 +73,7 @@ Met de functie Code insluiten kunt u de viewercode voor de geselecteerde eCatalo
 
      Selecteer in de pagina Viewer List onder de kolom Acties van de tabel de optie **[!UICONTROL Embed Code]**.
 
-1. Selecteer in het dialoogvenster Code insluiten de optie **[!UICONTROL Copy to Clipboard]**.
+1. Selecteer in het dialoogvenster Code insluiten **[!UICONTROL Copy to Clipboard]**.
 
    Het bewerken van de code is niet toegestaan in het dialoogvenster Code insluiten.
 

@@ -10,9 +10,9 @@ role: User
 exl-id: df4e5218-2a66-413c-b247-b2a16d884041
 topic: Content Management
 level: Intermediate
-source-git-commit: 597b7d6bd98c59a644984baeecb888f86a8975c9
+source-git-commit: f054057d383b26e9088582f418f62504c3f327d8
 workflow-type: tm+mt
-source-wordcount: '632'
+source-wordcount: '613'
 ht-degree: 0%
 
 ---
@@ -48,7 +48,7 @@ Nadat u een Afbeeldingsset hebt gepubliceerd, kunt u de bijbehorende URL of de b
 
 De gemeenschappelijkste manier om de Reeksen van het Beeld op te stellen is een verbinding (door een navigatiepictogram) op uw Web-pagina te plaatsen. Als deze optie is geselecteerd, wordt een dynamische pagina (JSP) gestart waarop de Afbeeldingsset wordt weergegeven in een pop-upzoomvenster. Met de zoomkoppeling wordt een pop-upvenster geopend dat de eigenlijke zoomfunctie bevat.
 
-Zie voor meer informatie en codevoorbeelden [HTML5-zoomviewer insluiten in de naslaggids voor Adobe viewers](https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/library/viewers-aem-assets-dmc/zoom/c-html5-20-zoom-viewer-about.html#section-e1c3106f5b3e445d9b95be337c2f94e2).
+Zie voor meer informatie en codevoorbeelden [HTML5-zoomviewer insluiten in de naslaggids voor Adobe viewers](https://experienceleague.adobe.com/en/docs/dynamic-media-developer-resources/library/viewers-aem-assets-dmc/zoom/c-html5-20-zoom-viewer-about#section-e1c3106f5b3e445d9b95be337c2f94e2).
 
 ## De insluitcode van een viewer voor een afbeeldingsset kopiëren {#copying-the-embed-code-of-an-image-set-viewer}
 

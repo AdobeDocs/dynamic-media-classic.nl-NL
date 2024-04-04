@@ -1,24 +1,22 @@
 ---
 title: Schijfgebruiksgegevens ophalen
 description: Leer hoe u informatie over schijfgebruik ophaalt in Adobe Dynamic Media Classic.
-uuid: 01361693-53d0-4072-b7c3-f284631d28cf
 contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
-discoiquuid: 6763546d-83c4-42dc-879f-6bbfc8b56482
 feature: Dynamic Media Classic
 role: Admin,User
 exl-id: 337a4681-ac9a-40d9-82e8-1999bbed980c
 topic: Administration, Content Management
 level: Intermediate
-source-git-commit: 5d8b7cb8b4616a998346675d7324b568634698fb
+source-git-commit: f054057d383b26e9088582f418f62504c3f327d8
 workflow-type: tm+mt
-source-wordcount: '90'
+source-wordcount: '91'
 ht-degree: 0%
 
 ---
 
-# Schijfgebruiksgegevens ophalen {#getting-disk-usage-information}
+# Schijfgebruiksgegevens ophalen {#get-disk-usage-information}
 
 U kunt de `disk_info` parameter om informatie over het gebruik van de schijfruimte van een bedrijf, zoals aangetoond in het volgende voorbeeld terug te winnen:
 
@@ -49,7 +47,7 @@ U kunt de volgende velden in de URL-queryreeks gebruiken om informatie over schi
 | URL-parameter | Vereist/optioneel | Waarde |
 | --- | --- | --- |
 | op | Vereist | disk_info |
-| shared_geheime | Vereist | De gedeelde geheime sleutel voor het bedrijf |
+| shared_geheime | Vereist | De sleutel die een gedeeld geheim voor het bedrijf is |
 
 De volgende steekproefcode krijgt schijfinformatie voor 000Company:
 

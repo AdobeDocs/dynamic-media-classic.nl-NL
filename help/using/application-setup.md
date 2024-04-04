@@ -1,6 +1,6 @@
 ---
 title: Toepassing instellen
-description: Leer hoe u het toepassingsgebied van Adobe Dynamic Media Classic instelt en configureert. In het toepassingsgebied kunt u algemene instellingen invoeren, voorinstellingen voor afbeeldingen, viewers en videocodering maken, standaardviewers en metagegevens definiëren, publicatie-instellingen en video-SEO-instellingen opgeven. U kunt dit gebied ook gebruiken om voorinstellingen voor batchsets in te stellen om het genereren van 2D-centrifuges te automatiseren.
+description: Leer hoe u het toepassingsgebied van Adobe Dynamic Media Classic instelt en configureert.
 contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
@@ -10,9 +10,9 @@ role: Admin
 exl-id: 3f96606e-ef5c-4c01-aa0f-3148f14e28be
 topic: Administration
 level: Intermediate
-source-git-commit: a9bd472705bce32f63a5710c3266e51256d17a00
+source-git-commit: f054057d383b26e9088582f418f62504c3f327d8
 workflow-type: tm+mt
-source-wordcount: '10399'
+source-wordcount: '10355'
 ht-degree: 1%
 
 ---
@@ -61,7 +61,7 @@ Zie ook [De service Beveiligde tests testen](testing-assets-making-them-public.m
 
   `https://sample.scene7.com/is/image/Company/<ID>?$s7product$`
 
-  Als de sjabloon alleen bevat `<ID>`en vervolgens vult Adobe Dynamic Media Classic de `https://<server>/is/image`, waarbij `<server>` Dit is de naam van de publicatieserver die is gedefinieerd in Algemene instellingen.
+  Als de sjabloon alleen bevat `<ID>`en vervolgens vult Adobe Dynamic Media Classic de `https://<server>/is/image`, waarbij `<server>` Dit is de naam van de Publishing Server die is gedefinieerd in Algemene instellingen.
 
   Het plaatsen van CDN ongeldig Malplaatje, selecteert een beeld genoemd Backpack_B, en gaat dan naar **[!UICONTROL File]** > **[!UICONTROL Invalidate CDN]** resulteert in volgende geproduceerde URL in CDN ongeldig maakt interface:
 
@@ -161,7 +161,7 @@ Beheerders kunnen voorinstellingen maken voor het exporteren van elementen. Gebr
 
 Ga naar **[!UICONTROL Setup]** > **[!UICONTROL Image Presets]**.
 
-Zie [Slimme beeldverwerking](https://experienceleague.adobe.com/docs/experience-manager-65/assets/dynamic/imaging-faq.html).
+Zie [Slimme beeldverwerking](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/assets/dynamic/imaging-faq).
 
 ### Voorinstellingen voor afbeeldingen maken en bewerken {#creating-and-editing-image-presets}
 
@@ -436,7 +436,7 @@ Door het volgende te combineren in één speler:
 
 U vergroot het bereik van uw rijke media-inhoud tot gebruikers op het bureaublad, het tablet en het mobiele apparaat en zorgt voor een gestroomlijnde videobeleving.
 
-Zie [Informatie over HTML5-viewers](https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/library/viewers-for-aem-assets-only/c-html5-aem-asset-viewers.html?lang=en#viewers-for-aem-assets-only) in de Adobe Viewers Reference Guide.
+Zie [Informatie over HTML5-viewers](https://experienceleague.adobe.com/en/docs/dynamic-media-developer-resources/library/viewers-for-aem-assets-only/c-html5-aem-asset-viewers#viewers-for-aem-assets-only) in de Adobe Viewers Reference Guide.
 
 Zie [Compatibiliteitsmatrix voor Adobe Dynamic Media Classic Viewer-voorinstellingen](application-setup.md#scene7_viewer_preset_compatibility_matrix).
 
@@ -450,7 +450,7 @@ Zie ook [Voorbeelden van Adobe Viewers Reference Library](https://landing.adobe.
 
 Verschillende webpagina&#39;s hebben verschillende behoeften. Soms wilt u een webpagina die een koppeling bevat waarmee de HTML5-viewer wordt geopend in een apart browservenster. In andere gevallen moet u de HTML5 Viewer rechtstreeks insluiten op de hostpagina. In het laatste geval heeft de webpagina waarschijnlijk een statische indeling. Of de interface reageert op een ander scherm en wordt op verschillende apparaten of voor verschillende venstergrootten van de browser anders weergegeven. Om aan deze behoeften te voldoen, ondersteunen de HTML5 Viewers die bij Adobe Dynamic Media Classic worden geleverd zowel statische webpagina&#39;s als responsieve webpagina&#39;s.
 
-Ga voor meer informatie over het insluiten van responsieve viewers op uw webpagina&#39;s naar [De bibliotheek met responsieve afbeeldingen](https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/image-serving-api/image-serving-api/responsive-static-image-library/c-about-responsive-static-image-library.html#image-serving-api), [Responsieve afbeeldingsbibliotheek gebruiken](https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/image-serving-api/image-serving-api/responsive-static-image-library/t-using-responsive-static-image-library.html#image-serving-api), en [Command reference - Command attributes](https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/image-serving-api/image-serving-api/responsive-static-image-library/t-using-responsive-static-image-library.html#responsive-static-image-library).
+Ga voor meer informatie over het insluiten van responsieve viewers op uw webpagina&#39;s naar [De bibliotheek met responsieve afbeeldingen](https://experienceleague.adobe.com/en/docs/dynamic-media-developer-resources/image-serving-api/image-serving-api/responsive-static-image-library/c-about-responsive-static-image-library#image-serving-api), [Responsieve afbeeldingsbibliotheek gebruiken](https://experienceleague.adobe.com/en/docs/dynamic-media-developer-resources/image-serving-api/image-serving-api/responsive-static-image-library/t-using-responsive-static-image-library#image-serving-api), en [Command reference - Command attributes](https://experienceleague.adobe.com/en/docs/dynamic-media-developer-resources/image-serving-api/image-serving-api/responsive-static-image-library/t-using-responsive-static-image-library#responsive-static-image-library).
 
 ### Voorinstellingstypen voor viewer {#viewer-preset-types}
 
@@ -486,7 +486,7 @@ Zie ook [Voorbeelden van Adobe Viewers Reference Library](https://landing.adobe.
 
 Voor informatie over ondersteunde webbrowsers en besturingssysteemversies voor Viewers kunt u de Opmerkingen bij de release Viewers bekijken.
 
-Zie [Opmerkingen bij de release Adobe Viewers](https://experienceleague.adobe.com/docs/dynamic-media-developer-resources.html).
+Zie [Opmerkingen bij de release Adobe Viewers](https://experienceleague.adobe.com/en/docs/dynamic-media-developer-resources).
 
 |  | Viewertechnologie | Desktop | Apple iPhone | Apple iPad | Android™-smartphone | Android™-tablet |
 |--- |--- |--- |--- |--- |--- |--- |
@@ -613,7 +613,7 @@ Zie ook [Viewer-voorinstellingen](https://s7d5.scene7.com/s7viewers/html5/VideoV
      
    * **Bewerken** - Selecteer een bestaande Viewer-voorinstelling en selecteer **[!UICONTROL Edit]**.
 
-1. Voer in het veld Naam voorinstelling van de pagina Viewer configureren de naam van de voorinstelling in of bewerk deze.
+1. Typ of bewerk de naam van de voorinstelling in het veld Naam voorinstelling op de pagina Viewer configureren.
 1. Stel de overige gewenste opties in.
 
    >[!NOTE]
@@ -732,7 +732,7 @@ U mag de code niet bewerken in het dialoogvenster Code insluiten.
 1. Selecteer in het dialoogvenster Code insluiten **[!UICONTROL Copy to Clipboard]**.
 1. Selecteren **[!UICONTROL Close]**.
 
-## Standaardviewers configureren {#configuring-default-viewers}
+## Standaardviewers configureren {#configure-default-viewers}
 
 Met Standaardviewers kunt u de standaardviewer configureren die aan een element is gekoppeld wanneer u Voorvertoning in Adobe Dynamic Media Classic gebruikt. U kunt de standaardvoorbeeldervaring instellen voor de volgende elementtypen:
 
@@ -812,7 +812,7 @@ Maak een voorinstelling voor metagegevens voor elke set waarden voor metagegeven
 
 Een beheerder van Media Portal of een Beheerder van het Bedrijf kan douane, user-defined meta-gegevensgebieden tot stand brengen. Met aangepaste velden kunt u elementen ordenen in Adobe Dynamic Media Classic. U kunt de velden desgewenst als Actief markeren. Als deze optie is ingeschakeld, worden de namen van deze aangepaste metagegevensvelden weergegeven in het deelvenster Metagegevens in de gedetailleerde weergave. Gebruikers kunnen informatie invoeren in door de gebruiker gedefinieerde metagegevensvelden om elementen te beschrijven. Gebruikers kunnen ook een door de gebruiker gedefinieerd metagegevensveld als criterium gebruiken bij zoekopdrachten.
 
-Een effectief gebruik van door de gebruiker gedefinieerde metagegevensvelden is het vertragen van de activeringstijd van een element voor een specifieke opstart of verkoop. U definieert een veld voor activering op basis van het type *Datum*. Vervolgens gebruikt u de **[!UICONTROL Metadata]** in de gedetailleerde weergave of **[!UICONTROL File]** > **[!UICONTROL Edit Info]** kunt u opgeven wanneer het element wordt geactiveerd. Adobe Dynamic Media Classic controleert de publicatiestatus van een element en de publicatiegeschiedenis. Als deze niet binnen de activeringstijd valt, wordt de publicatiestatus &quot;Niet gepubliceerd&quot; weergegeven.
+Een effectief gebruik van door de gebruiker gedefinieerde metagegevensvelden is het vertragen van de activeringstijd van een element voor een specifieke opstart of verkoop. U definieert een veld voor activering op basis van het type *Datum*. Vervolgens gebruikt u de **[!UICONTROL Metadata]** in de gedetailleerde weergave of **[!UICONTROL File]** > **[!UICONTROL Edit Info]** kunt u opgeven wanneer het element wordt geactiveerd. Adobe Dynamic Media Classic controleert de gepubliceerde status van een middel en de publicatiegeschiedenis. Als deze niet binnen de activeringstijd valt, wordt de publicatiestatus &quot;Niet gepubliceerd&quot; weergegeven.
 
 >[!NOTE]
 >
@@ -914,7 +914,7 @@ U hoeft geen standaardnaamgevingsconventie in te stellen als u de functie voor v
 
 U kunt ook Code weergeven gebruiken zonder formuliervelden. In deze weergave maakt u uw definities van de naamgevingsconventie volledig met behulp van reguliere expressies.
 
-Er zijn twee elementen beschikbaar voor definitie, Identieke en Basisnaam. Met deze velden kunt u alle elementen van een naamgevingsconventie definiëren en het gedeelte van de conventie identificeren dat wordt gebruikt voor de naamgeving van de set waarin deze elementen zich bevinden. De individuele noemende overeenkomst van een bedrijf kon één of meerdere lijnen van definitie voor elk van deze elementen gebruiken. U kunt zo vele lijnen voor uw unieke definitie gebruiken en hen groeperen in verschillende elementen, zoals voor HoofdBeeld, het element van de Kleur, het element van de Afwisselende Mening, en het element van het Monster.
+Er zijn twee elementen beschikbaar voor definitie, Identieke en Basisnaam. Dit zijn alle elementen die u voor een naamgevingsconventie hebt gedefinieerd en die het gedeelte van de conventie identificeren dat wordt gebruikt om de set met namen te benoemen. De individuele noemende overeenkomst van een bedrijf kon één of meerdere lijnen van definitie voor elk van deze elementen gebruiken. U kunt zo vele lijnen voor uw unieke definitie gebruiken en hen groeperen in verschillende elementen, zoals voor HoofdBeeld, het element van de Kleur, het element van de Afwisselende Mening, en het element van het Monster.
 
 ### Een voorinstelling voor een batchset maken {#creating-a-batch-set-preset}
 

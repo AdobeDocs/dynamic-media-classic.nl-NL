@@ -1,20 +1,18 @@
 ---
 title: Een voorvertoning van een element weergeven
 description: Leer hoe u een voorvertoning van een middel in Adobe Dynamic Media Classic kunt bekijken.
-uuid: 4a01be21-e37f-4d79-9220-f4e177e9179a
 contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/managing_assets
-discoiquuid: 17d0bfd6-fc62-4ed6-8a51-7ac1a6bb96cc
 feature: Dynamic Media Classic,Asset Management,Viewers
 role: User
 exl-id: 7e6f652c-b197-4171-b11b-f532795f7cf2
 topic: Content Management
 level: Intermediate
-source-git-commit: d82f816553f807b514f4690827dab672a6baf690
+source-git-commit: f054057d383b26e9088582f418f62504c3f327d8
 workflow-type: tm+mt
-source-wordcount: '947'
+source-wordcount: '939'
 ht-degree: 0%
 
 ---
@@ -31,7 +29,7 @@ Zie ook [Voorbeelden van Adobe Viewers Reference Library](https://landing.adobe.
 
 **Een voorvertoning van een element weergeven:**
 
-1. Navigeer in het deelvenster Elementenbibliotheek aan de linkerkant naar de mappen Middelen die het element bevatten waarvan u een voorvertoning wilt weergeven.
+1. Navigeer in het deelvenster Elementenbibliotheek aan de linkerkant naar de map Asset die het element bevat waarvan u een voorvertoning wilt weergeven.
 1. Voer een van de volgende handelingen uit:
 
    * Selecteer boven het middelenvenster rechts op de werkbalk de optie **[!UICONTROL Grid View]**.
@@ -53,7 +51,7 @@ Voor een bepaald viewerplatform kunt u in het venster Viewer List visueel zien w
 
 **Een voorvertoning van een element weergeven op basis van het type viewerplatform:**
 
-1. Navigeer in het deelvenster Elementenbibliotheek aan de linkerkant naar de mappen Middelen die het element bevatten waarvan u een voorvertoning wilt weergeven.
+1. Navigeer in het deelvenster Elementenbibliotheek aan de linkerkant naar de map Asset die het element bevat waarvan u een voorvertoning wilt weergeven.
 1. Voer een van de volgende handelingen uit:
 
    * Selecteer boven het middelenvenster rechts op de werkbalk de optie **[!UICONTROL Grid View]**. Selecteer in het venster Middelen één element en ga vervolgens onder de miniatuurafbeelding naar **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]**.
@@ -92,15 +90,15 @@ Zie [Voorinstellingen afbeelding maken en inschakelen](creating-enabling-image-p
 
 **Een voorvertoning van een afbeeldingselement weergeven op basis van de voorinstelling Afbeelding:**
 
-1. Navigeer in het deelvenster Elementenbibliotheek aan de linkerkant naar de mappen Middelen die het afbeeldingselement bevatten waarvan u een voorvertoning wilt weergeven.
+1. Navigeer in het deelvenster Elementenbibliotheek aan de linkerkant naar de map Asset die het afbeeldingselement bevat waarvan u een voorvertoning wilt weergeven.
 1. Voer een van de volgende handelingen uit:
 
    * Selecteer boven het middelenvenster rechts op de werkbalk de optie **[!UICONTROL Grid View]**. Selecteer in het venster Middelen één afbeeldingselement en ga vervolgens onder de miniatuurafbeelding naar **[!UICONTROL Preview]** > **[!UICONTROL Image Preset List]**.
    * Selecteer boven het middelenvenster rechts op de werkbalk de optie **[!UICONTROL List View]**. Selecteer in het venster Middelen één afbeeldingselement en ga vervolgens rechts van de miniatuurafbeelding naar **[!UICONTROL Preview]** > **[!UICONTROL Image Preset List]**.
    * Selecteer boven het middelenvenster rechts op de werkbalk de optie **[!UICONTROL Detail View]**. Ga op dezelfde werkbalk naar **[!UICONTROL Preview]** > **[!UICONTROL Image Preset List]**.
 
-1. Selecteer in de tabel in het venster Lijst met voorinstellingen afbeelding de naam van een type voorinstelling waarvan u een inline voorvertoning van het afbeeldingselement wilt weergeven in het rechterdeelvenster.
-1. (Optioneel) Kies in het venster Lijst met voorinstellingen afbeelding de optie **[!UICONTROL URL Encoding for Copy URL Generation]** Selecteer in de vervolgkeuzelijst onderaan de URL-codering die u op de URL van het afbeeldingselement wilt toepassen wanneer deze wordt gekopieerd.
+1. Selecteer in de tabel in het venster Lijst met voorinstellingen afbeelding de naam van een type voorinstelling waarvan u een inline voorvertoning wilt weergeven in het rechterdeelvenster.
+1. (Optioneel) Kies in het venster Lijst met voorinstellingen afbeelding de optie **[!UICONTROL URL Encoding for Copy URL Generation]** Selecteer in de vervolgkeuzelijst onderaan de URL-codering die u op de URL van het afbeeldingselement wilt toepassen wanneer het element wordt gekopieerd.
 1. (Optioneel) Selecteer in het venster Lijst met voorinstellingen afbeelding rechtsboven in het voorvertoningsvenster de optie **[!UICONTROL Copy URL]** voor het geselecteerde vooraf ingestelde type.
 
    Wanneer u **[!UICONTROL Copy URL]**, wordt de bijbehorende URL automatisch naar het klembord gekopieerd.

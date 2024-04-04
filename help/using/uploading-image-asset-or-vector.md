@@ -1,6 +1,6 @@
 ---
 title: Een rasterafbeeldingselement uploaden
-description: Leer hoe u rasterafbeeldingen kunt uploaden naar Adobe Dynamic Media Classic
+description: Leer hoe u een rasterafbeelding uploadt naar Adobe Dynamic Media Classic.
 contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
@@ -9,9 +9,9 @@ role: User
 exl-id: 2ef78fe6-1e7c-4f48-86da-137ddaa55bbf
 topic: Content Management
 level: Intermediate
-source-git-commit: ae7d0c6d3047d68ed3da4187ef516dc51c95de30
+source-git-commit: f054057d383b26e9088582f418f62504c3f327d8
 workflow-type: tm+mt
-source-wordcount: '996'
+source-wordcount: '998'
 ht-degree: 0%
 
 ---
@@ -120,7 +120,7 @@ https://s7ugc1.scene7.com/ugc/image?op=upload&upload_token=aa2a378a-cd25-4c80-99
 
 De `file_limit` parameter geeft de maximale bestandsgrootte op in bytes. De `file_exts` parameter geeft de bestandsextensies aan die mogen worden geüpload. Beide waarden zijn optioneel.
 
-Er wordt een algemene limiet ingesteld in de toepassing voor de maximale bestandsgrootte en de toegestane bestandsextensies. Als wat u in het verzoek verzendt een ondergroep van de globale grenzen is, wordt het geëerd. De globale limieten zijn als volgt:
+Er wordt een algemene limiet ingesteld in de toepassing voor de maximale bestandsgrootte en de toegestane bestandsextensies. Als wat u in het verzoek verzendt een ondergroep van de globale grenzen is, wordt het gehonoreerd. De globale limieten zijn als volgt:
 
 | Globale limiet | Waarde |
 | --- | --- |
@@ -138,9 +138,9 @@ Met het volgende HTML-formulier kan een gebruiker een element uploaden. In het f
 Zie Achtergrond uitnemen in [Opties voor het verfijnen van afbeeldingen tijdens het uploaden](image-editing-options-upload.md#image-editing-options-at-upload).
 * The name of the file to upload.
 
-U kunt de broncode van de HTML die aan het bovenstaande formulier is gekoppeld, bekijken door [https://s7ugc1.scene7.com/ugc/upload.html](https://s7ugc1.scene7.com/ugc/upload.html)
+U kunt de aan het bovenstaande formulier gekoppelde broncode van de HTML weergeven door [https://s7ugc1.scene7.com/ugc/upload.html](https://s7ugc1.scene7.com/ugc/upload.html)
 
-Klik in Firefox met de rechtermuisknop in het browservenster en selecteer **[!UICONTROL View Page Source]**. De code toont het overeenkomstige URL vraagkoord en de methode van de POST die in werking worden gesteld wanneer de gebruiker selecteert **[!UICONTROL Submit]**.
+Klik in Firefox met de rechtermuisknop in het browservenster en selecteer **[!UICONTROL View Page Source]**. De code toont het overeenkomstige URL vraagkoord en de methode van de POST die in werking wordt gesteld wanneer de gebruiker selecteert **[!UICONTROL Submit]**.
 
 Ga naar **[!UICONTROL View]** > **[!UICONTROL Source]**. Ga naar **[!UICONTROL Tools]** > **[!UICONTROL Browser Tools]** > **[!UICONTROL Web Developer Tools]**. Firefox wordt aanbevolen voor het weergeven van XML-reacties.
 
@@ -237,7 +237,7 @@ U kunt de volgende velden in de URL-queryreeks gebruiken om informatie voor een 
 | URL-parameter | Vereist of optioneel | Waarde |
 | --- | --- | --- |
 | `op` | Vereist | image_info |
-| `shared_secret` | Vereist | De gedeelde geheime sleutel voor het bedrijf. |
+| `shared_secret` | Vereist | De sleutel die gedeeld-geheim voor het bedrijf is. |
 | `image_name` | Vereist | Naam van de afbeelding. |
 
 **URL voorbeeld:**

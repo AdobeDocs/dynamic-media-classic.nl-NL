@@ -1,27 +1,25 @@
 ---
 title: Afbeeldingen met hyperlinks maken
 description: Leer hoe u afbeeldingen met hyperlinks maakt in Adobe Dynamic Media Classic.
-uuid: 0dcc4956-006e-4a74-9d6a-6d4bb23790ce
 contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/master_files
-discoiquuid: 4eddf983-38cb-4f00-b3be-85c20bdd6f69
 feature: Dynamic Media Classic,Asset Management
 role: User
 exl-id: deafbd03-06bc-4d7e-87a1-5620ebcac426
 topic: Content Management
 level: Intermediate
-source-git-commit: d82f816553f807b514f4690827dab672a6baf690
+source-git-commit: f054057d383b26e9088582f418f62504c3f327d8
 workflow-type: tm+mt
-source-wordcount: '2354'
+source-wordcount: '2358'
 ht-degree: 0%
 
 ---
 
 # Afbeeldingen met hyperlinks maken {#creating-image-maps}
 
-Een afbeelding met hyperlinks is een gebied in een afbeelding, een eCatalog-pagina of een afbeelding in een SpinSet waarin een rollover-deelvenster met tekst wordt weergegeven. Wanneer de gebruiker een Kaart van het Beeld selecteert, wordt een actie van één of andere soort teweeggebracht. Er wordt bijvoorbeeld een webpagina gestart zodat de gebruiker meer over een product kan leren. Er verschijnt een omtrek rond een afbeelding met hyperlinks wanneer de gebruiker de aanwijzer erboven plaatst.
+Een afbeelding met hyperlinks is een gebied op een afbeelding, een eCatalog-pagina of een afbeelding in een SpinSet waarin een rollover-deelvenster met tekst wordt weergegeven. Wanneer de gebruiker een Kaart van het Beeld selecteert, wordt een actie van één of andere soort teweeggebracht. Er wordt bijvoorbeeld een webpagina gestart zodat de gebruiker meer over een product kan leren. Er verschijnt een omtrek rond een afbeelding met hyperlinks wanneer de gebruiker de aanwijzer erboven plaatst.
 
 Naast de mogelijkheid om afbeeldingen met hyperlinks te maken in Adobe Dynamic Media Classic, kunt u ook afbeeldingen met hyperlinks maken wanneer u een catalogus ontwerpt in Adobe Acrobat of Adobe InDesign.
 
@@ -34,7 +32,7 @@ Wanneer u Afbeeldingskaarten maakt, kunt u het volgende doen:
 * Afbeeldingen met hyperlinks exporteren naar CSV of XML.
 * Importeer metagegevens van een afbeelding uit een door tabs gescheiden bestand of uit een XML-bestand.
 * Bepaal andere acties zoals die door het Consortium van World Wide Web worden bepaald.
-* Voorvertoning van afbeeldingen met hyperlinks.
+* Afbeeldingen met hyperlinks voorvertonen.
 
 ## Een afbeelding met hyperlinks tekenen en aanpassen {#drawing-and-adjusting-an-image-map}
 
@@ -42,7 +40,7 @@ Wanneer u Afbeeldingskaarten maakt, kunt u het volgende doen:
 
    * Als u met een afbeelding werkt in de rasterweergave of lijstweergave, selecteert u in de vervolgkeuzelijst Bewerken de optie **[!UICONTROL Image Map]**. Of open het in de Gedetailleerde Mening, en selecteer dan **[!UICONTROL Image Map]** boven de afbeelding.
    * Als u met een SpinSet werkt in de rasterweergave of lijstweergave, selecteert u **[!UICONTROL Edit]**. Of open het in de Gedetailleerde Mening, en selecteer dan **[!UICONTROL Edit]**. Selecteer een afbeeldingselement en selecteer vervolgens **[!UICONTROL Image Map]**.
-   * Als u met een eCatalog werkt, in de Mening van het Net, de Mening van de Lijst, de Mening van het Detail, selecteert **[!UICONTROL Edit]**. Selecteer **[!UICONTROL Map Pages]** tab.
+   * Als u met een eCatalog werkt, in de Mening van het Net, de Mening van de Lijst, de Mening van het Detail, selecteert **[!UICONTROL Edit]**. Selecteer de **[!UICONTROL Map Pages]** tab.
 
    ![Afbeelding met hyperlinks](assets/ma_image_map.png)
 
@@ -58,7 +56,7 @@ Wanneer u Afbeeldingskaarten maakt, kunt u het volgende doen:
 
 1. Als u wilt dat gebruikers een nieuwe webpagina openen wanneer zij Afbeeldingskaart selecteren, voert u de URL in de lijst Afbeeldingskaart in.
 
-   Zie [om JavaScript en URL&#39;s in te voeren](creating-image-maps.md#using_a_template_to_enter_javascript_and_urls).
+   Zie [JavaScript en URL&#39;s invoeren](creating-image-maps.md#using_a_template_to_enter_javascript_and_urls).
 
 1. Als u rollovertekst wilt weergeven wanneer gebruikers de aanwijzer over de Afbeeldingskaart bewegen, voert u de tekst in de lijst Afbeeldingskaart in. Selecteer in de lijst Afbeeldingskaart de optie **[!UICONTROL Show]** en selecteert u **[!UICONTROL Rollover Text]**. Voer vervolgens de tekst in die gebruikers op het scherm moeten zien. U kunt de tekst in een tekstverwerker schrijven en het kopiëren in het de tekstgebied van het Omvergooien.
 
@@ -88,7 +86,7 @@ Als u de positie, vorm en grootte van een afbeelding met hyperlinks wilt wijzige
 
 * **Rechthoekige afbeelding met hyperlinks** - Plaats de aanwijzer boven een zijde of hoek van de Afbeeldingskaart. Wanneer u het pictogram met de dubbele pijl ziet, begint u te slepen. Houd Shift ingedrukt terwijl u sleept om de grootte te wijzigen, maar de hoogte-breedteverhouding (de vorm) te behouden.
 
-* **Veelhoekige afbeelding met hyperlinks** - Sleep een vierkante selectiegreep. Als u een selectiegreep wilt maken, selecteert u de rand van de Afbeeldingskaart en begint u te slepen.
+* **Veelhoekige afbeelding met hyperlinks** - Sleep een vierkante selectiehandgreep. Als u een selectiegreep wilt maken, selecteert u de rand van de Afbeeldingskaart en begint u te slepen.
 
 ### Overlappende afbeeldingen met hyperlinks verwerken {#handling-overlapping-image-maps}
 
@@ -96,14 +94,14 @@ Als uw afbeelding of eCatalog-pagina meer dan één afbeelding met hyperlinks be
 
 ### Afbeeldingskaartgegevens importeren {#importing-image-map-data}
 
-In plaats van de gegevens van de Kaart van het Beeld op elke pagina in te gaan, kunt u de gegevens voor uw beeld, de Reeks van de Rotatie, of eCatalog in het Summiere scherm van de Kaart invoeren. U importeert de gegevens van de Kaart van het Beeld in de vorm van een lusje-afgebakend dossier of van XML DTD. De velden in het bestand moeten in de volgorde staan die wordt weergegeven in het scherm Kaartoverzicht: Naam, labels voor inhoudsopgave, Kaarten, URL&#39;s, Rollover-tekst, Overige handelingen en Zoeken. Door de gegevens van de Kaart van het Beeld in te voeren bespaart u het probleem om de gegevens in de Lijst van de Kaart van het Beeld in te gaan aangezien u elke Kaart van het Beeld creeert.
+In plaats van de gegevens van de Kaart van het Beeld op elke pagina in te gaan, kunt u de gegevens voor uw beeld, de Reeks van de Rotatie, of eCatalog in het Summiere scherm van de Kaart invoeren. U importeert de gegevens van de Kaart van het Beeld in de vorm van een lusje-afgebakend dossier of van XML DTD. De velden in het bestand moeten in de volgorde staan die wordt weergegeven in het scherm Kaartoverzicht: Naam, inhoudsopgavelabels, Kaarten, URL&#39;s, Rollover-tekst, Overige handelingen en Zoeken. Door de gegevens van de Kaart van het Beeld in te voeren bespaart u het probleem om de gegevens in de Lijst van de Kaart van het Beeld in te gaan aangezien u elke Kaart van het Beeld creeert.
 
 **Afbeeldingskaartgegevens importeren:**
 
 1. Ga naar de de redacteurspagina van de Kaart van het Beeld (voor beelden of beelden in SpinSets) of het lusje van de Pagina&#39;s van de Kaart van het eCatalog het uitgeven scherm.
 1. Selecteren **[!UICONTROL Import Metadata]**.
 1. Selecteer Afbeelding of Afbeeldingskaart in het dialoogvenster Metagegevens uploaden om de metagegevens van het gewenste type elementeigenschap te uploaden.
-1. Selecteer in de vervolgkeuzelijst Bestand genereren het type bestand dat u wilt maken.
+1. In de `Generate File` selecteert u het type bestand dat u wilt maken.
 1. (Optioneel) Selecteer **[!UICONTROL Generate]** om een voorvertoning van de resulterende gegevens weer te geven op basis van het type bestand dat u wilt maken. Selecteren **[!UICONTROL Close]** om terug te keren naar het dialoogvenster Metagegevens uploaden.
 1. Blader naar het bestand dat u wilt uploaden. Geef in het tekstveld Bestandsnaam de naam van het gegenereerde bestand op.
 1. (Optioneel) Geef in het veld Taaknaam een naam op voor de uploadtaak voor metagegevens.
@@ -115,13 +113,13 @@ U kunt afbeeldingen met hyperlinks kopiëren van een afbeelding of van een eCata
 
 Het kopiëren van afbeeldingen met hyperlinks in een eCatalog is bijvoorbeeld een handige manier om alle afbeeldingen met hyperlinks te kopiëren naar andere versies in dezelfde eCatalog. Voor de beste resultaten is kopiëren het meest succesvol als u kopieert tussen eCatalogi met hetzelfde aantal pagina&#39;s en dezelfde afbeeldingen. Als de eCatalog waarnaar u kopieert reeds Kaarten van het Beeld bevat, worden die Kaarten van Beeld geschrapt wanneer het exemplaar wordt gemaakt.
 
-**Afbeeldingen met hyperlinks kopiëren:**
+**Afbeeldingskaarten kopiëren:**
 
 1. Ga naar de de redacteurspagina van de Kaart van het Beeld (voor beelden of beelden in SpinSets) of het lusje van de Pagina&#39;s van de Kaart van het eCatalog het uitgeven scherm.
 1. Selecteren **[!UICONTROL Copy Maps to]**.
 1. Voer een van de volgende handelingen uit op basis van het feit of u afbeeldingen met hyperlinks kopieert of afbeeldingen met hyperlinks kopieert uit een eCatalog:
 
-   * (Afbeeldingen) Selecteer in het scherm Afbeeldingen selecteren de afbeeldingen waarnaar u de Afbeeldingen met hyperlinks wilt kopiëren.
+   * (Afbeeldingen) Selecteer in het scherm Afbeeldingen selecteren de afbeeldingen waarnaar u de afbeeldingen met hyperlinks wilt kopiëren.
    * (eCatalog) Selecteer in het scherm Select Asset de afbeeldingen of eCatalog-pagina&#39;s waarnaar u de Afbeeldingen met hyperlinks wilt kopiëren.
 
 1. Kies **[!UICONTROL Select]**.
@@ -134,19 +132,19 @@ U kunt een URL-sjabloon (ook wel een Href-sjabloon genoemd) definiëren om het i
 >
 >Wanneer u de JavaScript-code toevoegt aan het HREF-kenmerk van de afbeelding met hyperlinks, wordt de code uitgevoerd op de computer van de client. Controleer daarom of de JavaScript-code veilig is.
 
-### Over URL-sjablonen {#about-url-templates}
+### Informatie over URL-sjablonen {#about-url-templates}
 
 De URL-sjabloon werkt door de inhoud van de URL-kolom in de lijst Afbeeldingskaart te vervangen door de dubbele dollartekens (&#39;$$&#39;) in de sjabloon:
 
 ```as3
-Javascript:loadProduct(‘$$’);void(0);
+Javascript:loadProduct('$$');void(0);
 ```
 
 U plaatst alle waarden die niet tussen Afbeeldingen met hyperlinks veranderen in het malplaatje URL. Voeg alleen de waarden toe die wel veranderen in de URL-kolom in de lijst Afbeelding met hyperlinks. Bijvoorbeeld:
 
-* URL-sjabloon - `javascript:loadProduct(‘https://www.examplesitehere.com/$$’);void(0);`
+* URL-sjabloon - `javascript:loadProduct('https://www.examplesitehere.com/$$');void(0);`
 * URL-waarde - `product.htm`
-* Werkelijke URL gegenereerd - `javascript:loadProduct(‘https://www.examplesitehere.com/product.html);void(0);`
+* Werkelijke URL gegenereerd - `javascript:loadProduct('https://www.examplesitehere.com/product.html);void(0);`
 
 Standaard bevat de URL-sjabloon een eigen Adobe Dynamic Media Classic JavaScript-handler, genaamd `loadProduct` dat een nieuw venster met de bestemming URL opent. U kunt echter elke JavaScript-code gebruiken om deze JavaScript-handler te vervangen of een van de volgende Adobe Dynamic Media Classic-handlers gebruiken:
 
@@ -188,17 +186,17 @@ U kunt de **[!UICONTROL Show]** en kiest u **[!UICONTROL Other Actions]** om and
 1. Gebruikend de syntaxis die door de HTML specificaties van het Consortium van World Wide Web wordt gespecificeerd, voeg de gesteunde attributen in de Andere kolom van Acties van de Lijst van de Kaart van het Beeld toe.
 1. Selecteren **[!UICONTROL Save]**.
 
-Selecteer **[!UICONTROL Show]** en selecteert u **[!UICONTROL Both]** als u een afbeelding met hyperlinks wilt weergeven met rollovertekst en een handeling.
+Selecteer de **[!UICONTROL Show]** en selecteert u **[!UICONTROL Both]** als u een afbeelding met hyperlinks wilt weergeven met rollovertekst en een handeling.
 
 ## Afbeeldingen met hyperlinks maken in Adobe Acrobat of Adobe InDesign {#creating-image-maps-in-adobe-acrobat-or-adobe-indesign}
 
 U kunt afbeeldingen met hyperlinks maken terwijl u uw eCatalog ontwerpt in Adobe Acrobat of Adobe InDesign.
 
-Maak in Adobe Acrobat of Adobe InDesign hyperlinkverwijzingen waar u de afbeeldingen met hyperlinks wilt weergeven en geef URL-locaties op voor de afbeelding met hyperlinks. Als u de optie Koppelingen extraheren selecteert wanneer u het PDF-bestand uploadt naar Adobe Dynamic Media Classic, worden de koppelingen automatisch naar Afbeeldingskaarten geconverteerd.
+Maak in Adobe Acrobat of Adobe InDesign hyperlinkverwijzingen waar u de afbeeldingen met hyperlinks wilt weergeven en geef URL-locaties op voor de afbeelding met hyperlinks. Als u de optie Koppelingen extraheren selecteert wanneer u het PDF-bestand uploadt naar Adobe Dynamic Media Classic, worden de koppelingen automatisch omgezet naar Afbeeldingskaarten.
 
 Raadpleeg de Help bij Adobe InDesign of Adobe Acrobat voor meer informatie.
 
-### Afbeeldingen met hyperlinks maken in Adobe InDesign {#to-create-image-maps-in-adobe-indesign}
+### Afbeeldingen toewijzen in Adobe InDesign {#to-create-image-maps-in-adobe-indesign}
 
 1. Ga in Adobe InDesign naar **[!UICONTROL Windows®]** > **[!UICONTROL Interactive]** > **[!UICONTROL Hyperlinks]**.
 1. Selecteer in het deelvenster Hyperlinks de tekst, het kader of de afbeelding die u wilt omzetten in een afbeelding met hyperlinks.
@@ -216,7 +214,7 @@ Raadpleeg de Help bij Adobe InDesign of Adobe Acrobat voor meer informatie.
 1. Upload de PDF naar Adobe Dynamic Media Classic.
 1. In **[!UICONTROL PDF Options]**, selecteert u **[!UICONTROL Extract Links]**.
 
-### Afbeeldingen met hyperlinks maken in Adobe Acrobat {#to-create-image-maps-in-adobe-acrobat}
+### Afbeeldingen toewijzen in Adobe Acrobat {#to-create-image-maps-in-adobe-acrobat}
 
 1. Ga in Adobe Acrobat naar **[!UICONTROL Tools]** > **[!UICONTROL Advanced Editing]** > **[!UICONTROL Link Tool]**.
 1. Sleep om de afbeelding met hyperlinks te maken.

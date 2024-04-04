@@ -1,6 +1,6 @@
 ---
 title: Bestanden publiceren
-description: "Leer hoe u uw middelen publiceert naar Dynamic Media Image Servers. U kunt elementen eenmalig publiceren of ervoor zorgen dat Adobe Dynamic Media Classic elementen volgens een terugkerend schema publiceert. Nadat uw activa worden gepubliceerd, zijn zij beschikbaar aan u voor levering. U kunt de URL-aanroepen van Adobe Dynamic Media Classic kopiëren en toevoegen aan uw website of toepassing."
+description: Leer hoe u uw middelen publiceert naar Dynamic Media Image Servers.
 contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
@@ -10,9 +10,9 @@ role: User
 exl-id: 91b73a09-c5b5-4001-b36f-6bebe65717ff
 topic: Content Management
 level: Intermediate
-source-git-commit: ae7d0c6d3047d68ed3da4187ef516dc51c95de30
+source-git-commit: f054057d383b26e9088582f418f62504c3f327d8
 workflow-type: tm+mt
-source-wordcount: '1678'
+source-wordcount: '1624'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 U publiceert uw middelen naar Dynamic Media Image Servers. U kunt elementen eenmalig publiceren of ervoor zorgen dat Adobe Dynamic Media Classic elementen volgens een terugkerend schema publiceert. Nadat uw activa worden gepubliceerd, zijn zij beschikbaar aan u voor levering. U kunt de URL-aanroepen van Adobe Dynamic Media Classic kopiëren en toevoegen aan uw website of toepassing.
 
-Adobe Dynamic Media Classic ondersteunt nu de levering van alle afbeeldingen en video via HTTP/2. Dit wil zeggen dat er een gepubliceerde URL of insluitcode voor de afbeelding of video beschikbaar is om te worden geïntegreerd met elke toepassing die een gehoste element accepteert. Dat gepubliceerde element wordt vervolgens geleverd via het HTTP/2-protocol. Deze leveringsmethode verbetert de manier waarop browsers en servers communiceren, waardoor u betere responstijd en laadtijden voor al uw Adobe Dynamic Media Classic-middelen krijgt. Zie [HTTP2 Veelgestelde vragen over inhoud](https://experienceleague.adobe.com/docs/experience-manager-65/assets/dynamic/http2.html).
+Adobe Dynamic Media Classic ondersteunt nu de levering van alle afbeeldingen en video via HTTP/2. Dit wil zeggen dat er een gepubliceerde URL of insluitcode voor de afbeelding of video beschikbaar is om te worden geïntegreerd met elke toepassing die een gehoste element accepteert. Dat gepubliceerde element wordt vervolgens geleverd via het HTTP/2-protocol. Deze leveringsmethode verbetert de manier waarop browsers en servers communiceren, waardoor u betere responstijd en laadtijden voor al uw Adobe Dynamic Media Classic-middelen krijgt. Zie [HTTP2 Veelgestelde vragen over inhoud](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/assets/dynamic/http2).
 
 ## Publiceren na uploaden {#publish-after-uploading}
 
@@ -35,7 +35,7 @@ Gebruik de volgende technieken om elementen te markeren voor publicatie:
 
 * **[!UICONTROL Publish After Uploading]** - Selecteer in het dialoogvenster Taakopties de optie **[!UICONTROL Publish After Uploading]**. De standaardinstelling is een geselecteerde status.
 
-Sommige &quot;onderliggende&quot; elementen worden automatisch gemarkeerd voor publicatie wanneer hun ouders zijn gemarkeerd voor publicatie. Deze tabel bevat een lijst met onderliggende elementen die zijn gemarkeerd voor automatisch publiceren.
+Sommige &quot;onderliggende&quot; elementen worden automatisch gemarkeerd voor publicatie wanneer hun ouders zijn gemarkeerd voor publicatie. Deze tabel bevat een lijst met onderliggende elementen die automatisch zijn gemarkeerd voor publicatie.
 
 | Bovenliggend item (groep) | Onderliggende items (lid) |
 | --- | --- |
@@ -53,7 +53,7 @@ Maak een publicatietaak om elementen te publiceren die u naar Adobe Dynamic Medi
 **Een publicatietaak maken:**
 
 1. Selecteer op de algemene navigatiebalk de optie **[!UICONTROL Publish]**.
-1. Kies in het dialoogvenster Publiceren of u een eenmalige of herhaalde publicatietaak wilt uitvoeren.
+1. Kies in het dialoogvenster Publiceren of u een eenmalige of terugkerende publicatietaak wilt uitvoeren.
 
    Zie [Een eenmalige publicatietaak maken](publishing-files.md#creating_a_one_time_publish_job) en [Een terugkerende publicatietaak maken](publishing-files.md#creating_a_recurring_publish_job).
 
@@ -68,19 +68,19 @@ Adobe Dynamic Media Classic houdt publicatietaken bij op de pagina Jobs. U kunt 
 
 >[!NOTE]
 >
->Elementen die u opnieuw publiceert (en die u eerder hebt gepubliceerd) worden niet direct op uw website weergegeven vanwege het mechanisme voor webcaching op het CDN (Content Delivery Network). Zie [Hergepubliceerde elementen en CDN-vertragingen](publishing-files.md#republished_assets_and_cdn_delays).
+>Elementen die u opnieuw hebt gepubliceerd (en die u eerder hebt gepubliceerd) worden niet direct op uw website weergegeven vanwege het mechanisme voor webcaching op het CDN (Content Delivery Network). Zie [Hergepubliceerde elementen en CDN-vertragingen](publishing-files.md#republished_assets_and_cdn_delays).
 
 ### Een eenmalige publicatietaak maken {#creating-a-one-time-publish-job}
 
-Een eenmalige publicatietaak maken door de optie **[!UICONTROL One-Time]** op de pagina Publiceren.
+Maak een eenmalige publicatietaak door de optie **[!UICONTROL One-Time]** op de pagina Publiceren.
 
-Als u wilt dat de publicatietaak later plaatsvindt, selecteert u op de pagina Publiceren de optie **[!UICONTROL One-Time]** selecteert u vervolgens **[!UICONTROL Schedule For Later]** in de vervolgkeuzelijst. Gebruik de schuifregelaar Kalender en Tijd om een dag en tijd te selecteren waarop u de publicatietaak wilt uitvoeren.
+Als u wilt dat de publicatietaak later plaatsvindt, selecteert u op de pagina Publiceren de optie **[!UICONTROL One-Time]**. Selecteer in de vervolgkeuzelijst de optie **[!UICONTROL Schedule For Later]**. Gebruik de schuifregelaar Kalender en Tijd om een dag en tijd te selecteren waarop u de publicatietaak wilt uitvoeren.
 
 ### Een terugkerende publicatietaak maken {#creating-a-recurring-publish-job}
 
 Een terugkerende publicatietaak maken door **[!UICONTROL Recurring]** op de pagina Publiceren.
 
-Kies vervolgens de optie Herhalen van **[!UICONTROL Daily]**, **[!UICONTROL Weekly]**, **[!UICONTROL Monthly]**, of **[!UICONTROL Custom]** en geeft u op wanneer de publicatietaak moet worden herhaald. Adobe Dynamic Media Classic biedt kalendergereedschappen voor het plannen van de terugkerende publicatietaak. U kunt **[!UICONTROL Custom]** en voert u een regel in het tekstveld Regel in om een aangepast taakinterval te beschrijven.
+Kies vervolgens de optie Herhalen van **[!UICONTROL Daily]**, **[!UICONTROL Weekly]**, **[!UICONTROL Monthly]**, of **[!UICONTROL Custom]** en geeft u op wanneer de publicatietaak moet worden herhaald. Adobe Dynamic Media Classic presenteert kalendergereedschappen voor het plannen van de terugkerende publicatietaak. U kunt **[!UICONTROL Custom]** en voert u een regel in het tekstveld Regel in om een aangepast taakinterval te beschrijven.
 
 Zie [Een aangepast tijdinterval voor uploaden of publiceren maken](checking-job-files.md#creating_a_custom_upload_or_publish_job_time_interval).
 
@@ -110,7 +110,7 @@ Als u een publicatietaak wilt annuleren, gaat u naar de pagina Taken en selectee
 
 >[!NOTE]
 >
->Nadat u een publicatietaak hebt geannuleerd, verandert de status in &quot;stoppen&quot; totdat de taak een punt bereikt waarop deze veilig kan stoppen. Het stoppen van een publicatietaak kan enige tijd duren als de taak bezig is gegevens uit de database op te halen.
+>Nadat u een publicatietaak hebt geannuleerd, verandert de status in &quot;stoppen&quot; totdat de taak een punt bereikt waarop deze veilig kan stoppen. Het kan enige tijd duren voordat een publicatietaak wordt gestopt als de taak bezig is gegevens uit de database op te halen.
 
 ## Elementen handmatig publiceren {#manually-publishing-assets}
 

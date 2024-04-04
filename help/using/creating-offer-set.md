@@ -1,20 +1,18 @@
 ---
 title: Een aanbiedingsset maken
 description: Klik hier als je wilt weten hoe je een aanbieding maakt in Adobe Dynamic Media Classic.
-uuid: 6d6a4af9-70c0-4cfa-9a8f-855d6adfcc8f
 contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/target_integration
-discoiquuid: 59b6437d-c21e-4929-9291-3032dbb34565
 feature: Dynamic Media Classic
 role: Data Engineer,Admin,User
 exl-id: 05f2cce0-72bf-4933-87ab-c9003c848e35
 topic: Integrations, Development
 level: Experienced
-source-git-commit: 5d8b7cb8b4616a998346675d7324b568634698fb
+source-git-commit: 910410706fbd9dd79a8dda402af454a50132cc41
 workflow-type: tm+mt
-source-wordcount: '1223'
+source-wordcount: '1159'
 ht-degree: 0%
 
 ---
@@ -27,7 +25,7 @@ U kunt elk van de volgende soorten aanbiedingen maken:
 * Parameterized malplaatje
 * Afbeelding
 
-Selecteer voor sjablonen de optie **[!UICONTROL Add and Preview]** stelt u vervolgens de gewenste parameters in. De andere aanbiedingsreeks types omvat geen parameters, maar u kunt hen nog aanpassen door te selecteren **[!UICONTROL Preview]** en wijzigt u de beschikbare voorinstellingen.
+Selecteer voor sjablonen de optie **[!UICONTROL Add and Preview]** stelt u vervolgens de gewenste parameters in. Andere ingestelde aanbiedingstypen bevatten geen parameters, maar u kunt deze nog steeds aanpassen door **[!UICONTROL Preview]** en wijzigt u de beschikbare voorinstellingen.
 
 Adobe Dynamic Media Classic biedt tools voor bewerking en het maken van aanbiedingssets.
 
@@ -136,14 +134,14 @@ Zie ook [Elementen handmatig publiceren](publishing-files.md#manually_publishing
 
    >[!NOTE]
    >
-   >U kunt geen aanbiedingsreeks schrappen die met een campagne wordt geassocieerd. Als u een set aanbiedingen die aan een campagne is gekoppeld wilt verwijderen, meldt u zich aan bij Adobe Target Standard/Premium en verwijdert u eerst de campagnecorracties. Zelfs nadat u zich niet aan een campagne hebt gekoppeld, kan het middel alleen uit Adobe Dynamic Media Classic worden verwijderd, waarvoor een aanmelding bij Adobe Target Standard/Premium vereist is, en niet vanuit Adobe Target Standard/Premium.
+   >U kunt geen aanbiedingsreeks schrappen die met een campagne wordt geassocieerd. Als u een set aanbiedingen die aan een campagne is gekoppeld wilt verwijderen, meldt u zich aan bij Adobe Target Standard/Premium en verwijdert u eerst de campagnecorracties. Zelfs nadat u zich niet aan een campagne hebt gekoppeld, kan het actief alleen uit Adobe Dynamic Media Classic worden verwijderd, waarvoor een aanmelding bij Adobe Target Standard/Premium vereist is, en niet vanuit Adobe Target Standard/Premium.
 
-1. Wanneer u klaar bent met bewerken, gaat u naar de rechterbenedenhoek van de pagina en zorgt u ervoor dat **[!UICONTROL Publish after save]** is geselecteerd (standaard).
+1. Wanneer u klaar bent met bewerken, gaat u naar de rechterbenedenhoek van de pagina en controleert u of **[!UICONTROL Publish after save]** is geselecteerd (standaard).
 1. Selecteren **[!UICONTROL Save]**, selecteert u een opslagmap, voert u een naam voor de set in en selecteert u **[!UICONTROL Save]**.
 
-## Een aanbiedingsset verwijderen {#deleting-an-offer-set}
+## Een aanbiedingsset verwijderen {#delet-an-offer-set}
 
-Wanneer u een set voorstellen verwijdert, wordt de set zelf naar de prullenbak verplaatst. De leden (of &quot;kinderen&quot;) in die reeks worden echter niet beïnvloed; in plaats daarvan behouden zij elk hun bestaande gepubliceerde of niet - gepubliceerde staat .
+Wanneer u een set voorstellen verwijdert, wordt de set zelf naar de prullenbak verplaatst. De leden (of &quot;kinderen&quot;) binnen die set worden echter niet beïnvloed, maar ze behouden hun bestaande gepubliceerde of niet-gepubliceerde status.
 
 Zie ook [Elementen handmatig publiceren](publishing-files.md#manually_publishing_assets) en [Publicaties van elementen handmatig ongedaan maken](publishing-files.md#manually_unpublishing_assets).
 

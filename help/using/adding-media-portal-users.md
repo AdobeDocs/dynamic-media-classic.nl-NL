@@ -1,20 +1,18 @@
 ---
 title: Gebruikers van Media Portal toevoegen en beheren
-description: Leer hoe u gebruikers van Media Portal in Adobe Dynamic Media Classic kunt toevoegen en beheren.
-uuid: 96d4103c-6428-4ce1-b9e4-231599304f27
+description: Leer hoe u gebruikers van Media Portal in Adobe Dynamic Media Classic toevoegt en beheert.
 contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/media_portal
-discoiquuid: 5e933045-ce1a-41b9-ba8b-2151c396b7a2
 feature: Dynamic Media Classic,Collaboration,Asset Management
 role: Admin,User
 exl-id: 9590c53c-fd38-4bf2-b723-cd7369702364
 topic: Administration
 level: Intermediate
-source-git-commit: d82f816553f807b514f4690827dab672a6baf690
+source-git-commit: f054057d383b26e9088582f418f62504c3f327d8
 workflow-type: tm+mt
-source-wordcount: '930'
+source-wordcount: '923'
 ht-degree: 0%
 
 ---
@@ -43,7 +41,7 @@ De gebruikers van het Portaal van media, de medewerkers, en de medewerker-gebrui
 
 1. Navigeren naar **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Administration Setup]** > **[!UICONTROL User Administration]**.
 1. Selecteer op de pagina Gebruikersbeheer de optie **Toevoegen**.
-1. Voer in het dialoogvenster Gebruiker toevoegen in het deelvenster Gebruikersinfo de voornaam, achternaam en e-mailadres van de gebruiker in en selecteer vervolgens **[!UICONTROL Next]**.
+1. In de **[!UICONTROL `Add User`]** voert u in het deelvenster Gebruikersinfo de voornaam, achternaam en het e-mailadres van de gebruiker in en selecteert u vervolgens **[!UICONTROL Next]**.
 1. Selecteer in het deelvenster Bedrijf/Rol in de vervolgkeuzelijst Bedrijven een bedrijf of bedrijven voor de gebruiker.
 1. Selecteer in de lijst Rol een rol voor Media Portal en selecteer vervolgens **[!UICONTROL Next]**.
 
@@ -55,7 +53,7 @@ De gebruikers van het Portaal van media, de medewerkers, en de medewerker-gebrui
 
 1. (Optioneel) Selecteer **[!UICONTROL Email Settings]** om andere e-mailinstellingen te kiezen dan de standaardinstellingen.
 
-   Zie [Het welkomstbericht voor gebruikers van het Media Portal instellen](adding-media-portal-users.md#setting_up_the_welcome_e_mail_message_for_media_portal_users).
+   Zie [Het welkomste-mailbericht voor gebruikers van Media Portal instellen](adding-media-portal-users.md#setting_up_the_welcome_e_mail_message_for_media_portal_users).
 
 1. Selecteren **[!UICONTROL Add User]**.
 
@@ -67,9 +65,9 @@ Als u meerdere gebruikers wilt toevoegen, kunt u een gebruikerslijst uploaden. D
 
 Maak de gebruikerslijst als een CSV-bestand (met door komma&#39;s gescheiden waarden) dat de gebruikersgegevens bevat. Nadat de lijst is geüpload, worden de gebruikers in de lijst automatisch toegevoegd aan de account met hun opgegeven groepstoewijzingen. Een welkomste-mail wordt verzonden naar elke nieuwe gebruiker, met inbegrip van een verbinding aan het Portaal van Media en een tijdelijk wachtwoord.
 
-### Het CSV-bestand maken {#creating-the-csv-file}
+### Het CSV-bestand maken {#create-the-csv-file}
 
-Maak een CSV-bestand (filename.csv) dat voldoet aan de volgende indeling en velden. De eerste rij van het bestand moet de kolomkoppen bevatten die in deze tabel staan. U kunt deze kolommen naar wens ordenen. Alle kolommen zijn vereist.
+Maak een CSV-bestand (filename.csv) dat voldoet aan de volgende indeling en velden. De eerste rij van het bestand moet de kolomkoppen bevatten die in deze tabel worden vermeld. U kunt deze kolommen naar wens rangschikken. Alle kolommen zijn vereist.
 
 | Kolomnaam | Beschrijving |
 |--- |--- |
@@ -99,15 +97,15 @@ Elke gebruiker in de lijst wordt automatisch toegevoegd aan de opgegeven groepen
 >
 >Als het CSV-bestand niet correct is opgemaakt, wordt het volgende foutbericht weergegeven: &quot;Er is een fout opgetreden tijdens het verwerken van het geüploade CSV-bestand. Controleer de inhoud van het bestand op geldige gegevens.&quot; Bovendien als CSV bestaande IP of IPS gebruiker bevat, wordt de gebruiker niet toegevoegd aan de Lijst van de Gebruiker.
 
-## Genereer een selecteerbare lijst van gebruikers van het Portaal van Media {#generating-a-selectable-list-of-media-portal-users}
+## Genereer een selecteerbare lijst met gebruikers van het Media Portal {#generating-a-selectable-list-of-media-portal-users}
 
 U kunt de namen en e-mailadressen van gebruikers van het Portaal van Media in een pop-up venster tonen. Deze lijst is nuttig als u gebruikersnamen en adressen voor gebruik buiten het Portaal van Media wilt knippen en kleven.
 
 1. Navigeren naar **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Administration Setup]** > **[!UICONTROL User Administration]**.
 1. In de **[!UICONTROL By User Role]** drop-down lijst, kies de naam van een Poortgebruikersrol van Media, en selecteer **[!UICONTROL Refresh]** om de namen van één klasse van de gebruiker van het Portaal van Media te tonen.
-1. Selecteren **[!UICONTROL Popup List]**. Kopieer en plak deze lijst.
+1. Selecteren **[!UICONTROL Popup List]**. Deze lijst kopiëren en plakken.
 
-## Het welkomstbericht voor gebruikers van het Media Portal instellen {#setting-up-the-welcome-e-mail-message-for-media-portal-users}
+## Het welkomste-mailbericht voor gebruikers van Media Portal instellen {#setting-up-the-welcome-e-mail-message-for-media-portal-users}
 
 U kunt een welkome e-mail verzenden wanneer u nieuwe gebruikers van het Portaal van Media, medewerkers, en medewerker-gebruikers toevoegt. U kunt dit e-mailbericht configureren of Adobe Dynamic Media Classic vertellen het niet te verzenden.
 
@@ -115,7 +113,7 @@ U kunt een welkome e-mail verzenden wanneer u nieuwe gebruikers van het Portaal 
 1. In het scherm van de Opstelling van het Beleid van de Gebruiker, selecteer **[!UICONTROL Email Settings]**.
 1. Geef in het dialoogvenster E-mailinstellingen een of meer van de volgende instellingen op:
 
-   * **[!UICONTROL Send Email]** - Schakel deze optie uit als u nieuwe gebruikers niet via e-mail wilt laten weten dat u hen hebt aangemeld.
+   * **[!UICONTROL Send Email]** - Schakel deze optie uit als u nieuwe gebruikers per e-mail wilt laten weten dat u ze hebt aangemeld.
 
    * **[!UICONTROL Default Password]** - Voer een tijdelijk wachtwoord in voor nieuwe gebruikers of laat het veld leeg om Adobe Dynamic Media Classic willekeurige wachtwoorden te laten genereren. Gebruikers wordt gevraagd wachtwoorden te wijzigen wanneer zij zich voor het eerst aanmelden.
 

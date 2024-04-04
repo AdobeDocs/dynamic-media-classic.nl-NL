@@ -10,9 +10,9 @@ role: Admin,User
 exl-id: 604b4630-4704-4254-84b5-91b33bb19d58
 topic: Administration
 level: Intermediate
-source-git-commit: ae7d0c6d3047d68ed3da4187ef516dc51c95de30
+source-git-commit: 910410706fbd9dd79a8dda402af454a50132cc41
 workflow-type: tm+mt
-source-wordcount: '1889'
+source-wordcount: '1893'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ Deze nieuwe app is nu beschikbaar voor Windows® en macOS.
 >
 >Adobe raadt u aan de nieuwe Adobe Dynamic Media Classic-bureaubladtoepassing uiterlijk op 1 oktober 2020 te installeren. Als u dit doet, hebt u een soepele overgang voordat de Flash Player van de Adobe op 31 december 2020 wordt afgekeurd. Na die datum kunt u zich niet meer aanmelden bij de browserversie van de Adobe Dynamic Media Classic-gebruikersinterface met het label Adobe Dynamic Media Classic in het product.
 
-Zie de veelgestelde vragen voor de [Nieuwe Adobe Dynamic Media Classic-aanmelding nu beschikbaar.](/help/using/new-ui-2020.md)
+Zie de veelgestelde vragen voor de [Nieuwe Adobe Dynamic Media Classic-aanmelding is nu beschikbaar.](/help/using/new-ui-2020.md)
 
 ## Systeemvereisten voor Adobe Dynamic Media Classic-bureaubladtoepassing {#system-requirements-dmc-app}
 
@@ -46,7 +46,7 @@ Upgrademelding in de Adobe Dynamic Media Classic-bureaubladtoepassing wordt niet
 
 ## Oplossingen in de nieuwste versie (20.22.1) {#release-jan2022}
 
-* Afbeeldingen bewerken **[!UICONTROL Save]** de knoppen waren niet functioneel.
+* Wanneer u een afbeelding bewerkt, worden de **[!UICONTROL Save]** de knoppen waren niet functioneel.
 * In de Vastgestelde redacteurs, **[!UICONTROL Close]**, **[!UICONTROL Save]**, en **[!UICONTROL Save As]** knoppen worden uitgeschakeld na het schuiven van elementen in het dialoogvenster **[!UICONTROL Add Assets]** deelvenster.
 * **[!UICONTROL Play]** in de weergave Videodetails werkte niet.
 * Kan niet invoeren `d` en `e` in **[!UICONTROL Username]** en **[!UICONTROL Password]** velden wanneer macOS Monterey wordt uitgevoerd.
@@ -233,7 +233,7 @@ Om te downloaden en *stil* Installeer de nieuwste versie van de Adobe Dynamic Me
 
 ## Video doorlopen bij gebruik van Adobe Dynamic Media Classic Desktop App {#dmc-app-video-walk-through}
 
-Kijk eens naar [video doorlopen bij gebruik van Adobe Dynamic Media Classic Desktop App](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/dynamic-media/dynamic-media-classic-desktop-application.html#dynamic-media) (2 minuten 36 seconden).
+Kijk eens naar [video doorlopen bij gebruik van Adobe Dynamic Media Classic Desktop App](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/dynamic-media/dynamic-media-classic-desktop-application#dynamic-media) (2 minuten 36 seconden).
 
 ## De afbeeldingscache en de assetcache op uw computer wissen met de bureaubladtoepassing {#clear-cache}
 
@@ -252,7 +252,7 @@ U kunt de cache van afbeeldingen en elementen niet alleen wissen met de bureaubl
    * macOS: `~/Library/Application\ Support/com.adobe.DMCDesktop/Local\ Store/`
    * Windows®: `C:\Users\YourUserName\AppData\Roaming\com.adobe.DMCDesktop\Local Store`
 
-## Bekende beperking in Adobe Dynamic Media Classic 20.21.1
+## Bekende beperkingen in Adobe Dynamic Media Classic 20.21.1
 
 * De **[!UICONTROL Server]** De vervolgkeuzelijst is leeg na het bijwerken naar Adobe Dynamic Media Classic-bureaubladtoepassing 20.21.1 - Scenario: u installeert en meldt zich aan bij Adobe Dynamic Media Classic 20.20.1 of 20.20.2 en sluit vervolgens de toepassing. Vervolgens gaat u naar Adobe Dynamic Media Classic 20.21.1. Wanneer u zich probeert aan te melden, **[!UICONTROL Server]** vervolgkeuzelijst in de **[!UICONTROL Sign in to your account]** is leeg. Als u dit probleem wilt oplossen, moet u [de cache handmatig wissen](#clear-cache) (zie bovenstaande stappen).
 

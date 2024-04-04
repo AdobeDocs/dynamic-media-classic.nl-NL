@@ -1,18 +1,16 @@
 ---
 title: Zoeken in Dynamic Media Classic-middelen
 description: Leer hoe u middelen kunt zoeken in Adobe Dynamic Media Classic.
-uuid: 058209bc-bac4-4d5c-8261-e242a543beaf
 contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/managing_assets
-discoiquuid: effef4e7-37c5-42e2-9266-ecd026cad628
 feature: Dynamic Media Classic,Asset Management
 role: User
 exl-id: 4b3f690c-7dff-4bf0-9366-085ba918fe6b
 topic: Content Management
 level: Intermediate
-source-git-commit: 597b7d6bd98c59a644984baeecb888f86a8975c9
+source-git-commit: f054057d383b26e9088582f418f62504c3f327d8
 workflow-type: tm+mt
 source-wordcount: '1375'
 ht-degree: 0%
@@ -29,7 +27,7 @@ Als u bestandselementen wilt zoeken in Adobe Dynamic Media Classic, kunt u eleme
 
 ## Elementen weergeven op type {#viewing-assets-by-type}
 
-Als u alleen bestanden van een bepaald type wilt zien terwijl u bladert, klikt u in de Asset Library aan de linkerkant, in het dialoogvenster **[!UICONTROL Show]** kiest u een bestandstype. Alleen elementen van het type dat u wilt weergeven, worden weergegeven in de Asset Library.
+Als u alleen bestanden van een bepaald type wilt zien terwijl u bladert, klikt u in de Asset Library aan de linkerkant, in het dialoogvenster **[!UICONTROL Show]** kiest u een bestandstype. Alleen elementen van het type dat u wilt weergeven, worden weergegeven in de elementenbibliotheek.
 
 >[!NOTE]
 >
@@ -69,7 +67,7 @@ Geef een of meer van de volgende criteria op in uw geavanceerde zoekopdracht:
 
 * **Bestanden en mappen** - Kies waar u wilt zoeken: **[!UICONTROL Within All Files & Folders]**, **[!UICONTROL Within Selected Folder]**, of **[!UICONTROL Within Selected Folder & Subfolders]**.
 
-* **Alle publicatiestatussen** - Zoeken naar bestanden die zijn gemarkeerd voor publicatie, die niet zijn gemarkeerd als klaar voor publicatie, of naar alle bestanden.
+* **Alle publicatiestatussen** - Zoeken naar bestanden die zijn gemarkeerd als klaar voor publicatie, die niet zijn gemarkeerd als klaar voor publicatie, of naar alle bestanden.
 
 * **Voorwaarden** - Als u criteria voor metagegevens opgeeft voor zoeken, moet u aangeven of de zoekopdracht moet voldoen aan alle voorwaarden (een ALLE-zoekopdracht) of aan een willekeurige voorwaarde (een OF-zoekopdracht).
 
@@ -81,7 +79,7 @@ Geef een of meer van de volgende criteria op in uw geavanceerde zoekopdracht:
    1. Kies een waarde voor numerieke velden of voer een aangepast datumbereik in.
    1. (Optioneel) Herhaal stap 1-4 om meer zoekvelden te maken.
 
-Selecteer de **[!UICONTROL Remove search field]** pictogram (cirkel met &quot;X&quot; binnenin) zodat het zoekveld wordt verwijderd.
+Selecteer de **[!UICONTROL Remove a search field]** pictogram (cirkel met &quot;X&quot; binnenin) zodat het zoekveld wordt verwijderd.
 
 Selecteer in de rechterbenedenhoek van het deelvenster Geavanceerd zoeken de optie **[!UICONTROL Search]** om met de zoekopdracht te beginnen. De resultaten van het onderzoek verschijnen in het Browse Comité op het recht. U kunt elke zoekvoorwaarde wijzigen en **[!UICONTROL Search]** om de zoekopdracht opnieuw uit te voeren.
 

@@ -1,20 +1,18 @@
 ---
 title: Taakbestanden controleren
 description: Leer hoe u taakbestanden in Adobe Dynamic Media Classic kunt controleren.
-uuid: 8241a894-3014-4a5c-96ef-71f3aaa3716a
 contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/upload_and_publish_assets
-discoiquuid: d53ae5dd-8daf-4d87-b9a6-3039bad30538
 feature: Dynamic Media Classic,Asset Management
 role: User
 exl-id: b6b11e1c-5eda-4bdb-8ffb-ecd3678f2352
 topic: Administration, Content Management
 level: Intermediate
-source-git-commit: a9bd472705bce32f63a5710c3266e51256d17a00
+source-git-commit: f054057d383b26e9088582f418f62504c3f327d8
 workflow-type: tm+mt
-source-wordcount: '1560'
+source-wordcount: '1559'
 ht-degree: 0%
 
 ---
@@ -89,7 +87,7 @@ Selecteer de knoop van Banen op de Globale bar van de Navigatie en, op de pagina
 
 >[!NOTE]
 >
->U kunt de taaklijst filteren op de knop **[!UICONTROL Scheduled]** met de **[!UICONTROL Job Type]** en **[!UICONTROL Show]** menu&#39;s. Selecteer een taaktype zodat u de lijst kunt beperken tot het publiceren van taken van een specifiek type. Selecteer een **[!UICONTROL Show]** als u taken wilt weergeven die u hebt gemaakt of die door iedereen in uw bedrijf zijn gemaakt.
+>U kunt de taaklijst filteren op de knop **[!UICONTROL Scheduled]** met de **[!UICONTROL Job Type]** en **[!UICONTROL Show]** menu&#39;s. Selecteer een taaktype zodat u de lijst kunt beperken tot het publiceren van taken van een specifiek type. Selecteer een **[!UICONTROL Show]** zodat u de banen kunt tonen u creeerde of banen die door iedereen in uw bedrijf worden gecreeerd.
 
 ### Herhaalde taken bewerken, verwijderen, pauzeren en hervatten {#editing-deleting-pausing-and-resuming-recurring-jobs}
 

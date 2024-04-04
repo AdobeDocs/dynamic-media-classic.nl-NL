@@ -1,19 +1,17 @@
 ---
 title: Beheerinstellingen
 description: Leer hoe u het beheergebied van Adobe Dynamic Media Classic instelt.
-uuid: 16ba9fed-b5c6-4991-83b3-8d7d7129013a
 contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
-discoiquuid: 3c9ee4ec-dd37-498d-98d6-1339b80177ff
 feature: Dynamic Media Classic
 role: Admin
 exl-id: 14e3d8be-f265-4cec-aa8e-19ef71526b68
 topic: Administration
 level: Intermediate
-source-git-commit: ae7d0c6d3047d68ed3da4187ef516dc51c95de30
+source-git-commit: f054057d383b26e9088582f418f62504c3f327d8
 workflow-type: tm+mt
-source-wordcount: '1846'
+source-wordcount: '1847'
 ht-degree: 0%
 
 ---
@@ -66,11 +64,11 @@ Nadat u een gebruiker hebt toegevoegd, stuurt Adobe Dynamic Media Classic de geb
 
    Nieuwe gebruikers krijgen een welkomstbericht nadat u ze hebt toegevoegd. Het e-mailbericht bevat een tijdelijk wachtwoord en legt uit hoe u zich bij Adobe Dynamic Media Classic kunt aanmelden.
 
-   Als de gebruiker de welkomstmail niet ontvangt, moet hij of zij op de aanmeldingspagina van Adobe Dynamic Media Classic (https://s7sps1.scene7.com) gaan en **[!UICONTROL Forgot My Password]**. Het wachtwoord wordt opnieuw ingesteld en er wordt een nieuwe e-mail verzonden. Neem contact op met Technische ondersteuning als de gebruiker geen e-mail ontvangt en deze zich niet in de map Junk bevindt.
+   Als de gebruiker het welkomstbericht niet ontvangt, moet hij of zij op de pagina Adobe Dynamic Media Classic aanmelden (https://s7sps1.scene7.com) en **[!UICONTROL Forgot My Password]**. Het wachtwoord wordt opnieuw ingesteld en er wordt een nieuwe e-mail verzonden. Neem contact op met Technische ondersteuning als de gebruiker geen e-mail ontvangt en deze zich niet in de map Junk bevindt.
 
    Wanneer het toevoegen van nieuwe gebruikers van het Portaal van Media, kunt u ook naar gaan **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL User Administration]** selecteert u vervolgens **[!UICONTROL Upload User List]** en selecteert u een CSV-bestand dat maximaal 500 gebruikers bevat.
 
-### Een gebruiker verwijderen {#deleting-a-user}
+### Een gebruiker verwijderen {#delet-a-user}
 
 U kunt gebruikers uit Adobe Dynamic Media Classic verwijderen door ze ongeldig te maken. Ongeldige gebruikers worden uit het systeem en alle accounts verwijderd.
 

@@ -1,6 +1,6 @@
 ---
 title: Adobe Dynamic Media Classic Desktop-app
-description: Adobe Dynamic Media Classic-gebruikers kunnen nu de gebruikersinterface volledig vernieuwen. De ervaring biedt een bijgewerkte aanmelding met koppelingen naar waardevolle bronnen en deze update is bovendien niet langer afhankelijk van de Adobe Flash-technologie in de browser.
+description: Adobe Dynamic Media Classic-gebruikers kunnen nu de gebruikersinterface volledig vernieuwen.
 contentOwner: rbrough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
@@ -9,9 +9,9 @@ role: Admin,User
 exl-id: d61ea80a-a98e-43e6-9e2e-4389962134f1
 topic: Administration
 level: Intermediate
-source-git-commit: a9bd472705bce32f63a5710c3266e51256d17a00
+source-git-commit: 910410706fbd9dd79a8dda402af454a50132cc41
 workflow-type: tm+mt
-source-wordcount: '1077'
+source-wordcount: '1052'
 ht-degree: 0%
 
 ---
@@ -39,7 +39,7 @@ Zie [Adobe Dynamic Media Classic-bureaubladtoepassing](/help/using/dynamic-media
 <!-- NEWSLETTER IS DEAD The download links are also available by way of the [Adobe Dynamic Media Classic newsletter subscription page.](https://www.adobe.com/subscription/dynamic-media-newsletter.html) -->
 
 +++**_Hoe werkt de nieuwe bureaubladtoepassing?_**
-Nadat u de bureaubladtoepassing hebt gedownload, geïnstalleerd en gestart, krijgt u een vernieuwd aanmeldingsbestand te zien. Door uw bestaande gebruikersnaam en wachtwoord in te voeren en de juiste server te selecteren op basis van uw regio, kunt u zich aanmelden bij Adobe Dynamic Media Classic. De algemene ervaring is hetzelfde als de vertrouwde webbrowserversie die u gebruikt. Vanuit de bureaubladtoepassing hebt u toegang tot de Adobe Dynamic Media Classic Production and Staging-omgevingen. U kunt tot het Portaal van Media ook toegang hebben als u voor dit vermogen wordt toegelaten.
+Nadat u de bureaubladtoepassing hebt gedownload, geïnstalleerd en gestart, ontvangt u een vernieuwd aanmeldingsbestand. Door uw bestaande gebruikersnaam en wachtwoord in te voeren en de juiste server te selecteren op basis van uw regio, kunt u zich aanmelden bij Adobe Dynamic Media Classic. De algemene ervaring is hetzelfde als de vertrouwde webbrowserversie die u gebruikt. Vanuit de bureaubladtoepassing hebt u toegang tot de Adobe Dynamic Media Classic Production and Staging-omgevingen. U kunt tot het Portaal van Media ook toegang hebben als u voor dit vermogen wordt toegelaten.
 
 >[!IMPORTANT]
 >
@@ -94,9 +94,9 @@ Neem contact op met de Adobe Support voor alle problemen die u hebt tijdens het 
 +++**_Ik wil ervoor zorgen dat ik mijn rijke mediastrategie optimaliseer. Hoe kan ik nog meer leren over Adobe Dynamic Media Classic?_**
 Adobe Dynamic Media Classic is een krachtige, veelzijdige oplossing die is ontworpen om uw geavanceerde mediastrategieën te verbeteren. Om ervoor te zorgen dat u alle mogelijkheden benut, zorg ervoor u deze praktische middelen verkent:
 
-* [Zelfstudie over best practices voor Adobe Dynamic Media Classic](https://experienceleague.adobe.com/docs/experience-manager-learn/dynamic-media-classic-tutorial/overview.html)
+* [Zelfstudie over best practices voor Adobe Dynamic Media Classic](https://experienceleague.adobe.com/en/docs/experience-manager-learn/dynamic-media-classic-tutorial/overview)
 * [Blogberichten Adobe](https://blog.adobe.com/)<!-- (https://blog.adobe.com/tag/dynamic-media/) -->
-* [Adobe Dynamic Media-nieuwsbrieven — Archieven](https://experienceleague.adobe.com/docs/dynamic-media-classic/using/dynamic-media-newsletter.html)
+* [Adobe Dynamic Media-nieuwsbrieven — Archieven](https://experienceleague.adobe.com/en/docs/dynamic-media-classic/using/dynamic-media-newsletter)
 +++
 
 <!-- HIDDEN AUGUST 2, 2021 BECAUSE THE NEWSLETTER WAS DISCONTINUED Plus, [subscribe to the Dynamic Media newsletter](https://www.adobe.com/subscription/dynamic-media-newsletter.html) to stay current on the latest news, information, training opportunities, powerful features available to you such as [Smart Imaging](https://experienceleague.adobe.com/docs/experience-manager-65/assets/dynamic/imaging-faq.html), and the complementary audit program. -->
