@@ -1,20 +1,18 @@
 ---
 title: Werken in de gedetailleerde weergave
 description: Leer hoe u werkt in de gedetailleerde weergave in Adobe Dynamic Media Classic.
-uuid: cb62f765-9b7f-4a53-8206-99afae2fb80d
 contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/managing_assets
-discoiquuid: eaa214ff-d1ef-4691-9148-d01bf243c810
 feature: Dynamic Media Classic,Asset Management
 role: User
 exl-id: 618ae6a4-6f60-4a80-b197-a9d35b3c47af
 topic: Content Management
 level: Intermediate
-source-git-commit: ae7d0c6d3047d68ed3da4187ef516dc51c95de30
+source-git-commit: 5b5dcd1199bd51ec987b5673fce75bc86baad55b
 workflow-type: tm+mt
-source-wordcount: '603'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -56,15 +54,15 @@ Als u elementen nauwkeurig wilt bekijken, voorvertonen of bewerken, kunt u deze 
 
 ## Gegevens ophalen in de gedetailleerde weergave {#getting-information-in-detail-view}
 
-De gedetailleerde weergave biedt informatie over een element of bestand. Deze informatie over een item wordt weergegeven: de map waarin het is opgeslagen, de bestandsnaam, de datum waarop het item naar Adobe Dynamic Media Classic is geüpload en de publicatiegeschiedenis. U kunt metagegevens ook weergeven en bewerken en trefwoorden voor een element toevoegen in de gedetailleerde weergave.
+De gedetailleerde weergave biedt informatie over een element of bestand. Deze informatie wordt weergegeven over een item: de map waarin het is opgeslagen, de bestandsnaam, de datum waarop het item naar Adobe Dynamic Media Classic is geüpload en de publicatiegeschiedenis. U kunt metagegevens ook weergeven en bewerken en trefwoorden voor een element toevoegen in de gedetailleerde weergave.
 
-U kunt een middel-URL in de Gedetailleerde Mening verkrijgen; nochtans, is URL niet actief tot u de activa publiceert. Voor afbeeldingen biedt de gedetailleerde weergave ook een lijst met samengestelde en afgeleide elementen en metagegevens, zoals zoomdoelen en Afbeeldingssets.
+U kunt een middel-URL in de Gedetailleerde Mening verkrijgen; nochtans, is URL niet actief tot u de activa publiceert. Voor afbeeldingen biedt de detailweergave ook een lijst met ingebouwde en afgeleide elementen en metagegevens, zoals zoomdoelen en Afbeeldingssets.
 
 ## Werken met elementen in de gedetailleerde weergave {#working-with-assets-in-detail-view}
 
 In de gedetailleerde weergave vindt u gereedschappen voor het werken met het element dat u hebt geopend. Welke hulpmiddelen beschikbaar zijn hangt van het type van activa af u met werkt, maar de Mening van het Detail biedt altijd deze functies aan:
 
-* **te publiceren items** - Selecteer de **[!UICONTROL Publish]** links van de naam, of ga naar **[!UICONTROL File]** > **[!UICONTROL Publish]** of **[!UICONTROL File]** > **[!UICONTROL Unpublish]**.
+* **te publiceren items** - Selecteer de **[!UICONTROL `Publish`]** links van de naam, of ga naar **[!UICONTROL File]** > **[!UICONTROL Publish]** of **[!UICONTROL File]** > **[!UICONTROL Unpublish]**.
 
 * **De naam van het element wijzigen** - Selecteer de naam en voer een nieuwe naam in.
 

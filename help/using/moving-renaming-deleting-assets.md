@@ -1,20 +1,18 @@
 ---
 title: Elementen verplaatsen, hernoemen en verwijderen
 description: Leer hoe u middelen in Adobe Dynamic Media Classic kunt verplaatsen, hernoemen en verwijderen.
-uuid: deff6521-0ad0-4db9-b4e0-e3211ff97740
 contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/managing_assets
-discoiquuid: 1c9e29f0-3083-4d22-a439-2a01faf59683
 feature: Dynamic Media Classic,Asset Management
 role: User
 exl-id: 391eb7ce-ed89-47a8-a6c6-5adb3e95bf78
 topic: Content Management
 level: Intermediate
-source-git-commit: d82f816553f807b514f4690827dab672a6baf690
+source-git-commit: 5b5dcd1199bd51ec987b5673fce75bc86baad55b
 workflow-type: tm+mt
-source-wordcount: '601'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -45,13 +43,13 @@ U kunt elementen naar verschillende mappen verplaatsen in het deelvenster Blader
 
 U kunt geselecteerde elementen verwijderen uit het deelvenster Bladeren en volledige mappen verwijderen. Verwijderde middelen en mappen worden naar de prullenmand verplaatst, waar ze zeven dagen blijven voordat ze definitief worden verwijderd.
 
-Wanneer u een element verwijdert, worden ook alle elementen die ervan zijn afgeleid, verwijderd. Als u bijvoorbeeld een afbeelding verwijdert waarvoor u zoomdoelen hebt gemaakt, worden de zoomdoelen samen met de afbeelding verwijderd.
+Wanneer u een element hebt verwijderd, worden ook alle elementen die ervan zijn afgeleid, verwijderd. Als u bijvoorbeeld een afbeelding verwijdert waarvoor u zoomdoelen hebt gemaakt, worden de zoomdoelen samen met de afbeelding verwijderd.
 
-Zoomdoelen, afbeeldingskenmerken en historiegegevens worden permanent verwijderd wanneer u de elementen verwijdert waaruit ze afkomstig zijn. Ze worden niet samen met het element verplaatst naar de map Prullenbak. ze kunnen niet vanuit de prullenbak worden hersteld.
+Zoomdoelen, afbeeldingskenmerken en historiegegevens worden permanent verwijderd wanneer u de elementen verwijdert waaruit ze afkomstig zijn. Ze worden niet samen met het middel naar de map Prullenbak verplaatst, maar kunnen niet vanuit de prullenmand worden hersteld.
 
 >[!IMPORTANT]
 >
->Bulkverwijdering is een intensieve bewerking. Zorg ervoor dat u bulkverwijderingen opeenvolgend uitvoert in plaats van als gelijktijdige, zware verwijderingsbewerkingen. Adobe raadt u aan de verwijderbewerkingen te beperken tot maximaal 5000 verwijderingen per uur. Een getal groter dan 5000 per uur kan snelheidsbeperking veroorzaken.
+>Bulkverwijdering is een intensieve bewerking. Zorg ervoor dat u bulkverwijderingen opeenvolgend uitvoert in plaats van als gelijktijdige, zware verwijderingsbewerkingen. Adobe raadt u aan het verwijderen van bewerkingen te beperken tot maximaal 5000 verwijderingen per uur. Een getal groter dan 5000 per uur kan snelheidsbeperking veroorzaken.
 
 **Elementen verwijderen:**
 
@@ -73,7 +71,7 @@ Maak een lijst met Adobe Dynamic Media Classic-id&#39;s en sla deze op als een t
 Nadat u de lijst hebt gemaakt, voert u de volgende stappen uit om elementen te verwijderen:
 
 1. Ga naar **[!UICONTROL File]** > **[!UICONTROL Delete Asset List]**.
-1. Blader in het dialoogvenster Lijst met elementen verwijderen naar het tekstbestand of typ het pad naar het tekstbestand met de lijst met elementen die u wilt verwijderen.
+1. In de **[!UICONTROL Deleted Asset list]** kunt u door het tekstbestand bladeren of het pad naar het tekstbestand typen met de lijst met elementen die u wilt verwijderen.
 1. Selecteren **[!UICONTROL Delete]**.
 
 Als u elementen verwijdert uit een tekstbestand en er geen Adobe Dynamic Media Classic-id in de lijst staat, wordt het bericht &quot;Kan deze items in de lijst niet valideren:&quot; weergegeven. De lijst met vermeldingen wordt ook weergegeven. Adobe Dynamic Media Classic genereert echter geen fout op de taakpagina.
@@ -82,4 +80,4 @@ Als u elementen verwijdert uit een tekstbestand en er geen Adobe Dynamic Media C
 >
 >* [Elementen selecteren in het deelvenster Bladeren](selecting-assets-browse-panel.md#selecting_assets_in_the_browse_panel)
 >* [Elementen en mappen voorbereiden voor uploaden](uploading-files.md#preparing_your_assets_and_folders_for_uploading)
->* [Elementen herstellen vanuit de map Prullenbak](trash-folder.md#restoring_assets_from_the_trash_folder)
+>* [Elementen herstellen vanuit de map Prullenmand](trash-folder.md#restoring_assets_from_the_trash_folder)

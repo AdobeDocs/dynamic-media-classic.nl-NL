@@ -1,19 +1,17 @@
 ---
 title: Voorinstellingen eCatalog-viewer instellen
 description: Leer hoe u eCatalog Viewer-voorinstellingen instelt in Adobe Dynamic Media Classic.
-uuid: aca66bc5-8491-4d81-9a06-1d3531860a14
 contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
-discoiquuid: 6c123f85-3bc4-4392-a7fb-55618127c65e
 feature: Dynamic Media Classic,Viewers,Viewer Presets,eCatalog
 role: User
 exl-id: 4357e6b8-fbc5-4e93-9476-db92a7dc7464
 topic: Integrations, Development
 level: Experienced
-source-git-commit: a9bd472705bce32f63a5710c3266e51256d17a00
+source-git-commit: 5b5dcd1199bd51ec987b5673fce75bc86baad55b
 workflow-type: tm+mt
-source-wordcount: '464'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -35,8 +33,8 @@ Voer de volgende stappen uit, zodat u een voorinstelling voor een eCatalog-viewe
 
    * **Een voorinstelling voor een eCatalog-viewer bewerken** - Selecteer een voorinstelling voor een eCatalog-viewer en selecteer **[!UICONTROL Edit]**. Selecteren **[!UICONTROL Save As]** nadat u de voorinstelling hebt gemaakt.
 
-1. Voer op de pagina Viewer configureren een naam in voor uw voorinstelling voor de eCatalog-viewer.
-1. Stel op de pagina Viewer configureren de gewenste opties in.
+1. Op de `Configure Viewer` voert u een naam in voor uw voorinstelling voor de eCatalog-viewer.
+1. Op de `Configure Viewer` pagina, stelt u de gewenste opties in.
 
    Selecteer de **[!UICONTROL Info Tip]** als u de beschrijving van de optie wilt lezen.
 
@@ -57,7 +55,7 @@ Voer de volgende stappen uit, zodat u een voorinstelling voor een eCatalog-viewe
 >Als u deze antwoordsjabloon wilt gebruiken in plaats van de sjabloon die in de eCatalog zelf is gedefinieerd, voegt u `fmt=1` aan het einde van de URL van de Informatieserver. Bijvoorbeeld: `https://.../$3$/$4$/$1$/?FMT=1`.
 
 1. Selecteren **[!UICONTROL Save]**.
-1. Selecteren **[!UICONTROL Default]** als u wilt dat de door u gemaakte voorinstelling voor de eCatalog-viewer de voorinstelling is die wordt gebruikt voor het weergeven van eCatalogi op uw webpagina.
+1. Selecteren **[!UICONTROL Default]** zodat de voorinstelling voor de eCatalog-viewer die u hebt gemaakt, wordt gebruikt voor het weergeven van eCatalogi op uw webpagina.
 
 Als u een voorinstelling voor een eCatalog-viewer wilt verwijderen, selecteert u deze in het scherm Voorinstellingen viewer en selecteert u **[!UICONTROL Delete]**.
 

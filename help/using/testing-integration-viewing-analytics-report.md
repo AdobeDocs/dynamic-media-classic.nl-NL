@@ -1,20 +1,18 @@
 ---
 title: De integratie testen door een Adobe Analytics-rapport te bekijken
 description: Leer hoe u de integratie in Adobe Dynamic Media Classic kunt testen door een Adobe Analytics-rapport te bekijken.
-uuid: 937375e0-6dea-4baa-a2b0-4f3e461c9ee2
 contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/adobe_analytics_instrumentation_kit
-discoiquuid: 1ddc89ff-d2e9-42eb-a442-aa6b9871c991
 feature: Dynamic Media Classic
 role: Data Engineer,Admin,User
 exl-id: 6186fcf0-99b4-447d-ae94-b4124dcb405b
 topic: Integrations, Development
 level: Experienced
-source-git-commit: 5d8b7cb8b4616a998346675d7324b568634698fb
+source-git-commit: 5b5dcd1199bd51ec987b5673fce75bc86baad55b
 workflow-type: tm+mt
-source-wordcount: '329'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -31,7 +29,7 @@ Nadat u de benodigde variabelen in Adobe Analytics hebt gemaakt, deze aan Adobe 
 
 1. Ga in Adobe Analytics naar **[!UICONTROL Custom Traffic]** > **[!UICONTROL Custom Traffic 1-10]** > [Naam van pop]en selecteert u de naam van de verkeersproxy in de menuopties.
 
-   Als u bijvoorbeeld toegang wilt krijgen tot de **[!UICONTROL LoadAsset]** in de voorbeeldaccount is de juiste menukeuze: **[!UICONTROL Custom Traffic]** > **[!UICONTROL Custom Traffic 1-10]** > **[!UICONTROL LoadAsset]**. Als u meer dan tien aangepaste opdrachten hebt, ziet u ook andere menuopties.
+   Als u bijvoorbeeld toegang wilt krijgen tot **[!UICONTROL LoadAsset]** in de voorbeeldaccount is de juiste menukeuze: **[!UICONTROL Custom Traffic]** > **[!UICONTROL Custom Traffic 1-10]** > **[!UICONTROL LoadAsset]**. Als u meer dan tien aangepaste opdrachten hebt, ziet u ook andere menuopties.
 
 1. Bekijk de kaart die door Adobe Analytics wordt geproduceerd. Deze grafiek is typisch enkel de gegevens voor één enkele metrisch. Als u ook wilt weten met welk element deze gegevens zijn gekoppeld, vraagt u de elementgegevens van deze gebeurtenis op. Het is bijvoorbeeld vaak handig om te weten welke video wordt bekeken naar slechts 50% of welke afbeelding in een set populair is.
 
@@ -39,4 +37,4 @@ Nadat u de benodigde variabelen in Adobe Analytics hebt gemaakt, deze aan Adobe 
 >
 >Alle Adobe Dynamic Media Classic-viewergegevens worden weergegeven en gerapporteerd in Custom Traffic-rapporten of Custom Conversion-rapporten van Adobe Analytics.
 
-Zie voor meer informatie [Analytische Tutorials](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html).
+Zie voor meer informatie [Tutorials voor analyse](https://experienceleague.adobe.com/en/docs/analytics-learn/tutorials/overview).

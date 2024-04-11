@@ -10,16 +10,16 @@ role: User
 exl-id: 09fafdb4-51e2-4719-83b6-056f79d1ba9e
 topic: Content Management
 level: Intermediate
-source-git-commit: ae7d0c6d3047d68ed3da4187ef516dc51c95de30
+source-git-commit: 5b5dcd1199bd51ec987b5673fce75bc86baad55b
 workflow-type: tm+mt
-source-wordcount: '755'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
 # Inhoud in deelvenster Info beheren in afbeeldingssets{#managing-info-panel-content-in-image-sets}
 
-Naast het gebruiken van de tekst van de Kaart van het Beeld voor uw omvergooien in de Reeksen van het Beeld, kunt u een informatiepaneel gebruiken om grotere hoeveelheden het omvergooientekst, met inbegrip van verbindingen toe te voegen. U kunt het InfoPanel ook beheren door getimed caching te gebruiken en inhoudsupdates te plannen.
+Naast het gebruiken van de tekst van de Kaart van het Beeld voor uw omvergooien in de Reeksen van het Beeld, kunt u een informatiepaneel gebruiken om grotere hoeveelheden het omvergooientekst, met inbegrip van verbindingen toe te voegen. U kunt het InfoPanel ook beheren door tijd caching te gebruiken en inhoudsupdates te plannen.
 
 U kunt de InfoPanel-instellingen en -gegevens beheren met de volgende functies in Adobe Dynamic Media Classic:
 
@@ -46,7 +46,7 @@ U kunt een van de drie vooraf ingestelde reactiesjablonen selecteren om tekst we
    * Stel een lager getal in als de gegevens regelmatig worden bijgewerkt.
    * Stel een hoger getal in als de gegevens relatief stabiel zijn en niet regelmatig hoeven te worden bijgewerkt. De standaardwaarde is tien uur.
 
-1. Selecteren **[!UICONTROL Upload]** om de inhoud van het informatiepaneel, op basis van de waarden rollover_key, te uploaden naar s7info.
+1. Selecteren **[!UICONTROL Upload]** om de inhoud van het informatiepaneel, op basis van de waarde rollover_key, te uploaden naar s7info.
 1. Blader in het dialoogvenster S7Info uploaden naar het bestand dat u wilt gebruiken en selecteer vervolgens **[!UICONTROL Upload]**.
 
    Ondersteunde bestandsindelingen zijn door tabs gescheiden bestanden met UTF-16-codering en CSV-bestanden met ASCII-codering. Voor CSV-bestanden moeten niet-ASCII-tekens worden gecodeerd als HTML.
@@ -55,7 +55,7 @@ U kunt een van de drie vooraf ingestelde reactiesjablonen selecteren om tekst we
 
 ## Broninhoud importeren voor het deelvenster Info in afbeeldingssets {#import-source-content-for-the-info-panel-in-image-sets}
 
-U kunt een CSV-bestand (door komma&#39;s gescheiden waarde) gebruiken met ASCII-codering (niet-ASCII-teken moet zijn gecodeerd als HTML) of een door tabs gescheiden bestand voor de brontekst voor een infopaneel voor een afbeeldingsset. Door tabs gescheiden bestanden moeten UTF-16 (Unicode)-codering gebruiken. U kunt de verschillende bestandstypen op verschillende manieren importeren.
+U kunt een CSV-bestand (door komma&#39;s gescheiden waarde) gebruiken met ASCII-codering (niet-ASCII-tekens moeten zijn gecodeerd als HTML) of een door tabs gescheiden bestand voor de brontekst voor een Infopaneel voor een Afbeeldingsset. Door tabs gescheiden bestanden moeten UTF-16 (Unicode)-codering gebruiken. U kunt de verschillende bestandstypen op verschillende manieren importeren.
 
 Houd bij het opmaken van broninhoud rekening met de volgende richtlijnen:
 
@@ -68,7 +68,7 @@ Houd bij het opmaken van broninhoud rekening met de volgende richtlijnen:
 1. Dubbelklik op de Afbeeldingsset zodat deze in de gedetailleerde weergave wordt geopend.
 1. Selecteren **[!UICONTROL InfoPanel Data feed]**.
 1. Voer in het tekstveld HTTP (External Hosted CSV file location) de URL naar het CSV-bestand in.
-1. (Optioneel) Geef in de velden Update plannen een tijd op om de inhoud bij te werken en selecteer vervolgens **[!UICONTROL Add]**.
+1. (Optioneel) Geef in het veld Update plannen een tijd op om de inhoud bij te werken en selecteer vervolgens **[!UICONTROL Add]**.
 
    U kunt meerdere malen selecteren voor bijwerken. Elke updatetijd verschijnt in het de tekstvakje van de Tijden van de Update. Als u een geplande tijd wilt verwijderen, selecteert u deze en selecteert u vervolgens **[!UICONTROL Delete]**.
 

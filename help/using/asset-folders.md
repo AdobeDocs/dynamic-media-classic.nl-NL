@@ -1,20 +1,18 @@
 ---
 title: Werken met middelenmappen
 description: Leer hoe u in Adobe Dynamic Media Classic met middelenmappen werkt.
-uuid: 3bd83701-e2c2-4e39-b225-c2d27ad836c2
 contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/managing_assets
-discoiquuid: 588944c3-78ba-4bd1-a8da-9a6dd99a27a9
 feature: Dynamic Media Classic,Asset Management
 role: User
 exl-id: 8599d4a3-57eb-4432-812f-7e55a4315c1b
 topic: Content Management
 level: Intermediate
-source-git-commit: ae7d0c6d3047d68ed3da4187ef516dc51c95de30
+source-git-commit: 5b5dcd1199bd51ec987b5673fce75bc86baad55b
 workflow-type: tm+mt
-source-wordcount: '440'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -41,10 +39,10 @@ In de elementenbibliotheek worden bestanden in een mappenstructuur weergegeven. 
 >
 >U kunt de elementenbibliotheek verbergen of weergeven door **[!UICONTROL Expand]** of **[!UICONTROL Collapse]** controle aan de linkerkant. Vouw het deelvenster Middelenbibliotheek samen wanneer u meer ruimte nodig hebt om in het deelvenster Bladeren te werken.
 
-## Mappen maken {#creating-folders}
+## Mappen maken
 
 1. Selecteer in de elementenbibliotheek de map waarin u een map wilt maken.
-1. Selecteer de **[!UICONTROL Add Folder]** knop. Dit pictogram bevindt zich boven aan de mappenlijst.
+1. Selecteer de **[!UICONTROL `Add Folder`]** knop. Dit pictogram bevindt zich boven aan de mappenlijst.
 1. Voer een beschrijvende naam in voor de nieuwe map of submap door deze in te voeren in het veld naast het mappictogram.
 
    >[!NOTE]
@@ -55,7 +53,7 @@ In de elementenbibliotheek worden bestanden in een mappenstructuur weergegeven. 
 
 Selecteer een map en gebruik de volgende technieken om de map te verwijderen of de naam ervan te wijzigen:
 
-* **Verwijderen** - Selecteer de **[!UICONTROL Remove Folder]** knop. Middelen in een verwijderde map worden in de map Prullenbak geplaatst. Je kunt ze daar herstellen.
+* **Verwijderen** - Selecteer de **[!UICONTROL `Remove Folder`]** knop. Middelen in een verwijderde map worden in de map Prullenbak geplaatst. Je kunt ze daar herstellen.
 
 * **Naam wijzigen** - Dubbelklik op de naam en voer een nieuwe naam in.
 

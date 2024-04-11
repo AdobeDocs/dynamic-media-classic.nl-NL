@@ -1,20 +1,18 @@
 ---
 title: Een gemengde mediaset publiceren
 description: Leer hoe u een gemengde mediaset publiceert vanuit Adobe Dynamic Media Classic.
-uuid: 4172347c-7bb3-468d-bda2-fd1c26ccab85
 contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/mixed_media_sets
-discoiquuid: 4e8694f7-c1b5-4d45-a18b-2b9494db1757
 feature: Dynamic Media Classic,Viewers,Mixed Media Sets
 role: User
 exl-id: 1fca9640-d127-454a-b3aa-b2ac82136e62
 topic: Content Management
 level: Intermediate
-source-git-commit: d82f816553f807b514f4690827dab672a6baf690
+source-git-commit: 5b5dcd1199bd51ec987b5673fce75bc86baad55b
 workflow-type: tm+mt
-source-wordcount: '237'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -25,7 +23,7 @@ Maak een publicatietaak om een gemengde mediaset te publiceren die u hebt gemark
 
 >[!NOTE]
 >
->Voor gemengde mediasets moet u publiceren naar **Videoserver** en ook **Afbeeldingsserver**. U gebruikt **Videoserver** om de daadwerkelijke video&#39;s te publiceren die u hebt gemarkeerd voor publicatie. En u gebruikt **Afbeeldingsserver** om gerelateerde elementen te publiceren, zoals de videominiaturen, en informatie in te stellen voor elke adaptieve videoset.
+>Voor gemengde mediasets moet u publiceren naar **Videoserver** en ook **Afbeeldingsserver**. Gebruiken **Videoserver** om de daadwerkelijke video&#39;s te publiceren die u hebt gemarkeerd voor publicatie. En u gebruikt **Afbeeldingsserver** om gerelateerde elementen te publiceren, zoals de videominiaturen, en informatie in te stellen voor elke adaptieve videoset.
 
 Adobe Dynamic Media Classic houdt publicatietaken bij in het scherm Taken.
 
@@ -56,7 +54,7 @@ Last Modified Date:
    Zie [Geavanceerde publicatieopties](publishing-files.md#advanced_publish_options) voor meer opties kunt u instellen.
 
 1. Selecteren **[!UICONTROL Submit Publish]**.
-1. Herhaal stap 2-4 hierboven.
+1. Herhaal bovenstaande stappen 2-4.
 1. In **[!UICONTROL Advanced]** in de **[!UICONTROL Publish To]** vervolgkeuzelijst, selecteert u **[!UICONTROL Image Server]**.
 
    Zie [Geavanceerde publicatieopties](publishing-files.md#advanced_publish_options) voor meer opties kunt u instellen.

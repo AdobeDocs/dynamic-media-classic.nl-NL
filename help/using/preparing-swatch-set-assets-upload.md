@@ -1,20 +1,18 @@
 ---
 title: Staalsets voorbereiden voor uploaden
-description: Leer hoe u stalensetelementen voorbereidt voor uploaden naar Adobe Dynamic Media Classic.
-uuid: ed78da8c-d708-418b-97ce-3c37d9df9c90
+description: Leer hoe u staalsets voorbereidt voor uploaden naar Adobe Dynamic Media Classic.
 contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/swatch_sets
-discoiquuid: 0c851ecd-be05-46a9-8654-3d028f3217a4
 feature: Dynamic Media Classic,Viewers
 role: User
 exl-id: 90216519-4b14-4f8b-8e72-3d7ce9ec89ff
 topic: Content Management
 level: Intermediate
-source-git-commit: d82f816553f807b514f4690827dab672a6baf690
+source-git-commit: 5b5dcd1199bd51ec987b5673fce75bc86baad55b
 workflow-type: tm+mt
-source-wordcount: '179'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -34,4 +32,4 @@ Voor gedetailleerde instructies over het uploaden van elementen raadpleegt u [Be
 
 >[!MORELIKETHIS]
 >
->* [Werken met vignet-, venster- en kabinetsbestanden](vignette-window-covering-cabinet-files.md#working_with_vignette_window_covering_and_cabinet_files)
+>* [Werken met vignetten, vensteromslagen en kabinetsbestanden](vignette-window-covering-cabinet-files.md#working_with_vignette_window_covering_and_cabinet_files)

@@ -1,33 +1,31 @@
 ---
 title: Elementen testen voordat ze openbaar worden gemaakt
 description: Leer hoe u elementen in Adobe Dynamic Media Classic kunt testen voordat u ze openbaar maakt.
-uuid: 5e8f3bec-6cf1-408e-8ea1-aebde0012a70
 contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/upload_and_publish_assets
-discoiquuid: 52fadf99-7d11-46f7-8483-a9f87ffc2f67
 feature: Dynamic Media Classic,Asset Management
 role: User
 exl-id: fd78d535-391e-43eb-a8aa-25fa6c2885cb
 topic: Content Management
 level: Intermediate
-source-git-commit: d82f816553f807b514f4690827dab672a6baf690
+source-git-commit: 5b5dcd1199bd51ec987b5673fce75bc86baad55b
 workflow-type: tm+mt
-source-wordcount: '1044'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
 # Elementen testen voordat ze openbaar worden gemaakt {#testing-assets-before-making-them-public}
 
-Het veilige Testen helpt u een veilige testmilieu bepalen en een robuuste B2B oplossing bouwen, die op een configureerbare reeks IP adres en waaiers wordt gebaseerd. Met deze functionaliteit kunt u uw Adobe Dynamic Media Classic-implementaties afstemmen op de architectuur van uw contentbeheer en bedrijfssysteem.
+Het veilige Testen helpt u een veilige testmilieu bepalen en een robuuste B2B oplossing bouwen, die op een configureerbare reeks IP adressen en waaiers wordt gebaseerd. Met deze functionaliteit kunt u uw Adobe Dynamic Media Classic-implementaties afstemmen op de architectuur van uw contentbeheer en bedrijfssysteem.
 
 Met Beveiligd testen kunt u een voorvertoning van de testversie van de website weergeven met niet-gepubliceerde inhoud.
 
 Maak indien gewenst een testomgeving in plaats van elementen openbaar te maken, en wel om de volgende redenen:
 
-* Geef een voorvertoning weer van websites voordat u deze openbaar maakt (website die wordt gefaseerd).
+* Geef een voorvertoning weer van websites voordat u deze openbaar maakt (website voor opvoeren).
 * Serve activa die beperkte toegang, zoals eCatalogi vereisen die prijzen in een B2B Webtoepassing tonen.
 * Gebruik middelen achter een firewall als onderdeel van het systeem voor productinformatiebeheer, de toepassing van de klantenservice, de trainingssite enzovoort.
 
@@ -59,7 +57,7 @@ Comment Type: remark
 Last Modified By: unknown unknown 
 Last Modified Date: 
 
-<p>Added videos to list below 9/11/2012. Moved “Render Server requests” from unsupported to supported, listed below on 3/15/2016 as per email from Cynthia March 11, 2016)</p>
+<p>Added videos to list below 9/11/2012. Moved "Render Server requests" from unsupported to supported, listed below on 3/15/2016 as per email from Cynthia March 11, 2016)</p>
 
  -->
 
@@ -69,7 +67,7 @@ Last Modified Date:
 * Sets, inclusief afbeeldingssets, eCatalog, rendersets en mediasets.
 * Standaard Adobe Dynamic Media Classic-viewers met rijke media.
 * Adobe Dynamic Media Classic OnDemand JSP-pagina&#39;s.
-* Statische inhoud, zoals PDF-bestanden en progressief bediende video&#39;s.
+* Statische inhoud, zoals PDF-bestanden en progressieve video&#39;s.
 * HTTP-videostreaming.
 * Progressieve videostreaming.
 
@@ -100,13 +98,13 @@ Comment Type: remark
 Last Modified By: unknown unknown 
 Last Modified Date: 
 
-<p>RB: Rewrote entire steps under “Prepare your account” 9/10/2012</p>
+<p>RB: Rewrote entire steps under "Prepare your account" 9/10/2012</p>
 
  -->
 
-1. Neem contact op met de klantenservice van Adobe en verzoek hen om Beveiligingstests op uw account in te schakelen.
+1. Neem contact op met de klantenservice van de Adobe en verzoek hen Beveiligingstests op uw account in te schakelen.
 1. Ga in Adobe Dynamic Media Classic op de Global Navigation Bar naar **[!UICONTROL Setup]** > **[!UICONTROL Publish Setup]** > **[!UICONTROL Image Server]**.
-1. Op de pagina van de Server van het Beeld publiceren, in **[!UICONTROL Publish Context]** vervolgkeuzelijst, selecteert u **[!UICONTROL Test Image Serving]**.
+1. Op de pagina van de Server van het Beeld publiceren, in **[!UICONTROL `Publish Context`]** vervolgkeuzelijst, selecteert u **[!UICONTROL Test Image Serving]**.
 1. Voor de Filter van het Adres van de Cliënt, selecteer **[!UICONTROL Add]**.
 1. Schakel het selectievakje in zodat het adres is ingeschakeld en typ vervolgens een IP-adres en een netmasker in de desbetreffende tekstvelden.
 
@@ -127,9 +125,9 @@ Last Modified Date:
    Zie [Bestanden publiceren](publishing-files.md#publishing_files).
 
 1. Bepaal de naam van uw Veilige het Testen dienst door te gaan **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL General Settings]**.
-1. Zoek op de pagina Algemene instellingen van toepassing de naam rechts van **[!UICONTROL Test Publish Context Server Name]**.
+1. Zoek op de pagina Algemene instellingen van de toepassing de naam rechts van **[!UICONTROL Test Publish Context Server Name]**.
 
-Neem contact op met de Adobe-service als de servernaam ontbreekt of als de URL&#39;s naar de server niet werken.
+Neem contact op met de Adobe als de servernaam ontbreekt of als de URL&#39;s naar de server niet werken.
 
 ### Websitevariaties voorbereiden
 
@@ -148,8 +146,8 @@ Voer de volgende tests uit:
 
    Bevestig dat in de openbare versie van uw site de gepubliceerde middelen worden weergegeven zoals die eerder met Adobe Dynamic Media Classic zijn gebruikt.
 
-1. Van buiten uw bedrijfsnetwerk, verifieer dat nonpublished activa (d.w.z. unmarked voor publiceren) tegen derdetoegang worden beschermd.
+1. Van buiten uw bedrijfsnetwerk, verifieer dat niet-gepubliceerde activa (d.w.z. unmarked voor publicatie) tegen derdetoegang worden beschermd.
 
-   Heb toegang tot uw netwerk van buitenaf (zoals, van uw huiscomputer of over een 3G verbinding), dan verifieer dat de openbare versie van de plaats alle gepubliceerde activa maar geen van de niet gepubliceerde inhoud toont.
+   Heb toegang tot uw netwerk van buitenaf (zoals van uw huiscomputer of over een 3G verbinding), dan verifieer dat de openbare versie van de plaats alle gepubliceerde activa maar geen van de unpublished inhoud toont.
 
    Bevestig dat de het opvoeren versie geen activa toont omdat u tot de Veilige Testende dienst van een niet goedgekeurd IP adres toegang hebt.

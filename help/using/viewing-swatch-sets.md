@@ -12,9 +12,9 @@ role: User
 exl-id: 05769eeb-5f1b-42ff-9392-2669f5051140
 topic: Content Management
 level: Intermediate
-source-git-commit: a9bd472705bce32f63a5710c3266e51256d17a00
+source-git-commit: 5b5dcd1199bd51ec987b5673fce75bc86baad55b
 workflow-type: tm+mt
-source-wordcount: '435'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -35,8 +35,8 @@ U kunt Viewer-voorinstellingen maken en aanpassen aan uw wensen.
    * Selecteer **[!UICONTROL Add]**. Kies in het dialoogvenster Voorinstelling viewer toevoegen in de vervolgkeuzelijst Viewer de optie **[!UICONTROL Swatch Set Viewer]** selecteert u vervolgens **[!UICONTROL Add]**.
    * Als u een bestaande voorinstelling voor een Staalset Viewer wilt bewerken, selecteert u de voorinstelling en selecteert u **[!UICONTROL Edit]**.
 
-1. Typ in het tekstveld Naam voorinstelling op de pagina Viewer configureren een naam voor de voorinstelling Staalset Viewer.
-1. Selecteer opties op de pagina Configure Viewer.
+1. Op de `Configure Viewer` op het tekstveld Naam voorinstelling typt u een naam voor de voorinstelling Staalset voor viewer.
+1. Selecteer opties in het dialoogvenster `Configure Viewer` pagina.
 
    Als u een beschrijving van een optie wilt weergeven, selecteert u de optie **[!UICONTROL Info Tip]** rechts van de optie.
 
@@ -56,7 +56,7 @@ Met Voorvertoning kunt u zien hoe een element wordt weergegeven op een bepaald v
    * Selecteer in de rechterbovenhoek van het Adobe Dynamic Media Classic-venster de optie **[!UICONTROL Grid View]** pictogram. Selecteer in het venster Middelen in een elementminiatuurvenster de optie **[!UICONTROL Preview]** (niet de vervolgkeuzelijst Voorvertoning).
    * Selecteer in de rechterbovenhoek van het Adobe Dynamic Media Classic-venster de optie **[!UICONTROL Detail View]** pictogram. Selecteer op dezelfde werkbalk de optie **[!UICONTROL Preview]** (niet de vervolgkeuzelijst Voorvertoning).
 
-1. (Optioneel) Selecteer in de vervolgkeuzelijst onderaan in het voorvertoningsvenster de URL-codering die u wilt toepassen op de URL van het element wanneer het element wordt gekopieerd.
+1. (Optioneel) Selecteer in de vervolgkeuzelijst onderaan in het voorvertoningsvenster de URL-codering die u op de URL van het element wilt toepassen wanneer het element wordt gekopieerd.
 1. Selecteer een viewerkoppeling om een voorvertoning van het element weer te geven in de geselecteerde viewer.
 
    Wanneer u een bepaalde viewerkoppeling selecteert, wordt de bijbehorende URL automatisch naar het klembord gekopieerd.

@@ -1,19 +1,17 @@
 ---
 title: Een geüpload rasterafbeeldingselement verwijderen
 description: Leer hoe u een geüpload element in Adobe Dynamic Media Classic verwijdert.
-uuid: edd2b688-c377-4be1-ba16-d2dd2e6f716d
 contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
-discoiquuid: dd338c8c-06c6-44d5-8493-dc2087eeeafb
 feature: Dynamic Media Classic
 role: User
 exl-id: d845bcb2-f914-4727-8df2-049dc172f266
 topic: Content Management
 level: Intermediate
-source-git-commit: d82f816553f807b514f4690827dab672a6baf690
+source-git-commit: 5b5dcd1199bd51ec987b5673fce75bc86baad55b
 workflow-type: tm+mt
-source-wordcount: '131'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -49,8 +47,8 @@ U kunt de volgende velden in de URL-queryreeks gebruiken om een element te verwi
 | URL-parameter | Vereist/optioneel | Waarde |
 | --- | --- | --- |
 | `op` | Vereist | delete |
-| `shared_secret` | Vereist | De gedeelde geheime sleutel voor het bedrijf. |
-| `image_name` | Vereist | Naam van het element dat moet worden verwijderd. |
+| `shared_secret` | Vereist | De sleutel die een gedeeld-geheim voor het bedrijf is. |
+| `image_name` | Vereist | Naam van het te verwijderen element. |
 
 <!-- <li>For Vector:fxg_name</li> -->
 

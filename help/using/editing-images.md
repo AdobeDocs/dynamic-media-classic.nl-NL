@@ -1,20 +1,18 @@
 ---
 title: Afbeeldingen bewerken
 description: Leer hoe u afbeeldingen kunt bewerken in Adobe Dynamic Media Classic.
-uuid: 6e453c5b-71ab-47e4-8f3c-43357b846abc
 contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/master_files
-discoiquuid: efa2c56e-4543-47fa-a4e8-b94021102d01
 feature: Dynamic Media Classic,Asset Management
 role: User
 exl-id: 1c368c25-78e6-4bcc-b390-d9133073821a
 topic: Content Management
 level: Intermediate
-source-git-commit: faa1784e1d19b1167cad5749dc04227e3ff388e5
+source-git-commit: 5b5dcd1199bd51ec987b5673fce75bc86baad55b
 workflow-type: tm+mt
-source-wordcount: '310'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -31,7 +29,7 @@ Adobe Dynamic Media Classic biedt veel gereedschappen voor het maken van multime
 
 * **Een afbeelding verscherpen** - Als u een afbeelding wilt verscherpen en de omtrekken ervan minder vaag en duidelijker wilt maken, selecteert u de opdracht Verscherpen of de opdracht **[!UICONTROL Sharpen]** knop. Zie [Een afbeelding verscherpen](/help/using/sharpening-image.md).
 
-* **Een afbeelding aanpassen** - Selecteer de opdracht Aanpassen of **[!UICONTROL Adjust]** om de kleurbalans van een afbeelding te spiegelen, te roteren, te vervagen, te kleuren of te wijzigen. Zie [Een afbeelding aanpassen](/help/using/adjusting-image.md).
+* **Een afbeelding aanpassen** - Selecteer de `Adjust` of de **[!UICONTROL Adjust]** om de kleurbalans van een afbeelding te spiegelen, te roteren, te vervagen, te kleuren of te wijzigen. Zie [Een afbeelding aanpassen](/help/using/adjusting-image.md).
 
 * **Lagen bewerken** - Als u afzonderlijke, bewerkbare lagen in een PSD-bestand wilt weergeven, selecteert u de optie **[!UICONTROL Layers]** tab. Wanneer u een PSD-bestand uploadt, worden alle lagen afzonderlijk geüpload als aparte bestanden, zodat u ze in Adobe Dynamic Media Classic kunt bewerken.
 
