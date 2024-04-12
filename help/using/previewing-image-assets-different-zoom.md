@@ -1,18 +1,16 @@
 ---
 title: Afbeeldingselementen voorvertonen met verschillende zoomviewers
 description: Leer hoe u een voorvertoning van afbeeldingselementen kunt weergeven met verschillende zoomviewers in Adobe Dynamic Media Classic.
-uuid: 244c0faa-2a33-416f-8987-bdc0c85f5c2e
 contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/zoom
-discoiquuid: b072d3b7-0d30-4903-9c87-5fbbcc89bd51
 feature: Dynamic Media Classic,Viewers,Zoom
 role: User
 exl-id: bc83a94d-540a-46ad-aae0-e4a32ee9a302
 topic: Content Management
 level: Intermediate
-source-git-commit: d82f816553f807b514f4690827dab672a6baf690
+source-git-commit: 914fde11270dc731a261da3305b29dd573584d93
 workflow-type: tm+mt
 source-wordcount: '232'
 ht-degree: 0%
@@ -33,7 +31,7 @@ Zie [Een voorvertoning van een element weergeven](previewing-asset.md#previewing
 1. Navigeer in het deelvenster Elementenbibliotheek aan de linkerkant naar de mappen Middelen die afbeeldingen bevatten die u wilt voorvertonen met een zoomviewer.
 1. Voer een van de volgende handelingen uit:
 
-   * Selecteer boven het middelenvenster rechts op de werkbalk de optie **[!UICONTROL Grid View]**. Ga in het venster Middelen, onder de miniatuurafbeelding, naar **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]**.
+   * Selecteer boven het middelenvenster rechts op de werkbalk de optie **[!UICONTROL Grid View]**. Ga in het venster Middelen onder de miniatuurafbeelding naar **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]**.
    * Selecteer boven het middelenvenster rechts op de werkbalk de optie **[!UICONTROL List View]**. Selecteer een element in het venster Element en ga vervolgens naar **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]**.
    * Selecteer boven het middelenvenster rechts op de werkbalk de optie **[!UICONTROL Detail View]**. Ga op dezelfde werkbalk naar **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]**.
 

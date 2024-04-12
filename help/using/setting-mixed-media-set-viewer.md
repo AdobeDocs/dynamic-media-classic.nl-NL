@@ -1,27 +1,25 @@
 ---
 title: Een voorinstelling voor een gemengde mediaset voor de viewer instellen
 description: Leer hoe u een voorinstelling voor een gemengde mediaset in Adobe Dynamic Media Classic instelt.
-uuid: d5bf1840-e453-445d-bebc-84889b29f3c8
 contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/mixed_media_sets
-discoiquuid: 8029aad8-d696-4d7c-99e2-3b08edb68181
 feature: Dynamic Media Classic,Viewers,Mixed Media Sets
 role: User
 exl-id: d41b30e7-994a-43f3-8698-7dbfc36305ae
 topic: Content Management
 level: Intermediate
-source-git-commit: faa1784e1d19b1167cad5749dc04227e3ff388e5
+source-git-commit: 914fde11270dc731a261da3305b29dd573584d93
 workflow-type: tm+mt
-source-wordcount: '586'
+source-wordcount: '588'
 ht-degree: 0%
 
 ---
 
 # Een voorinstelling voor een gemengde mediaset voor de viewer instellen{#setting-up-a-mixed-media-set-viewer-preset}
 
-Met voorinstellingen voor gemengde mediaset bepaalt u de stijl, het gedrag en de vormgeving van de hoofdviewer. Wanneer u een voorinstelling configureert, geeft u op welke andere viewers u in de gemengde Media Viewer wilt weergeven. Als u bijvoorbeeld een Afbeelding hebt opgenomen die is ingesteld in uw gemengde mediaset, geeft u een voorinstelling voor de afbeeldingsset Viewer op voor de viewer met gemengde mediaset.
+Met voorinstellingen voor gemengde mediaset bepaalt u de stijl, het gedrag en de vormgeving van de hoofdviewer. Wanneer u een voorinstelling configureert, geeft u op welke andere viewers u in de gemengde Media Viewer wilt weergeven. Als u bijvoorbeeld een Afbeelding hebt opgenomen die is ingesteld in uw gemengde mediaset, geeft u een voorinstelling voor de Afbeeldingsset Viewer op voor de viewer voor gemengde mediaset.
 
 U kunt alle of sommige gemeenschapseigenschappen in de Gemengde Kijker van de Dataset opnemen. Met de functie Insluiten voegt u een koppeling toe aan de viewer waarmee gebruikers de code kunnen kopiëren die nodig is om de viewer weer te geven op een externe pagina (zoals een blog, website of sociale netwerksite). De functie Koppelen biedt de URL naar de viewer, zodat gebruikers een koppeling naar deze viewer kunnen maken. De functie Bezoek bevat een koppeling naar de website die u opgeeft.
 

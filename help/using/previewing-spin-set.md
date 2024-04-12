@@ -1,18 +1,16 @@
 ---
 title: Een voorvertoning van een centrifugeset weergeven
 description: Leer hoe u een voorvertoning van een Spin-set in Adobe Dynamic Media Classic kunt bekijken.
-uuid: 5b9d4c37-a4ec-40c5-8f14-da875d71226e
 contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/spin_sets
-discoiquuid: 4b32ffff-4387-4699-9ba9-c3b23a2c3607
 feature: Dynamic Media Classic,Viewers,Spin Sets
 role: User
 exl-id: 6231a29e-d1b9-47d3-a23a-1940e91ebbc5
 topic: Content Management
 level: Intermediate
-source-git-commit: d82f816553f807b514f4690827dab672a6baf690
+source-git-commit: 914fde11270dc731a261da3305b29dd573584d93
 workflow-type: tm+mt
 source-wordcount: '239'
 ht-degree: 0%
@@ -33,7 +31,7 @@ Zie [Een voorvertoning van een element weergeven](previewing-asset.md#previewing
 1. In het paneel van de Bibliotheek van Activa op de linkerkant, navigeer de omslagen van Activa die de Vastgestelde Reeks van de Rotatie bevatten die u met een kijker wilt voorproef.
 1. Voer een van de volgende handelingen uit:
 
-   * Selecteer boven het middelenvenster rechts op de werkbalk de optie **[!UICONTROL Grid View]**. Ga in het venster Middelen, onder de miniatuurafbeelding, naar **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]**.
+   * Selecteer boven het middelenvenster rechts op de werkbalk de optie **[!UICONTROL Grid View]**. Ga in het venster Middelen onder de miniatuurafbeelding naar **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]**.
    * Selecteer boven het middelenvenster rechts op de werkbalk de optie **[!UICONTROL List View]**. Selecteer een element in het venster Element en ga vervolgens naar **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]**.
    * Selecteer boven het middelenvenster rechts op de werkbalk de optie **[!UICONTROL Detail View]**. Ga op dezelfde werkbalk naar **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]**.
 
@@ -43,4 +41,4 @@ Zie [Een voorvertoning van een element weergeven](previewing-asset.md#previewing
 
 >[!MORELIKETHIS]
 >
->* [Een draaiset bewerken](creating-spin-set.md#editing-a-spin-set)
+>* [Een centrifugeset bewerken](creating-spin-set.md#editing-a-spin-set)

@@ -1,18 +1,16 @@
 ---
 title: Een sjabloon koppelen aan een webpagina
 description: Leer hoe u een sjabloon koppelt aan een webpagina in Adobe Dynamic Media Classic.
-uuid: f111ef06-4afc-454c-86ce-5d640236d40b
 contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/template_basics
-discoiquuid: 989dba07-448a-45b1-b157-af50abb5359a
 feature: Dynamic Media Classic
 role: User
 exl-id: 6305c287-360f-48c2-b456-58be0791c7af
 topic: Administration, Content Management, Development
 level: Experienced
-source-git-commit: 5d8b7cb8b4616a998346675d7324b568634698fb
+source-git-commit: 914fde11270dc731a261da3305b29dd573584d93
 workflow-type: tm+mt
 source-wordcount: '334'
 ht-degree: 0%
@@ -39,7 +37,7 @@ U kunt een sjabloon-URL-tekenreeks die is gegenereerd door een voorinstelling vo
 
 ## Sjabloon-URL&#39;s toevoegen aan uw webpagina {#adding-template-urls-to-your-web-page}
 
-Als u een sjabloon aan uw webpagina wilt toevoegen, neemt u contact op met het ontwikkelingsteam van de webpagina om het `<IMG>` in de code van uw webpagina HTML. Gebruik de URL-tekenreeks van Adobe Dynamic Media Classic om een aanvraag in te dienen bij Dynamic Media Image Servers. De handelingsmotor of de dynamische Web-paginacode neemt het malplaatjebeeld bij de grootte en met de het formatteren specificatie op die door het Beeld wordt bepaald vooraf instelt u voor uw malplaatje kiest.
+Als u een sjabloon aan uw webpagina wilt toevoegen, neemt u contact op met het ontwikkelingsteam van de webpagina om het `<IMG>` in de code van uw webpagina HTML. Gebruik de URL-tekenreeks van Adobe Dynamic Media Classic om een aanvraag in te dienen bij Dynamic Media Image Servers. De handelingsmotor of de dynamische Web-pagina code neemt het malplaatjebeeld bij de grootte en met de het formatteren specificatie op die door het Beeld wordt bepaald vooraf instelt u voor uw malplaatje kiest.
 
 >[!MORELIKETHIS]
 >

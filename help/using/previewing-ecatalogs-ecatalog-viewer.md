@@ -1,18 +1,16 @@
 ---
 title: Voorvertoning van eCatalogi weergeven in de eCatalog-viewer
 description: Leer hoe u een voorvertoning van eCatalogi weergeeft in de eCatalog-viewer in Adobe Dynamic Media Classic.
-uuid: fdaf2129-e558-4f27-b30f-564126b6b3f2
 contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/ecatalogs
-discoiquuid: 92022dce-6534-4d93-befe-9dd2818c7b41
 feature: Dynamic Media Classic,Viewers,eCatalog
 role: User
 exl-id: 580cb169-0e26-412d-8dff-74dc63da25d8
 topic: Integrations
 level: Experienced
-source-git-commit: d82f816553f807b514f4690827dab672a6baf690
+source-git-commit: 914fde11270dc731a261da3305b29dd573584d93
 workflow-type: tm+mt
 source-wordcount: '239'
 ht-degree: 0%
@@ -33,7 +31,7 @@ Zie [Een voorvertoning van een element weergeven](previewing-asset.md#previewing
 1. Navigeer in het deelvenster Elementenbibliotheek aan de linkerkant naar de mappen Middelen met video&#39;s die u wilt voorvertonen met een eCatalog-viewer.
 1. Voer een van de volgende handelingen uit:
 
-   * Selecteer boven het middelenvenster rechts op de werkbalk de optie **[!UICONTROL Grid View]**. Ga in het venster Middelen, onder de miniatuurafbeelding, naar **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]**.
+   * Selecteer boven het middelenvenster rechts op de werkbalk de optie **[!UICONTROL Grid View]**. Ga in het venster Middelen onder de miniatuurafbeelding naar **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]**.
    * Selecteer boven het middelenvenster rechts op de werkbalk de optie **[!UICONTROL List View]**. Selecteer een element in het venster Element en ga vervolgens naar **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]**.
    * Selecteer boven het middelenvenster rechts op de werkbalk de optie **[!UICONTROL Detail View]**. Ga op dezelfde werkbalk naar **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]**.
 

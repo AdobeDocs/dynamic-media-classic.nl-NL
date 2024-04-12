@@ -1,18 +1,16 @@
 ---
 title: Een centrifugeerset koppelen aan een webpagina
 description: Leer hoe u een centrifugeset koppelt aan een webpagina in Adobe Dynamic Media Classic.
-uuid: d3c5773e-60c4-4e8b-9c48-e1e3eb8028d0
 contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/spin_sets
-discoiquuid: 651b21ef-e322-4e6d-8e37-45ffd56f7a58
 feature: Dynamic Media Classic,Viewers,Spin Sets
 role: User
 exl-id: af75547e-20e8-44c2-b165-01532d6e21d0
 topic: Content Management
 level: Intermediate
-source-git-commit: d82f816553f807b514f4690827dab672a6baf690
+source-git-commit: 914fde11270dc731a261da3305b29dd573584d93
 workflow-type: tm+mt
 source-wordcount: '661'
 ht-degree: 0%
@@ -54,11 +52,11 @@ De Reeksen van de draaien worden opgesteld als alle gezoemkijkers, door middel v
 https://sample.scene7.com/s7ondemand/spin/viewer.jsp?company=S7Web&sku=backpack_spin
 ```
 
-Let op een SKU-nummer ( `sku=backpack_spin`). De tekenreeks na `sku=` is de naam van de centrifugeset ( `backpack spin`).
+In dit URL-syntaxisvoorbeeld (de koppeling is niet live) ziet u een SKU-nummer ( `sku=backpack_spin`). De tekenreeks na `sku=` is de naam van de centrifugeset ( `backpack spin`).
 
 ## De insluitcode van een viewer voor een centrifugeset kopiëren {#copying-the-embed-code-of-a-spin-set-viewer}
 
-Met de functie Code insluiten kunt u de viewercode voor de geselecteerde centrifugeset controleren. U kunt de code ook naar het klembord kopiëren, zodat u de code op uw webpagina&#39;s kunt plakken en de viewer kunt implementeren. Het bewerken van de code is niet toegestaan in het dialoogvenster Code insluiten.
+Met de functie Code insluiten kunt u de viewercode voor de geselecteerde centrifugeset controleren. U kunt de code ook naar het klembord kopiëren, zodat u de code op uw webpagina&#39;s kunt plakken en de viewer kunt implementeren. U mag de code niet bewerken in het dialoogvenster Code insluiten.
 
 **U kopieert de insluitcode van een viewer voor een centrifuge-set:**
 
@@ -79,7 +77,7 @@ Met de functie Code insluiten kunt u de viewercode voor de geselecteerde centrif
 
      Selecteer in de pagina Viewer List onder de kolom Acties van de tabel de optie **[!UICONTROL Embed Code]**.
 
-1. Selecteer in het dialoogvenster Code insluiten de optie **[!UICONTROL Copy to Clipboard]**.
+1. Selecteer in het dialoogvenster Code insluiten **[!UICONTROL Copy to Clipboard]**.
 
    Het bewerken van de code is niet toegestaan in het dialoogvenster Code insluiten.
 

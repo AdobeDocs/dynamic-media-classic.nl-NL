@@ -1,18 +1,16 @@
 ---
 title: Sjabloonbestanden uploaden
 description: Leer hoe u sjabloonbestanden uploadt in Adobe Dynamic Media Classic.
-uuid: e19979b5-3f41-49c5-99aa-107ede3be98c
 contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/template_basics
-discoiquuid: 75658717-5c39-473e-9d32-718d00706310
 feature: Dynamic Media Classic
 role: User
 exl-id: a105c18a-7e06-43cb-938c-a3bcdc3e9d22
 topic: Content Management
 level: Experienced
-source-git-commit: d82f816553f807b514f4690827dab672a6baf690
+source-git-commit: 914fde11270dc731a261da3305b29dd573584d93
 workflow-type: tm+mt
 source-wordcount: '236'
 ht-degree: 0%
@@ -29,7 +27,7 @@ Upload de bestanden die u voor uw sjabloon nodig hebt naar Adobe Dynamic Media C
 
 Sjablonen kunnen worden gemaakt op basis van Adobe Photoshop PSD-bestanden of afbeeldingsbestanden.
 
-Voor gedetailleerde instructies over het uploaden van bestanden raadpleegt u [Bestanden uploaden](uploading-files.md#uploading_files). Houd rekening met het volgende wanneer u sjabloonbestanden uploadt:
+Zie voor gedetailleerde instructies over het uploaden van bestanden [Bestanden uploaden](uploading-files.md#uploading_files). Houd rekening met het volgende wanneer u sjabloonbestanden uploadt:
 
 * Als u een PSD-bestand uploadt, kunt u er een sjabloon van maken. Adobe Dynamic Media Classic maakt een aparte afbeelding voor elke laag in de PSD. Selecteer in het dialoogvenster Opties voor uploaden de optie **[!UICONTROL Photoshop Options]** en selecteert u **[!UICONTROL Maintain Layers]** en **[!UICONTROL Create Template]**. Kies vervolgens een optie in het menu **[!UICONTROL Layer Naming]** vervolgkeuzelijst voor de naamgeving van de afbeeldingen die Adobe Dynamic Media Classic maakt op basis van lagen in de PSD.
 Zie [Uploadopties voor PSD](psd-files.md#psd_upload_options).

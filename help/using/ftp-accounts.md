@@ -1,18 +1,16 @@
 ---
 title: FTP-accounts beheren
 description: Leer hoe u FTP-accounts beheert in Adobe Dynamic Media Classic.
-uuid: c9410f44-14bf-4f55-a199-f0f0de459219
 contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/media_portal
-discoiquuid: d592f0a7-1c27-4463-998a-07351147da1d
 feature: Dynamic Media Classic,Collaboration,Asset Management
 role: Admin,User
 exl-id: 95c7d403-7206-4158-b8ad-6091b24b5077
 topic: Administration, Content Management
 level: Intermediate
-source-git-commit: 5d8b7cb8b4616a998346675d7324b568634698fb
+source-git-commit: 914fde11270dc731a261da3305b29dd573584d93
 workflow-type: tm+mt
 source-wordcount: '223'
 ht-degree: 0%
@@ -21,7 +19,7 @@ ht-degree: 0%
 
 # FTP-accounts beheren{#managing-ftp-accounts}
 
-Alleen beheerders van Media Portal kunnen FTP-accounts beheren en beheren. Bovendien alleen gebruikers met de rol van *Medewerker aan mediaportaal* of *Medewerker aan Media Portal* kan digitale elementen uploaden.
+Alleen beheerders van Media Portal kunnen FTP-accounts beheren en beheren. Bovendien alleen gebruikers met de rol van *Medewerker aan mediaportaal-gebruiker* of *Medewerker aan Media Portal* kan digitale elementen uploaden.
 
 Herinner dat u bestaande gebruikers van het Portaal van Media als pagina van het Beleid van de Gebruiker in de Opstelling van het Beleid kunt activeren of deactiveren.
 
