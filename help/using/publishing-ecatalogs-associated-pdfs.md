@@ -10,7 +10,7 @@ role: User
 exl-id: 00b70162-2394-433d-a46c-1d90667030af
 topic: Integrations, Development
 level: Experienced
-source-git-commit: f054057d383b26e9088582f418f62504c3f327d8
+source-git-commit: b2a6aeb1aab420803a8b7dafb0fdeda495e2a69b
 workflow-type: tm+mt
 source-wordcount: '182'
 ht-degree: 0%
@@ -33,7 +33,7 @@ Bij het publiceren worden uw eCatalog en PDF op Dynamic Media Image Servers gepl
 
    Als u uw eCatalog opstelt zodat de kijkers sleutelwoordonderzoeken kunnen uitvoeren, zorg ervoor dat de sleutelwoordgegevens worden gepubliceerd. Selecteer in het dialoogvenster Publiceren **[!UICONTROL Advanced]**. Van de **[!UICONTROL Publish]** vervolgkeuzelijst, selecteert u **[!UICONTROL Full w/ Search Data]**. Deze optie is standaard ingeschakeld.
 
-1. Klikken **[!UICONTROL Submit Publish]**.
+1. Selecteren **[!UICONTROL Submit Publish]**.
 
 >[!MORELIKETHIS]
 >

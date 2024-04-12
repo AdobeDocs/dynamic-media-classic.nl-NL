@@ -5,13 +5,12 @@ contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/adobe_analytics_instrumentation_kit
-discoiquuid: e5b510a8-8b7f-4c60-869e-d664a8157e63
 feature: Dynamic Media Classic
 role: Data Engineer,Admin,User
 exl-id: 261b8f7c-c61c-4ce3-b9dc-8549347aca2e
 topic: Integrations, Development
 level: Experienced
-source-git-commit: ae7d0c6d3047d68ed3da4187ef516dc51c95de30
+source-git-commit: b2a6aeb1aab420803a8b7dafb0fdeda495e2a69b
 workflow-type: tm+mt
 source-wordcount: '756'
 ht-degree: 0%
@@ -48,9 +47,9 @@ Begin met het integreren van Dynamic Media Classic met Adobe Analytics OAuth. De
 
    ![Een API toevoegen](assets/analytics-oauth2.png)
 
-1. Op de **[!UICONTROL Configure API]** pagina, selecteert u **[!UICONTROL USER AUTHENTICATION OAuth]**.
+1. Op de **[!UICONTROL `Configure API`]** pagina, selecteert u **[!UICONTROL USER AUTHENTICATION OAuth]**.
 1. Selecteer in de rechterbenedenhoek van de pagina de optie **[!UICONTROL Next]**.
-1. Op de **[!UICONTROL Configure API]** pagina, selecteert u **[!UICONTROL OAUTH 2.0 Web]**.
+1. Op de **[!UICONTROL `Configure API`]** pagina, selecteert u **[!UICONTROL OAUTH 2.0 Web]**.
 1. In de **[!UICONTROL Default redirect URI]** Typ het volgende pad precies zoals wordt weergegeven in het tekstveld:
 
    `https://exploreadobe.com/dynamic-media-upgrade/`
@@ -69,7 +68,7 @@ Begin met het integreren van Dynamic Media Classic met Adobe Analytics OAuth. De
 
 >[!NOTE]
 >
->Na de eerste configuratie van Adobe Analytics in Dynamic Media Classic hoeft u de configuratie alleen in de volgende gevallen opnieuw uit te voeren:
+>Na uw eerste configuratie van Adobe Analytics in Dynamic Media Classic kunt u de configuratie alleen in de volgende gevallen opnieuw uitvoeren:
 >
 >* Een nieuw rapport wordt toegevoegd in Analytics en de gebruiker wil beginnen gegevens naar dat nieuwe rapport te verzenden.
 >* De trackingserver wordt bijgewerkt in Adobe Analytics.

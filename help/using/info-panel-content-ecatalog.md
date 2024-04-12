@@ -10,16 +10,16 @@ role: User
 exl-id: bfb9c5a4-5068-4adb-9fe2-a4ead8656289
 topic: Integrations
 level: Experienced
-source-git-commit: ae7d0c6d3047d68ed3da4187ef516dc51c95de30
+source-git-commit: b2a6aeb1aab420803a8b7dafb0fdeda495e2a69b
 workflow-type: tm+mt
-source-wordcount: '844'
+source-wordcount: '846'
 ht-degree: 0%
 
 ---
 
 # Inhoud van deelvenster Info in eCatalogs beheren{#managing-info-panel-content-in-ecatalogs}
 
-Naast het gebruiken van de tekst van de Kaart van het Beeld voor uw rollovers in eCatalogs, kunt u een Comité van Info gebruiken om grotere hoeveelheden het omvergooientekst, met inbegrip van verbindingen toe te voegen. U kunt het InfoPanel ook beheren door getimed caching te gebruiken en inhoudsupdates te plannen.
+Naast het gebruiken van de tekst van de Kaart van het Beeld voor uw rollovers in eCatalogs, kunt u een Comité van Info gebruiken om grotere hoeveelheden het omvergooientekst, met inbegrip van verbindingen toe te voegen. U kunt het InfoPanel ook beheren door caching te gebruiken die wordt getimed en inhoudsupdates te plannen.
 
 U kunt de InfoPanel-instellingen en -gegevens beheren met de volgende functies in Adobe Dynamic Media Classic:
 
@@ -68,7 +68,7 @@ Houd bij het opmaken van broninhoud rekening met de volgende richtlijnen:
 1. Dubbelklik op de eCatalog zodat deze in de gedetailleerde weergave wordt geopend.
 1. Selecteer de **[!UICONTROL InfoPanel Data feed]** deelvenster.
 1. Voer de URL voor het CSV-bestand in het vak Extern gehoste locatie voor het CSV-bestand in. U kunt de URL in dit veld plakken of rechtstreeks typen.
-1. (Optioneel) Geef een tijd op om de inhoud bij te werken met de menu&#39;s Update plannen en selecteer **[!UICONTROL Add]**. U kunt meerdere malen selecteren voor bijwerken. Elke updatetijd wordt weergegeven in het vak Update Times. (Als u een tijd wilt verwijderen, selecteert u deze en selecteert u **[!UICONTROL Delete]**.)
+1. (Optioneel) Geef een tijd op om de inhoud bij te werken met het menu Update plannen en selecteer **[!UICONTROL Add]**. U kunt meerdere malen selecteren voor bijwerken. Elke updatetijd wordt weergegeven in het vak Update Times. (Als u een tijd wilt verwijderen, selecteert u deze en selecteert u **[!UICONTROL Delete]**.)
 1. (Optioneel) Selecteer **[!UICONTROL Run Update Now]** om de inhoud onmiddellijk bij te werken.
 
 ### Een door tabs gescheiden of CSV-bestand importeren {#import-a-tab-delimited-or-csv-file}

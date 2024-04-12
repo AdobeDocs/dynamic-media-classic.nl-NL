@@ -1,20 +1,18 @@
 ---
 title: Basisbeginselen van navigatie
 description: Meer informatie over navigeren in de gebruikersinterface van Adobe Dynamic Media Classic.
-uuid: ee143695-e42d-479d-b907-fe61ef6cfc0f
 contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/getting_started
-discoiquuid: 825b8949-f961-4ef9-828c-07349013d40d
 feature: Dynamic Media Classic
 role: User
 exl-id: 3ffcfab2-c29d-4b0f-b223-c4a5ca99f21a
 topic: Content Management
 level: Intermediate
-source-git-commit: 597b7d6bd98c59a644984baeecb888f86a8975c9
+source-git-commit: b2a6aeb1aab420803a8b7dafb0fdeda495e2a69b
 workflow-type: tm+mt
-source-wordcount: '667'
+source-wordcount: '610'
 ht-degree: 0%
 
 ---
@@ -59,7 +57,7 @@ De algemene navigatiebalk, die zich boven aan het scherm bevindt, bevat knoppen 
 
 Gebruik de Asset Library om de elementen te ordenen waarmee u werkt. U kunt mappen en submappen maken om uw elementen te ordenen in de Asset Library.
 
-Bovenaan in het deelvenster Elementenbibliotheek staan opdrachten voor het zoeken naar elementen. U kunt zoeken naar elementen en filteren om elementen te zoeken. Selecteer de **[!UICONTROL Trash]** onder aan de Bibliotheek van Activa als u activa wilt onderzoeken u schrapte.
+Bovenaan in het deelvenster Elementenbibliotheek staan opdrachten voor het zoeken naar elementen. U kunt zoeken naar elementen en filteren om elementen te zoeken. Selecteer de optie **[!UICONTROL Trash]** onder aan de Asset Library.
 
 >[!NOTE]
 >

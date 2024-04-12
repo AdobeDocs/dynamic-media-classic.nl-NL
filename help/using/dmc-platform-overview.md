@@ -1,20 +1,18 @@
 ---
 title: Overzicht van Adobe Dynamic Media Classic-programma
 description: Een overzicht van het Adobe Dynamic Media Classic-programma en het gehele workflowproces.
-uuid: e7d3bfb3-1cfe-43ea-b862-aae3b3928c71
 contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/getting_started
-discoiquuid: 2b134cfa-7f46-4f5f-959e-b30aae610bb9
 feature: Dynamic Media Classic
 role: Admin,User
 exl-id: ac50cb9c-fd87-4608-80cb-8d40a0b8f131
 topic: Administration
 level: Beginner
-source-git-commit: 1b90beb99b161b76da81403f5aed9755b3a92c8b
+source-git-commit: b2a6aeb1aab420803a8b7dafb0fdeda495e2a69b
 workflow-type: tm+mt
-source-wordcount: '528'
+source-wordcount: '474'
 ht-degree: 0%
 
 ---
@@ -43,7 +41,7 @@ De belangrijkste Adobe Dynamic Media Classic-workflowstappen zijn:
 
 Adobe Dynamic Media Classic is fundamenteel anders dan andere systemen, omdat u Adobe Dynamic Media Classic kunt gebruiken om media dynamisch te leveren vanaf enkele primaire elementen en URL-aanroepen.
 
-De URL-tekenreeksen die u genereert met Adobe Dynamic Media Classic bevatten instructies die de server vertellen hoe het element moet worden weergegeven wanneer het wordt geleverd. Dezelfde primaire afbeelding kan bijvoorbeeld worden geleverd in verschillende formaten, formaten, gewichten, kleuren en zoomweergaven. Als onderdeel van het maken en publiceren van media-elementen met Adobe Dynamic Media Classic, kunt u de effecten visueel configureren. Hierbij maakt u de URL-aanroepen die de server correct vertellen hoe u uw primaire element aan toepassingen moet presenteren.
+De URL-tekenreeksen die u met Adobe Dynamic Media Classic hebt gegenereerd, bevatten instructies die de server vertellen hoe het element moet worden weergegeven wanneer het wordt geleverd. Dezelfde primaire afbeelding kan bijvoorbeeld worden geleverd in verschillende formaten, formaten, gewichten, kleuren en zoomweergaven. Als onderdeel van het maken en publiceren van media-elementen met Adobe Dynamic Media Classic, kunt u de effecten visueel configureren. Hierbij maakt u de URL-aanroepen die de server correct vertellen hoe u uw primaire element aan toepassingen moet presenteren.
 
 ![Adobe Dynamic Media Classic kan dezelfde primaire afbeelding in verschillende formaten en formaten aan verschillende mediums leveren.](/help/using/assets/gs_dynamic_publishing.png)
 *Adobe Dynamic Media Classic zorgt ervoor dat consistente ervaringen met kwaliteit op elk scherm worden aangeboden, ongeacht de grootte of bandbreedte.*

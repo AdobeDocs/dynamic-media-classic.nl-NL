@@ -1,20 +1,18 @@
 ---
 title: Een afbeelding verscherpen
 description: Leer hoe u een afbeelding verscherpt in Adobe Dynamic Media Classic.
-uuid: d86af74a-89c5-4f2b-96ba-f2e7da600bca
 contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/master_files
-discoiquuid: 11cd5362-d90a-4c1e-bfbd-46a65a554409
 feature: Dynamic Media Classic,Asset Management
 role: User
 exl-id: 4b3e8368-f8f5-46d9-9130-361a8273de2c
 topic: Content Management
 level: Intermediate
-source-git-commit: ae7d0c6d3047d68ed3da4187ef516dc51c95de30
+source-git-commit: b2a6aeb1aab420803a8b7dafb0fdeda495e2a69b
 workflow-type: tm+mt
-source-wordcount: '2154'
+source-wordcount: '2155'
 ht-degree: 0%
 
 ---
@@ -99,7 +97,7 @@ Selecteer de **[!UICONTROL Resampling]** en kiest u een optie. Met deze opties v
 
 * **[!UICONTROL Bicubic]** - Verhoogt het CPU-gebruik op de afbeeldingsserver, maar geeft scherpere beelden met minder merkbare aliasing artefacten.
 
-* **[!UICONTROL `Sharpen2`]** - Geeft iets scherpere resultaten dan **[!UICONTROL Bicubic]**, maar met nog hogere CPU-kosten op de Image Server.
+* **[!UICONTROL `Sharpen 2`]** - Geeft iets scherpere resultaten dan **[!UICONTROL Bicubic]**, maar met nog hogere CPU-kosten op de Image Server.
 
 * **[!UICONTROL Trilinear]** - Gebruikt zowel hogere als lagere resoluties als beschikbaar; geadviseerd slechts wanneer aliasing een kwestie is. Deze methode vermindert de grootte van JPEG als gevolg van gereduceerde gegevens met hoge frequentie.
 
@@ -126,13 +124,13 @@ De opties voor Kwaliteit JPG bepalen het compressieniveau JPG:
 
 **Verscherpingsopties voor het hele bedrijf instellen**
 
-Als u geen Vooraf ingesteld Beeld gebruikt of specifieke het scherpen protocollen van de Server van het Beeld langs het URL koord overgaat, dan wordt uw beeld niet verscherpt wanneer het wordt gedownsampled. Als dit gebrek aan verscherping optreedt, kunt u echter standaardwaarden voor verscherpen instellen en wordt elke afbeelding altijd wat verscherpt.
+Als u geen Vooraf ingesteld Beeld gebruikte of specifieke het scherpen protocollen van de Server van het Beeld langs het URL koord overging, dan wordt uw beeld niet verscherpt wanneer het wordt gedownsampled. Als dit gebrek aan verscherping optreedt, kunt u echter standaardwaarden voor verscherpen instellen om ervoor te zorgen dat elke afbeelding altijd wat verscherpt wordt.
 
 Ga naar **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Publish Setup]** > **[!UICONTROL Image Server]**. Als u de standaardmodus voor het berekenen van nieuwe pixels instelt op **`Sharp2`**, wordt de afbeelding altijd verscherpt wanneer het downsamplen wordt uitgevoerd.
 
 **Verscherpen toevoegen aan viewervoorinstellingen**
 
-Tenzij u wijzigingstoetsen voor verscherpende afbeeldingen toevoegt aan de voorinstelling, ziet de kleine afbeelding bij het laden er zacht uit, omdat deze is gedownsampled zodat deze in het viewervenster past zonder te worden verscherpt.
+Tenzij u wijzigingstoetsen voor verscherpende afbeeldingen hebt toegevoegd aan de voorinstelling, ziet de kleine afbeelding bij het laden er zacht uit, omdat deze is gedownsampled zodat deze in het viewervenster past zonder te worden verscherpt.
 
 Met voorinstellingen voor viewers (zoals voorinstellingen voor afbeeldingen) kunt u veel opties centraliseren in één locatie, waaronder een keuze voor de skin- en vieweropties (zoals een knop Afdrukken of de snelheid van de zoomanimatie bepalen). Viewer-voorinstellingen bevinden zich in dezelfde sectie als Voorinstellingen afbeelding, onder **[!UICONTROL Setup]** > **[!UICONTROL Application Settings]** > **[!UICONTROL Viewer Presets]**.
 

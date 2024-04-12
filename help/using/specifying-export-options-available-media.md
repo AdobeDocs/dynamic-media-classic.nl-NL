@@ -1,19 +1,17 @@
 ---
 title: Beschikbare exportopties voor gebruikers van Media Portal opgeven
 description: Leer hoe u exportopties opgeeft die beschikbaar zijn voor gebruikers van Media Portal in Adobe Dynamic Media Classic.
-uuid: 5258b8a4-0704-43cd-97d1-c9af2e4e298b
 contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
-discoiquuid: 9bfd95da-3714-4e38-98af-331a04c685f5
 feature: Dynamic Media Classic,Collaboration,Asset Management
 role: Admin,User
 exl-id: c27df6c2-76f4-441c-bd26-cee98203291e
 topic: Collaboration, Content Management
 level: Intermediate
-source-git-commit: ae7d0c6d3047d68ed3da4187ef516dc51c95de30
+source-git-commit: b2a6aeb1aab420803a8b7dafb0fdeda495e2a69b
 workflow-type: tm+mt
-source-wordcount: '373'
+source-wordcount: '371'
 ht-degree: 0%
 
 ---

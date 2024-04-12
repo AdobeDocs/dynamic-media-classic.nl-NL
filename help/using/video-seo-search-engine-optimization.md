@@ -1,20 +1,18 @@
 ---
 title: Video-SEO (Optimalisatie zoekmachine)
 description: Leer hoe u SEO-instellingen voor video kunt configureren in Adobe Dynamic Media Classic.
-uuid: bac2c6a9-8466-4b8f-b835-6cb0b4168513
 contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/setup
-discoiquuid: 34ecd868-775f-452b-b26e-d139f0e280ae
 feature: Dynamic Media Classic
 role: Admin
 exl-id: f76b0e09-f148-46aa-b710-ec35bfebcb37
 topic: Content Management
 level: Intermediate
-source-git-commit: 51c05c62448b39a75facb2e90cc9da5d0f26ab45
+source-git-commit: b2a6aeb1aab420803a8b7dafb0fdeda495e2a69b
 workflow-type: tm+mt
-source-wordcount: '998'
+source-wordcount: '980'
 ht-degree: 0%
 
 ---
@@ -43,9 +41,9 @@ Nadat u deze hebt gegenereerd, maakt Adobe Dynamic Media Classic rapporten over 
 
 >[!NOTE]
 >
->Voor de videobeelden Sitemaps en de feeds mRSS, vangt Adobe Dynamic Media Classic meta-gegevens slechts van video&#39;s die voor publicatie duidelijk zijn. Markeer video&#39;s die u wilt publiceren om de bijbehorende metagegevens op te nemen in Video-items en MRSS-feeds.
+>Voor de videobeelden Sitemaps en de feeds mRSS, vangt Adobe Dynamic Media Classic meta-gegevens slechts van video&#39;s die voor publicatie duidelijk zijn. Markeer video&#39;s voor publicatie om de bijbehorende metagegevens op te nemen in Video-items en MRSS-feeds.
 
-## Video-SEO-instellingen kiezen {#choosing-video-seo-settings}
+## Video-SEO-instellingen kiezen
 
 Selecteer Video SEO-instellingen voor videositemaps en MRSS-feeds op de **[!UICONTROL Video Search Engine Optimization Settings]** pagina. Ga naar **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Video SEO]** > **[!UICONTROL Settings]**.
 

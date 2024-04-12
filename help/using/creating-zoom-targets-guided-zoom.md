@@ -1,20 +1,18 @@
 ---
 title: Zoomdoelen maken voor zoomen met instructies
 description: Leer hoe u zoomdoelen maakt voor Inzoomen met instructies in Adobe Dynamic Media Classic.
-uuid: 501ea37b-adc5-4290-87eb-52a3501e5d26
 contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/zoom
-discoiquuid: e7b4673c-8681-4741-912e-9a31cf106449
 feature: Dynamic Media Classic,Viewers,Zoom
 role: User
 exl-id: ffb799ba-1cf1-48e0-91a8-dea758139140
 topic: Content Management
 level: Intermediate
-source-git-commit: d82f816553f807b514f4690827dab672a6baf690
+source-git-commit: b2a6aeb1aab420803a8b7dafb0fdeda495e2a69b
 workflow-type: tm+mt
-source-wordcount: '706'
+source-wordcount: '707'
 ht-degree: 0%
 
 ---
@@ -43,7 +41,7 @@ Maak en bewerk zoomdoelen op het scherm Zoomdoeleditor. Selecteer een afbeelding
 * De rollover selecteren **[!UICONTROL Edit]** en kiest u Zoomdoelen.
 * Geef de afbeelding in het deelvenster Bladeren weer in **[!UICONTROL Detail View]** selecteert u vervolgens **[!UICONTROL Zoom Targets]**.
 
-Selecteer in het scherm Zoomdoeleditor de optie **[!UICONTROL Select Target]** (pijl) om een doel te selecteren voordat het formaat of de positie wordt gewijzigd. Selecteer **[!UICONTROL Add Targets]** (rechthoek). De pagina Zoomdoel-editor bevat ook gereedschappen voor het verwijderen, kopiëren en benoemen van zoomdoelen.
+Selecteer in het scherm Zoomdoeleditor de optie **[!UICONTROL Select Target]** (pijl) om een doel te selecteren voordat het formaat of de positie wordt gewijzigd. Als u een zoomdoel voor de afbeelding wilt maken, selecteert u **[!UICONTROL Add Targets]** (rechthoek). De pagina Zoomdoel-editor bevat ook gereedschappen voor het verwijderen, kopiëren en benoemen van zoomdoelen.
 
 ### Een zoomdoel maken {#creating-a-zoom-target}
 
@@ -72,7 +70,7 @@ Als u een zoomdoel wilt maken, opent u de pagina Zoomdoel-editor en gaat u als v
 
 >[!NOTE]
 >
->Als u wilt zien hoe uw zoomdoelen er in een zoomviewer uitzien, selecteert u de optie **[!UICONTROL Preview]** in het scherm Zoomdoel-editor en kies een zoomviewer in het voorvertoningsscherm. Voor informatie over dit scherm raadpleegt u [Afbeeldingen voorvertonen met verschillende zoomweergaven](previewing-image-assets-different-zoom.md#previewing_image_assets_with_different_zoom_viewers).
+>Als u wilt zien hoe uw zoomdoelen er in een zoomviewer uitzien, selecteert u de optie **[!UICONTROL Preview]** in het scherm Zoomdoel-editor en kies een zoomviewer in het voorvertoningsscherm. Zie voor informatie over dit scherm [Afbeeldingen voorvertonen met verschillende zoomweergaven](previewing-image-assets-different-zoom.md#previewing_image_assets_with_different_zoom_viewers).
 
 ### Zoomdoelen bewerken {#editing-zoom-targets}
 

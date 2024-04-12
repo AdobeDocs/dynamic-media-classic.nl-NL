@@ -1,7 +1,7 @@
 ---
-source-git-commit: ae7d0c6d3047d68ed3da4187ef516dc51c95de30
+source-git-commit: b2a6aeb1aab420803a8b7dafb0fdeda495e2a69b
 workflow-type: tm+mt
-source-wordcount: '425'
+source-wordcount: '428'
 ht-degree: 0%
 
 ---
@@ -54,7 +54,7 @@ Niet in overeenstemming met deze gedragscode. Of, om tijdelijk of permanent een 
 
 ## Toepassingsgebied
 
-Deze gedragscode is zowel van toepassing binnen projectruimten als in openbare ruimten wanneer een individu het project of zijn gemeenschap vertegenwoordigt. Voorbeelden van het vertegenwoordigen van een project of gemeenschap zijn het gebruik van een officieel e-mailadres voor een project, het posten via een officiële sociale-mediaaccount of het optreden als een aangewezen vertegenwoordiger tijdens een online- of offlineevenement. De representatie van een project kan nader worden omschreven en verduidelijkt door de projectbeheerders.
+Deze gedragscode is zowel van toepassing binnen projectruimten als in openbare ruimten wanneer een individu het project of zijn gemeenschap vertegenwoordigt. Voorbeelden van het vertegenwoordigen van een project of gemeenschap zijn het gebruik van een officieel e-mailadres of het posten van een project via een officiële sociale-mediaaccount. Het omvat ook het optreden als aangestelde vertegenwoordiger tijdens een online- of offlineevenement. De representatie van een project kan nader worden omschreven en verduidelijkt door de projectbeheerders.
 
 ## Handhaving
 

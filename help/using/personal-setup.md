@@ -1,20 +1,18 @@
 ---
 title: Persoonlijke instelling
 description: Alle gebruikers kunnen montages op het Persoonlijke scherm van de Opstelling van Adobe Dynamic Media Classic veranderen.
-uuid: 29cb825a-f158-4a1e-9d5f-7636ee411b6e
 contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/setup
-discoiquuid: 6314e7b7-5bde-4fe2-8674-e4fc525d4d1c
 feature: Dynamic Media Classic
 role: Admin,User
 exl-id: a019f973-7647-466f-8af3-5312e9225e89
 topic: Administration, Collaboration
 level: Intermediate
-source-git-commit: 5d8b7cb8b4616a998346675d7324b568634698fb
+source-git-commit: b2a6aeb1aab420803a8b7dafb0fdeda495e2a69b
 workflow-type: tm+mt
-source-wordcount: '746'
+source-wordcount: '750'
 ht-degree: 0%
 
 ---
@@ -25,7 +23,7 @@ Alle gebruikers kunnen montages op het Persoonlijke scherm van de Opstelling ver
 
 >[!NOTE]
 >
->Het Persoonlijke scherm van de Opstelling maakt een lijst van welke gebruikersrol u in Adobe Dynamic Media Classic hebt: Bedrijfsbeheerder, beheerder of gebruiker.
+>Het persoonlijke scherm van de Opstelling maakt een lijst van welke gebruikersrol u in Adobe Dynamic Media Classic hebt: De Beheerder van het Bedrijf, Beheerder, of Gebruiker.
 
 De Persoonlijke montages van de Opstelling controleren het standaardgedrag van het Browse Comité, hoe u e-mail, en wachtwoordmontages ontvangt. Vergeet niet te selecteren **[!UICONTROL Save]** nadat u deze instellingen hebt gewijzigd.
 
@@ -35,8 +33,8 @@ Hiermee worden uw accountnaam, naam, gebruikersnaam (e-mailadres) en toegewezen 
 
 ## Desktop
 
-* **Afbeeldingscache wissen** - Hiermee verwijdert u alle afbeeldingsbestanden uit de Adobe Dynamic Media-cache van uw computer.
-* **Asset Cache wissen** - Hiermee verwijdert u alle elementbestanden uit de Adobe Dynamic Media-cache van uw computer.
+* **Afbeeldingscache wissen** - Hiermee verwijdert u alle Adobe Dynamic Media-afbeeldingsbestanden in de cache van de computer.
+* **Asset Cache wissen** - Hiermee verwijdert u alle Adobe Dynamic Media-bestanden met middelen uit de cache van uw computer.
 
 U kunt de cache van afbeeldingen en elementen niet alleen wissen met de bureaubladtoepassing, maar u kunt de cache ook handmatig rechtstreeks wissen vanuit het bestandssysteem. Navigeer op basis van uw besturingssysteem naar het volgende:
 
@@ -48,7 +46,7 @@ U kunt de cache van afbeeldingen en elementen niet alleen wissen met de bureaubl
 **Adobe Dynamic Media Creative Suite Extension installeren:**
 
 1. Ga in Adobe Dynamic Media Classic op de werkbalk naar **[!UICONTROL Setup]** > **[!UICONTROL Personal Setup]** Selecteer onder Extensie Creative Suites de optie **[!UICONTROL Download Now]** om de `s7csxs.zxp` bestand.
-1. Selecteer **[!UICONTROL Installation]** en **[!UICONTROL System Requirements]** koppelingen voor aanvullende informatie over de extensie.
+1. Selecteer de **[!UICONTROL Installation]** en **[!UICONTROL System Requirements]** koppelingen voor aanvullende informatie over de extensie.
 
 <!--    A readme file is included at the root of the unzipped file to provide you with additional information about the extension.
 
@@ -66,9 +64,9 @@ U kunt de cache van afbeeldingen en elementen niet alleen wissen met de bureaubl
 
 |If you are running|Do this|
 |--- |--- |
-|Adobe Illustrator 18 in Adobe Creative Cloud 2014|<ul><li>From the root of the unzipped folder, select CC-2014 > mac64.</li><li>Select libraries > flame, and then copy the `aflame.framework` folder to Adobe Illustrator package contents folder. For example, `/Applications/Adobe Illustrator CC 2014/ Illustrator.app/Contents/Frameworks/`. (To open Adobe Illustrator’s package contents folder, right-select on the Adobe illustrator CC 2014 icon and select Show Package Contents from context menu).</li><li>Return to the same libraries folder, select `flamingo`, and then copy the `aflamingo.framework` folder to the same Adobe Illustrator package contents folder that you used in the previous step.</li><li>Return to the mac64 folder that you selected in step 1, and then copy the `AdobeS7FXGFileFormat.aip` folder to Adobe Illustrator’s plug-in folder. For example, `/Applications/Adobe Illustrator CC 2014/Plug-ins/Illustrator Formats/`.</li></ul><br/>|
-|Adobe Illustrator 17 in Adobe Creative Cloud|<ul><li>From the root of the unzipped folder, select CC > mac64</li><li>Copy the `AdobeS7FXGFileFormat.aip` folder to Adobe Illustrator’s plug-in folder. For example, `/Applications/Adobe Illustrator CC/Plug-ins/Illustrator Formats/`.</li></ul><br/>|
-|Adobe Illustrator 16 in Adobe Creative Suite 6|<ul><li>From the root of the unzipped folder, select 6.0 > mac64</li><li>Copy the `AdobeS7FXGFileFormat.aip` folder to Adobe Illustrator’s plug-in folder. For example, `/Applications/Adobe Illustrator CS6/Plug-ins/Illustrator Formats/`.</li></ul>|
+|Adobe Illustrator 18 in Adobe Creative Cloud 2014|<ul><li>From the root of the unzipped folder, select CC-2014 > mac64.</li><li>Select libraries > flame, and then copy the `aflame.framework` folder to Adobe Illustrator package contents folder. For example, `/Applications/Adobe Illustrator CC 2014/ Illustrator.app/Contents/Frameworks/`. (To open Adobe Illustrator's package contents folder, right-select on the Adobe illustrator CC 2014 icon and select Show Package Contents from context menu).</li><li>Return to the same libraries folder, select `flamingo`, and then copy the `aflamingo.framework` folder to the same Adobe Illustrator package contents folder that you used in the previous step.</li><li>Return to the mac64 folder that you selected in step 1, and then copy the `AdobeS7FXGFileFormat.aip` folder to Adobe Illustrator's plug-in folder. For example, `/Applications/Adobe Illustrator CC 2014/Plug-ins/Illustrator Formats/`.</li></ul><br/>|
+|Adobe Illustrator 17 in Adobe Creative Cloud|<ul><li>From the root of the unzipped folder, select CC > mac64</li><li>Copy the `AdobeS7FXGFileFormat.aip` folder to Adobe Illustrator's plug-in folder. For example, `/Applications/Adobe Illustrator CC/Plug-ins/Illustrator Formats/`.</li></ul><br/>|
+|Adobe Illustrator 16 in Adobe Creative Suite 6|<ul><li>From the root of the unzipped folder, select 6.0 > mac64</li><li>Copy the `AdobeS7FXGFileFormat.aip` folder to Adobe Illustrator's plug-in folder. For example, `/Applications/Adobe Illustrator CS6/Plug-ins/Illustrator Formats/`.</li></ul>|
 
 The plug-in is now available for you to use in Adobe Illustrator. -->
 
@@ -92,7 +90,7 @@ The plug-in is now available for you to use in Adobe Illustrator. -->
   Zie ook [Door gebruiker gedefinieerde velden](application-setup.md#user_defined_fields).
 
 * **[!UICONTROL Basic Search Type]** - U kunt uit twee opties selecteren: **[!UICONTROL Contains]** zoekt de volledige tekenreeks naar de opgegeven waarde; **[!UICONTROL StartsWith]** zoekt vanaf het begin van de tekenreeks en retourneert sneller resultaten dan **[!UICONTROL Contains]**. Beide opties overschrijven de standaard die is ingesteld in **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Application General Settings]** door de beheerder.
-* **[!UICONTROL Show Command Feedback]** - Selecteer deze optie om de weergave van opdrachtaanvragen op de server in te schakelen; Schakel deze optie uit om de selectie uit te schakelen.
+* **[!UICONTROL Show Command Feedback]** - Schakel deze optie in om de weergave van opdrachtaanvragen op de server in te schakelen. Schakel deze optie uit om de weergave uit te schakelen.
 * **[!UICONTROL Show Dialog During Export]** - Selecteer deze optie om een pop-upvenster weer te geven tijdens het exporteren. Als u deze optie uitschakelt (uitschakelt), kunt u nog steeds naar de pagina Taken gaan om de resultaten van de export op te halen.
 
 ## E-mail
@@ -112,7 +110,7 @@ The plug-in is now available for you to use in Adobe Illustrator. -->
    * Tussen 8 en 25 tekens lang zijn.
    * Bevat ten minste één kleine letter.
    * Bevat ten minste één hoofdletter.
-   * Bevat minstens één getal.
+   * Bevat ten minste één getal.
    * Bevat ten minste een van de volgende speciale tekens: `# $ & - _ : { }`
 * **[!UICONTROL Re-Type Password]** - Voer het nieuwe wachtwoord opnieuw in om te bevestigen dat u het correct invoert.
-* **[!UICONTROL Password Expiration]** - Hiermee wordt bepaald of uw wachtwoord na 72 dagen verloopt als beveiligingsmaatregel. Als u Ja selecteert, wordt u gevraagd om na 72 dagen een wachtwoord te maken.
+* **[!UICONTROL Password Expiration]** - Hiermee wordt bepaald of uw wachtwoord na 72 dagen verloopt als beveiligingsmaatregel. Als u Ja hebt geselecteerd, wordt u gevraagd om na 72 dagen een wachtwoord te maken.

@@ -1,27 +1,25 @@
 ---
 title: Voorinstellingen afbeelding instellen
 description: Leer hoe u voorinstellingen voor afbeeldingen instelt in Adobe Dynamic Media Classic.
-uuid: 90530948-dee9-41bd-b39e-684140446abc
 contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/image_sizing
-discoiquuid: 1ec39fe5-7b2a-4034-9570-6b5595f97052
 feature: Dynamic Media Classic,Image Presets
 role: User
 exl-id: 336802cc-b032-49b2-b2e6-d699bc997ee5
 topic: Content Management
 level: Intermediate
-source-git-commit: 51c05c62448b39a75facb2e90cc9da5d0f26ab45
+source-git-commit: b2a6aeb1aab420803a8b7dafb0fdeda495e2a69b
 workflow-type: tm+mt
-source-wordcount: '635'
-ht-degree: 2%
+source-wordcount: '654'
+ht-degree: 1%
 
 ---
 
 # Voorinstellingen afbeelding instellen{#setting-up-image-presets}
 
-Net als bij een macro is een voorinstelling voor afbeeldingen een vooraf gedefinieerde verzameling opdrachten voor het vergroten of verkleinen en opmaken van de grootte die onder een naam zijn opgeslagen. Als u wilt begrijpen hoe Voorinstellingen afbeelding werken, veronderstelt u dat elke productafbeelding op uw website moet worden weergegeven met twee verschillende grootten: 500 × 500 pixels en 150 × 150 pixels. U maakt twee voorinstellingen voor afbeeldingen, een voorinstelling genaamd &quot;Vergroten&quot;, waarmee u afbeeldingen met 500 x 500 pixels kunt weergeven en een voorinstelling genaamd &quot;Miniatuur&quot; om afbeeldingen met 150 x 150 pixels weer te geven. Als u afbeeldingen wilt leveren met de grootte &quot;Vergroten&quot; en &quot;Miniatuur&quot;, zoekt een Dynamic Media Image Server naar de definitie van de voorinstelling Afbeelding vergroten en Afbeelding miniatuur. Vervolgens genereert de server dynamisch een afbeelding met de grootte en opmaakspecificaties van elke voorinstelling voor afbeeldingen.
+Net als bij een macro is een voorinstelling voor afbeeldingen een vooraf gedefinieerde verzameling opdrachten voor het vergroten of verkleinen en opmaken van de grootte die onder een naam zijn opgeslagen. Als u wilt begrijpen hoe Voorinstellingen afbeelding werken, veronderstelt u dat elke productafbeelding op uw website moet worden weergegeven met twee verschillende grootten: 500 × 500 pixels en 150 × 150 pixels. U maakt twee voorinstellingen voor afbeeldingen, een voorinstelling genaamd &quot;Vergroten&quot;, waarmee u afbeeldingen met 500 x 500 pixels kunt weergeven en een voorinstelling genaamd &quot;Miniatuur&quot; om afbeeldingen met 150 x 150 pixels weer te geven. Als u afbeeldingen wilt leveren met de grootte &quot;Vergroten&quot; en &quot;Miniatuur&quot;, zoekt een Dynamic Media Image Server naar de definitie van &quot;Voorinstelling afbeelding vergroten&quot; en &quot;Voorinstelling miniatuurafbeelding&quot;. Vervolgens genereert de server dynamisch een afbeelding met de grootte en opmaakspecificaties van elke voorinstelling voor afbeeldingen.
 
 Adobe Dynamic Media Classic wordt geleverd met verschillende &quot;best practice&quot;-voorinstellingen voor afbeeldingen die al zijn ingesteld voor gebruik. Beheerders kunnen ook voorinstellingen voor afbeeldingen maken. Als u een voorinstelling voor afbeeldingen wilt maken, begint u helemaal opnieuw of u kunt een bestaande voorinstelling opnieuw gebruiken en opslaan onder een andere naam.
 
@@ -48,7 +46,7 @@ Als u een bedrijfsbeheerder bent, kunt u uw eigen voorinstellingen voor afbeeldi
 
    Adobe Dynamic Media Classic raadt de volgende opties voor &#39;best practices&#39; aan om te beginnen:
 
-   * **[!UICONTROL Format]** - Kies JPEG of een andere indeling die aan uw eisen voldoet. Alle webbrowsers ondersteunen de afbeeldingsindeling JPEG. De indeling biedt een goede balans tussen kleine bestanden en afbeeldingskwaliteit. JPEG-afbeeldingen gebruiken echter een compressieschema met verlies, waardoor ongewenste afbeeldingsartefacten kunnen ontstaan als de compressie-instelling te laag is. Daarom raadt Adobe Dynamic Media Classic aan de compressiekwaliteit (op de schuifregelaar) in te stellen op 75. Deze instelling biedt een goede balans tussen afbeeldingskwaliteit en kleine bestandsgrootte.
+   * **[!UICONTROL Format]** - Kies JPEG of een andere indeling die aan uw eisen voldoet. Alle webbrowsers ondersteunen de afbeeldingsindeling JPEG. De indeling biedt een goede balans tussen kleine bestandsgrootten en afbeeldingskwaliteit. JPEG-afbeeldingen gebruiken echter een compressieschema met verlies, waardoor ongewenste afbeeldingsartefacten kunnen ontstaan als de compressie-instelling te laag is. Daarom raadt Adobe Dynamic Media Classic aan de compressiekwaliteit (op de schuifregelaar) in te stellen op 75. Deze instelling biedt een goede balans tussen afbeeldingskwaliteit en kleine bestandsgrootte.
 
    * **[!UICONTROL Sharpening]** - Selecteer Verscherpen niet (dit verscherpingsfilter biedt minder controle dan **[!UICONTROL Unsharp Masking]** instellingen).
 
@@ -58,10 +56,10 @@ Als u een bedrijfsbeheerder bent, kunt u uw eigen voorinstellingen voor afbeeldi
 
    | Type voorinstelling | Grootte | USM: hoeveelheid | USM: Straal | USM: Drempel |
    | --- | --- | --- | --- | --- |
-   | Cross-Sell (miniatuur) | 75 × 75 | 1.5 | 0.8 | 5 |
-   | Miniatuur | 150 × 150 | 1.1 | 1 | 5 |
+   | Cross-Sell (miniatuur) | 75 × 75 | 1,5 | 0,8 | 5 |
+   | Miniatuur | 150 × 150 | 1,1 | 1 | 5 |
    | Hoofd | 350 × 350 | 1 | 1 | 6 |
-   | Vergroten | 500 × 500 | 1.2 | 1.2 | 5 |
+   | Vergroten | 500 × 500 | 1,2 | 1,2 | 5 |
 
 1. Selecteren **[!UICONTROL Save]**.
 

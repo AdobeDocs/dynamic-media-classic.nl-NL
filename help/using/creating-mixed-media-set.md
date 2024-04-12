@@ -1,17 +1,15 @@
 ---
 title: Een gemengde mediaset maken
 description: Leer hoe u een gemengde mediaset maakt in Adobe Dynamic Media Classic.
-uuid: a0c6e5fa-7a85-4376-b9a3-b72ae63d3d95
 contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
-discoiquuid: 0ff9e763-897c-4ba5-b606-a95d5e45f35e
 feature: Dynamic Media Classic,Viewers,Mixed Media Sets
 role: User
 exl-id: 18669c65-a1c4-4012-8587-cd5095f4bd4e
 topic: Content Management
 level: Intermediate
-source-git-commit: d82f816553f807b514f4690827dab672a6baf690
+source-git-commit: b2a6aeb1aab420803a8b7dafb0fdeda495e2a69b
 workflow-type: tm+mt
 source-wordcount: '599'
 ht-degree: 0%
@@ -83,9 +81,9 @@ Zie ook [Elementen handmatig publiceren](publishing-files.md#manually_publishing
 1. Wanneer u klaar bent met het bewerken van de set, in de rechterbenedenhoek van de pagina, controleert u of **[!UICONTROL Publish after save]** is geselecteerd (standaard).
 1. Selecteren **[!UICONTROL Save]** of **[!UICONTROL Save As]**.
 
-## Een gemengde mediaset verwijderen {#deleting-a-mixed-media-set}
+## Een gemengde mediaset verwijderen
 
-Wanneer u een set verwijdert, wordt de set zelf naar de prullenbak verplaatst. De leden (of &quot;kinderen&quot;) in die reeks worden echter niet beïnvloed; in plaats daarvan behouden zij elk hun bestaande gepubliceerde of niet - gepubliceerde staat .
+Wanneer u een set verwijdert, wordt de set zelf naar de prullenbak verplaatst. De leden (of &quot;kinderen&quot;) binnen die set worden echter niet beïnvloed, maar ze behouden hun bestaande gepubliceerde of niet-gepubliceerde status.
 
 Zie ook [Elementen handmatig publiceren](publishing-files.md#manually_publishing_assets) en [Publicaties van elementen handmatig ongedaan maken](publishing-files.md#manually_unpublishing_assets).
 

@@ -1,7 +1,7 @@
 ---
-source-git-commit: 1b90beb99b161b76da81403f5aed9755b3a92c8b
+source-git-commit: b2a6aeb1aab420803a8b7dafb0fdeda495e2a69b
 workflow-type: tm+mt
-source-wordcount: '501'
+source-wordcount: '490'
 ht-degree: 0%
 
 ---
@@ -42,7 +42,7 @@ Met problemen kunt u eenvoudig uw idee voor verbetering beschrijven in de docume
 
 Als u een probleem ziet en precies weet hoe u dit kunt verhelpen, kunt u een pull-verzoek maken. De verzoeken van de trek staan u toe om uw eigen uit te geven aan de documentatie, die dan voor opneming door een lid van het documentatieteam wordt herzien. Als u de voorgestelde wijzigingen wilt aanbrengen en de pull-aanvraag wilt maken, selecteert u **[!UICONTROL Edit this page]** rechtsboven in het navigatievenster op een willekeurige pagina.
 
-Alle intrekkingsverzoeken moeten vergezeld gaan van een ondertekend [licentieovereenkomst voor contribuanten of CLA](https://opensource.adobe.com/cla.html). Deze workflow geeft de Adobe toestemming om uw bijdragen opnieuw te distribueren als onderdeel van het project. U verzendt slechts één keer een Adobe CLA, zodat als u eerder hebt voorgelegd, wordt u geplaatst.
+Alle intrekkingsverzoeken moeten vergezeld gaan van een ondertekend [licentieovereenkomst voor contribuanten of CLA](https://opensource.adobe.com/cla.html). Deze workflow geeft de Adobe toestemming om uw bijdragen opnieuw te distribueren als onderdeel van het project. U verzendt slechts één keer een Adobe CLA, zodat als u eerder voorlegde, u wordt geplaatst.
 
 ### Snelle video-introductie
 
@@ -58,4 +58,4 @@ De Adobe is ingenomen met elke bijdrage. Bijdragen worden beoordeeld als ze via 
 
 ## Aanvullende informatie
 
-Zie de [Handleiding Adobe Docs Contributor](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html) voor verdere details op hoe te om het GitHub auteursplatform te gebruiken.
+Zie de [Handleiding Adobe Docs Contributor](https://experienceleague.adobe.com/en/docs/contributor/contributor-guide/introduction) voor verdere details op hoe te om het GitHub auteursplatform te gebruiken.

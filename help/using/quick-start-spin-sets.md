@@ -1,20 +1,18 @@
 ---
 title: "Snel starten: centrifuges"
 description: Een inleiding en Snel starten om te draaien zodat u in Adobe Dynamic Media Classic snel aan de slag kunt.
-uuid: d0af9db6-cb6f-48f0-89f6-f3ab2da0659f
 contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/spin_sets
-discoiquuid: 282b8e83-b20f-43f7-b9f8-6eebd5b1c5a7
 feature: Dynamic Media Classic,Viewers,Spin Sets
 role: User
 exl-id: 26e3cd5b-f070-4b92-af36-25631723460e
 topic: Content Management
 level: Beginner
-source-git-commit: faa1784e1d19b1167cad5749dc04227e3ff388e5
+source-git-commit: b2a6aeb1aab420803a8b7dafb0fdeda495e2a69b
 workflow-type: tm+mt
-source-wordcount: '811'
+source-wordcount: '773'
 ht-degree: 0%
 
 ---
@@ -65,7 +63,7 @@ Zie [Een centrifugeset bewerken](creating-spin-set.md#editing-a-spin-set).
 
 Beheerders kunnen voorinstellingen van de voorinstelling Spin Set Viewer maken. Deze voorinstellingen bepalen de vormgeving van de viewer voor de centrifugeset. Ga naar **[!UICONTROL Setup]** > **[!UICONTROL Viewer Presets]**.
 
-Selecteer op de pagina Voorinstellingen viewer de optie **[!UICONTROL Add]** selecteert u vervolgens **[!UICONTROL Spin Set Viewer]** in de vervolgkeuzelijst en selecteer vervolgens **[!UICONTROL Add]**. Kies opties op de pagina Viewer configureren en selecteer **[!UICONTROL Save]**.
+Selecteer op de pagina Voorinstellingen viewer de optie **[!UICONTROL Add]** selecteert u vervolgens **[!UICONTROL Spin Set Viewer]** in de vervolgkeuzelijst en selecteer vervolgens **[!UICONTROL Add]**. Kies opties in het dialoogvenster `Configure Viewer` pagina, selecteert u vervolgens **[!UICONTROL Save]**.
 
 Zie [Voorinstellingen voor een draaiende viewer instellen](setting-spin-set-viewer-presets.md#setting-up-spin-set-viewer-presets).
 
@@ -79,7 +77,7 @@ Zie [Een voorvertoning van een centrifugeset weergeven](previewing-spin-set.md#p
 
 Als u een Spin-set publiceert, wordt deze op Adobe Dynamic Media Classic-servers geplaatst, zodat deze dynamisch op uw website of toepassing kunnen worden geleverd. Het activeert ook de URL-tekenreeks die de Spin Set van Dynamic Media Image-servers naar uw website of toepassing aanroept.
 
-Als u een centrifugeset wilt publiceren, markeert u deze voor publicatie door de optie **[!UICONTROL Mark for Publish]** naast de naam in het deelvenster Bladeren. Selecteer op de algemene navigatiebalk de optie **[!UICONTROL Publish]** om een publicatie te starten. Selecteer in het scherm Publiceren de optie **[!UICONTROL Submit Publish]**.
+Als u een centrifugeset wilt publiceren, markeert u deze voor publicatie door de optie **[!UICONTROL Mark for Publish]** naast de naam in het deelvenster Bladeren. Selecteer op de algemene navigatiebalk de optie **[!UICONTROL Publish]** om een publicatie te starten. Selecteer op de pagina Publiceren de optie **[!UICONTROL Submit Publish]**.
 
 Zie [Een centrifugeerset publiceren](publishing-spin-set.md#publishing-a-spin-set).
 

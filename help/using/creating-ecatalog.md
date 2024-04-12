@@ -1,20 +1,18 @@
 ---
 title: Een eCatalog maken
 description: Leer hoe u een eCatalog maakt in Adobe Dynamic Media Classic.
-uuid: 2aff05c2-7052-426c-b61d-7f9091f7ace8
 contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/ecatalogs
-discoiquuid: 28889c60-596a-40d2-85d4-f48a4f86b932
 feature: Dynamic Media Classic,Viewers,eCatalog
 role: User
 exl-id: 51d411b2-b4bc-4cf6-afca-dd0ed0d219a1
 topic: Integrations, Development
 level: Experienced
-source-git-commit: a9bd472705bce32f63a5710c3266e51256d17a00
+source-git-commit: b2a6aeb1aab420803a8b7dafb0fdeda495e2a69b
 workflow-type: tm+mt
-source-wordcount: '915'
+source-wordcount: '916'
 ht-degree: 0%
 
 ---
@@ -56,7 +54,7 @@ Zie ook [Elementen handmatig publiceren](publishing-files.md#manually_publishing
 
    * **Knop Verplaatsen naar** - Selecteer een pagina of paginaspread, selecteer **[!UICONTROL Move To]** en kiest u de pagina in het menu die u eerder wilt weergeven.
 
-   * **Volgnummer** - Geef in de lijstweergave paginanummers op in de velden Volgnummer.
+   * **Volgnummer** - Geef in de Lijstweergave paginanummers op in de velden Volgnummer.
 
 1. Wanneer u klaar bent, gaat u naar de rechterbenedenhoek van de pagina en zorgt u ervoor dat **[!UICONTROL Publish after save]** is geselecteerd (standaard).
 1. Selecteren **[!UICONTROL Save]**.
@@ -85,7 +83,7 @@ Zie ook [Elementen handmatig publiceren](publishing-files.md#manually_publishing
 1. Wanneer u klaar bent met bewerken, gaat u naar de rechterbenedenhoek van de pagina en zorgt u ervoor dat **[!UICONTROL Publish after save]** is geselecteerd (standaard).
 1. Selecteren **[!UICONTROL Save]**, selecteert u een opslagmap, voert u een naam voor de set in en selecteert u **[!UICONTROL Save]**.
 
-## Een eCatalog verwijderen {#deleting-an-ecatalog}
+## Een eCatalog verwijderen
 
 Wanneer u een set verwijdert, wordt de set zelf naar de prullenbak verplaatst. De leden (of &quot;kinderen&quot;) binnen die set worden echter niet beïnvloed, maar ze behouden hun bestaande gepubliceerde of niet-gepubliceerde status.
 

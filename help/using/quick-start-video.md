@@ -10,9 +10,9 @@ role: User
 exl-id: 1157400c-b33a-422e-848c-258660ddc748
 topic: Content Management
 level: Beginner
-source-git-commit: a30bc34b1943d63620cb12098b7bd2db4714086d
+source-git-commit: b2a6aeb1aab420803a8b7dafb0fdeda495e2a69b
 workflow-type: tm+mt
-source-wordcount: '1391'
+source-wordcount: '1389'
 ht-degree: 0%
 
 ---
@@ -60,7 +60,7 @@ Wanneer een adaptieve videoset wordt gegenereerd, bevat deze MP4-video&#39;s.
 
   Adaptieve videostreaming wordt ondersteund op verschillende iOS-platforms.
 
-  Zie de nieuwste ondersteuning in de [Referentiehandleiding voor Adobe Viewers](https://experienceleague.adobe.com/docs/dynamic-media-developer-resources.html).
+  Zie de nieuwste ondersteuning in de [Referentiehandleiding voor Adobe Viewers](https://experienceleague.adobe.com/en/docs/dynamic-media-developer-resources).
 
   Adobe Dynamic Media Classic ondersteunt het afspelen van mobiele video voor MP4 H.264-video. <!-- LINK IS 404; NO SUITABLE REPLACEMENT WAS FOUND You can find BlackBerry&reg; devices that support this video format at the following website: -->
 
@@ -98,11 +98,11 @@ U kunt adaptieve videosets uploaden en genereren aan de hand van een van de volg
 * **Vooraf gecodeerde video&#39;s uploaden** - Als uw video&#39;s al buiten Adobe Dynamic Media Classic zijn gecodeerd, selecteert u op de algemene navigatiebalk de optie **[!UICONTROL Upload]** om MP4-videobestanden rechtstreeks naar Adobe Dynamic Media Classic te bladeren en te uploaden. Ga vervolgens naar **[!UICONTROL Build]** > **[!UICONTROL Adaptive Video Sets]**. Blader naar uw videobestanden. Sleep de gewenste videobestanden naar de tabel Adaptive Video Set en sla deze op.
 * **Primaire bronvideo&#39;s uploaden** - Als uw video&#39;s niet zijn gecodeerd, selecteert u op de algemene navigatiebalk de optie **[!UICONTROL Upload]** primaire videobronbestanden (niet-MP4) uploaden. Adobe Dynamic Media Classic codeert ze voor u naar MP4-bestanden. In de **[!UICONTROL Upload Job Options]** dialoogvenster, onder **[!UICONTROL EVideo Options]**, selecteert u **[!UICONTROL Adaptive Video]**.
 
-  Met deze voorkeursoptie kunt u een adaptieve videoset maken die automatisch de juiste coderingsvoorinstelling op de video toepast, ongeacht of deze 16:9 of 4:3 is, zodat deze overeenkomt met de afmetingen van de video die u hebt geüpload. Wanneer u de uploadtaak verzendt, wordt automatisch een adaptieve videoset gemaakt die drie coderingsvideo-instellingen in de juiste hoogte-breedteverhouding bevat.
+  Met deze voorkeursoptie kunt u Adaptieve videosets maken die automatisch de juiste coderingsvoorinstelling op de video toepassen, of dit nu 16:9 of 4:3 is, zodat deze overeenkomt met de afmetingen van de video die u hebt geüpload. Wanneer u de uploadtaak verzendt, wordt automatisch een adaptieve videoset gemaakt die drie coderingsvideo-instellingen in de juiste hoogte-breedteverhouding bevat.
 
   Of in dezelfde **[!UICONTROL Job Options]** dialoogvenster, onder **[!UICONTROL EVideo Options]**, uitbreiden **[!UICONTROL Single Encoding Presets]**. Afzonderlijke voorinstellingen voor videocodering selecteren waarvan u wilt **Desktop**, **Mobiel (iPhone, iPad, Android™)**, en **Tablet (iPad, Android™)** zodat u de MP4-bestanden maakt.
 
-* Of u kunt een primaire video opnieuw verwerken met de opdracht **[!UICONTROL Reprocess]** gebruiken. De zojuist gecodeerde video&#39;s worden toegevoegd aan de bestaande adaptieve videoset.
+* Of u kunt een primaire video opnieuw verwerken met de opdracht **[!UICONTROL Reprocessing]** gebruiken. De zojuist gecodeerde video&#39;s worden toegevoegd aan de bestaande adaptieve videoset.
 
 Zie [Video&#39;s uploaden en coderen](uploading-encoding-videos.md#uploading_and_encoding_videos).
 

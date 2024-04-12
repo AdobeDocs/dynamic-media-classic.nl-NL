@@ -10,9 +10,9 @@ role: User
 exl-id: 9e2df814-465d-412a-a032-ef3e8cb462ba
 topic: Integrations
 level: Experienced
-source-git-commit: 597b7d6bd98c59a644984baeecb888f86a8975c9
+source-git-commit: b2a6aeb1aab420803a8b7dafb0fdeda495e2a69b
 workflow-type: tm+mt
-source-wordcount: '1533'
+source-wordcount: '1437'
 ht-degree: 0%
 
 ---
@@ -64,7 +64,7 @@ Adobe PDF-bestanden zijn meestal de bron van een eCatalog. PDF-bestanden bevatte
 
 Selecteer op de algemene navigatiebalk de optie **[!UICONTROL Upload]** om PDF-bestanden of afbeeldingen voor uw eCatalog te uploaden. U kunt bestanden uploaden vanaf uw bureaublad of via FTP. FTP wordt aanbevolen als u veel bestanden of bestanden uploadt die groter zijn dan 100 MB.
 
-Onder Opties voor PDF biedt het scherm Uploaden opties voor het uploaden van PDF-bestanden met de juiste resolutie en het corrigeren van de kleurruimte. Een resolutie van 150 pixels per inch wordt aanbevolen. U kunt de optie E-catalogus automatisch genereren selecteren om een eCatalog te maken wanneer u een PDF-bestand uploadt.
+Onder Opties voor PDF biedt het scherm Uploaden opties voor het uploaden van PDF-bestanden met de juiste resolutie en het corrigeren van de kleurruimte. Een resolutie van 150 pixels per inch wordt aanbevolen. U kunt de optie selecteren **[!UICONTROL Auto-Generate eCatalog]** om een eCatalog tot stand te brengen wanneer u een dossier van de PDF uploadt.
 
 Zie [De PDF-bestanden uploaden](uploading-pdf-files.md#uploading_the_pdf_files).
 
@@ -118,7 +118,7 @@ Zie [Voorvertoning van eCatalogi weergeven in de eCatalog-viewer](previewing-eca
 
 Als u uw eCatalog en de bijbehorende PDF publiceert, wordt deze op Dynamic Media Image Servers geplaatst, zodat deze op uw website en toepassing kan worden geleverd. Als onderdeel van het publicatieproces activeert Adobe Dynamic Media Classic de URL-tekenreeks voor uw eCatalog. Gebruik deze URL om de eCatalog van de Servers van het Beeld van Dynamic Media aan uw website of toepassing te roepen.
 
-Nadat u uw eCatalog en PDF voor publicatie in het deelvenster Bladeren hebt gemarkeerd, selecteert u de knop Publiceren op de algemene navigatiebalk om een publicatie te starten. Selecteer in het scherm Publiceren de optie **[!UICONTROL Submit Publish]**.
+Nadat u uw eCatalog en PDF voor publicatie in het deelvenster Bladeren hebt gemarkeerd, selecteert u de knop Publiceren op de algemene navigatiebalk om een publicatie te starten. Selecteer op de pagina Publiceren de optie **[!UICONTROL Submit Publish]**.
 
 Zie [E-catalogi en bijbehorende PDF publiceren](publishing-ecatalogs-associated-pdfs.md#publishing-ecatalogs-and-associated-pdfs).
 

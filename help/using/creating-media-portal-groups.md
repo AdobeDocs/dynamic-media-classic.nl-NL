@@ -1,18 +1,16 @@
 ---
 title: Mediaportaalgroepen maken en beheren
 description: Leer hoe u mediaportaalgroepen maakt en beheert in Adobe Dynamic Media Classic.
-uuid: 23f360e1-ddcb-491b-ab9f-428f3ac9c316
 contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/media_portal
-discoiquuid: 91524d36-b77a-4dc4-acba-a7bd85297e98
 feature: Dynamic Media Classic,Collaboration,Asset Management
 role: Admin,User
 exl-id: 0deb7133-b895-4c3f-8e5e-8604a6f2d16b
 topic: Administration, Collaboration
 level: Intermediate
-source-git-commit: 1b90beb99b161b76da81403f5aed9755b3a92c8b
+source-git-commit: b2a6aeb1aab420803a8b7dafb0fdeda495e2a69b
 workflow-type: tm+mt
 source-wordcount: '789'
 ht-degree: 0%
@@ -27,7 +25,7 @@ ht-degree: 0%
 
 Om toegangstoestemming op verschillende niveaus te verlenen, creeert u groepen. Voor elke groep wijst u lees-, schrijf- en verwijdermachtigingen toe aan verschillende mappen en elementen in mappen. U bepaalt ook welke voorinstellingen voor afbeeldingen beschikbaar zijn voor de groep. Vervolgens wijst u gebruikers toe aan groepen. Een gebruiker kan lid zijn van meerdere groepen. Het groepsconcept biedt u de flexibiliteit om toegang toe te wijzen aan beperkte reeksen van de totale inhoud.
 
-Als u niet specifiek groepsmachtigingen toekent aan een middel of map, overerft dat middel of die map de machtigingen die u aan de bovenliggende map hebt toegewezen (de map erboven in de mappenhiërarchie). Verleen toestemmingen aan een ouderomslag als u wilt ervoor zorgen dat al zijn kindomslagen de zelfde toestemmingen erven.
+Als u specifiek geen groepstoestemming aan een middel of een omslag verleent, erft dat middel of de omslag de toestemmingen u aan zijn ouderomslag (de omslag hierboven in de omslaghiërarchie) toewees. Verleen toestemmingen aan een ouderomslag als u wilt ervoor zorgen dat al zijn kindomslagen de zelfde toestemmingen erven.
 
 >[!NOTE]
 >
@@ -75,9 +73,9 @@ Als u niet specifiek groepsmachtigingen toekent aan een middel of map, overerft 
 
 >[!NOTE]
 >
->Toegangsrechten worden ingesteld wanneer u een vak selecteert. Wanneer u rechten toewijst aan een map, krijgen de submappen en alle bestanden in de map dezelfde rechten als de bovenliggende map. U kunt echter verschillende rechten opgeven voor afzonderlijke submappen en elementbestanden.
+>Toegangsrechten worden ingesteld wanneer u een vak selecteert. Wanneer u rechten hebt toegewezen aan een map, krijgen de submappen en alle bestanden in de map dezelfde rechten als de bovenliggende map. U kunt echter verschillende rechten opgeven voor afzonderlijke submappen en elementbestanden.
 
-## Toegangsrechten voor een groep kiezen voor Voorinstelling afbeelding {#choosing-image-preset-access-permissions-for-a-group}
+## Toegangsrechten voor een groep kiezen voor Voorinstelling afbeelding
 
 Kies Vooraf ingestelde de toegangstoestemmingen van het Beeld voor een groep als u wilt specificeren welke Vooraf ingestelde Beeld aan groepsleden beschikbaar zijn wanneer zij activa met het Portaal van Media uitvoeren.
 

@@ -1,25 +1,23 @@
 ---
 title: Een sjabloon maken
 description: Leer hoe u een sjabloon maakt in Adobe Dynamic Media Classic.
-uuid: c762224b-7c6c-4434-bada-c26570079645
 contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/template_basics
-discoiquuid: 8f7093da-d215-4337-ac95-69f0a5bf8648
 feature: Dynamic Media Classic
 role: User
 exl-id: 23ac1a0f-c90b-4250-ae36-93702fb5ebd9
 topic: Content Management
 level: Experienced
-source-git-commit: ae7d0c6d3047d68ed3da4187ef516dc51c95de30
+source-git-commit: b2a6aeb1aab420803a8b7dafb0fdeda495e2a69b
 workflow-type: tm+mt
-source-wordcount: '3261'
+source-wordcount: '3259'
 ht-degree: 0%
 
 ---
 
-# Een sjabloon maken {#creating-a-template}
+# Een sjabloon maken
 
 Ga naar **[!UICONTROL Build]** > **[!UICONTROL Template Basics]**. Selecteer Designer of Developer. Op deze pagina kunt u afbeeldings- en tekstlagen toevoegen. U kunt lagen ook opnieuw ordenen, de grootte en positie van lagen wijzigen en schaduw- en gloedeffecten toepassen op afbeeldingen en tekst.
 
@@ -78,7 +76,7 @@ Zie ook [Elementen handmatig publiceren](publishing-files.md#manually_publishing
 1. Wanneer u klaar bent met bewerken, gaat u naar de rechterbenedenhoek van de pagina en zorgt u ervoor dat **[!UICONTROL Publish after save]** is geselecteerd (standaard).
 1. Selecteren **[!UICONTROL Save]**, selecteert u een opslagmap, voert u een naam voor de set in en selecteert u **[!UICONTROL Save]**.
 
-## Een sjabloon verwijderen {#deleting-a-template}
+## Een sjabloon verwijderen
 
 Wanneer u een Sjabloonset verwijdert, wordt de set zelf naar de prullenbak verplaatst. De leden (of &quot;kinderen&quot;) binnen die set worden echter niet beïnvloed, maar ze behouden hun bestaande gepubliceerde of niet-gepubliceerde status.
 
@@ -278,7 +276,7 @@ U kunt een laag- of laageffect verbergen door het oogpictogram naast de naam van
 
 `layer=5&src=is{PortalCo/title}&pos=274,192&hide=1&effect=-1&.effect=Drop Shadow&blendmode`
 
-### De achtergrondkleur, dekking en overvloeimodus bepalen {#determining-the-background-color-opacity-and-blend-mode}
+### De achtergrondkleur, dekking en overvloeimodus bepalen
 
 Als u een achtergrondkleur, dekking en overvloeimodus voor een laag of het canvas wilt kiezen, selecteert u de laag of het canvas en gebruikt u de volgende technieken:
 
@@ -299,7 +297,7 @@ Nadat u een schaduw- of gloedeffect hebt toegepast, kunt u de grootte, kleur, de
 ### Pas een schaduw- of gloedeffect toe op een laag {#applying-a-shadow-or-glow-effect-to-a-layer}
 
 1. Selecteer een laag in de lijst Lagen.
-1. Selecteer het menu Effect toevoegen en kies een optie:
+1. Selecteer de **[!UICONTROL `Add Effect`]** en kiest u een optie:
 
    * **[!UICONTROL Drop Shadow]** - Hiermee past u een schaduw toe op de onder- en rechterzijde van de laag.
 

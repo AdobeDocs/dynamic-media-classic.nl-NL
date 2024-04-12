@@ -1,18 +1,16 @@
 ---
 title: De map Prullenmand beheren
 description: Leer hoe u de prullenmand beheert.
-uuid: 3992a5b8-1919-4924-b07d-7fb25565effd
 contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/managing_assets
-discoiquuid: 553c95fc-0a41-4f06-af50-a62bc1438149
 feature: Dynamic Media Classic,Asset Management
 role: User
 exl-id: cffeec19-43fd-4a97-bdcc-df81af108ddd
 topic: Content Management
 level: Intermediate
-source-git-commit: faa1784e1d19b1167cad5749dc04227e3ff388e5
+source-git-commit: b2a6aeb1aab420803a8b7dafb0fdeda495e2a69b
 workflow-type: tm+mt
 source-wordcount: '536'
 ht-degree: 0%
@@ -21,7 +19,7 @@ ht-degree: 0%
 
 # De map Prullenmand beheren{#managing-the-trash-folder}
 
-Items die u uit Adobe Dynamic Media Classic verwijdert, worden naar de map Prullenbak verplaatst. Het verwijderde bestand blijft zeven dagen in deze map staan totdat het wordt hersteld of definitief wordt verwijderd. U kunt verwijderde items controleren door de optie **[!UICONTROL Trash]** onder aan de elementenbibliotheek en items op de mappagina Prullenbak weergeven.
+Items die u uit Adobe Dynamic Media Classic verwijdert, worden naar de map Prullenbak verplaatst. Deze verwijderde items blijven zeven dagen in deze map staan totdat ze zijn hersteld of permanent zijn verwijderd. U kunt verwijderde items controleren door de optie **[!UICONTROL Trash]** onder aan de elementenbibliotheek en items op de mappagina Prullenbak weergeven.
 
 Alle gebruikers kunnen items in de map met prullenmand terugzetten naar de mappen waaruit ze zijn verwijderd. Alle gebruikers kunnen ook de prullenmand leeg maken met alle inhoud ervan.
 
@@ -35,7 +33,7 @@ Als u items verwijdert uit de map met prullenmand, worden items definitief verwi
 
 Als u een item in een map verwijdert, wordt het item in de map Prullenbak geplaatst. Het volgende gebeurt wanneer u een item verwijdert en naar de map Prullenbak verplaatst:
 
-* Hoewel het item uit uw Adobe Dynamic Media Classic-mappen is verwijderd, kan de id niet aan een ander element worden toegewezen zolang het in de prullenmand blijft staan. Als u een element probeert te uploaden met dezelfde naam als een bestand in de map Prullenmand, voegt Adobe Dynamic Media Classic een cijfer toe aan de naam van het element.
+* Hoewel het item uit uw Adobe Dynamic Media Classic-map is verwijderd, kan de id ervan niet aan een ander element worden toegewezen zolang het in de prullenmand blijft staan. Als u een element probeert te uploaden met dezelfde naam als een bestand in de map Prullenmand, voegt Adobe Dynamic Media Classic een cijfer toe aan de naam van het element.
 * Het item kan niet worden gepubliceerd. Zelfs als het item was gemarkeerd voor publicatie toen u het wist, wordt het niet gepubliceerd.
 * Het item blijft in de map Prullenbak totdat het wordt hersteld, een periode van zeven dagen of iemand anders kiest het **[!UICONTROL Empty the Trash]** gebruiken. Na zeven dagen verwijdert een automatische opschoonbewerking het item definitief.
 

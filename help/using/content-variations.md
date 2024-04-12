@@ -1,18 +1,16 @@
 ---
 title: Inhoudsvariaties beheren
 description: Leer hoe u variaties in inhoud beheert in Adobe Dynamic Media Classic.
-uuid: 1e40a526-02f8-41d9-886f-6d094546bc13
 contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/template_basics
-discoiquuid: aa129b0e-fc73-4fc2-a894-4560b3f46c4f
 feature: Dynamic Media Classic
 role: User
 exl-id: 65b8c314-7ec1-417f-8a7b-aa13762072a1
 topic: Content Management
 level: Intermediate
-source-git-commit: d82f816553f807b514f4690827dab672a6baf690
+source-git-commit: b2a6aeb1aab420803a8b7dafb0fdeda495e2a69b
 workflow-type: tm+mt
 source-wordcount: '240'
 ht-degree: 0%
@@ -32,7 +30,7 @@ U kunt elke vooraf ingestelde URL voor afbeeldingen uit de lijst gebruiken. URL&
 1. Ga naar **[!UICONTROL Build]** > **[!UICONTROL Template Sets]**.
 1. Selecteer in de builder een sjabloon en selecteer vervolgens **[!UICONTROL Add/Preview]**.
 1. Wijzig de sjablooneigenschappen en selecteer **[!UICONTROL Save As]** om een andere versie te maken.
-1. Typ een naam en selecteer **[!UICONTROL Save]**.
+1. Typ een naam en selecteer vervolgens **[!UICONTROL Save]**.
 
    Zowel het element als de sjabloon moeten worden gepubliceerd.
 

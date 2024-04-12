@@ -1,27 +1,25 @@
 ---
 title: Sjabloonparameters maken
 description: Leer hoe u sjabloonparameters maakt in Adobe Dynamic Media Classic.
-uuid: d17168a8-4776-4761-b022-8258d5997604
 contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/template_basics
-discoiquuid: d263f041-5a0d-4c4f-9266-aeff51a5a7e2
 feature: Dynamic Media Classic
 role: User
 exl-id: 118806ea-c8a7-4aaf-9ae3-739c6b04ea77
 topic: Development
 level: Experienced
-source-git-commit: d82f816553f807b514f4690827dab672a6baf690
+source-git-commit: b2a6aeb1aab420803a8b7dafb0fdeda495e2a69b
 workflow-type: tm+mt
-source-wordcount: '839'
+source-wordcount: '785'
 ht-degree: 0%
 
 ---
 
 # Sjabloonparameters maken{#creating-template-parameters}
 
-De parameters laten u toe om malplaatjes met maximumflexibiliteit te gebruiken; hiermee kunt u een sjabloonafbeelding dynamisch aanpassen. U kunt bepalen welke tekst- en afbeeldingslagen u wilt opnemen in de sjabloon en in elke laag, welke parameters u wilt weergeven. Als u bijvoorbeeld de aandacht wilt vestigen op een product dat te koop is, kunt u een tekstlaag Op verkoop maken. Later kunt u deze laag verwijderen, maar toch de rest van de sjabloonafbeelding behouden door de parameter Aan verkoop te verwijderen.
+De parameters laten u toe om malplaatjes met maximumflexibiliteit te gebruiken; zij staan u toe om een malplaatjebeeld dynamisch aan te passen. U kunt bepalen welke tekst- en afbeeldingslagen u wilt opnemen in de sjabloon en in elke laag, welke parameters u wilt weergeven. Als u bijvoorbeeld de aandacht wilt vestigen op een product dat te koop is, kunt u een tekstlaag Op verkoop maken. Later kunt u deze laag verwijderen, maar toch de rest van de sjabloonafbeelding behouden door de parameter Aan verkoop te verwijderen.
 
 Wanneer u malplaatjeparameters creeert, verklaart u in feite welke delen van het malplaatje in een koord URL te roepen. Een URL die met parameters is samengesteld, maakt die items in de URL-tekenreeks beschikbaar. Met blootgestelde parameters, kunt u douaneresultaten van de manier tot stand brengen het malplaatjebeeld dynamisch van de Server van het Beeld wordt geconstrueerd. Op deze manier kunt u een sjabloon dynamisch wijzigen omdat u enkele of alle parameters ervan in een URL kunt aanroepen.
 
@@ -43,15 +41,15 @@ Voer voor elke laag in de sjabloon de volgende stappen uit om sjabloonparameters
 >
 >U kunt parameters in het scherm van Parameters anders noemen. Als u de naam van een parameter wijzigt, wordt de parameter gemakkelijker herkend in URL-tekenreeksen en gemakkelijker te gebruiken als databasewaarde. Als u de naam van een parameter wilt wijzigen, selecteert u de parameter **[!UICONTROL On]** , selecteert u de naam en voert u een nieuwe naam in het veld Naam in.
 
-Om een lijst van de parameters te zien die u voor uw malplaatje hebt gecreeerd, selecteer de Samenvatting van de Parameter knoop op het scherm van het Malplaatje. Het scherm Parameter Summary wordt geopend. De naam van elke laag wordt weergegeven en als u parameters voor een laag hebt gemaakt, worden de namen en waarden van de parameters weergegeven.
+Om een lijst van de parameters te zien die u voor uw malplaatje hebt gecreeerd, selecteer de Samenvatting van de Parameter knoop op het scherm van het Malplaatje. In het scherm Parameter Summary wordt de naam van elke laag vermeld en als u parameters voor een laag hebt gemaakt, worden de namen en waarden van de parameters weergegeven.
 
 ## Dynamische-tekstparameters maken {#creating-dynamic-text-parameters}
 
 Voor tekstlagen kunt u ook van de tekstreeks een dynamisch veld maken dat is gekoppeld aan een databasewaarde. Voer de volgende stappen uit:
 
 1. Selecteer in het scherm Sjabloon de knop Parameters naast de naam van de tekstlaag waarvoor u dynamische tekstparameters wilt maken. De pagina Parameters wordt geopend.
-1. Selecteer **[!UICONTROL On]** naast de naam van het tekstkenmerk (textAttr).
-1. Selecteer **[!UICONTROL Text]** in het scherm Parameters.
+1. Selecteer de **[!UICONTROL On]** naast de naam van het tekstkenmerk (textAttr).
+1. Selecteer de **[!UICONTROL Text]** in het scherm Parameters.
 1. Selecteren **[!UICONTROL Add Parameter]**. Er wordt een standaardparameternaam weergegeven. U kunt deze naam vervangen door deze te selecteren en er overheen te typen. De huidige tekstreeks wordt de nieuwe naam van de parameter.
 1. Selecteren **[!UICONTROL Close]** om de pagina Parameters te sluiten.
 

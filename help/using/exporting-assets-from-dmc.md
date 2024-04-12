@@ -1,18 +1,16 @@
 ---
 title: Elementen exporteren uit Adobe Dynamic Media Classic
 description: Leer hoe u middelen uit Adobe Dynamic Media Classic exporteert.
-uuid: d42b7a73-80c0-4a9a-a04e-7ef53e6fcf22
 contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/managing_assets
-discoiquuid: eb850ec7-a669-41ea-b2b0-4c9178e34f95
 feature: Dynamic Media Classic,Asset Management
 role: User
 exl-id: 5e3b0002-5ae2-4437-862f-caa098b04362
 topic: Content Management
 level: Intermediate
-source-git-commit: ae7d0c6d3047d68ed3da4187ef516dc51c95de30
+source-git-commit: b2a6aeb1aab420803a8b7dafb0fdeda495e2a69b
 workflow-type: tm+mt
 source-wordcount: '419'
 ht-degree: 0%
@@ -25,7 +23,7 @@ U kunt elementen die u in Adobe Dynamic Media Classic hebt bewerkt, opslaan op e
 
 Het gecomprimeerde ZIP-bestand heeft een maximale bestandsgrootte van 1 GB voor de exporttaak. Bovendien kunt u maximaal 500 elementen per exporttaak gebruiken.
 
-Adobe Dynamic Media Classic houdt een overzicht van exporttaken bij in het scherm Taken.
+Adobe Dynamic Media Classic houdt een overzicht bij van het exporteren van taken in het scherm Taken.
 
 **Elementen exporteren uit Adobe Dynamic Media Classic:**
 

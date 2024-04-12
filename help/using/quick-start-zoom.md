@@ -1,20 +1,18 @@
 ---
 title: "Snel starten: Zoomen"
 description: Een inleiding en Snel aan Gezoem Begin om u te helpen snel aan de slag gaan.
-uuid: 31eda632-3469-4f90-885b-e90c6a2e5e75
 contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/zoom
-discoiquuid: 559c986d-313d-46df-a5ff-0b49316ad3a7
 feature: Dynamic Media Classic,Viewers,Zoom
 role: User
 exl-id: eae35207-000c-4ced-b9ab-714c2384a9e7
 topic: Content Management
 level: Beginner
-source-git-commit: d82f816553f807b514f4690827dab672a6baf690
+source-git-commit: b2a6aeb1aab420803a8b7dafb0fdeda495e2a69b
 workflow-type: tm+mt
-source-wordcount: '926'
+source-wordcount: '825'
 ht-degree: 0%
 
 ---
@@ -25,7 +23,7 @@ Met Zoomen kunt u op interactieve wijze details met een hoge resolutie weergeven
 
 Adobe Dynamic Media Classic beschikt ook over Bewerken met instructies voor zoomen. Hiermee kunt u de belangrijke functies in een afbeelding benadrukken. Als u bijvoorbeeld de aandacht van kijkers op een logo wilt richten, kunt u een zoomdoel voor het logo maken. Wanneer gebruikers dit zoomdoel selecteren, zoomen ze op het logo.
 
-Alle zoomafbeeldingen worden gemaakt en aangeboden op basis van afzonderlijke primaire afbeeldingen, afbeeldingen en databasegestuurde kenmerken. Met Adobe Dynamic Media Classic zooming worden de tijd en kosten voor het maken en leveren van afbeeldingen aanzienlijk verminderd. Met Zoomviewers kunt u in- en uitzoomen op afbeeldingen. De zoomviewer bevat knoppen die u kunt selecteren om te zoomen en te pannen; u kunt ook pannen door op het scherm te slepen. Met Voorinstellingen van Zoomviewer kunt u de zoomviewer configureren waarin u in- en uitzoomafbeeldingen kunt inzoomen.
+Alle zoomafbeeldingen worden gemaakt en aangeboden op basis van afzonderlijke primaire afbeeldingen, afbeeldingen en databasegestuurde kenmerken. Met Adobe Dynamic Media Classic zooming worden de tijd en kosten voor het maken en leveren van afbeeldingen aanzienlijk verminderd. Met Zoomviewers kunt u in- en uitzoomen op afbeeldingen. De zoomviewer bevat knoppen die u kunt selecteren om te zoomen en te pannen; u kunt ook pannen door op het scherm te slepen. Met Voorinstellingen van Zoomviewer kunt u de zoomviewer configureren waarin u in- en uitzoomafbeeldingen zoomt.
 
 Zie [Zoomdoel: Dynamic Imaging](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&amp;emailurl=https://s7d5.scene7.com/s7/emailFriend&amp;serverUrl=https://s7d5.scene7.com/is/image/&amp;config=Scene7SharedAssets/Universal_HTML5_Video&amp;contenturl=https://s7d5.scene7.com/skins/&amp;asset=S7tutorials/559_Zoom%20Target%20Tool_converted%20renamed_Dynamic%20Imaging-AVS) en [Zoomen: Dynamic Imaging](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&amp;emailurl=https://s7d5.scene7.com/s7/emailFriend&amp;serverUrl=https://s7d5.scene7.com/is/image/&amp;config=Scene7SharedAssets/Universal_HTML5_Video&amp;contenturl=https://s7d5.scene7.com/skins/&amp;asset=S7tutorials/560_Zoom_converted%20renamed_Dynamic%20Imaging-AVS) trainingsvideo&#39;s.
 
@@ -41,21 +39,21 @@ Selecteer op de algemene navigatiebalk de optie **[!UICONTROL Upload]** om afbee
 
 Zoomdoelen bieden een manier waarop u specifieke gedeelten van een afbeelding kunt markeren. U kunt bijvoorbeeld de aandacht richten op de delen van een afbeelding die deze uniek of onderscheidend maken. In het venster van de Kijker van het Gezoem, verschijnen de gezoemdoelstellingen in de vorm van duimnagelbeelden aan de kant van het beeld. Als u een van deze zoomdoelminiaturen selecteert, wordt automatisch ingezoomd op het gedeelte van de afbeelding dat u opgeeft.
 
-Selecteer **[!UICONTROL Edit]** en kies Zoomdoelen of open een afbeelding in het deelvenster Bladeren in de gedetailleerde weergave en selecteer **[!UICONTROL Zoom Targets]**. Gebruik vervolgens de zoomgereedschappen op de pagina Zoomdoeleditor, zodat u een deel van de afbeelding als doel kunt isoleren. Zie [Zoomdoelen maken voor zoomen met instructies](creating-zoom-targets-guided-zoom.md#creating_zoom_targets_for_guided_zoom).
+Als u een zoomdoel wilt maken, selecteert u **[!UICONTROL Edit]** en kies Zoomdoelen of open een afbeelding in het deelvenster Bladeren in de gedetailleerde weergave en selecteer **[!UICONTROL Zoom Targets]**. Gebruik vervolgens de zoomgereedschappen op de pagina Zoomdoeleditor, zodat u een deel van de afbeelding als doel kunt isoleren. Zie [Zoomdoelen maken voor zoomen met instructies](creating-zoom-targets-guided-zoom.md#creating_zoom_targets_for_guided_zoom).
 
 ## 3. Voorinstellingen Zoomviewer instellen
 
-Voorinstellingen voor zoomviewer bepalen de stijl en het gedrag van uw zoomviewers. Als beheerder kunt u Voorinstellingen van de zoomviewer instellen. Adobe Dynamic Media Classic wordt ook geleverd met standaard voorinstellingen voor zoomviewers voor zoomen.
+Met Voorinstellingen voor zoomviewer bepaalt u de stijl en het gedrag van uw zoomviewers. U kunt Voorinstellingen van de zoomviewer instellen als u een beheerder bent. Adobe Dynamic Media Classic wordt ook geleverd met voorinstellingen voor de zoomviewer met de standaardvoorinstelling ‘aanbevolen werkwijze’.
 
-Ga naar **[!UICONTROL Setup]** > **[!UICONTROL Viewer Presets]**. Selecteer op de pagina Voorinstellingen viewer de optie **[!UICONTROL Add]**, kiest u een platform en een zoomviewer en selecteert u vervolgens **[!UICONTROL Add]**. Kies vervolgens opties op de pagina Viewer configureren.
+Ga naar **[!UICONTROL Setup]** > **[!UICONTROL Viewer Presets]**. Selecteer op de pagina Voorinstellingen viewer de optie **[!UICONTROL Add]**, kiest u een platform en een zoomviewer en selecteert u vervolgens **[!UICONTROL Add]**. Kies vervolgens de gewenste opties op het tabblad `Configure Viewer` pagina.
 
 Adobe Dynamic Media Classic-aanbiedingen **[!UICONTROL Zoom Viewer Preset]** opties waarmee u de knopstijl en het algehele uiterlijk van de viewer kunt selecteren. U kunt ook de zoominstellingen voor uw website aanpassen. Zie [Voorinstellingen Zoomviewer instellen](setting-zoom-viewer-presets.md#setting_up_zoom_viewer_presets).
 
-## 4. Afbeeldingen voorvertonen met de zoomviewer
+## 4. Voorvertoning van afbeeldingen weergeven met de zoomviewer
 
 U kunt een voorvertoning van afbeeldingen weergeven in een zoomviewer om te zien wat de zoomervaring is wanneer afbeeldingen worden ingezoomd.
 
-Als u verschillende voorinstellingen voor de zoomviewer wilt bekijken en wilt zien hoe deze de zoomervaring weergeven, selecteert u een afbeelding in het deelvenster Bladeren en selecteert u **[!UICONTROL Preview]**. Ga naar **[!UICONTROL Presets]** > **[!UICONTROL Zoom]** en selecteer vervolgens een voorinstelling met de zoommenu&#39;s.
+Als u verschillende voorinstellingen voor de zoomviewer wilt bekijken en wilt zien hoe deze de zoomervaring weergeven, selecteert u een afbeelding in het deelvenster Bladeren en selecteert u **[!UICONTROL Preview]**. Ga naar **[!UICONTROL Presets]** > **[!UICONTROL Zoom]** en selecteer vervolgens een voorinstelling met het menu Zoomen.
 
 Zoomknoppen worden weergegeven. U kunt zien hoe de zoomafbeeldingen er op uw website uitzien. Selecteer de zoomknoppen (en zoomdoelen) zodat u de instellingen kunt testen van de voorinstelling Zoomviewer die u hebt gekozen. Zie [Afbeeldingen voorvertonen met verschillende zoomweergaven](previewing-image-assets-different-zoom.md#previewing_image_assets_with_different_zoom_viewers).
 
@@ -63,8 +61,8 @@ Zoomknoppen worden weergegeven. U kunt zien hoe de zoomafbeeldingen er op uw web
 
 Als u uw zoomafbeeldingen publiceert, worden deze op Dynamic Media Image Servers geplaatst, zodat ze op uw website en toepassing kunnen worden geleverd. Als onderdeel van het publicatieproces activeert Adobe Dynamic Media Classic URL-tekenreeksen. Deze URL-tekenreeksen noemen zoomafbeeldingen van Dynamic Media Image Servers naar uw website of toepassing.
 
-Selecteer op de algemene navigatiebalk de optie **[!UICONTROL Publish]**. Selecteer in het dialoogvenster Publiceren de optie **[!UICONTROL Submit Publish]**. Zie [Zoomafbeeldingen publiceren](publishing-zoom-images.md#publishing_zoom_images).
+Selecteer op de algemene navigatiebalk de optie **[!UICONTROL Publish]**. Selecteer in het dialoogvenster Publiceren **[!UICONTROL Submit Publish]**. Zie [Zoomafbeeldingen publiceren](publishing-zoom-images.md#publishing_zoom_images).
 
-## 6. Zoomviewers koppelen aan uw webpagina
+## 6. Zoom-viewers koppelen aan uw webpagina
 
 Adobe Dynamic Media Classic maakt de URL-bijschrifttekenreeksen die nodig zijn voor het zoomen op afbeeldingen en activeert deze wanneer u afbeeldingen publiceert naar Dynamic Media Image Servers. U kunt deze URL-tekenreeksen kopiëren vanuit het dialoogvenster **[!UICONTROL Preview]** pagina. Nadat u de URL-tekenreeksen hebt gekopieerd, zijn deze beschikbaar voor uw websites en toepassingen. Zie [Zoomviewers koppelen aan uw webpagina](linking-zoom-viewers-web-pages.md#linking_zoom_viewers_to_your_web_pages).
