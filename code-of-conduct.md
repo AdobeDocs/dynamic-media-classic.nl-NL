@@ -1,5 +1,5 @@
 ---
-source-git-commit: b2a6aeb1aab420803a8b7dafb0fdeda495e2a69b
+source-git-commit: de6997fda88c4471625242ee9cca59b344cee945
 workflow-type: tm+mt
 source-wordcount: '428'
 ht-degree: 0%
@@ -27,7 +27,7 @@ Om een open en welkome omgeving te bevorderen, verbinden de contribuanten en de 
 
 Voorbeelden van gedrag dat bijdraagt tot het maken van een positieve omgeving zijn:
 
-* Het gebruiken van verwelkomings en inclusieve taal
+* Een welkome en inclusieve taal gebruiken
 * Naleving van verschillende standpunten en ervaringen
 * Erg vriendelijk constructieve kritiek te aanvaarden
 * Focussen op wat het beste is voor de gemeenschap
@@ -54,7 +54,8 @@ Niet in overeenstemming met deze gedragscode. Of, om tijdelijk of permanent een 
 
 ## Toepassingsgebied
 
-Deze gedragscode is zowel van toepassing binnen projectruimten als in openbare ruimten wanneer een individu het project of zijn gemeenschap vertegenwoordigt. Voorbeelden van het vertegenwoordigen van een project of gemeenschap zijn het gebruik van een officieel e-mailadres of het posten van een project via een officiële sociale-mediaaccount. Het omvat ook het optreden als aangestelde vertegenwoordiger tijdens een online- of offlineevenement. De representatie van een project kan nader worden omschreven en verduidelijkt door de projectbeheerders.
+Deze gedragscode is zowel van toepassing binnen projectruimten als in openbare ruimten wanneer een individu het project of zijn gemeenschap vertegenwoordigt.
+Voorbeelden van het vertegenwoordigen van een project of gemeenschap zijn het gebruik van een officieel e-mailadres of het posten van een project via een officiële sociale-mediaaccount. Het omvat ook het optreden als aangestelde vertegenwoordiger tijdens een online- of offlineevenement. Projectbeheerders kunnen de representatie van een project nader definiëren en verduidelijken.
 
 ## Handhaving
 

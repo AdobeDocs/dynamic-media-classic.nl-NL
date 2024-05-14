@@ -1,28 +1,28 @@
 ---
 title: Adobe Dynamic Media Classic Help
-description: Welkom bij Adobe Dynamic Media Classic, het toonaangevende publicatiesysteem voor verschillende media op aanvraag voor het uploaden, beheren, verbeteren en publiceren van dynamische rijke inhoud naar alle apparaten en schermen.
+description: Adobe Dynamic Media Classic is het toonaangevende systeem voor het publiceren van verschillende media op aanvraag. U kunt dynamische rijke inhoud uploaden, beheren, verbeteren en publiceren naar alle apparaten en schermen.
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 feature: Dynamic Media Classic
 role: Admin,User
 exl-id: 7bf94d8c-23ff-4a43-83cc-7e6879a7cded
 topic: Administration
 level: Intermediate
-source-git-commit: 51c05c62448b39a75facb2e90cc9da5d0f26ab45
+source-git-commit: de6997fda88c4471625242ee9cca59b344cee945
 workflow-type: tm+mt
-source-wordcount: '442'
+source-wordcount: '281'
 ht-degree: 0%
 
 ---
 
 # Adobe Dynamic Media Classic Help {#scene7-overview}
 
-Welkom bij Adobe Dynamic Media Classic, het toonaangevende publicatiesysteem voor verschillende media op aanvraag voor het uploaden, beheren, verbeteren en publiceren van dynamische rijke inhoud naar alle apparaten en schermen. De oplossingen van Adobe Dynamic Media Classic omvatten het volgende:
+Adobe Dynamic Media Classic is het toonaangevende systeem voor het publiceren van verschillende media op aanvraag. U kunt dynamische rijke inhoud uploaden, beheren, verbeteren en publiceren naar alle apparaten en schermen. De oplossingen van Adobe Dynamic Media Classic omvatten het volgende:
 
 * Dynamic Imaging: realtime bewerken, opmaken en vergroten/verkleinen, interactief zoomen en pannen; kleur `swatching` en structuur `swatching`; 360 graden draaien; afbeeldingssjablonen; multimediaviewers.
 * eCatalogs: Auteur, hotspot het verbinden, onderzoek-toegelaten, publiceert, en levert dynamisch gediende online catalogi in configureerbare kijkers.
 * Mediaportaal: Self-serveromgeving die portalgebruikers van door de beheerder gecontroleerde &quot;weergaven&quot; in Adobe Dynamic Media Classic-middelen voorziet, zodat ze eenvoudig toegang hebben tot het uploaden, bladeren, zoeken, voorvertonen en exporteren van middelen.
 * eVideo: Definitieve video&#39;s uploaden in elke gewenste indeling, beheren, bewerken, hotspots en videosjablonen maken, publiceren en streamen naar configureerbare videoviewers
-* Visuele Configurators: technologie voor het teruggeven in real time om online visuele configuratie voor verpersoonlijking en aanpassingsgevolgen zoals het teruggeven in real time van kleurentexturen, oppervlakten, patronen, monogrammen, en gravings in productbeelden of scènes toe te laten.
+* Visual Configurators: De technologie van de teruggevende in real time om online visuele configuratie voor verpersoonlijking en aanpassingsgevolgen toe te laten. Effecten zoals real-time rendering van kleuren, structuren, oppervlakken, patronen, monogrammen en gravures in productafbeeldingen of -scènes.
 * E-mail en druk van het doel: Lever visueel gerichte, gepersonaliseerde e-mailcampagnes verbonden aan klantenprofiel, product, en kanaalgegevensbestanden.
 
 Zie ook de volgende trainingsvideo&#39;s:

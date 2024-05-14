@@ -1,6 +1,6 @@
 ---
 title: Adobe Dynamic Media Classic-bureaubladtoepassing - Nu beschikbaar
-description: Meer weten over Adobe Dynamic Media Classic-bureaubladtoepassingen?
+description: Meer weten over de Adobe Dynamic Media Classic-bureaubladtoepassing?
 contentOwner: rbrough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
@@ -10,9 +10,9 @@ role: Admin,User
 exl-id: 604b4630-4704-4254-84b5-91b33bb19d58
 topic: Administration
 level: Intermediate
-source-git-commit: 910410706fbd9dd79a8dda402af454a50132cc41
+source-git-commit: de6997fda88c4471625242ee9cca59b344cee945
 workflow-type: tm+mt
-source-wordcount: '1893'
+source-wordcount: '1902'
 ht-degree: 0%
 
 ---
@@ -48,17 +48,17 @@ Upgrademelding in de Adobe Dynamic Media Classic-bureaubladtoepassing wordt niet
 
 * Wanneer u een afbeelding bewerkt, worden de **[!UICONTROL Save]** de knoppen waren niet functioneel.
 * In de Vastgestelde redacteurs, **[!UICONTROL Close]**, **[!UICONTROL Save]**, en **[!UICONTROL Save As]** knoppen worden uitgeschakeld na het schuiven van elementen in het dialoogvenster **[!UICONTROL Add Assets]** deelvenster.
-* **[!UICONTROL Play]** in de weergave Videodetails werkte niet.
+* De **[!UICONTROL Play]** in de weergave Videodetails werkte niet.
 * Kan niet invoeren `d` en `e` in **[!UICONTROL Username]** en **[!UICONTROL Password]** velden wanneer macOS Monterey wordt uitgevoerd.
 * De resterende analyse-API&#39;s zijn verplaatst naar versie 2.0.
 
 ## Oplossingen in release 20.21.3 {#release-sept2021}
 
 * Verbroken miniaturen voor elementen die zijn weergegeven na een periode van inactiviteit in de bureaubladtoepassing.
-* Desktop-app reageert niet meer, meestal na bewerkingen instellen.
+* De bureaubladtoepassing reageert niet meer, meestal na bewerkingen instellen.
 * Modus Verduistering en vergrendeling aanvragen ingeschakeld onder **[!UICONTROL Test Image Serving]**.
 
-  Zie [De service Beveiligde tests testen](/help/using/testing-assets-making-them-public.md#testing-the-secure-testing-service).
+  Zie [De service Beveiligde tests](/help/using/testing-assets-making-them-public.md#testing-the-secure-testing-service).
 
 * Bijgewerkt verificatiemechanisme met Adobe Analytics. Relevant voor nieuwe integraties of als sommige analytische variabelen moeten worden bijgewerkt vanuit de Dynamic Media Classic-bureaubladtoepassing.
 
@@ -67,7 +67,7 @@ Upgrademelding in de Adobe Dynamic Media Classic-bureaubladtoepassing wordt niet
 ## Oplossingen in release 20.21.2 {#minor-release}
 
 * Bekende beperking in 20.21.1: de **[!UICONTROL Server]** de vervolgkeuzelijst op het aanmeldingsscherm was leeg.
-* In **[!UICONTROL Upload Job Options]**, Standaardwaarde voor laagnaamgeving onder **[!UICONTROL Photoshop Options]**, is nu **[!UICONTROL Photoshop and Layer Name]**. Lagen in het PSD-bestand worden geüpload als aparte afbeeldingen.
+* In **[!UICONTROL Upload Job Options]**, de standaardwaarde voor de laagnaam onder **[!UICONTROL Photoshop Options]**, is nu **[!UICONTROL Photoshop and Layer Name]**. Lagen in het PSD-bestand worden geüpload als aparte afbeeldingen.
    * De eerdere standaardinstelling van **[!UICONTROL Layer name]**, de afbeeldingen een naam geven na de naam van de laag of het laagnummer in het PSD-bestand. Het laagnummer is gebruikt als de laagnamen in het PSD-bestand standaard Photoshop-laagnamen waren.
    * De nieuwe standaard van **[!UICONTROL Photoshop and Layer Name]**, geeft u de afbeeldingen een naam na het PSD-bestand, gevolgd door de laagnaam of het laagnummer. Het laagnummer wordt gebruikt als de laagnamen in het PSD-bestand standaard Photoshop-laagnamen zijn.
    * Aangezien laagafbeeldingen in Adobe Dynamic Media Classic nu unieke namen hebben, worden bestaande PSD of sjablonen niet bijgewerkt (welke gedeelde laagnamen in de originele PSD-bestanden).
@@ -90,8 +90,8 @@ Upgrademelding in de Adobe Dynamic Media Classic-bureaubladtoepassing wordt niet
 
 Zie ook:
 
-* [Download en stil de nieuwste Adobe Dynamic Media Classic desktop app op Mac](#install-silent-mac-dmc-app)
-* [Download en stil de nieuwste Adobe Dynamic Media Classic-bureaubladtoepassing in Windows](#install-silent-windows-dmc-app)
+* [Download en installeer zonder toezicht de nieuwste Adobe Dynamic Media Classic desktop app op Mac](#install-silent-mac-dmc-app)
+* [Download en installeer zonder toezicht de nieuwste Adobe Dynamic Media Classic-bureaubladtoepassing in Windows](#install-silent-windows-dmc-app)
 
 1. Verwijder eventuele oudere versies van Adobe Dynamic Media Classic-bureaubladtoepassingen op uw systeem.
 
@@ -145,14 +145,14 @@ Zie ook:
 
 1. Na aanmelden ziet u de vertrouwde ervaring van de gebruikersinterface van de browser. U kunt uw dagelijkse Adobe Dynamic Media Classic-activiteiten op de desktopapp op de gebruikelijke wijze voortzetten.
 
-## Downloaden en *stil* installeer de nieuwste Adobe Dynamic Media Classic-bureaubladtoepassing op macOS {#install-silent-mac-dmc-app}
+## Downloaden en *stilzwijgend* installeer de nieuwste Adobe Dynamic Media Classic-bureaubladtoepassing op macOS {#install-silent-mac-dmc-app}
 
 Zie ook:
 
 * [Download en installeer de nieuwste Adobe Dynamic Media Classic-bureaubladtoepassing op Mac of Windows](#installation-dmc-app)
-* [Download en stil de nieuwste Adobe Dynamic Media Classic-bureaubladtoepassing in Windows](#install-silent-windows-dmc-app)
+* [Download en installeer zonder toezicht de nieuwste Adobe Dynamic Media Classic-bureaubladtoepassing in Windows](#install-silent-windows-dmc-app)
 
-Om te downloaden en *stil* Installeer de nieuwste versie van de Adobe Dynamic Media Classic-bureaubladtoepassing op macOS:
+Om te downloaden en *stilzwijgend* Installeer de nieuwste versie van de Adobe Dynamic Media Classic-bureaubladtoepassing op macOS:
 
 1. Verwijder eventuele oudere versies van Adobe Dynamic Media Classic-bureaubladtoepassingen op uw systeem.
 
@@ -185,7 +185,7 @@ Om te downloaden en *stil* Installeer de nieuwste versie van de Adobe Dynamic Me
    | EMEA Production (Europe, Middle East, and Africa) | https://s7sps3.scene7.com/ |
    | APAC-productie (Azië-Stille Oceaan) | https://s7sps5.scene7.com/ |
 
-## Downloaden en *stil* de nieuwste Adobe Dynamic Media Classic-bureaubladtoepassing installeren op Windows® {#install-silent-windows-dmc-app}
+## Downloaden en *stilzwijgend* de nieuwste Adobe Dynamic Media Classic-bureaubladtoepassing installeren op Windows® {#install-silent-windows-dmc-app}
 
 Het bevel dat u gebruikt is voor een basisMSI stille installatie. Het installatieprogramma van de Adobe Dynamic Media Classic-bureaubladtoepassing is echter een installatieprogramma van InstallScript MSI dat is gemaakt met InstallShield. Wanneer u het installatieprogramma uitvoert in de recordmodus, wordt gebruikersinteractie opgenomen in een reactiebestand. Dit reactiebestand wordt vervolgens gebruikt voor een installatie op de achtergrond, zoals beschreven in [Installatie in stille modus uitvoeren](https://docs.revenera.com/installshield25helplib/installshield25helplib.htm#helplibrary/SilentInstall.htm).
 
@@ -193,9 +193,9 @@ Zie ook:
 
 * [Download en installeer de nieuwste Adobe Dynamic Media Classic-bureaubladtoepassing op Mac of Windows](#installation-dmc-app)
 
-* [Download en stil de nieuwste Adobe Dynamic Media Classic desktop app op macOS](#install-silent-mac-dmc-app)
+* [Download en installeer zonder toezicht de nieuwste Adobe Dynamic Media Classic desktop app op macOS](#install-silent-mac-dmc-app)
 
-Om te downloaden en *stil* Installeer de nieuwste versie van de Adobe Dynamic Media Classic-bureaubladtoepassing op Windows®:
+Om te downloaden en *stilzwijgend* installeer de nieuwste versie van de Adobe Dynamic Media Classic-bureaubladtoepassing op Windows®:
 
 1. Verwijder eventuele oudere versies van Adobe Dynamic Media Classic-bureaubladtoepassingen op uw systeem.
 
@@ -254,11 +254,11 @@ U kunt de cache van afbeeldingen en elementen niet alleen wissen met de bureaubl
 
 ## Bekende beperkingen in Adobe Dynamic Media Classic 20.21.1
 
-* De **[!UICONTROL Server]** De vervolgkeuzelijst is leeg na het bijwerken naar Adobe Dynamic Media Classic-bureaubladtoepassing 20.21.1 - Scenario: u installeert en meldt zich aan bij Adobe Dynamic Media Classic 20.20.1 of 20.20.2 en sluit vervolgens de toepassing. Vervolgens gaat u naar Adobe Dynamic Media Classic 20.21.1. Wanneer u zich probeert aan te melden, **[!UICONTROL Server]** vervolgkeuzelijst in de **[!UICONTROL Sign in to your account]** is leeg. Als u dit probleem wilt oplossen, moet u [de cache handmatig wissen](#clear-cache) (zie bovenstaande stappen).
+* De **[!UICONTROL Server]** De vervolgkeuzelijst is leeg na het bijwerken naar Adobe Dynamic Media Classic-bureaubladtoepassing 20.21.1 - Scenario: u installeert en meldt zich aan bij Adobe Dynamic Media Classic 20.20.1 of 20.20.2 en sluit vervolgens de toepassing. Vervolgens gaat u naar Adobe Dynamic Media Classic 20.21.1. Wanneer u zich probeert aan te melden, **[!UICONTROL Server]** vervolgkeuzelijst in de **[!UICONTROL Sign-in to your account]** is leeg. Als u dit probleem wilt oplossen, moet u [de cache handmatig wissen](#clear-cache) (zie bovenstaande stappen).
 
 ## Bekende beperkingen in Adobe Dynamic Media Classic 20.20.1 (vastgesteld in 20.20.2)
 
-**_Alleen van toepassing op Windows® - Is er een beperking op het aantal bestanden dat kan worden geüpload via de interface van de bureaubladtoepassing?_**<br>Ja, er kunnen maximaal 150 bestanden tegelijk worden geüpload via de interface van de bureaubladtoepassing.
+**_Alleen van toepassing op Windows® - Is er een beperking op het aantal bestanden dat kan worden geüpload via de interface van de bureaubladtoepassing?_**<br>Ja, er kunnen maximaal 150 bestanden tegelijk worden geüpload met de interface van de bureaubladtoepassing.
 
 **_Is van toepassing op Windows® en macOS - Hoe schakel ik tussen bedrijven?_**<br>Ga als volgt te werk om tussen bedrijven te schakelen:
 
@@ -271,7 +271,7 @@ U kunt de cache van afbeeldingen en elementen niet alleen wissen met de bureaubl
 
 ## Tips en trucs
 
-**_Ik kan het deelvenster Media Cart niet zien op de landingspagina van Adobe Dynamic Media Classic._**<br>Tik in Adobe Dynamic Media Classic op **[!UICONTROL Setup > Personal Setup]**. Controleer of in de sectie Browser **[!UICONTROL Show MediaPortal Features]**is geselecteerd (ingeschakeld). Tikken **[!UICONTROL Save > Close]**.
+**_Ik zie het deelvenster Media Cart niet op de landingspagina van Adobe Dynamic Media Classic._**<br>Tik in Adobe Dynamic Media Classic op **[!UICONTROL Setup > Personal Setup]**. Controleer of in de sectie Browser **[!UICONTROL Show MediaPortal Features]**is geselecteerd (ingeschakeld). Tikken **[!UICONTROL Save > Close]**.
 
 **_De publicatiestatus (groene indicator) van een element wordt niet correct weergegeven._**<br>In de gebruikersinterface van de browser was opnieuw aanmelden bij de gebruikersinterface vereist om de juiste publicatiestatus van elementen te zien. In de bureaubladtoepassing heeft Adobe een **[!UICONTROL Refresh]**op de werkbalk, rechts van **[!UICONTROL Select None]**knop. Tik op de knop **[!UICONTROL Refresh]**om de laatste status van alle elementen op de opgegeven pagina te zien. Geen heraanmelding vereist zoals met de gebruikersinterface van de browser.
 

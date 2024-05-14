@@ -10,16 +10,16 @@ role: Data Engineer,Admin,User
 exl-id: d9fda3b8-7da8-4a30-a5f8-9bb34ec1b43d
 topic: Integrations, Development
 level: Experienced
-source-git-commit: f054057d383b26e9088582f418f62504c3f327d8
+source-git-commit: de6997fda88c4471625242ee9cca59b344cee945
 workflow-type: tm+mt
-source-wordcount: '1216'
+source-wordcount: '1217'
 ht-degree: 0%
 
 ---
 
 # Adobe Analytics-rapporten configureren{#configuring-adobe-analytics-reports}
 
-Ga naar het scherm Adobe Analytics Configuration om Adobe Analytics te vertellen welke informatie u wilt opnemen in Adobe Analytics-rapporten. Nadat u rapporten hebt geconfigureerd, wordt in dit scherm voor elke viewergebeurtenis waarover u informatie wilt, een corresponderende Adobe Analytics-variabele en een Adobe Dynamic Media Classic-variabele weergegeven. Deze variabele-variabele-Adobe Dynamic Media Classic van viewergebeurtenissen-Adobe Analytics bepalen welke informatie wordt gerapporteerd.
+Ga naar het scherm Adobe Analytics Configuration om Adobe Analytics te vertellen welke informatie u wilt opnemen in Adobe Analytics-rapporten. Na uw configuratierapporten, maakt dit scherm een lijst, voor elke kijkergebeurtenis u informatie over, een overeenkomstige variabele van Adobe Analytics en een variabele van Adobe Dynamic Media Classic wilt. Deze variabele-variabele-Adobe Dynamic Media Classic van viewergebeurtenissen-Adobe Analytics bepalen welke informatie wordt gerapporteerd.
 
 Naast het koppelen van viewergebeurtenissen aan variabelen, biedt het scherm Adobe Analytics Configuration hulpprogramma&#39;s voor het activeren, bewerken en verwijderen van viewergebeurtenissen.
 
@@ -37,8 +37,8 @@ Gebruik het Adobe Analytics-configuratiescherm om viewergebeurtenissen te koppel
 
 **Adobe Analytics-variabelen toewijzen aan Adobe Dynamic Media Classic-viewergebeurtenissen en -variabelen:**
 
-1. Nadat u zich bij Adobe Analytics van binnen Adobe Dynamic Media Classic hebt aangemeld en een rapportreeks, op de pagina van de Configuratie van Adobe Analytics, in de juiste lijstkolom selecteert, activeer een kijkersgebeurtenis door te selecteren **[!UICONTROL Enable]**.
-1. Geef onder de kolom Variabelen de optie voor het variabele paar weer door de pijlknop voor de gewenste Viewer-gebeurtenis te selecteren.
+1. Nadat u zich bij Adobe Analytics van binnen Dynamic Media Classic hebt aangemeld en een rapportreeks, op de pagina van de Configuratie van Adobe Analytics, in de juiste lijstkolom selecteert, activeer een kijkersgebeurtenis door te selecteren **[!UICONTROL Enable]**.
+1. Geef onder de kolom Variabelen de optie voor het variabele paar weer door de pijlknop voor de gewenste viewergebeurtenis te selecteren.
 
    Zie [Viewer-gebeurtenissen](configuring-analytics-reports.md#viewer_events).
 
@@ -59,23 +59,23 @@ Gebruik het Adobe Analytics-configuratiescherm om viewergebeurtenissen te koppel
 
 ### Viewer-gebeurtenissen {#viewer-events}
 
-Viewergebeurtenissen beschrijven acties die gebruikers met Adobe Dynamic Media Classic-viewers uitvoeren. Wanneer een gebruiker een bepaalde actie start, zoals het selecteren van een miniatuur of het starten of stoppen van een video, &quot;zendt de viewer&quot; een gebeurtenis naar de webpagina, samen met de gegevens die aan die gebeurtenis zijn gekoppeld.
+Viewergebeurtenissen beschrijven acties die gebruikers met Dynamic Media Classic-viewers uitvoeren. Wanneer een gebruiker een actie start, zoals het selecteren van een miniatuur of het starten of stoppen van een video, &quot;zendt de viewer&quot; een gebeurtenis naar de webpagina. Gegevens die aan die gebeurtenis zijn gekoppeld, worden ook geduwd.
 
 In de volgende tabel worden de viewergebeurtenissen beschreven die u kunt toevoegen aan het Adobe Analytics-configuratiescherm.
 
 | Viewer-gebeurtenis | HTML5-viewerplatformondersteuning en -viewers | Beschrijving |
 | --- | --- | --- |
 | LADEN | **X** (eCatalog, Flyout, SpinSet, Video, Zoom) | Wanneer een gebruiker een viewer start |
-| PAGINA | **X**  (eCatalog) | In eCatalogs, wanneer een gebruiker een pagina draait; in gerichte gezoemkijkers, wanneer een gebruiker een verschillend doel of een kleurenmonster selecteert. |
-| WISSELEN | **X**  (eCatalog, Flyout, SpinSet, Video, Zoom) | Wanneer een gebruiker een andere miniatuur selecteert om een andere afbeelding weer te geven. |
-| ITEM | **X**  (eCatalog) | In viewers die afbeeldingen met hyperlinks ondersteunen waarin rollovers zijn gedefinieerd, beweegt de gebruiker de aanwijzer over een afbeelding met hyperlinks om de rollovertekst te lezen. |
-| HREF | **X**  (eCatalog) | Wanneer een gebruiker een URL selecteert in een Afbeeldingskaart in viewers die afbeeldingen met hyperlinks ondersteunen. |
+| PAGINA | **X** (eCatalog) | In eCatalogs, wanneer een gebruiker een pagina draait; in gerichte gezoemkijkers, wanneer een gebruiker een verschillend doel of een kleurenmonster selecteert. |
+| WISSELEN | **X** (eCatalog, Flyout, SpinSet, Video, Zoom) | Wanneer een gebruiker een andere miniatuur selecteert om een andere afbeelding weer te geven. |
+| ITEM | **X** (eCatalog) | In viewers die afbeeldingen met hyperlinks ondersteunen waarin rollovers zijn gedefinieerd, beweegt de gebruiker de aanwijzer over een afbeelding met hyperlinks om de rollovertekst te lezen. |
+| HREF | **X** (eCatalog) | Wanneer een gebruiker een URL selecteert in een Afbeeldingskaart in viewers die afbeeldingen met hyperlinks ondersteunen. |
 | DOEL | | Wanneer een gebruiker in beoogde zoomviewers een zoomdoel selecteert om naar een gedeelte van een afbeelding te zoomen. |
 | ZOEKEN | | In eCatalogs, wanneer een gebruiker een woordonderzoek voert. |
-| AFSPELEN | **X**  (Video) | Wanneer een gebruiker in videoviewers Afspelen selecteert om een video af te spelen.<br><br>**Opmerking:** Als u op Adobe Analytics gebaseerde videoverslagen gebruikt, hoeft u geen variabelen aan deze viewergebeurtenis toe te wijzen wanneer u Adobe Analytics in Adobe Dynamic Media Classic configureert. De videorecart werkt met Adobe Dynamic Media Classic HTML5 Video- en MixedMedia-viewers buiten de box. De videospeler genereert trackinggegevens voor weergave in Adobe Analytics Video Reports. Zie [Adobe Analytics-videorapporten inschakelen](enabling-analytics-video-reports.md). |
+| AFSPELEN | **X** (Video) | Wanneer een gebruiker in videoviewers Afspelen selecteert om een video af te spelen.<br><br>**Opmerking:** Als u op Adobe Analytics gebaseerde videoverslagen gebruikt, hoeft u geen variabelen aan deze viewergebeurtenis toe te wijzen wanneer u Adobe Analytics in Adobe Dynamic Media Classic configureert. De videorecart werkt met Adobe Dynamic Media Classic HTML5 Video- en MixedMedia-viewers buiten de box. De videospeler genereert trackinggegevens voor weergave in Adobe Analytics Video Reports. Zie [Adobe Analytics-videorapporten inschakelen](enabling-analytics-video-reports.md). |
 | PAUZE | **X** (Video) | Wanneer een gebruiker in videoviewers **[!UICONTROL Pause]** een video bevriezen.<br><br>**Opmerking:** Als u op Adobe Analytics gebaseerde videoverslagen gebruikt, hoeft u geen variabelen aan deze viewergebeurtenis toe te wijzen wanneer u Adobe Analytics in Adobe Dynamic Media Classic configureert. De videorecart werkt met Adobe Dynamic Media Classic HTML5 Video- en MixedMedia-viewers buiten de box. De videospeler genereert trackinggegevens voor weergave in Adobe Analytics Video Reports. Zie [Adobe Analytics-videorapporten inschakelen](enabling-analytics-video-reports.md). |
 | STOPPEN | **X** (Video) | Wanneer een gebruiker in videoviewers **[!UICONTROL Stop]** om het afspelen van een video te stoppen.<br><br>**Opmerking:** Als u op Adobe Analytics gebaseerde videoverslagen gebruikt, hoeft u geen variabelen aan deze viewergebeurtenis toe te wijzen wanneer u Adobe Analytics in Adobe Dynamic Media Classic configureert. De videorecart werkt met Adobe Dynamic Media Classic HTML5 Video- en MixedMedia-viewers buiten de box. De videospeler genereert trackinggegevens voor weergave in Adobe Analytics Video Reports. Zie [Adobe Analytics-videorapporten inschakelen](enabling-analytics-video-reports.md). |
-| MILESTONE | **X**  (Video) | In videoviewers worden mijlpaalgebeurtenissen gegenereerd wanneer de gebruiker 0, 25, 50, 75 of 100 procent van de video afspeelt.<br><br>**Opmerking:** Als u op Adobe Analytics gebaseerde videoverslagen gebruikt, hoeft u geen variabelen aan deze viewergebeurtenis toe te wijzen wanneer u Adobe Analytics in Adobe Dynamic Media Classic configureert. De videorecart werkt met Adobe Dynamic Media Classic HTML5 Video- en MixedMedia-viewers buiten de box. De videospeler genereert trackinggegevens voor weergave in Adobe Analytics Video Reports. Zie [Adobe Analytics-videorapporten inschakelen](enabling-analytics-video-reports.md). |
+| MILESTONE | **X** (Video) | In videoviewers worden mijlpaalgebeurtenissen gegenereerd wanneer de gebruiker 0, 25, 50, 75 of 100 procent van de video afspeelt.<br><br>**Opmerking:** Als u op Adobe Analytics gebaseerde videoverslagen gebruikt, hoeft u geen variabelen aan deze viewergebeurtenis toe te wijzen wanneer u Adobe Analytics in Adobe Dynamic Media Classic configureert. De videorecart werkt met Adobe Dynamic Media Classic HTML5 Video- en MixedMedia-viewers buiten de box. De videospeler genereert trackinggegevens voor weergave in Adobe Analytics Video Reports. Zie [Adobe Analytics-videorapporten inschakelen](enabling-analytics-video-reports.md). |
 | STAAL | **X** (Flyout, Zoom) | Deze viewergebeurtenis wordt toegewezen aan de PAGE-viewergebeurtenis in Adobe Dynamic Media Classic. |
 | ZOOMEN | **X** (eCatalog, SpinSet, Zoom) | Niet bijgehouden door Adobe Analytics. |
 | PAN | **X** (eCatalog, SpinSet, Zoom) | Niet bijgehouden door Adobe Analytics. |
@@ -107,6 +107,6 @@ In het configuratiescherm van Adobe Analytics kunt u viewergebeurtenissen active
 
 * **Activeren** - Selecteer **[!UICONTROL Enable]** om te activeren of **[!UICONTROL Disable]** om een geselecteerde viewergebeurtenis te deactiveren.
 
-* **Bewerken** - Selecteer een viewergebeurtenis en selecteer **[!UICONTROL View/Edit]** De grijze knop Variabelen. Kies in de vervolgkeuzelijst Adobe Dynamic Media Classic-variabele en Adobe Analytics-variabele een andere variabele in elke respectievelijke lijst. Zie voor meer informatie [Adobe Analytics-variabelen toewijzen aan Adobe Dynamic Media Classic-viewergebeurtenissen en -variabelen](#assigning-adobe-analytics-variables-to-scene-viewer-events-and-variables).
+* **Bewerken** - Selecteer een viewergebeurtenis en selecteer de optie **[!UICONTROL View/Edit]** De grijze knop Variabelen. Kies in de vervolgkeuzelijsten met de variabelen Adobe Dynamic Media Classic en Adobe Analytics een andere variabele uit elke respectievelijke lijst. Zie voor meer informatie [Adobe Analytics-variabelen toewijzen aan Adobe Dynamic Media Classic-viewergebeurtenissen en -variabelen](#assigning-adobe-analytics-variables-to-scene-viewer-events-and-variables).
 
-* **Verwijderen** - Selecteer een viewergebeurtenis en selecteer **[!UICONTROL View/Edit]** De grijze knop Variabelen. Selecteren **[!UICONTROL Delete]**.
+* **Verwijderen** - Selecteer een viewergebeurtenis en selecteer de optie **[!UICONTROL View/Edit]** De grijze knop Variabelen. Selecteren **[!UICONTROL Delete]**.

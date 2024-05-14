@@ -10,16 +10,16 @@ role: User
 exl-id: 618ae6a4-6f60-4a80-b197-a9d35b3c47af
 topic: Content Management
 level: Intermediate
-source-git-commit: 5b5dcd1199bd51ec987b5673fce75bc86baad55b
+source-git-commit: de6997fda88c4471625242ee9cca59b344cee945
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '607'
 ht-degree: 0%
 
 ---
 
 # Werken in de gedetailleerde weergave{#working-in-detail-view}
 
-U kunt met een middel werken en over een middel leren door het in de Mening van het Detail te openen. In de Gedetailleerde weergave ziet u de grootte van de elementen, kenmerken, derivaten en metagegevens. U ziet ook of en wanneer het element is gepubliceerd en u kunt de URL van gepubliceerde elementen verkrijgen. Afhankelijk van het type element kunt u een voorvertoning weergeven van verschillende grootten, erop inzoomen en bewerkingen voor verscherpen, uitsnijden en andere opmaak uitvoeren.
+U kunt met een middel werken en over een middel leren door het in de Mening van het Detail te openen. In de Gedetailleerde weergave ziet u de grootte van de elementen, kenmerken, derivaten en metagegevens. U kunt ook zien of en wanneer het element is gepubliceerd en u kunt de URL van gepubliceerde elementen verkrijgen. Afhankelijk van het type element kunt u een voorvertoning weergeven van verschillende grootten, erop inzoomen en bewerkingen voor verscherpen, uitsnijden en andere opmaak uitvoeren.
 
 <!-- 
 
@@ -40,7 +40,7 @@ Last Modified Date: 2018-06-14T13:52:46.623-0400
 
 ## Middelen openen in de gedetailleerde weergave {#open-an-asset-in-detail-view}
 
-Als u elementen nauwkeurig wilt bekijken, voorvertonen of bewerken, kunt u deze weergeven in de gedetailleerde weergave.
+U kunt een element weergeven in de gedetailleerde weergave, zodat u het element nauwkeurig kunt bekijken, voorvertonen of er aan kunt werken.
 
 1. Voer in het deelvenster Bladeren een van de volgende handelingen uit:
 
@@ -50,7 +50,7 @@ Als u elementen nauwkeurig wilt bekijken, voorvertonen of bewerken, kunt u deze 
 
 >[!NOTE]
 >
->U kunt van middel aan middel in de zelfde omslag in de Gedetailleerde Mening pagineren door te selecteren **[!UICONTROL Previous Asset]** of **[!UICONTROL Next Asset]**. Deze knoppen bevinden zich in de rechterbovenhoek in de gedetailleerde weergave.
+>In de gedetailleerde weergave kunt u van middel naar middel in dezelfde map pagineren. Alleen klikken **[!UICONTROL Previous Asset]** of **[!UICONTROL Next Asset]**. Deze knoppen bevinden zich in de rechterbovenhoek in de gedetailleerde weergave.
 
 ## Gegevens ophalen in de gedetailleerde weergave {#getting-information-in-detail-view}
 
@@ -62,15 +62,15 @@ U kunt een middel-URL in de Gedetailleerde Mening verkrijgen; nochtans, is URL n
 
 In de gedetailleerde weergave vindt u gereedschappen voor het werken met het element dat u hebt geopend. Welke hulpmiddelen beschikbaar zijn hangt van het type van activa af u met werkt, maar de Mening van het Detail biedt altijd deze functies aan:
 
-* **te publiceren items** - Selecteer de **[!UICONTROL `Publish`]** links van de naam, of ga naar **[!UICONTROL File]** > **[!UICONTROL Publish]** of **[!UICONTROL File]** > **[!UICONTROL Unpublish]**.
+* **te publiceren items**: Selecteer de **[!UICONTROL `Publish`]** links van de naam, of ga naar **[!UICONTROL File]** > **[!UICONTROL Publish]** of **[!UICONTROL File]** > **[!UICONTROL Unpublish]**.
 
-* **De naam van het element wijzigen** - Selecteer de naam en voer een nieuwe naam in.
+* **De naam van het element wijzigen**: Selecteer de naam en voer een nieuwe naam in.
 
-* **Metagegevens bewerken en toevoegen** - Selecteer het deelvenster Metagegevens en wijzig de gewenste instellingen. Zie [Metagegevens weergeven, toevoegen en exporteren](/help/using/viewing-adding-exporting-metadata.md).
+* **Metagegevens bewerken en toevoegen**: Selecteer het deelvenster Metagegevens en wijzig deze naar wens. Zie [Metagegevens weergeven, toevoegen en exporteren](/help/using/viewing-adding-exporting-metadata.md).
 
-* **Trefwoorden bewerken en toevoegen** - Selecteer Trefwoorden en voeg deze toe of verwijder ze naar wens. Zie [Trefwoorden toevoegen of bewerken](/help/using/viewing-adding-exporting-metadata.md).
+* **Trefwoorden bewerken en toevoegen**: Selecteer Trefwoorden en voeg deze toe of verwijder ze naar wens. Zie [Trefwoorden toevoegen of bewerken](/help/using/viewing-adding-exporting-metadata.md).
 
-* **Het element verwijderen** - Ga naar **[!UICONTROL File]** > **[!UICONTROL Delete]**.
+* **Het element verwijderen**: Ga naar **[!UICONTROL File]** > **[!UICONTROL Delete]**.
 
 Voor afzonderlijke bestanden, zoals afbeeldingen, afbeeldingssets en lettertypen, kunt u de publicatie- en bewerkingshistorie weergeven en taakdetails controleren in de gedetailleerde weergave.
 
@@ -93,7 +93,7 @@ In deze tabel wordt aangegeven welke andere opties beschikbaar zijn voor verschi
 | SVG-bestanden | Nee | Nee |
 | Sjablonen | Bewerken | Ja |
 | Video&#39;s | Nee | Ja |
-| Vignetten en gerenderde vignetten | Nee | Afbeelding wordt weergegeven<br>U kunt de inhoud en structuur van de renderbare elementen van het vignet in XML-indeling bekijken |
+| Vignetten en gerenderde vignetten | Nee | De afbeelding wordt weergegeven<br>U kunt de inhoud en structuur van de renderbare elementen van het vignet in XML-indeling bekijken |
 | XML-bestanden | Nee | Inhoud wordt weergegeven |
 | ZIP-bestanden | Nee | Inhoud wordt niet weergegeven |
 

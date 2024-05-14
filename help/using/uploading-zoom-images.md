@@ -10,9 +10,9 @@ role: User
 exl-id: 44a82437-7592-484f-b45f-17ed1f6efbec
 topic: Content Management
 level: Intermediate
-source-git-commit: b2a6aeb1aab420803a8b7dafb0fdeda495e2a69b
+source-git-commit: de6997fda88c4471625242ee9cca59b344cee945
 workflow-type: tm+mt
-source-wordcount: '221'
+source-wordcount: '223'
 ht-degree: 0%
 
 ---
@@ -27,13 +27,13 @@ Zie voor gedetailleerde instructies over het uploaden van afbeeldingen [Bestande
 
 **Uw afbeeldingen voorbereiden voor zoomen:**
 
-Als u de functies van Adobe Dynamic Media Classic Zoom optimaal wilt benutten, bereidt u uw zoombestanden voor voordat u ze uploadt:
+Als u optimaal wilt profiteren van de functies van Adobe Dynamic Media Classic Zoom, bereidt u uw zoomafbeeldingsbestanden voor voordat u ze uploadt:
 
-* **Afbeeldingsgrootte** - Adobe Dynamic Media Classic raadt aan afbeeldingsbestanden te gebruiken die minimaal 2000 pixels groot zijn. Op deze manier kunnen afbeeldingen duidelijk zichtbaar zijn wanneer gebruikers erop inzoomen.
+* **Afbeeldingsgrootte**: Adobe Dynamic Media Classic raadt aan afbeeldingsbestanden te gebruiken die minimaal 2000 pixels groot zijn. Op deze manier kunnen afbeeldingen duidelijk zichtbaar zijn wanneer gebruikers erop inzoomen.
 
-* **Bestandsindelingen** - Adobe Dynamic Media Classic ondersteunt alle standaardbestandsindelingen voor afbeeldingen, zoals TIFF, BMP, JPEG, PSD, GIF en EPS. Afbeeldingsindelingen zonder verlies (TIFF en PNG) worden aanbevolen. Als u een JPEG-afbeelding gebruikt, gebruikt u de instellingen voor de hoogste kwaliteit.
+* **Bestandsindelingen**: Adobe Dynamic Media Classic ondersteunt alle standaardindelingen voor afbeeldingsbestanden. Indelingen zijn TIFF, BMP, JPEG, PSD, GIF en EPS. Afbeeldingsindelingen zonder verlies (TIFF en PNG) worden aanbevolen. Als u een JPEG-afbeelding gebruikt, gebruikt u de instellingen voor de hoogste kwaliteit.
 
-* **Kleurruimte** - RGB is de kleurruimte voor webafbeeldingspresentaties; CMYK-afbeeldingen worden automatisch omgezet in RGB wanneer u ze uploadt. Het wordt aanbevolen CMYK-afbeeldingen te uploaden die een ingesloten ICC-kleurprofiel hebben voor de conversie naar RGB. Zie ook ICC-profielen.
+* **Kleurruimte**: RGB is de kleurruimte voor webafbeeldingspresentaties; CMYK-afbeeldingen worden automatisch omgezet in RGB wanneer u ze uploadt. Het wordt aanbevolen CMYK-afbeeldingen te uploaden die een ingesloten ICC-kleurprofiel hebben voor de conversie naar RGB. Zie ook ICC-profielen.
 
 >[!MORELIKETHIS]
 >

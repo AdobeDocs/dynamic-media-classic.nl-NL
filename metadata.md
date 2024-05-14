@@ -5,9 +5,9 @@ type: Documentation
 feature-set: Experience Manager Assets
 git-repo: https://github.com/AdobeDocs/dynamic-media-classic.nl-NL
 recommendations: noDisplay
-source-git-commit: 4e5487742ac1dcbf7db5ba3568fdf7784664e25b
+source-git-commit: de6997fda88c4471625242ee9cca59b344cee945
 workflow-type: tm+mt
-source-wordcount: '106'
+source-wordcount: '109'
 ht-degree: 0%
 
 ---
@@ -21,8 +21,8 @@ Het bestand metadata.md bevat metagegevens op repo-niveau die worden doorgegeven
 |--- |--- |
 | titel oplossing | Gebruikt in artikelkoptekst als koppeling |
 | oplossing-hub-url | Opent hubpagina |
-| oplossingspictogram | Hiermee wordt het oplossingspictogram weergegeven naast de titel van de oplossing. Nog niet geïmplementeerd |
+| oplossingspictogram | Toont een oplossingspictogram naast de oplossingstitel. Nog niet geïmplementeerd |
 | aan de slag-url | Koppeling naar Aan de slag-pagina |
 | zelfstudies-url | Zelfstudies voor het koppelen naar videozelfstudies (zelfstudies of KT-zelfstudies) |
-| minitoc-niveaus | Hiermee bepaalt u het aantal kopniveaus dat wordt weergegeven in de rechterrails. default is 2 |
+| minitoc-niveaus | Hiermee bepaalt u het aantal kopniveaus dat in de rechterspoorlijn wordt weergegeven. default is 2 |
 | git-repo | Hiermee wordt de locatie van het primaire repo voor intern gebruik opgegeven |

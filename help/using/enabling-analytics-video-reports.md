@@ -10,16 +10,16 @@ role: Data Engineer,Admin,User
 exl-id: 9d017742-1ed2-411d-a8a6-438102bf1557
 topic: Development, Integrations
 level: Experienced
-source-git-commit: f054057d383b26e9088582f418f62504c3f327d8
+source-git-commit: de6997fda88c4471625242ee9cca59b344cee945
 workflow-type: tm+mt
-source-wordcount: '223'
+source-wordcount: '221'
 ht-degree: 0%
 
 ---
 
 # Adobe Analytics-videorapporten inschakelen{#enabling-adobe-analytics-video-reports}
 
-Als u Adobe Analytics-videoverslagen op basis van hartslag gebruikt, hoeft u de vier videoviewergebeurtenissen (Play, Pause, Stop, Milestone) niet meer in te schakelen wanneer u Adobe Analytics in Adobe Dynamic Media Classic configureert. De videokaart werkt met Adobe Dynamic Media Classic HTML 25 Video en Gemengde Media-viewers buiten de box. De videospeler genereert trackinggegevens voor weergave in Adobe Analytics Video Reports.
+Als u Adobe Analytics-videoverslagen op basis van hartslag gebruikt, hoeft u de vier videoviewergebeurtenissen (Play, Pause, Stop, Milestone) niet meer in te schakelen wanneer u Adobe Analytics in Adobe Dynamic Media Classic configureert. De videokaart werkt met Adobe Dynamic Media Classic HTML 25 Video en Gemengde Media-viewers buiten de box. De videospeler genereert trackinggegevens voor weergave in Adobe Analytics-videorapporten.
 
 * Voor een inleiding op streamingmedia en &#39;hartslagmeting&#39; raadpleegt u [Informatie over Adobe Analytics para medios de streaming](https://experienceleague.adobe.com/en/docs/media-analytics/using/media-overview).
 
@@ -35,4 +35,4 @@ Als u Adobe Analytics-videoverslagen op basis van hartslag gebruikt, hoeft u de 
 
 >[!NOTE]
 >
->Als uw gelicentieerde oplossing van Adobe Analytics Video Heartbeat niet omvat, moet u de stappen blijven gebruiken die in dit hoofdstuk worden beschreven om de variabelen van Adobe Analytics aan de gebeurtenissen en de variabelen van de Adobe Dynamic Media Classic viewer toe te wijzen.
+>Als uw gelicentieerde oplossing van Adobe Analytics Video Heartbeat niet omvat, blijf het gebruiken van de stappen die in dit hoofdstuk worden beschreven om de variabelen van Adobe Analytics aan de gebeurtenissen en de variabelen van de viewer van Adobe Dynamic Media Classic toe te wijzen.

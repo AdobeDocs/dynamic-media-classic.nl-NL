@@ -10,16 +10,16 @@ role: Data Engineer,Admin,User
 exl-id: 261b8f7c-c61c-4ce3-b9dc-8549347aca2e
 topic: Integrations, Development
 level: Experienced
-source-git-commit: b2a6aeb1aab420803a8b7dafb0fdeda495e2a69b
+source-git-commit: de6997fda88c4471625242ee9cca59b344cee945
 workflow-type: tm+mt
-source-wordcount: '756'
+source-wordcount: '760'
 ht-degree: 0%
 
 ---
 
 # Aanmelden bij Adobe Analytics{#log-in-to-adobe-analytics}
 
-Alvorens u login om de rapporten van Adobe Analytics te vormen en de rapportvariabelen van Adobe Analytics aan de gebeurtenissen van Adobe Dynamic Media Classic aan te passen, verifieer dat u een lid van de groep van de Toegang van de Dienst van het Web in Adobe Analytics bent. De leden in deze groep kunnen tot alle rapporten in de gespecificeerde rapportreeksen door middel van de Diensten API van het Web van het Experience Cloud ongeacht de toestemmingen toegang hebben die in de interface worden geplaatst. Ga in Adobe Analytics naar **[!UICONTROL Admin Tools]** > **[!UICONTROL User Management]** > **[!UICONTROL Edit Groups]**.
+Verifieer dat u een lid van de groep van de Toegang van de Dienst van het Web in Adobe Analytics bent. Doe dit voordat u zich aanmeldt om Adobe Analytics-rapporten te configureren en Adobe Analytics-rapportvariabelen aan te passen aan Adobe Dynamic Media Classic-gebeurtenissen. Leden in deze groep hebben toegang tot alle rapporten in de opgegeven rapportsets. Doe dit gebruikend de Diensten API van het Web van het Experience Cloud, ongeacht de toestemmingen die in de interface worden geplaatst. Ga in Adobe Analytics naar **[!UICONTROL Admin Tools]** > **[!UICONTROL User Management]** > **[!UICONTROL Edit Groups]**.
 
 Wanneer u zich aanmeldt, kunt u de Experience Cloud-Org-id invoeren om de meest recente videoanalytische implementatie te gebruiken. Als u ervoor kiest om uw id niet in te voeren, werkt het rapporteren van video nog steeds. De gegevens worden echter mogelijk niet correct geïntegreerd met andere gegevens voor die client van buiten Adobe Dynamic Media Classic.
 
@@ -38,8 +38,8 @@ Begin met het integreren van Dynamic Media Classic met Adobe Analytics OAuth. De
 
 1. Voer een van de volgende handelingen uit:
 
-   * Boven aan de pagina, vanaf de **[!UICONTROL Home]** tab, selecteert u **[!UICONTROL Create new project]**.
-   * Boven aan de pagina, vanaf de **[!UICONTROL Projects]** tab. Selecteer in de rechterhoek van de pagina de optie **[!UICONTROL Create new project]**.
+   * Boven aan de pagina, vanaf de **[!UICONTROL Home]** tab, selecteert u **[!UICONTROL Create a new project]**.
+   * Boven aan de pagina, vanaf de **[!UICONTROL Projects]** tab. Selecteer in de rechterhoek van de pagina de optie **[!UICONTROL Create a new project]**.
 
 1. Selecteer op de projectpagina de optie **[!UICONTROL Add API]**.
 1. Op de **[!UICONTROL Add an API]** pagina, selecteert u **[!UICONTROL Adobe Analytics]**.
@@ -62,7 +62,7 @@ Begin met het integreren van Dynamic Media Classic met Adobe Analytics OAuth. De
 1. In het navigatievenster, links op de Adobe Analytics-pagina, onder **[!UICONTROL Credentials]**, selecteert u **[!UICONTROL OAuth Web]**.
 1. Onder **[!UICONTROL Credential details]** Ga als volgt te werk:
    * Onder **[!UICONTROL Client ID]**, selecteert u **[!UICONTROL Copy]** de waarde kopiëren. U hebt deze waarde nodig voor de daaropvolgende configuratie Analytics in de Dynamic Media Classic-bureaubladtoepassing die moet worden uitgevoerd.
-   * Onder **[!UICONTROL Client Secret]**, selecteert u **[!UICONTROL Retrieve client secret]** om de bijbehorende waarde weer te geven. Selecteren **[!UICONTROL Copy]** de waarde kopiëren. U hebt deze waarde nodig voor de volgende Adobe Analytics-configuratie in Dynamic Media Classic-bureaubladtoepassing die moet worden uitgevoerd.
+   * Onder **[!UICONTROL Client Secret]**, selecteert u **[!UICONTROL Retrieve client secret]** om de bijbehorende waarde weer te geven. Selecteren **[!UICONTROL Copy]** de waarde kopiëren. U hebt deze waarde nodig voor de volgende Adobe Analytics-configuratie in de Dynamic Media Classic-bureaubladtoepassing die moet worden uitgevoerd.
 
 ## Adobe Analytics configureren in Adobe Dynamic Media Classic {#configure-analytics-in-dmc}
 

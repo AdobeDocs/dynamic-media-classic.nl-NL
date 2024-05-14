@@ -10,9 +10,9 @@ role: User
 exl-id: 280e7201-84d6-46b1-94bb-0499beca2992
 topic: Content Management
 level: Beginner
-source-git-commit: b2a6aeb1aab420803a8b7dafb0fdeda495e2a69b
+source-git-commit: de6997fda88c4471625242ee9cca59b344cee945
 workflow-type: tm+mt
-source-wordcount: '643'
+source-wordcount: '647'
 ht-degree: 0%
 
 ---
@@ -60,7 +60,7 @@ Zie ook [Zoomdoelen en afbeeldingen met hyperlinks opnemen in afbeeldingssets](/
 
 Beheerders kunnen voorinstellingen voor de afbeeldingsset Viewer maken of wijzigen. Adobe Dynamic Media Classic wordt geleverd met standaard Viewer-voorinstellingen voor elk rich-mediatype. Gebruik de zoomviewer: **[!UICONTROL Custom]** > **[!UICONTROL Images]** of **[!UICONTROL Image Sets]**/**[!UICONTROL Multiple Views]** voorinstellingen om uw afbeeldingssets te bekijken.
 
-U voegt Viewer-voorinstellingen toe of bewerkt deze via het scherm Toepassingsinstellingen.
+U kunt Viewer-voorinstellingen toevoegen of bewerken via het scherm Toepassingsinstellingen.
 
 Zie [Viewer-voorinstellingen maken en bewerken](application-setup.md#adding-and-editing-viewer-presets).
 
@@ -86,6 +86,6 @@ Zie [Bestanden publiceren](publishing-files.md#publishing-files).
 
 Adobe Dynamic Media Classic maakt URL-aanroepen voor afbeeldingssets en activeert deze nadat u de bestanden hebt gepubliceerd. U kunt deze URL&#39;s kopiëren vanuit het voorvertoningsscherm.
 
-Selecteer de set afbeeldingen en selecteer vervolgens **[!UICONTROL Preview]**. Selecteer nu een voorinstelling voor de Afbeeldingsset Viewer en selecteer **[!UICONTROL Copy URL]**.
+Selecteer de set afbeeldingen en selecteer vervolgens **[!UICONTROL Preview]**. Selecteer nu een voorinstelling voor de Afbeeldingsset Viewer en klik op de knop **[!UICONTROL Copy URL]** knop.
 
-Zie [Een Afbeeldingsset koppelen aan een webpagina](linking-image-set-web-page.md#linking-an-image-set-to-a-web-page).
+Zie [De afbeelding koppelen die is ingesteld op een webpagina](linking-image-set-web-page.md#linking-an-image-set-to-a-web-page).
