@@ -10,9 +10,9 @@ role: User
 exl-id: a9250841-2dba-4fdc-8a6e-91b2fecef72f
 topic: Content Management
 level: Intermediate
-source-git-commit: b2a6aeb1aab420803a8b7dafb0fdeda495e2a69b
+source-git-commit: 163eb32112ec6fbefd1dacf48212353ff3053d54
 workflow-type: tm+mt
-source-wordcount: '613'
+source-wordcount: '612'
 ht-degree: 0%
 
 ---
@@ -51,17 +51,17 @@ Cost-efficient access to rapidly evolving technology.
 
 In het bovenstaande voorbeeld: `Chapter 1` is de cue-id en is optioneel. De actieduur van `00:00:000 --> 01:04:364` geeft de begin- en eindtijd van het hoofdstuk aan, in 00:00:000-indeling. Deze laatste drie cijfers zijn milliseconden en kunnen desgewenst worden ingesteld op 000. De titel van het hoofdstuk `The bicycle store behind it all` Dit is de feitelijke beschrijving van de inhoud van het hoofdstuk. De actidentificator, de begintijd en de hoofdstuktitel worden allemaal in een pop-up in de videospeler weergegeven wanneer de aanwijzer op een visueel actiepunt in de tijdlijn van de video wordt geplaatst.
 
-Omdat u een HTML5-videoviewer gebruikt, moet u ervoor zorgen dat het hoofdstukbestand dat u maakt, voldoet aan de WebVTT-standaard (Web Video Text Tracks). De bestandsextensie van het hoofdstuk is .VTT. U kunt meer informatie over de WebVTT ondertitelingsnorm leren.
+Omdat u een HTML5-videoviewer gebruikt, moet u ervoor zorgen dat het hoofdstukbestand dat u maakt, voldoet aan de WebVTT-standaard (Web Video Text Tracks). De bestandsextensie van het hoofdstuk is `.VTT`. U kunt meer informatie over de WebVTT ondertitelingsnorm leren.
 
 Zie [WebVTT: De indeling Web Video Text Tracks](https://w3c.github.io/webvtt/).
 
-**Hoofdstukmarkeringen aan video toevoegen:**
+**Hoofdstukmarkeringen aan een video toevoegen:**
 
 1. Maak met een eenvoudige teksteditor buiten Adobe Dynamic Media Classic een hoofdbestand voor de video.
 
    >[!NOTE]
    >
-   >Voor wereldwijde ondersteuning van videohoofdstukken in andere talen dan Engels, vereist de WebVTT-standaard dat u afzonderlijke .vtt-bestanden maakt en dat u elke taal die u wilt ondersteunen, aanroept.
+   >Voor wereldwijde ondersteuning van videohoofdstukken in andere talen dan het Engels vereist de WebVTT-standaard dat u afzonderlijke `.VTT` bestanden en oproepen voor elke taal die u wilt ondersteunen.
 
 1. Sla het VTT-bestand op in UTF8-codering, zodat u problemen kunt voorkomen met de uitvoering van tekens in de tekst van de hoofdstuktitel.
 

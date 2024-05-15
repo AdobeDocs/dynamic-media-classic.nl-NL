@@ -6,9 +6,9 @@ role: Admin,User
 exl-id: 5c2e2937-fe4f-4b64-bee8-9572ca84695b
 topic: Content Management
 level: Intermediate
-source-git-commit: ae7d0c6d3047d68ed3da4187ef516dc51c95de30
+source-git-commit: 163eb32112ec6fbefd1dacf48212353ff3053d54
 workflow-type: tm+mt
-source-wordcount: '1563'
+source-wordcount: '1564'
 ht-degree: 0%
 
 ---
@@ -30,7 +30,13 @@ ht-degree: 0%
 +++**Wat zijn de belangrijkste voordelen van de upgrade naar [!DNL Dynamic Media]?**
 
 * Samenwerking en gedeelde bestandssync met [!DNL Adobe Creative Cloud] toepassingen.
-* Beheer van digitale middelen op bedrijfsniveau met robuuste ondersteuning voor metagegevens, slim zoeken, lichtbak en verzamelingen, versiebeheer en veilig delen van middelen voor gebruik door leveranciers, partners en franchisenemers Workflows voor revisie en goedkeuring van werk in procesmiddelen.
+* Digitaal assetbeheer op bedrijfsniveau met:
+   * robuuste ondersteuning voor metagegevens
+   * slim zoeken
+   * lichtbak en verzamelingen
+   * versiebeheer
+   * veilig activa delen voor gebruik door verkopers, partners, en franchisehouders
+* Workflows controleren en goedkeuren voor werk in proceselementen.
 * Eenvoudig te implementeren en te gebruiken met nieuwe gebruikersinterface.
 * Maak schitterende/interactieve media-ervaringen met afbeeldingen en video die de conversie stimuleren en de betrokkenheid en tevredenheid van gebruikers vergroten.
 * Combineer campagnemiddelen met productinformatie zodat u de klik kunt stroomlijnen om te winkelen.
@@ -57,7 +63,7 @@ Adobe heeft de naam van Adobe Scene7 gewijzigd in [!DNL Dynamic Media Classic].
 ## Upgradeproces en tools
 
 +++**Wie komt in aanmerking voor het upgradeprogramma?**
-Huidig [!DNL Dynamic Media Classic] (voorheen Scene7) klanten die ook [!DNL Experience Manager].
+Klanten die momenteel [!DNL Dynamic Media Classic] (voorheen Scene7) en [!DNL Experience Manager].
 
 +++
 
@@ -67,7 +73,7 @@ Neem contact op met uw accountvertegenwoordiger of [s7support@adobe.com](mailto:
 +++
 
 +++**Hoe wordt het verbeteringsproces behandeld?**
-De verbetering wordt behandeld door AGS (de Globale Diensten van de Adobe) en behandeld als de dienstproject. Adobe biedt alleen migratie van de elementen. De klant, AGS, of de Partner is verantwoordelijk voor alle andere verbeteringsaspecten en stappen. Op een overzichtsniveau, bevat een verbeteringsplan het volgende:
+AGS (de Globale Diensten van de Adobe) behandelt de verbetering en behandelt het als de dienstproject. Adobe biedt alleen migratie van de elementen. De klant, AGS, of de Partner is verantwoordelijk voor alle andere verbeteringsaspecten en stappen. Op een overzichtsniveau, bevat een verbeteringsplan het volgende:
 
 * Voorzieningen van bedrijven/gebruikers.
 * Elementen repliceren van [!DNL Dynamic Media Classic] (voorheen Scene7) aan de [!DNL Dynamic Media] onderdeel van [!DNL Experience Manager] Middelen (verstrekt door Adobe door een geautomatiseerd verbeteringshulpmiddel).
@@ -107,7 +113,7 @@ Nee. De [Gereedheidscontrolelijst](/help/using/upgrade-readiness.md) bevat verpl
 +++
 
 +++**Moet ik upgraden?**
-Nee. Adobe blijft volledig steun verlenen en handhaven [!DNL Dynamic Media Classic] (klant-gevraagde insectenmoeilijke situaties, veiligheidsmoeilijke situaties, platformscalability, en betrouwbaarheid) nu en in de toekomst.
+Nee. Adobe ondersteunt en onderhoudt [!DNL Dynamic Media Classic] (klant-gevraagde insectenmoeilijke situaties, veiligheidsmoeilijke situaties, platformscalability, en betrouwbaarheid) nu en in de toekomst.
 
 U kunt een upgrade uitvoeren wanneer u de nieuwe functies van [!DNL Dynamic Media].
 
@@ -123,7 +129,7 @@ Nadat u hebt bijgewerkt naar [!DNL Dynamic Media], dient u Dynamic Media alleen 
 +++
 
 +++**Welke hulpmiddelen verstrekt de Adobe om het verbeteringsproces te automatiseren?**
-Voor de eerste keer dat het upgradeprogramma wordt gestart, biedt de Adobe hulpprogramma&#39;s om elementen automatisch van [!DNL Dynamic Media Classic] tot [!DNL Dynamic Media] in [!DNL Experience Manager] Elementen.
+Voor de eerste keer dat het upgradeprogramma wordt gestart, biedt Adobe gereedschappen waarmee elementen automatisch van [!DNL Dynamic Media Classic] tot [!DNL Dynamic Media] in [!DNL Experience Manager] Elementen.
 
 +++
 
@@ -143,7 +149,7 @@ Nee. Adobe blijft de [!DNL Dynamic Media Classic] de publicatie- en leveringsinf
 +++
 
 +++**Moet ik wijzigingen aanbrengen of mijn aangepaste viewers opnieuw ontwikkelen?**
-Nee. Adobe blijft de [!DNL Dynamic Media Classic] de publicatie- en leveringsinfrastructuur in de [!DNL Dynamic Media] oplossing. Het voordeel van deze aanpak is dat u uw aangepaste viewers kunt blijven gebruiken, zodat het risico en de inspanning van migratie naar [!DNL Dynamic Media].
+Nee. Adobe blijft de [!DNL Dynamic Media Classic] de publicatie- en leveringsinfrastructuur in de [!DNL Dynamic Media] oplossing. Het voordeel van deze aanpak is dat u uw aangepaste viewers kunt blijven gebruiken, zodat het risico en de moeite van migratie naar [!DNL Dynamic Media].
 +++
 
 +++**Hoe kan ik mijn instellingen (zoals voorinstellingen voor afbeeldingen, videocoderingen) migreren naar [!DNL Dynamic Media]?**
@@ -172,7 +178,7 @@ Ja. Adobe heeft datacenters in Noord-Amerika, Europa en Azië-Pacific.
 +++
 
 +++**Hoe lang is [!DNL Dynamic Media Classic] als een zelfstandig product?**
-Adobe blijft volledig steun verlenen en handhaven [!DNL Dynamic Media Classic] (klant-gevraagde insectenmoeilijke situaties, veiligheidsmoeilijke situaties, platformscalability, en betrouwbaarheid) nu en in de toekomst.
+Adobe ondersteunt en onderhoudt [!DNL Dynamic Media Classic] (klant-gevraagde insectenmoeilijke situaties, veiligheidsmoeilijke situaties, platformscalability, en betrouwbaarheid) nu en in de toekomst.
 
 +++
 
@@ -182,7 +188,12 @@ Dynamic Media wordt geleverd met 60 GB opslagruimte. U kunt extra opslagruimte a
 +++
 
 +++**Welke metrisch wordt gebruikt om te meten [!DNL Dynamic Media] gebruik?**
-Paginaweergaven per maand (PVM). Paginaweergave betekent één weergave van een e-mail- of webpagina van een website. Het omvat ook de mening van het toepassingsscherm, de staten van het toepassingsscherm, mobiele Web-pagina&#39;s, en sociale netwerkpagina&#39;s. Paginaweergaven worden altijd weergegeven wanneer een webpagina wordt geladen of vernieuwd, een toepassing wordt geladen of wanneer inhoud wordt weergegeven of weergegeven via een geopende e-mail.
+Paginaweergaven per maand (PVM). Paginaweergave betekent één weergave van een e-mail- of webpagina van een website. Het omvat ook de mening van het toepassingsscherm, de staten van het toepassingsscherm, mobiele Web-pagina&#39;s, en sociale netwerkpagina&#39;s. Paginaweergaven vinden plaats:
+
+* Elke keer dat een webpagina wordt geladen of vernieuwd
+* Wanneer een toepassing wordt geladen
+* Wanneer inhoud wordt gerenderd
+* Weergegeven via een geopende of bekeken e-mail
 
 +++
 

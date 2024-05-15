@@ -10,9 +10,9 @@ role: Data Engineer,Admin,User
 exl-id: 9ea1546d-e6d1-4ba4-8fa1-26b4e69375ba
 topic: Integrations, Development
 level: Experienced
-source-git-commit: 914fde11270dc731a261da3305b29dd573584d93
+source-git-commit: 163eb32112ec6fbefd1dacf48212353ff3053d54
 workflow-type: tm+mt
-source-wordcount: '301'
+source-wordcount: '304'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Met de Adobe Analytics Instrumentation Kit kunt u een HTML5-viewer integreren met Adobe Analytics.
 
-Als u een van de vooraf gedefinieerde Adobe Dynamic Media Classic HTML5-viewervoorinstellingen gebruikt, bevatten deze al de implementatiecode die nodig is om gegevens naar Adobe Analytics te verzenden. U hebt geen verdere instrumentatie meer nodig.
+Als u een van de vooraf gedefinieerde Adobe Dynamic Media Classic HTML5-viewervoorinstellingen gebruikt, bevatten deze al de implementatiecode die nodig is om gegevens naar Adobe Analytics te verzenden. U hoeft geen verdere instrumentatie toe te voegen.
 
 ## Adobe Analytics-tracking instellen vanuit Adobe Dynamic Media Classic {#set-up-adobe-analytics-tracking-from-scene-publishing-system}
 
@@ -31,7 +31,7 @@ Voeg voor alle HTML5-viewers de volgende JavaScript-code toe aan de HTML-contain
 <!-- ***** Adobe Analytics Tracking ***** --><script type="text/javascript" src="https://s7d6.scene7.com/s7viewers/s_code.jsp?company=<Adobe Dynamic Media Classic Company ID>&preset=companypreset-1"></script>
 ```
 
-Wanneer `Adobe Dynamic Media Classic Company ID` wordt ingesteld op de naam van het Adobe Dynamic Media Classic-bedrijf. en `&preset` is optioneel, tenzij de naam van de bedrijfsvoorinstelling niet `companypreset`. In dergelijke gevallen kan `companypreset-1, companypreset-2`, enzovoort. Het hogere aantal is een nieuwere instantie van de voorinstelling. Selecteer **[!UICONTROL Copy URL]** en bekijk vervolgens de `preset=`om de naam van de bedrijfsvoorinstelling te zoeken.
+Wanneer `Adobe Dynamic Media Classic Company ID` wordt ingesteld op de naam van het Adobe Dynamic Media Classic-bedrijf. en `&preset` is optioneel. Als de naam van de bedrijfsvoorinstelling niet gelijk is `companypreset`, dan is het niet optioneel. In dergelijke gevallen kan `companypreset-1, companypreset-2`, enzovoort. Het hogere aantal is een nieuwere instantie van de voorinstelling. Selecteer **[!UICONTROL Copy URL]** en bekijk vervolgens de `preset=`om de naam van de bedrijfsvoorinstelling te zoeken.
 
 Als u doorgaat, voegt u nu een functie toe die de viewergebeurtenis naar de trackingcode van Adobe Analytics verzendt.
 
@@ -41,7 +41,7 @@ Voeg de `s7ComponentEvent()` functie aan container HTML (of JSP, of ASPX of ande
 function s7ComponentEvent(objectId, componentClass, instanceName, timeStamp, eventData) {     s7track(eventData); }
 ```
 
-De functienaam is hoofdlettergevoelig. De enige parameter die wordt doorgegeven aan `s7componentEvent`dat is de laatste vereiste : `eventData`. Wanneer `s7track()` wordt gedefinieerd in s_code.jsp hierboven. en `s7track` behandelt al het volgen per elke gebeurtenis. (Als u de gegevens die naar Adobe Analytics worden verzonden verder wilt aanpassen, is dit gebied de plaats om ze te maken.)
+De functienaam is hoofdlettergevoelig. De enige parameter die wordt doorgegeven aan `s7componentEvent`dat is de laatste vereiste : `eventData`. Wanneer `s7track()` wordt gedefinieerd in s_code.jsp hierboven. en `s7track` behandelt al het volgen per elke gebeurtenis. (U kunt gegevens die naar Adobe Analytics worden verzonden, verder aanpassen in dit gebied.)
 
 ## HREF- en ITEM-gebeurtenissen inschakelen {#enabling-href-and-item-events}
 

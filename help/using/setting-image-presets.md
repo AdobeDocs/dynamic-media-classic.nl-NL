@@ -10,9 +10,9 @@ role: User
 exl-id: 336802cc-b032-49b2-b2e6-d699bc997ee5
 topic: Content Management
 level: Intermediate
-source-git-commit: b2a6aeb1aab420803a8b7dafb0fdeda495e2a69b
+source-git-commit: 163eb32112ec6fbefd1dacf48212353ff3053d54
 workflow-type: tm+mt
-source-wordcount: '654'
+source-wordcount: '648'
 ht-degree: 1%
 
 ---
@@ -65,11 +65,11 @@ Als u een bedrijfsbeheerder bent, kunt u uw eigen voorinstellingen voor afbeeldi
 
 De Adobe Dynamic Media Classic-opties voor &#39;aanbevolen procedures&#39; voor het maken van voorinstellingen voor afbeeldingen in deze lijst zijn algemene aanbevelingen. Verscherpen is zeer subjectief. Deze &quot;beste praktijken&quot;montages waren gebaseerd op een 2000 × 2000 primaire beeld; de montages voor grotere of kleinere primaire dossiers kunnen verschillend zijn. Adobe Dynamic Media Classic raadt het volgende bereik aan als u de instellingen voor Onscherp masker wilt aanpassen:
 
-* **[!UICONTROL Amount]** - tussen 0,8 en 1,5.
+* **[!UICONTROL Amount]** - tussen `.8` en `1.5`.
 
-* **[!UICONTROL Radius]** - tussen 0,6 en 2.
+* **[!UICONTROL Radius]** - tussen `.6` en `2`.
 
-* **[!UICONTROL Threshold]** - Van 1 tot 6.
+* **[!UICONTROL Threshold]** - Van `1` doorheen `6`.
 
 Als u een voorinstelling voor afbeelding wilt verwijderen, selecteert u deze in het scherm Voorinstellingen afbeelding en selecteert u vervolgens **[!UICONTROL Delete]**.
 

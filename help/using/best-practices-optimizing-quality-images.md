@@ -10,9 +10,9 @@ role: User
 exl-id: 3c50e706-b9ed-49db-8c08-f179de52b9cf
 topic: Content Management
 level: Intermediate
-source-git-commit: b2a6aeb1aab420803a8b7dafb0fdeda495e2a69b
+source-git-commit: 163eb32112ec6fbefd1dacf48212353ff3053d54
 workflow-type: tm+mt
-source-wordcount: '1601'
+source-wordcount: '1604'
 ht-degree: 0%
 
 ---
@@ -29,7 +29,8 @@ Zie ook [Slimme beeldverwerking](https://experienceleague.adobe.com/en/docs/expe
 >
 >Uitproberen en ontdekken wat de voordelen zijn van Dynamic Media-beeldmodifiers en Smart Imaging met Dynamic Media [_Opname_](https://snapshot.scene7.com/).
 >
-> Momentopname is een visueel demonstratieprogramma dat is ontworpen om de kracht van Dynamic Media te illustreren voor geoptimaliseerde en dynamische beeldlevering. Experimenteer met testafbeeldingen of Dynamic Media-URL&#39;s om visueel de uitvoer van verschillende Dynamic Media-afbeeldingsmodifiers en Smart Imaging-optimalisaties te bekijken voor:
+> Momentopname is een visueel demonstratieprogramma dat is ontworpen om de kracht van Dynamic Media te illustreren voor geoptimaliseerde en dynamische beeldlevering. Experimenteer met testafbeeldingen of Dynamic Media-URL&#39;s, zodat u visueel de uitvoer van verschillende Dynamic Media-afbeeldingsmodifiers en Smart Imaging-optimalisaties kunt bekijken voor:
+>
 >* Bestandsgrootte (met WebP en AVIF levering)
 >* Netwerkbandbreedte
 >* DPR (Pixelverhouding apparaat)
@@ -69,7 +70,7 @@ Met Adobe Dynamic Media Classic kunt u afbeeldingen verscherpen bij inname, bij 
 
 U kunt twee methoden voor het verscherpen van afbeeldingen gebruiken:
 
-* Eenvoudig verscherpen ( `&op_sharpen`) - Vergelijkbaar met het verscherpingsfilter dat in Photoshop wordt gebruikt, wordt bij eenvoudige verscherping de standaardverscherping toegepast op de uiteindelijke weergave van de afbeelding na dynamisch vergroten of verkleinen. Deze methode kan echter niet door de gebruiker worden geconfigureerd. De beste manier is om geen gebruik te maken `&op_sharpen` tenzij dit vereist is.
+* Eenvoudig verscherpen ( `&op_sharpen`) - Vergelijkbaar met het verscherpingsfilter dat in Photoshop wordt gebruikt, wordt bij eenvoudige verscherping de standaardverscherping toegepast op de uiteindelijke weergave van de afbeelding na dynamisch vergroten of verkleinen. Deze methode kan echter niet door de gebruiker worden geconfigureerd. De beste praktijken vermijden het gebruik van `&op_sharpen` tenzij dit vereist is.
 * Onscherp maskeren ( `&op_USM`) - Onscherp maskeren is een industriestandaard filter voor verscherpen. U kunt afbeeldingen het beste verscherpen met onscherp maskeren volgens de onderstaande richtlijnen. Met Onscherp maskeren kunt u de volgende drie parameters instellen:
 
    * `&op_sharpen=amount,radius,threshold`
@@ -98,10 +99,10 @@ Verhoog de waarde geleidelijk van 1,75 naar 4. Als de verscherping nog steeds ni
 
 Laat de monochrome parameter-instelling op 0 staan.
 
-## Aanbevolen werkwijzen voor JPEG-compressie (&amp;qlt=) {#best-practices-for-jpeg-compression-qlt}
+## Aanbevolen procedures voor het comprimeren van JPEG (`&qlt=`) {#best-practices-for-jpeg-compression-qlt}
 
 * Deze parameter bepaalt de coderingskwaliteit van de JPG. Een hogere waarde betekent een afbeelding van hogere kwaliteit, maar een groot bestand. Een lagere waarde betekent een afbeelding van lagere kwaliteit, maar een kleiner bestand. Het bereik voor deze parameter is 0-100.
-* Stel de parameterwaarde niet in op 100 om te optimaliseren voor kwaliteit. Het verschil tussen een instelling van 90 of 95 en 100 is bijna onwaarneembaar, maar met 100 wordt het afbeeldingsbestand onnodig groter. Om de kwaliteit te optimaliseren maar te voorkomen dat afbeeldingsbestanden te groot worden, stelt u daarom de optie `qlt=` waarde 90 of 95.
+* Stel de parameterwaarde niet in op 100 om te optimaliseren voor kwaliteit. Het verschil tussen een instelling van 90 of 95 en 100 is bijna onwaarneembaar. Toch vergroot 100 onnodig de grootte van het afbeeldingsbestand. Om de kwaliteit te optimaliseren maar te voorkomen dat afbeeldingsbestanden te groot worden, stelt u daarom de optie `qlt=` waarde 90 of 95.
 * Als u wilt optimaliseren voor een kleine bestandsgrootte van de afbeelding, maar de afbeeldingskwaliteit op een aanvaardbaar niveau wilt houden, stelt u de optie `qlt=` waarde 80. Waarden lager dan 70 tot 75 resulteren in een aanzienlijke verslechtering van de beeldkwaliteit.
 * Als beste praktijk, om in het midden te blijven, plaats `qlt=` waarde tot 85 om in het midden te blijven.
 * De chromamarkering gebruiken in `qlt=`
@@ -116,13 +117,13 @@ Als beste praktijken voor het gebruik van de compressie van JPG `&qlt=85,0`.
 De parameter `jpegSize` Dit is handig als u wilt garanderen dat een afbeelding een bepaalde grootte niet overschrijdt voor levering aan apparaten met een beperkt geheugen.
 
 * Deze parameter wordt ingesteld in kilobytes ( `jpegSize=<size_in_kilobytes>`). Hiermee wordt de maximaal toegestane grootte voor het leveren van de afbeelding gedefinieerd.
-* `&jpegSize=` communiceert met de compressieparameter JPG `&qlt=`. Als de JPG reageert met de opgegeven JPG-compressieparameter ( `&qlt=`) niet hoger is dan `jpegSize` waarde, de afbeelding wordt geretourneerd met `&qlt=` zoals gedefinieerd. Anders, `&qlt=` wordt geleidelijk verkleind totdat de afbeelding past in de maximaal toegestane grootte, of totdat het systeem bepaalt dat de afbeelding niet past en een fout retourneert.
+* `&jpegSize=` communiceert met de compressieparameter JPG `&qlt=`. Als de JPG reageert met de opgegeven JPG-compressieparameter ( `&qlt=`) niet hoger is dan `jpegSize` waarde, de afbeelding wordt geretourneerd met `&qlt=` zoals gedefinieerd. Anders, `&qlt=` wordt geleidelijk verkleind totdat de afbeelding past in de maximaal toegestane grootte. Of, totdat het systeem bepaalt dat het niet past en een fout retourneert.
 
 Als beste praktijken, reeks `&jpegSize=` en voeg de parameter toe `&qlt=` als u JPG-afbeeldingen levert aan apparaten met een beperkt geheugen.
 
 ## Overzicht van best practices {#best-practices-summary}
 
-U kunt het beste de volgende combinatie van parameters gebruiken om een hoge afbeeldingskwaliteit en een kleine bestandsgrootte te bereiken:
+U kunt het beste een hoge afbeeldingskwaliteit en een kleine bestandsgrootte bereiken door de volgende combinatie van parameters te gebruiken:
 
 `fmt=jpg&qlt=85,0&resMode=sharp2&op_usm=1.75,0.3,2,0`
 

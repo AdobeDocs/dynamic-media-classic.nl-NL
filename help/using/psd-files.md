@@ -10,9 +10,9 @@ role: User
 exl-id: e3b8c4b9-e9c4-4d7f-84de-2efb456755a1
 topic: Integrations, Development
 level: Experienced
-source-git-commit: b2a6aeb1aab420803a8b7dafb0fdeda495e2a69b
+source-git-commit: 163eb32112ec6fbefd1dacf48212353ff3053d54
 workflow-type: tm+mt
-source-wordcount: '950'
+source-wordcount: '957'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ U vindt opties voor het uploaden van PSD-bestanden onder Photoshop-opties in het
 
 Deze opties zijn beschikbaar wanneer u PSD-bestanden uploadt:
 
-* **Opties voor uitsnijden** - Gelokaliseerd onder **[!UICONTROL Crop Options]**. Selecteren **[!UICONTROL Trim]** om witruimte automatisch bij te snijden vanaf de randen van een PSD-bestand; selecteer **[!UICONTROL Manual]** om zijden van het PSD-bestand uit te snijden:
+* **Opties voor uitsnijden** - Gelokaliseerd onder **[!UICONTROL Crop Options]**. Selecteren **[!UICONTROL Trim]** zodat u witruimte automatisch kunt laten doorlopen vanaf de randen van een PSD-bestand. Selecteren **[!UICONTROL Manual]** om de zijden van het PSD-bestand uit te snijden:
 
    * **[!UICONTROL Trim]** - Selecteer de **[!UICONTROL Trim Away Based On]** en kiest u **[!UICONTROL Color]** of **[!UICONTROL Transparency]**.
 
@@ -39,7 +39,7 @@ Deze opties zijn beschikbaar wanneer u PSD-bestanden uploadt:
 
   Sleep de schuifregelaar om een tolerantie tussen 0 en 1 op te geven. Als u wilt bijsnijden op basis van kleur, geeft u 0 op om alleen pixels bij te snijden als deze exact overeenkomen met de kleur die u in de hoek van de PSD hebt geselecteerd. De aantallen dichter aan 1 staan voor meer kleurenverschil toe. Als u wilt bijsnijden op basis van transparantie, geeft u 0 op voor het bijsnijden van pixels alleen als deze transparant zijn. Bij nummers die dichter bij 1 liggen, is meer transparantie mogelijk.
 
-   * **[!UICONTROL Manual]** - Voer het aantal pixels in dat u wilt uitsnijden vanaf elke zijde van de afbeelding. Hoeveel van de afbeelding wordt uitgesneden, is afhankelijk van de ppi-instelling (pixels per inch) in het afbeeldingsbestand. Als de afbeelding bijvoorbeeld 150 ppi weergeeft en u 75 invoert in de tekstvakken Boven, Rechts, Onder en Links, 0,5 inch. wordt aan elke kant van de afbeelding uitgesneden.
+   * **[!UICONTROL Manual]** - Voer het aantal pixels in dat u wilt uitsnijden vanaf elke zijde van de afbeelding. Hoeveel van de afbeelding wordt uitgesneden, is afhankelijk van de ppi-instelling (pixels per inch) in het afbeeldingsbestand. Stel dat de afbeelding 150 ppi weergeeft. Vervolgens voert u 75 in de tekstvakken Boven, Rechts, Onder en Links in. Elke zijde van de afbeelding wordt bijgesneden (0,5 inch).
 
 * **Opties voor kleurprofiel** - Gelokaliseerd onder **[!UICONTROL Color Profile Options]**.
 
@@ -67,7 +67,7 @@ Deze opties zijn beschikbaar wanneer u PSD-bestanden uploadt:
 
       * **[!UICONTROL Photoshop and layer name]** - De afbeeldingen krijgen een naam na het PSD-bestand gevolgd door de naam van de laag of het laagnummer. Het laagnummer wordt gebruikt als de laagnamen in het PSD-bestand standaard Photoshop-laagnamen zijn. Een laag met de naam `Price Tag` in een PSD-bestand met de naam `SpringAd` is benoemd `Spring Ad_Price Tag`. Een laag met de standaardnaam Laag 2 wordt genoemd `Spring Ad_2`.
 
-   * **[!UICONTROL Anchor]** - Geef op hoe afbeeldingen worden verankerd in sjablonen die worden gegenereerd op basis van de laagsamenstelling die uit het PSD-bestand is samengesteld. Standaard is het anker het middelpunt. Met een middelste anker kunnen vervangende afbeeldingen dezelfde ruimte het beste vullen, ongeacht de hoogte-breedteverhouding van de vervangende afbeelding. Afbeeldingen met een ander aspect dat deze afbeelding vervangt, nemen bij het verwijzen naar de sjabloon en het gebruik van parametervervanging in feite dezelfde ruimte in. Schakel over naar een andere instelling als de vervangende afbeeldingen de toegewezen ruimte in de sjabloon moeten vullen.
+   * **[!UICONTROL Anchor]** - Geef op hoe afbeeldingen worden verankerd in sjablonen die worden gegenereerd op basis van de laagsamenstelling die uit het PSD-bestand is samengesteld. Standaard is het anker het middelpunt. Met een middelste anker kunt u afbeeldingen vervangen die het beste dezelfde ruimte kunnen vullen, ongeacht de hoogte-breedteverhouding van de vervangende afbeelding. Afbeeldingen met een ander aspect dat deze afbeelding vervangt, nemen bij het verwijzen naar de sjabloon en het gebruik van parametervervanging in feite dezelfde ruimte in. Schakel over naar een andere instelling als de vervangende afbeeldingen de toegewezen ruimte in de sjabloon moeten vullen.
 
 ## Lagen weergeven en bewerken in een PSD-bestand {#viewing-and-editing-layers-in-a-psd-file}
 
@@ -86,9 +86,9 @@ Als u de optie hebt geselecteerd **[!UICONTROL Maintain Layers]** toen u uw PSD 
 1. Selecteren **[!UICONTROL Layers]**. Alle lagen worden als afzonderlijke afbeeldingen weergegeven in het deelvenster Lagen.
 1. Dubbelklik op een laag en voer een van de volgende handelingen uit:
 
-   * Als u een afbeeldingskaart op de laag wilt maken, selecteert u **[!UICONTROL Image Map]** pictogram. (Zie [Afbeeldingen met hyperlinks maken](creating-image-maps.md#creating_image_maps).)
-   * Selecteer **[!UICONTROL Zoom Targets]** pictogram. (Zie [Zoomdoelen maken voor zoomen met instructies](creating-zoom-targets-guided-zoom.md#creating_zoom_targets_for_guided_zoom).)
-   * Selecteer **[!UICONTROL Crop]** pictogram. (Zie [Een afbeelding uitsnijden](cropping-image.md#cropping_an_image).)
+   * Als u een afbeeldingskaart op de laag wilt maken, selecteert u de optie **[!UICONTROL Image Map]** pictogram. (Zie [Afbeeldingen met hyperlinks maken](creating-image-maps.md#creating_image_maps).)
+   * Als u zoomdoelen op de laag wilt maken, selecteert u de optie **[!UICONTROL Zoom Targets]** pictogram. (Zie [Zoomdoelen maken voor zoomen met instructies](creating-zoom-targets-guided-zoom.md#creating_zoom_targets_for_guided_zoom).)
+   * Als u de laag wilt uitsnijden, selecteert u de **[!UICONTROL Crop]** pictogram. (Zie [Een afbeelding uitsnijden](cropping-image.md#cropping_an_image).)
    * Selecteer **[!UICONTROL Sharpen]**. (Zie [Een afbeelding verscherpen](sharpening-image.md#sharpening_an_image).)
    * Selecteer **[!UICONTROL Adjust]**. (Zie [Een afbeelding aanpassen](adjusting-image.md#adjusting_an_image).)
 

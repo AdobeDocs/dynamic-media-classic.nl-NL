@@ -10,9 +10,9 @@ role: User
 exl-id: 2d9fc6d8-973f-4aaa-bc2c-b49cda2cde58
 topic: Administration, Content Management
 level: Intermediate
-source-git-commit: f054057d383b26e9088582f418f62504c3f327d8
+source-git-commit: 163eb32112ec6fbefd1dacf48212353ff3053d54
 workflow-type: tm+mt
-source-wordcount: '1163'
+source-wordcount: '1169'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Wanneer u afbeeldingsbestanden uploadt, zoals AI-, EPS- en PSD-bestanden, kunt u de volgende bewerkingen uitvoeren in het dialoogvenster Taakopties uploaden:
 
-* Witruimte uitsnijden vanaf de rand van afbeeldingen.
+* Witruimte uitsnijden vanaf de rand van de afbeeldingen.
 * Handmatig uitsnijden vanaf de zijkanten van afbeeldingen.
 * Kies een kleurprofiel.
 * Maak een masker van een uitknippad.
@@ -32,7 +32,7 @@ Deze opties zijn beschikbaar op de pagina Uploaden onder de **[!UICONTROL Imagin
 
 ## Witruimte uitsnijden in afbeeldingen
 
-Als u pixels met witruimte automatisch wilt uitsnijden in een afbeelding, selecteert u in het dialoogvenster Opties voor uploaden de optie **[!UICONTROL Crop Options]**. In de **[!UICONTROL Crop]** vervolgkeuzelijst kiest u **[!UICONTROL Trim]**. Kies vervolgens de volgende opties:
+U kunt pixels in witruimte automatisch uitsnijden in een afbeelding. Selecteer in het dialoogvenster Opties voor uploaden de optie **[!UICONTROL Crop Options]**. In de **[!UICONTROL Crop]** vervolgkeuzelijst kiest u **[!UICONTROL Trim]**. Kies vervolgens de volgende opties:
 
 * **[!UICONTROL Trim Away Based On]** - Kies in deze vervolgkeuzelijst of u wilt uitsnijden op basis van kleur of transparantie:
 
@@ -48,7 +48,7 @@ Als u pixels met witruimte automatisch wilt uitsnijden in een afbeelding, select
 
 ## Handmatig uitsnijden vanaf de zijkanten van afbeeldingen
 
-Als u handmatig wilt uitsnijden aan weerszijden van een afbeelding, selecteert u het menu Uitsnijden en kiest u Handmatig. Voer vervolgens het aantal pixels in dat u aan elke zijde van de afbeelding wilt uitsnijden. Hoeveel van de afbeelding wordt uitgesneden, is afhankelijk van de ppi-instelling (pixels per inch) in het afbeeldingsbestand. Als de afbeelding bijvoorbeeld 150 ppi weergeeft en u 75 invoert in de tekstvakken Boven, Rechts, Onder en Links, 0,5 inch. wordt aan elke kant uitgesneden.
+Als u handmatig wilt uitsnijden aan weerszijden van een afbeelding, selecteert u het menu Uitsnijden en kiest u Handmatig. Voer vervolgens het aantal pixels in dat u aan elke zijde van de afbeelding wilt uitsnijden. Hoeveel van de afbeelding wordt uitgesneden, is afhankelijk van de ppi-instelling (pixels per inch) in het afbeeldingsbestand. Stel dat de afbeelding 150 ppi weergeeft. Vervolgens voert u 75 in de tekstvakken Boven, Rechts, Onder en Links in. Op dit punt wordt elke zijde bijgesneden tot 0,5 inch.
 
 ## Een kleurprofiel kiezen
 
@@ -76,7 +76,7 @@ Stel onder Onscherp masker de gewenste opties in. De instellingsopties worden in
 
 | Onscherpe maskeropties | Beschrijving |
 | --- | --- |
-| Hoeveelheid | Hiermee bepaalt u de hoeveelheid contrast die wordt toegepast op de randpixels.<br><br>Beschouw het als de intensiteit van het effect. Het belangrijkste verschil tussen de waarden voor de hoeveelheid Onscherp masker in Adobe Dynamic Media Classic en de waarden voor de hoeveelheid in Adobe Photoshop is dat Photoshop een bereik heeft van 1% tot 500%. In Adobe Dynamic Media Classic is het waardebereik 0,0 tot 5,0. Een waarde van 5,0 in Adobe Dynamic Media Classic is het ruwe equivalent van 500% in Photoshop; een waarde van 0,9 is het equivalent van 90%, etc. |
+| Hoeveelheid | Met Amount bepaalt u de hoeveelheid contrast die wordt toegepast op de randpixels.<br><br>Beschouw het als de intensiteit van het effect. Er is een verschil tussen de waarden voor Onscherp masker in Dynamic Media Classic en in Adobe Photoshop. Het belangrijkste verschil is dat Photoshop een bedrag van 1 tot 500 procent heeft. In Adobe Dynamic Media Classic is het waardebereik 0,0 tot 5,0. Een waarde van 5,0 in Adobe Dynamic Media Classic is het ruwe equivalent van 500% in Photoshop; een waarde van 0,9 is het equivalent van 90%, etc. |
 | Straal | Hiermee bepaalt u de straal van het effect. <br><br>Het waardebereik is 0-250. Het effect wordt op alle pixels in een afbeelding uitgevoerd en wordt vanuit alle pixels in alle richtingen uitgestraald. De straal wordt gemeten in pixels. Als u bijvoorbeeld een vergelijkbaar verscherpingseffect wilt toepassen op een afbeelding van 2000 × 2000 pixels en een afbeelding van 500 × 500 pixels, stelt u een straal in van twee pixels op de afbeelding van 2000 × 2000 pixels. Stel vervolgens een straalwaarde in van één pixel in de afbeelding van 500 × 500 pixels. Een hogere waarde wordt gebruikt voor een afbeelding met meer pixels. |
 | Drempel | Drempel is een contrastbereik dat wordt genegeerd wanneer het filter Onscherp masker wordt toegepast. Dit effect is belangrijk, zodat er geen &#39;ruis&#39; wordt toegevoegd aan een afbeelding wanneer dit filter wordt gebruikt. Het waardebereik is 0-255. Dit is het aantal helderheidsstappen in een grijswaardenafbeelding. 0=zwart, 128=50% grijs en 255=wit<br><br>Een drempelwaarde van 12 negeert bijvoorbeeld kleine variaties door de helderheid van de huidskleur om ruis te voorkomen, maar voegt toch randcontrast toe aan contrasterende gebieden, zoals waar de wimpers de huid raken.<br><br>Als u bijvoorbeeld een foto van iemands gezicht hebt, heeft het filter Onscherp masker invloed op de contrasterende gedeelten van de afbeelding. Bijvoorbeeld, waar wimpers en huid samenkomen om een duidelijk gebied van contrast tot stand te brengen, en de vlotte huid zelf. Zelfs de meest vloeiende skin vertoont subtiele wijzigingen in helderheidswaarden. Als u geen drempelwaarde gebruikt, accentueert het filter deze subtiele wijzigingen in de pixels van de skin. Er wordt op zijn beurt een lawaai en ongewenst effect gecreëerd terwijl het contrast op de wimpers wordt verhoogd, waardoor de scherpte wordt vergroot.<br><br>Om dit probleem te voorkomen, wordt een drempelwaarde geïntroduceerd die het filter vertelt om pixels te negeren die het contrast niet drastisch wijzigen, zoals een vloeiende skin. <br><br>Let op de structuur naast de ritssluiters in de afbeelding die u eerder hebt weergegeven. Ruis in de afbeelding wordt weergegeven omdat de drempelwaarden te laag zijn om de ruis te onderdrukken. |
 | Monochroom | Selecteer deze optie om de helderheid (intensiteit) van een afbeelding zonder scherp masker te wijzigen.<br><br>Schakel deze optie uit als u elke kleurcomponent afzonderlijk niet scherp wilt maskeren. |
@@ -87,14 +87,14 @@ Zie ook [Afbeeldingen verscherpen in Adobe Dynamic Media en op afbeeldingsserver
 
 ## Achtergrond uitnemen
 
-Met de achtergrond Uitnemen kunt u de achtergrond van een afbeelding automatisch verwijderen wanneer u de afbeelding uploadt. Deze techniek is handig om de aandacht op een bepaald object te vestigen en het tegen een drukke achtergrond te laten opvallen.
+Gebruik Achtergrond uitnemen zodat u de achtergrond van een afbeelding automatisch kunt verwijderen wanneer u deze uploadt. Deze techniek is handig om de aandacht op een bepaald object te vestigen en het tegen een drukke achtergrond te laten opvallen.
 
 | Opties voor Achtergrond uitnemen | Beschrijving |
 | --- | --- |
 | Achtergrond uitnemen | Selecteer deze optie om de functie Achtergrond uitnemen en opties in te schakelen of in te schakelen. |
 | Hoek | Vereist.<br>De hoek van de afbeelding die wordt gebruikt om de achtergrondkleur voor uitnemen te definiëren.<br>U kunt kiezen uit <b>Linksboven, Linksonder, Rechtsboven of Rechtsonder</b>. |
 | Vulmethode | Vereist. <br>Hiermee regelt u de pixeltransparantie vanaf de locatie Hoek die u instelt.<br>U kunt kiezen uit de volgende vulmethoden:<br>・ <b>Flood Fill</b> - Hiermee worden alle pixels transparant gemaakt die overeenkomen met de hoek die u hebt opgegeven en waarop u bent aangesloten.<br>・ <b>Pixel afstemmen</b> - hiermee worden alle overeenkomende pixels transparant gemaakt, ongeacht de locatie van de pixels op de afbeelding. |
-| Tolerantie | Optioneel.<br>Hiermee bepaalt u de toegestane hoeveelheid variatie in de overeenkomende pixelkleur op basis van de locatie van de hoek die u instelt.<br>Gebruik een waarde van 0,0 om de pixelkleuren exact overeen te laten komen of gebruik een waarde van 1,0 voor de grootste variatie. |
+| Tolerantie | Optioneel.<br>Hiermee bepaalt u de toegestane hoeveelheid variatie in de overeenkomende pixelkleur op basis van de locatie van de hoek die u instelt.<br>Gebruik een waarde van 0,0 om de pixelkleuren exact overeen te laten komen. Of gebruik een waarde van 1,0 om de grootste variatie mogelijk te maken. |
 
 >[!MORELIKETHIS]
 >

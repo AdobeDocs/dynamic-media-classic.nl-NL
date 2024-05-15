@@ -10,16 +10,16 @@ role: User
 exl-id: 4b3f690c-7dff-4bf0-9366-085ba918fe6b
 topic: Content Management
 level: Intermediate
-source-git-commit: f054057d383b26e9088582f418f62504c3f327d8
+source-git-commit: 163eb32112ec6fbefd1dacf48212353ff3053d54
 workflow-type: tm+mt
-source-wordcount: '1375'
+source-wordcount: '1377'
 ht-degree: 0%
 
 ---
 
 # Middelen zoeken in Adobe Dynamic Media Classic{#searching-assets}
 
-Als u bestandselementen wilt zoeken in Adobe Dynamic Media Classic, kunt u elementen op type weergeven, elementen sorteren in het deelvenster Bladeren, een eenvoudige zoekopdracht uitvoeren, een geavanceerde zoekopdracht uitvoeren en naar elementen filteren.
+Als u bestandsmiddelen wilt zoeken in Adobe Dynamic Media Classic, kunt u elementen op type weergeven, elementen sorteren in het deelvenster Bladeren, een eenvoudige zoekopdracht uitvoeren, een geavanceerde zoekopdracht uitvoeren en naar elementen filteren.
 
 >[!NOTE]
 >
@@ -31,11 +31,11 @@ Als u alleen bestanden van een bepaald type wilt zien terwijl u bladert, klikt u
 
 >[!NOTE]
 >
->Als u het deelvenster Elementenbibliotheek aan de linkerkant niet ziet, selecteert u de rechterdriehoekpijl aan de linkerkant, halverwege het Adobe Dynamic Media Classic-venster, om de Asset Library te openen.)
+>Als u het deelvenster Asset Library aan de linkerkant niet ziet, klikt u op de rechterdriehoekpijl aan de linkerkant, halverwege het Dynamic Media Classic-venster, om de Asset Library te openen.
 
 ## Bestanden sorteren in het deelvenster Bladeren {#sorting-files-in-the-browse-panel}
 
-Als u de inhoud van een map of zoekresultaten wilt sorteren die in het deelvenster Bladeren aan de rechterkant, op de algemene navigatiebalk, selecteert u **[!UICONTROL Sort]** en kies vervolgens een optie. De opties zijn **[!UICONTROL Name]**, **[!UICONTROL Size (KB)]**, **[!UICONTROL Type]**, **[!UICONTROL Date Created]**, en **[!UICONTROL Last Modified]**.
+U kunt de inhoud van een map of zoekresultaten die in het deelvenster Bladeren aan de rechterkant worden weergegeven, sorteren. Selecteer op de algemene navigatiebalk de optie **[!UICONTROL Sort]** en kies vervolgens een optie. De opties zijn **[!UICONTROL Name]**, **[!UICONTROL Size (KB)]**, **[!UICONTROL Type]**, **[!UICONTROL Date Created]**, en **[!UICONTROL Last Modified]**.
 
 U kunt ook **[!UICONTROL Ascending]** of **[!UICONTROL Descending]** om elementen in oplopende of aflopende volgorde te sorteren op basis van de criteria die u kiest.
 
@@ -43,7 +43,7 @@ In de Lijstweergave kunt u sorteren door een kolomnaam te selecteren.
 
 ## Een eenvoudige zoekopdracht uitvoeren {#conducting-a-simple-search}
 
-Gebruik het veld Zoeken in de Asset Library, zodat u eenvoudig kunt zoeken. U kunt items zoeken op naam of zoeken op items waarvan de metagegevens een trefwoord bevatten.
+Gebruik het veld Zoeken in de elementenbibliotheek zodat u eenvoudige zoekopdrachten kunt uitvoeren. U kunt items zoeken op naam of zoeken op items waarvan de metagegevens een trefwoord bevatten.
 
 1. In de Middelenbibliotheek, in **[!UICONTROL Folders]** selecteert u de map die u wilt doorzoeken in een bepaalde map en de bijbehorende submappen.
 1. Selecteer links van het veld Zoeken in de elementenbibliotheek de optie **[!UICONTROL Magnifying Glass]** om de vervolgkeuzelijst te openen.
@@ -63,7 +63,7 @@ Selecteer in de elementenbibliotheek, direct onder het veld Zoeken, de optie **[
 
 Geef een of meer van de volgende criteria op in uw geavanceerde zoekopdracht:
 
-* **Filteren op elementtype** - Verfijn uw zoekopdracht tot één type element door een type element in het menu te kiezen.
+* **Filteren op elementtype** - Verfijn uw zoekopdracht tot één type element. Kies een elementtype in het menu.
 
 * **Bestanden en mappen** - Kies waar u wilt zoeken: **[!UICONTROL Within All Files & Folders]**, **[!UICONTROL Within Selected Folder]**, of **[!UICONTROL Within Selected Folder & Subfolders]**.
 
@@ -73,7 +73,7 @@ Geef een of meer van de volgende criteria op in uw geavanceerde zoekopdracht:
 
 * **Zoekcriteria** - Maak een of meer zoekvelden voor het zoeken naar metagegevens. Zoekvelden maken:
 
-   1. In Geavanceerd zoeken, onder **[!UICONTROL Search criteria]** en links van de **[!UICONTROL Add a Field]** ) selecteert u het pijlpictogram omlaag om de vervolgkeuzelijst te openen. Kies een weergave Metagegevens. U kunt **[!UICONTROL All properties with values]**, **[!UICONTROL Compact View]**, **[!UICONTROL IPTC]**, **[!UICONTROL Metadata Server Publish Fields]**, of **[!UICONTROL XMP]**.
+   1. In Geavanceerd zoeken, onder **[!UICONTROL Search criteria]** en links van de **[!UICONTROL Add a Field]** ) selecteert u het pijlpictogram omlaag om de vervolgkeuzelijst te openen. Kies een metagegevensweergave. U kunt **[!UICONTROL All properties with values]**, **[!UICONTROL Compact View]**, **[!UICONTROL IPTC]**, **[!UICONTROL Metadata Server Publish Fields]**, of **[!UICONTROL XMP]**.
    1. Selecteer de **[!UICONTROL Add a Field]** en kies een veldnaam.
    1. Kies een **[!UICONTROL Contains]** optie: **[!UICONTROL Contains]**, **[!UICONTROL Does Not Contain]**, **[!UICONTROL Begins With]**, **[!UICONTROL Ends With]**, of **[!UICONTROL Equals]**.
    1. Kies een waarde voor numerieke velden of voer een aangepast datumbereik in.
@@ -87,7 +87,7 @@ Selecteren **[!UICONTROL Clear]** als u de zoekcriteria wilt wissen en een nieuw
 
 ## Elementen filteren met behulp van metagegevens {#filter-assets-using-metadata}
 
-Filter elementen op het tabblad Filters van de Asset Library. Als u elementen wilt filteren, gebruikt u metagegevenswaarden als criteria. Nadat u een metagegevensveld hebt gekozen waarop u wilt filteren, worden op het tabblad Filters alle metagegevenswaarden weergegeven die zijn ingevoerd in het veld dat u hebt gekozen. Het bevat ook het aantal elementen waaraan elke waarde is toegewezen. In een filterbewerking op de knop **[!UICONTROL Creator]** metagegevensveld, de **[!UICONTROL Filters]** worden alle namen weergegeven die zijn ingevoerd in het dialoogvenster **[!UICONTROL Creator]** metagegevensveld voor verschillende elementen. Er wordt ook voor elke naam een lijst weergegeven met het aantal elementen waaraan de naam is toegewezen. Vervolgens selecteert u een metagegevenswaarde om alle elementen weer te geven waaraan die waarde is toegewezen. In het voorbeeld selecteert u de optie `Prairie Cat` metagegevenswaarde om alle elementen weer te geven waarin de naam `Prairie Cat` is ingevoerd in het **[!UICONTROL Creator]** metagegevensveld. U kunt filteren met meerdere metagegevensvelden als filtercriterium.
+Filter elementen op het tabblad Filters van de Asset Library. Als u elementen wilt filteren, gebruikt u metagegevenswaarden als criteria. Nadat u een metagegevensveld hebt gekozen waarop u wilt filteren, worden op het tabblad Filters alle metagegevenswaarden weergegeven die zijn ingevoerd in het veld dat u hebt gekozen. Het bevat ook het aantal elementen waaraan elke waarde is toegewezen. In een filterbewerking op de knop **[!UICONTROL Creator]** metagegevensveld, de **[!UICONTROL Filters]** worden alle namen weergegeven die zijn ingevoerd in het dialoogvenster **[!UICONTROL Creator]** metagegevensveld voor verschillende elementen. Het bevat ook voor elke naam het aantal elementen dat aan de naam is toegewezen. Vervolgens selecteert u een metagegevenswaarde om alle elementen weer te geven waaraan die waarde is toegewezen. In het voorbeeld selecteert u de optie `Prairie Cat` metagegevenswaarde om alle elementen weer te geven waarin de naam `Prairie Cat` is ingevoerd in het **[!UICONTROL Creator]** metagegevensveld. U kunt filteren met meerdere metagegevensvelden als filtercriterium.
 
 U kunt filterbewerkingen opslaan zodat ze meerdere malen worden uitgevoerd.
 
@@ -109,7 +109,7 @@ Voer de volgende stappen uit, zodat u elementen kunt zoeken door te filteren met
 
    Zie [Filterbewerkingen opslaan, herhalen en verwijderen](searching-assets.md#saving_repeating_and_deleting_filter_operations).
 
-1. Selecteren **[!UICONTROL Field]** op een deelvenster volgt u deze instructies, zodat u het filtermenu kunt weergeven en de filterbewerking kunt samenstellen:
+1. Klikken **[!UICONTROL Field]** op een deelvenster volgt u deze instructies, zodat u het filtermenu kunt weergeven en de filterbewerking kunt samenstellen:
 
    * **Een metagegevensveld kiezen** - Selecteer de naam van het veld in het filtermenu.
 
@@ -125,7 +125,7 @@ Voer de volgende stappen uit, zodat u elementen kunt zoeken door te filteren met
 
    Wanneer u een metagegevensveld kiest, wordt in het deelvenster ervan het volgende weergegeven:
 
-   * Alle waarden voor metagegevens die in het veld worden ingevoerd.
+   * Alle metagegevenswaarden worden in het veld ingevoerd.
    * Voor elke metagegevenswaarde het aantal elementen op basis van de waarde.
 
 1. Herhaal stap 2 zo vaak als nodig is om alle metagegevensvelden voor de filterbewerking op deelvensters weer te geven.
@@ -135,13 +135,13 @@ Voer de volgende stappen uit, zodat u elementen kunt zoeken door te filteren met
 
    >[!NOTE]
    >
-   >Als u een veld tijdelijk uit de filterbewerking wilt verwijderen, selecteert u **[!UICONTROL Deselect All]**. Deze optie bevindt zich boven aan elk deelvenster, boven de waarden van metagegevens.
+   >Een veld tijdelijk verwijderen uit de filterbewerking door op **[!UICONTROL Deselect All]**. Deze optie bevindt zich boven aan elk deelvenster, boven de waarden van metagegevens.
 
 1. (Optioneel) Selecteer **[!UICONTROL Select Preset]** > **[!UICONTROL Save Current As New Presets]** en voer vervolgens een naam in in het dialoogvenster **[!UICONTROL Save]** in.
 
 ### Filterbewerkingen opslaan, herhalen en verwijderen {#saving-repeating-and-deleting-filter-operations}
 
-Volg deze instructies op het tabblad Filters zodat u filterbewerkingen kunt opslaan, herhalen en verwijderen:
+Volg de onderstaande instructies op het tabblad Filters, zodat u filterbewerkingen kunt opslaan, herhalen en verwijderen:
 
 * **Filterbewerking opslaan** - Ga naar **[!UICONTROL Select Preset]** > **[!UICONTROL Save Current As New Presets]** en voer vervolgens een naam in in het dialoogvenster **[!UICONTROL Save]** in.
 

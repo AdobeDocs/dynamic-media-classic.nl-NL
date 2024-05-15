@@ -10,9 +10,9 @@ role: User
 exl-id: 91b73a09-c5b5-4001-b36f-6bebe65717ff
 topic: Content Management
 level: Intermediate
-source-git-commit: f054057d383b26e9088582f418f62504c3f327d8
+source-git-commit: 163eb32112ec6fbefd1dacf48212353ff3053d54
 workflow-type: tm+mt
-source-wordcount: '1624'
+source-wordcount: '1626'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 U publiceert uw middelen naar Dynamic Media Image Servers. U kunt elementen eenmalig publiceren of ervoor zorgen dat Adobe Dynamic Media Classic elementen volgens een terugkerend schema publiceert. Nadat uw activa worden gepubliceerd, zijn zij beschikbaar aan u voor levering. U kunt de URL-aanroepen van Adobe Dynamic Media Classic kopiëren en toevoegen aan uw website of toepassing.
 
-Adobe Dynamic Media Classic ondersteunt nu de levering van alle afbeeldingen en video via HTTP/2. Dit wil zeggen dat er een gepubliceerde URL of insluitcode voor de afbeelding of video beschikbaar is om te worden geïntegreerd met elke toepassing die een gehoste element accepteert. Dat gepubliceerde element wordt vervolgens geleverd via het HTTP/2-protocol. Deze leveringsmethode verbetert de manier waarop browsers en servers communiceren, waardoor u betere responstijd en laadtijden voor al uw Adobe Dynamic Media Classic-middelen krijgt. Zie [HTTP2 Veelgestelde vragen over inhoud](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/assets/dynamic/http2).
+Adobe Dynamic Media Classic ondersteunt nu de levering van alle afbeeldingen en video via HTTP/2. Dit wil zeggen dat er een gepubliceerde URL of insluitcode voor de afbeelding of video beschikbaar is om te worden geïntegreerd met elke toepassing die een gehoste element accepteert. Dat gepubliceerde element gebruikt het HTTP/2-protocol om het te leveren. Deze leveringsmethode verbetert de manier waarop browsers en servers communiceren, waardoor u betere responstijd en laadtijden voor al uw Adobe Dynamic Media Classic-middelen krijgt. Zie [HTTP2 Veelgestelde vragen over inhoud](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/assets/dynamic/http2).
 
 ## Publiceren na uploaden {#publish-after-uploading}
 
@@ -31,9 +31,9 @@ Zie de klasse [Instant Publish Notice PDF](/help/using/assets/rendering-instant-
 
 Gebruik de volgende technieken om elementen te markeren voor publicatie:
 
-* **[!UICONTROL Publish After Uploading]** - Selecteer onder aan op de pagina Uploaden de optie **[!UICONTROL Publish After Uploading]**. De standaardinstelling is een geselecteerde status.
+* **[!UICONTROL Publish After Uploading]**: Selecteer onder aan op de pagina Uploaden de optie **[!UICONTROL Publish After Uploading]**. De standaardinstelling is een geselecteerde status.
 
-* **[!UICONTROL Publish After Uploading]** - Selecteer in het dialoogvenster Taakopties de optie **[!UICONTROL Publish After Uploading]**. De standaardinstelling is een geselecteerde status.
+* **[!UICONTROL Publish After Uploading]**: Selecteer in het dialoogvenster Taakopties **[!UICONTROL Publish After Uploading]**. De standaardinstelling is een geselecteerde status.
 
 Sommige &quot;onderliggende&quot; elementen worden automatisch gemarkeerd voor publicatie wanneer hun ouders zijn gemarkeerd voor publicatie. Deze tabel bevat een lijst met onderliggende elementen die automatisch zijn gemarkeerd voor publicatie.
 
@@ -80,7 +80,7 @@ Als u wilt dat de publicatietaak later plaatsvindt, selecteert u op de pagina Pu
 
 Een terugkerende publicatietaak maken door **[!UICONTROL Recurring]** op de pagina Publiceren.
 
-Kies vervolgens de optie Herhalen van **[!UICONTROL Daily]**, **[!UICONTROL Weekly]**, **[!UICONTROL Monthly]**, of **[!UICONTROL Custom]** en geeft u op wanneer de publicatietaak moet worden herhaald. Adobe Dynamic Media Classic presenteert kalendergereedschappen voor het plannen van de terugkerende publicatietaak. U kunt **[!UICONTROL Custom]** en voert u een regel in het tekstveld Regel in om een aangepast taakinterval te beschrijven.
+Kies vervolgens de optie Herhalen van **[!UICONTROL Daily]**, **[!UICONTROL Weekly]**, **[!UICONTROL Monthly]**, of **[!UICONTROL Custom]** en geeft u op wanneer de publicatietaak moet worden herhaald. Adobe Dynamic Media Classic presenteert kalendergereedschappen voor het plannen van de terugkerende publicatietaak. U kunt de **[!UICONTROL Custom]** en voert u een regel in het tekstveld Regel in om een aangepast taakinterval te beschrijven.
 
 Zie [Een aangepast tijdinterval voor uploaden of publiceren maken](checking-job-files.md#creating_a_custom_upload_or_publish_job_time_interval).
 
@@ -92,13 +92,13 @@ Zie [Een aangepast tijdinterval voor uploaden of publiceren maken](checking-job-
 
 U kunt de Geavanceerde opties weergeven op de pagina Publiceren en deze opties kiezen voor het afhandelen van een publicatietaak:
 
-* **[!UICONTROL Publish To]** - Kies een servertype als u alleen elementen naar een specifieke server wilt publiceren.
+* **[!UICONTROL Publish To]**: Als u elementen alleen naar een specifieke server wilt publiceren, kiest u een servertype.
 
-* **[!UICONTROL Publish]** - Adobe Dynamic Media Classic publiceert standaard alleen elementen die nieuw zijn en nog niet eerder zijn gepubliceerd (de optie Nieuw sinds laatste publicatie). U kunt echter **[!UICONTROL Full Publish]** om ook elementen te publiceren die zijn bijgewerkt of gewijzigd sinds ze voor het laatst zijn gepubliceerd. Selecteren **[!UICONTROL Full w/ Search Data]** als u een eCatalog publiceert en u lezers het door sleutelwoord wilt kunnen zoeken.
+* **[!UICONTROL Publish]** - Adobe Dynamic Media Classic publiceert standaard alleen elementen die nieuw zijn en nog niet eerder zijn gepubliceerd (de optie Nieuw sinds laatste publicatie). U kunt echter **[!UICONTROL Full Publish]** dus u kunt ook elementen publiceren die zijn bijgewerkt of gewijzigd sinds ze voor het laatst zijn gepubliceerd. Selecteren **[!UICONTROL Full w/ Search Data]** als u een eCatalog publiceert en u lezers het door sleutelwoord wilt kunnen zoeken.
 
-* **[!UICONTROL Run Job As]** - Kies een gebruikersnaam in de lijst. U kunt taken sorteren op gebruikersnaam op de pagina Taken. Als u een naam kiest, koppelt u een publicatietaak aan een gebruiker.
+* **[!UICONTROL Run Job As]**: Kies een gebruikersnaam in de lijst. U kunt taken sorteren op gebruikersnaam op de pagina Taken. Als u een naam kiest, koppelt u een publicatietaak aan een gebruiker.
 
-**[!UICONTROL HTTP Notification]** - Voer een URL in om volgende publicatietaken te activeren.
+**[!UICONTROL HTTP Notification]**: Voer een URL in om volgende publicatietaken te activeren.
 
 Zie [Een upload- of publicatietaak gebruiken als trigger](checking-job-files.md#using_an_upload_or_publish_job_as_a_trigger).)
 
@@ -128,7 +128,7 @@ Niet-gepubliceerde elementen worden in de gebruikersinterface aangeduid met een 
 
    * Selecteer in de rasterweergave, lijstweergave of detailweergave het grijze, ronde pictogram met een schuine streep erdoorheen, links van de naam van het element.
 
-## Publicatie van elementen handmatig ongedaan maken {#manually-unpublishing-assets}
+## Elementen handmatig verwijderen {#manually-unpublishing-assets}
 
 U kunt afzonderlijke elementen handmatig verwijderen. Wanneer u de publicatie van sets, zoals een stalenset of een eCatalog, ongedaan maakt, wordt de set (of &quot;bovenliggend&quot;) zelf omgezet in een niet-gepubliceerde status. De leden (of &quot;kinderen&quot;) binnen die set worden echter niet beïnvloed, maar ze behouden hun bestaande gepubliceerde of niet-gepubliceerde status.
 
@@ -150,11 +150,11 @@ De laatste datum waarop een element is gepubliceerd, wordt weergegeven in de ged
 
 ## Hergepubliceerde elementen en CDN-vertragingen {#republished-assets-and-cdn-delays}
 
-Adobe Dynamic Media Classic-elementen worden gedistribueerd op het CDN (Content Delivery Network). CDN is een systeem van computerservers die samen samenwerken om inhoud, vooral grote media inhoud, aan eind te leveren - gebruikers. In het CDN-systeem wordt webinhoud opgeslagen in webcaches via internet (het zogenaamde Edge-cachenetwerk). De inhoud van het Web wordt geleverd van de Webgeheime voorgeheugens aan eind - gebruikers voor snellere leveringen.
+Adobe Dynamic Media Classic-elementen worden gedistribueerd op het CDN (Content Delivery Network). CDN is een systeem van computerservers die samen samenwerken om inhoud, vooral grote media inhoud, aan eind te leveren - gebruikers. In het CDN-systeem wordt webinhoud opgeslagen in webcaches via internet (het zogenaamde Edge-cachenetwerk). De inhoud van het Web wordt geleverd van de geheime voorgeheugens van het Web aan eind - gebruikers om voor snellere leveringen te maken.
 
-De eerste keer dat iemand een webpagina downloadt, worden de elementen geleverd aan een CDN-webcaeserver. Ze worden opgeslagen op deze server, zodat dezelfde inhoud in de cache sneller kan worden geleverd wanneer iemand in hetzelfde gebied de webpagina weer opent. De inhoud wordt sneller geleverd, omdat deze zich dichter bij de eindgebruiker bevindt. CDN zorgt voor snellere webpaginaweergaven. Het vermindert bandbreedteeisen op de centrale server omdat de inhoud van het netwerk van het randgeheime voorgeheugen, niet van een centrale server in elke instantie wordt geleverd.
+De eerste keer dat iemand een webpagina downloadt, worden de elementen geleverd aan een CDN-webcaeserver. Deze server slaat ze op, zodat dezelfde inhoud sneller wordt geleverd wanneer iemand in hetzelfde gebied de webpagina opnieuw benadert. De inhoud wordt sneller geleverd, omdat deze zich dichter bij de eindgebruiker bevindt. CDN zorgt voor snellere webpaginaweergaven. Het vermindert bandbreedteeisen op de centrale server omdat de inhoud van het netwerk van het randgeheime voorgeheugen, niet van een centrale server in elke instantie wordt geleverd.
 
-Nieuw gepubliceerde Adobe Dynamic Media Classic-inhoud is direct beschikbaar voor de eindgebruiker en wordt snel in het Edge-cachenetwerk geplaatst. Nieuwe opnieuw gepubliceerde inhoud (afbeeldingen met exact dezelfde naam als afbeeldingen die eerder naar een afbeeldingsserver zijn gepubliceerd) wordt echter maximaal tien uur niet op de CDN bijgewerkt. In plaats daarvan, zien de eindgebruikers wat in een Webgeheime voorgeheugen op het netwerk CDN is. Daarom worden de opnieuw gepubliceerde Adobe Dynamic Media Classic-middelen tien uur lang niet weergegeven voor eindgebruikers.
+Nieuw gepubliceerde Adobe Dynamic Media Classic-inhoud is direct beschikbaar voor de eindgebruiker en wordt snel in het Edge-cachenetwerk geplaatst. Nieuwe opnieuw gepubliceerde inhoud, dat wil zeggen afbeeldingen met dezelfde naam als afbeeldingen die eerder naar een afbeeldingsserver zijn gepubliceerd, worden echter maximaal tien uur niet op CDN bijgewerkt. In plaats daarvan, zien de eindgebruikers wat in een Webgeheime voorgeheugen op het netwerk CDN is. Daarom worden de opnieuw gepubliceerde Adobe Dynamic Media Classic-middelen tien uur lang niet weergegeven voor eindgebruikers.
 
 Als u wilt dat de nieuw gepubliceerde afbeeldingselementen sneller beschikbaar zijn dan de vertraging van tien uur, kunt u webcaches op CDN leegmaken. Als u deze webcaches leegmaakt, wordt oude inhoud uit CDN-webcaches verwijderd en vervangen door de laatst gepubliceerde elementen.
 

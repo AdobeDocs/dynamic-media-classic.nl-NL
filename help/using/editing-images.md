@@ -10,9 +10,9 @@ role: User
 exl-id: 1c368c25-78e6-4bcc-b390-d9133073821a
 topic: Content Management
 level: Intermediate
-source-git-commit: 5b5dcd1199bd51ec987b5673fce75bc86baad55b
+source-git-commit: 163eb32112ec6fbefd1dacf48212353ff3053d54
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '307'
 ht-degree: 0%
 
 ---
@@ -23,11 +23,11 @@ Adobe Dynamic Media Classic biedt veel gereedschappen voor het maken van multime
 
 * **Afbeeldingen met hyperlinks maken** - Als u een afbeelding met hyperlinks wilt maken, selecteert u de opdracht Afbeelding of **[!UICONTROL Image Map]** knop. Een afbeelding met hyperlinks is een hotspot op een afbeelding, een eCatalog-pagina of een afbeelding in een SpinSet die een deelvenster met rollovertekst weergeeft. Gebruikers kunnen bijvoorbeeld een Afbeeldingskaart selecteren om een nieuwe webpagina te starten. Zie [Afbeeldingen met hyperlinks maken](/help/using/creating-image-maps.md).
 
-* **Zoomdoelen maken** - Selecteer de opdracht Zoomdoelen of de opdracht **[!UICONTROL Zoom Targets]** knop. Gebruikers kunnen een miniatuurdoel selecteren in de zoomviewer om rechtstreeks naar een bepaald gedeelte van de afbeelding te zoomen. Zie [Zoomdoelen maken voor zoomen met instructies](/help/using/creating-zoom-targets-guided-zoom.md).
+* **Zoomdoelen maken** - Als u miniatuurdoelen wilt maken, selecteert u de opdracht Zoomdoelen of de opdracht **[!UICONTROL Zoom Targets]** knop. Gebruikers kunnen een miniatuurdoel selecteren in de zoomviewer om rechtstreeks naar een bepaald gedeelte van de afbeelding te zoomen. Zie [Zoomdoelen maken voor zoomen met instructies](/help/using/creating-zoom-targets-guided-zoom.md).
 
 * **Een afbeelding uitsnijden** - Als u een afbeelding wilt uitsnijden, selecteert u de opdracht Uitsnijden of **[!UICONTROL Crop]** knop. Zie [Een afbeelding uitsnijden](/help/using/cropping-image.md).
 
-* **Een afbeelding verscherpen** - Als u een afbeelding wilt verscherpen en de omtrekken ervan minder vaag en duidelijker wilt maken, selecteert u de opdracht Verscherpen of de opdracht **[!UICONTROL Sharpen]** knop. Zie [Een afbeelding verscherpen](/help/using/sharpening-image.md).
+* **Een afbeelding verscherpen** - Maak de omtrekken van een afbeelding minder vaag door de opdracht Verscherpen of de opdracht **[!UICONTROL Sharpen]** knop. Zie [Een afbeelding verscherpen](/help/using/sharpening-image.md).
 
 * **Een afbeelding aanpassen** - Selecteer de `Adjust` of de **[!UICONTROL Adjust]** om de kleurbalans van een afbeelding te spiegelen, te roteren, te vervagen, te kleuren of te wijzigen. Zie [Een afbeelding aanpassen](/help/using/adjusting-image.md).
 
