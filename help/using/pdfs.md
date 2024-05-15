@@ -10,9 +10,9 @@ role: User
 exl-id: 02892514-61fe-48ba-a2e3-eeb30580a1e4
 topic: Integrations, Development
 level: Experienced
-source-git-commit: b2a6aeb1aab420803a8b7dafb0fdeda495e2a69b
+source-git-commit: edd893482cbafd9674a44cf9878b8ee3079d98f7
 workflow-type: tm+mt
-source-wordcount: '674'
+source-wordcount: '677'
 ht-degree: 0%
 
 ---
@@ -39,7 +39,7 @@ U kunt PDF-bestanden uploaden via de pagina Uploaden onder PDF-opties.
 
 **[!UICONTROL Rasterize]** - (Standaard) Hiermee worden de pagina&#39;s in het PDF-bestand weggesneden en worden vectorafbeeldingen omgezet in bitmapafbeeldingen. Kies deze optie om een eCatalog te maken.
 
-**[!UICONTROL Extract Search Words]** - Extraheert woorden uit het PDF-bestand, zodat het bestand op trefwoord kan worden doorzocht in een eCatalog-viewer.
+**[!UICONTROL Extract Search Words]** - Extraheert woorden uit het PDF-bestand, zodat trefwoorden in het bestand kunnen worden doorzocht in een eCatalog-viewer.
 
 **[!UICONTROL Extract Links]** - Extraheert koppelingen uit de PDF-bestanden en converteert deze naar Afbeeldingen met hyperlinks die worden gebruikt in een eCatalog-viewer.
 
@@ -73,7 +73,9 @@ Zie ook [ICC-profielen](/help/using/icc-profiles.md#icc_profiles).
 
 ## Witruimte uitsnijden vanuit een PDF-bestand {#cropping-white-space-from-a-pdf-file}
 
-1. Als u pixels in witruimte automatisch wilt uitsnijden in een PDF-bestand terwijl u het uploadt, selecteert u het menu Uitsnijden en kiest u Bijsnijden.
+U kunt pixels in witruimte automatisch uit een PDF-bestand uitsnijden wanneer u het uploadt.
+
+1. Selecteer het menu Uitsnijden en kies Bijsnijden.
 1. Geef de volgende opties op:
 
    * **[!UICONTROL Trim Away Based On]** - Kies of u wilt uitsnijden op basis van kleur of transparantie:
@@ -95,4 +97,4 @@ U kunt de drukkersmarkeringen handmatig van de zijkanten van pagina&#39;s in een
 1. Selecteer in het menu Uitsnijden de optie **[!UICONTROL Manual]**.
 1. Geef pixelinstellingen op in de tekstvakken Boven, Rechts, Onder en Links om vanaf de bovenkant, onder en zijkanten van pagina&#39;s bij te snijden.
 
-Hoeveel van de pagina wordt bijgesneden, is afhankelijk van de resolutie PX/Inch-instelling die u voor het PDF-bestand hebt ingevoerd. Stel dat u 150 (de standaardinstelling) invoert als de instelling Resolutie PX/inch. Vervolgens snijdt u 75 pixels uit van de zijkanten van pagina&#39;s. In dat geval: 0,5 inch. is uitgesneden. Bij 150 pixels per inch is 75 pixels gelijk aan een halve inch.
+Hoeveel van de pagina wordt bijgesneden, is afhankelijk van de resolutie PX/Inch-instelling die u voor het PDF-bestand hebt ingevoerd. Stel dat u 150 (de standaardinstelling) invoert als de instelling Resolutie PX/inch. Vervolgens snijdt u 75 pixels uit van de zijkanten van de pagina&#39;s. In een dergelijk geval: 0,5 inch is uitgesneden. Bij 150 pixels per inch is 75 pixels gelijk aan een halve inch.

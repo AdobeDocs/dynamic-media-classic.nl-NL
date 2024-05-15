@@ -1,7 +1,7 @@
 ---
-source-git-commit: b2a6aeb1aab420803a8b7dafb0fdeda495e2a69b
+source-git-commit: edd893482cbafd9674a44cf9878b8ee3079d98f7
 workflow-type: tm+mt
-source-wordcount: '490'
+source-wordcount: '486'
 ht-degree: 0%
 
 ---
@@ -40,9 +40,9 @@ Met problemen kunt u eenvoudig uw idee voor verbetering beschrijven in de docume
 
 ### Een pull-verzoek maken {#create-a-pull-request}
 
-Als u een probleem ziet en precies weet hoe u dit kunt verhelpen, kunt u een pull-verzoek maken. De verzoeken van de trek staan u toe om uw eigen uit te geven aan de documentatie, die dan voor opneming door een lid van het documentatieteam wordt herzien. Als u de voorgestelde wijzigingen wilt aanbrengen en de pull-aanvraag wilt maken, selecteert u **[!UICONTROL Edit this page]** rechtsboven in het navigatievenster op een willekeurige pagina.
+Als u een probleem ziet en precies weet hoe u dit kunt verhelpen, kunt u een pull-verzoek maken. Met aanvragen om opvulling kunt u uw eigen bewerkingen uitvoeren op de documentatie en een lid van het documentatieteam evalueert de documentatie voor opname. Als u de voorgestelde wijzigingen wilt aanbrengen en de pull-aanvraag wilt maken, selecteert u **[!UICONTROL Edit this page]** rechtsboven in het navigatievenster op een willekeurige pagina.
 
-Alle intrekkingsverzoeken moeten vergezeld gaan van een ondertekend [licentieovereenkomst voor contribuanten of CLA](https://opensource.adobe.com/cla.html). Deze workflow geeft de Adobe toestemming om uw bijdragen opnieuw te distribueren als onderdeel van het project. U verzendt slechts één keer een Adobe CLA, zodat als u eerder voorlegde, u wordt geplaatst.
+Een ondertekend document [licentieovereenkomst voor contribuanten of CLA](https://opensource.adobe.com/cla.html) moeten alle terugtrekkingsverzoeken vergezellen. Deze workflow geeft de Adobe toestemming om uw bijdragen opnieuw te distribueren als onderdeel van het project. U kunt slechts één keer een Adobe CLA voorleggen, zodat als u eerder diende, wordt u geplaatst.
 
 ### Snelle video-introductie
 

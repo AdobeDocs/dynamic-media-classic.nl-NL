@@ -9,7 +9,7 @@ role: Developer
 exl-id: eaa6bf7b-ff38-4a15-b5b5-c60c3b75a35f
 topic: Development, Integrations
 level: Experienced
-source-git-commit: f054057d383b26e9088582f418f62504c3f327d8
+source-git-commit: edd893482cbafd9674a44cf9878b8ee3079d98f7
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 0%
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 # Bronnen voor ontwikkelaars {#developer-resources}
 
-De gidsen van de verwijzing aan Kijkers, het Serven van het Beeld en het Teruggeven van het Beeld, en het Systeem van de Productie van het Beeld beschrijven de http protocollen voor deze servermodules. Ontwikkelaars van websites die veelzijdige Adobe Dynamic Media Classic-media voor een website of aangepaste toepassing verder willen aanpassen en gebruiken, kunnen deze handleidingen gebruiken. Aangenomen wordt dat de gebruiker bekend is met de Dynamic Media Classic-bureaubladtoepassing, de algemene http-protocolstandaarden en -conventies en de basisterminologie voor beeldbewerking.
+De gidsen van de verwijzing aan Kijkers, het Serven van het Beeld en het Teruggeven van het Beeld, en het Systeem van de Productie van het Beeld beschrijven de http protocollen voor deze servermodules. Websiteontwikkelaars die verder willen aanpassen en veelzijdige Adobe Dynamic Media Classic-media voor een website of aangepaste toepassing willen gebruiken, kunnen deze handleidingen gebruiken. Aangenomen wordt dat de gebruiker bekend is met de Dynamic Media Classic-bureaubladtoepassing, de algemene http-protocolstandaarden en -conventies en de basisterminologie voor beeldbewerking.
 
 Zie ook [Dynamic Media Developer Resources](https://experienceleague.adobe.com/en/docs/dynamic-media-developer-resources).
 

@@ -9,16 +9,16 @@ role: Admin,User
 exl-id: d61ea80a-a98e-43e6-9e2e-4389962134f1
 topic: Administration
 level: Intermediate
-source-git-commit: 910410706fbd9dd79a8dda402af454a50132cc41
+source-git-commit: edd893482cbafd9674a44cf9878b8ee3079d98f7
 workflow-type: tm+mt
-source-wordcount: '1052'
+source-wordcount: '1055'
 ht-degree: 0%
 
 ---
 
 # Adobe Dynamic Media Classic Desktop-app - Nu beschikbaar {#new-ui-2020}
 
-Zie [Adobe Dynamic Media Classic-bureaubladtoepassing](/help/using/dynamic-media-classic-desktop-app.md) als u de systeemvereisten wilt controleren, downloadt en installeert u de nieuwe app en meldt u zich vervolgens aan.
+Zie de [Adobe Dynamic Media Classic-bureaubladtoepassing](/help/using/dynamic-media-classic-desktop-app.md) als u de systeemvereisten wilt controleren, downloadt en installeert u de nieuwe app en meldt u zich vervolgens aan.
 
 ## _Laatste herziening 30 juni 2020_
 
@@ -33,13 +33,13 @@ Adobe Flash Player was een insteekmodule voor webbrowsers waarmee webbrowsers in
 +++**_Hoe kan ik de nieuwe bureaubladtoepassing openen?_**
 De nieuwe bureaubladtoepassing is beschikbaar als een `.dmg` installer voor macOS of als `.exe` installatieprogramma voor Windows®.
 
-Zie [Adobe Dynamic Media Classic-bureaubladtoepassing](/help/using/dynamic-media-classic-desktop-app.md) als u de systeemvereisten wilt controleren, downloadt en installeert u de nieuwe app en meldt u zich vervolgens aan.
+Zie de [Adobe Dynamic Media Classic-bureaubladtoepassing](/help/using/dynamic-media-classic-desktop-app.md) als u de systeemvereisten wilt controleren, downloadt en installeert u de nieuwe app en meldt u zich vervolgens aan.
 +++
 
 <!-- NEWSLETTER IS DEAD The download links are also available by way of the [Adobe Dynamic Media Classic newsletter subscription page.](https://www.adobe.com/subscription/dynamic-media-newsletter.html) -->
 
 +++**_Hoe werkt de nieuwe bureaubladtoepassing?_**
-Nadat u de bureaubladtoepassing hebt gedownload, geïnstalleerd en gestart, ontvangt u een vernieuwd aanmeldingsbestand. Door uw bestaande gebruikersnaam en wachtwoord in te voeren en de juiste server te selecteren op basis van uw regio, kunt u zich aanmelden bij Adobe Dynamic Media Classic. De algemene ervaring is hetzelfde als de vertrouwde webbrowserversie die u gebruikt. Vanuit de bureaubladtoepassing hebt u toegang tot de Adobe Dynamic Media Classic Production and Staging-omgevingen. U kunt tot het Portaal van Media ook toegang hebben als u voor dit vermogen wordt toegelaten.
+Nadat u de bureaubladtoepassing hebt gedownload, geïnstalleerd en gestart, ontvangt u een vernieuwd aanmeldingsbestand. Door uw bestaande gebruikersnaam en wachtwoord in te voeren en de juiste server te selecteren op basis van uw regio, kunt u zich aanmelden bij Adobe Dynamic Media Classic. De algemene ervaring is het zelfde als de vertrouwde browser van het Web versie die u aan wordt gebruikt. Vanuit de bureaubladtoepassing hebt u toegang tot de Adobe Dynamic Media Classic Production and Staging-omgevingen. U kunt tot het Portaal van Media ook toegang hebben als u voor dit vermogen wordt toegelaten.
 
 >[!IMPORTANT]
 >
@@ -84,10 +84,10 @@ Nee op beide vragen. Er is geen SKU- of licentiewijziging vereist voor het gebru
 +++
 
 +++**_Hoe zijn upgrades naar de Adobe Dynamic Media Classic-bureaubladtoepassing ingeschakeld?_**
-Na de release van de Adobe Dynamic Media Classic-bureaubladtoepassing op 30 juni 2020 moeten klanten de nieuwe versie downloaden en installeren als de Adobe een nieuwe versie publiceert (vervang de bestaande app in **[!UICONTROL Applications]**). U wordt op de hoogte gesteld van de nieuwe versie via uw accountteam van de Adobe en een mechanisme voor upgrademelding in de app waarmee gebruikers op de hoogte worden gebracht van een upgrade.
+Na de release van de Adobe Dynamic Media Classic-bureaubladtoepassing op 30 juni 2020 moeten klanten de nieuwe versie downloaden en installeren als Adobe een nieuwe versie publiceert (vervang de bestaande app in **[!UICONTROL Applications]**). U wordt op de hoogte gesteld van de nieuwe versie via uw accountteam van de Adobe en een mechanisme voor upgrademelding in de app waarmee gebruikers op de hoogte worden gebracht van een upgrade.
 +++
 
-+++**_Hoe krijg ik hulp voor problemen die ik heb met Adobe Dynamic Media Classic desktop app?_**
++++**_Hoe krijg ik hulp voor problemen die ik heb met de Adobe Dynamic Media Classic-bureaubladtoepassing?_**
 Neem contact op met de Adobe Support voor alle problemen die u hebt tijdens het gebruik van de app.
 +++
 
@@ -107,7 +107,7 @@ Ga voor meer informatie over de voordelen van de upgrade naar de volgende genera
 
 >[!MORELIKETHIS]
 >
->* [Aanmelden bij en uit Adobe Dynamic Media Classic-bureaubladtoepassing](/help/using/signing-out.md)
+>* [Aanmelden bij en uit de Adobe Dynamic Media Classic-bureaubladtoepassing](/help/using/signing-out.md)
 >* [De Adobe Dynamic Media Classic-bureaubladtoepassing downloaden en installeren](/help/using/dynamic-media-classic-desktop-app.md)
 
 <!-- SAVE - OLD LINK TO BEST PRACTICES GUIDE IN PDF https://www.adobe.com/content/dam/www/us/en/marketing/experience-manager-assets/dynamic-media/adobe-dynamic-media-classic-best-practices-guide.pdf -->

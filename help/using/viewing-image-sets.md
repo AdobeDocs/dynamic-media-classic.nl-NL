@@ -10,16 +10,16 @@ role: User
 exl-id: c8d742a4-a1a1-4b5f-bcfd-6a1972edf9bc
 topic: Content Management
 level: Intermediate
-source-git-commit: 5b5dcd1199bd51ec987b5673fce75bc86baad55b
+source-git-commit: edd893482cbafd9674a44cf9878b8ee3079d98f7
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '464'
 ht-degree: 0%
 
 ---
 
 # Afbeeldingssets weergeven{#viewing-image-sets}
 
-U kunt de afbeeldingssets weergeven in het voorvertoningsvenster met behulp van de beschikbare voorinstellingen. U gebruikt een zoomviewer: aangepaste viewer-voorinstelling voor afbeeldingssets.
+U kunt de afbeeldingssets weergeven in het voorvertoningsvenster met behulp van de beschikbare voorinstellingen. U kunt een zoomviewer gebruiken: aangepaste viewer-voorinstelling voor afbeeldingssets.
 
 Adobe Dynamic Media Classic wordt geleverd met standaardvoorinstellingen voor viewers. Beheerders kunnen de Viewer-voorinstellingen maken of wijzigen.
 
@@ -45,11 +45,11 @@ U kunt Viewer-voorinstellingen maken en aanpassen aan uw wensen.
 
 ## Afbeeldingsset-elementen voorvertonen in een viewer {#previewing-image-set-assets-in-a-viewer}
 
-Met Voorvertoning kunt u zien hoe een element wordt weergegeven op een bepaald viewertype, zoals HTML5. Afhankelijk van het elementtype en de bijbehorende viewer die u hebt geselecteerd voor de voorvertoning, zijn niet alle platforms beschikbaar in Voorvertoning.
+Met Voorvertoning kunt u zien hoe een element wordt weergegeven in een bepaald viewertype, zoals HTML5. Afhankelijk van het elementtype en de bijbehorende viewer die u hebt geselecteerd voor de voorvertoning, zijn niet alle platforms beschikbaar in Voorvertoning.
 
 1. In het paneel van de Bibliotheek van Activa op de linkerkant, in **[!UICONTROL Show]** vervolgkeuzelijst kiest u **[!UICONTROL Image Set]**.
 1. In het paneel van de Bibliotheek van Activa op de linkerkant, navigeer de elementenomslagen om de Reeks van het Beeld te selecteren die u voorproef wilt.
-1. Voer een van de volgende handelingen uit
+1. Voer een van de volgende handelingen uit:
 
    * Selecteer in de rechterbovenhoek van het Adobe Dynamic Media Classic-venster de optie **[!UICONTROL List View]** pictogram. Houd de muisaanwijzer boven een element in het venster Element en selecteer vervolgens **[!UICONTROL Preview]** (niet de vervolgkeuzelijst Voorvertoning).
    * Selecteer in de rechterbovenhoek van het Adobe Dynamic Media Classic-venster de optie **[!UICONTROL Grid View]** pictogram. Selecteer in het venster Middelen in een elementminiatuurvenster de optie **[!UICONTROL Preview]** (niet de vervolgkeuzelijst Voorvertoning).

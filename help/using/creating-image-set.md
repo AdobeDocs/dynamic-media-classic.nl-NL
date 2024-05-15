@@ -1,6 +1,6 @@
 ---
 title: Een afbeeldingsset maken
-description: Leer hoe u een afbeeldingsset maakt in Adobe Dynamic Media Classic.
+description: Leer hoe u een Afbeeldingsset maakt in Adobe Dynamic Media Classic.
 contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
@@ -10,9 +10,9 @@ role: User
 exl-id: c18bb98c-b087-45d0-a4c9-44f58a3b514f
 topic: Content Management
 level: Intermediate
-source-git-commit: b2a6aeb1aab420803a8b7dafb0fdeda495e2a69b
+source-git-commit: edd893482cbafd9674a44cf9878b8ee3079d98f7
 workflow-type: tm+mt
-source-wordcount: '641'
+source-wordcount: '643'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ Als u een Afbeeldingsset met meerdere weergaven wilt maken, hebt u afbeeldingen 
 
 Wanneer u een set maakt, **[!UICONTROL Publish after save]** Deze optie is op de volgende manieren van invloed op de set en de set leden:
 
-| **[!UICONTROL Publish after save]** optie geselecteerd voor opslaan? | Status van set na opslaan | Status van ingestelde leden na opslaan |
+| **[!UICONTROL `Publish after save`]** optie geselecteerd voor opslaan? | Status van set na opslaan | Status van ingestelde leden na opslaan |
 | --- | --- | --- |
 | Ja | Gepubliceerd | Gepubliceerd |
 | Nee | Ongepubliceerd | Leden met een set behouden hun gepubliceerde of niet-gepubliceerde status. |
@@ -39,7 +39,7 @@ Wanneer u een Reeks van het Beeld creeert, beveelt de Adobe de volgende beste pr
 | Aantal dubbele elementen per set | Geen duplicaten | 20‡ |
 | Maximumaantal afbeeldingen per set | 5-10 afbeeldingen per set | 1000 |
 
-‡ De beste manier is om geen dubbele elementen in een set te hebben. De limiet is 20 duplicaten voor één element. Als u nog een duplicaat voor dat element toevoegt (binnen die set), geeft de aanvraag een fout of wordt het duplicaat genegeerd.
+‡ De beste manier is om geen dubbele elementen in een set te hebben. De limiet is 20 duplicaten voor één element. Als u binnen de set nog een duplicaat voor dat element toevoegt, geeft de aanvraag een fout of wordt het duplicaat genegeerd.
 
 Zie ook [Dynamic Media-beperkingen](/help/using/limitations.md).
 
@@ -60,7 +60,7 @@ Zie ook [Dynamic Media-beperkingen](/help/using/limitations.md).
 
 Of u een gepubliceerde of een niet-gepubliceerde set bewerkt, **[!UICONTROL Publish after save]** Deze optie is op de volgende manieren van invloed op de set en de set leden:
 
-| Reeds gepubliceerd instellen? | **[!UICONTROL Publish after save]** optie geselecteerd voordat u de bewerking opslaat? | Status van set na opslaan | Status van ingestelde leden na opslaan |
+| Reeds gepubliceerd instellen? | **[!UICONTROL `Publish after save`]** optie geselecteerd voordat u de bewerking opslaat? | Status van set na opslaan | Status van ingestelde leden na opslaan |
 | --- | --- | --- | --- |
 | Ja | Ja | Gepubliceerd | Gepubliceerd |
 | Ja | Nee | Gepubliceerd | Bestaande leden met een set behouden hun gepubliceerde status. Alle nieuwe leden die u tijdens het bewerken hebt toegevoegd, behouden hun gepubliceerde of niet-gepubliceerde status. |

@@ -10,16 +10,16 @@ role: User
 exl-id: 5e7f39a5-36a6-40df-8752-064a582c9346
 topic: Integrations, Development
 level: Experienced
-source-git-commit: b2a6aeb1aab420803a8b7dafb0fdeda495e2a69b
+source-git-commit: edd893482cbafd9674a44cf9878b8ee3079d98f7
 workflow-type: tm+mt
-source-wordcount: '1449'
+source-wordcount: '1452'
 ht-degree: 0%
 
 ---
 
 # ECatalog-afbeeldingen met hyperlinks maken{#creating-ecatalog-image-maps}
 
-Een afbeelding met hyperlinks is een gebied op een eCatalog-pagina waarop u met de muis kunt schuiven of waarop u een afbeelding met hyperlinks kunt selecteren om acties van verschillende soorten te activeren. Wanneer u de aanwijzer bijvoorbeeld op een Afbeeldingskaart plaatst, wordt een beschrijving van een item weergegeven met de rollover-tekst. Wanneer u een afbeelding met hyperlinks selecteert, wordt een andere handeling uitgevoerd. U kunt bijvoorbeeld een webpagina openen zodat gebruikers meer kunnen weten over een item of dit kunnen kopen, of u kunt een video starten om een item in gebruik te zien.
+Een afbeelding met hyperlinks is een gebied op een eCatalog-pagina waarop u met de muis kunt schuiven of waarop u een afbeelding met hyperlinks kunt selecteren om acties van verschillende soorten te activeren. Wanneer u de aanwijzer over een Afbeeldingskaart beweegt, ziet u bijvoorbeeld een beschrijving van een item met rollover-tekst. Wanneer u een afbeelding met hyperlinks selecteert, wordt een andere handeling uitgevoerd. U kunt bijvoorbeeld een webpagina openen zodat gebruikers meer kunnen weten over een item of dit kunnen kopen, of u kunt een video starten om een item in gebruik te zien.
 
 ## ECatalog-afbeeldingen met hyperlinks tekenen {#drawing-ecatalog-image-maps}
 
@@ -51,7 +51,7 @@ Zie [Een sjabloon gebruiken om JavaScript en URL&#39;s in te voeren](creating-im
 1. Selecteren **[!UICONTROL Save]**.
 1. (Optioneel) Selecteer **[!UICONTROL Preview]** om de eCatalog met de standaard vooraf ingestelde eCatalogKijker te bekijken.
 
-Als u een afbeelding met hyperlinks wilt verwijderen, selecteert u de naam in de lijst Afbeeldingskaart en selecteert u **[!UICONTROL Delete]**. Als u een afbeelding met hyperlinks tijdelijk wilt uitschakelen zonder de afbeelding met hyperlinks te verwijderen, schakelt u de optie Afbeeldingskaart op in het deelvenster Lijst met afbeeldingen met hyperlinks uit.
+Als u een afbeelding met hyperlinks wilt verwijderen, selecteert u de naam in de lijst Afbeeldingskaart en selecteert u **[!UICONTROL Delete]**. U kunt een afbeelding met hyperlinks tijdelijk uitschakelen zonder de afbeelding met hyperlinks te verwijderen. Selecteer de optie Afbeeldingen met hyperlinks op in de lijst Afbeelding met hyperlinks.
 
 ## Veelzijdige media insluiten in een eCatalog {#embedding-rich-media-in-an-ecatalog}
 
@@ -75,7 +75,7 @@ U kunt knopinfo ook weergeven wanneer klanten hun aanwijzers over de Afbeeldings
 
 Ga als volgt te werk om eCatalog Image Maps te bewerken, beginnend op het tabblad Kaartpagina&#39;s van het eCatalog-scherm:
 
-* **De positie aanpassen** - Selecteer het gereedschap Pannen en verplaats de aanwijzer in de buurt maar niet boven de rand van de kaart. Wanneer de aanwijzer een pijl met vier punten toont, sleept u de hele afbeelding met hyperlinks naar een nieuwe locatie.
+* **De positie aanpassen** - Selecteer het gereedschap Pannen en verplaats de aanwijzer in de buurt maar niet boven de rand van de kaart. Wanneer de aanwijzer een pijl met vier punten ziet, sleept u de hele afbeelding met hyperlinks naar een nieuwe locatie.
 
   Zie [De positie, vorm en grootte van afbeeldingskaarten aanpassen](creating-image-maps.md#adjusting_the_position_shape_and_size_of_image_maps).
 
@@ -97,7 +97,7 @@ Ga als volgt te werk om eCatalog Image Maps te bewerken, beginnend op het tabbla
 
 >[!NOTE]
 >
->Naast het kopiëren van Afbeeldingskaarten naar verschillende pagina&#39;s in een eCatalog, kunt u alle Kaarten van het Beeld in een eCatalog aan een verschillende eCatalog kopiëren. Zie [Afbeeldingen met hyperlinks kopiëren tussen eCatalogi](creating-ecatalog-image-maps.md#copying_image_maps_between_ecatalogs).
+>Wanneer u Afbeeldingen met hyperlinks kopieert naar verschillende pagina&#39;s in een eCatalog, kunt u alle afbeeldingen met hyperlinks in een eCatalog kopiëren naar een andere eCatalog. Zie [Afbeeldingen met hyperlinks kopiëren naar andere eCatalogi](creating-ecatalog-image-maps.md#copying_image_maps_between_ecatalogs).
 
 ## Afbeeldingskaartgegevens controleren en importeren {#reviewing-and-importing-image-map-data}
 
@@ -109,14 +109,14 @@ Als u het scherm Kaartoverzicht wilt weergeven, selecteert u op het tabblad Kaar
 
 1. Selecteer in het scherm Map Pages de optie **[!UICONTROL Summary]**.
 
-   In het scherm Kaartoverzicht ziet u hoeveel Afbeeldingen met hyperlinks, URL&#39;s, beschrijvingen van rollover-tekst en andere acties zich in uw eCatalog bevinden.
+   In het scherm Kaartoverzicht ziet u hoeveel Afbeeldingen met hyperlinks, URL&#39;s, beschrijvingen van rollover-tekst en andere handelingen zich in uw eCatalog bevinden.
 
 1. Als er fouten met de rollover-toets optreden, selecteert u de fout in het dialoogvenster **[!UICONTROL Rollover_Key Error]** om te zien wat in uw spreadsheet moet veranderen om de fout te verbeteren. U kunt de tekst van dit bericht selecteren en kopiëren en deze in uw werkblad plakken.
-1. Selecteren **[!UICONTROL Preview]** zodat u een pagina in de eCatalogKijker kunt onderzoeken; selecteer X om het Summiere scherm te sluiten en aan het scherm van de Pagina&#39;s van de Kaart terug te keren, of **[!UICONTROL Close]** om terug te keren naar Bladeren.
+1. Selecteren **[!UICONTROL Preview]** zodat u een pagina kunt bekijken in de eCatalog Viewer. Selecteer X om het Summiere scherm te sluiten en aan het scherm van de Pagina&#39;s van de Kaart terug te keren, of selecteer **[!UICONTROL Close]** om terug te keren naar Bladeren.
 
 ### Afbeeldingskaartgegevens importeren {#import-image-map-data}
 
-In plaats van de gegevens van de Kaart van het Beeld op elke pagina in te gaan, kunt u de gegevens voor uw volledige eCatalog in het Summiere scherm van de Kaart invoeren. U importeert de gegevens van de Kaart van het Beeld in de vorm van een lusje-afgebakend dossier of van XML DTD. De velden in het bestand moeten in de volgorde staan die wordt weergegeven in het scherm Kaartoverzicht: Naam, inhoudsopgavelabels, Kaarten, URL&#39;s, Rollover-tekst, Overige handelingen en Zoeken. Door de gegevens van de Kaart van het Beeld in te voeren bespaart u het probleem om de gegevens in de Lijst van de Kaart van het Beeld in te gaan aangezien u elke Kaart van het Beeld creeert.
+In plaats van de gegevens van de Kaart van het Beeld op elke pagina in te gaan, kunt u de gegevens voor uw volledige eCatalog in het Summiere scherm van de Kaart invoeren. U importeert de gegevens van de Kaart van het Beeld in de vorm van een lusje-afgebakend dossier of van XML DTD. De velden in het bestand moeten in de volgorde staan die wordt weergegeven in het scherm Kaartoverzicht: Naam, inhoudsopgavelabels, Kaarten, URL&#39;s, Rollover-tekst, Overige handelingen en Zoeken. Door de gegevens van de Kaart van het Beeld in te voeren bespaart u het probleem om de gegevens in de lijst van de Kaart van het Beeld in te gaan aangezien u elke Kaart van het Beeld creeert.
 
 >[!NOTE]
 >
@@ -129,9 +129,9 @@ Ga als volgt te werk om Image Map-gegevens voor door u gemaakte afbeeldingen met
 1. Typ in het veld Taaknaam een naam voor het bestand (zorg ervoor dat u de extensie behoudt).
 1. Selecteren **[!UICONTROL Upload]**.
 
-## Afbeeldingen met hyperlinks kopiëren tussen eCatalogi {#copying-image-maps-between-ecatalogs}
+## Afbeeldingen met hyperlinks kopiëren naar andere eCatalogi {#copying-image-maps-between-ecatalogs}
 
-U kunt alle afbeeldingen met hyperlinks in een eCatalog kopiëren naar een andere eCatalog. Het kopiëren van Afbeeldingen met hyperlinks op deze manier is een handige methode voor het kopiëren van afbeeldingen met hyperlinks tussen vertalingen in vreemde talen van dezelfde eCatalog. Adobe Dynamic Media Classic raadt aan om eCatalogi te kopiëren met hetzelfde aantal pagina&#39;s en met dezelfde afbeeldingen, zodat het kopiëren lukt.
+U kunt alle afbeeldingen met hyperlinks in een eCatalog kopiëren naar een andere eCatalog. Het kopiëren van Afbeeldingen met hyperlinks op deze manier is een handige methode voor het kopiëren van afbeeldingen met hyperlinks tussen vertalingen in vreemde talen van dezelfde eCatalog. Adobe Dynamic Media Classic raadt aan om eCatalogi te kopiëren met hetzelfde aantal pagina&#39;s en dezelfde afbeeldingen, zodat het kopiëren lukt.
 
 >[!NOTE]
 >
@@ -143,4 +143,4 @@ Ga als volgt te werk om alle afbeeldingen met hyperlinks in een eCatalog te kopi
 1. Selecteer op het tabblad Order Pages de optie **[!UICONTROL Copy Maps]**.
 1. Selecteer in het dialoogvenster Element selecteren de eCatalog waar u de Afbeeldingskaarten wilt kopiëren en selecteer vervolgens **[!UICONTROL Select]**.
 
-Adobe Dynamic Media Classic geeft een waarschuwingsbericht weer als de eCatalog (de eCatalog waarnaar u afbeeldingen met hyperlinks kopieert) een ander aantal pagina&#39;s of afbeeldingen van een andere grootte heeft. Selecteren **[!UICONTROL Continue]** om de afbeeldingen met hyperlinks te kopiëren, ondanks de waarschuwing.
+Adobe Dynamic Media Classic geeft een waarschuwingsbericht weer als de eCatalog waarvan u afbeeldingen met hyperlinks kopieert, een ander aantal pagina&#39;s of afbeeldingen heeft die een andere grootte hebben. Selecteren **[!UICONTROL Continue]** om de afbeeldingen met hyperlinks te kopiëren, ondanks de waarschuwing.

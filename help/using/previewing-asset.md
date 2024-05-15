@@ -10,9 +10,9 @@ role: User
 exl-id: 7e6f652c-b197-4171-b11b-f532795f7cf2
 topic: Content Management
 level: Intermediate
-source-git-commit: f054057d383b26e9088582f418f62504c3f327d8
+source-git-commit: edd893482cbafd9674a44cf9878b8ee3079d98f7
 workflow-type: tm+mt
-source-wordcount: '939'
+source-wordcount: '943'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Met Voorvertonen kunt u zien hoe een digitaal element wordt weergegeven wanneer 
 
 Zie [Standaardviewers configureren](application-setup.md#configuring_default_viewers).
 
-Als u een voorvertoning van een sjabloonelement weergeeft met parameterlagen, kunt u parameters wijzigen of de voorinstelling van de afbeelding wijzigen. Omdat de wijzigingen inline worden aangebracht, kunt u de resultaten direct vanuit hetzelfde voorvertoningsvenster bekijken.
+Als u een voorbeeld van een sjabloonelement met parameterlagen bekijkt, kunt u parameters wijzigen of de voorinstelling voor afbeelding wijzigen. Omdat de wijzigingen inline worden aangebracht, kunt u de resultaten direct vanuit hetzelfde voorvertoningsvenster bekijken.
 
 Zie ook [Voorbeelden van Adobe Viewers Reference Library](https://landing.adobe.com/en/na/dynamic-media/ctir-2755/live-demos.html).
 
@@ -43,7 +43,7 @@ Zie ook [Voorbeelden van Adobe Viewers Reference Library](https://landing.adobe.
 
 ## Een voorvertoning van een element weergeven op basis van het type viewerplatform {#previewing-an-asset-based-on-viewer-platform-type}
 
-U kunt de Lijst van de Kijker gebruiken om te voorproef hoe een middel op bepaald type van kijkersplatform zoals HTML5 verschijnt. Afhankelijk van het elementtype en de bijbehorende viewer die u hebt geselecteerd voor voorvertoning, zijn niet alle platforms beschikbaar in de Viewer List.
+U kunt de Lijst van de Kijker gebruiken om te voorproef hoe een middel op een bepaald type van kijkersplatform zoals HTML5 verschijnt. Afhankelijk van het elementtype en de bijbehorende viewer die u hebt geselecteerd voor voorvertoning, zijn niet alle platforms beschikbaar in de Viewer List.
 
 U kunt ook de Viewer List gebruiken om de URL of weergave van een viewer te kopiëren en de viewercode te kopiëren voor insluiting op uw webpagina&#39;s.
 
@@ -63,7 +63,7 @@ Voor een bepaald viewerplatform kunt u in het venster Viewer List visueel zien w
 
    Sluit de weergegeven voorvertoning.
 
-1. (Optioneel) Selecteer in het venster Viewer List in de vervolgkeuzelijst URL-codering voor URL-generatie kopiëren onderaan de URL-codering die u op de URL van het element wilt toepassen wanneer het element wordt gekopieerd.
+1. (Optioneel) Selecteer de URL-codering in de vervolgkeuzelijst URL-generatie kopiëren onder in het venster Viewer List. Deze codering wordt toegepast op de URL van het element wanneer het wordt gekopieerd.
 1. (Optioneel) Voer een van de volgende handelingen uit:
 
    * Selecteer in het venster Viewer List onder de kolom Acties van de tabel de optie **[!UICONTROL Copy URL]** voor een geselecteerde viewer- en platformtype.
@@ -82,7 +82,7 @@ Voor een bepaald viewerplatform kunt u in het venster Viewer List visueel zien w
 
 U kunt een voorvertoning van een afbeeldingselement weergeven op basis van de voorinstelling Afbeelding om te zien hoe de afbeelding eruitziet wanneer deze dynamisch bij verschillende formaten wordt geleverd aan uw website of toepassing.
 
-Een voorinstelling voor afbeeldingen is een verzameling vooraf gedefinieerde instellingen die de grootte, afbeeldingskwaliteit, indeling, resolutie en andere aspecten van de weergave van een afbeelding tijdens het exporteren wijzigen.
+Een voorinstelling voor afbeeldingen is een verzameling vooraf gedefinieerde instellingen. Met deze instellingen wijzigt u de grootte, afbeeldingskwaliteit, indeling, resolutie en andere aspecten van de weergave van een afbeelding tijdens het exporteren.
 
 Zie [Voorinstellingen afbeelding instellen](setting-image-presets.md#setting_up_image_presets).
 
@@ -98,7 +98,8 @@ Zie [Voorinstellingen afbeelding maken en inschakelen](creating-enabling-image-p
    * Selecteer boven het middelenvenster rechts op de werkbalk de optie **[!UICONTROL Detail View]**. Ga op dezelfde werkbalk naar **[!UICONTROL Preview]** > **[!UICONTROL Image Preset List]**.
 
 1. Selecteer in de tabel in het venster Lijst met voorinstellingen afbeelding de naam van een type voorinstelling waarvan u een inline voorvertoning wilt weergeven in het rechterdeelvenster.
-1. (Optioneel) Kies in het venster Lijst met voorinstellingen afbeelding de optie **[!UICONTROL URL Encoding for Copy URL Generation]** Selecteer in de vervolgkeuzelijst onderaan de URL-codering die u op de URL van het afbeeldingselement wilt toepassen wanneer het element wordt gekopieerd.
+1. (Optioneel) Kies in het venster Lijst met voorinstellingen afbeelding de optie **[!UICONTROL URL Encoding for Copy URL Generation]** vervolgkeuzelijst onderaan.
+1. Selecteer de URL-codering die u wilt toepassen op de URL van het afbeeldingselement wanneer deze wordt gekopieerd.
 1. (Optioneel) Selecteer in het venster Lijst met voorinstellingen afbeelding rechtsboven in het voorvertoningsvenster de optie **[!UICONTROL Copy URL]** voor het geselecteerde vooraf ingestelde type.
 
    Wanneer u **[!UICONTROL Copy URL]**, wordt de bijbehorende URL automatisch naar het klembord gekopieerd.

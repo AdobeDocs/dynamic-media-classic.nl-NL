@@ -10,16 +10,16 @@ role: Admin,User
 exl-id: ac50cb9c-fd87-4608-80cb-8d40a0b8f131
 topic: Administration
 level: Beginner
-source-git-commit: b2a6aeb1aab420803a8b7dafb0fdeda495e2a69b
+source-git-commit: edd893482cbafd9674a44cf9878b8ee3079d98f7
 workflow-type: tm+mt
-source-wordcount: '474'
+source-wordcount: '477'
 ht-degree: 0%
 
 ---
 
 # Overzicht van Adobe Dynamic Media Classic-programma{#adobe-scene-platform-overview}
 
-Adobe Dynamic Media Classic is een geïntegreerde, rijke omgeving voor mediabeheer, -publicatie en -services. De rijke media kunnen aan alle marketing en verkoopkanalen, met inbegrip van het Web, drukmateriaal, e-mailcampagnes, Webportals, Desktops, en apparaten worden geleverd.
+Adobe Dynamic Media Classic is een geïntegreerde, rijke omgeving voor mediabeheer, -publicatie en -services. Rijke media kunnen aan alle marketing en verkoopkanalen worden geleverd. Deze kanalen omvatten het Web, drukmateriaal, e-mailcampagnes, portals van het Web, Desktops, en apparaten.
 
 Zie ook [Overzicht van platform](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&amp;emailurl=https://s7d5.scene7.com/s7/emailFriend&amp;serverUrl=https://s7d5.scene7.com/is/image/&amp;config=Scene7SharedAssets/Universal_HTML5_Video&amp;contenturl=https://s7d5.scene7.com/skins/&amp;asset=S7tutorials/572_Platform%20Overview_converted%20renamed_Getting%20Started-AVS) trainingsvideo.
 

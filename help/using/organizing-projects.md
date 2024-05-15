@@ -10,9 +10,9 @@ role: User
 exl-id: 69aabf4a-21bc-4bd8-8aad-33c2cfb9cf57
 topic: Content Management
 level: Intermediate
-source-git-commit: 914fde11270dc731a261da3305b29dd573584d93
+source-git-commit: edd893482cbafd9674a44cf9878b8ee3079d98f7
 workflow-type: tm+mt
-source-wordcount: '466'
+source-wordcount: '465'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Projecten bieden een optionele, secundaire manier voor u om elementen onafhankelijk van de mappen te ordenen waarin ze zijn opgeslagen. Een middel kan in slechts één omslag worden geplaatst, maar het kan in meer dan één omslag van het Project voor organisatorische doeleinden worden gekopieerd.
 
-Nadat u een projectmap hebt gemaakt, kunt u er elementen in plaatsen. Elementen in een project zijn echter eigenlijk aanwijzers naar de map Asset Library waarin de elementen zijn opgeslagen. U kunt een middel in meer dan één Project plaatsen. Een afbeelding van een bloe kan bijvoorbeeld zowel in de projectmappen &quot;Blouses&quot; als &quot;Fall Collection&quot; worden geplaatst.
+Nadat u een projectmap hebt gemaakt, kunt u er elementen in plaatsen. Elementen in een project zijn in feite aanwijzers naar de map Asset Library waarin de elementen zijn opgeslagen. U kunt een middel in meer dan één Project plaatsen. Een afbeelding van een bloe kan bijvoorbeeld zowel in de projectmappen &quot;Blouses&quot; als &quot;Fall Collection&quot; worden geplaatst.
 
 U kunt een project maken wanneer u bestanden uploadt of projecten maakt in het deelvenster Elementenbibliotheek.
 
@@ -39,7 +39,7 @@ U kunt een projectmap maken die begint in de elementenbibliotheek of wanneer u b
 
 * **In de Middelenbibliotheek** - Blader naar de onderkant van de elementenbibliotheek, naar de sectie Projecten en selecteer **[!UICONTROL Add Project]**. Voer een naam in voor het project.
 
-* **Bestanden uploaden** - Ga in het uploadscherm naar **[!UICONTROL Add to Project]** > **[!UICONTROL Create Project]**. Voer een naam in voor het project.
+* **Bestanden uploaden** - Ga in het scherm Uploaden naar **[!UICONTROL Add to Project]** > **[!UICONTROL Create Project]**. Voer een naam in voor het project.
 
 >[!NOTE]
 >

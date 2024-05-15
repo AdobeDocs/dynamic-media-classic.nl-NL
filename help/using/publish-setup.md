@@ -9,9 +9,9 @@ role: Admin
 exl-id: 699d4c12-e47b-4c6b-86f3-dc7aaaa56c1e
 topic: Administration, Content Management
 level: Intermediate
-source-git-commit: f054057d383b26e9088582f418f62504c3f327d8
+source-git-commit: edd893482cbafd9674a44cf9878b8ee3079d98f7
 workflow-type: tm+mt
-source-wordcount: '2322'
+source-wordcount: '2318'
 ht-degree: 0%
 
 ---
@@ -34,23 +34,23 @@ De pagina van de Server van het Beeld vestigt standaardmontages voor het leveren
 
 Wijzig deze instellingen alleen met hulp van een Adobe Dynamic Media Classic-medewerker.
 
-* **[!UICONTROL Catalog Management]** - Deze instellingen bepalen de interactie tussen Adobe Dynamic Media Classic en de catalogus. In tegenstelling tot de meeste webservers gaan URL-aanroepen van Dynamic Media Image Server naar een manifest-of catalogusbestand in plaats van naar het eigenlijke afbeeldingsbestand. Het catalogusbestand (dat niet moet worden verward met een eCatalog) bevat een lijst met alle inhoud die naar de afbeeldingsserver is gepubliceerd, samen met het pad naar elke afbeelding. Als u een Digimarc-id hebt, voert u uw gebruikersgegevens in het gedeelte Digimarc-gebruikersinfo in.
+* **[!UICONTROL Catalog Management]**: Deze instellingen bepalen de interactie tussen Adobe Dynamic Media Classic en de catalogus. In tegenstelling tot de meeste webservers gaan URL-aanroepen van Dynamic Media Image Server naar een manifest-of catalogusbestand in plaats van naar het eigenlijke afbeeldingsbestand. Het catalogusbestand (dat niet moet worden verward met een eCatalog) bevat een lijst met alle inhoud die naar de afbeeldingsserver is gepubliceerd. Het bevat ook het pad naar elke afbeelding. Als u een Digimarc-id hebt, voert u uw gebruikersgegevens in het gedeelte Digimarc-gebruikersinfo in.
 
-* **[!UICONTROL Request Attributes]** - Met deze instellingen worden limieten ingesteld voor afbeeldingen die van de server kunnen worden geleverd. Bijvoorbeeld de *maximum* **[!UICONTROL Reply Image Size Limit]** is **[!UICONTROL Width]** 5000 en **[!UICONTROL Height]** 5000.
+* **[!UICONTROL Request Attributes]**: Met deze instellingen worden limieten ingesteld voor afbeeldingen die van de server kunnen worden geleverd. Bijvoorbeeld de *maximum* **[!UICONTROL Reply Image Size Limit]** is **[!UICONTROL Width]** 5000 en **[!UICONTROL Height]** 5000.
 
-* **[!UICONTROL Default Request Attributes]** - Deze instellingen hebben betrekking op de standaardweergave van afbeeldingen.
+* **[!UICONTROL Default Request Attributes]**: Deze instellingen hebben betrekking op de standaardweergave van afbeeldingen.
 
-* **[!UICONTROL Common Thumbnail Attributes]** - Deze instellingen hebben betrekking op de standaardweergave en -uitlijning van miniatuurafbeeldingen.
+* **[!UICONTROL Common Thumbnail Attributes]**: Deze instellingen hebben betrekking op de standaardweergave en -uitlijning van miniatuurafbeeldingen.
 
-* **[!UICONTROL Defaults for Catalog Fields]** - Deze instellingen hebben betrekking op de resolutie en het standaardtype miniatuur van afbeeldingen.
+* **[!UICONTROL Defaults for Catalog Fields]**: Deze instellingen hebben betrekking op de resolutie en het standaardtype miniatuur van afbeeldingen.
 
-* **[!UICONTROL Color Management Attributes]** - Deze instellingen bepalen welke ICC-kleurprofielen worden gebruikt.
+* **[!UICONTROL Color Management Attributes]**: Deze instellingen bepalen welke ICC-kleurprofielen worden gebruikt.
 
-* **[!UICONTROL Compatibility Attributes]** - Met deze instelling kunnen alinea&#39;s met regelafstand en navolgende in tekstlagen op dezelfde manier worden behandeld als in versie 3.6, voor achterwaartse compatibiliteit.
+* **[!UICONTROL Compatibility Attributes]**: Met deze instelling kunnen alinea&#39;s met regelafstand en navolgende in tekstlagen op dezelfde manier worden behandeld als in versie 3.6 voor achterwaartse compatibiliteit.
 
-* **[!UICONTROL Localization Support]*** - Met deze instellingen kunt u meerdere kenmerken voor de landinstelling beheren. U kunt hiermee ook een landinstellingenkaarttekenreeks opgeven, zodat u kunt definiëren welke talen u wilt ondersteunen voor de verschillende knopinfo in Viewers.
+* **[!UICONTROL Localization Support]**: Met deze instellingen kunt u meerdere kenmerken voor de landinstelling beheren. U kunt hiermee ook een landinstellingenkaarttekenreeks opgeven, zodat u kunt definiëren welke talen u wilt ondersteunen voor de verschillende knopinfo in Viewers.
 
-  Als u bijvoorbeeld een nationaal merk bent dat in verschillende landen verkoopt, kunt u ervoor zorgen dat elk land zijn eigen landspecifieke viewer heeft. U kunt deze functionaliteit uitvoeren door een tekenreeks voor de landinstellingenkaart op te geven. Vervolgens kunt u de knopinfo-tekst in de voorinstelling van een viewer bewerken door de vertaalde tekstreeksen toe te voegen voor de gewenste taal.
+  Als u bijvoorbeeld een nationaal merk bent dat in verschillende landen verkoopt, kunt u ervoor zorgen dat elk land zijn eigen landspecifieke viewer heeft. U kunt deze functionaliteit uitvoeren door een tekenreeks voor de landinstellingenkaart op te geven. Vervolgens bewerkt u de knopinfo-tekst in de voorinstelling van een viewer. Voeg gewoon de vertaalde tekstreeksen toe voor de gewenste taal.
 
   >[!NOTE]
   > Voor het instellen van opties voor Localization Support [gebruik de Admin Console om een steungeval tot stand te brengen.](https://helpx.adobe.com/enterprise/using/support-for-experience-cloud.html) In uw steungeval, verzoek opstelling hulp.
@@ -71,7 +71,7 @@ De landinstelling voor een IS-verzoek (Image Serving) wordt aangeduid met de vol
 
 `locale=`
 
-Deze opdracht accepteert een tekenreeks met landinstellings-id (locId) die niet hoofdlettergevoelig is. De landinstellings-id is doorgaans een tekenreeks van 2-6 tekens die bestaat uit letters en &quot;_&quot;.
+Deze opdracht accepteert een landinstellings-id (locId)-tekenreeks die niet hoofdlettergevoelig is. De landinstellings-id is doorgaans een tekenreeks van 2-6 tekens die bestaat uit letters en &quot;`_`.&quot;
 
 IS ondersteunt willekeurige afdrukbare ASCII-tekenreeksen. De `locale=` bevel heeft een globaal werkingsgebied, betekenend dat het op het volledige verzoek, met inbegrip van alle genestelde IS en verzoeken van AIR, referenced malplaatjes, en beeldlagen wordt toegepast. Meerdere landinstellingen per aanvraag, zoals een andere landinstelling voor elke laag, worden niet ondersteund. Het is echter denkbaar om expliciete overschrijvingen toe te staan in geneste verzoeken.
 
@@ -83,8 +83,8 @@ Enkele voordelen van het gebruik van `locale=` en `attribute::DefaultLocale` het
 * Toegang tot inhoud die specifiek is voor de landinstelling met behulp van generieke id&#39;s.
 * Biedt flexibiliteit bij naamconventies en het beheer van landspecifieke inhoud, zoals het voorvoegsel van de landinstelling en het achtervoegsel, of taalspecifieke inhoud in een aparte catalogus.
 * Ondersteuning voor toegang tot landspecifieke versies.
-* Samengevoegde objecten, zoals afbeeldingssets, kunnen soms algemene verwijzingen naar mogelijk landspecifieke inhoud bevatten.
-* Ondersteunt alle inhoud die wordt beheerd door catalogi die lokalisatie nodig hebben, inclusief afbeeldingen, afbeeldingssets, vignetten, materialen en viewerconfiguratiegegevens.
+* Samengevoegde objecten, zoals Afbeeldingssets, kunnen soms algemene verwijzingen naar mogelijk landspecifieke inhoud bevatten.
+* Ondersteunt alle inhoud die wordt beheerd door catalogi die lokalisatie nodig hebben, inclusief afbeeldingen, afbeeldingssets, vignetten, materialen en viewerconfiguratierecords.
 * Minimaliseer veranderingen in het IPS gegevensbestand en IS duidelijke mechanismen.
 * De steun voor statische inhoud zoals video&#39;s en huiden wordt toegevoegd wanneer RFC IS-63 wordt uitgevoerd.
 * De standaardlandinstelling kan worden geconfigureerd.
@@ -95,7 +95,7 @@ Enkele voordelen van het gebruik van `locale=` en `attribute::DefaultLocale` het
 | --- | --- |
 | Lokalisatie van viewer | Nadat de statische inhoudcatalogi worden uitgevoerd, wordt de localisatie gecontroleerd volledig met locale= parameter, die aan alle verzoeken wordt toegevoegd die aan IS worden gemaakt. Configuratierecords, skins, welkomstschermen, enzovoort, kunnen landspecifieke varianten hebben of niet. De correcte inhoud wordt verstrekt door IS zonder de kijker die moet weten welke inhoud wordt gelokaliseerd en wat zijn IDs is. |
 | Afbeeldingen en video | Meerdere nationale bedrijven hebben vaak een combinatie van generieke en landspecifieke inhoud. Met dit mechanisme kan een verwijzing naar een beeld of een video algemeen zijn, en IS dient omhoog de landspecifieke inhoud als het beschikbaar is. |
-| Afbeeldingssets en mediasets | De volledige afbeeldingsset kan voor sommige landinstellingen anders zijn, bijvoorbeeld wanneer een eCatalog anders is, waarbij de vertaling van een generieke naar een landspecifieke afbeeldingsset wordt uitgevoerd die door de viewer wordt verwerkt. Meer algemeen, kunnen individuele IDs in een generische reeks naar inhoud verwijzen die gelokaliseerd is. De meeste foto&#39;s van een apparaat kunnen bijvoorbeeld in alle talen hetzelfde zijn, behalve de foto van het Configuratiescherm. Deze id&#39;s worden automatisch vertaald. Het is dus niet nodig landspecifieke afbeeldingssets te genereren. |
+| Afbeeldingssets en mediasets | De volledige afbeeldingsset kan voor sommige landinstellingen anders zijn, bijvoorbeeld wanneer een eCatalog anders is, waarbij de vertaling van een generieke naar een landspecifieke afbeeldingsset wordt verwerkt door de viewer. Meer algemeen, kunnen individuele IDs in een generische reeks naar inhoud verwijzen die gelokaliseerd is. De meeste foto&#39;s van een apparaat kunnen bijvoorbeeld in alle talen hetzelfde zijn, behalve de foto van het Configuratiescherm. IS automatisch id&#39;s vertalen, zodat er geen landspecifieke afbeeldingssets hoeven te worden gegenereerd. |
 
 #### Middelen lokaliseren
 
@@ -113,7 +113,7 @@ Na ontvangst van de http-aanroep door de Image Server wordt de `locale=` paramet
 
 Het veld Landinstelling kaart bevat een lijst met items die zijn gescheiden met het verticale balksymbool (|).
 
-Elk item bestaat uit een door komma&#39;s gescheiden lijst met waarden. De eerste waarde is de zoekwaarde die wordt doorgegeven door de `locale=` parameter. De resterende waarden zijn achtervoegsels/vervangingswaarden die vervolgens worden geprobeerd totdat er een bestaande afbeelding ontstaat.
+Elk item bestaat uit een door komma&#39;s gescheiden lijst met waarden. De eerste waarde is de zoekwaarde die wordt doorgegeven via het dialoogvenster `locale=` parameter. De resterende waarden zijn achtervoegsels/vervangingswaarden die vervolgens worden geprobeerd totdat er een bestaande afbeelding ontstaat.
 
 Of een achtervoegselwaarde of een vervangingswaarde wordt toegepast, is afhankelijk van de instelling voor de algemene landinstelling in **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Publish Setup]** > **[!UICONTROL Image Server]** > **[!UICONTROL Localization Support]** groep.
 
@@ -135,7 +135,7 @@ Of een achtervoegselwaarde of een vervangingswaarde wordt toegepast, is afhankel
 
 Als er geen landinstelling is gedefinieerd in de URL, gebruikt de afbeeldingsserver de DefaultLocale (indien deze is gedefinieerd) en past deze toe op de URL.
 
-Als een onbekende of lege landinstellingsparameter wordt geleverd bij `locale=`en vervolgens de `localeMap` wordt gescand voor de lege waarde &quot;beginnend met,&quot;. Het is belangrijk dat een standaardlandinstelling wordt toegepast voor onbekende landinstellingen.
+Als een onbekende of lege landinstellingsparameter wordt geleverd bij `locale=`en vervolgens de `localeMap` wordt gescand voor de lege waarde &quot;begint met.&quot; Het is belangrijk dat een standaardlandinstelling wordt toegepast voor onbekende landinstellingen.
 
 #### Over defaultImage
 
@@ -147,11 +147,11 @@ Stel dat u de volgende landinstellingen wilt ondersteunen:
 
 `en, en_us, en_uk, de, de_at, de_de, fr`
 
-U wijst deze landinstellingen toe aan de achtervoegsels `_E`, `_G`, en `_F`, voor respectievelijk Engels, Duits en Frans. Voor alle voorbeelden is de algemene id van de invoerafbeelding: `myImg`.
+U wijst deze landinstellingen toe aan de achtervoegsels `_E` (Engels), `_G` (Duits), en `_F` (Frans). Voor alle voorbeelden is de algemene id van de invoerafbeelding: `myImg`.
 
 ##### Standaardgedrag voor het zoeken naar de localeMap
 
-De landinstellings-id&#39;s worden toegewezen aan de corresponderende achtervoegsels. Als er geen landinstellings-specifieke id wordt gevonden in de catalogus, wordt de generieke id geprobeerd. Neem nota van de lege locSuffix waarden die aan generische identiteitskaart in kaart brengen
+De landinstellings-id&#39;s worden toegewezen aan de corresponderende achtervoegsels. Als er geen landinstellings-specifieke id wordt gevonden in de catalogus, wordt de generieke id geprobeerd. Noteer de lege locSuffix-waarden die aan de generieke id zijn toegewezen.
 
 `attribute::LocaleMap=en,_E,|en_us,_E,|en_uk,_E,|fr,_F,|de,_D,|de_at,_D,|de_de,_D,`
 
@@ -164,7 +164,7 @@ De landinstellings-id&#39;s worden toegewezen aan de corresponderende achtervoeg
 
 ##### De localeMap zoeken wanneer de landinstelling onbekend is
 
-U kunt onbekende landinstellingen toewijzen aan specifieke id&#39;s of aan generieke id&#39;s. U kunt bijvoorbeeld onbekende landinstellingen toewijzen aan de Engelse id&#39;s, of als deze niet bestaan, aan de generieke id&#39;s.
+U kunt onbekende landinstellingen toewijzen aan specifieke id&#39;s of aan generieke id&#39;s. U kunt bijvoorbeeld onbekende landinstellingen toewijzen aan de Engelse id&#39;s, of als deze niet bestaan, aan de algemene id&#39;s.
 
 `attribute::LocaleMap=en,_E,|en_us,_E,|en_uk,_E,|fr,_F,|de,_D,|de_at,_D,|de_de,_D,|,_E,`
 
@@ -186,7 +186,7 @@ Of u kunt rechtstreeks een toewijzing maken aan de algemene id, zoals in het vol
 
 Het is vaak wenselijk om landinstellingen, zoals Europees, Midden-Oosten en Noord-Amerika, te groeperen om regionale normen, zoals huidblootstelling, aan te pakken. U kunt dit effect bereiken met een zoekopdracht met meerdere lagen.
 
-Stel dat u in dit voorbeeld verzamelingen wilt ondersteunen voor gebruik in het Westen en het Midden-Oosten. Beide verzamelingen zijn gebaseerd op de algemene afbeeldingsverzameling en voegen of wijzigen enkele afbeeldingen toe. Beide verzamelingen worden vervolgens verder verfijnd voor specifieke landinstellingen, zoals `m1, m2` voor twee varianten in het midden-oosten, en `w1, w2,` en `w3` voor drie westerse landinstellingen, behalve dat afbeeldingen worden gedeeld voor `w1` en `w3`. Onbekende landinstellingen worden alleen toegewezen aan de algemene verzameling en hebben geen toegang tot landspecifieke afbeeldingen. De kaart ziet er als volgt uit:
+Stel dat u verzamelingen wilt ondersteunen voor gebruik in het Westen en het Midden-Oosten. Beide verzamelingen zijn gebaseerd op de algemene afbeeldingsverzameling en voegen of wijzigen enkele afbeeldingen toe. Beide verzamelingen worden vervolgens verder verfijnd voor specifieke landinstellingen. Bijvoorbeeld: `m1, m2` voor twee varianten in het midden-oosten, en `w1, w2,` en `w3` voor drie westerse landinstellingen, behalve dat afbeeldingen worden gedeeld voor `w1` en `w3`. Onbekende landinstellingen worden alleen toegewezen aan de algemene verzameling en hebben geen toegang tot landspecifieke afbeeldingen. De kaart ziet er als volgt uit:
 
 `attribute::LocaleMap=w1,-W,|w2,-W2,-W,|w3,-W,|m1,-M1,-M,|m2,-M2,-M,|,`
 
@@ -214,7 +214,7 @@ Wanneer het eerste voorbeeld als basis wordt gebruikt, kunnen afbeeldingen voor 
 
 ##### Belangrijke overwegingen bij het implementeren van lokalisatieondersteuning
 
-* De lokalisatie is beperkt tot op identiteitskaart-Gebaseerde activa vraag en kan niet op op weg-gebaseerde activa vraag worden gebruikt. Wanneer u video&#39;s met een landinstelling aanroept, moet deze daarom worden aangeroepen als bedrijf/assetID; geen volledig pad naar de video. U kunt rtmp niet gebruiken met lokalisatie omdat die methode alleen voor op paden gebaseerde videogesprekken is.
+* De lokalisatie is beperkt tot op identiteitskaart-Gebaseerde activa vraag en kan niet op op weg-gebaseerde activa vraag worden gebruikt. Wanneer u video&#39;s met een landinstelling aanroept, moet deze daarom worden aangeroepen als bedrijf/assetID; geen volledig pad naar de video. U kunt niet `RTMP` met lokalisatie omdat die methode alleen voor op paden gebaseerde videoaanroepen kan worden gebruikt.
 * U kunt geen Gemengde Reeks van Media gebruiken die één enkele video bevat wanneer localeMap actief is, anders ontbreekt de vraag aan de inhoud van de reeks. U kunt dit probleem omzeilen door één video toe te voegen aan een adaptieve videoset. Voeg vervolgens de adaptieve videoret toe aan een gemengde mediaset.
 * Bepaalde verzoeken zijn niet gelokaliseerd, zoals aanvragen voor de inhoud van een adaptieve videoret. Als u Adaptieve videosets dus wilt gebruiken met lokalisatie, plaatst u de adaptieve videoset in een gemengde mediaset. Vervolgens roept u de set aan in een gemengde mediasviewer met de `locale=` parameter.
 
