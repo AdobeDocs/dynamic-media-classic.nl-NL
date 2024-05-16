@@ -10,16 +10,16 @@ role: User
 exl-id: df4e5218-2a66-413c-b247-b2a16d884041
 topic: Content Management
 level: Intermediate
-source-git-commit: bc3b696bfde0ed55894cdcbf3533299ae7697e98
+source-git-commit: ad7e20fdbe9028c6255865cce95d109f9e9eeab2
 workflow-type: tm+mt
-source-wordcount: '613'
+source-wordcount: '614'
 ht-degree: 0%
 
 ---
 
 # Een Afbeelding koppelen die is ingesteld op een webpagina{#linking-an-image-set-to-a-web-page}
 
-Nadat u een Reeks van het Beeld publiceert, kunt u zijn bijbehorende URL of zijn ingebed code voor gebruik in uw Website of toepassing kopiëren. Dan kunt u URL opstellen of de inbedcode kleven zonodig zodat kunnen de gebruikers het Beeld bekijken dat op uw Website of toepassing wordt geplaatst.
+Nadat u een Reeks van het Beeld publiceert, kunt u zijn bijbehorende URL of zijn Embed Code voor gebruik in uw Website of toepassing kopiëren. Dan kunt u URL opstellen of de Embed Code zonodig kleven zodat kunnen de gebruikers het Beeld bekijken dat op uw Website of toepassing wordt geplaatst.
 
 >[!NOTE]
 >
@@ -28,7 +28,7 @@ Nadat u een Reeks van het Beeld publiceert, kunt u zijn bijbehorende URL of zijn
 ## URL van afbeeldingsset kopiëren {#copying-an-image-set-url}
 
 1. Selecteer in de vervolgkeuzelijst Tonen in het deelvenster Middelenbladeren de optie **[!UICONTROL Image Set]**.
-1. Navigeer in het deelvenster Elementenbibliotheek aan de linkerkant naar de elementenmap die de afbeeldingsset bevat waarvan u de insluitcode wilt kopiëren.
+1. Navigeer in het deelvenster Elementenbibliotheek aan de linkerkant naar de elementenmap met de afbeeldingsset waarvan u de insluitcode wilt kopiëren.
 1. Voer boven het deelvenster Asset Browse een van de volgende handelingen uit aan de rechterkant van de werkbalk:
 
    * Selecteren **[!UICONTROL Grid View]**. Dubbelklik in het deelvenster Asset Browse op één element om dit te openen in de gedetailleerde weergave. Selecteer in de URL&#39;s en het deelvenster Code insluiten aan de rechterkant de optie **[!UICONTROL Copy URL]** rechts van de gewenste viewer.
@@ -48,7 +48,7 @@ Nadat u een Reeks van het Beeld publiceert, kunt u zijn bijbehorende URL of zijn
 
 De gemeenschappelijkste manier om de Reeksen van het Beeld op te stellen is een verbinding (als navigatiepictogram) op uw Web-pagina te plaatsen. Als deze optie is geselecteerd, wordt een dynamische pagina (JSP) gestart waarop de Afbeeldingsset wordt weergegeven in een pop-upzoomvenster. Met de zoomkoppeling wordt een pop-upvenster geopend dat de eigenlijke zoomfunctie bevat.
 
-Zie voor meer informatie en codevoorbeelden [HTML5-zoomviewer insluiten in de naslaggids voor Adobe viewers](https://experienceleague.adobe.com/en/docs/dynamic-media-developer-resources/library/viewers-aem-assets-dmc/zoom/c-html5-20-zoom-viewer-about#section-e1c3106f5b3e445d9b95be337c2f94e2).
+Zie voor meer informatie en codevoorbeelden de [HTML5-zoomviewer insluiten in de naslaggids voor Adobe viewers](https://experienceleague.adobe.com/en/docs/dynamic-media-developer-resources/library/viewers-aem-assets-dmc/zoom/c-html5-20-zoom-viewer-about#section-e1c3106f5b3e445d9b95be337c2f94e2).
 
 ## De insluitcode van een viewer voor een afbeeldingsset kopiëren {#copying-the-embed-code-of-an-image-set-viewer}
 
@@ -57,7 +57,7 @@ Met de functie Code insluiten kunt u de viewercode voor de geselecteerde afbeeld
 **U kunt als volgt de insluitcode van een viewer voor een afbeeldingsset kopiëren:**
 
 1. Selecteer in de vervolgkeuzelijst Tonen in het deelvenster Middelenbladeren de optie **[!UICONTROL Image Set]**.
-1. Navigeer in het deelvenster Elementenbibliotheek aan de linkerkant naar de elementenmap die de afbeeldingsset bevat waarvan u de insluitcode wilt kopiëren.
+1. Navigeer in het deelvenster Elementenbibliotheek aan de linkerkant naar de elementenmap met de afbeeldingsset waarvan u de insluitcode wilt kopiëren.
 1. Voer boven het deelvenster Asset Browse een van de volgende handelingen uit aan de rechterkant van de werkbalk:
 
    * Selecteren **[!UICONTROL Grid View]**. Dubbelklik in het deelvenster Asset Browse op één element om dit te openen in de gedetailleerde weergave. Selecteer in het deelvenster URL&#39;s aan de rechterkant de optie **[!UICONTROL Embed Code]**.

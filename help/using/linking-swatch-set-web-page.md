@@ -10,7 +10,7 @@ role: User
 exl-id: 8bb1c744-270a-4752-b163-443708fca6c2
 topic: Content Management
 level: Intermediate
-source-git-commit: bc3b696bfde0ed55894cdcbf3533299ae7697e98
+source-git-commit: ad7e20fdbe9028c6255865cce95d109f9e9eeab2
 workflow-type: tm+mt
 source-wordcount: '617'
 ht-degree: 0%
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # Een stalenset koppelen aan een webpagina{#linking-a-swatch-set-to-a-web-page}
 
-Nadat u een Staalreeks publiceert, kunt u zijn bijbehorende URL gebruiken of code in uw Website of toepassing inbedden. Dan kunt u URL opstellen of code inbedden zonodig zodat kunnen de gebruikers de Reeks van het Monster op uw Website of toepassing bekijken.
+Nadat u een Staalreeks publiceert, kunt u zijn bijbehorende URL gebruiken of Code in uw Website of toepassing inbedden. Dan kunt u URL opstellen of code inbedden zonodig zodat kunnen de gebruikers de Reeks van het Monster op uw Website of toepassing bekijken.
 
 >[!NOTE]
 >
@@ -28,7 +28,7 @@ Nadat u een Staalreeks publiceert, kunt u zijn bijbehorende URL gebruiken of cod
 ## URL van stalenset kopiëren {#copying-a-swatch-set-url}
 
 1. Selecteer in de vervolgkeuzelijst Tonen in het deelvenster Middelenbladeren de optie **[!UICONTROL Swatch Set]**.
-1. Navigeer in het deelvenster Elementenbibliotheek aan de linkerkant naar de elementenmap die de stalenset bevat waarvan u de insluitcode wilt kopiëren.
+1. Navigeer in het deelvenster Elementenbibliotheek aan de linkerkant naar de elementenmap die de stalenset bevat waarvan u de code voor insluiten wilt kopiëren.
 1. Voer boven het deelvenster Asset Browse een van de volgende handelingen uit aan de rechterkant van de werkbalk:
 
    * Selecteren **[!UICONTROL Grid View]**. Dubbelklik in het deelvenster Asset Browse op één element om dit te openen in de gedetailleerde weergave. Selecteer in de URL&#39;s en het deelvenster Code insluiten aan de rechterkant de optie **[!UICONTROL Copy URL]** rechts van de gewenste viewer.
@@ -54,10 +54,10 @@ Zie voor meer informatie en codevoorbeelden [HTML5-zoomviewer insluiten in de Ad
 
 Met de functie Code insluiten kunt u de viewercode voor de geselecteerde stalenset controleren. U kunt de code aan het klembord ook kopiëren zodat kunt u het in uw Web-pagina&#39;s voor plaatsing van de kijker kleven. U mag de code niet bewerken in het dialoogvenster Code insluiten.
 
-**De insluitcode van een Staalsetviewer kopiëren:**
+**U kunt als volgt de insluitcode van een viewer voor stalensets kopiëren:**
 
 1. Selecteer in de vervolgkeuzelijst Tonen in het deelvenster Middelenbladeren de optie **[!UICONTROL Swatch Set]**.
-1. Navigeer in het deelvenster Elementenbibliotheek aan de linkerkant naar de elementenmap die de stalenset bevat waarvan u de insluitcode wilt kopiëren.
+1. Navigeer in het deelvenster Elementenbibliotheek aan de linkerkant naar de elementenmap die de stalenset bevat waarvan u de code voor insluiten wilt kopiëren.
 1. Voer boven het deelvenster Asset Browse een van de volgende handelingen uit aan de rechterkant van de werkbalk:
 
    * Selecteren **[!UICONTROL Grid View]**. Dubbelklik in het deelvenster Asset Browse op één element om dit te openen in de gedetailleerde weergave. Selecteer in de URL&#39;s en het deelvenster Code insluiten aan de rechterkant de optie **[!UICONTROL Embed Code]** rechts van de gewenste viewer.

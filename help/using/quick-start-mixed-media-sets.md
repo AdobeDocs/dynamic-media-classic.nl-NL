@@ -10,7 +10,7 @@ role: User
 exl-id: 757893ae-7507-42a0-a67b-f6542e7231c7
 topic: Content Management
 level: Beginner
-source-git-commit: 61665faba1e6bb711aae5becf0150d1ebe3105c0
+source-git-commit: ad7e20fdbe9028c6255865cce95d109f9e9eeab2
 workflow-type: tm+mt
 source-wordcount: '647'
 ht-degree: 0%
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Met gemengde mediasets hebben gebruikers een geïntegreerde kijkervaring. De gemengde Reeksen van Media kunnen beelden, de Reeksen van het Beeld, de Reeksen van het Monster, de Reeksen van de Rotatie, en video&#39;s omvatten. Gebruikers kunnen verschillende tabbladen selecteren in de gemengde Media Viewer om de items in de verschillende viewers weer te geven. Als er geen tabbladen zijn opgegeven, worden alle elementen samen weergegeven in de staalrij.
 
-De gemengde Kijker van de Kijker van Media bevat communautaire opties voor eind - gebruikers om code in te bedden, URLs te kopiëren, en verbinding aan de belangrijkste Website te verbinden. De gebruikers kunnen deze opties gebruiken om informatie over producten op hun persoonlijke Websites of sociale voorzien van een netwerkplaatsen te delen.
+Voorinstellingen voor gemengde mediaset voor viewers bevatten gemeenschapsopties voor eindgebruikers om code in te sluiten, URL&#39;s te kopiëren en een koppeling naar de hoofdwebsite te maken. De gebruikers kunnen deze opties gebruiken om informatie over producten op hun persoonlijke Websites of sociale voorzien van een netwerkplaatsen te delen.
 
 Deze gemengde Mediasets Snel starten is ontworpen om u snel aan de slag te krijgen met gemengde mediasettechnieken in Adobe Dynamic Media Classic.
 

@@ -10,9 +10,9 @@ role: User
 exl-id: 51d411b2-b4bc-4cf6-afca-dd0ed0d219a1
 topic: Integrations, Development
 level: Experienced
-source-git-commit: bc3b696bfde0ed55894cdcbf3533299ae7697e98
+source-git-commit: ad7e20fdbe9028c6255865cce95d109f9e9eeab2
 workflow-type: tm+mt
-source-wordcount: '916'
+source-wordcount: '918'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ Als u een eCatalog maakt, moet u de pagina&#39;s ordenen, de paginalay-out kieze
 
 U kunt afbeeldingsbestanden en PDF-bestanden opnemen in uw eCatalog.
 
-Wanneer u een eCatalog creeert, **[!UICONTROL Publish after save]** Deze optie is op de volgende manieren van invloed op de set en de set leden:
+Wanneer u een eCatalog creeert, **[!UICONTROL Publish after a save]** Deze optie is op de volgende manieren van invloed op de set en de set leden:
 
 | De optie Publiceren na opslaan is geselecteerd voordat u het bestand opslaat? | Status van set na opslaan | Status van ingestelde leden na opslaan |
 | --- | --- | --- |
@@ -56,7 +56,7 @@ Zie ook [Elementen handmatig publiceren](publishing-files.md#manually_publishing
 
    * **Volgnummer**: Geef in de lijstweergave paginanummers op in de velden Volgnummer.
 
-1. Wanneer u klaar bent, gaat u naar de rechterbenedenhoek van de pagina en zorgt u ervoor dat **[!UICONTROL Publish after save]** is geselecteerd (standaard).
+1. Wanneer u klaar bent, gaat u naar de rechterbenedenhoek van de pagina en zorgt u ervoor dat **[!UICONTROL Publish after a save]** is geselecteerd (standaard).
 1. Selecteren **[!UICONTROL Save]**.
 1. Selecteer in het dialoogvenster Opslaan een map voor het opslaan van uw eCatalog. Voer in het veld Bestandsnaam de naam van de spin-set in.
 1. Selecteren **[!UICONTROL Save]**.
@@ -65,7 +65,7 @@ Zie ook [Elementen handmatig publiceren](publishing-files.md#manually_publishing
 
 ## Een eCatalog bewerken {#editing-an-ecatalog}
 
-Of u een gepubliceerde set of een niet-gepubliceerde set bewerkt, **[!UICONTROL Publish after save]** Deze optie is op de volgende manieren van invloed op de set en de set leden:
+Of u een gepubliceerde set of een niet-gepubliceerde set bewerkt, **[!UICONTROL Publish after a save]** Deze optie is op de volgende manieren van invloed op de set en de set leden:
 
 | Reeds gepubliceerd instellen? | De optie Publiceren na opslaan is geselecteerd voordat u de bewerking opslaat? | Status van set na opslaan | Status van ingestelde leden na opslaan |
 | --- | --- | --- | --- |
@@ -80,7 +80,7 @@ Zie ook [Elementen handmatig publiceren](publishing-files.md#manually_publishing
 
 1. De rollover van de eCatalog selecteren **[!UICONTROL Edit]** knop.
 1. Breng de gewenste wijzigingen aan.
-1. Wanneer u klaar bent met bewerken, gaat u naar de rechterbenedenhoek van de pagina en zorgt u ervoor dat **[!UICONTROL Publish after save]** is geselecteerd (standaard).
+1. Wanneer u klaar bent met bewerken, gaat u naar de rechterbenedenhoek van de pagina en zorgt u ervoor dat **[!UICONTROL Publish after a save]** is geselecteerd (standaard).
 1. Selecteren **[!UICONTROL Save]**, selecteert u een opslagmap, voert u een naam voor de set in en selecteert u **[!UICONTROL Save]**.
 
 ## Een eCatalog verwijderen

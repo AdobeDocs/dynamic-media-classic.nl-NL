@@ -10,7 +10,7 @@ role: User
 exl-id: 280e7201-84d6-46b1-94bb-0499beca2992
 topic: Content Management
 level: Beginner
-source-git-commit: de6997fda88c4471625242ee9cca59b344cee945
+source-git-commit: ad7e20fdbe9028c6255865cce95d109f9e9eeab2
 workflow-type: tm+mt
 source-wordcount: '647'
 ht-degree: 0%
@@ -76,7 +76,7 @@ Wanneer u een Afbeeldingsset publiceert, wordt deze op Adobe Dynamic Media Class
 
 >[!NOTE]
 >
->Deze stap is niet nodig als u **[!UICONTROL Publish after save]** (standaard) op het moment dat u de Afbeeldingsset hebt gemaakt en opgeslagen.
+>Deze stap is niet nodig als u **[!UICONTROL Publish after a save]** (standaard) op het moment dat u de Afbeeldingsset hebt gemaakt en opgeslagen.
 
 Selecteren **[!UICONTROL Mark for Publish]** links van de naam in het deelvenster Bladeren. Selecteer vervolgens **[!UICONTROL Publish]**. Selecteer op de pagina Publiceren de optie **[!UICONTROL Submit Publish]**.
 

@@ -1,6 +1,6 @@
 ---
 title: Aanmelden bij en uit Adobe Dynamic Media Classic
-description: Leer hoe u zich aanmeldt bij en verlaat van Adobe Dynamic Media Classic en verbinding maakt met een productieomgevingsserver in Noord-Amerika (NA), of Europa, Midden-Oosten, Afrika (EMEA) of Azië-Pacific (APAC).
+description: Meer informatie over het aanmelden bij en het verlaten van Adobe Dynamic Media Classic. Leer ook hoe u verbinding maakt met een productieserver in Noord-Amerika (NA), Europa, Midden-Oosten, Afrika (EMEA) of Azië-Pacific (APAC).
 contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
@@ -10,9 +10,9 @@ role: Admin,User
 exl-id: 8d70db72-b02b-4915-b4c3-6efb146b7f08
 topic: Content Management
 level: Intermediate
-source-git-commit: bc3b696bfde0ed55894cdcbf3533299ae7697e98
+source-git-commit: ad7e20fdbe9028c6255865cce95d109f9e9eeab2
 workflow-type: tm+mt
-source-wordcount: '209'
+source-wordcount: '211'
 ht-degree: 0%
 
 ---

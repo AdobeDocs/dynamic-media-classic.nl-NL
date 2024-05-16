@@ -10,9 +10,9 @@ role: User
 topic: Content Management
 level: Beginner
 exl-id: f1d46f03-57a1-43d8-a0ee-74b92b590736
-source-git-commit: 61665faba1e6bb711aae5becf0150d1ebe3105c0
+source-git-commit: ad7e20fdbe9028c6255865cce95d109f9e9eeab2
 workflow-type: tm+mt
-source-wordcount: '863'
+source-wordcount: '859'
 ht-degree: 0%
 
 ---
@@ -21,8 +21,8 @@ ht-degree: 0%
 
 Afbeeldingsgrootte heeft betrekking op de mogelijkheid van Adobe Dynamic Media Classic om meerdere afgeleide afbeeldingen te maken op basis van één afbeelding met hoge resolutie. In plaats van handmatig meerdere afbeeldingen voor uw website of toepassing te maken, bijvoorbeeld een miniatuur en een afbeelding in een vergrote weergave, geeft u één primaire afbeelding op. Adobe Dynamic Media Classic genereert alle gewijzigde afbeeldingen op dezelfde manier als u ze vraagt. Het dynamisch leveren van afbeeldingen op basis van één primaire afbeelding heeft veel voordelen:
 
-* U hoeft niet handmatig meerdere exemplaren van de afbeelding met verschillende grootten te maken. U levert één primaire afbeelding aan Adobe Dynamic Media Classic en Adobe Dynamic Media Classic genereert derivaten van verschillende grootte van de primaire afbeelding.
-* U kunt de grootte van een beeldtype door uw Website of toepassing snel veranderen. Als u bijvoorbeeld alle miniatuurafbeeldingen wilt wijzigen, kunt u de voorinstelling &quot;miniatuurafbeelding&quot; wijzigen. Een vooraf ingesteld Beeld-het is gelijkaardig aan macro-is een inzameling van grootte en het formatteren attributen. U kunt de voorinstelling &quot;miniatuurafbeelding&quot; wijzigen om de grootte van alle miniatuurafbeeldingen te wijzigen in de hele website of toepassing.
+* Het is niet nodig handmatig meerdere exemplaren van de afbeelding van verschillende grootten te maken. U levert één primaire afbeelding aan Adobe Dynamic Media Classic en Adobe Dynamic Media Classic genereert derivaten van verschillende grootte van de primaire afbeelding.
+* U kunt de grootte van een beeldtype door uw Website of toepassing snel veranderen. Als u bijvoorbeeld alle miniatuurafbeeldingen wilt wijzigen, kunt u de voorinstelling &quot;miniatuurafbeelding&quot; wijzigen. Een vooraf ingestelde afbeelding - Deze afbeelding lijkt op een macro-afbeelding en bestaat uit een verzameling kenmerken voor grootte en opmaak. U kunt de voorinstelling &quot;miniatuurafbeelding&quot; wijzigen om de grootte van alle miniatuurafbeeldingen te wijzigen in de hele website of toepassing.
 * U hoeft de primaire bestanden en alle verschillende derivaten niet intern of extern te beheren in een van uw systemen voor inhoud- of middelenbeheer.
 
 ![U kunt meerdere afgeleide afbeeldingen maken met een verschillende grootte van hetzelfde primaire bestand met hoge resolutie.](/help/using/assets/is_derivative_sizes_popup.png)
@@ -39,7 +39,7 @@ Selecteer op de algemene navigatiebalk de optie **[!UICONTROL Upload]** om besta
 
 ## 2. Voorinstellingen afbeelding instellen
 
-Net als bij een macro is een voorinstelling voor afbeeldingen een verzameling vooraf gedefinieerde opdrachten voor grootte en opmaak die onder een naam zijn opgeslagen. Met een voorinstelling voor afbeeldingen bepaalt u de grootte en opmaak van afbeeldingen die worden geleverd op Dynamic Media Image Servers. U kunt de Voorinstellingen van het opstellingsBeeld op uw plaatsen als u de status van de Beheerder van het Bedrijf hebt. Adobe Dynamic Media Classic wordt ook geleverd met standaardvoorinstellingen voor afbeeldingen en u kunt deze gebruiken om afbeeldingen dynamisch te leveren.
+Net als bij een macro is een voorinstelling voor afbeeldingen een verzameling vooraf gedefinieerde opdrachten voor grootte en opmaak die onder een naam zijn opgeslagen. Met een voorinstelling voor afbeeldingen bepaalt u de grootte en opmaak van afbeeldingen die worden geleverd op Dynamic Media Image Servers. U kunt de Voorinstellingen van het opstellingsBeeld op uw plaatsen als u de status van de Beheerder van het Bedrijf hebt. U kunt dynamisch afbeeldingen leveren met de standaardvoorinstellingen voor afbeeldingen die al bij Adobe Dynamic Media Classic worden geleverd.
 
 Als u een voorinstelling voor afbeeldingen wilt maken (als u een beheerder bent), gaat u op de algemene navigatiebalk naar **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Image Presets]**. Selecteer vervolgens **[!UICONTROL Add]** om een voorinstelling voor afbeeldingen te maken, of selecteer **[!UICONTROL Edit]** om een bestaande voorinstelling voor afbeeldingen te wijzigen.
 
@@ -66,6 +66,6 @@ Selecteer op de algemene navigatiebalk de optie **[!UICONTROL Publish]** om een 
 
 ## 5. Koppel URL&#39;s aan uw webtoepassing
 
-Adobe Dynamic Media Classic maakt URL-bijschrifttekenreeksen voor afbeeldingen. Wanneer u afbeeldingen publiceert naar Dynamic Media Image Servers, worden de URL&#39;s actief. U kunt deze URL-tekenreeksen kopiëren vanuit het deelvenster Bladeren (in de gedetailleerde weergave) of het scherm Voorvertoning. Nadat u de koorden URL kopieert, kunt u hen in uw Website en toepassingen gebruiken. De URL voor het wijzigen van de afbeeldingsgrootte vervangt de verwijzing naar een statische afbeeldingsnaam in de webpaginacode. De URL verwijst naar een primaire afbeeldingsnaam die door de database wordt vervangen voor elke nieuwe afbeelding die moet worden weergegeven.
+Adobe Dynamic Media Classic maakt URL-bijschrifttekenreeksen voor afbeeldingen. Wanneer u afbeeldingen publiceert naar Dynamic Media Image Servers, worden de URL&#39;s actief. U kunt deze URL-tekenreeksen kopiëren vanuit het deelvenster Bladeren (in de gedetailleerde weergave) of het scherm Voorvertoning. Nadat u de koorden URL kopieert, kunt u hen in uw Website en toepassingen gebruiken. De URL voor Afbeeldingsgrootte vervangt de verwijzing naar een statische beeldnaam in uw code van de Web-pagina. De URL verwijst naar een primaire afbeeldingsnaam die de database vervangt voor elke nieuwe afbeelding die moet worden weergegeven.
 
 URL-tekenreeksen die zijn gegenereerd met Voorinstellingen afbeelding bevatten de naam van een voorinstelling voor afbeeldingen. Deze naam staat in dollartekens (`$`). Bijvoorbeeld: `$thumbnail$` Dit kan de voorinstelling Afbeelding zijn die is ontworpen om primaire afbeeldingen met een miniatuurgrootte weer te geven. Zie [URL&#39;s koppelen aan uw webtoepassing](linking-urls-web-application.md#linking_urls_to_your_web_application).

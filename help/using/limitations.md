@@ -10,9 +10,9 @@ role: User
 exl-id: ee30a2c1-2b26-41bd-8758-e7337a3727bb
 topic: Content Management
 level: Intermediate
-source-git-commit: bc3b696bfde0ed55894cdcbf3533299ae7697e98
+source-git-commit: ad7e20fdbe9028c6255865cce95d109f9e9eeab2
 workflow-type: tm+mt
-source-wordcount: '348'
+source-wordcount: '349'
 ht-degree: 1%
 
 ---
@@ -28,7 +28,7 @@ Dit onderwerp omvat de volgende secties:
 
 ## Aanbevolen werkwijzen en door Dynamic Media opgelegde limieten voor soorten activa {#best-practice-enforced-limits}
 
-Wanneer u een centrifugeset of een Afbeeldingsset maakt of PDF uploadt voor het uitnemen van pagina&#39;s, raadt de Adobe de volgende aanbevolen procedures aan en past deze de volgende limieten toe:
+Als u een centrifugeset of een afbeeldingsset maakt of PDF uploadt voor het uitnemen van pagina&#39;s, raadt Adobe u de volgende aanbevolen procedures aan. Adobe handhaaft ook de volgende limieten:
 
 | Element: type Limiet | Beste praktijken | Oplegde limiet |
 | --- | --- | --- |

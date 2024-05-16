@@ -10,7 +10,7 @@ role: User
 exl-id: 3df22d48-edb5-4927-aefb-104b53f81f1a
 topic: Content Management
 level: Intermediate
-source-git-commit: bc3b696bfde0ed55894cdcbf3533299ae7697e98
+source-git-commit: ad7e20fdbe9028c6255865cce95d109f9e9eeab2
 workflow-type: tm+mt
 source-wordcount: '1586'
 ht-degree: 0%
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # Video distribueren naar uw websites en mobiele sites{#deploying-video-to-your-websites-and-mobile-sites}
 
-Websites, mobiele sites en bureaubladtoepassingen hebben via URL-tekenreeksen of ingesloten code toegang tot Adobe Dynamic Media Classic-serverinhoud, zoals video. Adobe Dynamic Media Classic activeert deze URL-tekenreeksen tijdens het publicatieproces. Als u de URL-tekenreeks of insluitcode voor uw video wilt plaatsen in uw webpagina&#39;s, mobiele pagina&#39;s en bureaubladtoepassingen, kopieert u deze vanuit Adobe Dynamic Media Classic.
+Websites, mobiele sites en bureaubladtoepassingen hebben via URL-tekenreeksen of ingesloten code toegang tot Adobe Dynamic Media Classic-serverinhoud, zoals video. Adobe Dynamic Media Classic activeert deze URL-tekenreeksen tijdens het publicatieproces. Als u de URL-tekenreeks of code voor uw video wilt plaatsen in uw webpagina&#39;s, mobiele pagina&#39;s en bureaubladtoepassingen, kopieert u deze vanuit Adobe Dynamic Media Classic.
 
 >[!NOTE]
 >
@@ -107,7 +107,7 @@ Zie ook [Een video-URL koppelen aan een mobiele site of website](deploying-video
 
 ### Insluitcode implementeren voor het gebruik van HTML5-video met MP4-video-elementen {#implementing-embed-code-for-using-html-video-with-mp-video-assets}
 
-Als u de Adobe Dynamic Media Classic HTML5-videospeler niet gebruikt, maar de native HTML5 wilt gebruiken `<video>` -tags met MP4-video-elementen gebruiken, kunt u het volgende voorbeeld van een ingesloten code gebruiken:
+Als u de Adobe Dynamic Media Classic HTML5-videospeler niet gebruikt, maar de native HTML5 wilt gebruiken `<video>` U kunt de volgende voorbeeldcode voor Insluiten gebruiken om tags toe te wijzen aan MP4-video-elementen:
 
 ```as3
 <video poster="S7 video thumbnail URL" controls> 

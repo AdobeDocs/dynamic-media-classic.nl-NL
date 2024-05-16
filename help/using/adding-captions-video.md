@@ -9,7 +9,7 @@ role: User
 exl-id: 66a1ab20-6036-4c3d-bb66-dd06d917c7f2
 topic: Content Management
 level: Intermediate
-source-git-commit: bc3b696bfde0ed55894cdcbf3533299ae7697e98
+source-git-commit: ad7e20fdbe9028c6255865cce95d109f9e9eeab2
 workflow-type: tm+mt
 source-wordcount: '695'
 ht-degree: 0%
@@ -68,7 +68,7 @@ Zie [Statische (niet-grafische) inhoud serveren](https://experienceleague.adobe.
 
      Selecteer in het dialoogvenster Code insluiten **[!UICONTROL Copy to Clipboard]**.
 
-     Voor de HTML5 `Universal_HTML5_Video`, `Universal_HTML5_MixedMedia_dark`, of `Universal_HTML5_MixedMedia_light` viewers, voegt u de gekopieerde insluitcode als volgt toe:
+     Voor de HTML5 `Universal_HTML5_Video`, `Universal_HTML5_MixedMedia_dark`, of `Universal_HTML5_MixedMedia_light` Viewers, voeg de gekopieerde Insluitcode als volgt toe:
 
      `videoViewer.setParam("caption","<full Copy URL path to the caption file .vtt>,1"`
 

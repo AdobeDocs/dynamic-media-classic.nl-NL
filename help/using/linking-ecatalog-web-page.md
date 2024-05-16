@@ -10,7 +10,7 @@ role: User
 exl-id: aee72576-1e3e-401c-953d-cc2be27f7dfd
 topic: Integrations, Development
 level: Experienced
-source-git-commit: bc3b696bfde0ed55894cdcbf3533299ae7697e98
+source-git-commit: ad7e20fdbe9028c6255865cce95d109f9e9eeab2
 workflow-type: tm+mt
 source-wordcount: '610'
 ht-degree: 0%
@@ -28,7 +28,7 @@ Uw websites en toepassingen hebben via URL-tekenreeksen of ingesloten code toega
 ## Een eCatalog-URL kopiëren {#copying-an-ecatalog-url}
 
 1. Selecteer in de vervolgkeuzelijst Tonen in het deelvenster Middelenbladeren de optie **[!UICONTROL Catalog]**.
-1. Navigeer in het deelvenster Elementenbibliotheek aan de linkerkant naar de elementenmap die de eCatalog bevat waarvan u de insluitcode wilt kopiëren.
+1. Navigeer in het deelvenster Elementenbibliotheek aan de linkerkant naar de elementenmap die de eCatalog bevat waarvan u de code voor insluiten wilt kopiëren.
 1. Voer boven het deelvenster Asset Browse een van de volgende handelingen uit aan de rechterkant van de werkbalk:
 
    * Selecteren **[!UICONTROL Grid View]**. Dubbelklik in het deelvenster Asset Browse op één element om dit te openen in de gedetailleerde weergave. Selecteer in de URL&#39;s en het deelvenster Code insluiten aan de rechterkant de optie **[!UICONTROL Copy URL]** rechts van de gewenste viewer.
@@ -57,7 +57,7 @@ Met de functie Code insluiten kunt u de viewercode voor de geselecteerde eCatalo
 **De insluitcode van een eCatalog-viewer kopiëren:**
 
 1. Selecteer in de vervolgkeuzelijst Tonen in het deelvenster Middelenbladeren de optie **[!UICONTROL Catalog]**.
-1. Navigeer in het deelvenster Elementenbibliotheek aan de linkerkant naar de elementenmap die de eCatalog bevat waarvan u de insluitcode wilt kopiëren.
+1. Navigeer in het deelvenster Elementenbibliotheek aan de linkerkant naar de elementenmap die de eCatalog bevat waarvan u de code voor insluiten wilt kopiëren.
 1. Voer boven het deelvenster Asset Browse een van de volgende handelingen uit aan de rechterkant van de werkbalk:
 
    * Selecteren **[!UICONTROL Grid View]**. Dubbelklik in het deelvenster Asset Browse op één element om dit te openen in de gedetailleerde weergave. Selecteer in het deelvenster URL&#39;s aan de rechterkant de optie **[!UICONTROL Embed Code]**.

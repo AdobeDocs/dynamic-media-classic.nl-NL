@@ -10,16 +10,16 @@ role: User
 exl-id: 6231a29e-d1b9-47d3-a23a-1940e91ebbc5
 topic: Content Management
 level: Intermediate
-source-git-commit: 914fde11270dc731a261da3305b29dd573584d93
+source-git-commit: ad7e20fdbe9028c6255865cce95d109f9e9eeab2
 workflow-type: tm+mt
-source-wordcount: '239'
+source-wordcount: '240'
 ht-degree: 0%
 
 ---
 
 # Een voorvertoning van een centrifugeset weergeven{#previewing-a-spin-set}
 
-Met de Viewer List kunt u een voorvertoning weergeven van een element op een bepaald viewerplatform, zoals HTML5. Afhankelijk van het elementtype en de bijbehorende viewer die u hebt geselecteerd voor voorvertoning, zijn niet alle platforms beschikbaar in de Viewer List.
+U kunt de Lijst van de Kijker gebruiken om te voorproef hoe een middel op een bepaald kijkerstype platform zoals HTML5 verschijnt. Afhankelijk van het elementtype en de bijbehorende viewer die u hebt geselecteerd voor voorvertoning, zijn niet alle platforms beschikbaar in de Viewer List.
 
 Zie [Standaardviewers configureren](application-setup.md#configuring_default_viewers).
 

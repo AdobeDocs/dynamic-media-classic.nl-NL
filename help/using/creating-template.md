@@ -10,7 +10,7 @@ role: User
 exl-id: 23ac1a0f-c90b-4250-ae36-93702fb5ebd9
 topic: Content Management
 level: Experienced
-source-git-commit: 29752cf9eca0fc9bb760c721e1c3dc8e4ef912c3
+source-git-commit: ad7e20fdbe9028c6255865cce95d109f9e9eeab2
 workflow-type: tm+mt
 source-wordcount: '3261'
 ht-degree: 0%
@@ -29,9 +29,9 @@ Zie ook [Grondbeginselen van sjablonen](https://s7d5.scene7.com/s7viewers/html5/
 
 ## De eerste sjabloon maken {#creating-the-initial-template}
 
-Wanneer u een sjabloonset maakt, kunt u **[!UICONTROL Publish after saving]** Deze optie is op de volgende manieren van invloed op de set en de set leden:
+Wanneer u een sjabloonset maakt, kunt u **[!UICONTROL Publish after a save]** Deze optie is op de volgende manieren van invloed op de set en de set leden:
 
-| **[!UICONTROL Publish after saving]** optie geselecteerd voor opslaan? | Status van set na opslaan | Status van ingestelde leden na opslaan |
+| **[!UICONTROL Publish after a save]** optie geselecteerd voor opslaan? | Status van set na opslaan | Status van ingestelde leden na opslaan |
 | --- | --- | --- |
 | Ja | Gepubliceerd | Gepubliceerd |
 | Nee | Ongepubliceerd | Leden met een set behouden hun gepubliceerde of niet-gepubliceerde status. |
@@ -50,7 +50,7 @@ U kunt een sjabloon maken op basis van een bestaande sjabloon. Open de sjabloon 
 
 1. Voer in het dialoogvenster Canvasgrootte invoeren de afmetingen voor breedte en hoogte van de sjabloon in.
 1. Selecteer een map in de elementenbibliotheek en sleep het gewenste PSD-bestand of de gewenste afbeeldingen voor de sjabloon naar het scherm Sjabloon.
-1. Wanneer u klaar bent, gaat u naar de rechterbenedenhoek van de pagina en zorgt u ervoor dat **[!UICONTROL Publish after saving]** is geselecteerd (standaard).
+1. Wanneer u klaar bent, gaat u naar de rechterbenedenhoek van de pagina en zorgt u ervoor dat **[!UICONTROL Publish after a save]** is geselecteerd (standaard).
 1. Selecteren **[!UICONTROL Save]**.
 1. Selecteer een map waarin u de sjabloon wilt opslaan, voer een naam voor de sjabloon in en selecteer **[!UICONTROL Submit]**.
 
@@ -58,9 +58,9 @@ U kunt een sjabloon maken op basis van een bestaande sjabloon. Open de sjabloon 
 
 ## Een sjabloonset bewerken {#editing-a-template-set}
 
-Of u een gepubliceerde set of een niet-gepubliceerde sjabloonset bewerkt, **[!UICONTROL Publish after saving]** Deze optie is op de volgende manieren van invloed op de set en de set leden:
+Of u een gepubliceerde set of een niet-gepubliceerde sjabloonset bewerkt, **[!UICONTROL Publish after a save]** Deze optie is op de volgende manieren van invloed op de set en de set leden:
 
-| Reeds gepubliceerd instellen? | **[!UICONTROL Publish after saving]** optie geselecteerd voordat u de bewerking opslaat? | Status van set na opslaan | Status van ingestelde leden na opslaan |
+| Reeds gepubliceerd instellen? | **[!UICONTROL Publish after a save]** optie geselecteerd voordat u de bewerking opslaat? | Status van set na opslaan | Status van ingestelde leden na opslaan |
 | --- | --- | --- | --- |
 | Ja | Ja | Gepubliceerd | Gepubliceerd |
 | Ja | Nee | Gepubliceerd | Bestaande leden met een set behouden hun gepubliceerde status. Alle nieuwe leden die u tijdens het bewerken hebt toegevoegd, behouden hun gepubliceerde of niet-gepubliceerde status. |
@@ -73,7 +73,7 @@ Zie ook [Elementen handmatig publiceren](publishing-files.md#manually_publishing
 
 1. Blader in de rasterweergave naar een Sjabloonset en selecteer vervolgens onder de afbeelding de optie **[!UICONTROL Edit]**.
 1. Wijzig de sjabloon naar wens.
-1. Wanneer u klaar bent met bewerken, gaat u naar de rechterbenedenhoek van de pagina en zorgt u ervoor dat **[!UICONTROL Publish after saving]** is geselecteerd (standaard).
+1. Wanneer u klaar bent met bewerken, gaat u naar de rechterbenedenhoek van de pagina en zorgt u ervoor dat **[!UICONTROL Publish after a save]** is geselecteerd (standaard).
 1. Selecteren **[!UICONTROL Save]**, selecteert u een opslagmap, voert u een naam voor de set in en selecteert u **[!UICONTROL Save]**.
 
 ## Een sjabloon verwijderen

@@ -10,7 +10,7 @@ role: User
 exl-id: 1157400c-b33a-422e-848c-258660ddc748
 topic: Content Management
 level: Beginner
-source-git-commit: 61665faba1e6bb711aae5becf0150d1ebe3105c0
+source-git-commit: ad7e20fdbe9028c6255865cce95d109f9e9eeab2
 workflow-type: tm+mt
 source-wordcount: '1395'
 ht-degree: 0%
@@ -76,7 +76,7 @@ Wanneer een adaptieve videoset wordt gegenereerd, bevat deze MP4-video&#39;s.
    * Gemengde Media-viewers die zowel video- als afbeeldingsinhoud combineren.
 
 * Configureer videospelers om aan uw brandingbehoeften te voldoen.
-* Video met een eenvoudige URL of insluitcode integreren in uw website, mobiele site of mobiele toepassing.
+* Integreer video op uw website, mobiele site of mobiele toepassing met een eenvoudige URL of Embed Code.
 
 Bekijk de volgende trainingsvideo&#39;s:
 * [Overzicht van MP4-video](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&amp;emailurl=https://s7d5.scene7.com/s7/emailFriend&amp;serverUrl=https://s7d5.scene7.com/is/image/&amp;config=Scene7SharedAssets/Universal_HTML5_Video&amp;contenturl=https://s7d5.scene7.com/skins/&amp;asset=S7tutorials/563_MP4%20Video%20Overview_converted%20renamed_eVideos-AVS)
@@ -148,11 +148,11 @@ Als u video wilt integreren in uw website, kunt u een van de volgende handelinge
 
   Als u de insluitcode voor een video wilt verkrijgen, selecteert u de video in het deelvenster Bladeren in de rasterweergave of de lijstweergave. Ga naar **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]**. Selecteer onder de kolom Acties van de tabel de optie **[!UICONTROL Embed Code]** aan het recht van `Universal_HTML5_Video`. Het bewerken van de code is niet toegestaan.
 
-  Selecteren **[!UICONTROL Close]** en plak de insluitcode in een of meer webpagina&#39;s.
+  Selecteren **[!UICONTROL Close]** en plak de insluitcode in een of meer van uw webpagina&#39;s.
 
   >[!NOTE]
   >
-  >De insluitcode wordt alleen geactiveerd nadat u de video of adaptieve videoset hebt gepubliceerd.
+  >De insluitcode wordt alleen geactiveerd nadat u de video of de adaptieve videoset hebt gepubliceerd.
 
 Zie [Video distribueren naar uw websites en mobiele sites](deploying-video-websites-mobile-sites.md#deploying_video_to_your_websites_and_mobile_sites).
 

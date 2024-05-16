@@ -10,9 +10,9 @@ role: User
 exl-id: 1fca9640-d127-454a-b3aa-b2ac82136e62
 topic: Content Management
 level: Intermediate
-source-git-commit: 5b5dcd1199bd51ec987b5673fce75bc86baad55b
+source-git-commit: ad7e20fdbe9028c6255865cce95d109f9e9eeab2
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '239'
 ht-degree: 0%
 
 ---
@@ -49,7 +49,7 @@ Last Modified Date:
 1. Selecteer op de algemene navigatiebalk de optie **[!UICONTROL Publish]**.
 1. Stel de gewenste planningsopties in.
 1. (Optioneel) In het dialoogvenster **[!UICONTROL Job Name]** veld, typt u een naam voor de publicatietaak.
-1. In **[!UICONTROL Advanced]** opties, in de **[!UICONTROL Publish To]** vervolgkeuzelijst, selecteert u **[!UICONTROL Video Server]**.
+1. In de **[!UICONTROL Advanced]** opties, in de **[!UICONTROL Publish To]** vervolgkeuzelijst, selecteert u **[!UICONTROL Video Server]**.
 
    Zie [Geavanceerde publicatieopties](publishing-files.md#advanced_publish_options) voor meer opties kunt u instellen.
 

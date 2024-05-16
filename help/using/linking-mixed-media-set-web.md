@@ -10,7 +10,7 @@ role: User
 exl-id: 76a7530c-0cc7-4a7f-bc31-2950c4946871
 topic: Content Management
 level: Intermediate
-source-git-commit: bc3b696bfde0ed55894cdcbf3533299ae7697e98
+source-git-commit: ad7e20fdbe9028c6255865cce95d109f9e9eeab2
 workflow-type: tm+mt
 source-wordcount: '586'
 ht-degree: 0%
@@ -24,7 +24,7 @@ Nadat u een Gemengde Reeks van Media publiceert, kunt u zijn bijbehorende URL vo
 ## Een gemengde URL voor mediaset verkrijgen {#obtain-a-mixed-media-set-url}
 
 1. Selecteer in de vervolgkeuzelijst Tonen in het deelvenster Middelenbladeren de optie **[!UICONTROL Media Set]**.
-1. Navigeer in het deelvenster Elementenbibliotheek aan de linkerkant naar de elementenmap die de mediaset bevat waarvan u de insluitcode wilt kopiëren.
+1. Navigeer in het deelvenster Elementenbibliotheek aan de linkerkant naar de elementenmap met de mediaset waarvan u de insluitcode wilt kopiëren.
 1. Voer boven het deelvenster Asset Browse een van de volgende handelingen uit aan de rechterkant van de werkbalk:
 
    * Klikken **[!UICONTROL Grid View]**. Dubbelklik in het deelvenster Asset Browse op één element om dit te openen in de gedetailleerde weergave. Selecteer in de URL&#39;s en het deelvenster Code insluiten aan de rechterkant de optie **[!UICONTROL Copy URL]** rechts van de gewenste viewer.
@@ -44,7 +44,7 @@ Nadat u een Gemengde Reeks van Media publiceert, kunt u zijn bijbehorende URL vo
 
 De gemeenschappelijkste manier om een Gemengde Reeks van Media op te stellen is een verbinding (als navigatiepictogram) op uw Web-pagina te plaatsen. Als deze optie is geselecteerd, wordt een dynamische pagina (ASP of JSP) gestart waarop de gemengde mediaset in de gemengde mediaset van de viewer wordt weergegeven.
 
-## De insluitcode van een viewer met gemengde mediaset kopiëren {#copying-the-embed-code-of-a-mixed-media-set-viewer}
+## Kopieer de insluitcode van een viewer met gemengde mediaset {#copying-the-embed-code-of-a-mixed-media-set-viewer}
 
 Met de functie Code insluiten kunt u de viewercode voor de geselecteerde gemengde mediaset controleren. U kunt de code aan het klembord ook kopiëren zodat kunt u het in uw Web-pagina&#39;s voor plaatsing van de kijker kleven. U mag de code niet bewerken in het dialoogvenster Code insluiten.
 
