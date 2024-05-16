@@ -10,7 +10,7 @@ role: User
 exl-id: 880ee6d0-cb0a-4d53-9056-f0b8b292136e
 topic: Content Management
 level: Intermediate
-source-git-commit: b2a6aeb1aab420803a8b7dafb0fdeda495e2a69b
+source-git-commit: 61665faba1e6bb711aae5becf0150d1ebe3105c0
 workflow-type: tm+mt
 source-wordcount: '516'
 ht-degree: 0%
@@ -45,7 +45,7 @@ Zie ook [Een alias voor een afbeelding maken](adjusting-image.md#creating_an_ali
 
    * Selecteer **[!UICONTROL Save As]**.
 
-     Selecteer in de vervolgkeuzelijst de optie **[!UICONTROL Save as new primary]**.
+     Selecteer in de vervolgkeuzelijst de optie **[!UICONTROL Save as a new primary]**.
 In de **[!UICONTROL Folder Name]** selecteert u de map waarin u de nieuwe primaire afbeelding wilt opslaan.
 Selecteren **[!UICONTROL Save]**.
 
@@ -57,7 +57,7 @@ Selecteren **[!UICONTROL Save]**.
 
 ## Een alias voor een afbeelding maken {#creating-an-alias-for-an-image}
 
-Wanneer u een afbeelding hebt aangepast, kunt u deze opslaan als een andere weergave van de primaire afbeelding. Hiertoe kunt u een alias voor de afbeelding maken met de opdracht **[!UICONTROL Save as another view of primary]** gebruiken.
+Wanneer u een afbeelding hebt aangepast, kunt u deze opslaan als een andere weergave van de primaire afbeelding. Hiertoe kunt u een alias voor de afbeelding maken met de opdracht **[!UICONTROL Save as another view of the primary]** gebruiken.
 
 **Een alias voor een afbeelding maken:**
 

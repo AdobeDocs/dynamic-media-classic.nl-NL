@@ -10,9 +10,9 @@ role: User
 exl-id: 26e3cd5b-f070-4b92-af36-25631723460e
 topic: Content Management
 level: Beginner
-source-git-commit: 29752cf9eca0fc9bb760c721e1c3dc8e4ef912c3
+source-git-commit: 61665faba1e6bb711aae5becf0150d1ebe3105c0
 workflow-type: tm+mt
-source-wordcount: '773'
+source-wordcount: '775'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,9 @@ ht-degree: 0%
 
 Een centrifugeerset simuleert de echte handeling waarbij een object wordt omgedraaid om het te onderzoeken. Met centrifuges kunt u items vanuit elke hoek bekijken en de belangrijkste visuele details vanuit elke hoek ophalen. Een centrifugeerset simuleert een kijkervaring van 360 graden. Adobe Dynamic Media Classic biedt eendimensionale centrifuges waarin gebruikers een item kunnen roteren en tweedimensionale centrifuges waarin gebruikers het item kunnen roteren en spiegelen. Bovendien kunnen gebruikers met een paar eenvoudige muisklikken in- en uitzoomen op een vrije vorm en een willekeurige weergave pannen. Op deze manier kunnen gebruikers een item vanuit een bepaald gezichtspunt nader onderzoeken.
 
-![Afbeeldingen voor een centrifuge.](/help/using/assets/spin_set.png)
+![Afbeeldingen voor een Draaiset.](/help/using/assets/spin_set.png)
 
-Draaisets accepteren ook afbeeldingen met hyperlinks. Een afbeelding met hyperlinks is een gebied in een afbeelding in de centrifugeset dat een deelvenster met rollover-tekst weergeeft. Wanneer de gebruiker een Kaart van het Beeld selecteert, wordt een actie van één of andere soort teweeggebracht. Een webpagina wordt bijvoorbeeld gestart zodat de gebruiker meer over een product kan leren. Als u een afbeelding met hyperlinks wilt aanwijzen in een centraalset, verschijnt er een omtrek rond de afbeelding met hyperlinks als de gebruiker de muisaanwijzer erboven plaatst.
+Draaisets accepteren ook afbeeldingen met hyperlinks. Een afbeelding met hyperlinks is een gebied in een afbeelding in de centrifugeset dat een deelvenster met rollover-tekst weergeeft. Wanneer de gebruiker een Kaart van het Beeld selecteert, wordt een actie van één of andere soort teweeggebracht. Een webpagina wordt bijvoorbeeld gestart zodat de gebruiker meer over een product kan leren. Als u een afbeelding met hyperlinks wilt aanwijzen in een Draaiset, verschijnt er een omtrek rond de Afbeeldingskaart zelf wanneer de gebruiker de muisaanwijzer erboven plaatst.
 
 Zie [Afbeeldingen met hyperlinks maken](creating-image-maps.md).
 
@@ -49,7 +49,7 @@ Zie [Richtlijnen voor het maken van centrifuges](creating-spin-set.md#guidelines
 
 ## 2. Een centrifugeset maken
 
-Als u een centrifugeset wilt maken, gaat u op de algemene navigatiebalk naar **[!UICONTROL Build]** > **[!UICONTROL Spin Sets]**. Kies in het dialoogvenster Grootte van paginaset het gewenste aantal rijen en cellen en selecteer **[!UICONTROL OK]**. Vervolgens sleept u afbeeldingen naar het raster op de pagina Draaien.
+Als u een centrifugeset wilt maken, gaat u op de algemene navigatiebalk naar **[!UICONTROL Build]** > **[!UICONTROL Spin Sets]**. Kies in het dialoogvenster Grootte van paginaset het gewenste aantal rijen en cellen en selecteer **[!UICONTROL OK]**. Vervolgens sleept u de afbeeldingen naar het raster op de pagina Draaien.
 
 Zie [Een centrifugeset maken](creating-spin-set.md#creating-a-spin-set).
 
@@ -85,6 +85,6 @@ Zie [Een centrifugeerset publiceren](publishing-spin-set.md#publishing-a-spin-se
 
 Adobe Dynamic Media Classic maakt URL-callout-tekenreeksen voor centrifuges en activeert deze na publicatie. U kunt deze URL&#39;s kopiëren vanaf de pagina Voorbeeld.
 
-Selecteer de centrifugeset en selecteer vervolgens **[!UICONTROL Preview]**. Selecteer een voorinstelling voor een centrifugeset viewer. Selecteer vervolgens **[!UICONTROL Copy URL]**.
+Selecteer de centrifugeset en selecteer vervolgens **[!UICONTROL Preview]**. Selecteer een voorinstelling voor een centrifugeset viewer. Selecteer vervolgens de optie **[!UICONTROL Copy URL]**.
 
 Zie [Een centrifugeerset koppelen aan een webpagina](linking-spin-set-web-page.md#linking-a-spin-set-to-a-web-page).

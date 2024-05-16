@@ -10,7 +10,7 @@ role: User
 exl-id: 336802cc-b032-49b2-b2e6-d699bc997ee5
 topic: Content Management
 level: Intermediate
-source-git-commit: bc3b696bfde0ed55894cdcbf3533299ae7697e98
+source-git-commit: 61665faba1e6bb711aae5becf0150d1ebe3105c0
 workflow-type: tm+mt
 source-wordcount: '648'
 ht-degree: 1%
@@ -27,7 +27,7 @@ Afbeeldingen die kleiner worden wanneer ze dynamisch van een server worden gelev
 
 ## Een voorinstelling voor afbeeldingen maken {#creating-an-image-preset}
 
-Als u een bedrijfsbeheerder bent, kunt u uw eigen voorinstellingen voor afbeeldingen maken. U kunt voorinstellingen voor afbeeldingen maken of beginnen met een standaardvoorinstelling voor afbeeldingen die door Adobe Dynamic Media Classic wordt verschaft, deze bewerken en opslaan onder een andere naam.
+U kunt uw eigen Voorinstellingen van het Beeld creëren als u een Beheerder van het Bedrijf bent. U kunt voorinstellingen voor afbeeldingen maken of beginnen met een standaardvoorinstelling voor afbeeldingen die door Adobe Dynamic Media Classic wordt verschaft, deze bewerken en opslaan onder een andere naam.
 
 **Een voorinstelling voor afbeeldingen maken:**
 

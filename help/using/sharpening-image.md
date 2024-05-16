@@ -10,7 +10,7 @@ role: User
 exl-id: 4b3e8368-f8f5-46d9-9130-361a8273de2c
 topic: Content Management
 level: Intermediate
-source-git-commit: bc3b696bfde0ed55894cdcbf3533299ae7697e98
+source-git-commit: 61665faba1e6bb711aae5becf0150d1ebe3105c0
 workflow-type: tm+mt
 source-wordcount: '2163'
 ht-degree: 0%
@@ -128,7 +128,7 @@ Als u geen Vooraf ingesteld Beeld gebruikte of specifieke het scherpen protocoll
 
 Ga naar **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Publish Setup]** > **[!UICONTROL Image Server]**. Als u de standaardmodus voor het berekenen van nieuwe pixels instelt op **`Sharp2`**, wordt de afbeelding altijd verscherpt wanneer het downsamplen wordt uitgevoerd.
 
-**Verscherpen toevoegen aan viewervoorinstellingen**
+**Verscherpen toevoegen aan voorinstellingen van viewer**
 
 Tenzij u wijzigingstoetsen voor verscherpende afbeeldingen hebt toegevoegd aan de voorinstelling, ziet de kleine afbeelding bij het laden er zacht uit, omdat deze is gedownsampled zodat deze in het viewervenster past zonder te worden verscherpt.
 

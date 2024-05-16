@@ -10,7 +10,7 @@ role: User
 exl-id: 757893ae-7507-42a0-a67b-f6542e7231c7
 topic: Content Management
 level: Beginner
-source-git-commit: bc3b696bfde0ed55894cdcbf3533299ae7697e98
+source-git-commit: 61665faba1e6bb711aae5becf0150d1ebe3105c0
 workflow-type: tm+mt
 source-wordcount: '647'
 ht-degree: 0%
@@ -47,9 +47,9 @@ Zie [Een gemengde mediaset maken](creating-mixed-media-set.md#creating-a-mixed-m
 
 ## 4. Voorinstellingen gemengde mediasviewer instellen
 
-Adobe Dynamic Media Classic wordt geleverd met standaardviewervoorinstellingen voor gemengde mediasets. Beheerders kunnen voorinstellingen voor gemengde mediaset maken of wijzigen.
+Adobe Dynamic Media Classic wordt geleverd met standaard Viewer-voorinstellingen voor gemengde mediasets. Beheerders kunnen voorinstellingen voor gemengde mediaset maken of wijzigen.
 
-Als u een voorinstelling voor een gemengde mediaset voor de viewer instelt, voegt u de voorinstellingen van de viewer toe voor alle andere elementen in de set. Als uw gemengde mediaset bijvoorbeeld video&#39;s bevat, voegt u een voorinstelling voor de video-viewer toe aan de voorinstelling voor de gemengde mediaset. U kunt ook een soundtrack toevoegen aan de viewer. Deze soundtrack wordt afgespeeld terwijl de viewer geopend is, maar wordt niet afgespeeld wanneer een video actief is.
+Als u een voorinstelling voor een gemengde mediaset voor de viewer instelt, voegt u de Viewer-voorinstellingen toe voor alle andere elementen in de set. Als uw gemengde mediaset bijvoorbeeld video&#39;s bevat, voegt u een voorinstelling voor de video-viewer toe aan de voorinstelling voor de gemengde mediaset. U kunt ook een soundtrack toevoegen aan de viewer. Deze soundtrack wordt afgespeeld terwijl de viewer geopend is, maar wordt niet afgespeeld wanneer een video actief is.
 
 Zie [Een voorinstelling voor een gemengde mediaset voor de viewer instellen](setting-mixed-media-set-viewer.md#setting-up-a-mixed-media-set-viewer-preset) en [Viewer-voorinstellingen maken en bewerken](application-setup.md#adding-and-editing-viewer-presets).
 

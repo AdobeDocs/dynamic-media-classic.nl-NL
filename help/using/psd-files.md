@@ -10,7 +10,7 @@ role: User
 exl-id: e3b8c4b9-e9c4-4d7f-84de-2efb456755a1
 topic: Integrations, Development
 level: Experienced
-source-git-commit: bc3b696bfde0ed55894cdcbf3533299ae7697e98
+source-git-commit: 61665faba1e6bb711aae5becf0150d1ebe3105c0
 workflow-type: tm+mt
 source-wordcount: '957'
 ht-degree: 0%
@@ -86,7 +86,7 @@ Als u de optie hebt geselecteerd **[!UICONTROL Maintain Layers]** toen u uw PSD 
 1. Selecteren **[!UICONTROL Layers]**. Alle lagen worden als afzonderlijke afbeeldingen weergegeven in het deelvenster Lagen.
 1. Dubbelklik op een laag en voer een van de volgende handelingen uit:
 
-   * Als u een afbeeldingskaart op de laag wilt maken, selecteert u de optie **[!UICONTROL Image Map]** pictogram. (Zie [Afbeeldingen met hyperlinks maken](creating-image-maps.md#creating_image_maps).)
+   * Als u een afbeelding met hyperlinks op de laag wilt maken, selecteert u de optie **[!UICONTROL Image Map]** pictogram. (Zie [Afbeeldingen met hyperlinks maken](creating-image-maps.md#creating_image_maps).)
    * Als u zoomdoelen op de laag wilt maken, selecteert u de optie **[!UICONTROL Zoom Targets]** pictogram. (Zie [Zoomdoelen maken voor zoomen met instructies](creating-zoom-targets-guided-zoom.md#creating_zoom_targets_for_guided_zoom).)
    * Als u de laag wilt uitsnijden, selecteert u de **[!UICONTROL Crop]** pictogram. (Zie [Een afbeelding uitsnijden](cropping-image.md#cropping_an_image).)
    * Selecteer **[!UICONTROL Sharpen]**. (Zie [Een afbeelding verscherpen](sharpening-image.md#sharpening_an_image).)

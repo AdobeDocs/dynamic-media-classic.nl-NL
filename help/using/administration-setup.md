@@ -9,9 +9,9 @@ role: Admin
 exl-id: 14e3d8be-f265-4cec-aa8e-19ef71526b68
 topic: Administration
 level: Intermediate
-source-git-commit: bc3b696bfde0ed55894cdcbf3533299ae7697e98
+source-git-commit: 61665faba1e6bb711aae5becf0150d1ebe3105c0
 workflow-type: tm+mt
-source-wordcount: '1847'
+source-wordcount: '1850'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Instellingen voor beheer{#administration-setup}
 
-De schermen van de Opstelling van het Beleid zijn voor het beheren van de gebruikers van Adobe Dynamic Media Classic. Gebruik deze schermen om gebruikers in staat te stellen in Adobe Dynamic Media Classic te werken en via e-mail met gebruikers te communiceren.
+De schermen van de Opstelling van het Beleid zijn voor het beheren van de gebruikers van Adobe Dynamic Media Classic. Gebruik deze schermen om gebruikers in staat te stellen in Adobe Dynamic Media Classic te werken en via e-mail met andere gebruikers te communiceren.
 
 1. Ga naar **Instellen** > **Persoonlijke instelling** > **Instellingen voor beheer**.
 
@@ -28,7 +28,7 @@ De schermen van de Opstelling van het Beleid zijn voor het beheren van de gebrui
 
 Alle Adobe Dynamic Media Classic-gebruikers krijgen een rol toegewezen die hun rechten en toegangsrechten voor functies in Adobe Dynamic Media Classic bepaalt. De beheerders bepalen de verschillende rollen en verantwoordelijkheden voor de bedrijven waaraan zij worden toegewezen.
 
-Typisch, vormt Adobe Dynamic Media Classic de eerste reeks bedrijven en wijst een bedrijfbeheerder toe. De bedrijfbeheerder plaatst dan opstelling en beheert de gebruikers van Adobe Dynamic Media Classic.
+Typisch, vormt Adobe Dynamic Media Classic de eerste reeks bedrijven en wijst een Beheerder van het Onderneming toe. De beheerder van het Bedrijf plaatst dan opstelling en beheert de gebruikers van Adobe Dynamic Media Classic.
 
 Adobe Dynamic Media Classic ondersteunt verschillende gebruikersrollen. Deze rollen kunnen tot bedrijven toegang hebben die voor Adobe Dynamic Media Classic worden gevestigd:
 
@@ -109,7 +109,7 @@ U kunt de volgende gebruikerslijst-filtrerende technieken gebruiken:
 
 * **Ongeldige gebruikers filteren**: Deselecteren **[!UICONTROL Include Invalid]**. In de zoekresultaten worden alleen gebruikers weergegeven die zich in het systeem bevinden. Ongeldige gebruikers zijn verwijderd uit het systeem en de accounts die u beheert.
 
-* **Sorteren op kolomkop**: Selecteer een kop om alle gebruikers te sorteren op hun status, alfabetisch op voornaam, achternaam of e-mail, op gebruikersrol of op geldige/ongeldige status.
+* **Sorteren op kolomkop**: Selecteer een kop om alle gebruikers te sorteren op hun status, alfabetisch op voornaam, achternaam of e-mail. Of sorteren op gebruikersrol of op geldige/ongeldige status.
 
 Als u veel gebruikers hebt, kunt u de grootte van de lijst beperken door het menu Maximale lijstgrootte te selecteren en een aantal te kiezen.
 
@@ -170,9 +170,9 @@ Het rapport Inhoud afbeelding biedt informatie over verzoeken om de volgende afb
 
 * **Tegelaanvraag viewer**: Afbeeldingsverzoeken die door een viewer zijn geladen.
 
-* **Vnt Object Request**: Bij het renderen van afbeeldingen wordt een afbeelding met opgegeven objecten in de gevraagde vignetten geretourneerd.
+* **VNT-objectaanvraag**: Bij het renderen van afbeeldingen wordt een afbeelding met opgegeven objecten in de gevraagde vignetten geretourneerd.
 
-* **Verzoek om informatie over lettertype**: Voor het renderen van afbeeldingen wordt informatie over de gevraagde vignetten geretourneerd.
+* **Verzoek om informatie over VNT**: Voor het renderen van afbeeldingen wordt informatie over de gevraagde vignetten geretourneerd.
 
 >[!NOTE]
 >
@@ -202,7 +202,7 @@ Nadat u een rapport hebt gegenereerd op de pagina Bandbreedte en opslag, kunt u 
 
 * **Aangepaste tijdsperiode**: Selecteer in het menu Vooraf gedefinieerd rapport de optie **[!UICONTROL Custom]**. Kies vervolgens een datum op het tabblad **[!UICONTROL Start Month]** (of **[!UICONTROL Start Date]**) en een datum in het menu # van maanden (of # of dagen). Voor de Rapporten van de Inhoud van het Domein en Video, kunt u een specifieke begin en einddatum kiezen voor het vangen van rapportinformatie.
 
-* **Gegevens sorteren (alleen in de weergave Gegevens)**: Als u informatie over een kolom wilt sorteren, selecteert u de kop van de kolom. Selecteer nogmaals om in aflopende volgorde te sorteren.
+* **Gegevens sorteren (alleen in de weergave Gegevens)**: Sorteer gegevens in een kolom. Selecteer de kop van de kolom. Selecteer nogmaals om in aflopende volgorde te sorteren.
 
 * **Kolommen opnieuw rangschikken (alleen in de gegevensweergave)**: Als u een kolom naar een andere locatie op het gegevensraster wilt verplaatsen, sleept u de kop.
 

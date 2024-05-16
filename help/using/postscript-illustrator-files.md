@@ -10,9 +10,9 @@ role: User
 exl-id: 08f14fe9-3e3b-4235-a6c5-b6b6d2ffc4bd
 topic: Integrations, Development
 level: Experienced
-source-git-commit: bc3b696bfde0ed55894cdcbf3533299ae7697e98
+source-git-commit: 61665faba1e6bb711aae5becf0150d1ebe3105c0
 workflow-type: tm+mt
-source-wordcount: '191'
+source-wordcount: '192'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ U kunt Adobe PostScript® (EPS)- en Adobe® Illustrator® (AI)-bestanden gebruik
 
 Wanneer u PostScript- (EPS) of Illustrator-afbeeldingsbestanden (AI) uploadt, kunt u deze op verschillende manieren opmaken. U kunt de bestanden rasteren, omzetten in FXG voor Sjabloonpublicatie, de transparante achtergrond behouden, een resolutie kiezen en een kleurruimte kiezen. Opties voor de opmaak van PostScript- en Illustrator-bestanden zijn beschikbaar op het scherm Uploaden onder PostScript-opties en Illustrator-opties in het vak Opties voor uploaden.
 
-* **[!UICONTROL Processing]**: Kies **[!UICONTROL Rasterize]** om vectorafbeeldingen in het bestand om te zetten in de bitmapindeling.
+* **[!UICONTROL Processing]**: Kies **[!UICONTROL Rasterize]** om de vectorafbeeldingen in het bestand om te zetten in de bitmapindeling.
 
 * **[!UICONTROL Maintain Transparent Background In Rendered Image]**: Hiermee blijft de achtergrondtransparantie van het bestand behouden.
 

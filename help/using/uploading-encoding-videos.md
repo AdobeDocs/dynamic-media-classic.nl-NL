@@ -9,7 +9,7 @@ role: User
 exl-id: 93ad91d7-f3dd-484b-b62c-633fcb864bbf
 topic: Content Management
 level: Intermediate
-source-git-commit: 29752cf9eca0fc9bb760c721e1c3dc8e4ef912c3
+source-git-commit: 61665faba1e6bb711aae5becf0150d1ebe3105c0
 workflow-type: tm+mt
 source-wordcount: '3886'
 ht-degree: 0%
@@ -377,5 +377,5 @@ Beheerders kunnen aangepaste videovoorinstellingen verwijderen. Videovoorinstell
 >
 >* [Snel starten: Video in Adobe Dynamic Media Classic](quick-start-video.md#quick-start-video)
 >* [Video&#39;s uploaden en coderen](uploading-encoding-videos.md#uploading-and-encoding-videos)
->* [Werken met voorinstellingen voor videoviewers](previewing-videos-video-viewer.md#working-with-video-viewer-presets)
+>* [Werken met voorinstellingen voor video-viewers](previewing-videos-video-viewer.md#working-with-video-viewer-presets)
 >* [Videovoorinstellingen](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&amp;emailurl=https://s7d5.scene7.com/s7/emailFriend&amp;serverUrl=https://s7d5.scene7.com/is/image/&amp;config=Scene7SharedAssets/Universal_HTML5_Video&amp;contenturl=https://s7d5.scene7.com/skins/&amp;asset=S7tutorials/549_video-presets_converted%20renamed_Done-AVS) trainingsvideo

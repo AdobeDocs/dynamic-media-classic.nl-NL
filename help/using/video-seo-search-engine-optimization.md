@@ -10,20 +10,20 @@ role: Admin
 exl-id: f76b0e09-f148-46aa-b710-ec35bfebcb37
 topic: Content Management
 level: Intermediate
-source-git-commit: bc3b696bfde0ed55894cdcbf3533299ae7697e98
+source-git-commit: 61665faba1e6bb711aae5becf0150d1ebe3105c0
 workflow-type: tm+mt
-source-wordcount: '980'
+source-wordcount: '983'
 ht-degree: 0%
 
 ---
 
 # Video-SEO (Optimalisatie zoekmachine){#video-seo-search-engine-optimization}
 
-SEO is het proces om het volume van verkeer aan een Website van onderzoeksmotoren te verbeteren. Terwijl zoekmachines uitblinken in het verzamelen van informatie over op tekst gebaseerde inhoud, kunnen ze geen informatie over video adequaat verkrijgen tenzij deze informatie aan hen wordt verstrekt.
+SEO is het proces om het volume van verkeer aan een Website van onderzoeksmotoren te verbeteren. Terwijl zoekprogramma&#39;s uitblinken in het verzamelen van informatie over op tekst gebaseerde inhoud, kunnen ze niet voldoende informatie over video verkrijgen. Deze informatie moet aan hen worden verstrekt.
 
 Met Adobe Dynamic Media Classic Video SEO kunt u videometagegevens toepassen om zoekprogramma&#39;s beschrijvingen van uw video&#39;s te bieden. Adobe Dynamic Media Classic biedt u de mogelijkheid om videositemaps en mRSS-feeds te maken. Deze standaard XML-bestanden worden gebruikt voor het verzenden van videogegevens naar zoekprogramma&#39;s:
 
-* **Video Sitemap**: Hiermee wordt Google precies aangegeven waar en wat de video-inhoud op een site is. Op Google kunnen dus volledig naar video&#39;s worden gezocht. Een videositemap kan bijvoorbeeld de actieve tijd en de categorieën video&#39;s opgeven. Voor informatie over video Sitemaps raadpleegt u [Videositemaps en alternatieven voor videositemap](https://developers.google.com/search/docs/crawling-indexing/sitemaps/video-sitemaps?visit_id=637558394348624754-567115452&amp;rd=1).
+* **Video Sitemap**: Hiermee wordt Google precies aangegeven waar en wat de video-inhoud op een site is. Op Google kunnen dus volledig naar video&#39;s worden gezocht. Een videositemap kan bijvoorbeeld de actieve tijd en de categorieën video&#39;s opgeven. Voor informatie over videobeelden raadpleegt u [Videositemaps en alternatieven voor videositemap](https://developers.google.com/search/docs/crawling-indexing/sitemaps/video-sitemaps?visit_id=637558394348624754-567115452&amp;rd=1).
 
 * **mRSS-feed (Media Echt eenvoudige syntaxis)**: Wordt gebruikt door uitgevers van inhoud om mediabestanden te importeren in Yahoo! Video zoeken. Voor informatie over mRSS feeds, zie [Videositemaps en alternatieven voor videositemap](https://developers.google.com/search/docs/crawling-indexing/sitemaps/video-sitemaps?visit_id=637558394348624754-567115452&amp;rd=1).
 
@@ -45,7 +45,7 @@ Nadat u deze hebt gegenereerd, maakt Adobe Dynamic Media Classic rapporten over 
 
 ## Video-SEO-instellingen kiezen
 
-Selecteer Video SEO-instellingen voor videositemaps en MRSS-feeds op de **[!UICONTROL Video Search Engine Optimization Settings]** pagina. Ga naar **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Video SEO]** > **[!UICONTROL Settings]**.
+Selecteer Video SEO-instellingen voor Video Sitemaps en MRSS-feeds op het tabblad **[!UICONTROL Video Search Engine Optimization Settings]** pagina. Ga naar **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Video SEO]** > **[!UICONTROL Settings]**.
 
 In de **[!UICONTROL General Setting]** of u videositemaps, mRSS-feeds of beide wilt genereren. In de **[!UICONTROL Generation Settings]** gebied, metagegevensvelden toewijzen aan invoervelden.
 
@@ -65,7 +65,7 @@ Op de **[!UICONTROL Generation Mode]** drop-down lijst, kies een rapportwijze:
 
 Op de **[!UICONTROL Automatic/Manual Mode]** kiest u of u automatisch of handmatig wilt genereren:
 
-* **Automatische modus**: Adobe Dynamic Media Classic genereert elke dag automatisch één videositemap, Media RSS-feed (mRSS) of beide. Selecteer de **[!UICONTROL Mark for Publish]** om het door Adobe Dynamic Media Classic gegenereerde XML-bestand automatisch te markeren voor publicatie.
+* **Automatische modus**: Adobe Dynamic Media Classic genereert elke dag automatisch één videositemap, Media RSS-feed (mRSS) of beide. Selecteer de **[!UICONTROL Mark for Publish]** zodat u het door Adobe Dynamic Media Classic gegenereerde XML-bestand automatisch kunt markeren voor publicatie.
 
    * **Markeren voor publicatie** Markeringen voor het publiceren van het XML-bestand dat wordt gegenereerd.
 
@@ -79,7 +79,7 @@ Op de **[!UICONTROL Automatic/Manual Mode]** kiest u of u automatisch of handmat
 
 ### Generatie-instellingen kiezen {#choosing-generation-settings}
 
-In het gedeelte Instellingen genereren worden invoervelden voor de videospecificatie, of de mRSS-feed of beide vermeld en in het deelvenster Metagegevens worden de namen van metagegevensvelden weergegeven. In het gedeelte Algemene instellingen kunt u invoervelden toewijzen aan metagegevensvelden. Op deze manier geeft u Adobe Dynamic Media Classic de locatie op waar u metagegevens voor de videositemap en/of MRSS-feed wilt verkrijgen.
+In het gedeelte Instellingen genereren worden invoervelden weergegeven voor de videositemap, de mRSS-feed of beide. In het deelvenster Metagegevens worden de namen van metagegevensvelden weergegeven. In het gedeelte Algemene instellingen kunt u invoervelden toewijzen aan metagegevensvelden. Op deze manier geeft u Adobe Dynamic Media Classic de locatie op waar u metagegevens voor de videositemap en/of MRSS-feed wilt verkrijgen.
 
 1. Kies een metagegevensweergave in het menu Weergaven Metagegevens. Nadat u een weergave hebt gekozen, worden de namen van metagegevensvelden weergegeven in het deelvenster Metagegevens.
 Zie [Weergaven metagegevens](application-setup.md#metadata_views).

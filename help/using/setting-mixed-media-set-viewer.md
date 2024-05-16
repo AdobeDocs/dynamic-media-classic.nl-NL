@@ -10,9 +10,9 @@ role: User
 exl-id: d41b30e7-994a-43f3-8698-7dbfc36305ae
 topic: Content Management
 level: Intermediate
-source-git-commit: bc3b696bfde0ed55894cdcbf3533299ae7697e98
+source-git-commit: 61665faba1e6bb711aae5becf0150d1ebe3105c0
 workflow-type: tm+mt
-source-wordcount: '588'
+source-wordcount: '587'
 ht-degree: 0%
 
 ---
@@ -26,19 +26,19 @@ U kunt alle of sommige gemeenschapseigenschappen in de Gemengde Kijker van de Da
 1. Ga op de algemene navigatiebalk naar **[!UICONTROL Setup]** > **[!UICONTROL Viewer Presets]**.
 1. Voer een van de volgende handelingen uit op de pagina Voorinstellingen viewer:
 
-   * Selecteer **[!UICONTROL Add]**. Kies in het dialoogvenster Voorinstelling viewer toevoegen een platform en kies **[!UICONTROL Mixed Media Set Viewer]** selecteert u vervolgens **[!UICONTROL Add]**.
-   * Als u een voorinstelling voor een gemengde mediaset van de viewer wilt bewerken, selecteert u deze en selecteert u vervolgens **[!UICONTROL Edit]**.
+   * Selecteer **[!UICONTROL Add]**. Kies een platform in het dialoogvenster Voorinstelling viewer toevoegen. Klik vervolgens op **[!UICONTROL Mixed Media Set Viewer]** > **[!UICONTROL Add]**.
+   * Als u een voorinstelling voor een gemengde mediaset wilt bewerken, selecteert u deze en vervolgens **[!UICONTROL Edit]**.
 
-1. Typ op de pagina Configuration Viewer een naam in het vak Naam voorinstelling voor de voorinstelling Gemengde Media Set Viewer.
+1. Typ op de pagina Configuration Viewer een naam in het vak Naam voorinstelling voor de voorinstelling voor de gemengde mediaset van de viewer.
 1. Opgeven **[!UICONTROL Tabs]** of **[!UICONTROL No Tabs]**. Met tabs kunt u items op type van elkaar scheiden, zoals video&#39;s, stalen en centrifuges. Wanneer u geen tabbladen opgeeft, worden alle items in een rij onder het voorvertoningsvenster weergegeven.
 1. In de **[!UICONTROL Name]** typt u een naam voor de viewer die u wilt toevoegen.
 
    Als u bijvoorbeeld een staal toevoegt dat is ingesteld op de gemengde mediaset, typt u `Swatch Set A`.
 
-1. Kies in het menu Viewer het type element dat u wilt weergeven, zoals Staalsets.
-1. Kies in het menu Voorinstelling een voorinstelling voor het gekozen elementtype.
+1. Selecteer in het menu Viewer het type element dat u wilt weergeven, zoals Staalsets.
+1. Selecteer in het menu Voorinstelling een voorinstelling voor het gekozen elementtype.
 
-   Als u bijvoorbeeld een staalset toevoegt, kiest u **[!UICONTROL SwatchSet1-Colors]**.
+   Als u bijvoorbeeld een staalset toevoegt, selecteert u **[!UICONTROL SwatchSet1-Colors]**.
 
 1. Selecteren **[!UICONTROL Add]**.
 
@@ -48,7 +48,7 @@ U kunt alle of sommige gemeenschapseigenschappen in de Gemengde Kijker van de Da
 1. Voer een van de volgende handelingen uit om de lijst met voorinstellingen te bewerken:
 
    * Als u een voorinstelling uit de lijst wilt verwijderen, selecteert u deze en selecteert u vervolgens **[!UICONTROL Delete]**.
-   * Als u de volgorde van voorinstellingen in de lijst wilt wijzigen, selecteert u een voorinstelling en selecteert u de optie **[!UICONTROL Up]** of **[!UICONTROL Down]** pijl.
+   * Als u de volgorde van voorinstellingen in de lijst wilt wijzigen, selecteert u een voorinstelling en selecteert u vervolgens het blauwe **[!UICONTROL Up]** of **[!UICONTROL Down]** pijl.
 
 1. Als u communityfuncties (Insluiten, Koppeling, Bezoek) wilt toevoegen aan de viewer, geeft u opties op voor een van de volgende opties:
 

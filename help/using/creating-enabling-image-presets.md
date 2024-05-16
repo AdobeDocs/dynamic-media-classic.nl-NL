@@ -10,16 +10,16 @@ role: Admin,User
 exl-id: 94c6c388-226b-4172-a6c7-a8dcf9c0f0cf
 topic: Content Management
 level: Intermediate
-source-git-commit: bc3b696bfde0ed55894cdcbf3533299ae7697e98
+source-git-commit: 61665faba1e6bb711aae5becf0150d1ebe3105c0
 workflow-type: tm+mt
-source-wordcount: '256'
+source-wordcount: '258'
 ht-degree: 0%
 
 ---
 
 # Voorinstellingen afbeelding maken en inschakelen{#creating-and-enabling-image-presets}
 
-Wanneer gebruikers afbeeldingselementen exporteren met gebruik van Media Portal, kunnen zij een voorinstelling voor afbeelding kiezen in het dialoogvenster Geselecteerde elementen exporteren. Een voorinstelling voor afbeeldingen is een verzameling vooraf gedefinieerde instellingen die de grootte, afbeeldingskwaliteit, indeling, resolutie en andere aspecten van de weergave van een afbeelding tijdens het exporteren wijzigen.
+Wanneer gebruikers afbeeldingselementen exporteren met gebruik van Media Portal, kunnen zij een voorinstelling voor afbeelding kiezen in het dialoogvenster Geselecteerde elementen exporteren. Een voorinstelling voor afbeeldingen is een verzameling vooraf gedefinieerde instellingen. Met deze instellingen kunt u de grootte, afbeeldingskwaliteit, indeling, resolutie en andere aspecten van de weergave van een afbeelding tijdens het exporteren wijzigen.
 
 Beheerders van Media Portal kunnen voorinstellingen voor afbeeldingen maken om te bepalen hoe afbeeldingen opnieuw worden opgemaakt wanneer ze worden geëxporteerd. Met Voorinstellingen voor afbeeldingen kunt u afbeeldingen opnieuw opmaken volgens de specificaties van uw bedrijf wanneer gebruikers afbeeldingen exporteren uit de Adobe Dynamic Media Classic. Gebruikers kunnen de afbeeldingen niet alleen opnieuw opmaken, maar naar de exacte specificaties van een voorinstelling voor afbeeldingen exporteren.
 

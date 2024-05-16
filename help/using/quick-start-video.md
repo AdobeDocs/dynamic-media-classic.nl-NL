@@ -10,7 +10,7 @@ role: User
 exl-id: 1157400c-b33a-422e-848c-258660ddc748
 topic: Content Management
 level: Beginner
-source-git-commit: bc3b696bfde0ed55894cdcbf3533299ae7697e98
+source-git-commit: 61665faba1e6bb711aae5becf0150d1ebe3105c0
 workflow-type: tm+mt
 source-wordcount: '1395'
 ht-degree: 0%
@@ -126,7 +126,7 @@ U kunt de video afspelen op de pagina Voorvertoning. U kunt ook verschillende vi
 
 Aanpassing voorinstelling viewer: Adobe Dynamic Media Classic biedt vooraf gedefinieerde viewervoorinstellingen voor het afleveren van video. Deze voorinstellingen bepalen de vormgeving van de viewer en de werking van de afspeelbesturingselementen. Beheerders kunnen voorinstellingen voor viewers toevoegen en beheren via de pagina Voorinstellingen voor viewer om de videoviewer aan te passen. Ga naar **[!UICONTROL Setup]** > **[!UICONTROL Viewer Presets]**. De pagina Voorinstellingen viewer bevat opdrachten voor het toevoegen, bewerken, verwijderen en activeren van voorinstellingen van viewers.
 
-Zie [Werken met voorinstellingen voor videoviewers](previewing-videos-video-viewer.md#working_with_video_viewer_presets).
+Zie [Werken met voorinstellingen voor video-viewers](previewing-videos-video-viewer.md#working_with_video_viewer_presets).
 
 Zie ook [Videovoorinstellingen](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&amp;emailurl=https://s7d5.scene7.com/s7/emailFriend&amp;serverUrl=https://s7d5.scene7.com/is/image/&amp;config=Scene7SharedAssets/Universal_HTML5_Video&amp;contenturl=https://s7d5.scene7.com/skins/&amp;asset=S7tutorials/549_video-presets_converted%20renamed_Done-AVS) trainingsvideo.
 

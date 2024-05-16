@@ -10,7 +10,7 @@ role: User
 topic: Content Management
 level: Beginner
 exl-id: f1d46f03-57a1-43d8-a0ee-74b92b590736
-source-git-commit: bc3b696bfde0ed55894cdcbf3533299ae7697e98
+source-git-commit: 61665faba1e6bb711aae5becf0150d1ebe3105c0
 workflow-type: tm+mt
 source-wordcount: '863'
 ht-degree: 0%
@@ -39,7 +39,7 @@ Selecteer op de algemene navigatiebalk de optie **[!UICONTROL Upload]** om besta
 
 ## 2. Voorinstellingen afbeelding instellen
 
-Net als bij een macro is een voorinstelling voor afbeeldingen een verzameling vooraf gedefinieerde opdrachten voor grootte en opmaak die onder een naam zijn opgeslagen. Met een voorinstelling voor afbeeldingen bepaalt u de grootte en opmaak van afbeeldingen die worden geleverd op Dynamic Media Image Servers. U kunt de Voorinstellingen van het beeld op uw plaatsen als u de status van de bedrijfbeheerder hebt. Adobe Dynamic Media Classic wordt ook geleverd met standaardvoorinstellingen voor afbeeldingen en u kunt deze gebruiken om afbeeldingen dynamisch te leveren.
+Net als bij een macro is een voorinstelling voor afbeeldingen een verzameling vooraf gedefinieerde opdrachten voor grootte en opmaak die onder een naam zijn opgeslagen. Met een voorinstelling voor afbeeldingen bepaalt u de grootte en opmaak van afbeeldingen die worden geleverd op Dynamic Media Image Servers. U kunt de Voorinstellingen van het opstellingsBeeld op uw plaatsen als u de status van de Beheerder van het Bedrijf hebt. Adobe Dynamic Media Classic wordt ook geleverd met standaardvoorinstellingen voor afbeeldingen en u kunt deze gebruiken om afbeeldingen dynamisch te leveren.
 
 Als u een voorinstelling voor afbeeldingen wilt maken (als u een beheerder bent), gaat u op de algemene navigatiebalk naar **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Image Presets]**. Selecteer vervolgens **[!UICONTROL Add]** om een voorinstelling voor afbeeldingen te maken, of selecteer **[!UICONTROL Edit]** om een bestaande voorinstelling voor afbeeldingen te wijzigen.
 

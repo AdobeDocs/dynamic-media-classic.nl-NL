@@ -10,7 +10,7 @@ role: User
 exl-id: 9e2df814-465d-412a-a032-ef3e8cb462ba
 topic: Integrations
 level: Experienced
-source-git-commit: bc3b696bfde0ed55894cdcbf3533299ae7697e98
+source-git-commit: 61665faba1e6bb711aae5becf0150d1ebe3105c0
 workflow-type: tm+mt
 source-wordcount: '1437'
 ht-degree: 0%
@@ -36,7 +36,7 @@ Afhankelijk van de instellingen die u kiest voor uw eCatalog, kunt u in de viewe
 * Plaats de aanwijzer boven een paginagebied (de zogeheten Afbeeldingskaart), zodat u een pop-upvenster kunt zien met informatie over een item.
 * Selecteer een paginagebied zodat opent het een nieuwe Web-pagina met meer informatie over een punt.
 * Schrijf een notitie en koppel deze aan een eCatalog-pagina.
-* Tik op pictogrammen voor afbeeldingen met hyperlinks als u gerelateerde webpagina&#39;s of info-deelvensters in de context wilt starten.
+* Tik op de pictogrammen Afbeelding met hyperlinks als u gerelateerde webpagina&#39;s of info-deelvensters in de context wilt starten.
 * Gebruik gebaarinteracties, zoals vastzetten om in te zoomen en te veeggen om pagina&#39;s om te slaan.
 * Zoeken op trefwoord voor objecten.
 
@@ -92,7 +92,7 @@ Zie [ECatalog-afbeeldingen met hyperlinks maken](creating-ecatalog-image-maps.md
 
 Zie [Afbeeldingen met hyperlinks gebruiken om rijke media in een eCatalog in te sluiten](creating-ecatalog-image-maps.md#embedding-rich-media-in-an-ecatalog).
 
-U kunt de tekst van de afbeeldingskaart instellen en beheren met de instellingen in het deelvenster Info in het eCatalog-scherm.
+U kunt de tekst van de Kaart van het Beeld opstelling en beheren gebruikend de montages van het Comité van Info in het eCatalog scherm.
 
 Zie [Inhoud van deelvenster Info in eCatalogs beheren](/help/using/info-panel-content-ecatalog.md).
 

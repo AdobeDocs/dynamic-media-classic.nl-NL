@@ -10,16 +10,16 @@ role: User
 exl-id: 2073d95b-1600-481f-8038-d29e8acacf7d
 topic: Administration, Content Management, Development
 level: Intermediate
-source-git-commit: bc3b696bfde0ed55894cdcbf3533299ae7697e98
+source-git-commit: 61665faba1e6bb711aae5becf0150d1ebe3105c0
 workflow-type: tm+mt
-source-wordcount: '602'
+source-wordcount: '607'
 ht-degree: 0%
 
 ---
 
 # Zoomviewers koppelen aan uw webpagina&#39;s{#linking-zoom-viewers-to-your-web-pages}
 
-Via URL-tekenreeksen of ingesloten code krijgen uw websites en toepassingen toegang tot Dynamic Media Image Server-inhoud, inclusief primaire afbeeldingen en bijbehorende zoomdoelen, en Voorinstellingen van Zoomviewer. Deze URL-tekenreeksen worden geactiveerd tijdens het publicatieproces. Als u deze URL-tekenreeksen of de ingesloten code op uw webpagina&#39;s en toepassingen wilt plaatsen, kopieert u deze vanuit Adobe Dynamic Media Classic.
+Uw websites en toepassingen hebben toegang tot Dynamic Media Image Server-inhoud via URL-tekenreeksen of ingesloten code. Deze toegang omvat primaire afbeeldingen en bijbehorende zoomdoelen. Dit omvat ook voorinstellingen voor zoomviewers. Deze URL-tekenreeksen worden geactiveerd tijdens het publicatieproces. Als u deze URL-tekenreeksen of de ingesloten code op uw webpagina&#39;s en toepassingen wilt plaatsen, kopieert u deze vanuit Adobe Dynamic Media Classic.
 
 >[!NOTE]
 >
@@ -47,7 +47,7 @@ Via URL-tekenreeksen of ingesloten code krijgen uw websites en toepassingen toeg
 
 Doorgaans zoomen bezoekers op afbeeldingen op een website door eerst een zoompictogram te selecteren (vaak wordt met het pictogram de afbeelding van een vergrootglas weergegeven). Als u dit pictogram selecteert, wordt een dynamische webpagina (ASP of JSP) gestart die de afbeelding in een pop-upvenster weergeeft. In het pop-upvenster zoomen bezoekers daadwerkelijk op de afbeelding.
 
-Zie voor meer informatie en codevoorbeelden [HTML5 Basic Zoom Viewer insluiten in de naslaggids voor Adobe Viewers](https://experienceleague.adobe.com/en/docs/dynamic-media-developer-resources/library/viewers-aem-assets-dmc/basic-zoom/c-html5-20-basic-zoom-viewer-about#section-e1c3106f5b3e445d9b95be337c2f94e2).
+Zie voor meer informatie en codevoorbeelden de [HTML5 Basic Zoom Viewer insluiten in de naslaggids voor Adobe Viewers](https://experienceleague.adobe.com/en/docs/dynamic-media-developer-resources/library/viewers-aem-assets-dmc/basic-zoom/c-html5-20-basic-zoom-viewer-about#section-e1c3106f5b3e445d9b95be337c2f94e2).
 
 ## De ingesloten kopie van een zoomviewer kopiëren {#copying-the-embed-copy-of-a-zoom-viewer}
 
@@ -55,7 +55,7 @@ Met de functie Code insluiten kunt u de viewercode voor de geselecteerde zoomvie
 
 **De insluitcode van een zoomviewer kopiëren:**
 
-1. Navigeer in het deelvenster Elementenbibliotheek aan de linkerkant naar de elementenmap die de zoomviewer bevat waarvan u de insluitcode wilt kopiëren.
+1. Navigeer in het deelvenster Elementenbibliotheek aan de linkerkant naar de elementenmap die de zoomviewer bevat waarvan u de code voor insluiten wilt kopiëren.
 1. Voer boven het deelvenster Asset Browse een van de volgende handelingen uit aan de rechterkant van de werkbalk:
 
    * Selecteren **[!UICONTROL Grid View]**. Dubbelklik in het deelvenster Asset Browse op één element om dit te openen in de gedetailleerde weergave. Selecteer in de URL&#39;s en het deelvenster Code insluiten aan de rechterkant de optie **[!UICONTROL Embed Code]** rechts van de gewenste viewer.

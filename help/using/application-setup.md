@@ -10,9 +10,9 @@ role: Admin
 exl-id: 3f96606e-ef5c-4c01-aa0f-3148f14e28be
 topic: Administration
 level: Intermediate
-source-git-commit: 29752cf9eca0fc9bb760c721e1c3dc8e4ef912c3
+source-git-commit: 61665faba1e6bb711aae5becf0150d1ebe3105c0
 workflow-type: tm+mt
-source-wordcount: '10352'
+source-wordcount: '10351'
 ht-degree: 1%
 
 ---
@@ -49,7 +49,7 @@ Zie ook [De service Beveiligde tests testen](testing-assets-making-them-public.m
 
 * **[!UICONTROL Progressive Video Server Name]**: De URL naar uw [!DNL Adobe Dynamic Media Classic] progressieve videoserver. Deze server levert progressieve video gebruikend het protocol van HTTP.
 
-* **[!UICONTROL Show URL for unpublished assets]**: Selecteer deze optie als u wilt [!DNL Adobe Dynamic Media Classic] om een URL weer te geven wanneer u een voorbeeld weergeeft van een element, ongeacht of dit is gepubliceerd of niet. Als het element niet is gepubliceerd, werkt de URL niet. U kunt de URL echter ook gebruiken voor plannings- of organisatorische doeleinden.
+* **[!UICONTROL Show URL for unpublished assets]**: Selecteer deze optie als u wilt [!DNL Adobe Dynamic Media Classic] om een URL weer te geven wanneer u een voorvertoning van een element weergeeft, gepubliceerd of niet. Als het element niet is gepubliceerd, werkt de URL niet. U kunt de URL echter ook gebruiken voor plannings- of organisatorische doeleinden.
 
 <!-- **Allow AIR install** Select this option to allow users to download Adobe Dynamic Media Classic desktop version to their local hard drives. Users install the application from the Desktop Version area of the Personal Setup screen. -->
 
@@ -83,7 +83,7 @@ Zie ook [De service Beveiligde tests testen](testing-assets-making-them-public.m
 
 * **[!UICONTROL Show Sample eVideo Content]**: Schakel de weergave van de inhoud van het eVideo-voorbeeld in of uit.
 
-* **[!UICONTROL Show Generated Content]**: In mappen geeft u de inhoud weer die is gegenereerd op basis van een element. Wanneer een PDF-bestand bijvoorbeeld tijdens het uploaden wordt gerasterd, maakt Adobe Dynamic Media Classic één afbeelding voor elke pagina in de oorspronkelijke PDF. Als Gegenereerde inhoud tonen is geselecteerd, wordt elke gegenereerde afbeelding weergegeven wanneer de oorspronkelijke PDF wordt geüpload. Deze wordt samen met de PDF weergegeven in de map waarnaar de PDF is geüpload.
+* **[!UICONTROL Show Generated Content]**: In mappen wordt de inhoud weergegeven die is gegenereerd op basis van een element. Wanneer een PDF-bestand bijvoorbeeld tijdens het uploaden wordt gerasterd, maakt Adobe Dynamic Media Classic één afbeelding voor elke pagina in de oorspronkelijke PDF. Als Gegenereerde inhoud tonen is geselecteerd, wordt elke gegenereerde afbeelding weergegeven wanneer de oorspronkelijke PDF wordt geüpload. Deze wordt samen met de PDF weergegeven in de map waarnaar de PDF is geüpload.
 
 * **[!UICONTROL Show Encoded Videos]**: Standaard uitgeschakeld.
 
@@ -117,11 +117,11 @@ Zie ook [Opties voor uploadtaken](https://s7d5.scene7.com/s7viewers/html5/VideoV
 
 * **[!UICONTROL Overwrite Images]**: Adobe Dynamic Media Classic staat niet toe dat twee bestanden dezelfde naam hebben. De Adobe Dynamic Media Classic-id van elk item (de naam van de afbeelding min de extensie van de bestandsnaam) moet uniek zijn. Vanwege deze regel heeft het dialoogvenster Uploaden een optie Overschrijven. Het exacte effect van deze optie is afhankelijk van de opgegeven optie Afbeeldingen overschrijven. Met deze opties geeft u op hoe vervangende afbeeldingen worden geüpload: of ze de oorspronkelijke afbeeldingen vervangen of dubbele afbeeldingen worden. Dubbele afbeeldingen krijgen de naam &quot;-1&quot;. (De naam van bijvoorbeeld stoel.tif wordt gewijzigd in stoel-1.tif). Deze opties zijn van toepassing op afbeeldingen die naar een andere map zijn geüpload dan het origineel of afbeeldingen met een andere bestandsnaamextensie dan het origineel (zoals JPG, TIF of PNG). Zie [De optie Afbeeldingen overschrijven gebruiken](#using-the-overwrite-images-option).
 
-   * **[!UICONTROL Overwrite in current folder, same base image name/extension]**: Deze optie is de strengste regel voor vervanging. Hiervoor moet u de vervangende afbeelding uploaden naar dezelfde map als het origineel en moet de vervangende afbeelding dezelfde bestandsnaamextensie hebben als het origineel. Als niet aan deze vereisten wordt voldaan, wordt een dubbel gecreeerd.
+   * **[!UICONTROL Overwrite in current folder, same base image name or extension]**: Deze optie is de strengste regel voor vervanging. Hiervoor moet u de vervangende afbeelding uploaden naar dezelfde map als het origineel en moet de vervangende afbeelding dezelfde bestandsnaamextensie hebben als het origineel. Als niet aan deze vereisten wordt voldaan, wordt een dubbel gecreeerd.
 
    * **[!UICONTROL Overwrite in current folder, same base asset name regardless of extension]**: Hiermee moet u de vervangende afbeelding uploaden naar dezelfde map als het origineel, maar de bestandsextensie kan afwijken van die van het origineel. bijvoorbeeld stoel.tif vervangt stoel.jpg.
 
-   * **[!UICONTROL Overwrite in any folder, same base asset name/extension]**: Vereist dat de vervangende afbeelding dezelfde bestandsnaamextensie heeft als de oorspronkelijke afbeelding (bijvoorbeeld eigenschap.jpg moet de naam stoel.jpg vervangen, niet stoel.tif). U kunt de vervangende afbeelding echter naar een andere map uploaden dan het origineel. De bijgewerkte afbeelding staat in de nieuwe map. Het bestand kan niet meer op de oorspronkelijke locatie worden gevonden
+   * **[!UICONTROL Overwrite in any folder, same base asset name or extension]**: Vereist dat de vervangende afbeelding dezelfde bestandsnaamextensie heeft als de oorspronkelijke afbeelding. bijvoorbeeld stoel.jpg moet stoel.jpg vervangen, niet stoel.tif). U kunt de vervangende afbeelding echter naar een andere map uploaden dan het origineel. De bijgewerkte afbeelding staat in de nieuwe map. Het bestand kan niet meer op de oorspronkelijke locatie worden gevonden
 
    * **[!UICONTROL Overwrite in any folder, same base asset name regardless of extension]**: Deze optie is de meest inclusieve vervangingsregel. U kunt een vervangende afbeelding uploaden naar een andere map dan het origineel, een bestand met een andere bestandsnaamextensie uploaden en het oorspronkelijke bestand vervangen. Als het oorspronkelijke bestand zich in een andere map bevindt, bevindt de vervangende afbeelding zich in de nieuwe map waarnaar het is geüpload.
 
@@ -135,7 +135,7 @@ Zie ook [Opties voor uploadtaken](https://s7d5.scene7.com/s7viewers/html5/VideoV
 
 * **[!UICONTROL Default Image Mapping HREF]**: Hiermee definieert u de standaard-URL die wordt gebruikt voor de HREF-kolom in afbeeldingstoewijzing. Deze URL is de standaard-URL die u ziet wanneer u afbeeldingen met hyperlinks maakt.
 
-* **[!UICONTROL Default Image Mapping Template]**: Hiermee definieert u de standaard JavaScript voor de HREF-sjabloon in afbeeldingstoewijzing. U kunt hier een aangepaste code instellen die wordt uitgevoerd wanneer u een afbeelding met hyperlinks selecteert.
+* **[!UICONTROL Default Image Mapping Template]**: Hiermee definieert u de standaard JavaScript voor de HREF-sjabloon in afbeeldingstoewijzing. U kunt hier een aangepaste code instellen die moet worden uitgevoerd wanneer u een afbeelding met hyperlinks selecteert.
 
 ### Overige instellingen (op toepassing)
 

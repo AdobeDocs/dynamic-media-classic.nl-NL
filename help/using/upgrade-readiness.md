@@ -6,7 +6,7 @@ role: Admin,User
 exl-id: 86537998-b7e9-449c-83eb-6fd04533a00f
 topic: Administration, Migration
 level: Intermediate
-source-git-commit: bc3b696bfde0ed55894cdcbf3533299ae7697e98
+source-git-commit: 61665faba1e6bb711aae5becf0150d1ebe3105c0
 workflow-type: tm+mt
 source-wordcount: '224'
 ht-degree: 0%
@@ -27,6 +27,6 @@ Gebruik de volgende controlelijst om u te helpen begrijpen en voorbereidingen tr
 | **Fase 4: Upgrade** | Elementen repliceren | Tijdens het verbeteringsproces, aangewezen [!DNL Dynamic Media Classic] activa worden overgenomen door Dynamic Media. |
 | **Fase 5: Administratieve instellingen** | Gebruikers en machtigingen instellen | Maak gebruikers en geef de juiste machtigingen. |
 |   | Videocoderingsprofielen instellen | Maak videocoderingsprofielen. |
-|   | Voorinstellingen viewer instellen | Maak viewervoorinstellingen. |
+|   | Voorinstellingen viewer instellen | Viewer-voorinstellingen maken. |
 |   | Voorinstellingen afbeelding instellen | Voorinstellingen voor afbeeldingen instellen. |
 | **Fase 6: Validatie** | Validatie | Verifieer gebruiksgevallen, activa, verbindingen, en APIs. |

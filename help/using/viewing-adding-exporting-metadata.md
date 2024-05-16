@@ -10,7 +10,7 @@ role: User
 exl-id: 2be50cc7-9a8b-4f7b-8ebf-18a3208654f2
 topic: Content Management
 level: Intermediate
-source-git-commit: bc3b696bfde0ed55894cdcbf3533299ae7697e98
+source-git-commit: 61665faba1e6bb711aae5becf0150d1ebe3105c0
 workflow-type: tm+mt
 source-wordcount: '2154'
 ht-degree: 0%
@@ -161,11 +161,11 @@ Adobe Dynamic Media Classic biedt een opdracht voor het maken van een sjabloon v
 
 ## Werken met metagegevensschema&#39;s {#working-with-metadata-schemas}
 
-Een bedrijfbeheerder kan een lijst van alle beschikbare schema&#39;s bekijken. Ga op de algemene navigatiebalk naar **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Metadata]** > **[!UICONTROL Metadata Schema]**.
+Een beheerder van het Bedrijf kan een lijst van alle beschikbare schema&#39;s bekijken. Ga op de algemene navigatiebalk naar **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Metadata]** > **[!UICONTROL Metadata Schema]**.
 
 In eerste instantie is de lijst met algemene standaardschema&#39;s, zoals XMP, verborgen. Ze kunnen worden weergegeven met het selectievakje onder aan de lijst.
 
-De bedrijfbeheerder kan een douaneschema tot stand brengen, of een bestaand douaneschema uitgeven.
+De Beheerder van het Bedrijf kan een douaneschema tot stand brengen, of een bestaand douaneschema uitgeven.
 
 U kunt de Editor Metagegevensschema gebruiken om de volgende handelingen uit te voeren:
 
