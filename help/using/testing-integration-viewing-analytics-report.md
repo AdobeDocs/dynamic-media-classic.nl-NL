@@ -10,16 +10,16 @@ role: Data Engineer,Admin,User
 exl-id: 6186fcf0-99b4-447d-ae94-b4124dcb405b
 topic: Integrations, Development
 level: Experienced
-source-git-commit: 5b5dcd1199bd51ec987b5673fce75bc86baad55b
+source-git-commit: 8dc990a1fb1355b00fa4839e14b92bb6562d40b4
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '324'
 ht-degree: 0%
 
 ---
 
 # De integratie testen door een Adobe Analytics-rapport te bekijken{#testing-the-integration-by-viewing-an-adobe-analytics-report}
 
-Nadat u de benodigde variabelen in Adobe Analytics hebt gemaakt, deze aan Adobe Dynamic Media Classic-gebeurtenissen hebt gekoppeld en de benodigde implementatiestappen hebt uitgevoerd, kunt u de instellingen testen. U kunt testen en controleren of de gegevens worden vastgelegd in Adobe Analytics zelf. Als de opstelling hier werkt, dan zijn geen verdere stappen nodig. Ervan uitgaande dat u de bovenstaande stappen hebt uitgevoerd en uw Adobe Dynamic Media Classic-gebeurtenisgegevens aan een of meer variabelen voor aangepast verkeer hebt gekoppeld, volgt u deze workflow om uw gegevens in Adobe Analytics te testen.
+Nadat u de benodigde variabelen in Adobe Analytics hebt gemaakt, deze aan Adobe Dynamic Media Classic-gebeurtenissen hebt gekoppeld en de benodigde implementatiestappen hebt uitgevoerd, kunt u de instellingen testen. U kunt testen en controleren of de gegevens worden vastgelegd in Adobe Analytics zelf. Als de opstelling hier werkt, dan zijn geen verdere stappen nodig. Ervan uitgaande dat u de bovenstaande stappen hebt uitgevoerd en uw Adobe Dynamic Media Classic-gebeurtenisgegevens aan een of meer variabelen voor Aangepast verkeer hebt gekoppeld, volgt u deze workflow om uw gegevens in Adobe Analytics te testen.
 
 **U kunt als volgt de integratie testen door een Adobe Analytics-rapport te bekijken:**
 
@@ -31,7 +31,7 @@ Nadat u de benodigde variabelen in Adobe Analytics hebt gemaakt, deze aan Adobe 
 
    Als u bijvoorbeeld toegang wilt krijgen tot **[!UICONTROL LoadAsset]** in de voorbeeldaccount is de juiste menukeuze: **[!UICONTROL Custom Traffic]** > **[!UICONTROL Custom Traffic 1-10]** > **[!UICONTROL LoadAsset]**. Als u meer dan tien aangepaste opdrachten hebt, ziet u ook andere menuopties.
 
-1. Bekijk de kaart die door Adobe Analytics wordt geproduceerd. Deze grafiek is typisch enkel de gegevens voor één enkele metrisch. Als u ook wilt weten met welk element deze gegevens zijn gekoppeld, vraagt u de elementgegevens van deze gebeurtenis op. Het is bijvoorbeeld vaak handig om te weten welke video wordt bekeken naar slechts 50% of welke afbeelding in een set populair is.
+1. Bekijk de kaart die door Adobe Analytics wordt geproduceerd. Deze grafiek is typisch enkel de gegevens voor één enkele metrisch. Als u ook wilt weten met welk element deze gegevens zijn gekoppeld, vraagt u de elementgegevens van deze gebeurtenis op. Het is bijvoorbeeld vaak handig om te weten welke video slechts 50% wordt bekeken of welke afbeelding in een set populair is.
 
 >[!NOTE]
 >

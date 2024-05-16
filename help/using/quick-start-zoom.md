@@ -10,7 +10,7 @@ role: User
 exl-id: eae35207-000c-4ced-b9ab-714c2384a9e7
 topic: Content Management
 level: Beginner
-source-git-commit: bc3b696bfde0ed55894cdcbf3533299ae7697e98
+source-git-commit: 8dc990a1fb1355b00fa4839e14b92bb6562d40b4
 workflow-type: tm+mt
 source-wordcount: '825'
 ht-degree: 0%
@@ -37,7 +37,7 @@ Selecteer op de algemene navigatiebalk de optie **[!UICONTROL Upload]** om afbee
 
 ## 2. Zoomdoelen maken voor zoomen met instructies
 
-Zoomdoelen bieden een manier waarop u specifieke gedeelten van een afbeelding kunt markeren. U kunt bijvoorbeeld de aandacht richten op de delen van een afbeelding die deze uniek of onderscheidend maken. In het venster van de Kijker van het Gezoem, verschijnen de gezoemdoelstellingen in de vorm van duimnagelbeelden aan de kant van het beeld. Als u een van deze zoomdoelminiaturen selecteert, wordt automatisch ingezoomd op het gedeelte van de afbeelding dat u opgeeft.
+Zoomdoelen bieden een manier waarop u specifieke gedeelten van een afbeelding kunt markeren. U kunt bijvoorbeeld de aandacht richten op de delen van een afbeelding die deze uniek of onderscheidend maken. In het venster Zoomviewer worden Zoomdoelen weergegeven in de vorm van miniatuurafbeeldingen aan de zijkant van de afbeelding. Als u een van deze zoomdoelminiaturen selecteert, wordt automatisch ingezoomd op het gedeelte van de afbeelding dat u opgeeft.
 
 Als u een zoomdoel wilt maken, selecteert u **[!UICONTROL Edit]** en kies Zoomdoelen of open een afbeelding in het deelvenster Bladeren in de gedetailleerde weergave en selecteer **[!UICONTROL Zoom Targets]**. Gebruik vervolgens de zoomgereedschappen op de pagina Zoomdoeleditor, zodat u een deel van de afbeelding als doel kunt isoleren. Zie [Zoomdoelen maken voor zoomen met instructies](creating-zoom-targets-guided-zoom.md#creating_zoom_targets_for_guided_zoom).
 
@@ -55,7 +55,7 @@ U kunt een voorvertoning van afbeeldingen weergeven in een zoomviewer om te zien
 
 Als u verschillende voorinstellingen voor de zoomviewer wilt bekijken en wilt zien hoe deze de zoomervaring weergeven, selecteert u een afbeelding in het deelvenster Bladeren en selecteert u **[!UICONTROL Preview]**. Ga naar **[!UICONTROL Presets]** > **[!UICONTROL Zoom]** en selecteer vervolgens een voorinstelling met het menu Zoomen.
 
-Zoomknoppen worden weergegeven. U kunt zien hoe de zoomafbeeldingen er op uw website uitzien. Selecteer de zoomknoppen (en zoomdoelen) zodat u de instellingen kunt testen van de voorinstelling Zoomviewer die u hebt gekozen. Zie [Afbeeldingen voorvertonen met verschillende zoomweergaven](previewing-image-assets-different-zoom.md#previewing_image_assets_with_different_zoom_viewers).
+Zoomknoppen worden weergegeven. U kunt zien hoe de zoomafbeeldingen er op uw website uitzien. Selecteer de zoomknoppen (en Zoomdoelen) zodat u de instellingen kunt testen van de voorinstelling Zoomviewer die u hebt gekozen. Zie [Afbeeldingen voorvertonen met verschillende zoomweergaven](previewing-image-assets-different-zoom.md#previewing_image_assets_with_different_zoom_viewers).
 
 ## 5. Zoomafbeeldingen publiceren
 

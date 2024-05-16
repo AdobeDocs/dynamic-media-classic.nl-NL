@@ -10,9 +10,9 @@ role: User
 exl-id: 3ffcfab2-c29d-4b0f-b223-c4a5ca99f21a
 topic: Content Management
 level: Intermediate
-source-git-commit: bc3b696bfde0ed55894cdcbf3533299ae7697e98
+source-git-commit: 8dc990a1fb1355b00fa4839e14b92bb6562d40b4
 workflow-type: tm+mt
-source-wordcount: '610'
+source-wordcount: '611'
 ht-degree: 0%
 
 ---
@@ -67,7 +67,7 @@ Bovenaan in het deelvenster Elementenbibliotheek staan opdrachten voor het zoeke
 
 In het deelvenster Bladeren/Samenstellen doet u veel van uw werk. Welke functies beschikbaar zijn in dit deelvenster, is afhankelijk van de modus Bladeren of de modus Samenstellen.
 
-* **[!UICONTROL Browse mode]**: Als u de inhoud van een map wilt weergeven en ermee wilt werken in het deelvenster Bladeren, selecteert u een map in de Asset Library. Dit paneel biedt de **[!UICONTROL File]**, **[!UICONTROL Preview]**, **[!UICONTROL Select All]**, **[!UICONTROL Select None]**, en **[!UICONTROL Sort]** menu&#39;s voor het werken met elementen. U kunt elementen ook op verschillende manieren weergeven door de schuifregelaar te verplaatsen of **[!UICONTROL Grid View]**, **[!UICONTROL List View]**, of **[!UICONTROL Detail View]**. Selecteren **[!UICONTROL Detail View]** Als u dubbelklikt op een element, wordt het element geopend in de gedetailleerde weergave, waar u elementafhankelijke bestandsbewerkingen kunt uitvoeren.
+* **[!UICONTROL Browse mode]**: U kunt de inhoud van een map weergeven en ermee werken in het deelvenster Bladeren. Selecteer een map in de elementenbibliotheek. Dit paneel biedt de **[!UICONTROL File]**, **[!UICONTROL Preview]**, **[!UICONTROL Select All]**, **[!UICONTROL Select None]**, en **[!UICONTROL Sort]** menu&#39;s voor het werken met elementen. U kunt elementen ook op verschillende manieren weergeven door de schuifregelaar te verplaatsen of **[!UICONTROL Grid View]**, **[!UICONTROL List View]**, of **[!UICONTROL Detail View]**. Selecteren **[!UICONTROL Detail View]** Als u dubbelklikt op een element, wordt het element geopend in de gedetailleerde weergave, waar u elementafhankelijke bestandsbewerkingen kunt uitvoeren.
 
 * **[!UICONTROL Build mode]**: Select **[!UICONTROL Build]** kiest u vervolgens een optie, zodat u een eCatalog, Afbeeldingsset, Draaiset of een van de andere beschikbare items in het menu Samenstellen kunt gaan maken. De pagina Build wordt geopend. U kunt de elementen selecteren waarmee u wilt werken voordat of nadat u de modus Samenstellen hebt geactiveerd.
 

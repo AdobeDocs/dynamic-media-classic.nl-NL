@@ -10,7 +10,7 @@ role: User
 exl-id: 9e2df814-465d-412a-a032-ef3e8cb462ba
 topic: Integrations
 level: Experienced
-source-git-commit: 61665faba1e6bb711aae5becf0150d1ebe3105c0
+source-git-commit: 5140b62c76970cfcee271664f11b1ff605625fe7
 workflow-type: tm+mt
 source-wordcount: '1437'
 ht-degree: 0%
@@ -70,7 +70,7 @@ Zie [De PDF-bestanden uploaden](uploading-pdf-files.md#uploading_the_pdf_files).
 
 ## 2. Een eCatalog maken
 
-Maak uw eCatalog door PDF of beelddossiers in het Browse Comité te selecteren. Selecteren **[!UICONTROL Build]** en kiest u **[!UICONTROL eCatalogs]**.
+Maak uw eCatalog door PDF of beelddossiers in het Browse paneel te selecteren. Selecteren **[!UICONTROL Build]** en kiest u **[!UICONTROL eCatalogs]**.
 
 Op de pagina eCatalog, op **[!UICONTROL Order Pages]** selecteert u een lay-outoptie: **[!UICONTROL 1 Up]**, **[!UICONTROL 2 Up]**, of **[!UICONTROL Custom]**. U kunt pagina&#39;s of spreads opnieuw rangschikken door deze te slepen of door in een grote eCatalog een paginanaam te kiezen in het menu Verplaatsen naar.
 

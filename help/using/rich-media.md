@@ -10,9 +10,9 @@ role: Admin,User
 exl-id: 52937d52-92a6-4310-a363-d3c8a266e9ef
 topic: Content Management
 level: Intermediate
-source-git-commit: bc3b696bfde0ed55894cdcbf3533299ae7697e98
+source-git-commit: 8dc990a1fb1355b00fa4839e14b92bb6562d40b4
 workflow-type: tm+mt
-source-wordcount: '461'
+source-wordcount: '463'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ Zie [Snel starten: eCatalog](/help/using/quick-start-ecatalog.md).
 * **eVideo**: Lever video van hoge kwaliteit op meerdere schermen, waaronder desktops, mobiele apparaten en tablets. Gebruik vooraf gedefinieerde Adobe Dynamic Media Classic-coderingsvoorinstellingen of pas codering aan om de kwaliteit en de grootte van video te bepalen. Video organiseren, doorbladeren en doorzoeken met volledige metagegevensondersteuning voor een efficiënt beheer van video-elementen.
 Zie [Snel starten: Video in Adobe Dynamic Media Classic](/help/using/quick-start-video.md).
 
-* **Afbeeldingskaarten**: Geef afbeeldingen op elke gewenste grootte en indeling op de hele website dynamisch aan. In plaats van handmatig veel afbeeldingen van verschillende grootten te maken, gebruikt u slechts één primaire afbeelding. Aangezien Adobe Dynamic Media Classic de gevraagde afbeelding levert, optimaliseert het de afbeelding voor resultaten van de hoogste kwaliteit in formaat, formaat, gewicht, kwaliteit en verscherping.
+* **Afbeeldingskaarten**: Geef afbeeldingen op elke gewenste grootte en indeling op de hele website dynamisch aan. In plaats van handmatig veel afbeeldingen van verschillende grootten te maken, hoeft u slechts één primaire afbeelding te gebruiken. Aangezien Adobe Dynamic Media Classic de gevraagde afbeelding levert, optimaliseert het de afbeelding voor resultaten van de hoogste kwaliteit in formaat, formaat, gewicht, kwaliteit en verscherping.
 Zie [Snel starten: Afbeeldingsgrootte](/help/using/quick-start-image-sizing.md).
 
 * **Afbeeldingssets**: Lever een interactieve winkelervaring waarin gebruikers producten in meerdere weergaven kunnen bekijken. U kunt zoomen, meerdere weergaven en kleurstalen combineren voor een geïntegreerde weergave.

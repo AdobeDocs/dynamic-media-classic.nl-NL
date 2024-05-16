@@ -10,7 +10,7 @@ role: User
 exl-id: bf695fee-821c-4396-829a-d57ccf475b0c
 topic: Content Management
 level: Intermediate
-source-git-commit: ad7e20fdbe9028c6255865cce95d109f9e9eeab2
+source-git-commit: 5140b62c76970cfcee271664f11b1ff605625fe7
 workflow-type: tm+mt
 source-wordcount: '781'
 ht-degree: 0%
@@ -69,4 +69,4 @@ Als u een sjabloon wilt publiceren, markeert u deze voor publicatie en selecteer
 
 Dynamic Media Classic maakt URL&#39;s voor sjablonen en activeert de URL&#39;s wanneer u sjablonen publiceert naar Dynamic Media Image Servers. U kunt deze URL-tekenreeksen kopiëren vanaf de pagina Sjabloonvoorbeeld.
 
-Selecteer uw malplaatje in het Browse Comité, en selecteer dan **[!UICONTROL Preview]** om de pagina Sjabloonvoorbeeld te openen. Kies een voorinstelling voor de afbeelding die u als sjabloon wilt gebruiken en klik op de knop **[!UICONTROL Copy URL]** knop. Nadat u URL van de pagina van de Voorproef kopieert, kunt u het in uw Website of toepassing gebruiken. Zie [Een sjabloon koppelen aan een webpagina](linking-template-web-page.md#linking_a_template_to_a_web_page).
+Selecteer uw sjabloon in het deelvenster Bladeren en selecteer vervolgens **[!UICONTROL Preview]** om de pagina Sjabloonvoorbeeld te openen. Kies een voorinstelling voor de afbeelding die u als sjabloon wilt gebruiken en klik op de knop **[!UICONTROL Copy URL]** knop. Nadat u URL van de pagina van de Voorproef kopieert, kunt u het in uw Website of toepassing gebruiken. Zie [Een sjabloon koppelen aan een webpagina](linking-template-web-page.md#linking_a_template_to_a_web_page).

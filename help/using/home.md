@@ -7,9 +7,9 @@ role: Admin,User
 exl-id: af29eabb-f7c6-420b-9c63-9d60ee2dc148
 topic: Administration
 level: Intermediate
-source-git-commit: 61665faba1e6bb711aae5becf0150d1ebe3105c0
+source-git-commit: 8dc990a1fb1355b00fa4839e14b92bb6562d40b4
 workflow-type: tm+mt
-source-wordcount: '525'
+source-wordcount: '526'
 ht-degree: 0%
 
 ---
@@ -40,11 +40,11 @@ Zie [Veelgestelde vragen](new-ui-2020.md). Nieuwe updates vanaf 7 mei 2020.
 * [Hulplijn: Handleiding met aanbevolen procedures voor het verscherpen van afbeeldingen](/help/using/assets/s7_sharpening_images.pdf)
 * [Hulplijn: Hoe Adobe Dynamic Media Classic SEO ondersteunt](/help/using/assets/s7_seo.pdf): Zoekprogramma&#39;s maken het momenteel mogelijk naar websites en afbeeldingen te zoeken. Adobe Dynamic Media Classic ondersteunt pogingen om afbeeldingen zo gebruiksvriendelijk te maken dat meer verkeer naar de website van de Adobe Dynamic Media Classic-gebruiker wordt geleid. Deze gids in PDF geeft u de achtergrond en de implementatieaanbevelingen om dat te doen gebeuren.
 <!-- * [Webinar: Best Practices for Responsive Design](http://offers.adobe.com/en/na/marketing/landings/_40458_responsive_design_live_on_demand_webinar.html): Learn practical tips on how to improve your mobile strategy. See real-world examples of responsive design in action. Create one primary asset that works across multiple devices and increase mobile performance by dynamically changing the resolution of images or the orientation of images for portrait or landscape displays. Learn how to also dynamically crop, scale, or resize images. -->
-* [Webinar: Beste praktijken leveren Interactieve Ervaringen met Adobe Dynamic Media Classic](https://seminars.adobeconnect.com/p7wb8ej3u6d/): Leer hoe u inhoud ophaalt in en uit Adobe Dynamic Media Classic en stel Voorinstellingen voor afbeeldingen in voor optimale prestaties en ervaring. U leert ook over Voorinstellingen voor viewers en cacheconfiguraties.
+* [Webinar: Beste praktijken om Interactieve Ervaringen met Adobe Dynamic Media Classic te leveren](https://seminars.adobeconnect.com/p7wb8ej3u6d/): Leer hoe u inhoud ophaalt in en uit Adobe Dynamic Media Classic en stel Voorinstellingen voor afbeeldingen in voor optimale prestaties en ervaring. U leert ook over Voorinstellingen voor viewers en cacheconfiguraties.
 * [Webinar: Maximaliseer uw investeringsrendement](https://adobecustomersuccess.adobeconnect.com/p5ar3hfrrec/?launcher=false&amp;fcsContent=true&amp;pbMode=normal&amp;proto=true): Leer de beste praktijken in de branche om rijke media over uw plaatsen en mobiele apps te leveren. In dit webinar, geeft de Adobe voorbeelden en demonstraties die u tonen hoe te om video efficiënt over apparaten te leveren. Leer hoe u dynamische creatieve projecten kunt maken in uw marketingcampagnes. U kunt de omzetting ook verhogen door een afbeelding, stijlhulplijn of lookbook shoppable te maken.
 * [Webinar: Versnel uw levenscyclus van de levering van inhoud](https://adobecustomersuccess.adobeconnect.com/p88ducm9pqv/): Een inleiding en demonstratie van Adobe Experience Manager Assets: Op aanvraag, het platform van de volgende generatie voor rijk mediabeheer en levering. Leer hoe u samen kunt werken en middelen kunt delen tussen creatieve en marketingteams om de processen voor het evalueren van bedrijfsmiddelen te stroomlijnen. Leer de beste praktijken zodat u activa meta-gegevens efficiënt kunt beheren. Zo kunt u elementen gemakkelijk vinden, gebruiken, hergebruiken en delen. Leer ook hoe u interactieve multimedia-ervaringen met verschillende kanalen kunt bieden.
 * [Webinar: Ontwerpen voor mobiele optimalisatie](https://adobecustomersuccess.adobeconnect.com/p6oqd3wydif/?launcher=false&amp;fcsContent=true&amp;pbMode=normal&amp;proto=true): Met Adobe Dynamic Media Classic kunt u efficiënt gerichte rijke media leveren aan alle apparaten. Leer hoe u beeldbewerking en videoweergave ontwerpt en levert die effectief zijn voor verschillende mobiele apps en responsieve sites.
-* [Webinar: Adobe Dynamic Media Classic gebruiken om vakantie-conversie te maximaliseren](https://adobecustomersuccess.adobeconnect.com/p32n1yr85c9/?proto=true): Leer hoe u automatische workflows instelt om inhoud van gecontroleerde mappen op te halen en automatisch centrifuges en video&#39;s maakt. U leert ook hoe u wijzigingen snel kunt beheren en afbeeldingen kunt bijwerken.
+* [Webinar: Adobe Dynamic Media Classic gebruiken om vakantie-conversie te maximaliseren](https://adobecustomersuccess.adobeconnect.com/p32n1yr85c9/?proto=true): Leer hoe u geautomatiseerde workflows instelt om inhoud van gecontroleerde mappen op te halen en automatisch centrifuges en video&#39;s maakt. U leert ook hoe u wijzigingen snel kunt beheren en afbeeldingen kunt bijwerken.
 
 ## Adobe Dynamic Media Classic Training
 

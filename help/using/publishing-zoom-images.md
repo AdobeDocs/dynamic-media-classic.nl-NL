@@ -10,7 +10,7 @@ role: User
 exl-id: 74cf0346-be79-4916-8a98-16865c3ba3de
 topic: Content Management
 level: Intermediate
-source-git-commit: bc3b696bfde0ed55894cdcbf3533299ae7697e98
+source-git-commit: 5140b62c76970cfcee271664f11b1ff605625fe7
 workflow-type: tm+mt
 source-wordcount: '146'
 ht-degree: 0%
@@ -23,7 +23,7 @@ Bij het publiceren worden uw zoomafbeeldingen op Dynamic Media Image Servers gep
 
 ## Afbeeldingen markeren voor publicatie {#marking-images-for-publish}
 
-Afbeeldingen moeten zijn gemarkeerd voor publicatie zodat ze naar Dynamic Media Image Servers kunnen worden gekopieerd. U kunt uw afbeeldingen voor publicatie markeren in het deelvenster Bladeren door het selectievakje **[!UICONTROL Mark for Publish]** pictogram. U kunt afbeeldingen ook markeren voor publicatie wanneer u ze uploadt.
+Afbeeldingen moeten zijn gemarkeerd voor publicatie zodat ze naar Dynamic Media Image Servers kunnen worden gekopieerd. U kunt uw afbeeldingen voor publicatie markeren in het deelvenster Bladeren door de optie **[!UICONTROL Mark for Publish]** pictogram. U kunt afbeeldingen ook markeren voor publicatie wanneer u ze uploadt.
 
 ## De afbeeldingen publiceren {#publishing-the-images}
 

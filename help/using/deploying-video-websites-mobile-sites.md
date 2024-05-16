@@ -10,9 +10,9 @@ role: User
 exl-id: 3df22d48-edb5-4927-aefb-104b53f81f1a
 topic: Content Management
 level: Intermediate
-source-git-commit: ad7e20fdbe9028c6255865cce95d109f9e9eeab2
+source-git-commit: 5140b62c76970cfcee271664f11b1ff605625fe7
 workflow-type: tm+mt
-source-wordcount: '1586'
+source-wordcount: '1587'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ Als u een video publiceert, kunnen Adobe Dynamic Media Classic Servers video lev
 
 Er zijn twee verschillende methoden waarmee u video kunt publiceren:
 
-* **Video&#39;s automatisch en direct tijdens het uploaden publiceren**: Als onderdeel van het uploaden van video&#39;s kan Adobe Dynamic Media Classic automatisch video&#39;s publiceren wanneer deze worden geüpload en gecodeerd. Als u de mogelijkheid hebt om onmiddellijk te publiceren, hoeft u video&#39;s niet afzonderlijk te publiceren.
+* **Video&#39;s automatisch en direct tijdens het uploaden publiceren**: Als onderdeel van het uploaden van video&#39;s kan Adobe Dynamic Media Classic automatisch video&#39;s publiceren wanneer deze worden geüpload en gecodeerd. Door de mogelijkheid om direct te publiceren is het niet nodig om video&#39;s afzonderlijk te publiceren.
 
 * **Video na het uploaden handmatig publiceren**: Als u video&#39;s niet meteen wilt publiceren, kunt u de video&#39;s op elk gewenst moment handmatig publiceren.
 
@@ -107,7 +107,7 @@ Zie ook [Een video-URL koppelen aan een mobiele site of website](deploying-video
 
 ### Insluitcode implementeren voor het gebruik van HTML5-video met MP4-video-elementen {#implementing-embed-code-for-using-html-video-with-mp-video-assets}
 
-Als u de Adobe Dynamic Media Classic HTML5-videospeler niet gebruikt, maar de native HTML5 wilt gebruiken `<video>` U kunt de volgende voorbeeldcode voor Insluiten gebruiken om tags toe te wijzen aan MP4-video-elementen:
+U kunt de Adobe Dynamic Media Classic HTML5 videospeler niet gebruiken. Als u echter de native HTML5 wilt gebruiken `<video>` U kunt de volgende voorbeeldcode voor Insluiten gebruiken om tags toe te wijzen aan MP4-video-elementen:
 
 ```as3
 <video poster="S7 video thumbnail URL" controls> 
@@ -131,7 +131,7 @@ Als u de Adobe Dynamic Media Classic HTML5-videospeler niet gebruikt, maar de na
 
 ## Video implementeren met een externe videospeler {#deploying-video-using-a-third-party-video-player}
 
-Als u een videospeler van derden of een aangepaste videospeler gebruikt in plaats van een Dynamic Media Classic-videoviewer, ontvangt u de directe video-URL die geschikt is voor videostreaming met meerdere bitsnelheden van HLS of progressief downloaden.
+Als u videospelers van derden of een aangepaste videospeler gebruikt in plaats van een Dynamic Media Classic-videoviewer, ontvangt u de directe video-URL die geschikt is voor videostreaming met meerdere bitsnelheden van HLS of progressief downloaden.
 
 **Video implementeren met een externe videospeler:**
 

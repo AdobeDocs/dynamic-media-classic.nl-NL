@@ -10,9 +10,9 @@ role: User
 exl-id: ca629427-da33-4bab-9d08-6d9368042f7e
 topic: Administration, Content Management, Development
 level: Intermediate
-source-git-commit: bc3b696bfde0ed55894cdcbf3533299ae7697e98
+source-git-commit: 8dc990a1fb1355b00fa4839e14b92bb6562d40b4
 workflow-type: tm+mt
-source-wordcount: '815'
+source-wordcount: '814'
 ht-degree: 0%
 
 ---
@@ -80,7 +80,7 @@ Namen van voorinstellingen voor afbeeldingen in URL&#39;s worden ingesloten door
 
 ## Dynamische afbeeldingen toevoegen aan uw webpagina {#adding-dynamic-images-to-your-web-page}
 
-Als u dynamische afbeeldingen aan uw webpagina wilt toevoegen, `<IMG>` -tag in uw HTML-webpaginacode wordt doorgaans gewijzigd met de Adobe Dynamic Media Classic URL-tekenreeks en wordt een aanvraag naar Dynamic Media Image Servers gedaan. Met deze tekenreeks wordt de afbeelding gemaakt met de grootte en opmaakspecificaties die zijn gedefinieerd in de voorinstelling voor afbeelding.
+Wanneer u dynamische afbeeldingen aan uw webpagina toevoegt, kunt u `<IMG>` -tag in uw HTML-paginacode wordt doorgaans gewijzigd met de Adobe Dynamic Media Classic URL-tekenreeks, zodat een aanvraag kan worden ingediend bij Dynamic Media Image Servers. Met deze tekenreeks wordt de afbeelding gemaakt met de grootte en opmaakspecificaties die zijn gedefinieerd in de voorinstelling voor afbeelding.
 
 Bijvoorbeeld, in plaats van de typische vraag om een statische beeld zoals te openen
 

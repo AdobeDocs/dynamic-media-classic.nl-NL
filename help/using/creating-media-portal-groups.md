@@ -10,9 +10,9 @@ role: Admin,User
 exl-id: 0deb7133-b895-4c3f-8e5e-8604a6f2d16b
 topic: Administration, Collaboration
 level: Intermediate
-source-git-commit: bc3b696bfde0ed55894cdcbf3533299ae7697e98
+source-git-commit: 8dc990a1fb1355b00fa4839e14b92bb6562d40b4
 workflow-type: tm+mt
-source-wordcount: '789'
+source-wordcount: '791'
 ht-degree: 0%
 
 ---
@@ -41,7 +41,7 @@ Als u specifiek geen groepstoestemming aan een middel of een omslag verleent, er
 
    Zie [Machtigingen instellen voor elementtoegang voor een groep](creating-media-portal-groups.md#establishing_asset_access_permissions_for_a_group).
 
-1. Als u wilt kiezen welke Voorinstellingen afbeelding beschikbaar zijn voor de groep, selecteert u de optie **[!UICONTROL Image Preset Access Permissions]** en selecteert u Voorinstellingen afbeelding die de groep kan gebruiken.
+1. U kunt kiezen welke Voorinstellingen afbeelding beschikbaar zijn voor de groep. Klik op de knop **[!UICONTROL Image Preset Access Permissions]** en selecteert u Voorinstellingen afbeelding die de groep kan gebruiken.
 
    Zie [Toegangsrechten voor een groep kiezen voor Voorinstelling afbeelding](creating-media-portal-groups.md#choosing_image_preset_access_permissions_for_a_group).
 
@@ -56,7 +56,7 @@ Als u specifiek geen groepstoestemming aan een middel of een omslag verleent, er
    * Als u de machtigingen van een groep wilt bewerken, selecteert u de groep en selecteert u **[!UICONTROL Edit]**.
 
 1. Selecteer in het dialoogvenster Groep toevoegen of groep bewerken de optie **[!UICONTROL Asset Access Permissions]** tab. De rechterkant van de tab biedt vakken voor het instellen van lees-, schrijf- en verwijdermachtigingen voor mappen en elementen. U kunt mappen en submappen in het linkerdeelvenster uit- en samenvouwen.
-1. Als u rechten wilt toewijzen aan mappen of afzonderlijke elementen, selecteert u de map in het linkerdeelvenster. De inhoud van de map wordt weergegeven in het rechterdeelvenster. Wijs vervolgens rechten toe aan de groep door de vakken voor de corresponderende bestanden of mappen in het rechterdeelvenster te selecteren.
+1. Als u rechten wilt toewijzen aan mappen of afzonderlijke elementen, selecteert u de map in het linkerdeelvenster. De inhoud van de map wordt weergegeven in het rechterdeelvenster. Wijs vervolgens rechten toe aan de groep door de vakken voor de corresponderende bestanden te selecteren. Of u selecteert de mappen in het rechterdeelvenster.
 
    In deze tabel worden verschillende taken toegewezen aan het lezen, schrijven en verwijderen van machtigingen.
 
@@ -98,6 +98,6 @@ Zie ook [Beschikbare exportopties voor gebruikers van Media Portal opgeven](spec
 1. Ga naar **[!UICONTROL Setup]** > **[!UICONTROL Media Portal Setup]** > **[!UICONTROL Groups]**.
 1. Selecteer op de pagina Groepenlijst een groep en bewerk of verwijder deze.
 
-   **Een groep bewerken**: Select **[!UICONTROL Edit]** en kies vervolgens opties in het dialoogvenster Groep bewerken.
+   **Een groep bewerken**: Select **[!UICONTROL Edit]** en kies vervolgens de opties in het dialoogvenster Groep bewerken.
 
    **Een groep verwijderen**: Select **[!UICONTROL Delete]**.

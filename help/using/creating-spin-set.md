@@ -10,9 +10,9 @@ role: User
 exl-id: 35e8e7fc-5b3c-441a-959c-df2e39ea0d4b
 topic: Content Management
 level: Intermediate
-source-git-commit: ad7e20fdbe9028c6255865cce95d109f9e9eeab2
+source-git-commit: 5140b62c76970cfcee271664f11b1ff605625fe7
 workflow-type: tm+mt
-source-wordcount: '923'
+source-wordcount: '922'
 ht-degree: 0%
 
 ---
@@ -23,17 +23,17 @@ Als u een effectieve centrifugeset wilt maken, moet u controleren of de afbeeldi
 
 >[!NOTE]
 >
->In eerdere versies van Adobe Dynamic Media Classic konden tweedimensionale centrifuges niet worden gebruikt. Als u een Spin-reeks in een vorige versie van Adobe Dynamic Media Classic creeerde, kunt u niet uw eendimensionale Reeks van de Draai bewaren zonder het onder een verschillende naam eerst op te slaan. Selecteren **[!UICONTROL Save As]** in het scherm Spin Set en voer een nieuwe naam in zodat u deze in Adobe Dynamic Media Classic kunt bewerken.
+>In eerdere versies van Adobe Dynamic Media Classic konden tweedimensionale centrifuges niet worden gebruikt. Als u een Spin-reeks in een vorige versie van Adobe Dynamic Media Classic creeerde, bewaar het onder een verschillende naam, dan kunt u uw eendimensionale Reeks van de Draai bewaren. Selecteren **[!UICONTROL Save As]** in het scherm Spin Set en voer een nieuwe naam in zodat u deze in Adobe Dynamic Media Classic kunt bewerken.
 
 ## Richtlijnen voor het maken van centrifuges {#guidelines-for-shooting-spin-set-images}
 
 Over het algemeen geldt dat hoe meer afbeeldingen u in een centrifugeset hebt, hoe beter het effect van het draaien van afbeeldingen is. Als u echter veel afbeeldingen in de set opneemt, neemt de laadtijd van de afbeeldingen toe. Adobe Dynamic Media Classic raadt de volgende richtlijnen aan voor het maken van foto&#39;s voor gebruik in centrifuges:
 
-* Gebruik minimaal 8-12 afbeeldingen in een eendimensionale centrifuge en 16-24 afbeeldingen in een tweedimensionale centrifugeset.
+* Gebruik minimaal 8-12 afbeeldingen in een eendimensionale centrifugeset en 16-24 afbeeldingen in een tweedimensionale centrifugeset.
 * Gebruik een indeling zonder verlies. U wordt aangeraden TIFF en PNG te gebruiken.
 * Masker alle afbeeldingen zodat het item op een zuiver witte of andere achtergrond met veel contrast wordt weergegeven. Voeg desgewenst schaduwen toe.
 * Zorg ervoor dat de productdetails goed verlicht en in nadruk zijn.
-* Neem spin beelden voor modekleding met een mannequin of een model. Vaak wordt de mannequin gemaskeerd (met behulp van een glazen mannequin) of wordt in de afbeelding een gestileerde mannequin/dressform weergegeven. U kunt een draaiset van een model maken door het aantal hoeken te definiëren. Markeer elke hoek met band op de vloer zodat u het model kunt begeleiden en in de richting van elke opname kunt kijken.
+* Neem spin beelden voor modekleding met een mannequin of een model. Vaak wordt de mannequin gemaskeerd (met behulp van een glazen mannequin) of wordt in de afbeelding een gestileerde mannequin/dressform weergegeven. U kunt op model een Vastgestelde Rotatie tot stand brengen door het aantal hoeken te bepalen. Markeer elke hoek met band op de vloer zodat u het model kunt begeleiden en in de richting van elke opname kunt kijken.
 
 ## Een centrifugeset maken {#create}
 
@@ -63,7 +63,7 @@ Nadat u een Spin-set hebt opgeslagen, kunt u Voorvertoning in de Build: Spin-set
 1. Op de **[!UICONTROL Build]** vervolgkeuzelijst, selecteert u **[!UICONTROL Spin Sets]**.
 1. Stel in het dialoogvenster Grootte van paginaset het gewenste aantal rijen en cellen in.
 
-   Als u een eendimensionale centrifuge wilt maken, selecteert u slechts één rij.
+   Als u een eendimensionale centrifugeset wilt maken, selecteert u slechts één rij.
 
    Als u een tweedimensionale centrifugeerset wilt maken, selecteert u twee of meer rijen.
 
@@ -71,7 +71,7 @@ Nadat u een Spin-set hebt opgeslagen, kunt u Voorvertoning in de Build: Spin-set
 1. Sleep afbeeldingen naar het raster op het scherm Spin Set.
 1. Wanneer u klaar bent, gaat u naar de rechterbenedenhoek van de pagina en zorgt u ervoor dat **Publiceren na opslaan** is geselecteerd (standaard).
 1. Selecteren **[!UICONTROL Save]**.
-1. Selecteer in het dialoogvenster Opslaan een map waarin u de centrifugeset wilt opslaan. Voer in het veld Bestandsnaam de naam van de spin-set in.
+1. Selecteer in het dialoogvenster Opslaan een map waarin de centrifugeset moet worden opgeslagen. Voer in het veld Bestandsnaam de naam van de centrifugeset in.
 1. Selecteren **[!UICONTROL Save]**.
 
 ## Een centrifugeset bewerken {#editing-a-spin-set}

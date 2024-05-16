@@ -10,7 +10,7 @@ role: User
 exl-id: aec4c256-f5ed-4307-afec-dec848be95f9
 topic: Content Management
 level: Intermediate
-source-git-commit: ad7e20fdbe9028c6255865cce95d109f9e9eeab2
+source-git-commit: 5140b62c76970cfcee271664f11b1ff605625fe7
 workflow-type: tm+mt
 source-wordcount: '515'
 ht-degree: 0%
@@ -45,7 +45,7 @@ U kunt de transparante of effen kleurpixels uitsnijden vanaf de rand van een afb
 
 ## Een gebied selecteren voor uitsnijden {#select-an-area-to-crop}
 
-1. Als u een afbeelding wilt uitsnijden, selecteert u de rollover **[!UICONTROL Edit]** en kiest u **[!UICONTROL Crop]**, of toon het in het Browse Comité in de Gedetailleerde Mening en selecteer **[!UICONTROL Crop]**.
+1. Als u een afbeelding wilt uitsnijden, selecteert u de rollover **[!UICONTROL Edit]** en kiest u **[!UICONTROL Crop]** of in het deelvenster Bladeren in de gedetailleerde weergave en selecteer **[!UICONTROL Crop]**.
 
 1. Plaats in het venster Uitsnijdbewerker het gedeelte van de afbeelding dat u niet wilt uitsnijden in het uitsnijdvak. Wat er in het vak wordt weergegeven, is wat er overblijft als u **[!UICONTROL Save]** en snijd de afbeelding uit.
 1. Voer een van de volgende handelingen uit om het snijgebied aan te passen:

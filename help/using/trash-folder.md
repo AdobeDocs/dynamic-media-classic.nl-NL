@@ -10,9 +10,9 @@ role: User
 exl-id: cffeec19-43fd-4a97-bdcc-df81af108ddd
 topic: Content Management
 level: Intermediate
-source-git-commit: bc3b696bfde0ed55894cdcbf3533299ae7697e98
+source-git-commit: 8dc990a1fb1355b00fa4839e14b92bb6562d40b4
 workflow-type: tm+mt
-source-wordcount: '536'
+source-wordcount: '543'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ Als u items verwijdert uit de map met prullenmand, worden items definitief verwi
 
 >[!NOTE]
 >
->Middelen die naar de map Prullenmand zijn verplaatst, zijn nog steeds geregistreerd op Adobe Dynamic Media Classic. Als u een bestand probeert te uploaden dat dezelfde naam heeft als een verwijderd bestand in de map met prullenmand, behandelt Adobe Dynamic Media Classic het element dat u wilt uploaden als een gedupliceerd element. Er wordt dan een nummer aan de naam toegevoegd.
+>Middelen die naar de map Prullenmand zijn verplaatst, zijn nog steeds geregistreerd op Adobe Dynamic Media Classic. Stel dat u een bestand probeert te uploaden dat dezelfde naam heeft als een verwijderd bestand in de map Prullenbak. Adobe Dynamic Media Classic behandelt het element dat u wilt uploaden als een gedupliceerd element. In dat geval wordt aan de naam een nummer toegevoegd.
 
 ## De map Prullenmand {#about-the-trash-folder}
 
@@ -51,9 +51,9 @@ Ga als volgt te werk om middelen van de map Prullenmand te herstellen naar de ma
 
 Wanneer u middelen in de omslag van het Afval schrapt, worden de activa permanent geschrapt. Middelen worden na zeven dagen automatisch uit de prullenmand verwijderd.
 
-Als u elementen definitief wilt verwijderen uit de map Prullenbak, selecteert u de optie **[!UICONTROL Trash]** pictogram. Voer op de mappagina Prullenbak een van de volgende handelingen uit:
+U kunt elementen permanent uit de map Prullenbak verwijderen door de optie **[!UICONTROL Trash]** pictogram. Voer op de mappagina Prullenbak een van de volgende handelingen uit:
 
-* **Afzonderlijke elementen verwijderen**: Selecteer de elementen die u permanent wilt verwijderen en ga vervolgens naar **[!UICONTROL File]** > **[!UICONTROL Empty From Trash]**.
+* **Afzonderlijke elementen verwijderen**: U kunt elementen permanent verwijderen. Selecteer de gewenste elementen en klik op **[!UICONTROL File]** > **[!UICONTROL Empty From Trash]**.
 
 * **Alle elementen verwijderen**: Ga naar **[!UICONTROL File]** > **[!UICONTROL Empty trash]**.
 

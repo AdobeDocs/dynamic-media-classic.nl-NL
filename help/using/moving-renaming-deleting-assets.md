@@ -10,9 +10,9 @@ role: User
 exl-id: 391eb7ce-ed89-47a8-a6c6-5adb3e95bf78
 topic: Content Management
 level: Intermediate
-source-git-commit: 5b5dcd1199bd51ec987b5673fce75bc86baad55b
+source-git-commit: 8dc990a1fb1355b00fa4839e14b92bb6562d40b4
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '597'
 ht-degree: 0%
 
 ---
@@ -23,11 +23,11 @@ U kunt elementen verplaatsen, hernoemen en verwijderen vanuit het deelvenster Bl
 
 ## Elementen verplaatsen {#move-assets}
 
-U kunt elementen naar verschillende mappen verplaatsen in het deelvenster Bladeren.
+In het deelvenster Bladeren kunt u elementen naar verschillende mappen verplaatsen.
 
 **Elementen verplaatsen:**
 
-1. Selecteer de elementen in het deelvenster Bladeren en voer een van de volgende handelingen uit:
+1. Selecteer het element of de elementen in het deelvenster Bladeren en voer een van de volgende handelingen uit:
 
    * Geef de map weer waarnaar u de elementen wilt verplaatsen in de elementenbibliotheek en sleep de elementen naar de map.
    * Ga naar **[!UICONTROL File]** > **[!UICONTROL Move]** selecteert u een map in het venster Elementen verplaatsen en selecteert u **[!UICONTROL Move]**.
@@ -43,7 +43,7 @@ U kunt elementen naar verschillende mappen verplaatsen in het deelvenster Blader
 
 U kunt geselecteerde elementen verwijderen uit het deelvenster Bladeren en volledige mappen verwijderen. Verwijderde middelen en mappen worden naar de prullenmand verplaatst, waar ze zeven dagen blijven voordat ze definitief worden verwijderd.
 
-Wanneer u een element hebt verwijderd, worden ook alle elementen die ervan zijn afgeleid, verwijderd. Als u bijvoorbeeld een afbeelding verwijdert waarvoor u zoomdoelen hebt gemaakt, worden de zoomdoelen samen met de afbeelding verwijderd.
+Wanneer u een element hebt verwijderd, worden ook alle elementen die ervan zijn afgeleid, verwijderd. Als u bijvoorbeeld een afbeelding verwijdert waarvoor u Zoomdoelen hebt gemaakt, worden de zoomdoelen samen met de afbeelding verwijderd.
 
 Zoomdoelen, afbeeldingskenmerken en historiegegevens worden permanent verwijderd wanneer u de elementen verwijdert waaruit ze afkomstig zijn. Ze worden niet samen met het middel naar de map Prullenbak verplaatst, maar kunnen niet vanuit de prullenmand worden hersteld.
 
@@ -71,7 +71,7 @@ Maak een lijst met Adobe Dynamic Media Classic-id&#39;s en sla deze op als een t
 Nadat u de lijst hebt gemaakt, voert u de volgende stappen uit om elementen te verwijderen:
 
 1. Ga naar **[!UICONTROL File]** > **[!UICONTROL Delete Asset List]**.
-1. In de **[!UICONTROL Deleted Asset list]** kunt u door het tekstbestand bladeren of het pad naar het tekstbestand typen met de lijst met elementen die u wilt verwijderen.
+1. In de **[!UICONTROL Deleted Asset list]** typt u het pad naar het tekstbestand met de lijst met elementen die u wilt verwijderen.
 1. Selecteren **[!UICONTROL Delete]**.
 
 Als u elementen verwijdert uit een tekstbestand en er geen Adobe Dynamic Media Classic-id in de lijst staat, wordt het bericht &quot;Kan deze items in de lijst niet valideren:&quot; weergegeven. De lijst met vermeldingen wordt ook weergegeven. Adobe Dynamic Media Classic genereert echter geen fout op de taakpagina.

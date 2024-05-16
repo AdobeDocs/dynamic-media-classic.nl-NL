@@ -9,7 +9,7 @@ role: User
 exl-id: d15aaa18-123d-442e-928f-8e71fa266a64
 topic: Content Management
 level: Intermediate
-source-git-commit: edd893482cbafd9674a44cf9878b8ee3079d98f7
+source-git-commit: 5140b62c76970cfcee271664f11b1ff605625fe7
 workflow-type: tm+mt
 source-wordcount: '169'
 ht-degree: 0%
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 # Over het beheren van elementen in Adobe Dynamic Media Classic {#about-managing-assets}
 
-Adobe Dynamic Media Classic biedt de Asset Library voor het beheer van elementen. De elementenbibliotheek bevat de mappen waarin u de elementbestanden opslaat. Als u een map in de elementenbibliotheek selecteert, wordt de inhoud van de map in het deelvenster Bladeren weergegeven. U kunt items in het deelvenster Bladeren weergeven in de raster-, lijst- of detailweergave. Wanneer u zich op één enkel middel wilt concentreren, klik het in het Browse Comité tweemaal om het in de Gedetailleerde Mening te tonen.
+Adobe Dynamic Media Classic biedt de Asset Library voor het beheer van elementen. De elementenbibliotheek bevat de mappen waarin u de elementbestanden opslaat. Als u een map in de elementenbibliotheek selecteert, wordt de inhoud van de map in het deelvenster Bladeren weergegeven. U kunt items in het deelvenster Bladeren weergeven in de raster-, lijst- of detailweergave. Wanneer u op één element wilt concentreren, klik het in het Browse paneel tweemaal om het in de Gedetailleerde Mening te tonen.
 
 In het deelvenster Bladeren vindt u gereedschappen voor weergave, selecteren en zoeken. In het deelvenster kunt u ook elementen voorvertonen, verplaatsen, hernoemen en verwijderen. Elementen die u verwijdert, worden in de map met prullenmand geplaatst. U kunt elementen uit deze map herstellen.
 

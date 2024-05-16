@@ -10,7 +10,7 @@ role: User
 exl-id: 1157400c-b33a-422e-848c-258660ddc748
 topic: Content Management
 level: Beginner
-source-git-commit: ad7e20fdbe9028c6255865cce95d109f9e9eeab2
+source-git-commit: 5140b62c76970cfcee271664f11b1ff605625fe7
 workflow-type: tm+mt
 source-wordcount: '1395'
 ht-degree: 0%
@@ -136,7 +136,7 @@ Als u video wilt integreren in uw website, kunt u een van de volgende handelinge
 
 * Geef de video weer in een eigen pop-upvenster of in een modaal venster. Gebruik in dat geval de opdracht **[!UICONTROL Copy URL]** gebruiken.
 
-  Als u de URL voor een video wilt opvragen, selecteert u deze in de rasterweergave of lijstweergave in het deelvenster Bladeren. Selecteren **[!UICONTROL Preview]** en selecteer vervolgens **[!UICONTROL Copy URL]** aan het recht van `Universal_HTML5_Viewer`.
+  Als u de URL voor een video wilt opvragen, selecteert u deze in de rasterweergave of de lijstweergave in het deelvenster Bladeren. Selecteren **[!UICONTROL Preview]** en selecteer vervolgens **[!UICONTROL Copy URL]** aan het recht van `Universal_HTML5_Viewer`.
 
   Wanneer u **[!UICONTROL Copy URL]**, wordt de URL naar het klembord gekopieerd. Plaats deze code in de HTML van uw website, mobiele site of toepassing.
 

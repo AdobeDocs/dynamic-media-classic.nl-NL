@@ -10,7 +10,7 @@ role: User
 exl-id: 2073d95b-1600-481f-8038-d29e8acacf7d
 topic: Administration, Content Management, Development
 level: Intermediate
-source-git-commit: ad7e20fdbe9028c6255865cce95d109f9e9eeab2
+source-git-commit: 8dc990a1fb1355b00fa4839e14b92bb6562d40b4
 workflow-type: tm+mt
 source-wordcount: '607'
 ht-degree: 0%
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # Zoomviewers koppelen aan uw webpagina&#39;s{#linking-zoom-viewers-to-your-web-pages}
 
-Uw websites en toepassingen hebben toegang tot Dynamic Media Image Server-inhoud via URL-tekenreeksen of ingesloten code. Deze toegang omvat primaire afbeeldingen en bijbehorende zoomdoelen. Dit omvat ook voorinstellingen voor zoomviewers. Deze URL-tekenreeksen worden geactiveerd tijdens het publicatieproces. Als u deze URL-tekenreeksen of de ingesloten code op uw webpagina&#39;s en toepassingen wilt plaatsen, kopieert u deze vanuit Adobe Dynamic Media Classic.
+Uw websites en toepassingen hebben toegang tot Dynamic Media Image Server-inhoud via URL-tekenreeksen of ingesloten code. Deze toegang omvat primaire afbeeldingen en de bijbehorende zoomdoelen. Dit omvat ook voorinstellingen voor zoomviewers. Deze URL-tekenreeksen worden geactiveerd tijdens het publicatieproces. Als u deze URL-tekenreeksen of de ingesloten code op uw webpagina&#39;s en toepassingen wilt plaatsen, kopieert u deze vanuit Adobe Dynamic Media Classic.
 
 >[!NOTE]
 >

@@ -10,7 +10,7 @@ role: User
 exl-id: 280e7201-84d6-46b1-94bb-0499beca2992
 topic: Content Management
 level: Beginner
-source-git-commit: ad7e20fdbe9028c6255865cce95d109f9e9eeab2
+source-git-commit: 8dc990a1fb1355b00fa4839e14b92bb6562d40b4
 workflow-type: tm+mt
 source-wordcount: '647'
 ht-degree: 0%
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Met Adobe Dynamic Media Classic Image Sets hebben gebruikers een geïntegreerde kijkervaring. In de dynamische viewer voor de set afbeeldingen kunnen gebruikers verschillende weergaven van een item zien door een miniatuurafbeelding te selecteren. Met Afbeeldingssets kunt u alternatieve weergaven met hoge resolutie van een item presenteren.
 
-De viewer voor Afbeeldingsset biedt zoomgereedschappen waarmee u afbeeldingen nauwkeurig kunt bekijken. Desgewenst kunt u doelen voor zoomen met instructies en afbeeldingen met hyperlinks in de afbeeldingsset opnemen. Afbeeldingssets zorgen voor een meer gecoördineerde, intieme kijkervaring.
+De viewer voor Afbeeldingsset biedt zoomgereedschappen waarmee u afbeeldingen nauwkeurig kunt bekijken. Desgewenst kunt u doelen voor zoomen met instructies en afbeeldingen met hyperlinks in de set met afbeeldingen opnemen. Afbeeldingssets zorgen voor een meer gecoördineerde, intieme kijkervaring.
 
 Zie [Afbeeldings- en centrifuges: Dynamic Imaging](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&amp;emailurl=https://s7d5.scene7.com/s7/emailFriend&amp;serverUrl=https://s7d5.scene7.com/is/image/&amp;config=Scene7SharedAssets/Universal_HTML5_Video&amp;contenturl=https://s7d5.scene7.com/skins/&amp;asset=S7tutorials/556_Image%20&amp;%20Spin%20Sets_converted%20renamed_Dynamic%20Imaging-AVS) trainingsvideo.
 
@@ -66,7 +66,7 @@ Zie [Viewer-voorinstellingen maken en bewerken](application-setup.md#adding-and-
 
 ## 4. Een voorvertoning van een afbeeldingsset weergeven
 
-Selecteer de Reeks van het Beeld in het Browse Comité, en selecteer dan **[!UICONTROL Preview]**. Selecteer op de pagina Voorvertoning de miniatuurpictogrammen om de Afbeeldingsset in de geselecteerde viewer te bekijken. U kunt verschillende Viewers kiezen in het menu Voorinstellingen.
+Selecteer de Afbeeldingsset in het deelvenster Bladeren en selecteer **[!UICONTROL Preview]**. Selecteer op de pagina Voorvertoning de miniatuurpictogrammen om de Afbeeldingsset in de geselecteerde viewer te bekijken. U kunt verschillende Viewers kiezen in het menu Voorinstellingen.
 
 Zie [Een voorvertoning van een element weergeven](previewing-asset.md#previewing-an-asset).
 

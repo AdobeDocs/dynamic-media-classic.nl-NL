@@ -10,7 +10,7 @@ role: User
 exl-id: 618ae6a4-6f60-4a80-b197-a9d35b3c47af
 topic: Content Management
 level: Intermediate
-source-git-commit: de6997fda88c4471625242ee9cca59b344cee945
+source-git-commit: 8dc990a1fb1355b00fa4839e14b92bb6562d40b4
 workflow-type: tm+mt
 source-wordcount: '607'
 ht-degree: 0%
@@ -56,7 +56,7 @@ U kunt een element weergeven in de gedetailleerde weergave, zodat u het element 
 
 De gedetailleerde weergave biedt informatie over een element of bestand. Deze informatie wordt weergegeven over een item: de map waarin het is opgeslagen, de bestandsnaam, de datum waarop het item naar Adobe Dynamic Media Classic is geüpload en de publicatiegeschiedenis. U kunt metagegevens ook weergeven en bewerken en trefwoorden voor een element toevoegen in de gedetailleerde weergave.
 
-U kunt een middel-URL in de Gedetailleerde Mening verkrijgen; nochtans, is URL niet actief tot u de activa publiceert. Voor afbeeldingen biedt de detailweergave ook een lijst met ingebouwde en afgeleide elementen en metagegevens, zoals zoomdoelen en Afbeeldingssets.
+U kunt een middel-URL in de Gedetailleerde Mening verkrijgen; nochtans, is URL niet actief tot u de activa publiceert. Voor afbeeldingen biedt de gedetailleerde weergave ook een lijst met ingebouwde en afgeleide elementen en metagegevens, zoals Zoomdoelen en Afbeeldingssets.
 
 ## Werken met elementen in de gedetailleerde weergave {#working-with-assets-in-detail-view}
 

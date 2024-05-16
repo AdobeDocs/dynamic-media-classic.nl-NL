@@ -10,7 +10,7 @@ role: User
 exl-id: 426b6e6b-daed-4ca6-b095-99bb06604b07
 topic: Content Management
 level: Intermediate
-source-git-commit: ad7e20fdbe9028c6255865cce95d109f9e9eeab2
+source-git-commit: 5140b62c76970cfcee271664f11b1ff605625fe7
 workflow-type: tm+mt
 source-wordcount: '678'
 ht-degree: 0%
@@ -38,7 +38,7 @@ Zie ook [Elementen handmatig publiceren](publishing-files.md#manually_publishing
 
 1. Voer een van de volgende handelingen uit:
 
-   * **Selecteer eerst de afbeeldingen**: Selecteer in het deelvenster Bladeren de afbeeldingen en ga vervolgens naar **[!UICONTROL Build]** > **[!UICONTROL Swatch Sets]**.
+   * **Selecteer eerst de afbeeldingen**: Selecteer de afbeeldingen in het deelvenster Bladeren en ga vervolgens naar **[!UICONTROL Build]** > **[!UICONTROL Swatch Sets]**.
 
    * **Starten vanaf het scherm Staalset**: Ga naar **[!UICONTROL Build]** > **[!UICONTROL Swatch Sets]**. Selecteer een map in de elementenbibliotheek en sleep de afbeeldingen naar de sectie Weergaven van de pagina Staalset.
 

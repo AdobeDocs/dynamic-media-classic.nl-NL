@@ -10,7 +10,7 @@ role: User
 exl-id: 989f2761-f5d0-4ece-b2a6-f7b4577aa8a2
 topic: Administration, Content Management
 level: Intermediate
-source-git-commit: 29752cf9eca0fc9bb760c721e1c3dc8e4ef912c3
+source-git-commit: 5140b62c76970cfcee271664f11b1ff605625fe7
 workflow-type: tm+mt
 source-wordcount: '445'
 ht-degree: 0%
@@ -25,7 +25,7 @@ In Adobe Dynamic Media Classic kunt u een ICC-profiel kiezen om afbeeldingen om 
 
 Zie [Opties voor het bewerken van afbeeldingen tijdens het uploaden](image-editing-options-upload.md#image-editing-options-at-upload).
 
-Naast het gebruik van de standaard-ICC-profielen kunt u andere ICC-profielen uploaden naar Adobe Dynamic Media Classic en deze beschikbaar maken voor kleurruimteconversie. Schakel over naar de detailweergave in het deelvenster Bladeren om de profielklasse, het type kleurruimte en het PCS-type van een ICC-profiel te onderzoeken.
+Naast het gebruik van de standaard-ICC-profielen kunt u andere ICC-profielen uploaden naar Adobe Dynamic Media Classic en deze beschikbaar maken voor kleurruimteconversie. Schakel over naar de gedetailleerde weergave in het deelvenster Bladeren om de profielklasse, het type kleurruimte en het PCS-type van een ICC-profiel te onderzoeken.
 
 ## ICC-profielen uploaden {#uploading-icc-profiles}
 
@@ -35,7 +35,7 @@ Zie [Uw bestanden uploaden](uploading-files.md#uploading_your_files).
 
 ## Een ICC-profiel controleren {#examining-an-icc-profile}
 
-Als u een ICC-profiel wilt onderzoeken, selecteert u het in het deelvenster Bladeren en geeft u het weer in de gedetailleerde weergave. In de gedetailleerde weergave wordt deze informatie over ICC-profielen weergegeven:
+Als u een ICC-profiel wilt bekijken, selecteert u het in het deelvenster Bladeren en geeft u het weer in de gedetailleerde weergave. In de gedetailleerde weergave wordt deze informatie over ICC-profielen weergegeven:
 
 * **[!UICONTROL Profile Class]**: Het ICC (International Color Consortium) definieert elke klasse voor een type toepassing. Invoerprofielen zijn bijvoorbeeld van toepassing op apparaten zoals digitale camera&#39;s en scanners en op printers.
 

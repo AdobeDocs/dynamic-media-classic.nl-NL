@@ -10,9 +10,9 @@ role: User
 exl-id: 00b70162-2394-433d-a46c-1d90667030af
 topic: Integrations, Development
 level: Experienced
-source-git-commit: bc3b696bfde0ed55894cdcbf3533299ae7697e98
+source-git-commit: 8dc990a1fb1355b00fa4839e14b92bb6562d40b4
 workflow-type: tm+mt
-source-wordcount: '182'
+source-wordcount: '184'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Bij het publiceren worden uw eCatalog en PDF op Dynamic Media Image Servers gepl
 
 >[!NOTE]
 >
->Zorg ervoor dat uw eCatalog en PDF zich in dezelfde map bevinden en dat ze zijn gemarkeerd voor publicatie op de pagina Bladeren of Details van element voordat u ze publiceert.
+>Zorg ervoor dat uw eCatalog en PDF zich in dezelfde map bevinden. En zorg ervoor dat ze zijn gemarkeerd voor publicatie in het deelvenster Bladeren of op de pagina Asset Details voordat u ze publiceert.
 
 **E-catalogi en bijbehorende PDF publiceren:**
 

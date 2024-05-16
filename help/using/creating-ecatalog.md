@@ -10,16 +10,16 @@ role: User
 exl-id: 51d411b2-b4bc-4cf6-afca-dd0ed0d219a1
 topic: Integrations, Development
 level: Experienced
-source-git-commit: ad7e20fdbe9028c6255865cce95d109f9e9eeab2
+source-git-commit: 5140b62c76970cfcee271664f11b1ff605625fe7
 workflow-type: tm+mt
-source-wordcount: '918'
+source-wordcount: '920'
 ht-degree: 0%
 
 ---
 
 # Een eCatalog maken {#creating-an-ecatalog}
 
-Als u een eCatalog maakt, moet u de pagina&#39;s ordenen, de paginalay-out kiezen en de pagina&#39;s koppelen door Afbeeldingen met hyperlinks te tekenen en rollover- en hypertekstkoppelingsgegevens in te voeren. Desgewenst kunt u de inhoudsopgave aanpassen, zodat de viewers de paginanamen in plaats van de paginanummers in de eCatalog-viewer kunnen zien.
+Als u een eCatalog maakt, moet u de pagina&#39;s ordenen, de paginalay-out kiezen en de pagina&#39;s koppelen door Afbeeldingen met hyperlinks te tekenen. Hiervoor moeten ook gegevens voor rollover- en hypertextkoppelingen worden ingevoerd. Desgewenst kunt u de inhoudsopgave aanpassen, zodat de viewers de paginanamen in plaats van de paginanummers in de eCatalog-viewer kunnen zien.
 
 ## Een eCatalog maken {#create}
 
@@ -40,7 +40,7 @@ Zie ook [Elementen handmatig publiceren](publishing-files.md#manually_publishing
 
    * **Selecteer eerst de bestanden**: Selecteer in het deelvenster Bladeren bestanden en ga vervolgens naar **[!UICONTROL Build]** > **[!UICONTROL eCatalogs]**.
 
-   * **Starten vanaf het eCatalog-scherm**: Ga naar **[!UICONTROL Build]** > **[!UICONTROL eCatalogs]**. Selecteer een map in de elementenbibliotheek en sleep bestanden van de map naar het tabblad Order Pages op de pagina eCatalog.
+   * **Starten vanaf het eCatalog-scherm**: Ga naar **[!UICONTROL Build]** > **[!UICONTROL eCatalogs]**. Selecteer een map in de elementenbibliotheek. Sleep bestanden van de map naar het tabblad Order Pages van de pagina eCatalog.
 
      >[!NOTE]
      >
@@ -58,7 +58,7 @@ Zie ook [Elementen handmatig publiceren](publishing-files.md#manually_publishing
 
 1. Wanneer u klaar bent, gaat u naar de rechterbenedenhoek van de pagina en zorgt u ervoor dat **[!UICONTROL Publish after a save]** is geselecteerd (standaard).
 1. Selecteren **[!UICONTROL Save]**.
-1. Selecteer in het dialoogvenster Opslaan een map voor het opslaan van uw eCatalog. Voer in het veld Bestandsnaam de naam van de spin-set in.
+1. Selecteer in het dialoogvenster Opslaan een map voor het opslaan van uw eCatalog. Voer in het veld Bestandsnaam de naam van de centrifugeset in.
 1. Selecteren **[!UICONTROL Save]**.
 
    Nadat u de eCatalog hebt opgeslagen, kunt u een voorvertoning weergeven door **[!UICONTROL Preview]**.
@@ -98,7 +98,7 @@ Zie ook [Elementen handmatig publiceren](publishing-files.md#manually_publishing
 
 Adobe Dynamic Media Classic biedt standaardpaginanummers in uw eCatalog op het tabblad Order Pages van het eCatalog-scherm. Voor aangepaste paginanamen kunt u de paginalabels wijzigen die de inhoudsopgave vormen. Het wordt aanbevolen de naam van de voor- en achteromslag te wijzigen. De voorpagina kan bijvoorbeeld &quot;Omslag&quot; in plaats van &quot;Pagina 0-1&quot; lezen.
 
-U kunt handmatig een aangepaste inhoudsopgave (TOC) voor uw eCatalog maken of de paginanamen importeren vanuit een CSV- (alleen Mac) of XML-bestand.
+U kunt handmatig een aangepaste inhoudsopgave (TOC) voor uw eCatalog maken. U kunt de paginanamen ook importeren vanuit een CSV- (alleen Mac) of XML-bestand.
 
 >[!NOTE]
 >
@@ -106,7 +106,7 @@ U kunt handmatig een aangepaste inhoudsopgave (TOC) voor uw eCatalog maken of de
 
 ### Paginanamen handmatig invoeren {#manually-entering-page-names}
 
-Als u de paginanamen een voor een handmatig wilt invoeren, gaat u naar het tabblad Pagina&#39;s bestellen van het eCatalog-scherm. Voer vervolgens in het veld Paginanummer een naam in voor elke pagina die u een naam wilt geven.
+Voer handmatig paginanamen een voor een in door naar het tabblad Order Pages van het eCatalog-scherm te gaan. Voer vervolgens in het veld Paginanummer een naam in voor elke pagina die u een naam wilt geven.
 
 ### Paginanamen importeren {#importing-page-names}
 

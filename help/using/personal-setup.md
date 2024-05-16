@@ -10,9 +10,9 @@ role: Admin,User
 exl-id: a019f973-7647-466f-8af3-5312e9225e89
 topic: Administration, Collaboration
 level: Intermediate
-source-git-commit: bc3b696bfde0ed55894cdcbf3533299ae7697e98
+source-git-commit: 8dc990a1fb1355b00fa4839e14b92bb6562d40b4
 workflow-type: tm+mt
-source-wordcount: '750'
+source-wordcount: '753'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ Alle gebruikers kunnen montages op het Persoonlijke scherm van de Opstelling ver
 >
 >Het persoonlijke scherm van de Opstelling maakt een lijst van welke gebruikersrol u in Adobe Dynamic Media Classic hebt: De Beheerder van het Bedrijf, Beheerder, of Gebruiker.
 
-De Persoonlijke montages van de Opstelling controleren het standaardgedrag van het Browse Comité, hoe u e-mail, en wachtwoordmontages ontvangt. Vergeet niet te selecteren **[!UICONTROL Save]** nadat u deze instellingen hebt gewijzigd.
+De Persoonlijke montages van de Opstelling controleren het standaardgedrag van het Browse paneel, hoe u e-mail, en wachtwoordmontages ontvangt. Vergeet niet te selecteren **[!UICONTROL Save]** nadat u deze instellingen hebt gewijzigd.
 
 ## Mijn accountgegevens
 
@@ -83,7 +83,7 @@ The plug-in is now available for you to use in Adobe Illustrator. -->
 * **[!UICONTROL Show File Size]**: Hiermee geeft u de bestandsgrootte van een element weer wanneer u bladert.
 * **[!UICONTROL Include UDFs in Search]**: Schakel deze optie uit als u de systeemprestaties voor de meeste metagegevenszoekopdrachten die u uitvoert, wilt verbeteren.
 
-  Als de meeste zoekopdrachten in metagegevens van nut zijn wanneer u door de gebruiker gedefinieerde velden opneemt, kunt u deze optie selecteren en inschakelen. U kunt ook Geavanceerd zoeken gebruiken om u een gerichtere en snellere zoekervaring te bieden dan het opnemen van door de gebruiker gedefinieerde velden.
+  Als de meeste zoekopdrachten in metagegevens van nut zijn wanneer u door de gebruiker gedefinieerde velden opneemt, kunt u deze optie selecteren en inschakelen. Als alternatief kunt u Geavanceerd zoeken gebruiken om u een gerichtere en snellere zoekervaring te bieden dan door door de gebruiker gedefinieerde velden op te nemen.
 
   Zie [Een geavanceerde zoekopdracht uitvoeren](searching-assets.md#conducting_an_advanced_search).
 
@@ -107,7 +107,7 @@ The plug-in is now available for you to use in Adobe Illustrator. -->
 
 * **[!UICONTROL Current Password]**: Voer het wachtwoord voor uw huidige wachtwoord in.
 * **[!UICONTROL New Password]**: Voer een nieuw, geldig wachtwoord in. Uw wachtwoord moet aan de volgende vereisten voldoen:
-   * Tussen 8 en 25 tekens lang zijn.
+   * Het moet 8-25 tekens lang zijn.
    * Bevat ten minste één kleine letter.
    * Bevat ten minste één hoofdletter.
    * Bevat ten minste één getal.

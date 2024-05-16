@@ -1,6 +1,6 @@
 ---
 title: Zoomdoelen en afbeeldingen met hyperlinks opnemen in stalensets
-description: Leer hoe u zoomdoelen en afbeeldingen met hyperlinks opneemt in Staalsets in Adobe Dynamic Media Classic.
+description: Leer hoe u Zoomdoelen en afbeeldingen met hyperlinks opneemt in stalensets in Adobe Dynamic Media Classic.
 contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
@@ -10,7 +10,7 @@ role: User
 exl-id: 1eaffe17-1fa3-4726-b0a1-369fabb9ee7e
 topic: Content Management
 level: Intermediate
-source-git-commit: bc3b696bfde0ed55894cdcbf3533299ae7697e98
+source-git-commit: 8dc990a1fb1355b00fa4839e14b92bb6562d40b4
 workflow-type: tm+mt
 source-wordcount: '165'
 ht-degree: 0%
@@ -19,9 +19,9 @@ ht-degree: 0%
 
 # Zoomdoelen en afbeeldingen met hyperlinks opnemen in stalensets{#including-zoom-targets-and-image-maps-in-swatch-sets}
 
-Als u zoomdoelen en Afbeeldingen met hyperlinks definieert voor de afbeeldingen in de stalenset, worden deze doelen en toewijzingen weergegeven in de Staalset-viewer. De gebruikers, bijvoorbeeld, kunnen een Kaart van het Beeld in de Vastgestelde Kijker van het Monster selecteren en een nieuwe pagina op uw Website met informatie over een punt openen. Gebruikers kunnen een doelminiatuurafbeelding selecteren in de Staalsetviewer en automatisch inzoomen op een gedeelte van een afbeelding.
+Als u Zoomdoelen en Afbeeldingen met hyperlinks definieert voor de afbeeldingen in de stalenset, worden deze doelen en toewijzingen weergegeven in de Staalsetviewer. De gebruikers, bijvoorbeeld, kunnen een Kaart van het Beeld in de Vastgestelde Kijker van het Monster selecteren en een nieuwe pagina op uw Website met informatie over een punt openen. Gebruikers kunnen een doelminiatuurafbeelding selecteren in de Staalsetviewer en automatisch inzoomen op een gedeelte van een afbeelding.
 
-Als u zoomdoelen en afbeeldingen met hyperlinks beschikbaar wilt maken voor gebruikers, maakt u zoomdoelen en afbeeldingen met hyperlinks voor de afbeeldingen in de stalenset. U kunt dat doen met de gereedschappen Afbeeldingen met hyperlinks of Zoomdoelen in het scherm Staalset of het deelvenster Bladeren (in de gedetailleerde weergave).
+Als u Zoomdoelen en afbeeldingen met hyperlinks beschikbaar wilt maken voor gebruikers, maakt u Zoomdoelen en Afbeeldingskaarten voor de afbeeldingen in de stalenset. U kunt dat doen met de gereedschappen Afbeeldingen met hyperlinks of Zoomdoelen in het scherm Staalset of in het deelvenster Bladeren (in de gedetailleerde weergave).
 
 >[!MORELIKETHIS]
 >

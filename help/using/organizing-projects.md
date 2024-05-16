@@ -10,7 +10,7 @@ role: User
 exl-id: 69aabf4a-21bc-4bd8-8aad-33c2cfb9cf57
 topic: Content Management
 level: Intermediate
-source-git-commit: bc3b696bfde0ed55894cdcbf3533299ae7697e98
+source-git-commit: 5140b62c76970cfcee271664f11b1ff605625fe7
 workflow-type: tm+mt
 source-wordcount: '465'
 ht-degree: 0%
@@ -59,6 +59,6 @@ Voer een van de volgende handelingen uit om een projectmap weer te geven, te ver
 
 U kunt afbeeldingen toevoegen aan een projectmap die begint in het deelvenster Bladeren of wanneer u bestanden uploadt naar Adobe Dynamic Media Classic:
 
-* **Van het Browse Comité** selecteert u de elementen en sleept u deze naar een projectmap. U kunt ook naar **[!UICONTROL File]** > **[!UICONTROL Add To Project]**. Selecteer een naam voor de projectmap in het dialoogvenster Project selecteren en selecteer vervolgens **[!UICONTROL Submit]**.
+* **Vanuit het deelvenster Bladeren** selecteert u de elementen en sleept u deze naar een projectmap. U kunt ook naar **[!UICONTROL File]** > **[!UICONTROL Add To Project]**. Selecteer een naam voor de projectmap in het dialoogvenster Project selecteren en selecteer vervolgens **[!UICONTROL Submit]**.
 
 * **Bestanden uploaden**: Selecteer op de pagina Uploaden de optie **[!UICONTROL Job Options]**. Selecteer in het dialoogvenster Opties voor uploaden de optie **[!UICONTROL Projects]** en selecteer vervolgens een projectnaam.

@@ -9,9 +9,9 @@ role: User
 exl-id: 2ef78fe6-1e7c-4f48-86da-137ddaa55bbf
 topic: Content Management
 level: Intermediate
-source-git-commit: bc3b696bfde0ed55894cdcbf3533299ae7697e98
+source-git-commit: 8dc990a1fb1355b00fa4839e14b92bb6562d40b4
 workflow-type: tm+mt
-source-wordcount: '998'
+source-wordcount: '1002'
 ht-degree: 0%
 
 ---
@@ -30,7 +30,7 @@ Voordat u een afbeeldingselement kunt uploaden, vraagt u eerst om een sleutel vo
 
 ## Een gedeelde geheime sleutel aanvragen {#requesting-a-shared-secret-key}
 
-Verzoek om een *gedeelde geheime sleutel* door [het gebruiken van de Admin Console om een steungeval tot stand te brengen.](https://helpx.adobe.com/enterprise/using/support-for-experience-cloud.html) In uw steungeval, verzoek om een gedeelde geheime sleutel.
+Verzoek om een *gedeelde geheime sleutel* door [het gebruiken van de Admin Console om een steungeval tot stand te brengen.](https://helpx.adobe.com/enterprise/using/support-for-experience-cloud.html) In het geval van de technische steun, verzoek om een gedeelde geheime sleutel.
 
 Geef in het e-mailbericht de bedrijfsnaam op die u wilt gebruiken om afbeeldingselementen te uploaden. Nadat u de sleutel van Adobe Dynamic Media Classic ontvangt, bewaar het plaatselijk voor toekomstig gebruik.
 
@@ -81,7 +81,7 @@ U kunt de volgende velden in de URL-queryreeks gebruiken om een token voor uploa
 | --- | --- | --- |
 | op | Vereist | get_uploadtoken |
 | shared_geheime | Vereist | De sleutel van het gedeelde geheim voor het bedrijf dat uploadt. |
-| verloopt | Optioneel | Aantal seconden dat de uploadtoken geldig is. De standaardwaarde is 300 seconden, als deze niet is opgegeven. |
+| verloopt | Optioneel | Aantal seconden dat de uploadtoken geldig is. De standaardwaarde is 300 seconden, indien niet opgegeven. |
 
 **Voorbeeld van URL van rasterafbeelding:**
 
@@ -134,7 +134,7 @@ Met het volgende HTML-formulier kan een gebruiker een element uploaden. In het f
 * Een maximale bestandsgrootte.
 * Een lijst met bestandsextensies.
 * Of het kleurprofiel en de bestandsnaam die aan het element zijn gekoppeld, behouden moeten blijven.
-* Of de achtergrond uitnemen moet worden gebruikt. Als u Achtergrond uitnemen inschakelt, stelt u de Hoek, Tolerantie en Vulmethode in.
+* Of een uitneemachtergrond wordt gebruikt. Als u Achtergrond uitnemen inschakelt, stelt u de Hoek, Tolerantie en Vulmethode in.
 Zie Achtergrond uitnemen in [Opties voor het verfijnen van afbeeldingen tijdens het uploaden](image-editing-options-upload.md#image-editing-options-at-upload).
 * The name of the file to upload.
 
@@ -181,7 +181,7 @@ Verzend het element dat u wilt uploaden als multipart/form-post terwijl u de ove
 | URL-parameter | Vereist of optioneel | Waarde |
 | --- | --- | --- |
 | `op` | Vereist | uploaden |
-| `upload_token` | Vereist | Upload token voor de sleutel voor gedeeld geheim die aan het bedrijf is gekoppeld. |
+| `upload_token` | Vereist | Upload een token voor de sleutel voor gedeeld geheim die aan het bedrijf is gekoppeld. |
 | `company_name` | Vereist | Naam van het bedrijf dat de upload uitvoert. |
 | `file_limit` | Optioneel | Bestandsgroottelimiet, in bytes, voor het element. |
 | `file_exts` | Optioneel | Lijst met toegestane extensies voor het afbeeldingselementbestand. |

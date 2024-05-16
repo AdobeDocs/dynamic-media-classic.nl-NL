@@ -10,7 +10,7 @@ role: User
 exl-id: 5e7f39a5-36a6-40df-8752-064a582c9346
 topic: Integrations, Development
 level: Experienced
-source-git-commit: bc3b696bfde0ed55894cdcbf3533299ae7697e98
+source-git-commit: 5140b62c76970cfcee271664f11b1ff605625fe7
 workflow-type: tm+mt
 source-wordcount: '1452'
 ht-degree: 0%
@@ -55,7 +55,7 @@ Als u een afbeelding met hyperlinks wilt verwijderen, selecteert u de naam in de
 
 ## Veelzijdige media insluiten in een eCatalog {#embedding-rich-media-in-an-ecatalog}
 
-Met de optie Rijke media van eCatalog kunt u video&#39;s in MP4-indeling toevoegen of sets met afbeeldingen die u aan een eCatalog hebt toegevoegd. Wanneer een gebruiker het gebied Afbeelding met hyperlinks in de eCatalog selecteert, wordt de bijbehorende spelset of video weergegeven. Deze functionaliteit is vooral handig als u wilt dat klanten een onderdeel in gebruik zien of een onderdeel vanuit verschillende invalshoeken en perspectieven bekijken.
+U kunt de rijke optie van Media van eCatalog gebruiken om video&#39;s in formaat MP4 of de Reeksen van de Draai aan de Kaarten van het Beeld toe te voegen die u aan een eCatalog hebt toegevoegd. Wanneer een gebruiker het gebied Afbeeldingskaart in de eCatalog selecteert, wordt de bijbehorende Spin-set of video weergegeven. Deze functionaliteit is vooral handig als u wilt dat klanten een onderdeel in gebruik zien of een onderdeel vanuit verschillende invalshoeken en perspectieven bekijken.
 
 U kunt knopinfo ook weergeven wanneer klanten hun aanwijzers over de Afbeeldingskaart bewegen, zodat ze weten wat ze selecteren.
 
@@ -66,7 +66,7 @@ U kunt knopinfo ook weergeven wanneer klanten hun aanwijzers over de Afbeeldings
    Zie [ECatalog-afbeeldingen met hyperlinks tekenen](creating-ecatalog-image-maps.md#drawing_ecatalog_image_maps).
 
 1. Selecteer in de vervolgkeuzelijst Tonen de optie **[!UICONTROL Rich Media]**.
-1. Navigeer in het paneel Middelen toevoegen aan de linkerkant naar een map met de centrifugeset of het videoelement (MP4-indeling) dat u wilt insluiten.
+1. Navigeer in het paneel Middelen toevoegen aan de linkerkant naar een map die de centrifugeset of het videoelement (MP4-indeling) bevat die u wilt insluiten.
 1. Sleep het element naar de afbeelding met hyperlinks.
 1. (Optioneel) Kies in de lijst Afbeelding met hyperlinks onder **[!UICONTROL Tool Tip]** Voer de tekst in die gebruikers op het scherm moeten zien wanneer ze de muisaanwijzer op de Afbeeldingskaart plaatsen.
 1. Selecteren **[!UICONTROL Save]**.

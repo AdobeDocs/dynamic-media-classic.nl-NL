@@ -10,7 +10,7 @@ role: User
 exl-id: b0c345dc-539f-4b03-a873-091681e2f2c2
 topic: Content Management
 level: Beginner
-source-git-commit: bc3b696bfde0ed55894cdcbf3533299ae7697e98
+source-git-commit: 5140b62c76970cfcee271664f11b1ff605625fe7
 workflow-type: tm+mt
 source-wordcount: '391'
 ht-degree: 0%
@@ -41,7 +41,7 @@ Zie [Viewer-voorinstellingen maken en bewerken](application-setup.md#adding-and-
 
 ## 4. Een voorvertoning van een stalenset weergeven
 
-Selecteer de Staalset in het deelvenster Bladeren en selecteer **[!UICONTROL Preview]**. Uw stalenset wordt op deze pagina weergegeven. Selecteer de miniatuur- en staalpictogrammen, zodat u de staalset kunt bekijken in de geselecteerde viewer. U kunt verschillende Viewers kiezen in het menu Voorinstellingen.
+Selecteer de stalenset in het deelvenster Bladeren en selecteer **[!UICONTROL Preview]**. Uw stalenset wordt op deze pagina weergegeven. Selecteer de miniatuur- en staalpictogrammen, zodat u de staalset kunt bekijken in de geselecteerde viewer. U kunt verschillende Viewers kiezen in het menu Voorinstellingen.
 
 Zie [Een voorvertoning van een element weergeven](previewing-asset.md#previewing-an-asset).
 

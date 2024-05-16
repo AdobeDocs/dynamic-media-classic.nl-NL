@@ -10,7 +10,7 @@ role: User
 exl-id: 4b3e8368-f8f5-46d9-9130-361a8273de2c
 topic: Content Management
 level: Intermediate
-source-git-commit: 61665faba1e6bb711aae5becf0150d1ebe3105c0
+source-git-commit: 5140b62c76970cfcee271664f11b1ff605625fe7
 workflow-type: tm+mt
 source-wordcount: '2163'
 ht-degree: 0%
@@ -45,7 +45,7 @@ Zie ook [Verscherpen](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?v
 
 **Een afbeelding verscherpen:**
 
-Als u een afbeelding wilt verscherpen, selecteert u de rollover **[!UICONTROL Edit]** en kiest u **[!UICONTROL Sharpen]** of opent u deze in het deelvenster Bladeren in de gedetailleerde weergave en selecteert u vervolgens **[!UICONTROL Sharpen]**. De pagina Scherpteditor wordt geopend met verscherpingsopdrachten. Kies de gewenste opdrachten en klik op **[!UICONTROL Save]**.
+Als u een afbeelding wilt verscherpen, selecteert u de rollover **[!UICONTROL Edit]** en kiest u **[!UICONTROL Sharpen]** of opent u het deelvenster Bladeren in de gedetailleerde weergave en selecteert u vervolgens **[!UICONTROL Sharpen]**. De pagina Scherpteditor wordt geopend met verscherpingsopdrachten. Kies de gewenste opdrachten en klik op **[!UICONTROL Save]**.
 
 >[!NOTE]
 >
