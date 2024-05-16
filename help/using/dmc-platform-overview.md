@@ -10,7 +10,7 @@ role: Admin,User
 exl-id: ac50cb9c-fd87-4608-80cb-8d40a0b8f131
 topic: Administration
 level: Beginner
-source-git-commit: edd893482cbafd9674a44cf9878b8ee3079d98f7
+source-git-commit: bc3b696bfde0ed55894cdcbf3533299ae7697e98
 workflow-type: tm+mt
 source-wordcount: '477'
 ht-degree: 0%
@@ -27,13 +27,13 @@ Zie ook [Overzicht van platform](https://s7d5.scene7.com/s7viewers/html5/VideoVi
 
 De belangrijkste Adobe Dynamic Media Classic-workflowstappen zijn:
 
-* **Uw elementen uploaden en beheren** - Upload uw media-elementen naar Adobe Dynamic Media Classic. U kunt middelen op het systeem organiseren, doorbladeren en zoeken. U kunt ook metagegevens toepassen op elementen.
+* **Uw elementen uploaden en beheren**: Upload uw media-elementen naar Adobe Dynamic Media Classic. U kunt middelen op het systeem organiseren, doorbladeren en zoeken. U kunt ook metagegevens toepassen op elementen.
 
-* **Rijke media maken** - Maak verschillende configuraties van uw elementen, zoals eCatalogs, Afbeeldingssets, Draaisets, Staalsets, Gemengde Mediasets, Basissjablonen en FXG-sjablonen.
+* **Rijke media maken**: U kunt verschillende configuraties van uw elementen maken, zoals eCatalogs, Afbeeldingssets, Spin-sets, Staalsets, Gemengde-mediasets, Standaard sjablonen en FXG-sjablonen.
 
-* **Publiceren en beheren** - Elementen publiceren naar het Adobe Dynamic Media Classic SaaS-netwerk. De status van elementen controleren wanneer deze worden gepubliceerd. Gebruikersrechten beheren en de beveiliging handhaven.
+* **Publiceren en beheren**: Publiceer elementen naar het Adobe Dynamic Media Classic SaaS-netwerk. De status van elementen controleren wanneer deze worden gepubliceerd. Gebruikersrechten beheren en de beveiliging handhaven.
 
-* **Serve** - Media van het Adobe Dynamic Media Classic SaaS-netwerk leveren aan webpagina&#39;s, toepassingen en mobiele apparaten; de media zijn geoptimaliseerd voor prestaties en worden geleverd met CDN-caching. Adobe Dynamic Media Classic biedt u een URL voor elk element. Nadat u het element hebt gepubliceerd, wordt de URL actief.
+* **Serve**: Media van het Adobe Dynamic Media Classic SaaS-netwerk leveren aan webpagina&#39;s, toepassingen en mobiele apparaten; de media zijn geoptimaliseerd voor prestaties en worden geleverd met CDN-caching. Adobe Dynamic Media Classic biedt u een URL voor elk element. Nadat u het element hebt gepubliceerd, wordt de URL actief.
 
 ![Het Adobe Dynamic Media Classic-workflowproces](/help/using/assets/gs_workflow.png)
 

@@ -6,7 +6,7 @@ role: Admin,User
 exl-id: 5c2e2937-fe4f-4b64-bee8-9572ca84695b
 topic: Content Management
 level: Intermediate
-source-git-commit: 163eb32112ec6fbefd1dacf48212353ff3053d54
+source-git-commit: bc3b696bfde0ed55894cdcbf3533299ae7697e98
 workflow-type: tm+mt
 source-wordcount: '1564'
 ht-degree: 0%
@@ -152,7 +152,7 @@ Nee. Adobe blijft de [!DNL Dynamic Media Classic] de publicatie- en leveringsinf
 Nee. Adobe blijft de [!DNL Dynamic Media Classic] de publicatie- en leveringsinfrastructuur in de [!DNL Dynamic Media] oplossing. Het voordeel van deze aanpak is dat u uw aangepaste viewers kunt blijven gebruiken, zodat het risico en de moeite van migratie naar [!DNL Dynamic Media].
 +++
 
-+++**Hoe kan ik mijn instellingen (zoals voorinstellingen voor afbeeldingen, videocoderingen) migreren naar [!DNL Dynamic Media]?**
++++**Hoe kan ik mijn instellingen (zoals voorinstellingen afbeelding, videocoderingen) migreren naar [!DNL Dynamic Media]?**
 Voorinstellingen en andere instellingen moeten opnieuw worden gemaakt binnen [!DNL Dynamic Media]. Als deel van het de dienstproject, kan de Adobe Globale Diensten of de Partner helpen.
 
 +++
@@ -190,7 +190,7 @@ Dynamic Media wordt geleverd met 60 GB opslagruimte. U kunt extra opslagruimte a
 +++**Welke metrisch wordt gebruikt om te meten [!DNL Dynamic Media] gebruik?**
 Paginaweergaven per maand (PVM). Paginaweergave betekent één weergave van een e-mail- of webpagina van een website. Het omvat ook de mening van het toepassingsscherm, de staten van het toepassingsscherm, mobiele Web-pagina&#39;s, en sociale netwerkpagina&#39;s. Paginaweergaven vinden plaats:
 
-* Elke keer dat een webpagina wordt geladen of vernieuwd
+* Telkens wanneer het laden of vernieuwen van een Web-pagina voorkomt
 * Wanneer een toepassing wordt geladen
 * Wanneer inhoud wordt gerenderd
 * Weergegeven via een geopende of bekeken e-mail

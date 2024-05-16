@@ -10,7 +10,7 @@ role: Admin,User
 exl-id: 0deb7133-b895-4c3f-8e5e-8604a6f2d16b
 topic: Administration, Collaboration
 level: Intermediate
-source-git-commit: b2a6aeb1aab420803a8b7dafb0fdeda495e2a69b
+source-git-commit: bc3b696bfde0ed55894cdcbf3533299ae7697e98
 workflow-type: tm+mt
 source-wordcount: '789'
 ht-degree: 0%
@@ -98,6 +98,6 @@ Zie ook [Beschikbare exportopties voor gebruikers van Media Portal opgeven](spec
 1. Ga naar **[!UICONTROL Setup]** > **[!UICONTROL Media Portal Setup]** > **[!UICONTROL Groups]**.
 1. Selecteer op de pagina Groepenlijst een groep en bewerk of verwijder deze.
 
-   **Een groep bewerken** - Selecteer **[!UICONTROL Edit]** en kies vervolgens opties in het dialoogvenster Groep bewerken.
+   **Een groep bewerken**: Select **[!UICONTROL Edit]** en kies vervolgens opties in het dialoogvenster Groep bewerken.
 
-   **Een groep verwijderen** - Selecteer **[!UICONTROL Delete]**.
+   **Een groep verwijderen**: Select **[!UICONTROL Delete]**.

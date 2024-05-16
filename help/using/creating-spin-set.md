@@ -10,7 +10,7 @@ role: User
 exl-id: 35e8e7fc-5b3c-441a-959c-df2e39ea0d4b
 topic: Content Management
 level: Intermediate
-source-git-commit: b2a6aeb1aab420803a8b7dafb0fdeda495e2a69b
+source-git-commit: bc3b696bfde0ed55894cdcbf3533299ae7697e98
 workflow-type: tm+mt
 source-wordcount: '922'
 ht-degree: 0%
@@ -92,13 +92,13 @@ Zie ook [Elementen handmatig publiceren](publishing-files.md#manually-publishing
 1. De rollover van de centrifugeset selecteren **[!UICONTROL Edit]** knop.
 1. Voer een van de volgende handelingen uit:
 
-   * **Afbeeldingen verwijderen** - Selecteer de afbeelding en selecteer vervolgens **[!UICONTROL Delete]**.
+   * **Afbeeldingen verwijderen**: Selecteer de afbeelding en selecteer deze **[!UICONTROL Delete]**.
 
-   * **Afbeeldingen toevoegen** - Sleep de afbeelding naar een cel.
+   * **Afbeeldingen toevoegen**: Sleep de afbeelding naar een cel.
 
-   * **Rijen opnieuw ordenen (tweedimensionale centrifuges)** - Selecteer een vak met een rijkiezer (links van de rij) en selecteer vervolgens **[!UICONTROL Move Row Down]** of **[!UICONTROL Move Row Up]**.
+   * **Rijen opnieuw ordenen (tweedimensionale centrifuges)**: Selecteer een vak met een rij-kiezer (links van de rij) en selecteer vervolgens **[!UICONTROL Move Row Down]** of **[!UICONTROL Move Row Up]**.
 
-   * **Rijen en cellen toevoegen** - Voer in het vak Rijen en Cellen een getal in om het aantal rijen en het aantal cellen in elke rij te bepalen.
+   * **Rijen en cellen toevoegen**: Voer in het vak Rijen en Cellen een getal in om het aantal rijen en het aantal cellen in elke rij te bepalen.
 
 1. Wanneer u klaar bent met bewerken, gaat u naar de rechterbenedenhoek van de pagina en zorgt u ervoor dat **[!UICONTROL Publish after save]** is geselecteerd (standaard).
 1. Selecteren **[!UICONTROL Save]**, selecteert u een opslagmap, voert u een naam voor de set in en selecteert u **[!UICONTROL Save]**.

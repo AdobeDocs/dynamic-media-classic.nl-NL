@@ -1,6 +1,6 @@
 ---
 title: URL's koppelen aan uw webtoepassing
-description: Leer hoe u URL's aan uw webtoepassing koppelt vanuit Adobe Dynamic Media Classic.
+description: Leer hoe u URL's kunt koppelen aan uw webtoepassing vanuit Adobe Dynamic Media Classic.
 contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
@@ -10,7 +10,7 @@ role: User
 exl-id: ca629427-da33-4bab-9d08-6d9368042f7e
 topic: Administration, Content Management, Development
 level: Intermediate
-source-git-commit: b2a6aeb1aab420803a8b7dafb0fdeda495e2a69b
+source-git-commit: bc3b696bfde0ed55894cdcbf3533299ae7697e98
 workflow-type: tm+mt
 source-wordcount: '815'
 ht-degree: 0%
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # URL&#39;s koppelen aan uw webtoepassing{#linking-urls-to-your-web-application}
 
-Uw websites en toepassingen hebben via URL-tekenreeksen toegang tot Dynamic Media Image Server-inhoud. Nadat u een afbeelding hebt gepubliceerd, activeert Adobe Dynamic Media Classic een URL-tekenreeks die verwijst naar de voorinstelling van de afbeelding op Dynamic Media Image Servers. U kunt deze URL&#39;s voor testdoeleinden in een webbrowser plakken.
+Uw websites en toepassingen hebben via URL-tekenreeksen toegang tot Dynamic Media Image Server-inhoud. Nadat u een afbeelding hebt gepubliceerd, activeert Adobe Dynamic Media Classic een URL-tekenreeks die verwijst naar de voorinstelling van de afbeelding op Dynamic Media Image Servers. U kunt deze URL&#39;s in een webbrowser plakken om ze te testen.
 
 Kopieer deze URL-tekenreeksen vanuit Adobe Dynamic Media Classic om deze in uw webpagina&#39;s en toepassingen te plaatsen. Als u een URL-tekenreeks wilt ophalen die is gegenereerd met een voorinstelling voor afbeelding, gaat u naar het voorvertoningsscherm of het deelvenster Bladeren (in de gedetailleerde weergave).
 
@@ -78,7 +78,7 @@ https://s7d1.scene7.com/is/image/S7learn/backpack?$Large$
 
 Namen van voorinstellingen voor afbeeldingen in URL&#39;s worden ingesloten door dollartekens ($). Wanneer een Dynamic Media Image Server het gedeelte Voorinstelling afbeelding van de URL aantreft (de `Large` in dit geval), met behulp van de grootte- en opmaakinstructies die zijn gedefinieerd in de voorinstelling Grote afbeelding.
 
-## Dynamische afbeeldingen aan uw webpagina toevoegen {#adding-dynamic-images-to-your-web-page}
+## Dynamische afbeeldingen toevoegen aan uw webpagina {#adding-dynamic-images-to-your-web-page}
 
 Als u dynamische afbeeldingen aan uw webpagina wilt toevoegen, `<IMG>` -tag in uw HTML-webpaginacode wordt doorgaans gewijzigd met de Adobe Dynamic Media Classic URL-tekenreeks en wordt een aanvraag naar Dynamic Media Image Servers gedaan. Met deze tekenreeks wordt de afbeelding gemaakt met de grootte en opmaakspecificaties die zijn gedefinieerd in de voorinstelling voor afbeelding.
 

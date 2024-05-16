@@ -10,7 +10,7 @@ role: User
 exl-id: b0c345dc-539f-4b03-a873-091681e2f2c2
 topic: Content Management
 level: Beginner
-source-git-commit: edd893482cbafd9674a44cf9878b8ee3079d98f7
+source-git-commit: bc3b696bfde0ed55894cdcbf3533299ae7697e98
 workflow-type: tm+mt
 source-wordcount: '391'
 ht-degree: 0%
@@ -53,7 +53,7 @@ Selecteer de **[!UICONTROL Mark For Publish]** links van de naam in het deelvens
 
 Zie [Bestanden publiceren](publishing-files.md#publishing-files).
 
-## 6. Een stalenset koppelen aan een webpagina
+## 6. Koppel een staal dat is ingesteld aan een webpagina
 
 Adobe Dynamic Media Classic maakt URL-aanroepen voor stalensets en activeert deze nadat u de URL hebt gepubliceerd. U kunt deze URL&#39;s kopiëren vanaf de pagina Voorbeeld.
 

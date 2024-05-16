@@ -9,14 +9,14 @@ role: Admin,User
 exl-id: d61ea80a-a98e-43e6-9e2e-4389962134f1
 topic: Administration
 level: Intermediate
-source-git-commit: edd893482cbafd9674a44cf9878b8ee3079d98f7
+source-git-commit: bc3b696bfde0ed55894cdcbf3533299ae7697e98
 workflow-type: tm+mt
 source-wordcount: '1055'
 ht-degree: 0%
 
 ---
 
-# Adobe Dynamic Media Classic Desktop-app - Nu beschikbaar {#new-ui-2020}
+# Adobe Dynamic Media Classic Desktop-app: nu beschikbaar {#new-ui-2020}
 
 Zie de [Adobe Dynamic Media Classic-bureaubladtoepassing](/help/using/dynamic-media-classic-desktop-app.md) als u de systeemvereisten wilt controleren, downloadt en installeert u de nieuwe app en meldt u zich vervolgens aan.
 
@@ -27,7 +27,7 @@ Adobe Dynamic Media Classic-gebruikers hebben nu toegang tot een nieuwe aanmeldi
 ## Veelgestelde vragen
 
 +++**_Wanneer browsers op 31 december 2020 stoppen met het ondersteunen van de Flash van de Adobe, zullen er gevolgen zijn voor Adobe Dynamic Media Classic (voorheen Scene7)?_**
-Adobe Flash Player was een insteekmodule voor webbrowsers waarmee webbrowsers inhoud konden gebruiken die op de Adobe Flash Platform was ontwikkeld. De webgebruikersinterface van Adobe Dynamic Media Classic (momenteel gelabeld) [!DNL Scene7 Publishing System] of [!DNL SPS] in het product) de Flash Player van de Adobe nodig hebben. Wanneer de Flash van de Adobe 31 December, 2020 wordt afgekeurd, zullen de klanten van Adobe Dynamic Media Classic niet meer in het Webgebruikersinterface kunnen registreren. Vanwege deze wijziging heeft Adobe klanten een bureaubladtoepassing verschaft die de browserervaring vervangt.
+De Flash Player van de Adobe was browser van het Web elektrisch toestel dat browsers van het Web toestond om inhoud te gebruiken die op Adobe Flash Platform werd ontwikkeld. De webgebruikersinterface van Adobe Dynamic Media Classic (momenteel gelabeld) [!DNL Scene7 Publishing System] of [!DNL SPS] in het product) de Flash Player van de Adobe nodig hebben. Wanneer de Flash van de Adobe 31 December, 2020 wordt afgekeurd, zullen de klanten van Adobe Dynamic Media Classic niet meer in het gebruikersinterface van het Web kunnen registreren. Vanwege deze wijziging heeft Adobe klanten een bureaubladtoepassing verschaft die de browserervaring vervangt.
 +++
 
 +++**_Hoe kan ik de nieuwe bureaubladtoepassing openen?_**
@@ -47,7 +47,7 @@ Nadat u de bureaubladtoepassing hebt gedownload, geïnstalleerd en gestart, ontv
 
 +++
 
-+++**_Wat gebeurt er als ik de API&#39;s van Adobe Dynamic Media Classic gebruik om het product te openen en me niet aan te melden via de webgebruikersinterface?_**
++++**_Wat als ik Adobe Dynamic Media Classic APIs gebruik om tot het product toegang te hebben en niet binnen door het gebruikersinterface van het Web te ondertekenen?_**
 De onderliggende API&#39;s voor Adobe Dynamic Media Classic zijn niet gewijzigd.
 +++
 
@@ -110,4 +110,4 @@ Ga voor meer informatie over de voordelen van de upgrade naar de volgende genera
 >* [Aanmelden bij en uit de Adobe Dynamic Media Classic-bureaubladtoepassing](/help/using/signing-out.md)
 >* [De Adobe Dynamic Media Classic-bureaubladtoepassing downloaden en installeren](/help/using/dynamic-media-classic-desktop-app.md)
 
-<!-- SAVE - OLD LINK TO BEST PRACTICES GUIDE IN PDF https://www.adobe.com/content/dam/www/us/en/marketing/experience-manager-assets/dynamic-media/adobe-dynamic-media-classic-best-practices-guide.pdf -->
+<!-- SAVE: OLD LINK TO BEST PRACTICES GUIDE IN PDF https://www.adobe.com/content/dam/www/us/en/marketing/experience-manager-assets/dynamic-media/adobe-dynamic-media-classic-best-practices-guide.pdf -->

@@ -7,9 +7,9 @@ role: Admin,User
 exl-id: 5f2a0cfc-d627-42be-9e68-111b65680ad8
 topic: Content Management
 level: Intermediate
-source-git-commit: 51c05c62448b39a75facb2e90cc9da5d0f26ab45
+source-git-commit: 29752cf9eca0fc9bb760c721e1c3dc8e4ef912c3
 workflow-type: tm+mt
-source-wordcount: '1038'
+source-wordcount: '979'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 De Dynamic Media-nieuwsbrief per Experience League is ontworpen om u te helpen snel aan de slag te gaan met Dynamic Media en Adobe Dynamic Media Classic, zodat u meteen waarde kunt gaan realiseren.
 
-In deze gearchiveerde nieuwsbrief van één-loketwinkel kunt u waardevolle kennis-bouwende middelen zoals hoe-aan video&#39;s en oplossingsoverzichten vinden. Er zijn ook introducties voor belangrijke functies en mogelijkheden, zoals voorinstellingen voor afbeeldingen, voorinstellingen voor viewers en videoprofielen.
+In deze gearchiveerde nieuwsbrief van één-loketwinkel kunt u waardevolle kennis-bouwende middelen zoals hoe-aan video&#39;s en oplossingsoverzichten vinden. Er zijn ook introducties voor belangrijke functies en mogelijkheden, zoals Voorinstellingen afbeelding, Voorinstellingen viewer en videoprofielen.
 
 <!-- microsite demo page https://experienceleague.adobe.com/tools/dynamic-media-demo/index.html -->
 
@@ -107,7 +107,7 @@ In deze gearchiveerde nieuwsbrief van één-loketwinkel kunt u waardevolle kenni
 
    * Maak uw klant nog beter door deze 9 &quot;gotchas&quot; te verwijderen.
    * Ontdek hoe het Dynamic Media-team u kan helpen zich voor te bereiden op een dag met een hoger bezoekersverkeer dan normaal.
-   * Een tweede kans om twee recente webinars van de Bouwer van de Vaardigheid te vangen.
+   * Een tweede kans om twee recente Webinars van de Bouwer van de Vaardigheid te vangen.
    * Bekijk de webinar op aanvraag over het beschermen van uw digitale middelen tegen piraterij.
    * Meet `Bridget Roman`, Senior Product Marketing Manager voor Experience Manager Assets.
    * Ga op snelheid in Dynamic Media en Adobe Dynamic Media Classic in Experience League.
@@ -126,10 +126,10 @@ In deze gearchiveerde nieuwsbrief van één-loketwinkel kunt u waardevolle kenni
 
   In dit verband:
 
-   * Bronnen en informatie waarmee u uw waardevolle middelen op de juiste manier kunt beheren en op een betrouwbare manier ervaringen kunt bieden die ervoor zorgen dat uw bezoekers niet terugkomen.
+   * Bronnen en informatie waarmee u uw waardevolle middelen op de juiste manier kunt beheren, zodat u op een betrouwbare manier ervaringen kunt bieden die ervoor zorgen dat uw bezoekers terugkomen.
    * Meer informatie over een webinar die binnenkort beschikbaar is voor de bescherming van uw digitale middelen.
    * De volgende keer stoppen met de Adobe Insider Tour die is ingevuld.
-   * Buitengewone mogelijkheden die beschikbaar zijn wanneer u Dynamic Media hebt in Experience Manager Assets (Experience Manager Assets).
+   * De opwindende mogelijkheden zijn beschikbaar wanneer u Dynamic Media binnen Experience Manager Assets (Experience Manager Assets) hebt.
    * Video&#39;s van 360 graden en aangepaste videominiaturen toevoegen aan uw website.
    * Meet `Andrew Hathaway`, Principal Solutions Consultant voor Dynamic Media in Experience Manager Assets.
 
@@ -142,13 +142,13 @@ In deze gearchiveerde nieuwsbrief van één-loketwinkel kunt u waardevolle kenni
    * Meer informatie over de komende Adobe Insider Tour.
    * Lees hoe u uw digitale middelen kunt beschermen tegen piraterij.
    * Leer meer over door AI aangedreven Smart Crop voor afbeeldingen.
-   * Meet `Alex Thiers`, een van de drijvende krachten achter veel van de grote kenmerken en innovaties in Dynamic Media en Adobe Dynamic Media Classic.
+   * Meet `Alex Thiers`, een drijvende kracht achter veel van de grote kenmerken en innovaties in Dynamic Media op AEM en Adobe Dynamic Media Classic.
 
 * **[Mei 2019, uitgave 05](https://experienceleague.adobe.com/tools/dynamic-media-demo/newsletter/Dynamic_Media_Newsletter_05_2019_May.html)**
 
   In dit verband:
 
-   * Ontdek de tien verborgen functies van Adobe Dynamic Media Classic in een blogbericht.
+   * Bekijk de tien verborgen functies van Adobe Dynamic Media Classic in een blogartikel.
    * Bekijk toetsvideo&#39;s in Experience League.
    * Meer informatie over de komende Adobe Insider Tour.
    * Lees een driedelige blogreeks om uw strategie voor rijke media bij te werken.

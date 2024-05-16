@@ -10,7 +10,7 @@ role: User
 exl-id: 9e2df814-465d-412a-a032-ef3e8cb462ba
 topic: Integrations
 level: Experienced
-source-git-commit: b2a6aeb1aab420803a8b7dafb0fdeda495e2a69b
+source-git-commit: bc3b696bfde0ed55894cdcbf3533299ae7697e98
 workflow-type: tm+mt
 source-wordcount: '1437'
 ht-degree: 0%
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # Snel starten: eCatalogs{#quick-start-ecatalogs}
 
-Een eCatalog is een digitale, webversie van drukmateriaal, bijvoorbeeld een catalogus, brochure, flyer, producthandleiding of reclamecirkel. Een eCatalog wordt getoond in een eCatalogKijker op een website. Deze viewer simuleert het lezen van afgedrukt materiaal.
+Een eCatalog is een digitale, Web-versie van drukmateriaal-een catalogus, brochure, flyer, producthandleiding, of reclamecirkel, bijvoorbeeld. Een eCatalog wordt getoond in een eCatalogKijker op een Website. Deze viewer simuleert het lezen van afgedrukt materiaal.
 
 Zie ook de volgende trainingsvideo&#39;s:
 
@@ -34,7 +34,7 @@ Afhankelijk van de instellingen die u kiest voor uw eCatalog, kunt u in de viewe
 * Navigeer in de catalogus met de inhoudsopgave of de weergave van het paginaraster. Selecteer de middelste rand van een pagina om de catalogus voor of achter de catalogus te plaatsen.
 * Zoom in, zoom uit en pannen om items op een pagina te bekijken.
 * Plaats de aanwijzer boven een paginagebied (de zogeheten Afbeeldingskaart), zodat u een pop-upvenster kunt zien met informatie over een item.
-* Selecteer een paginagebied zodat er een nieuwe webpagina met meer informatie over een item wordt geopend.
+* Selecteer een paginagebied zodat opent het een nieuwe Web-pagina met meer informatie over een punt.
 * Schrijf een notitie en koppel deze aan een eCatalog-pagina.
 * Tik op pictogrammen voor afbeeldingen met hyperlinks als u gerelateerde webpagina&#39;s of info-deelvensters in de context wilt starten.
 * Gebruik gebaarinteracties, zoals vastzetten om in te zoomen en te veeggen om pagina&#39;s om te slaan.
@@ -48,7 +48,7 @@ Als onderdeel van het maken van uw eCatalog kunt u pagina&#39;s of paginaspread 
 
 >[!NOTE]
 >
->Als u in de Dynamic Media- Scene7-modus werkt en eCatalogi wilt gebruiken, bewerkt u de `pdfbrochure` waarde in CRXDE Lite. Ga hiervoor in Adobe Experience Manager naar **[!UICONTROL Tools]** > **[!UICONTROL General]** > **[!UICONTROL CRXDE Lite]**. Navigeer in de navigatiestructuur van het linkerdeelvenster naar `/conf/global/settings/cloudconfigs/dmscene7/jcr:content/mimeTypes/application_pdf`.
+>Als u Dynamic Media: Scene7-modus gebruikt en eCatalogi wilt gebruiken, bewerkt u de `pdfbrochure` waarde in CRXDE Lite. Ga hiervoor in Adobe Experience Manager naar **[!UICONTROL Tools]** > **[!UICONTROL General]** > **[!UICONTROL CRXDE Lite]**. Navigeer in de navigatiestructuur van het linkerdeelvenster naar `/conf/global/settings/cloudconfigs/dmscene7/jcr:content/mimeTypes/application_pdf`.
 >
 >In de laag juiste ruit, in **[!UICONTROL Properties]** selecteert u de `jobParam` rij. Stel de waarde in voor `pdfbrochure` van `false` tot `true`. Als in `pdfbrochure=true`
 >
@@ -82,7 +82,7 @@ Zie [Een eCatalog maken](creating-ecatalog.md).
 
 ## 3. Afbeeldingen met hyperlinks maken
 
-Afbeeldingen met hyperlinks voegen nog een aspect toe aan eCatalog-pagina&#39;s. Een afbeelding met hyperlinks is een gebied op een pagina dat meer informatie over een item bevat. Wanneer de kijkers de wijzer over een Kaart van het Beeld rollen, zien zij een beschrijving van het punt. Als u op een afbeelding met hyperlinks klikt, wordt een externe verwijzing geactiveerd waarmee een nieuwe webpagina wordt geopend waarin u meer kunt leren over een item.
+Afbeeldingen met hyperlinks voegen nog een aspect toe aan eCatalog-pagina&#39;s. Een afbeelding met hyperlinks is een gebied op een pagina dat meer informatie over een item bevat. Wanneer de kijkers de wijzer over een Kaart van het Beeld rollen, zien zij een beschrijving van het punt. Als u op een afbeelding met hyperlinks klikt, wordt een externe verwijzing geactiveerd die een nieuwe webpagina opent waarin u meer over een item kunt leren.
 
 Open het eCatalog-scherm om een afbeelding met hyperlinks te maken. Ga vervolgens naar de **[!UICONTROL Map Pages]** van het eCatalog-scherm en kader de kaart met het gereedschap Afbeelding met rechthoek of Veelhoekafbeelding met hyperlinks. U kunt de positie en de grootte van Afbeeldingen met hyperlinks aanpassen door kaartranden te slepen met het gereedschap Pannen.
 
@@ -116,16 +116,16 @@ Zie [Voorvertoning van eCatalogi weergeven in de eCatalog-viewer](previewing-eca
 
 ## 6. E-catalogus en bijbehorende PDF publiceren
 
-Als u uw eCatalog en de bijbehorende PDF publiceert, wordt deze op Dynamic Media Image Servers geplaatst, zodat deze op uw website en toepassing kan worden geleverd. Als onderdeel van het publicatieproces activeert Adobe Dynamic Media Classic de URL-tekenreeks voor uw eCatalog. Gebruik deze URL om de eCatalog van de Servers van het Beeld van Dynamic Media aan uw website of toepassing te roepen.
+Wanneer u uw eCatalog en de bijbehorende PDF publiceert, wordt deze op Dynamic Media Image Servers geplaatst, zodat deze aan uw website en toepassing kan worden geleverd. Als onderdeel van het publicatieproces activeert Adobe Dynamic Media Classic de URL-tekenreeks voor uw eCatalog. Gebruik deze URL om de eCatalog van de Servers van het Beeld van Dynamic Media aan uw Website of toepassing te roepen.
 
 Nadat u uw eCatalog en PDF voor publicatie in het deelvenster Bladeren hebt gemarkeerd, selecteert u de knop Publiceren op de algemene navigatiebalk om een publicatie te starten. Selecteer op de pagina Publiceren de optie **[!UICONTROL Submit Publish]**.
 
 Zie [E-catalogi en bijbehorende PDF publiceren](publishing-ecatalogs-associated-pdfs.md#publishing-ecatalogs-and-associated-pdfs).
 
-## 7. Een eCatalog aan een webpagina koppelen
+## 7. Koppel een eCatalog aan een Web-pagina
 
-Adobe Dynamic Media Classic activeert de URL-bijschrifttekenreeks die nodig is voor de weergave van uw eCatalog wanneer u deze publiceert naar Dynamic Media Image Servers. U kunt deze URL-tekenreeks kopiëren vanuit het voorvertoningsscherm en het deelvenster Bladeren (in de gedetailleerde weergave) door URL&#39;s te selecteren in het deelvenster. Nadat u de URL-tekenreeks hebt gekopieerd, is deze beschikbaar voor uw websites en toepassingen.
+Adobe Dynamic Media Classic activeert de URL-bijschrifttekenreeks die nodig is voor de weergave van uw eCatalog wanneer u deze publiceert naar Dynamic Media Image Servers. U kunt deze URL-tekenreeks kopiëren vanuit het voorvertoningsscherm en het deelvenster Bladeren (in de gedetailleerde weergave) door URL&#39;s te selecteren in het deelvenster. Nadat u het koord URL kopieert, is het beschikbaar aan uw Websites en toepassingen.
 
-Werk samen met uw IT-team om de koppeling naar de eCatalog op de juiste plaats op uw webpagina te plaatsen. Wanneer gebruikers de koppeling selecteren, wordt de eCatalog-viewer weergegeven en kunnen gebruikers door de eCatalog bladeren.
+Werk samen met uw IT-team om de koppeling naar de eCatalog op de juiste plaats in uw webpagina te plaatsen. Wanneer gebruikers de koppeling selecteren, wordt de eCatalog-viewer weergegeven en kunnen gebruikers door de eCatalog bladeren.
 
-Zie [Een eCatalog koppelen aan een webpagina](linking-ecatalog-web-page.md#linking-an-ecatalog-to-a-web-page).
+Zie [Een eCatalog aan een Web-pagina koppelen](linking-ecatalog-web-page.md#linking-an-ecatalog-to-a-web-page).

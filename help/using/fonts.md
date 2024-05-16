@@ -10,7 +10,7 @@ role: User
 exl-id: 186f4c7f-16f6-42f5-bc0e-55362c55e794
 topic: Content Management
 level: Intermediate
-source-git-commit: 914fde11270dc731a261da3305b29dd573584d93
+source-git-commit: bc3b696bfde0ed55894cdcbf3533299ae7697e98
 workflow-type: tm+mt
 source-wordcount: '406'
 ht-degree: 0%
@@ -45,24 +45,24 @@ U kunt de id-naam van een lettertype en de informatie over het type wijzigen. He
 
 Selecteer in het deelvenster Bladeren het lettertypebestand dat u wilt bewerken in de gedetailleerde weergave en kies Bestand > Info bewerken. Het scherm Info bewerken wordt geopend. Kies de volgende opties en selecteer **[!UICONTROL Submit]**.
 
-* **[!UICONTROL Font Name]** - Deze naam geeft het lettertype aan wanneer het wordt gepubliceerd.
+* **[!UICONTROL Font Name]**: Deze naam geeft het lettertype aan wanneer het wordt gepubliceerd.
 
-* **[!UICONTROL PostScript Name]** - Deze naam is de volledige PostScript-naam voor het lettertype. Dit geeft meestal de dikte of stijl aan.
+* **[!UICONTROL PostScript Name]**: Deze naam is de volledige PostScript-naam voor het lettertype. Dit geeft meestal de dikte of stijl aan.
 
-* **[!UICONTROL RTF Name]** - Deze naam wordt weergegeven in een pop-upmenu in de RTF-editor waarin sjabloontekstlagen worden gemaakt.
+* **[!UICONTROL RTF Name]**: Deze naam wordt weergegeven in een pop-upmenu in de RTF-editor waarin sjabloontekstlagen worden gemaakt.
 
-* **[!UICONTROL Font Family Name]** - Deze naam geeft de fontnaam weer zonder de stijl-, dikte- of fonttypindicator.
+* **[!UICONTROL Font Family Name]**: Deze naam geeft de fontnaam weer zonder de stijl, het gewicht of de fonttype-indicator.
 
-* **[!UICONTROL Font Style]** - De opties zijn Normaal, Vet, Cursief en Vet-cursief.
+* **[!UICONTROL Font Style]**: De opties zijn Normaal, Vet, Cursief en Vet-cursief.
 
-* **[!UICONTROL Font Type]** - De opties zijn TrueType en Adobe Type 1. Als u deze lettertypen op een andere naam aanroept, kunt u deze naam invoeren.
+* **[!UICONTROL Font Type]**: De opties zijn TrueType en Adobe Type 1. Als u deze lettertypen op een andere naam aanroept, kunt u deze naam invoeren.
 
-* **[!UICONTROL Font Type Abbreviation]** - De opties zijn als volgt:
+* **[!UICONTROL Font Type Abbreviation]**: De opties zijn als volgt:
 
-   * **[!UICONTROL TTF]** - TrueType-lettertypebestanden die worden gebruikt voor PDF-/PostScript-rendering en beeldweergave.
+   * **[!UICONTROL TTF]**: TrueType-lettertypebestanden die worden gebruikt voor PDF-/PostScript-rendering en afbeeldingsserving.
 
-   * **[!UICONTROL AFM]** - Adobe PostScript-lettertypebestanden met Adobe Font Metrics-informatie die worden gebruikt voor beeldserving.
+   * **[!UICONTROL AFM]**: Adobe PostScript-lettertypebestanden met Adobe Font Metrics-informatie die worden gebruikt voor beeldserving.
 
-   * **[!UICONTROL PFM]** - Adobe PostScript-lettertypebestanden met binaire metrische informatie over lettertypen.
+   * **[!UICONTROL PFM]**: Adobe PostScript-lettertypebestanden met binaire metrische informatie over lettertypen.
 
-   * **[!UICONTROL PFB]** - Adobe PostScript-lettertypebestanden met binaire informatie over lettertypecontouren die worden gebruikt voor PDF/PostScript-rendering en beeldweergave.
+   * **[!UICONTROL PFB]**: Adobe PostScript-lettertypebestanden met binaire informatie over lettertypecontouren die worden gebruikt voor PDF/PostScript-rendering en beeldweergave.

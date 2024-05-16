@@ -6,16 +6,16 @@ role: Admin,User
 exl-id: eb56533a-4e31-4367-8b68-879cd70c761e
 topic: Content Management
 level: Intermediate
-source-git-commit: d82f816553f807b514f4690827dab672a6baf690
+source-git-commit: bc3b696bfde0ed55894cdcbf3533299ae7697e98
 workflow-type: tm+mt
-source-wordcount: '157'
+source-wordcount: '218'
 ht-degree: 0%
 
 ---
 
 # Functievergelijking
 
-Een tabel voor functievergelijking tussen [!DNL Dynamic Media] in [!DNL Adobe Experience Manager] Activa en [!DNL Adobe Dynamic Media Classic] bureaubladtoepassing. &quot;✓&quot;: de functie is beschikbaar in of met de software; een &quot;-&quot; betekent dat dit niet het geval is.
+Een tabel voor functievergelijking tussen [!DNL Dynamic Media] in [!DNL Adobe Experience Manager] Activa en [!DNL Adobe Dynamic Media Classic] bureaubladtoepassing. Een &quot;✓&quot; betekent dat de functie beschikbaar is in of met de software; een &quot;-&quot; betekent dat dit niet het geval is.
 
 | Functie | [!DNL Dynamic Media] | [!DNL Dynamic Media<br>Klassiek] |
 | :--- | :---: | :---: |
@@ -42,14 +42,14 @@ Een tabel voor functievergelijking tussen [!DNL Dynamic Media] in [!DNL Adobe Ex
 | Viewer Integration met Analytics | ✓ | ✓ |
 | 1:1-sjablonen | ✓<br>*Gepersonaliseerde mediabundel* | ✓ |
 | Visual Configurator<br>(productpersonalisatie) | ✓<br>*Gepersonaliseerde mediabundel* | ✓ |
-| 3D - Experience Manager Sites<br>WCM-component | ✓ | - |
-| 3D - Interactive Experience Viewer | ✓ | - |
-| 3D - AIR/VR en belangrijkste 3D-bestanden publiceren | ✓ | - |
-| Carrousels | ✓ | - |
-| Schoppbare/interactieve media - afbeeldingen | ✓ | - |
-| Schoppbare/interactieve media - video | ✓ | - |
-| Slim uitsnijden - Afbeeldingen | ✓ | - |
-| Slim uitsnijden - Video | ✓ | - |
-| Selectie videominiatuur | ✓ | - |
-| Viewer Designer | ✓ | - |
-| YouTube Publiceren | ✓ | - |
+| 3D: Experience Manager Sites<br>WCM-component | ✓ | : |
+| 3D: Interactive Experience Viewer | ✓ | : |
+| 3D: AIR/VR en belangrijkste 3D-bestanden publiceren | ✓ | : |
+| Carrousels | ✓ | : |
+| Verwisselbare/interactieve media: afbeeldingen | ✓ | : |
+| Schoppbare/interactieve media: video | ✓ | : |
+| Slim uitsnijden: afbeeldingen | ✓ | : |
+| Slim uitsnijden: Video | ✓ | : |
+| Selectie videominiatuur | ✓ | : |
+| Viewer Designer | ✓ | : |
+| YouTube Publiceren | ✓ | : |

@@ -10,7 +10,7 @@ role: User
 exl-id: b8d1a0b4-67ab-482d-a685-a087fb850143
 topic: Content Management
 level: Intermediate
-source-git-commit: b2a6aeb1aab420803a8b7dafb0fdeda495e2a69b
+source-git-commit: bc3b696bfde0ed55894cdcbf3533299ae7697e98
 workflow-type: tm+mt
 source-wordcount: '742'
 ht-degree: 0%
@@ -53,7 +53,7 @@ Zie [Video&#39;s voorvertonen in een videoviewer](previewing-videos-video-viewer
 
 Zie ook [Videovoorinstellingen](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&amp;emailurl=https://s7d5.scene7.com/s7/emailFriend&amp;serverUrl=https://s7d5.scene7.com/is/image/&amp;config=Scene7SharedAssets/Universal_HTML5_Video&amp;contenturl=https://s7d5.scene7.com/skins/&amp;asset=S7tutorials/549_video-presets_converted%20renamed_Done-AVS) trainingsvideo.
 
-### Een voorinstelling voor een videoviewer toevoegen of bewerken {#adding-or-editing-a-video-viewer-preset}
+### Een voorinstelling voor een video-viewer toevoegen of bewerken {#adding-or-editing-a-video-viewer-preset}
 
 U kunt Viewer-voorinstellingen gebruiken om verschillende viewertypen en hun vooraf gedefinieerde instellingen weer te geven. U kunt ook uw eigen aangepaste viewervoorinstellingen toevoegen en bewerken of bestaande viewervoorinstellingen die bij Adobe Dynamic Media Classic worden geleverd, bewerken.
 
@@ -63,7 +63,7 @@ Zie [Voorinstellingen viewer](application-setup.md#viewer_presets).
 
 Zie ook [Videovoorinstellingen](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&amp;emailurl=https://s7d5.scene7.com/s7/emailFriend&amp;serverUrl=https://s7d5.scene7.com/is/image/&amp;config=Scene7SharedAssets/Universal_HTML5_Video&amp;contenturl=https://s7d5.scene7.com/skins/&amp;asset=S7tutorials/549_video-presets_converted%20renamed_Done-AVS) trainingsvideo.
 
-**Een videoviewervoorinstelling toevoegen of bewerken:**
+**Een voorinstelling voor een video-viewer toevoegen of bewerken:**
 
 1. Ga in de rechterbovenhoek van Adobe Dynamic Media Classic naar **[!UICONTROL Setup]** > **[!UICONTROL Viewer Presets]**.
 
@@ -71,15 +71,15 @@ Zie ook [Videovoorinstellingen](https://s7d5.scene7.com/s7viewers/html5/VideoVie
 
 1. Een voorinstelling voor de viewer toevoegen of bewerken voor het weergeven van video:
 
-   * **Toevoegen** - Selecteer **[!UICONTROL Add]** in de werkbalk. Kies in het dialoogvenster Voorinstelling viewer toevoegen een platform en viewer in de respectievelijke vervolgkeuzelijsten en selecteer **[!UICONTROL Add]**.
+   * **Toevoegen**: Select **[!UICONTROL Add]** in de werkbalk. Kies in het dialoogvenster Voorinstelling viewer toevoegen een platform en viewer in de respectievelijke vervolgkeuzelijsten en selecteer **[!UICONTROL Add]**.
 
    Zie ook [Viewer-voorinstellingen toevoegen en bewerken](application-setup.md#adding_and_editing_viewer_presets).
 
-   * **Toevoegen door te beginnen met een bestaande viewervoorinstelling** - Selecteer in de tabel een voorinstelling voor de video-viewer en selecteer **[!UICONTROL Edit]** in de werkbalk.
+   * **Toevoegen door te beginnen met een bestaande viewervoorinstelling**: Selecteer in de tabel een voorinstelling voor de video-viewer en selecteer **[!UICONTROL Edit]** in de werkbalk.
 
    Nadat u de VideoKijker opnieuw vormt, selecteer **[!UICONTROL Save As]** om de voorinstelling op te slaan onder een andere naam in het tekstveld Naam voorinstelling.
 
-   * **Bewerken** - Selecteer een voorinstelling voor de video-viewer en selecteer **[!UICONTROL Edit]**.
+   * **Bewerken**: Selecteer een voorinstelling voor de video-viewer en selecteer **[!UICONTROL Edit]**.
 
 1. In de `Configure Viewer` op het veld Naam voorinstelling typt of bewerkt u de naam van de voorinstelling.
 1. Stel de overige gewenste opties in.

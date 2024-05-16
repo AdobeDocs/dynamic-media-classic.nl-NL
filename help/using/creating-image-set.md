@@ -10,7 +10,7 @@ role: User
 exl-id: c18bb98c-b087-45d0-a4c9-44f58a3b514f
 topic: Content Management
 level: Intermediate
-source-git-commit: edd893482cbafd9674a44cf9878b8ee3079d98f7
+source-git-commit: bc3b696bfde0ed55894cdcbf3533299ae7697e98
 workflow-type: tm+mt
 source-wordcount: '643'
 ht-degree: 0%
@@ -47,9 +47,9 @@ Zie ook [Dynamic Media-beperkingen](/help/using/limitations.md).
 
 1. Voer een van de volgende handelingen uit:
 
-   * **Selecteer eerst de afbeeldingen** - Selecteer in het deelvenster Bladeren de afbeeldingen die u wilt instellen als afbeeldingsset, ga naar **[!UICONTROL Build]** > **[!UICONTROL Image Sets]**.
+   * **Selecteer eerst de afbeeldingen**: Selecteer in het deelvenster Bladeren de afbeeldingen die u als afbeeldingsset wilt gebruiken, ga naar **[!UICONTROL Build]** > **[!UICONTROL Image Sets]**.
 
-   * **Begin van het Vastgestelde scherm van het Beeld** - Ga naar **[!UICONTROL Build]** > **[!UICONTROL Image Sets]**. Het scherm Afbeeldingsset wordt geopend. Selecteer een map in de elementenbibliotheek en sleep de afbeeldingen die u voor de afbeeldingsset wilt instellen naar het scherm Afbeeldingsset.
+   * **Begin van het Vastgestelde scherm van het Beeld**: Ga naar **[!UICONTROL Build]** > **[!UICONTROL Image Sets]**. Het scherm Afbeeldingsset wordt geopend. Selecteer een map in de elementenbibliotheek en sleep de afbeeldingen die u voor de afbeeldingsset wilt instellen naar het scherm Afbeeldingsset.
 
 1. Als u de volgorde van de afbeeldingen wilt wijzigen, sleept u de afbeeldingen naar nieuwe locaties.
 1. Zorg ervoor dat rechts onder op de pagina de volgende informatie wordt weergegeven: **[!UICONTROL Publish after save]** is geselecteerd (standaard).

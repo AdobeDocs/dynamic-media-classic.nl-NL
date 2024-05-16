@@ -10,7 +10,7 @@ role: User
 exl-id: 2d9fc6d8-973f-4aaa-bc2c-b49cda2cde58
 topic: Administration, Content Management
 level: Intermediate
-source-git-commit: 163eb32112ec6fbefd1dacf48212353ff3053d54
+source-git-commit: bc3b696bfde0ed55894cdcbf3533299ae7697e98
 workflow-type: tm+mt
 source-wordcount: '1169'
 ht-degree: 0%
@@ -34,17 +34,17 @@ Deze opties zijn beschikbaar op de pagina Uploaden onder de **[!UICONTROL Imagin
 
 U kunt pixels in witruimte automatisch uitsnijden in een afbeelding. Selecteer in het dialoogvenster Opties voor uploaden de optie **[!UICONTROL Crop Options]**. In de **[!UICONTROL Crop]** vervolgkeuzelijst kiest u **[!UICONTROL Trim]**. Kies vervolgens de volgende opties:
 
-* **[!UICONTROL Trim Away Based On]** - Kies in deze vervolgkeuzelijst of u wilt uitsnijden op basis van kleur of transparantie:
+* **[!UICONTROL Trim Away Based On]**: Kies in deze vervolgkeuzelijst of u wilt uitsnijden op basis van kleur of transparantie:
 
-   * **[!UICONTROL Color]** - Kies de **[!UICONTROL Color]** -optie. Dan, van **[!UICONTROL Corner]** Selecteer in de vervolgkeuzelijst de hoek van de afbeelding met de kleur die het beste overeenkomt met de kleur voor de witruimte die u wilt uitsnijden.
+   * **[!UICONTROL Color]**: Kies de optie **[!UICONTROL Color]** -optie. Dan, van **[!UICONTROL Corner]** Selecteer in de vervolgkeuzelijst de hoek van de afbeelding met de kleur die het beste overeenkomt met de kleur voor de witruimte die u wilt uitsnijden.
 
-   * **[!UICONTROL Transparency]** - Kies de optie Transparantie.
+   * **[!UICONTROL Transparency]**: Kies de optie Transparantie.
 
-* **[!UICONTROL Tolerance]** - Sleep de schuifregelaar om een tolerantie tussen 0 en 1 op te geven:
+* **[!UICONTROL Tolerance]**: Sleep de schuifregelaar om een tolerantie tussen 0 en 1 op te geven:
 
-   * **Bijsnijden op basis van kleur** - Geef 0 op om alleen pixels bij te snijden als deze exact overeenkomen met de kleur die u in de hoek van de afbeelding hebt geselecteerd. De aantallen dichter aan 1 staan voor meer kleurenverschil toe.
+   * **Bijsnijden op basis van kleur**: Geef 0 op om alleen pixels bij te snijden als deze exact overeenkomen met de kleur die u in de hoek van de afbeelding hebt geselecteerd. De aantallen dichter aan 1 staan voor meer kleurenverschil toe.
 
-   * **Bijsnijden op basis van transparantie** - Geef 0 op om alleen pixels bij te snijden als deze transparant zijn; bij een waarde dichter bij 1 is meer transparantie mogelijk.
+   * **Bijsnijden op basis van transparantie**: Geef 0 op om alleen pixels bij te snijden als deze transparant zijn. Voor meer transparantie is een getal dichter bij 1 toegestaan.
 
 ## Handmatig uitsnijden vanaf de zijkanten van afbeeldingen
 
@@ -54,11 +54,11 @@ Als u handmatig wilt uitsnijden aan weerszijden van een afbeelding, selecteert u
 
 Als u een kleurruimte voor de afbeelding wilt selecteren, kiest u een optie voor Kleurprofiel:
 
-* **[!UICONTROL Convert To sRGB]** - Zet om in sRGB (standaard rood-groen blauw). sRGB is de aanbevolen kleurruimte voor het weergeven van afbeeldingen op webpagina&#39;s.
+* **[!UICONTROL Convert To sRGB]**: zet om in sRGB (standaard rood-groen-blauw). sRGB is de aanbevolen kleurruimte voor het weergeven van afbeeldingen op webpagina&#39;s.
 
-* **[!UICONTROL Keep Original Color Space]** - Behoudt de oorspronkelijke kleurruimte.
+* **[!UICONTROL Keep Original Color Space]**: Behoudt de oorspronkelijke kleurruimte.
 
-* **[!UICONTROL Custom From]** > **[!UICONTROL To]** - Hiermee opent u menu&#39;s, zodat u een optie kunt kiezen voor Omzetten van en Omzetten in kleurruimte. U kunt een standaard Photoshop-kleurruimte kiezen of een kleurruimte die u naar Adobe Dynamic Media Classic hebt geüpload.
+* **[!UICONTROL Custom From]** > **[!UICONTROL To]**: Hiermee opent u menu&#39;s, zodat u een optie kunt kiezen voor Omzetten van en Omzetten in kleurruimte. U kunt een standaard Photoshop-kleurruimte kiezen of een kleurruimte die u naar Adobe Dynamic Media Classic hebt geüpload.
 
 Zie [ICC-profielen](icc-profiles.md#icc_profiles).
 
@@ -93,7 +93,7 @@ Gebruik Achtergrond uitnemen zodat u de achtergrond van een afbeelding automatis
 | --- | --- |
 | Achtergrond uitnemen | Selecteer deze optie om de functie Achtergrond uitnemen en opties in te schakelen of in te schakelen. |
 | Hoek | Vereist.<br>De hoek van de afbeelding die wordt gebruikt om de achtergrondkleur voor uitnemen te definiëren.<br>U kunt kiezen uit <b>Linksboven, Linksonder, Rechtsboven of Rechtsonder</b>. |
-| Vulmethode | Vereist. <br>Hiermee regelt u de pixeltransparantie vanaf de locatie Hoek die u instelt.<br>U kunt kiezen uit de volgende vulmethoden:<br>・ <b>Flood Fill</b> - Hiermee worden alle pixels transparant gemaakt die overeenkomen met de hoek die u hebt opgegeven en waarop u bent aangesloten.<br>・ <b>Pixel afstemmen</b> - hiermee worden alle overeenkomende pixels transparant gemaakt, ongeacht de locatie van de pixels op de afbeelding. |
+| Vulmethode | Vereist. <br>Hiermee regelt u de pixeltransparantie vanaf de locatie Hoek die u instelt.<br>U kunt kiezen uit de volgende vulmethoden:<br>・ <b>Flood Fill</b>: hiermee worden alle pixels transparant gemaakt die overeenkomen met de hoek die u hebt opgegeven en waarop u een verbinding hebt gemaakt.<br>・ <b>Pixel afstemmen</b>: hiermee worden alle overeenkomende pixels transparant gemaakt, ongeacht de locatie van de pixels op de afbeelding. |
 | Tolerantie | Optioneel.<br>Hiermee bepaalt u de toegestane hoeveelheid variatie in de overeenkomende pixelkleur op basis van de locatie van de hoek die u instelt.<br>Gebruik een waarde van 0,0 om de pixelkleuren exact overeen te laten komen. Of gebruik een waarde van 1,0 om de grootste variatie mogelijk te maken. |
 
 >[!MORELIKETHIS]

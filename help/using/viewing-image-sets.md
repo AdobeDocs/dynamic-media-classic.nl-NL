@@ -10,7 +10,7 @@ role: User
 exl-id: c8d742a4-a1a1-4b5f-bcfd-6a1972edf9bc
 topic: Content Management
 level: Intermediate
-source-git-commit: edd893482cbafd9674a44cf9878b8ee3079d98f7
+source-git-commit: bc3b696bfde0ed55894cdcbf3533299ae7697e98
 workflow-type: tm+mt
 source-wordcount: '464'
 ht-degree: 0%
@@ -30,9 +30,9 @@ U kunt Viewer-voorinstellingen maken en aanpassen aan uw wensen.
 1. Ga op de algemene navigatiebalk naar **[!UICONTROL Setup]** > **[!UICONTROL Viewer Presets]**.
 1. U kunt als volgt een voorinstelling voor viewers maken of bewerken op de pagina Voorinstellingen viewer:
 
-   * **Maken** - Selecteer **[!UICONTROL Add]**. Kies in het dialoogvenster Voorinstelling viewer toevoegen in de vervolgkeuzelijst Viewer de optie **[!UICONTROL Zoom Viewer]** en selecteer vervolgens **[!UICONTROL Add]**. U kunt ook een voorinstelling voor een zoomviewer maken door te beginnen met een bestaande voorinstelling. Geef de naam van de voorinstelling weer, selecteer deze en selecteer vervolgens **[!UICONTROL Edit]**. Op de `Configure Viewer` voert u een nieuwe naam in voor de voorinstelling.
+   * **Maken**: Select **[!UICONTROL Add]**. Kies in het dialoogvenster Voorinstelling viewer toevoegen in de vervolgkeuzelijst Viewer de optie **[!UICONTROL Zoom Viewer]** en selecteer vervolgens **[!UICONTROL Add]**. U kunt ook een voorinstelling voor een zoomviewer maken door te beginnen met een bestaande voorinstelling. Geef de naam van de voorinstelling weer, selecteer deze en selecteer vervolgens **[!UICONTROL Edit]**. Op de `Configure Viewer` voert u een nieuwe naam in voor de voorinstelling.
 
-   * **Bewerken** - Geef de naam van een voorinstelling weer, selecteer deze en selecteer **[!UICONTROL Edit]**.
+   * **Bewerken**: Geef de naam van een voorinstelling weer, selecteer deze en selecteer **[!UICONTROL Edit]**.
 
 1. Op de `Configure Viewer` op het tekstveld Naam voorinstelling typt u een naam voor de voorinstelling Staalset voor viewer.
 1. Kies opties in het dialoogvenster `Configure Viewer` pagina.

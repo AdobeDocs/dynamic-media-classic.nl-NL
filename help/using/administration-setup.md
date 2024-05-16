@@ -9,7 +9,7 @@ role: Admin
 exl-id: 14e3d8be-f265-4cec-aa8e-19ef71526b68
 topic: Administration
 level: Intermediate
-source-git-commit: f054057d383b26e9088582f418f62504c3f327d8
+source-git-commit: bc3b696bfde0ed55894cdcbf3533299ae7697e98
 workflow-type: tm+mt
 source-wordcount: '1847'
 ht-degree: 0%
@@ -101,15 +101,15 @@ U kunt de gebruikerslijst filteren en sorteren om van gebruikers de plaats te be
 
 U kunt de volgende gebruikerslijst-filtrerende technieken gebruiken:
 
-* **Filteren op groep** - Selecteer de **[!UICONTROL By Group]** en kiest u een optie om de lijst te beperken tot gebruikers in een groep.
+* **Filteren op groep**: Selecteer de **[!UICONTROL By Group]** en kiest u een optie om de lijst te beperken tot gebruikers in een groep.
 
-* **Filteren op gebruikersrol** - Selecteer de **[!UICONTROL By User Role]** en kiest u een optie om de lijst te beperken tot gebruikers of beheerders van verschillende typen.
+* **Filteren op gebruikersrol**: Selecteer de **[!UICONTROL By User Role]** en kiest u een optie om de lijst te beperken tot gebruikers of beheerders van verschillende typen.
 
-* **Filteren op veldnaam** - Selecteer **[!UICONTROL Enable Filter By Field]**. Selecteer vervolgens de optie **[!UICONTROL By Field Name]** kiest u een kolom voor het filteren van de lijst, selecteert u het menu Filterteken en kiest u een letter. De lijst wordt op een van de kolommen gefilterd met de letter die u hebt gekozen. Als u de volledige lijst wilt weergeven, schakelt u de optie **[!UICONTROL Enable Filter By Field]** -optie.
+* **Filteren op veldnaam**: Select **[!UICONTROL Enable Filter By Field]**. Selecteer vervolgens de optie **[!UICONTROL By Field Name]** kiest u een kolom voor het filteren van de lijst, selecteert u het menu Filterteken en kiest u een letter. De lijst wordt op een van de kolommen gefilterd met de letter die u hebt gekozen. Als u de volledige lijst wilt weergeven, schakelt u de optie **[!UICONTROL Enable Filter By Field]** -optie.
 
-* **Ongeldige gebruikers filteren** - Selectie opheffen **[!UICONTROL Include Invalid]**. In de zoekresultaten worden alleen gebruikers weergegeven die zich in het systeem bevinden. Ongeldige gebruikers zijn verwijderd uit het systeem en de accounts die u beheert.
+* **Ongeldige gebruikers filteren**: Deselecteren **[!UICONTROL Include Invalid]**. In de zoekresultaten worden alleen gebruikers weergegeven die zich in het systeem bevinden. Ongeldige gebruikers zijn verwijderd uit het systeem en de accounts die u beheert.
 
-* **Sorteren op kolomkop** - Selecteer een kop om alle gebruikers te sorteren op hun status, alfabetisch op voornaam, achternaam of e-mail, op gebruikersrol of op geldige/ongeldige status.
+* **Sorteren op kolomkop**: Selecteer een kop om alle gebruikers te sorteren op hun status, alfabetisch op voornaam, achternaam of e-mail, op gebruikersrol of op geldige/ongeldige status.
 
 Als u veel gebruikers hebt, kunt u de grootte van de lijst beperken door het menu Maximale lijstgrootte te selecteren en een aantal te kiezen.
 
@@ -162,17 +162,17 @@ In de volgende tabel worden de rapporten beschreven die u kunt genereren op de p
 
 Het rapport Inhoud afbeelding biedt informatie over verzoeken om de volgende afbeeldingstypen:
 
-* **Verzoek om afbeelding** - Verzoeken om afbeeldingen.
+* **Verzoek om afbeelding**: Verzoeken om afbeeldingen.
 
-* **Aanvraag miniatuur** - Verzoeken om stalen of alternatieve afbeeldingen in viewers.
+* **Aanvraag miniatuur**: Verzoeken om stalen of alternatieve afbeeldingen in viewers.
 
-* **Maskeraanvraag** - Verzoeken om afbeeldingen met grijswaardenmaskers.
+* **Maskeraanvraag**: Verzoeken om afbeeldingen die grijswaardenmaskers retourneren.
 
-* **Tegelaanvraag viewer** - Afbeeldingsverzoeken die door een viewer zijn geladen.
+* **Tegelaanvraag viewer**: Afbeeldingsverzoeken die door een viewer zijn geladen.
 
-* **Vnt Object Request** - Voor het renderen van afbeeldingen moet een afbeelding met opgegeven objecten in de gevraagde vignetten worden geretourneerd.
+* **Vnt Object Request**: Bij het renderen van afbeeldingen wordt een afbeelding met opgegeven objecten in de gevraagde vignetten geretourneerd.
 
-* **Verzoek om informatie over lettertype** - Voor het renderen van afbeeldingen moet informatie over de gevraagde vignetten worden geretourneerd.
+* **Verzoek om informatie over lettertype**: Voor het renderen van afbeeldingen wordt informatie over de gevraagde vignetten geretourneerd.
 
 >[!NOTE]
 >
@@ -192,27 +192,27 @@ Een rapport over bandbreedte, opslag, afbeeldingsinhoud, domein, videostreaming 
 
 Nadat u een rapport hebt gegenereerd op de pagina Bandbreedte en opslag, kunt u opties kiezen voor het weergeven van informatie. U kunt kiezen hoe informatie wordt voorgesteld, informatie in een grafiek of gegevensnet bekijken, en een tijdspanne specificeren voor het vangen van informatie. In de weergave Gegevens kunt u ook gegevens sorteren en kolommen opnieuw rangschikken.
 
-* **Gegevens weergeven in een diagram of gegevensraster** - Selecteer **[!UICONTROL Chart View]** om gegevens in een grafiek te zien; selecteer **[!UICONTROL Data View]** om gegevens in een gegevensraster weer te geven.
+* **Gegevens weergeven in een diagram of gegevensraster**: Select **[!UICONTROL Chart View]** om gegevens in een grafiek te zien; selecteer **[!UICONTROL Data View]** om gegevens in een gegevensraster weer te geven.
 
-* **Kies een presentatietype voor een rapport** - Selecteer in het menu Type rapport de optie **[!UICONTROL Summary]**, **[!UICONTROL Daily]**, of **[!UICONTROL Monthly]** om gegevens in summiere vorm, door dag, of door maand te organiseren. Niet alle rapporten verstrekken deze optie.
+* **Kies een presentatietype voor een rapport**: Selecteer in het menu Type rapport de optie **[!UICONTROL Summary]**, **[!UICONTROL Daily]**, of **[!UICONTROL Monthly]** om gegevens in summiere vorm, door dag, of door maand te organiseren. Niet alle rapporten verstrekken deze optie.
 
-* **Een tijdsperiode opgeven** - Kies opties om een tijdsperiode voor uw rapport te definiëren en selecteer **[!UICONTROL Update]** nadat u een tijdsperiode hebt gedefinieerd:
+* **Een tijdsperiode opgeven**: Kies opties om een tijdsperiode voor uw rapport te definiëren en selecteer **[!UICONTROL Update]** nadat u een tijdsperiode hebt gedefinieerd:
 
-* **Vooraf gedefinieerde tijdsperiode** - Kies een optie in het menu Vooraf gedefinieerd rapport. Kies bijvoorbeeld Vorige maand om gegevens van de vorige maand vast te leggen.
+* **Vooraf gedefinieerde tijdsperiode**: Kies een optie in het menu Vooraf gedefinieerd rapport. Kies bijvoorbeeld Vorige maand om gegevens van de vorige maand vast te leggen.
 
-* **Aangepaste tijdsperiode** - Selecteer in het menu Vooraf gedefinieerd rapport de optie **[!UICONTROL Custom]**. Kies vervolgens een datum op het tabblad **[!UICONTROL Start Month]** (of **[!UICONTROL Start Date]**) en een datum in het menu # van maanden (of # of dagen). Voor de Rapporten van de Inhoud van het Domein en Video, kunt u een specifieke begin en einddatum kiezen voor het vangen van rapportinformatie.
+* **Aangepaste tijdsperiode**: Selecteer in het menu Vooraf gedefinieerd rapport de optie **[!UICONTROL Custom]**. Kies vervolgens een datum op het tabblad **[!UICONTROL Start Month]** (of **[!UICONTROL Start Date]**) en een datum in het menu # van maanden (of # of dagen). Voor de Rapporten van de Inhoud van het Domein en Video, kunt u een specifieke begin en einddatum kiezen voor het vangen van rapportinformatie.
 
-* **Gegevens sorteren (alleen in de weergave Gegevens)** - Als u de gegevens in een kolom wilt sorteren, selecteert u de kop van de kolom. Selecteer nogmaals om in aflopende volgorde te sorteren.
+* **Gegevens sorteren (alleen in de weergave Gegevens)**: Als u informatie over een kolom wilt sorteren, selecteert u de kop van de kolom. Selecteer nogmaals om in aflopende volgorde te sorteren.
 
-* **Kolommen opnieuw rangschikken (alleen in de gegevensweergave)** - Als u een kolom naar een andere locatie op het gegevensraster wilt verplaatsen, sleept u de kop.
+* **Kolommen opnieuw rangschikken (alleen in de gegevensweergave)**: Als u een kolom naar een andere locatie op het gegevensraster wilt verplaatsen, sleept u de kop.
 
 ### Rapporten exporteren en afdrukken {#exporting-and-printing-reports}
 
 Nadat u een rapport hebt gegenereerd, kunt u de gegevens exporteren voor gebruik in spreadsheets en andere toepassingen. U kunt ook rapporten afdrukken.
 
-* **Rapportgegevens exporteren** - In de weergave Gegevens sorteert u de gegevens en rangschikt u deze zo nodig. Open vervolgens het dialoogvenster **[!UICONTROL Export]** en kiest u een indeling: **[!UICONTROL Tab Delimited]**, **[!UICONTROL Comma Separated]**, of **[!UICONTROL HTML Formatted]**. De gegevens worden naar het klembord gekopieerd in de indeling die u hebt gekozen. U kunt de gegevens nu in een spreadsheet of een toepassing plakken.
+* **Rapportgegevens exporteren**: In de weergave Gegevens sorteert u de gegevens en rangschikt u deze zo nodig. Open vervolgens het dialoogvenster **[!UICONTROL Export]** en kiest u een indeling: **[!UICONTROL Tab Delimited]**, **[!UICONTROL Comma Separated]**, of **[!UICONTROL HTML Formatted]**. De gegevens worden naar het klembord gekopieerd in de indeling die u hebt gekozen. U kunt de gegevens nu in een spreadsheet of een toepassing plakken.
 
-* **Een rapport afdrukken** - Selecteer **[!UICONTROL Print]** kiest u de gewenste opties in het dialoogvenster Afdrukken en selecteert u vervolgens **[!UICONTROL OK]**.
+* **Een rapport afdrukken**: Select **[!UICONTROL Print]** kiest u de gewenste opties in het dialoogvenster Afdrukken en selecteert u vervolgens **[!UICONTROL OK]**.
 
 ## Afbeeldingsfouten {#image-errors}
 
@@ -224,22 +224,22 @@ Adobe Dynamic Media Classic-beheerders kunnen rapporten met afbeeldingsfouten ge
 
    * Als u fouten wilt sorteren op de koptekstgegevens, selecteert u een kop. Standaard worden fouten gesorteerd op aantal exemplaren, hoogste op laagste.
    * Beweeg de curseur over het gebied van de Reactie voor een fout om het specifieke foutenbericht te zien.
-   * Als u de koppeling naar de afbeelding of de verwijzingswebpagina wilt zien, plaatst u de cursor boven het URL-veld of het veld Referenter.
+   * Als u de koppeling naar de afbeelding of de verwijzende webpagina wilt zien, plaatst u de cursor boven het URL-veld of het veld Referenter.
    * Selecteer **[!UICONTROL URL Copy URL]**. U kunt deze koppeling in een browservenster plakken om naar de afbeelding te gaan en de fout te onderzoeken.
-   * Selecteer **[!UICONTROL Referrer Copy URL]**.
+   * Als u de koppeling naar de verwijzende webpagina wilt kopiëren, selecteert u **[!UICONTROL Referrer Copy URL]**.
 
 De getoonde fouten zijn voor het bedrijf u momenteel het programma wordt geopend aan. Elke fout bevat de volgende informatie:
 
-* **Afbeelding-id** - ID voor de desbetreffende afbeelding.
+* **Afbeelding-id**: ID voor de desbetreffende afbeelding.
 
-* **Tijd** - Het tijdbereik van de eerste keer dat de fout werd gerapporteerd tot de laatste keer dat de fout werd gemeld, in de laatste 24 uur.
+* **Tijd**: Het tijdbereik van de eerste keer dat de fout werd gerapporteerd tot de laatste keer dat de fout werd gemeld, binnen de laatste 24 uur.
 
-* **Aantal** - Het aantal fouten dat in de afbeelding wordt gemeld.
+* **Aantal**: Het aantal fouten dat in de afbeelding wordt gerapporteerd.
 
-* **Antwoord** - Het specifieke foutbericht. Fouten zijn 4xx of 5xx.
+* **Antwoord**: Het specifieke foutbericht. Fouten zijn 4xx of 5xx.
 
-* **URL&#39;s** - Hiermee geeft u de URL weer naar de afbeelding op Adobe Dynamic Media Classic.
+* **URL&#39;s**: geeft de URL weer naar de afbeelding op Adobe Dynamic Media Classic.
 
-* **Referenter** - Hier geeft u de URL op voor de website waar de oorspronkelijke aanvraag vandaan komt. De referentie kan elke website zijn die een koppeling naar de afbeelding heeft.
+* **Referenter**: Hiermee geeft u de URL op voor de website waar de oorspronkelijke aanvraag vandaan komt. De verwijzer kan om het even welke Website zijn die een verbinding aan het beeld heeft.
 
 Aan de kolommen URL en Referrer is een kopie-URL gekoppeld om het testen te vereenvoudigen.

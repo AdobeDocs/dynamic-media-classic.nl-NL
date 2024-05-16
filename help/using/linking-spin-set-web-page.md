@@ -1,6 +1,6 @@
 ---
 title: Een centrifugeerset koppelen aan een webpagina
-description: Leer hoe u een centrifugeset koppelt aan een webpagina in Adobe Dynamic Media Classic.
+description: Leer hoe u een centrifugeerset koppelt aan een webpagina in Adobe Dynamic Media Classic.
 contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
@@ -10,7 +10,7 @@ role: User
 exl-id: af75547e-20e8-44c2-b165-01532d6e21d0
 topic: Content Management
 level: Intermediate
-source-git-commit: 914fde11270dc731a261da3305b29dd573584d93
+source-git-commit: bc3b696bfde0ed55894cdcbf3533299ae7697e98
 workflow-type: tm+mt
 source-wordcount: '661'
 ht-degree: 0%
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # Een centrifugeerset koppelen aan een webpagina{#linking-a-spin-set-to-a-web-page}
 
-Websites en toepassingen hebben via URL-tekenreeksen of ingesloten code toegang tot Dynamic Media Image Server-inhoud, waaronder Spin Sets. Deze URL-tekenreeksen worden geactiveerd tijdens het publicatieproces. Als u de URL-tekenreeks of de insluitcode voor de desbetreffende centrifugeset op uw webpagina&#39;s en toepassingen wilt plaatsen, kopieert u deze vanuit Adobe Dynamic Media Classic.
+Websites en toepassingen hebben via URL-tekenreeksen of ingesloten code toegang tot Dynamic Media Image Server-inhoud, waaronder Spin Sets. Deze URL-tekenreeksen worden geactiveerd tijdens het publicatieproces. Als u de URL-tekenreeks of de insluitcode voor de centrifugeset wilt plaatsen in uw webpagina&#39;s en toepassingen, kopieert u deze vanuit Adobe Dynamic Media Classic.
 
 >[!NOTE]
 >
@@ -56,7 +56,7 @@ In dit URL-syntaxisvoorbeeld (de koppeling is niet live) ziet u een SKU-nummer (
 
 ## De insluitcode van een viewer voor een centrifugeset kopiëren {#copying-the-embed-code-of-a-spin-set-viewer}
 
-Met de functie Code insluiten kunt u de viewercode voor de geselecteerde centrifugeset controleren. U kunt de code ook naar het klembord kopiëren, zodat u de code op uw webpagina&#39;s kunt plakken en de viewer kunt implementeren. U mag de code niet bewerken in het dialoogvenster Code insluiten.
+Met de functie Code insluiten kunt u de viewercode voor de geselecteerde centrifugeset controleren. U kunt de code aan het klembord ook kopiëren zodat kunt u het in uw Web-pagina&#39;s voor plaatsing van de kijker kleven. U mag de code niet bewerken in het dialoogvenster Code insluiten.
 
 **U kopieert de insluitcode van een viewer voor een centrifuge-set:**
 

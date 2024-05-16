@@ -10,7 +10,7 @@ role: User
 exl-id: b6b11e1c-5eda-4bdb-8ffb-ecd3678f2352
 topic: Administration, Content Management
 level: Intermediate
-source-git-commit: f054057d383b26e9088582f418f62504c3f327d8
+source-git-commit: bc3b696bfde0ed55894cdcbf3533299ae7697e98
 workflow-type: tm+mt
 source-wordcount: '1559'
 ht-degree: 0%
@@ -33,25 +33,25 @@ Selecteren **[!UICONTROL Jobs]** op de globale bar van de Navigatie zodat opent 
 
 Taken worden in de volgende categorieën op het tabblad Historie van de pagina Taken vermeld:
 
-* **[!UICONTROL Job Type]** - Een pictogram geeft het taaktype aan: Uploaden en publiceren zijn de meest voorkomende taaktypen.
+* **[!UICONTROL Job Type]**: Een pictogram geeft het taaktype aan: Uploaden en publiceren zijn de meestgebruikte taaktypen.
 
-* **[!UICONTROL Job Name]** - De naam van de taak. De naam bevat het door de gebruiker ingevoerde gedeelte van de naam en de datum en tijd.
+* **[!UICONTROL Job Name]**: De naam van de taak. De naam bevat het door de gebruiker ingevoerde gedeelte van de naam en de datum en tijd.
 
-* **[!UICONTROL Started]** - Wanneer de taak is gestart.
+* **[!UICONTROL Started]**: Wanneer de taak is gestart.
 
-* **[!UICONTROL Total]** - Het aantal overgedragen bestanden.
+* **[!UICONTROL Total]**: Het aantal overgedragen bestanden.
 
-* **[!UICONTROL W (warnings)]** - Het aantal waarschuwingen in de taak (indien aanwezig). Waarschuwingen geven problemen aan met de taak die geen invloed hadden op de algehele voltooiing van de taak. Deze waarschuwingen kunnen meestal worden genegeerd omdat ze worden gerapporteerd over verborgen bestanden. Bijvoorbeeld: `.DS_store` bestanden (Mac) en bestanden Thumbs.db (Windows®) bevatten informatie over het weergeven van afbeeldingsbestanden voor gebruikers. Waarschuwingsgegevens met betrekking tot deze bestanden kunnen echter worden genegeerd omdat ze geen betrekking hebben op de manier waarop deze bestanden in Adobe Dynamic Media Classic worden gebruikt. U kunt dubbelklikken op een taaknaam voor gedetailleerde informatie over waarschuwingen.
+* **[!UICONTROL W (warnings)]**: Het aantal waarschuwingen in de taak (indien aanwezig). Waarschuwingen geven problemen aan met de taak die geen invloed hadden op de algehele voltooiing van de taak. Deze waarschuwingen kunnen meestal worden genegeerd omdat ze worden gerapporteerd over verborgen bestanden. Bijvoorbeeld: `.DS_store` bestanden (Mac) en bestanden Thumbs.db (Windows®) bevatten informatie over het weergeven van afbeeldingsbestanden voor gebruikers. Waarschuwingsgegevens met betrekking tot deze bestanden kunnen echter worden genegeerd omdat ze geen betrekking hebben op de manier waarop deze bestanden in Adobe Dynamic Media Classic worden gebruikt. U kunt dubbelklikken op een taaknaam voor gedetailleerde informatie over waarschuwingen.
 
-* **[!UICONTROL E (errors)]** - Hier wordt het aantal eventuele fouten in de taak weergegeven. U kunt dubbelklikken op een taaknaam voor gedetailleerde informatie over fouten.
+* **[!UICONTROL E (errors)]**: geeft het aantal fouten in de taak weer (indien aanwezig). U kunt dubbelklikken op een taaknaam voor gedetailleerde informatie over fouten.
 
-* **[!UICONTROL Duration]** - Hoe lang duurde het om de taak te voltooien.
+* **[!UICONTROL Duration]**: Hoe lang duurde het om de baan te voltooien.
 
-* **[!UICONTROL Status]** - Geeft de status van de taak weer.
+* **[!UICONTROL Status]**: geeft de status van de taak weer.
 
-* **[!UICONTROL Destination]** - Voor uploadtaken: de bedrijfsnaam en de map waarnaar de bestanden zijn geüpload. Deze categorie is niet van toepassing op publicatietaken.
+* **[!UICONTROL Destination]**: Voor uploadtaken: de bedrijfsnaam en de map waarnaar de bestanden zijn geüpload. Deze categorie is niet van toepassing op publicatietaken.
 
-* **[!UICONTROL Submitted By]** - Lijsten die de elementen uploadden.
+* **[!UICONTROL Submitted By]**: Lijsten die de elementen hebben geüpload.
 
 >[!NOTE]
 >
@@ -61,13 +61,13 @@ Taken worden in de volgende categorieën op het tabblad Historie van de pagina T
 
 Gebruik deze technieken om taken te sorteren of uw weergave van het tabblad Historie van de pagina Taken te wijzigen:
 
-* **[!UICONTROL Sorting]** - Selecteer een kolomnaam om de lijst op een bepaalde kolom te sorteren. U kunt de schakelaar naast de kolomnaam selecteren om in dalende of stijgende orde te sorteren.
+* **[!UICONTROL Sorting]**: Selecteer een kolomnaam om de lijst op een bepaalde kolom te sorteren. U kunt de schakelaar naast de kolomnaam selecteren om in dalende of stijgende orde te sorteren.
 
-* **[!UICONTROL Date Range]** - Selecteer de **[!UICONTROL Date Range]** en kiest u een optie om de lijst met taken te beperken tot de huidige datum, vorige week of vorige maand. Selecteren **[!UICONTROL Custom Date Range]** Voer vervolgens een specifiek datumbereik in.
+* **[!UICONTROL Date Range]**: Selecteer de **[!UICONTROL Date Range]** en kiest u een optie om de lijst met taken te beperken tot de huidige datum, vorige week of vorige maand. Selecteren **[!UICONTROL Custom Date Range]** Voer vervolgens een specifiek datumbereik in.
 
-* **[!UICONTROL Job Type]** - Selecteer de **[!UICONTROL Job Type]** en kiest u **[!UICONTROL Publish]** of **[!UICONTROL Upload]** om de lijst te beperken voor het publiceren van taken of het uploaden van taken. Selecteren **[!UICONTROL All]** om beide soorten banen te zien.
+* **[!UICONTROL Job Type]**: Selecteer de **[!UICONTROL Job Type]** en kiest u **[!UICONTROL Publish]** of **[!UICONTROL Upload]** om de lijst te beperken voor het publiceren van taken of het uploaden van taken. Selecteren **[!UICONTROL All]** om beide soorten banen te zien.
 
-* **[!UICONTROL Show]** - Ga naar **[!UICONTROL Show]** > **[!UICONTROL My Jobs]** of **[!UICONTROL Show]** > **[!UICONTROL All Jobs]** om de lijst te beperken tot banen u bestelde of banen die mensen in uw bedrijf bestelde.
+* **[!UICONTROL Show]**: Ga naar **[!UICONTROL Show]** > **[!UICONTROL My Jobs]** of **[!UICONTROL Show]** > **[!UICONTROL All Jobs]** om de lijst te beperken tot banen u bestelde of banen die mensen in uw bedrijf bestelde.
 
 ## Een rapport met taakdetails weergeven of kopiëren of afdrukken {#viewing-copying-or-printing-a-job-details-report}
 
@@ -93,13 +93,13 @@ Selecteer de knoop van Banen op de Globale bar van de Navigatie en, op de pagina
 
 Selecteer een terugkomende baan op de pagina van Banen en volg deze instructies als u het wilt uitgeven of schrappen:
 
-* **Een terugkerende taak bewerken** - Selecteer de **[!UICONTROL Edit]** en voert u planningsgegevens in het dialoogvenster Geplande taak bewerken in. Als u wilt dat de taak opnieuw wordt uitgevoerd met een interval van uw keuze, gaat u naar **[!UICONTROL Repeat]** > **[!UICONTROL Custom]**.
+* **Een terugkerende taak bewerken**: Selecteer de **[!UICONTROL Edit]** en voert u planningsgegevens in het dialoogvenster Geplande taak bewerken in. Als u wilt dat de taak opnieuw wordt uitgevoerd met een interval van uw keuze, gaat u naar **[!UICONTROL Repeat]** > **[!UICONTROL Custom]**.
 
 Zie [Een aangepast tijdinterval voor uploaden of publiceren maken](checking-job-files.md#creating_a_custom_upload_or_publish_job_time_interval).
 
-* **Een terugkerende taak verwijderen** - Selecteer de **[!UICONTROL Delete]** knop.
+* **Een terugkerende taak verwijderen**: Selecteer de **[!UICONTROL Delete]** knop.
 
-* **Herhalende taken onderbreken (en hervatten)** - Schakel in de kolom Actief een selectievakje uit om een taak te pauzeren. Schakel een selectievakje in om een gepauzeerde taak te hervatten.
+* **Herhalende taken onderbreken (en hervatten)**: Schakel in de kolom Actief een selectievakje uit om een taak te pauzeren. Schakel een selectievakje in om een gepauzeerde taak te hervatten.
 
 ### Een aangepast tijdinterval voor uploaden of publiceren maken {#creating-a-custom-upload-or-publish-job-time-interval}
 
@@ -117,13 +117,13 @@ In deze tabel worden de tijdtoename, de toegestane waarden en de jokertekens wee
 
 | Tijdtoenamen | Toegestane waarden | Opmerkingen | Ondersteunde jokertekens |
 |--- |--- |--- |--- |
-| Seconden | 0-59 |  | `, - * /` |
-| Minuten | 0-59 |  | `, - * /` |
-| Uren | 0-23 | Let op het gebruik van een 24-uurs klok. | `, - * /` |
-| Dag van de maand | 1-31 | U kunt geen numerieke waarde opgeven voor zowel &quot;dag van de maand&quot; als &quot;dag van de week&quot;. In een van deze velden moet een `?` jokerteken. | `, - * / ? L C` |
-| Maand | 1-12 of jan, feb, mrt, apr, mei, jun, jul, aug, sep, sept, okt, nov, dec | Waarden zijn hoofdlettergevoelig. | `, - * /` |
-| Dag van de week | Mon, Tue, Wed, Thu, Fri, Zat, Sun | Waarden zijn hoofdlettergevoelig. U kunt geen numerieke waarde opgeven voor zowel &quot;dag van de maand&quot; als &quot;dag van de week&quot;. In een van deze velden moet een `?` jokerteken. | `, - * / ? L C #` |
-| Jaar (optioneel) | Leeg of 1970-2099 |  | `, - * /` |
+| Seconden | 0-59 |  | `,: * /` |
+| Minuten | 0-59 |  | `,: * /` |
+| Uren | 0-23 | Let op het gebruik van een 24-uurs klok. | `,: * /` |
+| Dag van de maand | 1-31 | U kunt geen numerieke waarde opgeven voor zowel &quot;dag van de maand&quot; als &quot;dag van de week&quot;. In een van deze velden moet een `?` jokerteken. | `,: * / ? L C` |
+| Maand | 1-12 of jan, feb, mrt, apr, mei, jun, jul, aug, sep, sept, okt, nov, dec | Waarden zijn hoofdlettergevoelig. | `,: * /` |
+| Dag van de week | Mon, Tue, Wed, Thu, Fri, Zat, Sun | Waarden zijn hoofdlettergevoelig. U kunt geen numerieke waarde opgeven voor zowel &quot;dag van de maand&quot; als &quot;dag van de week&quot;. In een van deze velden moet een `?` jokerteken. | `,: * / ? L C #` |
+| Jaar (optioneel) | Leeg of 1970-2099 |  | `,: * /` |
 
 
 In deze tabel worden de jokertekens beschreven die zijn toegestaan in het vak Regel en hoe u deze kunt gebruiken:

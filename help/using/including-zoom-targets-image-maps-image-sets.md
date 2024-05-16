@@ -10,7 +10,7 @@ role: User
 exl-id: e51fc81e-e5be-4f07-80ad-3aa87d8bc87e
 topic: Content Management
 level: Intermediate
-source-git-commit: 914fde11270dc731a261da3305b29dd573584d93
+source-git-commit: bc3b696bfde0ed55894cdcbf3533299ae7697e98
 workflow-type: tm+mt
 source-wordcount: '165'
 ht-degree: 0%
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # Zoomdoelen en afbeeldingen met hyperlinks opnemen in afbeeldingssets{#including-zoom-targets-and-image-maps-in-image-sets}
 
-Als u zoomdoelen en afbeeldingen met hyperlinks definieert voor de afbeeldingen in de afbeeldingsset, worden deze doelen en afbeeldingen weergegeven in de viewer voor de afbeeldingsset. Gebruikers kunnen bijvoorbeeld een Afbeeldingskaart selecteren in de Afbeeldingsset Viewer en een nieuwe pagina openen op uw website met informatie over een item. Gebruikers kunnen een doelminiatuurafbeelding selecteren in de viewer voor de afbeeldingsset en automatisch inzoomen op een gedeelte van een afbeelding.
+Als u zoomdoelen en afbeeldingen met hyperlinks definieert voor de afbeeldingen in de afbeeldingsset, worden deze doelen en afbeeldingen weergegeven in de viewer voor de afbeeldingsset. De gebruikers, bijvoorbeeld, kunnen een Kaart van het Beeld in de Vastgestelde Kijker van het Beeld selecteren en een nieuwe pagina op uw Website met informatie over een punt openen. Gebruikers kunnen een doelminiatuurafbeelding selecteren in de viewer voor de afbeeldingsset en automatisch inzoomen op een gedeelte van een afbeelding.
 
 Als u zoomdoelen en Afbeeldingen met hyperlinks beschikbaar wilt maken voor gebruikers, maakt u zoomdoelen en Afbeeldingen met hyperlinks voor de afbeeldingen in de afbeeldingsset. U kunt dat doen met de gereedschappen Afbeeldingen met hyperlinks of Zoomdoelen in het scherm Afbeeldingsset of Bladeren in het deelvenster (in de gedetailleerde weergave).
 

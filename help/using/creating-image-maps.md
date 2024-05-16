@@ -10,7 +10,7 @@ role: User
 exl-id: deafbd03-06bc-4d7e-87a1-5620ebcac426
 topic: Content Management
 level: Intermediate
-source-git-commit: edd893482cbafd9674a44cf9878b8ee3079d98f7
+source-git-commit: bc3b696bfde0ed55894cdcbf3533299ae7697e98
 workflow-type: tm+mt
 source-wordcount: '2368'
 ht-degree: 0%
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # Afbeeldingen met hyperlinks maken {#creating-image-maps}
 
-Een afbeelding met hyperlinks is een gebied op een afbeelding, een eCatalog-pagina of een afbeelding in een SpinSet waarin een rollover-deelvenster met tekst wordt weergegeven. Wanneer de gebruiker een Kaart van het Beeld selecteert, wordt een actie van één of andere soort teweeggebracht. Er wordt bijvoorbeeld een webpagina gestart zodat de gebruiker meer over een product kan leren. Er verschijnt een omtrek rond een afbeelding met hyperlinks wanneer de gebruiker de aanwijzer erboven plaatst.
+Een afbeelding met hyperlinks is een gebied op een afbeelding, een eCatalog-pagina of een afbeelding in een SpinSet waarin een rollover-deelvenster met tekst wordt weergegeven. Wanneer de gebruiker een Kaart van het Beeld selecteert, wordt een actie van één of andere soort teweeggebracht. Een webpagina wordt bijvoorbeeld gestart zodat de gebruiker meer over een product kan leren. Er verschijnt een omtrek rond een afbeelding met hyperlinks wanneer de gebruiker de aanwijzer erboven plaatst.
 
 Naast de mogelijkheid om afbeeldingen met hyperlinks te maken in Adobe Dynamic Media Classic, kunt u ook afbeeldingen met hyperlinks maken wanneer u een catalogus ontwerpt in Adobe Acrobat of Adobe InDesign.
 
@@ -147,9 +147,9 @@ Javascript:loadProduct('$$');void(0);
 
 U plaatst alle waarden die niet tussen Afbeeldingen met hyperlinks veranderen in het malplaatje URL. Voeg alleen de waarden toe die wel veranderen in de URL-kolom in de lijst Afbeelding met hyperlinks. Bijvoorbeeld:
 
-* URL-sjabloon - `javascript:loadProduct('https://www.examplesitehere.com/$$');void(0);`
-* URL-waarde - `product.htm`
-* Werkelijke URL gegenereerd - `javascript:loadProduct('https://www.examplesitehere.com/product.html);void(0);`
+* URL-sjabloon: `javascript:loadProduct('https://www.examplesitehere.com/$$');void(0);`
+* URL-waarde: `product.htm`
+* Werkelijke URL gegenereerd: `javascript:loadProduct('https://www.examplesitehere.com/product.html);void(0);`
 
 Standaard bevat de URL-sjabloon een eigen Adobe Dynamic Media Classic JavaScript-handler, genaamd `loadProduct` dat een nieuw venster met de bestemming URL opent. U kunt echter elke JavaScript-code gebruiken om deze JavaScript-handler te vervangen of een van de volgende Adobe Dynamic Media Classic-handlers gebruiken:
 
@@ -177,7 +177,7 @@ De pagina Kaarteditor (afbeeldingen en SpinSets) en het tabblad Kaartpagina&#39;
 
 ## Andere handelingen voor afbeeldingen met hyperlinks definiëren {#defining-other-actions-for-image-maps}
 
-U kunt de **[!UICONTROL Show]** en kiest u **[!UICONTROL Other Actions]** om andere handelingen dan rollover-tekst en het starten van een webpagina te activeren. Wanneer de gebruiker de aanwijzer boven een Afbeeldingskaart plaatst, kunt u een handeling starten. Deze acties zijn attributen die voor cliënt-kant de Kaarten van het Beeld door de specificaties van HTML van het Consortium van World Wide Web worden bepaald. Deze omvatten:
+U kunt de **[!UICONTROL Show]** en kiest u **[!UICONTROL Other Actions]** om andere acties dan het omvergooientekst en Web-pagina lanceringen teweeg te brengen. Wanneer de gebruiker de aanwijzer boven een Afbeeldingskaart plaatst, kunt u een handeling starten. Deze acties zijn attributen die voor cliënt-kant de Kaarten van het Beeld door de specificaties van HTML van het Consortium van World Wide Web worden bepaald. Deze omvatten:
 
 * **`accesskey`**: Triggert een actie wanneer de gebruiker op een bepaalde toets op het toetsenbord drukt.
 

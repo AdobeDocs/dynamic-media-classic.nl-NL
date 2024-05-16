@@ -9,9 +9,9 @@ role: User
 exl-id: 4357e6b8-fbc5-4e93-9476-db92a7dc7464
 topic: Integrations, Development
 level: Experienced
-source-git-commit: 5b5dcd1199bd51ec987b5673fce75bc86baad55b
+source-git-commit: bc3b696bfde0ed55894cdcbf3533299ae7697e98
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '458'
 ht-degree: 0%
 
 ---
@@ -29,9 +29,9 @@ Voer de volgende stappen uit, zodat u een voorinstelling voor een eCatalog-viewe
 1. Ga op de algemene navigatiebalk naar **[!UICONTROL Setup]** > **[!UICONTROL Viewer Presets]**.
 1. Maak in het scherm Voorinstellingen viewer een voorinstelling voor de eCatalog-viewer door een nieuwe voorinstelling te starten of door te beginnen met een bestaande voorinstelling voor de eCatalog-viewer:
 
-   * **Een voorinstelling voor een eCatalog-viewer maken** - Selecteer **[!UICONTROL Add]**. Kies in het dialoogvenster Voorinstelling voor viewer toevoegen een platform, kies eCatalog Viewer en selecteer vervolgens **[!UICONTROL Add]**.
+   * **Een voorinstelling voor een eCatalog-viewer maken**: Select **[!UICONTROL Add]**. Kies in het dialoogvenster Voorinstelling voor viewer toevoegen een platform, kies eCatalog Viewer en selecteer vervolgens **[!UICONTROL Add]**.
 
-   * **Een voorinstelling voor een eCatalog-viewer bewerken** - Selecteer een voorinstelling voor een eCatalog-viewer en selecteer **[!UICONTROL Edit]**. Selecteren **[!UICONTROL Save As]** nadat u de voorinstelling hebt gemaakt.
+   * **Een voorinstelling voor een eCatalog-viewer bewerken**: Selecteer een voorinstelling voor een eCatalog-viewer en selecteer **[!UICONTROL Edit]**. Selecteren **[!UICONTROL Save As]** nadat u de voorinstelling hebt gemaakt.
 
 1. Op de `Configure Viewer` voert u een naam in voor uw voorinstelling voor de eCatalog-viewer.
 1. Op de `Configure Viewer` pagina, stelt u de gewenste opties in.
@@ -55,7 +55,7 @@ Voer de volgende stappen uit, zodat u een voorinstelling voor een eCatalog-viewe
 >Als u deze antwoordsjabloon wilt gebruiken in plaats van de sjabloon die in de eCatalog zelf is gedefinieerd, voegt u `fmt=1` aan het einde van de URL van de Informatieserver. Bijvoorbeeld: `https://.../$3$/$4$/$1$/?FMT=1`.
 
 1. Selecteren **[!UICONTROL Save]**.
-1. Selecteren **[!UICONTROL Default]** zodat de voorinstelling voor de eCatalog-viewer die u hebt gemaakt, wordt gebruikt voor het weergeven van eCatalogi op uw webpagina.
+1. Selecteren **[!UICONTROL Default]** zodat de voorinstelling voor de eCatalog-viewer die u hebt gemaakt de voorinstelling is die wordt gebruikt om eCatalogi weer te geven op uw webpagina.
 
 Als u een voorinstelling voor een eCatalog-viewer wilt verwijderen, selecteert u deze in het scherm Voorinstellingen viewer en selecteert u **[!UICONTROL Delete]**.
 

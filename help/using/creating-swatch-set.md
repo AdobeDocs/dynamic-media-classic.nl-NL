@@ -10,7 +10,7 @@ role: User
 exl-id: 426b6e6b-daed-4ca6-b095-99bb06604b07
 topic: Content Management
 level: Intermediate
-source-git-commit: b2a6aeb1aab420803a8b7dafb0fdeda495e2a69b
+source-git-commit: bc3b696bfde0ed55894cdcbf3533299ae7697e98
 workflow-type: tm+mt
 source-wordcount: '677'
 ht-degree: 0%
@@ -38,9 +38,9 @@ Zie ook [Elementen handmatig publiceren](publishing-files.md#manually_publishing
 
 1. Voer een van de volgende handelingen uit:
 
-   * **Selecteer eerst de afbeeldingen** - Selecteer de afbeeldingen in het deelvenster Bladeren en ga vervolgens naar **[!UICONTROL Build]** > **[!UICONTROL Swatch Sets]**.
+   * **Selecteer eerst de afbeeldingen**: Selecteer in het deelvenster Bladeren de afbeeldingen en ga vervolgens naar **[!UICONTROL Build]** > **[!UICONTROL Swatch Sets]**.
 
-   * **Starten vanaf het scherm Staalset** - Ga naar **[!UICONTROL Build]** > **[!UICONTROL Swatch Sets]**. Selecteer een map in de elementenbibliotheek en sleep de afbeeldingen naar de sectie Weergaven van de pagina Staalset.
+   * **Starten vanaf het scherm Staalset**: Ga naar **[!UICONTROL Build]** > **[!UICONTROL Swatch Sets]**. Selecteer een map in de elementenbibliotheek en sleep de afbeeldingen naar de sectie Weergaven van de pagina Staalset.
 
 1. Sleep staalkleuren, patronen of voltooit in het vak Stalen van de pagina Staalset.
 

@@ -10,7 +10,7 @@ role: User
 exl-id: d4315312-195c-453d-a3aa-c5e9f9365fc7
 topic: Content Management
 level: Experienced
-source-git-commit: f054057d383b26e9088582f418f62504c3f327d8
+source-git-commit: bc3b696bfde0ed55894cdcbf3533299ae7697e98
 workflow-type: tm+mt
 source-wordcount: '165'
 ht-degree: 0%
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # Sjablonen publiceren{#publishing-templates}
 
-Als u uw sjabloon publiceert, wordt deze op Dynamic Media Image Servers geplaatst, waar deze beschikbaar is voor uw website en toepassing. Tijdens het publicatieproces activeert Adobe Dynamic Media Classic de URL&#39;s die u nodig hebt voor uw website en toepassing.
+Als u uw sjabloon publiceert, wordt deze op Dynamic Media Image Servers geplaatst, waar deze beschikbaar is op uw website en toepassing. Tijdens het publicatieproces activeert Adobe Dynamic Media Classic de URL&#39;s die u nodig hebt voor uw website en toepassing.
 
 >[!NOTE]
 >

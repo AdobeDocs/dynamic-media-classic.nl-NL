@@ -10,7 +10,7 @@ role: User
 exl-id: a9250841-2dba-4fdc-8a6e-91b2fecef72f
 topic: Content Management
 level: Intermediate
-source-git-commit: 163eb32112ec6fbefd1dacf48212353ff3053d54
+source-git-commit: bc3b696bfde0ed55894cdcbf3533299ae7697e98
 workflow-type: tm+mt
 source-wordcount: '612'
 ht-degree: 0%
@@ -25,7 +25,7 @@ U kunt lange-vormvideo&#39;s gemakkelijker bekijken en navigeren door hoofdstukm
 >
 >De videospeler die wordt gebruikt moet het gebruik van hoofdstukmarkeringen steunen.
 
-Zie [Een voorinstelling voor een videoviewer toevoegen of bewerken](previewing-videos-video-viewer.md#adding_or_editing_a_video_viewer_preset) als u de hoofdstuknavigatie actiepunten en de hoofdstuktitel pop-uptekst voor de `Universal_HTML5_Video` viewer (HTML5).
+Zie [Een voorinstelling voor een video-viewer toevoegen of bewerken](previewing-videos-video-viewer.md#adding_or_editing_a_video_viewer_preset) als u de hoofdstuknavigatie actiepunten en de hoofdstuktitel pop-uptekst voor de `Universal_HTML5_Video` viewer (HTML5).
 
 Zie ook [Viewer-voorinstellingen toevoegen en bewerken](application-setup.md#adding_and_editing_viewer_presets).
 
@@ -65,7 +65,7 @@ Zie [WebVTT: De indeling Web Video Text Tracks](https://w3c.github.io/webvtt/).
 
 1. Sla het VTT-bestand op in UTF8-codering, zodat u problemen kunt voorkomen met de uitvoering van tekens in de tekst van de hoofdstuktitel.
 
-   Over het algemeen wilt u het hoofdstuk VTT-bestand dezelfde naam geven als het videobestand en het toevoegen aan het bestand `chapters`. Op deze manier kunt u het genereren van video-URL&#39;s automatiseren met behulp van uw bestaande systeem voor webcontentbeheer.
+   Over het algemeen wilt u het hoofdstuk VTT-bestand dezelfde naam geven als het videobestand en het toevoegen aan het bestand `chapters`. Hierdoor kunt u de generatie van de video-URL&#39;s automatiseren met behulp van uw bestaande systeem voor webcontentbeheer.
 
 1. Upload in Adobe Dynamic Media Classic uw WebVTT-hoofdstukbestand.
 

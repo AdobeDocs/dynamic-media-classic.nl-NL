@@ -10,7 +10,7 @@ role: User
 exl-id: 00b70162-2394-433d-a46c-1d90667030af
 topic: Integrations, Development
 level: Experienced
-source-git-commit: b2a6aeb1aab420803a8b7dafb0fdeda495e2a69b
+source-git-commit: bc3b696bfde0ed55894cdcbf3533299ae7697e98
 workflow-type: tm+mt
 source-wordcount: '182'
 ht-degree: 0%
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # E-catalogi en bijbehorende PDF publiceren{#publishing-ecatalogs-and-associated-pdfs}
 
-Bij het publiceren worden uw eCatalog en PDF op Dynamic Media Image Servers geplaatst, zodat deze beschikbaar kunnen worden gemaakt voor uw website of toepassing. Als onderdeel van het publicatieproces activeert Adobe Dynamic Media Classic de URL-tekenreeks. U kunt deze URL-tekenreeks in de code van de webpagina HTML plaatsen.
+Bij het publiceren worden uw eCatalog en PDF op Dynamic Media Image Servers geplaatst, zodat u deze ter beschikking kunt stellen van uw website of toepassing. Als onderdeel van het publicatieproces activeert Adobe Dynamic Media Classic de URL-tekenreeks. U kunt deze URL-tekenreeks in de code van de HTML-webpagina plaatsen.
 
 >[!NOTE]
 >

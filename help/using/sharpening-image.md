@@ -10,9 +10,9 @@ role: User
 exl-id: 4b3e8368-f8f5-46d9-9130-361a8273de2c
 topic: Content Management
 level: Intermediate
-source-git-commit: b2a6aeb1aab420803a8b7dafb0fdeda495e2a69b
+source-git-commit: bc3b696bfde0ed55894cdcbf3533299ae7697e98
 workflow-type: tm+mt
-source-wordcount: '2155'
+source-wordcount: '2163'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Verscherpen is een beeldbewerkingstechniek waarmee u de contouren van een digita
 
 Adobe Dynamic Media Classic raadt u ten zeerste aan om voor alle afbeeldingen voorinstellingen voor afbeeldingen te gebruiken. Ze zorgen voor een uniforme grootte en verscherpen wordt toegepast op elke afbeelding die met een voorinstelling voor afbeeldingen wordt aangeroepen. Bovendien kunt u de verscherpingsparameters van een voorinstelling voor afbeeldingen gemakkelijk bewerken en wijzigen. De volgende keer dat u publiceert, krijgen alle afbeeldingen die met die voorinstelling worden aangeroepen de nieuwe waarden.
 
-Adobe Dynamic Media Classic raadt ook aan verscherping toe te voegen aan Voorinstellingen viewer en vervolgens een viewer aan te roepen met die voorinstelling. Zo weet u zeker dat de beelden in uw kijkers scherp en aantrekkelijk zijn.
+Adobe Dynamic Media Classic raadt ook aan verscherping toe te voegen aan Voorinstellingen viewer en vervolgens een viewer aan te roepen met die voorinstelling. Zo weet u zeker dat de afbeeldingen voor uw kijkers scherp en aantrekkelijk zijn.
 
 Of u nu Voorinstellingen afbeelding en Voorinstellingen viewer gebruikt of een methode voor verscherpen, de onderste regel is echter dat u de afbeeldingen moet verscherpen. Als u dat niet doet, kunnen uw afbeeldingen (en website) er zacht en vaag uitzien.
 
@@ -45,7 +45,7 @@ Zie ook [Verscherpen](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?v
 
 **Een afbeelding verscherpen:**
 
-Als u een afbeelding wilt verscherpen, selecteert u de rollover **[!UICONTROL Edit]** en kiest u **[!UICONTROL Sharpen]** of opent u deze in het deelvenster Bladeren in de gedetailleerde weergave en selecteert u vervolgens **[!UICONTROL Sharpen]**. De pagina Scherpteditor wordt geopend met verscherpingsopdrachten. Kies opdrachten en selecteer **[!UICONTROL Save]**.
+Als u een afbeelding wilt verscherpen, selecteert u de rollover **[!UICONTROL Edit]** en kiest u **[!UICONTROL Sharpen]** of opent u deze in het deelvenster Bladeren in de gedetailleerde weergave en selecteert u vervolgens **[!UICONTROL Sharpen]**. De pagina Scherpteditor wordt geopend met verscherpingsopdrachten. Kies de gewenste opdrachten en klik op **[!UICONTROL Save]**.
 
 >[!NOTE]
 >
@@ -58,73 +58,73 @@ In de volgende tabel worden de verscherpingsopties voor de afbeeldingsserver wee
 | Naam | URL-protocol | Waarden | Voorbeeld |
 | --- | --- | --- | --- |
 | Eenvoudig verscherpen | `op_sharpen` | `0` of `1` | `op_sharpen=1` |
-| Modus Nieuwe pixels berekenen | `resMode` | `bilin`, `bicub`, `sharp2`, `trilin`<br><br>`bilin`: Hiermee selecteert u de standaard bi-lineaire interpolatie. De snelste methode voor het berekenen van nieuwe pixels. Sommige aliasingartefacten zijn vaak opvallend.<br>`bicub`: Selecteert bi-cubische interpolatie. Meer CPU-intensief dan `bilin`, maar geeft scherpere afbeeldingen met minder merkbare aliasing artefacten.<br><br>`sharp2`: Selecteert een gewijzigde functie Lanczos Windows® als interpolatiealgoritme. Dit levert iets scherpere resultaten op dan bi-cubisch tegen hogere CPU-kosten.<br><br>`trilin`: Hiermee selecteert u een aangepaste trilineaire interpolatie waarbij zowel een hogere als een lagere resolutie wordt gebruikt, indien beschikbaar. Wordt alleen aangeraden wanneer aliasing een probleem is. Hiermee verlaagt u de JPEG als gevolg van gereduceerde gegevens met hoge frequentie. | `resMode=sharp2` |
+| Modus Nieuwe pixels berekenen | `resMode` | `bilin`, `bicub`, `sharp2`, `trilin`<br><br>`bilin`: Hiermee selecteert u de standaard bi-lineaire interpolatie. De snelste methode voor het berekenen van nieuwe pixels. Sommige aliasingartefacten zijn vaak opvallend.<br>`bicub`: Selecteert bi-cubische interpolatie. Meer CPU-intensief dan `bilin`, maar geeft scherpere afbeeldingen met minder merkbare aliasing artefacten.<br><br>`sharp2`: Selecteert een gewijzigde functie Lanczos Windows® als interpolatiealgoritme. Het kan iets scherpere resultaten dan bi-cubic bij hogere kosten van cpu veroorzaken.<br><br>`trilin`: Hiermee selecteert u een aangepaste trilineaire interpolatie waarbij zowel een hogere als een lagere resolutie wordt gebruikt, indien beschikbaar. Wordt alleen aangeraden wanneer aliasing een probleem is. Hiermee verlaagt u de JPEG als gevolg van gereduceerde gegevens met hoge frequentie. | `resMode=sharp2` |
 | Onscherp masker | `op_usm` | `amount`, `radius`, `threshold`, `monochrome`<br><br>`amount`: filtersterktefactor (reële 0...5)<br><br>`radius`: de straal van de filterkernel in pixel (echt 0...250) <br><br>`threshold`: filterdrempelniveau (int 0...255)<br><br>`monochrome`: ingesteld op `0` om elke kleurcomponent afzonderlijk onscherp te maskeren, ingesteld op `1` op helderheid (intensiteit) van afbeelding zonder scherp masker | `op_usm=1,1,10,0` |
 
 Selecteer de **[!UICONTROL Sharpening]** en kiest u een optie:
 
-* **Geen** - Schakelt verscherpen uit.
+* **Geen**: Schakelt verscherpen uit.
 
-* **Verscherpen** - Hiermee wordt een eenvoudige verscherpingscontrole uitgevoerd op het bestand nadat de grootte is gewijzigd. Dit filter lijkt op het filter &quot;Verscherpen&quot; in Adobe Photoshop en ondersteunt geen gebruikersparameters. Normaal gesproken gebruikt u dit filter of **[!UICONTROL Unsharp Mask]**, maar niet beide. Deze methode wordt als beste praktijk niet aanbevolen, maar kan helpen wazig worden compenseren. (URL: `op_sharpen`)
+* **Verscherpen**: Hiermee wordt een eenvoudige verscherpingscontrole uitgevoerd op het bestand nadat de grootte is gewijzigd. Dit filter lijkt op het filter &quot;Verscherpen&quot; in Adobe Photoshop en ondersteunt geen gebruikersparameters. Normaal gesproken gebruikt u dit filter of **[!UICONTROL Unsharp Mask]**, maar niet beide. Deze methode wordt als beste praktijk niet aanbevolen, maar kan helpen wazig worden compenseren. (URL: `op_sharpen`)
 
-* **Onscherp masker** - Hiermee kunt u een verscherpingsfiltereffect perfectioneren op de uiteindelijke gedownsampelde afbeelding. U kunt de intensiteit van het effect, de straal van het effect (gemeten in pixels) en een drempel voor het contrast instellen die wordt genegeerd. Voor dit effect worden dezelfde opties gebruikt als voor het filter Onscherp masker in Photoshop. (URL: `op_usm`)
+* **Onscherp masker**: Hiermee kunt u een verscherpingsfiltereffect perfectioneren voor de uiteindelijke gedownsampelde afbeelding. U kunt de intensiteit van het effect, de straal van het effect (gemeten in pixels) en een drempel voor contrast instellen die wordt genegeerd. Voor dit effect worden dezelfde opties gebruikt als voor het filter Onscherp masker in Photoshop. (URL: `op_usm`)
 
 Kies deze opties zodat u de verscherping kunt perfectioneren met Onscherp masker:
 
-* **Hoeveelheid** - Hiermee bepaalt u de hoeveelheid contrast die wordt toegepast op de randpixels. De standaardwaarde is 0,0. Voor afbeeldingen met een hoge resolutie kunt u de resolutie verhogen tot 5,0. Beschouw Hoeveelheid als een maat voor de filterintensiteit. De **[!UICONTROL Amount]** de instelling in Adobe Dynamic Media Classic is niet gelijk aan de instelling Hoeveelheid in Adobe Photoshop. Adobe Photoshop gebruikt een hoeveelheid tussen 1% en 500%, terwijl Adobe Dynamic Media Classic schaalt van 0,0 tot 5,0. (5,0 komt ongeveer overeen met 500% in Photoshop, 0,9 komt overeen met 90% enzovoort.)
+* **Hoeveelheid**: Hiermee bepaalt u de hoeveelheid contrast die wordt toegepast op de randpixels. De standaardwaarde is 0,0. Voor afbeeldingen met een hoge resolutie kunt u de resolutie verhogen tot 5,0. Beschouw Hoeveelheid als een maat voor de filterintensiteit. De **[!UICONTROL Amount]** de instelling in Adobe Dynamic Media Classic is niet gelijk aan de instelling Hoeveelheid in Adobe Photoshop. Adobe Photoshop gebruikt een hoeveelheid tussen 1% en 500%, terwijl Adobe Dynamic Media Classic schaalt van 0,0 tot 5,0. (5,0 komt ongeveer overeen met 500% in Photoshop, 0,9 komt overeen met 90% enzovoort.)
 
-* **Straal** - Hiermee bepaalt u het aantal pixels rondom de randpixels dat invloed heeft op de verscherping. Het effect wordt uitgevoerd op alle pixels in de afbeelding en wordt in alle richtingen uitgestraald.
+* **Straal**: Hiermee bepaalt u het aantal pixels rondom de randpixels dat invloed heeft op de verscherping. Het effect wordt uitgevoerd op alle pixels in de afbeelding en wordt in alle richtingen uitgestraald.
 
 De beste straalwaarde hangt van de grootte van het beeld af. Bij een lage waarde worden alleen de randpixels verscherpt. Met een hoge waarde wordt een grotere reeks pixels verscherpt.
 
 Voor een vergelijkbaar verscherpingseffect voor een afbeelding van 2000 × 2000 pixels en een afbeelding van 500 × 500 pixels kunt u bijvoorbeeld een straalwaarde van twee pixels instellen voor de afbeelding van 2000 × 2000 pixels. Stel vervolgens een straalwaarde in van één pixel in de afbeelding van 500 × 500 pixels (een hogere waarde voor een afbeelding met meer pixels).
 
-* **Drempel** - Hiermee bepaalt u het contrastbereik dat moet worden genegeerd wanneer het filter Onscherp masker wordt toegepast. Met deze optie bepaalt u hoe verschillend de verscherpte pixels moeten zijn ten opzichte van het omringende gebied voordat ze als randpixels worden beschouwd en worden verscherpt.
+* **Drempel**: Hiermee bepaalt u het contrastbereik dat moet worden genegeerd wanneer het filter Onscherp masker wordt toegepast. Met deze optie bepaalt u hoe verschillend de verscherpte pixels moeten zijn ten opzichte van het omringende gebied voordat de randpixels worden verscherpt.
 
-Bij Drempel wordt een waarde tussen 0 en 255 gebruikt. Dit is het aantal helderheidsstappen in een grijswaardenafbeelding. 0=zwart, 128=50% grijs en 255=wit Een drempelwaarde van 12 negeert bijvoorbeeld kleine variaties door de helderheid van de huidskleur, zodat er geen ruis wordt toegevoegd en er tegelijkertijd randcontrast wordt toegevoegd aan contrasterende gebieden, zoals waar de wimpers de huid raken.
+Bij Drempel wordt een waarde tussen 0 en 255 gebruikt. Dit is het aantal helderheidsstappen in een grijswaardenafbeelding. 0=zwart, 128=50% grijs en 255=wit Een drempelwaarde van 12 negeert bijvoorbeeld kleine variaties door de helderheid van de huidskleur. Hierbij wordt geen ruis toegevoegd, maar wordt wel randcontrast toegevoegd aan contrasterende gebieden, zoals waar de wimpers de huid raken.
 
 Stel dat u een foto van iemands gezicht hebt. Het filter Onscherp masker beïnvloedt de gedeelten van de afbeelding met het meeste contrast en de vloeiende huid zelf. Zelfs de meest vloeiende skin vertoont subtiele wijzigingen in helderheidswaarden. Als u geen drempelwaarde gebruikt, accentueert het filter deze subtiele veranderingen in huidpixels, die tot een lawaaierig effect (waarschijnlijk ongewenst) leiden terwijl ook het contrast op de wimpers verhogen, die scherpte (waarschijnlijk wenselijk) verbeteren. U voorkomt dit door een drempelwaarde te gebruiken die het filter de opdracht geeft pixels te negeren die het contrast niet drastisch wijzigen, zoals een vloeiende skin. U voorkomt ruis of beperking van waarden in afbeeldingen met huidskleuren door bijvoorbeeld te experimenteren met **[!UICONTROL Threshold]** waarden twee tot en met 20. De standaardwaarde **[!UICONTROL Threshold]** Met de waarde 0 worden alle pixels in de afbeelding verscherpt.
 
-* **Toepassen op** - Kies **[!UICONTROL Each Color]** als u de verscherping afzonderlijk wilt toepassen op elke kleurcomponent, kiest u **[!UICONTROL Brightness]** als u verscherping wilt toepassen op helderheidsgebieden van de afbeelding.
+* **Toepassen op**: Kies **[!UICONTROL Each Color]** als u de verscherping afzonderlijk wilt toepassen op elke kleurcomponent, kiest u **[!UICONTROL Brightness]** als u verscherping wilt toepassen op helderheidsgebieden van de afbeelding.
 
 **Nieuwe pixels**
 
 Selecteer de **[!UICONTROL Resampling]** en kiest u een optie. Met deze opties verscherpt u de afbeelding wanneer deze wordt gedownsampled:
 
-* **[!UICONTROL None]** - Schakelt resampling uit.
+* **[!UICONTROL None]**: schakelt resampling uit.
 
-* **[!UICONTROL Bilinear]** - De snelste methode voor het berekenen van nieuwe pixels. Sommige aliasingartefacten zijn opvallend.
+* **[!UICONTROL Bilinear]**: De snelste methode voor het berekenen van nieuwe pixels. Sommige aliasingartefacten zijn opvallend.
 
-* **[!UICONTROL Bicubic]** - Verhoogt het CPU-gebruik op de afbeeldingsserver, maar geeft scherpere beelden met minder merkbare aliasing artefacten.
+* **[!UICONTROL Bicubic]**: Verhoogt het CPU-gebruik op de Image Server, maar geeft scherpere afbeeldingen met minder merkbare aliasing artefacten.
 
-* **[!UICONTROL `Sharpen 2`]** - Geeft iets scherpere resultaten dan **[!UICONTROL Bicubic]**, maar met nog hogere CPU-kosten op de Image Server.
+* **[!UICONTROL `Sharpen 2`]**: Geeft iets scherpere resultaten dan **[!UICONTROL Bicubic]**, maar met nog hogere CPU-kosten op de Image Server.
 
-* **[!UICONTROL Trilinear]** - Gebruikt zowel hogere als lagere resoluties als beschikbaar; geadviseerd slechts wanneer aliasing een kwestie is. Deze methode vermindert de grootte van JPEG als gevolg van gereduceerde gegevens met hoge frequentie.
+* **[!UICONTROL Trilinear]**: Gebruikt zowel hogere als lagere resoluties indien beschikbaar; wordt alleen aangeraden wanneer aliasing een probleem is. Deze methode vermindert de grootte van JPEG als gevolg van gereduceerde gegevens met hoge frequentie.
 
-**Voorinstellingen voor verscherpen en afbeeldingen**
+**Voorinstellingen voor afbeeldingen en Verscherpen**
 
-U kunt alle drie verscherpingseffecten opnemen om het uiteindelijke resultaat te bereiken. Deze methode wordt echter niet aanbevolen. Adobe Dynamic Media Classic raadt u aan de verscherpingseffecten op te slaan als onderdeel van een voorinstelling voor afbeeldingen. Met Voorinstellingen voor afbeeldingen kunt u de meest gebruikte afbeeldingsmodifiers verpakken om een dynamisch vergroot/verkleind afbeelding te maken in een kleine tekstreeks. Een voorinstelling voor afbeeldingen bevat waarden voor de bestandsindeling (gewoonlijk JPEG voor het web), het aantal pixels en de verscherping van afbeeldingen. In plaats van de URL toe te voegen met elke afbeeldingsmodifier die u moet gebruiken om een bepaald type afbeeldingsgrootte te maken, maakt u een benoemde voorinstelling Afbeelding, zoals &quot;miniatuur&quot;. Configureer vervolgens de voorinstelling voor miniatuurafbeelding met de juiste grootte, bestandsindeling en verscherpingsopties. Roep de afbeelding aan met de naam Voorinstelling afbeelding. Met Voorinstellingen voor afbeelding wordt de lengte van de gehele URL ingekort. Deze twee URL&#39;s produceren dezelfde afbeelding van 350 x 350 JPEG met verscherping:
+U kunt alle drie verscherpingseffecten opnemen om het uiteindelijke resultaat te bereiken. Deze methode wordt echter niet aanbevolen. Adobe Dynamic Media Classic raadt u aan de verscherpingseffecten op te slaan als onderdeel van een voorinstelling voor afbeeldingen. Met Voorinstellingen voor afbeeldingen kunt u de meest gebruikte afbeeldingsmodifiers verpakken om een dynamisch vergroot/verkleind afbeelding te maken in een kleine tekstreeks. Een voorinstelling voor afbeeldingen bevat waarden voor de bestandsindeling (gewoonlijk JPEG voor het web), het aantal pixels en de verscherping van afbeeldingen. In plaats van de URL toe te voegen met elke afbeeldingsmodifier die u moet gebruiken om een bepaald type afbeeldingsgrootte te maken, maakt u een benoemde voorinstelling Afbeelding, bijvoorbeeld &quot;miniatuur&quot;. Configureer vervolgens de voorinstelling voor miniatuurafbeelding met de juiste grootte, bestandsindeling en verscherpingsopties. Roep de afbeelding aan met de naam Voorinstelling afbeelding. Met Voorinstellingen voor afbeelding wordt de lengte van de gehele URL ingekort. Deze twee URL&#39;s produceren dezelfde afbeelding van 350 x 350 JPEG met verscherping:
 
 * `https://sample.scene7.com/is/image/S7train/Backpack_A?wid=350&hei=350&fmt=jpeg&qlt=85,0&resMode=sharp2&op_usm=0.9,1.0,8,0`
 * `https://sample.scene7.com/is/image/S7train/Backpack_A?$!_s7product$`
 
 Voorinstellingen voor afbeeldingen kunnen op elk gewenst moment worden gewijzigd en bijgewerkt. U ziet de resultaten van een wijziging in een voorinstelling voor afbeeldingen nadat u deze hebt gepubliceerd en nadat de cache voor de URL is gewist.
 
-Als u één voorinstelling gebruikt voor elke afbeelding in een groottecategorie, kan elke bedrijfsbeheerder de definitie van die voorinstelling voor afbeeldingen bijwerken, opnieuw publiceren en alle afbeeldingen met die indeling beïnvloeden, zonder webcode te wijzigen. U kunt het beste één voorinstelling voor afbeeldingen per unieke grootte op uw site gebruiken. Als u een voorinstelling voor een afbeelding wilt toevoegen, gaat u naar **[!UICONTROL Setup]** > **[!UICONTROL Application Settings]** > **[!UICONTROL Image Presets]**. Selecteer vervolgens **[!UICONTROL Add]** of selecteer **[!UICONTROL Edit]** een bestaande voorinstelling wijzigen. Het enige vereiste veld is de naam van de voorinstelling zelf. Het wordt echter aanbevolen om in elke voorinstelling een mate van verscherping op te nemen.
+Als u één voorinstelling gebruikt voor elke afbeelding in een formaatcategorie, kan elke bedrijfsbeheerder de definitie van die voorinstelling voor afbeeldingen bijwerken. Vervolgens kunnen ze elke afbeelding opnieuw publiceren en beïnvloeden met die indeling. Alles zonder webcode te wijzigen. U kunt het beste één voorinstelling voor afbeeldingen per unieke grootte op uw site gebruiken. Als u een voorinstelling voor afbeeldingen wilt toevoegen, gaat u op de algemene navigatiebalk naar **[!UICONTROL Setup]** > **[!UICONTROL Application Settings]** > **[!UICONTROL Image Presets]**. Selecteer vervolgens **[!UICONTROL Add]** of selecteer **[!UICONTROL Edit]** een bestaande voorinstelling wijzigen. Het enige vereiste veld is de naam van de voorinstelling zelf. Het wordt echter aanbevolen om in elke voorinstelling een mate van verscherping op te nemen.
 
 **JPG-kwaliteit**
 
 De opties voor Kwaliteit JPG bepalen het compressieniveau JPG:
 
-* **JPG-kwaliteit** - Selecteer deze optie als u compressieniveaus en downsampling van chrominantie wilt instellen.
+* **JPG-kwaliteit**: Selecteer deze optie als u compressieniveaus en downsampling van chrominantie wilt instellen.
 
-* **Slider** - Hiermee bepaalt u het compressieniveau JPG. Deze instelling is van invloed op zowel de bestandsgrootte als de afbeeldingskwaliteit. De schaal van de kwaliteit van de JPG is 1-100.
+* **Slider**: hiermee bepaalt u het compressieniveau JPG. Deze instelling is van invloed op zowel de bestandsgrootte als de afbeeldingskwaliteit. De schaal van de kwaliteit van de JPG is 1-100.
 
-* **Downsampling van JPG-chrominantie inschakelen** - Omdat het oog minder gevoelig is voor hoogfrequente kleurinformatie dan hoogfrequente luminantie, verdelen JPEG-afbeeldingen de afbeeldingsgegevens in luminantie en kleurcomponenten. Wanneer een JPEG-afbeelding wordt gecomprimeerd, blijft de luminantiecomponent op volledige resolutie staan, terwijl de kleurcomponenten worden gedownsampled door het gemiddelde te nemen van pixelgroepen. Door downsampling wordt het gegevensvolume met de helft of met een derde verminderd, zonder dat dit van invloed is op de waargenomen kwaliteit. Downsampling is niet van toepassing op grijswaardenafbeeldingen. Met deze techniek vermindert u de hoeveelheid compressie die handig is voor afbeeldingen met veel contrast (bijvoorbeeld afbeeldingen met overlappende tekst).
+* **Downsampling van JPG-chrominantie inschakelen**: Omdat het oog minder gevoelig is voor hoogfrequente kleurinformatie dan hoogfrequente luminantie, verdelen JPEG-afbeeldingen de afbeeldingsgegevens in luminantie en kleurcomponenten. Wanneer een JPEG-afbeelding wordt gecomprimeerd, blijft de luminantiecomponent op volledige resolutie staan, terwijl de kleurcomponenten worden gedownsampled door het gemiddelde te nemen van pixelgroepen. Door downsampling wordt het gegevensvolume met de helft of met een derde verminderd, zonder dat dit van invloed is op de waargenomen kwaliteit. Downsampling is niet van toepassing op grijswaardenafbeeldingen. Met deze techniek vermindert u de hoeveelheid compressie die handig is voor afbeeldingen met veel contrast (bijvoorbeeld afbeeldingen met overlappende tekst).
 
 **Verscherpingsopties voor het hele bedrijf instellen**
 
-Als u geen Vooraf ingesteld Beeld gebruikte of specifieke het scherpen protocollen van de Server van het Beeld langs het URL koord overging, dan wordt uw beeld niet verscherpt wanneer het wordt gedownsampled. Als dit gebrek aan verscherping optreedt, kunt u echter standaardwaarden voor verscherpen instellen om ervoor te zorgen dat elke afbeelding altijd wat verscherpt wordt.
+Als u geen Vooraf ingesteld Beeld gebruikte of specifieke het scherpen protocollen van de Server van het Beeld langs het URL koord overging, dan komt geen verscherping van uw beeld voor wanneer gedownsampled. Als dit gebrek aan verscherping optreedt, kunt u echter standaardwaarden voor verscherpen instellen om ervoor te zorgen dat elke afbeelding altijd wat verscherpt wordt.
 
 Ga naar **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Publish Setup]** > **[!UICONTROL Image Server]**. Als u de standaardmodus voor het berekenen van nieuwe pixels instelt op **`Sharp2`**, wordt de afbeelding altijd verscherpt wanneer het downsamplen wordt uitgevoerd.
 
@@ -136,7 +136,7 @@ Met voorinstellingen voor viewers (zoals voorinstellingen voor afbeeldingen) kun
 
 Zie [Viewer-voorinstellingen](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&amp;emailurl=https://s7d5.scene7.com/s7/emailFriend&amp;serverUrl=https://s7d5.scene7.com/is/image/&amp;config=Scene7SharedAssets/Universal_HTML5_Video&amp;contenturl=https://s7d5.scene7.com/skins/&amp;asset=S7tutorials/550_viewer-presets_converted%20renamed_Done-AVS) trainingsvideo.
 
-De optie Modifiers bevindt zich onder de sectie Core Settings van alle voorinstellingen voor eCatalog, Centrifugeren en Aangepast zoomen Viewer. Door de URL-verscherpingsopdrachten toe te voegen aan het vak Modifiers, voegt u verscherping toe telkens wanneer de viewer wordt aangeroepen met de desbetreffende viewer-voorinstelling.
+De optie Modifiers bevindt zich onder de sectie Core Settings van alle voorinstellingen voor eCatalog, Centrifugeren en Aangepast zoomen Viewer. Door de URL-verscherpingsopdrachten toe te voegen aan het vak Modifiers, voegt u verscherping toe telkens wanneer de viewer wordt aangeroepen met die Viewer-voorinstelling.
 
 Als u de voorinstelling van de viewer wilt aanroepen, gebruikt u de `config=` in de URL van de viewer. Hier is een voorbeeld van het aanroepen van een Afbeeldingsset (schoenen) met een Viewer-voorinstelling (`FantasticoZoom2022`):
 
@@ -148,4 +148,4 @@ De voorinstelling wordt hier verscherpt en wijzigt de standaardskin van de viewe
 
 De laatste en minst aanbevolen verscherpingsmethode is het per afbeelding verscherpen van overschrijvingen te maken. Met deze methode wordt de verscherping in een voorinstelling voor afbeeldingen overschreven door de eigen specifieke waarden. Deze methode negeert echter ook alle andere verscherpingsmethoden van elke gewenste grootte. Deze methode kan het beste worden gebruikt als bepaalde afbeeldingen niet met een hoge resolutie zijn opgeslagen en de waarden in de Voorinstellingen afbeelding te hoog zijn voor deze kleine afbeeldingen. In dit geval is er mogelijk enkele verscherping per afbeelding nodig.
 
-Selecteer in Adobe Dynamic Media Classic een afbeelding en ga naar de Gedetailleerde weergave (door te dubbelklikken of door te drukken op **[!UICONTROL Detail View]** (en selecteert u **[!UICONTROL Sharpen]**. Wijzig een parameter en selecteer vervolgens **[!UICONTROL Save]**. Dit proces vertelt de Server van het Beeld om deze het scherpen parameters eerder dan om het even welk bevel te gebruiken u in URL, zoals een het scherpen bepaling of Vooraf ingesteld Beeld roept. Zorg ervoor dat u publiceert om te zien dat de wijzigingen van kracht worden.
+Selecteer in Adobe Dynamic Media Classic een afbeelding en ga naar de Gedetailleerde weergave (door te dubbelklikken of door te drukken op de knop **[!UICONTROL Detail View]** (en selecteert u **[!UICONTROL Sharpen]**. Wijzig een parameter en selecteer vervolgens **[!UICONTROL Save]**. Dit proces vertelt de Server van het Beeld om deze het scherpen parameters eerder dan om het even welk bevel te gebruiken u in URL, zoals een het scherpen bepaling of Vooraf ingesteld Beeld roept. Zorg ervoor dat u publiceert om te zien dat de wijzigingen van kracht worden.

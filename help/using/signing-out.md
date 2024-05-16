@@ -10,7 +10,7 @@ role: Admin,User
 exl-id: 8d70db72-b02b-4915-b4c3-6efb146b7f08
 topic: Content Management
 level: Intermediate
-source-git-commit: f054057d383b26e9088582f418f62504c3f327d8
+source-git-commit: bc3b696bfde0ed55894cdcbf3533299ae7697e98
 workflow-type: tm+mt
 source-wordcount: '209'
 ht-degree: 0%
@@ -23,9 +23,9 @@ ht-degree: 0%
 
 Controleer of u het volgende hebt voordat u de Adobe Dynamic Media Classic-bureaubladtoepassing gebruikt:
 
-* **Gebruikersnaam** - U gebruikt uw e-mailadres als uw aanmeldingsnaam.
+* **Gebruikersnaam**: U gebruikt uw e-mailadres als uw aanmeldingsnaam.
 
-* **Wachtwoord** - Je krijgt je tijdelijke wachtwoord in een &quot;Welkom&quot; e-mail van Adobe Dynamic Media Classic of van je Adobe Dynamic Media Classic-beheerder. De eerste keer dat u zich aanmeldt, wordt u gevraagd dit tijdelijke wachtwoord te wijzigen.
+* **Wachtwoord**: U krijgt uw tijdelijke wachtwoord via een welkomstmail van Adobe Dynamic Media Classic of van uw Adobe Dynamic Media Classic-beheerder. De eerste keer dat u zich aanmeldt, wordt u gevraagd dit tijdelijke wachtwoord te wijzigen.
 
 1. Open Adobe Dynamic Media Classic-bureaubladtoepassing.
 

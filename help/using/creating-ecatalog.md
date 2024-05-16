@@ -10,7 +10,7 @@ role: User
 exl-id: 51d411b2-b4bc-4cf6-afca-dd0ed0d219a1
 topic: Integrations, Development
 level: Experienced
-source-git-commit: b2a6aeb1aab420803a8b7dafb0fdeda495e2a69b
+source-git-commit: bc3b696bfde0ed55894cdcbf3533299ae7697e98
 workflow-type: tm+mt
 source-wordcount: '916'
 ht-degree: 0%
@@ -38,9 +38,9 @@ Zie ook [Elementen handmatig publiceren](publishing-files.md#manually_publishing
 
 1. Maak uw eCatalog met een van de volgende technieken:
 
-   * **Selecteer eerst de bestanden** - Selecteer bestanden in het deelvenster Bladeren en ga vervolgens naar **[!UICONTROL Build]** > **[!UICONTROL eCatalogs]**.
+   * **Selecteer eerst de bestanden**: Selecteer in het deelvenster Bladeren bestanden en ga vervolgens naar **[!UICONTROL Build]** > **[!UICONTROL eCatalogs]**.
 
-   * **Starten vanaf het eCatalog-scherm** - Ga naar **[!UICONTROL Build]** > **[!UICONTROL eCatalogs]**. Selecteer een map in de elementenbibliotheek en sleep bestanden van de map naar het tabblad Order Pages op de pagina eCatalog.
+   * **Starten vanaf het eCatalog-scherm**: Ga naar **[!UICONTROL Build]** > **[!UICONTROL eCatalogs]**. Selecteer een map in de elementenbibliotheek en sleep bestanden van de map naar het tabblad Order Pages op de pagina eCatalog.
 
      >[!NOTE]
      >
@@ -50,11 +50,11 @@ Zie ook [Elementen handmatig publiceren](publishing-files.md#manually_publishing
 1. U kunt desgewenst de indeling van afzonderlijke pagina&#39;s of paginaspread wijzigen door deze te selecteren en vervolgens **[!UICONTROL 1 Up]**, **[!UICONTROL 2 Up]**, of **[!UICONTROL Custom]** knop. In de **[!UICONTROL Change eCatalog Layout]** selecteert u het dialoogvenster **[!UICONTROL Selected Spreads]** en selecteert u **[!UICONTROL OK]**.
 1. U kunt de pagina&#39;s op een van de volgende manieren opnieuw ordenen:
 
-   * **Slepen** - Sleep een pagina of paginaspread naar een nieuwe locatie. Op de verticale balk ziet u waar de pagina wordt verplaatst.
+   * **Slepen**: Sleep een pagina of paginaspread naar een nieuwe locatie. Op de verticale balk ziet u waar de pagina wordt verplaatst.
 
-   * **Knop Verplaatsen naar** - Selecteer een pagina of paginaspread, selecteer **[!UICONTROL Move To]** en kiest u de pagina in het menu die u eerder wilt weergeven.
+   * **Knop Verplaatsen naar**: Selecteer een pagina of paginaspread, selecteer **[!UICONTROL Move To]** en kiest u de pagina in het menu die u eerder wilt weergeven.
 
-   * **Volgnummer** - Geef in de Lijstweergave paginanummers op in de velden Volgnummer.
+   * **Volgnummer**: Geef in de lijstweergave paginanummers op in de velden Volgnummer.
 
 1. Wanneer u klaar bent, gaat u naar de rechterbenedenhoek van de pagina en zorgt u ervoor dat **[!UICONTROL Publish after save]** is geselecteerd (standaard).
 1. Selecteren **[!UICONTROL Save]**.

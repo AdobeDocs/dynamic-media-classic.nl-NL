@@ -10,7 +10,7 @@ role: User
 exl-id: 69aabf4a-21bc-4bd8-8aad-33c2cfb9cf57
 topic: Content Management
 level: Intermediate
-source-git-commit: edd893482cbafd9674a44cf9878b8ee3079d98f7
+source-git-commit: bc3b696bfde0ed55894cdcbf3533299ae7697e98
 workflow-type: tm+mt
 source-wordcount: '465'
 ht-degree: 0%
@@ -37,9 +37,9 @@ U kunt een project maken wanneer u bestanden uploadt of projecten maakt in het d
 
 U kunt een projectmap maken die begint in de elementenbibliotheek of wanneer u bestanden uploadt naar Adobe Dynamic Media Classic:
 
-* **In de Middelenbibliotheek** - Blader naar de onderkant van de elementenbibliotheek, naar de sectie Projecten en selecteer **[!UICONTROL Add Project]**. Voer een naam in voor het project.
+* **In de Middelenbibliotheek**: Blader naar de onderkant van de elementenbibliotheek, naar de sectie Projecten en selecteer **[!UICONTROL Add Project]**. Voer een naam in voor het project.
 
-* **Bestanden uploaden** - Ga in het scherm Uploaden naar **[!UICONTROL Add to Project]** > **[!UICONTROL Create Project]**. Voer een naam in voor het project.
+* **Bestanden uploaden**: Ga in het scherm Uploaden naar **[!UICONTROL Add to Project]** > **[!UICONTROL Create Project]**. Voer een naam in voor het project.
 
 >[!NOTE]
 >
@@ -49,11 +49,11 @@ U kunt een projectmap maken die begint in de elementenbibliotheek of wanneer u b
 
 Voer een van de volgende handelingen uit om een projectmap weer te geven, te verwijderen en de naam ervan te wijzigen:
 
-* **Bladeren door inhoud** - Selecteer de naam van de map in de elementenbibliotheek. De bijbehorende elementen worden weergegeven in het deelvenster Bladeren.
+* **Bladeren door inhoud**: Selecteer de naam van de map in de elementenbibliotheek. De bijbehorende elementen worden weergegeven in het deelvenster Bladeren.
 
-* **Projectmappen verwijderen** - Selecteer de map Project en selecteer vervolgens **[!UICONTROL Remove Project]**. Als u elementen uit een projectmap verwijdert, worden deze niet uit Adobe Dynamic Media Classic verwijderd. De elementen blijven in de oorspronkelijke mappen staan waarin ze zijn opgeslagen.
+* **Projectmappen verwijderen**: Selecteer de map Project en selecteer vervolgens **[!UICONTROL Remove Project]**. Als u elementen uit een projectmap verwijdert, worden deze niet uit Adobe Dynamic Media Classic verwijderd. De elementen blijven in de oorspronkelijke mappen staan waarin ze zijn opgeslagen.
 
-* **Naam van projectmappen wijzigen** - Dubbelklik op de naam van de map in het deelvenster Elementen en voer een nieuwe naam in.
+* **Naam van projectmappen wijzigen**: Dubbelklik op de naam van de map in het deelvenster Elementen en voer een nieuwe naam in.
 
 ## Elementen toevoegen aan een projectmap {#adding-assets-to-a-project-folder}
 
@@ -61,4 +61,4 @@ U kunt afbeeldingen toevoegen aan een projectmap die begint in het deelvenster B
 
 * **Van het Browse Comité** selecteert u de elementen en sleept u deze naar een projectmap. U kunt ook naar **[!UICONTROL File]** > **[!UICONTROL Add To Project]**. Selecteer een naam voor de projectmap in het dialoogvenster Project selecteren en selecteer vervolgens **[!UICONTROL Submit]**.
 
-* **Bestanden uploaden** - Selecteer op de pagina Uploaden de optie **[!UICONTROL Job Options]**. Selecteer in het dialoogvenster Opties voor uploaden de optie **[!UICONTROL Projects]** en selecteer vervolgens een projectnaam.
+* **Bestanden uploaden**: Selecteer op de pagina Uploaden de optie **[!UICONTROL Job Options]**. Selecteer in het dialoogvenster Opties voor uploaden de optie **[!UICONTROL Projects]** en selecteer vervolgens een projectnaam.

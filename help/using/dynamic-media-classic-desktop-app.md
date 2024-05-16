@@ -1,6 +1,6 @@
 ---
-title: Adobe Dynamic Media Classic-bureaubladtoepassing - Nu beschikbaar
-description: Meer weten over de Adobe Dynamic Media Classic-bureaubladtoepassing?
+title: Adobe Dynamic Media Classic desktop
+description: Meer weten over de Adobe Dynamic Media Classic-bureaubladtoepassing die nu beschikbaar is?
 contentOwner: rbrough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
@@ -10,9 +10,9 @@ role: Admin,User
 exl-id: 604b4630-4704-4254-84b5-91b33bb19d58
 topic: Administration
 level: Intermediate
-source-git-commit: de6997fda88c4471625242ee9cca59b344cee945
+source-git-commit: afc347201b13c3b91ec5e1bd3ac5304442772f8d
 workflow-type: tm+mt
-source-wordcount: '1902'
+source-wordcount: '1903'
 ht-degree: 0%
 
 ---
@@ -42,7 +42,7 @@ Upgrademelding in de Adobe Dynamic Media Classic-bureaubladtoepassing wordt niet
 
 ## Alleen opgelost in de nieuwste release (20.22.2) macOS {#release-feb2022}
 
-* macOS Monterey - Pagina voor het uploaden van bestanden bevroren bij volgende uploads. <!-- https://jira.corp.adobe.com/browse/ASSETS-7948 -->
+* macOS Monterey: pagina voor het uploaden van bestanden bevroren bij volgende uploads. <!-- https://jira.corp.adobe.com/browse/ASSETS-7948 -->
 
 ## Oplossingen in de nieuwste versie (20.22.1) {#release-jan2022}
 
@@ -99,21 +99,21 @@ Zie ook:
 
    * De meest recente versie is beschikbaar op het volgende adres:
 
-      * [macOS (.DMG) - Downloaden](https://download.macromedia.com/dynamic-media-classic/20.22.2/adobe-dynamic-media-classic-20.22.2.dmg)
-      * [Windows (.EXE) - Downloaden](https://download.macromedia.com/dynamic-media-classic/20.22.1/adobe-dynamic-media-classic-20.22.1.exe)
+      * [macOS (.DMG): downloaden](https://download.macromedia.com/dynamic-media-classic/20.22.2/adobe-dynamic-media-classic-20.22.2.dmg)
+      * [Windows (.EXE): downloaden](https://download.macromedia.com/dynamic-media-classic/20.22.1/adobe-dynamic-media-classic-20.22.1.exe)
 
    * De vorige versie is beschikbaar op het volgende:
 
-      * [macOS (.DMG) - Downloaden](https://download.macromedia.com/dynamic-media-classic/20.22.1/adobe-dynamic-media-classic-20.22.1.dmg)
-      * [Windows® (.EXE) - Downloaden](https://download.macromedia.com/dynamic-media-classic/20.21.3/adobe-dynamic-media-classic-20.21.3.exe)
+      * [macOS (.DMG): downloaden](https://download.macromedia.com/dynamic-media-classic/20.22.1/adobe-dynamic-media-classic-20.22.1.dmg)
+      * [Windows® (.EXE): downloaden](https://download.macromedia.com/dynamic-media-classic/20.21.3/adobe-dynamic-media-classic-20.21.3.exe)
 
-<!--         * [macOS (.DMG) - Download](https://download.macromedia.com/dynamic-media-classic/20.21.3/adobe-dynamic-media-classic-20.21.3.dmg) -->
+<!--         * [macOS (.DMG): Download](https://download.macromedia.com/dynamic-media-classic/20.21.3/adobe-dynamic-media-classic-20.21.3.dmg) -->
 
-<!--    * [macOS (.DMG) - Download](https://download.macromedia.com/dynamic-media-classic/20.21.2/adobe-dynamic-media-classic-20.21.2.dmg)
-        * [Windows&reg; (.EXE) - Download](https://download.macromedia.com/dynamic-media-classic/20.21.2/adobe-dynamic-media-classic-20.21.2.exe) -->
+<!--    * [macOS (.DMG): Download](https://download.macromedia.com/dynamic-media-classic/20.21.2/adobe-dynamic-media-classic-20.21.2.dmg)
+        * [Windows&reg; (.EXE): Download](https://download.macromedia.com/dynamic-media-classic/20.21.2/adobe-dynamic-media-classic-20.21.2.exe) -->
 
-<!--    * [macOS (.DMG) - Download.](https://download.macromedia.com/dynamic-media-classic/20.20.2/adobe-dynamic-media-classic-20.20.2.dmg)
-        * [Windows (.EXE) - Download.](https://download.macromedia.com/dynamic-media-classic/20.20.2/adobe-dynamic-media-classic-20.20.2.exe) -->
+<!--    * [macOS (.DMG): Download.](https://download.macromedia.com/dynamic-media-classic/20.20.2/adobe-dynamic-media-classic-20.20.2.dmg)
+        * [Windows (.EXE): Download.](https://download.macromedia.com/dynamic-media-classic/20.20.2/adobe-dynamic-media-classic-20.20.2.exe) -->
 
 
 1. Voer een van de volgende handelingen uit op basis van het installatieprogramma dat u hebt gedownload.
@@ -158,7 +158,7 @@ Om te downloaden en *stilzwijgend* Installeer de nieuwste versie van de Adobe Dy
 
 1. Download het nieuwste installatieprogramma voor de Adobe Dynamic Media Classic-bureaubladtoepassing voor macOS.
 
-   * [macOS (.DMG) - Downloaden](https://download.macromedia.com/dynamic-media-classic/20.22.2/adobe-dynamic-media-classic-20.22.2.dmg)
+   * [macOS (.DMG): downloaden](https://download.macromedia.com/dynamic-media-classic/20.22.2/adobe-dynamic-media-classic-20.22.2.dmg)
 
 1. Koppel het gedownloade beeld van de Schijf (.DMG) aan een montageselocatie gebruikend het volgende bevel:
 
@@ -168,7 +168,7 @@ Om te downloaden en *stilzwijgend* Installeer de nieuwste versie van de Adobe Dy
 
    ```
    rsync -a <mount_point_path>/Adobe\ Dynamic\ Media\ Classic.app /Applications/
-   Unmount DMG - hdiutil detach <mount_point_path>
+   Unmount DMG: hdiutil detach <mount_point_path>
    ```
 
 1. Wanneer u de toepassing opent, wordt de nieuwe Adobe Dynamic Media Classic-aanmeldingspagina weergegeven:
@@ -201,7 +201,7 @@ Om te downloaden en *stilzwijgend* installeer de nieuwste versie van de Adobe Dy
 
 1. Download het nieuwste installatieprogramma voor de Adobe Dynamic Media Classic-bureaubladtoepassing.
 
-   * [Windows® (.EXE) - Downloaden](https://download.macromedia.com/dynamic-media-classic/20.22.1/adobe-dynamic-media-classic-20.22.1.exe)
+   * [Windows® (.EXE): downloaden](https://download.macromedia.com/dynamic-media-classic/20.22.1/adobe-dynamic-media-classic-20.22.1.exe)
 
 1. Voer het installatieprogramma in recordmodus uit met de volgende opdracht:
 
@@ -254,7 +254,7 @@ U kunt de cache van afbeeldingen en elementen niet alleen wissen met de bureaubl
 
 ## Bekende beperkingen in Adobe Dynamic Media Classic 20.21.1
 
-* De **[!UICONTROL Server]** De vervolgkeuzelijst is leeg na het bijwerken naar Adobe Dynamic Media Classic-bureaubladtoepassing 20.21.1 - Scenario: u installeert en meldt zich aan bij Adobe Dynamic Media Classic 20.20.1 of 20.20.2 en sluit vervolgens de toepassing. Vervolgens gaat u naar Adobe Dynamic Media Classic 20.21.1. Wanneer u zich probeert aan te melden, **[!UICONTROL Server]** vervolgkeuzelijst in de **[!UICONTROL Sign-in to your account]** is leeg. Als u dit probleem wilt oplossen, moet u [de cache handmatig wissen](#clear-cache) (zie bovenstaande stappen).
+* De **[!UICONTROL Server]** De vervolgkeuzelijst is leeg na het bijwerken naar Adobe Dynamic Media Classic-bureaubladtoepassing 20.21.1: scenario: installeer en meld u aan bij Adobe Dynamic Media Classic 20.20.1 of 20.20.2 en sluit vervolgens de toepassing. Vervolgens gaat u naar Adobe Dynamic Media Classic 20.21.1. Wanneer u zich probeert aan te melden, **[!UICONTROL Server]** vervolgkeuzelijst in de **[!UICONTROL Sign-in to your account]** is leeg. Als u dit probleem wilt oplossen, moet u [de cache handmatig wissen](#clear-cache) (zie bovenstaande stappen).
 
 ## Bekende beperkingen in Adobe Dynamic Media Classic 20.20.1 (vastgesteld in 20.20.2)
 

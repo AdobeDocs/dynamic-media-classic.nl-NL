@@ -10,7 +10,7 @@ role: User
 exl-id: 74cf0346-be79-4916-8a98-16865c3ba3de
 topic: Content Management
 level: Intermediate
-source-git-commit: f054057d383b26e9088582f418f62504c3f327d8
+source-git-commit: bc3b696bfde0ed55894cdcbf3533299ae7697e98
 workflow-type: tm+mt
 source-wordcount: '146'
 ht-degree: 0%
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # Zoomafbeeldingen publiceren{#publishing-zoom-images}
 
-Bij het publiceren worden uw zoomafbeeldingen op Dynamic Media Image Servers geplaatst, zodat ze beschikbaar kunnen worden gesteld op uw website en toepassing. Als onderdeel van het publicatieproces activeert Adobe Dynamic Media Classic de URL-tekenreeksen. U kunt deze URL-tekenreeksen in de HTML-code van uw website plaatsen.
+Bij het publiceren worden uw zoomafbeeldingen op Dynamic Media Image Servers geplaatst, zodat ze op uw website en toepassing beschikbaar kunnen worden gemaakt. Als onderdeel van het publicatieproces activeert Adobe Dynamic Media Classic de URL-tekenreeksen. U kunt deze koorden URL in de code van de HTML van uw Website plaatsen.
 
 ## Afbeeldingen markeren voor publicatie {#marking-images-for-publish}
 

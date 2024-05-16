@@ -10,7 +10,7 @@ role: Admin,User
 exl-id: 9590c53c-fd38-4bf2-b723-cd7369702364
 topic: Administration
 level: Intermediate
-source-git-commit: f054057d383b26e9088582f418f62504c3f327d8
+source-git-commit: bc3b696bfde0ed55894cdcbf3533299ae7697e98
 workflow-type: tm+mt
 source-wordcount: '923'
 ht-degree: 0%
@@ -113,24 +113,24 @@ U kunt een welkome e-mail verzenden wanneer u nieuwe gebruikers van het Portaal 
 1. In het scherm van de Opstelling van het Beleid van de Gebruiker, selecteer **[!UICONTROL Email Settings]**.
 1. Geef in het dialoogvenster E-mailinstellingen een of meer van de volgende instellingen op:
 
-   * **[!UICONTROL Send Email]** - Schakel deze optie uit als u nieuwe gebruikers per e-mail wilt laten weten dat u ze hebt aangemeld.
+   * **[!UICONTROL Send Email]**: Schakel deze optie uit als u nieuwe gebruikers per e-mail wilt laten weten dat u ze hebt aangemeld.
 
-   * **[!UICONTROL Default Password]** - Voer een tijdelijk wachtwoord in voor nieuwe gebruikers of laat het veld leeg om Adobe Dynamic Media Classic willekeurige wachtwoorden te laten genereren. Gebruikers wordt gevraagd wachtwoorden te wijzigen wanneer zij zich voor het eerst aanmelden.
+   * **[!UICONTROL Default Password]**: Voer een tijdelijk wachtwoord in voor nieuwe gebruikers of laat het veld leeg om Adobe Dynamic Media Classic willekeurige wachtwoorden te laten genereren. Gebruikers wordt gevraagd wachtwoorden te wijzigen wanneer zij zich voor het eerst aanmelden.
 
-   * **[!UICONTROL Replacement URL]** - Voer een andere URL in dan de standaardURL als uw gebruikers Adobe Dynamic Media Classic openen via een andere URL.
+   * **[!UICONTROL Replacement URL]**: Voer een andere URL in dan de standaard als uw gebruikers Adobe Dynamic Media Classic openen via een andere URL.
 
 ## Andere taken voor gebruikersbeheer {#other-user-management-tasks}
 
 Beginnend op het scherm van de Opstelling van het Beleid van de Gebruiker, kunt u deze taken ook doen:
 
-* **[!UICONTROL Filter and sort the user list]** - Filter de lijst met gebruikers van Media Portal om gebruikers te zoeken.
+* **[!UICONTROL Filter and sort the user list]**: Filter de lijst met gebruikers van Media Portal om gebruikers te zoeken.
 
-* **[!UICONTROL Delete users]** - Verwijder een gebruiker uit de lijst.
+* **[!UICONTROL Delete users]**: Verwijder een gebruiker uit de lijst.
 
-* **[!UICONTROL Activate and deactivate users]** - Een gebruiker de toegang tot mappen opschorten.
+* **[!UICONTROL Activate and deactivate users]**: Een gebruiker de toegang tot mappen ontzeggen.
 
-* **[!UICONTROL Edit user information]** - Voer actuele informatie in over een gebruiker.
+* **[!UICONTROL Edit user information]**: Voer actuele informatie over een gebruiker in.
 
-* **[!UICONTROL Create user-defined fields]** - Maak aangepaste, door de gebruiker gedefinieerde metagegevensvelden zodat u elementen in de Adobe Dynamic Media Classic kunt ordenen. De velden kunnen desgewenst ook worden geactiveerd of gedeactiveerd.
+* **[!UICONTROL Create user-defined fields]**: Maak aangepaste, door de gebruiker gedefinieerde metagegevensvelden zodat u elementen in de Adobe Dynamic Media Classic kunt ordenen. De velden kunnen desgewenst ook worden geactiveerd of gedeactiveerd.
 
 Zie [Door gebruiker gedefinieerde velden](application-setup.md#user_defined_fields).

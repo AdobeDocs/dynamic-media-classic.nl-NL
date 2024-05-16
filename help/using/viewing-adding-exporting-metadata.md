@@ -10,7 +10,7 @@ role: User
 exl-id: 2be50cc7-9a8b-4f7b-8ebf-18a3208654f2
 topic: Content Management
 level: Intermediate
-source-git-commit: de6997fda88c4471625242ee9cca59b344cee945
+source-git-commit: bc3b696bfde0ed55894cdcbf3533299ae7697e98
 workflow-type: tm+mt
 source-wordcount: '2154'
 ht-degree: 0%
@@ -31,11 +31,11 @@ Zie voor meer informatie over ingesloten metagegevens [Extensible Metadata Platf
 
 Als u de metagegevens van een element wilt weergeven, opent u het element in de gedetailleerde weergave en tikt u op het deelvenster Metagegevens. Als u een set metagegevensvelden wilt selecteren, kiest u een optie in het menu Weergave metagegevens. Adobe Dynamic Media Classic biedt de volgende weergaven van metagegevens:
 
-* **Compacte weergave** - Een basislijst met waarden.
+* **Compacte weergave**: Een basislijst met waarden.
 
-* **IPTC** - Waarden zoals gedefinieerd door de Internationale Raad voor de Telecommunicatie van de Pers.
+* **IPTC**: Waarden zoals gedefinieerd door de Internationale Raad voor de Telecommunicatie van de Pers.
 
-* **XMP** - Waarden zoals gedefinieerd door het uitbreidbare metagegevensprogramma.
+* **XMP**: Waarden zoals gedefinieerd door het uitbreidbare metagegevensprogramma.
 
 Beheerders kunnen weergaven van metagegevens maken. Deze weergaven worden ook weergegeven in het menu Weergaven metagegevens.
 
@@ -185,13 +185,13 @@ Het systeem genereert automatisch een aangepast schema voor door de gebruiker ge
 
 De redacteur van het Schema van Meta-gegevens biedt een grafische manier aan om een douaneschema binnen Adobe Dynamic Media Classic toe te voegen of uit te geven. Een voorvoegsel, een naamruimte en een lijst met eigenschappen definiëren een schema.
 
-* **[!UICONTROL Name]** - UI-naam voor het schema. Hiermee identificeert u de eigenschappen in Metagegevensweergaven en Geavanceerd zoeken. Vergelijkbaar met XMP secties zoals Standaard, IPTC, PDF.
+* **[!UICONTROL Name]**: UI-naam voor het schema. Hiermee identificeert u de eigenschappen in Metagegevensweergaven en Geavanceerd zoeken. Vergelijkbaar met XMP secties zoals Standaard, IPTC, PDF.
 
-* **[!UICONTROL Prefix]** - Technische unieke id voor het schema. Beperkt tot de letters a-z en A-Z. Het voorvoegsel is niet zichtbaar in de gebruikersinterface van Adobe Dynamic Media Classic, maar wordt gebruikt wanneer metagegevens voor een element worden opgeslagen in het XMP en de database. Het voorvoegsel identificeert uniek meta-gegevensgebieden in meta-gegevensonderzoek vragen op de Server of de invoer van Meta-gegevens.
+* **[!UICONTROL Prefix]**: Technische unieke id voor het schema. Beperkt tot de letters a-z en A-Z. Het voorvoegsel is niet zichtbaar in de gebruikersinterface van Adobe Dynamic Media Classic, maar wordt gebruikt wanneer metagegevens voor een element worden opgeslagen in het XMP en de database. Het voorvoegsel identificeert uniek meta-gegevensgebieden in meta-gegevensonderzoek vragen op de Server of de invoer van Meta-gegevens.
 
-* **[!UICONTROL Namespace]** - Technische unieke id voor het schema, doorgaans een URL in het formulier `https://your.company.com/name/version/`. Zie de lijst met standaardschema&#39;s voor voorbeelden. De naamruimte is niet zichtbaar in de gebruikersinterface van Adobe Dynamic Media Classic, maar wordt gebruikt om metagegevens op te slaan in het XMP.
+* **[!UICONTROL Namespace]**: Technische unieke id voor het schema, doorgaans een URL in het formulier `https://your.company.com/name/version/`. Zie de lijst met standaardschema&#39;s voor voorbeelden. De naamruimte is niet zichtbaar in de gebruikersinterface van Adobe Dynamic Media Classic, maar wordt gebruikt om metagegevens op te slaan in het XMP.
 
-* **[!UICONTROL Description]** - Vrije vorm van het schema.
+* **[!UICONTROL Description]**: Vrije-vormbeschrijving van het schema.
 
 >[!NOTE]
 >

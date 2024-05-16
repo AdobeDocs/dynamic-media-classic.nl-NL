@@ -1,6 +1,6 @@
 ---
-title: Een eCatalog koppelen aan een webpagina
-description: Leer hoe u een eCatalog koppelt aan een webpagina in Adobe Dynamic Media Classic.
+title: Een eCatalog aan een Web-pagina koppelen
+description: Leer hoe u een eCatalog aan een Web-pagina in Adobe Dynamic Media Classic koppelt.
 contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
@@ -10,14 +10,14 @@ role: User
 exl-id: aee72576-1e3e-401c-953d-cc2be27f7dfd
 topic: Integrations, Development
 level: Experienced
-source-git-commit: f054057d383b26e9088582f418f62504c3f327d8
+source-git-commit: bc3b696bfde0ed55894cdcbf3533299ae7697e98
 workflow-type: tm+mt
 source-wordcount: '610'
 ht-degree: 0%
 
 ---
 
-# Een eCatalog koppelen aan een webpagina{#linking-an-ecatalog-to-a-web-page}
+# Een eCatalog aan een Web-pagina koppelen{#linking-an-ecatalog-to-a-web-page}
 
 Uw websites en toepassingen hebben via URL-tekenreeksen of ingesloten code toegang tot Dynamic Media Image Server-inhoud, inclusief eCatalogs. Deze URL-tekenreeksen worden geactiveerd tijdens het publicatieproces. Als u de URL-tekenreeks of ingesloten code voor uw eCatalog wilt plaatsen in uw webpagina&#39;s en toepassingen, kopieert u deze vanuit Adobe Dynamic Media Classic.
 
@@ -44,15 +44,15 @@ Uw websites en toepassingen hebben via URL-tekenreeksen of ingesloten code toega
 
      Selecteer in de pagina Viewer List onder de kolom Acties van de tabel de optie **URL kopiëren**.
 
-## ECatalog-URL&#39;s toevoegen aan uw webpagina {#adding-ecatalog-urls-to-your-web-page}
+## ECatalog URLs aan uw Web-pagina toevoegen {#adding-ecatalog-urls-to-your-web-page}
 
-De meest gebruikelijke manier om een eCatalog in te voeren is een verbinding in de vorm van een eCatalog duimnagelomslag op uw Web-pagina te plaatsen. Werk samen met uw IT-team om ervoor te zorgen dat de eCatalog wordt gestart in een schoon, gecentreerd pop-upvenster. Vraag uw IT-team om de werkbalk en adresbalk in de browser niet weer te geven.
+De gemeenschappelijkste manier om een eCatalog op te stellen is een verbinding in de vorm van een de omslagpagina van de eCatalogduimnagel op uw Web-pagina te plaatsen. Werk samen met uw IT-team om ervoor te zorgen dat de eCatalog wordt gestart in een schoon, gecentreerd pop-upvenster. Vraag uw IT-team om de werkbalk en adresbalk in de browser niet weer te geven.
 
 Zie voor meer informatie en codevoorbeelden [HTML5 eCatalog Viewer insluiten in de Adobe Viewers Reference Guide](https://experienceleague.adobe.com/en/docs/dynamic-media-developer-resources/library/viewers-aem-assets-dmc/ecatalog/c-html5-20-ecatalog-viewer-about#section-e1c3106f5b3e445d9b95be337c2f94e2).
 
 ## De insluitcode van een eCatalog-viewer kopiëren {#copying-the-embed-code-of-an-ecatalog-viewer}
 
-Met de functie Code insluiten kunt u de viewercode voor de geselecteerde eCatalog controleren. U kunt de code ook naar het klembord kopiëren, zodat u de code op uw webpagina&#39;s kunt plakken en de viewer kunt implementeren. U mag de code niet bewerken in het dialoogvenster Code insluiten.
+Met de functie Code insluiten kunt u de viewercode voor de geselecteerde eCatalog controleren. U kunt de code aan het klembord ook kopiëren zodat kunt u het in uw Web-pagina&#39;s voor plaatsing van de kijker kleven. U mag de code niet bewerken in het dialoogvenster Code insluiten.
 
 **De insluitcode van een eCatalog-viewer kopiëren:**
 

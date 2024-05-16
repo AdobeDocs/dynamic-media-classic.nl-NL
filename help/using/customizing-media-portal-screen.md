@@ -10,7 +10,7 @@ role: Admin,User
 exl-id: b0c5f70a-2388-42aa-a1ed-fd745ff90518
 topic: Collaboration, Content Management
 level: Intermediate
-source-git-commit: b2a6aeb1aab420803a8b7dafb0fdeda495e2a69b
+source-git-commit: bc3b696bfde0ed55894cdcbf3533299ae7697e98
 workflow-type: tm+mt
 source-wordcount: '329'
 ht-degree: 0%
@@ -23,21 +23,21 @@ Met de Media Portal-stijlinstellingen kunt u het scherm Media Portal voorzien va
 
 Ga voor toegang tot de stijlinstellingen naar **[!UICONTROL Setup]** > **[!UICONTROL Media Portal Setup]** > **[!UICONTROL Style Settings]**. Zorg ervoor dat u **[!UICONTROL Save]** om uw instellingen op te slaan nadat u deze hebt gemaakt. U kunt **[!UICONTROL Restore]** om de standaardinstellingen terug te halen. Terwijl u uw keuzes maakt, wordt in het deelvenster Voorvertoning weergegeven hoe deze worden weergegeven.
 
-* **[!UICONTROL Logo]** - Selecteer **[!UICONTROL Browse]** en kies vervolgens een afbeelding in het venster Logoafbeelding selecteren.
+* **[!UICONTROL Logo]**: Select **[!UICONTROL Browse]** en kies vervolgens een afbeelding in het venster Logoafbeelding selecteren.
 
-* **[!UICONTROL Application]** - Maak een verloopkleurovervloeiing door keuzes te maken in de menu&#39;s van Achtergrondverloopkleuren.
+* **[!UICONTROL Application]**: Maak een verloopkleurovervloeiing door keuzes te maken in de menu&#39;s van de Achtergrondverloopkleuren.
 
-* **[!UICONTROL Tree]** - Kies een rollover-kleur (de kleur die wordt weergegeven wanneer u de aanwijzer over een item beweegt) en een selectiekleur (de kleur die wordt weergegeven wanneer u een item selecteert).
+* **[!UICONTROL Tree]**: Kies een rollover-kleur (de kleur die wordt weergegeven wanneer u de aanwijzer over een item beweegt) en een selectiekleur (de kleur die wordt weergegeven wanneer u een item selecteert).
 
-* **[!UICONTROL Accordion]** - Kies achtergrondkleuren, een randstijl, de rollover en de geselecteerde kleuren voor de accordeon die in de weergave Details rechts op het scherm wordt weergegeven.
+* **[!UICONTROL Accordion]**: Kies achtergrondkleuren, een randstijl, de rollover en de geselecteerde kleuren voor de accordeon die in de weergave Details rechts op het scherm wordt weergegeven.
 
-* **[!UICONTROL Accordion Header]** - Kies of u tekst in de koptekst van de accordeon vet wilt maken.
+* **[!UICONTROL Accordion Header]**: Kies of u tekst in de vetgedrukte accordeonkoptekst wilt maken.
 
-* **[!UICONTROL Datagrid]** - Kies kleuren voor de koptekstrij in gegevensrasters.
+* **[!UICONTROL Datagrid]**: Kies kleuren voor de koptekstrij in gegevensrasters.
 
-* **[!UICONTROL Alert]** - Kies een achtergrondkleur voor waarschuwingsberichtvensters.
+* **[!UICONTROL Alert]**: Kies een achtergrondkleur voor waarschuwingsberichtvensters.
 
-* **[!UICONTROL Progress Bar]** - Kies een kleur voor de balk die de voortgang van uploads en downloads aangeeft.
+* **[!UICONTROL Progress Bar]**: Kies een kleur voor de balk die de voortgang van het uploaden en downloaden aangeeft.
 
 Voor gebruikers van Media Portal om de stijlmontages te zien die u verkoos, moeten zij toevoegen `?company=(company name)` aan URL waarmee zij tot het Portaal van Media toegang hebben. Bijvoorbeeld, om stijlmontages te zien, de gebruikers van het Portaal van Media die tot het bedrijf PortalCo bij het volgende toegang hebben:
 

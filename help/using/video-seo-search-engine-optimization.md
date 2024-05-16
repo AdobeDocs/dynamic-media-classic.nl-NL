@@ -10,7 +10,7 @@ role: Admin
 exl-id: f76b0e09-f148-46aa-b710-ec35bfebcb37
 topic: Content Management
 level: Intermediate
-source-git-commit: b2a6aeb1aab420803a8b7dafb0fdeda495e2a69b
+source-git-commit: bc3b696bfde0ed55894cdcbf3533299ae7697e98
 workflow-type: tm+mt
 source-wordcount: '980'
 ht-degree: 0%
@@ -23,15 +23,15 @@ SEO is het proces om het volume van verkeer aan een Website van onderzoeksmotore
 
 Met Adobe Dynamic Media Classic Video SEO kunt u videometagegevens toepassen om zoekprogramma&#39;s beschrijvingen van uw video&#39;s te bieden. Adobe Dynamic Media Classic biedt u de mogelijkheid om videositemaps en mRSS-feeds te maken. Deze standaard XML-bestanden worden gebruikt voor het verzenden van videogegevens naar zoekprogramma&#39;s:
 
-* **Video Sitemap** - Hiermee wordt Google precies aangegeven waar en wat de video-inhoud op een site is. Op Google kunnen dus volledig naar video&#39;s worden gezocht. Een videositemap kan bijvoorbeeld de actieve tijd en de categorieën video&#39;s opgeven. Voor informatie over video Sitemaps raadpleegt u [Videositemaps en alternatieven voor videositemap](https://developers.google.com/search/docs/crawling-indexing/sitemaps/video-sitemaps?visit_id=637558394348624754-567115452&amp;rd=1).
+* **Video Sitemap**: Hiermee wordt Google precies aangegeven waar en wat de video-inhoud op een site is. Op Google kunnen dus volledig naar video&#39;s worden gezocht. Een videositemap kan bijvoorbeeld de actieve tijd en de categorieën video&#39;s opgeven. Voor informatie over video Sitemaps raadpleegt u [Videositemaps en alternatieven voor videositemap](https://developers.google.com/search/docs/crawling-indexing/sitemaps/video-sitemaps?visit_id=637558394348624754-567115452&amp;rd=1).
 
-* **mRSS-feed (Media Echt eenvoudige syntaxis)** - Wordt gebruikt door uitgevers van inhoud om mediabestanden naar Yahoo te verzenden! Video zoeken. Voor informatie over mRSS feeds, zie [Videositemaps en alternatieven voor videositemap](https://developers.google.com/search/docs/crawling-indexing/sitemaps/video-sitemaps?visit_id=637558394348624754-567115452&amp;rd=1).
+* **mRSS-feed (Media Echt eenvoudige syntaxis)**: Wordt gebruikt door uitgevers van inhoud om mediabestanden te importeren in Yahoo! Video zoeken. Voor informatie over mRSS feeds, zie [Videositemaps en alternatieven voor videositemap](https://developers.google.com/search/docs/crawling-indexing/sitemaps/video-sitemaps?visit_id=637558394348624754-567115452&amp;rd=1).
 
 >[!NOTE]
 >
 >Google ondersteunt zowel het Video Sitemap- als het mRSS-feed-protocol voor het verzenden van informatie naar zoekmachines.
 
-Adobe Dynamic Media Classic kan videobeelden Sitemaps en mRSS-feeds genereren op basis van metagegevens die bij elke video worden opgeslagen. Wanneer u videositemaps en mRSS-feeds maakt, bepaalt u welke metagegevensvelden van videobestanden moeten worden opgenomen. Op deze manier beschrijft u uw video&#39;s aan zoekmachines zodat zoekprogramma&#39;s het verkeer naar video&#39;s op uw website nauwkeuriger kunnen sturen.
+Adobe Dynamic Media Classic kan videobeelden Sitemaps en mRSS-feeds genereren op basis van metagegevens die bij elke video worden opgeslagen. Wanneer u videositemaps en mRSS-feeds maakt, bepaalt u welke metagegevensvelden van videobestanden moeten worden opgenomen. Op deze manier beschrijft u uw video&#39;s aan onderzoeksmotoren zodat de onderzoeksmotoren verkeer aan video&#39;s op uw Website nauwkeuriger kunnen leiden.
 
 >[!NOTE]
 >
@@ -55,27 +55,27 @@ Nadat u instellingen hebt gekozen, selecteert u **[!UICONTROL Save]** (of **[!UI
 
 Op de **[!UICONTROL Generation Mode]** drop-down lijst, kies een rapportwijze:
 
-* **Video Sitemap** - Maak een videositemap.
+* **Video Sitemap**: Maak een videositemap.
 
-* **mRSS Feed** - Maak een Media RSS-feed (mRSS).
+* **mRSS Feed**: Maak een Media RSS-feed (mRSS).
 
-* **Beide** - Maak beide typen XML-bestanden.
+* **Beide**: Maak beide typen XML-bestanden.
 
-* **Uit** - Kies deze optie om het genereren van video-items en media-RSS-feeds (mRSS) te stoppen.
+* **Uit**: Kies deze optie om het genereren van videositemaps en Media RSS-feeds (mRSS) te stoppen.
 
 Op de **[!UICONTROL Automatic/Manual Mode]** kiest u of u automatisch of handmatig wilt genereren:
 
-* **Automatische modus** - Adobe Dynamic Media Classic genereert automatisch elke dag één videositemap, Media RSS-feed (mRSS) of beide. Selecteer de **[!UICONTROL Mark for Publish]** om het door Adobe Dynamic Media Classic gegenereerde XML-bestand automatisch te markeren voor publicatie.
+* **Automatische modus**: Adobe Dynamic Media Classic genereert elke dag automatisch één videositemap, Media RSS-feed (mRSS) of beide. Selecteer de **[!UICONTROL Mark for Publish]** om het door Adobe Dynamic Media Classic gegenereerde XML-bestand automatisch te markeren voor publicatie.
 
    * **Markeren voor publicatie** Markeringen voor het publiceren van het XML-bestand dat wordt gegenereerd.
 
-* **Handmatige modus** - Adobe Dynamic Media Classic genereert de video Sitemap, Media RSS (mRSS)-feed of beide wanneer u **[!UICONTROL Generate]** of **[!UICONTROL Save & Generate]** in het scherm Optimalisatie-instellingen voor video zoeken. Kies ook de volgende opties:
+* **Handmatige modus**: Adobe Dynamic Media Classic genereert de video Sitemap, Media RSS (mRSS)-feed of beide wanneer u **[!UICONTROL Generate]** of **[!UICONTROL Save & Generate]** in het scherm Optimalisatie-instellingen voor video zoeken. Kies ook de volgende opties:
 
-   * **Geen verdere instellingen** - Voert geen markering voor publicatie van het XML-bestand dat wordt gegenereerd.
+   * **Geen verdere instellingen**: Hiermee wordt het gegenereerde XML-bestand niet gemarkeerd voor publicatie.
 
-   * **Markeren voor publicatie** - Markeringen voor het publiceren van het gegenereerde XML-bestand.
+   * **Markeren voor publicatie**: Markeringen voor het publiceren van het XML-bestand dat wordt gegenereerd.
 
-   * **Gedeeltelijke generatie toestaan** - Zoekprogramma&#39;s kunnen een XML-bestand afwijzen als het geen volledige metagegevens voor alle video&#39;s bevat. Met deze optie wordt het XML-bestand gegenereerd, zelfs als voor bepaalde video&#39;s geen metagegevens beschikbaar zijn. Een waarschuwing wordt geregistreerd op het scherm van het Rapport. Kies deze optie als u het XML-bestand wilt exporteren en de ontbrekende gegevens handmatig wilt verwerken.
+   * **Gedeeltelijke generatie toestaan**: Zoekprogramma&#39;s kunnen een XML-bestand afwijzen als het geen volledige metagegevens voor alle video&#39;s bevat. Met deze optie wordt het XML-bestand gegenereerd, zelfs als voor bepaalde video&#39;s geen metagegevens beschikbaar zijn. Een waarschuwing wordt geregistreerd op het scherm van het Rapport. Kies deze optie als u het XML-bestand wilt exporteren en de ontbrekende gegevens handmatig wilt verwerken.
 
 ### Generatie-instellingen kiezen {#choosing-generation-settings}
 

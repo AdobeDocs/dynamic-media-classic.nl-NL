@@ -6,7 +6,7 @@ user-guide-title: Adobe Dynamic Media Classic Guide
 breadcrumb-title: Dynamic Media Classic Guide
 user-guide-description: Meer informatie over Adobe Dynamic Media Classic gebruiken
 index: y
-source-git-commit: 910410706fbd9dd79a8dda402af454a50132cc41
+source-git-commit: bc3b696bfde0ed55894cdcbf3533299ae7697e98
 workflow-type: tm+mt
 source-wordcount: '796'
 ht-degree: 0%
@@ -26,7 +26,7 @@ ht-degree: 0%
 + [Aanmelden bij NIEUWE Adobe Dynamic Media Classic nu beschikbaar](new-ui-2020.md)
 + [Adobe Dynamic Media-nieuwsarchief per Experience League](dynamic-media-newsletter.md)
 + Introductie van Adobe Dynamic Media Classic {#intro}
-   + [Adobe Dynamic Media Classic Desktop-app - Nu beschikbaar](dynamic-media-classic-desktop-app.md)
+   + [Adobe Dynamic Media Classic Desktop-app: nu beschikbaar](dynamic-media-classic-desktop-app.md)
    + [Informatie over Adobe Dynamic Media Classic Help](introduction.md)
    + [Bronnen voor ontwikkelaars](developer-resources.md)
    + [Nieuwe functies](whats-new.md)
@@ -105,7 +105,7 @@ ht-degree: 0%
    + [Voorinstellingen eCatalog-viewer instellen](setting-ecatalog-viewer-presets.md)
    + [Voorvertoning van eCatalogi weergeven in de eCatalog-viewer](previewing-ecatalogs-ecatalog-viewer.md)
    + [E-catalogi en bijbehorende PDF publiceren](publishing-ecatalogs-associated-pdfs.md)
-   + [Een eCatalog koppelen aan een webpagina](linking-ecatalog-web-page.md)
+   + [Een eCatalog aan een Web-pagina koppelen](linking-ecatalog-web-page.md)
 + Afbeeldingssets {#image-sets}
    + [Snel starten: Afbeeldingssets](quick-start-image-sets.md)
    + [Afbeeldingsset-elementen voorbereiden voor uploaden](preparing-image-set-assets-upload.md)
@@ -114,7 +114,7 @@ ht-degree: 0%
    + [Inhoud in deelvenster Info beheren in afbeeldingssets](info-panel-content-image-sets.md)
    + [Afbeeldingssets weergeven](viewing-image-sets.md)
    + [Genereren van afbeeldingsset automatiseren](automated-image-set-generation.md)
-   + [Een Afbeeldingsset koppelen aan een webpagina](linking-image-set-web-page.md)
+   + [Een Afbeelding koppelen die is ingesteld op een webpagina](linking-image-set-web-page.md)
 + Staalsets {#swatch-sets}
    + [Snel starten: Staalsets](quick-start-swatch-sets.md)
    + [Zoomdoelen en afbeeldingen met hyperlinks opnemen in stalensets](including-zoom-targets-image-maps-swatch-sets.md)

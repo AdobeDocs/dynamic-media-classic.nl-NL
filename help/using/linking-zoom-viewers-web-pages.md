@@ -10,7 +10,7 @@ role: User
 exl-id: 2073d95b-1600-481f-8038-d29e8acacf7d
 topic: Administration, Content Management, Development
 level: Intermediate
-source-git-commit: f054057d383b26e9088582f418f62504c3f327d8
+source-git-commit: bc3b696bfde0ed55894cdcbf3533299ae7697e98
 workflow-type: tm+mt
 source-wordcount: '602'
 ht-degree: 0%
@@ -43,7 +43,7 @@ Via URL-tekenreeksen of ingesloten code krijgen uw websites en toepassingen toeg
 
      Selecteer in de pagina Viewer List onder de kolom Acties van de tabel de optie **[!UICONTROL Copy URL]**.
 
-## URL&#39;s voor zoomviewers toevoegen aan uw webpagina {#adding-zoom-viewer-urls-to-your-web-page}
+## URL&#39;s voor een zoomviewer toevoegen aan uw webpagina {#adding-zoom-viewer-urls-to-your-web-page}
 
 Doorgaans zoomen bezoekers op afbeeldingen op een website door eerst een zoompictogram te selecteren (vaak wordt met het pictogram de afbeelding van een vergrootglas weergegeven). Als u dit pictogram selecteert, wordt een dynamische webpagina (ASP of JSP) gestart die de afbeelding in een pop-upvenster weergeeft. In het pop-upvenster zoomen bezoekers daadwerkelijk op de afbeelding.
 
@@ -51,7 +51,7 @@ Zie voor meer informatie en codevoorbeelden [HTML5 Basic Zoom Viewer insluiten i
 
 ## De ingesloten kopie van een zoomviewer kopiëren {#copying-the-embed-copy-of-a-zoom-viewer}
 
-Met de functie Code insluiten kunt u de viewercode voor de geselecteerde zoomviewer controleren. U kunt de code ook naar het klembord kopiëren, zodat u de code op uw webpagina&#39;s kunt plakken en de viewer kunt implementeren. U mag de code niet bewerken in het dialoogvenster Code insluiten.
+Met de functie Code insluiten kunt u de viewercode voor de geselecteerde zoomviewer controleren. U kunt de code aan het klembord ook kopiëren zodat kunt u het in uw Web-pagina&#39;s voor plaatsing van de kijker kleven. U mag de code niet bewerken in het dialoogvenster Code insluiten.
 
 **De insluitcode van een zoomviewer kopiëren:**
 

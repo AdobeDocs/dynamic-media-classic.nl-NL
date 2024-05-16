@@ -10,7 +10,7 @@ role: Data Engineer,Admin,User
 exl-id: d9fda3b8-7da8-4a30-a5f8-9bb34ec1b43d
 topic: Integrations, Development
 level: Experienced
-source-git-commit: de6997fda88c4471625242ee9cca59b344cee945
+source-git-commit: bc3b696bfde0ed55894cdcbf3533299ae7697e98
 workflow-type: tm+mt
 source-wordcount: '1217'
 ht-degree: 0%
@@ -59,7 +59,7 @@ Gebruik het Adobe Analytics-configuratiescherm om viewergebeurtenissen te koppel
 
 ### Viewer-gebeurtenissen {#viewer-events}
 
-Viewergebeurtenissen beschrijven acties die gebruikers met Dynamic Media Classic-viewers uitvoeren. Wanneer een gebruiker een actie start, zoals het selecteren van een miniatuur of het starten of stoppen van een video, &quot;zendt de viewer&quot; een gebeurtenis naar de webpagina. Gegevens die aan die gebeurtenis zijn gekoppeld, worden ook geduwd.
+Viewergebeurtenissen beschrijven acties die gebruikers met Dynamic Media Classic-viewers uitvoeren. Wanneer een gebruiker een actie, zoals het selecteren van een duimnagel of het beginnen of het tegenhouden van een video in werking stelt, &quot;uitzendt de kijker&quot;een gebeurtenis aan de Web-pagina. Gegevens die aan die gebeurtenis zijn gekoppeld, worden ook geduwd.
 
 In de volgende tabel worden de viewergebeurtenissen beschreven die u kunt toevoegen aan het Adobe Analytics-configuratiescherm.
 
@@ -105,8 +105,8 @@ In de volgende tabel worden Adobe Dynamic Media Classic-variabelen beschreven:
 
 In het configuratiescherm van Adobe Analytics kunt u viewergebeurtenissen activeren, bewerken en verwijderen:
 
-* **Activeren** - Selecteer **[!UICONTROL Enable]** om te activeren of **[!UICONTROL Disable]** om een geselecteerde viewergebeurtenis te deactiveren.
+* **Activeren**: Select **[!UICONTROL Enable]** om te activeren of **[!UICONTROL Disable]** om een geselecteerde viewergebeurtenis te deactiveren.
 
-* **Bewerken** - Selecteer een viewergebeurtenis en selecteer de optie **[!UICONTROL View/Edit]** De grijze knop Variabelen. Kies in de vervolgkeuzelijsten met de variabelen Adobe Dynamic Media Classic en Adobe Analytics een andere variabele uit elke respectievelijke lijst. Zie voor meer informatie [Adobe Analytics-variabelen toewijzen aan Adobe Dynamic Media Classic-viewergebeurtenissen en -variabelen](#assigning-adobe-analytics-variables-to-scene-viewer-events-and-variables).
+* **Bewerken**: Selecteer een viewergebeurtenis en selecteer de optie **[!UICONTROL View/Edit]** De grijze knop Variabelen. Kies in de vervolgkeuzelijsten met de variabelen Adobe Dynamic Media Classic en Adobe Analytics een andere variabele uit elke respectievelijke lijst. Zie voor meer informatie [Adobe Analytics-variabelen toewijzen aan Adobe Dynamic Media Classic-viewergebeurtenissen en -variabelen](#assigning-adobe-analytics-variables-to-scene-viewer-events-and-variables).
 
-* **Verwijderen** - Selecteer een viewergebeurtenis en selecteer de optie **[!UICONTROL View/Edit]** De grijze knop Variabelen. Selecteren **[!UICONTROL Delete]**.
+* **Verwijderen**: Selecteer een viewergebeurtenis en selecteer de optie **[!UICONTROL View/Edit]** De grijze knop Variabelen. Selecteren **[!UICONTROL Delete]**.

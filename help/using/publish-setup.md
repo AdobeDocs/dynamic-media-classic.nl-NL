@@ -9,7 +9,7 @@ role: Admin
 exl-id: 699d4c12-e47b-4c6b-86f3-dc7aaaa56c1e
 topic: Administration, Content Management
 level: Intermediate
-source-git-commit: edd893482cbafd9674a44cf9878b8ee3079d98f7
+source-git-commit: 29752cf9eca0fc9bb760c721e1c3dc8e4ef912c3
 workflow-type: tm+mt
 source-wordcount: '2318'
 ht-degree: 0%
@@ -26,15 +26,15 @@ Ga naar **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONT
 
 >[!NOTE]
 >
->De pagina&#39;s van de Opstelling van de Publish zijn voor gebruik door ervaren websiteontwikkelaars en programmeurs. Adobe Dynamic Media Classic gaat ervan uit dat gebruikers die de instellingen op deze pagina&#39;s wijzigen, bekend zijn met Adobe Dynamic Media Classic, de normen en conventies voor HTTP-protocollen en de basistechnologie voor beeldbewerking.
+>De pagina&#39;s van de Publish Opstelling zijn voor gebruik door ervaren ontwikkelaars en programmeurs van de Website. Adobe Dynamic Media Classic gaat ervan uit dat gebruikers die de instellingen op deze pagina&#39;s wijzigen, bekend zijn met Adobe Dynamic Media Classic, de normen en conventies voor HTTP-protocollen en de basistechnologie voor beeldbewerking.
 
 ## Afbeeldingsserver {#image-server}
 
-De pagina van de Server van het Beeld vestigt standaardmontages voor het leveren van beelden van beeldservers. De montages zijn beschikbaar in deze vijf categorieën (zie de pagina van de Server van het Beeld zelf voor gedetailleerde beschrijvingen van de montages).
+De pagina van de Server van het Beeld vestigt standaardmontages voor het leveren van beelden van de Servers van het Beeld. De montages zijn beschikbaar in deze vijf categorieën (zie de pagina van de Server van het Beeld zelf voor gedetailleerde beschrijvingen van de montages).
 
 Wijzig deze instellingen alleen met hulp van een Adobe Dynamic Media Classic-medewerker.
 
-* **[!UICONTROL Catalog Management]**: Deze instellingen bepalen de interactie tussen Adobe Dynamic Media Classic en de catalogus. In tegenstelling tot de meeste webservers gaan URL-aanroepen van Dynamic Media Image Server naar een manifest-of catalogusbestand in plaats van naar het eigenlijke afbeeldingsbestand. Het catalogusbestand (dat niet moet worden verward met een eCatalog) bevat een lijst met alle inhoud die naar de afbeeldingsserver is gepubliceerd. Het bevat ook het pad naar elke afbeelding. Als u een Digimarc-id hebt, voert u uw gebruikersgegevens in het gedeelte Digimarc-gebruikersinfo in.
+* **[!UICONTROL Catalog Management]**: Deze instellingen bepalen de interactie tussen Adobe Dynamic Media Classic en de catalogus. In tegenstelling tot de meeste servers van het Web, gaan de vraag van de Server URL van het Beeld van Dynamic Media naar manifest-of catalogusdossier eerder dan een beelddossier juist. Het catalogusbestand (dat niet moet worden verward met een eCatalog) bevat een lijst met alle inhoud die naar de afbeeldingsserver is gepubliceerd. Het bevat ook het pad naar elke afbeelding. Als u een Digimarc-id hebt, voert u uw gebruikersgegevens in het gedeelte Digimarc-gebruikersinfo in.
 
 * **[!UICONTROL Request Attributes]**: Met deze instellingen worden limieten ingesteld voor afbeeldingen die van de server kunnen worden geleverd. Bijvoorbeeld de *maximum* **[!UICONTROL Reply Image Size Limit]** is **[!UICONTROL Width]** 5000 en **[!UICONTROL Height]** 5000.
 
@@ -160,7 +160,7 @@ De landinstellings-id&#39;s worden toegewezen aan de corresponderende achtervoeg
 | en, en_us, en_uk | myImg_E, myImg |
 | de, de_de, de_at | myImg_D, myImg |
 | fr | myImg_F, myImg |
-| Alle andere | - |
+| Alle andere | : |
 
 ##### De localeMap zoeken wanneer de landinstelling onbekend is
 
@@ -222,15 +222,15 @@ Wanneer het eerste voorbeeld als basis wordt gebruikt, kunnen afbeeldingen voor 
 
 De pagina Renderer van het Beeld vestigt standaardmontages voor het leveren van de Reeksen van het Beeld van beeld-teruggevende servers. De montages zijn beschikbaar in deze vijf categorieën (zie de pagina van de Server van het Beeld zelf voor gedetailleerde beschrijvingen van de montages):
 
-* **[!UICONTROL Catalog Management]** - Deze instellingen bepalen de interactie tussen Adobe Dynamic Media Classic en het catalogusbestand. Adobe Dynamic Media Classic Render Server URL-aanroepen worden uitgevoerd naar de catalogus, die op zijn beurt aanroepen om afbeeldingen van de server te leveren. Wijzig deze instellingen alleen met hulp van een Adobe Dynamic Media Classic-medewerker.
+* **[!UICONTROL Catalog Management]**: Deze instellingen bepalen de interactie tussen Adobe Dynamic Media Classic en het catalogusbestand. Adobe Dynamic Media Classic Render Server URL-aanroepen worden uitgevoerd naar de catalogus, die op zijn beurt aanroepen om afbeeldingen van de server te leveren. Wijzig deze instellingen alleen met hulp van een Adobe Dynamic Media Classic-medewerker.
 
-* **[!UICONTROL Session Attributes]** - Met deze instellingen worden foutparameters, de URL voor relatieve afbeeldings-URL&#39;s en of objectoverlapping is toegestaan.
+* **[!UICONTROL Session Attributes]**: Met deze instellingen worden foutparameters, de URL voor relatieve afbeeldings-URL&#39;s en of objectoverlapping is toegestaan.
 
-* **[!UICONTROL Default Material Attributes]** - Met deze instellingen stelt u de standaardresolutie en verscherpingsinstellingen voor afbeeldingen in.
+* **[!UICONTROL Default Material Attributes]**: Met deze instellingen worden de standaardresolutie en verscherpingsinstellingen voor afbeeldingen ingesteld.
 
-* **[!UICONTROL Response Image Attributes]** - Deze instellingen hebben betrekking op de standaardweergave van afbeeldingen.
+* **[!UICONTROL Response Image Attributes]**: Deze instellingen hebben betrekking op de standaardweergave van afbeeldingen.
 
-* **[!UICONTROL Color Management Attributes]** - Deze instellingen hebben betrekking op de standaardkleurinstellingen van afbeeldingen.
+* **[!UICONTROL Color Management Attributes]**: Deze instellingen hebben betrekking op de standaardkleurinstellingen van afbeeldingen.
 
 ## Vignet {#vignette}
 

@@ -1,5 +1,5 @@
 ---
-title: Een Afbeeldingsset koppelen aan een webpagina
+title: Een Afbeelding koppelen die is ingesteld op een webpagina
 description: Leer hoe u een Afbeeldingsset koppelt aan een webpagina in Adobe Dynamic Media Classic.
 contentOwner: Rick Brough
 content-type: reference
@@ -10,16 +10,16 @@ role: User
 exl-id: df4e5218-2a66-413c-b247-b2a16d884041
 topic: Content Management
 level: Intermediate
-source-git-commit: f054057d383b26e9088582f418f62504c3f327d8
+source-git-commit: bc3b696bfde0ed55894cdcbf3533299ae7697e98
 workflow-type: tm+mt
 source-wordcount: '613'
 ht-degree: 0%
 
 ---
 
-# Een Afbeeldingsset koppelen aan een webpagina{#linking-an-image-set-to-a-web-page}
+# Een Afbeelding koppelen die is ingesteld op een webpagina{#linking-an-image-set-to-a-web-page}
 
-Nadat u een Afbeeldingsset hebt gepubliceerd, kunt u de bijbehorende URL of de bijbehorende insluitcode kopiëren en gebruiken in uw website of toepassing. Vervolgens kunt u indien nodig de URL implementeren of de insluitcode plakken, zodat gebruikers de Afbeeldingsset op uw website of toepassing kunnen bekijken.
+Nadat u een Reeks van het Beeld publiceert, kunt u zijn bijbehorende URL of zijn ingebed code voor gebruik in uw Website of toepassing kopiëren. Dan kunt u URL opstellen of de inbedcode kleven zonodig zodat kunnen de gebruikers het Beeld bekijken dat op uw Website of toepassing wordt geplaatst.
 
 >[!NOTE]
 >
@@ -46,13 +46,13 @@ Nadat u een Afbeeldingsset hebt gepubliceerd, kunt u de bijbehorende URL of de b
 
 ## URL&#39;s van afbeeldingssets toevoegen aan uw webpagina {#adding-image-set-urls-to-your-web-page}
 
-De gemeenschappelijkste manier om de Reeksen van het Beeld op te stellen is een verbinding (door een navigatiepictogram) op uw Web-pagina te plaatsen. Als deze optie is geselecteerd, wordt een dynamische pagina (JSP) gestart waarop de Afbeeldingsset wordt weergegeven in een pop-upzoomvenster. Met de zoomkoppeling wordt een pop-upvenster geopend dat de eigenlijke zoomfunctie bevat.
+De gemeenschappelijkste manier om de Reeksen van het Beeld op te stellen is een verbinding (als navigatiepictogram) op uw Web-pagina te plaatsen. Als deze optie is geselecteerd, wordt een dynamische pagina (JSP) gestart waarop de Afbeeldingsset wordt weergegeven in een pop-upzoomvenster. Met de zoomkoppeling wordt een pop-upvenster geopend dat de eigenlijke zoomfunctie bevat.
 
 Zie voor meer informatie en codevoorbeelden [HTML5-zoomviewer insluiten in de naslaggids voor Adobe viewers](https://experienceleague.adobe.com/en/docs/dynamic-media-developer-resources/library/viewers-aem-assets-dmc/zoom/c-html5-20-zoom-viewer-about#section-e1c3106f5b3e445d9b95be337c2f94e2).
 
 ## De insluitcode van een viewer voor een afbeeldingsset kopiëren {#copying-the-embed-code-of-an-image-set-viewer}
 
-Met de functie Code insluiten kunt u de viewercode voor de geselecteerde afbeeldingsset controleren. U kunt de code ook naar het klembord kopiëren, zodat u de code op uw webpagina&#39;s kunt plakken en de viewer kunt implementeren. U mag de code niet bewerken in het dialoogvenster Code insluiten.
+Met de functie Code insluiten kunt u de viewercode voor de geselecteerde afbeeldingsset controleren. U kunt de code aan het klembord ook kopiëren zodat kunt u het in uw Web-pagina&#39;s voor plaatsing van de kijker kleven. U mag de code niet bewerken in het dialoogvenster Code insluiten.
 
 **U kunt als volgt de insluitcode van een viewer voor een afbeeldingsset kopiëren:**
 

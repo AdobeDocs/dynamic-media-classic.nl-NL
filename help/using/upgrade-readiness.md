@@ -6,7 +6,7 @@ role: Admin,User
 exl-id: 86537998-b7e9-449c-83eb-6fd04533a00f
 topic: Administration, Migration
 level: Intermediate
-source-git-commit: ae7d0c6d3047d68ed3da4187ef516dc51c95de30
+source-git-commit: bc3b696bfde0ed55894cdcbf3533299ae7697e98
 workflow-type: tm+mt
 source-wordcount: '224'
 ht-degree: 0%
@@ -28,5 +28,5 @@ Gebruik de volgende controlelijst om u te helpen begrijpen en voorbereidingen tr
 | **Fase 5: Administratieve instellingen** | Gebruikers en machtigingen instellen | Maak gebruikers en geef de juiste machtigingen. |
 |   | Videocoderingsprofielen instellen | Maak videocoderingsprofielen. |
 |   | Voorinstellingen viewer instellen | Maak viewervoorinstellingen. |
-|   | Voorinstellingen voor afbeeldingen instellen | Voorinstellingen voor afbeeldingen instellen. |
+|   | Voorinstellingen afbeelding instellen | Voorinstellingen voor afbeeldingen instellen. |
 | **Fase 6: Validatie** | Validatie | Verifieer gebruiksgevallen, activa, verbindingen, en APIs. |

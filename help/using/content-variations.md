@@ -10,7 +10,7 @@ role: User
 exl-id: 65b8c314-7ec1-417f-8a7b-aa13762072a1
 topic: Content Management
 level: Intermediate
-source-git-commit: b2a6aeb1aab420803a8b7dafb0fdeda495e2a69b
+source-git-commit: bc3b696bfde0ed55894cdcbf3533299ae7697e98
 workflow-type: tm+mt
 source-wordcount: '240'
 ht-degree: 0%
@@ -25,7 +25,7 @@ Maak een sjabloonset om variaties van een sjabloon te beheren. U kunt bepalen we
 
 Universele URL&#39;s worden gebruikt om de sjabloonvariatie weer te geven die op de pagina wordt weergegeven, op basis van de volgorde waarin ze in de set worden weergegeven. De sjabloon boven aan de lijst met sjabloonsets wordt altijd gepubliceerd.
 
-U kunt elke vooraf ingestelde URL voor afbeeldingen uit de lijst gebruiken. URL&#39;s met voorinstellingen voor afbeeldingen zijn vergelijkbaar met universele URL&#39;s. Er kunnen meerdere vooraf ingestelde URL&#39;s voor afbeeldingen zijn.
+U kunt elke URL met voorinstellingen voor afbeeldingen uit de lijst gebruiken. URL&#39;s met voorinstellingen voor afbeeldingen zijn vergelijkbaar met universele URL&#39;s. Er kunnen meerdere URL&#39;s met voorinstellingen voor afbeeldingen zijn.
 
 1. Ga naar **[!UICONTROL Build]** > **[!UICONTROL Template Sets]**.
 1. Selecteer in de builder een sjabloon en selecteer vervolgens **[!UICONTROL Add/Preview]**.

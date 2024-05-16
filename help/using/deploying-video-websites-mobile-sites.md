@@ -10,7 +10,7 @@ role: User
 exl-id: 3df22d48-edb5-4927-aefb-104b53f81f1a
 topic: Content Management
 level: Intermediate
-source-git-commit: f054057d383b26e9088582f418f62504c3f327d8
+source-git-commit: bc3b696bfde0ed55894cdcbf3533299ae7697e98
 workflow-type: tm+mt
 source-wordcount: '1586'
 ht-degree: 0%
@@ -31,9 +31,9 @@ Als u een video publiceert, kunnen Adobe Dynamic Media Classic Servers video lev
 
 Er zijn twee verschillende methoden waarmee u video kunt publiceren:
 
-* **Video&#39;s automatisch en direct tijdens het uploaden publiceren** - Als onderdeel van het uploaden van video&#39;s kan Adobe Dynamic Media Classic automatisch video&#39;s publiceren wanneer deze worden geüpload en gecodeerd. Als u de mogelijkheid hebt om onmiddellijk te publiceren, hoeft u video&#39;s niet afzonderlijk te publiceren.
+* **Video&#39;s automatisch en direct tijdens het uploaden publiceren**: Als onderdeel van het uploaden van video&#39;s kan Adobe Dynamic Media Classic automatisch video&#39;s publiceren wanneer deze worden geüpload en gecodeerd. Als u de mogelijkheid hebt om onmiddellijk te publiceren, hoeft u video&#39;s niet afzonderlijk te publiceren.
 
-* **Video na het uploaden handmatig publiceren** - Als u video&#39;s niet meteen wilt publiceren, kunt u de video&#39;s op elk gewenst moment handmatig publiceren.
+* **Video na het uploaden handmatig publiceren**: Als u video&#39;s niet meteen wilt publiceren, kunt u de video&#39;s op elk gewenst moment handmatig publiceren.
 
 Nadat u video&#39;s hebt gepubliceerd, activeert Adobe Dynamic Media Classic de URL-tekenreeksen voor uw HTML-pagina of toepassingscode.
 
@@ -46,7 +46,7 @@ Nadat u video&#39;s hebt gepubliceerd, activeert Adobe Dynamic Media Classic de 
 
 ## Een video-URL koppelen aan een mobiele site of website {#linking-a-video-url-to-a-mobile-site-or-a-website}
 
-Wanneer u een video publiceert, kunt u de bijbehorende URL opvragen voor gebruik in uw website, mobiele site of bureaubladtoepassing. Gebruik de video-URL wanneer u video wilt weergeven in een pop-upvenster of in een modaal venster vóór de webpagina.
+Wanneer u een video publiceert, kunt u de bijbehorende URL opvragen voor gebruik in uw website, mobiele site of bureaubladtoepassing. Gebruik de video-URL wanneer u video wilt weergeven in een pop-upvenster of in een modaal venster boven op de webpagina.
 
 Wanneer een klant de koppeling selecteert, worden het apparaat, de bandbreedte en de schermgrootte automatisch gedetecteerd. De juiste video wordt weergegeven om te worden afgespeeld in een vooraf gedefinieerde viewer voor desktop of in de native videospeler van het mobiele apparaat voor smartphones en tablets.
 
@@ -75,7 +75,7 @@ Zie ook [De videoviewer insluiten op een webpagina](deploying-video-websites-mob
 
 ## De videoviewer insluiten op een webpagina {#embedding-the-video-viewer-on-a-web-page}
 
-Gebruik de functie Code insluiten als u de video wilt afspelen die is ingesloten op de webpagina. U kopieert de insluitcode naar het klembord, zodat u deze op uw webpagina&#39;s kunt plakken. U mag de code niet bewerken in het dialoogvenster Code insluiten.
+Gebruik de functie Code insluiten wanneer u de video wilt afspelen die is ingesloten op de webpagina. U kopieert de insluitcode naar het klembord, zodat u deze in uw webpagina&#39;s kunt plakken. U mag de code niet bewerken in het dialoogvenster Code insluiten.
 
 Zie ook [Een video-URL koppelen aan een mobiele site of website](deploying-video-websites-mobile-sites.md#linking_a_video_url_to_a_mobile_site_or_a_website).
 
@@ -185,7 +185,7 @@ De *posterframe* Dit is het eerste frame dat in videoviewers wordt weergegeven v
 
 U kunt afbeeldingsaanpassingen toepassen op het posterframe. U kunt bijvoorbeeld het posterframe uitsnijden of transparant maken. Als u het posterframe wilt wijzigen, opent u het configuratiescherm voor de videoviewer en voert u modifiers in de sectie Modifiers voor posterafbeelding in.
 
-Zie [Een voorinstelling voor een videoviewer toevoegen of bewerken](previewing-videos-video-viewer.md#adding_or_editing_a_video_viewer_preset).
+Zie [Een voorinstelling voor een video-viewer toevoegen of bewerken](previewing-videos-video-viewer.md#adding_or_editing_a_video_viewer_preset).
 
 Zie [Handleiding voor imageservice](https://experienceleague.adobe.com/en/docs/dynamic-media-developer-resources/image-serving-api/image-serving-api/c-is-home#image-serving-api).
 

@@ -10,7 +10,7 @@ role: User
 exl-id: 1157400c-b33a-422e-848c-258660ddc748
 topic: Content Management
 level: Beginner
-source-git-commit: de6997fda88c4471625242ee9cca59b344cee945
+source-git-commit: bc3b696bfde0ed55894cdcbf3533299ae7697e98
 workflow-type: tm+mt
 source-wordcount: '1395'
 ht-degree: 0%
@@ -124,7 +124,7 @@ U kunt de video afspelen op de pagina Voorvertoning. U kunt ook verschillende vi
 
 **Optioneel**
 
-Aanpassing voorinstelling viewer - Adobe Dynamic Media Classic biedt vooraf gedefinieerde viewervoorinstellingen voor het afleveren van video. Deze voorinstellingen bepalen de vormgeving van de viewer en de werking van de afspeelbesturingselementen. Beheerders kunnen voorinstellingen voor viewers toevoegen en beheren via de pagina Voorinstellingen voor viewer om de videoviewer aan te passen. Ga naar **[!UICONTROL Setup]** > **[!UICONTROL Viewer Presets]**. De pagina Voorinstellingen viewer bevat opdrachten voor het toevoegen, bewerken, verwijderen en activeren van voorinstellingen van viewers.
+Aanpassing voorinstelling viewer: Adobe Dynamic Media Classic biedt vooraf gedefinieerde viewervoorinstellingen voor het afleveren van video. Deze voorinstellingen bepalen de vormgeving van de viewer en de werking van de afspeelbesturingselementen. Beheerders kunnen voorinstellingen voor viewers toevoegen en beheren via de pagina Voorinstellingen voor viewer om de videoviewer aan te passen. Ga naar **[!UICONTROL Setup]** > **[!UICONTROL Viewer Presets]**. De pagina Voorinstellingen viewer bevat opdrachten voor het toevoegen, bewerken, verwijderen en activeren van voorinstellingen van viewers.
 
 Zie [Werken met voorinstellingen voor videoviewers](previewing-videos-video-viewer.md#working_with_video_viewer_presets).
 
@@ -144,11 +144,11 @@ Als u video wilt integreren in uw website, kunt u een van de volgende handelinge
   >
   >URL&#39;s worden pas geactiveerd nadat u de video of de adaptieve videoset hebt gepubliceerd.
 
-* Geef de video weer die is ingesloten op de webpagina, in welk geval de **[!UICONTROL Embed Code]** gebruiken.
+* Geef de video weer die is ingesloten op de webpagina, in welk geval de optie **[!UICONTROL Embed Code]** gebruiken.
 
   Als u de insluitcode voor een video wilt verkrijgen, selecteert u de video in het deelvenster Bladeren in de rasterweergave of de lijstweergave. Ga naar **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]**. Selecteer onder de kolom Acties van de tabel de optie **[!UICONTROL Embed Code]** aan het recht van `Universal_HTML5_Video`. Het bewerken van de code is niet toegestaan.
 
-  Selecteren **[!UICONTROL Close]** en plak de insluitcode in een of meer van uw webpagina&#39;s.
+  Selecteren **[!UICONTROL Close]** en plak de insluitcode in een of meer webpagina&#39;s.
 
   >[!NOTE]
   >

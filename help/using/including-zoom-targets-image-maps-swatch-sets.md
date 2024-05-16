@@ -10,7 +10,7 @@ role: User
 exl-id: 1eaffe17-1fa3-4726-b0a1-369fabb9ee7e
 topic: Content Management
 level: Intermediate
-source-git-commit: 914fde11270dc731a261da3305b29dd573584d93
+source-git-commit: bc3b696bfde0ed55894cdcbf3533299ae7697e98
 workflow-type: tm+mt
 source-wordcount: '165'
 ht-degree: 0%
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # Zoomdoelen en afbeeldingen met hyperlinks opnemen in stalensets{#including-zoom-targets-and-image-maps-in-swatch-sets}
 
-Als u zoomdoelen en Afbeeldingen met hyperlinks definieert voor de afbeeldingen in de stalenset, worden deze doelen en toewijzingen weergegeven in de Staalset-viewer. Gebruikers kunnen bijvoorbeeld een afbeelding met hyperlinks selecteren in de Staalsetviewer en een nieuwe pagina openen op uw website met informatie over een item. Gebruikers kunnen een doelminiatuurafbeelding selecteren in de Staalsetviewer en automatisch inzoomen op een gedeelte van een afbeelding.
+Als u zoomdoelen en Afbeeldingen met hyperlinks definieert voor de afbeeldingen in de stalenset, worden deze doelen en toewijzingen weergegeven in de Staalset-viewer. De gebruikers, bijvoorbeeld, kunnen een Kaart van het Beeld in de Vastgestelde Kijker van het Monster selecteren en een nieuwe pagina op uw Website met informatie over een punt openen. Gebruikers kunnen een doelminiatuurafbeelding selecteren in de Staalsetviewer en automatisch inzoomen op een gedeelte van een afbeelding.
 
 Als u zoomdoelen en afbeeldingen met hyperlinks beschikbaar wilt maken voor gebruikers, maakt u zoomdoelen en afbeeldingen met hyperlinks voor de afbeeldingen in de stalenset. U kunt dat doen met de gereedschappen Afbeeldingen met hyperlinks of Zoomdoelen in het scherm Staalset of het deelvenster Bladeren (in de gedetailleerde weergave).
 

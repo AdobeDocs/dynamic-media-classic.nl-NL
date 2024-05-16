@@ -10,7 +10,7 @@ role: User
 exl-id: 757893ae-7507-42a0-a67b-f6542e7231c7
 topic: Content Management
 level: Beginner
-source-git-commit: edd893482cbafd9674a44cf9878b8ee3079d98f7
+source-git-commit: bc3b696bfde0ed55894cdcbf3533299ae7697e98
 workflow-type: tm+mt
 source-wordcount: '647'
 ht-degree: 0%
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Met gemengde mediasets hebben gebruikers een geïntegreerde kijkervaring. De gemengde Reeksen van Media kunnen beelden, de Reeksen van het Beeld, de Reeksen van het Monster, de Reeksen van de Rotatie, en video&#39;s omvatten. Gebruikers kunnen verschillende tabbladen selecteren in de gemengde Media Viewer om de items in de verschillende viewers weer te geven. Als er geen tabbladen zijn opgegeven, worden alle elementen samen weergegeven in de staalrij.
 
-Voorinstellingen voor gemengde mediaset voor viewers bevatten gemeenschapsopties waarmee eindgebruikers code kunnen insluiten, URL&#39;s kunnen kopiëren en een koppeling naar de hoofdwebsite kunnen maken. Gebruikers kunnen deze opties gebruiken om informatie over producten te delen op hun persoonlijke websites of sociale netwerksites.
+De gemengde Kijker van de Kijker van Media bevat communautaire opties voor eind - gebruikers om code in te bedden, URLs te kopiëren, en verbinding aan de belangrijkste Website te verbinden. De gebruikers kunnen deze opties gebruiken om informatie over producten op hun persoonlijke Websites of sociale voorzien van een netwerkplaatsen te delen.
 
 Deze gemengde Mediasets Snel starten is ontworpen om u snel aan de slag te krijgen met gemengde mediasettechnieken in Adobe Dynamic Media Classic.
 
@@ -49,7 +49,7 @@ Zie [Een gemengde mediaset maken](creating-mixed-media-set.md#creating-a-mixed-m
 
 Adobe Dynamic Media Classic wordt geleverd met standaardviewervoorinstellingen voor gemengde mediasets. Beheerders kunnen voorinstellingen voor gemengde mediaset maken of wijzigen.
 
-Als u een voorinstelling voor een gemengde mediaset voor de viewer instelt, voegt u de voorinstellingen van de viewer toe voor alle andere elementen in de set. Als uw gemengde mediaset bijvoorbeeld video&#39;s bevat, voegt u een videoviewer-voorinstelling toe aan de voorinstelling voor de gemengde mediaset van de viewer. U kunt ook een soundtrack toevoegen aan de viewer. Deze soundtrack wordt afgespeeld terwijl de viewer geopend is, maar wordt niet afgespeeld wanneer een video actief is.
+Als u een voorinstelling voor een gemengde mediaset voor de viewer instelt, voegt u de voorinstellingen van de viewer toe voor alle andere elementen in de set. Als uw gemengde mediaset bijvoorbeeld video&#39;s bevat, voegt u een voorinstelling voor de video-viewer toe aan de voorinstelling voor de gemengde mediaset. U kunt ook een soundtrack toevoegen aan de viewer. Deze soundtrack wordt afgespeeld terwijl de viewer geopend is, maar wordt niet afgespeeld wanneer een video actief is.
 
 Zie [Een voorinstelling voor een gemengde mediaset voor de viewer instellen](setting-mixed-media-set-viewer.md#setting-up-a-mixed-media-set-viewer-preset) en [Viewer-voorinstellingen maken en bewerken](application-setup.md#adding-and-editing-viewer-presets).
 

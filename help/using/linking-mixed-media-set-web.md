@@ -10,7 +10,7 @@ role: User
 exl-id: 76a7530c-0cc7-4a7f-bc31-2950c4946871
 topic: Content Management
 level: Intermediate
-source-git-commit: faa1784e1d19b1167cad5749dc04227e3ff388e5
+source-git-commit: bc3b696bfde0ed55894cdcbf3533299ae7697e98
 workflow-type: tm+mt
 source-wordcount: '586'
 ht-degree: 0%
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # Een gemengde mediaset koppelen aan een webpagina{#linking-a-mixed-media-set-to-a-web-page}
 
-Nadat u een gemengde mediaset hebt gepubliceerd, kunt u de bijbehorende URL ophalen voor gebruik in uw website of toepassing. Vervolgens kunt u indien nodig de URL implementeren, zodat gebruikers de gemengde mediaset op uw website of toepassing kunnen bekijken.
+Nadat u een Gemengde Reeks van Media publiceert, kunt u zijn bijbehorende URL voor gebruik in uw Website of toepassing verkrijgen. Dan kunt u URL zonodig opstellen zodat kunnen de gebruikers de Gemengde Geplaatste Media op uw Website of toepassing bekijken.
 
 ## Een gemengde URL voor mediaset verkrijgen {#obtain-a-mixed-media-set-url}
 
@@ -40,13 +40,13 @@ Nadat u een gemengde mediaset hebt gepubliceerd, kunt u de bijbehorende URL opha
 
      Selecteer in de pagina Viewer List onder de kolom Acties van de tabel de optie **[!UICONTROL Copy URL]**.
 
-## Gemengde mediaset-URL&#39;s toevoegen aan uw webpagina {#add-mixed-media-set-urls-to-your-web-page}
+## Voeg Gemengde Media toe plaatste URLs aan uw Web-pagina {#add-mixed-media-set-urls-to-your-web-page}
 
-De gemeenschappelijkste manier om een Gemengde Reeks van Media op te stellen is een verbinding (door een navigatiepictogram) op uw Web-pagina te plaatsen. Als deze optie is geselecteerd, wordt een dynamische pagina (ASP of JSP) gestart waarop de gemengde mediaset in de gemengde mediaset van de viewer wordt weergegeven.
+De gemeenschappelijkste manier om een Gemengde Reeks van Media op te stellen is een verbinding (als navigatiepictogram) op uw Web-pagina te plaatsen. Als deze optie is geselecteerd, wordt een dynamische pagina (ASP of JSP) gestart waarop de gemengde mediaset in de gemengde mediaset van de viewer wordt weergegeven.
 
 ## De insluitcode van een viewer met gemengde mediaset kopiëren {#copying-the-embed-code-of-a-mixed-media-set-viewer}
 
-Met de functie Code insluiten kunt u de viewercode voor de geselecteerde gemengde mediaset controleren. U kunt de code ook naar het klembord kopiëren, zodat u de code op uw webpagina&#39;s kunt plakken en de viewer kunt implementeren. U mag de code niet bewerken in het dialoogvenster Code insluiten.
+Met de functie Code insluiten kunt u de viewercode voor de geselecteerde gemengde mediaset controleren. U kunt de code aan het klembord ook kopiëren zodat kunt u het in uw Web-pagina&#39;s voor plaatsing van de kijker kleven. U mag de code niet bewerken in het dialoogvenster Code insluiten.
 
 **U kunt als volgt de insluitcode van een viewer met gemengde mediaset kopiëren:**
 

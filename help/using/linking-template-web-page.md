@@ -10,7 +10,7 @@ role: User
 exl-id: 6305c287-360f-48c2-b456-58be0791c7af
 topic: Administration, Content Management, Development
 level: Experienced
-source-git-commit: 914fde11270dc731a261da3305b29dd573584d93
+source-git-commit: bc3b696bfde0ed55894cdcbf3533299ae7697e98
 workflow-type: tm+mt
 source-wordcount: '334'
 ht-degree: 0%
@@ -37,8 +37,8 @@ U kunt een sjabloon-URL-tekenreeks die is gegenereerd door een voorinstelling vo
 
 ## Sjabloon-URL&#39;s toevoegen aan uw webpagina {#adding-template-urls-to-your-web-page}
 
-Als u een sjabloon aan uw webpagina wilt toevoegen, neemt u contact op met het ontwikkelingsteam van de webpagina om het `<IMG>` in de code van uw webpagina HTML. Gebruik de URL-tekenreeks van Adobe Dynamic Media Classic om een aanvraag in te dienen bij Dynamic Media Image Servers. De handelingsmotor of de dynamische Web-pagina code neemt het malplaatjebeeld bij de grootte en met de het formatteren specificatie op die door het Beeld wordt bepaald vooraf instelt u voor uw malplaatje kiest.
+Om een malplaatje aan uw Web-pagina toe te voegen, raadpleeg uw team van de Web-pagina ontwikkeling om te wijzigen `<IMG>` tag in uw HTML Web-pagina code. Gebruik de URL-tekenreeks van Adobe Dynamic Media Classic om een aanvraag in te dienen bij Dynamic Media Image Servers. De handelingsmotor of de dynamische Web-pagina code neemt het malplaatjebeeld bij de grootte en met de het formatteren specificatie op die door het Beeld wordt bepaald vooraf ingesteld u voor uw malplaatje kiest.
 
 >[!MORELIKETHIS]
 >
->* [Dynamische afbeeldingen aan uw webpagina toevoegen](linking-urls-web-application.md#adding_dynamic_images_to_your_web_page)
+>* [Dynamische afbeeldingen toevoegen aan uw webpagina](linking-urls-web-application.md#adding_dynamic_images_to_your_web_page)

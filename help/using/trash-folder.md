@@ -10,7 +10,7 @@ role: User
 exl-id: cffeec19-43fd-4a97-bdcc-df81af108ddd
 topic: Content Management
 level: Intermediate
-source-git-commit: b2a6aeb1aab420803a8b7dafb0fdeda495e2a69b
+source-git-commit: bc3b696bfde0ed55894cdcbf3533299ae7697e98
 workflow-type: tm+mt
 source-wordcount: '536'
 ht-degree: 0%
@@ -53,9 +53,9 @@ Wanneer u middelen in de omslag van het Afval schrapt, worden de activa permanen
 
 Als u elementen definitief wilt verwijderen uit de map Prullenbak, selecteert u de optie **[!UICONTROL Trash]** pictogram. Voer op de mappagina Prullenbak een van de volgende handelingen uit:
 
-* **Afzonderlijke elementen verwijderen** - Selecteer de elementen die u permanent wilt verwijderen en ga vervolgens naar **[!UICONTROL File]** > **[!UICONTROL Empty From Trash]**.
+* **Afzonderlijke elementen verwijderen**: Selecteer de elementen die u permanent wilt verwijderen en ga vervolgens naar **[!UICONTROL File]** > **[!UICONTROL Empty From Trash]**.
 
-* **Alle elementen verwijderen** - Ga naar **[!UICONTROL File]** > **[!UICONTROL Empty trash]**.
+* **Alle elementen verwijderen**: Ga naar **[!UICONTROL File]** > **[!UICONTROL Empty trash]**.
 
 >[!MORELIKETHIS]
 >

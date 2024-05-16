@@ -10,7 +10,7 @@ role: User
 exl-id: 91b73a09-c5b5-4001-b36f-6bebe65717ff
 topic: Content Management
 level: Intermediate
-source-git-commit: 163eb32112ec6fbefd1dacf48212353ff3053d54
+source-git-commit: 29752cf9eca0fc9bb760c721e1c3dc8e4ef912c3
 workflow-type: tm+mt
 source-wordcount: '1626'
 ht-degree: 0%
@@ -94,7 +94,7 @@ U kunt de Geavanceerde opties weergeven op de pagina Publiceren en deze opties k
 
 * **[!UICONTROL Publish To]**: Als u elementen alleen naar een specifieke server wilt publiceren, kiest u een servertype.
 
-* **[!UICONTROL Publish]** - Adobe Dynamic Media Classic publiceert standaard alleen elementen die nieuw zijn en nog niet eerder zijn gepubliceerd (de optie Nieuw sinds laatste publicatie). U kunt echter **[!UICONTROL Full Publish]** dus u kunt ook elementen publiceren die zijn bijgewerkt of gewijzigd sinds ze voor het laatst zijn gepubliceerd. Selecteren **[!UICONTROL Full w/ Search Data]** als u een eCatalog publiceert en u lezers het door sleutelwoord wilt kunnen zoeken.
+* **[!UICONTROL Publish]**: Standaard publiceert Adobe Dynamic Media Classic alleen elementen die nieuw zijn en nog niet eerder zijn gepubliceerd (de optie Nieuw sinds laatste publicatie). U kunt echter **[!UICONTROL Full Publish]** dus u kunt ook elementen publiceren die zijn bijgewerkt of gewijzigd sinds ze voor het laatst zijn gepubliceerd. Selecteren **[!UICONTROL Full w/ Search Data]** als u een eCatalog publiceert en u lezers het door sleutelwoord wilt kunnen zoeken.
 
 * **[!UICONTROL Run Job As]**: Kies een gebruikersnaam in de lijst. U kunt taken sorteren op gebruikersnaam op de pagina Taken. Als u een naam kiest, koppelt u een publicatietaak aan een gebruiker.
 
@@ -150,11 +150,11 @@ De laatste datum waarop een element is gepubliceerd, wordt weergegeven in de ged
 
 ## Hergepubliceerde elementen en CDN-vertragingen {#republished-assets-and-cdn-delays}
 
-Adobe Dynamic Media Classic-elementen worden gedistribueerd op het CDN (Content Delivery Network). CDN is een systeem van computerservers die samen samenwerken om inhoud, vooral grote media inhoud, aan eind te leveren - gebruikers. In het CDN-systeem wordt webinhoud opgeslagen in webcaches via internet (het zogenaamde Edge-cachenetwerk). De inhoud van het Web wordt geleverd van de geheime voorgeheugens van het Web aan eind - gebruikers om voor snellere leveringen te maken.
+Adobe Dynamic Media Classic-elementen worden gedistribueerd op het CDN (Content Delivery Network). CDN is een systeem van computerservers die samen samenwerken om inhoud, vooral grote media inhoud, aan eind te leveren - gebruikers. In het systeem CDN, wordt de inhoud van het Web opgeslagen in de geheime voorgeheugens van het Web over Internet (genoemd het netwerk van het randgeheime voorgeheugen). De inhoud van het Web wordt geleverd van de geheime voorgeheugens van het Web aan eind - gebruikers om voor snellere leveringen te maken.
 
-De eerste keer dat iemand een webpagina downloadt, worden de elementen geleverd aan een CDN-webcaeserver. Deze server slaat ze op, zodat dezelfde inhoud sneller wordt geleverd wanneer iemand in hetzelfde gebied de webpagina opnieuw benadert. De inhoud wordt sneller geleverd, omdat deze zich dichter bij de eindgebruiker bevindt. CDN zorgt voor snellere webpaginaweergaven. Het vermindert bandbreedteeisen op de centrale server omdat de inhoud van het netwerk van het randgeheime voorgeheugen, niet van een centrale server in elke instantie wordt geleverd.
+De eerste keer iemand downloadt een Web-pagina, worden de activa geleverd aan een CDN het geheim voorgeheugenserver van het Web. Deze server slaat hen op zodat de volgende keer iemand in het zelfde gebied tot de Web-pagina toegang heeft, wordt de zelfde caching inhoud sneller geleverd. De inhoud wordt sneller geleverd, omdat deze zich dichter bij de eindgebruiker bevindt. CDN maakt snellere Web-pagina vertoningen. Het vermindert bandbreedteeisen op de centrale server omdat de inhoud van het netwerk van het randgeheime voorgeheugen, niet van een centrale server in elke instantie wordt geleverd.
 
-Nieuw gepubliceerde Adobe Dynamic Media Classic-inhoud is direct beschikbaar voor de eindgebruiker en wordt snel in het Edge-cachenetwerk geplaatst. Nieuwe opnieuw gepubliceerde inhoud, dat wil zeggen afbeeldingen met dezelfde naam als afbeeldingen die eerder naar een afbeeldingsserver zijn gepubliceerd, worden echter maximaal tien uur niet op CDN bijgewerkt. In plaats daarvan, zien de eindgebruikers wat in een Webgeheime voorgeheugen op het netwerk CDN is. Daarom worden de opnieuw gepubliceerde Adobe Dynamic Media Classic-middelen tien uur lang niet weergegeven voor eindgebruikers.
+Nieuw gepubliceerde Adobe Dynamic Media Classic-inhoud is direct beschikbaar voor de eindgebruiker en wordt snel in het Edge-cachenetwerk geplaatst. Nochtans, worden de onlangs opnieuw gepubliceerde inhoud, dat wil zeggen, de beelden die de zelfde namen hebben zoals beelden eerder aan een Server van het Beeld werden gepubliceerd, niet bijgewerkt op CDN tot tien uur. In plaats daarvan, zien de eindgebruikers wat in een geheime voorgeheugen van het Web op het netwerk CDN is. Daarom worden de opnieuw gepubliceerde Adobe Dynamic Media Classic-middelen tien uur lang niet weergegeven voor eindgebruikers.
 
 Als u wilt dat de nieuw gepubliceerde afbeeldingselementen sneller beschikbaar zijn dan de vertraging van tien uur, kunt u webcaches op CDN leegmaken. Als u deze webcaches leegmaakt, wordt oude inhoud uit CDN-webcaches verwijderd en vervangen door de laatst gepubliceerde elementen.
 

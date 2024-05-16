@@ -10,7 +10,7 @@ role: User
 exl-id: 5e3b0002-5ae2-4437-862f-caa098b04362
 topic: Content Management
 level: Intermediate
-source-git-commit: edd893482cbafd9674a44cf9878b8ee3079d98f7
+source-git-commit: bc3b696bfde0ed55894cdcbf3533299ae7697e98
 workflow-type: tm+mt
 source-wordcount: '419'
 ht-degree: 0%
@@ -30,30 +30,30 @@ Adobe Dynamic Media Classic houdt een overzicht bij van het exporteren van taken
 1. Selecteer de elementen die u wilt exporteren en ga naar **[!UICONTROL File]** > **[!UICONTROL Export]**.
 1. Klik in het venster Geselecteerde elementen exporteren op **[!UICONTROL Image Options]** en geef vervolgens een of meer van de volgende opties op (beheerders bepalen welke opties beschikbaar zijn voor hun gebruikers):
 
-   * **[!UICONTROL Presets]** - Kies desgewenst een voorinstelling voor afbeelding om het element op te maken wanneer u het exporteert. Als u een voorinstelling voor afbeeldingen kiest, zijn de andere opmaakopties niet beschikbaar omdat het element gebruikmaakt van de indelingen die zijn gedefinieerd in de voorinstelling voor afbeeldingen.
+   * **[!UICONTROL Presets]**: Kies desgewenst een voorinstelling voor afbeelding om het element op te maken wanneer u het exporteert. Als u een voorinstelling voor afbeeldingen kiest, zijn de andere opmaakopties niet beschikbaar omdat het element gebruikmaakt van de indelingen die zijn gedefinieerd in de voorinstelling voor afbeeldingen.
 
-   * **[!UICONTROL Conversion]** - Zet het elementbestand of de oorspronkelijke afbeelding om.
+   * **[!UICONTROL Conversion]**: Zet het elementbestand of de oorspronkelijke afbeelding om.
 
-   * **[!UICONTROL Size]** - U kunt een standaardgrootte selecteren. U kunt ook **[!UICONTROL Other]** van de **[!UICONTROL Size]** kiest u de gewenste maateenheid en geeft u vervolgens de breedte en de hoogte op.
+   * **[!UICONTROL Size]**: U kunt een standaardgrootte selecteren. U kunt ook **[!UICONTROL Other]** van de **[!UICONTROL Size]** kiest u de gewenste maateenheid en geeft u vervolgens de breedte en de hoogte op.
 
      Zie ook [Beschikbare exportopties voor gebruikers van Media Portal opgeven](specifying-export-options-available-media.md#specifying_export_options_available_to_media_portal_users).
 
-   * **[!UICONTROL Format]** - Kies een afbeeldingsindeling.
+   * **[!UICONTROL Format]**: Kies een afbeeldingsindeling.
 
-   * **[!UICONTROL Color]** - Kies RGB, CMYK of Grijs.
+   * **[!UICONTROL Color]**: Kies RGB, CMYK of Grijs.
 
-   * **[!UICONTROL Resolution]** - Kies 72 ppi, 150 ppi of 300 ppi.
+   * **[!UICONTROL Resolution]**: Kies 72 ppi, 150 ppi of 300 ppi.
 
-   * **[!UICONTROL Job Name]** - U kunt een taaknaam aan het exporteren toewijzen.
+   * **[!UICONTROL Job Name]**: U kunt een taaknaam aan het exporteren toewijzen.
 
-   * **[!UICONTROL Send Email To]** - Optioneel. Voer een e-mailadres in als u de middelen per e-mail wilt verzenden. In het e-mailbericht wordt de URL weergegeven waar de ontvanger de elementen kan downloaden.
+   * **[!UICONTROL Send Email To]**: Optioneel. Voer een e-mailadres in als u de middelen per e-mail wilt verzenden. In het e-mailbericht wordt de URL weergegeven waar de ontvanger de elementen kan downloaden.
 
 1. Selecteren **[!UICONTROL Export]**.
 
 Er worden drie basisuitvoeracties ondersteund:
 
 * Origineel bestand (het oorspronkelijke bestand voor het element exporteren)
-* Omzetten met voorinstelling (gebruik een voorinstelling voor afbeeldingen om het element op te maken)
+* Omzetten met voorinstelling (gebruik een voorinstelling voor afbeelding om het element op te maken)
 * Omzetten zonder voorinstelling (gebruik het dialoogvenster Exporteren om afbeeldingsopties op te geven)
 
 De volgende elementtypen kunnen niet worden geëxporteerd. Alle andere genereren een exportbewerking.

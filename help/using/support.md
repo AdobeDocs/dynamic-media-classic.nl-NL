@@ -10,9 +10,9 @@ role: Admin,User
 exl-id: 708f32f1-fdbb-4a32-a1b7-836c99b458be
 topic: Content Management
 level: Intermediate
-source-git-commit: d82f816553f807b514f4690827dab672a6baf690
+source-git-commit: bc3b696bfde0ed55894cdcbf3533299ae7697e98
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '183'
 ht-degree: 0%
 
 ---
@@ -24,12 +24,12 @@ De technische steunaanbiedingen worden ontworpen om aan de behoeften van om het 
 | Ondersteuning | Abonnement |
 | --- | --- |
 | Limiet voor problemen | Onbeperkt. |
-| De status van het Adobe-systeem controleren | [Adobe Dynamic Media Classic System Status](https://status.adobe.com/products/1175). |
+| De systeemstatus van de Adobe controleren | [Adobe Dynamic Media Classic System Status](https://status.adobe.com/products/1175). |
 | Kan je geen antwoord vinden? | [Om hulp van Steun te krijgen, open een kaartje](https://experienceleague.adobe.com/?support-solution=General#support). |
 | Forum van de Gemeenschap | [Forum van de Experience Manager-gemeenschap](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community). |
 | SLA (Service Level Agreements) | [Ondersteuningsservices / Voorwaarden](https://helpx.adobe.com/support/programs/support-policies-terms-conditions.html). |
 | Ondersteunde gebruikers | Tot tien gebruikers per organisatie kunnen worden aangewezen als ondersteunde gebruikers, die zaken kunnen openen met de klantenservice. |
-| Gratis live webtrainings- en instructievideo&#39;s | Opgenomen. |
+| Gratis live web training en instructievideo&#39;s | Opgenomen. |
 | Telefonische ondersteuning | <ul><li>VS en Canada: 1-800-497-0335 </li><li>[Telefoonnummers voor andere gebieden](https://experienceleague.adobe.com/?support-tab=home#support). </li></ul> |
 
 <!-- |Create a support case| [https://helpx.adobe.com/enterprise/admin-guide.html/enterprise/using/support-for-experience-cloud.ug.html](https://helpx.adobe.com/enterprise/admin-guide.html/enterprise/using/support-for-experience-cloud.ug.html) | -->

@@ -10,7 +10,7 @@ role: User
 exl-id: 4b3f690c-7dff-4bf0-9366-085ba918fe6b
 topic: Content Management
 level: Intermediate
-source-git-commit: 163eb32112ec6fbefd1dacf48212353ff3053d54
+source-git-commit: bc3b696bfde0ed55894cdcbf3533299ae7697e98
 workflow-type: tm+mt
 source-wordcount: '1377'
 ht-degree: 0%
@@ -63,15 +63,15 @@ Selecteer in de elementenbibliotheek, direct onder het veld Zoeken, de optie **[
 
 Geef een of meer van de volgende criteria op in uw geavanceerde zoekopdracht:
 
-* **Filteren op elementtype** - Verfijn uw zoekopdracht tot één type element. Kies een elementtype in het menu.
+* **Filteren op elementtype**: Verklein uw zoekopdracht tot één type element. Kies een elementtype in het menu.
 
-* **Bestanden en mappen** - Kies waar u wilt zoeken: **[!UICONTROL Within All Files & Folders]**, **[!UICONTROL Within Selected Folder]**, of **[!UICONTROL Within Selected Folder & Subfolders]**.
+* **Bestanden en mappen**: Kies waar u wilt zoeken: **[!UICONTROL Within All Files & Folders]**, **[!UICONTROL Within Selected Folder]**, of **[!UICONTROL Within Selected Folder & Subfolders]**.
 
-* **Alle publicatiestatussen** - Zoeken naar bestanden die zijn gemarkeerd als klaar voor publicatie, die niet zijn gemarkeerd als klaar voor publicatie, of naar alle bestanden.
+* **Alle publicatiestatussen**: Zoek naar bestanden die zijn gemarkeerd als klaar voor publicatie, die niet zijn gemarkeerd als klaar voor publicatie, of naar alle bestanden.
 
-* **Voorwaarden** - Als u criteria voor metagegevens opgeeft voor zoeken, moet u aangeven of de zoekopdracht moet voldoen aan alle voorwaarden (een ALLE-zoekopdracht) of aan een willekeurige voorwaarde (een OF-zoekopdracht).
+* **Voorwaarden**: Als u criteria voor metagegevens opgeeft voor zoeken, moet u aangeven of de zoekopdracht moet voldoen aan alle voorwaarden (een ALLE-zoekopdracht) of aan een willekeurige voorwaarde (een OF-zoekopdracht).
 
-* **Zoekcriteria** - Maak een of meer zoekvelden voor het zoeken naar metagegevens. Zoekvelden maken:
+* **Zoekcriteria**: Maak een of meer zoekvelden voor het zoeken naar metagegevens. Zoekvelden maken:
 
    1. In Geavanceerd zoeken, onder **[!UICONTROL Search criteria]** en links van de **[!UICONTROL Add a Field]** ) selecteert u het pijlpictogram omlaag om de vervolgkeuzelijst te openen. Kies een metagegevensweergave. U kunt **[!UICONTROL All properties with values]**, **[!UICONTROL Compact View]**, **[!UICONTROL IPTC]**, **[!UICONTROL Metadata Server Publish Fields]**, of **[!UICONTROL XMP]**.
    1. Selecteer de **[!UICONTROL Add a Field]** en kies een veldnaam.
@@ -111,7 +111,7 @@ Voer de volgende stappen uit, zodat u elementen kunt zoeken door te filteren met
 
 1. Klikken **[!UICONTROL Field]** op een deelvenster volgt u deze instructies, zodat u het filtermenu kunt weergeven en de filterbewerking kunt samenstellen:
 
-   * **Een metagegevensveld kiezen** - Selecteer de naam van het veld in het filtermenu.
+   * **Een metagegevensveld kiezen**: Selecteer de naam van het veld in het filtermenu.
 
      >[!NOTE]
      >
@@ -119,9 +119,9 @@ Voer de volgende stappen uit, zodat u elementen kunt zoeken door te filteren met
 
      Zie [Weergaven metagegevens](application-setup.md#metadata_views).
 
-   * **Een metagegevensveld toevoegen** - Selecteer **[!UICONTROL Add a Panel]**. Nadat het deelvenster op het deelvenster Filters wordt weergegeven, selecteert u de desbetreffende selectie **[!UICONTROL Field]** en kiest u de naam van een metagegevensveld in het filtermenu.
+   * **Een metagegevensveld toevoegen**: Select **[!UICONTROL Add a Panel]**. Nadat het deelvenster op het deelvenster Filters wordt weergegeven, selecteert u de desbetreffende selectie **[!UICONTROL Field]** en kiest u de naam van een metagegevensveld in het filtermenu.
 
-   * **Een metagegevensveld verwijderen** - Selecteer **[!UICONTROL Remove This Panel]** in het filtermenu.
+   * **Een metagegevensveld verwijderen**: Select **[!UICONTROL Remove This Panel]** in het filtermenu.
 
    Wanneer u een metagegevensveld kiest, wordt in het deelvenster ervan het volgende weergegeven:
 
@@ -143,11 +143,11 @@ Voer de volgende stappen uit, zodat u elementen kunt zoeken door te filteren met
 
 Volg de onderstaande instructies op het tabblad Filters, zodat u filterbewerkingen kunt opslaan, herhalen en verwijderen:
 
-* **Filterbewerking opslaan** - Ga naar **[!UICONTROL Select Preset]** > **[!UICONTROL Save Current As New Presets]** en voer vervolgens een naam in in het dialoogvenster **[!UICONTROL Save]** in.
+* **Filterbewerking opslaan**: Ga naar **[!UICONTROL Select Preset]** > **[!UICONTROL Save Current As New Presets]** en voer vervolgens een naam in in het dialoogvenster **[!UICONTROL Save]** in.
 
-* **Filterbewerking herhalen** - Kies **[!UICONTROL Select Preset]** en kiest u de naam van een filterbewerking in het menu. Het menu bevat filterbewerkingen die u hebt opgeslagen.
+* **Filterbewerking herhalen**: Kies **[!UICONTROL Select Preset]** en kiest u de naam van een filterbewerking in het menu. Het menu bevat filterbewerkingen die u hebt opgeslagen.
 
-* **Een filterbewerking verwijderen uit het menu Voorinstelling selecteren** - Voer de filterbewerking uit. Ga vervolgens naar **[!UICONTROL Select Preset]** > **[!UICONTROL Delete Preset]** in het menu.
+* **Een filterbewerking verwijderen uit het menu Voorinstelling selecteren**: Voer de filterbewerking uit. Ga vervolgens naar **[!UICONTROL Select Preset]** > **[!UICONTROL Delete Preset]** in het menu.
 
 ## De metagegevensserver gebruiken {#using-the-metadata-server}
 
@@ -157,13 +157,13 @@ Ga naar om de metagegevensserver te configureren **[!UICONTROL Setup]** > **[!UI
 
 Op de pagina Publiceren Metagegevensserver kunt u de volgende opties instellen:
 
-* **[!UICONTROL Instant Publish]** - Hiermee worden eventuele wijzigingen in metagegevens automatisch doorgevoerd wanneer deze worden doorgevoerd, zoals nieuwe elementen, trefwoordwijzigingen, enzovoort.
+* **[!UICONTROL Instant Publish]**: Hiermee worden eventuele wijzigingen in metagegevens automatisch doorgevoerd wanneer deze worden aangebracht, zoals nieuwe elementen, trefwoordwijzigingen, enzovoort.
 
-* **[!UICONTROL XMP Packet]** - Hiermee publiceert u het XMP. Dit pakket wordt niet gebruikt voor het zoeken, maar verstrekt de meest bijgewerkte XMP.
+* **[!UICONTROL XMP Packet]**: Hiermee publiceert u het XMP. Dit pakket wordt niet gebruikt voor het zoeken, maar verstrekt de meest bijgewerkte XMP.
 
-* **[!UICONTROL Keywords]** - Hiermee publiceert u uw trefwoorden naar de metagegevensserver voor gebruik in zoekopdrachten.
+* **[!UICONTROL Keywords]**: Hiermee publiceert u uw trefwoorden naar de metagegevensserver voor gebruik in zoekopdrachten.
 
-* **[!UICONTROL Metadata Server Publish Fields]** - Selecteer de velden die u wilt opnemen in de metagegevens. Met deze optie kunt u bepalen hoeveel informatie over uw elementen beschikbaar is voor het publiek. Deze velden worden ook weergegeven in Metagegevensweergaven, maar kunnen alleen worden gewijzigd op de metagegevensserver.
+* **[!UICONTROL Metadata Server Publish Fields]**: Selecteer de velden die u in de metagegevens wilt opnemen. Met deze optie kunt u bepalen hoeveel informatie over uw elementen beschikbaar is voor het publiek. Deze velden worden ook weergegeven in Metagegevensweergaven, maar kunnen alleen worden gewijzigd op de metagegevensserver.
 
 Selecteren **[!UICONTROL Publish Now]** om de taak te starten. Er wordt een bevestiging weergegeven met de mededeling dat de taak is gestart.
 

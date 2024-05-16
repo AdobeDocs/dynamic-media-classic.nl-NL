@@ -9,7 +9,7 @@ role: User
 exl-id: 66a1ab20-6036-4c3d-bb66-dd06d917c7f2
 topic: Content Management
 level: Intermediate
-source-git-commit: de6997fda88c4471625242ee9cca59b344cee945
+source-git-commit: bc3b696bfde0ed55894cdcbf3533299ae7697e98
 workflow-type: tm+mt
 source-wordcount: '695'
 ht-degree: 0%
@@ -32,11 +32,11 @@ U configureert het effect Bijschrift en bewerkt het menu Bijschrift zelf, inclus
 * `Universal_HTML5_MixedMedia_dark` viewer
 * `Universal_HTML5_MixedMedia_light` viewer
 
-Zie [Een voorinstelling voor een videoviewer toevoegen of bewerken](previewing-videos-video-viewer.md#adding_or_editing_a_video_viewer_preset).
+Zie [Een voorinstelling voor een video-viewer toevoegen of bewerken](previewing-videos-video-viewer.md#adding_or_editing_a_video_viewer_preset).
 
 Zie ook [Viewer-voorinstellingen toevoegen en bewerken](application-setup.md#adding_and_editing_viewer_presets).
 
-Adobe Dynamic Media Classic kan bijschriftbestanden omzetten in de indeling JSON (JavaScript Object Notation). Met deze conversie kunt u de JSON-tekst insluiten in een webpagina als een verborgen, maar volledige transcriptie van de video. Zoekprogramma&#39;s kunnen dan door de inhoud kruipen en deze indexeren, zodat de video&#39;s gemakkelijker te vinden zijn en klanten meer informatie krijgen over de video-inhoud.
+Adobe Dynamic Media Classic kan bijschriftbestanden omzetten in de indeling JSON (JavaScript Object Notation). Deze conversie betekent dat u de JSON-tekst kunt insluiten in een webpagina als een verborgen, maar volledige transcriptie van de video. Zoekprogramma&#39;s kunnen dan door de inhoud kruipen en deze indexeren, zodat de video&#39;s gemakkelijker te vinden zijn en klanten meer informatie krijgen over de video-inhoud.
 
 Zie [Statische (niet-grafische) inhoud serveren](https://experienceleague.adobe.com/en/docs/dynamic-media-developer-resources/image-serving-api/image-serving-api/c-serving-static-nonimage-contents#image-serving-api) voor meer informatie over het gebruik van de JSON-functie in een URL.
 
@@ -46,7 +46,7 @@ Zie [Statische (niet-grafische) inhoud serveren](https://experienceleague.adobe.
 
    | Type viewer | Ondertitelingsbestand |
    |--- |--- |
-   | HTML 5 | Als u een HTML5-videoviewer gebruikt, moet u ervoor zorgen dat het bijschriftbestand dat u maakt, voldoet aan de WebVTT-standaard (Web Video Text Tracks). De bestandsnaamextensie van de ondertiteling is `.VTT`. U kunt meer informatie over de WebVTT ondertitelingsnorm leren.<br><br>[Zie WebVTT](https://w3c.github.io/webvtt/): De indeling Webvideoteksttracks. <br><br>Er zijn vele websites die zowel gratis als op vergoeding gebaseerde hulpmiddelen en de diensten aanbieden die u aan auteurWebVTT titeldossiers kunt gebruiken. <br><br>Volg de aanwijzingen op het scherm van een site om het WebVTT-bestand te ontwerpen en op te slaan. Wanneer u klaar bent, kopieert u de inhoud van het bijschriftbestand en plakt u deze in een teksteditor zonder opmaak en slaat u het bestand op met de bestandsnaamextensie VTT. <br><br><b>Opmerking:</b> Voor algemene ondersteuning van videobijschriften in andere talen dan Engels, is het vereist dat u voor de WebVTT-standaard een aparte `.VTT` bestanden en oproepen voor elke taal die u wilt ondersteunen. <br><br>Over het algemeen wilt u het VTT-bestand van het bijschrift dezelfde naam geven als het videobestand en dit bestand toevoegen met bijschriften. Op deze manier kunt u het genereren van video-URL&#39;s automatiseren met behulp van uw bestaande systeem voor webcontentbeheer. |
+   | HTML 5 | Als u een HTML5-videoviewer gebruikt, moet u ervoor zorgen dat het bijschriftbestand dat u maakt, voldoet aan de WebVTT-standaard (Web Video Text Tracks). De bestandsnaamextensie van de ondertiteling is `.VTT`. U kunt meer informatie over de WebVTT ondertitelingsnorm leren.<br><br>[Zie WebVTT](https://w3c.github.io/webvtt/): De indeling Webvideoteksttracks. <br><br>Er zijn vele websites die zowel gratis als op vergoeding gebaseerde hulpmiddelen en de diensten aanbieden die u aan auteurWebVTT titeldossiers kunt gebruiken. <br><br>Volg de aanwijzingen op het scherm van een site om het WebVTT-bestand te ontwerpen en op te slaan. Wanneer u klaar bent, kopieert u de inhoud van het bijschriftbestand en plakt u deze in een teksteditor zonder opmaak en slaat u het bestand op met de bestandsnaamextensie VTT. <br><br><b>Opmerking:</b> Voor algemene ondersteuning van videobijschriften in andere talen dan Engels, is het vereist dat u voor de WebVTT-standaard een aparte `.VTT` bestanden en oproepen voor elke taal die u wilt ondersteunen. <br><br>Over het algemeen wilt u het VTT-bestand van het bijschrift dezelfde naam geven als het videobestand en dit bestand toevoegen met bijschriften. Hierdoor kunt u de generatie van de video-URL&#39;s automatiseren met behulp van uw bestaande systeem voor webcontentbeheer. |
 
 1. Upload in Adobe Dynamic Media Classic uw WebVTT-, DFXP- of SMPTE XML-bijschriftbestand.
 

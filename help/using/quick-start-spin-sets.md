@@ -10,7 +10,7 @@ role: User
 exl-id: 26e3cd5b-f070-4b92-af36-25631723460e
 topic: Content Management
 level: Beginner
-source-git-commit: b2a6aeb1aab420803a8b7dafb0fdeda495e2a69b
+source-git-commit: 29752cf9eca0fc9bb760c721e1c3dc8e4ef912c3
 workflow-type: tm+mt
 source-wordcount: '773'
 ht-degree: 0%
@@ -23,7 +23,7 @@ Een centrifugeerset simuleert de echte handeling waarbij een object wordt omgedr
 
 ![Afbeeldingen voor een centrifuge.](/help/using/assets/spin_set.png)
 
-Draaisets accepteren ook afbeeldingen met hyperlinks. Een afbeelding met hyperlinks is een gebied in een afbeelding in de centrifugeset dat een deelvenster met rollover-tekst weergeeft. Wanneer de gebruiker een Kaart van het Beeld selecteert, wordt een actie van één of andere soort teweeggebracht. Er wordt bijvoorbeeld een webpagina gestart zodat de gebruiker meer over een product kan leren. Als u een afbeelding met hyperlinks wilt aanwijzen in een centraalset, verschijnt er een omtrek rond de afbeelding met hyperlinks als de gebruiker de muisaanwijzer erboven plaatst.
+Draaisets accepteren ook afbeeldingen met hyperlinks. Een afbeelding met hyperlinks is een gebied in een afbeelding in de centrifugeset dat een deelvenster met rollover-tekst weergeeft. Wanneer de gebruiker een Kaart van het Beeld selecteert, wordt een actie van één of andere soort teweeggebracht. Een webpagina wordt bijvoorbeeld gestart zodat de gebruiker meer over een product kan leren. Als u een afbeelding met hyperlinks wilt aanwijzen in een centraalset, verschijnt er een omtrek rond de afbeelding met hyperlinks als de gebruiker de muisaanwijzer erboven plaatst.
 
 Zie [Afbeeldingen met hyperlinks maken](creating-image-maps.md).
 
@@ -75,13 +75,13 @@ Zie [Een voorvertoning van een centrifugeset weergeven](previewing-spin-set.md#p
 
 ## 6. Een centrifugeerset publiceren
 
-Als u een Spin-set publiceert, wordt deze op Adobe Dynamic Media Classic-servers geplaatst, zodat deze dynamisch op uw website of toepassing kunnen worden geleverd. Het activeert ook de URL-tekenreeks die de Spin Set van Dynamic Media Image-servers naar uw website of toepassing aanroept.
+Als u een Spin-set publiceert, wordt deze op Adobe Dynamic Media Classic-servers geplaatst, zodat deze dynamisch aan uw website of toepassing kan worden geleverd. Het activeert ook het koord URL dat de Vastgestelde Rotatie van de Servers van het Beeld van Dynamic Media aan uw Website of toepassing roept.
 
 Als u een centrifugeset wilt publiceren, markeert u deze voor publicatie door de optie **[!UICONTROL Mark for Publish]** naast de naam in het deelvenster Bladeren. Selecteer op de algemene navigatiebalk de optie **[!UICONTROL Publish]** om een publicatie te starten. Selecteer op de pagina Publiceren de optie **[!UICONTROL Submit Publish]**.
 
 Zie [Een centrifugeerset publiceren](publishing-spin-set.md#publishing-a-spin-set).
 
-## 7. Een centrifugeerset aan een webpagina koppelen
+## 7. Koppel een centrifugeerset aan een webpagina
 
 Adobe Dynamic Media Classic maakt URL-callout-tekenreeksen voor centrifuges en activeert deze na publicatie. U kunt deze URL&#39;s kopiëren vanaf de pagina Voorbeeld.
 

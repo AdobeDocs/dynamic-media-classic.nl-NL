@@ -10,7 +10,7 @@ role: Data Engineer,Admin,User
 exl-id: 05f2cce0-72bf-4933-87ab-c9003c848e35
 topic: Integrations, Development
 level: Experienced
-source-git-commit: 910410706fbd9dd79a8dda402af454a50132cc41
+source-git-commit: bc3b696bfde0ed55894cdcbf3533299ae7697e98
 workflow-type: tm+mt
 source-wordcount: '1159'
 ht-degree: 0%
@@ -37,13 +37,13 @@ Adobe Dynamic Media Classic biedt tools voor bewerking en het maken van aanbiedi
 
 Maak een set aanbiedingen op basis van de volgende soorten aanbiedingen:
 
-* **Afbeeldingen** - U kunt afbeeldingen samenstellen voor een set voorstellen. Elke afbeelding bevat een andere aanbieding in de set.
+* **Afbeeldingen**: U kunt afbeeldingen samenstellen voor een set aanbiedingen. Elke afbeelding bevat een andere aanbieding in de set.
 
-* **Afbeeldingssjabloon** - U kunt in Adobe Dynamic Media Classic parameters instellen voor afbeeldingssjablonen met de opdracht **[!UICONTROL Build]** > Sjabloonbasisbeginselen, opdracht. Via parameters kunnen onderdelen van de sjabloon (de tekst in tekstkaders, de verschillende afbeeldingen) worden omgewisseld en aangepast. Voor een aanbiedingsreeks, kunt u malplaatjeparameters gebruiken om variaties op het zelfde beeld in uw aanbiedingsreeks tot stand te brengen, bijvoorbeeld. Voor informatie over het maken van afbeeldingssjablonen en het bepalen van parameters, raadpleegt u [Sjabloonparameters maken](creating-template-parameters.md#creating_template_parameters).
+* **Afbeeldingssjabloon**: U kunt in Adobe Dynamic Media Classic parameters instellen voor afbeeldingssjablonen met de opdracht **[!UICONTROL Build]** > Sjabloonbasisbeginselen, opdracht. Via parameters kunnen onderdelen van de sjabloon (de tekst in tekstkaders, de verschillende afbeeldingen) worden omgewisseld en aangepast. Voor een aanbiedingsreeks, kunt u malplaatjeparameters gebruiken om variaties op het zelfde beeld in uw aanbiedingsreeks tot stand te brengen, bijvoorbeeld. Voor informatie over het maken van afbeeldingssjablonen en het bepalen van parameters, raadpleegt u [Sjabloonparameters maken](creating-template-parameters.md#creating_template_parameters).
 
 Zie ook [Grondbeginselen van sjablonen](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&amp;emailurl=https://s7d5.scene7.com/s7/emailFriend&amp;serverUrl=https://s7d5.scene7.com/is/image/&amp;config=Scene7SharedAssets/Universal_HTML5_Video&amp;contenturl=https://s7d5.scene7.com/skins/&amp;asset=S7tutorials/553_Template%20Basics_converted%20renamed_Dynamic%20Banners-AVS) trainingsvideo.
 
-* **Video** - U kunt video samenstellen voor een set aanbiedingen. Elke video heeft een andere aanbieding in de set.
+* **Video**: U kunt video samenstellen voor een aanbiedingsset. Elke video heeft een andere aanbieding in de set.
 
 ## Een aanbiedingsset maken met een geparametriseerde sjabloon {#creating-an-offer-set-with-a-parameterized-template}
 
@@ -67,7 +67,7 @@ Zie ook [Elementen handmatig publiceren](publishing-files.md#manually_publishing
 
    De linkerkant van de pagina bevat parameters in de sjabloon en de bijbehorende waarden.
 
-1. Wijzig parameterwaarden om de aanbieding te maken. Voer bijvoorbeeld andere tekst in een tekstveld in, wijzig de grootte van een laag, verander een afbeelding door een andere of kies een andere voorinstelling voor de viewer.
+1. Wijzig parameterwaarden om de aanbieding te maken. Voer bijvoorbeeld andere tekst in een tekstveld in, wijzig de grootte van een laag, wijzig de ene afbeelding in een andere of kies een andere voorinstelling voor de viewer.
 1. Selecteren **[!UICONTROL Save]** of **[!UICONTROL Save As**]** om het voorstel op te slaan als onderdeel van de aangeboden aanbieding.
 
    Op de pagina Set Test&amp;Target-voorstellen staan de aanbiedingen die u hebt gemaakt.
@@ -93,9 +93,9 @@ Zie ook [Elementen handmatig publiceren](publishing-files.md#manually_publishing
 
 1. Stel afbeeldingen of video&#39;s samen voor de ingestelde aanbieding. Begin in het Test&amp;Target Vastgestelde scherm van de Aanbieding of in de Mening van het Net of de Mening van de Lijst en gebruik één van de volgende methodes:
 
-   * **Scherm Aanbiedingset &amp;testen** - Ga naar **[!UICONTROL Build]** > **[!UICONTROL Test&Target Offer Set]**. Sleep afbeeldingen of video&#39;s naar het scherm. Als u video&#39;s of afbeeldingen van verschillende grootten wilt maken, sleept u in meerdere exemplaren van de afbeelding of video en stelt u elke grootte afzonderlijk in.
+   * **Scherm Aanbiedingset &amp;testen**: Ga naar **[!UICONTROL Build]** > **[!UICONTROL Test&Target Offer Set]**. Sleep afbeeldingen of video&#39;s naar het scherm. Als u video&#39;s of afbeeldingen van verschillende grootten wilt maken, sleept u in meerdere exemplaren van de afbeelding of video en stelt u elke grootte afzonderlijk in.
 
-   * **Rasterweergave of Lijstweergave** - Selecteer de afbeeldingen of video&#39;s en ga vervolgens naar **[!UICONTROL Build]** > **[!UICONTROL Test&Target Offer Set]**.
+   * **Rasterweergave of Lijstweergave**: Selecteer de afbeeldingen of video&#39;s en ga naar **[!UICONTROL Build]** > **[!UICONTROL Test&Target Offer Set]**.
 
 1. Selecteer desgewenst een afbeelding of video en selecteer **[!UICONTROL Preview]**. Op de pagina Voorvertoningsaanbiedingen kunt u de grootte en het uiterlijk wijzigen van de afbeelding of video die u hebt geselecteerd. U kunt ook alle afbeeldingen of video&#39;s in de set met aanbiedingen wijzigen.
 
@@ -127,10 +127,10 @@ Zie ook [Elementen handmatig publiceren](publishing-files.md#manually_publishing
 1. Als u een aanbiedingsset wilt bewerken, geeft u de aanbieding weer die is ingesteld in de rasterweergave of de lijstweergave, en selecteert u de desbetreffende aanbieding **[!UICONTROL Edit]** rolloverknop.
 1. Voer een of meerdere van de volgende handelingen uit op de pagina Set voorstel testen&amp;Doel:
 
-   * **Een aanbieding verwijderen** - Selecteer het voorstel en selecteer vervolgens **[!UICONTROL Delete]** om een voorstel uit de set te verwijderen.
-   * **Een voorstel toevoegen** - Hoe je een voorstel toevoegt, hangt af van het soort voorstel waarmee je werkt:
-      * **Sjablonen** - Selecteer **[!UICONTROL Add & Preview]** en maak op de pagina Aanbiedingen toevoegen en voorvertonen nog een voorstel.
-      * **Afbeeldingen en video&#39;s** - Sleep een afbeelding of video naar de pagina Set Test&amp;Target-aanbiedingen.
+   * **Een aanbieding verwijderen**: Selecteer de aanbieding en selecteer vervolgens **[!UICONTROL Delete]** om een voorstel uit de set te verwijderen.
+   * **Een voorstel toevoegen**: Hoe je een aanbieding toevoegt, hangt af van het soort voorstel dat je gebruikt:
+      * **Sjablonen**: Select **[!UICONTROL Add & Preview]** en maak op de pagina Aanbiedingen toevoegen en voorvertonen nog een voorstel.
+      * **Afbeeldingen en video&#39;s**: Sleep een afbeelding of video naar de pagina Set Test&amp;Target-aanbiedingen.
 
    >[!NOTE]
    >

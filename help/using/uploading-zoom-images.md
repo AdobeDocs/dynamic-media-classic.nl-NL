@@ -10,7 +10,7 @@ role: User
 exl-id: 44a82437-7592-484f-b45f-17ed1f6efbec
 topic: Content Management
 level: Intermediate
-source-git-commit: de6997fda88c4471625242ee9cca59b344cee945
+source-git-commit: bc3b696bfde0ed55894cdcbf3533299ae7697e98
 workflow-type: tm+mt
 source-wordcount: '223'
 ht-degree: 0%
@@ -33,7 +33,7 @@ Als u optimaal wilt profiteren van de functies van Adobe Dynamic Media Classic Z
 
 * **Bestandsindelingen**: Adobe Dynamic Media Classic ondersteunt alle standaardindelingen voor afbeeldingsbestanden. Indelingen zijn TIFF, BMP, JPEG, PSD, GIF en EPS. Afbeeldingsindelingen zonder verlies (TIFF en PNG) worden aanbevolen. Als u een JPEG-afbeelding gebruikt, gebruikt u de instellingen voor de hoogste kwaliteit.
 
-* **Kleurruimte**: RGB is de kleurruimte voor webafbeeldingspresentaties; CMYK-afbeeldingen worden automatisch omgezet in RGB wanneer u ze uploadt. Het wordt aanbevolen CMYK-afbeeldingen te uploaden die een ingesloten ICC-kleurprofiel hebben voor de conversie naar RGB. Zie ook ICC-profielen.
+* **Kleurruimte**: RGB is de kleurruimte voor webafbeeldingspresentaties. CMYK-afbeeldingen worden automatisch omgezet in RGB wanneer u ze uploadt. Het wordt aanbevolen CMYK-afbeeldingen te uploaden die een ingesloten ICC-kleurprofiel hebben voor de conversie naar RGB. Zie ook ICC-profielen.
 
 >[!MORELIKETHIS]
 >

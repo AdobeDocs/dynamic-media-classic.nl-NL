@@ -10,7 +10,7 @@ role: User
 exl-id: d41b30e7-994a-43f3-8698-7dbfc36305ae
 topic: Content Management
 level: Intermediate
-source-git-commit: 914fde11270dc731a261da3305b29dd573584d93
+source-git-commit: bc3b696bfde0ed55894cdcbf3533299ae7697e98
 workflow-type: tm+mt
 source-wordcount: '588'
 ht-degree: 0%
@@ -44,7 +44,7 @@ U kunt alle of sommige gemeenschapseigenschappen in de Gemengde Kijker van de Da
 
    De nieuwe voorinstelling van de viewer wordt weergegeven in de lijst.
 
-1. Herhaal stap 6 - 9 voor alle Viewer-voorinstellingen die u wilt toevoegen.
+1. Herhaal stap 6:9 voor alle voorinstellingen voor de viewer die u wilt toevoegen.
 1. Voer een van de volgende handelingen uit om de lijst met voorinstellingen te bewerken:
 
    * Als u een voorinstelling uit de lijst wilt verwijderen, selecteert u deze en selecteert u vervolgens **[!UICONTROL Delete]**.
@@ -52,13 +52,13 @@ U kunt alle of sommige gemeenschapseigenschappen in de Gemengde Kijker van de Da
 
 1. Als u communityfuncties (Insluiten, Koppeling, Bezoek) wilt toevoegen aan de viewer, geeft u opties op voor een van de volgende opties:
 
-   * **E-mail** - Selecteer **[!UICONTROL On]** om een e-mailknop in te schakelen in de viewer. Wanneer gebruikers de knop E-mail selecteren terwijl ze de set bekijken, wordt een e-mail met de koppeling naar de set geopend.
+   * **E-mail**: Select **[!UICONTROL On]** om een e-mailknop in te schakelen in de viewer. Wanneer gebruikers de knop E-mail selecteren terwijl ze de set bekijken, wordt een e-mail met de koppeling naar de set geopend.
 
-   * **Insluiten** - Selecteer **[!UICONTROL Live]**. Typ in het vak Label van knop insluiten de naam die u in de viewer voor de knop Insluiten wilt weergeven. Selecteer desgewenst **[!UICONTROL Browse]** om een aangepaste skin voor de knop te zoeken en te selecteren.
+   * **Insluiten**: Select **[!UICONTROL Live]**. Typ in het vak Label van knop insluiten de naam die u in de viewer voor de knop Insluiten wilt weergeven. Selecteer desgewenst **[!UICONTROL Browse]** om een aangepaste skin voor de knop te zoeken en te selecteren.
 
-   * **Koppeling** - Selecteer **[!UICONTROL Live]**. Typ in het vak Label van koppelingsknop de naam die u wilt weergeven in de viewer voor de knop Koppelen. Selecteer desgewenst **[!UICONTROL Browse]** om een aangepaste skin voor de knop te zoeken en te selecteren.
+   * **Koppeling**: Select **[!UICONTROL Live]**. Typ in het vak Label van koppelingsknop de naam die u wilt weergeven in de viewer voor de knop Koppelen. Selecteer desgewenst **[!UICONTROL Browse]** om een aangepaste skin voor de knop te zoeken en te selecteren.
 
-   * **Bezoek** - Selecteer **[!UICONTROL Live]**. Typ in het vak Label van bezoekknop de naam die u in de viewer voor de knop Bezoek wilt weergeven. Typ in het vak Bezoek-URL de URL naar de website die u wilt openen wanneer de koppeling is geselecteerd.
+   * **Bezoek**: Select **[!UICONTROL Live]**. Typ in het vak Label van bezoekknop de naam die u in de viewer voor de knop Bezoek wilt weergeven. Typ in het vak Bezoek-URL de URL naar de website die u wilt openen wanneer de koppeling is geselecteerd.
 
 1. Geef desgewenst andere opties op. Als u een beschrijving van een optie wilt zien, selecteert u het pictogram Info Tip naast de optie.
 

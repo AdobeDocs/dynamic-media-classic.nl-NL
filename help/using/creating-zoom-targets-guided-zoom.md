@@ -10,7 +10,7 @@ role: User
 exl-id: ffb799ba-1cf1-48e0-91a8-dea758139140
 topic: Content Management
 level: Intermediate
-source-git-commit: edd893482cbafd9674a44cf9878b8ee3079d98f7
+source-git-commit: bc3b696bfde0ed55894cdcbf3533299ae7697e98
 workflow-type: tm+mt
 source-wordcount: '708'
 ht-degree: 0%
@@ -32,7 +32,7 @@ Het maximale zoompercentage van Zoomdoelen is 100 procent. Het minimale zoomperc
 | Groot | Kleiner | Kleiner minimum |
 | Klein | Groter | Groter minimum |
 
-U kunt de grootte van de zoomviewer aanpassen aan de grootte die op uw webpagina wordt gebruikt. U kunt deze instelling permanent wijzigen door de viewergrootte te wijzigen in het scherm Setup (als u een beheerder bent). Zie [Voorinstellingen Zoomviewer instellen](setting-zoom-viewer-presets.md#setting_up_zoom_viewer_presets).
+U kunt de grootte van de Zoomviewer aanpassen aan de grootte die op uw webpagina wordt gebruikt. U kunt deze instelling permanent wijzigen door de viewergrootte te wijzigen in het scherm Setup (als u een beheerder bent). Zie [Voorinstellingen Zoomviewer instellen](setting-zoom-viewer-presets.md#setting_up_zoom_viewer_presets).
 
 ## Zoomdoelen maken en bewerken {#creating-and-editing-zoom-targets}
 
@@ -53,9 +53,9 @@ Als u een zoomdoel wilt maken, opent u de pagina Zoomdoel-editor en gaat u als v
 
 1. Selecteren **[!UICONTROL Select Target]** (pijl) en selecteer vervolgens het zoomdoel dat u hebt gemaakt en pas de grootte en positie van het doel aan.
 
-   * **Formaat wijzigen** - Plaats de aanwijzer boven een hoek van het zoomdoel en sleep om het doel te vergroten of te verkleinen.
+   * **Formaat wijzigen**: Plaats de aanwijzer boven een hoek van het zoomdoel en sleep om het doel te vergroten of te verkleinen.
 
-   * **Positie** - Plaats de aanwijzer boven het zoomdoel en sleep het naar een andere locatie.
+   * **Positie**: Beweeg de aanwijzer over het zoomdoel en sleep het naar een andere locatie.
 
 1. Voer in het vak Naam een naam voor het zoomdoel in.
 
@@ -63,7 +63,7 @@ Als u een zoomdoel wilt maken, opent u de pagina Zoomdoel-editor en gaat u als v
    >
    >Wat u in het vak Naam invoert, is meer dan een naam. Wanneer gebruikers de aanwijzer over het zoomdoel bewegen, zien ze wat u invoert in het vak Naam. Voer in het vak Naam een korte beschrijving in van het zoomdoel, zodat gebruikers weten waarop ze kunnen inzoomen.
 
-1. Voer eventueel gebruikersgegevens in het veld Gebruikersgegevens in. In dit veld kunnen websiteontwerpers informatie toevoegen aan het zoomdoel.
+1. Voer eventueel gebruikersgegevens in het veld Gebruikersgegevens in. Dit gebied is voor de ontwerpers van de Website om informatie aan het gezoemdoel toe te voegen.
 1. Selecteren **[!UICONTROL Save]**.
 
    De coördinaten en het zoomniveau van het zoomdoel worden opgeslagen. Een miniatuur van het zoomdoel met de naam die u hebt ingevoerd, wordt aan de rechterkant van het scherm weergegeven.
@@ -76,13 +76,13 @@ Als u een zoomdoel wilt maken, opent u de pagina Zoomdoel-editor en gaat u als v
 
 Als u Zoomdoelen wilt bewerken, gebruikt u de volgende technieken op de pagina Zoomdoel-editor:
 
-* **Opnieuw plaatsen** - Selecteer het doel met de knop Doel selecteren (de pijl). Sleep het doel vervolgens naar een andere locatie.
+* **Opnieuw plaatsen**: Selecteer het doel met de knop Doel selecteren (de pijl). Sleep het doel vervolgens naar een andere locatie.
 
-* **Formaat wijzigen** - Selecteer het doel met de knop Doel selecteren (de pijl). Als u het doel wilt vergroten of verkleinen, plaatst u de aanwijzer boven een hoek van het zoomdoel en sleept u.
+* **Formaat wijzigen**: Selecteer het doel met de knop Doel selecteren (de pijl). Als u het doel wilt vergroten of verkleinen, plaatst u de aanwijzer boven een hoek van het zoomdoel en sleept u.
 
-* **Verwijderen** - Selecteer de miniatuurafbeelding van het doel aan de rechterkant van het scherm. Selecteer vervolgens **[!UICONTROL Delete Target]**.
+* **Verwijderen**: Selecteer de miniatuurafbeelding van het doel aan de rechterkant van het scherm. Selecteer vervolgens **[!UICONTROL Delete Target]**.
 
-* **Naam wijzigen** - Selecteer de miniatuurafbeelding van het doel aan de rechterkant van het scherm. Voer vervolgens een naam in het dialoogvenster **[!UICONTROL Name]** tekstveld en selecteer **[!UICONTROL Save]**.
+* **Naam wijzigen**: Selecteer de miniatuurafbeelding van het doel aan de rechterkant van het scherm. Voer vervolgens een naam in het dialoogvenster **[!UICONTROL Name]** tekstveld en selecteer **[!UICONTROL Save]**.
 
 ### Zoomdoelen kopiëren {#copying-zoom-targets}
 

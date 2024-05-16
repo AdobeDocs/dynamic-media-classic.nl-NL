@@ -10,7 +10,7 @@ role: Admin,User
 exl-id: bff613c8-a93b-4cca-94db-8cad1cc36296
 topic: Collaboration, Content Management
 level: Beginner
-source-git-commit: edd893482cbafd9674a44cf9878b8ee3079d98f7
+source-git-commit: bc3b696bfde0ed55894cdcbf3533299ae7697e98
 workflow-type: tm+mt
 source-wordcount: '725'
 ht-degree: 0%
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Het Portaal van media laat bedrijven gemakkelijk verwerven, controleren en goedgekeurde activa aan externe partners en kanalen, en interne gebruikers van een bedrijf verspreiden. Deze op browser-gebaseerde, &quot;zelf-server&quot;milieu voorziet de gebruikers van Media Portal van beheerder-gecontroleerde &quot;meningen&quot;in de activa van Adobe Dynamic Media Classic voor gemakkelijke toegang tot, doorbladeren, onderzoek, voorproef, en de uitvoeractiva in collectief-goedgekeurde formaten.
 
-Als beheerder, controleert u hoe de gebruikers, tot activa in het Portaal van Media bekijken en toegang hebben en gebruiken. Bovendien kunt u de interface van Media Portal aanpassen aan uw website en merk. U kunt lettertype, lettertypekleur, tekengrootte opgeven en branding-elementen zoals logo&#39;s opnemen in de Media Portal-interface.
+Als beheerder, controleert u hoe de gebruikers, tot activa in het Portaal van Media bekijken en toegang hebben en gebruiken. Bovendien kunt u de interface van het Portaal van Media aanpassen om uw Website en merk aan te passen. U kunt lettertype, lettertypekleur, tekengrootte opgeven en branding-elementen zoals logo&#39;s opnemen in de Media Portal-interface.
 
 Bekijk de volgende trainingsvideo&#39;s:
 
@@ -35,7 +35,7 @@ Het volgende Snelle Begin wordt ontworpen om u met het beleid van het Portaal va
 
 ## 1. Begrijp de gebruikersrollen van Media Portal
 
-De gebruikers van het Portaal van media vallen in drie rollen - gebruiker, medewerker, en gebruiker-medewerker. Elke rol kan een verschillende reeks taken uitvoeren. Bijvoorbeeld, kan een contribuant dossiers en omslagen anders noemen en schrappen, maar een gebruiker kan niet die taken doen. Begrijp de verschillende rollen zodat wanneer u gebruikers toevoegt, u begrijpt welke verantwoordelijkheden u hen geeft.
+De gebruikers van het Portaal van media vallen in drie rollen: gebruiker, medewerker, en gebruiker-medewerker. Elke rol kan een verschillende reeks taken uitvoeren. Bijvoorbeeld, kan een contribuant dossiers en omslagen anders noemen en schrappen, maar een gebruiker kan niet die taken doen. Begrijp de verschillende rollen zodat wanneer u gebruikers toevoegt, u begrijpt welke verantwoordelijkheden u hen geeft.
 
 Zie [Gebruikersrollen van Media Portal](media-portal-user-roles.md#media_portal_user_roles).
 

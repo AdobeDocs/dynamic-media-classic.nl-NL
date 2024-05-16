@@ -10,9 +10,9 @@ role: User
 exl-id: fd78d535-391e-43eb-a8aa-25fa6c2885cb
 topic: Content Management
 level: Intermediate
-source-git-commit: 5b5dcd1199bd51ec987b5673fce75bc86baad55b
+source-git-commit: 29752cf9eca0fc9bb760c721e1c3dc8e4ef912c3
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '1041'
 ht-degree: 0%
 
 ---
@@ -26,12 +26,12 @@ Met Beveiligd testen kunt u een voorvertoning van de testversie van de website w
 Maak indien gewenst een testomgeving in plaats van elementen openbaar te maken, en wel om de volgende redenen:
 
 * Geef een voorvertoning weer van websites voordat u deze openbaar maakt (website voor opvoeren).
-* Serve activa die beperkte toegang, zoals eCatalogi vereisen die prijzen in een B2B Webtoepassing tonen.
-* Gebruik middelen achter een firewall als onderdeel van het systeem voor productinformatiebeheer, de toepassing van de klantenservice, de trainingssite enzovoort.
+* Serve activa die beperkte toegang, zoals eCatalogi vereisen die prijzen in een B2B toepassing van het Web tonen.
+* Gebruik middelen achter een firewall als onderdeel van een systeem voor productinformatiebeheer, een toepassing voor klantenservice, een trainingssite enzovoort.
 
 >[!NOTE]
 >
->Beveiligd testen heeft geen invloed op de toegang tot Adobe Dynamic Media Classic. De beveiliging van Adobe Dynamic Media Classic blijft consistent en vereist de gebruikelijke aanmeldingsgegevens voor toegang tot Adobe Dynamic Media Classic en verwante webservices.
+>Beveiligd testen heeft geen invloed op de toegang tot Adobe Dynamic Media Classic. De veiligheid van Adobe Dynamic Media Classic blijft verenigbaar en vereist de gebruikelijke geloofsbrieven voor toegang tot Adobe Dynamic Media Classic en de verwante diensten van het Web.
 
 ## Hoe Veilig testen werkt {#how-secure-testing-works}
 
@@ -43,11 +43,11 @@ Met het Veilige Testen, vestigt Adobe Dynamic Media Classic een specifieke Serve
 
 Omdat de plaats van het originele verzoek moet worden bevestigd, wordt het verkeer van de Veilige Testende dienst niet verpletterd door een netwerk van de inhoudsdistributie zoals het openbare verkeer van de Server van het Beeld van Dynamic Media. Verzoeken naar de service Beveiligd testen hebben een iets hogere latentie dan de openbare Dynamic Media Image Servers.
 
-Niet-gepubliceerde middelen zijn direct beschikbaar bij de services voor het beveiligen van tests, zonder dat ze hoeven te worden gepubliceerd. Op deze manier kunt u een voorvertoning uitvoeren voordat elementen worden gepubliceerd naar hun openbare afbeeldingsserver.
+Niet-gepubliceerde middelen zijn direct beschikbaar bij de services voor het beveiligen van tests, zonder dat ze hoeven te worden gepubliceerd. Op deze manier, kunt u een voorproef in werking stellen alvorens de activa aan hun openbaar onder ogen ziet Server van het Beeld worden gepubliceerd.
 
 >[!NOTE]
 >
->De veilige Testende diensten gebruiken de Server van de Catalogus die met een interne publicatiecontext wordt gevormd. Als uw bedrijf is geconfigureerd om te publiceren voor Secure Testing, worden geüploade middelen in Adobe Dynamic Media Classic daarom direct beschikbaar voor de services voor Beveiligd testen. Deze functionaliteit is van toepassing, ongeacht of de elementen zijn gemarkeerd voor publiceren tijdens het uploaden.
+>De veilige Testende diensten gebruiken de Server van de Catalogus die met een interne publicatiecontext wordt gevormd. Als uw bedrijf is geconfigureerd om te publiceren voor Secure Testing, zijn alle geüploade middelen in Adobe Dynamic Media Classic daarom direct beschikbaar voor de services voor Beveiligd testen. Deze functionaliteit is van toepassing, ongeacht of de elementen zijn gemarkeerd voor publiceren tijdens het uploaden.
 
 De Secure Testing-services bieden momenteel ondersteuning voor de volgende typen middelen en functies:
 
@@ -63,7 +63,7 @@ Last Modified Date:
 
 * Afbeeldingen.
 * Vignettes (aanvragen van Server renderen).
-* Serveraanvragen renderen (ondersteund, maar moet expliciet door de klant worden aangevraagd).
+* Serveraanvragen renderen (ondersteund, maar de klant moet dit expliciet aanvragen).
 * Sets, inclusief afbeeldingssets, eCatalog, rendersets en mediasets.
 * Standaard Adobe Dynamic Media Classic-viewers met rijke media.
 * Adobe Dynamic Media Classic OnDemand JSP-pagina&#39;s.
@@ -88,7 +88,7 @@ Test de Secure Testing service zodat u zeker weet dat deze naar behoren function
 
 <!-- >[!NOTE]
 >
->*If you do not mention any IPs under **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Publish Setup]** > **[!UICONTROL Image Server]** > **[!UICONTROL Test Image Service]*** - If you add an IP only, that IP is able to call the assets and no other IP are allowed to make the calls. As long there is no IP mentioned under that section, all IPs are allowed to make the calls for the assets, and they show up. -->
+>*If you do not mention any IPs under **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Publish Setup]** > **[!UICONTROL Image Server]** > **[!UICONTROL Test Image Service]***: If you add an IP only, that IP is able to call the assets and no other IP are allowed to make the calls. As long there is no IP mentioned under that section, all IPs are allowed to make the calls for the assets, and they show up. -->
 
 ### Uw account voorbereiden
 
@@ -133,8 +133,8 @@ Neem contact op met de Adobe als de servernaam ontbreekt of als de URL&#39;s naa
 
 U hebt twee variaties nodig van een website die de gepubliceerde en niet-gepubliceerde elementen koppelt:
 
-* Openbare versie - Koppel elementen met behulp van uw traditionele Adobe Dynamic Media Classic URL-syntaxis.
-* Versie Staging - Koppel elementen met dezelfde syntaxis, maar met de naam van de site voor Beveiligd testen.
+* Openbare versie: koppel elementen met behulp van uw traditionele Adobe Dynamic Media Classic URL-syntaxis.
+* Staging version: koppel elementen met dezelfde syntaxis, maar met de naam van de site voor Beveiligd testen.
 
 ### De tests uitvoeren
 

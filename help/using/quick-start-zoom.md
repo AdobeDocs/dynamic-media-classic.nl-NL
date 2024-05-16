@@ -10,7 +10,7 @@ role: User
 exl-id: eae35207-000c-4ced-b9ab-714c2384a9e7
 topic: Content Management
 level: Beginner
-source-git-commit: b2a6aeb1aab420803a8b7dafb0fdeda495e2a69b
+source-git-commit: bc3b696bfde0ed55894cdcbf3533299ae7697e98
 workflow-type: tm+mt
 source-wordcount: '825'
 ht-degree: 0%
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # Snel starten: Zoomen{#quick-start-zoom}
 
-Met Zoomen kunt u op interactieve wijze details met een hoge resolutie weergeven in afbeeldingen. U kunt bijvoorbeeld de kleuren, opties, hoeken en details van een afbeelding bekijken in een dynamische, volledig configureerbare, geïntegreerde viewer. Deze viewer kan op een webpagina worden ingesloten of in een pop-upvenster worden weergegeven. U kunt afbeeldingen van dichtbij controleren en afbeeldingen met hoge resoluties pannen om ze nauwkeurig te bekijken. Zooming biedt uw klanten een aantrekkelijke, informatieve en interactieve kijkervaring.
+Met Zoomen kunt u op interactieve wijze details met een hoge resolutie weergeven in afbeeldingen. U kunt bijvoorbeeld de kleuren, opties, hoeken en details van een afbeelding bekijken in een dynamische, volledig configureerbare, geïntegreerde viewer. Deze viewer kan worden ingesloten op een webpagina of worden weergegeven in een pop-upvenster. U kunt afbeeldingen van dichtbij controleren en afbeeldingen met hoge resoluties pannen om ze nauwkeurig te bekijken. Zooming biedt uw klanten een aantrekkelijke, informatieve en interactieve kijkervaring.
 
 Adobe Dynamic Media Classic beschikt ook over Bewerken met instructies voor zoomen. Hiermee kunt u de belangrijke functies in een afbeelding benadrukken. Als u bijvoorbeeld de aandacht van kijkers op een logo wilt richten, kunt u een zoomdoel voor het logo maken. Wanneer gebruikers dit zoomdoel selecteren, zoomen ze op het logo.
 
@@ -63,6 +63,6 @@ Als u uw zoomafbeeldingen publiceert, worden deze op Dynamic Media Image Servers
 
 Selecteer op de algemene navigatiebalk de optie **[!UICONTROL Publish]**. Selecteer in het dialoogvenster Publiceren **[!UICONTROL Submit Publish]**. Zie [Zoomafbeeldingen publiceren](publishing-zoom-images.md#publishing_zoom_images).
 
-## 6. Zoom-viewers koppelen aan uw webpagina
+## 6. Zoomviewers koppelen aan uw webpagina
 
-Adobe Dynamic Media Classic maakt de URL-bijschrifttekenreeksen die nodig zijn voor het zoomen op afbeeldingen en activeert deze wanneer u afbeeldingen publiceert naar Dynamic Media Image Servers. U kunt deze URL-tekenreeksen kopiëren vanuit het dialoogvenster **[!UICONTROL Preview]** pagina. Nadat u de URL-tekenreeksen hebt gekopieerd, zijn deze beschikbaar voor uw websites en toepassingen. Zie [Zoomviewers koppelen aan uw webpagina](linking-zoom-viewers-web-pages.md#linking_zoom_viewers_to_your_web_pages).
+Adobe Dynamic Media Classic maakt de URL-bijschrifttekenreeksen die nodig zijn voor het zoomen op afbeeldingen en activeert deze wanneer u afbeeldingen publiceert naar Dynamic Media Image Servers. U kunt deze URL-tekenreeksen kopiëren vanuit het dialoogvenster **[!UICONTROL Preview]** pagina. Nadat u de koorden URL kopieert, zijn zij beschikbaar aan uw Websites en toepassingen. Zie [Zoomviewers koppelen aan uw webpagina](linking-zoom-viewers-web-pages.md#linking_zoom_viewers_to_your_web_pages).

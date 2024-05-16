@@ -10,7 +10,7 @@ role: User
 exl-id: 7e6f652c-b197-4171-b11b-f532795f7cf2
 topic: Content Management
 level: Intermediate
-source-git-commit: edd893482cbafd9674a44cf9878b8ee3079d98f7
+source-git-commit: bc3b696bfde0ed55894cdcbf3533299ae7697e98
 workflow-type: tm+mt
 source-wordcount: '943'
 ht-degree: 0%
@@ -72,7 +72,7 @@ Voor een bepaald viewerplatform kunt u in het venster Viewer List visueel zien w
 
    * Selecteer in het venster Viewer List onder de kolom Acties van de tabel de optie **[!UICONTROL Embed Code]**.
 
-     Wanneer u **[!UICONTROL Embed Code]**, wordt het venster Code insluiten geopend waarin u de viewercode kunt bekijken. Het bewerken van de code is niet toegestaan in het venster. U kunt de code ook naar het klembord kopiëren, zodat u deze in uw webpagina&#39;s kunt plakken.
+     Wanneer u **[!UICONTROL Embed Code]**, wordt het venster Code insluiten geopend waarin u de viewercode kunt bekijken. Het bewerken van de code is niet toegestaan in het venster. U kunt de code aan het klembord ook kopiëren zodat kunt u het in uw Web-pagina&#39;s kleven.
 
      Sluit de weergegeven voorvertoning.
 
