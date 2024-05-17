@@ -10,9 +10,9 @@ role: Admin,User
 exl-id: b0c5f70a-2388-42aa-a1ed-fd745ff90518
 topic: Collaboration, Content Management
 level: Intermediate
-source-git-commit: bc3b696bfde0ed55894cdcbf3533299ae7697e98
+source-git-commit: 00591bdbe721035e25d3dea245a2110f978d19aa
 workflow-type: tm+mt
-source-wordcount: '329'
+source-wordcount: '308'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ Ga voor toegang tot de stijlinstellingen naar **[!UICONTROL Setup]** > **[!UICON
 
 * **[!UICONTROL Application]**: Maak een verloopkleurovervloeiing door keuzes te maken in de menu&#39;s van de Achtergrondverloopkleuren.
 
-* **[!UICONTROL Tree]**: Kies een rollover-kleur (de kleur die wordt weergegeven wanneer u de aanwijzer over een item beweegt) en een selectiekleur (de kleur die wordt weergegeven wanneer u een item selecteert).
+* **[!UICONTROL Tree]**: Kies een rollover-kleur en een selectiekleur.
 
 * **[!UICONTROL Accordion]**: Kies achtergrondkleuren, een randstijl, de rollover en de geselecteerde kleuren voor de accordeon die in de weergave Details rechts op het scherm wordt weergegeven.
 

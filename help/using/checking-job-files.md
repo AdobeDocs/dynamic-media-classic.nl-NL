@@ -10,16 +10,16 @@ role: User
 exl-id: b6b11e1c-5eda-4bdb-8ffb-ecd3678f2352
 topic: Administration, Content Management
 level: Intermediate
-source-git-commit: bc3b696bfde0ed55894cdcbf3533299ae7697e98
+source-git-commit: bb229047c0c9b3855453ea15dcd1f9754bc65cef
 workflow-type: tm+mt
-source-wordcount: '1559'
+source-wordcount: '1562'
 ht-degree: 0%
 
 ---
 
 # Taakbestanden controleren{#checking-job-files}
 
-Adobe Dynamic Media Classic biedt de pagina Taken aan om het uploaden van bestanden naar Adobe Dynamic Media Classic en het publiceren naar Adobe Dynamic Media Classic-servers te controleren. U kunt het uploaden en publiceren banen op de pagina van Banen herzien, de status van banen controleren, en het annuleren van het publiceren banen van deze pagina. U kunt ook uploads en publicatietaken plannen.
+Adobe Dynamic Media Classic biedt de pagina Taken aan om het uploaden van bestanden naar Adobe Dynamic Media Classic en het publiceren naar Adobe Dynamic Media Classic-servers te controleren. U kunt taken op de pagina Taken controleren, uploaden en publiceren, de status van taken controleren en publicatietaken op deze pagina annuleren. U kunt ook uploads en publicatietaken plannen.
 
 Wanneer u elementen uploadt, wordt een draaiend pictogram weergegeven naast het menu Taken. Dit geeft aan dat een taak wordt uitgevoerd en dat het aantal bestanden in uitvoering is. U kunt het pictogram selecteren om meer informatie over de actieve taak weer te geven.
 
@@ -49,7 +49,7 @@ Taken worden in de volgende categorieën op het tabblad Historie van de pagina T
 
 * **[!UICONTROL Status]**: geeft de status van de taak weer.
 
-* **[!UICONTROL Destination]**: Voor uploadtaken: de bedrijfsnaam en de map waarnaar de bestanden zijn geüpload. Deze categorie is niet van toepassing op publicatietaken.
+* **[!UICONTROL Destination]**: Voor uploadtaken is de bestemming de bedrijfsnaam en map waarnaar de bestanden zijn geüpload. Deze categorie is niet van toepassing op publicatietaken.
 
 * **[!UICONTROL Submitted By]**: Lijsten die de elementen hebben geüpload.
 

@@ -10,16 +10,16 @@ role: User
 exl-id: 118806ea-c8a7-4aaf-9ae3-739c6b04ea77
 topic: Development
 level: Experienced
-source-git-commit: b2a6aeb1aab420803a8b7dafb0fdeda495e2a69b
+source-git-commit: 00591bdbe721035e25d3dea245a2110f978d19aa
 workflow-type: tm+mt
-source-wordcount: '785'
+source-wordcount: '784'
 ht-degree: 0%
 
 ---
 
 # Sjabloonparameters maken{#creating-template-parameters}
 
-De parameters laten u toe om malplaatjes met maximumflexibiliteit te gebruiken; zij staan u toe om een malplaatjebeeld dynamisch aan te passen. U kunt bepalen welke tekst- en afbeeldingslagen u wilt opnemen in de sjabloon en in elke laag, welke parameters u wilt weergeven. Als u bijvoorbeeld de aandacht wilt vestigen op een product dat te koop is, kunt u een tekstlaag Op verkoop maken. Later kunt u deze laag verwijderen, maar toch de rest van de sjabloonafbeelding behouden door de parameter Aan verkoop te verwijderen.
+De parameters laten u toe om malplaatjes met maximumflexibiliteit te gebruiken; zij laten u dynamisch een malplaatjebeeld aanpassen. U kunt bepalen welke tekst- en afbeeldingslagen u wilt opnemen in de sjabloon en in elke laag, welke parameters u wilt weergeven. Als u bijvoorbeeld de aandacht wilt vestigen op een product dat te koop is, kunt u een tekstlaag Op verkoop maken. Later kunt u deze laag verwijderen, maar toch de rest van de sjabloonafbeelding behouden door de parameter Aan verkoop te verwijderen.
 
 Wanneer u malplaatjeparameters creeert, verklaart u in feite welke delen van het malplaatje in een koord URL te roepen. Een URL die met parameters is samengesteld, maakt die items in de URL-tekenreeks beschikbaar. Met blootgestelde parameters, kunt u douaneresultaten van de manier tot stand brengen het malplaatjebeeld dynamisch van de Server van het Beeld wordt geconstrueerd. Op deze manier kunt u een sjabloon dynamisch wijzigen omdat u enkele of alle parameters ervan in een URL kunt aanroepen.
 
@@ -59,4 +59,4 @@ Als u wilt dat de parameternaam een databasewaarde gebruikt, voegt u de volgende
 ?$_2(parameter name)=(database value)
 ```
 
-De parameternaam wordt vervangen door namen in een databaseveld of Java™-code die bijvoorbeeld de huidige prijs van een item of de naam van een klant aangeven.
+Namen in een databaseveld of Java™-code vervangen de parameternamen. Deze functionaliteit geeft bijvoorbeeld de huidige prijs van een item of een naam van een klant aan.

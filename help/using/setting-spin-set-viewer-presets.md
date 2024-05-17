@@ -10,7 +10,7 @@ role: User
 exl-id: cb9e996c-ab90-4656-8e93-5e7cbeeadb7f
 topic: Content Management
 level: Intermediate
-source-git-commit: b2a6aeb1aab420803a8b7dafb0fdeda495e2a69b
+source-git-commit: bb229047c0c9b3855453ea15dcd1f9754bc65cef
 workflow-type: tm+mt
 source-wordcount: '223'
 ht-degree: 0%
@@ -27,9 +27,9 @@ Met voorinstellingen van de draaiende viewer worden de stijl, het gedrag en de v
 1. Voer een van de volgende handelingen uit:
 
    * Selecteer **[!UICONTROL Add]** kiest u vervolgens in het dialoogvenster Voorinstelling viewer toevoegen een platform en selecteert u vervolgens **[!UICONTROL Spin Set Viewer]**.
-   * Als u een bestaande voorinstelling voor een draaiende viewer wilt bewerken, selecteert u de voorinstelling en selecteert u **[!UICONTROL Edit]**.
+   * Als u een bestaande voorinstelling voor een draaiende set-viewer wilt bewerken, selecteert u de voorinstelling en selecteert u **[!UICONTROL Edit]**.
 
-1. Op de `Configure Viewer` typt u een naam in het vak Naam voorinstelling voor de voorinstelling van de voorinstelling van de spellingviewer.
+1. Op de `Configure Viewer` typt u een naam in het vak Naam voorinstelling voor de voorinstelling voor de voorinstelling van de voorinstelling voor de voorinstelling van de voorinstelling voor de voorinstelling van de voorinstelling.
 1. Geef desgewenst andere opties op. Als u een beschrijving van een optie wilt weergeven, selecteert u de optie **[!UICONTROL Info Tip]** naast de optie.
 
    Op de pagina Voorbeeld wordt de viewer weergegeven terwijl u instellingen bijwerkt en wijzigt.

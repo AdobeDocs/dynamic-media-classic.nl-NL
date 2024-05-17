@@ -10,9 +10,9 @@ role: Admin,User
 exl-id: 9590c53c-fd38-4bf2-b723-cd7369702364
 topic: Administration
 level: Intermediate
-source-git-commit: bc3b696bfde0ed55894cdcbf3533299ae7697e98
+source-git-commit: bb229047c0c9b3855453ea15dcd1f9754bc65cef
 workflow-type: tm+mt
-source-wordcount: '923'
+source-wordcount: '921'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Als beheerder kunt u gebruikers toevoegen en beheren, beslissen of ze wachtwoord
 
 >[!NOTE]
 >
->Voordat u gebruikers toevoegt, moet u groepen instellen voor het beheer ervan. Met Mediaportal kunt u geen gebruiker toevoegen zonder de gebruiker aan een of meer groepen toe te wijzen. Zie voor meer informatie [Mediaportaalgroepen maken en beheren](creating-media-portal-groups.md#creating_and_managing_media_portal_groups).
+>Voordat u gebruikers toevoegt, moet u groepen instellen voor het beheer ervan. Met Media Portal kunt u een gebruiker toevoegen door de gebruiker aan een of meer groepen toe te wijzen. Zie voor meer informatie [Mediaportaalgroepen maken en beheren](creating-media-portal-groups.md#creating_and_managing_media_portal_groups).
 
 ## Beheer van wachtwoorden voor mediaportaal {#handling-media-portal-passwords}
 
@@ -41,7 +41,7 @@ De gebruikers van het Portaal van media, de medewerkers, en de medewerker-gebrui
 
 1. Navigeren naar **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Administration Setup]** > **[!UICONTROL User Administration]**.
 1. Selecteer op de pagina Gebruikersbeheer de optie **Toevoegen**.
-1. In de **[!UICONTROL `Add User`]** voert u in het deelvenster Gebruikersinfo de voornaam, achternaam en het e-mailadres van de gebruiker in en selecteert u vervolgens **[!UICONTROL Next]**.
+1. In de **[!UICONTROL `Add User`]** voert u in het deelvenster Gebruikersinfo de voornaam, achternaam en e-mailadres van de gebruiker in en selecteert u vervolgens **[!UICONTROL Next]**.
 1. Selecteer in het deelvenster Bedrijf/Rol in de vervolgkeuzelijst Bedrijven een bedrijf of bedrijven voor de gebruiker.
 1. Selecteer in de lijst Rol een rol voor Media Portal en selecteer vervolgens **[!UICONTROL Next]**.
 
@@ -95,7 +95,7 @@ Elke gebruiker in de lijst wordt automatisch toegevoegd aan de opgegeven groepen
 
 >[!NOTE]
 >
->Als het CSV-bestand niet correct is opgemaakt, wordt het volgende foutbericht weergegeven: &quot;Er is een fout opgetreden tijdens het verwerken van het geüploade CSV-bestand. Controleer de inhoud van het bestand op geldige gegevens.&quot; Bovendien als CSV bestaande IP of IPS gebruiker bevat, wordt de gebruiker niet toegevoegd aan de Lijst van de Gebruiker.
+>Als het CSV-bestand niet correct is opgemaakt, wordt het volgende foutbericht weergegeven: &quot;Er is een fout opgetreden tijdens het verwerken van het geüploade CSV-bestand. Controleer de inhoud van het bestand op geldige gegevens.&quot; Bovendien als CSV bestaande IP of IPS gebruiker bevat, wordt de gebruiker niet toegevoegd aan de gebruikerslijst.
 
 ## Genereer een selecteerbare lijst met gebruikers van het Media Portal {#generating-a-selectable-list-of-media-portal-users}
 
