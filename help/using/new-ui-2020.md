@@ -9,7 +9,7 @@ role: Admin,User
 exl-id: d61ea80a-a98e-43e6-9e2e-4389962134f1
 topic: Administration
 level: Intermediate
-source-git-commit: b34520c31ca7d46a0753bf0900070743110e6fc4
+source-git-commit: 3f71adedf54832c4e7c4c46d4103d609a2fd9634
 workflow-type: tm+mt
 source-wordcount: '2868'
 ht-degree: 0%
@@ -125,7 +125,6 @@ Toegevoegde bijschriften worden ondersteund met de indelingen WebVTT en Adobe VT
 1. Navigeer naar het geüploade video-element waaraan u meerdere bijschriften en audiotracks wilt toevoegen.
 1. Selecteer het video-element in de modus voor selectie van elementen in de lijstweergave of de kaartweergave.
 1. Selecteer op de werkbalk het pictogram Eigenschappen (een cirkel met een &quot;i&quot; erin).
-<!-- ![Selected video asset with checkmark over video thumbnail image and View Properties highlighted on the toolbar.](/help/assets/dynamic-media/assets/msma-selectedasset-propertiesbutton.png)*Selected video asset in Card view.* -->
 1. Selecteer op de pagina Eigenschappen van video de optie **[!UICONTROL Captions & Audio Tracks]** tab.
 
    >[!TIP]
@@ -135,8 +134,6 @@ Toegevoegde bijschriften worden ondersteund met de indelingen WebVTT en Adobe VT
    >* Of de video moet opnieuw worden verwerkt door Dynamic Media. In dat geval, zie [Dynamic Media-elementen in een map opnieuw verwerken].
    >
    >Als u een van de bovenstaande taken hebt uitgevoerd, gaat u terug naar deze stappen.
-
-   <!-- ![Captions and Audio Tracks tab on the Properties page.](/help/assets/dynamic-media/assets/msma-audiotracks2.png)*Captions and Audio Tracks tab on the video's Properties page.* -->
 
 1. Ga als volgt te werk om een of meer audiotracks aan een video toe te voegen:
    1. Selecteren **[!UICONTROL Upload Audio Tracks]**.
@@ -165,7 +162,6 @@ Toegevoegde bijschriften worden ondersteund met de indelingen WebVTT en Adobe VT
    | **Optie 2** | Ik wil dat AI mijn bijschriftbestanden in meerdere talen genereert.<br>Zie **Optie 2** in stap 8 hieronder. |
    | **Optie 3** | Tekst in een bijschriftbestand (.vtt) moet worden gecorrigeerd, opnieuw worden geüpload om het oude .vtt-bestand te vervangen en het gecorrigeerde bestand vervolgens door AI laten vertalen.<br>Zie **Optie 3** in stap 8 hieronder. |
 
-
 +++**Optie 1:** *Ik heb mijn eigen bestaande bijschriftbestanden die in de talen staan die ik wil gebruiken.*
 
    1. Klik rechts boven op de pagina op **[!UICONTROL Create Caption]** > **[!UICONTROL Upload files]**.
@@ -189,7 +185,6 @@ Toegevoegde bijschriften worden ondersteund met de indelingen WebVTT en Adobe VT
 
    1. Als u **[!UICONTROL Save & Close]** in de vorige stap in plaats van **[!UICONTROL Save]** kunt u nog steeds de verwerkingsstatus van de geüploade bestanden bekijken. Zie [De levenscyclusstatus van geüploade bijschriften en audiotrackbestanden weergeven].
    1. Ga verder met stap 9.
-
 +++
 
 +++**Optie 2:** *Ik wil dat AI mijn bijschriftbestanden in meerdere talen genereert.*
@@ -218,7 +213,6 @@ Toegevoegde bijschriften worden ondersteund met de indelingen WebVTT en Adobe VT
 
       U kunt bepaalde metagegevens van bijschriften indien nodig later wijzigen of bewerken. Wanneer de video wordt gepubliceerd, worden deze metagegevens weerspiegeld in openbare URL&#39;s in gepubliceerde video&#39;s.
    1. Ga verder met stap 9.
-
 +++
 
 +++**Optie 3:** *Tekst in een bijschriftbestand (.vtt) moet worden gecorrigeerd, opnieuw worden geüpload om het oude .vtt-bestand te vervangen en het gecorrigeerde bestand vervolgens door AI laten vertalen.*
@@ -248,7 +242,6 @@ Toegevoegde bijschriften worden ondersteund met de indelingen WebVTT en Adobe VT
       U kunt bepaalde metagegevens van bijschriften indien nodig later wijzigen of bewerken. Wanneer de video wordt gepubliceerd, worden deze metagegevens weerspiegeld in openbare URL&#39;s in gepubliceerde video&#39;s.
 
    1. Ga verder met stap 9.
-
 +++
 
 1. (Optioneel) Geef een voorvertoning van de video weer voordat u de video publiceert, zodat de bijschriften en audio naar behoren werken. Zie [Een voorvertoning weergeven van een video met meerdere bijschriften en audiotracks].
