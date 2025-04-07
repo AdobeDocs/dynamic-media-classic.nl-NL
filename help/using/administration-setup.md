@@ -9,9 +9,9 @@ role: Admin
 exl-id: 14e3d8be-f265-4cec-aa8e-19ef71526b68
 topic: Administration
 level: Intermediate
-source-git-commit: 5482f442b067fd4911a05351e88c5be130c0b76d
+source-git-commit: fc2138cc9fd08cb4ce7466724af03f0901edebf3
 workflow-type: tm+mt
-source-wordcount: '1850'
+source-wordcount: '1871'
 ht-degree: 0%
 
 ---
@@ -152,10 +152,10 @@ Ga naar **[!UICONTROL Setup]** > **[!UICONTROL Personal Setup]** om deze pagina 
 In de volgende tabel worden de rapporten beschreven die u kunt genereren op de pagina Bandbreedte en opslag:
 
 | Rapport | Informatie | Gebruiken |
-|:--- |:--- |:--- |
-| Bandbreedte | Bandbreedtegebruik door bedrijf | Het bandbreedtegebruik van het spoor door bedrijf over specifieke datumwaaiers om verkeerspatronen te bepalen. |
+| --- | --- | --- |
+| Bandbreedte | | <!-- CQDOC-22504 --> **BELANGRIJK**: Het lusje van de Bandbreedte wordt niet meer gesteund. Hoewel deze nog steeds in de gebruikersinterface wordt weergegeven, zijn de bandbreedtegegevens niet beschikbaar en worden alle waarden weergegeven als `0` . |
 | Opslag | Opslaggebruik | Houd de hoeveelheid gegevens bij die door het bedrijf is geüpload. |
-| Afbeeldingsinhoud | Het aantal aanvragen voor afbeeldingen per type | Houd het aantal aanvragen en het volume voor verschillende afbeeldingstypen bij. |
+| Afbeeldingsinhoud | Toont de totale klappen en het volume van de beeldlevering die door verzoektype en subtype worden verdeeld. | Houd het aantal aanvragen en het volume voor verschillende afbeeldingstypen bij, inclusief metingen van niet-videoelementen. <!-- CQDOC-22504 --> |
 | Domein | Het aantal URL-aanvragen per domein | Gebruik van afbeeldingen bijhouden op basis van het domein van het verzoek om een afbeelding voor een bepaald bedrijf. (Adobe Dynamic Media Classic kan meer dan één domein per account opgeven. Neem voor meer informatie contact op met de Technische ondersteuning.) |
 | Videostreaming | Bandbreedtegebruik voor het streamen van video | Het stromen videogebruik van het spoor door bedrijf over specifieke datumwaaiers om verkeerspatronen te bepalen. |
 | Video-inhoud | Afspeeltijd van verschillende video&#39;s | Bepaal welke de meest bekeken en minst bekeken video&#39;s zijn. |
