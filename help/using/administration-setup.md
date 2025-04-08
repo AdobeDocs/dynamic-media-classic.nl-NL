@@ -9,7 +9,7 @@ role: Admin
 exl-id: 14e3d8be-f265-4cec-aa8e-19ef71526b68
 topic: Administration
 level: Intermediate
-source-git-commit: fc2138cc9fd08cb4ce7466724af03f0901edebf3
+source-git-commit: dd799969ff9fd2638537254ae928a598eec627a3
 workflow-type: tm+mt
 source-wordcount: '1871'
 ht-degree: 0%
@@ -42,13 +42,13 @@ Nadat u een gebruiker hebt toegevoegd, stuurt Adobe Dynamic Media Classic de geb
 
 ### Een gebruiker of beheerder toevoegen {#adding-a-user-or-administrator}
 
-1. Ga naar **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Administration Setup]** > **[!UICONTROL User Administration]** .
-1. Selecteer **[!UICONTROL Add]** .
-1. Voer de naam en het e-mailadres in van de gebruiker of beheerder die u wilt toevoegen en selecteer vervolgens **[!UICONTROL Next]** .
+1. Ga naar **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Administration Setup]** > **[!UICONTROL User Administration]**.
+1. Selecteer **[!UICONTROL Add]**.
+1. Voer de naam en het e-mailadres in van de gebruiker of beheerder die u wilt toevoegen en selecteer **[!UICONTROL Next]** vervolgens .
 
    >[!NOTE]
    >
-   >Het apostrof-teken (`'`) is niet toegestaan in e-mailadressen.
+   >Het apostrofteken (`'`) is niet toegestaan in e-mailadressen.
 
 1. Als u een rol aan de gebruiker wilt toewijzen, kiest u een optie Rol.
 
@@ -66,7 +66,7 @@ Nadat u een gebruiker hebt toegevoegd, stuurt Adobe Dynamic Media Classic de geb
 
    Als de gebruiker de welkomste-mail niet ontvangt, laat hij of zij de aanmeldingspagina van Adobe Dynamic Media Classic (https://s7sps1.scene7.com) bezoeken en selecteert u **[!UICONTROL Forgot My Password]** . Het wachtwoord wordt opnieuw ingesteld en er wordt een nieuwe e-mail verzonden. Neem contact op met Technische ondersteuning als de gebruiker geen e-mail ontvangt en deze zich niet in de map Junk bevindt.
 
-   Wanneer u nieuwe gebruikers van Media Portal toevoegt, kunt u ook naar **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL User Administration]** gaan, vervolgens **[!UICONTROL Upload User List]** selecteren en een CSV-bestand selecteren dat maximaal 500 gebruikers bevat.
+   Wanneer u nieuwe Media Portal-gebruikers toevoegt, kunt u ook naar **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL User Administration]** gaan en vervolgens een .csv bestand met niet meer dan 500 gebruikers selecteren **[!UICONTROL Upload User List]** en selecteren.
 
 ### Een gebruiker verwijderen {#delet-a-user}
 
@@ -79,23 +79,23 @@ U kunt gebruikers uit Adobe Dynamic Media Classic verwijderen door ze ongeldig t
 
 ### Gebruikers activeren of deactiveren {#activating-or-deactivating-users}
 
-Gebruikers die zijn gedeactiveerd, hebben niet langer toestemming om de account in te voeren die boven aan het menu Selecteer accounts om toegang te krijgen wordt vermeld.
+Gebruikers die zijn gedeactiveerd, hebben geen toestemming meer om toegang te krijgen tot het account dat bovenaan het menu Accounts selecteren om toegang te krijgen, in te voeren.
 
-1. Ga naar **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Administration Setup]** > **[!UICONTROL User Administration]** .
-1. Schakel in de gebruikerslijst de optie **[!UICONTROL Active]** naast de naam van de gebruiker in of uit.
+1. Ga naar **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Administration Setup]** > **[!UICONTROL User Administration]**.
+1. Selecteer in de gebruikerslijst de **[!UICONTROL Active]** optie naast de naam van de gebruiker of deselecteer deze.
 
 ### Gebruikersgegevens bewerken {#editing-user-information}
 
-De gebruikersinformatie die u kunt uitgeven hangt van uw rol als beheerder en de toegewezen rol van de gebruiker af waarvan informatie u wilt uitgeven. Opties die grijs (niet beschikbaar) worden weergegeven, kunnen niet worden bewerkt.
+Welke gebruikersgegevens u kunt bewerken, is afhankelijk van uw rol als beheerder en de toegewezen rol van de gebruiker van wie u de gegevens wilt bewerken. Opties die gedimd (niet beschikbaar) zijn, kunnen niet worden bewerkt.
 
-1. Ga naar **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Administration Setup]** > **[!UICONTROL User Administration]** .
-1. Selecteer een gebruiker in de lijst en selecteer vervolgens **[!UICONTROL Edit]** .
-1. Selecteer de vermelding in de tabel waarin het bedrijf wordt weergegeven waarvoor u machtigingen of toegang wilt wijzigen en selecteer vervolgens **[!UICONTROL Manage Company]** .
+1. Ga naar **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Administration Setup]** > **[!UICONTROL User Administration]**.
+1. Selecteer een gebruiker in de lijst en selecteer **[!UICONTROL Edit]** vervolgens .
+1. Selecteer de vermelding in de tabel met het bedrijf waarvoor u machtigingen of toegang probeert te wijzigen en selecteer **[!UICONTROL Manage Company]** vervolgens .
 1. Selecteer de gebruikersrol.
-1. Als u het groepslidmaatschap van de gebruiker wilt wijzigen (als u een gebruiker of medewerker van Media Portal bewerkt of toevoegt), selecteert u **[!UICONTROL Next]** en bewerkt u het groepslidmaatschap.
-1. Selecteer **[!UICONTROL Save]** .
+1. Als u het groepslidmaatschap van de gebruiker wilt wijzigen (als u een gebruiker of bijdrager van een mediaportaal bewerkt of toevoegt), selecteert **[!UICONTROL Next]** en bewerkt u het groepslidmaatschap.
+1. Selecteer **[!UICONTROL Save]**.
 
-### De gebruikerslijst filteren en sorteren {#filtering-and-sorting-the-user-list}
+### Filter en sorteer de gebruikerslijst {#filtering-and-sorting-the-user-list}
 
 U kunt de gebruikerslijst filteren en sorteren om van gebruikers de plaats te bepalen. Alle gebruikers in alle accounts die u beheert, worden weergegeven in de lijst Gebruikers, ongeacht de account die u hebt geselecteerd in het menu Account selecteren voor toegang.
 
@@ -103,15 +103,15 @@ U kunt de volgende gebruikerslijst-filtrerende technieken gebruiken:
 
 * **Filter door groep**: Selecteer het **[!UICONTROL By Group]** menu en kies een optie om de lijst aan gebruikers in een groep te beperken.
 
-* **Filter door gebruikersrol**: Selecteer het **[!UICONTROL By User Role]** menu en kies een optie om de lijst aan gebruikers of beheerders van verschillende types te beperken.
+* **Filteren op gebruikersrol**: Selecteer het **[!UICONTROL By User Role]** menu en kies een optie om de lijst te beperken tot gebruikers of beheerders van verschillende typen.
 
-* **Filter door gebiedsnaam**: Selecteer **[!UICONTROL Enable Filter By Field]**. Selecteer vervolgens het menu **[!UICONTROL By Field Name]** , kies een kolom voor het filteren van de lijst, selecteer het menu Filterteken en kies een letter. De lijst wordt op een van de kolommen gefilterd met de letter die u hebt gekozen. Schakel de optie **[!UICONTROL Enable Filter By Field]** uit om de volledige lijst weer te geven.
+* **Filteren op veldnaam**: Selecteer **[!UICONTROL Enable Filter By Field]**. Selecteer vervolgens het **[!UICONTROL By Field Name]** menu, kies een kolom voor het filteren van de lijst, selecteer het menu Filterteken en kies een letter. De lijst wordt in een van de kolommen gefilterd op de letter die u hebt gekozen. Als u de volledige lijst wilt bekijken, schakelt u de **[!UICONTROL Enable Filter By Field]** optie uit.
 
 * **filter uit ongeldige gebruikers**: schrap **[!UICONTROL Include Invalid]**. In de zoekresultaten worden alleen gebruikers weergegeven die zich in het systeem bevinden. Ongeldige gebruikers zijn verwijderd uit het systeem en de accounts die u beheert.
 
 * **Soort door kolomrubriek**: Selecteer een rubriek om alle gebruikers door hun status, alfabetisch door voornaam, achternaam, of e-mail te sorteren. Of sorteren op gebruikersrol of op geldige/ongeldige status.
 
-Als u veel gebruikers hebt, kunt u de grootte van de lijst beperken door het menu Maximale lijstgrootte te selecteren en een aantal te kiezen.
+Als u veel gebruikers hebt, kunt u de grootte van de lijst beperken door het menu Maximale lijstgrootte te selecteren en een getal te kiezen.
 
 <!-- CQDOC-16690 TOPIC REMOVED AS PER JIRA TICKET INSTRUCTIONS ### Linking an IMS user identity to an Adobe Dynamic Media Classic IPS user account {#linking-an-ims-user-identity-to-a-scene-ips-user-account}
 
@@ -153,16 +153,16 @@ In de volgende tabel worden de rapporten beschreven die u kunt genereren op de p
 
 | Rapport | Informatie | Gebruiken |
 | --- | --- | --- |
-| Bandbreedte | | <!-- CQDOC-22504 --> **BELANGRIJK**: Het lusje van de Bandbreedte wordt niet meer gesteund. Hoewel deze nog steeds in de gebruikersinterface wordt weergegeven, zijn de bandbreedtegegevens niet beschikbaar en worden alle waarden weergegeven als `0` . |
-| Opslag | Opslaggebruik | Houd de hoeveelheid gegevens bij die door het bedrijf is geüpload. |
-| Afbeeldingsinhoud | Toont de totale klappen en het volume van de beeldlevering die door verzoektype en subtype worden verdeeld. | Houd het aantal aanvragen en het volume voor verschillende afbeeldingstypen bij, inclusief metingen van niet-videoelementen. <!-- CQDOC-22504 --> |
+| Bandbreedte | | **BELANGRIJK**: Het lusje van de Bandbreedte wordt niet meer gesteund. Hoewel deze nog steeds in de gebruikersinterface wordt weergegeven, zijn de bandbreedtegegevens niet beschikbaar en worden alle waarden weergegeven als `0` . |
+| Opslag | Gebruik van opslag | Volg de hoeveelheid gegevens die door het bedrijf is geüpload. |
+| Inhoud van afbeeldingen | Geeft het totale aantal hits en het volume van de levering van afbeeldingen weer, uitgesplitst naar aanvraagtype en subtype. | Houd het aantal verzoeken en het volume bij voor verschillende afbeeldingstypen, inclusief statistieken van niet-video-items. |
 | Domein | Het aantal URL-aanvragen per domein | Gebruik van afbeeldingen bijhouden op basis van het domein van het verzoek om een afbeelding voor een bepaald bedrijf. (Adobe Dynamic Media Classic kan meer dan één domein per account opgeven. Neem voor meer informatie contact op met de Technische ondersteuning.) |
 | Videostreaming | Bandbreedtegebruik voor het streamen van video | Het stromen videogebruik van het spoor door bedrijf over specifieke datumwaaiers om verkeerspatronen te bepalen. |
 | Video-inhoud | Afspeeltijd van verschillende video&#39;s | Bepaal welke de meest bekeken en minst bekeken video&#39;s zijn. |
 
 Het rapport Inhoud afbeelding biedt informatie over verzoeken om de volgende afbeeldingstypen:
 
-* **Verzoek van het Beeld**: Verzoeken om beelden.
+* **Afbeeldingsverzoek**: Verzoeken om afbeeldingen.
 
 * **Verzoek van de Duimnagel**: Verzoeken om monster of afwisselende beelden in kijkers.
 
@@ -192,19 +192,19 @@ Een rapport over bandbreedte, opslag, afbeeldingsinhoud, domein, videostreaming 
 
 Nadat u een rapport hebt gegenereerd op de pagina Bandbreedte en opslag, kunt u opties kiezen voor het weergeven van informatie. U kunt kiezen hoe informatie wordt voorgesteld, informatie in een grafiek of gegevensnet bekijken, en een tijdspanne specificeren voor het vangen van informatie. In de weergave Gegevens kunt u ook gegevens sorteren en kolommen opnieuw rangschikken.
 
-* **gegevens van de Mening in een grafiek of een gegevensnet**: Uitgezocht **[!UICONTROL Chart View]** om gegevens in een grafiek te zien; selecteer **[!UICONTROL Data View]** om gegevens in een gegevensnet te bekijken.
+* **Gegevens in een grafiek of gegevensraster** weergeven: selecteer deze optie **[!UICONTROL Chart View]** om gegevens in een grafiek weer te geven; selecteer **[!UICONTROL Data View]** deze optie om gegevens in een gegevensraster weer te geven.
 
-* **kies een type van rapportpresentatie**: Op het menu van het Type van Rapport, selecteer **[!UICONTROL Summary]**, **[!UICONTROL Daily]**, of **[!UICONTROL Monthly]** om gegevens in summiere vorm, door dag, of door maand te organiseren. Niet alle rapporten verstrekken deze optie.
+* **Een type** rapportpresentatie kiezen: Selecteer in het menu Rapporttype de optie **[!UICONTROL Summary]**, **[!UICONTROL Daily]** of **[!UICONTROL Monthly]** als u gegevens in overzichtsvorm, per dag of per maand wilt ordenen. Niet alle rapporten bieden deze optie.
 
 * **specificeer een tijdperiode**: Kies opties om een tijdperiode voor uw rapport te bepalen, en selecteer dan **[!UICONTROL Update]** nadat u een tijdspanne bepaalt:
 
 * **vooraf bepaalde tijdspanne**: Voor het Vooraf bepaalde menu van het Rapport, kies een optie. Kies bijvoorbeeld Vorige maand om gegevens van de vorige maand vast te leggen.
 
-* **de tijdperiode van de Douane**: Op het Vooraf bepaalde menu van het Rapport, uitgezochte **[!UICONTROL Custom]**. Kies vervolgens een datum in het menu **[!UICONTROL Start Month]** (of **[!UICONTROL Start Date]** ) en een datum in het menu Aantal maanden (of # of Dagen). Voor de Rapporten van de Inhoud van het Domein en Video, kunt u een specifieke begin en einddatum kiezen voor het vangen van rapportinformatie.
+* **de tijdperiode van de Douane**: Op het Vooraf bepaalde menu van het Rapport, uitgezochte **[!UICONTROL Custom]**. Kies vervolgens een datum in het menu **[!UICONTROL Start Month]** (of **[!UICONTROL Start Date]** ) en een datum in het menu Aantal maanden (of # of Dagen). Voor domein- en videocontentrapporten kunt u een specifieke begin- en einddatum kiezen voor het vastleggen van rapportgegevens.
 
-* **gegevens van de Soort (de mening van Gegevens slechts)**: De informatie van de soort in een kolom. Selecteer de kop van de kolom. Selecteer nogmaals om in aflopende volgorde te sorteren.
+* **Gegevens sorteren (alleen gegevensweergave):** Informatie in een kolom sorteren. Selecteer de kop van de kolom. Selecteer nogmaals om in aflopende volgorde te sorteren.
 
-* **herschikt kolommen (de mening van Gegevens slechts)**: Om een kolom naar een verschillende plaats op het gegevensnet te bewegen, versleep zijn rubriek.
+* **Kolommen herschikken (alleen gegevensweergave):** Als u een kolom naar een andere locatie in het gegevensraster wilt verplaatsen, sleept u de kop.
 
 ### Rapporten exporteren en afdrukken {#exporting-and-printing-reports}
 
@@ -212,7 +212,7 @@ Nadat u een rapport hebt gegenereerd, kunt u de gegevens exporteren voor gebruik
 
 * **het rapportgegevens van de Uitvoer**: In de mening van Gegevens, soort, en rangschikt zonodig de gegevens. Open vervolgens het menu **[!UICONTROL Export]** en kies een indeling: **[!UICONTROL Tab Delimited]** , **[!UICONTROL Comma Separated]** of **[!UICONTROL HTML Formatted]** . De gegevens worden naar het klembord gekopieerd in de indeling die u hebt gekozen. U kunt de gegevens nu in een spreadsheet of een toepassing plakken.
 
-* **druk een rapport**: Selecteer **[!UICONTROL Print]**, kies de opties u in de de dialoogdoos van de Druk wilt, en dan selecteren **[!UICONTROL OK]**.
+* **Een rapport** afdrukken: Selecteer **[!UICONTROL Print]**, kies de gewenste opties in het dialoogvenster Afdrukken en selecteer **[!UICONTROL OK]** vervolgens .
 
 ## Afbeeldingsfouten {#image-errors}
 
@@ -226,15 +226,15 @@ Adobe Dynamic Media Classic-beheerders kunnen rapporten met afbeeldingsfouten ge
    * Beweeg de curseur over het gebied van de Reactie voor een fout om het specifieke foutenbericht te zien.
    * Als u de koppeling naar de afbeelding of de verwijzende webpagina wilt zien, plaatst u de cursor boven het URL-veld of het veld Referenter.
    * Selecteer **[!UICONTROL URL Copy URL]** als u de koppeling naar de werkelijke afbeelding wilt kopiëren. U kunt deze koppeling in een browservenster plakken om naar de afbeelding te gaan en de fout te onderzoeken.
-   * Selecteer **[!UICONTROL Referrer Copy URL]** om de koppeling naar de verwijzende webpagina te kopiëren.
+   * Als u de koppeling naar de verwijzende webpagina wilt kopiëren, selecteert u **[!UICONTROL Referrer Copy URL]**.
 
-De getoonde fouten zijn voor het bedrijf u momenteel het programma wordt geopend aan. Elke fout bevat de volgende informatie:
+De weergegeven fouten zijn voor het bedrijf waarbij u momenteel bent ingelogd. Elke fout bevat de volgende informatie:
 
-* **identiteitskaart van het Beeld**: identiteitskaart voor het beledigende beeld.
+* **Afbeeldings-ID:** ID voor de aanstootgevende afbeelding.
 
-* **Tijd**: De tijdwaaier van de eerste keer de fout aan de laatste tijd werd gemeld dat de fout, binnen de laatste 24 uren werd gemeld.
+* **Tijd**: het tijdsbestek van de eerste keer dat de fout is gemeld tot de laatste keer dat de fout is gemeld, in de afgelopen 24 uur.
 
-* **Telling**: Het aantal fouten die op het beeld worden gemeld.
+* **Aantal**: het aantal fouten dat op de afbeelding is gerapporteerd.
 
 * **Reactie**: De specifieke foutenmelding. Fouten zijn 4xx of 5xx.
 
