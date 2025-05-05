@@ -20,26 +20,26 @@ ht-degree: 0%
 
 De gidsen van de verwijzing aan Kijkers, het Serven van het Beeld en het Teruggeven van het Beeld, en het Systeem van de Productie van het Beeld beschrijven de http protocollen voor deze servermodules. De ontwikkelaars van de website die verder willen aanpassen en rijke media van Adobe Dynamic Media Classic voor een Website of een douanetoepassing gebruiken kunnen deze gidsen gebruiken. Aangenomen wordt dat de gebruiker bekend is met de Dynamic Media Classic-bureaubladtoepassing, de algemene http-protocolstandaarden en -conventies en de basisterminologie voor beeldbewerking.
 
-Zie ook [Dynamic Media Developer Resources](https://experienceleague.adobe.com/en/docs/dynamic-media-developer-resources).
+Zie ook [Dynamic Media Developer Resources](https://experienceleague.adobe.com/nl/docs/dynamic-media-developer-resources).
 
 ## Viewers {#viewers-guide}
 
 | Document | Webadres |
 | --- | --- |
-| Referentiehandleiding voor viewers en Opmerkingen bij de release | [https://experienceleague.adobe.com/en/docs/dynamic-media-developer-resources/library/homeviewers](https://experienceleague.adobe.com/en/docs/dynamic-media-developer-resources/library/homeviewers) |
+| Referentiehandleiding voor viewers en Opmerkingen bij de release | [https://experienceleague.adobe.com/nl/docs/dynamic-media-developer-resources/library/homeviewers](https://experienceleague.adobe.com/nl/docs/dynamic-media-developer-resources/library/homeviewers) |
 | Voorbeelden van viewerbibliotheek | [https://landing.adobe.com/en/na/dynamic-media/ctir-2755/live-demos.html](https://landing.adobe.com/en/na/dynamic-media/ctir-2755/live-demos.html) |
 
 ## API (Image Serving/Image Rendering) {#is-ir-api-guide}
 
 | Document | Webadres |
 | --- | --- |
-| API-naslaggids | [https://experienceleague.adobe.com/en/docs/dynamic-media-developer-resources/image-serving-api/homeisir](https://experienceleague.adobe.com/en/docs/dynamic-media-developer-resources/image-serving-api/homeisir) |
+| API-naslaggids | [https://experienceleague.adobe.com/nl/docs/dynamic-media-developer-resources/image-serving-api/homeisir](https://experienceleague.adobe.com/nl/docs/dynamic-media-developer-resources/image-serving-api/homeisir) |
 
 ## API voor beeldproductiesysteem (IPS) {#ips-api-guide}
 
 | Document | Webadres |
 | --- | --- |
-| API-naslaggids | [https://experienceleague.adobe.com/en/docs/dynamic-media-developer-resources/image-production-api/c-overview](https://experienceleague.adobe.com/en/docs/dynamic-media-developer-resources/image-production-api/c-overview) |
+| API-naslaggids | [https://experienceleague.adobe.com/nl/docs/dynamic-media-developer-resources/image-production-api/c-overview](https://experienceleague.adobe.com/nl/docs/dynamic-media-developer-resources/image-production-api/c-overview) |
 
 <!-- ## Image Authoring {#ia}
 

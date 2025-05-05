@@ -19,4 +19,4 @@ ht-degree: 0%
 
 # Nieuwe functies {#what-s-new}
 
-Als u de meest recente Adobe Dynamic Media Classic-releasegegevens, waaronder nieuwe functies, verbeteringen en oplossingen, wilt raadplegen, raadpleegt u de [Opmerkingen bij de release van Adobe Dynamic Media Classic](https://experienceleague.adobe.com/en/docs/dynamic-media-developer-resources/release-notes/s7rn2017).
+Als u de meest recente Adobe Dynamic Media Classic-releasegegevens, waaronder nieuwe functies, verbeteringen en oplossingen, wilt raadplegen, raadpleegt u de [Opmerkingen bij de release van Adobe Dynamic Media Classic](https://experienceleague.adobe.com/nl/docs/dynamic-media-developer-resources/release-notes/s7rn2017).

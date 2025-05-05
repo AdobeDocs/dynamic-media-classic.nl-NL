@@ -31,7 +31,7 @@ Door de volgende mogelijkheden te combineren tot één speler:
 
 U vergroot het bereik van uw rijke media-inhoud tot gebruikers op het bureaublad en mobiele apparaten. U zorgt ook voor een gestroomlijnde videobeleving.
 
-Zie ook [Informatie over HTML5-viewers](https://experienceleague.adobe.com/en/docs/dynamic-media-developer-resources/library/viewers-for-aem-assets-only/c-html5-aem-asset-viewers#viewers-for-aem-assets-only) in de Adobe Viewers Reference Guide.
+Zie ook [Informatie over HTML5-viewers](https://experienceleague.adobe.com/nl/docs/dynamic-media-developer-resources/library/viewers-for-aem-assets-only/c-html5-aem-asset-viewers#viewers-for-aem-assets-only) in de Adobe Viewers Reference Guide.
 
 Zie ook [Viewer-voorinstellingen](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&amp;emailurl=https://s7d5.scene7.com/s7/emailFriend&amp;serverUrl=https://s7d5.scene7.com/is/image/&amp;config=Scene7SharedAssets/Universal_HTML5_Video&amp;contenturl=https://s7d5.scene7.com/skins/&amp;asset=S7tutorials/550_viewer-presets_converted%20renamed_Done-AVS) trainingsvideo.
 

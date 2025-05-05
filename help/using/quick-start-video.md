@@ -60,7 +60,7 @@ Wanneer een adaptieve videoset wordt gegenereerd, bevat deze MP4-video&#39;s.
 
   Adaptieve videostreaming wordt ondersteund op verschillende iOS-platforms.
 
-  Zie de recentste steun in de [ Gids van de Verwijzing van de Kijkers van de Adobe ](https://experienceleague.adobe.com/en/docs/dynamic-media-developer-resources).
+  Zie de recentste steun in de [ Gids van de Verwijzing van de Kijkers van de Adobe ](https://experienceleague.adobe.com/nl/docs/dynamic-media-developer-resources).
 
   Adobe Dynamic Media Classic ondersteunt het afspelen van mobiele video voor MP4 H.264-video. <!-- LINK IS 404; NO SUITABLE REPLACEMENT WAS FOUND You can find BlackBerry&reg; devices that support this video format at the following website: -->
 

@@ -23,7 +23,7 @@ Adobe Target Standard/Premium stelt de controle rechtstreeks in handen van markt
 
 Met Adobe Dynamic Media Classic kunt u aanbiedingen en sets aanbiedingen maken voor Adobe Target Standard-/Premium-campagnes. U kunt bijvoorbeeld een set voorstellen maken met drie variaties van hetzelfde rich media-element. Vervolgens kunt u met Adobe Target Standard of Premium bepalen welk element een betere conversielift biedt. U kunt aanbiedingen en sets voorstellen op basis van een standaardsjabloon of op basis van afzonderlijke afbeeldingen. Nadat de set aanbiedingen is geduwd op of opgeslagen op Adobe Target Standard/Premium, waar de aanbiedingen zijn gekoppeld aan vakjes en ervaringen, kunnen er campagnes worden uitgevoerd op Adobe Target Standard/Premium. Deze campagnes bepalen welke variatie van een website waarschijnlijk het beste voor klikdoorloop en omzetting zal presteren.
 
-Gebruik Adobe Target Standard/Premium HTML voor een betere aanpassing van dynamische Adobe Dynamic Media Classic-inhoud. Zie [ Adobe Target Standaard/de productdocumentatie van de Premium ](https://experienceleague.adobe.com/en/docs/target) voor meer informatie.
+Gebruik Adobe Target Standard/Premium HTML voor een betere aanpassing van dynamische Adobe Dynamic Media Classic-inhoud. Zie [ Adobe Target Standaard/de productdocumentatie van de Premium ](https://experienceleague.adobe.com/nl/docs/target) voor meer informatie.
 
 >[!NOTE]
 >

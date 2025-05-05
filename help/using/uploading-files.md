@@ -26,7 +26,7 @@ Voordat u elementen uploadt naar Adobe Dynamic Media Classic, moet u controleren
 
 ### Ondersteunde bestandsindelingen {#supported-asset-file-formats}
 
-In deze tabel worden de bestandsindelingen weergegeven die door Adobe Dynamic Media Classic worden ondersteund. Voor informatie over gesteunde dossiers van Camera Raw, zie [ https://helpx.adobe.com/camera-raw/using/supported-cameras.html ](https://helpx.adobe.com/camera-raw/using/supported-cameras.html).
+In deze tabel worden de bestandsindelingen weergegeven die door Adobe Dynamic Media Classic worden ondersteund. Voor informatie over gesteunde dossiers van Camera Raw, zie [ https://helpx.adobe.com/nl/camera-raw/using/supported-cameras.html ](https://helpx.adobe.com/nl/camera-raw/using/supported-cameras.html).
 
 | Indelingen voor elementbestanden | Beschrijving |
 | --- | --- |

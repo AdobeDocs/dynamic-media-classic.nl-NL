@@ -25,7 +25,7 @@ Nadat u Adobe Analytics hebt geïntegreerd met Adobe Dynamic Media Classic, kunt
 
 Met Adobe Analytics-rapporten krijgt u een duidelijk beeld van de activiteiten van klanten op uw website. U kunt bepalen welke productpresentaties tot conversie leiden en welke niet de interesse van de klant wekken.
 
-Zie ook [ Video van de Maatregel in Adobe Analytics ](https://experienceleague.adobe.com/en/docs/media-analytics/using/media-overview).
+Zie ook [ Video van de Maatregel in Adobe Analytics ](https://experienceleague.adobe.com/nl/docs/media-analytics/using/media-overview).
 
 >[!NOTE]
 >

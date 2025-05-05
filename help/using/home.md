@@ -26,7 +26,7 @@ Zie [Veelgestelde vragen](new-ui-2020.md). Nieuwe updates vanaf 7 mei 2020.
 
 ## Dynamic Media Developer Resources
 
-* [De landingspagina van Dynamic Media Developer Resources](https://experienceleague.adobe.com/en/docs/dynamic-media-developer-resources): Bevat:
+* [De landingspagina van Dynamic Media Developer Resources](https://experienceleague.adobe.com/nl/docs/dynamic-media-developer-resources): Bevat:
    * Referentiehandleiding voor viewers
    * API voor het renderen van images
    * API voor beeldproductiesysteem
@@ -36,7 +36,7 @@ Zie [Veelgestelde vragen](new-ui-2020.md). Nieuwe updates vanaf 7 mei 2020.
 ## Adobe Dynamic Media Classic-gebruikersbronnen
 
 * [Dynamic Media Maandelijkse nieuwsbrief](dynamic-media-newsletter.md)
-* [Zelfstudie over best practices voor Adobe Dynamic Media Classic](https://experienceleague.adobe.com/en/docs/experience-manager-learn/dynamic-media-classic-tutorial/overview)
+* [Zelfstudie over best practices voor Adobe Dynamic Media Classic](https://experienceleague.adobe.com/nl/docs/experience-manager-learn/dynamic-media-classic-tutorial/overview)
 * [Hulplijn: Handleiding met aanbevolen procedures voor het verscherpen van afbeeldingen](/help/using/assets/s7_sharpening_images.pdf)
 * [Hulplijn: Hoe Adobe Dynamic Media Classic SEO ondersteunt](/help/using/assets/s7_seo.pdf): Zoekprogramma&#39;s maken het momenteel mogelijk naar websites en afbeeldingen te zoeken. Adobe Dynamic Media Classic ondersteunt pogingen om afbeeldingen zo gebruiksvriendelijk te maken dat meer verkeer naar de website van de Adobe Dynamic Media Classic-gebruiker wordt geleid. Deze gids in PDF geeft u de achtergrond en de implementatieaanbevelingen om dat te doen gebeuren.
 <!-- * [Webinar: Best Practices for Responsive Design](http://offers.adobe.com/en/na/marketing/landings/_40458_responsive_design_live_on_demand_webinar.html): Learn practical tips on how to improve your mobile strategy. See real-world examples of responsive design in action. Create one primary asset that works across multiple devices and increase mobile performance by dynamically changing the resolution of images or the orientation of images for portrait or landscape displays. Learn how to also dynamically crop, scale, or resize images. -->

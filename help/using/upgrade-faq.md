@@ -255,7 +255,7 @@ De klanten zijn hoofdzakelijk verantwoordelijk voor veranderingsbeheer met inbeg
 ## Ondersteuning en opleiding
 
 +++**hoe krijg ik steun?**
-24/7/365 De steun van de Zorg van de Cliënt is beschikbaar. [ technische steun van het Contact ](https://experienceleague.adobe.com/?support-solution=General#support).
+24/7/365 De steun van de Zorg van de Cliënt is beschikbaar. [ technische steun van het Contact ](https://experienceleague.adobe.com/nl?support-solution=General#support).
 
 Telefoon: 1-800-898-9743 (VS) | +44 (0)20 35641782 (VK) | +81-3-6743-9632 (Japan)
 

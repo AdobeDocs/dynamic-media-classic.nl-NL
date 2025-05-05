@@ -161,7 +161,7 @@ Beheerders kunnen voorinstellingen maken voor het exporteren van elementen. Gebr
 
 Ga naar **[!UICONTROL Setup]** > **[!UICONTROL Image Presets]**.
 
-Zie [Slimme beeldverwerking](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/assets/dynamic/imaging-faq).
+Zie [Slimme beeldverwerking](https://experienceleague.adobe.com/nl/docs/experience-manager-65/content/assets/dynamic/imaging-faq).
 
 ### Voorinstellingen voor afbeeldingen maken en bewerken {#creating-and-editing-image-presets}
 
@@ -436,7 +436,7 @@ Door het volgende te combineren in één speler:
 
 U vergroot het bereik van uw rijke media-inhoud tot gebruikers op het bureaublad, het tablet en het mobiele apparaat en zorgt voor een gestroomlijnde videobeleving.
 
-Zie [Informatie over HTML5-viewers](https://experienceleague.adobe.com/en/docs/dynamic-media-developer-resources/library/viewers-for-aem-assets-only/c-html5-aem-asset-viewers#viewers-for-aem-assets-only) in de Adobe Viewers Reference Guide.
+Zie [Informatie over HTML5-viewers](https://experienceleague.adobe.com/nl/docs/dynamic-media-developer-resources/library/viewers-for-aem-assets-only/c-html5-aem-asset-viewers#viewers-for-aem-assets-only) in de Adobe Viewers Reference Guide.
 
 Zie [Compatibiliteitsmatrix voor Adobe Dynamic Media Classic Viewer-voorinstellingen](application-setup.md#scene7_viewer_preset_compatibility_matrix).
 
@@ -450,7 +450,7 @@ Zie ook [Voorbeelden van Adobe Viewers Reference Library](https://landing.adobe.
 
 Verschillende webpagina&#39;s hebben verschillende behoeften. Soms wilt u een Web-pagina die een verbinding verstrekt die de HTML5 Kijker in een afzonderlijk browser venster opent. In andere gevallen moet u de HTML5 Viewer rechtstreeks insluiten op de hostpagina. In het laatste geval heeft de webpagina waarschijnlijk een statische lay-out. Of de interface reageert op een ander scherm en wordt op verschillende apparaten of voor verschillende venstergrootten van de browser anders weergegeven. Om aan deze behoeften te voldoen, steunen de HTML5 Viewers die met Adobe Dynamic Media Classic zowel statische Web-pagina&#39;s als responsieve Web-pagina&#39;s komen.
 
-Voor meer informatie over hoe te om ontvankelijke kijkers op uw Web-pagina&#39;s in te bedden, zie [De bibliotheek met responsieve afbeeldingen](https://experienceleague.adobe.com/en/docs/dynamic-media-developer-resources/image-serving-api/image-serving-api/responsive-static-image-library/c-about-responsive-static-image-library#image-serving-api), [Responsieve afbeeldingsbibliotheek gebruiken](https://experienceleague.adobe.com/en/docs/dynamic-media-developer-resources/image-serving-api/image-serving-api/responsive-static-image-library/t-using-responsive-static-image-library#image-serving-api), en [Command reference: Command attributes](https://experienceleague.adobe.com/en/docs/dynamic-media-developer-resources/image-serving-api/image-serving-api/responsive-static-image-library/t-using-responsive-static-image-library#responsive-static-image-library).
+Voor meer informatie over hoe te om ontvankelijke kijkers op uw Web-pagina&#39;s in te bedden, zie [De bibliotheek met responsieve afbeeldingen](https://experienceleague.adobe.com/nl/docs/dynamic-media-developer-resources/image-serving-api/image-serving-api/responsive-static-image-library/c-about-responsive-static-image-library#image-serving-api), [Responsieve afbeeldingsbibliotheek gebruiken](https://experienceleague.adobe.com/nl/docs/dynamic-media-developer-resources/image-serving-api/image-serving-api/responsive-static-image-library/t-using-responsive-static-image-library#image-serving-api), en [Command reference: Command attributes](https://experienceleague.adobe.com/nl/docs/dynamic-media-developer-resources/image-serving-api/image-serving-api/responsive-static-image-library/t-using-responsive-static-image-library#responsive-static-image-library).
 
 ### Voorinstellingstypen voor viewer {#viewer-preset-types}
 
@@ -494,7 +494,7 @@ Zie ook [Voorbeelden van Adobe Viewers Reference Library](https://landing.adobe.
 
 Voor informatie over ondersteunde webbrowsers en besturingssysteemversies voor Viewers kunt u de Opmerkingen bij de release van Viewers bekijken.
 
-Zie [Opmerkingen bij de release Adobe Viewers](https://experienceleague.adobe.com/en/docs/dynamic-media-developer-resources).
+Zie [Opmerkingen bij de release Adobe Viewers](https://experienceleague.adobe.com/nl/docs/dynamic-media-developer-resources).
 
 |  | Viewertechnologie | Desktop | Apple iPhone | Apple iPad | Android™-smartphone | Android™-tablet |
 |--- |--- |--- |--- |--- |--- |--- |

@@ -21,17 +21,17 @@ ht-degree: 0%
 
 Als u Adobe Analytics-videoverslagen op basis van hartslag gebruikt, hoeft u de vier videoviewergebeurtenissen (Play, Pause, Stop, Milestone) niet meer in te schakelen wanneer u Adobe Analytics in Adobe Dynamic Media Classic configureert. De videokaart werkt met Adobe Dynamic Media Classic HTML 25 Video en Gemengde Media-viewers buiten de box. De videospeler genereert trackinggegevens voor weergave in Adobe Analytics-videorapporten.
 
-* Voor een inleiding op streamingmedia en &#39;hartslagmeting&#39; raadpleegt u [Informatie over Adobe Analytics para medios de streaming](https://experienceleague.adobe.com/en/docs/media-analytics/using/media-overview).
+* Voor een inleiding op streamingmedia en &#39;hartslagmeting&#39; raadpleegt u [Informatie over Adobe Analytics para medios de streaming](https://experienceleague.adobe.com/nl/docs/media-analytics/using/media-overview).
 
 * De integratie van Adobe Analytics-videorapporten met Adobe Dynamic Media Classic ondersteunt oplossingsvariabelen, maar geen aangepaste variabelen.
 
-  Zie [Parameters voor audio en video](https://experienceleague.adobe.com/en/docs/media-analytics/using/implementation/variables/audio-video-parameters) voor meer informatie over oplossingsvariabelen en douanevariabelen.
+  Zie [Parameters voor audio en video](https://experienceleague.adobe.com/nl/docs/media-analytics/using/implementation/variables/audio-video-parameters) voor meer informatie over oplossingsvariabelen en douanevariabelen.
 
 * De uit-van-de-doos segmenten van één-minieme toename worden gesteund. Aangepaste segmentrapportage, zoals door de klant gedefinieerde mijlpalen op basis van tijdstappen, procentuele mijlpalen of verschuivingsmijlpalen, wordt echter niet ondersteund.
 
-  Ga voor meer informatie over de vereisten en installatie van streaming media naar [Stromingmedia meten in Adobe Analytics](https://experienceleague.adobe.com/en/docs/media-analytics/using/media-overview).
+  Ga voor meer informatie over de vereisten en installatie van streaming media naar [Stromingmedia meten in Adobe Analytics](https://experienceleague.adobe.com/nl/docs/media-analytics/using/media-overview).
 
-* Voor informatie over douane en oplossingsvariabelen, zie [Media-rapporten inschakelen](https://experienceleague.adobe.com/en/docs/media-analytics/using/media-reports/media-reports-enable#media-reports).
+* Voor informatie over douane en oplossingsvariabelen, zie [Media-rapporten inschakelen](https://experienceleague.adobe.com/nl/docs/media-analytics/using/media-reports/media-reports-enable#media-reports).
 
 >[!NOTE]
 >

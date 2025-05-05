@@ -30,7 +30,7 @@ Voordat u een afbeeldingselement kunt uploaden, vraagt u eerst om een sleutel vo
 
 ## Een gedeelde geheime sleutel aanvragen {#requesting-a-shared-secret-key}
 
-Verzoek om een *gedeelde geheime sleutel* door [het gebruiken van de Admin Console om een steungeval tot stand te brengen.](https://helpx.adobe.com/enterprise/using/support-for-experience-cloud.html) In het geval van de technische steun, verzoek om een gedeelde geheime sleutel.
+Verzoek om een *gedeelde geheime sleutel* door [het gebruiken van de Admin Console om een steungeval tot stand te brengen.](https://helpx.adobe.com/nl/enterprise/using/support-for-experience-cloud.html) In het geval van de technische steun, verzoek om een gedeelde geheime sleutel.
 
 Geef in het e-mailbericht de bedrijfsnaam op die u wilt gebruiken om afbeeldingselementen te uploaden. Nadat u de sleutel van Adobe Dynamic Media Classic ontvangt, bewaar het plaatselijk voor toekomstig gebruik.
 

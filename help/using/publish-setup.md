@@ -53,7 +53,7 @@ Wijzig deze instellingen alleen met hulp van een Adobe Dynamic Media Classic-med
   Als u bijvoorbeeld een nationaal merk bent dat in verschillende landen verkoopt, kunt u ervoor zorgen dat elk land zijn eigen landspecifieke viewer heeft. U kunt deze functionaliteit uitvoeren door een tekenreeks voor de landinstellingenkaart op te geven. Vervolgens bewerkt u de knopinfo-tekst in de voorinstelling van een viewer. Voeg gewoon de vertaalde tekstreeksen toe voor de gewenste taal.
 
   >[!NOTE]
-  > Voor het instellen van opties voor Localization Support [gebruik de Admin Console om een steungeval tot stand te brengen.](https://helpx.adobe.com/enterprise/using/support-for-experience-cloud.html) In uw steungeval, verzoek opstelling hulp.
+  > Voor het instellen van opties voor Localization Support [gebruik de Admin Console om een steungeval tot stand te brengen.](https://helpx.adobe.com/nl/enterprise/using/support-for-experience-cloud.html) In uw steungeval, verzoek opstelling hulp.
 
   Meer informatie over het instellen van **[!UICONTROL Localization Support]**, zie [Overwegingen bij het instellen van lokalisatie van middelen](publish-setup.md#considerations_when_setting_up_localization_of_assets).
 
@@ -61,7 +61,7 @@ Wijzig deze instellingen alleen met hulp van een Adobe Dynamic Media Classic-med
 
 >[!NOTE]
 >
->Als u Localization Support-opties wilt instellen in Adobe Dynamic Media Classic, zoals het veld Locale Map, [gebruik de Admin Console om een steungeval tot stand te brengen.](https://helpx.adobe.com/enterprise/using/support-for-experience-cloud.html) In uw steungeval, verzoek opstelling hulp.
+>Als u Localization Support-opties wilt instellen in Adobe Dynamic Media Classic, zoals het veld Locale Map, [gebruik de Admin Console om een steungeval tot stand te brengen.](https://helpx.adobe.com/nl/enterprise/using/support-for-experience-cloud.html) In uw steungeval, verzoek opstelling hulp.
 
 Een algemene manier om Adobe Dynamic Media Classic te gebruiken is het beheren van productafbeeldingen op e-Commerce-websites. Internationale bedrijven staan voor de uitdaging dat activa voor soortgelijke producten er van land tot land anders uitzien. Meestal zijn de verschillen voor een paar delen van de totale media. Het aanpakken van dergelijke verschillen door alle activa voor elk van de landen te kopiëren en alleen de verschillen te overschrijven is een enorme inspanning en is in tegenspraak met de enkele primaire metaforen. Dergelijke verschillen voor activa kunnen, van landspecifieke video&#39;s met verschillende audiosporen, aan subtiele maar belangrijke verschillen in een machtskoord blijven dat met het product wordt gebruikt. Adobe Dynamic Media Classic gebruikt een basisopzoekmechanisme. U bepaalt een orde van activa achtervoegsels waarin de Server van het Beeld kijkt, beginnend bij de vereiste scène.
 

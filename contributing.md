@@ -58,4 +58,4 @@ De Adobe is ingenomen met elke bijdrage. Bijdragen worden beoordeeld als ze via 
 
 ## Aanvullende informatie
 
-Zie de [Handleiding Adobe Docs Contributor](https://experienceleague.adobe.com/en/docs/contributor/contributor-guide/introduction) voor verdere details op hoe te om het GitHub auteursplatform te gebruiken.
+Zie de [Handleiding Adobe Docs Contributor](https://experienceleague.adobe.com/nl/docs/contributor/contributor-guide/introduction) voor verdere details op hoe te om het GitHub auteursplatform te gebruiken.
