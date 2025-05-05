@@ -262,7 +262,7 @@ Telefoon: 1-800-898-9743 (VS) | +44 (0)20 35641782 (VK) | +81-3-6743-9632 (Japan
 +++
 
 +++**waar kan ik meer over betaalde opleidingsopties leren?**
-Zie {de Digitale Lerende Diensten van 1} Adobe ](https://learning.adobe.com).[
+Zie {de Digitale Lerende Diensten van 1} Adobe [&#128279;](https://learning.adobe.com).
 
 Neem voor aangepaste of individuele training contact op met uw Adobe-accountteamvertegenwoordiger.
 

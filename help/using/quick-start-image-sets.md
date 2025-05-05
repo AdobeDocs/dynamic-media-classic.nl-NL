@@ -34,7 +34,7 @@ Wanneer u een Reeks van het Beeld creeert, beveelt de Adobe de volgende beste pr
 
 ‡ De beste manier is om geen dubbele elementen in een set te hebben. De limiet is 20 duplicaten voor één element. Als u nog een duplicaat voor dat element toevoegt (binnen die set), geeft de aanvraag een fout of wordt het duplicaat genegeerd.
 
-Zie ook {de beperkingen van 0} Dynamic Media ](/help/using/limitations.md).[
+Zie ook {de beperkingen van 0} Dynamic Media [&#128279;](/help/using/limitations.md).
 
 De volgende Afbeeldingssets zijn ontworpen om snel aan de slag te gaan met de Image Set-technieken in Adobe Dynamic Media Classic.
 

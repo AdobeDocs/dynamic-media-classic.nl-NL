@@ -35,7 +35,7 @@ Wanneer u een reeks van de Rotatie creeert, adviseert de Adobe de volgende beste
 | --- | --- | --- |
 | Maximumaantal rijen/kolommen per 2D-set | 12-18 afbeeldingen per set | 1000 |
 
-Zie ook {de beperkingen van 0} Dynamic Media ](/help/using/limitations.md).[
+Zie ook {de beperkingen van 0} Dynamic Media [&#128279;](/help/using/limitations.md).
 
 Deze centrifuges zijn ontworpen om snel aan de slag te gaan met centrifuge-technieken in Adobe Dynamic Media Classic. Voer stap 1 tot en met 7 uit. Aan het eind van elke stap, kunt u een onderwerpverbinding selecteren om meer te leren.
 

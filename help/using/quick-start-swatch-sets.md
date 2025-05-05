@@ -57,4 +57,4 @@ Zie [ Publish dossiers ](publishing-files.md#publishing-files).
 
 Adobe Dynamic Media Classic maakt URL-aanroepen voor stalensets en activeert deze nadat u de URL hebt gepubliceerd. U kunt deze URL&#39;s kopiëren vanaf de pagina Voorbeeld.
 
-Selecteer de Staalset en selecteer vervolgens de knop Voorvertoning. De pagina Voorbeeld wordt geopend. Selecteer een Staalset met voorinstelling voor viewer en selecteer de knop URL kopiëren. Zie {de Reeksen van het Monster van 0} Verbinding aan Web-pagina&#39;s ](linking-swatch-set-web-page.md#linking-a-swatch-set-to-a-web-page).[
+Selecteer de Staalset en selecteer vervolgens de knop Voorvertoning. De pagina Voorbeeld wordt geopend. Selecteer een Staalset met voorinstelling voor viewer en selecteer de knop URL kopiëren. Zie {de Reeksen van het Monster van 0} Verbinding aan Web-pagina&#39;s [&#128279;](linking-swatch-set-web-page.md#linking-a-swatch-set-to-a-web-page).

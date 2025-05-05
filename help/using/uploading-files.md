@@ -162,7 +162,7 @@ Met de Adobe Dynamic Media Classic Desktop-toepassing kunt u bestanden en mappen
 1. Selecteer **[!UICONTROL Upload]** in de Adobe Dynamic Media Classic Desktop-toepassing op de algemene navigatiebalk.
 1. Selecteer op de pagina Uploaden de tab **[!UICONTROL From Desktop]** .
 1. Selecteer links op de pagina Uploaden in het gebied **[!UICONTROL Select Files for Upload]** de optie **[!UICONTROL Browse]** om de bestanden of mappen te selecteren die u wilt uploaden, en selecteer vervolgens **[!UICONTROL Open]** .
-1. Op de rechterkant van de Upload pagina, in het gekozen **gebied van de Bestemming van de 1} omslag, navigeer aan een bestemmingsomslag waar u de geuploade dossiers of toegevoegde omslagen wilt.**
+1. Op de rechterkant van de Upload pagina, in het gekozen **gebied van de Bestemming van de 1&rbrace; omslag, navigeer aan een bestemmingsomslag waar u de geuploade dossiers of toegevoegde omslagen wilt.**
 1. (Optioneel) Voer onder aan de pagina Uploaden in het tekstveld Taaknaam de nieuwe naam van de uploadtaak in. U kunt ook gewoon de standaardnaam gebruiken die door het systeem wordt gegenereerd en die door Adobe Dynamic Media Classic wordt opgegeven. Upload- en publicatietaken worden opgenomen op de pagina Taken, waar u de status van taken kunt controleren. Zie [ Controlerend baandossiers ](checking-job-files.md#checking_job_files).
 1. (Optioneel) Selecteer **[!UICONTROL Publish After Uploading]** onder aan de pagina Uploaden, zodat u de elementen die u uploadt automatisch kunt publiceren.
 Wanneer u bestanden publiceert, worden deze naar live servers verzonden. URL&#39;s voor deze bestanden kunnen vervolgens worden gebruikt op externe websites en toepassingen. Deze optie is ook beschikbaar in het dialoogvenster Taakopties.

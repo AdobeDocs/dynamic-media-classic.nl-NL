@@ -617,7 +617,7 @@ Zie ook [Voorinstellingen viewer](https://s7d5.scene7.com/s7viewers/html5/VideoV
      
    * **Toevoegen door te beginnen met een bestaande viewervoorinstelling**: Selecteer in de tabel een voorinstelling voor de video-viewer en selecteer **[!UICONTROL Edit]** op de werkbalk.
 
-         Selecteer ** nadat u de video-viewer opnieuw hebt geconfigureerd[!UICONTROL Save As]** om de voorinstelling op te slaan onder een andere naam in het tekstveld Naam voorinstelling.
+         Selecteer **&#x200B; nadat u de video-viewer opnieuw hebt geconfigureerd[!UICONTROL Save As]** om de voorinstelling op te slaan onder een andere naam in het tekstveld Naam voorinstelling.
      
    * **Bewerken**: Selecteer een bestaande Viewer-voorinstelling en selecteer **[!UICONTROL Edit]**.
 

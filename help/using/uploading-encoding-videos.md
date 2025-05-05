@@ -69,7 +69,7 @@ Voer een van de volgende handelingen uit.
 1. Vouw in het dialoogvenster Taakopties uploaden de optie **[!UICONTROL EVideo Options]** Voer vervolgens een van de volgende handelingen uit:
 
    * U kunt het beste **[!UICONTROL Adaptive Video Encoding]**. Zie [Adaptieve video (standaard)](application-setup.md#adaptive-video-default).
-   * Optioneel. Als u afzonderlijke coderingsinstellingen wilt gebruiken, vouwt u **[!UICONTROL Single Encoding Presets]**en selecteert u vervolgens de gewenste coderingsopties voor Desktop, Mobile en Tablet.
+   * Optioneel. Als u afzonderlijke coderingsinstellingen wilt gebruiken, vouwt u **[!UICONTROL Single Encoding Presets]**&#x200B;en selecteert u vervolgens de gewenste coderingsopties voor Desktop, Mobile en Tablet.
 Zie [Voorinstellingen voor videocodering op bureaublad](application-setup.md#desktop-video-encoding-presets), [Voorinstellingen voor mobiele videocodering](application-setup.md#mobile-video-encoding-presets), [Voorinstellingen voor videocodering van tablet](application-setup.md#tablet-video-encoding-presets).
 1. Selecteer in het dialoogvenster Opties voor uploaden de optie **[!UICONTROL Save]**.
 1. Controleer op de pagina Uploaden of **[!UICONTROL Publish After Uploading]** is ingeschakeld.
@@ -82,7 +82,7 @@ Zie [Voorinstellingen voor videocodering op bureaublad](application-setup.md#des
 1. Vouw in het dialoogvenster Elementen opnieuw verwerken het item uit **[!UICONTROL EVideo Options]** Voer vervolgens een van de volgende handelingen uit:
    * U kunt het beste de volgende methode gebruiken. Selecteren **Adaptieve video**.
 Zie [Adaptieve video (standaard)](application-setup.md#adaptive-video-default).
-   * Optioneel. Als u afzonderlijke coderingsinstellingen wilt gebruiken, vouwt u **[!UICONTROL Single Encoding Presets]**en selecteert u vervolgens de gewenste coderingsopties voor Desktop, Mobile en Tablet.
+   * Optioneel. Als u afzonderlijke coderingsinstellingen wilt gebruiken, vouwt u **[!UICONTROL Single Encoding Presets]**&#x200B;en selecteert u vervolgens de gewenste coderingsopties voor Desktop, Mobile en Tablet.
 Zie [Voorinstellingen voor videocodering op bureaublad](application-setup.md#desktop-video-encoding-presets), [Voorinstellingen voor mobiele videocodering](application-setup.md#mobile-video-encoding-presets), [Voorinstellingen voor videocodering van tablet](application-setup.md#tablet-video-encoding-presets).
 1. Selecteer in het dialoogvenster Elementen opnieuw verwerken de optie **[!UICONTROL Submit]**.
 
