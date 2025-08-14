@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Een tabel waarin de functies [!DNL Dynamic Media] worden vergeleken in [!DNL Adobe Experience Manager] Assets en [!DNL Adobe Dynamic Media Classic] bureaubladtoepassing. Een &quot;✓&quot;betekent de eigenschap in of met de software beschikbaar is; a &quot;-&quot;betekent het niet.
 
-| Functie | [!DNL Dynamic Media] | [!DNL Dynamic Media<br> Klassiek ] |
+| Functie | [!DNL Dynamic Media] | [!DNL Dynamic Media<br> Klassiek &#x200B;] |
 | :--- | :---: | :---: |
 | 360-video | ✓ | ✓ |
 | Geavanceerde verwerking van afbeeldingen | ✓ | ✓ |

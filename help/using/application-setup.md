@@ -613,11 +613,11 @@ Zie ook [ Kijker stelt ](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.htm
 
    * **voeg** toe: Op de toolbar, selecteer **[!UICONTROL Add]**. Selecteer een platform in het dialoogvenster Voorinstelling viewer toevoegen en selecteer een type rich-media-element.
 
-          Uitgezochte ** [!UICONTROL Save As] ** wanneer u klaar bent creërend de Kijker Vooraf ingesteld.
+          Uitgezochte **&#x200B; [!UICONTROL Save As] &#x200B;** wanneer u klaar bent creërend de Kijker Vooraf ingesteld.
      
    * **voegt toe door van een bestaande Kijker te beginnen vooraf instelt**: In de lijst, selecteer een VideoKijker Vooraf ingesteld, en selecteer dan **[!UICONTROL Edit]** op de toolbar.
 
-          nadat u de VideoKijker opnieuw vormt, selecteer ** [!UICONTROL Save As] ** om vooraf ingesteld te bewaren gebruikend een verschillende naam in het Vooraf ingestelde de tekstgebied van de Naam.
+          nadat u de VideoKijker opnieuw vormt, selecteer **&#x200B; [!UICONTROL Save As] &#x200B;** om vooraf ingesteld te bewaren gebruikend een verschillende naam in het Vooraf ingestelde de tekstgebied van de Naam.
      
    * **geeft** uit: Selecteer een bestaande Vooraf ingestelde Kijker, en selecteer dan **[!UICONTROL Edit]**.
 
@@ -1035,6 +1035,6 @@ Wanneer de centrifugeerset wordt geüpload en gepubliceerd, activeert u de naam 
 >[!MORELIKETHIS]
 >
 >* [ Voorproef een activa ](previewing-asset.md#previewing_an_asset)
->* [ Voorinstellingen van het Beeld van de Opstelling {](setting-image-presets.md#setting_up_image_presets)
+>* [ Voorinstellingen van het Beeld van de Opstelling &lbrace;](setting-image-presets.md#setting_up_image_presets)
 >* [ Mening, voeg, en de uitvoermeta-gegevens toe ](viewing-adding-exporting-metadata.md#viewing_adding_and_exporting_metadata)
 >* [ de baandossiers van de Controle ](checking-job-files.md#checking_job_files)

@@ -42,7 +42,7 @@ Wanneer u Afbeeldingskaarten maakt, kunt u het volgende doen:
    * Selecteer **[!UICONTROL Edit]** als u met een SpinSet werkt in de rasterweergave of lijstweergave. U kunt het ook openen in de gedetailleerde weergave en vervolgens **[!UICONTROL Edit]** selecteren. Selecteer een afbeeldingselement en selecteer vervolgens **[!UICONTROL Image Map]** .
    * Als u met een eCatalog werkt, in de Mening van het Net, de Mening van de Lijst, de Mening van het Detail, uitgezochte **[!UICONTROL Edit]**. Selecteer de tab **[!UICONTROL Map Pages]** .
 
-   ![ de illustratie van de Kaart van het Beeld 1}](assets/ma_image_map.png)
+   ![ de illustratie van de Kaart van het Beeld 1&rbrace;](assets/ma_image_map.png)
 
 1. Teken een rechthoekige of veelhoekige (veelzijdige) afbeelding met hyperlinks:
 

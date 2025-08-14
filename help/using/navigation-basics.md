@@ -71,7 +71,7 @@ In het deelvenster Bladeren/Samenstellen doet u veel van uw werk. Welke functies
 
 * **[!UICONTROL Build mode]**: Selecteer **[!UICONTROL Build]** en kies een optie zodat u een eCatalog, Afbeeldingsset, Draaiset of een van de andere beschikbare items in het menu Opbouwen kunt gaan maken. De pagina Build wordt geopend. U kunt de elementen selecteren waarmee u wilt werken voordat of nadat u de modus Samenstellen hebt geactiveerd.
 
-Zie ook [ de opleidingsvideo van de 1} basistechnologie van de Navigatie.](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&emailurl=https://s7d5.scene7.com/s7/emailFriend&serverUrl=https://s7d5.scene7.com/is/image/&config=Scene7SharedAssets/Universal_HTML5_Video&contenturl=https://s7d5.scene7.com/skins/&asset=S7tutorials/571_Navigation%20Basics_converted%20renamed_Getting%20Started-AVS)
+Zie ook [ de opleidingsvideo van de 1&rbrace; basistechnologie van de Navigatie.](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&emailurl=https://s7d5.scene7.com/s7/emailFriend&serverUrl=https://s7d5.scene7.com/is/image/&config=Scene7SharedAssets/Universal_HTML5_Video&contenturl=https://s7d5.scene7.com/skins/&asset=S7tutorials/571_Navigation%20Basics_converted%20renamed_Getting%20Started-AVS)
 
 >[!MORELIKETHIS]
 >

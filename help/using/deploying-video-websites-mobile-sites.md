@@ -42,7 +42,7 @@ Nadat u video&#39;s hebt gepubliceerd, activeert Adobe Dynamic Media Classic de 
 1. Voer een van de volgende handelingen uit:
 
    * Selecteer **[!UICONTROL Publish after uploading]** als u video&#39;s automatisch en direct wilt publiceren tijdens het uploaden. U bent klaar; er zijn geen verdere stappen om te voltooien.
-   * Om video&#39;s na te publiceren manueel uploadt, in het Browse paneel, selecteert de video&#39;s, en dan op de Globale bar van de Navigatie, publiceert de uitgezochte ****.
+   * Om video&#39;s na te publiceren manueel uploadt, in het Browse paneel, selecteert de video&#39;s, en dan op de Globale bar van de Navigatie, publiceert de uitgezochte **&#x200B;**.
 
 ## Een video-URL koppelen aan een mobiele site of website {#linking-a-video-url-to-a-mobile-site-or-a-website}
 

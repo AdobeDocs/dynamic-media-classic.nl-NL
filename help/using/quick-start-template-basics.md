@@ -25,7 +25,7 @@ Een sjabloon kan een willekeurig aantal afbeeldingslagen en tekstlagen bevatten.
 
 Met de pagina Parameters kunt u elk aspect van een sjabloon omzetten in een adresseerbare parameter. Zo kunt u wijzigen welke gelaagde afbeelding u wilt gebruiken of welke tekstwaarde u in de sjabloon wilt gebruiken. De parameters worden overgegaan met het koord URL, toestaand u om het even welke parameter te veranderen zodat kunt u het antwoordbeeld dynamisch aanpassen dat van de Server van het Beeld wordt geproduceerd.
 
-Zie ook [ de opleidingsvideo van de Grondbeginselen van het 0} Malplaatje {.](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&emailurl=https://s7d5.scene7.com/s7/emailFriend&serverUrl=https://s7d5.scene7.com/is/image/&config=Scene7SharedAssets/Universal_HTML5_Video&contenturl=https://s7d5.scene7.com/skins/&asset=S7tutorials/553_Template%20Basics_converted%20renamed_Dynamic%20Banners-AVS)
+Zie ook [ de opleidingsvideo van de Grondbeginselen van het 0&rbrace; Malplaatje &lbrace;.](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&emailurl=https://s7d5.scene7.com/s7/emailFriend&serverUrl=https://s7d5.scene7.com/is/image/&config=Scene7SharedAssets/Universal_HTML5_Video&contenturl=https://s7d5.scene7.com/skins/&asset=S7tutorials/553_Template%20Basics_converted%20renamed_Dynamic%20Banners-AVS)
 
 Deze snelle start is ontworpen om u snel aan de slag te krijgen met de basis van sjablonen.
 

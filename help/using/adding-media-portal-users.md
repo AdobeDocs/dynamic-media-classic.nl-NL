@@ -40,7 +40,7 @@ De gebruikers van het Portaal van media, de medewerkers, en de medewerker-gebrui
 ## Gebruikers van een mediaportaal toevoegen {#adding-a-media-portal-user}
 
 1. Navigeer naar **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Administration Setup]** > **[!UICONTROL User Administration]** .
-1. Voor de pagina van het Beleid van de Gebruiker, voegt de uitgezochte **** toe.
+1. Voor de pagina van het Beleid van de Gebruiker, voegt de uitgezochte **&#x200B;**&#x200B;toe.
 1. Voer in het dialoogvenster **[!UICONTROL `Add User`]** in het deelvenster Gebruikersinfo de voornaam, achternaam en e-mailadres van de gebruiker in en selecteer vervolgens **[!UICONTROL Next]** .
 1. Selecteer in het deelvenster Bedrijf/Rol in de vervolgkeuzelijst Bedrijven een bedrijf of bedrijven voor de gebruiker.
 1. Selecteer in de lijst Rol een rol voor Media Portal en selecteer vervolgens **[!UICONTROL Next]** .

@@ -73,7 +73,7 @@ Als u tijdens deze sessie trefwoorden hebt toegevoegd aan andere bestanden of al
 >[!NOTE]
 >
 >U kunt trefwoorden aan bestanden toevoegen terwijl u deze uploadt naar Adobe Dynamic Media Classic. Kies **[!UICONTROL More Metadata]** in het dialoogvenster Taakopties uploaden en voer trefwoorden in.
->>Zie [ opties uploaden ](uploading-files.md#upload_options).
+>&#x200B;>Zie [ opties uploaden ](uploading-files.md#upload_options).
 
 ## Metagegevens importeren {#import-metadata}
 
@@ -82,7 +82,7 @@ In plaats van handmatig metagegevens één element tegelijk in te voeren, kunt u
 >[!NOTE]
 >
 >U kunt een sjabloon maken voor het invoeren van metagegevens, zodat deze op de juiste manier naar Adobe Dynamic Media Classic kunnen worden geïmporteerd. Nadat u de sjabloon hebt gemaakt, kunt u deze gebruiken om de metagegevens in te voeren.
->>Zie [ een malplaatje voor het ingaan van meta-gegevens creëren om ](viewing-adding-exporting-metadata.md#create_a_template_for_entering_metadata_to_upload) te uploaden.
+>&#x200B;>Zie [ een malplaatje voor het ingaan van meta-gegevens creëren om ](viewing-adding-exporting-metadata.md#create_a_template_for_entering_metadata_to_upload) te uploaden.
 
 U kunt meer informatie over gestandaardiseerde eigenschappen bij het [ Adobe XMP Developer Center ](https://www.adobe.com/devnet/xmp.html) vinden.
 

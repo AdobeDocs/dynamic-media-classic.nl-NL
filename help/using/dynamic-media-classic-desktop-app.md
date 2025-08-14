@@ -271,11 +271,11 @@ U kunt de cache van afbeeldingen en elementen niet alleen wissen met de bureaubl
 
 ## Tips en trucs
 
-**_ik kan niet het paneel van de Kar van Media op de het landen pagina van Adobe Dynamic Media Classic zien._**<br>Tik in Adobe Dynamic Media Classic op **[!UICONTROL Setup > Personal Setup]**. Controleer of in de sectie Browser **[!UICONTROL Show MediaPortal Features]**is geselecteerd (ingeschakeld). Tik op **[!UICONTROL Save > Close]**.
+**_ik kan niet het paneel van de Kar van Media op de het landen pagina van Adobe Dynamic Media Classic zien._**<br>Tik in Adobe Dynamic Media Classic op **[!UICONTROL Setup > Personal Setup]**. Controleer of in de sectie Browser **[!UICONTROL Show MediaPortal Features]**&#x200B;is geselecteerd (ingeschakeld). Tik op **[!UICONTROL Save > Close]**.
 
-**_publiceer staat (groene indicator) van een activa wordt niet correct weerspiegeld._**<br>in het browser gebruikersinterface, werd opnieuw login aan UI vereist om correcte te zien publiceren staat van activa. Adobe heeft in de bureaubladtoepassing het pictogram **[!UICONTROL Refresh]**toegevoegd op de werkbalk, rechts van de knop **[!UICONTROL Select None]**. Tik op het pictogram **[!UICONTROL Refresh]**om de laatste status van alle elementen op de opgegeven pagina weer te geven. Geen heraanmelding vereist zoals met de gebruikersinterface van de browser.
+**_publiceer staat (groene indicator) van een activa wordt niet correct weerspiegeld._**<br>in het browser gebruikersinterface, werd opnieuw login aan UI vereist om correcte te zien publiceren staat van activa. Adobe heeft in de bureaubladtoepassing het pictogram **[!UICONTROL Refresh]**&#x200B;toegevoegd op de werkbalk, rechts van de knop **[!UICONTROL Select None]**. Tik op het pictogram **[!UICONTROL Refresh]**&#x200B;om de laatste status van alle elementen op de opgegeven pagina weer te geven. Geen heraanmelding vereist zoals met de gebruikersinterface van de browser.
 
 ![ verfrist pictogram ](/help/using/assets/refresh-icon1.png)
 *verfrissen pictogram*
 
-**_ik zie partijreeks vooraf instelt werkend in Desktop app niet._**<br>Tikken **[!UICONTROL Upload > Job Options > Batch Set Presets]**. Controleer of de betreffende **[!UICONTROL Batch Set Preset]**is ingeschakeld. Klik op **[!UICONTROL Save and Submit upload]**.
+**_ik zie partijreeks vooraf instelt werkend in Desktop app niet._**<br>Tikken **[!UICONTROL Upload > Job Options > Batch Set Presets]**. Controleer of de betreffende **[!UICONTROL Batch Set Preset]**&#x200B;is ingeschakeld. Klik op **[!UICONTROL Save and Submit upload]**.
