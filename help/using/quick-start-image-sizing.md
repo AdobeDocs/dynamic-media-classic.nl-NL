@@ -27,25 +27,25 @@ Afbeeldingsgrootte heeft betrekking op de mogelijkheid van Adobe Dynamic Media C
 
 ![ u kunt veelvoudige afgeleide beelden bij verschillende grootte van het zelfde high-resolution primaire dossier tot stand brengen.](/help/using/assets/is_derivative_sizes_popup.png)
 
-Zie [ Beeld rangschikken: Dynamic Imaging ](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&amp;emailurl=https://s7d5.scene7.com/s7/emailFriend&amp;serverUrl=https://s7d5.scene7.com/is/image/&amp;config=Scene7SharedAssets/Universal_HTML5_Video&amp;contenturl=https://s7d5.scene7.com/skins/&amp;asset=S7tutorials/557_Image%20Sizing_converted%20renamed_Dynamic%20Imaging-AVS) trainingsvideo.
+Zie [ Beeld rangschikken: Dynamic Imaging ](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&emailurl=https://s7d5.scene7.com/s7/emailFriend&serverUrl=https://s7d5.scene7.com/is/image/&config=Scene7SharedAssets/Universal_HTML5_Video&contenturl=https://s7d5.scene7.com/skins/&asset=S7tutorials/557_Image%20Sizing_converted%20renamed_Dynamic%20Imaging-AVS) trainingsvideo.
 
 De volgende snelstarthandleidingen voor Afbeeldingsgrootte zijn ontworpen om u te helpen snel aan de slag te gaan met technieken voor afbeeldingsgrootte in Adobe Dynamic Media Classic. Voer de stappen 1 tot en met 5 uit. Na elke stap is er een kruisverwijzing waar u meer informatie kunt vinden als u die nodig hebt.
 
-## 1. primaire afbeeldingen uploaden
+## &#x200B;1. primaire afbeeldingen uploaden
 
 Begin door uw primaire afbeeldingen naar Adobe Dynamic Media Classic te uploaden. Wat de grootte betreft, raadt Adobe Dynamic Media Classic aan afbeeldingen te gebruiken die de grootste grootte hebben die u op uw website of toepassing wilt gebruiken. Als u bijvoorbeeld wilt dat gebruikers in- of uitzoomen op afbeeldingen, uploadt u afbeeldingen die minstens 2000 pixels groot zijn. Adobe Dynamic Media Classic ondersteunt veel bestandsindelingen voor afbeeldingen, maar TIFF- en PNG-afbeeldingen zonder gegevensverlies worden aanbevolen.
 
 Selecteer op de algemene navigatiebalk **[!UICONTROL Upload]** om bestanden van uw computer te uploaden naar een map op Adobe Dynamic Media Classic. Zie [ primaire beelden ](uploading-master-images.md#uploading_master_images) uploaden.
 
-## 2. Voorinstellingen afbeelding instellen
+## &#x200B;2. Voorinstellingen afbeelding instellen
 
-Net als bij een macro is een voorinstelling voor afbeeldingen een verzameling vooraf gedefinieerde opdrachten voor grootte en opmaak die onder een naam zijn opgeslagen. Met een voorinstelling voor afbeeldingen bepaalt u de grootte en opmaak van afbeeldingen die worden geleverd op Dynamic Media Image Servers. U kunt de Voorinstellingen van het opstellingsBeeld op uw plaatsen als u de status van de Beheerder van het Bedrijf hebt. U kunt dynamisch afbeeldingen leveren met de standaardvoorinstellingen voor afbeeldingen die al bij Adobe Dynamic Media Classic worden geleverd.
+Net als bij een macro is een voorinstelling voor afbeeldingen een verzameling vooraf gedefinieerde opdrachten voor grootte en opmaak die onder een naam zijn opgeslagen. Met een voorinstelling voor afbeeldingen bepaalt u de grootte en de opmaak van de afbeeldingen die worden geleverd op de dynamische mediageleveranciers. U kunt de Voorinstellingen van het opstellingsBeeld op uw plaatsen als u de status van de Beheerder van het Bedrijf hebt. U kunt dynamisch afbeeldingen leveren met de standaardvoorinstellingen voor afbeeldingen die al bij Adobe Dynamic Media Classic worden geleverd.
 
 Ga op de algemene navigatiebalk naar **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Image Presets]** om een voorinstelling voor afbeeldingen te maken (als u een beheerder bent). Selecteer vervolgens **[!UICONTROL Add]** om een voorinstelling voor afbeeldingen te maken of selecteer **[!UICONTROL Edit]** om een bestaande voorinstelling voor afbeeldingen te wijzigen.
 
 De voorinstelling Afbeelding die u maakt, wordt toegevoegd aan het menu Voorinstelling afbeelding op de pagina Voorvertoning. U kunt uw nieuwe Vooraf ingestelde Beeld gebruiken om beelden dynamisch op uw Websites en toepassingen te tonen. Zie [ Voorinstellingen van het Beeld van de Opstelling ](setting-image-presets.md#setting_up_image_presets).
 
-## 3. Voorinstellingen voorvertoning afbeelding
+## &#x200B;3. Voorinstellingen voorvertoning afbeelding
 
 In de volgende stap kunt u een voorvertoning weergeven van de voorinstellingen voor afbeeldingen die uw beheerder heeft ingesteld op verschillende vooraf ingestelde formaten.
 
@@ -55,16 +55,16 @@ Experimenteer met de verschillende voorinstellingen voor afbeeldingen. Kom te we
 
 Zie [ Voorproef een beeldactiva die op zijn Vooraf ingesteld Beeld ](previewing-asset.md#previewing_an_image_asset_based_on_its_image_preset) wordt gebaseerd.
 
-## 4. Publish uw primaire afbeeldingen
+## &#x200B;4. Publiceer uw primaire afbeeldingen
 
 Het publiceren van uw primaire afbeeldingsbestanden heeft twee essentiële doelen:
 
-* Uw primaire afbeeldingen publiceren naar Dynamic Media Image Servers zodat afbeeldingen dynamisch kunnen worden geleverd aan uw website en toepassing.
+* Uw primaire afbeeldingen publiceren naar Dynamic Media Image Servers, zodat afbeeldingen dynamisch kunnen worden geleverd aan uw website en toepassing.
 * Met Publiceren activeert u de URL-tekenreeksen voor het aanroepen van afbeeldingen van Dynamic Media Image Servers naar uw website of toepassing. Na publicatie kunt u waar nodig de door Adobe Dynamic Media Classic gegenereerde URL&#39;s kopiëren en plaatsen in uw website of toepassing.
 
-Selecteer op de algemene navigatiebalk **[!UICONTROL Publish]** om een publicatietaak te starten. Selecteer **[!UICONTROL Submit Publish]** in het dialoogvenster Publiceren. Zie [ primaire beelden van Publish ](publishing-master-images.md#publishing_master_images).
+Selecteer op de algemene navigatiebalk **[!UICONTROL Publish]** om een publicatietaak te starten. Selecteer **[!UICONTROL Submit Publish]** in het dialoogvenster Publiceren. Zie [ primaire beelden ](publishing-master-images.md#publishing_master_images) publiceren.
 
-## 5. Koppel URL&#39;s aan uw webtoepassing
+## &#x200B;5. Koppel URL&#39;s aan uw webtoepassing
 
 Adobe Dynamic Media Classic maakt URL-bijschrifttekenreeksen voor afbeeldingen. Wanneer u afbeeldingen publiceert naar Dynamic Media Image Servers, worden de URL&#39;s actief. U kunt deze URL-tekenreeksen kopiëren vanuit het deelvenster Bladeren (in de gedetailleerde weergave) of het scherm Voorvertoning. Nadat u de koorden URL kopieert, kunt u hen in uw Website en toepassingen gebruiken. De URL voor Afbeeldingsgrootte vervangt de verwijzing naar een statische beeldnaam in uw code van de Web-pagina. De URL verwijst naar een primaire afbeeldingsnaam die de database vervangt voor elke nieuwe afbeelding die moet worden weergegeven.
 

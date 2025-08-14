@@ -31,5 +31,5 @@ Voor een optimale ervaring met de Adobe Dynamic Media Classic-bureaubladtoepassi
 
 >[!MORELIKETHIS]
 >
->* [Dynamic Media-beperkingen](/help/using/limitations.md)
+>* [ Dynamische beperkingen van Media ](/help/using/limitations.md)
 

@@ -25,35 +25,35 @@ Stel dat u afbeeldingen van uiteinden met verschillende kleurrekeningen wilt wee
 
 ## Een stalenset maken {#create}
 
-Wanneer u een set maakt, **Publiceren na opslaan** Deze optie is op de volgende manieren van invloed op de set en de set leden:
+Wanneer u een reeks creeert, publiceert **na sparen** optie beïnvloedt de reeks en vastgestelde leden op de volgende manieren:
 
-| **[!UICONTROL Publish after a save]** optie geselecteerd voor opslaan? | Status van set na opslaan | Status van ingestelde leden na opslaan |
+| **[!UICONTROL Publish after a save]** geselecteerd voordat u het bestand opslaat? | Status van set na opslaan | Status van ingestelde leden na opslaan |
 | --- | --- | --- |
 | Ja | Gepubliceerd | gepubliceerd |
 | Nee | Ongepubliceerd | Leden met een set behouden hun gepubliceerde of niet-gepubliceerde status. |
 
-Zie ook [Elementen handmatig publiceren](publishing-files.md#manually_publishing_assets) en [Publicaties van elementen handmatig ongedaan maken](publishing-files.md#manually_unpublishing_assets).
+Zie ook [ manueel het publiceren activa ](publishing-files.md#manually_publishing_assets) en [ manueel unpublishing activa ](publishing-files.md#manually_unpublishing_assets).
 
-**Een stalenset maken:**
+**om een Reeks van het Monster tot stand te brengen:**
 
 1. Voer een van de volgende handelingen uit:
 
-   * **Selecteer eerst de afbeeldingen**: Selecteer de afbeeldingen in het deelvenster Bladeren en ga vervolgens naar **[!UICONTROL Build]** > **[!UICONTROL Swatch Sets]**.
+   * **selecteer eerst de beelden**: In het Browse paneel, selecteer de beelden, en ga dan naar **[!UICONTROL Build]** > **[!UICONTROL Swatch Sets]**.
 
-   * **Starten vanaf het scherm Staalset**: Ga naar **[!UICONTROL Build]** > **[!UICONTROL Swatch Sets]**. Selecteer een map in de elementenbibliotheek en sleep de afbeeldingen naar de sectie Weergaven van de pagina Staalset.
+   * **Begin van het Vastgestelde scherm van het Monster**: Ga naar **[!UICONTROL Build]** > **[!UICONTROL Swatch Sets]**. Selecteer een map in de elementenbibliotheek en sleep de afbeeldingen naar de sectie Weergaven van de pagina Staalset.
 
 1. Sleep staalkleuren, patronen of voltooit in het vak Stalen van de pagina Staalset.
 
    Zorg ervoor dat het kleur-, patroon- of eindstaal dat u naar elke plaatsaanduiding sleept, de kleur, het patroon of het einde van de aangrenzende afbeelding vertegenwoordigt.
 
 1. Als u de volgorde van afbeeldingen in uw stalenset wilt wijzigen, sleept u de afbeeldingen naar nieuwe locaties.
-1. Zorg ervoor dat rechts onder op de pagina de volgende informatie wordt weergegeven: **[!UICONTROL Publish after a save]** is geselecteerd (standaard).
-1. Selecteren **[!UICONTROL Save]** selecteert u een map waarin u de kleurstaalset wilt opslaan, voert u een naam in voor de set en selecteert u **[!UICONTROL Submit]**.
-1. Selecteer **[!UICONTROL Preview]** op het scherm Staalset. U kunt staalminiaturen selecteren in de Staalset Viewer om te zien hoe ze zich gedragen.
+1. Zorg dat rechts onder op de pagina de optie **[!UICONTROL Publish after a save]** is geselecteerd (standaardwaarde).
+1. Selecteer **[!UICONTROL Save]** , selecteer een map waarin u de kleurstaalset wilt opslaan, voer een naam in voor de set en selecteer **[!UICONTROL Submit]** .
+1. Selecteer **[!UICONTROL Preview]** in het scherm Staalset om de Staalset weer te geven in de Staalsetviewer. U kunt staalminiaturen selecteren in de Staalset Viewer om te zien hoe ze zich gedragen.
 
 ## Een stalenset bewerken {#editing-a-swatch-set}
 
-Of u een gepubliceerde of een niet-gepubliceerde set bewerkt, **[!UICONTROL Publish after a save]** Deze optie is op de volgende manieren van invloed op de set en de set leden:
+Of u nu een gepubliceerde of een niet-gepubliceerde set bewerkt, de optie **[!UICONTROL Publish after a save]** heeft op de volgende manieren invloed op de set en stelt leden in:
 
 | Reeds gepubliceerd instellen? | **[!UICONTROL Publish after a save]** optie opslaan geselecteerd voordat u de bewerking opslaat? | Status van set na opslaan | Status van ingestelde leden na opslaan |
 |--- | --- | --- | --- |
@@ -62,27 +62,27 @@ Of u een gepubliceerde of een niet-gepubliceerde set bewerkt, **[!UICONTROL Publ
 | Nee | Ja | Gepubliceerd | Gepubliceerd |
 | Nee | Nee | Ongepubliceerd | Bestaande leden die zijn ingesteld en eventuele nieuwe leden die u tijdens de bewerking hebt toegevoegd, behouden hun gepubliceerde of niet-gepubliceerde status. |
 
-Zie ook [Elementen handmatig publiceren](publishing-files.md#manually_publishing_assets) en [Publicaties van elementen handmatig ongedaan maken](publishing-files.md#manually_unpublishing_assets).
+Zie ook [ manueel het publiceren activa ](publishing-files.md#manually_publishing_assets) en [ manueel unpublishing activa ](publishing-files.md#manually_unpublishing_assets).
 
-**Een stalenset bewerken:**
+**om een Reeks van het Monster uit te geven:**
 
-1. Blader in de rasterweergave naar een SwatchSet en selecteer vervolgens onder de afbeelding de optie **[!UICONTROL Edit]**.
+1. Blader in de rasterweergave naar een SwatchSet en selecteer vervolgens **[!UICONTROL Edit]** onder de afbeelding.
 1. Voer een van de volgende handelingen uit:
 
-   * Als u een (gepubliceerde of niet-gepubliceerde) afbeelding wilt toevoegen, sleept u deze uit een map in Elementen toevoegen naar de stalenset **[!UICONTROL Views]** pagina.
+   * Als u een (gepubliceerde of niet-gepubliceerde) afbeelding wilt toevoegen, sleept u deze uit een map in Assets toevoegen naar de pagina van de stalenset **[!UICONTROL Views]** .
    * Als u een afbeelding wilt verwijderen, selecteert u deze en selecteert u vervolgens **[!UICONTROL Delete]** op de werkbalk.
    * Als u de volgorde van afbeeldingen wilt wijzigen, sleept u een afbeelding naar een nieuwe positie.
 
-1. Wanneer u klaar bent met het bewerken van de set, in de rechterbenedenhoek van de pagina, controleert u of **[!UICONTROL Publish after a save]** is geselecteerd (standaard).
-1. Selecteren **[!UICONTROL Save]**, selecteert u een opslagmap, voert u een naam voor de set in en selecteert u **[!UICONTROL Save]**.
+1. Als u klaar bent met het bewerken van de set, controleert u of **[!UICONTROL Publish after a save]** is geselecteerd (standaard) rechtsonder op de pagina.
+1. Selecteer **[!UICONTROL Save]** , selecteer een opslagmap, voer een naam voor de set in en selecteer vervolgens **[!UICONTROL Save]** .
 
 ## Een stalenset verwijderen
 
 Wanneer u een set verwijdert, wordt de set zelf naar de prullenbak verplaatst. De leden (of &quot;kinderen&quot;) binnen die set worden echter niet beïnvloed, maar ze behouden hun bestaande gepubliceerde of niet-gepubliceerde status.
 
-Zie ook [Elementen handmatig publiceren](publishing-files.md#manually_publishing_assets) en [Publicaties van elementen handmatig ongedaan maken](publishing-files.md#manually_unpublishing_assets).
+Zie ook [ manueel het publiceren activa ](publishing-files.md#manually_publishing_assets) en [ manueel unpublishing activa ](publishing-files.md#manually_unpublishing_assets).
 
-**Een stalenset verwijderen:**
+**om een Reeks van het Monster te schrappen:**
 
 1. Selecteer een stalenset of meer in de rasterweergave, lijstweergave of detailweergave.
-1. Ga op de algemene navigatiebalk naar **[!UICONTROL File]** > **[!UICONTROL Delete]** > **[!UICONTROL Delete]**.
+1. Ga op de algemene navigatiebalk naar **[!UICONTROL File]** > **[!UICONTROL Delete]** > **[!UICONTROL Delete]** .

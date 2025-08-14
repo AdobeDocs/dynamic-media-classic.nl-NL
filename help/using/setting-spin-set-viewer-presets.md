@@ -21,27 +21,27 @@ ht-degree: 0%
 
 Met voorinstellingen van de draaiende viewer worden de stijl, het gedrag en de vormgeving van de viewers bepaald. Adobe Dynamic Media Classic wordt geleverd met standaard voorinstellingen voor de centrifugeset viewer. Als beheerder kunt u ook uw eigen voorinstellingen voor de voorinstelling van de voorinstelling Spin Set Viewer maken. U kunt een voorinstelling voor een centrifugeset weergeven met verschillende kleuren, randen, lettertypen en afbeeldingsinstellingen.
 
-**Een voorinstelling voor een centrifugeset viewer maken:**
+**om een Vastgestelde Vooraf ingestelde Kijker van de Rotatie te creëren:**
 
-1. Ga op de algemene navigatiebalk naar **[!UICONTROL Setup]** > **[!UICONTROL Viewer Presets]**.
+1. Ga op de algemene navigatiebalk naar **[!UICONTROL Setup]** > **[!UICONTROL Viewer Presets]** .
 1. Voer een van de volgende handelingen uit:
 
-   * Selecteer **[!UICONTROL Add]** kiest u vervolgens in het dialoogvenster Voorinstelling viewer toevoegen een platform en selecteert u vervolgens **[!UICONTROL Spin Set Viewer]**.
-   * Als u een bestaande voorinstelling voor een draaiende set-viewer wilt bewerken, selecteert u de voorinstelling en selecteert u **[!UICONTROL Edit]**.
+   * Als u een voorinstelling wilt maken, selecteert u **[!UICONTROL Add]** en kiest u vervolgens in het dialoogvenster Viewer-voorinstelling toevoegen een platform en selecteert u **[!UICONTROL Spin Set Viewer]** .
+   * Als u een bestaande voorinstelling voor een spellingset-viewer wilt bewerken, selecteert u de voorinstelling en selecteert u vervolgens **[!UICONTROL Edit]** .
 
-1. Op de `Configure Viewer` typt u een naam in het vak Naam voorinstelling voor de voorinstelling voor de voorinstelling van de voorinstelling voor de voorinstelling van de voorinstelling voor de voorinstelling van de voorinstelling.
-1. Geef desgewenst andere opties op. Als u een beschrijving van een optie wilt weergeven, selecteert u de optie **[!UICONTROL Info Tip]** naast de optie.
+1. Typ op de pagina `Configure Viewer` een naam in het vak Naam voorinstelling voor de voorinstelling voor de voorinstelling van de voorinstelling voor de voorinstelling van de voorinstelling voor de voorinstelling van de centrifuge.
+1. Geef desgewenst andere opties op. Als u een beschrijving van een optie wilt zien, selecteert u het pictogram **[!UICONTROL Info Tip]** naast de optie.
 
    Op de pagina Voorbeeld wordt de viewer weergegeven terwijl u instellingen bijwerkt en wijzigt.
 
-1. Selecteren **[!UICONTROL Save]**.
+1. Selecteer **[!UICONTROL Save]** .
 
-Selecteren **[!UICONTROL Make Default]** Als u de voorinstelling voor de draaiset van de viewer wilt instellen, hebt u het standaardprogramma voor de weergave van centrifuges gemaakt.
+Selecteer **[!UICONTROL Make Default]** om van de Vastgestelde Kijker van de Rotatie vooraf in te stellen u het bedrijfgebrek voor het tonen van Reeksen van de Rotatie creeerde.
 
-Zie [Standaardviewers configureren](application-setup.md#configuring_default_viewers).
+Zie [ Standaardkijkers ](application-setup.md#configuring_default_viewers) vormen.
 
-Als u een voorinstelling voor een centrifugeset viewer wilt verwijderen, selecteert u deze op de pagina Voorinstellingen viewer en selecteert u **[!UICONTROL Delete]**.
+Als u een voorinstelling voor een centrifugeset viewer wilt verwijderen, selecteert u deze op de pagina Voorinstellingen viewer en selecteert u vervolgens **[!UICONTROL Delete]** .
 
 >[!MORELIKETHIS]
 >
->* [Voorinstellingen viewer](application-setup.md#viewer_presets)
+>* [ Kijker stelt vooraf in ](application-setup.md#viewer_presets)

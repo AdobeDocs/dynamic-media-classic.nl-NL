@@ -1,6 +1,6 @@
 ---
-title: Dynamic Media-beperkingen
-description: Leer over de beste praktijken en de gedwongen grenzen wanneer u een Reeks van het Beeld of een Reeks van de Rotatie creeert, of een PDF uploadt. Meer informatie over niet-ondersteunde combinaties van webbrowsers en besturingssystemen voor Dynamic Media.
+title: Dynamische mediabeperkingen
+description: Leer over de beste praktijken en de gedwongen grenzen wanneer u een Reeks van het Beeld of een Reeks van de Draai creeert, of een PDF uploadt. Meer informatie over niet-ondersteunde combinaties van webbrowsers en besturingssystemen voor Dynamic Media.
 contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
@@ -17,18 +17,18 @@ ht-degree: 1%
 
 ---
 
-# Dynamic Media-beperkingen
+# Dynamische medialimieten
 
 In de volgende secties worden beperkingen in Dynamic Media beschreven.
 
 Dit onderwerp omvat de volgende secties:
 
-* [Aanbevolen werkwijzen en door Dynamic Media opgelegde limieten voor soorten activa](#best-practice-enforced-limits)
-* [Niet-ondersteunde combinaties van webbrowsers en besturingssystemen voor Dynamic Media](#unsupported-browser-os)
+* [Best practices en gedwongen beperkingen door Dynamic Media voor elementtypen](#best-practice-enforced-limits)
+* [Niet-ondersteunde combinaties van webbrowser en besturingssysteem voor Dynamic Media](#unsupported-browser-os)
 
-## Aanbevolen werkwijzen en door Dynamic Media opgelegde limieten voor soorten activa {#best-practice-enforced-limits}
+## Best practices en gedwongen beperkingen door Dynamic Media voor elementtypen {#best-practice-enforced-limits}
 
-Als u een centrifugeset of een afbeeldingsset maakt of PDF uploadt voor het uitnemen van pagina&#39;s, raadt Adobe u de volgende aanbevolen procedures aan. Adobe handhaaft ook de volgende limieten:
+Als u een centrifugeset of een afbeeldingsset maakt of PDF&#39;s uploadt voor het uitnemen van pagina&#39;s, raadt Adobe aan de volgende aanbevolen procedures uit te voeren. Adobe past ook de volgende limieten toe:
 
 | Element: type Limiet | Beste praktijken | Oplegde limiet |
 | --- | --- | --- |
@@ -36,13 +36,13 @@ Als u een centrifugeset of een afbeeldingsset maakt of PDF uploadt voor het uitn
 | **Alle reeksen**: Aantal dubbele activa per reeks | Geen duplicaten | 20‡ |
 | **Alle reeksen**: Maximum aantal activa per reeks | 5-10 afbeeldingen per set | 1000 |
 | **Reeks van de Draai**: Maximum aantal rijen/kolommen per 2D reeks | 12-18 afbeeldingen per set | 1000 |
-| **PDF**: Maximum aantal pagina&#39;s voor een PDF die voor extractie moet worden overwogen |  | 100 (voor alle PDF) |
+| **PDF**: Maximum aantal pagina&#39;s voor PDF dat voor extractie moet worden overwogen |  | 100 (voor alle PDF&#39;s) |
 
 ‡ De beste manier is om geen dubbele elementen in een set te hebben. De limiet is 20 duplicaten voor één element. Als u nog een duplicaat voor dat element toevoegt (binnen die set), geeft de aanvraag een fout of wordt het duplicaat genegeerd.
 
 <!-- See also [Dynamic Media limitations](/help/using/assets/limitations.md). -->
 
-## Niet-ondersteunde combinaties van webbrowsers en besturingssystemen voor Dynamic Media {#unsupported-browser-os}
+## Niet-ondersteunde combinaties van webbrowser en besturingssysteem voor Dynamic Media {#unsupported-browser-os}
 
 <!-- CQDOC-19433 -->
 
@@ -63,7 +63,7 @@ Adobe Dynamic Media biedt geen ondersteuning voor de volgende combinaties van we
 <!-- CQDOC-19433 (original ticket)
 and CQDOC-19792 (removed as per this ticket December 5, 2022) -->
 
-Vanaf 30 april 2024 beëindigt Adobe Dynamic Media de steun voor:
+Vanaf 30 april 2024 eindigt de ondersteuning voor Adobe Dynamic Media voor:
 
 * SSL (Secure Socket Layer) 2.0
 * SSL 3.0

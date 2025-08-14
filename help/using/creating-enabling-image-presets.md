@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # Voorinstellingen afbeelding maken en inschakelen{#creating-and-enabling-image-presets}
 
-Wanneer gebruikers afbeeldingselementen exporteren met gebruik van Media Portal, kunnen zij een voorinstelling voor afbeelding kiezen in het dialoogvenster Geselecteerde elementen exporteren. Een voorinstelling voor afbeeldingen is een verzameling vooraf gedefinieerde instellingen. Met deze instellingen kunt u de grootte, afbeeldingskwaliteit, indeling, resolutie en andere aspecten van de weergave van een afbeelding tijdens het exporteren wijzigen.
+Wanneer gebruikers afbeeldingselementen exporteren met gebruik van Media Portal, kunnen zij een voorinstelling voor afbeeldingen kiezen in het dialoogvenster Geselecteerde Assets exporteren. Een voorinstelling voor afbeeldingen is een verzameling vooraf gedefinieerde instellingen. Met deze instellingen kunt u de grootte, afbeeldingskwaliteit, indeling, resolutie en andere aspecten van de weergave van een afbeelding tijdens het exporteren wijzigen.
 
 Beheerders van Media Portal kunnen voorinstellingen voor afbeeldingen maken om te bepalen hoe afbeeldingen opnieuw worden opgemaakt wanneer ze worden geëxporteerd. Met Voorinstellingen voor afbeeldingen kunt u afbeeldingen opnieuw opmaken volgens de specificaties van uw bedrijf wanneer gebruikers afbeeldingen exporteren uit de Adobe Dynamic Media Classic. Gebruikers kunnen de afbeeldingen niet alleen opnieuw opmaken, maar naar de exacte specificaties van een voorinstelling voor afbeeldingen exporteren.
 
@@ -33,8 +33,8 @@ Bij het exporteren van afbeeldingselementen gelden de volgende beperkingen:
 >
 >Deze beperkingen gelden alleen voor het exporteren van afgeleide afbeeldingselementen, niet voor het exporteren van primaire bestanden.
 
-Als u voorinstellingen voor afbeeldingen wilt maken, raadpleegt u [Voorinstellingen afbeelding](application-setup.md#image_presets).
+Om Beeld tot stand te brengen stelt vooraf in, zie [ Beeld ](application-setup.md#image_presets) vooraf in.
 
-Gebruikers kunnen tijdens het exporteren van bestanden voorinstellingen voor afbeeldingen kiezen op de website [Exportopties opgeven die beschikbaar zijn voor gebruikers van Media Portal](specifying-export-options-available-media.md#specifying_export_options_available_to_media_portal_users).
+Om gebruikers toe te laten om Beeld te kiezen stelt vooraf in wanneer zij dossiers uitvoeren, zie [ specificerend de uitvoeropties beschikbaar aan Poortgebruikers van Media ](specifying-export-options-available-media.md#specifying_export_options_available_to_media_portal_users).
 
-Als u wilt kiezen welke voorinstellingen afbeelding beschikbaar zijn voor de leden van een groep, raadpleegt u [Toegangsrechten voor een groep kiezen voor Voorinstelling afbeelding](creating-media-portal-groups.md#choosing_image_preset_access_permissions_for_a_group).
+Om te kiezen welk Beeld vooraf instelt beschikbaar aan de leden van een groep is, zie [ Vooraf ingestelde de toegangstoestemmingen van het Beeld voor een groep ](creating-media-portal-groups.md#choosing_image_preset_access_permissions_for_a_group) kiezen.

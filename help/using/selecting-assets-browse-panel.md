@@ -21,10 +21,10 @@ ht-degree: 0%
 
 Selecteer een element in het deelvenster Bladeren zodat u ermee kunt werken. Gebruik de volgende technieken om elementen te selecteren:
 
-* **Eén middel**: Selecteer het element (door te dubbelklikken wordt het element geopend in de gedetailleerde weergave).
+* **Één enkel activa**: Selecteer de activa (het tweemaal klikken opent de activa in de Mening van het Detail).
 
-* **Verschillende activa**: Ctrl+klikken (Windows®) of Command+klikken (Mac) op elementen om elementen op verschillende plaatsen in het deelvenster Bladeren te selecteren. Houd Shift ingedrukt en klik (klik op een element en houd Shift ingedrukt en klik op een ander element) om aangrenzende elementen te selecteren.
+* **Verscheidene activa**: Ctrl+klik (Vensters®) of Command+klik (Mac) activa om activa in verschillende plaatsen op het Browse paneel te selecteren. Houd Shift ingedrukt en klik (klik op een element en houd Shift ingedrukt en klik op een ander element) om aangrenzende elementen te selecteren.
 
-* **Alle elementen in het deelvenster Bladeren**: Ga naar **[!UICONTROL Select]** > **[!UICONTROL All]**.
+* **Alle activa in het Browse paneel**: Ga naar **[!UICONTROL Select]** > **[!UICONTROL All]**.
 
-* **Geen elementen**: Ga naar **[!UICONTROL Select]** > **[!UICONTROL None]**.
+* **Geen activa**: Ga naar **[!UICONTROL Select]** > **[!UICONTROL None]**.

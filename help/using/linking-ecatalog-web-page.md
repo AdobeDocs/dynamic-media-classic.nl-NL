@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # Een eCatalog aan een Web-pagina koppelen{#linking-an-ecatalog-to-a-web-page}
 
-Uw websites en toepassingen hebben via URL-tekenreeksen of ingesloten code toegang tot Dynamic Media Image Server-inhoud, inclusief eCatalogs. Deze URL-tekenreeksen worden geactiveerd tijdens het publicatieproces. Als u de URL-tekenreeks of ingesloten code voor uw eCatalog wilt plaatsen in uw webpagina&#39;s en toepassingen, kopieert u deze vanuit Adobe Dynamic Media Classic.
+Uw Websites en toepassingen hebben toegang tot de Dynamische inhoud van de Server van het Beeld van Media, met inbegrip van eCatalogs, als koorden URL of ingebedde code. Deze URL-tekenreeksen worden geactiveerd tijdens het publicatieproces. Als u de URL-tekenreeks of ingesloten code voor uw eCatalog wilt plaatsen in uw webpagina&#39;s en toepassingen, kopieert u deze vanuit Adobe Dynamic Media Classic.
 
 >[!NOTE]
 >
@@ -27,54 +27,54 @@ Uw websites en toepassingen hebben via URL-tekenreeksen of ingesloten code toega
 
 ## Een eCatalog-URL kopiëren {#copying-an-ecatalog-url}
 
-1. Selecteer in de vervolgkeuzelijst Tonen in het deelvenster Middelenbladeren de optie **[!UICONTROL Catalog]**.
+1. Selecteer **[!UICONTROL Catalog]** in de vervolgkeuzelijst Tonen in het deelvenster Asset Browse.
 1. Navigeer in het deelvenster Elementenbibliotheek aan de linkerkant naar de elementenmap die de eCatalog bevat waarvan u de code voor insluiten wilt kopiëren.
 1. Voer boven het deelvenster Asset Browse een van de volgende handelingen uit aan de rechterkant van de werkbalk:
 
-   * Selecteren **[!UICONTROL Grid View]**. Dubbelklik in het deelvenster Asset Browse op één element om dit te openen in de gedetailleerde weergave. Selecteer in de URL&#39;s en het deelvenster Code insluiten aan de rechterkant de optie **[!UICONTROL Copy URL]** rechts van de gewenste viewer.
-   * Selecteren **[!UICONTROL Grid View]**. Selecteer in het deelvenster Asset Browse één element en ga vervolgens onder de miniatuurafbeelding naar **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]**.
+   * Selecteer **[!UICONTROL Grid View]** . Dubbelklik in het deelvenster Asset Browse op één element om dit te openen in de gedetailleerde weergave. Selecteer rechts in het deelvenster URL&#39;s en Code insluiten de optie **[!UICONTROL Copy URL]** rechts van de gewenste viewer.
+   * Selecteer **[!UICONTROL Grid View]** . Selecteer in het deelvenster Asset Browse één element en ga vervolgens onder de miniatuurafbeelding naar **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]** .
 
-     Selecteer in de pagina Viewer List onder de kolom Acties van de tabel de optie **[!UICONTROL Copy URL]**.
+     Selecteer **[!UICONTROL Copy URL]** onder de kolom Acties van de tabel op de pagina Viewer List.
 
-   * Selecteren **[!UICONTROL List View]**. Selecteer in het deelvenster Asset Browse één element en ga vervolgens rechts van de miniatuurafbeelding naar **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]**.
+   * Selecteer **[!UICONTROL List View]** . Selecteer in het deelvenster Asset Browse één element en ga vervolgens naar **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]** rechts van de miniatuurafbeelding.
 
-     Selecteer in de pagina Viewer List onder de kolom Acties van de tabel de optie **[!UICONTROL Copy URL]**.
+     Selecteer **[!UICONTROL Copy URL]** onder de kolom Acties van de tabel op de pagina Viewer List.
 
-   * Selecteren **[!UICONTROL Grid View]**, **[!UICONTROL List View]**, of **[!UICONTROL Detail View]**. Ga op dezelfde werkbalk naar **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]**.
+   * Selecteer **[!UICONTROL Grid View]**, **[!UICONTROL List View]** of **[!UICONTROL Detail View]** . Ga op dezelfde werkbalk naar **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]** .
 
-     Selecteer in de pagina Viewer List onder de kolom Acties van de tabel de optie **URL kopiëren**.
+     In de pagina van de Lijst van de Kijker, onder de kolom van Acties van de lijst, selecteer **Exemplaar URL**.
 
 ## ECatalog URLs aan uw Web-pagina toevoegen {#adding-ecatalog-urls-to-your-web-page}
 
 De gemeenschappelijkste manier om een eCatalog op te stellen is een verbinding in de vorm van een de omslagpagina van de eCatalogduimnagel op uw Web-pagina te plaatsen. Werk samen met uw IT-team om ervoor te zorgen dat de eCatalog wordt gestart in een schoon, gecentreerd pop-upvenster. Vraag uw IT-team om de werkbalk en adresbalk in de browser niet weer te geven.
 
-Zie voor meer informatie en codevoorbeelden de [HTML5 eCatalog Viewer insluiten in de Adobe Viewers Reference Guide](https://experienceleague.adobe.com/nl/docs/dynamic-media-developer-resources/library/viewers-aem-assets-dmc/ecatalog/c-html5-20-ecatalog-viewer-about#section-e1c3106f5b3e445d9b95be337c2f94e2).
+Voor meer details en codesteekproeven, zie [ HTML5 eCatalogKijker in de Gids van de Verwijzing van de Kijkers van Adobe ](https://experienceleague.adobe.com/en/docs/dynamic-media-developer-resources/library/viewers-aem-assets-dmc/ecatalog/c-html5-20-ecatalog-viewer-about#section-e1c3106f5b3e445d9b95be337c2f94e2) inbedden.
 
 ## De insluitcode van een eCatalog-viewer kopiëren {#copying-the-embed-code-of-an-ecatalog-viewer}
 
 Met de functie Code insluiten kunt u de viewercode voor de geselecteerde eCatalog controleren. U kunt de code aan het klembord ook kopiëren zodat kunt u het in uw Web-pagina&#39;s voor plaatsing van de kijker kleven. U mag de code niet bewerken in het dialoogvenster Code insluiten.
 
-**De insluitcode van een eCatalog-viewer kopiëren:**
+**om Embed Code van een eCatalog kijker te kopiëren:**
 
-1. Selecteer in de vervolgkeuzelijst Tonen in het deelvenster Middelenbladeren de optie **[!UICONTROL Catalog]**.
+1. Selecteer **[!UICONTROL Catalog]** in de vervolgkeuzelijst Tonen in het deelvenster Asset Browse.
 1. Navigeer in het deelvenster Elementenbibliotheek aan de linkerkant naar de elementenmap die de eCatalog bevat waarvan u de code voor insluiten wilt kopiëren.
 1. Voer boven het deelvenster Asset Browse een van de volgende handelingen uit aan de rechterkant van de werkbalk:
 
-   * Selecteren **[!UICONTROL Grid View]**. Dubbelklik in het deelvenster Asset Browse op één element om dit te openen in de gedetailleerde weergave. Selecteer in het deelvenster URL&#39;s aan de rechterkant de optie **[!UICONTROL Embed Code]**.
-   * Selecteren **[!UICONTROL Grid View]**. Selecteer in het deelvenster Asset Browse één element en ga vervolgens onder de miniatuurafbeelding naar **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]**.
+   * Selecteer **[!UICONTROL Grid View]** . Dubbelklik in het deelvenster Asset Browse op één element om dit te openen in de gedetailleerde weergave. Selecteer **[!UICONTROL Embed Code]** in het deelvenster URL&#39;s aan de rechterkant.
+   * Selecteer **[!UICONTROL Grid View]** . Selecteer in het deelvenster Asset Browse één element en ga vervolgens onder de miniatuurafbeelding naar **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]** .
 
-     Selecteer in de pagina Viewer List onder de kolom Acties van de tabel de optie **[!UICONTROL Embed Code]**.
+     Selecteer **[!UICONTROL Embed Code]** onder de kolom Acties van de tabel op de pagina Viewer List.
 
-   * Selecteren **[!UICONTROL List View]**. Selecteer in het deelvenster Asset Browse één element en ga vervolgens rechts van de miniatuurafbeelding naar **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]**.
+   * Selecteer **[!UICONTROL List View]** . Selecteer in het deelvenster Asset Browse één element en ga vervolgens naar **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]** rechts van de miniatuurafbeelding.
 
-     Selecteer in de pagina Viewer List onder de kolom Acties van de tabel de optie **[!UICONTROL Embed Code]**.
+     Selecteer **[!UICONTROL Embed Code]** onder de kolom Acties van de tabel op de pagina Viewer List.
 
-   * Selecteren **[!UICONTROL Grid View]**, **[!UICONTROL List View]**, of **[!UICONTROL Detail View]**. Ga op dezelfde werkbalk naar **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]**.
+   * Selecteer **[!UICONTROL Grid View]**, **[!UICONTROL List View]** of **[!UICONTROL Detail View]** . Ga op dezelfde werkbalk naar **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]** .
 
-     Selecteer in de pagina Viewer List onder de kolom Acties van de tabel de optie **[!UICONTROL Embed Code]**.
+     Selecteer **[!UICONTROL Embed Code]** onder de kolom Acties van de tabel op de pagina Viewer List.
 
-1. Selecteer in het dialoogvenster Code insluiten **[!UICONTROL Copy to Clipboard]**.
+1. Selecteer **[!UICONTROL Copy to Clipboard]** in het dialoogvenster Code insluiten.
 
    Het bewerken van de code is niet toegestaan in het dialoogvenster Code insluiten.
 
-1. Selecteren **[!UICONTROL Close]**.
+1. Selecteer **[!UICONTROL Close]** .

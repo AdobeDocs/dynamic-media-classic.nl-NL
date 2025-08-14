@@ -19,17 +19,17 @@ ht-degree: 0%
 
 # Primaire afbeeldingen publiceren{#publishing-master-images}
 
-Als u uw afbeeldingsbestanden publiceert, worden deze gepubliceerd naar Dynamic Media Image Servers, waar ze beschikbaar zijn op uw website en toepassing. Bovendien activeert Adobe Dynamic Media Classic tijdens het publicatieproces de URL-tekenreeksen die u nodig hebt voor uw website en toepassing.
+Wanneer u afbeeldingsbestanden publiceert, worden deze gepubliceerd naar Dynamic Media Image Servers, waar ze beschikbaar zijn op uw website en toepassing. Bovendien activeert Adobe Dynamic Media Classic tijdens het publicatieproces de URL-tekenreeksen die u nodig hebt voor uw website en toepassing.
 
 ## Primaire afbeeldingen markeren voor publicatie {#marking-master-images-for-publish}
 
-Primaire afbeeldingen moeten zijn gemarkeerd voor publicatie, zodat ze naar Dynamic Media Image Servers kunnen worden gekopieerd. U kunt uw primaire afbeeldingen voor publicatie markeren in het deelvenster Bladeren door de optie **[!UICONTROL Mark for Publish]** pictogram. U kunt afbeeldingen ook markeren voor publicatie wanneer u ze uploadt naar Adobe Dynamic Media Classic.
+Primaire afbeeldingen moeten zijn gemarkeerd voor publicatie, zodat ze naar Dynamic Media Image Servers kunnen worden gekopieerd. U kunt uw primaire afbeeldingen voor publicatie markeren in het deelvenster Bladeren door het pictogram **[!UICONTROL Mark for Publish]** te selecteren. U kunt afbeeldingen ook markeren voor publicatie wanneer u ze uploadt naar Adobe Dynamic Media Classic.
 
 ## Uw primaire afbeeldingen publiceren {#publishing-your-master-images}
 
-1. Selecteer op de algemene navigatiebalk de optie **[!UICONTROL Publish]**. Selecteer in het dialoogvenster Publiceren de optie Bij (**[!UICONTROL One-Time]** of **[!UICONTROL Recurring]**), voert u desgewenst een naam in voor de publicatietaak
+1. Selecteer **[!UICONTROL Publish]** op de algemene navigatiebalk. Selecteer in het dialoogvenster Publiceren de optie Bij (**[!UICONTROL One-Time]** of **[!UICONTROL Recurring]** ) en voer desgewenst een naam voor de publicatietaak in.
 
-1. Selecteren **[!UICONTROL Submit Publish]**.
+1. Selecteer **[!UICONTROL Submit Publish]** .
 
 >[!NOTE]
 >
@@ -37,4 +37,4 @@ Primaire afbeeldingen moeten zijn gemarkeerd voor publicatie, zodat ze naar Dyna
 
 >[!MORELIKETHIS]
 >
->* [Bestanden publiceren](publishing-files.md#publishing_files)
+>* [ publiceer dossiers ](publishing-files.md#publishing_files)

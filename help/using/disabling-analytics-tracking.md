@@ -19,9 +19,9 @@ ht-degree: 0%
 
 # Adobe Analytics-tracking uitschakelen{#disabling-adobe-analytics-tracking}
 
-**Adobe Analytics-tracking uitschakelen:**
+**om het volgen van Adobe Analytics onbruikbaar te maken:**
 
 1. Schakel alle gebeurtenissen op de Adobe Analytics Configuration-pagina in Adobe Dynamic Media Classic uit.
 1. Opslaan en publiceren.
 
-Met deze stappen schakelt u de ondersteuning voor Adobe Dynamic Media Classic en voor URL&#39;s die zijn verkregen via de **[!UICONTROL CopyURL]** gebruiken. Als u aangepaste tracering implementeert, schakelt u het bijhouden van Adobe Analytics uit zoals ingesteld in de configuratiepagina om conflicten met de aangepaste implementatie te voorkomen.
+Met deze stappen schakelt u de ondersteuning voor Adobe Dynamic Media Classic en voor URL&#39;s die zijn opgehaald uit de functie **[!UICONTROL CopyURL]** uit. Als u aangepaste tracering implementeert, schakelt u het bijhouden van Adobe Analytics uit zoals ingesteld in de configuratiepagina om conflicten met de aangepaste implementatie te voorkomen.

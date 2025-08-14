@@ -17,14 +17,14 @@ ht-degree: 0%
 # Adobe Dynamic Media Classic Guide {#using}
 
 + Upgrade van Dynamic Media Classic naar Dynamic Media {#upgrade}
-   + [Waarom upgraden naar Dynamic Media?](upgrade.md)
+   + [Waarom upgraden naar dynamische media?](upgrade.md)
    + [Veelgestelde vragen over upgrades](upgrade-faq.md)
    + [Vergelijking van lijst met functies](upgrade-feature-comparison.md)
    + [Controlelijst voor gereedheid voor upgrade](upgrade-readiness.md)
 + [Adobe Dynamic Media Classic Guide](home.md)
-+ [Zelfstudie over best practices voor Adobe Dynamic Media Classic](https://experienceleague.adobe.com/nl/docs/experience-manager-learn/dynamic-media-classic-tutorial/overview)
++ [ het Leerprogramma van de Beste praktijken van Adobe Dynamic Media Classic ](https://experienceleague.adobe.com/en/docs/experience-manager-learn/dynamic-media-classic-tutorial/overview)
 + [Aanmelden bij NIEUWE Adobe Dynamic Media Classic nu beschikbaar](new-ui-2020.md)
-+ [Adobe Dynamic Media-nieuwsarchief per Experience League](dynamic-media-newsletter.md)
++ [Adobe Dynamic Media-nieuwsarchief door Experience League](dynamic-media-newsletter.md)
 + Introductie van Adobe Dynamic Media Classic {#intro}
    + [Adobe Dynamic Media Classic Desktop-app: nu beschikbaar](dynamic-media-classic-desktop-app.md)
    + [Informatie over Adobe Dynamic Media Classic Help](introduction.md)
@@ -33,7 +33,7 @@ ht-degree: 0%
    + [Systeemvereisten voor Adobe Dynamic Media Classic-bureaubladtoepassing](system-requirements.md)
    + [Ondersteuning](support.md)
    + [Help voor Adobe Dynamic Media Classic Media Portal](help-dmc-media-portal.md)
-   + [Adobe Training](training-services.md)
+   + [Adobe Training Services](training-services.md)
    + [Veelvoorkomende leerbronnen](popular-resources.md)
    + [Trainingsvideo&#39;s](training-videos.md)
 + Aan de slag {#getting-started}
@@ -64,7 +64,7 @@ ht-degree: 0%
    + [Elementen uploaden en publiceren](about-asset-upload-publish.md)
    + [Bestanden uploaden](uploading-files.md)
    + [Bestanden publiceren](publishing-files.md)
-   + [Dynamic Media-beperkingen](limitations.md)
+   + [Dynamische mediabeperkingen](limitations.md)
    + [Elementen testen voordat ze openbaar worden gemaakt](testing-assets-making-them-public.md)
    + [Taakbestanden controleren](checking-job-files.md)
 + Elementen beheren {#managing-assets}
@@ -98,13 +98,13 @@ ht-degree: 0%
    + [Zoomviewers koppelen aan uw webpagina&#39;s](linking-zoom-viewers-web-pages.md)
 + eCatalogs {#ecatalogs}
    + [Snel starten: eCatalogs](quick-start-ecatalog.md)
-   + [De PDF-bestanden uploaden](uploading-pdf-files.md)
+   + [PDF-bestanden uploaden](uploading-pdf-files.md)
    + [Een eCatalog maken](creating-ecatalog.md)
    + [ECatalog-afbeeldingen met hyperlinks maken](creating-ecatalog-image-maps.md)
    + [Inhoud van deelvenster Info in eCatalogs beheren](info-panel-content-ecatalog.md)
    + [Voorinstellingen eCatalog-viewer instellen](setting-ecatalog-viewer-presets.md)
    + [Voorvertoning van eCatalogi weergeven in de eCatalog-viewer](previewing-ecatalogs-ecatalog-viewer.md)
-   + [E-catalogi en bijbehorende PDF publiceren](publishing-ecatalogs-associated-pdfs.md)
+   + [E-catalogi en bijbehorende PDF&#39;s publiceren](publishing-ecatalogs-associated-pdfs.md)
    + [Een eCatalog aan een Web-pagina koppelen](linking-ecatalog-web-page.md)
 + Afbeeldingssets {#image-sets}
    + [Snel starten: Afbeeldingssets](quick-start-image-sets.md)
@@ -139,7 +139,7 @@ ht-degree: 0%
    + [Inhoudsvariaties beheren](content-variations.md)
 + Video {#video}
    + [Snel starten: Video](quick-start-video.md)
-   + [Tips en trucs: De HTML5-videoviewer gebruiken](best-practice-using-html5-video.md)
+   + [Tips en trucs: De HTML5 Video-viewer gebruiken](best-practice-using-html5-video.md)
    + [Video&#39;s uploaden en coderen](uploading-encoding-videos.md)
    + [Video&#39;s voorvertonen in een videoviewer](previewing-videos-video-viewer.md)
    + [Bijschriften toevoegen aan video](adding-captions-video.md)
@@ -179,7 +179,7 @@ ht-degree: 0%
    + [Een afbeelding verscherpen](sharpening-image.md)
    + [Een afbeelding aanpassen](adjusting-image.md)
    + [Opties voor het perfectioneren van afbeeldingen tijdens het uploaden](image-editing-options-upload.md)
-   + [Werken met PDF](pdfs.md)
+   + [Werken met PDF&#39;s](pdfs.md)
    + [Werken met PSD-bestanden](psd-files.md)
    + [Werken met PostScript- en Illustrator-bestanden](postscript-illustrator-files.md)
    + [Werken met vignetten, vensteromslagen en kabinetsbestanden](vignette-window-covering-cabinet-files.md)

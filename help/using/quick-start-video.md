@@ -12,7 +12,7 @@ topic: Content Management
 level: Beginner
 source-git-commit: 5140b62c76970cfcee271664f11b1ff605625fe7
 workflow-type: tm+mt
-source-wordcount: '1395'
+source-wordcount: '1393'
 ht-degree: 0%
 
 ---
@@ -41,7 +41,7 @@ Adobe Dynamic Media Classic ondersteunt het volgende voor het beheer van afzonde
 
 Zie [ aanpasbare videovoorinstellingen activeren of deactiveren ](/help/using/application-setup.md#activating-or-deactivating-adaptive-video-presets)
 
-Zie ook [ Video vooraf instelt ](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&amp;emailurl=https://s7d5.scene7.com/s7/emailFriend&amp;serverUrl=https://s7d5.scene7.com/is/image/&amp;config=Scene7SharedAssets/Universal_HTML5_Video&amp;contenturl=https://s7d5.scene7.com/skins/&amp;asset=S7tutorials/549_video-presets_converted%20renamed_Done-AVS) opleidingsvideo.
+Zie ook [ Video vooraf instelt ](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&emailurl=https://s7d5.scene7.com/s7/emailFriend&serverUrl=https://s7d5.scene7.com/is/image/&config=Scene7SharedAssets/Universal_HTML5_Video&contenturl=https://s7d5.scene7.com/skins/&asset=S7tutorials/549_video-presets_converted%20renamed_Done-AVS) opleidingsvideo.
 
 Wanneer een adaptieve videoset wordt gegenereerd, bevat deze MP4-video&#39;s.
 
@@ -49,7 +49,7 @@ Wanneer een adaptieve videoset wordt gegenereerd, bevat deze MP4-video&#39;s.
 >
 >De primaire/bronvideo&#39;s en om het even welke andere bronformaatvideo worden *niet* toegevoegd aan een Aangepaste VideoReeks.
 
-* Video ondertiteling in de de kijkers van Univeral_HTML5_Video, Universal_HTML5_MixedMedia_donker, en Universal_HTML5_MixedMedia_light en videohoofdstuknavigatie in Univeral_HTML5_Video, Universal_HTML5_MixedMedia_donker, en Universal_HTML5_MixedMedia_light.
+* Video ondertiteling in de Univeral_HTML5_Video, Universal_HTML5_MixedMedia_donker, en Universal_HTML5_MixedMedia_light kijkers en videohoofdstuknavigatie in de Univeral_HTML5_Video, Universal_HTML5_MixedMedia_donker, en Universal_HTML5_MixedMedia_light kijkers.
 
   Zie [ titels aan een video ](adding-captions-video.md) toevoegen.
 
@@ -60,7 +60,7 @@ Wanneer een adaptieve videoset wordt gegenereerd, bevat deze MP4-video&#39;s.
 
   Adaptieve videostreaming wordt ondersteund op verschillende iOS-platforms.
 
-  Zie de recentste steun in de [ Gids van de Verwijzing van de Kijkers van de Adobe ](https://experienceleague.adobe.com/nl/docs/dynamic-media-developer-resources).
+  Zie de recentste steun in de [ Gids van de Verwijzing van de Kijkers van Adobe ](https://experienceleague.adobe.com/en/docs/dynamic-media-developer-resources).
 
   Adobe Dynamic Media Classic ondersteunt het afspelen van mobiele video voor MP4 H.264-video. <!-- LINK IS 404; NO SUITABLE REPLACEMENT WAS FOUND You can find BlackBerry&reg; devices that support this video format at the following website: -->
 
@@ -79,26 +79,26 @@ Wanneer een adaptieve videoset wordt gegenereerd, bevat deze MP4-video&#39;s.
 * Integreer video op uw website, mobiele site of mobiele toepassing met een eenvoudige URL of Embed Code.
 
 Bekijk de volgende trainingsvideo&#39;s:
-* [ MP4 videooverzicht ](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&amp;emailurl=https://s7d5.scene7.com/s7/emailFriend&amp;serverUrl=https://s7d5.scene7.com/is/image/&amp;config=Scene7SharedAssets/Universal_HTML5_Video&amp;contenturl=https://s7d5.scene7.com/skins/&amp;asset=S7tutorials/563_MP4%20Video%20Overview_converted%20renamed_eVideos-AVS)
+* [ MP4 videooverzicht ](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&emailurl=https://s7d5.scene7.com/s7/emailFriend&serverUrl=https://s7d5.scene7.com/is/image/&config=Scene7SharedAssets/Universal_HTML5_Video&contenturl=https://s7d5.scene7.com/skins/&asset=S7tutorials/563_MP4%20Video%20Overview_converted%20renamed_eVideos-AVS)
 
-* [ MP4 videovoorproef ](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&amp;emailurl=https://s7d5.scene7.com/s7/emailFriend&amp;serverUrl=https://s7d5.scene7.com/is/image/&amp;config=Scene7SharedAssets/Universal_HTML5_Video&amp;contenturl=https://s7d5.scene7.com/skins/&amp;asset=S7tutorials/564_MP4%20Video%20Preview_converted%20renamed_eVideos-AVS)
+* [ MP4 videovoorproef ](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&emailurl=https://s7d5.scene7.com/s7/emailFriend&serverUrl=https://s7d5.scene7.com/is/image/&config=Scene7SharedAssets/Universal_HTML5_Video&contenturl=https://s7d5.scene7.com/skins/&asset=S7tutorials/564_MP4%20Video%20Preview_converted%20renamed_eVideos-AVS)
 
-* [ MP4 video uploadt ](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&amp;emailurl=https://s7d5.scene7.com/s7/emailFriend&amp;serverUrl=https://s7d5.scene7.com/is/image/&amp;config=Scene7SharedAssets/Universal_HTML5_Video&amp;contenturl=https://s7d5.scene7.com/skins/&amp;asset=S7tutorials/565_MP4%20Video%20Upload_converted%20renamed_eVideos-AVS)
+* [ MP4 video uploadt ](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&emailurl=https://s7d5.scene7.com/s7/emailFriend&serverUrl=https://s7d5.scene7.com/is/image/&config=Scene7SharedAssets/Universal_HTML5_Video&contenturl=https://s7d5.scene7.com/skins/&asset=S7tutorials/565_MP4%20Video%20Upload_converted%20renamed_eVideos-AVS)
 
-* [ Streaming overzicht ](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&amp;emailurl=https://s7d5.scene7.com/s7/emailFriend&amp;serverUrl=https://s7d5.scene7.com/is/image/&amp;config=Scene7SharedAssets/Universal_HTML5_Video&amp;contenturl=https://s7d5.scene7.com/skins/&amp;asset=S7tutorials/567_Streaming%20Overview_master_eVideos_converted%20renamed_eVideos-AVS)
+* [ Streaming overzicht ](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&emailurl=https://s7d5.scene7.com/s7/emailFriend&serverUrl=https://s7d5.scene7.com/is/image/&config=Scene7SharedAssets/Universal_HTML5_Video&contenturl=https://s7d5.scene7.com/skins/&asset=S7tutorials/567_Streaming%20Overview_master_eVideos_converted%20renamed_eVideos-AVS)
 
 **Snel Begin**
 
 De volgende stapsgewijze beschrijving van de workflow is ontworpen om u te helpen snel aan de slag te gaan met Adaptive Video Sets in Adobe Dynamic Media Classic. Na elke stap, is er een verwijzing naar een onderwerprubriek waar u meer informatie kunt vinden.
 
-## 1. Video&#39;s uploaden en coderen
+## &#x200B;1. Video&#39;s uploaden en coderen
 
 U kunt adaptieve videosets uploaden en genereren aan de hand van een van de volgende twee scenario&#39;s:
 
 * **upload preencoded video&#39;s**: Als uw video&#39;s reeds extern van Adobe Dynamic Media Classic, op de Globale bar van de Navigatie werden gecodeerd, uitgezochte **[!UICONTROL Upload]**. Blader naar en upload MP4-videobestanden rechtstreeks naar Adobe Dynamic Media Classic. Ga vervolgens naar **[!UICONTROL Build]** > **[!UICONTROL Adaptive Video Sets]** . Blader naar uw videobestanden. Sleep de gewenste videobestanden naar de tabel Adaptive Video Set en sla deze op.
-* **upload primaire bronvideo&#39;s**: Als uw video&#39;s niet worden gecodeerd, op de Globale bar van de Navigatie, selecteer **[!UICONTROL Upload]** om primaire videobrondossiers (niet-MP4) te uploaden. Adobe Dynamic Media Classic codeert ze voor u naar MP4-bestanden. Selecteer **[!UICONTROL Adaptive Video]** onder **[!UICONTROL EVideo Options]** in het dialoogvenster **[!UICONTROL Upload Job Options]** .
+* **upload primaire bronvideo&#39;s**: Als uw video&#39;s niet worden gecodeerd, op de Globale bar van de Navigatie, selecteer **[!UICONTROL Upload]** om primaire videobrondossiers (niet-MP4) te uploaden. Adobe Dynamic Media Classic codeert ze voor u naar MP4-bestanden. Selecteer **[!UICONTROL Upload Job Options]** onder **[!UICONTROL EVideo Options]** in het dialoogvenster **[!UICONTROL Adaptive Video]** .
 
-  Met deze voorkeursoptie kunt u Adaptieve videosets maken. De juiste coderingsvoorinstelling wordt automatisch toegepast op de video, ongeacht of dit 16:9 of 4:3 is, om de afmetingen te laten overeenkomen van de video die u hebt geüpload. Wanneer u de uploadtaak verzendt, wordt automatisch een adaptieve videoset gemaakt die drie coderingsvideo-instellingen in de juiste hoogte-breedteverhouding bevat.
+  Met deze voorkeursoptie kunt u Adaptieve videosets maken. De correcte het coderen vooraf ingestelde wordt automatisch toegepast op de video, of 16 :9 of 4 :3, om de afmetingen van de video te passen u uploadde. Wanneer u de uploadtaak verzendt, wordt automatisch een adaptieve videoset gemaakt die drie coderingsvideo-instellingen in de juiste hoogte-breedteverhouding bevat.
 
   Of vouw in hetzelfde dialoogvenster **[!UICONTROL Job Options]** onder **[!UICONTROL EVideo Options]** uit **[!UICONTROL Single Encoding Presets]** . Selecteer de gewenste voorinstellingen voor videocodering. U kunt **Desktop** selecteren, **Mobiel (iPhone, iPad, Android™)**, en **Tablet (iPad, Android™)** om de MP4 dossiers tot stand te brengen.
 
@@ -114,7 +114,7 @@ Als verdere aanpassingen nodig zijn, kunnen beheerders echter videovoorinstellin
 
 Zie [ Werk met video het coderen voorinstellingen ](uploading-encoding-videos.md#working_with_video_encoding_presets).
 
-## 2. Video&#39;s voorvertonen in een videoviewer
+## &#x200B;2. Video&#39;s voorvertonen in een videoviewer
 
 Als u wilt zien hoe een video wordt afgespeeld voor eindgebruikers op een bureaublad, uw website of een mobiel apparaat, selecteert u de video in het deelvenster Bladeren. Selecteer vervolgens **[!UICONTROL Preview]** .
 
@@ -128,9 +128,9 @@ Aanpassing voorinstelling viewer: Adobe Dynamic Media Classic biedt vooraf gedef
 
 Zie [ Werk met VideoKijker vooraf instelt ](previewing-videos-video-viewer.md#working_with_video_viewer_presets).
 
-Zie ook [ Video vooraf instelt ](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&amp;emailurl=https://s7d5.scene7.com/s7/emailFriend&amp;serverUrl=https://s7d5.scene7.com/is/image/&amp;config=Scene7SharedAssets/Universal_HTML5_Video&amp;contenturl=https://s7d5.scene7.com/skins/&amp;asset=S7tutorials/549_video-presets_converted%20renamed_Done-AVS) opleidingsvideo.
+Zie ook [ Video vooraf instelt ](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&emailurl=https://s7d5.scene7.com/s7/emailFriend&serverUrl=https://s7d5.scene7.com/is/image/&config=Scene7SharedAssets/Universal_HTML5_Video&contenturl=https://s7d5.scene7.com/skins/&asset=S7tutorials/549_video-presets_converted%20renamed_Done-AVS) opleidingsvideo.
 
-## 3. Video&#39;s distribueren naar uw websites en mobiele sites
+## &#x200B;3. Video&#39;s distribueren naar uw websites en mobiele sites
 
 Als u video wilt integreren in uw website, kunt u een van de volgende handelingen uitvoeren:
 

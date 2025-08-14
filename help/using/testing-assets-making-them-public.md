@@ -37,11 +37,11 @@ Maak indien gewenst een testomgeving in plaats van elementen openbaar te maken, 
 
 De meeste bedrijven voeren hun Internet achter een firewall in werking. De toegang tot Internet is mogelijk door bepaalde routes en typisch door een beperkte waaier van openbare IP adressen.
 
-Van uw collectief netwerk, kunt u uw openbaar IP adres uitvinden gebruikend websites zoals [https://www.whatismyip.com](https://www.whatismyip.com/) of vraag deze informatie aan bij uw IT-organisatie van uw bedrijf.
+Van uw collectief netwerk, kunt u uw openbaar IP adres uitvinden gebruikend websites zoals [ https://www.whatismyip.com ](https://www.whatismyip.com/) of om deze informatie van uw collectieve organisatie van IT verzoeken.
 
 Met het Veilige Testen, vestigt Adobe Dynamic Media Classic een specifieke Server van het Beeld voor het opvoeren van milieu&#39;s of interne toepassingen. Om het even welk verzoek aan deze server controleert het oorsprongIP adres. Als het inkomende verzoek niet binnen de goedgekeurde lijst van IP adressen is, is een mislukkingsreactie teruggekeerd. De Beheerder van het Bedrijf van Adobe Dynamic Media Classic vormt de goedgekeurde lijst van IP adressen voor het Veilige Testen van hun bedrijf milieu.
 
-Omdat de plaats van het originele verzoek moet worden bevestigd, wordt het verkeer van de Veilige Testende dienst niet verpletterd door een netwerk van de inhoudsdistributie zoals het openbare verkeer van de Server van het Beeld van Dynamic Media. Verzoeken naar de service Beveiligd testen hebben een iets hogere latentie dan de openbare Dynamic Media Image Servers.
+Omdat de plaats van het originele verzoek moet worden bevestigd, wordt het verkeer van de Veilige Testende dienst niet verpletterd door een netwerk van de inhoudsdistributie zoals het openbare Dynamische verkeer van de Server van het Beeld van Media. Verzoeken naar de service Beveiligd testen hebben een iets hogere latentie dan de openbare Dynamic Media Image Servers.
 
 Niet-gepubliceerde middelen zijn direct beschikbaar bij de services voor het beveiligen van tests, zonder dat ze hoeven te worden gepubliceerd. Op deze manier, kunt u een voorproef in werking stellen alvorens de activa aan hun openbaar onder ogen ziet Server van het Beeld worden gepubliceerd.
 
@@ -102,15 +102,15 @@ Last Modified Date:
 
  -->
 
-1. Neem contact op met de klantenservice van de Adobe en verzoek hen Beveiligingstests op uw account in te schakelen.
-1. Ga in Adobe Dynamic Media Classic op de Global Navigation Bar naar **[!UICONTROL Setup]** > **[!UICONTROL Publish Setup]** > **[!UICONTROL Image Server]**.
-1. Op de pagina van de Server van het Beeld publiceren, in **[!UICONTROL `Publish Context`]** vervolgkeuzelijst, selecteert u **[!UICONTROL Test Image Serving]**.
-1. Voor de Filter van het Adres van de Cliënt, selecteer **[!UICONTROL Add]**.
+1. Neem contact op met de klantenservice van Adobe en vraag of ze Secure Testing voor uw account inschakelen.
+1. Ga in Adobe Dynamic Media Classic op de algemene navigatiebalk naar **[!UICONTROL Setup]** > **[!UICONTROL Publish Setup]** > **[!UICONTROL Image Server]** .
+1. Selecteer **[!UICONTROL `Publish Context`]** in de vervolgkeuzelijst op de pagina Publiceren afbeeldingsserver.**[!UICONTROL Test Image Serving]**
+1. Selecteer **[!UICONTROL Add]** voor het filter Clientadres.
 1. Schakel het selectievakje in zodat het adres is ingeschakeld en typ vervolgens een IP-adres en een netmasker in de desbetreffende tekstvelden.
 
    >[!NOTE]
    >
-   >Als u één enkel IP adres en netto masker toevoegt, kan dat adres activavraag maken. Nochtans, zijn om het even welke andere IP adressen en netmaskers die u toevoegt niet toegestaan om activa te maken vraag. Als dusdanig, denk na onbruikbaar makend (draai weg) de controledoos in de stap hierboven om de capaciteit uit te zetten om een IP adres en een netto masker te specificeren. Zo effectief mogelijk maken *alles* IP adressen om activavraag te maken, en zij allen verschijnen.
+   >Als u één enkel IP adres en netto masker toevoegt, kan dat adres activavraag maken. Nochtans, zijn om het even welke andere IP adressen en netmaskers die u toevoegt niet toegestaan om activa te maken vraag. Als dusdanig, denk na onbruikbaar makend (draai weg) de controledoos in de stap hierboven om de capaciteit uit te zetten om een IP adres en een netto masker te specificeren. Het doen van dit laat *effectief alle* IP adressen toe om activa vraag te maken, en zij verschijnen allen.
 
 1. Voer een van de volgende handelingen uit:
    * Herhaal de vorige twee stappen als u meer IP adressen moet toevoegen.
@@ -118,16 +118,16 @@ Last Modified Date:
 1. Linksonder op de pagina Publiceren afbeeldingsserver selecteert u **[!UICONTROL Save]**
 1. Upload de gewenste afbeeldingen naar uw Adobe Dynamic Media Classic-account.
 
-   Zie [Bestanden uploaden](uploading-files.md#uploading_files).
+   Zie [ dossiers ](uploading-files.md#uploading_files) uploaden.
 
 1. Zorg ervoor dat sommige afbeeldingen zijn gemarkeerd voor publicatie en andere niet zijn gemarkeerd en verzend vervolgens de publicatietaak.
 
-   Zie [Bestanden publiceren](publishing-files.md#publishing_files).
+   Zie [ publiceren dossiers ](publishing-files.md#publishing_files).
 
-1. Bepaal de naam van uw Veilige het Testen dienst door te gaan **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL General Settings]**.
-1. Zoek op de pagina Algemene instellingen van de toepassing de naam rechts van **[!UICONTROL Test Publish Context Server Name]**.
+1. Bepaal de naam van uw service Beveiligd testen via **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL General Settings]** .
+1. Zoek op de pagina Algemene instellingen van toepassing de naam rechts van **[!UICONTROL Test Publish Context Server Name]** onder de groep Servers.
 
-Neem contact op met de Adobe als de servernaam ontbreekt of als de URL&#39;s naar de server niet werken.
+Neem contact op met Adobe Care als de servernaam ontbreekt of als de URL&#39;s naar de server niet werken.
 
 ### Websitevariaties voorbereiden
 

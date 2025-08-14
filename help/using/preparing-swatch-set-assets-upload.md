@@ -12,7 +12,7 @@ topic: Content Management
 level: Intermediate
 source-git-commit: 5b5dcd1199bd51ec987b5673fce75bc86baad55b
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '180'
 ht-degree: 0%
 
 ---
@@ -28,8 +28,8 @@ Als u een stalenset wilt maken, hebt u vignetten of verschillende opnamen van de
 
 Omdat gebruikers kunnen inzoomen op afbeeldingen in stalensets, moet u ervoor zorgen dat de afbeeldingen ten minste 2000 pixels groot zijn. Adobe Dynamic Media Classic ondersteunt veel bestandsindelingen voor afbeeldingen, maar TIFF-, PNG- en EPS-afbeeldingen zonder gegevensverlies worden aanbevolen.
 
-Voor gedetailleerde instructies over het uploaden van elementen raadpleegt u [Bestanden uploaden](uploading-files.md#uploading_files).
+Voor gedetailleerde instructies bij het uploaden van activa, zie [ dossiers ](uploading-files.md#uploading_files) uploaden.
 
 >[!MORELIKETHIS]
 >
->* [Werken met vignetten, vensteromslagen en kabinetsbestanden](vignette-window-covering-cabinet-files.md#working_with_vignette_window_covering_and_cabinet_files)
+>* [ Werk met vignetten, vensterbekledingen, en kabinetsdossiers ](vignette-window-covering-cabinet-files.md#working_with_vignette_window_covering_and_cabinet_files)

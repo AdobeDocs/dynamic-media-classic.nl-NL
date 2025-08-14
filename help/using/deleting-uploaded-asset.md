@@ -18,7 +18,7 @@ ht-degree: 0%
 
 # Een geüpload element verwijderen{#deleting-an-uploaded-asset}
 
-U kunt de `delete` parameter in deze notatie om een element te verwijderen:
+U kunt de parameter `delete` in deze notatie gebruiken om een element te verwijderen:
 
 ```as3
 https://s7ugc1.scene7.com/ugc/image?op=delete&shared_secret=fece4b21-87ee-47fc-9b99-2e29b78b602&image_name=1442564.tif
@@ -54,13 +54,13 @@ U kunt de volgende velden in de URL-queryreeks gebruiken om een element te verwi
 
 >[!IMPORTANT]
 >
->Vanaf 1 mei 2023 zijn UGC-middelen in Dynamic Media beschikbaar voor gebruik tot 60 dagen na de uploaddatum. Na 60 dagen worden de middelen verwijderd.
+>Vanaf 1 mei 2023 zijn UGC-elementen in Dynamic Media beschikbaar voor gebruik tot 60 dagen na de datum van uploaden. Na 60 dagen worden de middelen verwijderd.
 
 >[!NOTE]
 >
 >De ondersteuning voor nieuwe of bestaande UGC-vectorafbeeldingselementen in Adobe Dynamic Media Classic is afgelopen op 30 september 2021.
 
-**URL van voorbeeldafbeelding:**
+**beeld URL van de steekproef:**
 
 `https://s7ugc1.scene7.com/ugc/image?op=delete&shared_secret=fece4b21-87ee-47fc-9b99-2e29b78b602&image_name=1442564.tif`
 

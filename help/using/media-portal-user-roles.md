@@ -21,11 +21,11 @@ ht-degree: 0%
 
 Het Portaal van media verstrekt de volgende rollen, elk met verschillende toegangsrechten en toestemmingen. Wanneer u een gebruiker aanmeldt, wijst u de gebruiker een van de volgende rollen toe:
 
-* **[!UICONTROL Media Portal Administrator]**: Kan beheerders, contribuanten en gebruikers toevoegen en verwijderen. De beheerder kan ook toegangsrechten voor groepen instellen, FTP-accounts beheren, door een bedrijf goedgekeurde conversie-indelingen (voorinstellingen) toewijzen, e-mail naar gebruikers van het Media Portal verzenden en het gebruik en de opslagrapportage van het portaal weergeven.
+* **[!UICONTROL Media Portal Administrator]**: kan beheerders, contribuanten en gebruikers toevoegen en verwijderen. De beheerder kan ook toegangsrechten voor groepen instellen, FTP-accounts beheren, door een bedrijf goedgekeurde conversie-indelingen (voorinstellingen) toewijzen, e-mail naar gebruikers van het Media Portal verzenden en het gebruik en de opslagrapportage van het portaal weergeven.
 
 * **[!UICONTROL Media Portal User]**: heeft toegang tot mappen en bestanden. Een gebruiker kan alleen door bestanden bladeren, deze voorvertonen en downloaden. Deze rol is geschikt voor kanaal of de dienstpartners die toegang tot uw collectief-goedgekeurde activa nodig hebben.
 
-* **[!UICONTROL Media Portal Contributor]**: Kan bestanden en metagegevens uploaden, voorvertonen en doorbladeren in gebieden waarvoor een beheerder machtigingen heeft verleend. Een contribuant kan geen bestanden downloaden. Medewerkers kunnen metagegevens bewerken, de namen van bestanden wijzigen, bestanden naar andere mappen verplaatsen en bestanden verwijderen.
+* **[!UICONTROL Media Portal Contributor]**: kan bestanden en metagegevens uploaden, voorvertonen en doorbladeren in gebieden waarvoor een beheerder machtigingen heeft verleend. Een contribuant kan geen bestanden downloaden. Medewerkers kunnen metagegevens bewerken, de namen van bestanden wijzigen, bestanden naar andere mappen verplaatsen en bestanden verwijderen.
 
 * **[!UICONTROL Media Portal Contributor-User]**: heeft toegang tot mappen en bestanden. Een gebruiker van de contribuant kan door afbeeldingen en metagegevens bladeren, deze voorvertonen, downloaden en uploaden. Gebruikers van Contribute kunnen de namen van bestanden wijzigen, bestanden naar andere mappen verplaatsen en bestanden verwijderen.
 

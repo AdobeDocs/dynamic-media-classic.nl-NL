@@ -26,7 +26,7 @@ Voordat u elementen uploadt naar Adobe Dynamic Media Classic, moet u controleren
 
 ### Ondersteunde bestandsindelingen {#supported-asset-file-formats}
 
-In deze tabel worden de bestandsindelingen weergegeven die door Adobe Dynamic Media Classic worden ondersteund. Voor informatie over gesteunde dossiers van Camera Raw, zie [ https://helpx.adobe.com/nl/camera-raw/using/supported-cameras.html ](https://helpx.adobe.com/nl/camera-raw/using/supported-cameras.html).
+In deze tabel worden de bestandsindelingen weergegeven die door Adobe Dynamic Media Classic worden ondersteund. Voor informatie over gesteunde dossiers van Camera Raw, zie [ https://helpx.adobe.com/camera-raw/using/supported-cameras.html ](https://helpx.adobe.com/camera-raw/using/supported-cameras.html).
 
 | Indelingen voor elementbestanden | Beschrijving |
 | --- | --- |
@@ -162,7 +162,7 @@ Met de Adobe Dynamic Media Classic Desktop-toepassing kunt u bestanden en mappen
 1. Selecteer **[!UICONTROL Upload]** in de Adobe Dynamic Media Classic Desktop-toepassing op de algemene navigatiebalk.
 1. Selecteer op de pagina Uploaden de tab **[!UICONTROL From Desktop]** .
 1. Selecteer links op de pagina Uploaden in het gebied **[!UICONTROL Select Files for Upload]** de optie **[!UICONTROL Browse]** om de bestanden of mappen te selecteren die u wilt uploaden, en selecteer vervolgens **[!UICONTROL Open]** .
-1. Op de rechterkant van de Upload pagina, in het gekozen **gebied van de Bestemming van de 1&rbrace; omslag, navigeer aan een bestemmingsomslag waar u de geuploade dossiers of toegevoegde omslagen wilt.**
+1. Op de rechterkant van de Upload pagina, in het gekozen **gebied van de Bestemming van de 1} omslag, navigeer aan een bestemmingsomslag waar u de geuploade dossiers of toegevoegde omslagen wilt.**
 1. (Optioneel) Voer onder aan de pagina Uploaden in het tekstveld Taaknaam de nieuwe naam van de uploadtaak in. U kunt ook gewoon de standaardnaam gebruiken die door het systeem wordt gegenereerd en die door Adobe Dynamic Media Classic wordt opgegeven. Upload- en publicatietaken worden opgenomen op de pagina Taken, waar u de status van taken kunt controleren. Zie [ Controlerend baandossiers ](checking-job-files.md#checking_job_files).
 1. (Optioneel) Selecteer **[!UICONTROL Publish After Uploading]** onder aan de pagina Uploaden, zodat u de elementen die u uploadt automatisch kunt publiceren.
 Wanneer u bestanden publiceert, worden deze naar live servers verzonden. URL&#39;s voor deze bestanden kunnen vervolgens worden gebruikt op externe websites en toepassingen. Deze optie is ook beschikbaar in het dialoogvenster Taakopties.
@@ -267,7 +267,7 @@ Zie [ Werk met video het coderen voorinstellingen ](uploading-encoding-videos.md
 
 * **Meer Meta-gegevens**: Ga sleutelwoorden in die de dossiers beschrijven u van plan bent te uploaden. Trefwoorden worden door komma&#39;s van elkaar gescheiden. Met trefwoorden kunt u gemakkelijker naar elementen zoeken.
 Zie [ een geavanceerd onderzoek ](searching-assets.md#conducting_an_advanced_search) voeren.
-Zie ook [ sleutelwoorden ](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&amp;emailurl=https://s7d5.scene7.com/s7/emailFriend&amp;serverUrl=https://s7d5.scene7.com/is/image/&amp;config=Scene7SharedAssets/Universal_HTML5_Video&amp;contenturl=https://s7d5.scene7.com/skins/&amp;asset=S7tutorials/548_upload-keywords_converted%20renamed_Done-AVS) opleidingsvideo uploaden.
+Zie ook [ sleutelwoorden ](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&emailurl=https://s7d5.scene7.com/s7/emailFriend&serverUrl=https://s7d5.scene7.com/is/image/&config=Scene7SharedAssets/Universal_HTML5_Video&contenturl=https://s7d5.scene7.com/skins/&asset=S7tutorials/548_upload-keywords_converted%20renamed_Done-AVS) opleidingsvideo uploaden.
 
 * **de Reeks van de Partij stelt vooraf in**: Om een Reeks van het Beeld, Reeks van de Rotatie, of Reeks van het Monster van de geupload dossiers tot stand te brengen, selecteer de **[!UICONTROL Active]** kolom voor vooraf ingesteld u wilt gebruiken. U kunt meerdere voorinstellingen selecteren. U kunt de voorinstellingen maken op de pagina Voorinstellingen voor toepassingsinstellingen/batchsets.
 Zie [ Reeks van de Partij vooraf instelt ](application-setup.md#batch_set_presets).

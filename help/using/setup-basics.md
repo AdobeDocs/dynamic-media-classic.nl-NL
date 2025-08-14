@@ -19,22 +19,22 @@ ht-degree: 0%
 
 # Basisbeginselen van instellingen{#setup-basics}
 
-Gebruik de pagina Adobe Dynamic Media Classic Setup om uw persoonlijke instellingen in te voeren. Als u een beheerder bent, opstelling uw bedrijfmontages. Om een pagina van de Opstelling, op de Globale bar van de Navigatie te openen, selecteer **[!UICONTROL Setup]**.
+Gebruik de pagina Adobe Dynamic Media Classic Setup om uw persoonlijke instellingen in te voeren. Als u een beheerder bent, opstelling uw bedrijfmontages. Als u een instellingspagina wilt openen, selecteert u **[!UICONTROL Setup]** op de algemene navigatiebalk.
 
 Welke instellingen beschikbaar zijn op deze pagina, is afhankelijk van uw status als gebruiker of beheerder:
 
-* Gebruikers hebben alleen toegang **[!UICONTROL Personal Setup]** en de rekeningen van de vennootschappen waarvan zij lid zijn; zij kunnen geen administratieve taken verrichten.
-* Beheerders hebben toegang tot **[!UICONTROL Personal Setup]** en hun eigen bedrijfsrekeningen te bekijken en te beheren. Zij kunnen alle functies van de toepassingsopstelling, en alle beleidsfuncties, met inbegrip van het toevoegen van beheerders en gebruikers ook uitvoeren.
+* Gebruikers hebben alleen toegang tot **[!UICONTROL Personal Setup]** en de accounts van bedrijven waarbij ze lid zijn. Ze kunnen geen beheertaken uitvoeren.
+* Beheerders hebben toegang tot **[!UICONTROL Personal Setup]** en kunnen hun eigen bedrijfsaccounts bekijken en beheren. Zij kunnen alle functies van de toepassingsopstelling, en alle beleidsfuncties, met inbegrip van het toevoegen van beheerders en gebruikers ook uitvoeren.
 
-Beheerders kunnen ook voorinstellingen voor afbeeldingen en viewers instellen in het dialoogvenster **[!UICONTROL Setup]** pagina:
+Beheerders kunnen ook voorinstellingen voor afbeeldingen en viewers instellen op de pagina **[!UICONTROL Setup]** :
 
-* **Voorinstellingen afbeelding**: Voorinstellingen voor afbeeldingen zijn opgeslagen indelingen voor de weergave van primaire afbeeldingen in verschillende formaten en formaten.
+* **Beeld stelt** vooraf in: Het beeld stelt formaten voor voor het tonen van primaire beelden bij verschillende grootte en formaten vooraf in.
 
-* **Viewer-voorinstellingen**: Viewer-voorinstellingen bepalen hoe rijke media worden weergegeven in een viewer.
+* **de Kijker stelt vooraf in**: De kijker bepaalt vooraf instelt hoe u uw rijke media ziet wanneer u het in een kijker ziet.
 
 >[!MORELIKETHIS]
 >
->* [Video over basisinstallatietraining](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&amp;emailurl=https://s7d5.scene7.com/s7/emailFriend&amp;serverUrl=https://s7d5.scene7.com/is/image/&amp;config=Scene7SharedAssets/Universal_HTML5_Video&amp;contenturl=https://s7d5.scene7.com/skins/&amp;asset=S7tutorials/573_Setup%20Basics_converted%20renamed_Getting%20Started-AVS)
->* [Adobe Dynamic Media Classic-gebruikersrollen en -rechten](administration-setup.md#user_administration)
->* [Voorinstellingen afbeelding](application-setup.md#image_presets)
->* [Viewer-voorinstellingen](application-setup.md#viewer_presets)
+>* [ Basisopstelling trainende video ](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&emailurl=https://s7d5.scene7.com/s7/emailFriend&serverUrl=https://s7d5.scene7.com/is/image/&config=Scene7SharedAssets/Universal_HTML5_Video&contenturl=https://s7d5.scene7.com/skins/&asset=S7tutorials/573_Setup%20Basics_converted%20renamed_Getting%20Started-AVS)
+>* [ Adobe Dynamic Media Classic gebruikersrollen en voorrechten ](administration-setup.md#user_administration)
+>* [ Beeld stelt ](application-setup.md#image_presets) vooraf in
+>* [ Kijker stelt vooraf in ](application-setup.md#viewer_presets)

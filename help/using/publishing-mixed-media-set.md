@@ -23,11 +23,11 @@ Maak een publicatietaak om een gemengde mediaset te publiceren die u hebt gemark
 
 >[!NOTE]
 >
->Voor gemengde mediasets moet u publiceren naar **Videoserver** en ook **Afbeeldingsserver**. Gebruiken **Videoserver** om de daadwerkelijke video&#39;s te publiceren die u hebt gemarkeerd voor publicatie. En u gebruikt **Afbeeldingsserver** om gerelateerde elementen te publiceren, zoals de videominiaturen, en informatie in te stellen voor elke adaptieve videoset.
+>De gemengde Reeksen van Media vereisen dat u aan **VideoServer** publiceert en ook aan **de Server van het Beeld**. De Server van het gebruik **Video** om de daadwerkelijke video&#39;s te publiceren die u voor het publiceren merkte. En, gebruikt u {de Server van het Beeld 0} **om verwante activa, zoals de videoduimnagels, te publiceren en informatie voor om het even welke Aangepaste VideoReeks te plaatsen.**
 
 Adobe Dynamic Media Classic houdt publicatietaken bij in het scherm Taken.
 
-Zie [Publiceren](publishing-files.md#publishing_files).
+Zie [ het Publiceren ](publishing-files.md#publishing_files).
 
 <!-- 
 
@@ -39,24 +39,24 @@ Last Modified Date:
 
  -->
 
-**Een gemengde mediaset publiceren:**
+**om een Gemengde Reeks van Media te publiceren:**
 
 1. Voer een van de volgende handelingen uit:
 
    * Selecteer in het deelvenster Bladeren de optie **[!UICONTROL Mark For Publish]** naast elke bestandsnaam die u wilt publiceren.
    * Selecteer in het scherm Uploaden de optie **[!UICONTROL Mark For Publish]** naast elke bestandsnaam die u wilt publiceren.
 
-1. Selecteer op de algemene navigatiebalk de optie **[!UICONTROL Publish]**.
+1. Selecteer **[!UICONTROL Publish]** op de algemene navigatiebalk.
 1. Stel de gewenste planningsopties in.
-1. (Optioneel) In het dialoogvenster **[!UICONTROL Job Name]** veld, typt u een naam voor de publicatietaak.
-1. In de **[!UICONTROL Advanced]** opties, in de **[!UICONTROL Publish To]** vervolgkeuzelijst, selecteert u **[!UICONTROL Video Server]**.
+1. (Optioneel) Typ in het veld **[!UICONTROL Job Name]** een naam voor de publicatietaak.
+1. Selecteer **[!UICONTROL Advanced]** in de **[!UICONTROL Publish To]** -opties in de vervolgkeuzelijst **[!UICONTROL Video Server]** .
 
-   Zie [Geavanceerde publicatieopties](publishing-files.md#advanced_publish_options) voor meer opties kunt u instellen.
+   Zie [ Geavanceerde publicatieopties ](publishing-files.md#advanced_publish_options) voor meer opties u kunt plaatsen.
 
-1. Selecteren **[!UICONTROL Submit Publish]**.
+1. Selecteer **[!UICONTROL Submit Publish]** .
 1. Herhaal bovenstaande stappen 2-4.
-1. In **[!UICONTROL Advanced]** in de **[!UICONTROL Publish To]** vervolgkeuzelijst, selecteert u **[!UICONTROL Image Server]**.
+1. Selecteer **[!UICONTROL Advanced]** in **[!UICONTROL Publish To]** in de vervolgkeuzelijst **[!UICONTROL Image Server]** .
 
-   Zie [Geavanceerde publicatieopties](publishing-files.md#advanced_publish_options) voor meer opties kunt u instellen.
+   Zie [ Geavanceerde publicatieopties ](publishing-files.md#advanced_publish_options) voor meer opties u kunt plaatsen.
 
-1. Selecteren **[!UICONTROL Submit Publish]**.
+1. Selecteer **[!UICONTROL Submit Publish]** .

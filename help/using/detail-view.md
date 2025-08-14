@@ -31,8 +31,8 @@ Last Modified Date: 2018-06-14T13:52:46.623-0400
 
  -->
 
-![Gedetailleerde weergave](/help/using/assets/image_0.img.png)
-*Gedetailleerde weergave waarbij het deelvenster Middelenbibliotheek verborgen is voor weergave aan de linkerkant.*
+![ de Mening van het Detail ](/help/using/assets/image_0.img.png)
+*Gedetailleerde Mening met het paneel van de Bibliotheek van Activa verborgen van mening op de linkerkant.*
 
 >[!NOTE]
 >
@@ -44,13 +44,13 @@ U kunt een element weergeven in de gedetailleerde weergave, zodat u het element 
 
 1. Voer in het deelvenster Bladeren een van de volgende handelingen uit:
 
-   * Selecteer het element. Selecteer in de rechterbovenhoek van de Adobe Dynamic Media Classic de optie **[!UICONTROL Detail View]** pictogram.
+   * Selecteer het element. Selecteer in de rechterbovenhoek van de Adobe Dynamic Media Classic het pictogram **[!UICONTROL Detail View]** .
    * Dubbelklik op het element.
-   * Selecteer het element en ga naar **[!UICONTROL File]** > **[!UICONTROL Details]**.
+   * Selecteer het element en ga vervolgens naar **[!UICONTROL File]** > **[!UICONTROL Details]** .
 
 >[!NOTE]
 >
->In de gedetailleerde weergave kunt u van middel naar middel in dezelfde map pagineren. Alleen klikken **[!UICONTROL Previous Asset]** of **[!UICONTROL Next Asset]**. Deze knoppen bevinden zich in de rechterbovenhoek in de gedetailleerde weergave.
+>In de gedetailleerde weergave kunt u van middel naar middel in dezelfde map pagineren. Klik gewoon op **[!UICONTROL Previous Asset]** of **[!UICONTROL Next Asset]** . Deze knoppen bevinden zich in de rechterbovenhoek in de gedetailleerde weergave.
 
 ## Gegevens ophalen in de gedetailleerde weergave {#getting-information-in-detail-view}
 
@@ -62,15 +62,15 @@ U kunt een middel-URL in de Gedetailleerde Mening verkrijgen; nochtans, is URL n
 
 In de gedetailleerde weergave vindt u gereedschappen voor het werken met het element dat u hebt geopend. Welke hulpmiddelen beschikbaar zijn hangt van het type van activa af u met werkt, maar de Mening van het Detail biedt altijd deze functies aan:
 
-* **te publiceren items**: Selecteer de **[!UICONTROL `Publish`]** links van de naam, of ga naar **[!UICONTROL File]** > **[!UICONTROL Publish]** of **[!UICONTROL File]** > **[!UICONTROL Unpublish]**.
+* **punten voor publiceren**: Selecteer het **[!UICONTROL `Publish`]** pictogram links van de naam, of ga naar **[!UICONTROL File]** > **[!UICONTROL Publish]** of **[!UICONTROL File]** > **[!UICONTROL Unpublish]**.
 
-* **De naam van het element wijzigen**: Selecteer de naam en voer een nieuwe naam in.
+* **noem activa** anders: Selecteer de naam en ga een nieuwe naam in.
 
-* **Metagegevens bewerken en toevoegen**: Selecteer het deelvenster Metagegevens en wijzig deze naar wens. Zie [Metagegevens weergeven, toevoegen en exporteren](/help/using/viewing-adding-exporting-metadata.md).
+* **geef en voeg meta-gegevens** uit: Selecteer het paneel van Meta-gegevens en verander zoals gewenst. Zie [ Mening, voeg, en de uitvoermeta-gegevens ](/help/using/viewing-adding-exporting-metadata.md) toe.
 
-* **Trefwoorden bewerken en toevoegen**: Selecteer Trefwoorden en voeg deze toe of verwijder ze naar wens. Zie [Trefwoorden toevoegen of bewerken](/help/using/viewing-adding-exporting-metadata.md).
+* **geef en voeg sleutelwoorden** uit: Selecteer Trefwoorden en voeg of verwijder hen toe zoals gewenst. Zie [ sleutelwoorden ](/help/using/viewing-adding-exporting-metadata.md) toevoegen of uitgeven.
 
-* **Het element verwijderen**: Ga naar **[!UICONTROL File]** > **[!UICONTROL Delete]**.
+* **Schrap de activa**: Ga naar **[!UICONTROL File]** > **[!UICONTROL Delete]**.
 
 Voor afzonderlijke bestanden, zoals afbeeldingen, afbeeldingssets en lettertypen, kunt u de publicatie- en bewerkingshistorie weergeven en taakdetails controleren in de gedetailleerde weergave.
 
@@ -78,25 +78,25 @@ In deze tabel wordt aangegeven welke andere opties beschikbaar zijn voor verschi
 
 | Type element | Bewerken/aanpassen | Voorvertoning |
 | --- | --- | --- |
-| Afbeeldingen | Afbeeldingen met hyperlinks toevoegen<br>Zoomdoelen toevoegen<br>Uitsnijden<br>Verscherpen<br>Aangepaste weergaven maken | Ja; voorinstellingen voor zoomen en afbeeldingen |
+| Afbeeldingen | Voeg de Kaarten van het Beeld toe <br> Zoomdoelen <br> Gewas <br> <br> creeert aangepaste meningen verscherpt | Ja; voorinstellingen voor zoomen en afbeeldingen |
 | Afbeeldingen in behuizing en venster | Nee | Miniatuur |
-| eCatalogs | Bewerken | Ja<br>Deelvenster Info is ook beschikbaar |
+| eCatalogs | Bewerken | Ja <br> het Comité van Info is ook beschikbaar |
 | Lettertypen | Lettertypegegevens bewerken | Nee |
 | FXG-bestanden | Bewerken | Ja |
 | ICC-profielen | Profielgegevens bewerken | Nee |
 | Illustrator-bestanden | Nee (tenzij omgezet in FXG) | Nee |
 | Afbeeldingssets | Bewerken | Ja |
-| InDesigns | Nee (tenzij omgezet in FXG) | Nee |
+| InDesign-bestanden | Nee (tenzij omgezet in FXG) | Nee |
 | PDF-bestanden | Nee | Nee |
 | PSD-bestanden | Ja voor afzonderlijke lagen | Ja voor afzonderlijke lagen |
 | Sets draaien | Bewerken | Ja |
 | SVG-bestanden | Nee | Nee |
 | Sjablonen | Bewerken | Ja |
 | Video&#39;s | Nee | Ja |
-| Vignetten en gerenderde vignetten | Nee | De afbeelding wordt weergegeven<br>U kunt de inhoud en structuur van de renderbare elementen van het vignet in XML-indeling bekijken |
+| Vignetten en gerenderde vignetten | Nee | Het beeld wordt getoond <br> u kan de inhoud en de structuur van de renderable elementen van het vignet in formaat bekijken XML |
 | XML-bestanden | Nee | Inhoud wordt weergegeven |
 | ZIP-bestanden | Nee | Inhoud wordt niet weergegeven |
 
 >[!MORELIKETHIS]
 >
->* [Metagegevens weergeven, toevoegen en exporteren](viewing-adding-exporting-metadata.md#viewing_adding_and_exporting_metadata)
+>* [ Mening, voeg, en de uitvoermeta-gegevens toe ](viewing-adding-exporting-metadata.md#viewing_adding_and_exporting_metadata)

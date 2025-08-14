@@ -23,17 +23,17 @@ ht-degree: 0%
 
 Controleer of u het volgende hebt voordat u de Adobe Dynamic Media Classic-bureaubladtoepassing gebruikt:
 
-* **Gebruikersnaam**: U gebruikt uw e-mailadres als uw aanmeldingsnaam.
+* **Naam van de Gebruiker**: U gebruikt uw e-mailadres als uw login naam.
 
-* **Wachtwoord**: U krijgt uw tijdelijke wachtwoord via een welkomstmail van Adobe Dynamic Media Classic of van uw Adobe Dynamic Media Classic-beheerder. De eerste keer dat u zich aanmeldt, wordt u gevraagd dit tijdelijke wachtwoord te wijzigen.
+* **Wachtwoord**: U verkrijgt uw tijdelijk wachtwoord in een &quot;Welkome&quot;e-mail van Adobe Dynamic Media Classic of van uw beheerder van Adobe Dynamic Media Classic. De eerste keer dat u zich aanmeldt, wordt u gevraagd dit tijdelijke wachtwoord te wijzigen.
 
 1. Open Adobe Dynamic Media Classic-bureaubladtoepassing.
 
-   ![Aanmelden bij Adobe Dynamic Media Classic](/help/using/assets/dmclassic-login1.png)
+   ![ Adobe Dynamic Media Classic teken binnen ](/help/using/assets/dmclassic-login1.png)
 
-1. In de **[!UICONTROL User Name]** voert u uw e-mailadres in.
-1. In de **[!UICONTROL Password]** veld, typt u het wachtwoord.
-1. In de **[!UICONTROL Server]** Selecteer een server.
+1. Voer in het veld **[!UICONTROL User Name]** uw e-mailadres in.
+1. Typ het wachtwoord in het veld **[!UICONTROL Password]** .
+1. Selecteer een server in de vervolgkeuzelijst **[!UICONTROL Server]** .
 Gebruik de volgende afbeelding om de productieomgeving te selecteren die u wilt gebruiken.
 
    | URL browser | Servernaam bureaubladtoepassing |
@@ -42,12 +42,12 @@ Gebruik de volgende afbeelding om de productieomgeving te selecteren die u wilt 
    | https://s7sps3.scene7.com/ | Productie EMEA (Europa, Midden-Oosten en Afrika) |
    | https://s7sps5.scene7.com/ | APAC-productie (Azië-Stille Oceaan) |
 
-1. Selecteren **[!UICONTROL Sign in]**.
+1. Selecteer **[!UICONTROL Sign in]** .
 
 ## Afmelden bij Adobe Dynamic Media Classic {#dmc-sign-out}
 
-1. Selecteer in de rechterbovenhoek van de Adobe Dynamic Media Classic-bureaubladtoepassing de optie **[!UICONTROL Sign out]** en selecteer vervolgens **[!UICONTROL Sign out]** opnieuw.
+1. Selecteer **[!UICONTROL Sign out]** in de rechterbovenhoek van de Adobe Dynamic Media Classic-bureaubladtoepassing en selecteer vervolgens nogmaals **[!UICONTROL Sign out]** .
 
 >[!MORELIKETHIS]
 >
->* [Persoonlijke instelling](personal-setup.md#personal_setup)
+>* [ Persoonlijke Opstelling ](personal-setup.md#personal_setup)

@@ -21,25 +21,25 @@ ht-degree: 0%
 
 In het scherm Viewer List kunt u een voorvertoning van afbeeldingen weergeven met verschillende voorinstellingen voor de zoomviewer.
 
-Zie [Standaardviewers configureren](application-setup.md#configuring_default_viewers).
+Zie [ standaardkijkers ](application-setup.md#configuring_default_viewers) vormen.
 
-Zie [Een voorvertoning van een element weergeven](previewing-asset.md#previewing_an_asset).
+Zie [ Voorproef een activa ](previewing-asset.md#previewing_an_asset).
 
-**Een voorvertoning weergeven van afbeeldingselementen met verschillende zoomviewers:**
+**aan voorproef beeldactiva met verschillende Kijkers van het Gezoem:**
 
 1. Selecteer in het deelvenster Elementenbibliotheek aan de linkerkant in de vervolgkeuzelijst Tonen een op afbeeldingen gebaseerd elementtype, zoals Afbeelding of Afbeeldingsset.
 1. Navigeer in het deelvenster Elementenbibliotheek aan de linkerkant naar de mappen Middelen die afbeeldingen bevatten die u wilt voorvertonen met een zoomviewer.
 1. Voer een van de volgende handelingen uit:
 
-   * Selecteer boven het middelenvenster rechts op de werkbalk de optie **[!UICONTROL Grid View]**. Ga in het venster Middelen onder de miniatuurafbeelding naar **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]**.
-   * Selecteer boven het middelenvenster rechts op de werkbalk de optie **[!UICONTROL List View]**. Selecteer een element in het venster Element en ga vervolgens naar **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]**.
-   * Selecteer boven het middelenvenster rechts op de werkbalk de optie **[!UICONTROL Detail View]**. Ga op dezelfde werkbalk naar **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]**.
+   * Selecteer **[!UICONTROL Grid View]** boven het Assets-venster rechts op de werkbalk. Ga in het venster Middelen onder de miniatuurafbeelding naar **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]** .
+   * Selecteer **[!UICONTROL List View]** boven het Assets-venster rechts op de werkbalk. Selecteer een element in het venster Element en ga vervolgens naar **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]** rechts van de miniatuurafbeelding.
+   * Selecteer **[!UICONTROL Detail View]** boven het Assets-venster rechts op de werkbalk. Ga op dezelfde werkbalk naar **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]** .
 
 1. Selecteer in het venster Viewer List in de tabel een viewerkoppeling om een voorvertoning van het element weer te geven in de geselecteerde viewer.
 1. Sluit de weergegeven viewer.
-1. Selecteer in de rechterbenedenhoek van het venster Viewer List de optie **[!UICONTROL Close]** om terug te keren naar het scherm Middelen.
+1. Selecteer **[!UICONTROL Close]** in de rechterbenedenhoek van het venster Viewer List om terug te keren naar het Assets-scherm.
 
 >[!MORELIKETHIS]
 >
->* [Voorinstellingen Zoomviewer instellen](setting-zoom-viewer-presets.md#setting_up_zoom_viewer_presets)
->* [Standaardviewers configureren](application-setup.md#configuring_default_viewers)
+>* [ de Kijker van het Pop-up Gezoem vooraf instelt ](setting-zoom-viewer-presets.md#setting_up_zoom_viewer_presets)
+>* [ vorm standaardkijkers ](application-setup.md#configuring_default_viewers)

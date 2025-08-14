@@ -1,6 +1,6 @@
 ---
-title: De PDF-bestanden uploaden
-description: Leer hoe u de PDF-bestanden die aan een eCatalog zijn gekoppeld, uploadt naar Adobe Dynamic Media Classic.
+title: PDF-bestanden uploaden
+description: Leer hoe u de PDF-bestanden uploadt die aan een eCatalog in Adobe Dynamic Media Classic zijn gekoppeld.
 contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
@@ -16,60 +16,60 @@ ht-degree: 0%
 
 ---
 
-# De PDF-bestanden uploaden{#uploading-the-pdf-files}
+# PDF-bestanden uploaden{#uploading-the-pdf-files}
 
-Adobe PDF-bestanden zijn doorgaans de bron voor een eCatalog. Deze bestanden bevatten alle afbeeldingsgegevens, lettertypen en vectorafbeeldingen. U kunt ook een eCatalog met afbeeldingen maken. Nadat u de PDF-bestanden hebt voorbereid voor uploaden, selecteert u op de algemene navigatiebalk de optie **[!UICONTROL Upload]** om te beginnen met het uploaden van de PDF.
+Adobe PDF-bestanden zijn doorgaans de bron voor een eCatalog. Deze bestanden bevatten alle afbeeldingsgegevens, lettertypen en vectorafbeeldingen. U kunt ook een eCatalog met afbeeldingen maken. Nadat u de PDF-bestanden hebt voorbereid voor uploaden, selecteert u op de algemene navigatiebalk **[!UICONTROL Upload]** om de PDF&#39;s te uploaden.
 
-Wanneer u een PDF uploadt voor pagina-extractie, wordt de volgende limiet aangehouden door de Adobe:
+Wanneer u een PDF uploadt voor het uitnemen van pagina&#39;s, past Adobe de volgende limiet toe:
 
-| Type PDF-limiet | Oplegde limiet | Wijziging tot limiet op 31 december 2022 |
+| PDF-limiettype | Oplegde limiet | Wijziging tot limiet op 31 december 2022 |
 | --- | --- | --- |
-| Maximumaantal pagina&#39;s voor een PDF dat voor extractie in aanmerking komt | 5000 (voor nieuwe uploads) | 100 (voor alle PDF) |
+| Maximumaantal pagina&#39;s voor een PDF dat in aanmerking komt voor extractie | 5000 (voor nieuwe uploads) | 100 (voor alle PDF&#39;s) |
 
-Zie ook [Dynamic Media-beperkingen](/help/using/limitations.md).
+Zie ook [ Dynamische beperkingen van Media ](/help/using/limitations.md).
 
 ## PDF-bestanden voorbereiden
 
-Bereid uw PDF-bestanden voor voordat u ze uploadt naar Adobe Dynamic Media Classic:
+PDF-bestanden voorbereiden voordat u ze uploadt naar Adobe Dynamic Media Classic:
 
 * Als u het uploaden van de bestanden gemakkelijker wilt maken, plaatst u alle bestanden in dezelfde map op uw computer of netwerk.
 * Geef de bestanden een naam in alfanumerieke volgorde op pagina. Door de pagina&#39;s te ordenen, kunt u de pagina&#39;s gemakkelijker in de juiste volgorde plaatsen nadat de bestanden zijn geüpload.
 * Bekijk de pagina&#39;s om te zien of PDF-pagina&#39;s snijtekens, registratiedoelen of kleurenbalken bevatten. Deze markeringen bepalen waar het papier moet worden geknipt als documenten worden afgedrukt. Deze markeringen moeten worden verwijderd voordat uw eCatalog op het web wordt geplaatst. Adobe Dynamic Media Classic biedt opties voor snijtekens wanneer u PDF-bestanden uploadt.
-* Als u wilt dat de kijkers uw eCatalog door sleutelwoord zoeken, kom te weten of uw dossiers van de PDF &quot;afgevlakt.&quot; zijn U kunt zoekwoorden niet extraheren uit samengevoegde PDF-bestanden. Als u wilt weten of een PDF is afgevlakt, selecteert u de tekst in de afbeelding. Als u geen tekst kunt selecteren, wordt de PDF afgevlakt en kunnen de kijkers niet op sleutelwoord in uw eCatalog zoeken.
-* PDF-bestanden bevatten meestal CMYK-afbeeldingen, omdat ze moeten worden afgedrukt. Adobe Dynamic Media Classic kan deze CMYK-afbeeldingen standaard op intelligente wijze detecteren en converteren met een intern CMYK-kleurprofiel. Als u echter een aangepast kleurprofiel wilt gebruiken om CMYK-afbeeldingen om te zetten, kunt u dat doen.
+* Als u wilt dat gebruikers in uw eCatalog op trefwoord kunnen zoeken, controleert u of uw PDF-bestanden zijn &#39;afgevlakt&#39;. U kunt zoekwoorden niet extraheren uit samengevoegde PDF-bestanden. Als u wilt weten of een PDF is afgevlakt, selecteert u de tekst in de afbeelding. Als u geen tekst kunt selecteren, wordt de PDF afgevlakt en kunnen de kijkers niet op sleutelwoord in uw eCatalog zoeken.
+* Omdat ze moeten worden afgedrukt, bevatten PDF-bestanden meestal CMYK-afbeeldingen. Adobe Dynamic Media Classic kan deze CMYK-afbeeldingen standaard op intelligente wijze detecteren en converteren met een intern CMYK-kleurprofiel. Als u echter een aangepast kleurprofiel wilt gebruiken om CMYK-afbeeldingen om te zetten, kunt u dat doen.
 
-  Zie [ICC-profielen (International Color Consortium)](icc-profiles.md#icc_profiles).
+  Zie [ ICC (het Internationale Consortium van de Kleur) profielen ](icc-profiles.md#icc_profiles).
 
 ## Beste praktijken PDF uploadopties {#best-practice-pdf-upload-options}
 
-Zie voor meer informatie over de verschillende uploadmethoden [Bestanden uploaden](uploading-files.md#uploading_your_files).
+Voor gedetailleerde informatie over de verschillende upload methodes, zie [ Uploading uw dossiers ](uploading-files.md#uploading_your_files).
 
-Selecteer de bestanden die u wilt uploaden en selecteer deze *beste praktijken* PDF-opties:
+Selecteer de dossiers die u wilt uploaden, en dan deze *beste praktijken* de Opties van PDF selecteren:
 
-* **Opties voor uitsnijden**: Selecteer in het dialoogvenster Taakopties uploaden de optie **[!UICONTROL Crop Options]**. Als de PDF-pagina&#39;s snijtekens, registratietekens of andere markeringen bevatten in het dialoogvenster **[!UICONTROL Crop]** vervolgkeuzelijst kiest u **[!UICONTROL Manual]**. Voer het aantal pixels in dat vanaf de boven-, rechter-, onder- en linkerzijde van de pagina moet worden bijgesneden. Snijtekens worden vaak ingesteld op een marge van 5 cm. Stel dat u **[!UICONTROL 150]** (aanbevolen) als de resolutie van pixel per inch. Vervolgens voert u 75, 75, 75, 75 in de tekstvakken Boven, Rechts, Onder en Links in. In dat geval wordt een halve inch van de marges geoogst (bij 150 ppi is de helft van 1 gelijk aan 75 pixels).
+* **Opties van het Gewas**: Op het Upload de dialoogvakje van de Opties van de Baan, uitgezochte **[!UICONTROL Crop Options]**. Kies **[!UICONTROL Crop]** als de PDF-pagina&#39;s snijtekens, registratietekens of andere markeringen bevatten in de vervolgkeuzelijst **[!UICONTROL Manual]** . Voer het aantal pixels in dat vanaf de boven-, rechter-, onder- en linkerzijde van de pagina moet worden bijgesneden. Snijtekens worden vaak ingesteld op een marge van 5 cm. Veronderstel dat u **[!UICONTROL 150]** (geadviseerd) als pixel-per-duimresolutie kiest. Vervolgens voert u 75, 75, 75, 75 in de tekstvakken Boven, Rechts, Onder en Links in. In dat geval wordt een halve inch van de marges geoogst (bij 150 ppi is de helft van 1 gelijk aan 75 pixels).
 
-* **Verwerking**: Selecteer in het dialoogvenster Taakopties uploaden de optie **[!UICONTROL PDF Options]**. In de **[!UICONTROL Processing]** vervolgkeuzelijst kiest u **[!UICONTROL Rasterize]**. Het PDF-bestand moet worden omgezet in pixels, zodat alle pagina&#39;s en afbeeldingen in de eCatalog kunnen worden weergegeven.
+* **Verwerking**: Op het Upload de dialoogvakje van de Opties van de Baan, uitgezochte **[!UICONTROL PDF Options]**. Kies **[!UICONTROL Processing]** in de vervolgkeuzelijst **[!UICONTROL Rasterize]** . Het PDF-bestand moet worden gerasterd, zodat alle pagina&#39;s en afbeeldingen in de eCatalog kunnen worden weergegeven.
 
-* **Zoekwoorden extraheren (optioneel)**: Selecteer in het dialoogvenster Taakopties uploaden de optie **[!UICONTROL PDF Options]**. Kies in de vervolgkeuzelijst Extraheren de optie **[!UICONTROL Search words]** als u wilt dat uw viewers op trefwoorden kunnen zoeken in uw eCatalog.
+* **Extraheer Woorden van het Onderzoek (facultatief)**: Op het Upload de dialoogvakje van de Opties van de Baan, uitgezochte **[!UICONTROL PDF Options]**. Kies in de vervolgkeuzelijst Extraheren de optie **[!UICONTROL Search words]** als u wilt dat uw viewers op trefwoorden kunnen zoeken in uw eCatalog.
 
-* **E-catalogus automatisch genereren op basis van PDF van meerdere pagina&#39;s (optioneel)**: Selecteer in het dialoogvenster Taakopties uploaden de optie **[!UICONTROL PDF Options]**. Klikken **[!UICONTROL Auto-Generate eCatalog from multiple page PDF]** zodat u automatisch een eCatalog kunt tot stand brengen wanneer u uploadt. U kunt direct naar het eCatalog scherm gaan en beginnen werkend aan uw eCatalog zonder het moeten eerst PDF dossiers selecteren en het bevel van de Bouwstijl selecteren. De eCatalog wordt genoemd naar uw PDF dossier.
+* **automatisch-produceer eCatalog van veelvoudige pagina PDF (facultatief)**: Op de Upload de dialoogdoos van de Opties van de Baan, uitgezochte **[!UICONTROL PDF Options]**. Klik op **[!UICONTROL Auto-Generate eCatalog from multiple page PDF]** zodat u automatisch een eCatalog kunt maken wanneer u uploadt. U kunt rechtstreeks naar het eCatalog-scherm gaan en aan uw eCatalog beginnen te werken zonder eerst de dossiers van PDF te selecteren en het bevel van de Bouwstijl te selecteren. De eCatalog wordt genoemd naar uw PDF dossier.
 
-* **Resolutie**: Selecteer in het dialoogvenster Taakopties uploaden de optie **[!UICONTROL PDF Options]**. In de **[!UICONTROL Resolution]** Voer een waarde in voor het tekstveld. Adobe Dynamic Media Classic raadt 150 pixels per inch aan.
+* **Resolutie**: Op het Upload de dialoogvakje van de Opties van de Baan, uitgezochte **[!UICONTROL PDF Options]**. Voer in het tekstveld **[!UICONTROL Resolution]** een waarde in. Adobe Dynamic Media Classic raadt 150 pixels per inch aan.
 
-* **Kleurruimte**: Selecteer in het dialoogvenster Taakopties uploaden de optie **[!UICONTROL PDF Options]**. Kies in de vervolgkeuzelijst Kleurruimte de optie **[!UICONTROL Detect automatically]**. Gewoonlijk worden PDF die voor afdrukuitvoer zijn gemaakt, weergegeven in CMYK. PDF voor onlineweergave zijn RGB. Als een PDF beide kleurruimten gebruikt, kunt u een specifieke kleurruimte selecteren door Forceren als RGB of Forceren als CMYK te kiezen. PDF gebruiken beide kleurruimten, bijvoorbeeld wanneer paginaafbeeldingen een CMYK-kleurruimte gebruiken, maar afbeeldingen RGB gebruiken. Als u een ICC-profiel hebt geüpload, wordt de naam ervan weergegeven in het menu Kleurruimte en kunt u het daar kiezen.
+* **Kleurruimte**: Op het Upload de dialoogvakje van de Opties van de Baan, uitgezochte **[!UICONTROL PDF Options]**. Kies **[!UICONTROL Detect automatically]** in de vervolgkeuzelijst Kleurruimte. Gewoonlijk zijn PDF&#39;s die zijn gemaakt voor afdrukken, in CMYK en PDF&#39;s voor onlineweergave in RGB. Als een PDF beide kleurruimten gebruikt, kunt u een specifieke kleurruimte selecteren door Forceren als RGB of Forceren als CMYK te kiezen. PDF&#39;s gebruiken beide kleurruimten, bijvoorbeeld wanneer paginaafbeeldingen een CMYK-kleurruimte gebruiken, maar afbeeldingen RGB gebruiken. Als u een ICC-profiel hebt geüpload, wordt de naam ervan weergegeven in het menu Kleurruimte en kunt u het daar kiezen.
 
-  Zie [ICC-profielen (International Color Consortium)](/help/using/icc-profiles.md).
+  Zie [ ICC (het Internationale Consortium van de Kleur) profielen ](/help/using/icc-profiles.md).
 
-* **Opties voor kleurprofiel**: Selecteer in het dialoogvenster Taakopties uploaden de optie **[!UICONTROL Color Profile Options]** en kies vervolgens een optie voor Kleurprofiel:
+* **Opties van het Profiel van de Kleur**: Op het Upload de dialoogvakje van de Opties van de Baan, selecteer **[!UICONTROL Color Profile Options]**, en kies dan een optie van het Profiel van de Kleur:
 
-   * **Oorspronkelijke kleurruimte behouden**: Behoudt de oorspronkelijke kleurruimte.
+   * **houd Oorspronkelijke Ruimte van de Kleur**: Behoudt de originele kleurenruimte.
 
-   * **Aangepast van > tot**: Hiermee opent u submenu&#39;s, zodat u een **[!UICONTROL Convert From]** en **[!UICONTROL Convert To]** kleurruimte. U kunt een standaard Photoshop-kleurruimte kiezen of een kleurruimte die u naar Adobe Dynamic Media Classic hebt geüpload.
+   * **Douane van > aan**: Opent submenus zodat kunt u a **[!UICONTROL Convert From]** en **[!UICONTROL Convert To]** kleurenruimte kiezen. U kunt een standaard Photoshop-kleurruimte kiezen of een kleurruimte die u naar Adobe Dynamic Media Classic hebt geüpload.
 
 <!-- * **Convert To SRGB**: Converts to SRGB (Standard Red Green Blue). SRGB is the recommended color space for displaying images on Web pages. -->
 
-Zie [ICC-profielen (International Color Consortium)](icc-profiles.md#icc_profiles).
+Zie [ ICC (het Internationale Consortium van de Kleur) profielen ](icc-profiles.md#icc_profiles).
 
 >[!NOTE]
 >
->Zie voor meer informatie over alle PDF-opties [Uploadopties voor PDF](pdfs.md#pdf_upload_options).
+>Voor details op alle opties van PDF, zie [ PDF uploadt opties ](pdfs.md#pdf_upload_options).

@@ -28,23 +28,23 @@ Wanneer u afbeeldingsbestanden uploadt, zoals AI-, EPS- en PSD-bestanden, kunt u
 * Afbeeldingen verscherpen met onscherpe maskeropties
 * Achtergrond uitnemen
 
-Deze opties zijn beschikbaar op de pagina Uploaden onder de **[!UICONTROL Imaging Edit Options]** kop.
+Deze opties staan op de pagina Uploaden onder de kop **[!UICONTROL Imaging Edit Options]** .
 
 ## Witruimte uitsnijden in afbeeldingen
 
-U kunt pixels in witruimte automatisch uitsnijden in een afbeelding. Selecteer in het dialoogvenster Opties voor uploaden de optie **[!UICONTROL Crop Options]**. In de **[!UICONTROL Crop]** vervolgkeuzelijst kiest u **[!UICONTROL Trim]**. Kies vervolgens de volgende opties:
+U kunt pixels in witruimte automatisch uitsnijden in een afbeelding. Selecteer **[!UICONTROL Crop Options]** in het dialoogvenster Taakopties uploaden. Kies **[!UICONTROL Crop]** in de vervolgkeuzelijst **[!UICONTROL Trim]** . Kies vervolgens de volgende opties:
 
 * **[!UICONTROL Trim Away Based On]**: Kies in deze vervolgkeuzelijst of u wilt uitsnijden op basis van kleur of transparantie:
 
-   * **[!UICONTROL Color]**: Kies de optie **[!UICONTROL Color]** -optie. Dan, van **[!UICONTROL Corner]** Selecteer in de vervolgkeuzelijst de hoek van de afbeelding met de kleur die het beste overeenkomt met de kleur voor de witruimte die u wilt uitsnijden.
+   * **[!UICONTROL Color]**: kies de optie **[!UICONTROL Color]** . Selecteer vervolgens in de vervolgkeuzelijst **[!UICONTROL Corner]** de hoek van de afbeelding met de kleur die het beste overeenkomt met de kleur voor de witruimte die u wilt uitsnijden.
 
-   * **[!UICONTROL Transparency]**: Kies de optie Transparantie.
+   * **[!UICONTROL Transparency]**: kies de optie Transparantie.
 
 * **[!UICONTROL Tolerance]**: Sleep de schuifregelaar om een tolerantie tussen 0 en 1 op te geven:
 
-   * **Bijsnijden op basis van kleur**: Geef 0 op om alleen pixels bij te snijden als deze exact overeenkomen met de kleur die u in de hoek van de afbeelding hebt geselecteerd. De aantallen dichter aan 1 staan voor meer kleurenverschil toe.
+   * **het Bijsnijden die op kleur** wordt gebaseerd: specificeer 0 om pixel slechts bij te snijden als zij precies de kleur aanpassen u in de hoek van het beeld selecteerde. De aantallen dichter aan 1 staan voor meer kleurenverschil toe.
 
-   * **Bijsnijden op basis van transparantie**: Geef 0 op om alleen pixels bij te snijden als deze transparant zijn. Voor meer transparantie is een getal dichter bij 1 toegestaan.
+   * **het Bijsnijden die op transparantie** wordt gebaseerd: specificeer 0 aan gewassenpixel slechts als zij transparant zijn; de aantallen dichter aan 1 staan voor meer transparantie toe.
 
 ## Handmatig uitsnijden vanaf de zijkanten van afbeeldingen
 
@@ -56,15 +56,15 @@ Als u een kleurruimte voor de afbeelding wilt selecteren, kiest u een optie voor
 
 * **[!UICONTROL Convert To sRGB]**: zet om in sRGB (standaard rood-groen-blauw). sRGB is de aanbevolen kleurruimte voor het weergeven van afbeeldingen op webpagina&#39;s.
 
-* **[!UICONTROL Keep Original Color Space]**: Behoudt de oorspronkelijke kleurruimte.
+* **[!UICONTROL Keep Original Color Space]** - Behoudt de oorspronkelijke kleurruimte.
 
-* **[!UICONTROL Custom From]** > **[!UICONTROL To]**: Hiermee opent u menu&#39;s, zodat u een optie kunt kiezen voor Omzetten van en Omzetten in kleurruimte. U kunt een standaard Photoshop-kleurruimte kiezen of een kleurruimte die u naar Adobe Dynamic Media Classic hebt geüpload.
+* **[!UICONTROL Custom From]** > **[!UICONTROL To]** : opent menu&#39;s, zodat u een optie kunt kiezen voor Omzetten van en Omzetten in kleurruimte. U kunt een standaard Photoshop-kleurruimte kiezen of een kleurruimte die u naar Adobe Dynamic Media Classic hebt geüpload.
 
-Zie [ICC-profielen](icc-profiles.md#icc_profiles).
+Zie [ ICC profielen ](icc-profiles.md#icc_profiles).
 
 ## Een masker maken op basis van een uitknippad
 
-Als u een masker voor de afbeelding wilt maken op basis van de gegevens over het uitknippad, selecteert u **[!UICONTROL Create Mask From Clipping Path]**. Deze optie is van toepassing op afbeeldingen die zijn gemaakt met beeldbewerkingstoepassingen waarin een uitknippad is gemaakt.
+Selecteer **[!UICONTROL Create Mask From Clipping Path]** als u een masker voor de afbeelding wilt maken op basis van de gegevens over het uitknippad. Deze optie is van toepassing op afbeeldingen die zijn gemaakt met beeldbewerkingstoepassingen waarin een uitknippad is gemaakt.
 
 ## Een afbeelding verscherpen met Masker verscherpen
 
@@ -76,14 +76,14 @@ Stel onder Onscherp masker de gewenste opties in. De instellingsopties worden in
 
 | Onscherpe maskeropties | Beschrijving |
 | --- | --- |
-| Hoeveelheid | Met Amount bepaalt u de hoeveelheid contrast die wordt toegepast op de randpixels.<br><br>Beschouw het als de intensiteit van het effect. Er is een verschil tussen de waarden voor Onscherp masker in Dynamic Media Classic en in Adobe Photoshop. Het belangrijkste verschil is dat Photoshop een bedrag van 1 tot 500 procent heeft. In Adobe Dynamic Media Classic is het waardebereik 0,0 tot 5,0. Een waarde van 5,0 in Adobe Dynamic Media Classic is het ruwe equivalent van 500% in Photoshop; een waarde van 0,9 is het equivalent van 90%, etc. |
-| Straal | Hiermee bepaalt u de straal van het effect. <br><br>Het waardebereik is 0-250. Het effect wordt op alle pixels in een afbeelding uitgevoerd en wordt vanuit alle pixels in alle richtingen uitgestraald. De straal wordt gemeten in pixels. Als u bijvoorbeeld een vergelijkbaar verscherpingseffect wilt toepassen op een afbeelding van 2000 × 2000 pixels en een afbeelding van 500 × 500 pixels, stelt u een straal in van twee pixels op de afbeelding van 2000 × 2000 pixels. Stel vervolgens een straalwaarde in van één pixel in de afbeelding van 500 × 500 pixels. Een hogere waarde wordt gebruikt voor een afbeelding met meer pixels. |
-| Drempel | Drempel is een contrastbereik dat wordt genegeerd wanneer het filter Onscherp masker wordt toegepast. Dit effect is belangrijk, zodat er geen &#39;ruis&#39; wordt toegevoegd aan een afbeelding wanneer dit filter wordt gebruikt. Het waardebereik is 0-255. Dit is het aantal helderheidsstappen in een grijswaardenafbeelding. 0=zwart, 128=50% grijs en 255=wit<br><br>Een drempelwaarde van 12 negeert bijvoorbeeld kleine variaties door de helderheid van de huidskleur om ruis te voorkomen, maar voegt toch randcontrast toe aan contrasterende gebieden, zoals waar de wimpers de huid raken.<br><br>Als u bijvoorbeeld een foto van iemands gezicht hebt, heeft het filter Onscherp masker invloed op de contrasterende gedeelten van de afbeelding. Bijvoorbeeld, waar wimpers en huid samenkomen om een duidelijk gebied van contrast tot stand te brengen, en de vlotte huid zelf. Zelfs de meest vloeiende skin vertoont subtiele wijzigingen in helderheidswaarden. Als u geen drempelwaarde gebruikt, accentueert het filter deze subtiele wijzigingen in de pixels van de skin. Er wordt op zijn beurt een lawaai en ongewenst effect gecreëerd terwijl het contrast op de wimpers wordt verhoogd, waardoor de scherpte wordt vergroot.<br><br>Om dit probleem te voorkomen, wordt een drempelwaarde geïntroduceerd die het filter vertelt om pixels te negeren die het contrast niet drastisch wijzigen, zoals een vloeiende skin. <br><br>Let op de structuur naast de ritssluiters in de afbeelding die u eerder hebt weergegeven. Ruis in de afbeelding wordt weergegeven omdat de drempelwaarden te laag zijn om de ruis te onderdrukken. |
-| Monochroom | Selecteer deze optie om de helderheid (intensiteit) van een afbeelding zonder scherp masker te wijzigen.<br><br>Schakel deze optie uit als u elke kleurcomponent afzonderlijk niet scherp wilt maskeren. |
+| Hoeveelheid | Met Amount bepaalt u de hoeveelheid contrast die wordt toegepast op de randpixels.<br><br> denk van het als de intensiteit van het effect. Er is een verschil tussen de waarden voor Onscherp masker in Dynamic Media Classic en in Adobe Photoshop. Het belangrijkste verschil is dat Photoshop een bedrag van 1 tot 500 procent heeft. In Adobe Dynamic Media Classic is het waardebereik 0,0 tot 5,0. Een waarde van 5,0 in Adobe Dynamic Media Classic is het ruwe equivalent van 500% in Photoshop; een waarde van 0,9 is het equivalent van 90%, etc. |
+| Straal | Hiermee bepaalt u de straal van het effect. <br><br> de waardewaaier is 0-250. Het effect wordt op alle pixels in een afbeelding uitgevoerd en wordt vanuit alle pixels in alle richtingen uitgestraald. De straal wordt gemeten in pixels. Als u bijvoorbeeld een vergelijkbaar verscherpingseffect wilt toepassen op een afbeelding van 2000 × 2000 pixels en een afbeelding van 500 × 500 pixels, stelt u een straal in van twee pixels op de afbeelding van 2000 × 2000 pixels. Stel vervolgens een straalwaarde in van één pixel in de afbeelding van 500 × 500 pixels. Een hogere waarde wordt gebruikt voor een afbeelding met meer pixels. |
+| Drempel | Drempel is een contrastbereik dat wordt genegeerd wanneer het filter Onscherp masker wordt toegepast. Dit effect is belangrijk, zodat er geen &#39;ruis&#39; wordt toegevoegd aan een afbeelding wanneer dit filter wordt gebruikt. Het waardebereik is 0-255. Dit is het aantal helderheidsstappen in een grijswaardenafbeelding. 0=zwart, 128=50% grijs en 255=wit<br><br> Bijvoorbeeld, negeert een drempelwaarde van 12 lichte variaties de helderheid van de huidstoon om lawaai te vermijden toevoegend, maar nog toevoegt randcontrast aan contrasterende gebieden zoals waar de wimpers huid ontmoeten.<br><br> bijvoorbeeld, als u een foto van iemands gezicht hebt, beïnvloedt het Onscherp Masker de contrasterende delen van het beeld. Bijvoorbeeld, waar wimpers en huid samenkomen om een duidelijk gebied van contrast tot stand te brengen, en de vlotte huid zelf. Zelfs de meest vloeiende skin vertoont subtiele wijzigingen in helderheidswaarden. Als u geen drempelwaarde gebruikt, accentueert het filter deze subtiele wijzigingen in de pixels van de skin. Er wordt op zijn beurt een lawaai en ongewenst effect gecreëerd terwijl het contrast op de wimpers wordt verhoogd, waardoor de scherpte wordt vergroot.<br><br> om deze kwestie te vermijden, wordt een drempelwaarde geïntroduceerd die het filter vertelt om pixel te negeren die contrast, zoals vlotte huid niet dramatisch veranderen. <br><br> in zipper grafisch vroeger getoond, merk de textuur naast de ritppers op. Ruis in de afbeelding wordt weergegeven omdat de drempelwaarden te laag zijn om de ruis te onderdrukken. |
+| Monochroom | Selecteer deze optie om de helderheid (intensiteit) van een afbeelding zonder scherp masker te wijzigen.<br><br> schrap aan unshark-masker elke kleurencomponent afzonderlijk. |
 
-Zie ook [Een afbeelding verscherpen](sharpening-image.md#sharpening_an_image).
+Zie ook [ een beeld ](sharpening-image.md#sharpening_an_image) verscherpen.
 
-Zie ook [Afbeeldingen verscherpen in Adobe Dynamic Media en op afbeeldingsserver](/help/using/assets/s7_sharpening_images.pdf).
+Zie ook [ scherp beelden in de Dynamische Media van Adobe en op de Server van het Beeld ](/help/using/assets/s7_sharpening_images.pdf).
 
 ## Achtergrond uitnemen
 
@@ -92,10 +92,10 @@ Gebruik Achtergrond uitnemen zodat u de achtergrond van een afbeelding automatis
 | Opties voor Achtergrond uitnemen | Beschrijving |
 | --- | --- |
 | Achtergrond uitnemen | Selecteer deze optie om de functie Achtergrond uitnemen en opties in te schakelen of in te schakelen. |
-| Hoek | Vereist.<br>De hoek van de afbeelding die wordt gebruikt om de achtergrondkleur voor uitnemen te definiëren.<br>U kunt kiezen uit <b>Linksboven, Linksonder, Rechtsboven of Rechtsonder</b>. |
-| Vulmethode | Vereist. <br>Hiermee regelt u de pixeltransparantie vanaf de locatie Hoek die u instelt.<br>U kunt kiezen uit de volgende vulmethoden:<br>・ <b>Flood Fill</b>: hiermee worden alle pixels transparant gemaakt die overeenkomen met de hoek die u hebt opgegeven en waarop u een verbinding hebt gemaakt.<br>・ <b>Pixel afstemmen</b>: hiermee worden alle overeenkomende pixels transparant gemaakt, ongeacht de locatie van de pixels op de afbeelding. |
-| Tolerantie | Optioneel.<br>Hiermee bepaalt u de toegestane hoeveelheid variatie in de overeenkomende pixelkleur op basis van de locatie van de hoek die u instelt.<br>Gebruik een waarde van 0,0 om de pixelkleuren exact overeen te laten komen. Of gebruik een waarde van 1,0 om de grootste variatie mogelijk te maken. |
+| Hoek | Vereist.<br> de hoek van het beeld dat wordt gebruikt om de achtergrondkleur te bepalen aan knockout.<br> u kunt van <b> Linksboven, Linksonder, Rechtsboven, of Rechtsonder kiezen </b>. |
+| Vulmethode | Vereist. <br> controleert pixeltransparantie van de plaats van de Hoek die u plaatst.<br> u kunt van de volgende vullingsmethodes kiezen:<br>・ <b> Vulling van het Bloed </b>: draait alle pixel transparant die de Hoek aanpassen die u hebt gespecificeerd en met het verbonden.<br>・ <b> Pixel van de Gelijke </b>: draait alle passende pixel transparant, ongeacht hun plaats op het beeld. |
+| Tolerantie | Optioneel.<br> controleert de toelaatbare hoeveelheid variatie in pixelkleur aanpassing die op de plaats van de Hoek wordt gebaseerd die u plaatst.<br> gebruik een waarde van 0.0 om pixelkleuren precies aan te passen. Of gebruik een waarde van 1,0 om de grootste variatie mogelijk te maken. |
 
 >[!MORELIKETHIS]
 >
->* [Een afbeelding uitsnijden](cropping-image.md#cropping_an_image)
+>* [ Snijd een beeld ](cropping-image.md#cropping_an_image) bij

@@ -21,27 +21,27 @@ ht-degree: 0%
 
 De basis van sjablonen wordt dynamisch gemaakt en adresseerbare gelaagde afbeeldingsbestanden, zoals gelaagde bestanden, in beeldbewerkingstoepassingen zoals Adobe Photoshop. In tegenstelling tot een statisch bestand met lagen, zoals een PSD-bestand, kan een sjabloon parameters bevatten. Aan de hand van parameters kunnen de verschillende aspecten van de afbeelding worden benaderd en aangepast.
 
-Een sjabloon kan een willekeurig aantal afbeeldingslagen en tekstlagen bevatten. U kunt een statisch bestand met lagen, zoals een gelaagd PSD-bestand, omzetten naar een sjabloon en sjablonen maken in Adobe Dynamic Media Classic. U kunt tekstlagen in sjablonen maken met lettertypen die u naar Adobe Dynamic Media Classic hebt geüpload. Nadat u tekst aan een sjabloon hebt toegevoegd, kunt u deze opmaken door de uitvulling, het lettertype, de tekengrootte en de kleur ervan te wijzigen.
+Een sjabloon kan een willekeurig aantal afbeeldingslagen en tekstlagen bevatten. U kunt een statisch bestand met lagen, zoals een gelaagd PSD-bestand, converteren naar een sjabloon en sjablonen maken in Adobe Dynamic Media Classic. U kunt tekstlagen in sjablonen maken met lettertypen die u naar Adobe Dynamic Media Classic hebt geüpload. Nadat u tekst aan een sjabloon hebt toegevoegd, kunt u deze opmaken door de uitvulling, het lettertype, de tekengrootte en de kleur ervan te wijzigen.
 
 Met de pagina Parameters kunt u elk aspect van een sjabloon omzetten in een adresseerbare parameter. Zo kunt u wijzigen welke gelaagde afbeelding u wilt gebruiken of welke tekstwaarde u in de sjabloon wilt gebruiken. De parameters worden overgegaan met het koord URL, toestaand u om het even welke parameter te veranderen zodat kunt u het antwoordbeeld dynamisch aanpassen dat van de Server van het Beeld wordt geproduceerd.
 
-Zie ook [&#128279;](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&amp;emailurl=https://s7d5.scene7.com/s7/emailFriend&amp;serverUrl=https://s7d5.scene7.com/is/image/&amp;config=Scene7SharedAssets/Universal_HTML5_Video&amp;contenturl=https://s7d5.scene7.com/skins/&amp;asset=S7tutorials/553_Template%20Basics_converted%20renamed_Dynamic%20Banners-AVS) de opleidingsvideo van de Grondbeginselen van het 0&rbrace; Malplaatje &lbrace;.
+Zie ook [ de opleidingsvideo van de Grondbeginselen van het 0} Malplaatje {.](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&emailurl=https://s7d5.scene7.com/s7/emailFriend&serverUrl=https://s7d5.scene7.com/is/image/&config=Scene7SharedAssets/Universal_HTML5_Video&contenturl=https://s7d5.scene7.com/skins/&asset=S7tutorials/553_Template%20Basics_converted%20renamed_Dynamic%20Banners-AVS)
 
 Deze snelle start is ontworpen om u snel aan de slag te krijgen met de basis van sjablonen.
 
-## 1. De bestanden uploaden
+## &#x200B;1. De bestanden uploaden
 
-Begin door het PSD- of afbeeldingsbestand voor uw sjabloon te uploaden. Adobe Dynamic Media Classic biedt naast PSD ook ondersteuning voor veel bestandsindelingen voor afbeeldingen, maar TIFF- en PNG-afbeeldingen zonder gegevensverlies worden aanbevolen voor sjablonen omdat ze transparantie mogelijk maken.
+Begin door het PSD-bestand of afbeeldingsbestand voor uw sjabloon te uploaden. Adobe Dynamic Media Classic biedt naast PSD ook ondersteuning voor veel bestandsindelingen voor afbeeldingen, maar TIFF- en PNG-afbeeldingen zonder gegevensverlies worden aanbevolen voor sjablonen omdat ze transparantie mogelijk maken.
 
-Als u een PSD-bestand gebruikt om uw sjabloon te maken, selecteert u **[!UICONTROL Create Template]** in het dialoogvenster **[!UICONTROL Upload Job Options]** wanneer u het PSD-bestand uploadt. Kies ook een **[!UICONTROL Layer Naming]** -optie, zodat Adobe Dynamic Media Classic weet hoe PSD-lagen een naam moeten krijgen wanneer ze naar Adobe Dynamic Media Classic worden geüpload.
+Als u een PSD-bestand gebruikt om uw sjabloon te maken, selecteert u **[!UICONTROL Create Template]** in het dialoogvenster **[!UICONTROL Upload Job Options]** wanneer u het PSD-bestand uploadt. Kies ook een **[!UICONTROL Layer Naming]** -optie, zodat Adobe Dynamic Media Classic de PSD-lagen een naam kan geven wanneer ze naar Adobe Dynamic Media Classic worden geüpload.
 
 Als u afbeeldingsbestanden gebruikt, kunt u de afbeeldingen uitsnijden en ook een masker maken van uitknippaden in de afbeeldingen wanneer u deze uploadt.
 
 Selecteer op de algemene navigatiebalk **[!UICONTROL Upload]** om een PSD-bestand of andere afbeeldingsbestanden van uw computer te uploaden naar een map op Adobe Dynamic Media Classic. Zie [ malplaatjedossiers ](uploading-template-files.md#uploading_template_files) uploaden.
 
-## 2. Een sjabloon maken
+## &#x200B;2. Een sjabloon maken
 
-Als u een sjabloon wilt maken op basis van een PSD-bestand, selecteert u **[!UICONTROL Create Template]** wanneer u het bestand uploadt. Als u een sjabloon wilt maken van afbeeldingen, gaat u op de algemene navigatiebalk naar **[!UICONTROL Build]** > **[!UICONTROL Template Basics]** en voert u een breedte- en hoogtemeting voor het canvas in. Selecteer **[!UICONTROL Designer]** of **[!UICONTROL Developer]** in de rechterbovenhoek van de pagina en sleep afbeeldingen naar de sjabloonpagina. U kunt de beelden *ook selecteren alvorens* u **[!UICONTROL Build]** > **[!UICONTROL Template Basics]** gaat. De sjabloonpagina bevat gereedschappen voor:
+Als u een sjabloon wilt maken van een PSD-bestand, selecteert u **[!UICONTROL Create Template]** wanneer u het bestand uploadt. Als u een sjabloon wilt maken van afbeeldingen, gaat u op de algemene navigatiebalk naar **[!UICONTROL Build]** > **[!UICONTROL Template Basics]** en voert u een breedte- en hoogtemeting voor het canvas in. Selecteer **[!UICONTROL Designer]** of **[!UICONTROL Developer]** in de rechterbovenhoek van de pagina en sleep afbeeldingen naar de sjabloonpagina. U kunt de beelden *ook selecteren alvorens* u **[!UICONTROL Build]** > **[!UICONTROL Template Basics]** gaat. De sjabloonpagina bevat gereedschappen voor:
 
 * Afbeeldingslagen toevoegen. Als u een laag wilt toevoegen, sleept u een afbeelding naar de sjabloonpagina.
 * Tekstlagen toevoegen. Selecteer het pictogram **[!UICONTROL Text tool]** . Sleep de aanwijzer om een vak voor de tekstlaag te maken en maak de tekst vervolgens op met gereedschappen op de tekstpagina.
@@ -51,21 +51,21 @@ Als u een sjabloon wilt maken op basis van een PSD-bestand, selecteert u **[!UIC
 
 Zie [ een malplaatje ](creating-template.md#creating_a_template) creëren.
 
-## 3. Sjabloonparameters maken
+## &#x200B;3. Sjabloonparameters maken
 
 De volgende stap bestaat uit het bepalen van de parameters van de eigenschappen op lagen om te bepalen welke laageigenschappen in het koord URL inbegrepen zijn. De parameters staan u toe om malplaatjes met maximumflexibiliteit te gebruiken. Nadat u een laageigenschap in een parameter hebt gemaakt, kunt u deze dynamisch wijzigen.
 
 Als u parameters wilt toewijzen aan een laag, opent u de sjabloon op de sjabloonpagina en selecteert u vervolgens **[!UICONTROL Parameters]** naast de naam van een laag. Selecteer op de pagina Parameters de optie naast elke parameter die u wilt toevoegen. Zie [ malplaatjeparameters ](creating-template-parameters.md#creating_template_parameters) creëren.
 
-## 4. Publish-sjablonen
+## &#x200B;4. Sjablonen publiceren
 
-Als u uw sjabloon publiceert, wordt deze op Dynamic Media Image Servers geplaatst, zodat deze dynamisch aan uw website of toepassing kan worden geleverd. Met Publiceren wordt de URL ook geactiveerd om de sjabloon vanaf Dynamic Media Image Servers naar uw website of toepassing te bellen.
+Als u uw sjabloon publiceert, wordt deze op Dynamic Media Image Servers geplaatst, zodat het sjabloon dynamisch aan uw website of toepassing kan worden geleverd. Het publiceren activeert ook URL om het malplaatje van de Servers van het Beeld van Media aan uw Website of toepassing te roepen.
 
 Zorg ervoor dat u alle afbeeldingen publiceert die aan de sjabloon zijn gekoppeld.
 
-Als u een sjabloon wilt publiceren, markeert u deze voor publicatie en klikt u op **[!UICONTROL Publish]** op de algemene navigatiebalk. Selecteer vervolgens **[!UICONTROL Submit Publish]** . Zie [ malplaatjes van Publish ](publishing-templates.md#publishing_templates).
+Als u een sjabloon wilt publiceren, markeert u deze voor publicatie en klikt u op **[!UICONTROL Publish]** op de algemene navigatiebalk. Selecteer vervolgens **[!UICONTROL Submit Publish]** . Zie [ publiceren malplaatjes ](publishing-templates.md#publishing_templates).
 
-## 5. Een sjabloon aan een webpagina koppelen
+## &#x200B;5. Een sjabloon aan een webpagina koppelen
 
 Dynamic Media Classic maakt URL&#39;s voor sjablonen en activeert de URL&#39;s wanneer u sjablonen publiceert naar Dynamic Media Image Servers. U kunt deze URL-tekenreeksen kopiëren vanaf de pagina Sjabloonvoorbeeld.
 

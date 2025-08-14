@@ -18,7 +18,7 @@ ht-degree: 0%
 
 # Schijfgebruiksgegevens ophalen {#get-disk-usage-information}
 
-U kunt de `disk_info` parameter om informatie over het gebruik van de schijfruimte van een bedrijf, zoals aangetoond in het volgende voorbeeld terug te winnen:
+U kunt de parameter `disk_info` gebruiken om informatie over het gebruik van de schijfruimte van een bedrijf terug te winnen, zoals aangetoond in het volgende voorbeeld:
 
 ```as3
 https://s7ugc1.scene7.com/ugc/image?op=disk_info&shared_secret=d03b7e0b-c9dc-4c6c-af0b-419beeea1c63

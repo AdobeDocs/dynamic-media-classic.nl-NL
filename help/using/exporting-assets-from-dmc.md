@@ -25,30 +25,30 @@ Het gecomprimeerde ZIP-bestand heeft een maximale bestandsgrootte van 1 GB voor 
 
 Adobe Dynamic Media Classic houdt een overzicht bij van het exporteren van taken in het scherm Taken.
 
-**Elementen exporteren uit Adobe Dynamic Media Classic:**
+**om activa van Adobe Dynamic Media Classic uit te voeren:**
 
-1. Selecteer de elementen die u wilt exporteren en ga naar **[!UICONTROL File]** > **[!UICONTROL Export]**.
-1. Klik in het venster Geselecteerde elementen exporteren op **[!UICONTROL Image Options]** en geef vervolgens een of meer van de volgende opties op (beheerders bepalen welke opties beschikbaar zijn voor hun gebruikers):
+1. Selecteer de elementen die u wilt exporteren en ga naar **[!UICONTROL File]** > **[!UICONTROL Export]** .
+1. Klik in het venster Geselecteerde Assets exporteren op **[!UICONTROL Image Options]** en geef een of meer van de volgende opties op (beheerders bepalen welke opties beschikbaar zijn voor hun gebruikers):
 
-   * **[!UICONTROL Presets]**: Kies desgewenst een voorinstelling voor afbeelding om het element op te maken wanneer u het exporteert. Als u een voorinstelling voor afbeeldingen kiest, zijn de andere opmaakopties niet beschikbaar omdat het element gebruikmaakt van de indelingen die zijn gedefinieerd in de voorinstelling voor afbeeldingen.
+   * **[!UICONTROL Presets]**: Kies desgewenst een voorinstelling voor de afbeelding om het element op te maken wanneer u het exporteert. Als u een voorinstelling voor afbeeldingen kiest, zijn de andere opmaakopties niet beschikbaar omdat het element gebruikmaakt van de indelingen die zijn gedefinieerd in de voorinstelling voor afbeeldingen.
 
-   * **[!UICONTROL Conversion]**: Zet het elementbestand of de oorspronkelijke afbeelding om.
+   * **[!UICONTROL Conversion]**: converteer het elementbestand of de oorspronkelijke afbeelding.
 
-   * **[!UICONTROL Size]**: U kunt een standaardgrootte selecteren. U kunt ook **[!UICONTROL Other]** van de **[!UICONTROL Size]** kiest u de gewenste maateenheid en geeft u vervolgens de breedte en de hoogte op.
+   * **[!UICONTROL Size]**: U kunt een standaardgrootte selecteren. U kunt ook **[!UICONTROL Other]** selecteren in de vervolgkeuzelijst **[!UICONTROL Size]** , de gewenste maateenheid kiezen en vervolgens de breedte en de hoogte opgeven.
 
-     Zie ook [Beschikbare exportopties voor gebruikers van Media Portal opgeven](specifying-export-options-available-media.md#specifying_export_options_available_to_media_portal_users).
+     Zie ook [ specificeer uitvoeropties beschikbaar aan Poortgebruikers van Media ](specifying-export-options-available-media.md#specifying_export_options_available_to_media_portal_users).
 
-   * **[!UICONTROL Format]**: Kies een afbeeldingsindeling.
+   * **[!UICONTROL Format]**: kies een afbeeldingsindeling.
 
-   * **[!UICONTROL Color]**: Kies RGB, CMYK of Grijs.
+   * **[!UICONTROL Color]**: kies RGB, CMYK of Grijs.
 
-   * **[!UICONTROL Resolution]**: Kies 72 ppi, 150 ppi of 300 ppi.
+   * **[!UICONTROL Resolution]**: kies 72 ppi, 150 ppi of 300 ppi.
 
-   * **[!UICONTROL Job Name]**: U kunt een taaknaam aan het exporteren toewijzen.
+   * **[!UICONTROL Job Name]**: u kunt een taaknaam aan het exporteren toewijzen.
 
-   * **[!UICONTROL Send Email To]**: Optioneel. Voer een e-mailadres in als u de middelen per e-mail wilt verzenden. In het e-mailbericht wordt de URL weergegeven waar de ontvanger de elementen kan downloaden.
+   * **[!UICONTROL Send Email To]**: optioneel. Voer een e-mailadres in als u de middelen per e-mail wilt verzenden. In het e-mailbericht wordt de URL weergegeven waar de ontvanger de elementen kan downloaden.
 
-1. Selecteren **[!UICONTROL Export]**.
+1. Selecteer **[!UICONTROL Export]** .
 
 Er worden drie basisuitvoeracties ondersteund:
 

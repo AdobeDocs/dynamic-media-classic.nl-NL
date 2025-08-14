@@ -21,12 +21,12 @@ ht-degree: 0%
 
 U kunt de weergave van elementen in het deelvenster Bladeren wijzigen door een weergaveknop te selecteren:
 
-* **Rasterweergave**: Selecteer in de rechterbovenhoek van het Adobe Dynamic Media Classic-scherm de optie **[!UICONTROL Grid View]** pictogram om elementen in miniatuurvorm in een raster weer te geven. In de rasterweergave kunt u de schuifregelaar Miniatuur slepen om de grootte van de miniatuurafbeeldingen te wijzigen.
+* **Mening van het Net**: Vlak de hoger-juiste hoek van het scherm van Adobe Dynamic Media Classic, selecteer het **[!UICONTROL Grid View]** pictogram om activa in duimnagelvorm in een net te zien. In de rasterweergave kunt u de schuifregelaar Miniatuur slepen om de grootte van de miniatuurafbeeldingen te wijzigen.
 
-* **Lijstweergave**: Selecteer in de rechterbovenhoek van het Adobe Dynamic Media Classic-scherm de optie **[!UICONTROL List View]** pictogram om elementen in een lijst weer te geven. In de lijst staan de naam, het type, de aanmaakdatum en de datum van laatste wijziging van elk element. Afhankelijk van het type element waarmee u werkt, krijgt u ook andere informatie. U kunt bijvoorbeeld de afmetingen en de bestandsgrootte van een afbeelding zien.
+* **Mening van de Lijst**: Vlak de hoger-juiste hoek van het scherm van Adobe Dynamic Media Classic, selecteer het **[!UICONTROL List View]** pictogram om activa in een lijst te zien. In de lijst staan de naam, het type, de aanmaakdatum en de datum van laatste wijziging van elk element. Afhankelijk van het type element waarmee u werkt, krijgt u ook andere informatie. U kunt bijvoorbeeld de afmetingen en de bestandsgrootte van een afbeelding zien.
 
-* **Gedetailleerde weergave**: Selecteer een element. Selecteer in de rechterbovenhoek van het Adobe Dynamic Media Classic-scherm de optie **[!UICONTROL Detail View]** pictogram om het element te bekijken in de Gedetailleerde weergave. U kunt ook dubbelklikken op een element of dit selecteren en naar **[!UICONTROL File]** > **[!UICONTROL Details]** om deze weer te geven in de gedetailleerde weergave. Als uw beheerder de voorkeur URL tonen heeft gespecificeerd, verschijnen URLs voor alle activa in de Mening van het Detail; nochtans, zijn URLs slechts actief nadat het element wordt gepubliceerd.
+* **Mening van het Detail**: Selecteer een activa. Selecteer in de rechterbovenhoek van het Adobe Dynamic Media Classic-scherm het pictogram **[!UICONTROL Detail View]** om het element te bekijken in de gedetailleerde weergave. U kunt ook dubbelklikken op een element of dit selecteren en naar **[!UICONTROL File]** > **[!UICONTROL Details]** gaan om het weer te geven in de gedetailleerde weergave. Als uw beheerder de voorkeur URL tonen heeft gespecificeerd, verschijnen URLs voor alle activa in de Mening van het Detail; nochtans, zijn URLs slechts actief nadat het element wordt gepubliceerd.
 
 >[!TIP]
 >
->U kunt een standaardweergave selecteren voor het deelvenster Bladeren en het deelvenster aan uw specificaties laten werken. Zie [Persoonlijke instelling](personal-setup.md#personal_setup).*
+>U kunt een standaardweergave selecteren voor het deelvenster Bladeren en het deelvenster aan uw specificaties laten werken. Zie [ Persoonlijke Opstelling ](personal-setup.md#personal_setup).*

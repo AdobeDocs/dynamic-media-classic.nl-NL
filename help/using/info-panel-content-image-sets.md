@@ -31,14 +31,14 @@ U kunt de InfoPanel-instellingen en -gegevens beheren met de volgende functies i
 
 U kunt een van de drie vooraf ingestelde reactiesjablonen selecteren om tekst weer te geven in een deelvenster Info. Deze vooraf ingestelde reactiesjablonen bepalen hoe uw informatie wordt weergegeven in het deelvenster Info: hoeveel kolommen en rijen, tekengrootte, lettertype, enzovoort. U kunt een vooraf ingestelde reactiesjabloon selecteren of een eigen sjabloon maken.
 
-**Een reactiesjabloon instellen voor Afbeeldingssets:**
+**aan opstelling een reactiemalplaatje voor de Reeksen van het Beeld:**
 
 1. Dubbelklik op de afbeeldingsset zodat deze in de gedetailleerde weergave wordt geopend.
-1. Selecteren **[!UICONTROL InfoPanel Setup]**.
+1. Selecteer **[!UICONTROL InfoPanel Setup]** .
 1. Voer een van de volgende handelingen uit in de vervolgkeuzelijst Antwoordsjabloon:
 
-   * Als u de standaardreactie wilt gebruiken, selecteert u **[!UICONTROL Default]**. De XML voor het sjabloonontwerp wordt grijs weergegeven in het tekstvak Gebruikerssjabloon.
-   * Als u uw eigen reactiesjabloon wilt maken, selecteert u **[!UICONTROL Custom]**. Typ de XML-definitie van de sjabloon in het tekstvak Gebruikerssjabloon. U kunt de standaardsjabloon die al in het tekstvak is gedefinieerd, gebruiken als basis voor uw eigen reactie.
+   * Selecteer **[!UICONTROL Default]** als u de standaardreactie wilt gebruiken. De XML voor het sjabloonontwerp wordt grijs weergegeven in het tekstvak Gebruikerssjabloon.
+   * Als u uw eigen reactiesjabloon wilt maken, selecteert u **[!UICONTROL Custom]** . Typ de XML-definitie van de sjabloon in het tekstvak Gebruikerssjabloon. U kunt de standaardsjabloon die al in het tekstvak is gedefinieerd, gebruiken als basis voor uw eigen reactie.
 
 1. (Optioneel) Typ in het vak Standaardreactie de tekst die u wilt weergeven als er in Adobe Dynamic Media Classic een fout optreedt bij het ophalen van informatie voor een afbeeldingskaart. Als het systeem bijvoorbeeld een bedrijfsnaam en een naam van een afbeeldingsset ontvangt, maar geen rollover-id, wordt dit bericht voor de gebruiker weergegeven.
 1. In het de tekstgebied van TTL van de Reactie, ga het aantal uren in dat u wilt wachten alvorens de gegevens in cache te plaatsen.
@@ -46,16 +46,16 @@ U kunt een van de drie vooraf ingestelde reactiesjablonen selecteren om tekst we
    * Stel een lager getal in als de gegevens regelmatig worden bijgewerkt.
    * Stel een hoger getal in als de gegevens relatief stabiel zijn en niet regelmatig hoeven te worden bijgewerkt. De standaardwaarde is tien uur.
 
-1. Selecteren **[!UICONTROL Upload]** om de inhoud van het deelvenster Info, gebaseerd op de waarde rollover_key, te uploaden naar s7info.
-1. Blader in het dialoogvenster S7Info uploaden naar het bestand dat u wilt gebruiken en selecteer vervolgens **[!UICONTROL Upload]**.
+1. Selecteer **[!UICONTROL Upload]** om de inhoud van het deelvenster Info te uploaden naar s7info op basis van de waarde rollover_key.
+1. Blader in het dialoogvenster S7Info uploaden naar het bestand dat u wilt gebruiken en selecteer vervolgens **[!UICONTROL Upload]** .
 
-   Ondersteunde bestandsindelingen zijn door tabs gescheiden bestanden met UTF-16-codering en CSV-bestanden met ASCII-codering. Voor CSV-bestanden moeten niet-ASCII-tekens worden gecodeerd als HTML.
+   Ondersteunde bestandsindelingen zijn door tabs gescheiden bestanden met UTF-16-codering en CSV-bestanden met ASCII-codering. Voor CSV-bestanden moeten niet-ASCII-tekens HTML-gecodeerd zijn.
 
-1. Selecteer in het deelvenster InfoPanel Setup de optie **[!UICONTROL Publish]**.
+1. Selecteer **[!UICONTROL Publish]** in het deelvenster InfoPanel Setup.
 
 ## Broninhoud importeren voor het deelvenster Info in afbeeldingssets {#import-source-content-for-the-info-panel-in-image-sets}
 
-U kunt een CSV-bestand (door komma&#39;s gescheiden waarde) gebruiken met ASCII-codering (niet-ASCII-tekens moeten zijn gecodeerd als HTML) of een door tabs gescheiden bestand voor de brontekst voor een deelvenster Info voor een afbeeldingsset. Door tabs gescheiden bestanden moeten UTF-16 (Unicode)-codering gebruiken. U kunt de verschillende bestandstypen op verschillende manieren importeren.
+U kunt een CSV-bestand (door komma&#39;s gescheiden waarde) gebruiken met ASCII-codering (niet-ASCII-tekens moeten door HTML zijn gecodeerd) of een door tabs gescheiden bestand voor de brontekst voor een deelvenster Info voor een afbeeldingsset. Door tabs gescheiden bestanden moeten UTF-16 (Unicode)-codering gebruiken. U kunt de verschillende bestandstypen op verschillende manieren importeren.
 
 Houd bij het opmaken van broninhoud rekening met de volgende richtlijnen:
 
@@ -66,10 +66,10 @@ Houd bij het opmaken van broninhoud rekening met de volgende richtlijnen:
 ### CSV-inhoud importeren in afbeeldingssets vanaf een extern gehoste locatie {#import-csv-content-into-image-sets-from-an-externally-hosted-location}
 
 1. Dubbelklik op de Afbeeldingsset zodat deze in de gedetailleerde weergave wordt geopend.
-1. Selecteren **[!UICONTROL InfoPanel Data feed]**.
+1. Selecteer **[!UICONTROL InfoPanel Data feed]** .
 1. Voer in het tekstveld HTTP (External Hosted CSV file location) de URL naar het CSV-bestand in.
-1. (Optioneel) Geef in het veld Update plannen een tijd op om de inhoud bij te werken en selecteer vervolgens **[!UICONTROL Add]**.
+1. (Optioneel) Geef in het veld Update plannen een tijd op om de inhoud bij te werken en selecteer vervolgens **[!UICONTROL Add]** .
 
-   U kunt meerdere malen selecteren voor bijwerken. Elke updatetijd verschijnt in het de tekstvakje van de Tijden van de Update. Als u een geplande tijd wilt verwijderen, selecteert u deze en selecteert u vervolgens **[!UICONTROL Delete]**.
+   U kunt meerdere malen selecteren voor bijwerken. Elke updatetijd verschijnt in het de tekstvakje van de Tijden van de Update. Als u een geplande tijd wilt verwijderen, selecteert u deze en vervolgens **[!UICONTROL Delete]** .
 
-1. (Optioneel) Selecteer **[!UICONTROL Run Update]** zodat u de inhoud direct kunt bijwerken.
+1. (Optioneel) Selecteer **[!UICONTROL Run Update]** om de inhoud direct bij te werken.

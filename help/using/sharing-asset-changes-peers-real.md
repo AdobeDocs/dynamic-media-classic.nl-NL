@@ -32,6 +32,6 @@ Nadat er een wijziging is aangebracht in de oorspronkelijke client, worden alle 
 
 Toen u zich aanmeldde, werd u gevraagd peer-updates toe te staan of te weigeren. U kunt de keuze &quot;onthouden&quot;, zodat u slechts één keer wordt gevraagd. Als u uw keuze wilt wissen, verwijdert u de desbetreffende site uit het deelvenster Peer-ondersteund netwerken in Algemene instellingen.
 
-Als u een element bewerkt dat door een peer is gewijzigd, wordt u gevraagd de wijziging in te voeren in de builder of editor. Als u **[!UICONTROL Yes]**, verwijdert de builder of editor eventuele wijzigingen die in het element zijn aangebracht en importeert het bijgewerkte element. Als u **[!UICONTROL No]**, blijft het element ongewijzigd in de builder of editor en blijven eventuele wijzigingen die u hebt aangebracht, in die sessie bestaan.
+Als u een element bewerkt dat door een peer is gewijzigd, wordt u gevraagd de wijziging in te voeren in de builder of editor. Als u **[!UICONTROL Yes]** kiest, verwijdert de builder of editor alle aangebrachte wijzigingen in het element en wordt het bijgewerkte element geïmporteerd. Als u **[!UICONTROL No]** kiest, blijft het element ongewijzigd in de builder of editor en blijven alle wijzigingen die u hebt aangebracht, in die sessie behouden.
 
 Toen u het element hebt opgeslagen, werd u op de hoogte gesteld dat er een nieuwere versie bestaat en u werd gevraagd of u het element wilt overschrijven met uw wijzigingen.

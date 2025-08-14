@@ -12,7 +12,7 @@ topic: Integrations, Development
 level: Experienced
 source-git-commit: 5b5dcd1199bd51ec987b5673fce75bc86baad55b
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '148'
 ht-degree: 0%
 
 ---
@@ -25,11 +25,11 @@ Publiceer uw Adobe Dynamic Media Classic-viewers zodat informatie over het confi
 >
 >Wanneer u de Adobe Analytics-rapportinstellingen in Adobe Analytics wijzigt, moet u zich vanuit Adobe Dynamic Media Classic opnieuw aanmelden bij Adobe Analytics, de Adobe Analytics-configuratie-instellingen opnieuw opslaan en vervolgens opnieuw publiceren.
 
-Zie [Aanmelden bij Adobe Analytics](log-analytics.md#log_in_to_adobe_analytics).
+Zie [ Login aan Adobe Analytics ](log-analytics.md#log_in_to_adobe_analytics).
 
-Zie [Adobe Analytics-rapporten configureren](configuring-analytics-reports.md#configuring_adobe_analytics_reports).
+Zie [ de rapporten van Adobe Analytics ](configuring-analytics-reports.md#configuring_adobe_analytics_reports) vormen.
 
-**Configuratiegegevens publiceren:**
+**om configuratieinformatie te publiceren:**
 
-1. Selecteer op de algemene navigatiebalk de optie **[!UICONTROL Publish]**.
-1. In de **[!UICONTROL `Publish`]** dialoogvenster selecteert u **[!UICONTROL Submit Publish]**.
+1. Selecteer **[!UICONTROL Publish]** op de algemene navigatiebalk.
+1. Selecteer **[!UICONTROL `Publish`]** in het dialoogvenster **[!UICONTROL Submit Publish]** .

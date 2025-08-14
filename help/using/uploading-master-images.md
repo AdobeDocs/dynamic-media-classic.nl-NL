@@ -19,16 +19,16 @@ ht-degree: 0%
 
 # primaire afbeeldingen uploaden{#uploading-master-images}
 
-Voordat u afbeeldingen uploadt naar Adobe Dynamic Media Classic, moet u ervoor zorgen dat ze de hoogste kwaliteit hebben en de beste indeling hebben. Adobe Dynamic Media Classic raadt aan om afbeeldingen van hoge kwaliteit te uploaden met een voldoende aantal pixels (van 1500 tot 2000 pixels in de lange grootte). Deze grootte staat voor om het even welke Dynamic Imaging toe die wordt vereist.
+Voordat u afbeeldingen uploadt naar Adobe Dynamic Media Classic, moet u ervoor zorgen dat ze de hoogste kwaliteit hebben en de beste indeling hebben. Adobe Dynamic Media Classic raadt aan om afbeeldingen van hoge kwaliteit te uploaden met een voldoende aantal pixels (van 1500 tot 2000 pixels in de lange grootte). Op deze manier kunt u elke vereiste Dynamic Imaging gebruiken.
 
-Zie voor meer informatie over het uploaden van afbeeldingen [Bestanden uploaden](uploading-files.md#uploading_files).
+Voor details bij het uploaden van beelden, zie [ dossiers ](uploading-files.md#uploading_files) uploaden.
 
-**Uw primaire afbeeldingen voorbereiden voor uploaden:**
+**bereidt uw primaire beelden voor upload voor:**
 
 Bereid uw primaire afbeeldingsbestanden voor voordat u ze uploadt naar Adobe Dynamic Media Classic:
 
-* **Afbeeldingsgrootte**: Maak de grootst mogelijke afbeeldingen die u wilt gebruiken. De meeste afbeeldingen zijn 1500 tot 2500 pixels groot. Als u de functie Zoomen wilt gebruiken, raadt Adobe Dynamic Media Classic u aan afbeeldingen te gebruiken die minstens 2000 pixels groot zijn voor optimale zoomdetails. Adobe Dynamic Media Classic kan afbeeldingen renderen tot 25 megapixels per pixel. U kunt bijvoorbeeld een afbeelding van 5000 × 5000 MP of een andere formaatcombinatie van maximaal 25 MP gebruiken.
+* **grootte van het Beeld**: Creeer de grootste groottebeelden die u het gebruiken verwacht. De meeste afbeeldingen zijn 1500 tot 2500 pixels groot. Als u de functie Zoomen wilt gebruiken, raadt Adobe Dynamic Media Classic u aan afbeeldingen te gebruiken die minstens 2000 pixels groot zijn voor optimale zoomdetails. Adobe Dynamic Media Classic kan afbeeldingen renderen tot 25 megapixels per pixel. U kunt bijvoorbeeld een afbeelding van 5000 × 5000 MP of een andere formaatcombinatie van maximaal 25 MP gebruiken.
 
-* **Bestandsindelingen**: Adobe Dynamic Media Classic ondersteunt alle standaardindelingen voor afbeeldingsbestanden. Deze indelingen zijn onder andere TIFF, BMP, JPEG, PSD, GIF en EPS. Afbeeldingsindelingen zonder verlies (TIFF en PNG) worden aanbevolen. Als u een JPEG-afbeelding gebruikt, gebruikt u de instellingen voor de hoogste kwaliteit.
+* **formaten van het Dossier**: Adobe Dynamic Media Classic steunt alle standaardindelingen van het beelddossier. Deze indelingen zijn onder andere TIFF, BMP, JPEG, PSD, GIF en EPS. Afbeeldingsindelingen zonder verlies - TIFF en PNG worden aanbevolen. Als u een JPEG-afbeelding gebruikt, gebruikt u de instellingen voor de hoogste kwaliteit.
 
-* **Kleurruimte**: RGB is de kleurruimte voor webafbeeldingspresentaties. CMYK-afbeeldingen die veel worden gebruikt voor afdrukken, worden automatisch omgezet in RGB wanneer u ze uploadt. Het wordt aanbevolen CMYK-afbeeldingen te uploaden die een ingesloten ICC-kleurprofiel (International Color Consortium) hebben voor de conversie naar RGB. Zie ook [ICC-profielen (International Color Consortium)](/help/using/icc-profiles.md).
+* **de ruimte van de Kleur**: RGB is de kleurenruimte voor de beeldpresentaties van het Web; de beelden CMYK die algemeen voor druk worden gebruikt worden automatisch omgezet in RGB wanneer u hen uploadt. Het wordt aanbevolen CMYK-afbeeldingen te uploaden die een ingesloten ICC-kleurprofiel (International Color Consortium) hebben voor de conversie naar RGB. Zie ook [ ICC (het Internationale Consortium van de Kleur) profielen ](/help/using/icc-profiles.md).

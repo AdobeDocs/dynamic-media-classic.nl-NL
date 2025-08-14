@@ -25,24 +25,24 @@ Als u een van de vooraf gedefinieerde Adobe Dynamic Media Classic HTML5 Viewer-v
 
 ## Adobe Analytics-tracking instellen vanuit Adobe Dynamic Media Classic {#set-up-adobe-analytics-tracking-from-scene-publishing-system}
 
-Voeg voor alle HTML5-viewers de volgende JavaScript-code toe aan de HTML-container, meestal in de map &lt;head> element:
+Voeg voor alle HTML5-viewers de volgende JavaScript toe aan de HTML-container, meestal in het element &lt;head>:
 
 ```as3
 <!-- ***** Adobe Analytics Tracking ***** --><script type="text/javascript" src="https://s7d6.scene7.com/s7viewers/s_code.jsp?company=<Adobe Dynamic Media Classic Company ID>&preset=companypreset-1"></script>
 ```
 
-Wanneer `Adobe Dynamic Media Classic Company ID` wordt ingesteld op de naam van het Adobe Dynamic Media Classic-bedrijf. en `&preset` is optioneel. Als de naam van de bedrijfsvoorinstelling niet gelijk is `companypreset`, dan is het niet optioneel. In dergelijke gevallen kan `companypreset-1, companypreset-2`, enzovoort. Het hogere aantal is een nieuwere instantie van de voorinstelling. Selecteer **[!UICONTROL Copy URL]** en bekijk vervolgens de `preset=`om de naam van de bedrijfsvoorinstelling te zoeken.
+Waar `Adobe Dynamic Media Classic Company ID` is ingesteld op de naam van het Adobe Dynamic Media Classic-bedrijf. En `&preset` is optioneel. Als de naam van de bedrijfsvoorinstelling niet `companypreset` is, is deze niet optioneel. In dergelijke gevallen kan dit `companypreset-1, companypreset-2` zijn, enzovoort. Het hogere aantal is een nieuwere instantie van de voorinstelling. Om de correcte naam van de bedrijfvooraf ingestelde waarde te bepalen, selecteer **[!UICONTROL Copy URL]**, en bekijk dan de `preset=` parameter om de bedrijf vooraf ingestelde naam te vinden.
 
 Als u doorgaat, voegt u nu een functie toe die de viewergebeurtenis naar de trackingcode van Adobe Analytics verzendt.
 
-Voeg de `s7ComponentEvent()` functie aan container HTML (of JSP, of ASPX of andere):
+Voeg de functie `s7ComponentEvent()` toe aan de container HTML (of JSP, of ASPX of andere):
 
 ```as3
 function s7ComponentEvent(objectId, componentClass, instanceName, timeStamp, eventData) {     s7track(eventData); }
 ```
 
-De functienaam is hoofdlettergevoelig. De enige parameter die wordt doorgegeven aan `s7componentEvent`dat is de laatste vereiste : `eventData`. Wanneer `s7track()` wordt gedefinieerd in s_code.jsp hierboven. en `s7track` behandelt al het volgen per elke gebeurtenis. (U kunt gegevens die naar Adobe Analytics worden verzonden, verder aanpassen in dit gebied.)
+De functienaam is hoofdlettergevoelig. De enige parameter die aan `s7componentEvent` wordt overgegaan die wordt vereist is laatste: `eventData`. Waar `s7track()` is gedefinieerd in s_code.jsp die hierboven is opgenomen. En `s7track` handelt alle tracking per gebeurtenis af. (U kunt gegevens die naar Adobe Analytics worden verzonden, verder aanpassen in dit gebied.)
 
 ## HREF- en ITEM-gebeurtenissen inschakelen {#enabling-href-and-item-events}
 
-U kunt HREF-gebeurtenissen (rollover) en ITEM-gebeurtenissen (muisklikken/aanraken) inschakelen in de viewers via Afbeeldingskaart bewerken. Definieer de id&#39;s voor de HREF en het ITEM in de afbeelding met hyperlinks die aan de viewerinhoud zijn gekoppeld. Voeg een `&rolloverKey=` aan de waarde HREF binnen de Kaart van het Beeld.
+U kunt HREF-gebeurtenissen (rollover) en ITEM-gebeurtenissen (muisklikken/aanraken) inschakelen in de viewers via Afbeeldingskaart bewerken. Definieer de id&#39;s voor de HREF en het ITEM in de afbeelding met hyperlinks die aan de viewerinhoud zijn gekoppeld. Voeg een parameter `&rolloverKey=` toe aan de HREF-waarde in de Afbeeldingskaart.

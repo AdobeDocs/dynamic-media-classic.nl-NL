@@ -21,24 +21,24 @@ ht-degree: 0%
 
 U kunt Voorvertoning gebruiken om uw eCatalog weer te geven met verschillende voorinstellingen voor de eCatalog-viewer. U kunt met de verschillende besturingselementen experimenteren om pagina&#39;s om te slaan, notities te schrijven en te bladeren.
 
-Zie [Standaardviewers configureren](application-setup.md#configuring_default_viewers).
+Zie [ standaardkijkers ](application-setup.md#configuring_default_viewers) vormen.
 
-Zie [Een voorvertoning van een element weergeven](previewing-asset.md#previewing_an_asset).
+Zie [ Voorproef een activa ](previewing-asset.md#previewing_an_asset).
 
-**Een voorvertoning van eCatalogi weergeven in de eCatalog-viewer:**
+**aan voorproef eCatalogs in de eCatalogKijker:**
 
 1. Selecteer in het deelvenster Elementenbibliotheek aan de linkerkant in de vervolgkeuzelijst Tonen een op video gebaseerd elementtype, zoals Video of Videoset.
 1. Navigeer in het deelvenster Elementenbibliotheek aan de linkerkant naar de mappen Middelen met video&#39;s die u wilt voorvertonen met een eCatalog-viewer.
 1. Voer een van de volgende handelingen uit:
 
-   * Selecteer boven het middelenvenster rechts op de werkbalk de optie **[!UICONTROL Grid View]**. Ga in het venster Middelen onder de miniatuurafbeelding naar **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]**.
-   * Selecteer boven het middelenvenster rechts op de werkbalk de optie **[!UICONTROL List View]**. Selecteer een element in het venster Element en ga vervolgens naar **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]**.
-   * Selecteer boven het middelenvenster rechts op de werkbalk de optie **[!UICONTROL Detail View]**. Ga op dezelfde werkbalk naar **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]**.
+   * Selecteer **[!UICONTROL Grid View]** boven het Assets-venster rechts op de werkbalk. Ga in het venster Middelen onder de miniatuurafbeelding naar **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]** .
+   * Selecteer **[!UICONTROL List View]** boven het Assets-venster rechts op de werkbalk. Selecteer een element in het venster Element en ga vervolgens naar **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]** rechts van de miniatuurafbeelding.
+   * Selecteer **[!UICONTROL Detail View]** boven het Assets-venster rechts op de werkbalk. Ga op dezelfde werkbalk naar **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]** .
 
 1. Selecteer in het venster Viewer List in de tabel een viewerkoppeling om een voorvertoning van het element weer te geven in de geselecteerde viewer.
 1. Sluit de weergegeven viewer.
-1. Selecteer in de rechterbenedenhoek van het venster Viewer List de optie **[!UICONTROL Close]** om terug te keren naar het scherm Middelen.
+1. Selecteer **[!UICONTROL Close]** in de rechterbenedenhoek van het venster Viewer List om terug te keren naar het Assets-scherm.
 
 >[!MORELIKETHIS]
 >
->* [Voorinstellingen eCatalog-viewer instellen](setting-ecatalog-viewer-presets.md#setting_up_ecatalog_viewer_presets)
+>* [ de Kijker van de Opstelling eCatalog stelt vooraf in ](setting-ecatalog-viewer-presets.md#setting_up_ecatalog_viewer_presets)

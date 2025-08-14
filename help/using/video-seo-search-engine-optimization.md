@@ -23,9 +23,9 @@ SEO is het proces om het volume van verkeer aan een Website van onderzoeksmotore
 
 Met Adobe Dynamic Media Classic Video SEO kunt u videometagegevens toepassen om zoekprogramma&#39;s beschrijvingen van uw video&#39;s te bieden. Adobe Dynamic Media Classic biedt u de mogelijkheid om videositemaps en mRSS-feeds te maken. Deze standaard XML-bestanden worden gebruikt voor het verzenden van videogegevens naar zoekprogramma&#39;s:
 
-* **Video Sitemap**: Hiermee wordt Google precies aangegeven waar en wat de video-inhoud op een site is. Op Google kunnen dus volledig naar video&#39;s worden gezocht. Een videositemap kan bijvoorbeeld de actieve tijd en de categorieën video&#39;s opgeven. Voor informatie over videobeelden raadpleegt u [Videositemaps en alternatieven voor videositemap](https://developers.google.com/search/docs/crawling-indexing/sitemaps/video-sitemaps?visit_id=637558394348624754-567115452&amp;rd=1).
+* **Video Sitemap**: Maakt Google precies waar en wat de videoinhoud op een plaats is. Op Google kunnen dus volledig naar video&#39;s worden gezocht. Een videositemap kan bijvoorbeeld de actieve tijd en de categorieën video&#39;s opgeven. Voor informatie over VideoSitemaps, zie [ Video sitemaps en videoalternatieven sitemap ](https://developers.google.com/search/docs/crawling-indexing/sitemaps/video-sitemaps?visit_id=637558394348624754-567115452&rd=1).
 
-* **mRSS-feed (Media Echt eenvoudige syntaxis)**: Wordt gebruikt door uitgevers van inhoud om mediabestanden te importeren in Yahoo! Video zoeken. Voor informatie over mRSS feeds, zie [Videositemaps en alternatieven voor videositemap](https://developers.google.com/search/docs/crawling-indexing/sitemaps/video-sitemaps?visit_id=637558394348624754-567115452&amp;rd=1).
+* **mRSS (Media Echt Eenvoudige Syndicatie) voer**: Gebruikt door inhouduitgevers om media dossiers in Yahoo te voeren! Video zoeken. Voor informatie over de diervoeders van mRSS, zie [ Video sitemaps en de alternatieven van videositemap ](https://developers.google.com/search/docs/crawling-indexing/sitemaps/video-sitemaps?visit_id=637558394348624754-567115452&rd=1).
 
 >[!NOTE]
 >
@@ -45,44 +45,44 @@ Nadat u deze hebt gegenereerd, maakt Adobe Dynamic Media Classic rapporten over 
 
 ## Video-SEO-instellingen kiezen
 
-Selecteer Video SEO-instellingen voor Video Sitemaps en MRSS-feeds op het tabblad **[!UICONTROL Video Search Engine Optimization Settings]** pagina. Ga naar **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Video SEO]** > **[!UICONTROL Settings]**.
+Selecteer Video SEO-instellingen voor Video Sitemaps en MRSS-feeds op de **[!UICONTROL Video Search Engine Optimization Settings]** -pagina. Ga naar **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Video SEO]** > **[!UICONTROL Settings]** om deze pagina op de algemene navigatiebalk te openen.
 
-In de **[!UICONTROL General Setting]** of u videositemaps, mRSS-feeds of beide wilt genereren. In de **[!UICONTROL Generation Settings]** gebied, metagegevensvelden toewijzen aan invoervelden.
+Kies in het gebied **[!UICONTROL General Setting]** of u videositemaps, mRSS-feeds of beide wilt genereren. Wijs in het gebied **[!UICONTROL Generation Settings]** metagegevensvelden toe aan invoervelden.
 
-Nadat u instellingen hebt gekozen, selecteert u **[!UICONTROL Save]** (of **[!UICONTROL Save & Generate]**) om de videositemap, mRSS-feeds of beide te maken.
+Nadat u de instellingen hebt gekozen, selecteert u **[!UICONTROL Save]** (of **[!UICONTROL Save & Generate]** ) om de videositemap, mRSS-feeds of beide te maken.
 
 ### Algemene instellingen instellen {#choosing-general-settings}
 
-Op de **[!UICONTROL Generation Mode]** drop-down lijst, kies een rapportwijze:
+Kies een rapportmodus in de vervolgkeuzelijst **[!UICONTROL Generation Mode]** :
 
-* **Video Sitemap**: Maak een videositemap.
+* **Video Sitemap**: Creeer een Video Sitemap.
 
-* **mRSS Feed**: Maak een Media RSS-feed (mRSS).
+* **mRSS Feed**: Creeer een (mRSS) voer van Media.
 
-* **Beide**: Maak beide typen XML-bestanden.
+* **allebei**: Creeer beide soorten dossiers van XML.
 
-* **Uit**: Kies deze optie om het genereren van videositemaps en Media RSS-feeds (mRSS) te stoppen.
+* **weg**: Ophouden producerend VideoSitemaps en het voer van Media RSS (mRSS), verkies deze optie.
 
-Op de **[!UICONTROL Automatic/Manual Mode]** kiest u of u automatisch of handmatig wilt genereren:
+Kies in de vervolgkeuzelijst **[!UICONTROL Automatic/Manual Mode]** of u automatisch of handmatig wilt genereren:
 
-* **Automatische modus**: Adobe Dynamic Media Classic genereert elke dag automatisch één videositemap, Media RSS-feed (mRSS) of beide. Selecteer de **[!UICONTROL Mark for Publish]** zodat u het door Adobe Dynamic Media Classic gegenereerde XML-bestand automatisch kunt markeren voor publicatie.
+* **Automatische Wijze**: Adobe Dynamic Media Classic produceert automatisch één VideoSitemap, (mRSS) voer van Media RSS, of allebei, elke dag. Selecteer de optie **[!UICONTROL Mark for Publish]** zodat u het door Adobe Dynamic Media Classic gegenereerde XML-bestand automatisch kunt markeren voor publicatie.
 
-   * **Markeren voor publicatie** Markeringen voor het publiceren van het XML-bestand dat wordt gegenereerd.
+   * **Teken voor Publish** Tekens voor publiceer het dossier van XML dat wordt geproduceerd.
 
-* **Handmatige modus**: Adobe Dynamic Media Classic genereert de video Sitemap, Media RSS (mRSS)-feed of beide wanneer u **[!UICONTROL Generate]** of **[!UICONTROL Save & Generate]** in het scherm Optimalisatie-instellingen voor video zoeken. Kies ook de volgende opties:
+* **Handmatige Wijze**: Adobe Dynamic Media Classic produceert de VideoSitemap, (mRSS) voer van Media RSS, of allebei, wanneer u **[!UICONTROL Generate]** of **[!UICONTROL Save & Generate]** in het Video scherm van de Montages van de Optimalisering van het Onderzoek selecteert. Kies ook de volgende opties:
 
-   * **Geen verdere instellingen**: Hiermee wordt het gegenereerde XML-bestand niet gemarkeerd voor publicatie.
+   * **Geen Verdere Montages**: Merk voor publiceer niet het dossier van XML dat wordt geproduceerd.
 
-   * **Markeren voor publicatie**: Markeringen voor het publiceren van het XML-bestand dat wordt gegenereerd.
+   * **Teken voor Publish**: De markeringen voor publiceren het dossier van XML dat wordt geproduceerd.
 
-   * **Gedeeltelijke generatie toestaan**: Zoekprogramma&#39;s kunnen een XML-bestand afwijzen als het geen volledige metagegevens voor alle video&#39;s bevat. Met deze optie wordt het XML-bestand gegenereerd, zelfs als voor bepaalde video&#39;s geen metagegevens beschikbaar zijn. Een waarschuwing wordt geregistreerd op het scherm van het Rapport. Kies deze optie als u het XML-bestand wilt exporteren en de ontbrekende gegevens handmatig wilt verwerken.
+   * **staat Gedeeltelijke Generatie** toe: De motoren van het onderzoek kunnen een dossier van XML verwerpen als het volledige meta-gegevensinformatie voor alle video&#39;s niet bevat. Met deze optie wordt het XML-bestand gegenereerd, zelfs als voor bepaalde video&#39;s geen metagegevens beschikbaar zijn. Een waarschuwing wordt geregistreerd op het scherm van het Rapport. Kies deze optie als u het XML-bestand wilt exporteren en de ontbrekende gegevens handmatig wilt verwerken.
 
 ### Generatie-instellingen kiezen {#choosing-generation-settings}
 
 In het gedeelte Instellingen genereren worden invoervelden weergegeven voor de videositemap, de mRSS-feed of beide. In het deelvenster Metagegevens worden de namen van metagegevensvelden weergegeven. In het gedeelte Algemene instellingen kunt u invoervelden toewijzen aan metagegevensvelden. Op deze manier geeft u Adobe Dynamic Media Classic de locatie op waar u metagegevens voor de videositemap en/of MRSS-feed wilt verkrijgen.
 
 1. Kies een metagegevensweergave in het menu Weergaven Metagegevens. Nadat u een weergave hebt gekozen, worden de namen van metagegevensvelden weergegeven in het deelvenster Metagegevens.
-Zie [Weergaven metagegevens](application-setup.md#metadata_views).
+Zie {de meningen van 0} Meta-gegevens [.](application-setup.md#metadata_views)
 1. Sleep namen van metagegevensvelden van het deelvenster Metagegevens naar de invoervelden Openingspagina, Titel, Beschrijving, Labels en Categorie. De velden Openingspagina, Titel en Beschrijving zijn vereist.
 
    >[!NOTE]
@@ -91,14 +91,14 @@ Zie [Weergaven metagegevens](application-setup.md#metadata_views).
 
 1. Voer een van de volgende handelingen uit:
 
-   * Als u uw instellingen wilt opslaan zonder het XML-bestand te genereren, selecteert u **[!UICONTROL Save]**.
-   * Selecteer **[!UICONTROL Save & Generate]**.
+   * Selecteer **[!UICONTROL Save]** als u uw instellingen wilt opslaan zonder het XML-bestand te genereren.
+   * Selecteer **[!UICONTROL Save & Generate]** om het bestand op te slaan en te genereren.
 
      Het XML-bestand wordt gegenereerd en opgenomen in het taaklogbestand. Video Sitemap (video-sitemap) en een Media RSS-feed (mRSS) worden opgeslagen in de hoofdmap van uw bedrijf.
 
 >[!NOTE]
 >
->Publiceer de videospecificaties of de MRSS-feed voordat u deze kunt verzenden naar zoekprogramma&#39;s. Video Sitemap en Media RSS (mRSS) de voederdossiers worden opgeslagen in de wortelomslag van het bedrijf. Markeer deze XML-bestanden voor publicatie, indien nodig, en selecteer **[!UICONTROL Publish]**.
+>Publiceer de videospecificaties of de MRSS-feed voordat u deze kunt verzenden naar zoekprogramma&#39;s. Video Sitemap en Media RSS (mRSS) de voederdossiers worden opgeslagen in de wortelomslag van het bedrijf. Markeer deze XML-bestanden voor publicatie, indien nodig, en selecteer **[!UICONTROL Publish]** .
 
 ## Video-items en RSS-Feed-bestanden verzenden naar een zoekprogramma {#submitting-video-sitemap-and-mrss-feed-files-to-search-engines}
 
@@ -111,6 +111,6 @@ Kopieer een van deze URL&#39;s naar de webstramiengereedschappen van het zoekpro
 
 ## Video SEO-rapporten weergeven {#viewing-video-seo-reports}
 
-Bekijk video SEO rapporten op de Videopagina van het Rapport van de Optimalisering van de Motor van het Onderzoek van het Onderzoek. Ga naar **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Video SEO]** > **[!UICONTROL Reports]**.
+Bekijk video SEO rapporten op de Videopagina van het Rapport van de Optimalisering van de Motor van het Onderzoek van het Onderzoek. Ga naar **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Video SEO]** > **[!UICONTROL Reports]** om deze pagina op de algemene navigatiebalk te openen.
 
 Als de fouten voorkwamen toen een rapport werd geproduceerd, zijn zij vermeld op de pagina van het Rapport.

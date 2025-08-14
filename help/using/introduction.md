@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Adobe Dynamic Media Classic is het toonaangevende systeem voor het publiceren van verschillende media op aanvraag. U kunt dynamische rijke inhoud uploaden, beheren, verbeteren en publiceren naar alle apparaten en schermen. De oplossingen van Adobe Dynamic Media Classic omvatten het volgende:
 
-* Dynamic Imaging: realtime bewerken, opmaken en vergroten/verkleinen, interactief zoomen en pannen; kleur `swatching` en structuur `swatching`; 360 graden draaien; afbeeldingssjablonen; multimediaviewers.
+* Dynamic Imaging: Real-time bewerken, opmaken en vergroten/verkleinen, interactief zoomen en pannen, kleur `swatching` en structuur `swatching`; 360 graden draaien; afbeeldingssjablonen; multimediaviewers.
 * eCatalogs: Auteur, hotspot het verbinden, onderzoek-toegelaten, publiceert, en levert dynamisch gediende online catalogi in configureerbare kijkers.
 * Mediaportaal: Self-serveromgeving die portalgebruikers van door de beheerder gecontroleerde &quot;weergaven&quot; in Adobe Dynamic Media Classic-middelen voorziet, zodat ze eenvoudig toegang hebben tot het uploaden, bladeren, zoeken, voorvertonen en exporteren van middelen.
 * eVideo: Definitieve video&#39;s uploaden in elke gewenste indeling, beheren, bewerken, hotspots en videosjablonen maken, publiceren en streamen naar configureerbare videoviewers
@@ -27,9 +27,9 @@ Adobe Dynamic Media Classic is het toonaangevende systeem voor het publiceren va
 
 Zie ook de volgende trainingsvideo&#39;s:
 
-* [Inleiding](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&amp;emailurl=https://s7d5.scene7.com/s7/emailFriend&amp;serverUrl=https://s7d5.scene7.com/is/image/&amp;config=Scene7SharedAssets/Universal_HTML5_Video&amp;contenturl=https://s7d5.scene7.com/skins/&amp;asset=S7tutorials/570_Introduction_converted%20renamed_Getting%20Started-AVS)
-* [Wat is Adobe Dynamic Media Classic](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&amp;emailurl=https://s7d5.scene7.com/s7/emailFriend&amp;serverUrl=https://s7d5.scene7.com/is/image/&amp;config=Scene7SharedAssets/Universal_HTML5_Video&amp;contenturl=https://s7d5.scene7.com/skins/&amp;asset=S7tutorials/577_What%20is%20Scene7_converted%20renamed_Getting%20Started-AVS)
-* [Overzicht van platform](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&amp;emailurl=https://s7d5.scene7.com/s7/emailFriend&amp;serverUrl=https://s7d5.scene7.com/is/image/&amp;config=Scene7SharedAssets/Universal_HTML5_Video&amp;contenturl=https://s7d5.scene7.com/skins/&amp;asset=S7tutorials/572_Platform%20Overview_converted%20renamed_Getting%20Started-AVS)
+* [ Inleiding ](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&emailurl=https://s7d5.scene7.com/s7/emailFriend&serverUrl=https://s7d5.scene7.com/is/image/&config=Scene7SharedAssets/Universal_HTML5_Video&contenturl=https://s7d5.scene7.com/skins/&asset=S7tutorials/570_Introduction_converted%20renamed_Getting%20Started-AVS)
+* [ wat is Adobe Dynamic Media Classic ](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&emailurl=https://s7d5.scene7.com/s7/emailFriend&serverUrl=https://s7d5.scene7.com/is/image/&config=Scene7SharedAssets/Universal_HTML5_Video&contenturl=https://s7d5.scene7.com/skins/&asset=S7tutorials/577_What%20is%20Scene7_converted%20renamed_Getting%20Started-AVS)
+* [ Overzicht van het Platform ](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&emailurl=https://s7d5.scene7.com/s7/emailFriend&serverUrl=https://s7d5.scene7.com/is/image/&config=Scene7SharedAssets/Universal_HTML5_Video&contenturl=https://s7d5.scene7.com/skins/&asset=S7tutorials/572_Platform%20Overview_converted%20renamed_Getting%20Started-AVS)
 
 ## Belangrijke bronnen
 
@@ -42,7 +42,7 @@ Zie ook de volgende trainingsvideo&#39;s:
 * [Snel starten: gemengde mediasets](/help/using/quick-start-mixed-media-sets.md)
 * [Snel starten: centrifuges](/help/using/quick-start-spin-sets.md)
 * [Snel starten: Staalsets](/help/using/quick-start-swatch-sets.md)
-* [Snel aan de slag: Standaard/Premium-integratie](/help/using/quick-start-target-integration.md)
+* [Snel starten: Target Standard/Premium-integratie](/help/using/quick-start-target-integration.md)
 * [Snel starten: Basisbeginselen van sjablonen](/help/using/quick-start-template-basics.md)
 * [Snel starten: Video](/help/using/quick-start-video.md)
 * [Snel starten: Zoomen](/help/using/quick-start-zoom.md)

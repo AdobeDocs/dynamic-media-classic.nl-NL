@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # URL&#39;s koppelen aan uw webtoepassing{#linking-urls-to-your-web-application}
 
-Uw websites en toepassingen hebben via URL-tekenreeksen toegang tot Dynamic Media Image Server-inhoud. Nadat u een afbeelding hebt gepubliceerd, activeert Adobe Dynamic Media Classic een URL-tekenreeks die verwijst naar de voorinstelling van de afbeelding op Dynamic Media Image Servers. U kunt deze URL&#39;s in een webbrowser plakken om ze te testen.
+Uw websites en toepassingen hebben toegang tot de inhoud van Dynamic Media Image Server via URL-tekenreeksen. Nadat u een afbeelding hebt gepubliceerd, activeert Adobe Dynamic Media Classic een URL-tekenreeks die verwijst naar de voorinstelling Afbeelding op Dynamic Media Image Servers. U kunt deze URL&#39;s in een webbrowser plakken om ze te testen.
 
 Kopieer deze URL-tekenreeksen vanuit Adobe Dynamic Media Classic om deze in uw webpagina&#39;s en toepassingen te plaatsen. Als u een URL-tekenreeks wilt ophalen die is gegenereerd met een voorinstelling voor afbeelding, gaat u naar het voorvertoningsscherm of het deelvenster Bladeren (in de gedetailleerde weergave).
 
@@ -36,29 +36,29 @@ U kunt een URL-tekenreeks die is gegenereerd door een voorinstelling voor afbeel
 1. Navigeer in het deelvenster Elementenbibliotheek aan de linkerkant naar de map Asset die het afbeeldingselement bevat waarvan u een voorvertoning wilt weergeven.
 1. Voer een van de volgende handelingen uit:
 
-   * Selecteer boven het middelenvenster rechts op de werkbalk de optie **[!UICONTROL Grid View]**. Selecteer in het venster Middelen één afbeeldingselement en ga vervolgens onder de miniatuurafbeelding naar **[!UICONTROL Preview]** > **[!UICONTROL Image Preset List]**.
-   * Selecteer boven het middelenvenster rechts op de werkbalk de optie **[!UICONTROL List View]**. Selecteer in het venster Middelen één afbeeldingselement en ga vervolgens rechts van de miniatuurafbeelding naar **[!UICONTROL Preview]** > **[!UICONTROL Image Preset List]**.
-   * Selecteer boven het middelenvenster rechts op de werkbalk de optie **[!UICONTROL Detail View]**. Ga op dezelfde werkbalk naar **[!UICONTROL Preview]** > **[!UICONTROL Image Preset List]**.
+   * Selecteer **[!UICONTROL Grid View]** boven het Assets-venster rechts op de werkbalk. Selecteer in het venster Middelen één afbeeldingselement en ga vervolgens onder de miniatuurafbeelding naar **[!UICONTROL Preview]** > **[!UICONTROL Image Preset List]** .
+   * Selecteer **[!UICONTROL List View]** boven het Assets-venster rechts op de werkbalk. Selecteer in het venster Middelen één afbeeldingselement en ga vervolgens naar **[!UICONTROL Preview]** > **[!UICONTROL Image Preset List]** rechts van de miniatuurafbeelding.
+   * Selecteer **[!UICONTROL Detail View]** boven het Assets-venster rechts op de werkbalk. Ga op dezelfde werkbalk naar **[!UICONTROL Preview]** > **[!UICONTROL Image Preset List]** .
 
 1. (Optioneel) Selecteer in de lijst Voorinstellingen afbeelding in de vervolgkeuzelijst URL-codering voor URL-generatie kopiëren de URL-codering die u op de URL van het afbeeldingselement wilt toepassen wanneer het element wordt gekopieerd.
-1. Selecteer in het venster Lijst met voorinstellingen afbeelding rechtsboven in het voorvertoningsvenster de optie **[!UICONTROL Copy URL]** voor het geselecteerde vooraf ingestelde type.
-1. Selecteer in de rechterbenedenhoek van het venster Lijst met voorinstellingen afbeelding de optie **[!UICONTROL Close]** om terug te keren naar het scherm Middelen.
+1. Selecteer in de rechterbovenhoek van het voorvertoningsvenster van het venster Lijst met voorinstellingen afbeelding de optie **[!UICONTROL Copy URL]** voor het geselecteerde type voorinstelling.
+1. Selecteer **[!UICONTROL Close]** in de rechterbenedenhoek van het venster Lijst met voorinstellingen afbeelding om terug te keren naar het Assets-scherm.
 
 ### Een vooraf ingestelde URL voor afbeeldingen verkrijgen via het deelvenster Bladeren {#obtaining-an-image-preset-url-from-the-browse-panel}
 
 1. Navigeer in het deelvenster Elementenbibliotheek aan de linkerkant naar de map Asset die het afbeeldingselement bevat waarvan u een voorvertoning wilt weergeven.
-1. Selecteer boven het middelenvenster rechts op de werkbalk de optie **[!UICONTROL Grid View]**. Selecteer in het venster Middelen één afbeeldingselement.
-1. Selecteer boven het middelenvenster rechts op de werkbalk de optie **[!UICONTROL Detail View]**.
-1. Selecteren **[!UICONTROL URLs]** in het deelvenster aan de rechterkant van het scherm, zodat u de lijst met voorinstellingen voor afbeeldingen kunt uitvouwen.
-1. Selecteren **[!UICONTROL Copy URL]** koppeling naast de naam van de voorinstelling Afbeelding met de URL die u naar het klembord wilt kopiëren.
+1. Selecteer **[!UICONTROL Grid View]** boven het Assets-venster rechts op de werkbalk. Selecteer in het venster Middelen één afbeeldingselement.
+1. Selecteer **[!UICONTROL Detail View]** boven het Assets-venster rechts op de werkbalk.
+1. Selecteer **[!UICONTROL URLs]** in het deelvenster aan de rechterkant van het scherm, zodat u de lijst met voorinstellingen voor afbeeldingen kunt uitvouwen.
+1. Selecteer **[!UICONTROL Copy URL]** naast de naam van de voorinstelling Afbeelding met de URL die u naar het klembord wilt kopiëren.
 
 ## Over URL-tekenreeksen met voorinstellingen afbeelding {#about-image-preset-url-strings}
 
-Een URL-aanroep naar Afbeeldingsgrootte op Dynamic Media Image Servers heeft de volgende basissyntaxis:
+Een URL-aanroep voor Afbeeldingsgrootte tot Dynamische Media Image Servers heeft de volgende basissyntaxis:
 
-*pad*/*naam van afbeeldingsserver*/*accountnaam*/*afbeeldingsnaam*?*modifier1*&amp;*modifier2*&amp;...
+*weg*/*naam van de Server van het Beeld*/ *rekeningsnaam*/ *beeldnaam*?*modifier1* &amp;*modifier2* &amp;..
 
-In een URL van de Server van het Beeld van Dynamic Media, verschijnen de instructies aan de server voor het tonen van het beeld na het vraagteken (?). Deze URL-aanroep levert bijvoorbeeld een afbeelding met de naam &quot;backpack&quot; met een breedte van 250 pixels:
+In een URL van een Dynamic Media Image Server worden instructies aan de server voor het weergeven van de afbeelding weergegeven na het vraagteken (?). Deze URL-aanroep levert bijvoorbeeld een afbeelding met de naam &quot;backpack&quot; met een breedte van 250 pixels:
 
 ```as3
 https://s7d1.scene7.com/is/image/S7learn/backpack?wid=250
@@ -76,11 +76,11 @@ In een URL-tekenreeks die is gegenereerd met een voorinstelling voor afbeelding,
 https://s7d1.scene7.com/is/image/S7learn/backpack?$Large$
 ```
 
-Namen van voorinstellingen voor afbeeldingen in URL&#39;s worden ingesloten door dollartekens ($). Wanneer een Dynamic Media Image Server het gedeelte Voorinstelling afbeelding van de URL aantreft (de `Large` in dit geval), met behulp van de grootte- en opmaakinstructies die zijn gedefinieerd in de voorinstelling Grote afbeelding.
+Namen van voorinstellingen voor afbeeldingen in URL&#39;s worden ingesloten door dollartekens ($). Wanneer een server van het Beeld van het Beeld van de Dynamische Media het Beeld vooraf ingestelde gedeelte van URL (`Large` in dit geval) ontmoet, gebruikend de grootte en het formatteren instructies die door de &quot;Grote&quot;Vooraf ingestelde Beeld worden bepaald.
 
 ## Dynamische afbeeldingen toevoegen aan uw webpagina {#adding-dynamic-images-to-your-web-page}
 
-Wanneer u dynamische afbeeldingen aan uw webpagina toevoegt, kunt u `<IMG>` -tag in uw HTML-paginacode wordt doorgaans gewijzigd met de Adobe Dynamic Media Classic URL-tekenreeks, zodat een aanvraag kan worden ingediend bij Dynamic Media Image Servers. Met deze tekenreeks wordt de afbeelding gemaakt met de grootte en opmaakspecificaties die zijn gedefinieerd in de voorinstelling voor afbeelding.
+Wanneer u dynamische afbeeldingen aan uw webpagina toevoegt, wordt de tag `<IMG>` in de HTML-paginacode doorgaans gewijzigd met de Adobe Dynamic Media Classic URL-tekenreeks om een aanvraag in te dienen bij Dynamic Media Image Servers. Met deze tekenreeks wordt de afbeelding gemaakt met de grootte en opmaakspecificaties die zijn gedefinieerd in de voorinstelling voor afbeelding.
 
 Bijvoorbeeld, in plaats van de typische vraag om een statische beeld zoals te openen
 
@@ -88,10 +88,10 @@ Bijvoorbeeld, in plaats van de typische vraag om een statische beeld zoals te op
 img src="/company_images/products/backpack_thumbnail.jpg"
 ```
 
-U gebruikt nu de opdracht `<IMG>`-tag gebruiken om de verwijzing naar een statische afbeelding te vervangen door een aanroep van Voorinstellingen afbeelding naar het Adobe Dynamic Media Classic-platform. Een steekproefvraag kijkt als dit:
+U gebruikt nu de `<IMG>` markering om de verwijzing naar een statisch beeld met een Beeld te vervangen vooraf ingestelde vraag aan het platform van Adobe Dynamic Media Classic. Een steekproefvraag kijkt als dit:
 
 ```as3
 img src="https://s7d2.scene7.com/is/image/S7learn/backpack_trns?$thumbnail$"
 ```
 
-In dit voorbeeld zoekt een Dynamic Media Image Server de definitie van `$thumbnail$` en genereert dynamisch de juiste afbeelding met de specificaties voor grootte en opmaak die zijn gedefinieerd in de `thumbnail`Voorinstelling afbeelding. In een URL-tekenreeks worden alle items behalve de bestandsnaam van de productafbeelding ( `backpack_trns` (in dit geval) zijn gewoonlijk voor de paginasjabloon vastgemaakt. Het enige element dat automatisch in het paginasjabloon van uw handelsserver wordt opgenomen is IPS identiteitskaart of naam van het beeld.
+In dit voorbeeld, &quot;kijkt de Dynamische Server van het Beeld van Media omhoog&quot;de definitie van `$thumbnail$` en produceert dynamisch het aangewezen beeld met het rangschikken en het formatteren specificaties die door het `thumbnail` Vooraf ingestelde Beeld worden bepaald. In een URL-tekenreeks worden alle items behalve de bestandsnaam van de productafbeelding ( `backpack_trns` in dit geval) doorgaans voor de paginasjabloon vastgezet. Het enige element dat automatisch in het paginasjabloon van uw handelsserver wordt opgenomen is IPS identiteitskaart of naam van het beeld.

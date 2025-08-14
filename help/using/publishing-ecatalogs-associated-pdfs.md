@@ -1,6 +1,6 @@
 ---
-title: E-catalogi en bijbehorende PDF publiceren
-description: Leer hoe u eCatalogs en bijbehorende PDF kunt publiceren vanuit Adobe Dynamic Media Classic.
+title: E-catalogi en bijbehorende PDF's publiceren
+description: Leer hoe u eCatalogs en bijbehorende PDF's publiceert vanuit Adobe Dynamic Media Classic.
 contentOwner: Rick Brough
 content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
@@ -17,24 +17,24 @@ ht-degree: 0%
 
 ---
 
-# E-catalogi en bijbehorende PDF publiceren{#publishing-ecatalogs-and-associated-pdfs}
+# E-catalogi en bijbehorende PDF&#39;s publiceren{#publishing-ecatalogs-and-associated-pdfs}
 
-Bij het publiceren worden uw eCatalog en PDF op Dynamic Media Image Servers geplaatst, zodat u deze ter beschikking kunt stellen van uw website of toepassing. Als onderdeel van het publicatieproces activeert Adobe Dynamic Media Classic de URL-tekenreeks. U kunt deze URL-tekenreeks in de code van de HTML-webpagina plaatsen.
+Bij publicatie worden uw eCatalog en PDF op Dynamic Media Image Servers geplaatst, zodat deze beschikbaar kunnen worden gesteld op uw website of toepassing. Als onderdeel van het publicatieproces activeert Adobe Dynamic Media Classic de URL-tekenreeks. U kunt deze URL-tekenreeks in de code van uw HTML-webpagina plaatsen.
 
 >[!NOTE]
 >
->Zorg ervoor dat uw eCatalog en PDF zich in dezelfde map bevinden. En zorg ervoor dat ze zijn gemarkeerd voor publicatie in het deelvenster Bladeren of op de pagina Asset Details voordat u ze publiceert.
+>Zorg ervoor dat uw eCatalog en PDF in dezelfde map staan. En zorg ervoor dat ze zijn gemarkeerd voor publicatie in het deelvenster Bladeren of op de pagina Asset Details voordat u ze publiceert.
 
-**E-catalogi en bijbehorende PDF publiceren:**
+**om eCatalogs en bijbehorende PDFs te publiceren:**
 
-1. Selecteer op de algemene navigatiebalk de optie **[!UICONTROL Publish]**.
-1. Selecteer in het scherm Publiceren de optie **[!UICONTROL One-Time]**, of selecteer **[!UICONTROL Recurring]**.
+1. Selecteer **[!UICONTROL Publish]** op de algemene navigatiebalk.
+1. Selecteer **[!UICONTROL One-Time]** in het scherm Publiceren of selecteer **[!UICONTROL Recurring]** .
 1. (Optioneel) Voer in het veld Taaknaam een naam in voor de publicatietaak, maar houd de vooraf gedefinieerde datum- en tijdtekst behouden.
 
-   Als u uw eCatalog opstelt zodat de kijkers sleutelwoordonderzoeken kunnen uitvoeren, zorg ervoor dat de sleutelwoordgegevens worden gepubliceerd. Selecteer in het dialoogvenster Publiceren **[!UICONTROL Advanced]**. Van de **[!UICONTROL Publish]** vervolgkeuzelijst, selecteert u **[!UICONTROL Full w/ Search Data]**. Deze optie is standaard ingeschakeld.
+   Als u uw eCatalog opstelt zodat de kijkers sleutelwoordonderzoeken kunnen uitvoeren, zorg ervoor dat de sleutelwoordgegevens worden gepubliceerd. Selecteer **[!UICONTROL Advanced]** in het dialoogvenster Publiceren. Selecteer **[!UICONTROL Publish]** in de vervolgkeuzelijst **[!UICONTROL Full w/ Search Data]** . Deze optie is standaard ingeschakeld.
 
-1. Selecteren **[!UICONTROL Submit Publish]**.
+1. Selecteer **[!UICONTROL Submit Publish]** .
 
 >[!MORELIKETHIS]
 >
->* [Bestanden publiceren](publishing-files.md)
+>* [ publiceer dossiers ](publishing-files.md)

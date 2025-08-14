@@ -31,13 +31,13 @@ Last Modified Date:
 
 U kunt instellen automatiseren als een onafhankelijke taak die niet afhankelijk is van een upload.
 
-**Genereren van afbeeldingsset automatiseren:**
+**om Vastgestelde generatie van het Beeld te automatiseren:**
 
-1. Ga naar **[!UICONTROL File]** > **[!UICONTROL Generate Set]**.
+1. Ga naar **[!UICONTROL File]** > **[!UICONTROL Generate Set]** .
 1. Geef een taaknaam op in het dialoogvenster Set genereren.
 
    Standaard krijgt de taak een naam die aangeeft dat het een gegenereerde taak is en wanneer de taak is gegenereerd.
 
 1. Selecteer de voorinstelling die u wilt toepassen.
-1. Selecteren **[!UICONTROL Destination Folder]** en geeft u vervolgens de map op die u wilt gebruiken.
-1. Selecteren **[!UICONTROL Submit]**.
+1. Selecteer **[!UICONTROL Destination Folder]** en geef vervolgens de map op die u wilt gebruiken.
+1. Selecteer **[!UICONTROL Submit]** .

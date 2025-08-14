@@ -22,7 +22,7 @@ Voordat u een afbeeldingselement kunt uploaden, vraagt u eerst om een sleutel vo
 
 >[!IMPORTANT]
 >
->Vanaf 1 mei 2023 zijn UGC-middelen in Dynamic Media beschikbaar voor gebruik tot 60 dagen na de uploaddatum. Na 60 dagen worden de middelen verwijderd.
+>Vanaf 1 mei 2023 zijn UGC-elementen in Dynamic Media beschikbaar voor gebruik tot 60 dagen na de datum van uploaden. Na 60 dagen worden de middelen verwijderd.
 
 >[!NOTE]
 >
@@ -30,23 +30,23 @@ Voordat u een afbeeldingselement kunt uploaden, vraagt u eerst om een sleutel vo
 
 ## Een gedeelde geheime sleutel aanvragen {#requesting-a-shared-secret-key}
 
-Verzoek om een *gedeelde geheime sleutel* door [het gebruiken van de Admin Console om een steungeval tot stand te brengen.](https://helpx.adobe.com/nl/enterprise/using/support-for-experience-cloud.html) In het geval van de technische steun, verzoek om een gedeelde geheime sleutel.
+Verzoek a *gedeelde-geheime sleutel* door [ gebruikend Admin Console om een steungeval tot stand te brengen.](https://helpx.adobe.com/enterprise/using/support-for-experience-cloud.html) In het geval van de technische steun, verzoek een gedeeld-geheime sleutel.
 
 Geef in het e-mailbericht de bedrijfsnaam op die u wilt gebruiken om afbeeldingselementen te uploaden. Nadat u de sleutel van Adobe Dynamic Media Classic ontvangt, bewaar het plaatselijk voor toekomstig gebruik.
 
 ## Het uploadtoken ophalen {#retrieving-the-upload-token}
 
-De *uploadtoken* zorgt ervoor dat niemand de zelfde gedeelde geheime sleutel kan gebruiken om activa te uploaden. Het zorgt ervoor dat de upload legitiem is en uit een vertrouwde bron komt.
+Het *uploadt teken* zorgt ervoor dat niemand de zelfde delen-geheime sleutel kan gebruiken om activa te uploaden. Het zorgt ervoor dat de upload legitiem is en uit een vertrouwde bron komt.
 
 Het uploadtoken is een alfanumerieke tekenreeks die alleen voor een bepaalde hoeveelheid tijd beschikbaar is. Gebruik de volgende URL&#39;s, waarbij u de sleutel voor een gedeeld geheim vervangt, zodat u het token voor uploaden kunt ophalen.
 
 * Rasterafbeelding
-  `https://s7ugc1.scene7.com/ugc/image?op=get_uploadtoken&shared_secret=fece4b21-87ee-47fc-9b99-2e29b78b602`In dit voorbeeld is de sleutel voor gedeeld geheim `fece4b21-87ee-47fc-9b99-2e29b78b602`
+  `https://s7ugc1.scene7.com/ugc/image?op=get_uploadtoken&shared_secret=fece4b21-87ee-47fc-9b99-2e29b78b602` In dit voorbeeld, is de gedeelde-geheime sleutel `fece4b21-87ee-47fc-9b99-2e29b78b602`
 
 <!-- * Vector
   `https://s7ugc1.scene7.com/ugc/vector?op=get_uploadtoken&shared_secret=2d19f60e-890a-4e79-a1a5-9ac2875429b9`In this example, the shared-secret key is `2d19f60e-890a-4e79-a1a5-9ac2875429b9` -->
 
-Standaard verloopt het uploadtoken vijf minuten (300 seconden) nadat u het hebt opgehaald. Als u meer tijd wilt aanvragen, neemt u `expires` in de URL en de tijd die u nodig hebt, in seconden. Met de volgende voorbeeld-URL van de afbeelding wordt bijvoorbeeld een uploadtoken opgehaald dat 1800 seconden geldig is:
+Standaard verloopt het uploadtoken vijf minuten (300 seconden) nadat u het hebt opgehaald. Als u meer tijd wilt aanvragen, neemt u `expires` op in de URL en neemt u de hoeveelheid tijd op die u nodig hebt in seconden. Met de volgende voorbeeld-URL van de afbeelding wordt bijvoorbeeld een uploadtoken opgehaald dat 1800 seconden geldig is:
 
 ```as3
 https://s7ugc1.scene7.com/ugc/image?op=get_uploadtoken&shared_secret=fece4b21-87ee-47fc-9b99-2e29b78b602&expires=1800
@@ -83,7 +83,7 @@ U kunt de volgende velden in de URL-queryreeks gebruiken om een token voor uploa
 | shared_geheime | Vereist | De sleutel van het gedeelde geheim voor het bedrijf dat uploadt. |
 | verloopt | Optioneel | Aantal seconden dat de uploadtoken geldig is. De standaardwaarde is 300 seconden, indien niet opgegeven. |
 
-**Voorbeeld van URL van rasterafbeelding:**
+**het roosterbeeld URL van de steekproef:**
 
 `https://s7ugc1.scene7.com/ugc/image?op=get_uploadtoken&shared_secret=fece4b21-87ee-47fc-9b99-2e29b78b602&expires=600`
 
@@ -91,12 +91,12 @@ U kunt de volgende velden in de URL-queryreeks gebruiken om een token voor uploa
 
 `https://s7ugc1.scene7.com/ugc/vector?op=get_uploadtoken&shared_secret=2d19f60e-890a-4e79-a1a5-9ac2875429b9&expires=5000` -->
 
-**Toegestane HTTP-methoden:**
+**Toegestane methodes van HTTP:**
 `GET` en `POST`
 
 U kunt nu een afbeeldingselement uploaden.
 
-Zie [Een afbeeldingselement uploaden](uploading-image-asset-or-vector.md#uploading_an_image_asset).
+Zie [ een beeldactiva ](uploading-image-asset-or-vector.md#uploading_an_image_asset) uploaden.
 
 ## Een rasterafbeeldingselement uploaden {#uploading-an-image-asset}
 
@@ -106,11 +106,11 @@ Nadat u een uploadtoken hebt opgehaald dat gedurende een bepaalde periode geldig
 https://s7ugc1.scene7.com/ugc/image?op=upload&upload_token=aa2a378a-cd25-4c80-994d-312094e0ef20_18000&company_name=000Company
 ```
 
-De `upload_token` en `company_name` velden zijn vereist.
+De velden `upload_token` en `company_name` zijn vereist.
 
-Zie [Het uploadtoken ophalen](uploading-image-asset-or-vector.md#retrieving_the_upload_token).
+Zie [ het uploadteken ](uploading-image-asset-or-vector.md#retrieving_the_upload_token) terugwinnen.
 
-Zie [Een sleutel van een gedeeld geheim ophalen](uploading-image-asset-or-vector.md#requesting_a_shared_secret_key).
+Zie [ een gedeelde-geheime sleutel ](uploading-image-asset-or-vector.md#requesting_a_shared_secret_key) terugwinnen.
 
 U kunt ook andere optionele waarden verzenden als URL-querytekenreeksen, zoals in dit voorbeeld:
 
@@ -118,7 +118,7 @@ U kunt ook andere optionele waarden verzenden als URL-querytekenreeksen, zoals i
 https://s7ugc1.scene7.com/ugc/image?op=upload&upload_token=aa2a378a-cd25-4c80-994d-312094e0ef20_18000&company_name=000Company&file_limit=2000000&file_exts=jpg,gif
 ```
 
-De `file_limit` parameter geeft de maximale bestandsgrootte op in bytes. De `file_exts` parameter geeft de bestandsextensies aan die mogen worden geüpload. Beide waarden zijn optioneel.
+De parameter `file_limit` geeft de maximale bestandsgrootte op in bytes. De parameter `file_exts` geeft de bestandsextensies op die mogen worden geüpload. Beide waarden zijn optioneel.
 
 Er wordt een algemene limiet ingesteld in de toepassing voor de maximale bestandsgrootte en de toegestane bestandsextensies. Als wat u in het verzoek verzendt een ondergroep van de globale grenzen is, wordt het gehonoreerd. De globale limieten zijn als volgt:
 
@@ -135,14 +135,14 @@ Met het volgende HTML-formulier kan een gebruiker een element uploaden. In het f
 * Een lijst met bestandsextensies.
 * Of het kleurprofiel en de bestandsnaam die aan het element zijn gekoppeld, behouden moeten blijven.
 * Of een uitneemachtergrond wordt gebruikt. Als u Achtergrond uitnemen inschakelt, stelt u de Hoek, Tolerantie en Vulmethode in.
-Zie Achtergrond uitnemen in [Opties voor het verfijnen van afbeeldingen tijdens het uploaden](image-editing-options-upload.md#image-editing-options-at-upload).
+Zie Achtergrond van het Uitnemen in [ Beeld fijnafstemmen opties bij upload ](image-editing-options-upload.md#image-editing-options-at-upload).
 * The name of the file to upload.
 
-U kunt de aan het bovenstaande formulier gekoppelde broncode van de HTML weergeven door [https://s7ugc1.scene7.com/ugc/upload.html](https://s7ugc1.scene7.com/ugc/upload.html)
+U kunt de broncode van HTML bekijken verbonden aan de vorm hierboven door [ https://s7ugc1.scene7.com/ugc/upload.html ](https://s7ugc1.scene7.com/ugc/upload.html) te selecteren
 
-Klik in Firefox met de rechtermuisknop in het browservenster en selecteer **[!UICONTROL View Page Source]**. De code toont het overeenkomstige URL vraagkoord en de methode van de POST die in werking wordt gesteld wanneer de gebruiker selecteert **[!UICONTROL Submit]**.
+Klik in Firefox met de rechtermuisknop in het browservenster en selecteer vervolgens **[!UICONTROL View Page Source]** . De code toont de corresponderende URL-queryreeks en de POST-methode die worden uitgevoerd wanneer de gebruiker **[!UICONTROL Submit]** selecteert.
 
-Ga naar **[!UICONTROL View]** > **[!UICONTROL Source]**. Ga naar **[!UICONTROL Tools]** > **[!UICONTROL Browser Tools]** > **[!UICONTROL Web Developer Tools]**. Firefox wordt aanbevolen voor het weergeven van XML-reacties.
+Ga naar **[!UICONTROL View]** > **[!UICONTROL Source]** om de XML-reactie in Internet Explorer weer te geven. Ga naar **[!UICONTROL Tools]** > **[!UICONTROL Browser Tools]** > **[!UICONTROL Web Developer Tools]** om de XML-reactie in Firefox weer te geven. Firefox wordt aanbevolen voor het weergeven van XML-reacties.
 
 Hier volgt een voorbeeldreactie van een geslaagde upload:
 
@@ -190,19 +190,19 @@ Verzend het element dat u wilt uploaden als multipart/form-post terwijl u de ove
 
 >[!NOTE]
 >
->U moet het te uploaden element verzenden als het enige veld in een aanvraag voor een multipart-POST.
+>U moet het element dat u wilt uploaden verzenden als het enige veld in een POST-aanvraag met meerdere delen.
 
-**URL voorbeeld:**
+**Steekproef URL:**
 
 `https://s7ugc1.scene7.com/ugc/image?op=upload&upload_token=aa2a378a-cd25-4c80-994d-312094e0ef20_18000&company_name=000Company`
 
-**Toegestane HTTP-methode:**
+**Toegestane methode van HTTP:**
 
 POST
 
 ### Metagegevens van elementen ophalen voor afbeeldingen {#getting-asset-metadata-for-images}
 
-U kunt `image_info` om metagegevens op te halen voor een element dat u hebt geüpload, zoals in het volgende voorbeeld wordt getoond:
+U kunt `image_info` gebruiken om metagegevens op te halen voor een element dat u hebt geüpload, zoals in het volgende voorbeeld wordt getoond:
 
 ```as3
 https://s7ugc1.scene7.com/ugc/image?op=image_info&shared_secret=fece4b21-87ee-47fc-9b99-2e29b78b602&image_name=1442564.tif
@@ -240,11 +240,11 @@ U kunt de volgende velden in de URL-queryreeks gebruiken om informatie voor een 
 | `shared_secret` | Vereist | De sleutel die gedeeld-geheim voor het bedrijf is. |
 | `image_name` | Vereist | Naam van de afbeelding. |
 
-**URL voorbeeld:**
+**Steekproef URL:**
 
 `https://s7ugc1.scene7.com/ugc/image?op=image_info&shared_secret=fece4b21-87ee-47fc-9b99-2e29b78b602&image_name=1442564.tif`
 
-**Toegestane HTTP-methode:**
+**Toegestane methode van HTTP:**
 
 GET en POST
 

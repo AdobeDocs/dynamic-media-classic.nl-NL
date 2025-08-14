@@ -20,5 +20,5 @@ ht-degree: 0%
 # Elementen afdrukken{#printing-assets}
 
 1. Selecteer in het deelvenster Bladeren het element dat of de elementen die u wilt afdrukken.
-1. Ga naar **[!UICONTROL File]** > **[!UICONTROL Print]** of drukken `Ctrl+P` (Windows®) of `Command+P` (Mac)
-1. Kies in het dialoogvenster Afdrukken hoeveel exemplaren u wilt afdrukken en klik op **[!UICONTROL Print]**.
+1. Ga naar **[!UICONTROL File]** > **[!UICONTROL Print]** of druk op `Ctrl+P` (Windows®) of `Command+P` (Mac).
+1. Kies in het dialoogvenster Afdrukken hoeveel exemplaren u wilt afdrukken en klik op **[!UICONTROL Print]** .

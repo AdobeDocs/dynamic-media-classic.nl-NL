@@ -24,34 +24,34 @@ Soms vereist Adobe Dynamic Media Classic dat u een lettertypebestand uploadt om 
 Adobe Dynamic Media Classic ondersteunt de volgende lettertypen:
 
 * Alle TrueType-fonts
-* PostScript® lettertypen
+* PostScript®-lettertypen
 * OpenType/TrueType-lettertypen
-* OpenType-/PostScript-lettertypen
+* OpenType/PostScript-lettertypen
 * PhotoFonts
 
 Nadat een lettertypebestand is geüpload, kunt u de Adobe Dynamic Media Classic-id, de lettertypenaam en de typegegevens wijzigen in het scherm Info bewerken.
 
 >[!NOTE]
 >
->Adobe Dynamic Media Classic raadt aan alle lettertypestijlen (vet, cursief, vet/cursief en standaard) te uploaden als u lettertypen in sjabloonlagen wilt gebruiken. Adobe Dynamic Media Classic heeft deze lettertypestijlen nodig om aanvragen te verwerken. Alles uploaden `PostScript/Adobe Type1` bestanden die aan een lettertype zijn gekoppeld, worden ook aangeraden omdat sommige van deze lettertypen gedetailleerde tekenspatiëringsgegevens bevatten.
+>Adobe Dynamic Media Classic raadt aan alle lettertypestijlen (vet, cursief, vet/cursief en standaard) te uploaden als u lettertypen in sjabloonlagen wilt gebruiken. Adobe Dynamic Media Classic heeft deze lettertypestijlen nodig om aanvragen te verwerken. Het wordt ook aangeraden alle `PostScript/Adobe Type1` -bestanden te uploaden die aan een lettertype zijn gekoppeld, omdat sommige van deze lettertypen gedetailleerde tekenspatiëringsgegevens bevatten.
 
 ## Fontbestanden uploaden {#uploading-font-files}
 
-Upload doopvontdossiers met de zelfde technieken u gebruikt om andere dossiers te uploaden. U kunt lettertypebestanden opslaan in elke Adobe Dynamic Media Classic-map. Zie [Bestanden uploaden](uploading-files.md#uploading_your_files).
+Upload doopvontdossiers met de zelfde technieken u gebruikt om andere dossiers te uploaden. U kunt lettertypebestanden opslaan in elke Adobe Dynamic Media Classic-map. Zie [ Uploading uw dossiers ](uploading-files.md#uploading_your_files).
 
 ## Informatie over lettertypebestanden bewerken {#editing-font-file-information}
 
 U kunt de id-naam van een lettertype en de informatie over het type wijzigen. Het bewerken van een lettertypebestand kan nuttig zijn bij zoekopdrachten en het gemakkelijker maken lettertypen te identificeren.
 
-Selecteer in het deelvenster Bladeren het lettertypebestand dat u wilt bewerken in de gedetailleerde weergave en kies Bestand > Info bewerken. Het scherm Info bewerken wordt geopend. Kies de volgende opties en selecteer **[!UICONTROL Submit]**.
+Selecteer in het deelvenster Bladeren het lettertypebestand dat u wilt bewerken in de gedetailleerde weergave en kies Bestand > Info bewerken. Het scherm Info bewerken wordt geopend. Kies de volgende opties en selecteer vervolgens **[!UICONTROL Submit]** .
 
-* **[!UICONTROL Font Name]**: Deze naam geeft het lettertype aan wanneer het wordt gepubliceerd.
+* **[!UICONTROL Font Name]**: deze naam geeft het lettertype aan wanneer het wordt gepubliceerd.
 
-* **[!UICONTROL PostScript Name]**: Deze naam is de volledige PostScript-naam voor het lettertype. Dit geeft meestal de dikte of stijl aan.
+* **[!UICONTROL PostScript Name]**: deze naam is de volledige PostScript-naam voor het lettertype. Dit geeft meestal de dikte of stijl aan.
 
-* **[!UICONTROL RTF Name]**: Deze naam wordt weergegeven in een pop-upmenu in de RTF-editor waarin sjabloontekstlagen worden gemaakt.
+* **[!UICONTROL RTF Name]**: deze naam wordt weergegeven in een pop-upmenu in de RTF-editor waarin sjabloontekstlagen worden gemaakt.
 
-* **[!UICONTROL Font Family Name]**: Deze naam geeft de fontnaam weer zonder de stijl, het gewicht of de fonttype-indicator.
+* **[!UICONTROL Font Family Name]**: deze naam geeft de fontnaam weer zonder de stijl, dikte of fonttype-indicator.
 
 * **[!UICONTROL Font Style]**: De opties zijn Normaal, Vet, Cursief en Vet-cursief.
 
@@ -59,10 +59,10 @@ Selecteer in het deelvenster Bladeren het lettertypebestand dat u wilt bewerken 
 
 * **[!UICONTROL Font Type Abbreviation]**: De opties zijn als volgt:
 
-   * **[!UICONTROL TTF]**: TrueType-lettertypebestanden die worden gebruikt voor PDF-/PostScript-rendering en afbeeldingsserving.
+   * **[!UICONTROL TTF]**: TrueType-lettertypebestanden die worden gebruikt voor PDF/PostScript-rendering en afbeeldingsserving.
 
-   * **[!UICONTROL AFM]**: Adobe PostScript-lettertypebestanden met Adobe Font Metrics-informatie die worden gebruikt voor beeldserving.
+   * **[!UICONTROL AFM]**: Adobe PostScript-lettertypebestanden met Adobe Font Metrics-gegevens die worden gebruikt voor beeldserving.
 
    * **[!UICONTROL PFM]**: Adobe PostScript-lettertypebestanden met binaire metrische informatie over lettertypen.
 
-   * **[!UICONTROL PFB]**: Adobe PostScript-lettertypebestanden met binaire informatie over lettertypecontouren die worden gebruikt voor PDF/PostScript-rendering en beeldweergave.
+   * **[!UICONTROL PFB]**: Adobe PostScript-lettertypebestanden met binaire contourinformatie voor lettertypen die worden gebruikt voor PDF/PostScript-rendering en afbeeldingsserving.

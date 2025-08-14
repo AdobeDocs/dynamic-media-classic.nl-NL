@@ -21,20 +21,20 @@ ht-degree: 0%
 
 U kunt Adobe PostScript® (EPS)- en Adobe® Illustrator® (AI)-bestanden gebruiken in Adobe Dynamic Media Classic. Adobe Dynamic Media Classic biedt opdrachten voor het configureren van deze bestanden tijdens het uploaden.
 
-Wanneer u PostScript- (EPS) of Illustrator-afbeeldingsbestanden (AI) uploadt, kunt u deze op verschillende manieren opmaken. U kunt de bestanden rasteren, omzetten in FXG voor Sjabloonpublicatie, de transparante achtergrond behouden, een resolutie kiezen en een kleurruimte kiezen. Opties voor de opmaak van PostScript- en Illustrator-bestanden zijn beschikbaar op het scherm Uploaden onder PostScript-opties en Illustrator-opties in het vak Opties voor uploaden.
+Wanneer u PostScript (EPS)- of Illustrator (AI)-afbeeldingsbestanden uploadt, kunt u deze op verschillende manieren opmaken. U kunt de bestanden rasteren, omzetten in FXG voor Sjabloonpublicatie, de transparante achtergrond behouden, een resolutie kiezen en een kleurruimte kiezen. Opties voor de opmaak van PostScript- en Illustrator-bestanden zijn beschikbaar op het scherm Uploaden onder PostScript-opties en Illustrator-opties in het vak Opties voor uploaden.
 
-* **[!UICONTROL Processing]**: Kies **[!UICONTROL Rasterize]** om de vectorafbeeldingen in het bestand om te zetten in de bitmapindeling.
+* **[!UICONTROL Processing]**: kies **[!UICONTROL Rasterize]** om de vectorafbeeldingen in het bestand om te zetten in de bitmapindeling.
 
-* **[!UICONTROL Maintain Transparent Background In Rendered Image]**: Hiermee blijft de achtergrondtransparantie van het bestand behouden.
+* **[!UICONTROL Maintain Transparent Background In Rendered Image]** - De achtergrondtransparantie van het bestand blijft behouden.
 
-* **[!UICONTROL Resolution]**: Hiermee bepaalt u de resolutie-instelling. Deze instelling bepaalt hoeveel pixels per inch in het bestand worden weergegeven.
+* **[!UICONTROL Resolution]** - Hiermee bepaalt u de resolutie-instelling. Deze instelling bepaalt hoeveel pixels per inch in het bestand worden weergegeven.
 
-* **[!UICONTROL Color Space]**: Selecteer de **[!UICONTROL Color Space]** en kiest u een kleurruimte:
+* **[!UICONTROL Color Space]**: selecteer het menu **[!UICONTROL Color Space]** en kies een kleurruimte:
 
-   * **[!UICONTROL Detect Automatically]**: Behoudt de kleurruimte van het bestand.
+   * **[!UICONTROL Detect Automatically]** - Behoudt de kleurruimte van het bestand.
 
-   * **[!UICONTROL Force As RGB]**: wordt omgezet in de kleurruimte RGB.
+   * **[!UICONTROL Force As RGB]** - Converteert naar de RGB-kleurruimte.
 
-   * **[!UICONTROL Force As CMYK]**: wordt omgezet in de CMYK-kleurruimte.
+   * **[!UICONTROL Force As CMYK]**: zet deze om in de CMYK-kleurruimte.
 
-   * **[!UICONTROL Force As Grayscale]**: wordt omgezet in de grijswaardenkleurruimte.
+   * **[!UICONTROL Force As Grayscale]** - Zet om in de grijswaardenkleurruimte.

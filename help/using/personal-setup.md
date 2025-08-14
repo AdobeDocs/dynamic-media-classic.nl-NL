@@ -19,13 +19,13 @@ ht-degree: 0%
 
 # Persoonlijke instelling {#personal-setup}
 
-Alle gebruikers kunnen montages op het Persoonlijke scherm van de Opstelling veranderen. Ga naar **[!UICONTROL Setup]** > **[!UICONTROL Personal Setup]**.
+Alle gebruikers kunnen montages op het Persoonlijke scherm van de Opstelling veranderen. Ga naar **[!UICONTROL Setup]** > **[!UICONTROL Personal Setup]** om het scherm Persoonlijke instellingen te openen.
 
 >[!NOTE]
 >
 >Het persoonlijke scherm van de Opstelling maakt een lijst van welke gebruikersrol u in Adobe Dynamic Media Classic hebt: De Beheerder van het Bedrijf, Beheerder, of Gebruiker.
 
-De Persoonlijke montages van de Opstelling controleren het standaardgedrag van het Browse paneel, hoe u e-mail, en wachtwoordmontages ontvangt. Vergeet niet te selecteren **[!UICONTROL Save]** nadat u deze instellingen hebt gewijzigd.
+De Persoonlijke montages van de Opstelling controleren het standaardgedrag van het Browse paneel, hoe u e-mail, en wachtwoordmontages ontvangt. Vergeet niet **[!UICONTROL Save]** te selecteren nadat u deze instellingen hebt gewijzigd.
 
 ## Mijn accountgegevens
 
@@ -33,20 +33,20 @@ Hiermee worden uw accountnaam, naam, gebruikersnaam (e-mailadres) en toegewezen 
 
 ## Desktop
 
-* **Afbeeldingscache wissen**: Hiermee verwijdert u alle Adobe Dynamic Media-afbeeldingsbestanden in de cache van de computer.
-* **Asset Cache wissen**: Hiermee verwijdert u alle Adobe Dynamic Media-bestanden met middelen uit de cache van uw computer.
+* **Duidelijk het Geheime voorgeheugen van het Beeld**: Verwijdert alle Dynamische Media van Adobe caching beelddossiers van uw computer.
+* **Duidelijke het Geheime voorgeheugen van Activa**: Verwijdert alle de geheime voorgeheugens van Adobe Dynamische Media van uw computer.
 
 U kunt de cache van afbeeldingen en elementen niet alleen wissen met de bureaubladtoepassing, maar u kunt de cache ook handmatig rechtstreeks wissen vanuit het bestandssysteem. Navigeer op basis van uw besturingssysteem naar het volgende:
 
 * macOS: `~/Library/Application\ Support/com.adobe.DMCDesktop/Local\ Store/`
 * Windows®: `C:\Users\YourUserName\AppData\Roaming\com.adobe.DMCDesktop\Local Store`
 
-## Extensie Creative Suite
+## Creative Suite-extensie
 
-**Adobe Dynamic Media Creative Suite Extension installeren:**
+**om de Uitbreiding van Adobe Dynamic Media Creative Suite te installeren:**
 
-1. Ga in Adobe Dynamic Media Classic op de werkbalk naar **[!UICONTROL Setup]** > **[!UICONTROL Personal Setup]** Selecteer onder Extensie Creative Suites de optie **[!UICONTROL Download Now]** om de `s7csxs.zxp` bestand.
-1. Selecteer de **[!UICONTROL Installation]** en **[!UICONTROL System Requirements]** koppelingen voor aanvullende informatie over de extensie.
+1. Ga in Adobe Dynamic Media Classic op de werkbalk naar **[!UICONTROL Setup]** > **[!UICONTROL Personal Setup]** onder Creative Suite Extension en selecteer **[!UICONTROL Download Now]** om het `s7csxs.zxp` -bestand te downloaden.
+1. Selecteer de koppelingen **[!UICONTROL Installation]** en **[!UICONTROL System Requirements]** voor meer informatie over de extensie.
 
 <!--    A readme file is included at the root of the unzipped file to provide you with additional information about the extension.
 
@@ -72,45 +72,45 @@ The plug-in is now available for you to use in Adobe Illustrator. -->
 
 ## Browser
 
-* **[!UICONTROL Thumbnail Size]**: hiermee bepaalt u de standaardgrootte van miniatuurafbeeldingen in de rasterweergave in het deelvenster Bladeren.
-* **[!UICONTROL Default Asset Library View]**: Hiermee bepaalt u of de elementen in de elementenbibliotheek voor samenstellen als miniaturen of op naam worden weergegeven. Als u met grote hoeveelheden elementen werkt in de Asset Library, kunt u de elementen op naam bekijken. Als u bijvoorbeeld een grote eCatalog maakt met veel PDF-bestanden, kunt u de elementen op naam weergeven om de lijst korter te maken.
-* **[!UICONTROL Default Browse Sort Order]**: Hiermee bepaalt u de volgorde waarin elementen standaard worden weergegeven in het deelvenster Bladeren. Kies een sorteercriterium in het menu en bepaal of u oplopende of aflopende sortering wilt.
-* **[!UICONTROL Default Browse Location]**: Hiermee kunt u de bladerlocatie instellen op de standaardlocatie, de laatste bladermap of een specifieke locatie waarnaar u navigeert en die u herkent. U kunt ook de locatie van de browsers instellen om de bestanden en mappen in oplopende of aflopende volgorde te sorteren.
-* **[!UICONTROL Default Browse View]**: Hiermee wordt bepaald of de rasterweergave of lijstweergave de standaardweergave is die u ziet wanneer u het deelvenster Bladeren voor het eerst opent.
-* **[!UICONTROL Splash Screen Display]**: Hiermee wordt bepaald of er welkomstschermen worden weergegeven, inclusief het welkomstwelkomstscherm.
-* **[!UICONTROL Show ToolTips]**: Hiermee bepaalt u of knopinfo wordt weergegeven wanneer u de aanwijzer over knoppen, menu&#39;s en navigatiekoppelingen beweegt. Knopinfo beschrijft de interface-items op het scherm.
-* **[!UICONTROL Checkerboard Background]**: geeft een laag met een schaakbordpatroon achter afbeeldingen weer, zodat u gemakkelijk de transparante gebieden van een afbeelding met een alfakanaal kunt zien.
-* **[!UICONTROL Show File Size]**: Hiermee geeft u de bestandsgrootte van een element weer wanneer u bladert.
+* **[!UICONTROL Thumbnail Size]** - Hiermee bepaalt u de standaardgrootte van miniatuurafbeeldingen in de rasterweergave in het deelvenster Bladeren.
+* **[!UICONTROL Default Asset Library View]** - Hiermee wordt bepaald of de elementen in de elementenbibliotheek voor samenstellende sets als miniaturen of op naam worden weergegeven. Als u met grote hoeveelheden elementen werkt in de Asset Library, kunt u de elementen op naam bekijken. Als u bijvoorbeeld een grote eCatalog maakt met veel PDF-bestanden, kunt u de elementen op naam weergeven om de lijst korter te maken.
+* **[!UICONTROL Default Browse Sort Order]** - Hiermee bepaalt u de volgorde waarin elementen standaard worden weergegeven in het deelvenster Bladeren. Kies een sorteercriterium in het menu en bepaal of u oplopende of aflopende sortering wilt.
+* **[!UICONTROL Default Browse Location]**: hiermee kunt u de locatie van de browsers instellen op de standaardmap, de laatste map die is gebladerd of een specifieke locatie waar u naartoe bladert en waar u de locatie opgeeft. U kunt ook de locatie van de browsers instellen om de bestanden en mappen in oplopende of aflopende volgorde te sorteren.
+* **[!UICONTROL Default Browse View]** - Hiermee wordt bepaald of Rasterweergave of Lijstweergave de standaardweergave is die u ziet wanneer u het deelvenster Bladeren voor het eerst opent.
+* **[!UICONTROL Splash Screen Display]** - Hiermee wordt bepaald of er welkomstschermen worden weergegeven, inclusief het welkomstwelkomstscherm.
+* **[!UICONTROL Show ToolTips]** - Hiermee bepaalt u of knopinfo wordt weergegeven wanneer u de aanwijzer boven knoppen, menu&#39;s en navigatiekoppelingen houdt. Knopinfo beschrijft de interface-items op het scherm.
+* **[!UICONTROL Checkerboard Background]**: geeft een laag schaakbordpatroon achter afbeeldingen weer, zodat u gemakkelijk de transparante gebieden van een afbeelding met een alfakanaal kunt zien.
+* **[!UICONTROL Show File Size]**: geeft de bestandsgrootte van een element weer wanneer u bladert.
 * **[!UICONTROL Include UDFs in Search]**: Schakel deze optie uit als u de systeemprestaties voor de meeste metagegevenszoekopdrachten die u uitvoert, wilt verbeteren.
 
   Als de meeste zoekopdrachten in metagegevens van nut zijn wanneer u door de gebruiker gedefinieerde velden opneemt, kunt u deze optie selecteren en inschakelen. Als alternatief kunt u Geavanceerd zoeken gebruiken om u een gerichtere en snellere zoekervaring te bieden dan door door de gebruiker gedefinieerde velden op te nemen.
 
-  Zie [Een geavanceerde zoekopdracht uitvoeren](searching-assets.md#conducting_an_advanced_search).
+  Zie [ Uitvoerend een geavanceerd onderzoek ](searching-assets.md#conducting_an_advanced_search).
 
-  Zie ook [Door gebruiker gedefinieerde velden](application-setup.md#user_defined_fields).
+  Zie ook [ gebruiker-bepaalde Gebieden ](application-setup.md#user_defined_fields).
 
-* **[!UICONTROL Basic Search Type]**: U kunt uit twee opties kiezen: **[!UICONTROL Contains]** zoekt de volledige tekenreeks naar de opgegeven waarde; **[!UICONTROL StartsWith]** zoekt vanaf het begin van de tekenreeks en retourneert sneller resultaten dan **[!UICONTROL Contains]**. Beide opties overschrijven de standaard die is ingesteld in **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Application General Settings]** door de beheerder.
-* **[!UICONTROL Show Command Feedback]**: Selecteer deze optie om de weergave van opdrachtaanvragen naar de server in te schakelen. Schakel deze optie uit.
-* **[!UICONTROL Show Dialog During Export]**: Selecteer deze optie om tijdens het exporteren een pop-updialoogvenster weer te geven. Als u deze optie uitschakelt (uitschakelt), kunt u nog steeds naar de pagina Taken gaan om de resultaten van de export op te halen.
+* **[!UICONTROL Basic Search Type]**: U kunt uit twee opties selecteren: **[!UICONTROL Contains]** zoekt in de volledige tekenreeks naar de opgegeven waarde; **[!UICONTROL StartsWith]** zoekt vanaf het begin van de tekenreeks en retourneert sneller resultaten dan **[!UICONTROL Contains]** . Beide opties overschrijven de standaardwaarde die door de beheerder is ingesteld in **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Application General Settings]** .
+* **[!UICONTROL Show Command Feedback]**: selecteer deze optie om de weergave van opdrachtaanvragen op de server in te schakelen. Schakel deze optie uit.
+* **[!UICONTROL Show Dialog During Export]**: selecteer deze optie om een pop-upvenster weer te geven tijdens het exporteren. Als u deze optie uitschakelt (uitschakelt), kunt u nog steeds naar de pagina Taken gaan om de resultaten van de export op te halen.
 
 ## E-mail
 
 * **[!UICONTROL Email Options]**: Kies hoe Adobe Dynamic Media Classic u per e-mail op de hoogte moet brengen wanneer het uploaden en publiceren taken zijn voltooid. U kunt berichten voor het voltooien van een taak alleen ontvangen als er waarschuwingen of fouten zijn opgetreden.
-* **[!UICONTROL Email Scope]**: Hiermee bepaalt u of u alle e-mailberichten voor uw bedrijf ontvangt of alleen e-mailberichten over uploaden en publiceren die u hebt gestart.
-* **[!UICONTROL Email Types]**: Hiermee wordt bepaald of u op de hoogte wordt gesteld wanneer het uploaden van taken en het publiceren van taken zijn voltooid.
+* **[!UICONTROL Email Scope]**: hiermee wordt bepaald of u alle taken per e-mail voor uw bedrijf ontvangt of alleen e-mail over uploadtaken en publicatietaken die u hebt gestart.
+* **[!UICONTROL Email Types]** - Hiermee wordt bepaald of u op de hoogte wordt gesteld wanneer het uploaden van taken en het publiceren van taken zijn voltooid.
 
 ## Taal
 
-* **[!UICONTROL Preferred Language]**: Bepaalt de taal die u voor de interface wilt gebruiken.
+* **[!UICONTROL Preferred Language]** - Bepaalt de taal die u voor de interface wilt gebruiken.
 
 ## Wachtwoord
 
-* **[!UICONTROL Current Password]**: Voer het wachtwoord voor uw huidige wachtwoord in.
-* **[!UICONTROL New Password]**: Voer een nieuw, geldig wachtwoord in. Uw wachtwoord moet aan de volgende vereisten voldoen:
+* **[!UICONTROL Current Password]**: voer het wachtwoord voor uw huidige wachtwoord in.
+* **[!UICONTROL New Password]**: voer een nieuw, geldig wachtwoord in. Uw wachtwoord moet aan de volgende vereisten voldoen:
    * Het moet 8-25 tekens lang zijn.
    * Bevat ten minste één kleine letter.
    * Bevat ten minste één hoofdletter.
    * Bevat ten minste één getal.
    * Bevat ten minste een van de volgende speciale tekens: `# $ &: _ : { }`
-* **[!UICONTROL Re-Type Password]**: Voer het nieuwe wachtwoord opnieuw in om te bevestigen dat u het correct hebt ingevoerd.
-* **[!UICONTROL Password Expiration]**: Hiermee wordt bepaald of uw wachtwoord na 72 dagen verloopt als beveiligingsmaatregel. Als u Ja hebt geselecteerd, wordt u gevraagd om na 72 dagen een wachtwoord te maken.
+* **[!UICONTROL Re-Type Password]**: voer het nieuwe wachtwoord opnieuw in om te bevestigen dat u het correct invoert.
+* **[!UICONTROL Password Expiration]**: hiermee wordt bepaald of uw wachtwoord na 72 dagen vervalt als beveiligingsmaatregel. Als u Ja hebt geselecteerd, wordt u gevraagd om na 72 dagen een wachtwoord te maken.

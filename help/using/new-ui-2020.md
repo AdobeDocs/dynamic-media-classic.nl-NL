@@ -18,96 +18,96 @@ ht-degree: 0%
 
 # Adobe Dynamic Media Classic Desktop-app: nu beschikbaar {#new-ui-2020}
 
-Zie de [Adobe Dynamic Media Classic-bureaubladtoepassing](/help/using/dynamic-media-classic-desktop-app.md) als u de systeemvereisten wilt controleren, downloadt en installeert u de nieuwe app en meldt u zich vervolgens aan.
+Zie [ Adobe Dynamic Media Classic Desktop app ](/help/using/dynamic-media-classic-desktop-app.md) om systeemvereisten te herzien, nieuwe app te downloaden en te installeren, en dan binnen aan het te ondertekenen.
 
-## _Laatste herziening 30 juni 2020_
+## _Laatste revisie 30 juni, 2020_
 
-Adobe Dynamic Media Classic-gebruikers hebben nu toegang tot een nieuwe aanmelding die niet langer afhankelijk is van de Adobe Flash-technologie in de browser.
+Adobe Dynamic Media Classic-gebruikers hebben nu toegang tot een nieuwe aanmeldingsnaam die niet langer afhankelijk is van Adobe Flash-technologie in de browser.
 
 ## Veelgestelde vragen
 
-+++**_Wanneer browsers op 31 december 2020 stoppen met het ondersteunen van de Flash van de Adobe, zullen er gevolgen zijn voor Adobe Dynamic Media Classic (voorheen Scene7)?_**
-De Flash Player van de Adobe was browser van het Web elektrisch toestel dat browsers van het Web toestond om inhoud te gebruiken die op Adobe Flash Platform werd ontwikkeld. De webgebruikersinterface van Adobe Dynamic Media Classic (momenteel gelabeld) [!DNL Scene7 Publishing System] of [!DNL SPS] in het product) de Flash Player van de Adobe nodig hebben. Wanneer de Flash van de Adobe 31 December, 2020 wordt afgekeurd, zullen de klanten van Adobe Dynamic Media Classic niet meer in het gebruikersinterface van het Web kunnen registreren. Vanwege deze wijziging heeft Adobe klanten een bureaubladtoepassing verschaft die de browserervaring vervangt.
++++**_wanneer browsers ophouden ondersteunend de Flits van Adobe op 31 December, 2020, zal er om het even welk effect aan Adobe Dynamic Media Classic (vroeger Scene7) zijn?_**
+Adobe Flash Player was een insteekmodule voor de webbrowser waarmee webbrowsers inhoud konden gebruiken die op het Adobe Flash-platform was ontwikkeld. Voor de webgebruikersinterface van Adobe Dynamic Media Classic (momenteel aangeduid als [!DNL Scene7 Publishing System] of [!DNL SPS] in het product) was Adobe Flash Player vereist. Wanneer Adobe Flash afgekeurd is op 31 december 2020, kunnen Adobe Dynamic Media Classic-klanten zich niet meer aanmelden bij de webgebruikersinterface. Vanwege deze wijziging heeft Adobe klanten een bureaubladtoepassing verschaft die de browserervaring vervangt.
 +++
 
-+++**_Hoe kan ik de nieuwe bureaubladtoepassing openen?_**
-De nieuwe bureaubladtoepassing is beschikbaar als een `.dmg` installer voor macOS of als `.exe` installatieprogramma voor Windows®.
++++**_hoe heb ik toegang tot nieuwe Desktop app?_**
+De nieuwe bureaubladtoepassing is beschikbaar als een `.dmg` installatieprogramma voor macOS of als een `.exe` installatieprogramma voor Windows®.
 
-Zie de [Adobe Dynamic Media Classic-bureaubladtoepassing](/help/using/dynamic-media-classic-desktop-app.md) als u de systeemvereisten wilt controleren, downloadt en installeert u de nieuwe app en meldt u zich vervolgens aan.
+Zie [ Adobe Dynamic Media Classic Desktop app ](/help/using/dynamic-media-classic-desktop-app.md) om systeemvereisten te herzien, te downloaden, en nieuwe app te installeren, en dan binnen aan het te ondertekenen.
 +++
 
 <!-- NEWSLETTER IS DEAD The download links are also available by way of the [Adobe Dynamic Media Classic newsletter subscription page.](https://www.adobe.com/subscription/dynamic-media-newsletter.html) -->
 
-+++**_Hoe werkt de nieuwe bureaubladtoepassing?_**
++++**_hoe werkt nieuwe Desktop app?_**
 Nadat u de bureaubladtoepassing hebt gedownload, geïnstalleerd en gestart, ontvangt u een vernieuwd aanmeldingsbestand. Door uw bestaande gebruikersnaam en wachtwoord in te voeren en de juiste server te selecteren op basis van uw regio, kunt u zich aanmelden bij Adobe Dynamic Media Classic. De algemene ervaring is het zelfde als de vertrouwde browser van het Web versie die u aan wordt gebruikt. Vanuit de bureaubladtoepassing hebt u toegang tot de Adobe Dynamic Media Classic Production and Staging-omgevingen. U kunt tot het Portaal van Media ook toegang hebben als u voor dit vermogen wordt toegelaten.
 
 >[!IMPORTANT]
 >
->Er kan slechts één exemplaar van de bureaubladtoepassing worden geïnstalleerd *en* op een bepaalde computer actief zijn. Er geldt echter geen beperking voor het aantal installaties dat u op verschillende computers kunt installeren.
+>Slechts één geval van Desktop app kan *en* actief tegelijkertijd op een bepaalde computer worden geïnstalleerd. Er geldt echter geen beperking voor het aantal installaties dat u op verschillende computers kunt installeren.
 
 +++
 
-+++**_Wat als ik Adobe Dynamic Media Classic APIs gebruik om tot het product toegang te hebben en niet binnen door het gebruikersinterface van het Web te ondertekenen?_**
++++**_wat als ik Adobe Dynamic Media Classic APIs gebruik om tot het product toegang te hebben en niet binnen door het gebruikersinterface van het Web te ondertekenen?_**
 De onderliggende API&#39;s voor Adobe Dynamic Media Classic zijn niet gewijzigd.
 +++
 
-+++**_Vereist deze nieuwe bureaubladervaring migraties of wijzigingen in integratie van derden?_**
++++**_vereist deze nieuwe Desktop app ervaring om het even welke migraties of veranderingen in derdeintegratie?_**
 Nee. Adobe Dynamic Media Classic-klanten hoeven geen integratie van derden te migreren of te wijzigen om de nieuwe desktop-app te gebruiken.
 +++
 
-+++**_Heeft deze wijziging invloed op mijn automatiseringsscripts?_**
++++**_beïnvloedt deze verandering mijn automatiseringsmanuscripten?_**
 Nee. Automatiseringsscripts zijn niet van invloed. De nieuwe bureaubladtoepassing werkt en gedraagt zich op een manier die vergelijkbaar is met de browserervaring die u al kent.
 +++
 
-+++**_Werkt de nieuwe Adobe Dynamic Media Classic-bureaubladtoepassing op computers en computers?_**
-Ja. De nieuwe desktop-app is een oplossing voor meerdere platforms en werkt op computers en pc&#39;s. Linux® is *niet* ondersteund.
++++**_zal de nieuwe Desktopapp van Adobe Dynamic Media Classic op Macs en personal computers werken?_**
+Ja. De nieuwe desktop-app is een oplossing voor meerdere platforms en werkt op computers en pc&#39;s. Linux® wordt *niet* gesteund.
 +++
 
-+++**_Mijn bedrijf heeft strenge veiligheidsvereisten. Hoe gaat de nieuwe Adobe Dynamic Media Classic-bureaubladtoepassing om met deze vereisten?_**
-De Adobe heeft zich ertoe verbonden ervoor te zorgen dat haar producten voldoen aan de beveiligingsvereisten van haar klanten. De nieuwe Adobe Dynamic Media Classic-bureaubladtoepassing blijft klanten een zeer veilige ervaring bieden die voldoet aan alle beveiligingsnormen voor Adoben.
++++**_Mijn bedrijf heeft strikte veiligheidseisen. Hoe verwerkt de nieuwe Adobe Dynamic Media Classic-bureaubladtoepassing deze vereisten?_**
+Adobe heeft zich ertoe verbonden ervoor te zorgen dat zijn producten voldoen aan de beveiligingsvereisten van zijn klanten. De nieuwe Adobe Dynamic Media Classic desktop app blijft klanten een zeer veilige ervaring bieden die voldoet aan alle Adobe-beveiligingsstandaarden.
 +++
 
-+++**_Mijn bedrijf laat me geen software en toepassingen op mijn computer installeren. Hoe raadt u mij aan toegang te krijgen tot de nieuwe bureaubladtoepassing?_**
++++**_Mijn bedrijf laat me geen software en apps op mijn computer installeren. Hoe raadt u mij aan toegang te krijgen tot de nieuwe desktop app?_**
 Sommige bedrijven laten u software en toepassingen niet zonder goedkeuring downloaden en installeren op uw systeem. In dergelijke gevallen kunt u vroeg met uw IT-team samenwerken om toegang te krijgen tot de nieuwe Adobe Dynamic Media Classic-bureaubladtoepassing. Vergeet niet dat de browserversie na 31 december 2020 wordt vervangen. Het is belangrijk dat u niet tot het laatste moment wacht om de nieuwe desktop-app te downloaden.
 +++
 
-+++**_Kunnen meerdere exemplaren van de nieuwe bureaubladtoepassing tegelijk worden geopend?_**
++++**_Kan veelvoudige instanties van nieuwe Desktop app tezelfdertijd open zijn?_**
 Nee. De AIR-technologie waarop de nieuwe Adobe Dynamic Media Classic-bureaubladtoepassing is gebouwd, beperkt een gebruiker ertoe meerdere exemplaren van de app tegelijk te openen.
 +++
 
-+++**_Zijn er beperkingen op het aantal bestanden dat via een lokale computer naar Adobe Dynamic Media Classic kan worden geüpload?_**
-Als u de nieuwe Adobe Dynamic Media Classic-bureaubladtoepassing in Windows® gebruikt, kunt u maximaal 150 bestanden tegelijk uploaden met de opdracht **[!UICONTROL Upload]** in. Deze beperking is al vóór eind 2020 opgelost. Er zijn *nee* uploadbeperkingen voor het macOS Platform.
++++**_zijn er om het even welke beperkingen op het aantal dossiers die aan Adobe Dynamic Media Classic als lokale computer kunnen worden geupload?_**
+Als u de nieuwe Adobe Dynamic Media Classic-bureaubladtoepassing in Windows® gebruikt, kunt u maximaal 150 bestanden tegelijk uploaden via het dialoogvenster **[!UICONTROL Upload]** . Deze beperking is al vóór eind 2020 opgelost. Er zijn *geen* uploadbeperkingen op het Platform van macOS.
 +++
 
-+++**_Vereist de nieuwe Adobe Dynamic Media Classic desktop app een nieuwe SKU? Is er sprake van licentiekosten?_**
++++**_vereist nieuwe Adobe Dynamic Media Classic Desktop app een nieuwe SKU? Is er sprake van licentiekosten?_**
 Nee op beide vragen. Er is geen SKU- of licentiewijziging vereist voor het gebruik van de nieuwe Adobe Dynamic Media Classic-bureaubladtoepassing.
 +++
 
-+++**_Hoe zijn upgrades naar de Adobe Dynamic Media Classic-bureaubladtoepassing ingeschakeld?_**
-Na de release van de Adobe Dynamic Media Classic-bureaubladtoepassing op 30 juni 2020 moeten klanten de nieuwe versie downloaden en installeren als Adobe een nieuwe versie publiceert (vervang de bestaande app in **[!UICONTROL Applications]**). U wordt op de hoogte gesteld van de nieuwe versie via uw accountteam van de Adobe en een mechanisme voor upgrademelding in de app waarmee gebruikers op de hoogte worden gebracht van een upgrade.
++++**_hoe worden verbeteringen aan Adobe Dynamic Media Classic Desktop toegelaten app?_**
+Als Adobe op 30 juni 2020 een nieuwe versie van de Adobe Dynamic Media Classic-bureaubladtoepassing heeft uitgebracht, moeten klanten de nieuwe versie downloaden en installeren (de bestaande app vervangen in **[!UICONTROL Applications]** ). U wordt via uw Adobe-accountteam op de hoogte gesteld van de nieuwe release en een meldingsmechanisme voor upgrades in de app waarmee gebruikers op de hoogte worden gesteld van een upgrade.
 +++
 
-+++**_Hoe krijg ik hulp voor problemen die ik heb met de Adobe Dynamic Media Classic-bureaubladtoepassing?_**
-Neem contact op met de Adobe Support voor alle problemen die u hebt tijdens het gebruik van de app.
++++**_hoe krijg ik hulp voor om het even welke kwesties die ik met Adobe Dynamic Media Classic Desktop app heb?_**
+Neem contact op met Adobe Support voor alle problemen die u hebt tijdens het gebruik van de app.
 +++
 
-+++**_Ik wil ervoor zorgen dat ik mijn rijke mediastrategie optimaliseer. Hoe kan ik nog meer leren over Adobe Dynamic Media Classic?_**
++++**_ik wil ervoor zorgen ik mijn rijke media strategie optimaliseer. Hoe kan ik nog meer leren over Adobe Dynamic Media Classic?_** 
 Adobe Dynamic Media Classic is een krachtige, veelzijdige oplossing die is ontworpen om uw geavanceerde mediastrategieën te verbeteren. Om ervoor te zorgen dat u alle mogelijkheden benut, zorg ervoor u deze praktische middelen verkent:
 
-* [Zelfstudie over best practices voor Adobe Dynamic Media Classic](https://experienceleague.adobe.com/nl/docs/experience-manager-learn/dynamic-media-classic-tutorial/overview)
-* [Blogberichten Adobe](https://blog.adobe.com/)<!-- (https://blog.adobe.com/tag/dynamic-media/) -->
-* [Adobe Dynamic Media-nieuwsbrieven — Archieven](https://experienceleague.adobe.com/nl/docs/dynamic-media-classic/using/dynamic-media-newsletter)
+* [ het Leerprogramma van de Beste praktijken van Adobe Dynamic Media Classic ](https://experienceleague.adobe.com/en/docs/experience-manager-learn/dynamic-media-classic-tutorial/overview)
+* [ Blogberichten van Adobe ](https://blog.adobe.com/) <!-- (https://blog.adobe.com/tag/dynamic-media/) -->
+* [ de Dynamische Archives van de Media van Adobe de Nieuwsbrief ](https://experienceleague.adobe.com/en/docs/dynamic-media-classic/using/dynamic-media-newsletter)
 +++
 
-<!-- HIDDEN AUGUST 2, 2021 BECAUSE THE NEWSLETTER WAS DISCONTINUED Plus, [subscribe to the Dynamic Media newsletter](https://www.adobe.com/subscription/dynamic-media-newsletter.html) to stay current on the latest news, information, training opportunities, powerful features available to you such as [Smart Imaging](https://experienceleague.adobe.com/docs/experience-manager-65/assets/dynamic/imaging-faq.html?lang=nl-NL), and the complementary audit program. -->
+<!-- HIDDEN AUGUST 2, 2021 BECAUSE THE NEWSLETTER WAS DISCONTINUED Plus, [subscribe to the Dynamic Media newsletter](https://www.adobe.com/subscription/dynamic-media-newsletter.html) to stay current on the latest news, information, training opportunities, powerful features available to you such as [Smart Imaging](https://experienceleague.adobe.com/docs/experience-manager-65/assets/dynamic/imaging-faq.html), and the complementary audit program. -->
 
-+++**_Ik ben geïnteresseerd in meer informatie over de upgrade naar Adobe Dynamic Media met Adobe Experience Manager Assets. Waar kan ik meer informatie vinden?_**
-Ga voor meer informatie over de voordelen van de upgrade naar de volgende generatie veelzijdige media-authoring, -publicatie en dynamische levering naar de [Adobe Dynamic Media-portal voor upgraden](/help/using/upgrade.md).
++++**_ik ben geinteresseerd in het leren meer over bevordering aan de Dynamische Media van Adobe met Adobe Experience Manager Assets. Waar kan ik meer informatie vinden?_**
+Meer over de voordelen van de bevordering aan de volgende generatie van rijke media authoring, het publiceren, en dynamische levering leren, bezoek het [ Dynamische portaal van Media van Adobe voor bevordering ](/help/using/upgrade.md).
 +++
 
 >[!MORELIKETHIS]
 >
->* [Aanmelden bij en uit de Adobe Dynamic Media Classic-bureaubladtoepassing](/help/using/signing-out.md)
->* [De Adobe Dynamic Media Classic-bureaubladtoepassing downloaden en installeren](/help/using/dynamic-media-classic-desktop-app.md)
+>* [ Teken binnen aan en uit de Desktoptoepassing van Adobe Dynamic Media Classic ](/help/using/signing-out.md)
+>* [ Download en installeer de Desktoptoepassing van Adobe Dynamic Media Classic ](/help/using/dynamic-media-classic-desktop-app.md)
 
 <!-- SAVE: OLD LINK TO BEST PRACTICES GUIDE IN PDF https://www.adobe.com/content/dam/www/us/en/marketing/experience-manager-assets/dynamic-media/adobe-dynamic-media-classic-best-practices-guide.pdf -->

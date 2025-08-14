@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # Sjablonen publiceren{#publishing-templates}
 
-Als u uw sjabloon publiceert, wordt deze op Dynamic Media Image Servers geplaatst, waar deze beschikbaar is op uw website en toepassing. Tijdens het publicatieproces activeert Adobe Dynamic Media Classic de URL&#39;s die u nodig hebt voor uw website en toepassing.
+Als u uw sjabloon publiceert, wordt deze op Dynamic Media Image Servers geplaatst, waar de sjabloon beschikbaar is voor uw website en toepassing. Tijdens het publicatieproces activeert Adobe Dynamic Media Classic de URL&#39;s die u nodig hebt voor uw website en toepassing.
 
 >[!NOTE]
 >
@@ -27,13 +27,13 @@ Als u uw sjabloon publiceert, wordt deze op Dynamic Media Image Servers geplaats
 
 ## Sjablonen markeren voor publicatie {#marking-templates-for-publish}
 
-Sjablonen en alle bijbehorende ondersteuningsbestanden moeten zijn gemarkeerd voor publicatie zodat ze op Dynamic Media Image Servers kunnen worden geplaatst. U kunt deze items voor publicatie markeren in het deelvenster Bladeren door de optie **[!UICONTROL Mark for Publish]** pictogram.
+Sjablonen en alle bijbehorende ondersteuningsbestanden moeten zijn gemarkeerd voor publicatie zodat ze op Dynamic Media Image Servers kunnen worden geplaatst. U kunt deze items voor publicatie markeren in het deelvenster Bladeren door het pictogram **[!UICONTROL Mark for Publish]** te selecteren.
 
 ## Uw sjabloon publiceren {#publishing-your-template}
 
-Als u sjablonen wilt publiceren naar Dynamic Media Image Servers, selecteert u op de algemene navigatiebalk de optie **[!UICONTROL Publish]** selecteert u vervolgens een **[!UICONTROL When]** -optie. U kunt desgewenst een naam voor de publicatietaak invoeren. Selecteren **[!UICONTROL Submit Publish]**.
+Als u sjablonen wilt publiceren naar Dynamic Media Image Servers, selecteert u op de algemene navigatiebalk de optie **[!UICONTROL Publish]** en selecteert u vervolgens een optie **[!UICONTROL When]** . U kunt desgewenst een naam voor de publicatietaak invoeren. Selecteer **[!UICONTROL Submit Publish]** .
 
 >[!MORELIKETHIS]
 >
->* [Elementen markeren voor publicatie](publishing-files.md#publish_after_uploading)
->* [Een publicatietaak maken](publishing-files.md#creating_a_publish_job)
+>* [ activa van het Teken voor publiceren ](publishing-files.md#publish_after_uploading)
+>* [ creeer een het publiceren baan ](publishing-files.md#creating_a_publish_job)

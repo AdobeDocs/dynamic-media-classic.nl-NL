@@ -27,35 +27,35 @@ Zorg ervoor dat u een mapstructuur en -organisatie instelt voor het opslaan van 
 
 In de elementenbibliotheek worden bestanden in een mappenstructuur weergegeven. Wanneer u een map selecteert in de elementenbibliotheek, wordt de inhoud van die map weergegeven in het deelvenster Bladeren. Gebruik de volgende technieken om mappen te zoeken in de mappenstructuur:
 
-* **Submappen weergeven**: Selecteer de **[!UICONTROL Expand Folder]** om de submappen in een map weer te geven. Dit pictogram bevindt zich links van mapnamen.
+* **subfolders van de Vertoning**: Selecteer het **[!UICONTROL Expand Folder]** pictogram om subfolders in een omslag te tonen. Dit pictogram bevindt zich links van mapnamen.
 
-* **Een map verplaatsen**: U kunt een map verplaatsen door deze te slepen en neer te zetten op de nieuwe locatie of door **[!UICONTROL File]** > **[!UICONTROL Move Folder]**.
+* **Beweeg een omslag**: U kunt een omslag bewegen door het te slepen en het in zijn nieuwe plaats te laten vallen, of door **[!UICONTROL File]** te selecteren > **[!UICONTROL Move Folder]**.
 
-* **Mappen verbergen**: Selecteer de **[!UICONTROL Collapse Folder]** als u submappen wilt samenvouwen om ze te verbergen voor weergave. Dit pictogram bevindt zich links van mapnamen.
+* **de omslagen van de Huid**: Selecteer het **[!UICONTROL Collapse Folder]** pictogram als u subfolders wilt samenvouwen om hen van mening te verbergen. Dit pictogram bevindt zich links van mapnamen.
 
-* **Een map openen**: Selecteer een map als u de inhoud ervan wilt weergeven in het deelvenster Bladeren.
+* **Open een omslag**: Selecteer een omslag als u zijn inhoud in het Browse paneel wilt tonen.
 
 >[!TIP]
 >
->U kunt de Asset Library verbergen of weergeven door de optie **[!UICONTROL Expand]** of **[!UICONTROL Collapse]** controle aan de linkerkant. Vouw het deelvenster Middelenbibliotheek samen wanneer u meer ruimte nodig hebt om in het deelvenster Bladeren te werken.
+>U kunt de elementenbibliotheek verbergen of weergeven door het besturingselement **[!UICONTROL Expand]** of **[!UICONTROL Collapse]** links te selecteren. Vouw het deelvenster Middelenbibliotheek samen wanneer u meer ruimte nodig hebt om in het deelvenster Bladeren te werken.
 
 ## Mappen maken
 
 1. Selecteer in de elementenbibliotheek de map waarin u een map wilt maken.
-1. Selecteer de **[!UICONTROL `Add Folder`]** knop. Dit pictogram bevindt zich boven aan de mappenlijst.
+1. Selecteer de knop **[!UICONTROL `Add Folder`]** . Dit pictogram bevindt zich boven aan de mappenlijst.
 1. Voer een beschrijvende naam in voor de nieuwe map of submap. Typ het in het veld naast het mappictogram.
 
    >[!NOTE]
    >
-   >U kunt ook mappen maken in Adobe Dynamic Media Classic wanneer u bestanden uploadt via FTP. De **[!UICONTROL Include Subfolders]** als u uploadt via FTP, wordt de mapstructuur op uw computer in het systeem gerepliceerd. Bestanden en submappen op uw computer of netwerk worden gerepliceerd in de Asset Library en de elementen die u uploadt, worden in deze mappen geplaatst.
+   >U kunt ook mappen maken in Adobe Dynamic Media Classic wanneer u bestanden uploadt via FTP. Als u de optie **[!UICONTROL Include Subfolders]** selecteert wanneer u uploadt via FTP, wordt de mapstructuur op uw computer in het systeem gerepliceerd. Bestanden en submappen op uw computer of netwerk worden gerepliceerd in de Asset Library en de elementen die u uploadt, worden in deze mappen geplaatst.
 
 ## Mappen verwijderen en hernoemen {#deleting-and-renaming-folders}
 
 Selecteer een map en gebruik de volgende technieken om de map te verwijderen of de naam ervan te wijzigen:
 
-* **Verwijderen**: Selecteer de **[!UICONTROL `Remove Folder`]** knop. Middelen in een verwijderde map worden in de map Prullenbak geplaatst. Je kunt ze daar herstellen.
+* **Schrapping**: Selecteer de **[!UICONTROL `Remove Folder`]** knoop. Assets in een verwijderde map wordt in de map Prullenbak geplaatst. Je kunt ze daar herstellen.
 
-* **Naam wijzigen**: Dubbelklik op de naam en voer een nieuwe naam in.
+* **noem** anders: Dubbelklik de naam en ga een nieuwe naam in.
 
 >[!NOTE]
 >

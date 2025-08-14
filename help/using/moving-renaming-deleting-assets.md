@@ -25,19 +25,19 @@ U kunt elementen verplaatsen, hernoemen en verwijderen vanuit het deelvenster Bl
 
 In het deelvenster Bladeren kunt u elementen naar verschillende mappen verplaatsen.
 
-**Elementen verplaatsen:**
+**om activa te bewegen:**
 
 1. Selecteer het element of de elementen in het deelvenster Bladeren en voer een van de volgende handelingen uit:
 
    * Geef de map weer waarnaar u de elementen wilt verplaatsen in de elementenbibliotheek en sleep de elementen naar de map.
-   * Ga naar **[!UICONTROL File]** > **[!UICONTROL Move]** selecteert u een map in het venster Elementen verplaatsen en selecteert u **[!UICONTROL Move]**.
+   * Ga naar **[!UICONTROL File]** > **[!UICONTROL Move]** , selecteer een map in het venster Assets verplaatsen en selecteer **[!UICONTROL Move]** .
 
 ## Elementen hernoemen {#rename-assets}
 
 1. Selecteer het element in het deelvenster Bladeren en voer een van de volgende handelingen uit:
 
-   * Selecteer de naam, typ een nieuwe naam en druk op **[!UICONTROL Enter]** of selecteer een andere naam dan de naam.
-   * Ga naar **[!UICONTROL File]** > **[!UICONTROL Rename]**. De naam van het element wordt gemarkeerd. Voer een nieuwe naam in en druk op **[!UICONTROL Enter]**. Zorg ervoor dat u de naam van een bestaand Adobe Dynamic Media Classic-element niet invoert.
+   * Selecteer de naam, typ een nieuwe naam en druk op **[!UICONTROL Enter]** of selecteer een andere naam.
+   * Ga naar **[!UICONTROL File]** > **[!UICONTROL Rename]** . De naam van het element wordt gemarkeerd. Voer een nieuwe naam in en druk op **[!UICONTROL Enter]** . Zorg ervoor dat u de naam van een bestaand Adobe Dynamic Media Classic-element niet invoert.
 
 ## Elementen verwijderen {#delete-assets}
 
@@ -49,14 +49,14 @@ Zoomdoelen, afbeeldingskenmerken en historiegegevens worden permanent verwijderd
 
 >[!IMPORTANT]
 >
->Bulkverwijdering is een intensieve bewerking. Zorg ervoor dat u bulkverwijderingen opeenvolgend uitvoert in plaats van als gelijktijdige, zware verwijderingsbewerkingen. Adobe raadt u aan het verwijderen van bewerkingen te beperken tot maximaal 5000 verwijderingen per uur. Een getal groter dan 5000 per uur kan snelheidsbeperking veroorzaken.
+>Bulkverwijdering is een intensieve bewerking. Zorg ervoor dat u bulkverwijderingen opeenvolgend uitvoert in plaats van als gelijktijdige, zware verwijderingsbewerkingen. Adobe raadt u aan het verwijderen van bestanden te beperken tot maximaal 5000 bewerkingen per uur. Een getal groter dan 5000 per uur kan snelheidsbeperking veroorzaken.
 
-**Elementen verwijderen:**
+**om activa te schrappen:**
 
 1. Voer een van de volgende handelingen uit:
 
-   * Als u een of meer elementen wilt verwijderen, selecteert u de elementen in het deelvenster Bladeren en drukt u op **[!UICONTROL Delete]** of ga naar **[!UICONTROL File]** > **[!UICONTROL Delete]**.
-   * Als u een map wilt verwijderen, selecteert u de map in de Asset Library en selecteert u **[!UICONTROL Remove Folder]**.
+   * Als u een of meer elementen wilt verwijderen, selecteert u de elementen in het deelvenster Bladeren en drukt u op **[!UICONTROL Delete]** of gaat u naar **[!UICONTROL File]** > **[!UICONTROL Delete]** .
+   * Als u een map wilt verwijderen, selecteert u de map in de elementenbibliotheek en selecteert u **[!UICONTROL Remove Folder]** .
 
      Als u een map verwijdert, worden de map, alle elementen in de map en alle elementen in de submappen verwijderd.
 
@@ -70,14 +70,14 @@ Maak een lijst met Adobe Dynamic Media Classic-id&#39;s en sla deze op als een t
 
 Nadat u de lijst hebt gemaakt, voert u de volgende stappen uit om elementen te verwijderen:
 
-1. Ga naar **[!UICONTROL File]** > **[!UICONTROL Delete Asset List]**.
-1. In de **[!UICONTROL Deleted Asset list]** typt u het pad naar het tekstbestand met de lijst met elementen die u wilt verwijderen.
-1. Selecteren **[!UICONTROL Delete]**.
+1. Ga naar **[!UICONTROL File]** > **[!UICONTROL Delete Asset List]** .
+1. Typ in het dialoogvenster **[!UICONTROL Deleted Asset list]** het pad naar het tekstbestand met de lijst met elementen die u wilt verwijderen.
+1. Selecteer **[!UICONTROL Delete]** .
 
 Als u elementen verwijdert uit een tekstbestand en er geen Adobe Dynamic Media Classic-id in de lijst staat, wordt het bericht &quot;Kan deze items in de lijst niet valideren:&quot; weergegeven. De lijst met vermeldingen wordt ook weergegeven. Adobe Dynamic Media Classic genereert echter geen fout op de taakpagina.
 
 >[!MORELIKETHIS]
 >
->* [Elementen selecteren in het deelvenster Bladeren](selecting-assets-browse-panel.md#selecting_assets_in_the_browse_panel)
->* [Elementen en mappen voorbereiden voor uploaden](uploading-files.md#preparing_your_assets_and_folders_for_uploading)
->* [Elementen herstellen vanuit de map Prullenmand](trash-folder.md#restoring_assets_from_the_trash_folder)
+>* [ Selecteer activa in het Browse paneel ](selecting-assets-browse-panel.md#selecting_assets_in_the_browse_panel)
+>* [ bereidt uw activa en omslagen voor het uploaden ](uploading-files.md#preparing_your_assets_and_folders_for_uploading) voor
+>* [ herstelt activa van de omslag van het Afval ](trash-folder.md#restoring_assets_from_the_trash_folder)

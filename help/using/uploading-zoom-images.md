@@ -21,20 +21,20 @@ ht-degree: 0%
 
 Zoomafbeeldingen moeten een hoog aantal pixels hebben. Er is een groot aantal pixels nodig, zodat gebruikers de details van de afbeelding duidelijk kunnen zien wanneer ze op afbeeldingen inzoomen. Zorg ervoor dat de afbeeldingen die u gebruikt de juiste grootte hebben voordat u ze naar Adobe Dynamic Media Classic uploadt.
 
-Selecteer op de algemene navigatiebalk de optie **[!UICONTROL Upload]** om afbeeldingen te uploaden.
+Selecteer **[!UICONTROL Upload]** op de algemene navigatiebalk om afbeeldingen te uploaden.
 
-Zie voor gedetailleerde instructies over het uploaden van afbeeldingen [Bestanden uploaden](uploading-files.md#uploading_files).
+Voor gedetailleerde instructie bij het uploaden van beelden, zie [ dossiers ](uploading-files.md#uploading_files) uploaden.
 
-**Uw afbeeldingen voorbereiden voor zoomen:**
+**bereidt uw beelden voor het zoemen voor:**
 
 Als u optimaal wilt profiteren van de functies van Adobe Dynamic Media Classic Zoom, bereidt u uw zoomafbeeldingsbestanden voor voordat u ze uploadt:
 
-* **Afbeeldingsgrootte**: Adobe Dynamic Media Classic raadt aan afbeeldingsbestanden te gebruiken die minimaal 2000 pixels groot zijn. Op deze manier kunnen afbeeldingen duidelijk zichtbaar zijn wanneer gebruikers erop inzoomen.
+* **grootte van het Beeld**: Adobe Dynamic Media Classic adviseert het gebruiken van beelddossiers die, minstens, 2000 pixel in de langste grootte zijn. Op deze manier kunnen afbeeldingen duidelijk zichtbaar zijn wanneer gebruikers erop inzoomen.
 
-* **Bestandsindelingen**: Adobe Dynamic Media Classic ondersteunt alle standaardindelingen voor afbeeldingsbestanden. Indelingen zijn TIFF, BMP, JPEG, PSD, GIF en EPS. Afbeeldingsindelingen zonder verlies (TIFF en PNG) worden aanbevolen. Als u een JPEG-afbeelding gebruikt, gebruikt u de instellingen voor de hoogste kwaliteit.
+* **formaten van het Dossier**: Adobe Dynamic Media Classic steunt alle standaardindelingen van het beelddossier. Tot de indelingen behoren TIFF, BMP, JPEG, PSD, GIF en EPS. Afbeeldingsindelingen zonder verlies - TIFF en PNG worden aanbevolen. Als u een JPEG-afbeelding gebruikt, gebruikt u de instellingen voor de hoogste kwaliteit.
 
-* **Kleurruimte**: RGB is de kleurruimte voor webafbeeldingspresentaties. CMYK-afbeeldingen worden automatisch omgezet in RGB wanneer u ze uploadt. Het wordt aanbevolen CMYK-afbeeldingen te uploaden die een ingesloten ICC-kleurprofiel hebben voor de conversie naar RGB. Zie ook ICC-profielen.
+* **de ruimte van de Kleur**: RGB is de kleurenruimte voor de beeldpresentaties van het Web; de beelden CMYK worden automatisch omgezet in RGB wanneer u hen uploadt. Het wordt aanbevolen CMYK-afbeeldingen met een ingesloten ICC-kleurprofiel te uploaden voor de conversie naar RGB. Zie ook ICC-profielen.
 
 >[!MORELIKETHIS]
 >
->* [Bestanden uploaden](uploading-files.md#uploading_files)
+>* [ uploadt dossiers ](uploading-files.md#uploading_files)

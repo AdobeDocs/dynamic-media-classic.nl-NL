@@ -27,10 +27,10 @@ Universele URL&#39;s worden gebruikt om de sjabloonvariatie weer te geven die op
 
 U kunt elke URL met voorinstellingen voor afbeeldingen uit de lijst gebruiken. URL&#39;s met voorinstellingen voor afbeeldingen zijn vergelijkbaar met universele URL&#39;s. Er kunnen meerdere URL&#39;s met voorinstellingen voor afbeeldingen zijn.
 
-1. Ga naar **[!UICONTROL Build]** > **[!UICONTROL Template Sets]**.
-1. Selecteer in de builder een sjabloon en selecteer vervolgens **[!UICONTROL Add/Preview]**.
+1. Ga naar **[!UICONTROL Build]** > **[!UICONTROL Template Sets]** .
+1. Selecteer in de builder een sjabloon en selecteer vervolgens **[!UICONTROL Add/Preview]** .
 1. Wijzig de sjablooneigenschappen en selecteer **[!UICONTROL Save As]** om een andere versie te maken.
-1. Typ een naam en selecteer vervolgens **[!UICONTROL Save]**.
+1. Typ een naam en selecteer vervolgens **[!UICONTROL Save]** .
 
    Zowel het element als de sjabloon moeten worden gepubliceerd.
 

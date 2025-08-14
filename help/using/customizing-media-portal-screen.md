@@ -21,25 +21,25 @@ ht-degree: 0%
 
 Met de Media Portal-stijlinstellingen kunt u het scherm Media Portal voorzien van uw bedrijfslogo en -kleuren. Gebruik de stijlinstellingen om uw bedrijf branding op het Portaal van Media te zetten.
 
-Ga voor toegang tot de stijlinstellingen naar **[!UICONTROL Setup]** > **[!UICONTROL Media Portal Setup]** > **[!UICONTROL Style Settings]**. Zorg ervoor dat u **[!UICONTROL Save]** om uw instellingen op te slaan nadat u deze hebt gemaakt. U kunt **[!UICONTROL Restore]** om de standaardinstellingen terug te halen. Terwijl u uw keuzes maakt, wordt in het deelvenster Voorvertoning weergegeven hoe deze worden weergegeven.
+Ga naar **[!UICONTROL Setup]** > **[!UICONTROL Media Portal Setup]** > **[!UICONTROL Style Settings]** om de stijlinstellingen te openen. Zorg ervoor dat u **[!UICONTROL Save]** selecteert om uw instellingen op te slaan nadat u deze hebt gemaakt. U kunt **[!UICONTROL Restore]** selecteren om de standaardinstellingen terug te halen. Terwijl u uw keuzes maakt, wordt in het deelvenster Voorvertoning weergegeven hoe deze worden weergegeven.
 
-* **[!UICONTROL Logo]**: Select **[!UICONTROL Browse]** en kies vervolgens een afbeelding in het venster Logoafbeelding selecteren.
+* **[!UICONTROL Logo]**: Selecteer **[!UICONTROL Browse]** en kies een afbeelding in het venster Logoafbeelding selecteren.
 
-* **[!UICONTROL Application]**: Maak een verloopkleurovervloeiing door keuzes te maken in de menu&#39;s van de Achtergrondverloopkleuren.
+* **[!UICONTROL Application]**: maak een verloopkleurovervloeiing door keuzes te maken in de menu&#39;s van de achtergrondverloopkleuren.
 
-* **[!UICONTROL Tree]**: Kies een rollover-kleur en een selectiekleur.
+* **[!UICONTROL Tree]**: kies een rollover-kleur en een selectiekleur.
 
-* **[!UICONTROL Accordion]**: Kies achtergrondkleuren, een randstijl, de rollover en de geselecteerde kleuren voor de accordeon die in de weergave Details rechts op het scherm wordt weergegeven.
+* **[!UICONTROL Accordion]**: kies achtergrondkleuren, een randstijl, rollover en geselecteerde kleuren voor de accordeon die in de weergave Details rechts op het scherm wordt weergegeven.
 
-* **[!UICONTROL Accordion Header]**: Kies of u tekst in de vetgedrukte accordeonkoptekst wilt maken.
+* **[!UICONTROL Accordion Header]**: Bepaal of u tekst in de koptekst van de accordeon vet wilt maken.
 
-* **[!UICONTROL Datagrid]**: Kies kleuren voor de koptekstrij in gegevensrasters.
+* **[!UICONTROL Datagrid]**: kies kleuren voor de koptekstrij in gegevensrasters.
 
-* **[!UICONTROL Alert]**: Kies een achtergrondkleur voor waarschuwingsberichtvensters.
+* **[!UICONTROL Alert]**: kies een achtergrondkleur voor waarschuwingsberichtvensters.
 
 * **[!UICONTROL Progress Bar]**: Kies een kleur voor de balk die de voortgang van het uploaden en downloaden aangeeft.
 
-Voor gebruikers van Media Portal om de stijlmontages te zien die u verkoos, moeten zij toevoegen `?company=(company name)` aan URL waarmee zij tot het Portaal van Media toegang hebben. Bijvoorbeeld, om stijlmontages te zien, de gebruikers van het Portaal van Media die tot het bedrijf PortalCo bij het volgende toegang hebben:
+Gebruikers van Media Portal kunnen de door u gekozen stijlinstellingen alleen zien als ze `?company=(company name)` toevoegen aan de URL waarmee ze toegang krijgen tot Media Portal. Bijvoorbeeld, om stijlmontages te zien, de gebruikers van het Portaal van Media die tot het bedrijf PortalCo bij het volgende toegang hebben:
 
 `https://s7sps1.scene7.com/MediaPortal`
 
@@ -51,4 +51,4 @@ Als u de bedrijfsnaam in de URL opneemt, kan Media Portal zien welk bedrijf een 
 
 U kunt meer leren over het communiceren van URL veranderingen in de gebruikers van het Portaal van Media, en vestiging een Welkome e-mailbericht zodat ontvangen de nieuwe gebruikers correcte Portaal URL van Media.
 
-Zie [Het welkomste-mailbericht voor gebruikers van Media Portal instellen](adding-media-portal-users.md#setting_up_the_welcome_e_mail_message_for_media_portal_users).
+Zie [ Opstelling het Welkome e-mailbericht voor de gebruikers van het Portaal van Media ](adding-media-portal-users.md#setting_up_the_welcome_e_mail_message_for_media_portal_users).
