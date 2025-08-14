@@ -233,7 +233,7 @@ Om *stil* te downloaden en te installeren de recentste versie van Adobe Dynamic 
 
 ## Video doorlopen bij gebruik van Adobe Dynamic Media Classic Desktop App {#dmc-app-video-walk-through}
 
-Bekijk a [ videolooppas-door op het gebruiken van de App van de Desktop van Adobe Dynamic Media Classic ](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/dynamic-media/dynamic-media-classic-desktop-application#dynamic-media) (Lengte: 2 minuten 36 seconden).
+Bekijk a [ videolooppas-door op het gebruiken van de App van de Desktop van Adobe Dynamic Media Classic ](https://experienceleague.adobe.com/nl/docs/experience-manager-learn/assets/dynamic-media/dynamic-media-classic-desktop-application#dynamic-media) (Lengte: 2 minuten 36 seconden).
 
 ## De afbeeldingscache en de assetcache op uw computer wissen met de bureaubladtoepassing {#clear-cache}
 

@@ -23,7 +23,7 @@ Het optimaliseren van de afbeeldingskwaliteit kan veel tijd in beslag nemen. Vee
 
 Adobe Dynamic Media Classic bevat meer dan 100 opdrachten voor het bedienen van afbeeldingen voor het instellen en optimaliseren van afbeeldingen en het renderen van resultaten. De volgende richtlijnen kunnen u helpen het proces stroomlijnen en goede resultaten snel bereiken gebruikend sommige essentiële bevelen en beste praktijken.
 
-Zie ook [ Slimme beeldvorming ](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/assets/dynamic/imaging-faq).
+Zie ook [ Slimme beeldvorming ](https://experienceleague.adobe.com/nl/docs/experience-manager-65/content/assets/dynamic/imaging-faq).
 
 >[!TIP]
 >
@@ -35,7 +35,7 @@ Zie ook [ Slimme beeldvorming ](https://experienceleague.adobe.com/en/docs/exper
 >* Netwerkbandbreedte
 >* DPR (Pixelverhouding apparaat)
 >
->Om te leren hoe gemakkelijk het Momentopname moet gebruiken, speel de [ video van de de opleidingsopleiding van de Momentopname ](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/dynamic-media/images/dynamic-media-snapshot) (3 minuten en 17 seconden).
+>Om te leren hoe gemakkelijk het Momentopname moet gebruiken, speel de [ video van de de opleidingsopleiding van de Momentopname ](https://experienceleague.adobe.com/nl/docs/experience-manager-learn/assets/dynamic-media/images/dynamic-media-snapshot) (3 minuten en 17 seconden).
 
 
 ## Aanbevolen werkwijzen voor afbeeldingsindeling (&amp;fmt=) {#best-practices-for-image-format-fmt}

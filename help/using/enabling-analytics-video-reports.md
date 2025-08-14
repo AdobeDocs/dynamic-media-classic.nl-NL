@@ -21,17 +21,17 @@ ht-degree: 0%
 
 Als u Adobe Analytics-videoverslagen op basis van hartslag gebruikt, hoeft u de vier videoviewergebeurtenissen (Play, Pause, Stop, Milestone) niet meer in te schakelen wanneer u Adobe Analytics in Adobe Dynamic Media Classic configureert. De functie Videohartslag werkt met Adobe Dynamic Media Classic HTML5-viewers voor video en gemengde media die niet in de verpakking staan. De videospeler genereert trackinggegevens voor weergave in Adobe Analytics-videorapporten.
 
-* Voor een inleiding aan het stromen media en &quot;hartslagmeting,&quot;zie [ Ongeveer Analytics van Adobe voor het Streamen van Media ](https://experienceleague.adobe.com/en/docs/media-analytics/using/media-overview).
+* Voor een inleiding aan het stromen media en &quot;hartslagmeting,&quot;zie [ Ongeveer Analytics van Adobe voor het Streamen van Media ](https://experienceleague.adobe.com/nl/docs/media-analytics/using/media-overview).
 
 * De integratie van Adobe Analytics-videorapporten met Adobe Dynamic Media Classic ondersteunt oplossingsvariabelen, maar geen aangepaste variabelen.
 
-  Zie [ Audio en Video parameters ](https://experienceleague.adobe.com/en/docs/media-analytics/using/implementation/variables/audio-video-parameters) voor meer informatie over oplossingsvariabelen en douanevariabelen.
+  Zie [ Audio en Video parameters ](https://experienceleague.adobe.com/nl/docs/media-analytics/using/implementation/variables/audio-video-parameters) voor meer informatie over oplossingsvariabelen en douanevariabelen.
 
 * De uit-van-de-doos segmenten van één-minieme toename worden gesteund. Aangepaste segmentrapportage, zoals door de klant gedefinieerde mijlpalen op basis van tijdstappen, procentuele mijlpalen of verschuivingsmijlpalen, wordt echter niet ondersteund.
 
-  Voor meer informatie over het stromen media vereisten en opstelling, zie [ Stromende Media van de Meetlat in Adobe Analytics ](https://experienceleague.adobe.com/en/docs/media-analytics/using/media-overview).
+  Voor meer informatie over het stromen media vereisten en opstelling, zie [ Stromende Media van de Meetlat in Adobe Analytics ](https://experienceleague.adobe.com/nl/docs/media-analytics/using/media-overview).
 
-* Voor informatie over douane en oplossingsvariabelen, zie [ de rapporten van Media enablement ](https://experienceleague.adobe.com/en/docs/media-analytics/using/media-reports/media-reports-enable#media-reports).
+* Voor informatie over douane en oplossingsvariabelen, zie [ de rapporten van Media enablement ](https://experienceleague.adobe.com/nl/docs/media-analytics/using/media-reports/media-reports-enable#media-reports).
 
 >[!NOTE]
 >

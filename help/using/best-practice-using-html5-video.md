@@ -31,7 +31,7 @@ Door de volgende mogelijkheden te combineren tot één speler:
 
 U vergroot het bereik van uw rijke media-inhoud tot gebruikers op het bureaublad en mobiele apparaten. U zorgt ook voor een gestroomlijnde videobeleving.
 
-Zie ook [ Ongeveer HTML5 Kijkers ](https://experienceleague.adobe.com/en/docs/dynamic-media-developer-resources/library/viewers-for-aem-assets-only/c-html5-aem-asset-viewers#viewers-for-aem-assets-only) in de Gids van de Verwijzing van de Kijkers van Adobe.
+Zie ook [ Ongeveer HTML5 Kijkers ](https://experienceleague.adobe.com/nl/docs/dynamic-media-developer-resources/library/viewers-for-aem-assets-only/c-html5-aem-asset-viewers#viewers-for-aem-assets-only) in de Gids van de Verwijzing van de Kijkers van Adobe.
 
 Zie ook [ Kijker vooraf instelt ](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&emailurl=https://s7d5.scene7.com/s7/emailFriend&serverUrl=https://s7d5.scene7.com/is/image/&config=Scene7SharedAssets/Universal_HTML5_Video&contenturl=https://s7d5.scene7.com/skins/&asset=S7tutorials/550_viewer-presets_converted%20renamed_Done-AVS) opleidingsvideo.
 

@@ -94,12 +94,12 @@ Neem contact op met Adobe Support voor alle problemen die u hebt tijdens het geb
 +++**_ik wil ervoor zorgen ik mijn rijke media strategie optimaliseer. Hoe kan ik nog meer leren over Adobe Dynamic Media Classic?_** 
 Adobe Dynamic Media Classic is een krachtige, veelzijdige oplossing die is ontworpen om uw geavanceerde mediastrategieën te verbeteren. Om ervoor te zorgen dat u alle mogelijkheden benut, zorg ervoor u deze praktische middelen verkent:
 
-* [ het Leerprogramma van de Beste praktijken van Adobe Dynamic Media Classic ](https://experienceleague.adobe.com/en/docs/experience-manager-learn/dynamic-media-classic-tutorial/overview)
+* [ het Leerprogramma van de Beste praktijken van Adobe Dynamic Media Classic ](https://experienceleague.adobe.com/nl/docs/experience-manager-learn/dynamic-media-classic-tutorial/overview)
 * [ Blogberichten van Adobe ](https://blog.adobe.com/) <!-- (https://blog.adobe.com/tag/dynamic-media/) -->
-* [ de Dynamische Archives van de Media van Adobe de Nieuwsbrief ](https://experienceleague.adobe.com/en/docs/dynamic-media-classic/using/dynamic-media-newsletter)
+* [ de Dynamische Archives van de Media van Adobe de Nieuwsbrief ](https://experienceleague.adobe.com/nl/docs/dynamic-media-classic/using/dynamic-media-newsletter)
 +++
 
-<!-- HIDDEN AUGUST 2, 2021 BECAUSE THE NEWSLETTER WAS DISCONTINUED Plus, [subscribe to the Dynamic Media newsletter](https://www.adobe.com/subscription/dynamic-media-newsletter.html) to stay current on the latest news, information, training opportunities, powerful features available to you such as [Smart Imaging](https://experienceleague.adobe.com/docs/experience-manager-65/assets/dynamic/imaging-faq.html), and the complementary audit program. -->
+<!-- HIDDEN AUGUST 2, 2021 BECAUSE THE NEWSLETTER WAS DISCONTINUED Plus, [subscribe to the Dynamic Media newsletter](https://www.adobe.com/subscription/dynamic-media-newsletter.html) to stay current on the latest news, information, training opportunities, powerful features available to you such as [Smart Imaging](https://experienceleague.adobe.com/docs/experience-manager-65/assets/dynamic/imaging-faq.html?lang=nl-NL), and the complementary audit program. -->
 
 +++**_ik ben geinteresseerd in het leren meer over bevordering aan de Dynamische Media van Adobe met Adobe Experience Manager Assets. Waar kan ik meer informatie vinden?_**
 Meer over de voordelen van de bevordering aan de volgende generatie van rijke media authoring, het publiceren, en dynamische levering leren, bezoek het [ Dynamische portaal van Media van Adobe voor bevordering ](/help/using/upgrade.md).
