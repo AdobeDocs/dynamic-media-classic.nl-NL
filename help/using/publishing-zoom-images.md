@@ -31,4 +31,4 @@ Als u zoomafbeeldingen wilt publiceren, selecteert u op de algemene navigatiebal
 
 >[!MORELIKETHIS]
 >
->* [ publiceer dossiers ](publishing-files.md#publishing_files)
+>* [&#x200B; publiceer dossiers &#x200B;](publishing-files.md#publishing_files)

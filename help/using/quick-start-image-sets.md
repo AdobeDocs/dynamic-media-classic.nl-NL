@@ -23,7 +23,7 @@ Met Adobe Dynamic Media Classic Image Sets hebben gebruikers een geïntegreerde 
 
 De viewer voor Afbeeldingsset biedt zoomgereedschappen waarmee u afbeeldingen nauwkeurig kunt bekijken. Desgewenst kunt u doelen voor zoomen met instructies en afbeeldingen met hyperlinks in de set met afbeeldingen opnemen. Afbeeldingssets zorgen voor een meer gecoördineerde, intieme kijkervaring.
 
-Zie [ Beeld en de Reeksen van de Draai: Dynamic Imaging ](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&emailurl=https://s7d5.scene7.com/s7/emailFriend&serverUrl=https://s7d5.scene7.com/is/image/&config=Scene7SharedAssets/Universal_HTML5_Video&contenturl=https://s7d5.scene7.com/skins/&asset=S7tutorials/556_Image%20&%20Spin%20Sets_converted%20renamed_Dynamic%20Imaging-AVS) trainingsvideo.
+Zie [&#x200B; Beeld en de Reeksen van de Draai: Dynamic Imaging &#x200B;](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&emailurl=https://s7d5.scene7.com/s7/emailFriend&serverUrl=https://s7d5.scene7.com/is/image/&config=Scene7SharedAssets/Universal_HTML5_Video&contenturl=https://s7d5.scene7.com/skins/&asset=S7tutorials/556_Image%20&%20Spin%20Sets_converted%20renamed_Dynamic%20Imaging-AVS) trainingsvideo.
 
 Als u een Afbeeldingsset maakt, raadt Adobe de volgende aanbevolen procedures aan en past het de volgende limieten toe:
 
@@ -34,7 +34,7 @@ Als u een Afbeeldingsset maakt, raadt Adobe de volgende aanbevolen procedures aa
 
 ‡ De beste manier is om geen dubbele elementen in een set te hebben. De limiet is 20 duplicaten voor één element. Als u nog een duplicaat voor dat element toevoegt (binnen die set), geeft de aanvraag een fout of wordt het duplicaat genegeerd.
 
-Zie ook [ Dynamische beperkingen van Media ](/help/using/limitations.md).
+Zie ook [&#x200B; Dynamische beperkingen van Media &#x200B;](/help/using/limitations.md).
 
 De volgende Afbeeldingssets zijn ontworpen om snel aan de slag te gaan met de Image Set-technieken in Adobe Dynamic Media Classic.
 
@@ -44,7 +44,7 @@ Begin door de beelden voor uw Reeksen van het Beeld te uploaden. Omdat gebruiker
 
 Selecteer op de algemene navigatiebalk **[!UICONTROL Upload]** om bestanden van uw computer te uploaden naar een map op Adobe Dynamic Media Classic.
 
-Zie [ Vastgestelde activa van het Beeld voor upload ](preparing-image-set-assets-upload.md#preparing-image-set-assets-for-upload) en [ uploadt uw dossiers ](uploading-files.md#uploading-your-files).
+Zie [&#x200B; Vastgestelde activa van het Beeld voor upload &#x200B;](preparing-image-set-assets-upload.md#preparing-image-set-assets-for-upload) en [&#x200B; uploadt uw dossiers &#x200B;](uploading-files.md#uploading-your-files).
 
 ## &#x200B;2. Een afbeeldingsset maken
 
@@ -52,9 +52,9 @@ In de Reeksen van het Beeld, selecteren de gebruikers duimnagelbeelden in de Vas
 
 Als u een Afbeeldingsset wilt maken, selecteert u **[!UICONTROL Build]** op de algemene navigatiebalk en kiest u vervolgens **[!UICONTROL Image Sets]** . Sleep de afbeeldingen in het venster Afbeeldingsset naar de pagina om de Afbeeldingsset samen te stellen. Organiseer, voeg, en schrap beelden toe zoals nodig.
 
-Zie [ een Reeks van het Beeld ](creating-image-set.md#creating-an-image-set) creëren.
+Zie [&#x200B; een Reeks van het Beeld &#x200B;](creating-image-set.md#creating-an-image-set) creëren.
 
-Zie ook [ omvatten de Doelen van het Gezoem en Kaarten van het Beeld in de Reeksen van het Beeld ](/help/using/including-zoom-targets-image-maps-image-sets.md)
+Zie ook [&#x200B; omvatten de Doelen van het Gezoem en Kaarten van het Beeld in de Reeksen van het Beeld &#x200B;](/help/using/including-zoom-targets-image-maps-image-sets.md)
 
 ## &#x200B;3. Voorinstellingen voor de afbeeldingsset Viewer voorbereiden, indien nodig
 
@@ -62,13 +62,13 @@ Beheerders kunnen voorinstellingen voor de afbeeldingsset Viewer maken of wijzig
 
 U kunt Viewer-voorinstellingen toevoegen of bewerken via het scherm Toepassingsinstellingen.
 
-Zie [ creëren en uitgeven Kijker stelt ](application-setup.md#adding-and-editing-viewer-presets) vooraf in.
+Zie [&#x200B; creëren en uitgeven Kijker stelt &#x200B;](application-setup.md#adding-and-editing-viewer-presets) vooraf in.
 
 ## &#x200B;4. Een voorvertoning van een afbeeldingsset weergeven
 
 Selecteer de Afbeeldingsset in het deelvenster Bladeren en selecteer vervolgens **[!UICONTROL Preview]** . Selecteer op de pagina Voorvertoning de miniatuurpictogrammen om de Afbeeldingsset in de geselecteerde viewer te bekijken. U kunt verschillende Viewers kiezen in het menu Voorinstellingen.
 
-Zie [ Voorproef een activa ](previewing-asset.md#previewing-an-asset).
+Zie [&#x200B; Voorproef een activa &#x200B;](previewing-asset.md#previewing-an-asset).
 
 ## &#x200B;5. Een afbeeldingsset publiceren
 
@@ -80,7 +80,7 @@ Wanneer u een Afbeeldingsset publiceert, wordt deze op Adobe Dynamic Media Class
 
 Selecteer **[!UICONTROL Mark for Publish]** pictogram links van zijn naam in het Browse paneel. Selecteer vervolgens **[!UICONTROL Publish]** . Selecteer **[!UICONTROL Submit Publish]** op de pagina Publiceren.
 
-Zie [ publiceren dossiers ](publishing-files.md#publishing-files).
+Zie [&#x200B; publiceren dossiers &#x200B;](publishing-files.md#publishing-files).
 
 ## &#x200B;6. Koppel een afbeeldingsset aan uw website
 
@@ -88,4 +88,4 @@ Adobe Dynamic Media Classic maakt URL-aanroepen voor afbeeldingssets en activeer
 
 Selecteer de set Afbeeldingen en selecteer vervolgens **[!UICONTROL Preview]** . Selecteer nu een voorinstelling voor de Afbeeldingsset Viewer en klik op de knop **[!UICONTROL Copy URL]** .
 
-Zie [ Verbinding het Beeld dat aan een Web-pagina ](linking-image-set-web-page.md#linking-an-image-set-to-a-web-page) wordt geplaatst.
+Zie [&#x200B; Verbinding het Beeld dat aan een Web-pagina &#x200B;](linking-image-set-web-page.md#linking-an-image-set-to-a-web-page) wordt geplaatst.

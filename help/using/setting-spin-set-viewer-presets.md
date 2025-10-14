@@ -38,10 +38,10 @@ Met voorinstellingen van de draaiende viewer worden de stijl, het gedrag en de v
 
 Selecteer **[!UICONTROL Make Default]** om van de Vastgestelde Kijker van de Rotatie vooraf in te stellen u het bedrijfgebrek voor het tonen van Reeksen van de Rotatie creeerde.
 
-Zie [ Standaardkijkers ](application-setup.md#configuring_default_viewers) vormen.
+Zie [&#x200B; Standaardkijkers &#x200B;](application-setup.md#configuring_default_viewers) vormen.
 
 Als u een voorinstelling voor een centrifugeset viewer wilt verwijderen, selecteert u deze op de pagina Voorinstellingen viewer en selecteert u vervolgens **[!UICONTROL Delete]** .
 
 >[!MORELIKETHIS]
 >
->* [ Kijker stelt vooraf in ](application-setup.md#viewer_presets)
+>* [&#x200B; Kijker stelt vooraf in &#x200B;](application-setup.md#viewer_presets)

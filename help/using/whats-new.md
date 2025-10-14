@@ -19,4 +19,4 @@ ht-degree: 0%
 
 # Nieuwe functies {#what-s-new}
 
-Om de recentste de versieinformatie van Adobe Dynamic Media Classic, met inbegrip van nieuwe eigenschappen, verhogingen, en moeilijke situaties te herzien, zie de [ Nota&#39;s van de Versie van Adobe Dynamic Media Classic ](https://experienceleague.adobe.com/nl/docs/dynamic-media-developer-resources/release-notes/s7rn2017).
+Om de recentste de versieinformatie van Adobe Dynamic Media Classic, met inbegrip van nieuwe eigenschappen, verhogingen, en moeilijke situaties te herzien, zie de [&#x200B; Nota&#39;s van de Versie van Adobe Dynamic Media Classic &#x200B;](https://experienceleague.adobe.com/nl/docs/dynamic-media-developer-resources/release-notes/s7rn2017).

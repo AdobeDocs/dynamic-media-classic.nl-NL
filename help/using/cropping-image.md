@@ -62,6 +62,6 @@ U kunt de transparante of effen kleurpixels uitsnijden vanaf de rand van een afb
 
 >[!MORELIKETHIS]
 >
->* [ Opties voor beeld-uitgeeft bij upload ](image-editing-options-upload.md#image-editing-options-at-upload)
->* [ het witte ruimte van het Gewas van een dossier van PDF ](pdfs.md#cropping_white_space_from_a_pdf_file)
->* [ Gewas van de kanten van de pagina&#39;s van PDF ](pdfs.md#cropping_from_the_sides_of_pdf_pages)
+>* [&#x200B; Opties voor beeld-uitgeeft bij upload &#x200B;](image-editing-options-upload.md#image-editing-options-at-upload)
+>* [&#x200B; het witte ruimte van het Gewas van een dossier van PDF &#x200B;](pdfs.md#cropping_white_space_from_a_pdf_file)
+>* [&#x200B; Gewas van de kanten van de pagina&#39;s van PDF &#x200B;](pdfs.md#cropping_from_the_sides_of_pdf_pages)

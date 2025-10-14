@@ -39,11 +39,11 @@ Als u specifiek geen groepstoestemming aan een middel of een omslag verleent, er
 1. Desgewenst kunt u de vakken naast de namen van gebruikers selecteren om gebruikers aan de nieuwe groep toe te voegen.
 1. Als u nu toegangsmachtigingen wilt opgeven, selecteert u het tabblad **[!UICONTROL Asset Access Permissions]** en geeft u de gewenste opties op.
 
-   Zie [ activa toegangstoestemmingen voor een groep ](creating-media-portal-groups.md#establishing_asset_access_permissions_for_a_group) vestigen.
+   Zie [&#x200B; activa toegangstoestemmingen voor een groep &#x200B;](creating-media-portal-groups.md#establishing_asset_access_permissions_for_a_group) vestigen.
 
 1. U kunt kiezen welke Voorinstellingen afbeelding beschikbaar zijn voor de groep. Klik op de tab **[!UICONTROL Image Preset Access Permissions]** en selecteer Voorinstellingen afbeelding die de groep kan gebruiken.
 
-   Zie [ Vooraf ingestelde de toegangstoestemmingen van het Beeld voor een groep ](creating-media-portal-groups.md#choosing_image_preset_access_permissions_for_a_group) kiezen.
+   Zie [&#x200B; Vooraf ingestelde de toegangstoestemmingen van het Beeld voor een groep &#x200B;](creating-media-portal-groups.md#choosing_image_preset_access_permissions_for_a_group) kiezen.
 
 1. Selecteer **[!UICONTROL Close]** .
 
@@ -79,7 +79,7 @@ Als u specifiek geen groepstoestemming aan een middel of een omslag verleent, er
 
 Kies Vooraf ingestelde de toegangstoestemmingen van het Beeld voor een groep als u wilt specificeren welke Vooraf ingestelde Beeld aan groepsleden beschikbaar zijn wanneer zij activa met het Portaal van Media uitvoeren.
 
-Zie ook [ specificeer uitvoeropties beschikbaar aan Poortgebruikers van Media ](specifying-export-options-available-media.md#specifying_export_options_available_to_media_portal_users).
+Zie ook [&#x200B; specificeer uitvoeropties beschikbaar aan Poortgebruikers van Media &#x200B;](specifying-export-options-available-media.md#specifying_export_options_available_to_media_portal_users).
 
 **om Beeld te kiezen vooraf instelt toegangstoestemmingen voor een groep:**
 

@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Ga naar **[!UICONTROL Build]** > **[!UICONTROL Template Basics]** om een sjabloon te maken. Selecteer Designer of Developer. Op deze pagina kunt u afbeeldings- en tekstlagen toevoegen. U kunt lagen ook opnieuw ordenen, de grootte en positie van lagen wijzigen en schaduw- en gloedeffecten toepassen op afbeeldingen en tekst.
 
-Zie ook [ de opleidingsvideo van de Grondbeginselen van het 0&rbrace; Malplaatje &lbrace;.](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&emailurl=https://s7d5.scene7.com/s7/emailFriend&serverUrl=https://s7d5.scene7.com/is/image/&config=Scene7SharedAssets/Universal_HTML5_Video&contenturl=https://s7d5.scene7.com/skins/&asset=S7tutorials/553_Template%20Basics_converted%20renamed_Dynamic%20Banners-AVS)
+Zie ook [&#x200B; de opleidingsvideo van de Grondbeginselen van het 0&rbrace; Malplaatje &lbrace;.](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&emailurl=https://s7d5.scene7.com/s7/emailFriend&serverUrl=https://s7d5.scene7.com/is/image/&config=Scene7SharedAssets/Universal_HTML5_Video&contenturl=https://s7d5.scene7.com/skins/&asset=S7tutorials/553_Template%20Basics_converted%20renamed_Dynamic%20Banners-AVS)
 
 >[!NOTE]
 >
@@ -36,7 +36,7 @@ Wanneer u een sjabloonset maakt, heeft de optie **[!UICONTROL Publish after a sa
 | Ja | Gepubliceerd | Gepubliceerd |
 | Nee | Ongepubliceerd | Leden met een set behouden hun gepubliceerde of niet-gepubliceerde status. |
 
-Zie ook [ manueel het publiceren activa ](publishing-files.md#manually_publishing_assets) en [ manueel unpublishing activa ](publishing-files.md#manually_unpublishing_assets).
+Zie ook [&#x200B; manueel het publiceren activa &#x200B;](publishing-files.md#manually_publishing_assets) en [&#x200B; manueel unpublishing activa &#x200B;](publishing-files.md#manually_unpublishing_assets).
 
 U kunt een sjabloon maken op basis van een bestaande sjabloon. Open de sjabloon, selecteer **[!UICONTROL Save As]** en voer een nieuwe naam in het dialoogvenster Opslaan als in.
 
@@ -67,7 +67,7 @@ Of u nu een gepubliceerde set of een niet-gepubliceerde sjabloonset bewerkt, de 
 | Nee | Ja | Gepubliceerd | Gepubliceerd |
 | Nee | Nee | Ongepubliceerd | Bestaande leden die zijn ingesteld en eventuele nieuwe leden die u tijdens de bewerking hebt toegevoegd, behouden hun gepubliceerde of niet-gepubliceerde status. |
 
-Zie ook [ manueel het publiceren activa ](publishing-files.md#manually_publishing_assets) en [ manueel unpublishing activa ](publishing-files.md#manually_unpublishing_assets).
+Zie ook [&#x200B; manueel het publiceren activa &#x200B;](publishing-files.md#manually_publishing_assets) en [&#x200B; manueel unpublishing activa &#x200B;](publishing-files.md#manually_unpublishing_assets).
 
 **om een malplaatjereeks uit te geven:**
 
@@ -80,7 +80,7 @@ Zie ook [ manueel het publiceren activa ](publishing-files.md#manually_publishin
 
 Wanneer u een Sjabloonset verwijdert, wordt de set zelf naar de prullenbak verplaatst. De leden (of &quot;kinderen&quot;) binnen die set worden echter niet beïnvloed, maar ze behouden hun bestaande gepubliceerde of niet-gepubliceerde status.
 
-Zie ook [ manueel het publiceren activa ](publishing-files.md#manually_publishing_assets) en [ manueel unpublishing activa ](publishing-files.md#manually_unpublishing_assets).
+Zie ook [&#x200B; manueel het publiceren activa &#x200B;](publishing-files.md#manually_publishing_assets) en [&#x200B; manueel unpublishing activa &#x200B;](publishing-files.md#manually_unpublishing_assets).
 
 **om een Malplaatje te schrappen:**
 
@@ -95,7 +95,7 @@ Gebruik deze gereedschappen op het scherm Sjabloon, zodat u sjablonen kunt maken
 
 * **[!UICONTROL Pan]**: Hiermee kunt u lagen selecteren, verplaatsen rond het canvas, de grootte ervan wijzigen of de lagen roteren.
 
-* **[!UICONTROL Text]** - Maakt een tekstlaag. Sleep op het canvas om een tekstlaag te maken en voer de tekst in de laag in. Zie [ Creërend een tekstlaag ](#creating-a-text-layer).
+* **[!UICONTROL Text]** - Maakt een tekstlaag. Sleep op het canvas om een tekstlaag te maken en voer de tekst in de laag in. Zie [&#x200B; Creërend een tekstlaag &#x200B;](#creating-a-text-layer).
 
 * **[!UICONTROL Preview]**: opent het voorvertoningsscherm en toont de sjabloon in een zoomviewer. U ziet hoe het malplaatje aan gebruikers op uw Website of toepassing kijkt.
 
@@ -111,9 +111,9 @@ Gebruik deze gereedschappen op het scherm Sjabloon, zodat u sjablonen kunt maken
 
 * **[!UICONTROL Canvas]**: definieert het totale beschikbare gebied, in pixels, voor het definiëren van de sjabloon. De standaardgrootte is 300 × 300 pixels. Lagen worden op het canvas geplaatst.
 
-* **[!UICONTROL Layers list]**: geeft de naam van lagen in de sjabloon weer. Als u een laag wilt selecteren, selecteert u de naam ervan in de lijst Lagen. De lijst Lagen bevat gereedschappen voor het toevoegen van effecten aan lagen, het verwijderen van lagen, het opnieuw ordenen van lagen en het bepalen van parameters voor lagen. Zie [ Werk met lagen ](#working-with-layers).
+* **[!UICONTROL Layers list]**: geeft de naam van lagen in de sjabloon weer. Als u een laag wilt selecteren, selecteert u de naam ervan in de lijst Lagen. De lijst Lagen bevat gereedschappen voor het toevoegen van effecten aan lagen, het verwijderen van lagen, het opnieuw ordenen van lagen en het bepalen van parameters voor lagen. Zie [&#x200B; Werk met lagen &#x200B;](#working-with-layers).
 
-* **[!UICONTROL Layer Properties area]**: In dit gebied kunt u de achtergrondkleur, dekking, grootte en positie van een laag wijzigen. U kunt ook de achtergrondkleur, dekking en grootte van het canvas wijzigen. U kunt ook schaduw- en gloedeffecten aanpassen. Zie [ Werk met lagen ](#working-with-layers).
+* **[!UICONTROL Layer Properties area]**: In dit gebied kunt u de achtergrondkleur, dekking, grootte en positie van een laag wijzigen. U kunt ook de achtergrondkleur, dekking en grootte van het canvas wijzigen. U kunt ook schaduw- en gloedeffecten aanpassen. Zie [&#x200B; Werk met lagen &#x200B;](#working-with-layers).
 
 ## Afbeeldingslagen maken {#creating-image-layers}
 
@@ -246,7 +246,7 @@ Lagen moeten klein genoeg zijn om op het canvas te passen. U kunt de grootte van
 
 >[!NOTE]
 >
->Adobe Dynamic Media Classic raadt u aan een voorinstelling voor afbeeldingen te maken die de exacte grootte van uw sjabloon heeft. Als u de grootte van de voorinstelling Afbeelding afstemt op de sjabloongrootte, weet u zeker dat de uiteindelijke uitvoergrootte en de verscherpingsopties voor de sjabloon correct zijn ingesteld. Nadat u deze Voorinstelling afbeelding hebt gemaakt, kunt u deze kiezen in het menu Voorinstelling toepassen op het scherm Sjabloonvoorvertoning. Het scherm toont u hoe het beeld eruit ziet wanneer het van de server wordt geleverd. Zie [ Voorinstellingen van het Beeld van de Opstelling ](setting-image-presets.md#setting_up_image_presets).
+>Adobe Dynamic Media Classic raadt u aan een voorinstelling voor afbeeldingen te maken die de exacte grootte van uw sjabloon heeft. Als u de grootte van de voorinstelling Afbeelding afstemt op de sjabloongrootte, weet u zeker dat de uiteindelijke uitvoergrootte en de verscherpingsopties voor de sjabloon correct zijn ingesteld. Nadat u deze Voorinstelling afbeelding hebt gemaakt, kunt u deze kiezen in het menu Voorinstelling toepassen op het scherm Sjabloonvoorvertoning. Het scherm toont u hoe het beeld eruit ziet wanneer het van de server wordt geleverd. Zie [&#x200B; Voorinstellingen van het Beeld van de Opstelling &#x200B;](setting-image-presets.md#setting_up_image_presets).
 
 * **Veranderend de grootte van een laag**: Om de grootte van een laag of het canvas te veranderen, selecteer de laag of het canvas op de lijst van Lagen en gebruik één van deze technieken:
 
@@ -311,7 +311,7 @@ Nadat u een effect hebt toegepast, wordt in de lijst Lagen een effectnaam weerge
 
 >[!NOTE]
 >
->Soms kunt u het effect van een slagschaduw of gloed buiten niet zien als de onderliggende laag niet groot genoeg is om deze weer te geven. Als u de schaduw of gloed niet kunt zien, kunt u overwegen waarden voor opvulling aan de laag toe te voegen of de laag opnieuw te ordenen. Zie [ Veranderend de grootte en de positie van lagen en het canvas ](creating-template.md#changing_the_size_and_position_of_layers_and_the_canvas) en [ opnieuw rangschikt lagen ](creating-template.md#reordering_layers).
+>Soms kunt u het effect van een slagschaduw of gloed buiten niet zien als de onderliggende laag niet groot genoeg is om deze weer te geven. Als u de schaduw of gloed niet kunt zien, kunt u overwegen waarden voor opvulling aan de laag toe te voegen of de laag opnieuw te ordenen. Zie [&#x200B; Veranderend de grootte en de positie van lagen en het canvas &#x200B;](creating-template.md#changing_the_size_and_position_of_layers_and_the_canvas) en [&#x200B; opnieuw rangschikt lagen &#x200B;](creating-template.md#reordering_layers).
 
 ### Een schaduw- of gloedeffect aanpassen {#adjusting-a-shadow-or-glow-effect}
 

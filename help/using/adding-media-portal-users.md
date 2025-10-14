@@ -23,7 +23,7 @@ Als beheerder kunt u gebruikers toevoegen en beheren, beslissen of ze wachtwoord
 
 >[!NOTE]
 >
->Voordat u gebruikers toevoegt, moet u groepen instellen voor het beheer ervan. Met Media Portal kunt u een gebruiker toevoegen door de gebruiker aan een of meer groepen toe te wijzen. Voor meer informatie, zie [ creëren en leiden de Portaalgroepen van Media ](creating-media-portal-groups.md#creating_and_managing_media_portal_groups).
+>Voordat u gebruikers toevoegt, moet u groepen instellen voor het beheer ervan. Met Media Portal kunt u een gebruiker toevoegen door de gebruiker aan een of meer groepen toe te wijzen. Voor meer informatie, zie [&#x200B; creëren en leiden de Portaalgroepen van Media &#x200B;](creating-media-portal-groups.md#creating_and_managing_media_portal_groups).
 
 ## Beheer van wachtwoorden voor mediaportaal {#handling-media-portal-passwords}
 
@@ -45,15 +45,15 @@ De gebruikers van het Portaal van media, de medewerkers, en de medewerker-gebrui
 1. Selecteer in het deelvenster Bedrijf/Rol in de vervolgkeuzelijst Bedrijven een bedrijf of bedrijven voor de gebruiker.
 1. Selecteer in de lijst Rol een rol voor Media Portal en selecteer vervolgens **[!UICONTROL Next]** .
 
-   Zie [ Poortgebruikersrollen van Media Portal ](media-portal-user-roles.md#media_portal_user_roles).
+   Zie [&#x200B; Poortgebruikersrollen van Media Portal &#x200B;](media-portal-user-roles.md#media_portal_user_roles).
 
 1. Selecteer een of meer groepen in het deelvenster Toegangsgroepen.
 
-   Zie [ creëren en leiden de Portaalgroepen van Media ](creating-media-portal-groups.md#creating_and_managing_media_portal_groups).
+   Zie [&#x200B; creëren en leiden de Portaalgroepen van Media &#x200B;](creating-media-portal-groups.md#creating_and_managing_media_portal_groups).
 
 1. (Optioneel) Selecteer **[!UICONTROL Email Settings]** om andere e-mailinstellingen te kiezen dan de standaardinstellingen.
 
-   Zie [ Opstelling het Welkome e-mailbericht voor de gebruikers van het Portaal van Media ](adding-media-portal-users.md#setting_up_the_welcome_e_mail_message_for_media_portal_users).
+   Zie [&#x200B; Opstelling het Welkome e-mailbericht voor de gebruikers van het Portaal van Media &#x200B;](adding-media-portal-users.md#setting_up_the_welcome_e_mail_message_for_media_portal_users).
 
 1. Selecteer **[!UICONTROL Add User]** .
 
@@ -133,4 +133,4 @@ Beginnend op het scherm van de Opstelling van het Beleid van de Gebruiker, kunt 
 
 * **[!UICONTROL Create user-defined fields]**: Maak aangepaste, door de gebruiker gedefinieerde metagegevensvelden zodat u elementen in de Adobe Dynamic Media Classic kunt ordenen. De velden kunnen desgewenst ook worden geactiveerd of gedeactiveerd.
 
-Zie [ gebruiker-bepaalde Gebieden ](application-setup.md#user_defined_fields).
+Zie [&#x200B; gebruiker-bepaalde Gebieden &#x200B;](application-setup.md#user_defined_fields).

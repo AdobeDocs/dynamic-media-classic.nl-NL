@@ -37,4 +37,4 @@ Primaire afbeeldingen moeten zijn gemarkeerd voor publicatie, zodat ze naar Dyna
 
 >[!MORELIKETHIS]
 >
->* [ publiceer dossiers ](publishing-files.md#publishing_files)
+>* [&#x200B; publiceer dossiers &#x200B;](publishing-files.md#publishing_files)

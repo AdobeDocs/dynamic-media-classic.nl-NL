@@ -21,9 +21,9 @@ ht-degree: 0%
 
 U kunt de Lijst van de Kijker gebruiken om te voorproef hoe een middel op een bepaald kijkerstype platform zoals HTML5 verschijnt. Afhankelijk van het elementtype en de bijbehorende viewer die u hebt geselecteerd voor voorvertoning, zijn niet alle platforms beschikbaar in de Viewer List.
 
-Zie [ standaardkijkers ](application-setup.md#configuring_default_viewers) vormen.
+Zie [&#x200B; standaardkijkers &#x200B;](application-setup.md#configuring_default_viewers) vormen.
 
-Zie [ Voorproef een activa ](previewing-asset.md#previewing_an_asset).
+Zie [&#x200B; Voorproef een activa &#x200B;](previewing-asset.md#previewing_an_asset).
 
 **aan voorproef een Reeks van de Rotatie:**
 
@@ -41,4 +41,4 @@ Zie [ Voorproef een activa ](previewing-asset.md#previewing_an_asset).
 
 >[!MORELIKETHIS]
 >
->* [ geef een Reeks van de Draai ](creating-spin-set.md#editing-a-spin-set) uit
+>* [&#x200B; geef een Reeks van de Draai &#x200B;](creating-spin-set.md#editing-a-spin-set) uit

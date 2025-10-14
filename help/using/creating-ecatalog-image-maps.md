@@ -41,12 +41,12 @@ Voor eCatalogi, tekent u Kaarten van het Beeld op het lusje van de Pagina&#39;s 
 
    Als u het invoeren van URL&#39;s (Href-sjablonen) gemakkelijker wilt maken, selecteert u **[!UICONTROL Edit]** en voert u een sjabloon in.
 
-Zie [ Gebruik een malplaatje om JavaScript en URLs ](creating-image-maps.md#using_a_template_to_enter_javascript_and_urls) in te gaan.
+Zie [&#x200B; Gebruik een malplaatje om JavaScript en URLs &#x200B;](creating-image-maps.md#using_a_template_to_enter_javascript_and_urls) in te gaan.
 
 1. (Optioneel) Selecteer **[!UICONTROL Rollover Text]** in de vervolgkeuzelijst Tonen en voer vervolgens de tekst in die gebruikers op het scherm moeten zien wanneer zij hun aanwijzers over de Afbeeldingskaart bewegen.
 1. (Optioneel) Selecteer **[!UICONTROL Other Actions]** in de vervolgkeuzelijst Tonen en voer een kenmerk in om een vervaging- of focusactie te activeren wanneer gebruikers hun aanwijzers over een Afbeeldingskaart bewegen.
 
-   Zie [ andere acties voor de Kaarten van het Beeld ](creating-image-maps.md#defining_other_actions_for_image_maps) bepalen.
+   Zie [&#x200B; andere acties voor de Kaarten van het Beeld &#x200B;](creating-image-maps.md#defining_other_actions_for_image_maps) bepalen.
 
 1. Selecteer **[!UICONTROL Save]** .
 1. (Optioneel) Selecteer **[!UICONTROL Preview]** om de eCatalog weer te geven met de standaard eCatalog Viewer-voorinstelling.
@@ -63,7 +63,7 @@ U kunt knopinfo ook weergeven wanneer klanten hun aanwijzers over de Afbeeldings
 
 1. Teken een eCatalog-afbeelding met hyperlinks.
 
-   Zie [ de Kaarten van het Beeld van de Catalogus trekken ](creating-ecatalog-image-maps.md#drawing_ecatalog_image_maps).
+   Zie [&#x200B; de Kaarten van het Beeld van de Catalogus trekken &#x200B;](creating-ecatalog-image-maps.md#drawing_ecatalog_image_maps).
 
 1. Selecteer **[!UICONTROL Rich Media]** in de vervolgkeuzelijst Tonen.
 1. Navigeer in het deelvenster Assets toevoegen aan de linkerkant naar een map die de centrifugeset of het videoelement (MP4-indeling) bevat die u wilt insluiten.
@@ -77,11 +77,11 @@ Ga als volgt te werk om eCatalog Image Maps te bewerken, beginnend op het tabbla
 
 * **pas de positie** aan: Selecteer het hulpmiddel van het Pannen en beweeg de wijzer dichtbij maar niet over de grens van de kaart. Wanneer de aanwijzer een pijl met vier punten ziet, sleept u de hele afbeelding met hyperlinks naar een nieuwe locatie.
 
-  Zie [ de positie, de vorm, en de grootte van Kaarten van het Beeld aanpassen ](creating-image-maps.md#adjusting_the_position_shape_and_size_of_image_maps).
+  Zie [&#x200B; de positie, de vorm, en de grootte van Kaarten van het Beeld aanpassen &#x200B;](creating-image-maps.md#adjusting_the_position_shape_and_size_of_image_maps).
 
 * **verander de vorm en de grootte**: Om een rechthoekige Kaart van het Beeld te resize, selecteer het hulpmiddel van de Pannen. Plaats de aanwijzer vervolgens boven een rand of een hoek en sleep wanneer u het pictogram met de dubbele pijl ziet. Als u de grootte van een veelhoekige afbeelding met hyperlinks wilt wijzigen, sleept u een vierkante selectiegreep. Als u een selectiegreep wilt maken, selecteert u de rand van de Afbeeldingskaart en sleept u.
 
-  Zie [ de positie, de vorm, en de grootte van Kaarten van het Beeld aanpassen ](creating-image-maps.md#adjusting_the_position_shape_and_size_of_image_maps).
+  Zie [&#x200B; de positie, de vorm, en de grootte van Kaarten van het Beeld aanpassen &#x200B;](creating-image-maps.md#adjusting_the_position_shape_and_size_of_image_maps).
 
 * **het Schrappen van de Kaarten van het Beeld**: Selecteer het hulpmiddel van het Pannen, selecteer de Kaart van het Beeld om het te selecteren, en selecteer dan **[!UICONTROL Delete]**.
 
@@ -89,15 +89,15 @@ Ga als volgt te werk om eCatalog Image Maps te bewerken, beginnend op het tabbla
 
 * **Behandelend overlappende Kaarten van het Beeld**: Sleep om de orde van Kaarten van het Beeld op de Lijst van de Kaart van het Beeld te veranderen.
 
-  Zie [ handvat overlappende Kaarten van het Beeld ](creating-image-maps.md#handling_overlapping_image_maps).
+  Zie [&#x200B; handvat overlappende Kaarten van het Beeld &#x200B;](creating-image-maps.md#handling_overlapping_image_maps).
 
 * **het Kopiëren Afbeeldingskaarten aan andere pagina&#39;s**: Selecteer **[!UICONTROL Copy Maps To]** (zorg ervoor u op het lusje van de Pagina&#39;s van de Kaart bent). Selecteer in het scherm Afbeeldingen selecteren de pagina of pagina&#39;s waarop u de Afbeeldingen met hyperlinks wilt kopiëren en selecteer **[!UICONTROL Select]** .
 
-  Zie [ Kaarten van het Beeld van het Exemplaar aan andere beelden ](creating-image-maps.md#copying_image_maps).
+  Zie [&#x200B; Kaarten van het Beeld van het Exemplaar aan andere beelden &#x200B;](creating-image-maps.md#copying_image_maps).
 
 >[!NOTE]
 >
->Wanneer u Afbeeldingen met hyperlinks kopieert naar verschillende pagina&#39;s in een eCatalog, kunt u alle afbeeldingen met hyperlinks in een eCatalog kopiëren naar een andere eCatalog. Zie [ Kaarten van het Beeld van het Exemplaar onder andere eCatalogs ](creating-ecatalog-image-maps.md#copying_image_maps_between_ecatalogs).
+>Wanneer u Afbeeldingen met hyperlinks kopieert naar verschillende pagina&#39;s in een eCatalog, kunt u alle afbeeldingen met hyperlinks in een eCatalog kopiëren naar een andere eCatalog. Zie [&#x200B; Kaarten van het Beeld van het Exemplaar onder andere eCatalogs &#x200B;](creating-ecatalog-image-maps.md#copying_image_maps_between_ecatalogs).
 
 ## Afbeeldingskaartgegevens controleren en importeren {#reviewing-and-importing-image-map-data}
 

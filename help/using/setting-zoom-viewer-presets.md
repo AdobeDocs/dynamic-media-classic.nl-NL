@@ -61,8 +61,8 @@ Adobe Dynamic Media Classic raadt de volgende parameters aan voor voorinstelling
 1. Selecteer **[!UICONTROL Save]** of **[!UICONTROL Save As]** .
 1. Controleer op de pagina Voorinstellingen viewer de voorinstelling Zoomviewer of Voorinstelling voor Zoomen met instructies die u hebt gemaakt. Als het moet aanpassen, selecteert u **[!UICONTROL Edit]** , wijzigt u de instellingen op de `Configure Viewer` -pagina en selecteert u vervolgens **[!UICONTROL Save]** .
 
-Voor informatie over het beheren van Kijker stelt op de Kijker vooraf in vooraf instelt scherm, zie [ Kijker vooraf instelt ](application-setup.md#viewer_presets).
+Voor informatie over het beheren van Kijker stelt op de Kijker vooraf in vooraf instelt scherm, zie [&#x200B; Kijker vooraf instelt &#x200B;](application-setup.md#viewer_presets).
 
 >[!MORELIKETHIS]
 >
->* [ creeer en geef Kijker uit vooraf instelt ](application-setup.md#adding_and_editing_viewer_presets)
+>* [&#x200B; creeer en geef Kijker uit vooraf instelt &#x200B;](application-setup.md#adding_and_editing_viewer_presets)

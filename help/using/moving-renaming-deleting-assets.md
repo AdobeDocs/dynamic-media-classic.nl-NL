@@ -78,6 +78,6 @@ Als u elementen verwijdert uit een tekstbestand en er geen Adobe Dynamic Media C
 
 >[!MORELIKETHIS]
 >
->* [ Selecteer activa in het Browse paneel ](selecting-assets-browse-panel.md#selecting_assets_in_the_browse_panel)
->* [ bereidt uw activa en omslagen voor het uploaden ](uploading-files.md#preparing_your_assets_and_folders_for_uploading) voor
->* [ herstelt activa van de omslag van het Afval ](trash-folder.md#restoring_assets_from_the_trash_folder)
+>* [&#x200B; Selecteer activa in het Browse paneel &#x200B;](selecting-assets-browse-panel.md#selecting_assets_in_the_browse_panel)
+>* [&#x200B; bereidt uw activa en omslagen voor het uploaden &#x200B;](uploading-files.md#preparing_your_assets_and_folders_for_uploading) voor
+>* [&#x200B; herstelt activa van de omslag van het Afval &#x200B;](trash-folder.md#restoring_assets_from_the_trash_folder)

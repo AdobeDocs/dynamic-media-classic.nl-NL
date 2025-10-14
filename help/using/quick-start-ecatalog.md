@@ -23,8 +23,8 @@ Een eCatalog is een digitale, Web-versie van drukmateriaal-een catalogus, brochu
 
 Zie ook de volgende trainingsvideo&#39;s:
 
-* [ Snelle start 1: eCatalogs ](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&emailurl=https://s7d5.scene7.com/s7/emailFriend&serverUrl=https://s7d5.scene7.com/is/image/&config=Scene7SharedAssets/Universal_HTML5_Video&contenturl=https://s7d5.scene7.com/skins/&asset=S7tutorials/561_Quick%20Start%20-%20Part%201_converted%20renamed_eCatalogs-AVS)
-* [ Snelle start 2: eCatalogs ](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&emailurl=https://s7d5.scene7.com/s7/emailFriend&serverUrl=https://s7d5.scene7.com/is/image/&config=Scene7SharedAssets/Universal_HTML5_Video&contenturl=https://s7d5.scene7.com/skins/&asset=S7tutorials/562_Quick%20Start%20-%20Part%202_converted%20renamed_eCatalogs-AVS)
+* [&#x200B; Snelle start 1: eCatalogs &#x200B;](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&emailurl=https://s7d5.scene7.com/s7/emailFriend&serverUrl=https://s7d5.scene7.com/is/image/&config=Scene7SharedAssets/Universal_HTML5_Video&contenturl=https://s7d5.scene7.com/skins/&asset=S7tutorials/561_Quick%20Start%20-%20Part%201_converted%20renamed_eCatalogs-AVS)
+* [&#x200B; Snelle start 2: eCatalogs &#x200B;](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&emailurl=https://s7d5.scene7.com/s7/emailFriend&serverUrl=https://s7d5.scene7.com/is/image/&config=Scene7SharedAssets/Universal_HTML5_Video&contenturl=https://s7d5.scene7.com/skins/&asset=S7tutorials/562_Quick%20Start%20-%20Part%202_converted%20renamed_eCatalogs-AVS)
 
 Afhankelijk van de instellingen die u kiest voor uw eCatalog, kunt u in de viewer het volgende doen:
 
@@ -40,7 +40,7 @@ Afhankelijk van de instellingen die u kiest voor uw eCatalog, kunt u in de viewe
 * Gebruik gebaarinteracties, zoals vastzetten om in te zoomen en te veeggen om pagina&#39;s om te slaan.
 * Zoeken op trefwoord voor objecten.
 
-![ eCatalog aangezien het aan gebruikers verschijnt. A) Openingspagina van eCatalog. B)eCatalog werd aangezet aan pagina 2.](/help/using/assets/ec_cat_viewer_popup.png)
+![&#x200B; eCatalog aangezien het aan gebruikers verschijnt. A) Openingspagina van eCatalog. B)eCatalog werd aangezet aan pagina 2.](/help/using/assets/ec_cat_viewer_popup.png)
 
 Als u een eCatalog wilt maken, gebruikt u doorgaans PDF-bestanden met hoge resolutie die zijn gemaakt in Adobe Acrobat of een ander afdrukprogramma, maar u kunt ook een eCatalog maken op basis van afbeeldingsbestanden.
 
@@ -66,7 +66,7 @@ Selecteer op de algemene navigatiebalk **[!UICONTROL Upload]** om PDF-bestanden 
 
 Onder PDF-opties biedt het scherm Uploaden opties voor het uploaden van PDF-bestanden met de juiste resolutie en het corrigeren van de kleurruimte. Een resolutie van 150 pixels per inch wordt aanbevolen. U kunt de optie **[!UICONTROL Auto-Generate eCatalog]** selecteren om een eCatalog tot stand te brengen wanneer u een dossier van PDF uploadt.
 
-Zie [ de dossiers van PDF ](uploading-pdf-files.md#uploading_the_pdf_files) uploaden.
+Zie [&#x200B; de dossiers van PDF &#x200B;](uploading-pdf-files.md#uploading_the_pdf_files) uploaden.
 
 ## &#x200B;2. Een eCatalog maken
 
@@ -78,7 +78,7 @@ Als u pagina&#39;s wilt toevoegen, selecteert u een map in de elementenbibliothe
 
 Selecteer **[!UICONTROL Save]**, voer een naam in voor uw eCatalog, kies een Adobe Dynamic Media Classic-map om deze op te slaan en selecteer **[!UICONTROL Save]** . Elke keer dat u de paginavolgorde wijzigt of uw eCatalog bewerkt, slaat u de wijzigingen op door **[!UICONTROL Save]** te selecteren.
 
-Zie [ een eCatalog ](creating-ecatalog.md) creëren.
+Zie [&#x200B; een eCatalog &#x200B;](creating-ecatalog.md) creëren.
 
 ## &#x200B;3. Afbeeldingen met hyperlinks maken
 
@@ -88,13 +88,13 @@ Open het eCatalog-scherm om een afbeelding met hyperlinks te maken. Ga vervolgen
 
 Nadat u de Kaart van het Beeld kader, ga het URL adres in dat u wilt gaan wanneer u de Kaart van het Beeld selecteert. U kunt ook de rollover-tekst invoeren die wordt weergegeven wanneer u de aanwijzer over de Afbeeldingskaart beweegt.
 
-Zie [ ECatalogKaarten van het Beeld creëren ](creating-ecatalog-image-maps.md#creating-ecatalog-image-maps).
+Zie [&#x200B; ECatalogKaarten van het Beeld creëren &#x200B;](creating-ecatalog-image-maps.md#creating-ecatalog-image-maps).
 
-Zie [ Kaarten van het Beeld van het Gebruik om rijke media in een eCatalog ](creating-ecatalog-image-maps.md#embedding-rich-media-in-an-ecatalog) in te bedden.
+Zie [&#x200B; Kaarten van het Beeld van het Gebruik om rijke media in een eCatalog &#x200B;](creating-ecatalog-image-maps.md#embedding-rich-media-in-an-ecatalog) in te bedden.
 
 U kunt de tekst van de Kaart van het Beeld opstelling en beheren gebruikend de montages van het Comité van Info in het eCatalog scherm.
 
-Zie [ de inhoud van het Comité van Info in eCatalogs beheren ](/help/using/info-panel-content-ecatalog.md).
+Zie [&#x200B; de inhoud van het Comité van Info in eCatalogs beheren &#x200B;](/help/using/info-panel-content-ecatalog.md).
 
 ## &#x200B;4. Voorinstellingen eCatalog-viewer instellen
 
@@ -102,7 +102,7 @@ Eindgebruikers zien uw eCatalog in de eCatalogKijker. Beheerders kunnen de eCata
 
 Als u een voorinstelling voor een eCatalog-viewer wilt maken, selecteert u **[!UICONTROL Setup]** op de algemene navigatiebalk en kiest u vervolgens **[!UICONTROL Viewer Presets]** . Selecteer **[!UICONTROL Add]** , kies een platform en selecteer vervolgens **[!UICONTROL eCatalog]** > **[!UICONTROL Viewer]** .
 
-Zie [ Opstelling eCatalogKijker vooraf instelt ](setting-ecatalog-viewer-presets.md#setting-up-ecatalog-viewer-presets).
+Zie [&#x200B; Opstelling eCatalogKijker vooraf instelt &#x200B;](setting-ecatalog-viewer-presets.md#setting-up-ecatalog-viewer-presets).
 
 ## &#x200B;5. E-catalogi voorvertonen in de eCatalog-viewer
 
@@ -112,7 +112,7 @@ Als u wilt weten hoe de eCatalog-viewer met voorinstellingen uw eCatalog weergee
 
 Let op de afdrukstand, het kleurenschema, hoe de besturingselementen voor het wijzigen van pagina&#39;s eruit zien en hoe de pagina&#39;s eruit zien wanneer ze worden omgedraaid.
 
-Zie [ eCatalogi van de Voorproef in de eCatalogKijker ](previewing-ecatalogs-ecatalog-viewer.md#previewing-ecatalogs-in-the-ecatalog-viewer).
+Zie [&#x200B; eCatalogi van de Voorproef in de eCatalogKijker &#x200B;](previewing-ecatalogs-ecatalog-viewer.md#previewing-ecatalogs-in-the-ecatalog-viewer).
 
 ## &#x200B;6. E-catalogus en bijbehorende PDF&#39;s publiceren
 
@@ -120,7 +120,7 @@ Wanneer u uw eCatalog en de bijbehorende PDF publiceert, wordt deze op Dynamic M
 
 Nadat u uw eCatalog en PDF hebt gemarkeerd voor publicatie in het deelvenster Bladeren, selecteert u de knop Publiceren op de algemene navigatiebalk om een publicatie te starten. Selecteer **[!UICONTROL Submit Publish]** op de pagina Publiceren.
 
-Zie [ publiceren eCatalogi en bijbehorende PDFs ](publishing-ecatalogs-associated-pdfs.md#publishing-ecatalogs-and-associated-pdfs).
+Zie [&#x200B; publiceren eCatalogi en bijbehorende PDFs &#x200B;](publishing-ecatalogs-associated-pdfs.md#publishing-ecatalogs-and-associated-pdfs).
 
 ## &#x200B;7. Koppel een eCatalog aan een Web-pagina
 
@@ -128,4 +128,4 @@ Adobe Dynamic Media Classic activeert de URL-bijschrifttekenreeks die nodig is v
 
 Werk samen met uw IT-team om de koppeling naar de eCatalog op de juiste plaats in uw webpagina te plaatsen. Wanneer gebruikers de koppeling selecteren, wordt de eCatalog-viewer weergegeven en kunnen gebruikers door de eCatalog bladeren.
 
-Zie [ Verbinding een eCatalog aan een Web-pagina ](linking-ecatalog-web-page.md#linking-an-ecatalog-to-a-web-page).
+Zie [&#x200B; Verbinding een eCatalog aan een Web-pagina &#x200B;](linking-ecatalog-web-page.md#linking-an-ecatalog-to-a-web-page).

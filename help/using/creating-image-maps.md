@@ -42,7 +42,7 @@ Wanneer u Afbeeldingskaarten maakt, kunt u het volgende doen:
    * Selecteer **[!UICONTROL Edit]** als u met een SpinSet werkt in de rasterweergave of lijstweergave. U kunt het ook openen in de gedetailleerde weergave en vervolgens **[!UICONTROL Edit]** selecteren. Selecteer een afbeeldingselement en selecteer vervolgens **[!UICONTROL Image Map]** .
    * Als u met een eCatalog werkt, in de Mening van het Net, de Mening van de Lijst, de Mening van het Detail, uitgezochte **[!UICONTROL Edit]**. Selecteer de tab **[!UICONTROL Map Pages]** .
 
-   ![ de illustratie van de Kaart van het Beeld 1&rbrace;](assets/ma_image_map.png)
+   ![&#x200B; de illustratie van de Kaart van het Beeld 1&rbrace;](assets/ma_image_map.png)
 
 1. Teken een rechthoekige of veelhoekige (veelzijdige) afbeelding met hyperlinks:
 
@@ -56,13 +56,13 @@ Wanneer u Afbeeldingskaarten maakt, kunt u het volgende doen:
 
 1. Als u wilt dat gebruikers een nieuwe webpagina openen wanneer zij Afbeeldingskaart selecteren, voert u de URL in de lijst Afbeeldingskaart in.
 
-   Zie [ om JavaScript en URLs in te gaan ](creating-image-maps.md#using_a_template_to_enter_javascript_and_urls).
+   Zie [&#x200B; om JavaScript en URLs in te gaan &#x200B;](creating-image-maps.md#using_a_template_to_enter_javascript_and_urls).
 
 1. Als u rollovertekst wilt weergeven wanneer gebruikers de aanwijzer over de Afbeeldingskaart bewegen, voert u de tekst in de lijst Afbeeldingskaart in. Selecteer in de lijst Afbeeldingskaart het menu **[!UICONTROL Show]** en selecteer **[!UICONTROL Rollover Text]** . Voer vervolgens de tekst in die gebruikers op het scherm moeten zien. U kunt de tekst in een tekstverwerker schrijven en het kopiëren in het de tekstgebied van het Omvergooien.
 
 1. Als u een ander actieeffect wilt voorkomen wanneer de gebruikers de muis over een Kaart van het Beeld bewegen, bepaal de actie. Selecteer **[!UICONTROL Show]** in de vervolgkeuzelijst **[!UICONTROL Other Actions]** . Voer de kenmerken van de handeling in. (Ga naar **[!UICONTROL Show]** > **[!UICONTROL Both]** om rollovertekst en een handeling voor een afbeelding met hyperlinks te maken.)
 
-   Zie [ andere acties voor de Kaarten van het Beeld ](creating-image-maps.md#defining_other_actions_for_image_maps) bepalen.
+   Zie [&#x200B; andere acties voor de Kaarten van het Beeld &#x200B;](creating-image-maps.md#defining_other_actions_for_image_maps) bepalen.
 
 1. (Optioneel) Voer een van de volgende handelingen uit:
 

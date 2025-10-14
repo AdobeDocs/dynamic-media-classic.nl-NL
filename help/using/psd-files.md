@@ -47,7 +47,7 @@ Deze opties zijn beschikbaar wanneer u PSD-bestanden uploadt:
 
    * **[!UICONTROL Keep Original Color Space]** - Behoudt de oorspronkelijke kleurruimte van de afbeelding.
 
-   * **[!UICONTROL Custom From]** > **[!UICONTROL To]** : opent menu&#39;s, zodat u een optie kunt kiezen voor Omzetten van en Omzetten in kleurruimte. U kunt een standaard Photoshop-kleurruimte kiezen of een kleurruimte die u naar Adobe Dynamic Media Classic hebt geüpload. Zie [ ICC profielen ](/help/using/icc-profiles.md).
+   * **[!UICONTROL Custom From]** > **[!UICONTROL To]** : opent menu&#39;s, zodat u een optie kunt kiezen voor Omzetten van en Omzetten in kleurruimte. U kunt een standaard Photoshop-kleurruimte kiezen of een kleurruimte die u naar Adobe Dynamic Media Classic hebt geüpload. Zie [&#x200B; ICC profielen &#x200B;](/help/using/icc-profiles.md).
 
 * **de Opties van Photoshop**
 
@@ -86,11 +86,11 @@ Als u de optie **[!UICONTROL Maintain Layers]** hebt geselecteerd bij het upload
 1. Selecteer **[!UICONTROL Layers]** . Alle lagen worden als afzonderlijke afbeeldingen weergegeven in het deelvenster Lagen.
 1. Dubbelklik op een laag en voer een van de volgende handelingen uit:
 
-   * Als u een afbeelding met hyperlinks op de laag wilt maken, selecteert u het pictogram **[!UICONTROL Image Map]** . (Zie [ de Kaarten van het Beeld creëren ](creating-image-maps.md#creating_image_maps).)
-   * Als u zoomdoelen op de laag wilt maken, selecteert u het pictogram **[!UICONTROL Zoom Targets]** . (Zie [ Doelen van het Gezoem voor Geleide Gezoem ](creating-zoom-targets-guided-zoom.md#creating_zoom_targets_for_guided_zoom) creëren.)
-   * Als u de laag wilt uitsnijden, selecteert u het pictogram **[!UICONTROL Crop]** . (Zie [ uitsnijden een beeld ](cropping-image.md#cropping_an_image).)
-   * Selecteer **[!UICONTROL Sharpen]** als u de laag wilt verscherpen. (Zie [ een beeld ](sharpening-image.md#sharpening_an_image) verscherpen.)
-   * Selecteer **[!UICONTROL Adjust]** als u de laag wilt aanpassen. (Zie [ een beeld ](adjusting-image.md#adjusting_an_image) aanpassen.)
+   * Als u een afbeelding met hyperlinks op de laag wilt maken, selecteert u het pictogram **[!UICONTROL Image Map]** . (Zie [&#x200B; de Kaarten van het Beeld creëren &#x200B;](creating-image-maps.md#creating_image_maps).)
+   * Als u zoomdoelen op de laag wilt maken, selecteert u het pictogram **[!UICONTROL Zoom Targets]** . (Zie [&#x200B; Doelen van het Gezoem voor Geleide Gezoem &#x200B;](creating-zoom-targets-guided-zoom.md#creating_zoom_targets_for_guided_zoom) creëren.)
+   * Als u de laag wilt uitsnijden, selecteert u het pictogram **[!UICONTROL Crop]** . (Zie [&#x200B; uitsnijden een beeld &#x200B;](cropping-image.md#cropping_an_image).)
+   * Selecteer **[!UICONTROL Sharpen]** als u de laag wilt verscherpen. (Zie [&#x200B; een beeld &#x200B;](sharpening-image.md#sharpening_an_image) verscherpen.)
+   * Selecteer **[!UICONTROL Adjust]** als u de laag wilt aanpassen. (Zie [&#x200B; een beeld &#x200B;](adjusting-image.md#adjusting_an_image) aanpassen.)
 
 1. Selecteer **[!UICONTROL Save]** of **[!UICONTROL Save As]** .
 1. Als u een andere laag wilt weergeven of bewerken, selecteert u een pijl onder aan de voorvertoning van de laag.

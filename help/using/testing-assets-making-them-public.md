@@ -37,7 +37,7 @@ Maak indien gewenst een testomgeving in plaats van elementen openbaar te maken, 
 
 De meeste bedrijven voeren hun Internet achter een firewall in werking. De toegang tot Internet is mogelijk door bepaalde routes en typisch door een beperkte waaier van openbare IP adressen.
 
-Van uw collectief netwerk, kunt u uw openbaar IP adres uitvinden gebruikend websites zoals [ https://www.whatismyip.com ](https://www.whatismyip.com/) of om deze informatie van uw collectieve organisatie van IT verzoeken.
+Van uw collectief netwerk, kunt u uw openbaar IP adres uitvinden gebruikend websites zoals [&#x200B; https://www.whatismyip.com &#x200B;](https://www.whatismyip.com/) of om deze informatie van uw collectieve organisatie van IT verzoeken.
 
 Met het Veilige Testen, vestigt Adobe Dynamic Media Classic een specifieke Server van het Beeld voor het opvoeren van milieu&#39;s of interne toepassingen. Om het even welk verzoek aan deze server controleert het oorsprongIP adres. Als het inkomende verzoek niet binnen de goedgekeurde lijst van IP adressen is, is een mislukkingsreactie teruggekeerd. De Beheerder van het Bedrijf van Adobe Dynamic Media Classic vormt de goedgekeurde lijst van IP adressen voor het Veilige Testen van hun bedrijf milieu.
 
@@ -118,11 +118,11 @@ Last Modified Date:
 1. Linksonder op de pagina Publiceren afbeeldingsserver selecteert u **[!UICONTROL Save]**
 1. Upload de gewenste afbeeldingen naar uw Adobe Dynamic Media Classic-account.
 
-   Zie [ dossiers ](uploading-files.md#uploading_files) uploaden.
+   Zie [&#x200B; dossiers &#x200B;](uploading-files.md#uploading_files) uploaden.
 
 1. Zorg ervoor dat sommige afbeeldingen zijn gemarkeerd voor publicatie en andere niet zijn gemarkeerd en verzend vervolgens de publicatietaak.
 
-   Zie [ publiceren dossiers ](publishing-files.md#publishing_files).
+   Zie [&#x200B; publiceren dossiers &#x200B;](publishing-files.md#publishing_files).
 
 1. Bepaal de naam van uw service Beveiligd testen via **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL General Settings]** .
 1. Zoek op de pagina Algemene instellingen van toepassing de naam rechts van **[!UICONTROL Test Publish Context Server Name]** onder de groep Servers.

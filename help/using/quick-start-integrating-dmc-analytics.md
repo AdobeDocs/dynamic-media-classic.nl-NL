@@ -25,7 +25,7 @@ Nadat u Adobe Analytics hebt geïntegreerd met Adobe Dynamic Media Classic, kunt
 
 Met Adobe Analytics-rapporten krijgt u een duidelijk beeld van de activiteiten van klanten op uw website. U kunt bepalen welke productpresentaties tot conversie leiden en welke niet de interesse van de klant wekken.
 
-Zie ook [ Video van de Maatregel in Adobe Analytics ](https://experienceleague.adobe.com/nl/docs/media-analytics/using/media-overview).
+Zie ook [&#x200B; Video van de Maatregel in Adobe Analytics &#x200B;](https://experienceleague.adobe.com/nl/docs/media-analytics/using/media-overview).
 
 >[!NOTE]
 >
@@ -41,7 +41,7 @@ Deze snelle start is ontworpen om u snel aan de slag te krijgen met de Adobe Ana
 
 Nadat u hebt gecontroleerd dat u lid bent van de groep Webservice Access, gaat u in Adobe Dynamic Media Classic naar **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Adobe Analytics]** . Selecteer **[!UICONTROL Adobe Analytics Login]** op de Adobe Analytics Configuration-pagina.
 
-Zie [ Logon aan Adobe Analytics ](log-analytics.md#log_in_to_adobe_analytics).
+Zie [&#x200B; Logon aan Adobe Analytics &#x200B;](log-analytics.md#log_in_to_adobe_analytics).
 
 Typ (optioneel) uw Experience Cloud Org-id en uw volledige referenties in het dialoogvenster Adobe Analytics-aanmelding en selecteer vervolgens **[!UICONTROL Login]** . Selecteer in het keuzemenu Rapportsuite de naam van de rapportsuite die u wilt gebruiken.
 
@@ -56,13 +56,13 @@ De configuratie van Adobe Analytics biedt ook hulpmiddelen voor het activeren, h
 
 Nadat u **[!UICONTROL Save]** op de Adobe Analytics-configuratiepagina hebt geselecteerd, wordt een aangepaste trackingcode voor het meten van gebruikersactiviteit ingevoegd in Adobe Dynamic Media Classic-viewers. Met deze functionaliteit kunt u gebruikersactiviteiten bijhouden in Adobe Analytics-rapporten.
 
-Zie [ de rapporten van Adobe Analytics ](configuring-analytics-reports.md#configuring_adobe_analytics_reports) vormen.
+Zie [&#x200B; de rapporten van Adobe Analytics &#x200B;](configuring-analytics-reports.md#configuring_adobe_analytics_reports) vormen.
 
 ## &#x200B;3. Publiceer uw Adobe Dynamic Media Classic-viewers
 
 Publiceer uw Adobe Dynamic Media Classic-viewers zodat de viewers (met code voor het bijhouden van gebruikersactiviteiten in Adobe Analytics-rapporten) worden geladen op Adobe Dynamic Media Classic-servers. Nadat u deze gegevens hebt gepubliceerd, worden deze opgenomen in viewers. Gebruik het voor analyse door Adobe Analytics.
 
-Zie [ publiceren configuratieinformatie ](publishing-analytics-configuration-information.md#publishing_adobe_analytics_configuration_information).
+Zie [&#x200B; publiceren configuratieinformatie &#x200B;](publishing-analytics-configuration-information.md#publishing_adobe_analytics_configuration_information).
 
 ## &#x200B;4. Plaats Adobe Dynamic Media Classic-viewers op uw website
 
@@ -72,4 +72,4 @@ Plaats de Adobe Dynamic Media Classic-viewers met de trackingcode voor Adobe Ana
 
 Ga naar de Adobe Analytics-website om Adobe Analytics-rapporten te bekijken. Op de pagina Rapportage kunt u gegevens weergeven en grafieken en grafieken genereren om gebruikersactiviteit met verschillende viewers te meten.
 
-Zie [ de integratie van Adobe Analytics testen door een rapport van Adobe Analytics ](testing-integration-viewing-analytics-report.md#testing_the_integration_by_viewing_an_adobe_analytics_report) te bekijken.
+Zie [&#x200B; de integratie van Adobe Analytics testen door een rapport van Adobe Analytics &#x200B;](testing-integration-viewing-analytics-report.md#testing_the_integration_by_viewing_an_adobe_analytics_report) te bekijken.

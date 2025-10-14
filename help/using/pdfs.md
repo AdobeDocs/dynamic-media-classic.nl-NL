@@ -27,7 +27,7 @@ Wanneer u een PDF uploadt voor het uitnemen van pagina&#39;s, past Adobe de volg
 | --- | --- | --- |
 | Maximumaantal pagina&#39;s voor een PDF dat in aanmerking komt voor extractie | 5000 (voor nieuwe uploads) | 100 (voor alle PDF&#39;s) |
 
-Zie ook [ Dynamische beperkingen van Media ](/help/using/limitations.md).
+Zie ook [&#x200B; Dynamische beperkingen van Media &#x200B;](/help/using/limitations.md).
 
 ## Uploadopties voor PDF {#pdf-upload-options}
 
@@ -69,7 +69,7 @@ Selecteer het menu Kleurruimte en kies een kleurruimte voor het PDF-bestand. De 
 
 * **[!UICONTROL Custom From]** > **[!UICONTROL To]** : opent menu&#39;s, zodat u een optie kunt kiezen voor Omzetten van en Omzetten in kleurruimte. U kunt een standaard Photoshop-kleurruimte kiezen of een kleurruimte die u naar Adobe Dynamic Media Classic hebt geüpload.
 
-Zie ook [ ICC profielen ](/help/using/icc-profiles.md#icc_profiles).
+Zie ook [&#x200B; ICC profielen &#x200B;](/help/using/icc-profiles.md#icc_profiles).
 
 ## Witruimte uitsnijden vanuit een PDF-bestand {#cropping-white-space-from-a-pdf-file}
 

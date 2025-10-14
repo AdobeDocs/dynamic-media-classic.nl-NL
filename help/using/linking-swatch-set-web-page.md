@@ -48,7 +48,7 @@ Nadat u een Staalreeks publiceert, kunt u zijn bijbehorende URL gebruiken of Cod
 
 De gemeenschappelijkste manier om de Reeksen van het Monster op te stellen is een verbinding (als navigatiepictogram) op uw Web-pagina te plaatsen. Als deze optie is geselecteerd, wordt een dynamische pagina (ASP of JSP) gestart die de stalenset in een pop-upzoomvenster weergeeft. Met de zoomkoppeling wordt een pop-upvenster geopend dat de eigenlijke zoomfunctie bevat.
 
-Voor meer details en codesteekproeven, zie [ Inbeddend de Kijker van het Gezoem HTML5 in de Gids van de Verwijzing van de Kijkers van Adobe ](https://experienceleague.adobe.com/nl/docs/dynamic-media-developer-resources/library/viewers-aem-assets-dmc/zoom/c-html5-20-zoom-viewer-about#section-e1c3106f5b3e445d9b95be337c2f94e2).
+Voor meer details en codesteekproeven, zie [&#x200B; Inbeddend de Kijker van het Gezoem HTML5 in de Gids van de Verwijzing van de Kijkers van Adobe &#x200B;](https://experienceleague.adobe.com/nl/docs/dynamic-media-developer-resources/library/viewers-aem-assets-dmc/zoom/c-html5-20-zoom-viewer-about#section-e1c3106f5b3e445d9b95be337c2f94e2).
 
 ## De insluitcode van een Staalset-viewer kopiëren {#copying-the-embed-code-of-a-swatch-set-viewer}
 
@@ -81,4 +81,4 @@ Met de functie Code insluiten kunt u de viewercode voor de geselecteerde stalens
 
 >[!MORELIKETHIS]
 >
->* [ publiceer ](publishing-files.md#publishing_files)
+>* [&#x200B; publiceer &#x200B;](publishing-files.md#publishing_files)

@@ -36,7 +36,7 @@ Adobe Dynamic Media Classic houdt een overzicht bij van het exporteren van taken
 
    * **[!UICONTROL Size]**: U kunt een standaardgrootte selecteren. U kunt ook **[!UICONTROL Other]** selecteren in de vervolgkeuzelijst **[!UICONTROL Size]** , de gewenste maateenheid kiezen en vervolgens de breedte en de hoogte opgeven.
 
-     Zie ook [ specificeer uitvoeropties beschikbaar aan Poortgebruikers van Media ](specifying-export-options-available-media.md#specifying_export_options_available_to_media_portal_users).
+     Zie ook [&#x200B; specificeer uitvoeropties beschikbaar aan Poortgebruikers van Media &#x200B;](specifying-export-options-available-media.md#specifying_export_options_available_to_media_portal_users).
 
    * **[!UICONTROL Format]**: kies een afbeeldingsindeling.
 

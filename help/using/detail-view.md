@@ -31,7 +31,7 @@ Last Modified Date: 2018-06-14T13:52:46.623-0400
 
  -->
 
-![ de Mening van het Detail ](/help/using/assets/image_0.img.png)
+![&#x200B; de Mening van het Detail &#x200B;](/help/using/assets/image_0.img.png)
 *Gedetailleerde Mening met het paneel van de Bibliotheek van Activa verborgen van mening op de linkerkant.*
 
 >[!NOTE]
@@ -66,9 +66,9 @@ In de gedetailleerde weergave vindt u gereedschappen voor het werken met het ele
 
 * **noem activa** anders: Selecteer de naam en ga een nieuwe naam in.
 
-* **geef en voeg meta-gegevens** uit: Selecteer het paneel van Meta-gegevens en verander zoals gewenst. Zie [ Mening, voeg, en de uitvoermeta-gegevens ](/help/using/viewing-adding-exporting-metadata.md) toe.
+* **geef en voeg meta-gegevens** uit: Selecteer het paneel van Meta-gegevens en verander zoals gewenst. Zie [&#x200B; Mening, voeg, en de uitvoermeta-gegevens &#x200B;](/help/using/viewing-adding-exporting-metadata.md) toe.
 
-* **geef en voeg sleutelwoorden** uit: Selecteer Trefwoorden en voeg of verwijder hen toe zoals gewenst. Zie [ sleutelwoorden ](/help/using/viewing-adding-exporting-metadata.md) toevoegen of uitgeven.
+* **geef en voeg sleutelwoorden** uit: Selecteer Trefwoorden en voeg of verwijder hen toe zoals gewenst. Zie [&#x200B; sleutelwoorden &#x200B;](/help/using/viewing-adding-exporting-metadata.md) toevoegen of uitgeven.
 
 * **Schrap de activa**: Ga naar **[!UICONTROL File]** > **[!UICONTROL Delete]**.
 
@@ -99,4 +99,4 @@ In deze tabel wordt aangegeven welke andere opties beschikbaar zijn voor verschi
 
 >[!MORELIKETHIS]
 >
->* [ Mening, voeg, en de uitvoermeta-gegevens toe ](viewing-adding-exporting-metadata.md#viewing_adding_and_exporting_metadata)
+>* [&#x200B; Mening, voeg, en de uitvoermeta-gegevens toe &#x200B;](viewing-adding-exporting-metadata.md#viewing_adding_and_exporting_metadata)

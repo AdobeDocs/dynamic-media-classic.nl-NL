@@ -27,23 +27,23 @@ Met deze stalensets kunt u snel aan de slag met Staalsettechnieken in Adobe Dyna
 
 Begin door de beelden en de monsterdossiers voor uw Reeksen van het Monster te uploaden.
 
-Selecteer op de algemene navigatiebalk **[!UICONTROL Upload]** om bestanden van uw computer te uploaden naar een map op Adobe Dynamic Media Classic. Zie [ Vastgestelde activa van het Monster voorbereiden voor upload ](preparing-swatch-set-assets-upload.md#preparing-swatch-set-assets-for-upload) en [ uploadt uw dossiers ](uploading-files.md#uploading-your-files).
+Selecteer op de algemene navigatiebalk **[!UICONTROL Upload]** om bestanden van uw computer te uploaden naar een map op Adobe Dynamic Media Classic. Zie [&#x200B; Vastgestelde activa van het Monster voorbereiden voor upload &#x200B;](preparing-swatch-set-assets-upload.md#preparing-swatch-set-assets-for-upload) en [&#x200B; uploadt uw dossiers &#x200B;](uploading-files.md#uploading-your-files).
 
 ## &#x200B;2. Een stalenset maken
 
-Ga naar **[!UICONTROL Build]** > **[!UICONTROL Swatch Sets]** om een stalenset te maken op de algemene navigatiebalk. Sleep op de pagina Staalset afbeeldingen en kleurstalen naar de pagina. Zie [ een Reeks van het Monster ](creating-swatch-set.md#creating-a-swatch-set) creëren.
+Ga naar **[!UICONTROL Build]** > **[!UICONTROL Swatch Sets]** om een stalenset te maken op de algemene navigatiebalk. Sleep op de pagina Staalset afbeeldingen en kleurstalen naar de pagina. Zie [&#x200B; een Reeks van het Monster &#x200B;](creating-swatch-set.md#creating-a-swatch-set) creëren.
 
 ## &#x200B;3. Voorinstellingen stalenset instellen voor viewer
 
 Beheerders kunnen voorinstellingen voor de afbeeldingsset Viewer maken of wijzigen. Adobe Dynamic Media Classic wordt geleverd met standaard Viewer-voorinstellingen voor elk rich-mediatype. Gebruik de zoomviewer: Aangepast > Afbeeldingssets/Voorinstellingen voor kleurstalen om uw staalsets weer te geven.
 
-Zie [ creëren en uitgeven Kijker stelt ](application-setup.md#adding-and-editing-viewer-presets) vooraf in.
+Zie [&#x200B; creëren en uitgeven Kijker stelt &#x200B;](application-setup.md#adding-and-editing-viewer-presets) vooraf in.
 
 ## &#x200B;4. Een voorvertoning van een stalenset weergeven
 
 Selecteer de stalenset in het deelvenster Bladeren en selecteer vervolgens **[!UICONTROL Preview]** . Uw stalenset wordt op deze pagina weergegeven. Selecteer de miniatuur- en staalpictogrammen, zodat u de staalset kunt bekijken in de geselecteerde viewer. U kunt verschillende Viewers kiezen in het menu Voorinstellingen.
 
-Zie [ Voorproef een activa ](previewing-asset.md#previewing-an-asset).
+Zie [&#x200B; Voorproef een activa &#x200B;](previewing-asset.md#previewing-an-asset).
 
 ## &#x200B;5. Een stalenset publiceren
 
@@ -51,7 +51,7 @@ Als u een stalenset publiceert, wordt deze op Adobe Dynamic Media Classic-server
 
 Selecteer het pictogram **[!UICONTROL Mark For Publish]** links van de naam in het deelvenster Bladeren. Selecteer vervolgens **[!UICONTROL Publish]** . Selecteer **[!UICONTROL Submit Publish]** op de pagina Publiceren.
 
-Zie [ publiceren dossiers ](publishing-files.md#publishing-files).
+Zie [&#x200B; publiceren dossiers &#x200B;](publishing-files.md#publishing-files).
 
 ## &#x200B;6. Koppel een staal dat is ingesteld aan een webpagina
 

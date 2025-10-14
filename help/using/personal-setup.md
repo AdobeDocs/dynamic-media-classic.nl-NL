@@ -85,9 +85,9 @@ The plug-in is now available for you to use in Adobe Illustrator. -->
 
   Als de meeste zoekopdrachten in metagegevens van nut zijn wanneer u door de gebruiker gedefinieerde velden opneemt, kunt u deze optie selecteren en inschakelen. Als alternatief kunt u Geavanceerd zoeken gebruiken om u een gerichtere en snellere zoekervaring te bieden dan door door de gebruiker gedefinieerde velden op te nemen.
 
-  Zie [ Uitvoerend een geavanceerd onderzoek ](searching-assets.md#conducting_an_advanced_search).
+  Zie [&#x200B; Uitvoerend een geavanceerd onderzoek &#x200B;](searching-assets.md#conducting_an_advanced_search).
 
-  Zie ook [ gebruiker-bepaalde Gebieden ](application-setup.md#user_defined_fields).
+  Zie ook [&#x200B; gebruiker-bepaalde Gebieden &#x200B;](application-setup.md#user_defined_fields).
 
 * **[!UICONTROL Basic Search Type]**: U kunt uit twee opties selecteren: **[!UICONTROL Contains]** zoekt in de volledige tekenreeks naar de opgegeven waarde; **[!UICONTROL StartsWith]** zoekt vanaf het begin van de tekenreeks en retourneert sneller resultaten dan **[!UICONTROL Contains]** . Beide opties overschrijven de standaardwaarde die door de beheerder is ingesteld in **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Application General Settings]** .
 * **[!UICONTROL Show Command Feedback]**: selecteer deze optie om de weergave van opdrachtaanvragen op de server in te schakelen. Schakel deze optie uit.

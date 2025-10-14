@@ -23,7 +23,7 @@ Zoomafbeeldingen moeten een hoog aantal pixels hebben. Er is een groot aantal pi
 
 Selecteer **[!UICONTROL Upload]** op de algemene navigatiebalk om afbeeldingen te uploaden.
 
-Voor gedetailleerde instructie bij het uploaden van beelden, zie [ dossiers ](uploading-files.md#uploading_files) uploaden.
+Voor gedetailleerde instructie bij het uploaden van beelden, zie [&#x200B; dossiers &#x200B;](uploading-files.md#uploading_files) uploaden.
 
 **bereidt uw beelden voor het zoemen voor:**
 
@@ -37,4 +37,4 @@ Als u optimaal wilt profiteren van de functies van Adobe Dynamic Media Classic Z
 
 >[!MORELIKETHIS]
 >
->* [ uploadt dossiers ](uploading-files.md#uploading_files)
+>* [&#x200B; uploadt dossiers &#x200B;](uploading-files.md#uploading_files)

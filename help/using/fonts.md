@@ -37,7 +37,7 @@ Nadat een lettertypebestand is geüpload, kunt u de Adobe Dynamic Media Classic-
 
 ## Fontbestanden uploaden {#uploading-font-files}
 
-Upload doopvontdossiers met de zelfde technieken u gebruikt om andere dossiers te uploaden. U kunt lettertypebestanden opslaan in elke Adobe Dynamic Media Classic-map. Zie [ Uploading uw dossiers ](uploading-files.md#uploading_your_files).
+Upload doopvontdossiers met de zelfde technieken u gebruikt om andere dossiers te uploaden. U kunt lettertypebestanden opslaan in elke Adobe Dynamic Media Classic-map. Zie [&#x200B; Uploading uw dossiers &#x200B;](uploading-files.md#uploading_your_files).
 
 ## Informatie over lettertypebestanden bewerken {#editing-font-file-information}
 

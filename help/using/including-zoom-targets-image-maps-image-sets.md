@@ -25,5 +25,5 @@ Als u Zoomdoelen en afbeeldingen met hyperlinks beschikbaar wilt maken voor gebr
 
 >[!MORELIKETHIS]
 >
->* [ creeer de Doelen van het Gezoem voor Geleide Gezoem ](creating-zoom-targets-guided-zoom.md#creating_zoom_targets_for_guided_zoom)
->* [ creeer de Kaarten van het Beeld ](creating-image-maps.md#creating_image_maps)
+>* [&#x200B; creeer de Doelen van het Gezoem voor Geleide Gezoem &#x200B;](creating-zoom-targets-guided-zoom.md#creating_zoom_targets_for_guided_zoom)
+>* [&#x200B; creeer de Kaarten van het Beeld &#x200B;](creating-image-maps.md#creating_image_maps)

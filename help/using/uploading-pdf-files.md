@@ -26,7 +26,7 @@ Wanneer u een PDF uploadt voor het uitnemen van pagina&#39;s, past Adobe de volg
 | --- | --- | --- |
 | Maximumaantal pagina&#39;s voor een PDF dat in aanmerking komt voor extractie | 5000 (voor nieuwe uploads) | 100 (voor alle PDF&#39;s) |
 
-Zie ook [ Dynamische beperkingen van Media ](/help/using/limitations.md).
+Zie ook [&#x200B; Dynamische beperkingen van Media &#x200B;](/help/using/limitations.md).
 
 ## PDF-bestanden voorbereiden
 
@@ -38,11 +38,11 @@ PDF-bestanden voorbereiden voordat u ze uploadt naar Adobe Dynamic Media Classic
 * Als u wilt dat gebruikers in uw eCatalog op trefwoord kunnen zoeken, controleert u of uw PDF-bestanden zijn &#39;afgevlakt&#39;. U kunt zoekwoorden niet extraheren uit samengevoegde PDF-bestanden. Als u wilt weten of een PDF is afgevlakt, selecteert u de tekst in de afbeelding. Als u geen tekst kunt selecteren, wordt de PDF afgevlakt en kunnen de kijkers niet op sleutelwoord in uw eCatalog zoeken.
 * Omdat ze moeten worden afgedrukt, bevatten PDF-bestanden meestal CMYK-afbeeldingen. Adobe Dynamic Media Classic kan deze CMYK-afbeeldingen standaard op intelligente wijze detecteren en converteren met een intern CMYK-kleurprofiel. Als u echter een aangepast kleurprofiel wilt gebruiken om CMYK-afbeeldingen om te zetten, kunt u dat doen.
 
-  Zie [ ICC (het Internationale Consortium van de Kleur) profielen ](icc-profiles.md#icc_profiles).
+  Zie [&#x200B; ICC (het Internationale Consortium van de Kleur) profielen &#x200B;](icc-profiles.md#icc_profiles).
 
 ## Beste praktijken PDF uploadopties {#best-practice-pdf-upload-options}
 
-Voor gedetailleerde informatie over de verschillende upload methodes, zie [ Uploading uw dossiers ](uploading-files.md#uploading_your_files).
+Voor gedetailleerde informatie over de verschillende upload methodes, zie [&#x200B; Uploading uw dossiers &#x200B;](uploading-files.md#uploading_your_files).
 
 Selecteer de dossiers die u wilt uploaden, en dan deze *beste praktijken* de Opties van PDF selecteren:
 
@@ -58,7 +58,7 @@ Selecteer de dossiers die u wilt uploaden, en dan deze *beste praktijken* de Opt
 
 * **Kleurruimte**: Op het Upload de dialoogvakje van de Opties van de Baan, uitgezochte **[!UICONTROL PDF Options]**. Kies **[!UICONTROL Detect automatically]** in de vervolgkeuzelijst Kleurruimte. Gewoonlijk zijn PDF&#39;s die zijn gemaakt voor afdrukken, in CMYK en PDF&#39;s voor onlineweergave in RGB. Als een PDF beide kleurruimten gebruikt, kunt u een specifieke kleurruimte selecteren door Forceren als RGB of Forceren als CMYK te kiezen. PDF&#39;s gebruiken beide kleurruimten, bijvoorbeeld wanneer paginaafbeeldingen een CMYK-kleurruimte gebruiken, maar afbeeldingen RGB gebruiken. Als u een ICC-profiel hebt geüpload, wordt de naam ervan weergegeven in het menu Kleurruimte en kunt u het daar kiezen.
 
-  Zie [ ICC (het Internationale Consortium van de Kleur) profielen ](/help/using/icc-profiles.md).
+  Zie [&#x200B; ICC (het Internationale Consortium van de Kleur) profielen &#x200B;](/help/using/icc-profiles.md).
 
 * **Opties van het Profiel van de Kleur**: Op het Upload de dialoogvakje van de Opties van de Baan, selecteer **[!UICONTROL Color Profile Options]**, en kies dan een optie van het Profiel van de Kleur:
 
@@ -68,8 +68,8 @@ Selecteer de dossiers die u wilt uploaden, en dan deze *beste praktijken* de Opt
 
 <!-- * **Convert To SRGB**: Converts to SRGB (Standard Red Green Blue). SRGB is the recommended color space for displaying images on Web pages. -->
 
-Zie [ ICC (het Internationale Consortium van de Kleur) profielen ](icc-profiles.md#icc_profiles).
+Zie [&#x200B; ICC (het Internationale Consortium van de Kleur) profielen &#x200B;](icc-profiles.md#icc_profiles).
 
 >[!NOTE]
 >
->Voor details op alle opties van PDF, zie [ PDF uploadt opties ](pdfs.md#pdf_upload_options).
+>Voor details op alle opties van PDF, zie [&#x200B; PDF uploadt opties &#x200B;](pdfs.md#pdf_upload_options).

@@ -33,8 +33,8 @@ Bij het exporteren van afbeeldingselementen gelden de volgende beperkingen:
 >
 >Deze beperkingen gelden alleen voor het exporteren van afgeleide afbeeldingselementen, niet voor het exporteren van primaire bestanden.
 
-Om Beeld tot stand te brengen stelt vooraf in, zie [ Beeld ](application-setup.md#image_presets) vooraf in.
+Om Beeld tot stand te brengen stelt vooraf in, zie [&#x200B; Beeld &#x200B;](application-setup.md#image_presets) vooraf in.
 
-Om gebruikers toe te laten om Beeld te kiezen stelt vooraf in wanneer zij dossiers uitvoeren, zie [ specificerend de uitvoeropties beschikbaar aan Poortgebruikers van Media ](specifying-export-options-available-media.md#specifying_export_options_available_to_media_portal_users).
+Om gebruikers toe te laten om Beeld te kiezen stelt vooraf in wanneer zij dossiers uitvoeren, zie [&#x200B; specificerend de uitvoeropties beschikbaar aan Poortgebruikers van Media &#x200B;](specifying-export-options-available-media.md#specifying_export_options_available_to_media_portal_users).
 
-Om te kiezen welk Beeld vooraf instelt beschikbaar aan de leden van een groep is, zie [ Vooraf ingestelde de toegangstoestemmingen van het Beeld voor een groep ](creating-media-portal-groups.md#choosing_image_preset_access_permissions_for_a_group) kiezen.
+Om te kiezen welk Beeld vooraf instelt beschikbaar aan de leden van een groep is, zie [&#x200B; Vooraf ingestelde de toegangstoestemmingen van het Beeld voor een groep &#x200B;](creating-media-portal-groups.md#choosing_image_preset_access_permissions_for_a_group) kiezen.

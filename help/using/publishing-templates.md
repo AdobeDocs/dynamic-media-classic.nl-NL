@@ -35,5 +35,5 @@ Als u sjablonen wilt publiceren naar Dynamic Media Image Servers, selecteert u o
 
 >[!MORELIKETHIS]
 >
->* [ activa van het Teken voor publiceren ](publishing-files.md#publish_after_uploading)
->* [ creeer een het publiceren baan ](publishing-files.md#creating_a_publish_job)
+>* [&#x200B; activa van het Teken voor publiceren &#x200B;](publishing-files.md#publish_after_uploading)
+>* [&#x200B; creeer een het publiceren baan &#x200B;](publishing-files.md#creating_a_publish_job)

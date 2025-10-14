@@ -29,4 +29,4 @@ U kunt de weergave van elementen in het deelvenster Bladeren wijzigen door een w
 
 >[!TIP]
 >
->U kunt een standaardweergave selecteren voor het deelvenster Bladeren en het deelvenster aan uw specificaties laten werken. Zie [ Persoonlijke Opstelling ](personal-setup.md#personal_setup).*
+>U kunt een standaardweergave selecteren voor het deelvenster Bladeren en het deelvenster aan uw specificaties laten werken. Zie [&#x200B; Persoonlijke Opstelling &#x200B;](personal-setup.md#personal_setup).*

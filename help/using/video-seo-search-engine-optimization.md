@@ -23,9 +23,9 @@ SEO is het proces om het volume van verkeer aan een Website van onderzoeksmotore
 
 Met Adobe Dynamic Media Classic Video SEO kunt u videometagegevens toepassen om zoekprogramma&#39;s beschrijvingen van uw video&#39;s te bieden. Adobe Dynamic Media Classic biedt u de mogelijkheid om videositemaps en mRSS-feeds te maken. Deze standaard XML-bestanden worden gebruikt voor het verzenden van videogegevens naar zoekprogramma&#39;s:
 
-* **Video Sitemap**: Maakt Google precies waar en wat de videoinhoud op een plaats is. Op Google kunnen dus volledig naar video&#39;s worden gezocht. Een videositemap kan bijvoorbeeld de actieve tijd en de categorieën video&#39;s opgeven. Voor informatie over VideoSitemaps, zie [ Video sitemaps en videoalternatieven sitemap ](https://developers.google.com/search/docs/crawling-indexing/sitemaps/video-sitemaps?visit_id=637558394348624754-567115452&rd=1).
+* **Video Sitemap**: Maakt Google precies waar en wat de videoinhoud op een plaats is. Op Google kunnen dus volledig naar video&#39;s worden gezocht. Een videositemap kan bijvoorbeeld de actieve tijd en de categorieën video&#39;s opgeven. Voor informatie over VideoSitemaps, zie [&#x200B; Video sitemaps en videoalternatieven sitemap &#x200B;](https://developers.google.com/search/docs/crawling-indexing/sitemaps/video-sitemaps?visit_id=637558394348624754-567115452&rd=1).
 
-* **mRSS (Media Echt Eenvoudige Syndicatie) voer**: Gebruikt door inhouduitgevers om media dossiers in Yahoo te voeren! Video zoeken. Voor informatie over de diervoeders van mRSS, zie [ Video sitemaps en de alternatieven van videositemap ](https://developers.google.com/search/docs/crawling-indexing/sitemaps/video-sitemaps?visit_id=637558394348624754-567115452&rd=1).
+* **mRSS (Media Echt Eenvoudige Syndicatie) voer**: Gebruikt door inhouduitgevers om media dossiers in Yahoo te voeren! Video zoeken. Voor informatie over de diervoeders van mRSS, zie [&#x200B; Video sitemaps en de alternatieven van videositemap &#x200B;](https://developers.google.com/search/docs/crawling-indexing/sitemaps/video-sitemaps?visit_id=637558394348624754-567115452&rd=1).
 
 >[!NOTE]
 >

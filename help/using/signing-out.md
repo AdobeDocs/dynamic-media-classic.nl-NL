@@ -29,7 +29,7 @@ Controleer of u het volgende hebt voordat u de Adobe Dynamic Media Classic-burea
 
 1. Open Adobe Dynamic Media Classic-bureaubladtoepassing.
 
-   ![ Adobe Dynamic Media Classic teken binnen ](/help/using/assets/dmclassic-login1.png)
+   ![&#x200B; Adobe Dynamic Media Classic teken binnen &#x200B;](/help/using/assets/dmclassic-login1.png)
 
 1. Voer in het veld **[!UICONTROL User Name]** uw e-mailadres in.
 1. Typ het wachtwoord in het veld **[!UICONTROL Password]** .
@@ -50,4 +50,4 @@ Gebruik de volgende afbeelding om de productieomgeving te selecteren die u wilt 
 
 >[!MORELIKETHIS]
 >
->* [ Persoonlijke Opstelling ](personal-setup.md#personal_setup)
+>* [&#x200B; Persoonlijke Opstelling &#x200B;](personal-setup.md#personal_setup)

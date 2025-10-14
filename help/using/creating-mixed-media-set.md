@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Maak een gemengde mediaset als u meerdere typen viewers in één presentatie wilt combineren. Zorg ervoor dat de bestanden, afbeeldingssets, stalensets en centrifuges klaar zijn om te worden gepubliceerd voordat u ze aan de gemengde mediaset toevoegt.
 
-![ Gemengde Geplaatste Media ](/help/using/assets/mm_mixed_media_set.png)
+![&#x200B; Gemengde Geplaatste Media &#x200B;](/help/using/assets/mm_mixed_media_set.png)
 
 ## Een gemengde mediaset maken {#create-a-mixed-media-set}
 
@@ -31,7 +31,7 @@ Wanneer u een reeks creeert, publiceert **na sparen** optie beïnvloedt de reeks
 | Ja | Gepubliceerd | Gepubliceerd |
 | Nee | Ongepubliceerd | Leden met een set behouden hun gepubliceerde of niet-gepubliceerde status. |
 
-Zie ook [ manueel het publiceren activa ](publishing-files.md#manually_publishing_assets) en [ manueel unpublishing activa ](publishing-files.md#manually_unpublishing_assets).
+Zie ook [&#x200B; manueel het publiceren activa &#x200B;](publishing-files.md#manually_publishing_assets) en [&#x200B; manueel unpublishing activa &#x200B;](publishing-files.md#manually_unpublishing_assets).
 
 **om een Gemengde Reeks van Media tot stand te brengen:**
 
@@ -68,7 +68,7 @@ Of u nu een gepubliceerde of een niet-gepubliceerde set bewerkt, de optie **[!UI
 | Nee | Ja | Gepubliceerd | Gepubliceerd |
 | Nee | Nee | Ongepubliceerd | Bestaande leden die zijn ingesteld en eventuele nieuwe leden die u tijdens de bewerking hebt toegevoegd, behouden hun gepubliceerde of niet-gepubliceerde status. |
 
-Zie ook [ manueel het publiceren activa ](publishing-files.md#manually_publishing_assets) en [ manueel unpublishing activa ](publishing-files.md#manually_unpublishing_assets).
+Zie ook [&#x200B; manueel het publiceren activa &#x200B;](publishing-files.md#manually_publishing_assets) en [&#x200B; manueel unpublishing activa &#x200B;](publishing-files.md#manually_unpublishing_assets).
 
 **om een Gemengde Reeks van Media uit te geven:**
 
@@ -85,7 +85,7 @@ Zie ook [ manueel het publiceren activa ](publishing-files.md#manually_publishin
 
 Wanneer u een set verwijdert, wordt de set zelf naar de prullenbak verplaatst. De leden (of &quot;kinderen&quot;) binnen die set worden echter niet beïnvloed, maar ze behouden hun bestaande gepubliceerde of niet-gepubliceerde status.
 
-Zie ook [ manueel het publiceren activa ](publishing-files.md#manually_publishing_assets) en [ manueel unpublishing activa ](publishing-files.md#manually_unpublishing_assets).
+Zie ook [&#x200B; manueel het publiceren activa &#x200B;](publishing-files.md#manually_publishing_assets) en [&#x200B; manueel unpublishing activa &#x200B;](publishing-files.md#manually_unpublishing_assets).
 
 **om een Gemengde Reeks van Media te schrappen:**
 

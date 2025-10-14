@@ -25,9 +25,9 @@ U kunt lange-vormvideo&#39;s gemakkelijker bekijken en navigeren door hoofdstukm
 >
 >De videospeler die wordt gebruikt moet het gebruik van hoofdstukmarkeringen steunen.
 
-Zie [ toevoegen of geef een VideoKijker uit vooraf instelt ](previewing-videos-video-viewer.md#adding_or_editing_a_video_viewer_preset) als u de punten van het hoofdstuknavigatie en pop-up tekst van de hoofdstuktitel voor de `Universal_HTML5_Video` kijker (HTML5) wilt vormen.
+Zie [&#x200B; toevoegen of geef een VideoKijker uit vooraf instelt &#x200B;](previewing-videos-video-viewer.md#adding_or_editing_a_video_viewer_preset) als u de punten van het hoofdstuknavigatie en pop-up tekst van de hoofdstuktitel voor de `Universal_HTML5_Video` kijker (HTML5) wilt vormen.
 
-Zie ook [ toevoegen en uitgeven Kijker stelt ](application-setup.md#adding_and_editing_viewer_presets) vooraf in.
+Zie ook [&#x200B; toevoegen en uitgeven Kijker stelt &#x200B;](application-setup.md#adding_and_editing_viewer_presets) vooraf in.
 
 U maakt een hoofdstuklijst voor uw video op ongeveer dezelfde manier als u bijschriften maakt. U maakt dus een WebVTT-bestand. Dit bestand moet echter gescheiden zijn van elk WebVTT-bijschriftbestand dat u ook kunt gebruiken. U kunt bijschriften en hoofdstukken niet combineren tot één WebVTT-bestand.
 
@@ -53,7 +53,7 @@ In het bovenstaande voorbeeld is `Chapter 1` de cue-id en optioneel. De richtsno
 
 Omdat u een HTML5-videoviewer gebruikt, moet u ervoor zorgen dat het hoofdstukbestand dat u maakt, voldoet aan de WebVTT-standaard (Web Video Text Tracks). De bestandsextensie van het hoofdstuk is `.VTT` . U kunt meer informatie over de WebVTT ondertitelingsnorm leren.
 
-Zie [ WebVTT: Het Formaat van de Tracks van de Tekst van het Web Video ](https://w3c.github.io/webvtt/).
+Zie [&#x200B; WebVTT: Het Formaat van de Tracks van de Tekst van het Web Video &#x200B;](https://w3c.github.io/webvtt/).
 
 **om hoofdstuktellers aan een video toe te voegen:**
 
@@ -69,7 +69,7 @@ Zie [ WebVTT: Het Formaat van de Tracks van de Tekst van het Web Video ](https:/
 
 1. Upload in Adobe Dynamic Media Classic uw WebVTT-hoofdstukbestand.
 
-   Zie [ dossiers ](uploading-files.md#uploading_files) uploaden.
+   Zie [&#x200B; dossiers &#x200B;](uploading-files.md#uploading_files) uploaden.
 
 1. Navigeer in het deelvenster Elementenbibliotheek aan de linkerkant naar de elementenmap die het videobestand bevat dat u wilt koppelen aan het hoofdstukbestand dat u hebt geüpload.
 1. Selecteer in het deelvenster Asset Browse één video-element en selecteer vervolgens onder de miniatuurafbeelding van het element **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]** .

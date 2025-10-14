@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Voordat u afbeeldingen uploadt naar Adobe Dynamic Media Classic, moet u ervoor zorgen dat ze de hoogste kwaliteit hebben en de beste indeling hebben. Adobe Dynamic Media Classic raadt aan om afbeeldingen van hoge kwaliteit te uploaden met een voldoende aantal pixels (van 1500 tot 2000 pixels in de lange grootte). Op deze manier kunt u elke vereiste Dynamic Imaging gebruiken.
 
-Voor details bij het uploaden van beelden, zie [ dossiers ](uploading-files.md#uploading_files) uploaden.
+Voor details bij het uploaden van beelden, zie [&#x200B; dossiers &#x200B;](uploading-files.md#uploading_files) uploaden.
 
 **bereidt uw primaire beelden voor upload voor:**
 
@@ -31,4 +31,4 @@ Bereid uw primaire afbeeldingsbestanden voor voordat u ze uploadt naar Adobe Dyn
 
 * **formaten van het Dossier**: Adobe Dynamic Media Classic steunt alle standaardindelingen van het beelddossier. Deze indelingen zijn onder andere TIFF, BMP, JPEG, PSD, GIF en EPS. Afbeeldingsindelingen zonder verlies - TIFF en PNG worden aanbevolen. Als u een JPEG-afbeelding gebruikt, gebruikt u de instellingen voor de hoogste kwaliteit.
 
-* **de ruimte van de Kleur**: RGB is de kleurenruimte voor de beeldpresentaties van het Web; de beelden CMYK die algemeen voor druk worden gebruikt worden automatisch omgezet in RGB wanneer u hen uploadt. Het wordt aanbevolen CMYK-afbeeldingen te uploaden die een ingesloten ICC-kleurprofiel (International Color Consortium) hebben voor de conversie naar RGB. Zie ook [ ICC (het Internationale Consortium van de Kleur) profielen ](/help/using/icc-profiles.md).
+* **de ruimte van de Kleur**: RGB is de kleurenruimte voor de beeldpresentaties van het Web; de beelden CMYK die algemeen voor druk worden gebruikt worden automatisch omgezet in RGB wanneer u hen uploadt. Het wordt aanbevolen CMYK-afbeeldingen te uploaden die een ingesloten ICC-kleurprofiel (International Color Consortium) hebben voor de conversie naar RGB. Zie ook [&#x200B; ICC (het Internationale Consortium van de Kleur) profielen &#x200B;](/help/using/icc-profiles.md).

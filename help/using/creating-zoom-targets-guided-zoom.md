@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Met zoomdoelen kunnen gebruikers bepaalde gedeelten van een afbeelding bekijken. Naast vrije zooming, kunnen de kijkers een duimnagel van het gezoemdoel selecteren en aan het deel van het beeld zoemen u hen wilt concentreren op. Zoomdoelen bieden u de gelegenheid om de aantrekkelijke of interessante gedeelten van een afbeelding te benadrukken.
 
-![ creeer de Doelen van het Gezoem voor Geleide Gezoem ](/help/using/assets/zo_guided_zoom.png)
+![&#x200B; creeer de Doelen van het Gezoem voor Geleide Gezoem &#x200B;](/help/using/assets/zo_guided_zoom.png)
 
 ## Zoomdoelen {#about-zoom-targets}
 
@@ -32,7 +32,7 @@ Het maximale zoompercentage van Zoomdoelen is 100 procent. Het minimale zoomperc
 | Groot | Kleiner | Kleiner minimum |
 | Klein | Groter | Groter minimum |
 
-U kunt de grootte van de Zoomviewer aanpassen aan de grootte die op uw webpagina wordt gebruikt. U kunt deze instelling permanent wijzigen door de viewergrootte te wijzigen in het scherm Setup (als u een beheerder bent). Zie [ de Kijker van het Inzoem van de Opstelling vooraf instelt ](setting-zoom-viewer-presets.md#setting_up_zoom_viewer_presets).
+U kunt de grootte van de Zoomviewer aanpassen aan de grootte die op uw webpagina wordt gebruikt. U kunt deze instelling permanent wijzigen door de viewergrootte te wijzigen in het scherm Setup (als u een beheerder bent). Zie [&#x200B; de Kijker van het Inzoem van de Opstelling vooraf instelt &#x200B;](setting-zoom-viewer-presets.md#setting_up_zoom_viewer_presets).
 
 ## Zoomdoelen maken en bewerken {#creating-and-editing-zoom-targets}
 
@@ -70,7 +70,7 @@ Als u een zoomdoel wilt maken, opent u de pagina Zoomdoel-editor en gaat u als v
 
 >[!NOTE]
 >
->Als u wilt zien hoe de zoomdoelen er in een Zoomviewer uitzien, selecteert u de knop **[!UICONTROL Preview]** in het scherm Zoomdoel-editor. Kies vervolgens een zoomviewer in het voorvertoningsscherm. Voor meer informatie over dit scherm, zie [ de beelden van de Voorproef met de verschillende Kijkers van het Gezoem ](previewing-image-assets-different-zoom.md#previewing_image_assets_with_different_zoom_viewers).
+>Als u wilt zien hoe de zoomdoelen er in een Zoomviewer uitzien, selecteert u de knop **[!UICONTROL Preview]** in het scherm Zoomdoel-editor. Kies vervolgens een zoomviewer in het voorvertoningsscherm. Voor meer informatie over dit scherm, zie [&#x200B; de beelden van de Voorproef met de verschillende Kijkers van het Gezoem &#x200B;](previewing-image-assets-different-zoom.md#previewing_image_assets_with_different_zoom_viewers).
 
 ### Zoomdoelen bewerken {#editing-zoom-targets}
 

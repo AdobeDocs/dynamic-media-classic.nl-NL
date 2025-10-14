@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Adobe Dynamic Media Classic is een geïntegreerde, rijke omgeving voor mediabeheer, -publicatie en -services. Rijke media kunnen aan alle marketing en verkoopkanalen worden geleverd. Deze kanalen omvatten het Web, drukmateriaal, e-mailcampagnes, portals van het Web, Desktops, en apparaten.
 
-Zie ook [ het overzicht van het Platform ](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&emailurl=https://s7d5.scene7.com/s7/emailFriend&serverUrl=https://s7d5.scene7.com/is/image/&config=Scene7SharedAssets/Universal_HTML5_Video&contenturl=https://s7d5.scene7.com/skins/&asset=S7tutorials/572_Platform%20Overview_converted%20renamed_Getting%20Started-AVS) opleidingsvideo.
+Zie ook [&#x200B; het overzicht van het Platform &#x200B;](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&emailurl=https://s7d5.scene7.com/s7/emailFriend&serverUrl=https://s7d5.scene7.com/is/image/&config=Scene7SharedAssets/Universal_HTML5_Video&contenturl=https://s7d5.scene7.com/skins/&asset=S7tutorials/572_Platform%20Overview_converted%20renamed_Getting%20Started-AVS) opleidingsvideo.
 
 ## Workflowproces {#workflow-process}
 
@@ -35,7 +35,7 @@ De belangrijkste Adobe Dynamic Media Classic-workflowstappen zijn:
 
 * **Server**: Lever media van het netwerk van Adobe Dynamic Media Classic SaaS aan Web-pagina&#39;s, toepassingen, en mobiele apparaten; de media zijn prestaties-geoptimaliseerd en met CDN caching geleverd. Adobe Dynamic Media Classic biedt u een URL voor elk element. Nadat u het element hebt gepubliceerd, wordt de URL actief.
 
-![ het het werkschemaproces van Adobe Dynamic Media Classic ](/help/using/assets/gs_workflow.png)
+![&#x200B; het het werkschemaproces van Adobe Dynamic Media Classic &#x200B;](/help/using/assets/gs_workflow.png)
 
 ## Eén primaire afbeelding en één URL-aanroep {#single-master-images-and-single-url-calls}
 
@@ -43,7 +43,7 @@ Adobe Dynamic Media Classic is fundamenteel anders dan andere systemen, omdat u 
 
 De URL-tekenreeksen die u met Adobe Dynamic Media Classic hebt gegenereerd, bevatten instructies die de server vertellen hoe het element moet worden weergegeven wanneer het wordt geleverd. Dezelfde primaire afbeelding kan bijvoorbeeld worden geleverd in verschillende formaten, formaten, gewichten, kleuren en zoomweergaven. Als onderdeel van het maken en publiceren van media-elementen met Adobe Dynamic Media Classic, kunt u de effecten visueel configureren. Hierbij maakt u de URL-aanroepen die de server correct vertellen hoe u uw primaire element aan toepassingen moet presenteren.
 
-![ Adobe Dynamic Media Classic kan het zelfde primaire beeld aan verschillende media in verschillende grootte en formaten leveren.](/help/using/assets/gs_dynamic_publishing.png)
+![&#x200B; Adobe Dynamic Media Classic kan het zelfde primaire beeld aan verschillende media in verschillende grootte en formaten leveren.](/help/using/assets/gs_dynamic_publishing.png)
 *Adobe Dynamic Media Classic zorgt ervoor dat de verenigbare, kwaliteitservaringen aan om het even welk scherm, ongeacht grootte of bandbreedte worden geleverd.*
 
 ## Inhoud in cache plaatsen {#content-caching}

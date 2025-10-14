@@ -27,7 +27,7 @@ Maak een publicatietaak om een gemengde mediaset te publiceren die u hebt gemark
 
 Adobe Dynamic Media Classic houdt publicatietaken bij in het scherm Taken.
 
-Zie [ het Publiceren ](publishing-files.md#publishing_files).
+Zie [&#x200B; het Publiceren &#x200B;](publishing-files.md#publishing_files).
 
 <!-- 
 
@@ -51,12 +51,12 @@ Last Modified Date:
 1. (Optioneel) Typ in het veld **[!UICONTROL Job Name]** een naam voor de publicatietaak.
 1. Selecteer **[!UICONTROL Advanced]** in de **[!UICONTROL Publish To]** -opties in de vervolgkeuzelijst **[!UICONTROL Video Server]** .
 
-   Zie [ Geavanceerde publicatieopties ](publishing-files.md#advanced_publish_options) voor meer opties u kunt plaatsen.
+   Zie [&#x200B; Geavanceerde publicatieopties &#x200B;](publishing-files.md#advanced_publish_options) voor meer opties u kunt plaatsen.
 
 1. Selecteer **[!UICONTROL Submit Publish]** .
 1. Herhaal bovenstaande stappen 2-4.
 1. Selecteer **[!UICONTROL Advanced]** in **[!UICONTROL Publish To]** in de vervolgkeuzelijst **[!UICONTROL Image Server]** .
 
-   Zie [ Geavanceerde publicatieopties ](publishing-files.md#advanced_publish_options) voor meer opties u kunt plaatsen.
+   Zie [&#x200B; Geavanceerde publicatieopties &#x200B;](publishing-files.md#advanced_publish_options) voor meer opties u kunt plaatsen.
 
 1. Selecteer **[!UICONTROL Submit Publish]** .

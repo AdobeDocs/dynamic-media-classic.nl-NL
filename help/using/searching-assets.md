@@ -23,7 +23,7 @@ Als u bestandsmiddelen wilt zoeken in Adobe Dynamic Media Classic, kunt u elemen
 
 >[!NOTE]
 >
->De persoonlijke pagina van de Opstelling biedt opties om te kiezen hoe u onderzoeken wilt leiden. U kunt bijvoorbeeld een standaardzoektype kiezen en aangeven of u door de gebruiker gedefinieerde velden wilt opnemen in zoekopdrachten. Voor meer informatie, zie [ Persoonlijke Opstelling ](personal-setup.md#personal_setup).
+>De persoonlijke pagina van de Opstelling biedt opties om te kiezen hoe u onderzoeken wilt leiden. U kunt bijvoorbeeld een standaardzoektype kiezen en aangeven of u door de gebruiker gedefinieerde velden wilt opnemen in zoekopdrachten. Voor meer informatie, zie [&#x200B; Persoonlijke Opstelling &#x200B;](personal-setup.md#personal_setup).
 
 ## Elementen weergeven op type {#viewing-assets-by-type}
 
@@ -107,7 +107,7 @@ Voer de volgende stappen uit, zodat u elementen kunt zoeken door te filteren met
 
    Als u een filterbewerking wilt uitvoeren die u hebt gemaakt en opgeslagen, selecteert u **[!UICONTROL Select Preset]** en kiest u vervolgens de naam van de bewerking in het menu.
 
-   Zie [ sparen, herhalen, en schrapt filterverrichtingen ](searching-assets.md#saving_repeating_and_deleting_filter_operations).
+   Zie [&#x200B; sparen, herhalen, en schrapt filterverrichtingen &#x200B;](searching-assets.md#saving_repeating_and_deleting_filter_operations).
 
 1. Klik op **[!UICONTROL Field]** in een deelvenster en volg deze instructies zodat u het filtermenu kunt weergeven en de filterbewerking kunt samenstellen:
 
@@ -169,5 +169,5 @@ Selecteer **[!UICONTROL Publish Now]** om de taak te starten. Er wordt een beves
 
 >[!MORELIKETHIS]
 >
->* [ de grondbeginselen van de Navigatie ](navigation-basics.md#navigation_basics)
->* [ Mening, voeg, en de uitvoermeta-gegevens toe ](viewing-adding-exporting-metadata.md#viewing_adding_and_exporting_metadata)
+>* [&#x200B; de grondbeginselen van de Navigatie &#x200B;](navigation-basics.md#navigation_basics)
+>* [&#x200B; Mening, voeg, en de uitvoermeta-gegevens toe &#x200B;](viewing-adding-exporting-metadata.md#viewing_adding_and_exporting_metadata)

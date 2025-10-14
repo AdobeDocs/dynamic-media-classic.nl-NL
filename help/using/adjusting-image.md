@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Adobe Dynamic Media Classic biedt verschillende opdrachten voor het aanpassen van de weergave van een afbeelding. U kunt een afbeelding spiegelen, roteren, vervagen, de kleurbalans wijzigen en inkleuren. Wanneer u met deze opdrachten experimenteert, kunt u de effecten van de opdrachten op de afbeelding zien waarmee u werkt.
 
-Zie ook [ een alias voor een beeld ](adjusting-image.md#creating_an_alias_for_an_image) creëren.
+Zie ook [&#x200B; een alias voor een beeld &#x200B;](adjusting-image.md#creating_an_alias_for_an_image) creëren.
 
 **om een beeld aan te passen:**
 

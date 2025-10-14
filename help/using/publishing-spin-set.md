@@ -31,4 +31,4 @@ Selecteer **[!UICONTROL Publish]** als u een centrifuge wilt publiceren die is i
 
 >[!MORELIKETHIS]
 >
->* [ publiceer dossiers ](publishing-files.md#publishing_files)
+>* [&#x200B; publiceer dossiers &#x200B;](publishing-files.md#publishing_files)

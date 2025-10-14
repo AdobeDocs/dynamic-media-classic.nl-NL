@@ -60,7 +60,7 @@ Als u een kleurruimte voor de afbeelding wilt selecteren, kiest u een optie voor
 
 * **[!UICONTROL Custom From]** > **[!UICONTROL To]** : opent menu&#39;s, zodat u een optie kunt kiezen voor Omzetten van en Omzetten in kleurruimte. U kunt een standaard Photoshop-kleurruimte kiezen of een kleurruimte die u naar Adobe Dynamic Media Classic hebt geüpload.
 
-Zie [ ICC profielen ](icc-profiles.md#icc_profiles).
+Zie [&#x200B; ICC profielen &#x200B;](icc-profiles.md#icc_profiles).
 
 ## Een masker maken op basis van een uitknippad
 
@@ -81,9 +81,9 @@ Stel onder Onscherp masker de gewenste opties in. De instellingsopties worden in
 | Drempel | Drempel is een contrastbereik dat wordt genegeerd wanneer het filter Onscherp masker wordt toegepast. Dit effect is belangrijk, zodat er geen &#39;ruis&#39; wordt toegevoegd aan een afbeelding wanneer dit filter wordt gebruikt. Het waardebereik is 0-255. Dit is het aantal helderheidsstappen in een grijswaardenafbeelding. 0=zwart, 128=50% grijs en 255=wit<br><br> Bijvoorbeeld, negeert een drempelwaarde van 12 lichte variaties de helderheid van de huidstoon om lawaai te vermijden toevoegend, maar nog toevoegt randcontrast aan contrasterende gebieden zoals waar de wimpers huid ontmoeten.<br><br> bijvoorbeeld, als u een foto van iemands gezicht hebt, beïnvloedt het Onscherp Masker de contrasterende delen van het beeld. Bijvoorbeeld, waar wimpers en huid samenkomen om een duidelijk gebied van contrast tot stand te brengen, en de vlotte huid zelf. Zelfs de meest vloeiende skin vertoont subtiele wijzigingen in helderheidswaarden. Als u geen drempelwaarde gebruikt, accentueert het filter deze subtiele wijzigingen in de pixels van de skin. Er wordt op zijn beurt een lawaai en ongewenst effect gecreëerd terwijl het contrast op de wimpers wordt verhoogd, waardoor de scherpte wordt vergroot.<br><br> om deze kwestie te vermijden, wordt een drempelwaarde geïntroduceerd die het filter vertelt om pixel te negeren die contrast, zoals vlotte huid niet dramatisch veranderen. <br><br> in zipper grafisch vroeger getoond, merk de textuur naast de ritppers op. Ruis in de afbeelding wordt weergegeven omdat de drempelwaarden te laag zijn om de ruis te onderdrukken. |
 | Monochroom | Selecteer deze optie om de helderheid (intensiteit) van een afbeelding zonder scherp masker te wijzigen.<br><br> schrap aan unshark-masker elke kleurencomponent afzonderlijk. |
 
-Zie ook [ een beeld ](sharpening-image.md#sharpening_an_image) verscherpen.
+Zie ook [&#x200B; een beeld &#x200B;](sharpening-image.md#sharpening_an_image) verscherpen.
 
-Zie ook [ scherp beelden in de Dynamische Media van Adobe en op de Server van het Beeld ](/help/using/assets/s7_sharpening_images.pdf).
+Zie ook [&#x200B; scherp beelden in de Dynamische Media van Adobe en op de Server van het Beeld &#x200B;](/help/using/assets/s7_sharpening_images.pdf).
 
 ## Achtergrond uitnemen
 
@@ -98,4 +98,4 @@ Gebruik Achtergrond uitnemen zodat u de achtergrond van een afbeelding automatis
 
 >[!MORELIKETHIS]
 >
->* [ Snijd een beeld ](cropping-image.md#cropping_an_image) bij
+>* [&#x200B; Snijd een beeld &#x200B;](cropping-image.md#cropping_an_image) bij

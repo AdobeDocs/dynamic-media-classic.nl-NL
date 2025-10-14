@@ -21,8 +21,8 @@ ht-degree: 0%
 
 In het Browse paneel, worden de bronvideo&#39;s geëtiketteerd *Primaire Video*. De gecodeerde video&#39;s worden geëtiketteerd *Video*. U kunt primaire video&#39;s en video&#39;s exporteren. Als u videobestanden wilt exporteren, selecteert u deze in het deelvenster Bladeren en gaat u naar **[!UICONTROL File]** > **[!UICONTROL Export]** .
 
-Zie [ activa van de Uitvoer van Adobe Dynamic Media Classic ](exporting-assets-from-dmc.md#exporting-assets-from-dmc).
+Zie [&#x200B; activa van de Uitvoer van Adobe Dynamic Media Classic &#x200B;](exporting-assets-from-dmc.md#exporting-assets-from-dmc).
 
 >[!MORELIKETHIS]
 >
->* [ upload en codeer video&#39;s ](uploading-encoding-videos.md#uploading_and_encoding_videos)
+>* [&#x200B; upload en codeer video&#39;s &#x200B;](uploading-encoding-videos.md#uploading_and_encoding_videos)

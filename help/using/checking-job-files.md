@@ -95,7 +95,7 @@ Selecteer een terugkomende baan op de pagina van Banen en volg deze instructies 
 
 * **geef een terugkomende baan** uit: Selecteer de **[!UICONTROL Edit]** knoop en ga planningsinformatie in het Edit Geplande de dialoogvakje van de Baan in. Ga naar **[!UICONTROL Repeat]** > **[!UICONTROL Custom]** als u wilt dat de taak met een door u gekozen interval wordt herhaald.
 
-Zie [ een douane creëren uploadt of publiceert het interval van de baantijd ](checking-job-files.md#creating_a_custom_upload_or_publish_job_time_interval).
+Zie [&#x200B; een douane creëren uploadt of publiceert het interval van de baantijd &#x200B;](checking-job-files.md#creating_a_custom_upload_or_publish_job_time_interval).
 
 * **het Schrappen van een terugkomende baan**: Selecteer de **[!UICONTROL Delete]** knoop.
 

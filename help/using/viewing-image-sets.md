@@ -65,4 +65,4 @@ Met Voorvertoning kunt u zien hoe een element wordt weergegeven in een bepaald v
 
 >[!MORELIKETHIS]
 >
->* [ Kijker stelt vooraf in ](application-setup.md#viewer_presets)
+>* [&#x200B; Kijker stelt vooraf in &#x200B;](application-setup.md#viewer_presets)

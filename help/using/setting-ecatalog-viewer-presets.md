@@ -61,4 +61,4 @@ Als u een voorinstelling voor een eCatalog-viewer wilt verwijderen, selecteert u
 
 >[!MORELIKETHIS]
 >
->* [ Kijker stelt vooraf in ](application-setup.md#viewer_presets)
+>* [&#x200B; Kijker stelt vooraf in &#x200B;](application-setup.md#viewer_presets)

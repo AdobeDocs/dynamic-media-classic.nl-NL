@@ -59,4 +59,4 @@ U kunt elementen permanent uit de map met prullenmand verwijderen door het picto
 
 >[!MORELIKETHIS]
 >
->* [ Schrap activa ](moving-renaming-deleting-assets.md#delete_assets)
+>* [&#x200B; Schrap activa &#x200B;](moving-renaming-deleting-assets.md#delete_assets)

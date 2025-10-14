@@ -39,9 +39,9 @@ Als u een afbeelding te veel verscherpt, ontstaat een halo-effect of een streep 
 
 U kunt de beste werkwijzen volgen om de verscherping van uw afbeeldingen in Adobe Dynamic Media Classic en op Dynamic Media Image Server te optimaliseren.
 
-Zie [ Beste praktijken voor het verscherpen van beelden in Adobe Dynamic Media Classic en op de Dynamische Server van het Beeld van Media ](/help/using/assets/s7_sharpening_images.pdf).
+Zie [&#x200B; Beste praktijken voor het verscherpen van beelden in Adobe Dynamic Media Classic en op de Dynamische Server van het Beeld van Media &#x200B;](/help/using/assets/s7_sharpening_images.pdf).
 
-Zie ook [ het Verscherpen ](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&emailurl=https://s7d5.scene7.com/s7/emailFriend&serverUrl=https://s7d5.scene7.com/is/image/&config=Scene7SharedAssets/Universal_HTML5_Video&contenturl=https://s7d5.scene7.com/skins/&asset=S7tutorials/547_sharpening1_converted%20renamed_Done-AVS) trainingsvideo.
+Zie ook [&#x200B; het Verscherpen &#x200B;](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&emailurl=https://s7d5.scene7.com/s7/emailFriend&serverUrl=https://s7d5.scene7.com/is/image/&config=Scene7SharedAssets/Universal_HTML5_Video&contenturl=https://s7d5.scene7.com/skins/&asset=S7tutorials/547_sharpening1_converted%20renamed_Done-AVS) trainingsvideo.
 
 **om een beeld te verscherpen:**
 
@@ -134,7 +134,7 @@ Tenzij u wijzigingstoetsen voor verscherpende afbeeldingen hebt toegevoegd aan d
 
 Met voorinstellingen voor viewers (zoals voorinstellingen voor afbeeldingen) kunt u veel opties centraliseren in één locatie, waaronder een keuze voor de skin- en vieweropties (zoals een knop Afdrukken of de snelheid van de zoomanimatie bepalen). Viewer Presets vindt u in dezelfde sectie als Voorinstellingen afbeelding onder **[!UICONTROL Setup]** > **[!UICONTROL Application Settings]** > **[!UICONTROL Viewer Presets]** .
 
-Zie [ Kijker vooraf instelt ](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&emailurl=https://s7d5.scene7.com/s7/emailFriend&serverUrl=https://s7d5.scene7.com/is/image/&config=Scene7SharedAssets/Universal_HTML5_Video&contenturl=https://s7d5.scene7.com/skins/&asset=S7tutorials/550_viewer-presets_converted%20renamed_Done-AVS) opleidingsvideo.
+Zie [&#x200B; Kijker vooraf instelt &#x200B;](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&emailurl=https://s7d5.scene7.com/s7/emailFriend&serverUrl=https://s7d5.scene7.com/is/image/&config=Scene7SharedAssets/Universal_HTML5_Video&contenturl=https://s7d5.scene7.com/skins/&asset=S7tutorials/550_viewer-presets_converted%20renamed_Done-AVS) opleidingsvideo.
 
 De optie Modifiers bevindt zich onder de sectie Core Settings van alle voorinstellingen voor eCatalog, Centrifugeren en Aangepast zoomen Viewer. Door de URL-verscherpingsopdrachten toe te voegen aan het vak Modifiers, voegt u verscherping toe telkens wanneer de viewer wordt aangeroepen met die Viewer-voorinstelling.
 

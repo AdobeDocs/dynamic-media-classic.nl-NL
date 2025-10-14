@@ -50,7 +50,7 @@ Wanneer u een video publiceert, kunt u de bijbehorende URL opvragen voor gebruik
 
 Wanneer een klant de koppeling selecteert, worden het apparaat, de bandbreedte en de schermgrootte automatisch gedetecteerd. De juiste video wordt weergegeven om te worden afgespeeld in een vooraf gedefinieerde viewer voor desktop of in de native videospeler van het mobiele apparaat voor smartphones en tablets.
 
-Zie ook [ bed de videokijker op een Web-pagina ](deploying-video-websites-mobile-sites.md#embedding_the_video_viewer_on_a_web_page) in.
+Zie ook [&#x200B; bed de videokijker op een Web-pagina &#x200B;](deploying-video-websites-mobile-sites.md#embedding_the_video_viewer_on_a_web_page) in.
 
 **om een video URL aan een mobiele plaats of een website te verbinden:**
 
@@ -77,7 +77,7 @@ Zie ook [ bed de videokijker op een Web-pagina ](deploying-video-websites-mobile
 
 Gebruik de functie Code insluiten wanneer u de video wilt afspelen die is ingesloten op de webpagina. U kopieert de insluitcode naar het klembord, zodat u deze in uw webpagina&#39;s kunt plakken. U mag de code niet bewerken in het dialoogvenster Code insluiten.
 
-Zie ook [ Verbinding een video URL aan een mobiele plaats of een website ](deploying-video-websites-mobile-sites.md#linking_a_video_url_to_a_mobile_site_or_a_website).
+Zie ook [&#x200B; Verbinding een video URL aan een mobiele plaats of een website &#x200B;](deploying-video-websites-mobile-sites.md#linking_a_video_url_to_a_mobile_site_or_a_website).
 
 **om de videokijker op een Web-pagina in te bedden:**
 
@@ -119,15 +119,15 @@ U kunt de Adobe Dynamic Media Classic HTML5-videospeler beter niet gebruiken. Al
 
 * Vervang `"S7 video thumbnail URL"` door de URL van de miniatuur van de video. Dit is de miniatuurafbeelding van de video die de gebruiker ziet voordat de video wordt afgespeeld.
 
-  Zie [ videominiatuur URLs ](deploying-video-websites-mobile-sites.md#obtaining_video_thumbnail_urls) verkrijgen.
+  Zie [&#x200B; videominiatuur URLs &#x200B;](deploying-video-websites-mobile-sites.md#obtaining_video_thumbnail_urls) verkrijgen.
 
 * Vervang `"S7 OGG video asset URL (no player)"` door de progressieve URL van de video voor OGG-video.
 
-  Zie [ Verbinding een video URL aan een mobiele plaats of een website ](deploying-video-websites-mobile-sites.md#linking_a_video_url_to_a_mobile_site_or_a_website).
+  Zie [&#x200B; Verbinding een video URL aan een mobiele plaats of een website &#x200B;](deploying-video-websites-mobile-sites.md#linking_a_video_url_to_a_mobile_site_or_a_website).
 
 * Vervang `"S7 MP4 mobile progressive video asset URL (no player)"` door de progressieve URL voor mobiele apparaten van de video.
 
-  Zie [ Verbinding een video URL aan een mobiele plaats of een website ](deploying-video-websites-mobile-sites.md#linking_a_video_url_to_a_mobile_site_or_a_website).
+  Zie [&#x200B; Verbinding een video URL aan een mobiele plaats of een website &#x200B;](deploying-video-websites-mobile-sites.md#linking_a_video_url_to_a_mobile_site_or_a_website).
 
 ## Video implementeren met een externe videospeler {#deploying-video-using-a-third-party-video-player}
 
@@ -175,7 +175,7 @@ Adobe Dynamic Media Classic genereert automatisch videominiaturen tijdens het up
 
 Als u URL&#39;s voor videominiaturen wilt genereren, voert u een publicatiebewerking uit.
 
-Zie [ publiceren video ](deploying-video-websites-mobile-sites.md#publishing_video).
+Zie [&#x200B; publiceren video &#x200B;](deploying-video-websites-mobile-sites.md#publishing_video).
 
 Na publicatie kunt u videominiaturen-URL&#39;s opvragen in de gedetailleerde weergave in de URL&#39;s en het deelvenster Code insluiten. Selecteer **[!UICONTROL Copy URL]** rechts van de videominiatuur, zodat u de bijbehorende URL kunt kopiëren.
 
@@ -185,12 +185,12 @@ Het *posterkader* is het aanvankelijke kader dat in Video kijkers verschijnt alv
 
 U kunt afbeeldingsaanpassingen toepassen op het posterframe. U kunt bijvoorbeeld het posterframe uitsnijden of transparant maken. Als u het posterframe wilt wijzigen, opent u het configuratiescherm voor de videoviewer en voert u modifiers in de sectie Modifiers voor posterafbeelding in.
 
-Zie [ een VideoKijker toevoegen of uitgeven vooraf ingesteld ](previewing-videos-video-viewer.md#adding_or_editing_a_video_viewer_preset).
+Zie [&#x200B; een VideoKijker toevoegen of uitgeven vooraf ingesteld &#x200B;](previewing-videos-video-viewer.md#adding_or_editing_a_video_viewer_preset).
 
-Zie [ Beeld Servend Gids ](https://experienceleague.adobe.com/nl/docs/dynamic-media-developer-resources/image-serving-api/image-serving-api/c-is-home#image-serving-api).
+Zie [&#x200B; Beeld Servend Gids &#x200B;](https://experienceleague.adobe.com/nl/docs/dynamic-media-developer-resources/image-serving-api/image-serving-api/c-is-home#image-serving-api).
 
 U kunt videominiaturen ook wijzigen door wijzigingstoetsen toe te voegen aan videominiaturen-URL&#39;s.
 
 >[!MORELIKETHIS]
 >
->* [ publiceer dossiers ](publishing-files.md#publishing_files)
+>* [&#x200B; publiceer dossiers &#x200B;](publishing-files.md#publishing_files)

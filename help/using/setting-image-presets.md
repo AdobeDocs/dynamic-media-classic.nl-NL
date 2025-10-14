@@ -42,7 +42,7 @@ U kunt uw eigen Voorinstellingen van het Beeld creëren als u een Beheerder van 
 
 1. Voer een naam in voor de voorinstelling voor afbeelding.
 1. Voer afmetingen voor de breedte en hoogte in pixels in. Deze metingen bepalen de grootte waarop de beelden worden geleverd.
-1. Vul het scherm Voorinstelling toevoegen of Voorinstelling bewerken in. Voor details, zie [ Vooraf ingestelde het Beeld opties ](application-setup.md#image_preset_options).
+1. Vul het scherm Voorinstelling toevoegen of Voorinstelling bewerken in. Voor details, zie [&#x200B; Vooraf ingestelde het Beeld opties &#x200B;](application-setup.md#image_preset_options).
 
    Adobe Dynamic Media Classic raadt de volgende opties voor &#39;best practices&#39; aan om te beginnen:
 
@@ -75,6 +75,6 @@ Als u een voorinstelling voor een afbeelding wilt verwijderen, selecteert u deze
 
 >[!MORELIKETHIS]
 >
->* [ creeer en geef Beeld uit vooraf instelt ](application-setup.md#creating_and_editing_image_presets)
->* [ Vooraf ingestelde Beeld opties ](application-setup.md#image_preset_options)
->* [ Voorproef een beeldactiva die op zijn Vooraf ingesteld Beeld wordt gebaseerd ](previewing-asset.md#previewing_an_image_asset_based_on_its_image_preset)
+>* [&#x200B; creeer en geef Beeld uit vooraf instelt &#x200B;](application-setup.md#creating_and_editing_image_presets)
+>* [&#x200B; Vooraf ingestelde Beeld opties &#x200B;](application-setup.md#image_preset_options)
+>* [&#x200B; Voorproef een beeldactiva die op zijn Vooraf ingesteld Beeld wordt gebaseerd &#x200B;](previewing-asset.md#previewing_an_image_asset_based_on_its_image_preset)

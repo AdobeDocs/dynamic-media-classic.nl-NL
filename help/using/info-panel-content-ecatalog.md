@@ -36,7 +36,7 @@ U kunt een van de drie vooraf ingestelde reactiesjablonen selecteren om tekst we
 >
 >U kunt ook de antwoordsjabloon instellen in de voorinstelling voor de viewer. Als u in plaats daarvan de antwoordsjabloon in de voorinstelling voor de viewer wilt gebruiken, voegt u `fmt=1` toe aan het einde van de URL van de Informatieserver in de voorinstelling voor de viewer.
 >
->Zie [ Opstelling eCatalogKijker vooraf instelt ](setting-ecatalog-viewer-presets.md#setting_up_ecatalog_viewer_presets).
+>Zie [&#x200B; Opstelling eCatalogKijker vooraf instelt &#x200B;](setting-ecatalog-viewer-presets.md#setting_up_ecatalog_viewer_presets).
 
 1. Dubbelklik op uw eCatalog zodat deze in de gedetailleerde weergave wordt geopend.
 1. Selecteer het deelvenster **[!UICONTROL InfoPanel Setup]** .

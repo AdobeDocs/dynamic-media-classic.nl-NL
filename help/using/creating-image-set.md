@@ -30,7 +30,7 @@ Wanneer u een set maakt, heeft de optie **[!UICONTROL Publish after a save]** op
 | Ja | Gepubliceerd | Gepubliceerd |
 | Nee | Ongepubliceerd | Leden met een set behouden hun gepubliceerde of niet-gepubliceerde status. |
 
-Zie ook [ manueel het publiceren activa ](publishing-files.md#manually_publishing_assets) en [ manueel unpublishing activa ](publishing-files.md#manually_unpublishing_assets).
+Zie ook [&#x200B; manueel het publiceren activa &#x200B;](publishing-files.md#manually_publishing_assets) en [&#x200B; manueel unpublishing activa &#x200B;](publishing-files.md#manually_unpublishing_assets).
 
 Als u een Afbeeldingsset maakt, raadt Adobe de volgende aanbevolen procedures aan en past het de volgende limieten toe:
 
@@ -41,7 +41,7 @@ Als u een Afbeeldingsset maakt, raadt Adobe de volgende aanbevolen procedures aa
 
 ‡ De beste manier is om geen dubbele elementen in een set te hebben. De limiet is 20 duplicaten voor één element. Als u binnen de set nog een duplicaat voor dat element toevoegt, geeft de aanvraag een fout of wordt het duplicaat genegeerd.
 
-Zie ook [ Dynamische beperkingen van Media ](/help/using/limitations.md).
+Zie ook [&#x200B; Dynamische beperkingen van Media &#x200B;](/help/using/limitations.md).
 
 **om een Reeks van het Beeld tot stand te brengen:**
 
@@ -67,7 +67,7 @@ Of u nu een gepubliceerde of een niet-gepubliceerde set bewerkt, de optie **[!UI
 | Nee | Ja | Gepubliceerd | Gepubliceerd |
 | Nee | Nee | Ongepubliceerd | Bestaande leden die zijn ingesteld en eventuele nieuwe leden die u tijdens de bewerking hebt toegevoegd, behouden hun gepubliceerde of niet-gepubliceerde status. |
 
-Zie ook [ manueel het publiceren activa ](publishing-files.md#manually_publishing_assets) en [ manueel unpublishing activa ](publishing-files.md#manually_unpublishing_assets).
+Zie ook [&#x200B; manueel het publiceren activa &#x200B;](publishing-files.md#manually_publishing_assets) en [&#x200B; manueel unpublishing activa &#x200B;](publishing-files.md#manually_unpublishing_assets).
 
 **om een Reeks van het Beeld uit te geven:**
 
@@ -85,7 +85,7 @@ Zie ook [ manueel het publiceren activa ](publishing-files.md#manually_publishin
 
 Wanneer u een set verwijdert, wordt de set zelf naar de prullenbak verplaatst. De leden (of &quot;kinderen&quot;) binnen die set worden echter niet beïnvloed, maar ze behouden hun bestaande gepubliceerde of niet-gepubliceerde status.
 
-Zie ook [ manueel het publiceren activa ](publishing-files.md#manually_publishing_assets) en [ manueel unpublishing activa ](publishing-files.md#manually_unpublishing_assets).
+Zie ook [&#x200B; manueel het publiceren activa &#x200B;](publishing-files.md#manually_publishing_assets) en [&#x200B; manueel unpublishing activa &#x200B;](publishing-files.md#manually_unpublishing_assets).
 
 **om een Reeks van het Beeld te schrappen:**
 

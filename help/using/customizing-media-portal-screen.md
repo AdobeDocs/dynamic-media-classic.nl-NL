@@ -51,4 +51,4 @@ Als u de bedrijfsnaam in de URL opneemt, kan Media Portal zien welk bedrijf een 
 
 U kunt meer leren over het communiceren van URL veranderingen in de gebruikers van het Portaal van Media, en vestiging een Welkome e-mailbericht zodat ontvangen de nieuwe gebruikers correcte Portaal URL van Media.
 
-Zie [ Opstelling het Welkome e-mailbericht voor de gebruikers van het Portaal van Media ](adding-media-portal-users.md#setting_up_the_welcome_e_mail_message_for_media_portal_users).
+Zie [&#x200B; Opstelling het Welkome e-mailbericht voor de gebruikers van het Portaal van Media &#x200B;](adding-media-portal-users.md#setting_up_the_welcome_e_mail_message_for_media_portal_users).

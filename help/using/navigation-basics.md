@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Het Adobe Dynamic Media Classic-scherm bevat drie belangrijke gebieden: de algemene navigatiebalk, de Asset Library, het tabblad Asset Filters, het deelvenster Bladeren/Samenstellen en de Media Cart (alleen Media Portal).
 
-![ de grondbeginselen van de Navigatie ](/help/using/assets/gs_navigation_basics_popup_popup.png)
+![&#x200B; de grondbeginselen van de Navigatie &#x200B;](/help/using/assets/gs_navigation_basics_popup_popup.png)
 *Belangrijkste gebieden van Adobe Dynamic Media Classic*
 *A) Globale bar van de Navigatie B) het paneel van de Bibliotheek van Activa C) het lusje van de Filters van Activa (D) doorbladert paneel E) de Kaart van Media (het Portaal van Media slechts)*
 
@@ -31,7 +31,7 @@ De algemene navigatiebalk, die zich boven aan het scherm bevindt, bevat knoppen 
 
 * **[!UICONTROL Select Company]**: Kies het bedrijf dat u wilt openen in het menu. Deze knop is niet beschikbaar als u met één bedrijf werkt.
 
-* **[!UICONTROL Upload]**: opent het uploadscherm zodat u bestanden van uw computer of netwerk kunt uploaden naar Adobe Dynamic Media Classic. U kunt bestanden uploaden vanaf uw bureaublad of via FTP. Zie [ dossiers ](/help/using/uploading-files.md) uploaden.
+* **[!UICONTROL Upload]**: opent het uploadscherm zodat u bestanden van uw computer of netwerk kunt uploaden naar Adobe Dynamic Media Classic. U kunt bestanden uploaden vanaf uw bureaublad of via FTP. Zie [&#x200B; dossiers &#x200B;](/help/using/uploading-files.md) uploaden.
 
 * **[!UICONTROL Build]**: Kies een bouwsteentaak in het menu. Het deelvenster Samenstellen wordt geopend, zodat u een elementtype kunt maken.
 
@@ -41,7 +41,7 @@ De algemene navigatiebalk, die zich boven aan het scherm bevindt, bevat knoppen 
 
 * **[!UICONTROL Recent]**: opent het scherm Recente activiteiten, zodat u de namen van onlangs gewijzigde middelen en recente upload- en publicatietaken kunt bekijken.
 
-* **[!UICONTROL Setup]**: opent het scherm van de Opstelling zodat kunt u opstelling of beheersopties kiezen om uw gebruik van Adobe Dynamic Media Classic te optimaliseren. Zie [ Opstelling ](/help/using/setup-basics.md).
+* **[!UICONTROL Setup]**: opent het scherm van de Opstelling zodat kunt u opstelling of beheersopties kiezen om uw gebruik van Adobe Dynamic Media Classic te optimaliseren. Zie [&#x200B; Opstelling &#x200B;](/help/using/setup-basics.md).
 
 * **[!UICONTROL Help]** Kies een Help-optie:
 
@@ -71,11 +71,11 @@ In het deelvenster Bladeren/Samenstellen doet u veel van uw werk. Welke functies
 
 * **[!UICONTROL Build mode]**: Selecteer **[!UICONTROL Build]** en kies een optie zodat u een eCatalog, Afbeeldingsset, Draaiset of een van de andere beschikbare items in het menu Opbouwen kunt gaan maken. De pagina Build wordt geopend. U kunt de elementen selecteren waarmee u wilt werken voordat of nadat u de modus Samenstellen hebt geactiveerd.
 
-Zie ook [ de opleidingsvideo van de 1&rbrace; basistechnologie van de Navigatie.](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&emailurl=https://s7d5.scene7.com/s7/emailFriend&serverUrl=https://s7d5.scene7.com/is/image/&config=Scene7SharedAssets/Universal_HTML5_Video&contenturl=https://s7d5.scene7.com/skins/&asset=S7tutorials/571_Navigation%20Basics_converted%20renamed_Getting%20Started-AVS)
+Zie ook [&#x200B; de opleidingsvideo van de 1&rbrace; basistechnologie van de Navigatie.](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&emailurl=https://s7d5.scene7.com/s7/emailFriend&serverUrl=https://s7d5.scene7.com/is/image/&config=Scene7SharedAssets/Universal_HTML5_Video&contenturl=https://s7d5.scene7.com/skins/&asset=S7tutorials/571_Navigation%20Basics_converted%20renamed_Getting%20Started-AVS)
 
 >[!MORELIKETHIS]
 >
->* [ beheert activa ](about-managing-assets.md)
->* [ activa van de Mening in het Browse paneel ](viewing-assets-browse-panel.md#viewing_assets_in_the_browse_panel)
->* [ Selecteer activa in het Browse paneel ](selecting-assets-browse-panel.md#selecting_assets_in_the_browse_panel)
->* [ activa van het Onderzoek ](searching-assets.md#searching_assets)
+>* [&#x200B; beheert activa &#x200B;](about-managing-assets.md)
+>* [&#x200B; activa van de Mening in het Browse paneel &#x200B;](viewing-assets-browse-panel.md#viewing_assets_in_the_browse_panel)
+>* [&#x200B; Selecteer activa in het Browse paneel &#x200B;](selecting-assets-browse-panel.md#selecting_assets_in_the_browse_panel)
+>* [&#x200B; activa van het Onderzoek &#x200B;](searching-assets.md#searching_assets)

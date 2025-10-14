@@ -23,6 +23,6 @@ Alle bestanden op Adobe Dynamic Media Classic bevatten metagegevens. Met metageg
 
 Metagegevens zijn niet nuttig bij zoekopdrachten en middelenorganisatie, tenzij ze correct worden ingevoerd in metagegevensvelden. Als u metagegevens correct wilt invoeren en ervoor wilt zorgen dat alle juiste metagegevensvelden metagegevens bevatten, kunt u voorinstellingen voor metagegevens maken. A *vooraf ingestelde meta-gegevens* is een vooraf bepaalde reeks meta-gegevensingangen. In plaats van zelf metagegevens in te voeren, kunnen gebruikers in de gedetailleerde weergave een voorinstelling voor metagegevens kiezen om metagegevensvelden te vullen met vooraf gedefinieerde gegevens.
 
-Om meta-gegevensvoorinstellingen tot stand te brengen, zie [ Meta-gegevens vooraf instelt ](application-setup.md#metadata_presets).
+Om meta-gegevensvoorinstellingen tot stand te brengen, zie [&#x200B; Meta-gegevens vooraf instelt &#x200B;](application-setup.md#metadata_presets).
 
-Om meta-gegevensgebieden tot stand te brengen die uniek de activa beschrijven u met werkt, zie [ Gebruiker-Gedefinieerde Gebieden ](application-setup.md#user_defined_fields).
+Om meta-gegevensgebieden tot stand te brengen die uniek de activa beschrijven u met werkt, zie [&#x200B; Gebruiker-Gedefinieerde Gebieden &#x200B;](application-setup.md#user_defined_fields).

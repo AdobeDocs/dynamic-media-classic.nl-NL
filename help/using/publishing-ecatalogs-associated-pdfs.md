@@ -37,4 +37,4 @@ Bij publicatie worden uw eCatalog en PDF op Dynamic Media Image Servers geplaats
 
 >[!MORELIKETHIS]
 >
->* [ publiceer dossiers ](publishing-files.md)
+>* [&#x200B; publiceer dossiers &#x200B;](publishing-files.md)

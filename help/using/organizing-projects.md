@@ -27,11 +27,11 @@ U kunt een project maken wanneer u bestanden uploadt of projecten maakt in het d
 
 >[!NOTE]
 >
->Adobe Dynamic Media Classic raadt u aan elementen te ordenen met metagegevens in plaats van met Projecten. Zie [ Mening, voeg, en de uitvoermeta-gegevens ](viewing-adding-exporting-metadata.md) toe.
+>Adobe Dynamic Media Classic raadt u aan elementen te ordenen met metagegevens in plaats van met Projecten. Zie [&#x200B; Mening, voeg, en de uitvoermeta-gegevens &#x200B;](viewing-adding-exporting-metadata.md) toe.
 
 >[!NOTE]
 >
->Voor u om activa in Projecten te organiseren, moet uw beheerder u opstelling hebben om hen te gebruiken. Als u geen sectie van de omslag van Projecten bij de bodem van de Bibliotheek van Assets ziet, is deze methode om activa te organiseren niet beschikbaar aan u. Zie [ Algemene Montages van de Toepassing ](application-setup.md#general-settings).
+>Voor u om activa in Projecten te organiseren, moet uw beheerder u opstelling hebben om hen te gebruiken. Als u geen sectie van de omslag van Projecten bij de bodem van de Bibliotheek van Assets ziet, is deze methode om activa te organiseren niet beschikbaar aan u. Zie [&#x200B; Algemene Montages van de Toepassing &#x200B;](application-setup.md#general-settings).
 
 ## Een projectmap maken {#creating-a-project-folder}
 

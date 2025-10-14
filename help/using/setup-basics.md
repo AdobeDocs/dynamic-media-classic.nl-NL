@@ -34,7 +34,7 @@ Beheerders kunnen ook voorinstellingen voor afbeeldingen en viewers instellen op
 
 >[!MORELIKETHIS]
 >
->* [ Basisopstelling trainende video ](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&emailurl=https://s7d5.scene7.com/s7/emailFriend&serverUrl=https://s7d5.scene7.com/is/image/&config=Scene7SharedAssets/Universal_HTML5_Video&contenturl=https://s7d5.scene7.com/skins/&asset=S7tutorials/573_Setup%20Basics_converted%20renamed_Getting%20Started-AVS)
->* [ Adobe Dynamic Media Classic gebruikersrollen en voorrechten ](administration-setup.md#user_administration)
->* [ Beeld stelt ](application-setup.md#image_presets) vooraf in
->* [ Kijker stelt vooraf in ](application-setup.md#viewer_presets)
+>* [&#x200B; Basisopstelling trainende video &#x200B;](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&emailurl=https://s7d5.scene7.com/s7/emailFriend&serverUrl=https://s7d5.scene7.com/is/image/&config=Scene7SharedAssets/Universal_HTML5_Video&contenturl=https://s7d5.scene7.com/skins/&asset=S7tutorials/573_Setup%20Basics_converted%20renamed_Getting%20Started-AVS)
+>* [&#x200B; Adobe Dynamic Media Classic gebruikersrollen en voorrechten &#x200B;](administration-setup.md#user_administration)
+>* [&#x200B; Beeld stelt &#x200B;](application-setup.md#image_presets) vooraf in
+>* [&#x200B; Kijker stelt vooraf in &#x200B;](application-setup.md#viewer_presets)

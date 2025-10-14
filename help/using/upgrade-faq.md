@@ -68,7 +68,7 @@ Klanten die momenteel [!DNL Dynamic Media Classic] (voorheen Scene7) en ook [!DN
 +++
 
 +++**hoe begin ik het verbeteringsproces?**
-Contacteer uw vertegenwoordiger van het Team van de Rekening van Adobe of [ e-mail s7support@adobe.com ](mailto:s7support@adobe.com) met de onderwerpregel `[!DNL Dynamic Media] Upgrade Program`.
+Contacteer uw vertegenwoordiger van het Team van de Rekening van Adobe of [&#x200B; e-mail s7support@adobe.com &#x200B;](mailto:s7support@adobe.com) met de onderwerpregel `[!DNL Dynamic Media] Upgrade Program`.
 
 +++
 
@@ -108,7 +108,7 @@ Nee. [!DNL Dynamic Media Classic] blijft ononderbroken werken tijdens het upgrad
 +++
 
 +++**zijn alle stappen binnen de Controlelijst van de Bereidheid van de Verbetering vereist?**
-Nee. De [ controlelijst van gereedheid ](/help/using/upgrade-readiness.md) bevat vereiste en facultatieve beste praktijkstappen.
+Nee. De [&#x200B; controlelijst van gereedheid &#x200B;](/help/using/upgrade-readiness.md) bevat vereiste en facultatieve beste praktijkstappen.
 
 +++
 
@@ -218,7 +218,7 @@ Ja. U kunt uw eigen CDN met [!DNL Dynamic Media] gebruiken.
 +++
 
 +++**heeft [!DNL Dynamic Media] de eigenschappen ik nodig zodat kan bevorderen ik? Welke functies zijn beschikbaar met [!DNL Dynamic Media] op [!DNL Experience Manager] Assets?**
-Zie de [ pagina van de Vergelijking van de Eigenschap ](/help/using/upgrade-feature-comparison.md) waar u meer kunt leren.
+Zie de [&#x200B; pagina van de Vergelijking van de Eigenschap &#x200B;](/help/using/upgrade-feature-comparison.md) waar u meer kunt leren.
 
 +++
 
@@ -229,7 +229,7 @@ Klanten die de volgende functies nodig hebben, kunnen toegang blijven houden tot
 * Afbeeldingssjablonen.
 * eCatalogs.
 
-Zie ook de [ pagina van de Vergelijking van de Eigenschap ](/help/using/upgrade-feature-comparison.md) waar u meer kunt leren.
+Zie ook de [&#x200B; pagina van de Vergelijking van de Eigenschap &#x200B;](/help/using/upgrade-feature-comparison.md) waar u meer kunt leren.
 
 +++
 
@@ -255,14 +255,14 @@ De klanten zijn hoofdzakelijk verantwoordelijk voor veranderingsbeheer met inbeg
 ## Ondersteuning en opleiding
 
 +++**Hoe krijg ik steun?**
-24/7/365 De steun van de Zorg van de Cliënt is beschikbaar. [ technische steun van het Contact ](https://experienceleague.adobe.com/nl?support-solution=General#support).
+24/7/365 De steun van de Zorg van de Cliënt is beschikbaar. [&#x200B; technische steun van het Contact &#x200B;](https://experienceleague.adobe.com/nl?support-solution=General#support).
 
 Telefoon: 1-800-898-9743 (VS) | +44 (0)20 35641782 (VK) | +81-3-6743-9632 (Japan)
 
 +++
 
 +++**waar kan ik meer over betaalde opleidingsopties leren?**
-Zie [ Digitale het Leren van Adobe Diensten ](https://learning.adobe.com).
+Zie [&#x200B; Digitale het Leren van Adobe Diensten &#x200B;](https://learning.adobe.com).
 
 Neem voor aangepaste of individuele training contact op met uw Adobe-accountteamvertegenwoordiger.
 
@@ -271,6 +271,6 @@ Neem voor aangepaste of individuele training contact op met uw Adobe-accountteam
 ## Aanvullende bronnen
 
 +++**waar kan ik meer over [!DNL Dynamic Media] en zijn eigenschappen leren?**
-Zie [[!DNL Dynamic Media]  microsite ](https://landing.adobe.com/en/na/dynamic-media/ctir-2755/solutions.html) om meer over [!DNL Dynamic Media] te leren.
+Zie [[!DNL Dynamic Media]  microsite &#x200B;](https://landing.adobe.com/en/na/dynamic-media/ctir-2755/solutions.html) om meer over [!DNL Dynamic Media] te leren.
 
 +++

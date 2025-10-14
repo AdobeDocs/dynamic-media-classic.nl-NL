@@ -25,9 +25,9 @@ Als u een Afbeeldingsset met meerdere weergaven wilt maken, hebt u afbeeldingen 
 
 Omdat gebruikers kunnen inzoomen op afbeeldingen in Afbeeldingssets, moet u ervoor zorgen dat de afbeeldingen ten minste 2000 pixels groot zijn. Adobe Dynamic Media Classic ondersteunt veel bestandsindelingen voor afbeeldingen, maar TIFF-, PNG- en EPS-afbeeldingen zonder gegevensverlies worden aanbevolen.
 
-Voor gedetailleerde instructies bij het uploaden van activa, zie [ dossiers ](uploading-files.md#uploading_files) uploaden.
+Voor gedetailleerde instructies bij het uploaden van activa, zie [&#x200B; dossiers &#x200B;](uploading-files.md#uploading_files) uploaden.
 
 >[!MORELIKETHIS]
 >
->* [ upload uw dossiers ](uploading-files.md#uploading_your_files)
->* [ Werk met vignetten, vensterbekledingen, en kabinetsdossiers ](vignette-window-covering-cabinet-files.md#working_with_vignette_window_covering_and_cabinet_files)
+>* [&#x200B; upload uw dossiers &#x200B;](uploading-files.md#uploading_your_files)
+>* [&#x200B; Werk met vignetten, vensterbekledingen, en kabinetsdossiers &#x200B;](vignette-window-covering-cabinet-files.md#working_with_vignette_window_covering_and_cabinet_files)

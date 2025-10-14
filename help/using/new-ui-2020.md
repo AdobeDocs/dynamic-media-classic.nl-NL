@@ -18,7 +18,7 @@ ht-degree: 0%
 
 # Adobe Dynamic Media Classic Desktop-app: nu beschikbaar {#new-ui-2020}
 
-Zie [ Adobe Dynamic Media Classic Desktop app ](/help/using/dynamic-media-classic-desktop-app.md) om systeemvereisten te herzien, nieuwe app te downloaden en te installeren, en dan binnen aan het te ondertekenen.
+Zie [&#x200B; Adobe Dynamic Media Classic Desktop app &#x200B;](/help/using/dynamic-media-classic-desktop-app.md) om systeemvereisten te herzien, nieuwe app te downloaden en te installeren, en dan binnen aan het te ondertekenen.
 
 ## _Laatste revisie 30 juni, 2020_
 
@@ -33,7 +33,7 @@ Adobe Flash Player was een insteekmodule voor de webbrowser waarmee webbrowsers 
 +++**_hoe heb ik toegang tot nieuwe Desktop app?_**
 De nieuwe bureaubladtoepassing is beschikbaar als een `.dmg` installatieprogramma voor macOS of als een `.exe` installatieprogramma voor Windows®.
 
-Zie [ Adobe Dynamic Media Classic Desktop app ](/help/using/dynamic-media-classic-desktop-app.md) om systeemvereisten te herzien, te downloaden, en nieuwe app te installeren, en dan binnen aan het te ondertekenen.
+Zie [&#x200B; Adobe Dynamic Media Classic Desktop app &#x200B;](/help/using/dynamic-media-classic-desktop-app.md) om systeemvereisten te herzien, te downloaden, en nieuwe app te installeren, en dan binnen aan het te ondertekenen.
 +++
 
 <!-- NEWSLETTER IS DEAD The download links are also available by way of the [Adobe Dynamic Media Classic newsletter subscription page.](https://www.adobe.com/subscription/dynamic-media-newsletter.html) -->
@@ -94,20 +94,20 @@ Neem contact op met Adobe Support voor alle problemen die u hebt tijdens het geb
 +++**_ik wil ervoor zorgen ik mijn rijke media strategie optimaliseer. Hoe kan ik nog meer leren over Adobe Dynamic Media Classic?_** 
 Adobe Dynamic Media Classic is een krachtige, veelzijdige oplossing die is ontworpen om uw geavanceerde mediastrategieën te verbeteren. Om ervoor te zorgen dat u alle mogelijkheden benut, zorg ervoor u deze praktische middelen verkent:
 
-* [ het Leerprogramma van de Beste praktijken van Adobe Dynamic Media Classic ](https://experienceleague.adobe.com/nl/docs/experience-manager-learn/dynamic-media-classic-tutorial/overview)
-* [ Blogberichten van Adobe ](https://blog.adobe.com/) <!-- (https://blog.adobe.com/tag/dynamic-media/) -->
-* [ de Dynamische Archives van de Media van Adobe de Nieuwsbrief ](https://experienceleague.adobe.com/nl/docs/dynamic-media-classic/using/dynamic-media-newsletter)
+* [&#x200B; het Leerprogramma van de Beste praktijken van Adobe Dynamic Media Classic &#x200B;](https://experienceleague.adobe.com/nl/docs/experience-manager-learn/dynamic-media-classic-tutorial/overview)
+* [&#x200B; Blogberichten van Adobe &#x200B;](https://blog.adobe.com/) <!-- (https://blog.adobe.com/tag/dynamic-media/) -->
+* [&#x200B; de Dynamische Archives van de Media van Adobe de Nieuwsbrief &#x200B;](https://experienceleague.adobe.com/nl/docs/dynamic-media-classic/using/dynamic-media-newsletter)
 +++
 
 <!-- HIDDEN AUGUST 2, 2021 BECAUSE THE NEWSLETTER WAS DISCONTINUED Plus, [subscribe to the Dynamic Media newsletter](https://www.adobe.com/subscription/dynamic-media-newsletter.html) to stay current on the latest news, information, training opportunities, powerful features available to you such as [Smart Imaging](https://experienceleague.adobe.com/docs/experience-manager-65/assets/dynamic/imaging-faq.html?lang=nl-NL), and the complementary audit program. -->
 
 +++**_ik ben geinteresseerd in het leren meer over bevordering aan de Dynamische Media van Adobe met Adobe Experience Manager Assets. Waar kan ik meer informatie vinden?_**
-Meer over de voordelen van de bevordering aan de volgende generatie van rijke media authoring, het publiceren, en dynamische levering leren, bezoek het [ Dynamische portaal van Media van Adobe voor bevordering ](/help/using/upgrade.md).
+Meer over de voordelen van de bevordering aan de volgende generatie van rijke media authoring, het publiceren, en dynamische levering leren, bezoek het [&#x200B; Dynamische portaal van Media van Adobe voor bevordering &#x200B;](/help/using/upgrade.md).
 +++
 
 >[!MORELIKETHIS]
 >
->* [ Teken binnen aan en uit de Desktoptoepassing van Adobe Dynamic Media Classic ](/help/using/signing-out.md)
->* [ Download en installeer de Desktoptoepassing van Adobe Dynamic Media Classic ](/help/using/dynamic-media-classic-desktop-app.md)
+>* [&#x200B; Teken binnen aan en uit de Desktoptoepassing van Adobe Dynamic Media Classic &#x200B;](/help/using/signing-out.md)
+>* [&#x200B; Download en installeer de Desktoptoepassing van Adobe Dynamic Media Classic &#x200B;](/help/using/dynamic-media-classic-desktop-app.md)
 
 <!-- SAVE: OLD LINK TO BEST PRACTICES GUIDE IN PDF https://www.adobe.com/content/dam/www/us/en/marketing/experience-manager-assets/dynamic-media/adobe-dynamic-media-classic-best-practices-guide.pdf -->

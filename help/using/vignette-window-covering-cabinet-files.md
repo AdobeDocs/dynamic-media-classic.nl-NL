@@ -27,4 +27,4 @@ Upload vignetten, vensterbekledingen, en cabinets zoals u een ander dossier.
 
 >[!MORELIKETHIS]
 >
->* [ Kijker stelt vooraf in ](application-setup.md#viewer_presets)
+>* [&#x200B; Kijker stelt vooraf in &#x200B;](application-setup.md#viewer_presets)

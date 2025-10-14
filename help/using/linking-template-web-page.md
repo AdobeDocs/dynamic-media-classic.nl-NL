@@ -41,4 +41,4 @@ Als u een sjabloon aan uw webpagina wilt toevoegen, neemt u contact op met het o
 
 >[!MORELIKETHIS]
 >
->* [ voeg dynamische beelden aan uw Web-pagina toe ](linking-urls-web-application.md#adding_dynamic_images_to_your_web_page)
+>* [&#x200B; voeg dynamische beelden aan uw Web-pagina toe &#x200B;](linking-urls-web-application.md#adding_dynamic_images_to_your_web_page)

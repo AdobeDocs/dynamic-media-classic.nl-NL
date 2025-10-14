@@ -21,9 +21,9 @@ ht-degree: 0%
 
 In het scherm Viewer List kunt u een voorvertoning van afbeeldingen weergeven met verschillende voorinstellingen voor de zoomviewer.
 
-Zie [ standaardkijkers ](application-setup.md#configuring_default_viewers) vormen.
+Zie [&#x200B; standaardkijkers &#x200B;](application-setup.md#configuring_default_viewers) vormen.
 
-Zie [ Voorproef een activa ](previewing-asset.md#previewing_an_asset).
+Zie [&#x200B; Voorproef een activa &#x200B;](previewing-asset.md#previewing_an_asset).
 
 **aan voorproef beeldactiva met verschillende Kijkers van het Gezoem:**
 
@@ -41,5 +41,5 @@ Zie [ Voorproef een activa ](previewing-asset.md#previewing_an_asset).
 
 >[!MORELIKETHIS]
 >
->* [ de Kijker van het Pop-up Gezoem vooraf instelt ](setting-zoom-viewer-presets.md#setting_up_zoom_viewer_presets)
->* [ vorm standaardkijkers ](application-setup.md#configuring_default_viewers)
+>* [&#x200B; de Kijker van het Pop-up Gezoem vooraf instelt &#x200B;](setting-zoom-viewer-presets.md#setting_up_zoom_viewer_presets)
+>* [&#x200B; vorm standaardkijkers &#x200B;](application-setup.md#configuring_default_viewers)

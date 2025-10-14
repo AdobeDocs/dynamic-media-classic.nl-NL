@@ -25,16 +25,16 @@ Dynamic Media Classic biedt training in de vorm van videotraining, workshops ond
 
 Adobe Training Services biedt een diepgaande, aangepaste lesruimtetraining die speciaal voor uw organisatie is ontworpen. De opleiding kan de vorm van regionale universitaire klassen, Web-based zittingen, of douane onsite workshops nemen. Regionale klassen zijn open voor alle klanten en worden periodiek bijgehouden op verschillende locaties in Noord-Amerika en EMEA. Aangepaste sessies kunnen worden toegesneden op geavanceerde gebruikers, eindgebruikers, beheerders en IT-medewerkers.
 
-Zie [ de Trainingsdiensten van Adobe ](https://learning.adobe.com/)
+Zie [&#x200B; de Trainingsdiensten van Adobe &#x200B;](https://learning.adobe.com/)
 
 ## Demos
 
 Demonstraties van Adobe Dynamic Media Classic-viewerfuncties bekijken.
 
-Zie [ Demo&#39;s ](https://landing.adobe.com/en/na/dynamic-media/ctir-2755/live-demos.html).
+Zie [&#x200B; Demo&#39;s &#x200B;](https://landing.adobe.com/en/na/dynamic-media/ctir-2755/live-demos.html).
 
 ## Aan de slag-hoofdstuk van Help
 
 In het gedeelte Aan de slag van het Help-systeem vindt u instructies voor nieuwe gebruikers van Adobe Dynamic Media Classic. Het legt de grondbeginselen van het programma, navigatie, opstelling, middelenbeheer, en de bouw van rijke media uit.
 
-Zie [ begonnen worden ](dmc-platform-overview.md).
+Zie [&#x200B; begonnen worden &#x200B;](dmc-platform-overview.md).
