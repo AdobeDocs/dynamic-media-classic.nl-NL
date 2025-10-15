@@ -18,14 +18,14 @@ ht-degree: 0%
 
 ## Adobe Dynamic Media Classic - Technische documentatie
 
-* [&#x200B; de Nota&#39;s van de Versie &#x200B;](https://experienceleague.adobe.com/en/docs/dynamic-media-developer-resources/release-notes/s7rn2017)
+* [&#x200B; de Nota&#39;s van de Versie &#x200B;](https://experienceleague.adobe.com/nl/docs/dynamic-media-developer-resources/release-notes/s7rn2017)
 * [Handboek](introduction.md)
 
 ## Adobe Dynamic Media Classic Developer Resources
 
-* [&#x200B; de Gids van de Verwijzing van de Kijkers van Adobe &#x200B;](https://experienceleague.adobe.com/en/docs/dynamic-media-developer-resources)
+* [&#x200B; de Gids van de Verwijzing van de Kijkers van Adobe &#x200B;](https://experienceleague.adobe.com/nl/docs/dynamic-media-developer-resources)
 * [&#x200B; de Voorbeelden van de Bibliotheek van de Kijker &#x200B;](https://landing.adobe.com/en/na/dynamic-media/ctir-2755/live-demos.html)
-* [&#x200B; Beeld dat en Beeld teruggeeft API &#x200B;](https://experienceleague.adobe.com/en/docs/dynamic-media-developer-resources)
+* [&#x200B; Beeld dat en Beeld teruggeeft API &#x200B;](https://experienceleague.adobe.com/nl/docs/dynamic-media-developer-resources)
 
 ## Adobe Dynamic Media Classic-nieuwsbrieven, zelfstudies en webinars
 
@@ -42,6 +42,6 @@ ht-degree: 0%
 ## Adobe Dynamic Media Classic Training
 
 Ga [&#x200B; hier &#x200B;](https://training.adobe.com/training/courses.html#product=adobe-scene7) om de opleidingscursussen te zien die momenteel beschikbaar zijn.
-[&#x200B; Adobe Dynamic Media Classic trainingsvideo&#39;s &#x200B;](https://experienceleague.adobe.com/en/docs/dynamic-media-classic/using/intro/training-videos#intro).
+[&#x200B; Adobe Dynamic Media Classic trainingsvideo&#39;s &#x200B;](https://experienceleague.adobe.com/nl/docs/dynamic-media-classic/using/intro/training-videos#intro).
 
 Zie alle populaire middelen beschikbaar voor [&#x200B; Adobe Dynamic Media Classic &#x200B;](home.md).
