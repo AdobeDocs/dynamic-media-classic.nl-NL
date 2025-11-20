@@ -22,7 +22,7 @@ ht-degree: 0%
    + [Vergelijking van lijst met functies](upgrade-feature-comparison.md)
    + [Controlelijst voor gereedheid voor upgrade](upgrade-readiness.md)
 + [Adobe Dynamic Media Classic Guide](home.md)
-+ [ het Leerprogramma van de Beste praktijken van Adobe Dynamic Media Classic ](https://experienceleague.adobe.com/en/docs/experience-manager-learn/dynamic-media-classic-tutorial/overview)
++ [&#x200B; het Leerprogramma van de Beste praktijken van Adobe Dynamic Media Classic &#x200B;](https://experienceleague.adobe.com/en/docs/experience-manager-learn/dynamic-media-classic-tutorial/overview)
 + [Aanmelden bij NIEUWE Adobe Dynamic Media Classic nu beschikbaar](new-ui-2020.md)
 + [Adobe Dynamic Media-nieuwsarchief door Experience League](dynamic-media-newsletter.md)
 + Introductie van Adobe Dynamic Media Classic {#intro}
