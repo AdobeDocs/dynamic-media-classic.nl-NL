@@ -18,7 +18,7 @@ ht-degree: 0%
 
 # Bestanden uploaden{#uploading-files}
 
-Voordat u bestanden met elementen uploadt naar Adobe Dynamic Media Classic, moet u controleren of de elementbestanden een juiste naam hebben. En zorg ervoor dat uw omslagstructuur opstelling en georganiseerd is zoals u wilt. U kunt bestanden uploaden vanaf een door Adobe Dynamic Media Classic verschafte FTP-site of rechtstreeks vanaf uw computer of netwerk. Adobe Dynamic Media Classic biedt opties voor het optimaliseren van bestanden tijdens het uploaden. Als u de Adobe Dynamic Media Classic Desktop-toepassing hebt geïnstalleerd, kunt u bestanden en mappen uploaden door deze rechtstreeks vanaf uw bureaublad te slepen. Zie [ Algemene Montages van de Toepassing ](application-setup.md#general_settings).
+Voordat u bestanden met elementen uploadt naar Adobe Dynamic Media Classic, moet u controleren of de elementbestanden een juiste naam hebben. En zorg ervoor dat uw omslagstructuur opstelling en georganiseerd is zoals u wilt. U kunt bestanden uploaden vanaf een door Adobe Dynamic Media Classic verschafte FTP-site of rechtstreeks vanaf uw computer of netwerk. Adobe Dynamic Media Classic biedt opties voor het optimaliseren van bestanden tijdens het uploaden. Als u de Adobe Dynamic Media Classic Desktop-toepassing hebt geïnstalleerd, kunt u bestanden en mappen uploaden door deze rechtstreeks vanaf uw bureaublad te slepen. Zie [&#x200B; Algemene Montages van de Toepassing &#x200B;](application-setup.md#general_settings).
 
 ## Elementen en mappen voorbereiden voor uploaden {#preparing-your-assets-and-folders-for-uploading}
 
@@ -26,7 +26,7 @@ Voordat u elementen uploadt naar Adobe Dynamic Media Classic, moet u controleren
 
 ### Ondersteunde bestandsindelingen {#supported-asset-file-formats}
 
-In deze tabel worden de bestandsindelingen weergegeven die door Adobe Dynamic Media Classic worden ondersteund. Voor informatie over gesteunde dossiers van Camera Raw, zie [ https://helpx.adobe.com/camera-raw/using/supported-cameras.html ](https://helpx.adobe.com/camera-raw/using/supported-cameras.html).
+In deze tabel worden de bestandsindelingen weergegeven die door Adobe Dynamic Media Classic worden ondersteund. Voor informatie over gesteunde dossiers van Camera Raw, zie [&#x200B; https://helpx.adobe.com/camera-raw/using/supported-cameras.html &#x200B;](https://helpx.adobe.com/camera-raw/using/supported-cameras.html).
 
 | Indelingen voor elementbestanden | Beschrijving |
 | --- | --- |
@@ -72,7 +72,7 @@ Voor optimale resultaten met het Adobe Dynamic Media Classic-programma moet u de
 | Afbeeldingen (voor Afbeeldingsgrootte, Zoomen, Afbeeldingssets, Spin-sets) | Afbeeldingen moeten ten minste 2000 pixels groot zijn. De meeste afbeeldingen hebben een maximale grootte van 1500 tot 2500 pixels. Het wordt aanbevolen afbeeldingen zonder verlies in te stellen, zoals TIFF- en PNG-bestanden. Als u een JPEG-afbeelding gebruikt, gebruikt u de instellingen voor de hoogste kwaliteit. GIF-bestanden met animatie worden op dezelfde manier verwerkt als andere statische inhoud. |
 | eCatalogs | Gebruik PDF-bestanden met hoge resolutie die zijn gemaakt in Adobe Acrobat of een Adobe Creative Suite-toepassing die zijn opgeslagen als &#39;geschikt voor drukpers&#39;. PDF&#39;s bevatten alle benodigde fonts, afbeeldingen en maskers. En neem alle benodigde grafische elementen waarnaar wordt verwezen op, zoals enkele pagina&#39;s, spreads met twee pagina&#39;s of in een indeling met meerdere pagina&#39;s. Volgorde uw pagina&#39;s door de dossiers in alfanumerieke orde te noemen. Plaats alle PDF&#39;s voor uw eCatalog in één map, zodat u ze eenvoudig kunt uploaden. U kunt opties voor uitsnijden selecteren bij het uploaden om het bijsnijdgebied van PDF&#39;s te verwijderen, zoals snijtekens, registratiedoelen of kleurenbalken. De meeste PDF-bestanden die klaar zijn voor gebruik op de drukpers bevinden zich in de CMYK-kleurruimte. Het is daarom belangrijk dat u het CMYK ICC-kleurprofiel opgeeft dat wordt gebruikt bij uw PDF-bestanden. |
 | Sjablonen | Een gelaagde afbeelding of lay-outontwerp dat tekst, afbeeldingen en lagen kan bevatten. Afbeeldingslagen, tekstreeksen en kenmerken, zoals kleur en grootte, kunnen worden geparametereerd zodat variabele gegevens kunnen worden aangepast. Afbeeldingsvereisten voor gebruik in sjablonen zijn gelijk aan die voor andere afbeeldingen. Bereid uw afbeeldingen voor in Photoshop of een ander beeldbewerkingsprogramma. Sla elke afbeelding op als een samengevoegd transparant bestand in TIFF- of PNG-indeling. Zorg ervoor dat de afbeeldingsresolutie geschikt is voor het verwachte gebruik. Afbeeldingen die u wilt afdrukken, zijn 300 ppi. |
-| Video&#39;s | Adobe Dynamic Media Classic ondersteunt videobestanden die zijn opgeslagen in de indeling OGV en MP4. U kunt bestanden tijdens het uploaden naar MP4-indeling transcoderen. Zie [ Ondersteunde formaten van het activadossier ](#supported-static-file-formats). |
+| Video&#39;s | Adobe Dynamic Media Classic ondersteunt videobestanden die zijn opgeslagen in de indeling OGV en MP4. U kunt bestanden tijdens het uploaden naar MP4-indeling transcoderen. Zie [&#x200B; Ondersteunde formaten van het activadossier &#x200B;](#supported-static-file-formats). |
 | Lettertypen | Geüpload TrueType, `Type1` (alleen Windows®), OpenType®-lettertypen en PhotoFonts. |
 | Afbeeldingen | Afbeeldingen en gelaagde afbeeldingsbestanden. |
 | Afbeeldingssets en stalensets | Een reeks verwante afbeeldingen die in een viewer kunnen worden weergegeven. |
@@ -153,7 +153,7 @@ U kunt afzonderlijke bestanden uploaden vanaf het bureaublad of via FTP mappen u
 
 Adobe Dynamic Media Classic stuurt je een e-mailbericht om te bevestigen wanneer je uploadtaak begint en eindigt en om je op de hoogte te stellen van eventuele problemen.
 
-Tijdens (of direct na) een grote uploadtaak kunnen sommige nieuwe items het bericht &quot;Afbeelding nog niet geoptimaliseerd&quot; weergeven. Dit bericht wordt weergegeven omdat de bestanden nog niet volledig zijn verwerkt en aan Adobe Dynamic Media Classic zijn toegevoegd. U kunt deze bestanden later optimaliseren. Zie [ dossiers ](application-setup.md#optimize_files) optimaliseren.
+Tijdens (of direct na) een grote uploadtaak kunnen sommige nieuwe items het bericht &quot;Afbeelding nog niet geoptimaliseerd&quot; weergeven. Dit bericht wordt weergegeven omdat de bestanden nog niet volledig zijn verwerkt en aan Adobe Dynamic Media Classic zijn toegevoegd. U kunt deze bestanden later optimaliseren. Zie [&#x200B; dossiers &#x200B;](application-setup.md#optimize_files) optimaliseren.
 
 ### Bestanden uploaden met het tabblad Van bureaublad {#upload-files-using-sps-desktop-application}
 
@@ -162,15 +162,15 @@ Met de Adobe Dynamic Media Classic Desktop-toepassing kunt u bestanden en mappen
 1. Selecteer **[!UICONTROL Upload]** in de Adobe Dynamic Media Classic Desktop-toepassing op de algemene navigatiebalk.
 1. Selecteer op de pagina Uploaden de tab **[!UICONTROL From Desktop]** .
 1. Selecteer links op de pagina Uploaden in het gebied **[!UICONTROL Select Files for Upload]** de optie **[!UICONTROL Browse]** om de bestanden of mappen te selecteren die u wilt uploaden, en selecteer vervolgens **[!UICONTROL Open]** .
-1. Op de rechterkant van de Upload pagina, in het gekozen **gebied van de Bestemming van de 1} omslag, navigeer aan een bestemmingsomslag waar u de geuploade dossiers of toegevoegde omslagen wilt.**
-1. (Optioneel) Voer onder aan de pagina Uploaden in het tekstveld Taaknaam de nieuwe naam van de uploadtaak in. U kunt ook gewoon de standaardnaam gebruiken die door het systeem wordt gegenereerd en die door Adobe Dynamic Media Classic wordt opgegeven. Upload- en publicatietaken worden opgenomen op de pagina Taken, waar u de status van taken kunt controleren. Zie [ Controlerend baandossiers ](checking-job-files.md#checking_job_files).
+1. Op de rechterkant van de Upload pagina, in het gekozen **gebied van de Bestemming van de 1&rbrace; omslag, navigeer aan een bestemmingsomslag waar u de geuploade dossiers of toegevoegde omslagen wilt.**
+1. (Optioneel) Voer onder aan de pagina Uploaden in het tekstveld Taaknaam de nieuwe naam van de uploadtaak in. U kunt ook gewoon de standaardnaam gebruiken die door het systeem wordt gegenereerd en die door Adobe Dynamic Media Classic wordt opgegeven. Upload- en publicatietaken worden opgenomen op de pagina Taken, waar u de status van taken kunt controleren. Zie [&#x200B; Controlerend baandossiers &#x200B;](checking-job-files.md#checking_job_files).
 1. (Optioneel) Selecteer **[!UICONTROL Publish After Uploading]** onder aan de pagina Uploaden, zodat u de elementen die u uploadt automatisch kunt publiceren.
 Wanneer u bestanden publiceert, worden deze naar live servers verzonden. URL&#39;s voor deze bestanden kunnen vervolgens worden gebruikt op externe websites en toepassingen. Deze optie is ook beschikbaar in het dialoogvenster Taakopties.
 1. (Optioneel) Selecteer onder aan de pagina Uploaden **[!UICONTROL Overwrite in any folder, same base asset name regardless of extension]** als u wilt dat de bestanden die u uploadt, bestaande bestanden vervangen door dezelfde naam. Deze optie is ook beschikbaar in het dialoogvenster Taakopties.
 De naam van deze optie kan verschillen, afhankelijk van de instellingen in **[!UICONTROL Application Setup]** > **[!UICONTROL General Settings]** > **[!UICONTROL Upload to Application]** > **[!UICONTROL Overwrite Images]** .
 1. Selecteer **[!UICONTROL Job Options]** in de rechterbenedenhoek van de pagina Uploaden en geef de gewenste opties op.
 
-   Zie [ opties uploaden ](uploading-files.md#upload_options).
+   Zie [&#x200B; opties uploaden &#x200B;](uploading-files.md#upload_options).
 
 1. Selecteer **[!UICONTROL Save]** in het dialoogvenster Taakopties uploaden.
 1. Selecteer **[!UICONTROL Submit Upload]** in de rechterbenedenhoek van de pagina Uploaden.
@@ -184,7 +184,7 @@ Selecteer **[!UICONTROL Jobs]** op de algemene navigatiebalk om de voortgang van
 1. Kies links op de pagina Uploaden in het gebied **[!UICONTROL Choose FTP Folder For Upload]** een FTP-map waaruit u bestanden wilt uploaden.
 1. Kies rechts van de pagina Uploaden in het gekozen **[!UICONTROL Adobe Dynamic Media Folder Destination]** -gebied een doelmap in Adobe Dynamic Media Classic.
 1. (Optioneel) Voer onder aan de pagina Uploaden in het tekstveld Taaknaam de nieuwe naam van de uploadtaak in. U kunt ook gewoon de standaardnaam gebruiken die door het systeem wordt gegenereerd en die door Adobe Dynamic Media Classic wordt opgegeven. Upload- en publicatietaken worden opgenomen op de pagina Taken, waar u de status van taken kunt controleren.
-Zie [ Controlerend baandossiers ](checking-job-files.md#checking_job_files).
+Zie [&#x200B; Controlerend baandossiers &#x200B;](checking-job-files.md#checking_job_files).
 1. (Optioneel) Selecteer **[!UICONTROL Publish After Upload]** onder aan de pagina Uploaden, zodat u de elementen die u uploadt automatisch kunt publiceren.
 Wanneer u bestanden publiceert, worden deze naar live servers verzonden. URL&#39;s voor deze bestanden kunnen vervolgens worden gebruikt op externe websites en toepassingen. Deze optie is ook beschikbaar in het dialoogvenster Taakopties.
 1. (Optioneel) Selecteer onder aan de pagina Uploaden **[!UICONTROL Overwrite in any folder, same base asset name regardless of extension]** als u wilt dat de bestanden die u uploadt, bestaande bestanden vervangen door dezelfde naam. Deze optie is ook beschikbaar in het dialoogvenster Taakopties.
@@ -192,7 +192,7 @@ De naam van deze optie kan verschillen, afhankelijk van de instellingen in **[!U
 1. Optioneel; alleen beschikbaar als u de tab **[!UICONTROL VIA FTP]** hebt geselecteerd. Selecteer **[!UICONTROL Uncompress Zip or Tar Files on Upload]** onder aan de pagina Uploaden, zodat u automatisch alle bestanden kunt extraheren uit het geüploade ZIP- of TAR-bestand. Deze optie is ook beschikbaar in het dialoogvenster Taakopties.
 1. Selecteer **[!UICONTROL Job Options]** in de rechterbenedenhoek van de pagina Uploaden en geef de gewenste opties op.
 
-   Zie [ opties uploaden ](uploading-files.md#upload_options).
+   Zie [&#x200B; opties uploaden &#x200B;](uploading-files.md#upload_options).
 
 1. Selecteer **[!UICONTROL Save]** in het dialoogvenster Taakopties uploaden.
 1. Selecteer **[!UICONTROL Submit Upload]** in de rechterbenedenhoek van de pagina Uploaden.
@@ -217,7 +217,7 @@ Bij het uploaden van bestanden kunt u uit de volgende opties kiezen in het dialo
          * **[!UICONTROL Daily]**: stel de tijd in waarop de taak elke dag moet worden uitgevoerd. Selecteer **[!UICONTROL Weekdays Only]** als u de taak slechts van maandag tot en met vrijdag wilt uitvoeren.
          * **[!UICONTROL Weekly]**: Kies een specifieke dag van de week en tijd waarop de taak moet worden uitgevoerd.
          * **[!UICONTROL Monthly]**: Kies een specifieke dag van de maand of de dag van de week, inclusief de begintijd, waarop de taak moet worden uitgevoerd.
-         * **[!UICONTROL Custom]**: Pas een upload of publiceertaaktijdinterval aan uw eigen specificaties aan. Zie [ een douane creëren uploadt of publiceert het interval van de baantijd ](checking-job-files.md#creating-a-custom-upload-or-publish-job-time-interval).
+         * **[!UICONTROL Custom]**: Pas een upload of publiceertaaktijdinterval aan uw eigen specificaties aan. Zie [&#x200B; een douane creëren uploadt of publiceert het interval van de baantijd &#x200B;](checking-job-files.md#creating-a-custom-upload-or-publish-job-time-interval).
 
    * **[!UICONTROL Publish After Uploading]**: beschikbaar als u de tab **[!UICONTROL FROM DESKTOP]** of de tab **[!UICONTROL VIA FTP]** hebt geselecteerd. Selecteer deze optie zodat u de elementen die u uploadt automatisch kunt publiceren. Wanneer u bestanden publiceert, worden deze naar live servers verzonden. URL&#39;s voor deze bestanden kunnen vervolgens worden gebruikt op externe websites en toepassingen. Deze optie is ook beschikbaar op de Upload pagina.
 
@@ -230,7 +230,7 @@ Selecteer deze optie zodat u automatisch alle bestanden kunt extraheren uit het 
 Selecteer deze optie als u submappen wilt uploaden van de map die u wilt uploaden. De namen van de map en de submappen die u uploadt, worden automatisch ingevoerd in Adobe Dynamic Media Classic.
 
    * **[!UICONTROL Process metadata files]**: Alleen beschikbaar als u de tab **[!UICONTROL VIA FTP]** hebt geselecteerd. Selecteer deze optie als u een door tabs gescheiden of XML-bestand wilt uploaden om metagegevens aan meerdere elementen toe te voegen.
-Zie [ meta-gegevens van de Invoer (via FTP) ](viewing-adding-exporting-metadata.md#import-metadata).
+Zie [&#x200B; meta-gegevens van de Invoer (via FTP) &#x200B;](viewing-adding-exporting-metadata.md#import-metadata).
 
 * **de opties van het Gewas**: Snijd automatisch wit-ruimte pixel van een beeld. Open het menu **[!UICONTROL Crop]** , selecteer **[!UICONTROL Manual]** en voer pixelmetingen in in de tekstvelden Boven, Rechts, Onder en Links om vanaf de zijkanten uit te snijden. U kunt ook **[!UICONTROL Trim]** selecteren in het menu Uitsnijden en de volgende opties kiezen:
 
@@ -248,31 +248,31 @@ Bijsnijden op basis van transparantie: geef 0 op om pixels alleen bij te snijden
    * **[!UICONTROL Custom From]** > **[!UICONTROL To]** : opent menu&#39;s, zodat u een **[!UICONTROL Convert From]** - en **[!UICONTROL Convert To]** kleurruimte kunt kiezen. Deze geavanceerde optie negeert alle kleurinformatie die in het bronbestand is ingesloten. Selecteer deze optie alleen als alle afbeeldingen die u verzendt onjuiste of ontbrekende kleurprofielgegevens bevatten.
 
 * **Beeld geeft opties uit**: U kunt het knippen &lt;> maskers in beelden bewaren, en een kleurenprofiel kiezen.
-Zie [ Afbeelding verfijnen opties bij uploaden ](image-editing-options-upload.md#image-editing-options-at-upload).
+Zie [&#x200B; Afbeelding verfijnen opties bij uploaden &#x200B;](image-editing-options-upload.md#image-editing-options-at-upload).
 
 * **de opties van PostScript®**: U kunt PostScript® dossiers rasteren, dossiers bebouwen, transparante achtergronden handhaven, een resolutie kiezen, en een kleurenruimte kiezen.
-Zie [ Werk met PostScript en de dossiers van Illustrator ](postscript-illustrator-files.md#working_with_postscript_and_illustrator_files).
+Zie [&#x200B; Werk met PostScript en de dossiers van Illustrator &#x200B;](postscript-illustrator-files.md#working_with_postscript_and_illustrator_files).
 
 * **de opties van Photoshop**: U kunt malplaatjes van Adobe® Photoshop®- dossiers tot stand brengen, lagen handhaven, specificeren hoe de lagen worden genoemd, tekst halen, en specificeren hoe de beelden in malplaatjes worden verankerd.
-Zie [ PSD uploadt opties ](psd-files.md#psd_upload_options).
+Zie [&#x200B; PSD uploadt opties &#x200B;](psd-files.md#psd_upload_options).
 
 * **de opties van PDF**: U kunt de dossiers rasteren, onderzoekswoorden en verbindingen halen, auto-produceren een eCatalog, de resolutie plaatsen, en een kleurenruimte kiezen.
-Zie [ PDF uploadt opties ](pdfs.md#pdf_upload_options).
+Zie [&#x200B; PDF uploadt opties &#x200B;](pdfs.md#pdf_upload_options).
 
 * **de opties van Illustrator**: U kunt Adobe Illustrator® dossiers rasteren, transparante achtergronden handhaven, een resolutie kiezen, en een kleurenruimte kiezen.
-Zie [ Werk met PostScript en de dossiers van Illustrator ](postscript-illustrator-files.md#working_with_postscript_and_illustrator_files).
+Zie [&#x200B; Werk met PostScript en de dossiers van Illustrator &#x200B;](postscript-illustrator-files.md#working_with_postscript_and_illustrator_files).
 
 * **de opties van EVIDEO**: U kunt een videodossier transcoderen door een Video vooraf ingestelde te kiezen.
-Zie [ Werk met video het coderen voorinstellingen ](uploading-encoding-videos.md#working_with_video_encoding_presets).
+Zie [&#x200B; Werk met video het coderen voorinstellingen &#x200B;](uploading-encoding-videos.md#working_with_video_encoding_presets).
 
 * **Meer Meta-gegevens**: Ga sleutelwoorden in die de dossiers beschrijven u van plan bent te uploaden. Trefwoorden worden door komma&#39;s van elkaar gescheiden. Met trefwoorden kunt u gemakkelijker naar elementen zoeken.
-Zie [ een geavanceerd onderzoek ](searching-assets.md#conducting_an_advanced_search) voeren.
-Zie ook [ sleutelwoorden ](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&emailurl=https://s7d5.scene7.com/s7/emailFriend&serverUrl=https://s7d5.scene7.com/is/image/&config=Scene7SharedAssets/Universal_HTML5_Video&contenturl=https://s7d5.scene7.com/skins/&asset=S7tutorials/548_upload-keywords_converted%20renamed_Done-AVS) opleidingsvideo uploaden.
+Zie [&#x200B; een geavanceerd onderzoek &#x200B;](searching-assets.md#conducting_an_advanced_search) voeren.
+Zie ook [&#x200B; sleutelwoorden &#x200B;](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&emailurl=https://s7d5.scene7.com/s7/emailFriend&serverUrl=https://s7d5.scene7.com/is/image/&config=Scene7SharedAssets/Universal_HTML5_Video&contenturl=https://s7d5.scene7.com/skins/&asset=S7tutorials/548_upload-keywords_converted%20renamed_Done-AVS) opleidingsvideo uploaden.
 
 * **de Reeks van de Partij stelt vooraf in**: Om een Reeks van het Beeld, Reeks van de Rotatie, of Reeks van het Monster van de geupload dossiers tot stand te brengen, selecteer de **[!UICONTROL Active]** kolom voor vooraf ingesteld u wilt gebruiken. U kunt meerdere voorinstellingen selecteren. U kunt de voorinstellingen maken op de pagina Voorinstellingen voor toepassingsinstellingen/batchsets.
-Zie [ Reeks van de Partij vooraf instelt ](application-setup.md#batch_set_presets).
+Zie [&#x200B; Reeks van de Partij vooraf instelt &#x200B;](application-setup.md#batch_set_presets).
 
-* **Geavanceerd**: Zie [ uploaden met een andere baan ](uploading-files.md#follow-an-upload-with-another-job) volgen.
+* **Geavanceerd**: Zie [&#x200B; uploaden met een andere baan &#x200B;](uploading-files.md#follow-an-upload-with-another-job) volgen.
 
 ## Uploaden met een andere taak volgen {#follow-an-upload-with-another-job}
 
@@ -303,6 +303,6 @@ De nieuwe baan verzendt een bericht naar het adres dat u specificeert zodat de c
 
 >[!MORELIKETHIS]
 >
->* [ Werk met activa omslagen ](asset-folders.md#working_with_asset_folders)
->* [ handvat terugkomende upload en publicatietaken ](checking-job-files.md#handling_recurring_upload_and_publish_jobs)
->* [ Gebruik een upload of publicatietaak als trekker ](checking-job-files.md#using_an_upload_or_publish_job_as_a_trigger)
+>* [&#x200B; Werk met activa omslagen &#x200B;](asset-folders.md#working_with_asset_folders)
+>* [&#x200B; handvat terugkomende upload en publicatietaken &#x200B;](checking-job-files.md#handling_recurring_upload_and_publish_jobs)
+>* [&#x200B; Gebruik een upload of publicatietaak als trekker &#x200B;](checking-job-files.md#using_an_upload_or_publish_job_as_a_trigger)

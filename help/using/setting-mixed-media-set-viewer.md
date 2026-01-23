@@ -68,4 +68,4 @@ U kunt alle of sommige gemeenschapseigenschappen in de Gemengde Kijker van de Da
 
 >[!MORELIKETHIS]
 >
->* [ creeer en geef Kijker uit vooraf instelt ](application-setup.md#adding_and_editing_viewer_presets)
+>* [&#x200B; creeer en geef Kijker uit vooraf instelt &#x200B;](application-setup.md#adding_and_editing_viewer_presets)

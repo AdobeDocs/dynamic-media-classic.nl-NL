@@ -47,7 +47,7 @@ Uw websites en toepassingen hebben toegang tot de inhoud van Dynamic Media Image
 
 Doorgaans zoomen bezoekers op afbeeldingen op een website door eerst een zoompictogram te selecteren (vaak wordt met het pictogram de afbeelding van een vergrootglas weergegeven). Als u dit pictogram selecteert, wordt een dynamische webpagina (ASP of JSP) gestart die de afbeelding in een pop-upvenster weergeeft. In het pop-upvenster zoomen bezoekers daadwerkelijk op de afbeelding.
 
-Voor meer details en codesteekproeven, zie de [ Ingebedde Kijker van het Gezoem HTML5 Basis ](https://experienceleague.adobe.com/en/docs/dynamic-media-developer-resources/library/viewers-aem-assets-dmc/basic-zoom/c-html5-20-basic-zoom-viewer-about#section-e1c3106f5b3e445d9b95be337c2f94e2) in de Gids van de Verwijzing van de Kijkers van Adobe.
+Voor meer details en codesteekproeven, zie de [&#x200B; Ingebedde Kijker van het Gezoem HTML5 Basis &#x200B;](https://experienceleague.adobe.com/en/docs/dynamic-media-developer-resources/library/viewers-aem-assets-dmc/basic-zoom/c-html5-20-basic-zoom-viewer-about#section-e1c3106f5b3e445d9b95be337c2f94e2) in de Gids van de Verwijzing van de Kijkers van Adobe.
 
 ## De ingesloten kopie van een zoomviewer kopiëren {#copying-the-embed-copy-of-a-zoom-viewer}
 

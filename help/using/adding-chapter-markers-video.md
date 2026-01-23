@@ -25,9 +25,9 @@ U kunt lange-vormvideo&#39;s gemakkelijker bekijken en navigeren door hoofdstukm
 >
 >De videospeler moet het gebruik van hoofdstukmarkeringen ondersteunen.
 
-Zie [ toevoegen of geef een VideoKijker uit vooraf instelt ](previewing-videos-video-viewer.md#adding_or_editing_a_video_viewer_preset) als u de punten van het hoofdstuknavigatie en pop-up tekst van de hoofdstuktitel voor de `Universal_HTML5_Video` kijker (HTML5) wilt vormen.
+Zie [&#x200B; toevoegen of geef een VideoKijker uit vooraf instelt &#x200B;](previewing-videos-video-viewer.md#adding_or_editing_a_video_viewer_preset) als u de punten van het hoofdstuknavigatie en pop-up tekst van de hoofdstuktitel voor de `Universal_HTML5_Video` kijker (HTML5) wilt vormen.
 
-Zie ook [ toevoegen en uitgeven Kijker stelt ](application-setup.md#adding_and_editing_viewer_presets) vooraf in.
+Zie ook [&#x200B; toevoegen en uitgeven Kijker stelt &#x200B;](application-setup.md#adding_and_editing_viewer_presets) vooraf in.
 
 U maakt een hoofdstuklijst voor uw video op ongeveer dezelfde manier als u bijschriften maakt. U maakt dus een WebVTT-bestand. Dit bestand moet echter gescheiden zijn van elk WebVTT-bijschriftbestand dat u ook kunt gebruiken. U kunt bijschriften en hoofdstukken niet combineren tot één WebVTT-bestand.
 
@@ -49,11 +49,11 @@ Chapter 4
 Cost-efficient access to rapidly evolving technology.
 ```
 
-In het bovenstaande voorbeeld is `Chapter 1` de cue-id en optioneel. De richtsnoertijd van `00:00:000 --> 01:04:364` specificeert de begintijd en eindtijd van het hoofdstuk, in 1} 000 formaat. :00: Deze laatste drie cijfers zijn milliseconden en kunnen desgewenst worden ingesteld op 000. De hoofdstuktitel van `The bicycle store behind it all` is de feitelijke beschrijving van de inhoud van het hoofdstuk. De actidentificator, de begintijd en de hoofdstuktitel worden allemaal in een pop-up in de videospeler weergegeven wanneer de aanwijzer op een visueel actiepunt in de tijdlijn van de video wordt geplaatst.
+In het bovenstaande voorbeeld is `Chapter 1` de cue-id en optioneel. De richtsnoertijd van `00:00:000 --> 01:04:364` specificeert de begintijd en eindtijd van het hoofdstuk, in 1&rbrace; 000 formaat. :00: Deze laatste drie cijfers zijn milliseconden en kunnen desgewenst worden ingesteld op 000. De hoofdstuktitel van `The bicycle store behind it all` is de feitelijke beschrijving van de inhoud van het hoofdstuk. De actidentificator, de begintijd en de hoofdstuktitel worden allemaal in een pop-up in de videospeler weergegeven wanneer de aanwijzer op een visueel actiepunt in de tijdlijn van de video wordt geplaatst.
 
 Omdat u een HTML5-videoviewer gebruikt, moet u ervoor zorgen dat het hoofdstukbestand dat u maakt, voldoet aan de WebVTT-standaard (Web Video Text Tracks). De bestandsextensie van het hoofdstuk is `.VTT` . U kunt meer informatie over de WebVTT ondertitelingsnorm leren.
 
-Zie [ WebVTT: Het Formaat van de Tracks van de Tekst van het Web Video ](https://w3c.github.io/webvtt/).
+Zie [&#x200B; WebVTT: Het Formaat van de Tracks van de Tekst van het Web Video &#x200B;](https://w3c.github.io/webvtt/).
 
 **om hoofdstuktellers aan een video toe te voegen:**
 
@@ -69,7 +69,7 @@ Zie [ WebVTT: Het Formaat van de Tracks van de Tekst van het Web Video ](https:/
 
 1. Upload in Adobe Dynamic Media Classic uw WebVTT-hoofdstukbestand.
 
-   Zie [ dossiers ](uploading-files.md#uploading_files) uploaden.
+   Zie [&#x200B; dossiers &#x200B;](uploading-files.md#uploading_files) uploaden.
 
 1. Navigeer in het deelvenster Elementenbibliotheek aan de linkerkant naar de elementenmap die het videobestand bevat dat u wilt koppelen aan het hoofdstukbestand dat u hebt geüpload.
 1. Selecteer in het deelvenster Asset Browse één video-element en selecteer vervolgens onder de miniatuurafbeelding van het element **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]** .

@@ -27,7 +27,7 @@ Deze nieuwe app is nu beschikbaar voor Windows® en macOS.
 >
 >Adobe raadt u aan de nieuwe Adobe Dynamic Media Classic-bureaubladtoepassing uiterlijk op 1 oktober 2020 te installeren. Zo hebt u een vloeiende overgang voordat Adobe Flash Player op 31 december 2020 wordt vervangen. Na die datum kunt u zich niet meer aanmelden bij de browserversie van de Adobe Dynamic Media Classic-gebruikersinterface met het label Adobe Dynamic Media Classic in het product.
 
-Zie FAQ voor het [ Nieuwe teken van Adobe Dynamic Media Classic nu beschikbaar.](/help/using/new-ui-2020.md)
+Zie FAQ voor het [&#x200B; Nieuwe teken van Adobe Dynamic Media Classic nu beschikbaar.](/help/using/new-ui-2020.md)
 
 ## Systeemvereisten voor Adobe Dynamic Media Classic-bureaubladtoepassing {#system-requirements-dmc-app}
 
@@ -36,7 +36,7 @@ De Adobe Dynamic Media Classic-bureaubladtoepassing is compatibel met de volgend
 * macOS 10.10 of hoger.
 * Windows® 7 of hoger.
 
-Zie de volledige systeemvereisten bij [ vereisten van het Systeem voor de Desktop app van Adobe Dynamic Media Classic ](/help/using/system-requirements.md).
+Zie de volledige systeemvereisten bij [&#x200B; vereisten van het Systeem voor de Desktop app van Adobe Dynamic Media Classic &#x200B;](/help/using/system-requirements.md).
 
 Het bericht van de verbetering binnen de Desktoptoepassing van Adobe Dynamic Media Classic wordt niet geproduceerd voor *minder belangrijke* versies. Klanten die van moeilijke situaties in een minder belangrijke versie profiteren kunnen bevorderen.
 
@@ -58,11 +58,11 @@ Het bericht van de verbetering binnen de Desktoptoepassing van Adobe Dynamic Med
 * De bureaubladtoepassing reageert niet meer, meestal na bewerkingen instellen.
 * Schakel de optie Obfuscation en Locking Mode automatisch in onder **[!UICONTROL Test Image Serving]** .
 
-  Zie [ de Veilige het Testen dienst ](/help/using/testing-assets-making-them-public.md#testing-the-secure-testing-service).
+  Zie [&#x200B; de Veilige het Testen dienst &#x200B;](/help/using/testing-assets-making-them-public.md#testing-the-secure-testing-service).
 
 * Bijgewerkt verificatiemechanisme met Adobe Analytics. Relevant voor nieuwe integraties of als sommige analytische variabelen moeten worden bijgewerkt vanuit de Dynamic Media Classic-bureaubladtoepassing.
 
-  Zie [ Logon aan Adobe Analytics ](/help/using/log-analytics.md) voor bijgewerkte stappen.
+  Zie [&#x200B; Logon aan Adobe Analytics &#x200B;](/help/using/log-analytics.md) voor bijgewerkte stappen.
 
 ## Oplossingen in release 20.21.2 {#minor-release}
 
@@ -99,13 +99,13 @@ Zie ook:
 
    * De meest recente versie is beschikbaar op het volgende adres:
 
-      * [ macOS (.DMG): Download ](https://download.macromedia.com/dynamic-media-classic/20.22.2/adobe-dynamic-media-classic-20.22.2.dmg)
-      * [ Vensters (.EXE): Download ](https://download.macromedia.com/dynamic-media-classic/20.22.1/adobe-dynamic-media-classic-20.22.1.exe)
+      * [&#x200B; macOS (.DMG): Download &#x200B;](https://download.macromedia.com/dynamic-media-classic/20.22.2/adobe-dynamic-media-classic-20.22.2.dmg)
+      * [&#x200B; Vensters (.EXE): Download &#x200B;](https://download.macromedia.com/dynamic-media-classic/20.22.1/adobe-dynamic-media-classic-20.22.1.exe)
 
    * De vorige versie is beschikbaar op het volgende:
 
-      * [ macOS (.DMG): Download ](https://download.macromedia.com/dynamic-media-classic/20.22.1/adobe-dynamic-media-classic-20.22.1.dmg)
-      * [ Windows® (.EXE): Download ](https://download.macromedia.com/dynamic-media-classic/20.21.3/adobe-dynamic-media-classic-20.21.3.exe)
+      * [&#x200B; macOS (.DMG): Download &#x200B;](https://download.macromedia.com/dynamic-media-classic/20.22.1/adobe-dynamic-media-classic-20.22.1.dmg)
+      * [&#x200B; Windows® (.EXE): Download &#x200B;](https://download.macromedia.com/dynamic-media-classic/20.21.3/adobe-dynamic-media-classic-20.21.3.exe)
 
 <!--         * [macOS (.DMG): Download](https://download.macromedia.com/dynamic-media-classic/20.21.3/adobe-dynamic-media-classic-20.21.3.dmg) -->
 
@@ -120,18 +120,18 @@ Zie ook:
 
    * **macOS** - in de **[!UICONTROL Drag & drop to install]** dialoogdoos, sleep **[!UICONTROL Adobe Dynamic Media Classic]** en laat vallen het op **[!UICONTROL Applications]**.
 
-     ![ belemmering en daling installeert op macOS ](/help/using/assets/dragondrop-install1.png)
+     ![&#x200B; belemmering en daling installeert op macOS &#x200B;](/help/using/assets/dragondrop-install1.png)
 
    * Tik in de map **[!UICONTROL Applications]** op het Adobe Dynamic Media Classic-pictogram.
    * Tik in het dialoogvenster op **[!UICONTROL Open]** om de Adobe Dynamic Media Classic-bureaubladtoepassing te openen.
 
-     ![ Open gedownloade app ](/help/using/assets/open-dmclassicapp1.png)
+     ![&#x200B; Open gedownloade app &#x200B;](/help/using/assets/open-dmclassicapp1.png)
 
    * **Vensters** - stel het installatieprogramma binair in werking en volg de instructies op scherm om Desktop app te installeren.
 
 1. Wanneer u de toepassing opent, wordt de nieuwe Adobe Dynamic Media Classic-aanmeldingspagina weergegeven:
 
-   ![ Adobe Dynamic Media Classic teken binnen ](/help/using/assets/dmclassic-login1.png)
+   ![&#x200B; Adobe Dynamic Media Classic teken binnen &#x200B;](/help/using/assets/dmclassic-login1.png)
 
 1. Als u zich wilt aanmelden bij de Adobe Dynamic Media Classic-bureaubladtoepassing, gebruikt u dezelfde gegevens als waarmee u zich in de browser hebt aangemeld bij Adobe Dynamic Media Classic.
 
@@ -158,7 +158,7 @@ Om *stil* te downloaden en te installeren de recentste versie van Adobe Dynamic 
 
 1. Download het nieuwste installatieprogramma voor de Adobe Dynamic Media Classic-bureaubladtoepassing voor macOS.
 
-   * [ macOS (.DMG): Download ](https://download.macromedia.com/dynamic-media-classic/20.22.2/adobe-dynamic-media-classic-20.22.2.dmg)
+   * [&#x200B; macOS (.DMG): Download &#x200B;](https://download.macromedia.com/dynamic-media-classic/20.22.2/adobe-dynamic-media-classic-20.22.2.dmg)
 
 1. Koppel het gedownloade beeld van de Schijf (.DMG) aan een montageselocatie gebruikend het volgende bevel:
 
@@ -173,7 +173,7 @@ Om *stil* te downloaden en te installeren de recentste versie van Adobe Dynamic 
 
 1. Wanneer u de toepassing opent, wordt de nieuwe Adobe Dynamic Media Classic-aanmeldingspagina weergegeven:
 
-   ![ Adobe Dynamic Media Classic teken binnen ](/help/using/assets/dmclassic-login1.png)
+   ![&#x200B; Adobe Dynamic Media Classic teken binnen &#x200B;](/help/using/assets/dmclassic-login1.png)
 
 1. Als u zich wilt aanmelden bij de Adobe Dynamic Media Classic-bureaubladtoepassing, gebruikt u dezelfde gegevens als waarmee u zich in de browser hebt aangemeld bij Adobe Dynamic Media Classic.
 
@@ -187,7 +187,7 @@ Om *stil* te downloaden en te installeren de recentste versie van Adobe Dynamic 
 
 ## Download en *stil* installeer recentste Adobe Dynamic Media Classic Desktopapp op Windows® {#install-silent-windows-dmc-app}
 
-Het bevel dat u gebruikt is voor een basisMSI stille installatie. Het installatieprogramma van de Adobe Dynamic Media Classic-bureaubladtoepassing is echter een installatieprogramma van InstallScript MSI dat is gemaakt met InstallShield. Wanneer u het installatieprogramma uitvoert in de recordmodus, wordt gebruikersinteractie opgenomen in een reactiebestand. Dit reactiedossier wordt dan gebruikt voor een stille installatie zoals die in [ wordt beschreven Lopende installaties op stille wijze ](https://docs.revenera.com/installshield25helplib/installshield25helplib.htm#helplibrary/SilentInstall.htm).
+Het bevel dat u gebruikt is voor een basisMSI stille installatie. Het installatieprogramma van de Adobe Dynamic Media Classic-bureaubladtoepassing is echter een installatieprogramma van InstallScript MSI dat is gemaakt met InstallShield. Wanneer u het installatieprogramma uitvoert in de recordmodus, wordt gebruikersinteractie opgenomen in een reactiebestand. Dit reactiedossier wordt dan gebruikt voor een stille installatie zoals die in [&#x200B; wordt beschreven Lopende installaties op stille wijze &#x200B;](https://docs.revenera.com/installshield25helplib/installshield25helplib.htm#helplibrary/SilentInstall.htm).
 
 Zie ook:
 
@@ -201,7 +201,7 @@ Om *stil* te downloaden en te installeren de recentste versie van Adobe Dynamic 
 
 1. Download het nieuwste installatieprogramma voor de Adobe Dynamic Media Classic-bureaubladtoepassing.
 
-   * [ Windows® (.EXE): Download ](https://download.macromedia.com/dynamic-media-classic/20.22.1/adobe-dynamic-media-classic-20.22.1.exe)
+   * [&#x200B; Windows® (.EXE): Download &#x200B;](https://download.macromedia.com/dynamic-media-classic/20.22.1/adobe-dynamic-media-classic-20.22.1.exe)
 
 1. Voer het installatieprogramma in recordmodus uit met de volgende opdracht:
 
@@ -215,11 +215,11 @@ Om *stil* te downloaden en te installeren de recentste versie van Adobe Dynamic 
 
    `adobe-dynamic-media-classic-20.22.1.exe /s /f1"C:\Setup.iss"`
 
-   De details over bevel-lijn parameters zijn beschikbaar bij [ Setup.exe en Update.exe bevel-lijn parameters ](https://docs.revenera.com/installshield25helplib/installshield25helplib.htm#helplibrary/IHelpSetup_EXECmdLine.htm?Highlight=Setup.exe%20and%20Update.exe%20Command-Line%20Parameters).
+   De details over bevel-lijn parameters zijn beschikbaar bij [&#x200B; Setup.exe en Update.exe bevel-lijn parameters &#x200B;](https://docs.revenera.com/installshield25helplib/installshield25helplib.htm#helplibrary/IHelpSetup_EXECmdLine.htm?Highlight=Setup.exe%20and%20Update.exe%20Command-Line%20Parameters).
 
 1. Wanneer u de toepassing opent, wordt de nieuwe Adobe Dynamic Media Classic-aanmeldingspagina weergegeven:
 
-   ![ Adobe Dynamic Media Classic teken binnen ](/help/using/assets/dmclassic-login1.png)
+   ![&#x200B; Adobe Dynamic Media Classic teken binnen &#x200B;](/help/using/assets/dmclassic-login1.png)
 
 1. Als u zich wilt aanmelden bij de Adobe Dynamic Media Classic-bureaubladtoepassing, gebruikt u dezelfde gegevens als waarmee u zich in de browser hebt aangemeld bij Adobe Dynamic Media Classic.
 
@@ -233,7 +233,7 @@ Om *stil* te downloaden en te installeren de recentste versie van Adobe Dynamic 
 
 ## Video doorlopen bij gebruik van Adobe Dynamic Media Classic Desktop App {#dmc-app-video-walk-through}
 
-Bekijk a [ videolooppas-door op het gebruiken van de App van de Desktop van Adobe Dynamic Media Classic ](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/dynamic-media/dynamic-media-classic-desktop-application#dynamic-media) (Lengte: 2 minuten 36 seconden).
+Bekijk a [&#x200B; videolooppas-door op het gebruiken van de App van de Desktop van Adobe Dynamic Media Classic &#x200B;](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/dynamic-media/dynamic-media-classic-desktop-application#dynamic-media) (Lengte: 2 minuten 36 seconden).
 
 ## De afbeeldingscache en de assetcache op uw computer wissen met de bureaubladtoepassing {#clear-cache}
 
@@ -254,7 +254,7 @@ U kunt de cache van afbeeldingen en elementen niet alleen wissen met de bureaubl
 
 ## Bekende beperkingen in Adobe Dynamic Media Classic 20.21.1
 
-* De vervolgkeuzelijst **[!UICONTROL Server]** is leeg na het bijwerken naar Adobe Dynamic Media Classic-bureaubladtoepassing 20.21.1: Scenario: u installeert en meldt u aan bij Adobe Dynamic Media Classic 20.20.1 of 20.20.2 en sluit vervolgens de toepassing. Vervolgens gaat u naar Adobe Dynamic Media Classic 20.21.1. Wanneer u zich aanmeldt, is de vervolgkeuzelijst **[!UICONTROL Server]** in het dialoogvenster **[!UICONTROL Sign-in to your account]** leeg. Om rond deze kwestie te werken, moet u [ manueel het geheime voorgeheugen ](#clear-cache) ontruimen (zie stappen hierboven).
+* De vervolgkeuzelijst **[!UICONTROL Server]** is leeg na het bijwerken naar Adobe Dynamic Media Classic-bureaubladtoepassing 20.21.1: Scenario: u installeert en meldt u aan bij Adobe Dynamic Media Classic 20.20.1 of 20.20.2 en sluit vervolgens de toepassing. Vervolgens gaat u naar Adobe Dynamic Media Classic 20.21.1. Wanneer u zich aanmeldt, is de vervolgkeuzelijst **[!UICONTROL Server]** in het dialoogvenster **[!UICONTROL Sign-in to your account]** leeg. Om rond deze kwestie te werken, moet u [&#x200B; manueel het geheime voorgeheugen &#x200B;](#clear-cache) ontruimen (zie stappen hierboven).
 
 ## Bekende beperkingen in Adobe Dynamic Media Classic 20.20.1 (vastgesteld in 20.20.2)
 
@@ -265,17 +265,17 @@ U kunt de cache van afbeeldingen en elementen niet alleen wissen met de bureaubl
 * Selecteer in de Adobe Dynamic Media Classic-app het nieuwe bedrijf in de vervolgkeuzelijst met bedrijven.
 * Tik op **[!UICONTROL OK]** wanneer het pop-upvenster verschijnt om u af te melden en de app te sluiten.
 
-  ![ om het nieuwe bedrijf te gebruiken, begin app ](/help/using/assets/dmclassic-new-company1.png) opnieuw
+  ![&#x200B; om het nieuwe bedrijf te gebruiken, begin app &#x200B;](/help/using/assets/dmclassic-new-company1.png) opnieuw
 
 * Start Adobe Dynamic Media Classic opnieuw en meld u vervolgens op de gebruikelijke wijze aan om met het nieuwe bedrijf te werken.
 
 ## Tips en trucs
 
-**_ik kan niet het paneel van de Kar van Media op de het landen pagina van Adobe Dynamic Media Classic zien._**<br>Tik in Adobe Dynamic Media Classic op **[!UICONTROL Setup > Personal Setup]**. Controleer of in de sectie Browser **[!UICONTROL Show MediaPortal Features]**is geselecteerd (ingeschakeld). Tik op **[!UICONTROL Save > Close]**.
+**_ik kan niet het paneel van de Kar van Media op de het landen pagina van Adobe Dynamic Media Classic zien._**<br>Tik in Adobe Dynamic Media Classic op **[!UICONTROL Setup > Personal Setup]**. Controleer of in de sectie Browser **[!UICONTROL Show MediaPortal Features]**&#x200B;is geselecteerd (ingeschakeld). Tik op **[!UICONTROL Save > Close]**.
 
-**_publiceer staat (groene indicator) van een activa wordt niet correct weerspiegeld._**<br>in het browser gebruikersinterface, herlogin aan UI gebruikte om correcte te zien publiceer staat van activa publiceren. Adobe heeft in de bureaubladtoepassing het pictogram **[!UICONTROL Refresh]**toegevoegd op de werkbalk, rechts van de knop **[!UICONTROL Select None]**. Tik op het pictogram **[!UICONTROL Refresher]**om de laatste status van alle elementen op de opgegeven pagina weer te geven. Geen heraanmelding vereist zoals met de gebruikersinterface van de browser.
+**_publiceer staat (groene indicator) van een activa wordt niet correct weerspiegeld._**<br>in het browser gebruikersinterface, herlogin aan UI gebruikte om correcte te zien publiceer staat van activa publiceren. Adobe heeft in de bureaubladtoepassing het pictogram **[!UICONTROL Refresh]**&#x200B;toegevoegd op de werkbalk, rechts van de knop **[!UICONTROL Select None]**. Tik op het pictogram **[!UICONTROL Refresher]**&#x200B;om de laatste status van alle elementen op de opgegeven pagina weer te geven. Geen heraanmelding vereist zoals met de gebruikersinterface van de browser.
 
-![ verfrist pictogram ](/help/using/assets/refresh-icon1.png)
+![&#x200B; verfrist pictogram &#x200B;](/help/using/assets/refresh-icon1.png)
 *verfrissen pictogram*
 
-**_ik zie partijreeks vooraf instelt werkend in Desktop app niet._**<br>Tikken **[!UICONTROL Upload > Job Options > Batch Set Presets]**. Controleer of de betreffende **[!UICONTROL Batch Sets Preset]**is ingeschakeld. Klik op **[!UICONTROL Save and Submit upload]**.
+**_ik zie partijreeks vooraf instelt werkend in Desktop app niet._**<br>Tikken **[!UICONTROL Upload > Job Options > Batch Set Presets]**. Controleer of de betreffende **[!UICONTROL Batch Sets Preset]**&#x200B;is ingeschakeld. Klik op **[!UICONTROL Save and Submit upload]**.

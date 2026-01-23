@@ -21,7 +21,7 @@ ht-degree: 0%
 
 U kunt een voorvertoning weergeven van hoe een video eruitziet en hoe deze wordt afgespeeld in de Video-viewer.
 
-Zie [ toevoegen en uitgeven Kijker stelt ](application-setup.md#adding_and_editing_viewer_presets) vooraf in.
+Zie [&#x200B; toevoegen en uitgeven Kijker stelt &#x200B;](application-setup.md#adding_and_editing_viewer_presets) vooraf in.
 
 **aan voorproefvideo&#39;s in een VideoKijker:**
 
@@ -41,7 +41,7 @@ Zie [ toevoegen en uitgeven Kijker stelt ](application-setup.md#adding_and_editi
 
 >[!NOTE]
 >
->Adobe Dynamic Media Classic biedt een handige methode voor het voorvertonen van MP4-video&#39;s op het bureaublad. Gebruik deze methode om mobiele inhoud op het bureaublad voor te vertonen zonder deze fysiek te testen op mobiele apparaten. Houd er echter rekening mee dat wat in de voorvertoning op het bureaublad wordt weergegeven, niet op realistische wijze aantoont hoe het afspelen op het mobiele apparaat eruitziet. Ga naar het voorvertoningsscherm om een voorvertoning weer te geven van de weergave en het afspelen van de video op een mobiel apparaat. Klik op **[!UICONTROL Copy URL]** en voer die URL in de webbrowser van een mobiel apparaat in. Voor meer informatie, zie [ video aan uw websites en mobiele plaatsen ](deploying-video-websites-mobile-sites.md#deploying_video_to_your_websites_and_mobile_sites) opstellen.
+>Adobe Dynamic Media Classic biedt een handige methode voor het voorvertonen van MP4-video&#39;s op het bureaublad. Gebruik deze methode om mobiele inhoud op het bureaublad voor te vertonen zonder deze fysiek te testen op mobiele apparaten. Houd er echter rekening mee dat wat in de voorvertoning op het bureaublad wordt weergegeven, niet op realistische wijze aantoont hoe het afspelen op het mobiele apparaat eruitziet. Ga naar het voorvertoningsscherm om een voorvertoning weer te geven van de weergave en het afspelen van de video op een mobiel apparaat. Klik op **[!UICONTROL Copy URL]** en voer die URL in de webbrowser van een mobiel apparaat in. Voor meer informatie, zie [&#x200B; video aan uw websites en mobiele plaatsen &#x200B;](deploying-video-websites-mobile-sites.md#deploying_video_to_your_websites_and_mobile_sites) opstellen.
 
 ## Werken met voorinstellingen voor video-viewers {#working-with-video-viewer-presets}
 
@@ -49,9 +49,9 @@ Gebruikers bekijken video&#39;s in de Video Viewer. Hoe de VideoKijker zich gedr
 
 Adobe Dynamic Media Classic wordt geleverd met veel vooraf gedefinieerde Viewer-voorinstellingen voor het afspelen van video. Als u een beheerder bent, kunt u aangepaste Viewer-voorinstellingen maken. Er zijn meer dan 12 verschillende instellingen voor het configureren van de Video Viewer. U kunt de grootte, kleur, video- en audiobesturingselementen, voortgangsbalk, skin voor de gebruikersinterface en sociale functies configureren.
 
-Zie [ video&#39;s van de Voorproef in een VideoKijker ](previewing-videos-video-viewer.md#previewing_videos_in_a_video_viewer).
+Zie [&#x200B; video&#39;s van de Voorproef in een VideoKijker &#x200B;](previewing-videos-video-viewer.md#previewing_videos_in_a_video_viewer).
 
-Zie ook [ Video vooraf instelt ](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&emailurl=https://s7d5.scene7.com/s7/emailFriend&serverUrl=https://s7d5.scene7.com/is/image/&config=Scene7SharedAssets/Universal_HTML5_Video&contenturl=https://s7d5.scene7.com/skins/&asset=S7tutorials/549_video-presets_converted%20renamed_Done-AVS) opleidingsvideo.
+Zie ook [&#x200B; Video vooraf instelt &#x200B;](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&emailurl=https://s7d5.scene7.com/s7/emailFriend&serverUrl=https://s7d5.scene7.com/is/image/&config=Scene7SharedAssets/Universal_HTML5_Video&contenturl=https://s7d5.scene7.com/skins/&asset=S7tutorials/549_video-presets_converted%20renamed_Done-AVS) opleidingsvideo.
 
 ### Een voorinstelling voor een video-viewer toevoegen of bewerken {#adding-or-editing-a-video-viewer-preset}
 
@@ -59,9 +59,9 @@ U kunt Viewer-voorinstellingen gebruiken om verschillende viewertypen en hun voo
 
 In Viewer-voorinstellingen kunt u voorinstellingen van viewers activeren, filteren, sorteren en voorvertonen.
 
-Zie [ Kijker vooraf instelt ](application-setup.md#viewer_presets).
+Zie [&#x200B; Kijker vooraf instelt &#x200B;](application-setup.md#viewer_presets).
 
-Zie ook [ Video vooraf instelt ](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&emailurl=https://s7d5.scene7.com/s7/emailFriend&serverUrl=https://s7d5.scene7.com/is/image/&config=Scene7SharedAssets/Universal_HTML5_Video&contenturl=https://s7d5.scene7.com/skins/&asset=S7tutorials/549_video-presets_converted%20renamed_Done-AVS) opleidingsvideo.
+Zie ook [&#x200B; Video vooraf instelt &#x200B;](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&emailurl=https://s7d5.scene7.com/s7/emailFriend&serverUrl=https://s7d5.scene7.com/is/image/&config=Scene7SharedAssets/Universal_HTML5_Video&contenturl=https://s7d5.scene7.com/skins/&asset=S7tutorials/549_video-presets_converted%20renamed_Done-AVS) opleidingsvideo.
 
 **om een VideoKijker toe te voegen of uit te geven vooraf instelt:**
 
@@ -73,7 +73,7 @@ Zie ook [ Video vooraf instelt ](https://s7d5.scene7.com/s7viewers/html5/VideoVi
 
    * **voeg** toe: Selecteer **[!UICONTROL Add]** in de toolbar. Kies in het dialoogvenster Voorinstelling viewer toevoegen een platform en viewer in de respectievelijke vervolgkeuzelijsten en selecteer vervolgens **[!UICONTROL Add]** .
 
-   Zie ook [ toevoegen en uitgeven Kijker stelt ](application-setup.md#adding_and_editing_viewer_presets) vooraf in.
+   Zie ook [&#x200B; toevoegen en uitgeven Kijker stelt &#x200B;](application-setup.md#adding_and_editing_viewer_presets) vooraf in.
 
    * **voegt toe door van een bestaande Kijker te beginnen vooraf instelt**: In de lijst, selecteer een VideoKijker Vooraf ingesteld, en selecteer dan **[!UICONTROL Edit]** in de toolbar.
 
@@ -93,5 +93,5 @@ Zie ook [ Video vooraf instelt ](https://s7d5.scene7.com/s7viewers/html5/VideoVi
 
 >[!MORELIKETHIS]
 >
->* [ Beste praktijken voor video het coderen ](uploading-encoding-videos.md#best_practices_for_video_encoding)
->* [ Werk met video het coderen voorinstellingen ](uploading-encoding-videos.md#working_with_video_encoding_presets)
+>* [&#x200B; Beste praktijken voor video het coderen &#x200B;](uploading-encoding-videos.md#best_practices_for_video_encoding)
+>* [&#x200B; Werk met video het coderen voorinstellingen &#x200B;](uploading-encoding-videos.md#working_with_video_encoding_presets)

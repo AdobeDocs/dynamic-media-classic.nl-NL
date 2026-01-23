@@ -21,13 +21,13 @@ ht-degree: 0%
 
 U publiceert uw elementen naar Dynamic Media Image Servers. U kunt elementen eenmalig publiceren of ervoor zorgen dat Adobe Dynamic Media Classic elementen volgens een terugkerend schema publiceert. Nadat uw activa worden gepubliceerd, zijn zij beschikbaar aan u voor levering. U kunt de URL-aanroepen van Adobe Dynamic Media Classic kopiëren en toevoegen aan uw website of toepassing.
 
-Adobe Dynamic Media Classic ondersteunt nu de levering van alle afbeeldingen en video via HTTP/2. Er is dus een gepubliceerde URL of code voor insluiten beschikbaar voor de afbeelding of video die moet worden geïntegreerd met elke toepassing die een gehoste element accepteert. Dat gepubliceerde element gebruikt het HTTP/2-protocol om het te leveren. Deze leveringsmethode verbetert de manier waarop browsers en servers communiceren, waardoor u betere responstijd en laadtijden voor al uw Adobe Dynamic Media Classic-middelen krijgt. Zie [ HTTP2 Levering van Inhoud Veelgestelde vragen ](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/assets/dynamic/http2).
+Adobe Dynamic Media Classic ondersteunt nu de levering van alle afbeeldingen en video via HTTP/2. Er is dus een gepubliceerde URL of code voor insluiten beschikbaar voor de afbeelding of video die moet worden geïntegreerd met elke toepassing die een gehoste element accepteert. Dat gepubliceerde element gebruikt het HTTP/2-protocol om het te leveren. Deze leveringsmethode verbetert de manier waarop browsers en servers communiceren, waardoor u betere responstijd en laadtijden voor al uw Adobe Dynamic Media Classic-middelen krijgt. Zie [&#x200B; HTTP2 Levering van Inhoud Veelgestelde vragen &#x200B;](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/assets/dynamic/http2).
 
 ## Publiceren na uploaden {#publish-after-uploading}
 
 Assets in een gepubliceerde of niet-gepubliceerde staat. Standaard worden alle elementen die u uploadt naar Adobe Dynamic Media Classic automatisch gemarkeerd voor publicatie.
 
-Voor meer informatie, zie [ Onmiddellijk publiceren Bericht PDF ](/help/using/assets/rendering-instant-publish-notification.pdf).
+Voor meer informatie, zie [&#x200B; Onmiddellijk publiceren Bericht PDF &#x200B;](/help/using/assets/rendering-instant-publish-notification.pdf).
 
 Gebruik de volgende technieken om elementen te markeren voor publicatie:
 
@@ -55,12 +55,12 @@ Maak een publicatietaak om elementen te publiceren die u naar Adobe Dynamic Medi
 1. Selecteer **[!UICONTROL Publish]** op de algemene navigatiebalk.
 1. Kies in het dialoogvenster Publiceren of u een eenmalige of terugkerende publicatietaak wilt uitvoeren.
 
-   Zie [ een éénmalige publicatietaak ](publishing-files.md#creating_a_one_time_publish_job) creëren en [ een terugkomende publicatietaak ](publishing-files.md#creating_a_recurring_publish_job) creëren.
+   Zie [&#x200B; een éénmalige publicatietaak &#x200B;](publishing-files.md#creating_a_one_time_publish_job) creëren en [&#x200B; een terugkomende publicatietaak &#x200B;](publishing-files.md#creating_a_recurring_publish_job) creëren.
 
 1. Voer een taaknaam in.
 1. Geef desgewenst de geavanceerde opties weer en kies deze opties.
 
-   Zie [ Geavanceerde publicatieopties ](publishing-files.md#advanced_publish_options).
+   Zie [&#x200B; Geavanceerde publicatieopties &#x200B;](publishing-files.md#advanced_publish_options).
 
 1. Selecteer **[!UICONTROL Submit Publish]** .
 
@@ -68,7 +68,7 @@ Adobe Dynamic Media Classic houdt publicatietaken bij op de pagina Jobs. U kunt 
 
 >[!NOTE]
 >
->Assets dat u opnieuw hebt gepubliceerd (u hebt deze al eerder gepubliceerd), wordt niet direct op uw website weergegeven vanwege het mechanisme voor webcaching op het CDN (Content Delivery Network). Zie [ Herbekendgemaakte activa en CDN vertragingen ](publishing-files.md#republished_assets_and_cdn_delays).
+>Assets dat u opnieuw hebt gepubliceerd (u hebt deze al eerder gepubliceerd), wordt niet direct op uw website weergegeven vanwege het mechanisme voor webcaching op het CDN (Content Delivery Network). Zie [&#x200B; Herbekendgemaakte activa en CDN vertragingen &#x200B;](publishing-files.md#republished_assets_and_cdn_delays).
 
 ### Een eenmalige publicatietaak maken {#creating-a-one-time-publish-job}
 
@@ -82,7 +82,7 @@ Maak een terugkerende publicatietaak door **[!UICONTROL Recurring]** op de pagin
 
 Kies vervolgens een herhalingsoptie van **[!UICONTROL Daily]** , **[!UICONTROL Weekly]** , **[!UICONTROL Monthly]** of **[!UICONTROL Custom]** en geef op wanneer de publicatietaak moet worden herhaald. Adobe Dynamic Media Classic presenteert kalendergereedschappen voor het plannen van de terugkerende publicatietaak. U kunt de optie **[!UICONTROL Custom]** selecteren en een regel in het tekstveld Regel invoeren om een aangepast taakinterval te beschrijven.
 
-Zie [ een douane creëren uploadt of publiceert het interval van de baantijd ](checking-job-files.md#creating_a_custom_upload_or_publish_job_time_interval).
+Zie [&#x200B; een douane creëren uploadt of publiceert het interval van de baantijd &#x200B;](checking-job-files.md#creating_a_custom_upload_or_publish_job_time_interval).
 
 >[!NOTE]
 >
@@ -100,7 +100,7 @@ U kunt de Geavanceerde opties weergeven op de pagina Publiceren en deze opties k
 
 **[!UICONTROL HTTP Notification]**: voer een URL in om volgende publicatietaken te activeren.
 
-Zie [ gebruik uploadt of publiceert baan als trekker ](checking-job-files.md#using_an_upload_or_publish_job_as_a_trigger).)
+Zie [&#x200B; gebruik uploadt of publiceert baan als trekker &#x200B;](checking-job-files.md#using_an_upload_or_publish_job_as_a_trigger).)
 
 ## Een publicatietaak annuleren {#canceling-a-publish-job}
 
@@ -162,5 +162,5 @@ Ga naar **[!UICONTROL File]** > **[!UICONTROL Invalidate CDN]** om de cache leeg
 
 >[!MORELIKETHIS]
 >
->* [ de baandossiers van de Controle ](checking-job-files.md)
->* [ geeft, schrapt, pauzeert, en hervat terugkomende banen ](checking-job-files.md#editing-deleting-pausing-and-resuming-recurring-jobs) uit
+>* [&#x200B; de baandossiers van de Controle &#x200B;](checking-job-files.md)
+>* [&#x200B; geeft, schrapt, pauzeert, en hervat terugkomende banen &#x200B;](checking-job-files.md#editing-deleting-pausing-and-resuming-recurring-jobs) uit

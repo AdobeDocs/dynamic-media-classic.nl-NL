@@ -25,7 +25,7 @@ Metagegevens worden weergegeven in de gedetailleerde weergave. Deze wordt samen 
 
 Sommige metagegevens worden rechtstreeks in een bestand ingesloten. Als een bestand deze metagegevens bevat, wordt deze automatisch door Adobe Dynamic Media Classic met het bestand geüpload. U kunt metagegevens insluiten in bronelementen in Adobe Photoshop, InDesign, Illustrator en andere toepassingen. Deze metagegevens worden door Adobe Dynamic Media Classic herkend. U kunt ook metagegevens toevoegen aan afzonderlijke bestanden in het deelvenster Metagegevens in de gedetailleerde weergave. Om consistentie tussen activa te verzekeren, leiden de bedrijfbeheerders Meta-gegevensmalplaatjes die de meta-gegevensgebieden verstrekken die kunnen worden ingevuld.
 
-Voor meer informatie over ingebedde meta-gegevens, zie [ Verlengbaar Platform van Meta-gegevens ](https://www.adobe.com/products/xmp.html).
+Voor meer informatie over ingebedde meta-gegevens, zie [&#x200B; Verlengbaar Platform van Meta-gegevens &#x200B;](https://www.adobe.com/products/xmp.html).
 
 ## Metagegevens weergeven {#view-metadata}
 
@@ -39,7 +39,7 @@ Als u de metagegevens van een element wilt weergeven, opent u het element in de 
 
 Beheerders kunnen weergaven van metagegevens maken. Deze weergaven worden ook weergegeven in het menu Weergaven metagegevens.
 
-Zie {de Mening van Meta-gegevens 0} [ voor informatie over het creëren van de Kijken van Meta-gegevens.](application-setup.md#metadata_views)
+Zie {de Mening van Meta-gegevens 0} [&#x200B; voor informatie over het creëren van de Kijken van Meta-gegevens.](application-setup.md#metadata_views)
 
 ## Metagegevens voor een element handmatig invoeren {#manually-enter-metadata-for-an-asset}
 
@@ -73,7 +73,7 @@ Als u tijdens deze sessie trefwoorden hebt toegevoegd aan andere bestanden of al
 >[!NOTE]
 >
 >U kunt trefwoorden aan bestanden toevoegen terwijl u deze uploadt naar Adobe Dynamic Media Classic. Kies **[!UICONTROL More Metadata]** in het dialoogvenster Taakopties uploaden en voer trefwoorden in.
->Zie [ opties uploaden ](uploading-files.md#upload_options).
+>Zie [&#x200B; opties uploaden &#x200B;](uploading-files.md#upload_options).
 
 ## Metagegevens importeren {#import-metadata}
 
@@ -82,9 +82,9 @@ In plaats van handmatig metagegevens één element tegelijk in te voeren, kunt u
 >[!NOTE]
 >
 >U kunt een sjabloon maken voor het invoeren van metagegevens, zodat deze op de juiste manier naar Adobe Dynamic Media Classic kunnen worden geïmporteerd. Nadat u de sjabloon hebt gemaakt, kunt u deze gebruiken om de metagegevens in te voeren.
->Zie [ een malplaatje voor het ingaan van meta-gegevens creëren om ](viewing-adding-exporting-metadata.md#create_a_template_for_entering_metadata_to_upload) te uploaden.
+>Zie [&#x200B; een malplaatje voor het ingaan van meta-gegevens creëren om &#x200B;](viewing-adding-exporting-metadata.md#create_a_template_for_entering_metadata_to_upload) te uploaden.
 
-U kunt meer informatie over gestandaardiseerde eigenschappen bij het [ Adobe XMP Developer Center ](https://www.adobe.com/devnet/xmp.html) vinden.
+U kunt meer informatie over gestandaardiseerde eigenschappen bij het [&#x200B; Adobe XMP Developer Center &#x200B;](https://www.adobe.com/devnet/xmp.html) vinden.
 
 1. Selecteer in het deelvenster Bladeren de afbeeldingen waaraan u metagegevens wilt toevoegen uit het XML- of tabgescheiden bestand.
 1. Ga naar **[!UICONTROL File]** > **[!UICONTROL Import Metadata]** .
@@ -215,5 +215,5 @@ Wanneer de eigenschap de structuur Open Keuze of Gesloten keuze heeft, moet u te
 
 >[!MORELIKETHIS]
 >
->* [ Kijker stelt vooraf in ](application-setup.md#viewer_presets)
->* [ Meta-gegevens vooraf instelt ](application-setup.md#metadata_presets)
+>* [&#x200B; Kijker stelt vooraf in &#x200B;](application-setup.md#viewer_presets)
+>* [&#x200B; Meta-gegevens vooraf instelt &#x200B;](application-setup.md#metadata_presets)

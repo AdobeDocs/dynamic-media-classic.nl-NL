@@ -25,7 +25,7 @@ De volgende twee beperkingen zijn van toepassing als u afbeeldingselementen expo
 * Het gecomprimeerde Zip-exportbestand heeft een maximale bestandsgrootte van 1 GB voor de exporttaak.
 * Per exporttaak kunt u maximaal 500 elementen in totaal gebruiken.
 
-Zie ook [ activa van de Uitvoer van Adobe Dynamic Media Classic ](exporting-assets-from-dmc.md#exporting-assets-from_dmc).
+Zie ook [&#x200B; activa van de Uitvoer van Adobe Dynamic Media Classic &#x200B;](exporting-assets-from-dmc.md#exporting-assets-from_dmc).
 
 **om de uitvoeropties te specificeren beschikbaar aan Poortgebruikers van Media:**
 
@@ -42,5 +42,5 @@ Zie ook [ activa van de Uitvoer van Adobe Dynamic Media Classic ](exporting-asse
 
 >[!MORELIKETHIS]
 >
->* [ Beeld stelt ](application-setup.md#image_presets) vooraf in
->* [ kies Beeld vooraf ingestelde toegangstoestemmingen voor een groep ](creating-media-portal-groups.md#choosing_image_preset_access_permissions_for_a_group)
+>* [&#x200B; Beeld stelt &#x200B;](application-setup.md#image_presets) vooraf in
+>* [&#x200B; kies Beeld vooraf ingestelde toegangstoestemmingen voor een groep &#x200B;](creating-media-portal-groups.md#choosing_image_preset_access_permissions_for_a_group)

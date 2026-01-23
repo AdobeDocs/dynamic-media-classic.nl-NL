@@ -48,7 +48,7 @@ Uw Websites en toepassingen hebben toegang tot de Dynamische inhoud van de Serve
 
 De gemeenschappelijkste manier om een eCatalog op te stellen is een verbinding in de vorm van een de omslagpagina van de eCatalogduimnagel op uw Web-pagina te plaatsen. Werk samen met uw IT-team om ervoor te zorgen dat de eCatalog wordt gestart in een schoon, gecentreerd pop-upvenster. Vraag uw IT-team om de werkbalk en adresbalk in de browser niet weer te geven.
 
-Voor meer details en codesteekproeven, zie de [ Ingebedde Kijker HTML5 eCatalog ](https://experienceleague.adobe.com/en/docs/dynamic-media-developer-resources/library/viewers-aem-assets-dmc/ecatalog/c-html5-20-ecatalog-viewer-about#section-e1c3106f5b3e445d9b95be337c2f94e2) in de Verwijzing van de Kijkers van Adobe.
+Voor meer details en codesteekproeven, zie de [&#x200B; Ingebedde Kijker HTML5 eCatalog &#x200B;](https://experienceleague.adobe.com/en/docs/dynamic-media-developer-resources/library/viewers-aem-assets-dmc/ecatalog/c-html5-20-ecatalog-viewer-about#section-e1c3106f5b3e445d9b95be337c2f94e2) in de Verwijzing van de Kijkers van Adobe.
 
 ## De ingesloten code van een eCatalog-viewer kopiëren {#copying-the-embed-code-of-an-ecatalog-viewer}
 

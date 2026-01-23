@@ -21,9 +21,9 @@ ht-degree: 0%
 
 U kunt Voorvertoning gebruiken om uw eCatalog weer te geven met verschillende voorinstellingen voor de eCatalog-viewer. U kunt met de verschillende besturingselementen experimenteren om pagina&#39;s om te slaan, notities te schrijven en te bladeren.
 
-Zie [ standaardkijkers ](application-setup.md#configuring_default_viewers) vormen.
+Zie [&#x200B; standaardkijkers &#x200B;](application-setup.md#configuring_default_viewers) vormen.
 
-Zie [ Voorproef een activa ](previewing-asset.md#previewing_an_asset).
+Zie [&#x200B; Voorproef een activa &#x200B;](previewing-asset.md#previewing_an_asset).
 
 **aan voorproef eCatalogs in de eCatalogKijker:**
 
@@ -41,4 +41,4 @@ Zie [ Voorproef een activa ](previewing-asset.md#previewing_an_asset).
 
 >[!MORELIKETHIS]
 >
->* [ de Kijker van de Opstelling eCatalog stelt vooraf in ](setting-ecatalog-viewer-presets.md#setting_up_ecatalog_viewer_presets)
+>* [&#x200B; de Kijker van de Opstelling eCatalog stelt vooraf in &#x200B;](setting-ecatalog-viewer-presets.md#setting_up_ecatalog_viewer_presets)

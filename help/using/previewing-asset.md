@@ -21,11 +21,11 @@ ht-degree: 0%
 
 Met Voorvertonen kunt u zien hoe een digitaal element wordt weergegeven wanneer dit door een klant wordt bekeken. In Voorvertoning wordt de standaardviewer gebruikt die aan het element is toegewezen. Standaardviewers worden geconfigureerd in de toepassingsinstellingen.
 
-Zie [ standaardkijkers ](application-setup.md#configuring_default_viewers) vormen.
+Zie [&#x200B; standaardkijkers &#x200B;](application-setup.md#configuring_default_viewers) vormen.
 
 Als u een voorbeeld van een sjabloonelement met parameterlagen bekijkt, kunt u parameters wijzigen of de voorinstelling voor afbeelding wijzigen. Omdat de wijzigingen inline worden aangebracht, kunt u de resultaten direct vanuit hetzelfde voorvertoningsvenster bekijken.
 
-Zie ook [ de Voorbeelden van de Bibliotheek van de Verwijzing van de Kijkers van Adobe ](https://landing.adobe.com/en/na/dynamic-media/ctir-2755/live-demos.html).
+Zie ook [&#x200B; de Voorbeelden van de Bibliotheek van de Verwijzing van de Kijkers van Adobe &#x200B;](https://landing.adobe.com/en/na/dynamic-media/ctir-2755/live-demos.html).
 
 **aan voorproef een activa:**
 
@@ -84,9 +84,9 @@ U kunt een voorvertoning van een afbeeldingselement weergeven op basis van de vo
 
 Een voorinstelling voor afbeeldingen is een verzameling vooraf gedefinieerde instellingen. Met deze instellingen wijzigt u de grootte, afbeeldingskwaliteit, indeling, resolutie en andere aspecten van de weergave van een afbeelding tijdens het exporteren.
 
-Zie [ Voorinstellingen van het Beeld van de Opstelling ](setting-image-presets.md#setting_up_image_presets).
+Zie [&#x200B; Voorinstellingen van het Beeld van de Opstelling &#x200B;](setting-image-presets.md#setting_up_image_presets).
 
-Zie [ creeer en laat Beeld toe vooraf instelt ](creating-enabling-image-presets.md#creating_and_enabling_image_presets).
+Zie [&#x200B; creeer en laat Beeld toe vooraf instelt &#x200B;](creating-enabling-image-presets.md#creating_and_enabling_image_presets).
 
 **aan voorproef een beeldactiva die op zijn Vooraf ingesteld Beeld wordt gebaseerd:**
 

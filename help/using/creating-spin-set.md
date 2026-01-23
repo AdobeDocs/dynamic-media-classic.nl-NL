@@ -46,7 +46,7 @@ Wanneer u een set maakt, heeft de optie **[!UICONTROL Publish after a save]** op
 | Ja | Gepubliceerd | Gepubliceerd |
 | Nee | Ongepubliceerd | Leden met een set behouden hun gepubliceerde of niet-gepubliceerde status. |
 
-Zie ook [ manueel het publiceren activa ](publishing-files.md#manually-publishing-assets) en [ manueel unpublishing activa ](publishing-files.md#manually-unpublishing-assets).
+Zie ook [&#x200B; manueel het publiceren activa &#x200B;](publishing-files.md#manually-publishing-assets) en [&#x200B; manueel unpublishing activa &#x200B;](publishing-files.md#manually-unpublishing-assets).
 
 Als u een Spin-set maakt, raadt Adobe de volgende aanbevolen procedures aan en past het de volgende limiet toe:
 
@@ -54,7 +54,7 @@ Als u een Spin-set maakt, raadt Adobe de volgende aanbevolen procedures aan en p
 | --- | --- | --- |
 | Maximumaantal rijen/kolommen per 2D-set | 12-18 afbeeldingen per set | 1000 |
 
-Zie ook [ Dynamische beperkingen van Media ](/help/using/limitations.md).
+Zie ook [&#x200B; Dynamische beperkingen van Media &#x200B;](/help/using/limitations.md).
 
 Nadat u een Spin-set hebt opgeslagen, kunt u Voorvertoning in de Build: Spin-set gebruiken om te zien hoe de Spin-set er in de standaardviewer uitziet.
 
@@ -85,7 +85,7 @@ Of u nu een gepubliceerde set of een niet-gepubliceerde set bewerkt, de optie **
 | Nee | Ja | Gepubliceerd | Gepubliceerd |
 | Nee | Nee | Ongepubliceerd | Bestaande leden die zijn ingesteld en eventuele nieuwe leden die u tijdens de bewerking hebt toegevoegd, behouden hun gepubliceerde of niet-gepubliceerde status. |
 
-Zie ook [ manueel het publiceren activa ](publishing-files.md#manually-publishing-assets) en [ manueel unpublishing activa ](publishing-files.md#manually-unpublishing-assets).
+Zie ook [&#x200B; manueel het publiceren activa &#x200B;](publishing-files.md#manually-publishing-assets) en [&#x200B; manueel unpublishing activa &#x200B;](publishing-files.md#manually-unpublishing-assets).
 
 **om een Reeks van de Rotatie uit te geven:**
 
@@ -107,7 +107,7 @@ Zie ook [ manueel het publiceren activa ](publishing-files.md#manually-publishin
 
 Wanneer u een set verwijdert, wordt de set zelf naar de prullenbak verplaatst. De leden (of &quot;kinderen&quot;) binnen die set worden echter niet beïnvloed, maar ze behouden hun bestaande gepubliceerde of niet-gepubliceerde status.
 
-Zie ook [ manueel het publiceren activa ](publishing-files.md#manually-publishing-assets) en [ manueel unpublishing activa ](publishing-files.md#manually-unpublishing-assets).
+Zie ook [&#x200B; manueel het publiceren activa &#x200B;](publishing-files.md#manually-publishing-assets) en [&#x200B; manueel unpublishing activa &#x200B;](publishing-files.md#manually-unpublishing-assets).
 
 **om een Reeks van de Rotatie te schrappen:**
 
