@@ -187,7 +187,7 @@ U kunt afbeeldingsaanpassingen toepassen op het posterframe. U kunt bijvoorbeeld
 
 Zie [&#x200B; een VideoKijker toevoegen of uitgeven vooraf ingesteld &#x200B;](previewing-videos-video-viewer.md#adding_or_editing_a_video_viewer_preset).
 
-Zie [&#x200B; Beeld Servend Gids &#x200B;](https://experienceleague.adobe.com/en/docs/dynamic-media-developer-resources/image-serving-api/image-serving-api/c-is-home#image-serving-api).
+Zie [&#x200B; Beeld Servend Gids &#x200B;](https://experienceleague.adobe.com/nl/docs/dynamic-media-developer-resources/image-serving-api/image-serving-api/c-is-home#image-serving-api).
 
 U kunt videominiaturen ook wijzigen door wijzigingstoetsen toe te voegen aan videominiaturen-URL&#39;s.
 

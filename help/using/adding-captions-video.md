@@ -38,7 +38,7 @@ Zie ook [&#x200B; vooraf instelt van de Kijker toevoegen en uitgeven &#x200B;](a
 
 Adobe Dynamic Media Classic kan bijschriftbestanden omzetten in de indeling JSON (JavaScript Object Notation). Deze conversie betekent dat u de JSON-tekst kunt insluiten in een webpagina als een verborgen, maar volledige transcriptie van de video. Zoekprogramma&#39;s kunnen dan door de inhoud kruipen en deze indexeren, zodat de video&#39;s gemakkelijker te vinden zijn en klanten meer informatie krijgen over de video-inhoud.
 
-Zie [&#x200B; statische (niet beeld) inhoud &#x200B;](https://experienceleague.adobe.com/en/docs/dynamic-media-developer-resources/image-serving-api/image-serving-api/c-serving-static-nonimage-contents#image-serving-api) binnen voor meer informatie over het gebruiken van de functie JSON in een URL.
+Zie [&#x200B; statische (niet beeld) inhoud &#x200B;](https://experienceleague.adobe.com/nl/docs/dynamic-media-developer-resources/image-serving-api/image-serving-api/c-serving-static-nonimage-contents#image-serving-api) binnen voor meer informatie over het gebruiken van de functie JSON in een URL.
 
 **om titels aan een video toe te voegen:**
 

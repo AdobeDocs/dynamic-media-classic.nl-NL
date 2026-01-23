@@ -48,7 +48,7 @@ Nadat u een Reeks van het Beeld publiceert, kunt u zijn bijbehorende URL of zijn
 
 De gemeenschappelijkste manier om de Reeksen van het Beeld op te stellen is een verbinding (als navigatiepictogram) op uw Web-pagina te plaatsen. Als deze optie is geselecteerd, wordt een dynamische pagina (JSP) gestart waarop de Afbeeldingsset wordt weergegeven in een pop-upzoomvenster. Met de zoomkoppeling wordt een pop-upvenster geopend dat de eigenlijke zoomfunctie bevat.
 
-Voor meer details en codesteekproeven, zie de [&#x200B; Ingebedde Kijker van het Gezoem HTML5 &#x200B;](https://experienceleague.adobe.com/en/docs/dynamic-media-developer-resources/library/viewers-aem-assets-dmc/zoom/c-html5-20-zoom-viewer-about#section-e1c3106f5b3e445d9b95be337c2f94e2) in de Gids van de Verwijzing van de Kijkers van Adobe.
+Voor meer details en codesteekproeven, zie de [&#x200B; Ingebedde Kijker van het Gezoem HTML5 &#x200B;](https://experienceleague.adobe.com/nl/docs/dynamic-media-developer-resources/library/viewers-aem-assets-dmc/zoom/c-html5-20-zoom-viewer-about#section-e1c3106f5b3e445d9b95be337c2f94e2) in de Gids van de Verwijzing van de Kijkers van Adobe.
 
 ## De ingesloten code van een viewer voor een afbeeldingsset kopiëren {#copying-the-embed-code-of-an-image-set-viewer}
 
