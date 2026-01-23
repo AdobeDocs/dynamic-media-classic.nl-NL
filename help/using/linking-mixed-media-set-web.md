@@ -10,7 +10,7 @@ role: User
 exl-id: 76a7530c-0cc7-4a7f-bc31-2950c4946871
 topic: Content Management
 level: Intermediate
-source-git-commit: ad7e20fdbe9028c6255865cce95d109f9e9eeab2
+source-git-commit: c4613c78347c4bda3d84747a72146617158c03b6
 workflow-type: tm+mt
 source-wordcount: '586'
 ht-degree: 0%
@@ -44,11 +44,11 @@ Nadat u een Gemengde Reeks van Media publiceert, kunt u zijn bijbehorende URL vo
 
 De gemeenschappelijkste manier om een Gemengde Reeks van Media op te stellen is een verbinding (als navigatiepictogram) op uw Web-pagina te plaatsen. Als deze optie is geselecteerd, wordt een dynamische pagina (ASP of JSP) gestart waarop de gemengde mediaset in de gemengde mediaset van de viewer wordt weergegeven.
 
-## Kopieer de insluitcode van een viewer met gemengde mediaset {#copying-the-embed-code-of-a-mixed-media-set-viewer}
+## De ingesloten code van een gemengde mediaset-viewer kopiëren {#copying-the-embed-code-of-a-mixed-media-set-viewer}
 
-Met de functie Code insluiten kunt u de viewercode voor de geselecteerde gemengde mediaset controleren. U kunt de code aan het klembord ook kopiëren zodat kunt u het in uw Web-pagina&#39;s voor plaatsing van de kijker kleven. U mag de code niet bewerken in het dialoogvenster Code insluiten.
+Met de ingesloten codefunctie kunt u de viewercode voor de geselecteerde gemengde mediaset controleren. U kunt de code aan het klembord ook kopiëren zodat kunt u het in uw Web-pagina&#39;s voor plaatsing van de kijker kleven. U mag de code niet bewerken in het dialoogvenster Code insluiten.
 
-**om de Embed Code van een Gemengde Vastgestelde kijker van Media te kopiëren:**
+**om de ingebedde code van een Gemengde Vastgestelde kijker van Media te kopiëren:**
 
 1. Selecteer **[!UICONTROL Mixed Media Set]** in de vervolgkeuzelijst Tonen in het deelvenster Asset Browse.
 1. Navigeer in het deelvenster Elementenbibliotheek aan de linkerkant naar de elementenmap die de gemengde mediaset bevat waarvan u de insluitcode wilt kopiëren.
@@ -75,4 +75,4 @@ Met de functie Code insluiten kunt u de viewercode voor de geselecteerde gemengd
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; publiceer &#x200B;](publishing-files.md#publishing_files)
+>* [ publiceer ](publishing-files.md#publishing_files)

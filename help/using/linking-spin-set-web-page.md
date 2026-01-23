@@ -10,7 +10,7 @@ role: User
 exl-id: af75547e-20e8-44c2-b165-01532d6e21d0
 topic: Content Management
 level: Intermediate
-source-git-commit: ad7e20fdbe9028c6255865cce95d109f9e9eeab2
+source-git-commit: c4613c78347c4bda3d84747a72146617158c03b6
 workflow-type: tm+mt
 source-wordcount: '661'
 ht-degree: 0%
@@ -54,11 +54,11 @@ https://sample.scene7.com/s7ondemand/spin/viewer.jsp?company=S7Web&sku=backpack_
 
 In dit URL-syntaxisvoorbeeld (de koppeling is niet live), ziet u een SKU-nummer ( `sku=backpack_spin`). De tekenreeks na `sku=` is de naam van de centrifugeset ( `backpack spin` ).
 
-## De insluitcode van een viewer voor een centrifuge kopiëren {#copying-the-embed-code-of-a-spin-set-viewer}
+## De ingesloten code van een viewer voor een centrifuge-set kopiëren {#copying-the-embed-code-of-a-spin-set-viewer}
 
-Met de functie Code insluiten kunt u de viewercode voor de geselecteerde centrifugeset controleren. U kunt de code aan het klembord ook kopiëren zodat kunt u het in uw Web-pagina&#39;s voor plaatsing van de kijker kleven. U mag de code niet bewerken in het dialoogvenster Code insluiten.
+Met de ingesloten codefunctie kunt u de viewercode voor de geselecteerde centrifugeset controleren. U kunt de code aan het klembord ook kopiëren zodat kunt u het in uw Web-pagina&#39;s voor plaatsing van de kijker kleven. U mag de code niet bewerken in het dialoogvenster Code insluiten.
 
-**om de Embed Code van een Vastgestelde kijker van de Rotatie te kopiëren:**
+**om de ingebedde code van een Vastgestelde kijker van de Rotatie te kopiëren:**
 
 1. Selecteer **[!UICONTROL Spin Set]** in de vervolgkeuzelijst Tonen in het deelvenster Asset Browse.
 1. Navigeer in het deelvenster Elementenbibliotheek aan de linkerkant naar de elementenmap die de Spin-set bevat waarvan u de insluitcode wilt kopiëren.

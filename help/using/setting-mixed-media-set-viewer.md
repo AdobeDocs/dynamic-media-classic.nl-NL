@@ -10,9 +10,9 @@ role: User
 exl-id: d41b30e7-994a-43f3-8698-7dbfc36305ae
 topic: Content Management
 level: Intermediate
-source-git-commit: 5140b62c76970cfcee271664f11b1ff605625fe7
+source-git-commit: c4613c78347c4bda3d84747a72146617158c03b6
 workflow-type: tm+mt
-source-wordcount: '587'
+source-wordcount: '588'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Met voorinstellingen voor gemengde mediaset bepaalt u de stijl, het gedrag en de vormgeving van de hoofdviewer. Wanneer u een voorinstelling configureert, geeft u op welke andere viewers u in de gemengde Media Viewer wilt weergeven. Als u bijvoorbeeld een Afbeelding hebt opgenomen die is ingesteld in uw gemengde mediaset, geeft u een voorinstelling voor de Afbeeldingsset Viewer op voor de viewer voor gemengde mediaset.
 
-U kunt alle of sommige gemeenschapseigenschappen in de Gemengde Kijker van de Dataset opnemen. Met de functie Insluiten voegt u een koppeling toe aan de viewer waarmee gebruikers de code kunnen kopiëren die nodig is om de viewer weer te geven op een externe pagina (zoals een blog, website of sociale netwerksite). De functie Koppelen biedt de URL naar de viewer, zodat gebruikers een koppeling naar deze viewer kunnen maken. De functie Bezoek bevat een koppeling naar de website die u opgeeft.
+U kunt alle of sommige gemeenschapseigenschappen in de Gemengde Kijker van de Dataset opnemen. De insluitingsfunctie voegt een koppeling naar de viewer toe waarmee gebruikers de code kunnen kopiëren die nodig is om de viewer in een externe pagina weer te geven (zoals een blog, website of sociale netwerksite). De functie Koppelen biedt de URL naar de viewer, zodat gebruikers een koppeling naar deze viewer kunnen maken. De Bezochte eigenschap verstrekt een verbinding aan de Website die u specificeert.
 
 1. Ga op de algemene navigatiebalk naar **[!UICONTROL Setup]** > **[!UICONTROL Viewer Presets]** .
 1. Voer een van de volgende handelingen uit op de pagina Voorinstellingen viewer:
@@ -50,7 +50,7 @@ U kunt alle of sommige gemeenschapseigenschappen in de Gemengde Kijker van de Da
    * Als u een voorinstelling uit de lijst wilt verwijderen, selecteert u deze en selecteert u vervolgens **[!UICONTROL Delete]** .
    * Als u de volgorde van voorinstellingen in de lijst wilt wijzigen, selecteert u een voorinstelling en selecteert u vervolgens de blauwe **[!UICONTROL Up]** of **[!UICONTROL Down]** pijl.
 
-1. Als u communityfuncties (Insluiten, Koppeling, Bezoek) wilt toevoegen aan de viewer, geeft u opties op voor een van de volgende opties:
+1. Als u communityfuncties (Insluiten, Koppeling, Bezocht) wilt toevoegen aan de viewer, geeft u opties op voor een van de volgende opties:
 
    * **E-mail**: Selecteer **[!UICONTROL On]** om een E-mailknoop in de kijker toe te laten. Wanneer gebruikers de knop E-mail selecteren terwijl ze de set bekijken, wordt een e-mail met de koppeling naar de set geopend.
 
@@ -68,4 +68,4 @@ U kunt alle of sommige gemeenschapseigenschappen in de Gemengde Kijker van de Da
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; creeer en geef Kijker uit vooraf instelt &#x200B;](application-setup.md#adding_and_editing_viewer_presets)
+>* [ creeer en geef Kijker uit vooraf instelt ](application-setup.md#adding_and_editing_viewer_presets)

@@ -10,7 +10,7 @@ role: User
 exl-id: 4b3e8368-f8f5-46d9-9130-361a8273de2c
 topic: Content Management
 level: Intermediate
-source-git-commit: 5140b62c76970cfcee271664f11b1ff605625fe7
+source-git-commit: c4613c78347c4bda3d84747a72146617158c03b6
 workflow-type: tm+mt
 source-wordcount: '2163'
 ht-degree: 0%
@@ -39,9 +39,9 @@ Als u een afbeelding te veel verscherpt, ontstaat een halo-effect of een streep 
 
 U kunt de beste werkwijzen volgen om de verscherping van uw afbeeldingen in Adobe Dynamic Media Classic en op Dynamic Media Image Server te optimaliseren.
 
-Zie [&#x200B; Beste praktijken voor het verscherpen van beelden in Adobe Dynamic Media Classic en op de Dynamische Server van het Beeld van Media &#x200B;](/help/using/assets/s7_sharpening_images.pdf).
+Zie [ Beste praktijken voor het verscherpen van beelden in Adobe Dynamic Media Classic en op de Dynamische Server van het Beeld van Media ](/help/using/assets/s7_sharpening_images.pdf).
 
-Zie ook [&#x200B; het Verscherpen &#x200B;](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&emailurl=https://s7d5.scene7.com/s7/emailFriend&serverUrl=https://s7d5.scene7.com/is/image/&config=Scene7SharedAssets/Universal_HTML5_Video&contenturl=https://s7d5.scene7.com/skins/&asset=S7tutorials/547_sharpening1_converted%20renamed_Done-AVS) trainingsvideo.
+Zie ook [ het Verscherpen ](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&emailurl=https://s7d5.scene7.com/s7/emailFriend&serverUrl=https://s7d5.scene7.com/is/image/&config=Scene7SharedAssets/Universal_HTML5_Video&contenturl=https://s7d5.scene7.com/skins/&asset=S7tutorials/547_sharpening1_converted%20renamed_Done-AVS) trainingsvideo.
 
 **om een beeld te verscherpen:**
 
@@ -59,7 +59,7 @@ In de volgende tabel worden de verscherpingsopties voor de afbeeldingsserver wee
 | --- | --- | --- | --- |
 | Eenvoudig verscherpen | `op_sharpen` | `0` of `1` | `op_sharpen=1` |
 | Modus Nieuwe pixels berekenen | `resMode` | `bilin` , `bicub` , `sharp2` , `trilin`<br><br>`bilin` : hiermee selecteert u de standaard bi-lineaire interpolatie. De snelste methode voor het berekenen van nieuwe pixels. Sommige aliasingartefacten zijn vaak opvallend.<br>`bicub`: hiermee selecteert u bi-cubische interpolatie. Meer CPU-intensief dan `bilin`, maar geeft scherpere beelden met minder merkbare aliasing artefacten.<br><br>`sharp2`: hiermee wordt een aangepaste Lanczos Windows®-functie geselecteerd als een interpolatiealgoritme. Het kan iets scherpere resultaten dan bi-cubisch tegen hogere kosten van CPU veroorzaken.<br><br>`trilin`: hiermee selecteert u een aangepaste trilineaire interpolatie, waarbij zowel een hogere als een lagere resolutie wordt gebruikt, indien beschikbaar. Wordt alleen aangeraden wanneer aliasing een probleem is. Hiermee verlaagt u de JPEG-formaten als gevolg van gereduceerde gegevens met hoge frequentie. | `resMode=sharp2` |
-| Onscherp masker | `op_usm` | `amount`, `radius`, `threshold`, `monochrome`<br><br>`amount`: filtersterktefactor (reëel 0...5) <br><br>`radius`: de straal van de filterkernel in pixel (reëel 0...250) <br><br>`threshold`: het niveau van de filterdrempel (int 0...255) <br><br>`monochrome` wordt geplaatst aan `0` aan unshark-masker elk kleurencomponent afzonderlijk, die aan `1` aan unsharp-masker helderheid beeld wordt geplaatst ness (intensiteit) | `op_usm=1,1,10,0` |
+| Onscherp masker | `op_usm` | `amount`, `radius`, `threshold`, `monochrome`<br><br>`amount`: filtersterktefactor (reëel 0...5) <br><br>`radius`: de straal van de filterkernel in pixel (reëel 0...250) <br><br>`threshold`: het niveau van de filterdrempel (geheel 0...255) <br><br>`monochrome` wordt geplaatst aan `0` aan unshark-masker elke kleurencomponent afzonderlijk, die aan `1` wordt geplaatst aan unsharp-masker helderheid beeld ness (intensiteit) | `op_usm=1,1,10,0` |
 
 Selecteer het menu **[!UICONTROL Sharpening]** en kies een optie:
 
@@ -134,7 +134,7 @@ Tenzij u wijzigingstoetsen voor verscherpende afbeeldingen hebt toegevoegd aan d
 
 Met voorinstellingen voor viewers (zoals voorinstellingen voor afbeeldingen) kunt u veel opties centraliseren in één locatie, waaronder een keuze voor de skin- en vieweropties (zoals een knop Afdrukken of de snelheid van de zoomanimatie bepalen). Viewer Presets vindt u in dezelfde sectie als Voorinstellingen afbeelding onder **[!UICONTROL Setup]** > **[!UICONTROL Application Settings]** > **[!UICONTROL Viewer Presets]** .
 
-Zie [&#x200B; Kijker vooraf instelt &#x200B;](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&emailurl=https://s7d5.scene7.com/s7/emailFriend&serverUrl=https://s7d5.scene7.com/is/image/&config=Scene7SharedAssets/Universal_HTML5_Video&contenturl=https://s7d5.scene7.com/skins/&asset=S7tutorials/550_viewer-presets_converted%20renamed_Done-AVS) opleidingsvideo.
+Zie [ Kijker vooraf instelt ](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&emailurl=https://s7d5.scene7.com/s7/emailFriend&serverUrl=https://s7d5.scene7.com/is/image/&config=Scene7SharedAssets/Universal_HTML5_Video&contenturl=https://s7d5.scene7.com/skins/&asset=S7tutorials/550_viewer-presets_converted%20renamed_Done-AVS) opleidingsvideo.
 
 De optie Modifiers bevindt zich onder de sectie Core Settings van alle voorinstellingen voor eCatalog, Centrifugeren en Aangepast zoomen Viewer. Door de URL-verscherpingsopdrachten toe te voegen aan het vak Modifiers, voegt u verscherping toe telkens wanneer de viewer wordt aangeroepen met die Viewer-voorinstelling.
 

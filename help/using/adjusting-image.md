@@ -10,9 +10,9 @@ role: User
 exl-id: 880ee6d0-cb0a-4d53-9056-f0b8b292136e
 topic: Content Management
 level: Intermediate
-source-git-commit: 5140b62c76970cfcee271664f11b1ff605625fe7
+source-git-commit: c4613c78347c4bda3d84747a72146617158c03b6
 workflow-type: tm+mt
-source-wordcount: '516'
+source-wordcount: '514'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Adobe Dynamic Media Classic biedt verschillende opdrachten voor het aanpassen van de weergave van een afbeelding. U kunt een afbeelding spiegelen, roteren, vervagen, de kleurbalans wijzigen en inkleuren. Wanneer u met deze opdrachten experimenteert, kunt u de effecten van de opdrachten op de afbeelding zien waarmee u werkt.
 
-Zie ook [&#x200B; een alias voor een beeld &#x200B;](adjusting-image.md#creating_an_alias_for_an_image) creëren.
+Zie ook [ een alias voor een beeld ](adjusting-image.md#creating_an_alias_for_an_image) creëren.
 
 **om een beeld aan te passen:**
 
@@ -30,7 +30,7 @@ Zie ook [&#x200B; een alias voor een beeld &#x200B;](adjusting-image.md#creating
 1. Gebruik de opdrachten aan de rechterkant van het `Adjust Editor` -venster om de afbeelding aan te passen:
 
    * Gebruik de opties voor spiegelen om een afbeelding horizontaal of verticaal om te draaien.
-   * Gebruik de schuifregelaar Roteren om de afbeelding te roteren. U kunt waarden invoeren in het veld Roteren om een afbeelding te roteren. Bij een positieve waarde wordt de waarde rechtsom geroteerd en bij een negatieve waarde wordt de waarde linksom geroteerd.
+   * Gebruik de schuifregelaar **[!UICONTROL Rotator]** om de afbeelding te roteren. U kunt waarden invoeren in het veld **[!UICONTROL Rotator]** om een afbeelding te roteren. Bij een positieve waarde wordt de waarde rechtsom geroteerd en bij een negatieve waarde wordt de waarde linksom geroteerd.
    * Gebruik de schuifregelaar Vervagen of het bijbehorende vak om een afbeelding te vervagen. Hoe hoger de waarde, hoe vager de afbeelding wordt.
    * Gebruik de opties Contrast, Helderheid, Verzadiging, Kleurtoon en Kleurbalans om de kleur en helderheid aan te passen. Deze effecten zijn cumulatief. Wijzigingen in de instellingen voor Magenta/Groen worden bijvoorbeeld toegevoegd aan wijzigingen die zijn aangebracht in de instellingen voor Kleurtoon.
    * Gebruik de opties in `Colorize` om een afbeelding te vullen met kleur en tegelijkertijd de schaduwen en hooglichten te behouden. Wijzigingen in de opties voor Vullen met kleur zijn ook cumulatief. Kies **[!UICONTROL No Compensation]** in het menu Helderheid, zodat u automatische helderheidscompensatie uitschakelt. Stel de contrastwaarde in op 0 om het contrastbereik van de oorspronkelijke afbeelding te behouden of geef een contrastbereik op met een waarde groter dan 0. Bij een waarde van 100 wordt het contrast gemaximaliseerd. De typische waarden liggen in het bereik 30-70.

@@ -9,9 +9,9 @@ role: User
 exl-id: 66a1ab20-6036-4c3d-bb66-dd06d917c7f2
 topic: Content Management
 level: Intermediate
-source-git-commit: 5140b62c76970cfcee271664f11b1ff605625fe7
+source-git-commit: c4613c78347c4bda3d84747a72146617158c03b6
 workflow-type: tm+mt
-source-wordcount: '695'
+source-wordcount: '693'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ Ondertiteling maakt ook een betere toegankelijkheid mogelijk door ondertiteling 
 
 >[!NOTE]
 >
->De gebruikte videospeler moet de weergave van bijschriften ondersteunen.
+>De gebruikte videospeler moet de vertoning van titels steunen.
 
 U configureert het effect Bijschrift en bewerkt het menu Bijschrift zelf, inclusief de menutekst voor een van de volgende gebruikers:
 
@@ -32,13 +32,13 @@ U configureert het effect Bijschrift en bewerkt het menu Bijschrift zelf, inclus
 * `Universal_HTML5_MixedMedia_dark` viewer
 * `Universal_HTML5_MixedMedia_light` viewer
 
-Zie [&#x200B; een VideoKijker toevoegen of uitgeven vooraf ingesteld &#x200B;](previewing-videos-video-viewer.md#adding_or_editing_a_video_viewer_preset).
+Zie [ een VideoKijker toevoegen of uitgeven vooraf ingesteld ](previewing-videos-video-viewer.md#adding_or_editing_a_video_viewer_preset).
 
-Zie ook [&#x200B; vooraf instelt van de Kijker toevoegen en uitgeven &#x200B;](application-setup.md#adding_and_editing_viewer_presets).
+Zie ook [ vooraf instelt van de Kijker toevoegen en uitgeven ](application-setup.md#adding_and_editing_viewer_presets).
 
 Adobe Dynamic Media Classic kan bijschriftbestanden omzetten in de indeling JSON (JavaScript Object Notation). Deze conversie betekent dat u de JSON-tekst kunt insluiten in een webpagina als een verborgen, maar volledige transcriptie van de video. Zoekprogramma&#39;s kunnen dan door de inhoud kruipen en deze indexeren, zodat de video&#39;s gemakkelijker te vinden zijn en klanten meer informatie krijgen over de video-inhoud.
 
-Zie [&#x200B; statische (niet beeld) inhoud &#x200B;](https://experienceleague.adobe.com/nl/docs/dynamic-media-developer-resources/image-serving-api/image-serving-api/c-serving-static-nonimage-contents#image-serving-api) binnen voor meer informatie over het gebruiken van de functie JSON in een URL.
+Zie [ statische (niet beeld) inhoud ](https://experienceleague.adobe.com/en/docs/dynamic-media-developer-resources/image-serving-api/image-serving-api/c-serving-static-nonimage-contents#image-serving-api) binnen voor meer informatie over het gebruiken van de functie JSON in een URL.
 
 **om titels aan een video toe te voegen:**
 
@@ -46,11 +46,11 @@ Zie [&#x200B; statische (niet beeld) inhoud &#x200B;](https://experienceleague.a
 
    | Type viewer | Ondertitelingsbestand |
    |--- |--- |
-   | HTML5 | Als u een HTML5-videoviewer gebruikt, moet u ervoor zorgen dat het bijschriftbestand dat u maakt, voldoet aan de WebVTT-standaard (Web Video Text Tracks). De bestandsnaamextensie voor ondertiteling is `.VTT` . U kunt meer informatie over de WebVTT ondertitelingsnorm leren.<br><br>[&#x200B; zie WebVTT &#x200B;](https://w3c.github.io/webvtt/): Het formaat van de Tracks van de Tekst van het Web Video. <br><br> er zijn vele websites die zowel vrije als op prijs-gebaseerde hulpmiddelen en de diensten aanbieden die u aan auteurWebVTT titeldossiers kunt gebruiken. <br><br> volg de instructies op het scherm van een plaats aan auteur en sla uw WebVTT- dossier op. Wanneer u klaar bent, kopieert u de inhoud van het bijschriftbestand en plakt u deze in een teksteditor zonder opmaak en slaat u het bestand op met de bestandsnaamextensie VTT. <br><br><b> Nota:</b> voor globale steun van videotitels in andere talen dan het Engels, vereist de norm WebVTT dat u afzonderlijke `.VTT` dossiers creeert en roept voor elke taal u wilt steunen. <br><br> over het algemeen, wilt u het dossier van de titelVTT de zelfde naam zoals het videodossier noemen, en het toevoegen met titels. Hierdoor kunt u de generatie van de video-URL&#39;s automatiseren met behulp van uw bestaande systeem voor webcontentbeheer. |
+   | HTML5 | Als u een HTML5-videoviewer gebruikt, moet u ervoor zorgen dat het bijschriftbestand dat u maakt, voldoet aan de WebVTT-standaard (Web Video Text Tracks). De bestandsnaamextensie voor ondertiteling is `.VTT` . U kunt meer informatie over de WebVTT ondertitelingsnorm leren.<br><br>[ zie WebVTT ](https://w3c.github.io/webvtt/): Het formaat van de Tracks van de Tekst van het Web Video. <br><br> er zijn vele websites die zowel vrije als op prijs-gebaseerde hulpmiddelen en de diensten aanbieden die u aan auteurWebVTT titeldossiers kunt gebruiken. <br><br> volg de instructies op het scherm van een plaats aan auteur en sla uw WebVTT- dossier op. Wanneer u klaar bent, kopieert u de inhoud van het bijschriftbestand en plakt u deze in een teksteditor zonder opmaak en slaat u het bestand op met de bestandsnaamextensie VTT. <br><br><b> Nota:</b> voor globale steun van videotitels in andere talen dan het Engels, vereist de norm WebVTT dat u afzonderlijke `.VTT` dossiers creeert en roept voor elke taal u wilt steunen. <br><br> over het algemeen, wilt u het dossier van de titelVTT de zelfde naam zoals het videodossier noemen, en het toevoegen met titels. Hierdoor kunt u de generatie van de video-URL&#39;s automatiseren met behulp van uw bestaande systeem voor webcontentbeheer. |
 
 1. Upload in Adobe Dynamic Media Classic uw WebVTT-, DFXP- of SMPTE XML-bijschriftbestand.
 
-   Zie [&#x200B; dossiers &#x200B;](uploading-files.md#uploading_files) uploaden.
+   Zie [ dossiers ](uploading-files.md#uploading_files) uploaden.
 
 1. Navigeer in het deelvenster Elementenbibliotheek aan de linkerkant naar de elementenmap die het videobestand bevat dat u wilt koppelen aan het bijschriftbestand dat u hebt geüpload.
 1. Selecteer in het deelvenster Asset Browse één video-element en selecteer vervolgens onder de miniatuurafbeelding van het element **[!UICONTROL Preview]** > **[!UICONTROL Viewer List]** .

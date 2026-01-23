@@ -10,7 +10,7 @@ role: User
 exl-id: 4b3f690c-7dff-4bf0-9366-085ba918fe6b
 topic: Content Management
 level: Intermediate
-source-git-commit: 5140b62c76970cfcee271664f11b1ff605625fe7
+source-git-commit: c4613c78347c4bda3d84747a72146617158c03b6
 workflow-type: tm+mt
 source-wordcount: '1377'
 ht-degree: 0%
@@ -23,7 +23,7 @@ Als u bestandsmiddelen wilt zoeken in Adobe Dynamic Media Classic, kunt u elemen
 
 >[!NOTE]
 >
->De persoonlijke pagina van de Opstelling biedt opties om te kiezen hoe u onderzoeken wilt leiden. U kunt bijvoorbeeld een standaardzoektype kiezen en aangeven of u door de gebruiker gedefinieerde velden wilt opnemen in zoekopdrachten. Voor meer informatie, zie [&#x200B; Persoonlijke Opstelling &#x200B;](personal-setup.md#personal_setup).
+>De persoonlijke pagina van de Opstelling biedt opties om te kiezen hoe u onderzoeken wilt leiden. U kunt bijvoorbeeld een standaardzoektype kiezen en aangeven of u door de gebruiker gedefinieerde velden wilt opnemen in zoekopdrachten. Voor meer informatie, zie [ Persoonlijke Opstelling ](personal-setup.md#personal_setup).
 
 ## Elementen weergeven op type {#viewing-assets-by-type}
 
@@ -107,7 +107,7 @@ Voer de volgende stappen uit, zodat u elementen kunt zoeken door te filteren met
 
    Als u een filterbewerking wilt uitvoeren die u hebt gemaakt en opgeslagen, selecteert u **[!UICONTROL Select Preset]** en kiest u vervolgens de naam van de bewerking in het menu.
 
-   Zie [&#x200B; sparen, herhalen, en schrapt filterverrichtingen &#x200B;](searching-assets.md#saving_repeating_and_deleting_filter_operations).
+   Zie [ sparen, herhalen, en schrapt filterverrichtingen ](searching-assets.md#saving_repeating_and_deleting_filter_operations).
 
 1. Klik op **[!UICONTROL Field]** in een deelvenster en volg deze instructies zodat u het filtermenu kunt weergeven en de filterbewerking kunt samenstellen:
 
@@ -155,19 +155,19 @@ De metagegevensserver is een openbare API die u kunt gebruiken om via http-verzo
 
 Ga naar **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Publish Setup]** > **[!UICONTROL Metadata Server]** om de metagegevensserver te configureren.
 
-Op de pagina Publiceren Metagegevensserver kunt u de volgende opties instellen:
+Op de pagina Metadata Server Publisher kunt u de volgende opties instellen:
 
-* **[!UICONTROL Instant Publish]**: Hiermee worden eventuele wijzigingen in metagegevens automatisch doorgevoerd wanneer deze worden doorgevoerd, zoals nieuwe elementen, trefwoordwijzigingen, enzovoort.
+* **[!UICONTROL Instant Publishing]**: Hiermee worden eventuele wijzigingen in metagegevens automatisch doorgevoerd wanneer deze worden doorgevoerd, zoals nieuwe elementen, trefwoordwijzigingen, enzovoort.
 
 * **[!UICONTROL XMP Packet]**: publiceert het XMP-pakket. Dit pakket wordt niet gebruikt voor het zoeken, maar verstrekt de meest bijgewerkte XMP.
 
 * **[!UICONTROL Keywords]**: publiceert uw trefwoorden naar de metagegevensserver voor gebruik in zoekopdrachten.
 
-* **[!UICONTROL Metadata Server Publish Fields]**: selecteer de velden die u wilt opnemen in de metagegevens. Met deze optie kunt u bepalen hoeveel informatie over uw elementen beschikbaar is voor het publiek. Deze velden worden ook weergegeven in Metagegevensweergaven, maar kunnen alleen worden gewijzigd op de metagegevensserver.
+* **[!UICONTROL Metadata Server Publishing Fields]**: selecteer de velden die u wilt opnemen in de metagegevens. Met deze optie kunt u bepalen hoeveel informatie over uw elementen beschikbaar is voor het publiek. Deze velden worden ook weergegeven in Metagegevensweergaven, maar kunnen alleen worden gewijzigd op de metagegevensserver.
 
 Selecteer **[!UICONTROL Publish Now]** om de taak te starten. Er wordt een bevestiging weergegeven met de mededeling dat de taak is gestart.
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; de grondbeginselen van de Navigatie &#x200B;](navigation-basics.md#navigation_basics)
->* [&#x200B; Mening, voeg, en de uitvoermeta-gegevens toe &#x200B;](viewing-adding-exporting-metadata.md#viewing_adding_and_exporting_metadata)
+>* [ de grondbeginselen van de Navigatie ](navigation-basics.md#navigation_basics)
+>* [ Mening, voeg, en de uitvoermeta-gegevens toe ](viewing-adding-exporting-metadata.md#viewing_adding_and_exporting_metadata)

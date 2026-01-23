@@ -10,9 +10,9 @@ role: User
 exl-id: 391eb7ce-ed89-47a8-a6c6-5adb3e95bf78
 topic: Content Management
 level: Intermediate
-source-git-commit: 8dc990a1fb1355b00fa4839e14b92bb6562d40b4
+source-git-commit: c4613c78347c4bda3d84747a72146617158c03b6
 workflow-type: tm+mt
-source-wordcount: '597'
+source-wordcount: '595'
 ht-degree: 0%
 
 ---
@@ -30,7 +30,7 @@ In het deelvenster Bladeren kunt u elementen naar verschillende mappen verplaats
 1. Selecteer het element of de elementen in het deelvenster Bladeren en voer een van de volgende handelingen uit:
 
    * Geef de map weer waarnaar u de elementen wilt verplaatsen in de elementenbibliotheek en sleep de elementen naar de map.
-   * Ga naar **[!UICONTROL File]** > **[!UICONTROL Move]** , selecteer een map in het venster Assets verplaatsen en selecteer **[!UICONTROL Move]** .
+   * Ga naar **[!UICONTROL File]** > **`Move`** , selecteer een map in het `Move Assets` -venster en selecteer **`Move`** .
 
 ## Elementen hernoemen {#rename-assets}
 
@@ -78,6 +78,6 @@ Als u elementen verwijdert uit een tekstbestand en er geen Adobe Dynamic Media C
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Selecteer activa in het Browse paneel &#x200B;](selecting-assets-browse-panel.md#selecting_assets_in_the_browse_panel)
->* [&#x200B; bereidt uw activa en omslagen voor het uploaden &#x200B;](uploading-files.md#preparing_your_assets_and_folders_for_uploading) voor
->* [&#x200B; herstelt activa van de omslag van het Afval &#x200B;](trash-folder.md#restoring_assets_from_the_trash_folder)
+>* [ Selecteer activa in het Browse paneel ](selecting-assets-browse-panel.md#selecting_assets_in_the_browse_panel)
+>* [ bereidt uw activa en omslagen voor het uploaden ](uploading-files.md#preparing_your_assets_and_folders_for_uploading) voor
+>* [ herstelt activa van de omslag van het Afval ](trash-folder.md#restoring_assets_from_the_trash_folder)

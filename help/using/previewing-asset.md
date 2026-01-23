@@ -10,7 +10,7 @@ role: User
 exl-id: 7e6f652c-b197-4171-b11b-f532795f7cf2
 topic: Content Management
 level: Intermediate
-source-git-commit: bc3b696bfde0ed55894cdcbf3533299ae7697e98
+source-git-commit: c4613c78347c4bda3d84747a72146617158c03b6
 workflow-type: tm+mt
 source-wordcount: '943'
 ht-degree: 0%
@@ -21,11 +21,11 @@ ht-degree: 0%
 
 Met Voorvertonen kunt u zien hoe een digitaal element wordt weergegeven wanneer dit door een klant wordt bekeken. In Voorvertoning wordt de standaardviewer gebruikt die aan het element is toegewezen. Standaardviewers worden geconfigureerd in de toepassingsinstellingen.
 
-Zie [&#x200B; standaardkijkers &#x200B;](application-setup.md#configuring_default_viewers) vormen.
+Zie [ standaardkijkers ](application-setup.md#configuring_default_viewers) vormen.
 
 Als u een voorbeeld van een sjabloonelement met parameterlagen bekijkt, kunt u parameters wijzigen of de voorinstelling voor afbeelding wijzigen. Omdat de wijzigingen inline worden aangebracht, kunt u de resultaten direct vanuit hetzelfde voorvertoningsvenster bekijken.
 
-Zie ook [&#x200B; de Voorbeelden van de Bibliotheek van de Verwijzing van de Kijkers van Adobe &#x200B;](https://landing.adobe.com/en/na/dynamic-media/ctir-2755/live-demos.html).
+Zie ook [ de Voorbeelden van de Bibliotheek van de Verwijzing van de Kijkers van Adobe ](https://landing.adobe.com/en/na/dynamic-media/ctir-2755/live-demos.html).
 
 **aan voorproef een activa:**
 
@@ -72,7 +72,7 @@ Voor een bepaald viewerplatform kunt u in het venster Viewer List visueel zien w
 
    * Selecteer in het venster Viewer List onder de kolom Acties van de tabel de optie **[!UICONTROL Embed Code]** .
 
-     Wanneer u **[!UICONTROL Embed Code]** selecteert, wordt het venster Code insluiten geopend waarin u de viewercode kunt bekijken. Het bewerken van de code is niet toegestaan in het venster. U kunt de code aan het klembord ook kopiëren zodat kunt u het in uw Web-pagina&#39;s kleven.
+     Wanneer u **[!UICONTROL Embed Code]** selecteert, wordt het venster Ingesloten code geopend waarin u de viewercode kunt bekijken. Het bewerken van de code is niet toegestaan in het venster. U kunt de code aan het klembord ook kopiëren zodat kunt u het in uw Web-pagina&#39;s kleven.
 
      Sluit de weergegeven voorvertoning.
 
@@ -84,9 +84,9 @@ U kunt een voorvertoning van een afbeeldingselement weergeven op basis van de vo
 
 Een voorinstelling voor afbeeldingen is een verzameling vooraf gedefinieerde instellingen. Met deze instellingen wijzigt u de grootte, afbeeldingskwaliteit, indeling, resolutie en andere aspecten van de weergave van een afbeelding tijdens het exporteren.
 
-Zie [&#x200B; Voorinstellingen van het Beeld van de Opstelling &#x200B;](setting-image-presets.md#setting_up_image_presets).
+Zie [ Voorinstellingen van het Beeld van de Opstelling ](setting-image-presets.md#setting_up_image_presets).
 
-Zie [&#x200B; creeer en laat Beeld toe vooraf instelt &#x200B;](creating-enabling-image-presets.md#creating_and_enabling_image_presets).
+Zie [ creeer en laat Beeld toe vooraf instelt ](creating-enabling-image-presets.md#creating_and_enabling_image_presets).
 
 **aan voorproef een beeldactiva die op zijn Vooraf ingesteld Beeld wordt gebaseerd:**
 

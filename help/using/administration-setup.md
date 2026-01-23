@@ -9,7 +9,7 @@ role: Admin
 exl-id: 14e3d8be-f265-4cec-aa8e-19ef71526b68
 topic: Administration
 level: Intermediate
-source-git-commit: dd799969ff9fd2638537254ae928a598eec627a3
+source-git-commit: c4613c78347c4bda3d84747a72146617158c03b6
 workflow-type: tm+mt
 source-wordcount: '1871'
 ht-degree: 0%
@@ -52,7 +52,7 @@ Nadat u een gebruiker hebt toegevoegd, stuurt Adobe Dynamic Media Classic de geb
 
 1. Als u een rol aan de gebruiker wilt toewijzen, kiest u een optie Rol.
 
-   Zie [&#x200B; Adobe Dynamic Media Classic gebruikersrollen en voorrechten &#x200B;](administration-setup.md#user_administration).
+   Zie [ Adobe Dynamic Media Classic gebruikersrollen en voorrechten ](administration-setup.md#user_administration).
 
 1. Als u een gebruiker aan een bedrijf wilt toevoegen, selecteert u een bedrijfsnaam.
 1. Als u de gebruiker aan een groep wilt toevoegen (als u een gebruiker of medewerker van Media Portal toevoegt), selecteert u **[!UICONTROL Next]** en voegt u de gebruiker toe.
@@ -105,7 +105,7 @@ U kunt de volgende gebruikerslijst-filtrerende technieken gebruiken:
 
 * **Filter door gebruikersrol**: Selecteer het **[!UICONTROL By User Role]** menu en kies een optie om de lijst aan gebruikers of beheerders van verschillende types te beperken.
 
-* **Filter door gebiedsnaam**: Selecteer **[!UICONTROL Enable Filter By Field]**. Selecteer vervolgens het menu **[!UICONTROL By Field Name]** , kies een kolom voor het filteren van de lijst, selecteer het menu Filterteken en kies een letter. De lijst wordt op een van de kolommen gefilterd met de letter die u hebt gekozen. Schakel de optie **[!UICONTROL Enable Filter By Field]** uit om de volledige lijst weer te geven.
+* **Filter door gebiedsnaam**: Selecteer **[!UICONTROL Enable Filter By Field]**. Selecteer vervolgens het menu **[!UICONTROL By Field Name]** , kies een kolom voor het filteren van de lijst, selecteer het menu Filterteken en kies een letter. De lijst wordt op een van de kolommen gefilterd met de letter die u hebt gekozen. Schakel de optie **`Enable Filter By Field`** uit om de volledige lijst weer te geven.
 
 * **filter uit ongeldige gebruikers**: schrap **[!UICONTROL Include Invalid]**. In de zoekresultaten worden alleen gebruikers weergegeven die zich in het systeem bevinden. Ongeldige gebruikers zijn verwijderd uit het systeem en de accounts die u beheert.
 
@@ -186,7 +186,7 @@ Een rapport over bandbreedte, opslag, afbeeldingsinhoud, domein, videostreaming 
 1. Breid de Opstelling van het Beleid uit, en selecteer dan **[!UICONTROL Bandwidth & Storage]**.
 1. Selecteer een tabblad: **[!UICONTROL Bandwidth]**, **[!UICONTROL Storage]**, **[!UICONTROL Image Content]**, **[!UICONTROL Domain]**, **[!UICONTROL Video Streaming]** of **[!UICONTROL Video Content]** .
 
-   Zie [&#x200B; Types van rapporten &#x200B;](administration-setup.md#types_of_reports).
+   Zie [ Types van rapporten ](administration-setup.md#types_of_reports).
 
 ### Gegevens op verschillende manieren weergeven {#viewing-data-in-different-ways}
 

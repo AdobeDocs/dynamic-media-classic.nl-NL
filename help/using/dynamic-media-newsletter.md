@@ -7,7 +7,7 @@ role: Admin,User
 exl-id: 5f2a0cfc-d627-42be-9e68-111b65680ad8
 topic: Content Management
 level: Intermediate
-source-git-commit: 29752cf9eca0fc9bb760c721e1c3dc8e4ef912c3
+source-git-commit: c4613c78347c4bda3d84747a72146617158c03b6
 workflow-type: tm+mt
 source-wordcount: '979'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 ---
 
 
-# ![&#x200B; Dynamisch het Bulletin van Media embleem &#x200B;](/help/using/assets/dynamic-media-newsletter-logo.png)
+# ![ Dynamisch het Bulletin van Media embleem ](/help/using/assets/dynamic-media-newsletter-logo.png)
 
 >[!NOTE]
 >
@@ -23,9 +23,9 @@ ht-degree: 0%
 
 De nieuwsbrief van Dynamic Media van Experience League is ontworpen om u te helpen snel aan de slag te gaan met Dynamic Media en Adobe Dynamic Media Classic, zodat u meteen aan de slag kunt gaan met het realiseren van waarde.
 
-In deze gearchiveerde nieuwsbrief van één-loketwinkel kunt u waardevolle kennis-bouwende middelen zoals hoe-aan video&#39;s en oplossingsoverzichten vinden. Er zijn ook introducties voor belangrijke functies en mogelijkheden, zoals Voorinstellingen afbeelding, Voorinstellingen viewer en videoprofielen.
+In deze gearchiveerde nieuwsbrief van één-loketwinkel kunt u waardevolle kennis-bouwende middelen, zoals hoe-aan video&#39;s en oplossingsoverzichten vinden. Er zijn ook introducties voor belangrijke functies en mogelijkheden, zoals Voorinstellingen afbeelding, Voorinstellingen viewer en videoprofielen.
 
-<!-- microsite demo page https://experienceleague.adobe.com/tools/dynamic-media-demo/index.html?lang=nl-NL -->
+<!-- microsite demo page https://experienceleague.adobe.com/tools/dynamic-media-demo/index.html -->
 
 <!-- ## Get inspired. Stay informed.
 
@@ -48,7 +48,7 @@ In deze gearchiveerde nieuwsbrief van één-loketwinkel kunt u waardevolle kenni
     * Connect with the Adobe Experience Manager Community.
     * Fast-track your Adobe expertise with Adobe Experience League. -->
 
-* **[April 2020, Kwestie 3 &#x200B;](https://experienceleague.adobe.com/tools/dynamic-media-demo/newsletter/Dynamic_Media_Newsletter_04_2020_April.html?lang=nl-NL)**
+* **[April 2020, Kwestie 3 ](https://experienceleague.adobe.com/tools/dynamic-media-demo/newsletter/Dynamic_Media_Newsletter_04_2020_April.html)**
 
   In dit verband:
 
@@ -59,7 +59,7 @@ In deze gearchiveerde nieuwsbrief van één-loketwinkel kunt u waardevolle kenni
    * Meer weten over gratis Adobe-controles voor Adobe Dynamic Media Classic?
    * Ontdek `John Monroe`, Senior Program Manager for Adobe Customer Solutions.
 
-* **[Februari 2020, Uitgave 2 &#x200B;](https://experienceleague.adobe.com/tools/dynamic-media-demo/newsletter/Dynamic_Media_Newsletter_02_2020_Feb.html?lang=nl-NL)**
+* **[Februari 2020, Uitgave 2 ](https://experienceleague.adobe.com/tools/dynamic-media-demo/newsletter/Dynamic_Media_Newsletter_02_2020_Feb.html)**
 
   In dit verband:
 
@@ -70,7 +70,7 @@ In deze gearchiveerde nieuwsbrief van één-loketwinkel kunt u waardevolle kenni
    * Meer informatie over de nieuwe gebruikersinterface voor Adobe Dynamic Media Classic.
    * Ontmoet `Georgia Myers` , Senior Manager of Customer Success for Adobe Experience Cloud.
 
-* **[Januari 2020, geef 1 uit &#x200B;](https://experienceleague.adobe.com/tools/dynamic-media-demo/newsletter/Dynamic_Media_Newsletter_01_2020_Jan.html?lang=nl-NL)**
+* **[Januari 2020, geef 1 uit ](https://experienceleague.adobe.com/tools/dynamic-media-demo/newsletter/Dynamic_Media_Newsletter_01_2020_Jan.html)**
 
   In dit verband:
 
@@ -80,7 +80,7 @@ In deze gearchiveerde nieuwsbrief van één-loketwinkel kunt u waardevolle kenni
    * Uw gids voor het selecteren van een DAM (Digital Asset Manager) die aan uw behoeften voor vandaag voldoet en u voorbereidt op wat nieuw is in rijke media morgen.
    * Ontmoet `Mark Dean`, Digital Media Specialist.
 
-* **[November 2019, Uitgave 11 &#x200B;](https://experienceleague.adobe.com/tools/dynamic-media-demo/newsletter/Dynamic_Media_Newsletter_11_2019_Nov.html?lang=nl-NL)**
+* **[November 2019, Uitgave 11 ](https://experienceleague.adobe.com/tools/dynamic-media-demo/newsletter/Dynamic_Media_Newsletter_11_2019_Nov.html)**
 
   In dit verband:
 
@@ -90,29 +90,29 @@ In deze gearchiveerde nieuwsbrief van één-loketwinkel kunt u waardevolle kenni
    * Deel de nieuwsbrief met uw collega&#39;s om teamexpertise op te bouwen.
    * Ontmoet `Apoorva Gupta`, Senior Product Manager, Dynamic Media.
 
-* **[Oktober 2019, Kwestie 10 &#x200B;](https://experienceleague.adobe.com/tools/dynamic-media-demo/newsletter/Dynamic_Media_Newsletter_10_2019_Oct.html?lang=nl-NL)**
+* **[Oktober 2019, Kwestie 10 ](https://experienceleague.adobe.com/tools/dynamic-media-demo/newsletter/Dynamic_Media_Newsletter_10_2019_Oct.html)**
 
   In dit verband:
 
    * Hoe u geavanceerde analyses kunt krijgen over de acties die bezoekers uitvoeren in uw Dynamic Media-viewers.
    * Een infografisch element met tips voor het afnemen van kaakjes, waarmee u beelden en video&#39;s van hoge kwaliteit kunt leveren.
    * Een artikel CMSwire dat u helpt begrijpen hoe te om uw rijke media strategie bij te werken om aan de klantenverwachtingen van vandaag te voldoen.
-   * Toegang tot webinar op bestelling op Dynamische Media van de reeks van de Bouwer van de Vaardigheid.
+   * De toegang tot webinar op bestelling op Dynamische Media van de reeks van de Bouwer van de Vaardigheid.
    * Ontmoet `Nick Peters`, Manager, Site Reliability Engineering, Adobe Experience Manager.
    * Krijg de snelheid op Dynamic Media en Adobe Dynamic Media Classic in Experience League.
 
-* **[September 2019, Uitgeven 09 &#x200B;](https://experienceleague.adobe.com/tools/dynamic-media-demo/newsletter/Dynamic_Media_Newsletter_09_2019_Sept.html?lang=nl-NL)**
+* **[September 2019, Uitgeven 09 ](https://experienceleague.adobe.com/tools/dynamic-media-demo/newsletter/Dynamic_Media_Newsletter_09_2019_Sept.html)**
 
   In dit verband:
 
    * Maak uw klant nog beter door deze 9 &quot;gotchas&quot; te verwijderen.
    * Kom te weten hoe het Dynamische team van Media u voor een dag met hoger dan normaal bezoekersverkeer kan helpen voorbereiden.
    * Een tweede kans om twee recente Webinars van de Bouwer van de Vaardigheid te vangen.
-   * Bekijk de webinar op aanvraag over het beschermen van uw digitale middelen tegen piraterij.
+   * Bekijk de webinar op aanvraag om uw digitale middelen tegen piraterij te beschermen.
    * Ontmoet `Bridget Roman` , Senior Product Marketing Manager voor Experience Manager Assets.
    * Krijg de snelheid op Dynamic Media en Adobe Dynamic Media Classic in Experience League.
 
-* **[Augustus 2019, Uitgave 08 &#x200B;](https://experienceleague.adobe.com/tools/dynamic-media-demo/newsletter/Dynamic_Media_Newsletter_08_2019_Aug.html?lang=nl-NL)**
+* **[Augustus 2019, Uitgave 08 ](https://experienceleague.adobe.com/tools/dynamic-media-demo/newsletter/Dynamic_Media_Newsletter_08_2019_Aug.html)**
 
   In dit verband:
 
@@ -122,7 +122,7 @@ In deze gearchiveerde nieuwsbrief van één-loketwinkel kunt u waardevolle kenni
    * Ontdek een gulle blik op een krachtige integratie die deze maand september komt en u laat analyseren hoe bezoekers met uw rijke media omgaan.
    * Ontmoet `PieterJan Pieper`, de technische steungoeroe van Dynamische Media.
 
-* **[Juli 2019, geef 07 uit &#x200B;](https://experienceleague.adobe.com/tools/dynamic-media-demo/newsletter/Dynamic_Media_Newsletter_07_2019_July.html?lang=nl-NL)**
+* **[Juli 2019, geef 07 uit ](https://experienceleague.adobe.com/tools/dynamic-media-demo/newsletter/Dynamic_Media_Newsletter_07_2019_July.html)**
 
   In dit verband:
 
@@ -133,7 +133,7 @@ In deze gearchiveerde nieuwsbrief van één-loketwinkel kunt u waardevolle kenni
    * Video&#39;s van 360 graden en aangepaste videominiaturen toevoegen aan uw website.
    * Ontmoet `Andrew Hathaway`, de belangrijkste Adviseur van Oplossingen voor Dynamische Media binnen Experience Manager Assets.
 
-* **[Juni 2019, geef 06 &#x200B;](https://experienceleague.adobe.com/tools/dynamic-media-demo/newsletter/Dynamic_Media_Newsletter_06_2019_June.html?lang=nl-NL)** uit
+* **[Juni 2019, geef 06 ](https://experienceleague.adobe.com/tools/dynamic-media-demo/newsletter/Dynamic_Media_Newsletter_06_2019_June.html)** uit
 
   In dit verband:
 
@@ -144,7 +144,7 @@ In deze gearchiveerde nieuwsbrief van één-loketwinkel kunt u waardevolle kenni
    * Leer meer over door AI aangedreven Smart Crop voor afbeeldingen.
    * Ontmoet `Alex Thiers`, een drijvende kracht achter veel van de geweldige functies en innovaties binnen Dynamic Media op AEM en Adobe Dynamic Media Classic.
 
-* **[Mei 2019, geef 05 &#x200B;](https://experienceleague.adobe.com/tools/dynamic-media-demo/newsletter/Dynamic_Media_Newsletter_05_2019_May.html?lang=nl-NL)** uit
+* **[Mei 2019, geef 05 ](https://experienceleague.adobe.com/tools/dynamic-media-demo/newsletter/Dynamic_Media_Newsletter_05_2019_May.html)** uit
 
   In dit verband:
 
@@ -154,14 +154,14 @@ In deze gearchiveerde nieuwsbrief van één-loketwinkel kunt u waardevolle kenni
    * Lees een driedelige blogreeks om uw strategie voor rijke media bij te werken.
    * Leer meer over slim uitsnijden met AI-video&#39;s.
 
-* **[April 2019, Uitgave 04 &#x200B;](https://experienceleague.adobe.com/tools/dynamic-media-demo/newsletter/Dynamic_Media_Newsletter_04_2019_April.html?lang=nl-NL)**
+* **[April 2019, Uitgave 04 ](https://experienceleague.adobe.com/tools/dynamic-media-demo/newsletter/Dynamic_Media_Newsletter_04_2019_April.html)**
 
   Welkom bij het introductieprobleem van de Dynamic Media Newsletter. De nieuwe maandelijkse nieuwsbrief van Adobe wordt gevuld met nieuws, evenementen en bronnen. De inhoud is bestemd voor gebruikers van Dynamic Media in Experience Manager Assets en Adobe Dynamic Media Classic.
 
   In dit verband:
 
    * Registreer u voor het webinar Verborgen functies van Adobe Dynamic Media Classic.
-   * Om u te helpen uw rijke mediastrategie te ontwikkelen, leert u meer over de Adobe-webinarreeks op aanvraag.
+   * Om u te helpen uw rijke media strategie ontwikkelen, leer over Adobe On-demand webinar reeks.
    * Lees meer over belangrijke gebruiksscenario&#39;s voor media en Adobe-oplossingen voor deze toepassingen.
    * ... en nog veel meer!
 

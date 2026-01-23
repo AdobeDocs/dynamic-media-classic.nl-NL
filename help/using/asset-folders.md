@@ -10,7 +10,7 @@ role: User
 exl-id: 8599d4a3-57eb-4432-812f-7e55a4315c1b
 topic: Content Management
 level: Intermediate
-source-git-commit: 5140b62c76970cfcee271664f11b1ff605625fe7
+source-git-commit: c4613c78347c4bda3d84747a72146617158c03b6
 workflow-type: tm+mt
 source-wordcount: '438'
 ht-degree: 0%
@@ -27,11 +27,11 @@ Zorg ervoor dat u een mapstructuur en -organisatie instelt voor het opslaan van 
 
 In de elementenbibliotheek worden bestanden in een mappenstructuur weergegeven. Wanneer u een map selecteert in de elementenbibliotheek, wordt de inhoud van die map weergegeven in het deelvenster Bladeren. Gebruik de volgende technieken om mappen te zoeken in de mappenstructuur:
 
-* **subfolders van de Vertoning**: Selecteer het **[!UICONTROL Expand Folder]** pictogram om subfolders in een omslag te tonen. Dit pictogram bevindt zich links van mapnamen.
+* **subfolders van de Vertoning**: Selecteer het **[!UICONTROL Expanded Folder]** pictogram om subfolders in een omslag te tonen. Dit pictogram bevindt zich links van mapnamen.
 
 * **Beweeg een omslag**: U kunt een omslag bewegen door het te slepen en het in zijn nieuwe plaats te laten vallen, of door **[!UICONTROL File]** te selecteren > **[!UICONTROL Move Folder]**.
 
-* **de omslagen van de Huid**: Selecteer het **[!UICONTROL Collapse Folder]** pictogram als u subfolders wilt samenvouwen om hen van mening te verbergen. Dit pictogram bevindt zich links van mapnamen.
+* **de omslagen van de Huid**: Selecteer het **[!UICONTROL Collapsed Folder]** pictogram als u subfolders wilt samenvouwen om hen van mening te verbergen. Dit pictogram bevindt zich links van mapnamen.
 
 * **Open een omslag**: Selecteer een omslag als u zijn inhoud in het Browse paneel wilt tonen.
 

@@ -10,9 +10,9 @@ role: User
 exl-id: aee72576-1e3e-401c-953d-cc2be27f7dfd
 topic: Integrations, Development
 level: Experienced
-source-git-commit: 5140b62c76970cfcee271664f11b1ff605625fe7
+source-git-commit: c4613c78347c4bda3d84747a72146617158c03b6
 workflow-type: tm+mt
-source-wordcount: '611'
+source-wordcount: '610'
 ht-degree: 0%
 
 ---
@@ -48,13 +48,13 @@ Uw Websites en toepassingen hebben toegang tot de Dynamische inhoud van de Serve
 
 De gemeenschappelijkste manier om een eCatalog op te stellen is een verbinding in de vorm van een de omslagpagina van de eCatalogduimnagel op uw Web-pagina te plaatsen. Werk samen met uw IT-team om ervoor te zorgen dat de eCatalog wordt gestart in een schoon, gecentreerd pop-upvenster. Vraag uw IT-team om de werkbalk en adresbalk in de browser niet weer te geven.
 
-Voor meer details en codesteekproeven, zie [&#x200B; HTML5 eCatalogKijker in de Gids van de Verwijzing van de Kijkers van Adobe &#x200B;](https://experienceleague.adobe.com/nl/docs/dynamic-media-developer-resources/library/viewers-aem-assets-dmc/ecatalog/c-html5-20-ecatalog-viewer-about#section-e1c3106f5b3e445d9b95be337c2f94e2) inbedden.
+Voor meer details en codesteekproeven, zie de [ Ingebedde Kijker HTML5 eCatalog ](https://experienceleague.adobe.com/en/docs/dynamic-media-developer-resources/library/viewers-aem-assets-dmc/ecatalog/c-html5-20-ecatalog-viewer-about#section-e1c3106f5b3e445d9b95be337c2f94e2) in de Verwijzing van de Kijkers van Adobe.
 
-## De insluitcode van een eCatalog-viewer kopiëren {#copying-the-embed-code-of-an-ecatalog-viewer}
+## De ingesloten code van een eCatalog-viewer kopiëren {#copying-the-embed-code-of-an-ecatalog-viewer}
 
-Met de functie Code insluiten kunt u de viewercode voor de geselecteerde eCatalog controleren. U kunt de code aan het klembord ook kopiëren zodat kunt u het in uw Web-pagina&#39;s voor plaatsing van de kijker kleven. U mag de code niet bewerken in het dialoogvenster Code insluiten.
+Met de ingesloten codefunctie kunt u de viewercode voor de geselecteerde eCatalog controleren. U kunt de code aan het klembord ook kopiëren zodat kunt u het in uw Web-pagina&#39;s voor plaatsing van de kijker kleven. U mag de code niet bewerken in het dialoogvenster Code insluiten.
 
-**om Embed Code van een eCatalog kijker te kopiëren:**
+**om de ingebedde code van een eCatalog kijker te kopiëren:**
 
 1. Selecteer **[!UICONTROL Catalog]** in de vervolgkeuzelijst Tonen in het deelvenster Asset Browse.
 1. Navigeer in het deelvenster Elementenbibliotheek aan de linkerkant naar de elementenmap die de eCatalog bevat waarvan u de code voor insluiten wilt kopiëren.

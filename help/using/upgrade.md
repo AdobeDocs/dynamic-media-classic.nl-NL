@@ -6,9 +6,9 @@ role: Admin,User
 exl-id: 5e322d81-1303-494b-b5dd-df29b5c5d8e2
 topic: Administration, Migration
 level: Intermediate
-source-git-commit: bc3b696bfde0ed55894cdcbf3533299ae7697e98
+source-git-commit: c4613c78347c4bda3d84747a72146617158c03b6
 workflow-type: tm+mt
-source-wordcount: '575'
+source-wordcount: '581'
 ht-degree: 0%
 
 ---
@@ -39,7 +39,7 @@ De nieuwe [!DNL Dynamic Media] op [!DNL Adobe Experience Manager] bouwt op de fu
 
 * Naadloze, uniforme ervaring en integratie met [!DNL Adobe Experience Manager]: configureer en lever dynamisch rijke inhoud van één winkel, één bron
 * Nieuwe op een markeerteken gebaseerde gebruikerservaring voor eenvoudig ontwerpen en leveren van rijke media-inhoud
-* WYSIWYG (What You See Is What You Get) doet er goed aan om te kijken en te voelen, en gedragseditors te maken voor beeldviewers en videospelers.
+* WYSIWYG (What You See Is What You Get) als het gaat om het algemene uiterlijk en de algemene werking van beeldviewers en videospelers.
 * Snellere creatie en plaatsing van de Schoppable/Interactieve Ervaringen van Media met inbegrip van beeldhotspots en shoppable video
 
 ### [!DNL Dynamic Media] mogelijkheden in [!DNL Experience Manager] Assets

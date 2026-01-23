@@ -10,7 +10,7 @@ role: User
 exl-id: 35e8e7fc-5b3c-441a-959c-df2e39ea0d4b
 topic: Content Management
 level: Intermediate
-source-git-commit: 5140b62c76970cfcee271664f11b1ff605625fe7
+source-git-commit: c4613c78347c4bda3d84747a72146617158c03b6
 workflow-type: tm+mt
 source-wordcount: '922'
 ht-degree: 0%
@@ -37,7 +37,7 @@ Over het algemeen geldt dat hoe meer afbeeldingen u in een centrifugeset hebt, h
 
 ## Een centrifugeset maken {#create}
 
-De volgorde waarin de Spin-set is gemaakt of gemaakt in Adobe Dynamic Media Classic, is belangrijk. Afhankelijk van de volgorde waarin u de elementen ordent wanneer u afbeeldingen naar het raster sleept op de pagina Draaien en instellen, draait de Spin-set in een bepaalde richting. Daarom is de volgorde waarin het element visueel wordt weergegeven in de builder de manier waarop het wordt gedraaid wanneer een gebruiker de muisaanwijzer beweegt of zijn vinger van links naar rechts beweegt.
+De volgorde waarin de draaiende set is gemaakt of gemaakt in Adobe Dynamic Media Classic, is belangrijk. Afhankelijk van de volgorde waarin u de elementen ordent wanneer u afbeeldingen naar het raster sleept op de pagina Draaien en instellen, draait de Spin-set in een bepaalde richting. Daarom is de volgorde waarin het element visueel wordt weergegeven in de builder de manier waarop het wordt gedraaid wanneer een gebruiker de muisaanwijzer beweegt of zijn vinger van links naar rechts beweegt.
 
 Wanneer u een set maakt, heeft de optie **[!UICONTROL Publish after a save]** op de volgende manieren invloed op de set en stelt u leden in:
 
@@ -46,7 +46,7 @@ Wanneer u een set maakt, heeft de optie **[!UICONTROL Publish after a save]** op
 | Ja | Gepubliceerd | Gepubliceerd |
 | Nee | Ongepubliceerd | Leden met een set behouden hun gepubliceerde of niet-gepubliceerde status. |
 
-Zie ook [&#x200B; manueel het publiceren activa &#x200B;](publishing-files.md#manually-publishing-assets) en [&#x200B; manueel unpublishing activa &#x200B;](publishing-files.md#manually-unpublishing-assets).
+Zie ook [ manueel het publiceren activa ](publishing-files.md#manually-publishing-assets) en [ manueel unpublishing activa ](publishing-files.md#manually-unpublishing-assets).
 
 Als u een Spin-set maakt, raadt Adobe de volgende aanbevolen procedures aan en past het de volgende limiet toe:
 
@@ -54,7 +54,7 @@ Als u een Spin-set maakt, raadt Adobe de volgende aanbevolen procedures aan en p
 | --- | --- | --- |
 | Maximumaantal rijen/kolommen per 2D-set | 12-18 afbeeldingen per set | 1000 |
 
-Zie ook [&#x200B; Dynamische beperkingen van Media &#x200B;](/help/using/limitations.md).
+Zie ook [ Dynamische beperkingen van Media ](/help/using/limitations.md).
 
 Nadat u een Spin-set hebt opgeslagen, kunt u Voorvertoning in de Build: Spin-set gebruiken om te zien hoe de Spin-set er in de standaardviewer uitziet.
 
@@ -85,11 +85,11 @@ Of u nu een gepubliceerde set of een niet-gepubliceerde set bewerkt, de optie **
 | Nee | Ja | Gepubliceerd | Gepubliceerd |
 | Nee | Nee | Ongepubliceerd | Bestaande leden die zijn ingesteld en eventuele nieuwe leden die u tijdens de bewerking hebt toegevoegd, behouden hun gepubliceerde of niet-gepubliceerde status. |
 
-Zie ook [&#x200B; manueel het publiceren activa &#x200B;](publishing-files.md#manually-publishing-assets) en [&#x200B; manueel unpublishing activa &#x200B;](publishing-files.md#manually-unpublishing-assets).
+Zie ook [ manueel het publiceren activa ](publishing-files.md#manually-publishing-assets) en [ manueel unpublishing activa ](publishing-files.md#manually-unpublishing-assets).
 
 **om een Reeks van de Rotatie uit te geven:**
 
-1. Selecteer de rollover-knop van de centrifugeset **[!UICONTROL Edit]** .
+1. Selecteer de rollover **[!UICONTROL Edit]** -knop van de draaiende set.
 1. Voer een van de volgende handelingen uit:
 
    * **het Verwijderen van beelden**: Selecteer het beeld, en selecteer dan **[!UICONTROL Delete]**.
@@ -107,7 +107,7 @@ Zie ook [&#x200B; manueel het publiceren activa &#x200B;](publishing-files.md#ma
 
 Wanneer u een set verwijdert, wordt de set zelf naar de prullenbak verplaatst. De leden (of &quot;kinderen&quot;) binnen die set worden echter niet beïnvloed, maar ze behouden hun bestaande gepubliceerde of niet-gepubliceerde status.
 
-Zie ook [&#x200B; manueel het publiceren activa &#x200B;](publishing-files.md#manually-publishing-assets) en [&#x200B; manueel unpublishing activa &#x200B;](publishing-files.md#manually-unpublishing-assets).
+Zie ook [ manueel het publiceren activa ](publishing-files.md#manually-publishing-assets) en [ manueel unpublishing activa ](publishing-files.md#manually-unpublishing-assets).
 
 **om een Reeks van de Rotatie te schrappen:**
 

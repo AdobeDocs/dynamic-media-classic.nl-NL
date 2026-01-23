@@ -9,7 +9,7 @@ role: Admin,User
 exl-id: c27df6c2-76f4-441c-bd26-cee98203291e
 topic: Collaboration, Content Management
 level: Intermediate
-source-git-commit: bc3b696bfde0ed55894cdcbf3533299ae7697e98
+source-git-commit: c4613c78347c4bda3d84747a72146617158c03b6
 workflow-type: tm+mt
 source-wordcount: '371'
 ht-degree: 0%
@@ -25,7 +25,7 @@ De volgende twee beperkingen zijn van toepassing als u afbeeldingselementen expo
 * Het gecomprimeerde Zip-exportbestand heeft een maximale bestandsgrootte van 1 GB voor de exporttaak.
 * Per exporttaak kunt u maximaal 500 elementen in totaal gebruiken.
 
-Zie ook [&#x200B; activa van de Uitvoer van Adobe Dynamic Media Classic &#x200B;](exporting-assets-from-dmc.md#exporting-assets-from_dmc).
+Zie ook [ activa van de Uitvoer van Adobe Dynamic Media Classic ](exporting-assets-from-dmc.md#exporting-assets-from_dmc).
 
 **om de uitvoeropties te specificeren beschikbaar aan Poortgebruikers van Media:**
 
@@ -42,5 +42,5 @@ Zie ook [&#x200B; activa van de Uitvoer van Adobe Dynamic Media Classic &#x200B;
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Beeld stelt &#x200B;](application-setup.md#image_presets) vooraf in
->* [&#x200B; kies Beeld vooraf ingestelde toegangstoestemmingen voor een groep &#x200B;](creating-media-portal-groups.md#choosing_image_preset_access_permissions_for_a_group)
+>* [ Beeld stelt ](application-setup.md#image_presets) vooraf in
+>* [ kies Beeld vooraf ingestelde toegangstoestemmingen voor een groep ](creating-media-portal-groups.md#choosing_image_preset_access_permissions_for_a_group)

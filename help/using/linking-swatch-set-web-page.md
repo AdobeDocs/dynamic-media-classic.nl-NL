@@ -10,7 +10,7 @@ role: User
 exl-id: 8bb1c744-270a-4752-b163-443708fca6c2
 topic: Content Management
 level: Intermediate
-source-git-commit: ad7e20fdbe9028c6255865cce95d109f9e9eeab2
+source-git-commit: c4613c78347c4bda3d84747a72146617158c03b6
 workflow-type: tm+mt
 source-wordcount: '617'
 ht-degree: 0%
@@ -48,13 +48,13 @@ Nadat u een Staalreeks publiceert, kunt u zijn bijbehorende URL gebruiken of Cod
 
 De gemeenschappelijkste manier om de Reeksen van het Monster op te stellen is een verbinding (als navigatiepictogram) op uw Web-pagina te plaatsen. Als deze optie is geselecteerd, wordt een dynamische pagina (ASP of JSP) gestart die de stalenset in een pop-upzoomvenster weergeeft. Met de zoomkoppeling wordt een pop-upvenster geopend dat de eigenlijke zoomfunctie bevat.
 
-Voor meer details en codesteekproeven, zie [&#x200B; Inbeddend de Kijker van het Gezoem HTML5 in de Gids van de Verwijzing van de Kijkers van Adobe &#x200B;](https://experienceleague.adobe.com/nl/docs/dynamic-media-developer-resources/library/viewers-aem-assets-dmc/zoom/c-html5-20-zoom-viewer-about#section-e1c3106f5b3e445d9b95be337c2f94e2).
+Voor meer details en codesteekproeven, zie [ Inbeddend de Kijker van het Gezoem HTML5 in de Gids van de Verwijzing van de Kijkers van Adobe ](https://experienceleague.adobe.com/en/docs/dynamic-media-developer-resources/library/viewers-aem-assets-dmc/zoom/c-html5-20-zoom-viewer-about#section-e1c3106f5b3e445d9b95be337c2f94e2).
 
-## De insluitcode van een Staalset-viewer kopiëren {#copying-the-embed-code-of-a-swatch-set-viewer}
+## De ingesloten code van een Staalsetviewer kopiëren {#copying-the-embed-code-of-a-swatch-set-viewer}
 
-Met de functie Code insluiten kunt u de viewercode voor de geselecteerde stalenset controleren. U kunt de code aan het klembord ook kopiëren zodat kunt u het in uw Web-pagina&#39;s voor plaatsing van de kijker kleven. U mag de code niet bewerken in het dialoogvenster Code insluiten.
+Met de ingesloten codefunctie kunt u de viewercode voor de geselecteerde stalenset controleren. U kunt de code aan het klembord ook kopiëren zodat kunt u het in uw Web-pagina&#39;s voor plaatsing van de kijker kleven. U mag de code niet bewerken in het dialoogvenster Code insluiten.
 
-**om Embed Code van een Vastgestelde kijker van het Monster te kopiëren:**
+**om de ingebedde code van een Vastgestelde kijker van het Monster te kopiëren:**
 
 1. Selecteer **[!UICONTROL Swatch Set]** in de vervolgkeuzelijst Tonen in het deelvenster Asset Browse.
 1. Navigeer in het deelvenster Elementenbibliotheek aan de linkerkant naar de elementenmap die de stalenset bevat waarvan u de code voor insluiten wilt kopiëren.
@@ -81,4 +81,4 @@ Met de functie Code insluiten kunt u de viewercode voor de geselecteerde stalens
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; publiceer &#x200B;](publishing-files.md#publishing_files)
+>* [ publiceer ](publishing-files.md#publishing_files)
