@@ -26,7 +26,7 @@ De technische steunaanbiedingen worden ontworpen om aan de behoeften van om het 
 | Limiet voor problemen | Onbeperkt. |
 | De status van het Adobe-systeem controleren | [&#x200B; Status van het Systeem van Adobe Dynamic Media Classic &#x200B;](https://status.adobe.com/products/1175). |
 | Kan je geen antwoord vinden? | [&#x200B; om hulp van Steun te krijgen, open een kaartje &#x200B;](https://experienceleague.adobe.com/nl?support-solution=General#support). |
-| Forum van de Gemeenschap | [&#x200B; Experience Manager communityforum &#x200B;](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community). |
+| Forum van de Gemeenschap | [&#x200B; Experience Manager communityforum &#x200B;](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community?profile.language=nl). |
 | SLA (serviceniveau-overeenkomsten) | [&#x200B; de Diensten van de Steun/Voorwaarden van de Bevordering &#x200B;](https://helpx.adobe.com/nl/support/programs/support-policies-terms-conditions.html). |
 | Ondersteunde gebruikers | Tot tien gebruikers per organisatie kunnen worden aangewezen als ondersteunde gebruikers, die zaken kunnen openen met de klantenservice. |
 | Gratis live web training en instructievideo&#39;s | Opgenomen. |
