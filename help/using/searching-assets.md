@@ -10,9 +10,9 @@ role: User
 exl-id: 4b3f690c-7dff-4bf0-9366-085ba918fe6b
 topic: Content Management
 level: Intermediate
-source-git-commit: c4613c78347c4bda3d84747a72146617158c03b6
+source-git-commit: 384e1ec078540d0cc5224b98ead6eb880cd92c2a
 workflow-type: tm+mt
-source-wordcount: '1377'
+source-wordcount: '1385'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Als u bestandsmiddelen wilt zoeken in Adobe Dynamic Media Classic, kunt u elemen
 
 >[!NOTE]
 >
->De persoonlijke pagina van de Opstelling biedt opties om te kiezen hoe u onderzoeken wilt leiden. U kunt bijvoorbeeld een standaardzoektype kiezen en aangeven of u door de gebruiker gedefinieerde velden wilt opnemen in zoekopdrachten. Voor meer informatie, zie [&#x200B; Persoonlijke Opstelling &#x200B;](personal-setup.md#personal_setup).
+>De persoonlijke pagina van de Opstelling biedt opties om te kiezen hoe u onderzoeken wilt leiden. U kunt bijvoorbeeld een standaardzoektype kiezen en aangeven of u door de gebruiker gedefinieerde velden wilt opnemen in zoekopdrachten. Voor meer informatie, zie [ Persoonlijke Opstelling ](personal-setup.md#personal_setup).
 
 ## Elementen weergeven op type {#viewing-assets-by-type}
 
@@ -53,9 +53,11 @@ Gebruik het veld Zoeken in de elementenbibliotheek zodat u eenvoudige zoekopdrac
 
    De resultaten van uw onderzoek verschijnen in het Browse paneel op het recht.
 
-<!-- Does not appear to be working anymore >[!NOTE]
+<!--
+Does not appear to be working anymore >[!NOTE]
 >
->Adobe Dynamic Media Classic tracks searches. To run a search a second time, select **[!UICONTROL Search]** and choose the name of a search at the bottom of the Search menu. -->
+>Adobe Dynamic Media Classic tracks searches. To run a search a second time, select **[!UICONTROL Search]** and choose the name of a search at the bottom of the Search menu. 
+-->
 
 ## Een geavanceerde zoekopdracht uitvoeren {#conducting-an-advanced-search}
 
@@ -95,7 +97,7 @@ U kunt filterbewerkingen opslaan zodat ze meerdere malen worden uitgevoerd.
 >
 >Alleen metagegevensvelden in de standaardweergave Metagegevens kunnen worden gebruikt voor filterbewerkingen. Op de pagina Weergaven metagegevens wordt de naam van de standaardweergave Metagegevens weergegeven.
 
-Zie {de meningen van 0} Meta-gegevens [.](application-setup.md#metadata_views)
+Zie {de meningen van 0} Meta-gegevens ](application-setup.md#metadata_views).[
 
 ### Een filterbewerking uitvoeren {#running-a-filter-operation}
 
@@ -107,7 +109,7 @@ Voer de volgende stappen uit, zodat u elementen kunt zoeken door te filteren met
 
    Als u een filterbewerking wilt uitvoeren die u hebt gemaakt en opgeslagen, selecteert u **[!UICONTROL Select Preset]** en kiest u vervolgens de naam van de bewerking in het menu.
 
-   Zie [&#x200B; sparen, herhalen, en schrapt filterverrichtingen &#x200B;](searching-assets.md#saving_repeating_and_deleting_filter_operations).
+   Zie [ sparen, herhalen, en schrapt filterverrichtingen ](searching-assets.md#saving_repeating_and_deleting_filter_operations).
 
 1. Klik op **[!UICONTROL Field]** in een deelvenster en volg deze instructies zodat u het filtermenu kunt weergeven en de filterbewerking kunt samenstellen:
 
@@ -117,7 +119,7 @@ Voer de volgende stappen uit, zodat u elementen kunt zoeken door te filteren met
      >
      >Alleen de namen van metagegevensvelden in de standaardweergave Metagegevens worden weergegeven in het filtermenu.
 
-     Zie {de meningen van 0} Meta-gegevens [.](application-setup.md#metadata_views)
+     Zie {de meningen van 0} Meta-gegevens ](application-setup.md#metadata_views).[
 
    * **voeg een meta-gegevensgebied** toe: Selecteer **[!UICONTROL Add a Panel]**. Nadat het deelvenster wordt weergegeven in het deelvenster Filters, selecteert u de knop **[!UICONTROL Field]** en kiest u de naam van een metagegevensveld in het filtermenu.
 
@@ -169,5 +171,5 @@ Selecteer **[!UICONTROL Publish Now]** om de taak te starten. Er wordt een beves
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; de grondbeginselen van de Navigatie &#x200B;](navigation-basics.md#navigation_basics)
->* [&#x200B; Mening, voeg, en de uitvoermeta-gegevens toe &#x200B;](viewing-adding-exporting-metadata.md#viewing_adding_and_exporting_metadata)
+>* [ de grondbeginselen van de Navigatie ](navigation-basics.md#navigation_basics)
+>* [ Mening, voeg, en de uitvoermeta-gegevens toe ](viewing-adding-exporting-metadata.md#viewing_adding_and_exporting_metadata)

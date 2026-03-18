@@ -6,11 +6,11 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/target_integration
 feature: Dynamic Media Classic
-role: Data Engineer,Admin,User
+role: Developer,Admin,User
 exl-id: c6f217fb-89cb-4c8d-aa7f-309fc42f7d46
 topic: Integrations, Development
 level: Experienced
-source-git-commit: 914fde11270dc731a261da3305b29dd573584d93
+source-git-commit: 458a80aad6e983dbccfe2108f0a389a4651f9f38
 workflow-type: tm+mt
 source-wordcount: '142'
 ht-degree: 0%
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Voordat u [!DNL Adobe Dynamic Media Classic] kunt integreren met [!DNL Target Standard/Premium] , moet u de doel-URL invoeren in het scherm Algemene instellingen van [!DNL Adobe Dynamic Media Classic] toepassing. Ga als volgt te werk om de doel-URL te verkrijgen en deze in te voeren op de pagina Algemene instellingen toepassing:
 
-1. Meld u aan bij uw [!DNL Adobe Experience Cloud] -account in [!DNL Target Standard/Premium] .
+1. Meld u aan bij uw [!DNL Target Standard/Premium] -account in [!DNL Adobe Experience Cloud] .
 1. Kopieer de URL tot en met `.com` nadat u zich hebt aangemeld in de adresbalk van de browser.
 
    Bijvoorbeeld, als *fictieve* URL (de wegen URLs bevatten altijd voorwaartse schuine strepen, niet achterschuine strepen zoals in dit voorbeeld) in de adresbar `https:\\www.myfictionalsite.com/categories/admin/home.do` is, kopieer slechts dit gedeelte van *fictieve* URL: `https:\\www.myfictionalsite.com`.

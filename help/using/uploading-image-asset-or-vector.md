@@ -9,9 +9,9 @@ role: User
 exl-id: 2ef78fe6-1e7c-4f48-86da-137ddaa55bbf
 topic: Content Management
 level: Intermediate
-source-git-commit: 8dc990a1fb1355b00fa4839e14b92bb6562d40b4
+source-git-commit: 384e1ec078540d0cc5224b98ead6eb880cd92c2a
 workflow-type: tm+mt
-source-wordcount: '1002'
+source-wordcount: '1039'
 ht-degree: 0%
 
 ---
@@ -30,7 +30,7 @@ Voordat u een afbeeldingselement kunt uploaden, vraagt u eerst om een sleutel vo
 
 ## Een gedeelde geheime sleutel aanvragen {#requesting-a-shared-secret-key}
 
-Verzoek a *gedeelde-geheime sleutel* door [&#x200B; gebruikend Admin Console om een steungeval tot stand te brengen.](https://helpx.adobe.com/nl/enterprise/using/support-for-experience-cloud.html) In het geval van de technische steun, verzoek een gedeeld-geheime sleutel.
+Verzoek a *gedeelde-geheime sleutel* door [ te gebruiken Admin Console om een steungeval tot stand te brengen.](https://helpx.adobe.com/enterprise/using/support-for-experience-cloud.html) In het geval van de technische steun, verzoek om een gedeelde geheime sleutel.
 
 Geef in het e-mailbericht de bedrijfsnaam op die u wilt gebruiken om afbeeldingselementen te uploaden. Nadat u de sleutel van Adobe Dynamic Media Classic ontvangt, bewaar het plaatselijk voor toekomstig gebruik.
 
@@ -43,8 +43,10 @@ Het uploadtoken is een alfanumerieke tekenreeks die alleen voor een bepaalde hoe
 * Rasterafbeelding
   `https://s7ugc1.scene7.com/ugc/image?op=get_uploadtoken&shared_secret=fece4b21-87ee-47fc-9b99-2e29b78b602` In dit voorbeeld, is de gedeelde-geheime sleutel `fece4b21-87ee-47fc-9b99-2e29b78b602`
 
-<!-- * Vector
-  `https://s7ugc1.scene7.com/ugc/vector?op=get_uploadtoken&shared_secret=2d19f60e-890a-4e79-a1a5-9ac2875429b9`In this example, the shared-secret key is `2d19f60e-890a-4e79-a1a5-9ac2875429b9` -->
+<!-- 
+* Vector
+  `https://s7ugc1.scene7.com/ugc/vector?op=get_uploadtoken&shared_secret=2d19f60e-890a-4e79-a1a5-9ac2875429b9`In this example, the shared-secret key is `2d19f60e-890a-4e79-a1a5-9ac2875429b9` 
+-->
 
 Standaard verloopt het uploadtoken vijf minuten (300 seconden) nadat u het hebt opgehaald. Als u meer tijd wilt aanvragen, neemt u `expires` op in de URL en neemt u de hoeveelheid tijd op die u nodig hebt in seconden. Met de volgende voorbeeld-URL van de afbeelding wordt bijvoorbeeld een uploadtoken opgehaald dat 1800 seconden geldig is:
 
@@ -87,16 +89,18 @@ U kunt de volgende velden in de URL-queryreeks gebruiken om een token voor uploa
 
 `https://s7ugc1.scene7.com/ugc/image?op=get_uploadtoken&shared_secret=fece4b21-87ee-47fc-9b99-2e29b78b602&expires=600`
 
-<!-- **Sample vector URL:**
+<!-- 
+**Sample vector URL:**
 
-`https://s7ugc1.scene7.com/ugc/vector?op=get_uploadtoken&shared_secret=2d19f60e-890a-4e79-a1a5-9ac2875429b9&expires=5000` -->
+`https://s7ugc1.scene7.com/ugc/vector?op=get_uploadtoken&shared_secret=2d19f60e-890a-4e79-a1a5-9ac2875429b9&expires=5000` 
+-->
 
 **Toegestane methodes van HTTP:**
 `GET` en `POST`
 
 U kunt nu een afbeeldingselement uploaden.
 
-Zie [&#x200B; een beeldactiva &#x200B;](uploading-image-asset-or-vector.md#uploading_an_image_asset) uploaden.
+Zie [ een beeldactiva ](uploading-image-asset-or-vector.md#uploading_an_image_asset) uploaden.
 
 ## Een rasterafbeeldingselement uploaden {#uploading-an-image-asset}
 
@@ -108,9 +112,9 @@ https://s7ugc1.scene7.com/ugc/image?op=upload&upload_token=aa2a378a-cd25-4c80-99
 
 De velden `upload_token` en `company_name` zijn vereist.
 
-Zie [&#x200B; het uploadteken &#x200B;](uploading-image-asset-or-vector.md#retrieving_the_upload_token) terugwinnen.
+Zie [ het uploadteken ](uploading-image-asset-or-vector.md#retrieving_the_upload_token) terugwinnen.
 
-Zie [&#x200B; een gedeelde-geheime sleutel &#x200B;](uploading-image-asset-or-vector.md#requesting_a_shared_secret_key) terugwinnen.
+Zie [ een gedeelde-geheime sleutel ](uploading-image-asset-or-vector.md#requesting_a_shared_secret_key) terugwinnen.
 
 U kunt ook andere optionele waarden verzenden als URL-querytekenreeksen, zoals in dit voorbeeld:
 
@@ -135,10 +139,10 @@ Met het volgende HTML-formulier kan een gebruiker een element uploaden. In het f
 * Een lijst met bestandsextensies.
 * Of het kleurprofiel en de bestandsnaam die aan het element zijn gekoppeld, behouden moeten blijven.
 * Of een uitneemachtergrond wordt gebruikt. Als u Achtergrond uitnemen inschakelt, stelt u de Hoek, Tolerantie en Vulmethode in.
-Zie Achtergrond van het Uitnemen in [&#x200B; Beeld fijnafstemmen opties bij upload &#x200B;](image-editing-options-upload.md#image-editing-options-at-upload).
+Zie Achtergrond van het Uitnemen in [ Beeld fijnafstemmen opties bij upload ](image-editing-options-upload.md#image-editing-options-at-upload).
 * The name of the file to upload.
 
-U kunt de broncode van HTML bekijken verbonden aan de vorm hierboven door [&#x200B; https://s7ugc1.scene7.com/ugc/upload.html &#x200B;](https://s7ugc1.scene7.com/ugc/upload.html) te selecteren
+U kunt de broncode van HTML bekijken verbonden aan de vorm hierboven door [ https://s7ugc1.scene7.com/ugc/upload.html ](https://s7ugc1.scene7.com/ugc/upload.html) te selecteren
 
 Klik in Firefox met de rechtermuisknop in het browservenster en selecteer vervolgens **[!UICONTROL View Page Source]** . De code toont de corresponderende URL-queryreeks en de POST-methode die worden uitgevoerd wanneer de gebruiker **[!UICONTROL Submit]** selecteert.
 
@@ -248,7 +252,8 @@ U kunt de volgende velden in de URL-queryreeks gebruiken om informatie voor een 
 
 GET en POST
 
-<!-- ## Upload a vector asset {#uploading-a-vector-asset}
+<!--
+## Upload a vector asset {#uploading-a-vector-asset}
 
 >[!IMPORTANT]
 >
@@ -383,4 +388,4 @@ Send the asset to upload as a multipart/form post while sending the rest of the 
 **Allowed HTTP method:**
 
 POST
- -->
+-->

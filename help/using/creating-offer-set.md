@@ -6,13 +6,13 @@ content-type: reference
 products: SG_EXPERIENCEMANAGER/Dynamic-Media-Classic
 geptopics: SG_SCENESEVENONDEMAND_PK/categories/target_integration
 feature: Dynamic Media Classic
-role: Data Engineer,Admin,User
+role: Developer,Admin,User
 exl-id: 05f2cce0-72bf-4933-87ab-c9003c848e35
 topic: Integrations, Development
 level: Experienced
-source-git-commit: c4613c78347c4bda3d84747a72146617158c03b6
+source-git-commit: 458a80aad6e983dbccfe2108f0a389a4651f9f38
 workflow-type: tm+mt
-source-wordcount: '1159'
+source-wordcount: '1216'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ Adobe Dynamic Media Classic biedt tools voor bewerking en het maken van offsets.
 
 >[!NOTE]
 >
->Voordat u een set voorstellen maakt, moet u alle elementen publiceren die u voor de set op Adobe Dynamic Media Classic wilt gebruiken. Zie [&#x200B; manueel het publiceren activa &#x200B;](publishing-files.md#manually_publishing_assets) en [&#x200B; manueel unpublishing activa &#x200B;](publishing-files.md#manually_unpublishing_assets).
+>Voordat u een set voorstellen maakt, moet u alle elementen publiceren die u voor de set op Adobe Dynamic Media Classic wilt gebruiken. Zie [ manueel het publiceren activa ](publishing-files.md#manually_publishing_assets) en [ manueel unpublishing activa ](publishing-files.md#manually_unpublishing_assets).
 
 ## Soorten aanbiedingssets {#types-of-offer-sets}
 
@@ -39,9 +39,9 @@ Maak een set aanbiedingen op basis van de volgende typen aanbiedingen:
 
 * **Beelden**: U kunt beelden voor een Reeks van de Aanbieding assembleren. Elke afbeelding bevat een andere aanbieding in de set.
 
-* **malplaatje van het Beeld**: U kunt van beeldmalplaatjes in Adobe Dynamic Media Classic parameters bepalen met **[!UICONTROL Build]** > het bevel van de Grondbeginselen van het Malplaatje. Via parameters kunnen onderdelen van de sjabloon, de tekst in tekstkaders en de verschillende afbeeldingen worden omgewisseld en aangepast. Voor een set aanbiedingen kunt u sjabloonparameters gebruiken om bijvoorbeeld variaties te maken op dezelfde afbeelding in de set met aanbiedingen. Voor informatie over het creëren van en het bepalen van parameters van beeldmalplaatjes, zie [&#x200B; malplaatjeparameters &#x200B;](creating-template-parameters.md#creating_template_parameters) creëren.
+* **malplaatje van het Beeld**: U kunt van beeldmalplaatjes in Adobe Dynamic Media Classic parameters bepalen met **[!UICONTROL Build]** > het bevel van de Grondbeginselen van het Malplaatje. Via parameters kunnen onderdelen van de sjabloon, de tekst in tekstkaders en de verschillende afbeeldingen worden omgewisseld en aangepast. Voor een set aanbiedingen kunt u sjabloonparameters gebruiken om bijvoorbeeld variaties te maken op dezelfde afbeelding in de set met aanbiedingen. Voor informatie over het creëren van en het bepalen van parameters van beeldmalplaatjes, zie [ malplaatjeparameters ](creating-template-parameters.md#creating_template_parameters) creëren.
 
-Zie ook [&#x200B; de opleidingsvideo van de Grondbeginselen van het 0&rbrace; Malplaatje &lbrace;.](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&emailurl=https://s7d5.scene7.com/s7/emailFriend&serverUrl=https://s7d5.scene7.com/is/image/&config=Scene7SharedAssets/Universal_HTML5_Video&contenturl=https://s7d5.scene7.com/skins/&asset=S7tutorials/553_Template%20Basics_converted%20renamed_Dynamic%20Banners-AVS)
+Zie ook ](https://s7d5.scene7.com/s7viewers/html5/VideoViewer.html?videoserverurl=https://s7d5.scene7.com/is/content/&emailurl=https://s7d5.scene7.com/s7/emailFriend&serverUrl=https://s7d5.scene7.com/is/image/&config=Scene7SharedAssets/Universal_HTML5_Video&contenturl=https://s7d5.scene7.com/skins/&asset=S7tutorials/553_Template%20Basics_converted%20renamed_Dynamic%20Banners-AVS) de opleidingsvideo van de Grondbeginselen van het 0} Malplaatje {.[
 
 * **Video**: U kunt video voor een Reeks van de Aanbieding assembleren. Elke video heeft een andere aanbieding in de set.
 
@@ -54,7 +54,7 @@ Wanneer u een set voorstellen maakt, heeft de optie **[!UICONTROL Publish after 
 | Ja | Gepubliceerd | Gepubliceerd |
 | Nee | Ongepubliceerd | Leden met een set behouden hun gepubliceerde of niet-gepubliceerde status. |
 
-Zie ook [&#x200B; manueel het publiceren activa &#x200B;](publishing-files.md#manually_publishing_assets) en [&#x200B; manueel unpublishing activa &#x200B;](publishing-files.md#manually_unpublishing_assets).
+Zie ook [ manueel het publiceren activa ](publishing-files.md#manually_publishing_assets) en [ manueel unpublishing activa ](publishing-files.md#manually_unpublishing_assets).
 
 **om een Aanbieding tot stand te brengen die met een geparameterized malplaatje wordt geplaatst:**
 
@@ -76,7 +76,7 @@ Zie ook [&#x200B; manueel het publiceren activa &#x200B;](publishing-files.md#ma
 1. Als u klaar bent, controleert u of **[!UICONTROL Publish after a save*]** is geselecteerd (standaard) in de rechterbenedenhoek van de pagina.
 1. Selecteer **[!UICONTROL Close]**, voer een naam in voor de set met voorstellen en selecteer vervolgens **[!UICONTROL Save]** .
 
-Voordat u de pagina Set Test&amp;Target-aanbiedingen sluit, drukt u op de optie Aanbiedingsset op Adobe Target Standard/Premium. Zie [&#x200B; de Reeksen van het Aanbod van de Duw aan Test&amp;Doel &#x200B;](pushing-offer-sets-target.md#pushing_offer_sets_to_target).
+Voordat u de pagina Set Test&amp;Target-aanbiedingen sluit, drukt u op de optie Aanbiedingsset op Adobe Target Standard/Premium. Zie [ de Reeksen van het Aanbod van de Duw aan Test&amp;Doel ](pushing-offer-sets-target.md#pushing_offer_sets_to_target).
 
 ## Een set aanbiedingen maken met afbeeldingen of video&#39;s {#creating-an-offer-set-with-images-or-videos}
 
@@ -87,7 +87,7 @@ Wanneer u een set voorstellen maakt, heeft de optie **[!UICONTROL Publish after 
 | Ja | Gepubliceerd | Gepubliceerd |
 | Nee | Ongepubliceerd | Leden met een set behouden hun gepubliceerde of niet-gepubliceerde status. |
 
-Zie ook [&#x200B; manueel het publiceren activa &#x200B;](publishing-files.md#manually_publishing_assets) en [&#x200B; manueel unpublishing activa &#x200B;](publishing-files.md#manually_unpublishing_assets).
+Zie ook [ manueel het publiceren activa ](publishing-files.md#manually_publishing_assets) en [ manueel unpublishing activa ](publishing-files.md#manually_unpublishing_assets).
 
 **om een Reeks van de Aanbieding met beelden of video&#39;s tot stand te brengen:**
 
@@ -107,7 +107,7 @@ Zie ook [&#x200B; manueel het publiceren activa &#x200B;](publishing-files.md#ma
 1. Nadat u alle aanbiedingen voor de set Aanbiedingen hebt gemaakt en de voorinstellingen voor afbeeldingen hebt gekozen, controleert u of **[!UICONTROL Publish after a save]** is geselecteerd (standaard).
 1. Selecteer **[!UICONTROL Save]** , voer een naam in voor de set met voorstellen en selecteer **[!UICONTROL Save]** .
 
-Voordat u de pagina Set Test&amp;Target-aanbiedingen sluit, drukt u op de optie Aanbiedingsset op Adobe Target Standard/Premium. Zie [&#x200B; de Reeksen van het Aanbod van de Duw aan Test&amp;Doel &#x200B;](pushing-offer-sets-target.md#pushing_offer_sets_to_target).
+Voordat u de pagina Set Test&amp;Target-aanbiedingen sluit, drukt u op de optie Aanbiedingsset op Adobe Target Standard/Premium. Zie [ de Reeksen van het Aanbod van de Duw aan Test&amp;Doel ](pushing-offer-sets-target.md#pushing_offer_sets_to_target).
 
 ## Een set voorstellen bewerken {#editing-an-offer-set}
 
@@ -120,7 +120,7 @@ Of u nu een gepubliceerde set of een niet-gepubliceerde set bewerkt, de optie **
 | Nee | Ja | Gepubliceerd | Gepubliceerd |
 | Nee | Nee | Ongepubliceerd | Bestaande leden die zijn ingesteld en eventuele nieuwe leden die u tijdens de bewerking hebt toegevoegd, behouden hun gepubliceerde of niet-gepubliceerde status. |
 
-Zie ook [&#x200B; manueel het publiceren activa &#x200B;](publishing-files.md#manually_publishing_assets) en [&#x200B; manueel unpublishing activa &#x200B;](publishing-files.md#manually_unpublishing_assets).
+Zie ook [ manueel het publiceren activa ](publishing-files.md#manually_publishing_assets) en [ manueel unpublishing activa ](publishing-files.md#manually_unpublishing_assets).
 
 **om een Reeks van de Aanbieding uit te geven:**
 
@@ -143,7 +143,7 @@ Zie ook [&#x200B; manueel het publiceren activa &#x200B;](publishing-files.md#ma
 
 Wanneer u een set voorstellen verwijdert, wordt de set zelf naar de prullenbak verplaatst. De leden (of &quot;kinderen&quot;) binnen die set worden echter niet beïnvloed, maar ze behouden hun bestaande gepubliceerde of niet-gepubliceerde status.
 
-Zie ook [&#x200B; manueel het publiceren activa &#x200B;](publishing-files.md#manually_publishing_assets) en [&#x200B; manueel unpublishing activa &#x200B;](publishing-files.md#manually_unpublishing_assets).
+Zie ook [ manueel het publiceren activa ](publishing-files.md#manually_publishing_assets) en [ manueel unpublishing activa ](publishing-files.md#manually_unpublishing_assets).
 
 **om een Reeks van de Aanbieding te schrappen:**
 
@@ -152,4 +152,4 @@ Zie ook [&#x200B; manueel het publiceren activa &#x200B;](publishing-files.md#ma
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Creërend malplaatjeparameters &#x200B;](creating-template-parameters.md#creating_template_parameters)
+>* [ Creërend malplaatjeparameters ](creating-template-parameters.md#creating_template_parameters)

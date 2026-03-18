@@ -9,9 +9,9 @@ role: Admin
 exl-id: 14e3d8be-f265-4cec-aa8e-19ef71526b68
 topic: Administration
 level: Intermediate
-source-git-commit: c4613c78347c4bda3d84747a72146617158c03b6
+source-git-commit: 84dab57d00d0bd3fec8ed0d0a5ae28e81485fb01
 workflow-type: tm+mt
-source-wordcount: '1871'
+source-wordcount: '1884'
 ht-degree: 0%
 
 ---
@@ -52,7 +52,7 @@ Nadat u een gebruiker hebt toegevoegd, stuurt Adobe Dynamic Media Classic de geb
 
 1. Als u een rol aan de gebruiker wilt toewijzen, kiest u een optie Rol.
 
-   Zie [&#x200B; Adobe Dynamic Media Classic gebruikersrollen en voorrechten &#x200B;](administration-setup.md#user_administration).
+   Zie [ Adobe Dynamic Media Classic gebruikersrollen en voorrechten ](administration-setup.md#user_administration).
 
 1. Als u een gebruiker aan een bedrijf wilt toevoegen, selecteert u een bedrijfsnaam.
 1. Als u de gebruiker aan een groep wilt toevoegen (als u een gebruiker of medewerker van Media Portal toevoegt), selecteert u **[!UICONTROL Next]** en voegt u de gebruiker toe.
@@ -113,7 +113,8 @@ U kunt de volgende gebruikerslijst-filtrerende technieken gebruiken:
 
 Als u veel gebruikers hebt, kunt u de grootte van de lijst beperken door het menu Maximale lijstgrootte te selecteren en een aantal te kiezen.
 
-<!-- CQDOC-16690 TOPIC REMOVED AS PER JIRA TICKET INSTRUCTIONS ### Linking an IMS user identity to an Adobe Dynamic Media Classic IPS user account {#linking-an-ims-user-identity-to-a-scene-ips-user-account}
+<!-- 
+CQDOC-16690 TOPIC REMOVED AS PER JIRA TICKET INSTRUCTIONS ### Linking an IMS user identity to an Adobe Dynamic Media Classic IPS user account {#linking-an-ims-user-identity-to-a-scene-ips-user-account}
 
 You can link an Adobe IMS user identity to an Adobe Dynamic Media Classic IPS user account so you can use SSO (Single Sign On) to log on and launch Scene7 Publishing System from within Adobe Marketing Cloud.
 
@@ -139,7 +140,7 @@ You can link an Adobe IMS user identity to an Adobe Dynamic Media Classic IPS us
       https://s7spsN.scene7.com/IpsWeb?ims=1
 
       Replace "N" in the above path with the number for your IPS company region. That is, N = 1 for North America; 3 for EMEA; or 5 for JAPAC.
- -->
+-->
 
 ## Bandbreedte en opslag {#bandwidth-storage}
 
@@ -186,7 +187,7 @@ Een rapport over bandbreedte, opslag, afbeeldingsinhoud, domein, videostreaming 
 1. Breid de Opstelling van het Beleid uit, en selecteer dan **[!UICONTROL Bandwidth & Storage]**.
 1. Selecteer een tabblad: **[!UICONTROL Bandwidth]**, **[!UICONTROL Storage]**, **[!UICONTROL Image Content]**, **[!UICONTROL Domain]**, **[!UICONTROL Video Streaming]** of **[!UICONTROL Video Content]** .
 
-   Zie [&#x200B; Types van rapporten &#x200B;](administration-setup.md#types_of_reports).
+   Zie [ Types van rapporten ](administration-setup.md#types_of_reports).
 
 ### Gegevens op verschillende manieren weergeven {#viewing-data-in-different-ways}
 

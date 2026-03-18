@@ -10,9 +10,9 @@ role: Admin,User
 exl-id: a019f973-7647-466f-8af3-5312e9225e89
 topic: Administration, Collaboration
 level: Intermediate
-source-git-commit: 8dc990a1fb1355b00fa4839e14b92bb6562d40b4
+source-git-commit: 9102019811713b953e016fc7c47dc9f7a0dfbcd9
 workflow-type: tm+mt
-source-wordcount: '753'
+source-wordcount: '763'
 ht-degree: 0%
 
 ---
@@ -48,11 +48,14 @@ U kunt de cache van afbeeldingen en elementen niet alleen wissen met de bureaubl
 1. Ga in Adobe Dynamic Media Classic op de werkbalk naar **[!UICONTROL Setup]** > **[!UICONTROL Personal Setup]** onder Creative Suite Extension en selecteer **[!UICONTROL Download Now]** om het `s7csxs.zxp` -bestand te downloaden.
 1. Selecteer de koppelingen **[!UICONTROL Installation]** en **[!UICONTROL System Requirements]** voor meer informatie over de extensie.
 
-<!--    A readme file is included at the root of the unzipped file to provide you with additional information about the extension.
+<!--    
+A readme file is included at the root of the unzipped file to provide you with additional information about the extension.
 
-1. Depending on your installed operating system, do one of the following: -->
+1. Depending on your installed operating system, do one of the following: 
+-->
 
-<!-- #### Windows
+<!--
+#### Windows
 
 |If you are running|Do this|
 |--- |--- |
@@ -68,7 +71,8 @@ U kunt de cache van afbeeldingen en elementen niet alleen wissen met de bureaubl
 |Adobe Illustrator 17 in Adobe Creative Cloud|<ul><li>From the root of the unzipped folder, select CC > mac64</li><li>Copy the `AdobeS7FXGFileFormat.aip` folder to Adobe Illustrator's plug-in folder. For example, `/Applications/Adobe Illustrator CC/Plug-ins/Illustrator Formats/`.</li></ul><br/>|
 |Adobe Illustrator 16 in Adobe Creative Suite 6|<ul><li>From the root of the unzipped folder, select 6.0 > mac64</li><li>Copy the `AdobeS7FXGFileFormat.aip` folder to Adobe Illustrator's plug-in folder. For example, `/Applications/Adobe Illustrator CS6/Plug-ins/Illustrator Formats/`.</li></ul>|
 
-The plug-in is now available for you to use in Adobe Illustrator. -->
+The plug-in is now available for you to use in Adobe Illustrator.
+-->
 
 ## Browser
 
@@ -85,9 +89,9 @@ The plug-in is now available for you to use in Adobe Illustrator. -->
 
   Als de meeste zoekopdrachten in metagegevens van nut zijn wanneer u door de gebruiker gedefinieerde velden opneemt, kunt u deze optie selecteren en inschakelen. Als alternatief kunt u Geavanceerd zoeken gebruiken om u een gerichtere en snellere zoekervaring te bieden dan door door de gebruiker gedefinieerde velden op te nemen.
 
-  Zie [&#x200B; Uitvoerend een geavanceerd onderzoek &#x200B;](searching-assets.md#conducting_an_advanced_search).
+  Zie [ Uitvoerend een geavanceerd onderzoek ](searching-assets.md#conducting_an_advanced_search).
 
-  Zie ook [&#x200B; gebruiker-bepaalde Gebieden &#x200B;](application-setup.md#user_defined_fields).
+  Zie ook [ gebruiker-bepaalde Gebieden ](application-setup.md#user_defined_fields).
 
 * **[!UICONTROL Basic Search Type]**: U kunt uit twee opties selecteren: **[!UICONTROL Contains]** zoekt in de volledige tekenreeks naar de opgegeven waarde; **[!UICONTROL StartsWith]** zoekt vanaf het begin van de tekenreeks en retourneert sneller resultaten dan **[!UICONTROL Contains]** . Beide opties overschrijven de standaardwaarde die door de beheerder is ingesteld in **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Application General Settings]** .
 * **[!UICONTROL Show Command Feedback]**: selecteer deze optie om de weergave van opdrachtaanvragen op de server in te schakelen. Schakel deze optie uit.

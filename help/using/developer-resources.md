@@ -9,9 +9,9 @@ role: Developer
 exl-id: eaa6bf7b-ff38-4a15-b5b5-c60c3b75a35f
 topic: Development, Integrations
 level: Experienced
-source-git-commit: bc3b696bfde0ed55894cdcbf3533299ae7697e98
+source-git-commit: 384e1ec078540d0cc5224b98ead6eb880cd92c2a
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '228'
 ht-degree: 0%
 
 ---
@@ -20,28 +20,29 @@ ht-degree: 0%
 
 De gidsen van de verwijzing aan Kijkers, het Serven van het Beeld en het Teruggeven van het Beeld, en het Systeem van de Productie van het Beeld beschrijven de http protocollen voor deze servermodules. De ontwikkelaars van de website die verder willen aanpassen en rijke media van Adobe Dynamic Media Classic voor een Website of een douanetoepassing gebruiken kunnen deze gidsen gebruiken. Aangenomen wordt dat de gebruiker bekend is met de Dynamic Media Classic-bureaubladtoepassing, de algemene http-protocolstandaarden en -conventies en de basisterminologie voor beeldbewerking.
 
-Zie ook [&#x200B; Dynamische Middelen van de Ontwikkelaar van Media &#x200B;](https://experienceleague.adobe.com/nl/docs/dynamic-media-developer-resources).
+Zie ook [ Dynamische Middelen van de Ontwikkelaar van Media ](https://experienceleague.adobe.com/en/docs/dynamic-media-developer-resources).
 
 ## Viewers {#viewers-guide}
 
 | Document | Webadres |
 | --- | --- |
-| Referentiehandleiding voor viewers en Opmerkingen bij de release | [&#x200B; https://experienceleague.adobe.com/nl/docs/dynamic-media-developer-resources/library/homeviewers](https://experienceleague.adobe.com/nl/docs/dynamic-media-developer-resources/library/homeviewers) |
-| Voorbeelden van viewerbibliotheek | [&#x200B; https://landing.adobe.com/en/na/dynamic-media/ctir-2755/live-demos.html](https://landing.adobe.com/en/na/dynamic-media/ctir-2755/live-demos.html) |
+| Referentiehandleiding voor viewers en Opmerkingen bij de release | [ https://experienceleague.adobe.com/en/docs/dynamic-media-developer-resources/library/homeviewers](https://experienceleague.adobe.com/en/docs/dynamic-media-developer-resources/library/homeviewers) |
+| Voorbeelden van viewerbibliotheek | [ https://landing.adobe.com/en/na/dynamic-media/ctir-2755/live-demos.html](https://landing.adobe.com/en/na/dynamic-media/ctir-2755/live-demos.html) |
 
 ## API (Image Serving/Image Rendering) {#is-ir-api-guide}
 
 | Document | Webadres |
 | --- | --- |
-| API-naslaggids | [&#x200B; https://experienceleague.adobe.com/nl/docs/dynamic-media-developer-resources/image-serving-api/homeisir](https://experienceleague.adobe.com/nl/docs/dynamic-media-developer-resources/image-serving-api/homeisir) |
+| API-naslaggids | [ https://experienceleague.adobe.com/en/docs/dynamic-media-developer-resources/image-serving-api/homeisir](https://experienceleague.adobe.com/en/docs/dynamic-media-developer-resources/image-serving-api/homeisir) |
 
 ## API voor beeldproductiesysteem (IPS) {#ips-api-guide}
 
 | Document | Webadres |
 | --- | --- |
-| API-naslaggids | [&#x200B; https://experienceleague.adobe.com/nl/docs/dynamic-media-developer-resources/image-production-api/c-overview](https://experienceleague.adobe.com/nl/docs/dynamic-media-developer-resources/image-production-api/c-overview) |
+| API-naslaggids | [ https://experienceleague.adobe.com/en/docs/dynamic-media-developer-resources/image-production-api/c-overview](https://experienceleague.adobe.com/en/docs/dynamic-media-developer-resources/image-production-api/c-overview) |
 
-<!-- ## Image Authoring {#ia}
+<!-- 
+## Image Authoring {#ia}
 
 | Document| Web address |
 | --- | --- |
@@ -53,7 +54,7 @@ Zie ook [&#x200B; Dynamische Middelen van de Ontwikkelaar van Media &#x200B;](ht
 | Document | Web address |
 | --- | --- |
 | API Reference Guide | Contact Adobe Dynamic Media Classic technical support for documentation. |
- -->
+-->
 
 
 

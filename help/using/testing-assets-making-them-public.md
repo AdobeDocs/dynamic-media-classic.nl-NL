@@ -10,9 +10,9 @@ role: User
 exl-id: fd78d535-391e-43eb-a8aa-25fa6c2885cb
 topic: Content Management
 level: Intermediate
-source-git-commit: 29752cf9eca0fc9bb760c721e1c3dc8e4ef912c3
+source-git-commit: 384e1ec078540d0cc5224b98ead6eb880cd92c2a
 workflow-type: tm+mt
-source-wordcount: '1041'
+source-wordcount: '1050'
 ht-degree: 0%
 
 ---
@@ -37,7 +37,7 @@ Maak indien gewenst een testomgeving in plaats van elementen openbaar te maken, 
 
 De meeste bedrijven voeren hun Internet achter een firewall in werking. De toegang tot Internet is mogelijk door bepaalde routes en typisch door een beperkte waaier van openbare IP adressen.
 
-Van uw collectief netwerk, kunt u uw openbaar IP adres uitvinden gebruikend websites zoals [&#x200B; https://www.whatismyip.com &#x200B;](https://www.whatismyip.com/) of om deze informatie van uw collectieve organisatie van IT verzoeken.
+Van uw collectief netwerk, kunt u uw openbaar IP adres uitvinden gebruikend websites zoals [ https://www.whatismyip.com ](https://www.whatismyip.com/) of om deze informatie van uw collectieve organisatie van IT verzoeken.
 
 Met het Veilige Testen, vestigt Adobe Dynamic Media Classic een specifieke Server van het Beeld voor het opvoeren van milieu&#39;s of interne toepassingen. Om het even welk verzoek aan deze server controleert het oorsprongIP adres. Als het inkomende verzoek niet binnen de goedgekeurde lijst van IP adressen is, is een mislukkingsreactie teruggekeerd. De Beheerder van het Bedrijf van Adobe Dynamic Media Classic vormt de goedgekeurde lijst van IP adressen voor het Veilige Testen van hun bedrijf milieu.
 
@@ -86,9 +86,11 @@ De volgende elementtypen en -functies worden momenteel niet ondersteund:
 
 Test de Secure Testing service zodat u zeker weet dat deze naar behoren functioneert.
 
-<!-- >[!NOTE]
+<!-- 
+>[!NOTE]
 >
->*If you do not mention any IPs under **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Publish Setup]** > **[!UICONTROL Image Server]** > **[!UICONTROL Test Image Service]***: If you add an IP only, that IP is able to call the assets and no other IP are allowed to make the calls. As long there is no IP mentioned under that section, all IPs are allowed to make the calls for the assets, and they show up. -->
+>*If you do not mention any IPs under **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL Publish Setup]** > **[!UICONTROL Image Server]** > **[!UICONTROL Test Image Service]***: If you add an IP only, that IP is able to call the assets and no other IP are allowed to make the calls. As long there is no IP mentioned under that section, all IPs are allowed to make the calls for the assets, and they show up. 
+-->
 
 ### Uw account voorbereiden
 
@@ -104,7 +106,7 @@ Last Modified Date:
 
 1. Neem contact op met de klantenservice van Adobe en vraag of ze Secure Testing voor uw account inschakelen.
 1. Ga in Adobe Dynamic Media Classic op de algemene navigatiebalk naar **[!UICONTROL Setup]** > **[!UICONTROL Publish Setup]** > **[!UICONTROL Image Server]** .
-1. Selecteer **[!UICONTROL `Publish Context`]** in de vervolgkeuzelijst op de pagina Publiceren afbeeldingsserver.**[!UICONTROL Test Image Serving]**
+1. Selecteer **[!UICONTROL Test Image Serving]** in de vervolgkeuzelijst op de pagina Publiceren afbeeldingsserver.**[!UICONTROL `Publish Context`]**
 1. Selecteer **[!UICONTROL Add]** voor het filter Clientadres.
 1. Schakel het selectievakje in zodat het adres is ingeschakeld en typ vervolgens een IP-adres en een netmasker in de desbetreffende tekstvelden.
 
@@ -118,11 +120,11 @@ Last Modified Date:
 1. Linksonder op de pagina Publiceren afbeeldingsserver selecteert u **[!UICONTROL Save]**
 1. Upload de gewenste afbeeldingen naar uw Adobe Dynamic Media Classic-account.
 
-   Zie [&#x200B; dossiers &#x200B;](uploading-files.md#uploading_files) uploaden.
+   Zie [ dossiers ](uploading-files.md#uploading_files) uploaden.
 
 1. Zorg ervoor dat sommige afbeeldingen zijn gemarkeerd voor publicatie en andere niet zijn gemarkeerd en verzend vervolgens de publicatietaak.
 
-   Zie [&#x200B; publiceren dossiers &#x200B;](publishing-files.md#publishing_files).
+   Zie [ publiceren dossiers ](publishing-files.md#publishing_files).
 
 1. Bepaal de naam van uw service Beveiligd testen via **[!UICONTROL Setup]** > **[!UICONTROL Application Setup]** > **[!UICONTROL General Settings]** .
 1. Zoek op de pagina Algemene instellingen van toepassing de naam rechts van **[!UICONTROL Test Publish Context Server Name]** onder de groep Servers.

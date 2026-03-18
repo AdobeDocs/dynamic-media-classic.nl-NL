@@ -10,9 +10,9 @@ role: User
 exl-id: a105c18a-7e06-43cb-938c-a3bcdc3e9d22
 topic: Content Management
 level: Experienced
-source-git-commit: bc3b696bfde0ed55894cdcbf3533299ae7697e98
+source-git-commit: 9102019811713b953e016fc7c47dc9f7a0dfbcd9
 workflow-type: tm+mt
-source-wordcount: '236'
+source-wordcount: '237'
 ht-degree: 0%
 
 ---
@@ -27,14 +27,17 @@ Upload de bestanden die u voor uw sjabloon nodig hebt naar Adobe Dynamic Media C
 
 Sjablonen kunnen worden gemaakt van Adobe Photoshop PSD-bestanden of afbeeldingsbestanden.
 
-Voor gedetailleerde instructies bij het uploaden van dossiers, zie [&#x200B; dossiers &#x200B;](uploading-files.md#uploading_files) uploaden. Houd rekening met het volgende wanneer u sjabloonbestanden uploadt:
+Voor gedetailleerde instructies bij het uploaden van dossiers, zie [ dossiers ](uploading-files.md#uploading_files) uploaden. Houd rekening met het volgende wanneer u sjabloonbestanden uploadt:
 
 * Als u een PSD-bestand uploadt, kunt u er een sjabloon van maken. Adobe Dynamic Media Classic maakt een aparte afbeelding voor elke laag in de PSD. Selecteer **[!UICONTROL Photoshop Options]** in het dialoogvenster Taakopties uploaden en selecteer **[!UICONTROL Maintain Layers]** en **[!UICONTROL Create Template]** . Kies vervolgens een optie in de vervolgkeuzelijst **[!UICONTROL Layer Naming]** voor de naamgeving van de afbeeldingen die Adobe Dynamic Media Classic maakt op basis van lagen in de PSD.
-Zie [&#x200B; PSD uploadt opties &#x200B;](psd-files.md#psd_upload_options).
-<!-- THERE IS NO LONGER AN IMAGE EDITING OPTIONS MENU * If you are uploading images, you can create a mask from its clipping path. This option applies to images created with image-editing applications in which a clipping path was created. In the Upload Job Options dialog box, select Image Editing Options and select the Create Mask From Clipping Path option. 
-See [Image editing options at upload](image-editing-options-upload.md#image-editing-options-at-upload). -->
+Zie [ PSD uploadt opties ](psd-files.md#psd_upload_options).
+
+<!--
+THERE IS NO LONGER AN IMAGE EDITING OPTIONS MENU * If you are uploading images, you can create a mask from its clipping path. This option applies to images created with image-editing applications in which a clipping path was created. In the Upload Job Options dialog box, select Image Editing Options and select the Create Mask From Clipping Path option. 
+See [Image editing options at upload](image-editing-options-upload.md#image-editing-options-at-upload). 
+-->
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; upload uw dossiers &#x200B;](uploading-files.md#uploading_your_files)
->* [&#x200B; Werk met de dossiers van PSD &#x200B;](psd-files.md#working_with_psd_files)
+>* [ upload uw dossiers ](uploading-files.md#uploading_your_files)
+>* [ Werk met de dossiers van PSD ](psd-files.md#working_with_psd_files)
