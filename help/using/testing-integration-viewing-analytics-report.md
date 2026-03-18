@@ -37,4 +37,4 @@ Nadat u de benodigde variabelen in Adobe Analytics hebt gemaakt, deze aan Adobe 
 >
 >Alle Adobe Dynamic Media Classic-viewergegevens worden weergegeven en gerapporteerd in Custom Traffic-rapporten of Custom Conversion-rapporten van Adobe Analytics.
 
-Voor meer informatie, zie [&#x200B; Zelfstudies van Analytics &#x200B;](https://experienceleague.adobe.com/en/docs/analytics-learn/tutorials/overview).
+Voor meer informatie, zie [&#x200B; Zelfstudies van Analytics &#x200B;](https://experienceleague.adobe.com/nl/docs/analytics-learn/tutorials/overview).
