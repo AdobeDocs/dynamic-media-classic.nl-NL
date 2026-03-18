@@ -52,7 +52,7 @@ Nadat u een gebruiker hebt toegevoegd, stuurt Adobe Dynamic Media Classic de geb
 
 1. Als u een rol aan de gebruiker wilt toewijzen, kiest u een optie Rol.
 
-   Zie [ Adobe Dynamic Media Classic gebruikersrollen en voorrechten ](administration-setup.md#user_administration).
+   Zie [&#x200B; Adobe Dynamic Media Classic gebruikersrollen en voorrechten &#x200B;](administration-setup.md#user_administration).
 
 1. Als u een gebruiker aan een bedrijf wilt toevoegen, selecteert u een bedrijfsnaam.
 1. Als u de gebruiker aan een groep wilt toevoegen (als u een gebruiker of medewerker van Media Portal toevoegt), selecteert u **[!UICONTROL Next]** en voegt u de gebruiker toe.
@@ -187,7 +187,7 @@ Een rapport over bandbreedte, opslag, afbeeldingsinhoud, domein, videostreaming 
 1. Breid de Opstelling van het Beleid uit, en selecteer dan **[!UICONTROL Bandwidth & Storage]**.
 1. Selecteer een tabblad: **[!UICONTROL Bandwidth]**, **[!UICONTROL Storage]**, **[!UICONTROL Image Content]**, **[!UICONTROL Domain]**, **[!UICONTROL Video Streaming]** of **[!UICONTROL Video Content]** .
 
-   Zie [ Types van rapporten ](administration-setup.md#types_of_reports).
+   Zie [&#x200B; Types van rapporten &#x200B;](administration-setup.md#types_of_reports).
 
 ### Gegevens op verschillende manieren weergeven {#viewing-data-in-different-ways}
 

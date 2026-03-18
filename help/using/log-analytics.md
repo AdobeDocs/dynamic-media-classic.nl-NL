@@ -31,10 +31,10 @@ Wanneer u zich aanmeldt, kunt u de Experience Cloud Org-id invoeren om de meest 
 
 Begin met het integreren van Dynamic Media Classic met Adobe Analytics OAuth. De Adobe Analytics OAuth-integratie met Dynamic Media Classic wordt doorgaans slechts eenmaal per gebruiker uitgevoerd.
 
-1. Toegang [ Adobe Developer Console ](https://developer.adobe.com/console). Zorg ervoor dat uw account beheerdersmachtigingen heeft voor de organisatie waarvoor de integratie is vereist.
+1. Toegang [&#x200B; Adobe Developer Console &#x200B;](https://developer.adobe.com/console). Zorg ervoor dat uw account beheerdersmachtigingen heeft voor de organisatie waarvoor de integratie is vereist.
 1. Selecteer in de rechterbovenhoek van de startpagina het juiste bedrijf in de vervolgkeuzelijst. (Het onderstaande screenshot is alleen ter informatie. De werkelijke bedrijfsnaam die u selecteert, kan variëren.)
 
-   ![ creeer een nieuw project ](assets/analytics-oauth1.png)
+   ![&#x200B; creeer een nieuw project &#x200B;](assets/analytics-oauth1.png)
 
 1. Voer een van de volgende handelingen uit:
 
@@ -45,7 +45,7 @@ Begin met het integreren van Dynamic Media Classic met Adobe Analytics OAuth. De
 1. Selecteer op de pagina **[!UICONTROL Add an API]** de optie **[!UICONTROL Adobe Analytics]** .
 1. Selecteer **[!UICONTROL Next]** in de rechterbenedenhoek van de pagina.
 
-   ![ voeg API ](assets/analytics-oauth2.png) toe
+   ![&#x200B; voeg API &#x200B;](assets/analytics-oauth2.png) toe
 
 1. Selecteer op de pagina **[!UICONTROL `Configure API`]** de optie **[!UICONTROL USER AUTHENTICATION OAuth]** .
 1. Selecteer **[!UICONTROL Next]** in de rechterbenedenhoek van de pagina.
@@ -103,4 +103,4 @@ Begin met het integreren van Dynamic Media Classic met Adobe Analytics OAuth. De
 
 >[!MORELIKETHIS]
 >
->* [ vorm de rapporten van Adobe Analytics ](configuring-analytics-reports.md#configuring_adobe_analytics_reports)
+>* [&#x200B; vorm de rapporten van Adobe Analytics &#x200B;](configuring-analytics-reports.md#configuring_adobe_analytics_reports)

@@ -25,9 +25,9 @@ Publiceer uw Adobe Dynamic Media Classic-viewers zodat informatie over het confi
 >
 >Wanneer u de Adobe Analytics-rapportinstellingen in Adobe Analytics wijzigt, moet u zich vanuit Adobe Dynamic Media Classic opnieuw aanmelden bij Adobe Analytics, de Adobe Analytics-configuratie-instellingen opnieuw opslaan en vervolgens opnieuw publiceren.
 
-Zie [ Login aan Adobe Analytics ](log-analytics.md#log_in_to_adobe_analytics).
+Zie [&#x200B; Login aan Adobe Analytics &#x200B;](log-analytics.md#log_in_to_adobe_analytics).
 
-Zie [ de rapporten van Adobe Analytics ](configuring-analytics-reports.md#configuring_adobe_analytics_reports) vormen.
+Zie [&#x200B; de rapporten van Adobe Analytics &#x200B;](configuring-analytics-reports.md#configuring_adobe_analytics_reports) vormen.
 
 **om configuratieinformatie te publiceren:**
 

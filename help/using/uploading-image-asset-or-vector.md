@@ -30,7 +30,7 @@ Voordat u een afbeeldingselement kunt uploaden, vraagt u eerst om een sleutel vo
 
 ## Een gedeelde geheime sleutel aanvragen {#requesting-a-shared-secret-key}
 
-Verzoek a *gedeelde-geheime sleutel* door [ te gebruiken Admin Console om een steungeval tot stand te brengen.](https://helpx.adobe.com/enterprise/using/support-for-experience-cloud.html) In het geval van de technische steun, verzoek om een gedeelde geheime sleutel.
+Verzoek a *gedeelde-geheime sleutel* door [&#x200B; te gebruiken Admin Console om een steungeval tot stand te brengen.](https://helpx.adobe.com/enterprise/using/support-for-experience-cloud.html) In het geval van de technische steun, verzoek om een gedeelde geheime sleutel.
 
 Geef in het e-mailbericht de bedrijfsnaam op die u wilt gebruiken om afbeeldingselementen te uploaden. Nadat u de sleutel van Adobe Dynamic Media Classic ontvangt, bewaar het plaatselijk voor toekomstig gebruik.
 
@@ -100,7 +100,7 @@ U kunt de volgende velden in de URL-queryreeks gebruiken om een token voor uploa
 
 U kunt nu een afbeeldingselement uploaden.
 
-Zie [ een beeldactiva ](uploading-image-asset-or-vector.md#uploading_an_image_asset) uploaden.
+Zie [&#x200B; een beeldactiva &#x200B;](uploading-image-asset-or-vector.md#uploading_an_image_asset) uploaden.
 
 ## Een rasterafbeeldingselement uploaden {#uploading-an-image-asset}
 
@@ -112,9 +112,9 @@ https://s7ugc1.scene7.com/ugc/image?op=upload&upload_token=aa2a378a-cd25-4c80-99
 
 De velden `upload_token` en `company_name` zijn vereist.
 
-Zie [ het uploadteken ](uploading-image-asset-or-vector.md#retrieving_the_upload_token) terugwinnen.
+Zie [&#x200B; het uploadteken &#x200B;](uploading-image-asset-or-vector.md#retrieving_the_upload_token) terugwinnen.
 
-Zie [ een gedeelde-geheime sleutel ](uploading-image-asset-or-vector.md#requesting_a_shared_secret_key) terugwinnen.
+Zie [&#x200B; een gedeelde-geheime sleutel &#x200B;](uploading-image-asset-or-vector.md#requesting_a_shared_secret_key) terugwinnen.
 
 U kunt ook andere optionele waarden verzenden als URL-querytekenreeksen, zoals in dit voorbeeld:
 
@@ -139,10 +139,10 @@ Met het volgende HTML-formulier kan een gebruiker een element uploaden. In het f
 * Een lijst met bestandsextensies.
 * Of het kleurprofiel en de bestandsnaam die aan het element zijn gekoppeld, behouden moeten blijven.
 * Of een uitneemachtergrond wordt gebruikt. Als u Achtergrond uitnemen inschakelt, stelt u de Hoek, Tolerantie en Vulmethode in.
-Zie Achtergrond van het Uitnemen in [ Beeld fijnafstemmen opties bij upload ](image-editing-options-upload.md#image-editing-options-at-upload).
+Zie Achtergrond van het Uitnemen in [&#x200B; Beeld fijnafstemmen opties bij upload &#x200B;](image-editing-options-upload.md#image-editing-options-at-upload).
 * The name of the file to upload.
 
-U kunt de broncode van HTML bekijken verbonden aan de vorm hierboven door [ https://s7ugc1.scene7.com/ugc/upload.html ](https://s7ugc1.scene7.com/ugc/upload.html) te selecteren
+U kunt de broncode van HTML bekijken verbonden aan de vorm hierboven door [&#x200B; https://s7ugc1.scene7.com/ugc/upload.html &#x200B;](https://s7ugc1.scene7.com/ugc/upload.html) te selecteren
 
 Klik in Firefox met de rechtermuisknop in het browservenster en selecteer vervolgens **[!UICONTROL View Page Source]** . De code toont de corresponderende URL-queryreeks en de POST-methode die worden uitgevoerd wanneer de gebruiker **[!UICONTROL Submit]** selecteert.
 

@@ -23,7 +23,7 @@ Als u bestandsmiddelen wilt zoeken in Adobe Dynamic Media Classic, kunt u elemen
 
 >[!NOTE]
 >
->De persoonlijke pagina van de Opstelling biedt opties om te kiezen hoe u onderzoeken wilt leiden. U kunt bijvoorbeeld een standaardzoektype kiezen en aangeven of u door de gebruiker gedefinieerde velden wilt opnemen in zoekopdrachten. Voor meer informatie, zie [ Persoonlijke Opstelling ](personal-setup.md#personal_setup).
+>De persoonlijke pagina van de Opstelling biedt opties om te kiezen hoe u onderzoeken wilt leiden. U kunt bijvoorbeeld een standaardzoektype kiezen en aangeven of u door de gebruiker gedefinieerde velden wilt opnemen in zoekopdrachten. Voor meer informatie, zie [&#x200B; Persoonlijke Opstelling &#x200B;](personal-setup.md#personal_setup).
 
 ## Elementen weergeven op type {#viewing-assets-by-type}
 
@@ -97,7 +97,7 @@ U kunt filterbewerkingen opslaan zodat ze meerdere malen worden uitgevoerd.
 >
 >Alleen metagegevensvelden in de standaardweergave Metagegevens kunnen worden gebruikt voor filterbewerkingen. Op de pagina Weergaven metagegevens wordt de naam van de standaardweergave Metagegevens weergegeven.
 
-Zie {de meningen van 0} Meta-gegevens ](application-setup.md#metadata_views).[
+Zie {de meningen van 0} Meta-gegevens [&#128279;](application-setup.md#metadata_views).
 
 ### Een filterbewerking uitvoeren {#running-a-filter-operation}
 
@@ -109,7 +109,7 @@ Voer de volgende stappen uit, zodat u elementen kunt zoeken door te filteren met
 
    Als u een filterbewerking wilt uitvoeren die u hebt gemaakt en opgeslagen, selecteert u **[!UICONTROL Select Preset]** en kiest u vervolgens de naam van de bewerking in het menu.
 
-   Zie [ sparen, herhalen, en schrapt filterverrichtingen ](searching-assets.md#saving_repeating_and_deleting_filter_operations).
+   Zie [&#x200B; sparen, herhalen, en schrapt filterverrichtingen &#x200B;](searching-assets.md#saving_repeating_and_deleting_filter_operations).
 
 1. Klik op **[!UICONTROL Field]** in een deelvenster en volg deze instructies zodat u het filtermenu kunt weergeven en de filterbewerking kunt samenstellen:
 
@@ -119,7 +119,7 @@ Voer de volgende stappen uit, zodat u elementen kunt zoeken door te filteren met
      >
      >Alleen de namen van metagegevensvelden in de standaardweergave Metagegevens worden weergegeven in het filtermenu.
 
-     Zie {de meningen van 0} Meta-gegevens ](application-setup.md#metadata_views).[
+     Zie {de meningen van 0} Meta-gegevens [&#128279;](application-setup.md#metadata_views).
 
    * **voeg een meta-gegevensgebied** toe: Selecteer **[!UICONTROL Add a Panel]**. Nadat het deelvenster wordt weergegeven in het deelvenster Filters, selecteert u de knop **[!UICONTROL Field]** en kiest u de naam van een metagegevensveld in het filtermenu.
 
@@ -171,5 +171,5 @@ Selecteer **[!UICONTROL Publish Now]** om de taak te starten. Er wordt een beves
 
 >[!MORELIKETHIS]
 >
->* [ de grondbeginselen van de Navigatie ](navigation-basics.md#navigation_basics)
->* [ Mening, voeg, en de uitvoermeta-gegevens toe ](viewing-adding-exporting-metadata.md#viewing_adding_and_exporting_metadata)
+>* [&#x200B; de grondbeginselen van de Navigatie &#x200B;](navigation-basics.md#navigation_basics)
+>* [&#x200B; Mening, voeg, en de uitvoermeta-gegevens toe &#x200B;](viewing-adding-exporting-metadata.md#viewing_adding_and_exporting_metadata)
