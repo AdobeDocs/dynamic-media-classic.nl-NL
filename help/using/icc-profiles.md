@@ -23,7 +23,7 @@ Een ICC-profiel (International Color Consortium) is een bestand waarin wordt bes
 
 In Adobe Dynamic Media Classic kunt u een ICC-profiel kiezen om afbeeldingen om te zetten in een andere kleurruimte wanneer u de afbeeldingen uploadt. Alle standaard Photoshop ICC-profielen zijn standaard beschikbaar in Adobe Dynamic Media Classic. Selecteer het menu Kleurprofiel om de namen van kleurprofielen weer te geven in het scherm Uploaden. Kies vervolgens Aangepast van > Naar en kies een ICC-profielnaam in de menu&#39;s Omgezet van en Omgezet naar.
 
-Zie [ Beeld uitgeeft opties bij upload ](image-editing-options-upload.md#image-editing-options-at-upload).
+Zie [&#x200B; Beeld uitgeeft opties bij upload &#x200B;](image-editing-options-upload.md#image-editing-options-at-upload).
 
 Naast het gebruik van de standaard-ICC-profielen kunt u andere ICC-profielen uploaden naar Adobe Dynamic Media Classic en deze beschikbaar maken voor kleurruimteconversie. Schakel over naar de detailweergave in het deelvenster Bladeren om de klasse Profile, het type kleurruimte en het PCS-type van een ICC-profiel te onderzoeken.
 
@@ -40,7 +40,7 @@ Samengevat zijn de belangrijkste punten voor ICC-profielen:
 
 U kunt ICC-profielen uploaden met dezelfde technieken als waarmee u bestanden uploadt. U kunt ICC-profielen opslaan in elke Adobe Dynamic Media Classic-map.
 
-Zie [ uploaden uw dossiers ](uploading-files.md#uploading_your_files).
+Zie [&#x200B; uploaden uw dossiers &#x200B;](uploading-files.md#uploading_your_files).
 
 ## Een ICC-profiel controleren {#examining-an-icc-profile}
 
