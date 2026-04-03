@@ -10,9 +10,9 @@ role: User
 exl-id: 989f2761-f5d0-4ece-b2a6-f7b4577aa8a2
 topic: Administration, Content Management
 level: Intermediate
-source-git-commit: c4613c78347c4bda3d84747a72146617158c03b6
+source-git-commit: 2893110e9629ef72a0e919b47abc94c916e132e9
 workflow-type: tm+mt
-source-wordcount: '445'
+source-wordcount: '521'
 ht-degree: 0%
 
 ---
@@ -23,24 +23,33 @@ Een ICC-profiel (International Color Consortium) is een bestand waarin wordt bes
 
 In Adobe Dynamic Media Classic kunt u een ICC-profiel kiezen om afbeeldingen om te zetten in een andere kleurruimte wanneer u de afbeeldingen uploadt. Alle standaard Photoshop ICC-profielen zijn standaard beschikbaar in Adobe Dynamic Media Classic. Selecteer het menu Kleurprofiel om de namen van kleurprofielen weer te geven in het scherm Uploaden. Kies vervolgens Aangepast van > Naar en kies een ICC-profielnaam in de menu&#39;s Omgezet van en Omgezet naar.
 
-Zie [&#x200B; Beeld uitgeeft opties bij upload &#x200B;](image-editing-options-upload.md#image-editing-options-at-upload).
+Zie [ Beeld uitgeeft opties bij upload ](image-editing-options-upload.md#image-editing-options-at-upload).
 
-Naast het gebruik van de standaard-ICC-profielen kunt u andere ICC-profielen uploaden naar Adobe Dynamic Media Classic en deze beschikbaar maken voor kleurruimteconversie. Schakel over naar de gedetailleerde weergave in het deelvenster Bladeren om de profielklasse, het type kleurruimte en het PCS-type van een ICC-profiel te onderzoeken.
+Naast het gebruik van de standaard-ICC-profielen kunt u andere ICC-profielen uploaden naar Adobe Dynamic Media Classic en deze beschikbaar maken voor kleurruimteconversie. Schakel over naar de detailweergave in het deelvenster Bladeren om de klasse Profile, het type kleurruimte en het PCS-type van een ICC-profiel te onderzoeken.
+
+Samengevat zijn de belangrijkste punten voor ICC-profielen:
+
+* ICC-profielen maken correcte kleurconversie tussen verschillende kleurruimten voor afbeeldingsbestanden mogelijk.
+* Adobe Dynamic Media Classic bevat alle standaard Photoshop ICC-profielen voor robuuste afbeeldingsconversies.
+* Aangepaste ICC-profielen bieden flexibiliteit voor geavanceerde kleurruimteconversies.
+* Als u details zoals Profielklasse en PCS-type weergeeft in de gedetailleerde weergave, kunt u ICC-instellingen beheren.
+* Het uploaden van ICC-profielen is eenvoudig en zorgt voor toegang in alle mappen in Dynamic Media Classic.
+
 
 ## ICC-profielen uploaden {#uploading-icc-profiles}
 
 U kunt ICC-profielen uploaden met dezelfde technieken als waarmee u bestanden uploadt. U kunt ICC-profielen opslaan in elke Adobe Dynamic Media Classic-map.
 
-Zie [&#x200B; uploaden uw dossiers &#x200B;](uploading-files.md#uploading_your_files).
+Zie [ uploaden uw dossiers ](uploading-files.md#uploading_your_files).
 
 ## Een ICC-profiel controleren {#examining-an-icc-profile}
 
 Als u een ICC-profiel wilt bekijken, selecteert u het in het deelvenster Bladeren en geeft u het weer in de gedetailleerde weergave. In de gedetailleerde weergave wordt deze informatie over ICC-profielen weergegeven:
 
-* **[!UICONTROL Profile Class]**: het ICC (International Color Consortium) definieert elke klasse voor een type toepassing. Invoerprofielen zijn bijvoorbeeld van toepassing op apparaten, zoals digitale camera&#39;s en scanners, en uitvoerprofielen op printers.
+* **[!UICONTROL Profile Class]**: De ICC definieert elke klasse die een type toepassing beslaat. Invoerprofielen zijn bijvoorbeeld van toepassing op apparaten, zoals digitale camera&#39;s en scanners. Uitvoerprofielen zijn van toepassing op printers.
 
 * **[!UICONTROL Color Space Type]**: Dit getal is de &#39;invoer&#39;-kleurruimte van het profiel, zoals gedefinieerd door de ICC. Het type kleurruimte definieert het aantal componenten van de kleurruimte en de interpretatie van deze componenten. RGB is bijvoorbeeld een kleurruimte met drie componenten: rood, groen en blauw. Het type kleurruimte definieert de specifieke kleurkenmerken van de ruimte niet (bijvoorbeeld de kleurafbeeldingen van de primaire kleuren).
 
 * **[!UICONTROL PCS Type]**: Dit PCS-type is de &#39;uitvoer&#39;-kleurruimte van het profiel, de profielverbindingsruimte. Een kleurprofiel kan bijvoorbeeld RGB converteren naar het PCS, dat het vervolgens omzet in CMYK.
 
-Voor invoer-, weergave- of uitvoerprofielen die nuttig zijn voor het labelen van kleuren of afbeeldingen, is het PCS-type XYZ of Lab. Interpreteer dit profiel als de overeenkomstige specifieke kleurruimte die is gedefinieerd in de ICC-specificatie.
+Voor een invoer-, weergave- of uitvoerprofiel dat nuttig is voor het labelen van kleuren of afbeeldingen, is het PCS-type XYZ of Lab. Interpreteer dit profiel als de overeenkomstige specifieke kleurruimte die is gedefinieerd in de ICC-specificatie.
