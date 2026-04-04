@@ -25,7 +25,7 @@ Metagegevens worden weergegeven in de gedetailleerde weergave. Deze wordt samen 
 
 Sommige metagegevens worden rechtstreeks in een bestand ingesloten. Als een bestand deze metagegevens bevat, wordt deze automatisch door Adobe Dynamic Media Classic met het bestand geüpload. U kunt metagegevens insluiten in bronelementen in Adobe Photoshop, InDesign, Illustrator en andere toepassingen. Deze metagegevens worden door Adobe Dynamic Media Classic herkend. U kunt ook metagegevens toevoegen aan afzonderlijke bestanden in het deelvenster Metagegevens in de gedetailleerde weergave. Om consistentie tussen activa te verzekeren, leiden de bedrijfbeheerders Meta-gegevensmalplaatjes die de meta-gegevensgebieden verstrekken die kunnen worden ingevuld.
 
-Voor meer informatie over ingebedde meta-gegevens, zie [&#x200B; Verlengbaar Platform van Meta-gegevens &#x200B;](https://www.adobe.com/products/xmp.html).
+Voor meer informatie over ingebedde meta-gegevens, zie [&#x200B; Verlengbaar Platform van Meta-gegevens &#x200B;](https://www.adobe.com/nl/products/xmp.html).
 
 ## Metagegevens weergeven {#view-metadata}
 
